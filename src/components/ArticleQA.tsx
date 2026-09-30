@@ -2,13 +2,11 @@ import { useEffect, useRef, useState } from "react";
 import { ChevronDown, Loader2, MessageCircleQuestion, Send } from "lucide-react";
 
 type QA = { q: string; a: string; error?: boolean };
-const DEFAULT_CHIPS = ["Rövid összefoglaló", "Kiket érint ez?", "Melyek a főbb dátumok?"];
-const SPORT_CHIPS = ["Mi lett a végeredmény?", "Kik a gólszerzők / kiemelkedő játékosok?", "Mikor lesz a következő mérkőzés?"];
+const CHIPS = ["Rövid összefoglaló"];
 const MAX_Q = 3;
 const LIMIT_MSG = "Ehhez a cikkhez legfeljebb 3 kérdést tehetsz fel munkamenetenként.";
 
-export function ArticleQA({ id, category }: { id: string; category?: string }) {
-  const CHIPS = category === "Sport" ? SPORT_CHIPS : DEFAULT_CHIPS;
+export function ArticleQA({ id }: { id: string }) {
   const storeKey = `stirix-qa:${id}`;
   const [items, setItems] = useState<QA[]>([]);
   const [past, setPast] = useState<{ q: string; a: string }[]>([]);
