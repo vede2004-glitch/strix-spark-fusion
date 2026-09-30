@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { news, synthesized, singles, timeAgo, type NewsItem } from "@/lib/news";
+import { news, synthesized, singles, timeAgo, isHungarianSource, type NewsItem } from "@/lib/news";
 import { Menu, Search, X } from "lucide-react";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
@@ -33,7 +33,10 @@ function Index() {
   const [mobileSearch, setMobileSearch] = useState(false);
   const match = (n: NewsItem) => (category === "Összes hír" || n.category === category) && `${n.title} ${n.lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"));
   const aiList = useMemo(() => synthesized.filter(match), [category, query]);
-  const liveList = useMemo(() => singles.filter(match).slice(0, 25), [category, query]);
+  const liveList = useMemo(
+    () => singles.filter((n) => (language === "HU" ? isHungarianSource(n) : language === "RO" ? !isHungarianSource(n) : true)).filter(match).slice(0, 25),
+    [category, query, language],
+  );
   const [lead, side1, side2, ...rest] = aiList;
 
   return (

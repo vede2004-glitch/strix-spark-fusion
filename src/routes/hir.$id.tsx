@@ -45,7 +45,7 @@ function Article() {
           <span className="text-muted-foreground">{timeAgo(item.published_at)}</span>
         </div>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl">{item.title}</h1>
-        <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75">{item.lead}</p>
+        {item.is_synthesized && <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75">{item.lead}</p>}
         {item.image && <img src={item.image} alt="" className="mt-6 aspect-video w-full rounded-lg border border-border object-cover" />}
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {item.content.split(/\n\n+/).map((p, i) => <p key={i}>{p}</p>)}

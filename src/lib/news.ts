@@ -16,6 +16,11 @@ export type NewsItem = {
 export const news = (raw as NewsItem[]).map((n) => ({ ...n, lead: n.lead.replace(/\.{3,}$/, "…") }));
 // A) csoportosított, AI által összefűzött hírek (2+ forrás)
 export const synthesized = news.filter((n) => n.is_synthesized);
+// Magyar nyelvű források – a HU nézet élő sávjába csak ezek kerülhetnek
+export const HUNGARIAN_SOURCES = ["Maszol", "Transtelex", "Hargita Népe", "Szatmári Friss", "Manna", "MTI", "Kolozsvári Rádió", "Szatmári Sport"];
+export const isHungarianSource = (n: NewsItem) =>
+  n.sources.some((s) => HUNGARIAN_SOURCES.some((h) => s.source.toLocaleLowerCase("hu").includes(h.toLocaleLowerCase("hu"))));
+
 // B) egyedi, egyforrású hírek → élő idősáv
 export const singles = news
   .filter((n) => !n.is_synthesized)
