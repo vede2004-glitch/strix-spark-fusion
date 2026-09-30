@@ -1,5 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { news, synthesized, singles, timeAgo, isHungarianSource, type NewsItem } from "@/lib/news";
+import { synthesized, singles, timeAgo, isHungarianSource, tr, CATEGORIES, ALL, type NewsItem } from "@/lib/news";
+import { useLang, setLang, LANGS } from "@/lib/lang";
 import { Menu, Search, X } from "lucide-react";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
@@ -22,20 +23,22 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const categories = ["Összes hír", ...Array.from(new Set(news.map((n) => n.category)))];
+const categories = [ALL, ...CATEGORIES];
 const fallbackImages = [borderCrossing, hospital, harghita];
 const img = (n: NewsItem, i: number) => n.image || fallbackImages[i % 3];
 
 function Index() {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("Összes hír");
-  const [language, setLanguage] = useState("HU");
+  const lang = useLang();
+  const language = lang.toUpperCase();
+  const t = (n: NewsItem) => tr(n, lang);
   const [mobileSearch, setMobileSearch] = useState(false);
-  const match = (n: NewsItem) => (category === "Összes hír" || n.category === category) && `${n.title} ${n.lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"));
-  const aiList = useMemo(() => synthesized.filter(match), [category, query]);
+  const match = (n: NewsItem) => (category === "Összes hír" || n.category === category) && `${t(n).title} ${t(n).lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"));
+  const aiList = useMemo(() => synthesized.filter(match), [category, query, lang]);
   const liveList = useMemo(
     () => singles.filter((n) => (language === "HU" ? isHungarianSource(n) : language === "RO" ? !isHungarianSource(n) : true)).filter(match).slice(0, 25),
-    [category, query, language],
+    [category, query, lang],
   );
   const [lead, side1, side2, ...rest] = aiList;
 
@@ -56,7 +59,7 @@ function Index() {
           </div>
           <div className="flex shrink-0 items-center gap-2 sm:gap-4">
             <div className="flex items-center">
-              {["HU", "RO", "EN"].map((item) => <Button key={item} variant="ghost" size="sm" onClick={() => setLanguage(item)} className={language === item ? "text-primary" : ""}>{item}</Button>)}
+              {LANGS.map((item) => <Button key={item} variant="ghost" size="sm" onClick={() => setLang(item)} className={lang === item ? "text-primary" : ""}>{item.toUpperCase()}</Button>)}
             </div>
             <Button variant="outline" size="icon" aria-label={mobileSearch ? "Kereső bezárása" : "Keresés"} onClick={() => setMobileSearch((value) => !value)} className="md:hidden">{mobileSearch ? <X className="size-4" /> : <Search className="size-4" />}</Button>
             <Button variant="outline" size="icon" aria-label="Menü"><Menu className="size-4" /></Button>
@@ -75,12 +78,12 @@ function Index() {
             <div className="absolute inset-0 bg-[linear-gradient(to_top,var(--background)_0%,var(--overlay)_42%,transparent_100%)]" />
             <div className="absolute inset-x-0 bottom-0 p-5 sm:p-8">
               <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ AI Összesített Hír</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{lead.category} · {timeAgo(lead.published_at)}</span></div>
-              <h1 className="max-w-3xl font-display text-3xl font-extrabold leading-[1.1] sm:text-5xl">{lead.title}</h1>
-              <p className="mt-4 hidden max-w-2xl text-base font-medium text-foreground/65 line-clamp-3 sm:block">{lead.lead}</p>
+              <h1 className="max-w-3xl font-display text-3xl font-extrabold leading-[1.1] sm:text-5xl">{t(lead).title}</h1>
+              <p className="mt-4 hidden max-w-2xl text-base font-medium text-foreground/65 line-clamp-3 sm:block">{t(lead).lead}</p>
               <p className="mt-5 text-xs font-medium uppercase text-muted-foreground">{lead.sources.length} forrás alapján</p>
             </div>
           </Link>
-          {[side1, side2].filter((n): n is NewsItem => !!n).map((n) => <Link key={n.group_id} to="/hir/$id" params={{ id: n.group_id }} className="group col-span-12 flex min-h-44 flex-col justify-between rounded-lg border border-border bg-card p-6 transition-colors hover:border-primary/30 sm:col-span-6 lg:col-span-4 lg:min-h-0"><div><p className="mb-3 text-[10px] font-bold uppercase text-primary">✨ AI · {n.category}</p><h2 className="font-display text-xl font-bold leading-tight line-clamp-4 transition-colors group-hover:text-primary">{n.title}</h2></div><div className="mt-4 flex items-center justify-between"><span className="text-[10px] font-medium uppercase text-muted-foreground">{timeAgo(n.published_at)}</span><span className="grid size-7 place-items-center rounded-full border border-border text-[10px] text-muted-foreground" aria-label={`${n.sources.length} forrás`}>{n.sources.length}</span></div></Link>)}
+          {[side1, side2].filter((n): n is NewsItem => !!n).map((n) => <Link key={n.group_id} to="/hir/$id" params={{ id: n.group_id }} className="group col-span-12 flex min-h-44 flex-col justify-between rounded-lg border border-border bg-card p-6 transition-colors hover:border-primary/30 sm:col-span-6 lg:col-span-4 lg:min-h-0"><div><p className="mb-3 text-[10px] font-bold uppercase text-primary">✨ AI · {n.category}</p><h2 className="font-display text-xl font-bold leading-tight line-clamp-4 transition-colors group-hover:text-primary">{t(n).title}</h2></div><div className="mt-4 flex items-center justify-between"><span className="text-[10px] font-medium uppercase text-muted-foreground">{timeAgo(n.published_at)}</span><span className="grid size-7 place-items-center rounded-full border border-border text-[10px] text-muted-foreground" aria-label={`${n.sources.length} forrás`}>{n.sources.length}</span></div></Link>)}
         </section>}
 
         <section className="mt-12 grid grid-cols-12 gap-8">
@@ -90,8 +93,8 @@ function Index() {
               {rest.map((story, i) => <Link key={story.group_id} to="/hir/$id" params={{ id: story.group_id }} className="group min-w-0">
                 <div className="relative mb-4 aspect-video overflow-hidden rounded-lg border border-border bg-card"><img src={img(story, i + 1)} loading="lazy" alt="" className="size-full object-cover transition-transform duration-500 group-hover:scale-105" /><span className="absolute right-3 top-3 rounded-sm border border-primary/20 bg-background/85 px-2 py-1 text-[9px] font-bold uppercase text-primary backdrop-blur">✨ AI Összesített</span></div>
                 <div className="mb-2 flex items-center justify-between gap-3 text-[10px] font-bold uppercase text-muted-foreground"><span>{story.category}</span><span>{timeAgo(story.published_at)}</span></div>
-                <h3 className="font-display text-lg font-bold leading-tight transition-colors group-hover:text-primary">{story.title}</h3>
-                <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground">{story.lead}</p>
+                <h3 className="font-display text-lg font-bold leading-tight transition-colors group-hover:text-primary">{t(story).title}</h3>
+                <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground">{t(story).lead}</p>
                 <p className="mt-3 text-[10px] font-bold uppercase text-primary">{story.sources.length} forrás alapján</p>
               </Link>)}
             </div> : <div className="rounded-lg border border-border bg-card p-8 text-center text-sm text-muted-foreground">{lead ? "Nincs több AI összesített hír ebben a nézetben." : "Nincs találat. Próbálj másik keresést vagy kategóriát."}</div>}
@@ -101,7 +104,7 @@ function Index() {
             <div className="rounded-lg border border-border bg-card p-6 lg:sticky lg:top-32">
               <h2 className="mb-6 flex items-center justify-between font-display text-lg font-extrabold uppercase">Friss hírek<span className="flex items-center gap-2 font-sans text-[10px] text-muted-foreground"><span className="size-2 rounded-full bg-primary animate-live" />Élő</span></h2>
               <ol className="max-h-[60vh] space-y-4 overflow-y-auto border-l border-border pl-4">
-                {liveList.map((n) => <li key={n.group_id} className="relative"><span className="absolute -left-[21px] top-1.5 size-2 rounded-full bg-primary/60" /><Link to="/hir/$id" params={{ id: n.group_id }} className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{timeAgo(n.published_at)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary">{n.title}</h3></Link></li>)}
+                {liveList.map((n) => <li key={n.group_id} className="relative"><span className="absolute -left-[21px] top-1.5 size-2 rounded-full bg-primary/60" /><Link to="/hir/$id" params={{ id: n.group_id }} className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{timeAgo(n.published_at)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary">{t(n).title}</h3></Link></li>)}
                 {!liveList.length && <li className="text-xs text-muted-foreground">Nincs friss hír.</li>}
               </ol>
               <div className="mt-8 border-t border-border pt-8"><div className="rounded-md border border-primary/10 bg-primary/5 p-4"><p className="mb-2 text-[11px] font-bold uppercase text-primary">Stirix AI</p><p className="text-xs leading-relaxed text-foreground/70">A ✨ jelölésű hírek több forrásból, AI-jal összefűzve készülnek, hogy egy helyen lásd a teljes hírt.</p></div></div>
