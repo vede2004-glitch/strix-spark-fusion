@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { news, synthesized, singles, timeAgo, type NewsItem } from "@/lib/news";
+import { news, synthesized, singles, timeAgo, isHungarianSource, type NewsItem } from "@/lib/news";
 import { Menu, Search, X } from "lucide-react";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
