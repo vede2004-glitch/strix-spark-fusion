@@ -10,11 +10,17 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ApiAskRouteImport } from './routes/api/ask'
 import { Route as HirIdRouteImport } from './routes/hir.$id'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ApiAskRoute = ApiAskRouteImport.update({
+  id: '/api/ask',
+  path: '/api/ask',
   getParentRoute: () => rootRouteImport,
 } as any)
 const HirIdRoute = HirIdRouteImport.update({
@@ -25,27 +31,31 @@ const HirIdRoute = HirIdRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/hir/$id'
+  fullPaths: '/' | '/api/ask' | '/hir/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/hir/$id'
-  id: '__root__' | '/' | '/hir/$id'
+  to: '/' | '/api/ask' | '/hir/$id'
+  id: '__root__' | '/' | '/api/ask' | '/hir/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  ApiAskRoute: typeof ApiAskRoute
   HirIdRoute: typeof HirIdRoute
 }
 
@@ -56,6 +66,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/ask': {
+      id: '/api/ask'
+      path: '/api/ask'
+      fullPath: '/api/ask'
+      preLoaderRoute: typeof ApiAskRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/hir/$id': {
@@ -70,6 +87,7 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  ApiAskRoute: ApiAskRoute,
   HirIdRoute: HirIdRoute,
 }
 export const routeTree = rootRouteImport
