@@ -38,7 +38,7 @@ type Gateway = {
   model: string;
   protocol: "responses" | "chat";
   isLovable: boolean;
-  apiKey?: string;
+  apiKey: string | undefined;
 };
 
 // Reads process.env at call time (module scope is not reliable on the edge runtime).
