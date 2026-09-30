@@ -22,7 +22,7 @@ export const Route = createFileRoute("/api/ask")({
         const item = getNews(id);
         if (!item) return new Response("A cikk nem található.", { status: 404 });
         if (item.is_synthesized) return new Response("Ennél a hírnél nem érhető el a kérdezés.", { status: 403 });
-        const apiKey = process.env.LOVABLE_API_KEY;
+        const apiKey = process.env["LOVABLE_API_KEY"];
         if (!apiKey) return new Response("Az AI szolgáltatás nincs beállítva.", { status: 500 });
 
         let runId: string | undefined;
