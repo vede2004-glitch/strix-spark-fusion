@@ -57,7 +57,7 @@ function Article() {
             {item.sources.map((s) => <li key={s.link}><a href={s.link} target="_blank" rel="noopener noreferrer" className="group flex items-start justify-between gap-4 rounded-md border border-border p-3 transition-colors hover:border-primary/40"><div><p className="text-[10px] font-bold uppercase text-primary">{s.source}</p><p className="mt-1 text-sm font-semibold leading-snug group-hover:text-primary">{s.title}</p></div><ExternalLink className="mt-1 size-4 shrink-0 text-muted-foreground" /></a></li>)}
           </ul>
         </section>
-        {!item.is_synthesized && <ArticleQA id={item.id} />}
+        {!item.is_synthesized && <ArticleQA id={item.group_id} />}
       </main>
     </div>
   );
