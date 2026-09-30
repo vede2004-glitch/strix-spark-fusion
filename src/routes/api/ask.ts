@@ -69,7 +69,6 @@ export const Route = createFileRoute("/api/ask")({
         const { id, question, history } = parsed.data;
         const item = getNews(id);
         if (!item) return new Response("A cikk nem található.", { status: 404 });
-        if (item.is_synthesized) return new Response("Ennél a hírnél nem érhető el a kérdezés.", { status: 403 });
 
         const gw = resolveGateway();
         if (!gw) return new Response("Az AI végpont (AI_GATEWAY_URL) nem érvényes URL.", { status: 500 });

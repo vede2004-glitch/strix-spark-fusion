@@ -1,11 +1,30 @@
-import { useRef, useState } from "react";
-import { Loader2, MessageCircleQuestion, Send } from "lucide-react";
+import { useEffect, useRef, useState } from "react";
+import { ChevronDown, Loader2, MessageCircleQuestion, Send } from "lucide-react";
 
 type QA = { q: string; a: string; error?: boolean };
-const CHIPS = ["Rövid összefoglaló", "Kiket érint ez?", "Melyek a főbb dátumok?"];
+const DEFAULT_CHIPS = ["Rövid összefoglaló", "Kiket érint ez?", "Melyek a főbb dátumok?"];
+const SPORT_CHIPS = ["Mi lett a végeredmény?", "Kik a gólszerzők / kiemelkedő játékosok?", "Mikor lesz a következő mérkőzés?"];
+const MAX_Q = 3;
+const LIMIT_MSG = "Ehhez a cikkhez legfeljebb 3 kérdést tehetsz fel munkamenetenként.";
 
-export function ArticleQA({ id }: { id: string }) {
+export function ArticleQA({ id, category }: { id: string; category?: string }) {
+  const CHIPS = category === "Sport" ? SPORT_CHIPS : DEFAULT_CHIPS;
+  const storeKey = `stirix-qa:${id}`;
   const [items, setItems] = useState<QA[]>([]);
+  const [past, setPast] = useState<{ q: string; a: string }[]>([]);
+  const [open, setOpen] = useState(false);
+  const [count, setCount] = useState(0);
+  const [limitHit, setLimitHit] = useState(false);
+  useEffect(() => {
+    try { setPast(JSON.parse(localStorage.getItem(storeKey) || "[]")); } catch { setPast([]); }
+  }, [storeKey]);
+  function savePast(q: string, a: string) {
+    setPast((prev) => {
+      const next = [{ q, a }, ...prev.filter((p) => p.q !== q)].slice(0, 20);
+      try { localStorage.setItem(storeKey, JSON.stringify(next)); } catch {}
+      return next;
+    });
+  }
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
@@ -13,6 +32,8 @@ export function ArticleQA({ id }: { id: string }) {
   async function ask(question: string) {
     const q = question.trim();
     if (!q || loading) return;
+    if (count >= MAX_Q) { setLimitHit(true); return; }
+    setCount((c) => c + 1);
     setInput("");
     setLoading(true);
     const history = items.filter((i) => !i.error).slice(-5).map(({ q, a }) => ({ q, a }));
@@ -37,7 +58,9 @@ export function ArticleQA({ id }: { id: string }) {
         const chunk = dec.decode(value, { stream: true });
         update((x) => ({ ...x, a: x.a + chunk }));
       }
-      update((x) => (x.a.trim() ? x : { ...x, a: "Nem érkezett válasz.", error: true }));
+      let final = "";
+      update((x) => { final = x.a; return x.a.trim() ? x : { ...x, a: "Nem érkezett válasz.", error: true }; });
+      setTimeout(() => { if (final.trim()) savePast(q, final.trim()); }, 0);
     } catch {
       update((x) => ({ ...x, a: "Nem sikerült kapcsolódni. Próbáld újra.", error: true }));
     } finally {
@@ -68,6 +91,20 @@ export function ArticleQA({ id }: { id: string }) {
         </ul>
       )}
 
+      {past.length > 0 && (
+        <div className="mb-4 rounded-md border border-border">
+          <button type="button" onClick={() => setOpen((o) => !o)} className="flex w-full items-center justify-between px-3 py-2 text-xs font-bold uppercase text-muted-foreground hover:text-primary">
+            Korábban feltett kérdések ({past.length})<ChevronDown className={`size-4 transition-transform ${open ? "rotate-180" : ""}`} />
+          </button>
+          {open && (
+            <ul className="space-y-3 border-t border-border px-3 py-3">
+              {past.map((p, i) => <li key={i}><p className="text-sm font-bold">{p.q}</p><p className="mt-1 whitespace-pre-wrap text-sm leading-relaxed text-foreground/80">{p.a}</p></li>)}
+            </ul>
+          )}
+        </div>
+      )}
+      {limitHit && <p className="mb-3 rounded-md border border-border bg-muted px-3 py-2 text-xs text-muted-foreground">{LIMIT_MSG}</p>}
+      <p className="mb-2 text-[10px] font-bold uppercase text-muted-foreground">{Math.max(0, MAX_Q - count)} kérdés maradt</p>
       <div className="mb-3 flex flex-wrap gap-2">
         {CHIPS.map((c) => (
           <button key={c} type="button" disabled={loading} onClick={() => ask(c)} className="rounded-full border border-border px-3 py-1 text-xs font-semibold text-muted-foreground transition-colors hover:border-primary/50 hover:text-primary disabled:opacity-50">{c}</button>

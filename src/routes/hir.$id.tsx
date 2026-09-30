@@ -46,7 +46,7 @@ function Article() {
           <span className="text-muted-foreground">{timeAgo(item.published_at)}</span>
         </div>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl">{item.title}</h1>
-        {item.is_synthesized && <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75">{item.lead}</p>}
+        {item.is_synthesized && !item.content.trim().startsWith(item.lead.replace(/…$/, "").trim().slice(0, 60)) && <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75">{item.lead}</p>}
         {item.image && <img src={item.image} alt="" className="mt-6 aspect-video w-full rounded-lg border border-border object-cover" />}
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {item.content.split(/\n\n+/).map((p, i) => <p key={i}>{p}</p>)}
@@ -57,7 +57,7 @@ function Article() {
             {item.sources.map((s) => <li key={s.link}><a href={s.link} target="_blank" rel="noopener noreferrer" className="group flex items-start justify-between gap-4 rounded-md border border-border p-3 transition-colors hover:border-primary/40"><div><p className="text-[10px] font-bold uppercase text-primary">{s.source}</p><p className="mt-1 text-sm font-semibold leading-snug group-hover:text-primary">{s.title}</p></div><ExternalLink className="mt-1 size-4 shrink-0 text-muted-foreground" /></a></li>)}
           </ul>
         </section>
-        {!item.is_synthesized && <ArticleQA id={item.group_id} />}
+        <ArticleQA key={item.group_id} id={item.group_id} category={item.category} />
       </main>
     </div>
   );
