@@ -10,3 +10,4 @@
 <!-- LOVABLE:END -->
 
 - Keep the Stirix interface dark-first with semantic graphite/emerald tokens, Sora headings, and Manrope body text so new screens remain brand-consistent.
+- Derive the public source directory from news data and reconcile uploaded Python RSS_FEEDS client-side, because inactive sources must not appear.

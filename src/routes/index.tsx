@@ -14,9 +14,9 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Stirix.ro – Minden hír egy helyen" },
-      { name: "description", content: "Erdély és Románia hírei több forrásból, gyors AI-összefoglalókkal." },
+      { name: "description", content: "Románia hírei magyarul és románul, több forrásból, gyors AI-összefoglalókkal." },
       { property: "og:title", content: "Stirix.ro – Minden hír egy helyen" },
-      { property: "og:description", content: "Erdély és Románia hírei több forrásból, gyors AI-összefoglalókkal." },
+      { property: "og:description", content: "Románia hírei magyarul és románul, több forrásból, gyors AI-összefoglalókkal." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
