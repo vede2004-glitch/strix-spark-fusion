@@ -46,7 +46,6 @@ export const Route = createFileRoute("/api/ask")({
           const provider = createOpenAI({
             baseURL: rawUrl,
             apiKey: apiKey,
-            compatibility: "compatible",
           });
 
           const sources = item.sources.map((s) => `- ${s.source}: ${s.title} (${s.link})`).join("\n");
