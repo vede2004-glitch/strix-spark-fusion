@@ -12,13 +12,13 @@ export const Route = createFileRoute("/tamogatas")({
   component: Support,
 });
 
-const AMOUNTS: Record<string, number[]> = { RON: [20, 50, 100], EUR: [5, 10, 20], HUF: [1500, 4000, 8000] };
+const AMOUNTS: Record<"RON" | "EUR" | "HUF", number[]> = { RON: [20, 50, 100], EUR: [5, 10, 20], HUF: [1500, 4000, 8000] };
 const IBAN = "RO00 XXXX 0000 0000 0000 0000";
 
 function Support() {
   const ro = useLang() === "ro";
   const [monthly, setMonthly] = useState(false);
-  const [cur, setCur] = useState("RON");
+  const [cur, setCur] = useState<keyof typeof AMOUNTS>("RON");
   const [amount, setAmount] = useState<number | "custom">(50);
   const [custom, setCustom] = useState("");
   const faq = ro
@@ -40,7 +40,7 @@ function Support() {
             <Button size="sm" className="rounded-full" variant={monthly ? "default" : "ghost"} onClick={() => setMonthly(true)}>{ro ? "Lunar" : "Havi"}</Button>
           </div>
           <div className="flex rounded-full border border-border p-1">
-            {Object.keys(AMOUNTS).map((c) => <Button key={c} size="sm" className="rounded-full" variant={cur === c ? "default" : "ghost"} onClick={() => { setCur(c); setAmount(AMOUNTS[c][1]); }}>{c}</Button>)}
+            {Object.keys(AMOUNTS).map((c) => <Button key={c} size="sm" className="rounded-full" variant={cur === c ? "default" : "ghost"} onClick={() => { setCur(c as keyof typeof AMOUNTS); setAmount(AMOUNTS[c as keyof typeof AMOUNTS][1]!); }}>{c}</Button>)}
           </div>
         </div>
         <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
@@ -50,7 +50,7 @@ function Support() {
         {amount === "custom" && <input type="number" min={1} value={custom} onChange={(e) => setCustom(e.target.value)} placeholder={ro ? `Sumă (${cur})` : `Összeg (${cur})`} className={`${field} mt-3`} />}
         <div className="mt-6 grid gap-3 sm:grid-cols-3">
           {[[ro ? "Card bancar" : "Bankkártya", "Stripe"], ["Revolut", "@stirix"], ["PayPal", "paypal.me/stirix"]].map(([t, s]) => (
-            <button key={t} onClick={() => toast(ro ? "Plata online va fi disponibilă în curând." : "Az online fizetés hamarosan elérhető.")} className="flex items-center gap-3 rounded-lg border border-border p-4 text-left transition-colors hover:border-primary/50">
+            <button key={t as string} onClick={() => toast(ro ? "Plata online va fi disponibilă în curând." : "Az online fizetés hamarosan elérhető.")} className="flex items-center gap-3 rounded-lg border border-border p-4 text-left transition-colors hover:border-primary/50">
               <CreditCard className="size-5 text-primary" /><span><span className="block text-sm font-bold">{t}</span><span className="text-xs text-muted-foreground">{s}</span></span>
             </button>
           ))}

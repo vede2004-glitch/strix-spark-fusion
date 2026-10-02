@@ -28,7 +28,7 @@ function Submit() {
     e.preventDefault();
     const f = new FormData(e.currentTarget);
     const r = schema.safeParse(Object.fromEntries(f));
-    if (!r.success) return toast.error(ro ? "Verifică câmpurile (titlu, descriere, link, contact)." : "Ellenőrizd a mezőket (cím, leírás, link, elérhetőség).");
+    if (!r.success) { toast.error(ro ? "Verifică câmpurile (titlu, descriere, link, contact)." : "Ellenőrizd a mezőket (cím, leírás, link, elérhetőség)."); return; }
     e.currentTarget.reset(); setFiles([]); setDone(true);
   };
   return (

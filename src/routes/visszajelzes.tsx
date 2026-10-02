@@ -30,7 +30,7 @@ function Feedback() {
   const onSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const r = schema.safeParse(Object.fromEntries(new FormData(e.currentTarget)));
-    if (!r.success) return toast.error(ro ? "Verifică link-ul, descrierea și emailul." : "Ellenőrizd a linket, a leírást és az emailt.");
+    if (!r.success) { toast.error(ro ? "Verifică link-ul, descrierea și emailul." : "Ellenőrizd a linket, a leírást és az emailt."); return; }
     e.currentTarget.reset();
     toast.success(ro ? "Mulțumim pentru feedback!" : "Köszönjük a visszajelzést!");
   };
