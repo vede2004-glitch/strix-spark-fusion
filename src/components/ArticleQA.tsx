@@ -11,13 +11,16 @@ export function ArticleQA({ id }: { id: string }) {
   const ro = lang === "ro";
   const chip = ro ? "Rezumat scurt" : "Rövid összefoglaló";
   const limitMsg = ro ? "Poți adresa maximum 3 întrebări despre acest articol în fiecare sesiune." : "Ehhez a cikkhez legfeljebb 3 kérdést tehetsz fel munkamenetenként.";
-  const storeKey = `stirix-qa:${id}`;
+  const storeKey = `stirix-qa:${id}:${lang}`;
   const [items, setItems] = useState<QA[]>([]);
   const [past, setPast] = useState<{ q: string; a: string }[]>([]);
   const [open, setOpen] = useState(false);
   const [count, setCount] = useState(0);
   const [limitHit, setLimitHit] = useState(false);
   useEffect(() => {
+    setItems([]);
+    setCount(0);
+    setLimitHit(false);
     try { setPast(JSON.parse(localStorage.getItem(storeKey) || "[]")); } catch { setPast([]); }
   }, [storeKey]);
   function savePast(q: string, a: string) {

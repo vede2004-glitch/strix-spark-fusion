@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { createOpenAI } from "@ai-sdk/openai";
 import { streamText } from "ai";
 import { z } from "zod";
-import { getNews } from "@/lib/news";
+import { getNews, tr } from "@/lib/news";
 
 // ---------------------------------------------------------------------------
 // AI gateway configuration
@@ -70,6 +70,7 @@ export const Route = createFileRoute("/api/ask")({
         const { id, question, history, lang } = parsed.data;
         const item = getNews(id);
         if (!item) return new Response(lang === "ro" ? "Articolul nu a fost găsit." : "A cikk nem található.", { status: 404 });
+        const article = tr(item, lang);
 
         const gw = resolveGateway();
         if (!gw) return new Response(lang === "ro" ? "Adresa serviciului AI nu este validă." : "Az AI végpont (AI_GATEWAY_URL) nem érvényes URL.", { status: 500 });
@@ -96,12 +97,22 @@ export const Route = createFileRoute("/api/ask")({
         });
 
         const sources = item.sources.map((s) => `- ${s.source}: ${s.title} (${s.link})`).join("\n");
-        const system = `Te a Stirix.ro hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig ${lang === "ro" ? "románul" : "magyarul"}, tömören (legfeljebb 5 mondat vagy rövid felsorolás). Ha a válasz nem derül ki a cikkből, mondd ki egyértelműen. Ne találj ki tényeket.
+        const system = lang === "ro"
+          ? `Ești asistentul portalului de știri Stirix.ro. Răspunde întotdeauna în limba română, exclusiv pe baza articolului și a surselor de mai jos. Răspunsul trebuie să fie concis: cel mult 5 propoziții sau o listă scurtă. Dacă informația nu apare în articol, spune clar acest lucru. Nu inventa fapte.
 
-CIKK CÍME: ${item.title}
+TITLUL ARTICOLULUI: ${article.title}
+CATEGORIE: ${item.category}
+TEXT:
+${article.content}
+
+SURSE:
+${sources}`
+          : `Te a Stirix.ro hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig magyarul, tömören (legfeljebb 5 mondat vagy rövid felsorolás). Ha a válasz nem derül ki a cikkből, mondd ki egyértelműen. Ne találj ki tényeket.
+
+CIKK CÍME: ${article.title}
 KATEGÓRIA: ${item.category}
 SZÖVEG:
-${item.content}
+${article.content}
 
 FORRÁSOK:
 ${sources}`;
