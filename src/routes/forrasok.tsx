@@ -8,7 +8,7 @@ export const Route = createFileRoute("/forrasok")({
   component: Sources,
 });
 
-const SOURCES = [
+const SOURCES: [string, string, string][] = [
   ["Maszol", "https://maszol.ro", "HU"], ["Transtelex", "https://transtelex.ro", "HU"], ["Krónika", "https://kronikaonline.ro", "HU"],
   ["Hargita Népe", "https://hargitanepe.ro", "HU"], ["Szatmári Friss", "https://szatmarifriss.ro", "HU"], ["Manna", "https://manna.ro", "HU"],
   ["Kolozsvári Rádió", "https://radiocluj.ro", "HU"], ["Romkat", "https://romkat.ro", "HU"], ["MTI", "https://mti.hu", "HU"],
