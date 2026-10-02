@@ -21,7 +21,7 @@ function Support() {
   const [cur, setCur] = useState<keyof typeof AMOUNTS>("RON");
   const [amount, setAmount] = useState<number | "custom">(50);
   const [custom, setCustom] = useState("");
-  const faq = ro
+  const faq: [string, string][] = ro
     ? [["Pe ce se cheltuie banii?", "Exclusiv pe costurile serverelor, procesarea AI și dezvoltarea aplicațiilor mobile."], ["Când apar aplicațiile iOS și Android?", "Lucrăm la ele acum; donațiile grăbesc lansarea."], ["Pot anula donația lunară?", "Da, oricând, fără obligații."]]
     : [["Mire fordítjátok a pénzt?", "Kizárólag a szerverek, az AI-feldolgozás költségeire és a mobilalkalmazások fejlesztésére."], ["Mikor jön az iOS és Android app?", "Jelenleg fejlesztjük; a támogatások gyorsítják a megjelenést."], ["Lemondhatom a havi támogatást?", "Igen, bármikor, kötelezettség nélkül."]];
   return (
