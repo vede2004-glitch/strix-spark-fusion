@@ -29,5 +29,6 @@ export function useTheme(): Theme {
       else apply(current);
     } catch {}
   }, []);
+  useEffect(() => { apply(theme); });
   return theme;
 }
