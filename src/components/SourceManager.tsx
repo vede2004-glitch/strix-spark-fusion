@@ -18,7 +18,11 @@ function parsePythonFeeds(text: string) {
   if (!block) return [];
   const feeds: Array<{ name: string; feedUrl: string }> = [];
   const entry = /["']([^"']+)["']\s*:\s*["'](https?:\/\/[^"']+)["']/g;
-  for (const match of block.matchAll(entry)) feeds.push({ name: match[1].trim(), feedUrl: match[2].trim() });
+  for (const match of block.matchAll(entry)) {
+    const name = match[1];
+    const feedUrl = match[2];
+    if (name && feedUrl) feeds.push({ name: name.trim(), feedUrl: feedUrl.trim() });
+  }
   return feeds;
 }
 
