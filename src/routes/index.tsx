@@ -1,7 +1,8 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { synthesized, singles, timeAgo, isHungarianSource, tr, CATEGORIES, ALL, type NewsItem } from "@/lib/news";
 import { useLang, setLang, LANGS } from "@/lib/lang";
-import { Menu, Search, X } from "lucide-react";
+import { Search, X } from "lucide-react";
+import { SiteMenu } from "@/components/SiteMenu";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
 import logoAsset from "@/assets/logo_mentazold-Photoroom.png.asset.json";
@@ -68,7 +69,7 @@ function Index() {
               {LANGS.map((item) => <Button key={item} variant="ghost" size="sm" onClick={() => setLang(item)} className={lang === item ? "text-primary" : ""}>{item.toUpperCase()}</Button>)}
             </div>
             <Button variant="outline" size="icon" aria-label={mobileSearch ? (ro ? "Închide căutarea" : "Kereső bezárása") : (ro ? "Căutare" : "Keresés")} onClick={() => setMobileSearch((value) => !value)} className="md:hidden">{mobileSearch ? <X className="size-4" /> : <Search className="size-4" />}</Button>
-            <Button variant="outline" size="icon" aria-label={ro ? "Meniu" : "Menü"}><Menu className="size-4" /></Button>
+            <SiteMenu />
           </div>
         </div>
         {mobileSearch && <div className="border-t border-border px-4 py-3 md:hidden"><label className="flex items-center rounded-md border border-border bg-secondary px-3"><Search className="mr-2 size-4 text-muted-foreground" /><input autoFocus value={query} onChange={(event) => setQuery(event.target.value)} placeholder={ro ? "Caută știri..." : "Keresés hírekre..."} className="h-10 w-full bg-transparent text-sm outline-none" /></label></div>}

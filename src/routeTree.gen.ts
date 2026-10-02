@@ -10,12 +10,42 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as BekuldesRouteImport } from './routes/bekuldes'
+import { Route as ForrasokRouteImport } from './routes/forrasok'
+import { Route as RolunkRouteImport } from './routes/rolunk'
+import { Route as TamogatasRouteImport } from './routes/tamogatas'
+import { Route as VisszajelzesRouteImport } from './routes/visszajelzes'
 import { Route as ApiAskRouteImport } from './routes/api/ask'
 import { Route as HirIdRouteImport } from './routes/hir.$id'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BekuldesRoute = BekuldesRouteImport.update({
+  id: '/bekuldes',
+  path: '/bekuldes',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ForrasokRoute = ForrasokRouteImport.update({
+  id: '/forrasok',
+  path: '/forrasok',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const RolunkRoute = RolunkRouteImport.update({
+  id: '/rolunk',
+  path: '/rolunk',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TamogatasRoute = TamogatasRouteImport.update({
+  id: '/tamogatas',
+  path: '/tamogatas',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const VisszajelzesRoute = VisszajelzesRouteImport.update({
+  id: '/visszajelzes',
+  path: '/visszajelzes',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ApiAskRoute = ApiAskRouteImport.update({
@@ -31,30 +61,75 @@ const HirIdRoute = HirIdRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/bekuldes': typeof BekuldesRoute
+  '/forrasok': typeof ForrasokRoute
+  '/rolunk': typeof RolunkRoute
+  '/tamogatas': typeof TamogatasRoute
+  '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/bekuldes': typeof BekuldesRoute
+  '/forrasok': typeof ForrasokRoute
+  '/rolunk': typeof RolunkRoute
+  '/tamogatas': typeof TamogatasRoute
+  '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/bekuldes': typeof BekuldesRoute
+  '/forrasok': typeof ForrasokRoute
+  '/rolunk': typeof RolunkRoute
+  '/tamogatas': typeof TamogatasRoute
+  '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/api/ask' | '/hir/$id'
+  fullPaths:
+    | '/'
+    | '/bekuldes'
+    | '/forrasok'
+    | '/rolunk'
+    | '/tamogatas'
+    | '/visszajelzes'
+    | '/api/ask'
+    | '/hir/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/api/ask' | '/hir/$id'
-  id: '__root__' | '/' | '/api/ask' | '/hir/$id'
+  to:
+    | '/'
+    | '/bekuldes'
+    | '/forrasok'
+    | '/rolunk'
+    | '/tamogatas'
+    | '/visszajelzes'
+    | '/api/ask'
+    | '/hir/$id'
+  id:
+    | '__root__'
+    | '/'
+    | '/bekuldes'
+    | '/forrasok'
+    | '/rolunk'
+    | '/tamogatas'
+    | '/visszajelzes'
+    | '/api/ask'
+    | '/hir/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  BekuldesRoute: typeof BekuldesRoute
+  ForrasokRoute: typeof ForrasokRoute
+  RolunkRoute: typeof RolunkRoute
+  TamogatasRoute: typeof TamogatasRoute
+  VisszajelzesRoute: typeof VisszajelzesRoute
   ApiAskRoute: typeof ApiAskRoute
   HirIdRoute: typeof HirIdRoute
 }
@@ -66,6 +141,41 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/bekuldes': {
+      id: '/bekuldes'
+      path: '/bekuldes'
+      fullPath: '/bekuldes'
+      preLoaderRoute: typeof BekuldesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/forrasok': {
+      id: '/forrasok'
+      path: '/forrasok'
+      fullPath: '/forrasok'
+      preLoaderRoute: typeof ForrasokRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/rolunk': {
+      id: '/rolunk'
+      path: '/rolunk'
+      fullPath: '/rolunk'
+      preLoaderRoute: typeof RolunkRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/tamogatas': {
+      id: '/tamogatas'
+      path: '/tamogatas'
+      fullPath: '/tamogatas'
+      preLoaderRoute: typeof TamogatasRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/visszajelzes': {
+      id: '/visszajelzes'
+      path: '/visszajelzes'
+      fullPath: '/visszajelzes'
+      preLoaderRoute: typeof VisszajelzesRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/api/ask': {
@@ -87,6 +197,11 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  BekuldesRoute: BekuldesRoute,
+  ForrasokRoute: ForrasokRoute,
+  RolunkRoute: RolunkRoute,
+  TamogatasRoute: TamogatasRoute,
+  VisszajelzesRoute: VisszajelzesRoute,
   ApiAskRoute: ApiAskRoute,
   HirIdRoute: HirIdRoute,
 }

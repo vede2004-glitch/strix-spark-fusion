@@ -180,3 +180,24 @@
     scroll-behavior: auto !important;
   }
 }
+
+.light {
+  --background: oklch(0.975 0.006 220);
+  --foreground: oklch(0.2 0.025 237);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.2 0.025 237);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.2 0.025 237);
+  --primary: oklch(0.58 0.15 160);
+  --primary-foreground: oklch(0.99 0 0);
+  --secondary: oklch(0.93 0.01 225);
+  --secondary-foreground: oklch(0.25 0.025 237);
+  --muted: oklch(0.93 0.01 225);
+  --muted-foreground: oklch(0.48 0.025 230);
+  --accent: oklch(0.58 0.15 160);
+  --accent-foreground: oklch(0.99 0 0);
+  --border: oklch(0.2 0.03 237 / 12%);
+  --input: oklch(0.2 0.03 237 / 15%);
+  --ring: oklch(0.58 0.15 160);
+  --overlay: oklch(0.2 0.02 237 / 50%);
+}
