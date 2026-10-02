@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { CheckCircle2, ExternalLink, Link2, RotateCcw, Search } from "lucide-react";
 import { toast } from "sonner";
 import { Badge } from "@/components/ui/badge";
@@ -27,7 +27,6 @@ export function SourceManager({ lang }: { lang: Lang }) {
   const defaults = useMemo(() => getActiveSources(), []);
   const [sources, setSources] = useState(defaults);
   const [query, setQuery] = useState("");
-  const inputRef = useRef<HTMLInputElement>(null);
   const t = copy[lang];
 
   useEffect(() => {
