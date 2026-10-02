@@ -5,24 +5,10 @@ import { z } from "zod";
 import { getNews, tr } from "@/lib/news";
 
 // ---------------------------------------------------------------------------
-// AI gateway configuration
-//
-// The Q&A chat talks to one OpenAI-compatible endpoint. It is configurable, so
-// pointing it at your own serverless / Gemini gateway in production needs no
-// code edit — just set environment variables (Lovable: Settings -> Secrets):
-//
-//   AI_GATEWAY_URL       e.g. https://my-gateway.example.com/v1
-//   AI_GATEWAY_API_KEY   the key that endpoint expects
-//   AI_GATEWAY_MODEL     model id served there, e.g. google/gemini-2.5-flash
-//   AI_GATEWAY_PROTOCOL  "responses" (default) or "chat" for a plain
-//                        /chat/completions gateway
-//
-// With none of them set the app keeps using the Lovable AI Gateway defaults
-// below. The Lovable key is never sent to a third-party endpoint.
+// Gemini AI Gateway Konfiguráció
 // ---------------------------------------------------------------------------
-const AI_GATEWAY_URL = "https://ai.gateway.lovable.dev/v1";
-const AI_GATEWAY_MODEL = "openai/gpt-6-astra";
-const AI_GATEWAY_PROTOCOL = "responses";
+const DEFAULT_GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai";
+const DEFAULT_GEMINI_MODEL = "gemini-1.5-flash";
 
 const LOVABLE_HOST = "ai.gateway.lovable.dev";
 const RUN = "X-Lovable-AIG-Run-ID";
@@ -37,28 +23,33 @@ const Body = z.object({
 type Gateway = {
   baseUrl: string;
   model: string;
-  protocol: "responses" | "chat";
+  protocol: "chat";
   isLovable: boolean;
   apiKey: string | undefined;
 };
 
-// Reads process.env at call time (module scope is not reliable on the edge runtime).
 function resolveGateway(): Gateway | null {
-  const baseUrl = (process.env["AI_GATEWAY_URL"] || AI_GATEWAY_URL).replace(/\/+$/, "");
-  const model = process.env["AI_GATEWAY_MODEL"] || AI_GATEWAY_MODEL;
-  const protocol = (process.env["AI_GATEWAY_PROTOCOL"] || AI_GATEWAY_PROTOCOL).toLowerCase() === "chat" ? "chat" : "responses";
+  // Beolvassuk a Vercel változókat, vagy használjuk a Gemini alapértelmezett értékeket
+  let rawUrl = (process.env["AI_GATEWAY_URL"] || DEFAULT_GEMINI_URL).trim().replace(/\/+$/, "");
+  
+  if (!rawUrl.startsWith("http://") && !rawUrl.startsWith("https://")) {
+    rawUrl = `https://${rawUrl}`;
+  }
+
+  const baseUrl = rawUrl;
+  const model = process.env["AI_GATEWAY_MODEL"] || DEFAULT_GEMINI_MODEL;
 
   let host = "";
   try {
     host = new URL(baseUrl).hostname;
   } catch {
-    return null; // AI_GATEWAY_URL is not a valid absolute URL
+    return null;
   }
 
   const isLovable = host === LOVABLE_HOST || host.endsWith(`.${LOVABLE_HOST}`);
-  const apiKey = process.env["AI_GATEWAY_API_KEY"] || (isLovable ? process.env["LOVABLE_API_KEY"] : undefined);
+  const apiKey = process.env["AI_GATEWAY_API_KEY"] || process.env["GEMINI_API_KEY"] || (isLovable ? process.env["LOVABLE_API_KEY"] : undefined);
 
-  return { baseUrl, model, protocol, isLovable, apiKey };
+  return { baseUrl, model, protocol: "chat", isLovable, apiKey };
 }
 
 export const Route = createFileRoute("/api/ask")({
@@ -74,7 +65,7 @@ export const Route = createFileRoute("/api/ask")({
 
         const gw = resolveGateway();
         if (!gw) return new Response(lang === "ro" ? "Adresa serviciului AI nu este validă." : "Az AI végpont (AI_GATEWAY_URL) nem érvényes URL.", { status: 500 });
-        if (!gw.apiKey) return new Response(lang === "ro" ? "Serviciul AI nu este configurat." : "Az AI szolgáltatás nincs beállítva.", { status: 500 });
+        if (!gw.apiKey) return new Response(lang === "ro" ? "Serviciul AI nu este configurat." : "Az AI szolgáltatás nincs beállítva. (Hiányzik a Gemini API kulcs)", { status: 500 });
 
         const headers: Record<string, string> = {};
         if (gw.isLovable) {
@@ -126,25 +117,13 @@ ${sources}`;
         ];
 
         const result = streamText({
-          model: gw.protocol === "chat" ? provider.chat(gw.model) : provider.responses(gw.model),
+          model: provider.chat(gw.model),
           system,
           messages,
           abortSignal: request.signal,
-          ...(gw.protocol === "chat"
-            ? {}
-            : {
-                providerOptions: {
-                  openai: {
-                    forceReasoning: true,
-                    reasoningEffort: "low",
-                    reasoningSummary: "auto",
-                    store: false,
-                    include: ["reasoning.encrypted_content"],
-                  },
-                },
-              }),
           onError: ({ error }) => console.error("ask error", error),
         });
+        
         return result.toTextStreamResponse();
       },
     },
