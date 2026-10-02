@@ -16,7 +16,7 @@ function aiConfig() {
   const base = raw.endsWith("/v1") ? raw : `${raw}/v1`;
   const apiKey = process.env["AI_GATEWAY_API_KEY"] || process.env["LOVABLE_API_KEY"] || "";
   const model = process.env["AI_GATEWAY_MODEL"] || "openai/gpt-6-astra";
-  const protocol = (process.env["AI_GATEWAY_PROTOCOL"] || "responses") === "chat" ? "chat" : "responses";
+  const protocol: "chat" | "responses" = (process.env["AI_GATEWAY_PROTOCOL"] || "responses") === "chat" ? "chat" : "responses";
   return { base, apiKey, model, protocol };
 }
 
