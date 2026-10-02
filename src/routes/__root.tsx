@@ -1,3 +1,4 @@
+import { useTheme } from "@/lib/theme";
 import { Toaster } from "@/components/ui/sonner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import {
@@ -100,7 +101,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 
 function RootShell({ children }: { children: ReactNode }) {
   return (
-    <html lang="hu" className="dark">
+    <html lang="hu" className="dark" suppressHydrationWarning>
       <head>
         <HeadContent />
       </head>
@@ -114,6 +115,7 @@ function RootShell({ children }: { children: ReactNode }) {
 
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
+  useTheme();
 
   return (
     <QueryClientProvider client={queryClient}>
