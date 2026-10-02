@@ -8,7 +8,7 @@ import { PageShell, glass, field, meta } from "@/components/PageShell";
 import { useLang } from "@/lib/lang";
 
 export const Route = createFileRoute("/tamogatas")({
-  head: () => meta("Támogatás – Stirix.ro", "Támogasd a független erdélyi híraggregációt: szerverköltségek és mobilalkalmazás-fejlesztés."),
+  head: () => meta("Támogatás – Stirix.ro", "Támogasd a független romániai híraggregációt: szerverköltségek és mobilalkalmazás-fejlesztés."),
   component: Support,
 });
 
@@ -25,7 +25,7 @@ function Support() {
     ? [["Pe ce se cheltuie banii?", "Exclusiv pe costurile serverelor, procesarea AI și dezvoltarea aplicațiilor mobile."], ["Când apar aplicațiile iOS și Android?", "Lucrăm la ele acum; donațiile grăbesc lansarea."], ["Pot anula donația lunară?", "Da, oricând, fără obligații."]]
     : [["Mire fordítjátok a pénzt?", "Kizárólag a szerverek, az AI-feldolgozás költségeire és a mobilalkalmazások fejlesztésére."], ["Mikor jön az iOS és Android app?", "Jelenleg fejlesztjük; a támogatások gyorsítják a megjelenést."], ["Lemondhatom a havi támogatást?", "Igen, bármikor, kötelezettség nélkül."]];
   return (
-    <PageShell eyebrow={ro ? "Susține-ne" : "Támogatás"} title={ro ? "Susține agregarea independentă de știri din Transilvania!" : "Támogasd a független erdélyi híraggregációt!"}>
+    <PageShell eyebrow={ro ? "Susține-ne" : "Támogatás"} title={ro ? "Susține agregarea independentă de știri din România!" : "Támogasd a független romániai híraggregációt!"}>
       <div className="grid gap-5 md:grid-cols-2">
         {[{ icon: Server, t: ro ? "Servere & AI" : "Szerverek & AI", d: ro ? "Funcționare 24/7 și costurile procesării AI a știrilor." : "Folyamatos, 24/7 működés és a hírek AI-feldolgozásának költségei." },
           { icon: Smartphone, t: ro ? "Aplicații mobile" : "Mobilalkalmazások", d: ro ? "Dezvoltarea aplicațiilor native pentru iOS și Android." : "A natív iOS és Android alkalmazások fejlesztése." }].map(({ icon: I, t, d }) => (
