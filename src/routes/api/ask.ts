@@ -5,10 +5,10 @@ import { z } from "zod";
 import { getNews, tr } from "@/lib/news";
 
 // ---------------------------------------------------------------------------
-// Gemini AI Konfiguráció
+// Gemini AI Konfiguráció (Gemini 3.5 Flash Lite)
 // ---------------------------------------------------------------------------
 const DEFAULT_GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai";
-const DEFAULT_GEMINI_MODEL = "gemini-1.5-flash";
+const DEFAULT_GEMINI_MODEL = "gemini-3.5-flash-lite";
 
 const Body = z.object({
   id: z.string().min(1).max(200),
@@ -57,7 +57,6 @@ export const Route = createFileRoute("/api/ask")({
           );
         }
 
-        // Közvetlen OpenAI-kompatibilis Gemini szolgáltató
         const provider = createOpenAI({
           baseURL: gw.baseUrl,
           apiKey: gw.apiKey,
