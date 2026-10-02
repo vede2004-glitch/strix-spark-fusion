@@ -1,14 +1,8 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { createOpenAI } from "@ai-sdk/openai";
+import { google } from "@ai-sdk/google";
 import { streamText } from "ai";
 import { z } from "zod";
 import { getNews, tr } from "@/lib/news";
-
-// ---------------------------------------------------------------------------
-// Gemini AI Gateway Konfiguráció
-// ---------------------------------------------------------------------------
-const DEFAULT_GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai";
-const DEFAULT_GEMINI_MODEL = "gemini-2.5-flash";
 
 const Body = z.object({
   id: z.string().min(1).max(200),
@@ -30,30 +24,11 @@ export const Route = createFileRoute("/api/ask")({
           if (!item) return new Response(lang === "ro" ? "Articolul nu a fost găsit." : "A cikk nem található.", { status: 404 });
 
           const article = tr(item, lang);
-
-          // Változók beolvasása Vercel-ből vagy alapértelmezett Gemini beállítások
-          const apiKey = process.env["AI_GATEWAY_API_KEY"] || process.env["GEMINI_API_KEY"];
-          const rawUrl = (process.env["AI_GATEWAY_URL"] || DEFAULT_GEMINI_URL).trim().replace(/\/+$/, "");
-          const modelName = process.env["AI_GATEWAY_MODEL"] || DEFAULT_GEMINI_MODEL;
-
-          if (!apiKey) {
-            return new Response(
-              lang === "ro" ? "Serviciul AI nu este configurat." : "Az AI szolgáltatás nincs beállítva (hiányzik a Gemini API kulcs).",
-              { status: 500 }
-            );
-          }
-
-          // Kifejezetten a tisztított OpenAI-kompatibilis Gemini szolgáltató
-          const provider = createOpenAI({
-            baseURL: rawUrl,
-            apiKey: apiKey,
-            compatibility: "compatible",
-          });
-
           const sources = item.sources.map((s) => `- ${s.source}: ${s.title} (${s.link})`).join("\n");
+
           const system = lang === "ro"
             ? `Ești asistentul portalului de știri Stirix.ro. Răspunde în limba română pe baza articolului:\n\nTITLU: ${article.title}\nTEXT:\n${article.content}\nSURSE:\n${sources}`
-            : `Te a Stirix.ro hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig magyarul, tömören (legfeljebb 5 mondat):\n\nCIKK CÍME: ${article.title}\nSZÖVEG:\n${article.content}\nFORRÁSOK:\n${sources}`;
+            : `Te a Stirix.ro hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig magyarul, tömören:\n\nCIKK CÍME: ${article.title}\nSZÖVEG:\n${article.content}\nFORRÁSOK:\n${sources}`;
 
           const messages = [
             ...history.flatMap((h) => [
@@ -63,17 +38,17 @@ export const Route = createFileRoute("/api/ask")({
             { role: "user" as const, content: question },
           ];
 
+          // Közvetlenül a hivatalos Gemini-t hívja meg (automatikusa a GEMINI_API_KEY-t keresi a környezeti változókban)
           const result = streamText({
-            model: provider.chat(modelName),
+            model: google("gemini-1.5-flash"),
             system,
             messages,
             abortSignal: request.signal,
-            onError: ({ error }) => console.error("Gemini hiba:", error),
           });
 
           return result.toTextStreamResponse();
         } catch (err: any) {
-          console.error("Szerver hiba:", err);
+          console.error("Hiba történt:", err);
           return new Response(`Szerver hiba: ${err?.message || err}`, { status: 500 });
         }
       },
