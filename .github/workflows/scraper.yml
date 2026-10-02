@@ -1,0 +1,38 @@
+name: Hírgyűjtő és AI Szintetizáló
+
+on:
+  schedule:
+    # 5 percenkénti futtatás időzítése (Cron)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Lehetővé teszi a manuális indítást is gombnyomásra
+
+jobs:
+  run-scraper:
+    runs-runs-on: ubuntu-latest
+
+    steps:
+      - name: Kód letöltése a repóból
+        uses: actions/checkout@v4
+
+      - name: Python környezet beállítása
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Függőségek telepítése
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Python script futtatása
+        run: |
+          python weboldalparolas.py
+
+      - name: Változások (szintetizalt_hirek.json) elmentése a GitHubra
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/szintetizalt_hirek.json || git add szintetizalt_hirek.json
+          git commit -m "Auto-update: Friss szintetizált hírek [skip ci]" || exit 0
+          git push
