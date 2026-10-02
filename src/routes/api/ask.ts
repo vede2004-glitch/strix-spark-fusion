@@ -66,14 +66,14 @@ export const Route = createFileRoute("/api/ask")({
     handlers: {
       POST: async ({ request }) => {
         const parsed = Body.safeParse(await request.json().catch(() => null));
-        if (!parsed.success) return new Response("Érvénytelen kérés.", { status: 400 });
+        if (!parsed.success) return new Response("Érvénytelen kérés. / Solicitare invalidă.", { status: 400 });
         const { id, question, history, lang } = parsed.data;
         const item = getNews(id);
-        if (!item) return new Response("A cikk nem található.", { status: 404 });
+        if (!item) return new Response(lang === "ro" ? "Articolul nu a fost găsit." : "A cikk nem található.", { status: 404 });
 
         const gw = resolveGateway();
-        if (!gw) return new Response("Az AI végpont (AI_GATEWAY_URL) nem érvényes URL.", { status: 500 });
-        if (!gw.apiKey) return new Response("Az AI szolgáltatás nincs beállítva.", { status: 500 });
+        if (!gw) return new Response(lang === "ro" ? "Adresa serviciului AI nu este validă." : "Az AI végpont (AI_GATEWAY_URL) nem érvényes URL.", { status: 500 });
+        if (!gw.apiKey) return new Response(lang === "ro" ? "Serviciul AI nu este configurat." : "Az AI szolgáltatás nincs beállítva.", { status: 500 });
 
         const headers: Record<string, string> = {};
         if (gw.isLovable) {
