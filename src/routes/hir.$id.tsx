@@ -1,5 +1,6 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
+import { SiteMenu } from "@/components/SiteMenu";
 import logoAsset from "@/assets/logo_mentazold-Photoroom.png.asset.json";
 import { getNews, timeAgo, tr } from "@/lib/news";
 import { useLang, setLang, LANGS } from "@/lib/lang";
@@ -42,6 +43,7 @@ function Article() {
           <Link to="/" className="inline-flex items-center gap-2 text-xs font-bold uppercase text-muted-foreground hover:text-primary"><ArrowLeft className="size-4" />{ro ? "Înapoi" : "Vissza"}</Link>
           <div className="flex items-center gap-1">{LANGS.map((l) => <button key={l} type="button" onClick={() => setLang(l)} className={`px-2 text-xs font-bold ${lang === l ? "text-primary" : "text-muted-foreground"}`}>{l.toUpperCase()}</button>)}</div>
           <Link to="/"><img src={logoAsset.url} alt="Stirix.ro" className="h-10 w-28 object-contain" /></Link>
+          <SiteMenu />
         </div>
       </header>
       <main className="mx-auto max-w-3xl px-4 py-8">
