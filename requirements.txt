@@ -1,11 +1,5 @@
-json
-re
-os
-time
 requests
 feedparser
-numpy as np
-datetime import datetime
-bs4 import BeautifulSoup
-concurrent.futures import ThreadPoolExecutor
-sentence_transformers import SentenceTransformer
+numpy
+beautifulsoup4
+sentence-transformers
