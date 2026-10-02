@@ -8,7 +8,7 @@ import { getNews, tr } from "@/lib/news";
 // Gemini AI Gateway Konfiguráció
 // ---------------------------------------------------------------------------
 const DEFAULT_GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai";
-const DEFAULT_GEMINI_MODEL = "gemini-1.5-flash";
+const DEFAULT_GEMINI_MODEL = "gemini-2.5-flash";
 
 const Body = z.object({
   id: z.string().min(1).max(200),
