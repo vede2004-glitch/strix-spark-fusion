@@ -55,7 +55,7 @@ function Index() {
         <div className="mx-auto grid h-17 max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-4 sm:flex sm:justify-between">
           <div className="flex min-w-0 items-center gap-5 md:gap-8">
             <a href="#top" aria-label="Stirix főoldal" className="flex min-w-0 items-center gap-3">
-              <img src={logoAsset.url} alt="Stirix.ro" className="h-10 w-28 shrink-0 object-contain sm:h-12 sm:w-36" />
+              <img src="/favicon.png" alt="Stirix.ro" className="size-10 shrink-0 object-contain sm:size-12" />
               <span className="hidden border-l border-border pl-3 text-[9px] font-bold uppercase leading-tight text-muted-foreground lg:block">{ro ? <>Toate știrile<br />într-un singur loc</> : <>Minden hír<br />egy helyen</>}</span>
             </a>
             <label className="hidden items-center rounded-full border border-border bg-secondary px-4 py-2 focus-within:border-primary/50 md:flex">
