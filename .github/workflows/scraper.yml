@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-scraper:
-    runs-runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Kód letöltése a repóból
