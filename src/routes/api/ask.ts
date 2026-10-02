@@ -31,6 +31,7 @@ const Body = z.object({
   id: z.string().min(1).max(200),
   question: z.string().trim().min(1).max(500),
   history: z.array(z.object({ q: z.string().max(500), a: z.string().max(4000) })).max(10).default([]),
+  lang: z.enum(["hu", "ro"]).default("hu"),
 });
 
 type Gateway = {
@@ -66,7 +67,7 @@ export const Route = createFileRoute("/api/ask")({
       POST: async ({ request }) => {
         const parsed = Body.safeParse(await request.json().catch(() => null));
         if (!parsed.success) return new Response("Érvénytelen kérés.", { status: 400 });
-        const { id, question, history } = parsed.data;
+        const { id, question, history, lang } = parsed.data;
         const item = getNews(id);
         if (!item) return new Response("A cikk nem található.", { status: 404 });
 
@@ -95,7 +96,7 @@ export const Route = createFileRoute("/api/ask")({
         });
 
         const sources = item.sources.map((s) => `- ${s.source}: ${s.title} (${s.link})`).join("\n");
-        const system = `Te a Stirix.ro hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig magyarul, tömören (legfeljebb 5 mondat vagy rövid felsorolás). Ha a válasz nem derül ki a cikkből, mondd ki egyértelműen. Ne találj ki tényeket.
+        const system = `Te a Stirix.ro hírportál segítője vagy. Kizárólag az alábbi cikk és források alapján válaszolj, mindig ${lang === "ro" ? "románul" : "magyarul"}, tömören (legfeljebb 5 mondat vagy rövid felsorolás). Ha a válasz nem derül ki a cikkből, mondd ki egyértelműen. Ne találj ki tényeket.
 
 CIKK CÍME: ${item.title}
 KATEGÓRIA: ${item.category}

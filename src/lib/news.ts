@@ -39,12 +39,12 @@ function normalize(r: RawItem): NewsItem {
   if (typeof r.content === "string") {
     i18n.hu = { title: r.title ?? "", lead: clean(r.lead), content: r.content };
   } else {
-    for (const l of ["hu", "ro", "en"] as Lang[]) {
+    for (const l of ["hu", "ro"] as Lang[]) {
       const v = r.content?.[l];
       if (valid(v)) i18n[l] = { title: v.title ?? "", lead: clean(v.lead), content: v.content ?? "" };
     }
   }
-  const hu = i18n.hu ?? i18n.ro ?? i18n.en ?? { title: r.title ?? "", lead: clean(r.lead), content: "" };
+  const hu = i18n.hu ?? i18n.ro ?? { title: r.title ?? "", lead: clean(r.lead), content: "" };
   i18n.hu = hu;
   return { ...r, title: hu.title, lead: hu.lead, content: hu.content, category: normCategory(r.category), i18n };
 }
@@ -72,10 +72,11 @@ export const singles = news
 
 export const getNews = (id: string) => news.find((n) => n.group_id === id);
 
-export function timeAgo(ts: number | null) {
-  if (!ts) return "Friss";
+export function timeAgo(ts: number | null, lang: Lang = "hu") {
+  if (!ts) return lang === "ro" ? "Recent" : "Friss";
   const min = Math.max(1, Math.round((Date.now() / 1000 - ts) / 60));
-  if (min < 60) return `${min} perce`;
+  if (min < 60) return lang === "ro" ? `acum ${min} min.` : `${min} perce`;
   const h = Math.round(min / 60);
+  if (lang === "ro") return h < 24 ? `acum ${h} ore` : `acum ${Math.round(h / 24)} zile`;
   return h < 24 ? `${h} órája` : `${Math.round(h / 24)} napja`;
 }

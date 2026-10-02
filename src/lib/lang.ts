@@ -1,7 +1,7 @@
 import { useEffect, useSyncExternalStore } from "react";
 
-export type Lang = "hu" | "ro" | "en";
-export const LANGS: Lang[] = ["hu", "ro", "en"];
+export type Lang = "hu" | "ro";
+export const LANGS: Lang[] = ["hu", "ro"];
 const KEY = "stirix-lang";
 let current: Lang = "hu";
 const subs = new Set<() => void>();
@@ -24,5 +24,8 @@ export function useLang(): Lang {
       if (s && LANGS.includes(s) && s !== current) setLang(s);
     } catch {}
   }, []);
+  useEffect(() => {
+    document.documentElement.lang = lang;
+  }, [lang]);
   return lang;
 }
