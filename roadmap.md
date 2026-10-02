@@ -5,3 +5,4 @@
 - [x] Forráskezelő felület a Forrásaink oldalon
 - [x] A Python szkriptes feltöltős rész eltávolítása a forráskezelőből
 - [x] Böngészős ellenőrzés magyar és román nézetben
+- [x] Forrásaink oldal visszaállítása az eredeti statikus forráskártyás verzióra (forráskezelő teljes eltávolítása)
