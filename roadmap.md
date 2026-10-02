@@ -5,4 +5,4 @@
 - [x] Forráskezelő felület a Forrásaink oldalon
 - [x] A Python hírszkript forráslistájának beolvasása és összevetése a megjelenő forrásokkal
 - [x] Új források felvétele, meglévők kihagyása és hivatkozások ellenőrzése
-- [ ] Böngészős ellenőrzés magyar és román nézetben
+- [x] Böngészős ellenőrzés magyar és román nézetben
