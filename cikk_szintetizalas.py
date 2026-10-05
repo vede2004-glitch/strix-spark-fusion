@@ -13,6 +13,9 @@ MEMORY_FILE = "erdelyi_hirek_memoria.json"
 OUTPUT_FILE = "src/data/news.json"
 BATCH_INPUT_FILE = "batch_input.jsonl"
 
+# ✅ Automatikusan létrehozza az src/data mappát, ha még nem létezik:
+os.makedirs("src/data", exist_ok=True)
+
 # ✅ KÖRNYEZETI VÁLTOZÓBÓL TÖRTÉNŐ BEOLVASÁS:
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
@@ -336,8 +339,11 @@ def run_synthesis_batch():
             except Exception as e:
                 print(f"⚠️ Hiba a(z) {g_id} válaszának feldolgozásakor: {e}")
 
-    if os.path.exists(BATCH_INPUT_FILE):
+  if os.path.exists(BATCH_INPUT_FILE):
         os.remove(BATCH_INPUT_FILE)
+
+    # ✅ Biztosítja, hogy az src/data könyvtár létezzen a mentés előtt:
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(synthesized_results, f, ensure_ascii=False, indent=2)
