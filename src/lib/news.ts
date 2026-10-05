@@ -41,6 +41,12 @@ const normCategory = (c?: string | null) => {
 
 const clean = (s?: string) => (s ?? "").replace(/\.{3,}$/, "…");
 
+// Ha nincs published_at, a group_id-ben lévő unix időbélyeget használjuk (group_<ts>_<n>)
+const tsFromId = (id: string) => {
+  const m = /_(\d{9,11})_/.exec(id);
+  return m ? Number(m[1]) : null;
+};
+
 function normalize(r: RawItem): NewsItem {
   const huContent: LangContent = {
     title: r.title_hu ?? "",
@@ -65,7 +71,7 @@ function normalize(r: RawItem): NewsItem {
     is_synthesized: r.is_synthesized,
     sources_count: r.sources_count,
     sources: r.sources || [],
-    published_at: r.published_at ?? null,
+    published_at: r.published_at ?? tsFromId(r.group_id),
     title: huContent.title,
     lead: huContent.lead,
     content: huContent.content,
@@ -125,3 +131,23 @@ export function timeAgo(ts: number | null | undefined, lang: Lang = "hu") {
   if (lang === "ro") return h < 24 ? `acum ${h} ore` : `acum ${Math.round(h / 24)} zile`;
   return h < 24 ? `${h} órája` : `${Math.round(h / 24)} napja`;
 }
+
+/** Pontos dátum + időpont, pl. „okt. 5. 14:20" */
+export function formatDate(ts: number | null | undefined, lang: Lang = "hu") {
+  if (!ts) return "";
+  return new Date(ts * 1000).toLocaleString(lang === "ro" ? "ro-RO" : "hu-HU", {
+    month: "short", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Bucharest",
+  });
+}
+
+export const RECENT_HOURS = 24;
+/** Igaz, ha a hír az elmúlt 24 órában jelent meg (dátum nélküli hír frissnek számít). */
+export const isRecent = (n: NewsItem, now = Date.now()) =>
+  !n.published_at || now / 1000 - n.published_at <= RECENT_HOURS * 3600;
+
+/** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. */
+export const byRelevance = [...news].sort(
+  (a, b) =>
+    (b.sources.length + (b.is_synthesized ? 1 : 0)) - (a.sources.length + (a.is_synthesized ? 1 : 0)) ||
+    (b.published_at ?? 0) - (a.published_at ?? 0),
+);
