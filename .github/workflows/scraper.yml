@@ -24,14 +24,20 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Python script futtatása
+      - name: Scraper script futtatása
         run: |
           python weboldalparolas.py
 
-      - name: Változások (szintetizalt_hirek.json) elmentése a GitHubra
+      - name: AI Szintézis script futtatása
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python cikk_szintetizalas.py
+
+      - name: Változások (src/data/news.json) elmentése a GitHubra
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add public/szintetizalt_hirek.json || git add szintetizalt_hirek.json
+          git add src/data/news.json
           git commit -m "Auto-update: Friss szintetizált hírek [skip ci]" || exit 0
           git push
