@@ -2,13 +2,14 @@ name: Hírgyűjtő és AI Szintetizáló
 
 on:
   schedule:
-    # 5 percenkénti futtatás időzítése (Cron)
     - cron: '*/5 * * * *'
-  workflow_dispatch: # Lehetővé teszi a manuális indítást is gombnyomásra
+  workflow_dispatch:
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Írási jog megadása a commitoláshoz
 
     steps:
       - name: Kód letöltése a repóból
@@ -26,7 +27,7 @@ jobs:
 
       - name: Scraper script futtatása
         run: |
-          python weboldalparolas.py
+          python weboldalparolás.py
 
       - name: AI Szintézis script futtatása
         env:
@@ -34,10 +35,11 @@ jobs:
         run: |
           python cikk_szintetizalas.py
 
-      - name: Változások (src/data/news.json) elmentése a GitHubra
+      - name: Változások elmentése a GitHubra
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/news.json
-          git commit -m "Auto-update: Friss szintetizált hírek [skip ci]" || exit 0
+          # Elmentjük a munkafájlokat és a végső news.json-t is
+          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json src/data/news.json
+          git commit -m "Auto-update: Friss adatok és szintetizált hírek [skip ci]" || exit 0
           git push
