@@ -27,7 +27,7 @@ jobs:
 
       - name: Scraper script futtatása
         run: |
-          python weboldalparolás.py
+          python weboldalparolas.py
 
       - name: AI Szintézis script futtatása
         env:
