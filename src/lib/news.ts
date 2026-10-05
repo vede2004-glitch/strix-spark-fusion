@@ -9,7 +9,7 @@ type RawItem = {
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
-  sources_count?: number;
+  sources_count?: number | undefined;
   sources: NewsSource[];
   published_at?: number | null;
   // Lapos magyar mezők
@@ -117,7 +117,7 @@ export const singles = news
 
 export const getNews = (id: string) => news.find((n) => n.group_id === id);
 
-export function timeAgo(ts: number | null, lang: Lang = "hu") {
+export function timeAgo(ts: number | null | undefined, lang: Lang = "hu") {
   if (!ts) return lang === "ro" ? "Recent" : "Friss";
   const min = Math.max(1, Math.round((Date.now() / 1000 - ts) / 60));
   if (min < 60) return lang === "ro" ? `acum ${min} min.` : `${min} perce`;
