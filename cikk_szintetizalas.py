@@ -172,6 +172,9 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
     prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
     category = articles[0].get("category", "Általános")
 
+    # Legfrissebb időbélyeg kiválasztása a csoport forrásai közül
+    latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
+
     try:
         response = client.chat.completions.create(
             model=MODEL_NAME,
@@ -197,6 +200,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
                     "image": art.get("image"),
                     "is_synthesized": False,
                     "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
+                    "published_at": int(art.get("published_at", art.get("fetched_at", time.time()))),
                     "title_hu": title_hu,
                     "lead_hu": lead_hu,
                     "content_hu": content_hu,
@@ -219,6 +223,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
             "is_synthesized": True,
             "sources_count": len(filtered_sources),
             "sources": filtered_sources,
+            "published_at": latest_timestamp,
             "title_hu": parsed_article.get("title_hu", ""),
             "lead_hu": parsed_article.get("lead_hu", ""),
             "content_hu": parsed_article.get("content_hu", ""),
@@ -266,6 +271,7 @@ def run_synthesis_direct():
             title_hu = art.get("title", "")
             lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
             content_hu = art.get("summary", "")
+            pub_time = int(art.get("published_at", art.get("fetched_at", time.time())))
 
             synthesized_results.append({
                 "group_id": g_id,
@@ -273,6 +279,7 @@ def run_synthesis_direct():
                 "image": art.get("image"),
                 "is_synthesized": False,
                 "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
+                "published_at": pub_time,
                 "title_hu": title_hu,
                 "lead_hu": lead_hu,
                 "content_hu": content_hu,
