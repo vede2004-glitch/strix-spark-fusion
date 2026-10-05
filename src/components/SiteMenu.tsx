@@ -7,6 +7,7 @@ import { setTheme, useTheme } from "@/lib/theme";
 
 const items = [
   { to: "/", hu: "Főoldal", ro: "Pagina principală", icon: Newspaper },
+  { to: "/osszes", hu: "Minden hír (archívum)", ro: "Toate știrile (arhivă)", icon: Library },
   { to: "/tamogatas", hu: "Támogatás", ro: "Susține-ne", icon: HeartHandshake },
   { to: "/bekuldes", hu: "Hír beküldése", ro: "Trimite o știre", icon: Send },
   { to: "/visszajelzes", hu: "Visszajelzés & Hibabejelentés", ro: "Feedback & Erori", icon: MessageSquareWarning },
