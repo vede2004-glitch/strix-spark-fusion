@@ -74,7 +74,7 @@ function Index() {
         {mobileSearch && <div className="border-t border-border px-4 py-3 md:hidden"><label className="flex items-center rounded-md border border-border bg-secondary px-3"><Search className="mr-2 size-4 text-muted-foreground" /><input autoFocus value={query} onChange={(event) => setQuery(event.target.value)} placeholder={ro ? "Caută știri..." : "Keresés hírekre..."} className="h-10 w-full bg-transparent text-sm outline-none" /></label></div>}
         <nav aria-label={ro ? "Categorii de știri" : "Hírkategóriák"} className="mx-auto flex max-w-7xl gap-2 overflow-x-auto border-t border-border px-4 py-3">
           {categories.map((item) => <Button key={item} variant={category === item ? "default" : "ghost"} size="sm" onClick={() => setCategory(item)} className="whitespace-nowrap">{labelCategory(item)}</Button>)}
-          <Button asChild variant="outline" size="sm" className="ml-auto whitespace-nowrap"><Link to="/osszes">{ro ? "Toate știrile (arhivă)" : "Minden hír (archívum)"}</Link></Button>
+          <Link to="/osszes" className="ml-auto inline-flex items-center whitespace-nowrap rounded-md border border-border px-3 text-sm font-medium hover:border-primary/40 hover:text-primary">{ro ? "Toate știrile (arhivă)" : "Minden hír (archívum)"}</Link>
         </nav>
       </header>
 
