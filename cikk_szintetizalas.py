@@ -20,7 +20,6 @@ os.makedirs("src/data", exist_ok=True)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-
 MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
@@ -339,10 +338,9 @@ def run_synthesis_batch():
             except Exception as e:
                 print(f"⚠️ Hiba a(z) {g_id} válaszának feldolgozásakor: {e}")
 
-  if os.path.exists(BATCH_INPUT_FILE):
+    if os.path.exists(BATCH_INPUT_FILE):
         os.remove(BATCH_INPUT_FILE)
 
-    # ✅ Biztosítja, hogy az src/data könyvtár létezzen a mentés előtt:
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
