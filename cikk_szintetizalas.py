@@ -11,7 +11,6 @@ from openai import OpenAI
 # ==============================================================================
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
 OUTPUT_FILE = "src/data/news.json"
-BATCH_INPUT_FILE = "batch_input.jsonl"
 
 # ✅ Automatikusan létrehozza az src/data mappát, ha még nem létezik:
 os.makedirs("src/data", exist_ok=True)
@@ -167,10 +166,76 @@ FORRÁSOK:
 """
     return prompt, cover_image, sources_used
 
+def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
+    """Közvetlen API hívást végző segédfüggvény egy csoportra."""
+    print(f"🌐 Weboldalak feldolgozása a(z) {g_id} csoporthoz ({len(articles)} forrás)...")
+    prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
+    category = articles[0].get("category", "Általános")
+
+    try:
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "system", "content": "Kizárólag érvényes JSON objektumot adj vissza!"},
+                {"role": "user", "content": prompt}
+            ],
+            response_format={"type": "json_object"}
+        )
+        content_str = response.choices[0].message.content
+        parsed_article = json.loads(content_str)
+
+        if parsed_article.get("skip") is True:
+            print(f"⚠️ Kiszűrve [{g_id}]: A cikkek nem érték el a kívánt témaegyezést.")
+            fallback_entries = []
+            for art in articles:
+                title_hu = art.get("title", "")
+                lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
+                content_hu = art.get("summary", "")
+                fallback_entries.append({
+                    "group_id": g_id,
+                    "category": art.get("category", "Általános"),
+                    "image": art.get("image"),
+                    "is_synthesized": False,
+                    "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
+                    "title_hu": title_hu,
+                    "lead_hu": lead_hu,
+                    "content_hu": content_hu,
+                    "title_ro": title_hu,
+                    "lead_ro": lead_hu,
+                    "content_ro": content_hu
+                })
+            return fallback_entries, False
+
+        used_indices = parsed_article.get("used_sources_indices", [])
+        if used_indices:
+            filtered_sources = [sources_used[i - 1] for i in used_indices if 0 < i <= len(sources_used)]
+        else:
+            filtered_sources = sources_used
+
+        synthesized_entry = {
+            "group_id": g_id,
+            "category": category,
+            "image": cover_image,
+            "is_synthesized": True,
+            "sources_count": len(filtered_sources),
+            "sources": filtered_sources,
+            "title_hu": parsed_article.get("title_hu", ""),
+            "lead_hu": parsed_article.get("lead_hu", ""),
+            "content_hu": parsed_article.get("content_hu", ""),
+            "title_ro": parsed_article.get("title_ro", ""),
+            "lead_ro": parsed_article.get("lead_ro", ""),
+            "content_ro": parsed_article.get("content_ro", "")
+        }
+        return [synthesized_entry], True
+
+    except Exception as e:
+        print(f"⚠️ Hiba a(z) {g_id} feldolgozásakor: {e}")
+        return [], False
+
 # ==============================================================================
-# 3. BATCH API FOLYAMAT
+# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT
 # ==============================================================================
-def run_synthesis_batch():
+def run_synthesis_direct():
     if not os.path.exists(MEMORY_FILE):
         print(f"⚠️ A memóriafájl ({MEMORY_FILE}) nem található!")
         return
@@ -186,41 +251,16 @@ def run_synthesis_batch():
         if g_id:
             grouped_data.setdefault(g_id, []).append(item)
 
-    batch_requests = []
-    metadata_map = {}
     synthesized_results = []
     single_count = 0
+    multi_groups = []
 
     print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
 
+    # Szétválasztjuk az 1 forrásos és többforrásos híreket
     for g_id, articles in grouped_data.items():
-        existing_synthesized = existing_articles.get(g_id)
-
         if len(articles) > 1:
-            print(f"🌐 Weboldalak feldolgozása a(z) {g_id} csoporthoz ({len(articles)} forrás)...")
-            prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
-            
-            metadata_map[g_id] = {
-                "cover_image": cover_image,
-                "sources_used": sources_used,
-                "raw_articles": articles,
-                "category": articles[0].get("category", "Általános")
-            }
-
-            req_obj = {
-                "custom_id": g_id,
-                "method": "POST",
-                "url": "/v1/chat/completions",
-                "body": {
-                    "model": MODEL_NAME,
-                    "messages": [
-                        {"role": "system", "content": "Kizárólag érvényes JSON objektumot adj vissza!"},
-                        {"role": "user", "content": prompt}
-                    ],
-                    "response_format": {"type": "json_object"}
-                }
-            }
-            batch_requests.append(req_obj)
+            multi_groups.append((g_id, articles, existing_articles.get(g_id)))
         else:
             art = articles[0]
             title_hu = art.get("title", "")
@@ -242,116 +282,31 @@ def run_synthesis_batch():
             })
             single_count += 1
 
-    if not batch_requests:
-        print("ℹ️ Nincs összevonandó (többforrásos) hír.")
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(synthesized_results, f, ensure_ascii=False, indent=2)
-        return
+    # Párhuzamosan futtatjuk az OpenAI API hívásokat a többforrásos cikkekre
+    if multi_groups:
+        print(f"🚀 {len(multi_groups)} db többforrásos csoport feldolgozása indult párhuzamosan...")
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = [
+                executor.submit(process_group_direct, g_id, articles, existing)
+                for g_id, articles, existing in multi_groups
+            ]
+            for future in futures:
+                entries, is_synth = future.result()
+                synthesized_results.extend(entries)
+                if not is_synth:
+                    single_count += len(entries)
 
-    with open(BATCH_INPUT_FILE, "w", encoding="utf-8") as f:
-        for req in batch_requests:
-            f.write(json.dumps(req, ensure_ascii=False) + "\n")
-
-    print(f"\n🚀 {len(batch_requests)} db feladat feltöltése a Batch API-ba...")
-    
-    with open(BATCH_INPUT_FILE, "rb") as file_data:
-        batch_file = client.files.create(
-            file=file_data,
-            purpose="batch"
-        )
-
-    batch_job = client.batches.create(
-        input_file_id=batch_file.id,
-        endpoint="/v1/chat/completions",
-        completion_window="24h"
-    )
-
-    print(f"⏳ Batch elindítva (ID: {batch_job.id}). Várakozás a feldolgozásra...")
-
-    while True:
-        status = client.batches.retrieve(batch_job.id)
-        print(f"   Státusz: {status.status} | Elkészült: {status.request_counts.completed}/{status.request_counts.total}")
-        
-        if status.status in ["completed", "failed", "canceled"]:
-            break
-        time.sleep(10)
-
-    if status.status == "completed" and status.output_file_id:
-        file_response = client.files.content(status.output_file_id)
-        results_content = file_response.text
-
-        for line in results_content.strip().split("\n"):
-            res = json.loads(line)
-            g_id = res["custom_id"]
-            
-            try:
-                content_str = res["response"]["body"]["choices"][0]["message"]["content"]
-                parsed_article = json.loads(content_str)
-                
-                if parsed_article.get("skip") is True:
-                    print(f"⚠️ Kiszűrve [{g_id}]: A cikkek nem érték el a kívánt témaegyezést.")
-                    for art in metadata_map[g_id]["raw_articles"]:
-                        title_hu = art.get("title", "")
-                        lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
-                        content_hu = art.get("summary", "")
-
-                        synthesized_results.append({
-                            "group_id": g_id,
-                            "category": art.get("category", "Általános"),
-                            "image": art.get("image"),
-                            "is_synthesized": False,
-                            "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
-                            "title_hu": title_hu,
-                            "lead_hu": lead_hu,
-                            "content_hu": content_hu,
-                            "title_ro": title_hu,
-                            "lead_ro": lead_hu,
-                            "content_ro": content_hu
-                        })
-                        single_count += 1
-                else:
-                    used_indices = parsed_article.get("used_sources_indices", [])
-                    all_sources = metadata_map[g_id]["sources_used"]
-                    
-                    if used_indices:
-                        filtered_sources = [all_sources[i - 1] for i in used_indices if 0 < i <= len(all_sources)]
-                    else:
-                        filtered_sources = all_sources
-
-                    synthesized_entry = {
-                        "group_id": g_id,
-                        "category": metadata_map[g_id]["category"],
-                        "image": metadata_map[g_id]["cover_image"],
-                        "is_synthesized": True,
-                        "sources_count": len(filtered_sources),
-                        "sources": filtered_sources,
-                        "title_hu": parsed_article.get("title_hu", ""),
-                        "lead_hu": parsed_article.get("lead_hu", ""),
-                        "content_hu": parsed_article.get("content_hu", ""),
-                        "title_ro": parsed_article.get("title_ro", ""),
-                        "lead_ro": parsed_article.get("lead_ro", ""),
-                        "content_ro": parsed_article.get("content_ro", "")
-                    }
-                    
-                    synthesized_results.append(synthesized_entry)
-
-            except Exception as e:
-                print(f"⚠️ Hiba a(z) {g_id} válaszának feldolgozásakor: {e}")
-
-    if os.path.exists(BATCH_INPUT_FILE):
-        os.remove(BATCH_INPUT_FILE)
-
+    # Mentés a kimeneti JSON fájlba
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(synthesized_results, f, ensure_ascii=False, indent=2)
 
     print("\n" + "=" * 60)
-    print(f"✅ BATCH FOLYAMAT KÉSZ!")
+    print(f"✅ FOLYAMAT KÉSZ!")
     print(f"🤖 AI által összevont / bővített magyar és román hírek: {len(synthesized_results) - single_count} db")
     print(f"📰 Egyedi / Kiszűrt hírek: {single_count} db")
     print(f"💾 Összesen {len(synthesized_results)} cikk elmentve a(z) {OUTPUT_FILE} fájlba.")
     print("=" * 60)
 
 if __name__ == "__main__":
-    run_synthesis_batch()
+    run_synthesis_direct()
