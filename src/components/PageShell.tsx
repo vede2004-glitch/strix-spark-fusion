@@ -3,6 +3,7 @@ import type { ReactNode } from "react";
 import { Button } from "@/components/ui/button";
 import { SiteMenu } from "@/components/SiteMenu";
 import { LANGS, setLang, useLang } from "@/lib/lang";
+import stirixLogo from "@/assets/stirix-logo-blue.webp.asset.json";
 
 export function PageShell({ eyebrow, title, intro, children }: { eyebrow: string; title: string; intro?: string; children: ReactNode }) {
   const lang = useLang();
@@ -10,7 +11,7 @@ export function PageShell({ eyebrow, title, intro, children }: { eyebrow: string
     <div className="min-h-screen bg-background font-sans text-foreground antialiased">
       <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur-xl">
         <div className="mx-auto flex h-17 max-w-7xl items-center justify-between px-4">
-          <Link to="/" aria-label="Stirix.ro"><img src="/stirix-logo.png" alt="Stirix.ro" className="h-11 w-28 object-contain object-left sm:h-13 sm:w-34" /></Link>
+          <Link to="/" aria-label="Stirix.ro"><img src={stirixLogo.url} alt="Stirix.ro" className="h-11 w-28 object-contain object-left sm:h-13 sm:w-34" /></Link>
           <div className="flex items-center gap-2">
             {LANGS.map((l) => <Button key={l} variant="ghost" size="sm" onClick={() => setLang(l)} className={lang === l ? "text-primary" : ""}>{l.toUpperCase()}</Button>)}
             <SiteMenu />
