@@ -5,7 +5,6 @@ import { Search, X } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
-import stirixLogo from "@/assets/stirix-logo-blue-cropped.png.asset.json";
 import borderCrossing from "@/assets/stirix-border-crossing.jpg";
 import hospital from "@/assets/stirix-hospital.jpg";
 import harghita from "@/assets/stirix-harghita.jpg";
@@ -55,7 +54,7 @@ function Index() {
         <div className="mx-auto grid h-17 max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-4 sm:flex sm:justify-between">
           <div className="flex min-w-0 items-center gap-5 md:gap-8">
             <a href="#top" aria-label="Stirix főoldal" className="flex min-w-0 items-center gap-3">
-              <img src={stirixLogo.url} alt="Stirix.ro" className="h-10 w-32 shrink-0 object-contain object-left sm:w-40" />
+              <img src="/stirix-logo.png" alt="Stirix.ro" className="h-10 w-32 shrink-0 object-contain object-left sm:w-40" />
               <span className="hidden border-l border-border pl-3 text-[9px] font-bold uppercase leading-tight text-muted-foreground lg:block">{ro ? <>Toate știrile<br />într-un singur loc</> : <>Minden hír<br />egy helyen</>}</span>
             </a>
             <label className="hidden items-center rounded-full border border-border bg-secondary px-4 py-2 focus-within:border-primary/50 md:flex">
@@ -121,7 +120,7 @@ function Index() {
         </section>
       </main>
 
-      <footer className="mt-20 border-t border-border py-10"><div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 px-4 sm:flex-row"><img src={stirixLogo.url} alt="Stirix.ro" className="h-10 w-40 object-contain" /><p className="text-center text-[10px] font-bold uppercase text-muted-foreground">© 2026 Stirix.ro · {ro ? "Toate știrile într-un singur loc" : "Minden hír egy helyen"}</p><div className="flex gap-5 text-[10px] font-bold uppercase text-muted-foreground"><a href="#top" className="hover:text-primary">{ro ? "Surse" : "Források"}</a><a href="#top" className="hover:text-primary">{ro ? "Contact" : "Kapcsolat"}</a></div></div></footer>
+      <footer className="mt-20 border-t border-border py-10"><div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 px-4 sm:flex-row"><img src="/stirix-logo.png" alt="Stirix.ro" className="h-10 w-40 object-contain" /><p className="text-center text-[10px] font-bold uppercase text-muted-foreground">© 2026 Stirix.ro · {ro ? "Toate știrile într-un singur loc" : "Minden hír egy helyen"}</p><div className="flex gap-5 text-[10px] font-bold uppercase text-muted-foreground"><a href="#top" className="hover:text-primary">{ro ? "Surse" : "Források"}</a><a href="#top" className="hover:text-primary">{ro ? "Contact" : "Kapcsolat"}</a></div></div></footer>
     </div>
   );
 }
