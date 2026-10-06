@@ -155,6 +155,18 @@
   button, a, input { letter-spacing: 0; }
 }
 
+.brand-logo-light {
+  display: none;
+}
+
+.light .brand-logo-dark {
+  display: none;
+}
+
+.light .brand-logo-light {
+  display: block;
+}
+
 @keyframes stirix-enter {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
