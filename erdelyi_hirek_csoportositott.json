@@ -461,38 +461,6 @@
     ]
   },
   {
-    "group_id": "group_1791195406_27",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "Kiderült, honnan ömlöttek milliárdok a Megafonnak – Mészáros-akták I.",
-        "link": "https://transtelex.ro/direkt36/2026/10/05/kiderult-honnan-omlottek-milliardok-a-megafonnak-meszaros-aktak-i",
-        "image": "https://assets.telex.hu/images/20261004/1791133034-temp-hk17q7eckbqn6cfjdkp_cimlap-normal.jpg",
-        "summary": "A Direkt36 birtokába kerültek Mészáros Lőrinc egyik legfontosabb cégének működéséről szóló belső iratok. Kiderült belőlük például az, hogy a közpénzből működő vállalat hatalmas összegeket adott a Fidesz propagandáját terjesztő Megafonnak.",
-        "category": "Általános",
-        "published_at": 1791176409.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791195406_28",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "A jobboldali Flávio Bolsonaro ugyan nyert Brazíliában, de az elnökségről a második forduló dönt majd",
-        "link": "https://transtelex.ro/kulfold/2026/10/05/luiz-inacio-lula-da-silva-flavio-bolsonaro-brazilia-elnokvalasztas-elso-fordulo",
-        "image": "https://assets.telex.hu/images/20261005/1791172105-temp-hmu9letbgijh6dcihnf_cimlap-normal.jpg",
-        "summary": "Lula, a jelenlegi elnök elismerte, hogy az eredmény váratlanul érte. Ugyanakkor hangsúlyozta, hogy a verseny még nem ért véget.",
-        "category": "Általános",
-        "published_at": 1791172223.0
-      }
-    ]
-  },
-  {
     "group_id": "group_1791195407_48",
     "category": "Általános",
     "articles_count": 1,
@@ -2819,6 +2787,54 @@
         "summary": "Bármely idegen nyelvet bármilyen szinten beszélők esetén a legismertebb szavak közé tartozik a köszönöm. A magyar nyelvet idegen nyelvként használók körében nem könnyű kiejteni a három – többnyire – ismeretlen ö hangot. A magyart néhány szó erejéig törő románok többsége akcentussal, sokszor hangzattalanul, ötelenítve teszi. Megkockáztatom kijelenteni, tudományosan alátámasztható háttér nélkül, hogy legalább olyan népszerű […]",
         "category": "Általános",
         "published_at": 1791300983.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791349563_182",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Előre hozott választásokba torkollt egy 87 éves nyugdíjas kilakoltatása",
+        "link": "https://maszol.ro/kulfold/Elore-hozott-valasztasokba-torkollt-egy-87-eves-nyugdijas-kilakoltatasa",
+        "image": "https://maszol.ro/resized/2026_oktober/6/cikk_agerpres_19707511.jpg",
+        "summary": "Az új választásoktól a kormánytöbbség megszilárdítását várja, miközben a felmérések az ellenzék győzelmét vetítik előre.",
+        "category": "Általános",
+        "published_at": 1791347460.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791349563_183",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Uniós biztos: mielőbb korlátozni kell a kiskorúak közösségi média használatát",
+        "link": "https://maszol.ro/kulfold/Unios-biztos-mielobb-korlatozni-kell-a-kiskoruak-kozossegi-media-hasznalatat",
+        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_tiktok-unsplash_(1).jpg",
+        "summary": "Mielőbb jogszabállyá kell válnia a gyermekek online védelmét szolgáló európai uniós tervezetnek, mert a kiskorúak védelmében minden nap számít.",
+        "category": "Általános",
+        "published_at": 1791348180.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791349563_184",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Kallas: az EU egységesen elítéli az orosz „álválasztásokat”",
+        "link": "https://maszol.ro/kulfold/Kallas-az-EU-egysegesen-eliteli-az-orosz-alvalasztasokat",
+        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_agerpres_18592481_(2).jpg",
+        "summary": "Az Európai Unió egységesen elítéli az orosz „álválasztásokat”, amelyek sértést jelentenek Ukrajna, az orosz nép és a demokrácia számára.",
+        "category": "Általános",
+        "published_at": 1791349379.0
       }
     ]
   }
