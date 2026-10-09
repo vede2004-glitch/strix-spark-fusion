@@ -15,7 +15,7 @@ export const Route = createFileRoute("/hir/$id")({
   },
   head: ({ loaderData }) => {
     const title = loaderData ? `${loaderData.title} – Stirix.ro` : "Hír – Stirix.ro";
-    const desc = plainBold(loaderData?.lead).slice(0, 160) ?? "Stirix.ro hír";
+    const desc = plainBold(loaderData?.lead ?? "").slice(0, 160) ?? "Stirix.ro hír";
     const meta = [
       { title },
       { name: "description", content: desc },
