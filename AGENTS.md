@@ -11,4 +11,4 @@
 
 - Keep the Stirix interface dark-first with semantic graphite/emerald tokens, Sora headings, and Manrope body text so new screens remain brand-consistent.
 - The Forrásaink page shows a fixed, hand-maintained source list; do not build editable source-manager UIs unless the user asks again.
-- Serve the primary brand logo from `/stirix-logo.png` (dark theme) and `/stirix-logo-dark.png` (light theme) in `public`, switched via BrandLogo; favicon is the X mark so external deployments do not depend on Lovable asset routing.
+- Serve brand logos from real files in `public` (never asset pointers) so external deployments don't depend on Lovable asset routing; BrandLogo picks by language and theme: HU shows `/hirx-logo.png` (dark theme) / `/hirx-logo-dark.png` (light theme), RO shows `/stirix-logo.png` / `/stirix-logo-dark.png`; favicon is the X mark.
