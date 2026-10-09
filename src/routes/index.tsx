@@ -1,4 +1,5 @@
 import { BrandLogo } from "@/components/BrandLogo";
+import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { synthesized, singles, timeAgo, formatDate, isRecent, isHungarianSource, tr, CATEGORIES, ALL, type NewsItem } from "@/lib/news";
 import { useLang, setLang, LANGS } from "@/lib/lang";
@@ -86,12 +87,12 @@ function Index() {
             <div className="absolute inset-0 bg-[linear-gradient(to_top,var(--background)_0%,var(--overlay)_42%,transparent_100%)]" />
             <div className="absolute inset-x-0 bottom-0 p-5 sm:p-8">
               <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ {ro ? "Știre sintetizată cu AI" : "AI Összesített Hír"}</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{labelCategory(lead.category)} · {timeAgo(lead.published_at, lang)} · {formatDate(lead.published_at, lang)}</span></div>
-              <h1 className="max-w-3xl font-display text-3xl font-extrabold leading-[1.1] sm:text-5xl">{t(lead).title}</h1>
-              <p className="mt-4 hidden max-w-2xl text-base font-medium text-foreground/65 line-clamp-3 sm:block">{t(lead).lead}</p>
+              <h1 className="max-w-3xl font-display text-3xl font-extrabold leading-[1.1] sm:text-5xl"><RichText text={t(lead).title} /></h1>
+              <p className="mt-4 hidden max-w-2xl text-base font-medium text-foreground/65 line-clamp-3 sm:block"><RichText text={t(lead).lead} /></p>
               <p className="mt-5 text-xs font-medium uppercase text-muted-foreground">{ro ? `Pe baza a ${lead.sources.length} surse` : `${lead.sources.length} forrás alapján`}</p>
             </div>
           </Link>
-          {[side1, side2].filter((n): n is NewsItem => !!n).map((n) => <Link key={n.group_id} to="/hir/$id" params={{ id: n.group_id }} className="group col-span-12 flex min-h-44 flex-col justify-between rounded-lg border border-border bg-card p-6 transition-colors hover:border-primary/30 sm:col-span-6 lg:col-span-4 lg:min-h-0"><div><p className="mb-3 text-[10px] font-bold uppercase text-primary">✨ AI · {labelCategory(n.category)}</p><h2 className="font-display text-xl font-bold leading-tight line-clamp-4 transition-colors group-hover:text-primary">{t(n).title}</h2></div><div className="mt-4 flex items-center justify-between"><span className="text-[10px] font-medium uppercase text-muted-foreground">{formatDate(n.published_at, lang)}</span><span className="grid size-7 place-items-center rounded-full border border-border text-[10px] text-muted-foreground" aria-label={ro ? `${n.sources.length} surse` : `${n.sources.length} forrás`}>{n.sources.length}</span></div></Link>)}
+          {[side1, side2].filter((n): n is NewsItem => !!n).map((n) => <Link key={n.group_id} to="/hir/$id" params={{ id: n.group_id }} className="group col-span-12 flex min-h-44 flex-col justify-between rounded-lg border border-border bg-card p-6 transition-colors hover:border-primary/30 sm:col-span-6 lg:col-span-4 lg:min-h-0"><div><p className="mb-3 text-[10px] font-bold uppercase text-primary">✨ AI · {labelCategory(n.category)}</p><h2 className="font-display text-xl font-bold leading-tight line-clamp-4 transition-colors group-hover:text-primary"><RichText text={t(n).title} /></h2></div><div className="mt-4 flex items-center justify-between"><span className="text-[10px] font-medium uppercase text-muted-foreground">{formatDate(n.published_at, lang)}</span><span className="grid size-7 place-items-center rounded-full border border-border text-[10px] text-muted-foreground" aria-label={ro ? `${n.sources.length} surse` : `${n.sources.length} forrás`}>{n.sources.length}</span></div></Link>)}
         </section>}
 
         <section className="mt-12 grid grid-cols-12 gap-8">
@@ -101,8 +102,8 @@ function Index() {
               {rest.map((story, i) => <Link key={story.group_id} to="/hir/$id" params={{ id: story.group_id }} className="group min-w-0">
                 <div className="relative mb-4 aspect-video overflow-hidden rounded-lg border border-border bg-card"><img src={img(story, i + 1)} loading="lazy" alt="" className="size-full object-cover transition-transform duration-500 group-hover:scale-105" /><span className="absolute right-3 top-3 rounded-sm border border-primary/20 bg-background/85 px-2 py-1 text-[9px] font-bold uppercase text-primary backdrop-blur">✨ {ro ? "Sintetizat cu AI" : "AI Összesített"}</span></div>
                 <div className="mb-2 flex items-center justify-between gap-3 text-[10px] font-bold uppercase text-muted-foreground"><span>{labelCategory(story.category)}</span><span>{formatDate(story.published_at, lang)}</span></div>
-                <h3 className="font-display text-lg font-bold leading-tight transition-colors group-hover:text-primary">{t(story).title}</h3>
-                <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground">{t(story).lead}</p>
+                <h3 className="font-display text-lg font-bold leading-tight transition-colors group-hover:text-primary"><RichText text={t(story).title} /></h3>
+                <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground"><RichText text={t(story).lead} /></p>
                 <p className="mt-3 text-[10px] font-bold uppercase text-primary">{ro ? `Pe baza a ${story.sources.length} surse` : `${story.sources.length} forrás alapján`}</p>
               </Link>)}
             </div> : <div className="rounded-lg border border-border bg-card p-8 text-center text-sm text-muted-foreground">{lead ? (ro ? "Nu mai sunt știri sintetizate cu AI în această secțiune." : "Nincs több AI összesített hír ebben a nézetben.") : (ro ? "Niciun rezultat. Încearcă altă căutare sau categorie." : "Nincs találat. Próbálj másik keresést vagy kategóriát.")}</div>}
@@ -112,7 +113,7 @@ function Index() {
             <div className="rounded-lg border border-border bg-card p-6 lg:sticky lg:top-32">
               <h2 className="mb-6 flex items-center justify-between font-display text-lg font-extrabold uppercase">{ro ? "Ultimele știri" : "Friss hírek"}<span className="flex items-center gap-2 font-sans text-[10px] text-muted-foreground"><span className="size-2 rounded-full bg-primary animate-live" />{ro ? "Live" : "Élő"}</span></h2>
               <ol className="max-h-[60vh] space-y-4 overflow-y-auto border-l border-border pl-4">
-                {liveList.map((n) => <li key={n.group_id} className="relative"><span className="absolute -left-[21px] top-1.5 size-2 rounded-full bg-primary/60" /><Link to="/hir/$id" params={{ id: n.group_id }} className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{formatDate(n.published_at, lang)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary">{t(n).title}</h3></Link></li>)}
+                {liveList.map((n) => <li key={n.group_id} className="relative"><span className="absolute -left-[21px] top-1.5 size-2 rounded-full bg-primary/60" /><Link to="/hir/$id" params={{ id: n.group_id }} className="group block"><span className="text-[10px] font-bold uppercase text-muted-foreground">{formatDate(n.published_at, lang)} · {n.sources[0]?.source}</span><h3 className="mt-1 text-sm font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={t(n).title} /></h3></Link></li>)}
                 {!liveList.length && <li className="text-xs text-muted-foreground">{ro ? "Nu sunt știri recente." : "Nincs friss hír."}</li>}
               </ol>
               <div className="mt-8 border-t border-border pt-8"><div className="rounded-md border border-primary/10 bg-primary/5 p-4"><p className="mb-2 text-[11px] font-bold uppercase text-primary">Stirix AI</p><p className="text-xs leading-relaxed text-foreground/70">{ro ? "Știrile marcate cu ✨ sunt sintetizate cu AI din mai multe surse, pentru a vedea informația completă într-un singur loc." : "A ✨ jelölésű hírek több forrásból, AI-jal összefűzve készülnek, hogy egy helyen lásd a teljes hírt."}</p></div></div>

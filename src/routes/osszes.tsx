@@ -1,4 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
+import { RichText } from "@/components/RichText";
 import { useMemo, useState } from "react";
 import { PageShell } from "@/components/PageShell";
 import { Button } from "@/components/ui/button";
@@ -57,8 +58,8 @@ function AllNews() {
                   {n.is_synthesized && <span className="text-primary">✨ AI · </span>}
                   {ro ? categoryRo[n.category] ?? n.category : n.category} · {formatDate(n.published_at, lang)} · {n.sources.length > 1 ? (ro ? `${n.sources.length} surse` : `${n.sources.length} forrás`) : n.sources[0]?.source}
                 </p>
-                <h2 className="mt-1 font-display text-base font-bold leading-snug transition-colors group-hover:text-primary">{tr(n, lang).title}</h2>
-                <p className="mt-1 line-clamp-2 text-sm text-muted-foreground">{tr(n, lang).lead}</p>
+                <h2 className="mt-1 font-display text-base font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={tr(n, lang).title} /></h2>
+                <p className="mt-1 line-clamp-2 text-sm text-muted-foreground"><RichText text={tr(n, lang).lead} /></p>
               </div>
             </Link>
           </li>
