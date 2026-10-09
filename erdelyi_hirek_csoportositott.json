@@ -1,261 +1,5 @@
 [
   {
-    "group_id": "group_1791396267_146",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Drámai részletek a Flydubai-incidensről: Izrael akár le is lőhette volna a gépet",
-        "link": "https://maszol.ro/kulfold/Dramai-reszletek-a-Flydubai-incidensrol-Izrael-akar-le-is-lohette-volna-a-gepet",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_netanjahu_ms_leanie_philips_fboldal.jpg",
-        "summary": "Az izraeli protokoll szerint egy az ország felé tartó eltérített repülőgépet szükség esetén meg kell semmisíteni.",
-        "category": "Általános",
-        "published_at": 1791393000.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_147",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Munkát keres vagy pályát választ? – Álláskeresők, cégek és végzősök találkoznak a Sepsi Arénában",
-        "link": "https://maszol.ro/belfold/Munkat-keres-vagy-palyat-valaszt-Allaskeresok-cegek-es-vegzosok-talalkoznak-a-Sepsi-Arenaban",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_20261007_foto_KissZsombor_karrierborze_ZsigmondJozsef_TeglasFerenc_BodorLaszlo.jpg",
-        "summary": "Sepsiszentgyörgyön egy helyen találkozhatnak azok, akik munkát keresnek, azok, akik alkalmazottat vennének fel, és azok a végzős diákok, akik még csak most próbálják eldönteni, merre induljanak tovább.",
-        "category": "Gazdaság",
-        "published_at": 1791392340.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_150",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "RMDSZ: Helyben marad az alapítványok által befizetett személyi jövedelemadó",
-        "link": "https://maszol.ro/belfold/RMDSZ-Helyben-marad-az-alapitvanyok-altal-befizetett-szemelyi-jovedelemado",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_alapitvany_RMDSZ.jpg",
-        "summary": "Döntőházként fogadta el a Képviselőház az RMDSZ által kidolgozott törvénytervezetet, amely megkönnyíti a több településen tevékenykedő alapítványok működését.",
-        "category": "Politika",
-        "published_at": 1791395040.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_151",
-    "category": "Közélet",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Több mint száz zilahi diákot jutalmazott az önkormányzat",
-        "link": "https://maszol.ro/belfold/Tobb-mint-szaz-zilahi-diakot-jutalmazott-az-onkormanyzat",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_zilah_fazakas_m.jpg",
-        "summary": "A tanulásban elért kimagasló eredmények, a kitartó munka és a diákokat felkészítő pedagógusok előtt tisztelgett Zilah Polgármesteri Hivatala az idei Oktatás Gáláján.",
-        "category": "Közélet",
-        "published_at": 1791394533.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_152",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Gyakorlatilag kész a kézdivásárhelyi uszoda, de még akad néhány leküzdendő akadály",
-        "link": "https://maszol.ro/belfold/Gyakorlatilag-kesz-a-kezdivasarhelyi-uszoda-de-meg-akad-nehany-lekuzdendo-akadaly",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_uszoda.jpg",
-        "summary": "Lényegében elkészült Kézdivásárhely régóta várt fedett uszodája, a nyitás időpontját azonban egyelőre nem lehet bekarikázni a naptárban.",
-        "category": "Általános",
-        "published_at": 1791390840.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_153",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Kormányalakítás: három párttal egyeztet csütörtökön Luca Niculescu",
-        "link": "https://maszol.ro/belfold/Kormanyalakitas-harom-parttal-egyeztet-csutortokon-Luca-Niculescu",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_Luca_N_face.jpg",
-        "summary": "Három parlamenti párttal egyeztet a kormányalakításról és a kormányprogramról csütörtökön Luca Niculescu kijelölt miniszterelnök.",
-        "category": "Általános",
-        "published_at": 1791390120.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_154",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Négy kézdivásárhelyi utcafelújítást készítenek elő, de idén már nincs rá pénz",
-        "link": "https://maszol.ro/belfold/Negy-kezdivasarhelyi-utcafelujitast-keszitenek-elo-de-iden-mar-nincs-ra-penz",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_utcak.jpg",
-        "summary": "Több kézdivásárhelyi utca korszerűsítésének dokumentációját készítik elő, hogy amint ismét megnyílik a finanszírozás lehetősége, elindulhassanak a munkálatok.",
-        "category": "Gazdaság",
-        "published_at": 1791389460.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_155",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Elszöktetett egy 12 éves kislányt – Előzetes letartóztatásba került a 18 éves fiatal",
-        "link": "https://maszol.ro/belfold/Elszoktetett-egy-12-eves-kislanyt-Elozetes-letartoztatasba-kerult-a-18-eves-fiatal",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_letartoztatas_bilincs_Adobe_Stock.jpg",
-        "summary": "Előzetes letartóztatásba helyeztek egy 18 éves Prahova megyei fiatalt kiskorú elleni erőszak és kiskorúak szexuális célú toborzása miatt, miután rávett egy 12 éves kislányt, hogy szökjön el vele otthonról.",
-        "category": "Általános",
-        "published_at": 1791388680.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_156",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Terrorista fenyegetések miatt vették őrizetbe a bangladesi futárt bántalmazó fiatalembert",
-        "link": "https://maszol.ro/belfold/Terrorista-fenyegetesek-miatt-vettek-orizetbe-a-bangladesi-futart-bantalmazo-fiatalembert",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_bilincs_elfogas_letartoztatas_orizet_bunozo_buncselekmeny_rendorseg_politie_PEXELS_7.jpg",
-        "summary": "Vallásos és ideológiai indíttatásból elkövetett terrorista fenyegetések miatt őrizetbe vették azt a 21 éves fiatalembert, aki tavaly augusztusban bántalmazott egy bangladesi futárt.",
-        "category": "Általános",
-        "published_at": 1791388500.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791373617_173",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "Új határátkelőt nyitottak meg Ukrajna felé Máramarosszigetnél",
-        "link": "https://transtelex.ro/kozelet/2026/10/07/uj-hataratkelot-nyitottak-meg-ukrajna-fele-maramarosszigetnel",
-        "image": "https://assets.telex.hu/images/20261007/1791395389-temp-ufbmlfo6758u8bjnlcf_cimlap-normal.jpg",
-        "summary": "Ugyanakkor egy új Tisza-hidet is átadtak a forgalomnak.",
-        "category": "Általános",
-        "published_at": 1791395413.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791396267_165",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "Alkotmányellenes az a törvénycikk, amely drasztikusan korlátozta a medvék okozta sérülésekért járó kártérítést",
-        "link": "https://transtelex.ro/kozelet/2026/10/07/alkotmanyellenes-az-a-torvenycikk-amely-drasztikusan-csokkentette-a-medve-ember-konfliktusok-aldozatinak-jaro-karteritest",
-        "image": "https://assets.telex.hu/images/20261007/1791394849-temp-n2cuq1f3br22fnpncfk_cimlap-normal.jpg",
-        "summary": "Az Alkotmánybíróság diszkriminatívnak találta azt a jogszabályt, mert az a jövedelemhez kötötte az erkölcsi kártérítést, és egy bankigazgató ugyanazért a sérülésért nagyobb összeget kaphatott, mint egy minimálbéres alkalmazott.",
-        "category": "Általános",
-        "published_at": 1791395036.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791414143_171",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Kreml: az Oroszországgal való konfrontálódás zsákutca",
-        "link": "https://maszol.ro/kulfold/Kreml-az-Oroszorszaggal-valo-konfrontalodas-zsakutca",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_peszkov_kreml_agerpres_20250519_2.jpg",
-        "summary": "Az európai országok az Európai Unió militarizálásának megszállottjai, de az Oroszországgal való konfrontálódás zsákutca – jelentette ki Dmitrij Peszkov, a Kreml szóvivője.",
-        "category": "Általános",
-        "published_at": 1791399240.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791414143_172",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "A Földszint vetítésével elkezdődött a 26. Filmtettfeszt Erdélyi Magyar Filmszemle",
-        "link": "https://maszol.ro/kultura/A-Foldszint-vetitesevel-elkezdodott-a-26-Filmtettfeszt-Erdelyi-Magyar-Filmszemle",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_news_esemenyek-ujratervezes.jpg",
-        "summary": "A fesztivál a következő napokban minden eddiginél több, 19 helyszínen zajlik.",
-        "category": "Kultúra",
-        "published_at": 1791398580.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791414143_173",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Férfiak százai végeztettek 5000 lejes szervnagyobbítást – A hatóságok véget vetettek az üzletnek",
-        "link": "https://maszol.ro/belfold/Ferfiak-szazai-vegeztettek-5000-lejes-szervnagyobbitast-A-hatosagok-veget-vetettek-az-uzletnek",
-        "image": "https://maszol.ro/resized/2026_oktober/7/cikk_szomoru_ferfi_Pexels.jpg",
-        "summary": "Nők és férfiak százai tették ki magukat veszélynek egy konstancai tetoválószalonban, amelynek tulajdonosa arc- és intim zónás implantátumokat helyezett be, jóllehet semmilyen orvosi végzettséggel nem rendelkezett.",
-        "category": "Általános",
-        "published_at": 1791396780.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791414143_174",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Vásárhely.ma",
-        "title": "Münchenben mutatkozik be a Why Mureș",
-        "link": "https://www.vasarhely.ma/munchenben-mutatkozik-be-a-why-mures/",
-        "image": "https://www.vasarhely.ma/wp-content/uploads/2026/10/839935311_122190127334610771_3810228366223149495_n-1200x628-cropped.jpg",
-        "summary": "Első alkalommal közös márka alatt mutatja be befektetési lehetőségeit Maros megye a müncheni EXPO REAL ingatlan- és befektetési szakkiállításon. A „Why Mureș” kezdeményezésben a megyei és a marosvásárhelyi önkormányzat, az üzleti és az egyetemi szféra közösen jelenik meg, a szervezők szerint pedig a térségben jelenleg több mint 3 milliárd euró értékű köz- és magánberuházás van […]",
-        "category": "Gazdaság",
-        "published_at": 1791399546.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791414143_175",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Vásárhely.ma",
-        "title": "Megkönnyítik a motorosok életét",
-        "link": "https://www.vasarhely.ma/megkonnyitik-a-motorosok-eletet/",
-        "image": "https://www.vasarhely.ma/wp-content/uploads/2026/10/2151500525-1200x628-cropped.jpg",
-        "summary": "Előremehetnek a piros lámpánál vagy a vasúti átjárónál keletkező sorban, buszsávot is használhatnak ezentúl a motorosok és robogósok – döntött a KRESZ módosításáról a Képviselőház. A motorosok és robogósok életén könnyítő forgalmi szabályokat fogadott el a román parlament. Az alsóház döntőházként szavazta meg azt a törvénytervezetet, amelynek célja, hogy a KRESZ szabályai jobban igazodjanak a […]",
-        "category": "Politika",
-        "published_at": 1791397837.0
-      }
-    ]
-  },
-  {
     "group_id": "group_1791451895_135",
     "category": "Általános",
     "articles_count": 1,
@@ -684,22 +428,6 @@
         "summary": "Mindeközben szerdán hétórás ülősztrájkot tartottak az egyetemen, a demonstrálók így fejezték ki szolidaritásukat a Jane Doe néven elhíresült egykori diákkal.",
         "category": "Általános",
         "published_at": 1791427802.0
-      }
-    ]
-  },
-  {
-    "group_id": "group_1791451896_162",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "Az ügyvédjei szerint Christa Pike dühös és zavarodott a meghiúsult kivégzése után",
-        "link": "https://transtelex.ro/kulfold/2026/10/07/christa-pike-ugyved-birosag-bizonyitekok-kivegzes-tennesse-hatosagok",
-        "image": "https://assets.telex.hu/images/20261007/1791396786-temp-kmjf9vp6f62jadajhno_cimlap-normal.jpg",
-        "summary": "Védői szerint Pike segített a kivégzőcsapatnak megtalálni a vénáját. A nő karjai felduzzadtak, jelenleg többek között tüdőgyulladással kezelik.",
-        "category": "Általános",
-        "published_at": 1791400414.0
       }
     ]
   },
@@ -2480,6 +2208,182 @@
         "summary": "Márványtábla leleplezésével tisztelegtek az utódok a több évszázados múltra visszatekintő Benedek család Marosvásárhelyen élt nagy elődeire. „Itt éltek, alkottak és gyógyítottak” – szól a két, román és magyar nyelvű márványtábla első mondata. A továbbiakban a Benedek család házára helyezett emlékmű azt a négy családtagot sorolja fel, aki élete egy részét a Köcsög utcában töltötte. Az […]",
         "category": "Általános",
         "published_at": 1791551466.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_141",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Moldova felszámolná a szovjet típusú járásokat, maradna Gagauzia autonómiája",
+        "link": "https://maszol.ro/kulfold/Moldova-felszamolna-a-szovjet-tipusu-jarasokat-maradna-Gagauzia-autonomiaja",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_moldova_parlament_vasile_tofan_fboldala.jpg",
+        "summary": "Vasile Tofan kormánya a szovjet eredetű, költségesnek és túlméretezettnek tartott rendszer felszámolásától hatékonyabb államot vár.",
+        "category": "Általános",
+        "published_at": 1791565200.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_142",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Csütörtökön kerülhet a parlament elé Luca Niculescu kormányprogramja",
+        "link": "https://maszol.ro/belfold/Csutortokon-kerulhet-a-parlament-ele-Luca-Niculescu-kormanyprogramja",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_agerpres_19706474.jpg",
+        "summary": "Luca Niculescu kijelölt miniszterelnök pénteken kijelentette, hogy tervei szerint csütörtökön nyújtja be a parlamentnek a kormányprogramot és a miniszterek névsorát.",
+        "category": "Politika",
+        "published_at": 1791571260.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_143",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Világszerte emelkedett a kivégzések száma, a halálbüntetés eltörlését kéri az EU",
+        "link": "https://maszol.ro/kulfold/Vilagszerte-emelkedett-a-kivegzesek-szama-a-halalbuntetes-eltorleset-keri-az-EU",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_strasbourg_europai_parlament_ukran_zaszloval_ager-epa_(2)_(2).jpg",
+        "summary": "A halálbüntetés eltörlésére szólított fel pénteken az Európai Unió Külügyi Szolgálata és a strasbourgi székhelyű, 46 tagországot számláló Európa Tanács.",
+        "category": "Politika",
+        "published_at": 1791570960.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_144",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Német hadiipari vállalat vásárolja meg a csődbe ment romániai hajógyárat",
+        "link": "https://maszol.ro/belfold/Nemet-hadiipari-vallalat-vasarolja-meg-a-csodbe-ment-romaniai-hajogyarat",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_hajo_Facebook_Damen.jpg",
+        "summary": "A német hadiipari vállalat, a Rheinmetall romániai leányvállalata vásárolja meg a csődbe ment romániai hajógyárat, a Damen Shipyards Mangaliát.",
+        "category": "Általános",
+        "published_at": 1791569460.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_145",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "A PSD azt kéri Dominic Fritztől, hogy mondjon le az USR éléről",
+        "link": "https://maszol.ro/belfold/A-PSD-azt-keri-Dominic-Fritztol-hogy-mondjon-le-az-USR-elerol",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_dominic_fritz_2505_fb__(1).jpg",
+        "summary": "A Szociáldemokrata Párt (PSD) képviselői felkérték Dominic Fritzet, hogy mondjon le a Mentsétek meg Romániát Szövetség (USR) elnöki tisztségéről.",
+        "category": "Politika",
+        "published_at": 1791568008.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_146",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Segélycsomagok érkeznek a rászorulóknak",
+        "link": "https://maszol.ro/belfold/Segelycsomagok-erkeznek-a-raszoruloknak",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_article_127183_780_524.jpg",
+        "summary": "Az ügyvivő kabinet pénteki ülésén jóváhagyta 18,87 millió lej értékű termék kivételét és ingyenes szétosztását az állami tartalékalapból a rászorulók között sürgősségi humanitárius segélyként.",
+        "category": "Gazdaság",
+        "published_at": 1791566460.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_147",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Meghosszabbította a kormány a három regionális sürgősségi kórház átadási határidejét",
+        "link": "https://maszol.ro/belfold/Meghosszabbitotta-a-kormany-a-harom-regionalis-surgossegi-korhaz-atadasi-hataridejet",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_korhaz_facebook.jpg",
+        "summary": "A kormány a pénteki ülésén meghosszabbította a kolozsvári és iaşi-i regionális sürgősségi kórház átadási határidejét 2029. december 31-ig, a craiovaiét pedig 2029. május 31-ig.",
+        "category": "Politika",
+        "published_at": 1791563640.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_148",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Stop a rasszizmusnak! – Elindult a kormány online portálja",
+        "link": "https://maszol.ro/belfold/Stop-a-rasszizmusnak-Elindult-a-kormany-online-portalja",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_Stop_Rasismului_Reporting_Website.png",
+        "summary": "Elindult a stoprasism.ro nevet viselő online portál, amelyen a polgárok jelenthetik, ha antiszemita, romaellenes vagy xenofób atrocitás áldozatává váltak, vagy ha gyűlöletből fakadó megnyilvánulás szemtanúi voltak.",
+        "category": "Politika",
+        "published_at": 1791562020.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_149",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Vádat emelt a Georgescut támogató üzletember ellen a legfőbb ügyészség",
+        "link": "https://maszol.ro/belfold/Vadat-emelt-a-Georgescut-tamogato-uzletember-ellen-a-legfobb-ugyeszseg",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_bogdan_peschir_250320_agerpres_(1).jpg",
+        "summary": "Vádat emelt pénteken a legfőbb ügyészség Bogdan Peşchir, Călin Georgescu volt államfőjelölt TikTok-kampányának finanszírozója ellen elektronikus kommunikáció útján elkövetett folytatólagosan elkövetett szavazatvásárlás bűntette miatt.",
+        "category": "Általános",
+        "published_at": 1791561660.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_150",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Júniustól 8 halálesetet okozott a nyugat-nílusi vírus Romániában",
+        "link": "https://maszol.ro/belfold/Juniustol-8-halalesetet-okozott-a-nyugat-nilusi-virus-Romaniaban",
+        "image": "https://maszol.ro/resized/2026_oktober/9/cikk_mosquitoe-1548975_1280.jpg",
+        "summary": "Idén június 3-tól október 7-ig 121 megbetegedést okozott Romániában a nyugat-nílusi vírus, 108 igazolt és 13 valószínűsíthető esetet jegyeztek.",
+        "category": "Általános",
+        "published_at": 1791560460.0
+      }
+    ]
+  },
+  {
+    "group_id": "group_1791576753_151",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Vásárhely.ma",
+        "title": "Tanulj, próbáld ki, add tovább – egészségfejlesztő képzés diákoknak",
+        "link": "https://www.vasarhely.ma/tanulj-probald-ki-add-tovabb-egeszsegfejleszto-kepzes-diakoknak/",
+        "image": "https://www.vasarhely.ma/wp-content/uploads/2026/10/szentbalazs-kepzes-02-1200x628-cropped.jpg",
+        "summary": "Szeretnél olyan tudást szerezni, amely nemcsak neked lehet hasznos, hanem másoknak is továbbadhatod? Akkor érdemes csatlakoznod az egészségfejlesztő és prevenciós képzéshez! Október 23-24-én a Szent Balázs Alapítvány középiskolás és egyetemista diákokat megszólító programot indít, ahol szakemberektől lehet tanulni, ráadásul a megszerzett ismereteket a gyakorlatban is ki lehet próbálni. A képzés után a végzettek önkéntesként is […]",
+        "category": "Általános",
+        "published_at": 1791563570.0
       }
     ]
   }
