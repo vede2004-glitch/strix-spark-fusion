@@ -42,7 +42,7 @@ function Article() {
         <div className="mx-auto flex h-16 max-w-4xl items-center justify-between px-4">
           <Link to="/" className="inline-flex items-center gap-2 text-xs font-bold uppercase text-muted-foreground hover:text-primary"><ArrowLeft className="size-4" />{ro ? "Înapoi" : "Vissza"}</Link>
           <div className="flex items-center gap-1">{LANGS.map((l) => <button key={l} type="button" onClick={() => setLang(l)} className={`px-2 text-xs font-bold ${lang === l ? "text-primary" : "text-muted-foreground"}`}>{l.toUpperCase()}</button>)}</div>
-          <Link to="/" aria-label="Stirix.ro"><BrandLogo className="h-9 w-28 object-contain sm:w-36" /></Link>
+          <Link to="/" aria-label="Stirix.ro"><BrandLogo className="h-9 w-28 origin-left object-contain sm:w-36" /></Link>
           <SiteMenu />
         </div>
       </header>
