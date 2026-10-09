@@ -3,6 +3,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { getNews, timeAgo, tr } from "@/lib/news";
+import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
 import { ArticleQA } from "@/components/ArticleQA";
 
