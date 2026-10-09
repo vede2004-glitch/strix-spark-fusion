@@ -3,6 +3,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { getNews, timeAgo, tr } from "@/lib/news";
+import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
 import { ArticleQA } from "@/components/ArticleQA";
 
@@ -14,7 +15,7 @@ export const Route = createFileRoute("/hir/$id")({
   },
   head: ({ loaderData }) => {
     const title = loaderData ? `${loaderData.title} – Stirix.ro` : "Hír – Stirix.ro";
-    const desc = loaderData?.lead.slice(0, 160) ?? "Stirix.ro hír";
+    const desc = plainBold(loaderData?.lead ?? "").slice(0, 160) ?? "Stirix.ro hír";
     const meta = [
       { title },
       { name: "description", content: desc },
@@ -52,11 +53,11 @@ function Article() {
           <span className="text-muted-foreground">{ro ? ({ "Általános": "General", "Politika": "Politică", "Közélet": "Societate", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden" }[item.category] ?? item.category) : item.category}</span>
           <span className="text-muted-foreground">{timeAgo(item.published_at, lang)}</span>
         </div>
-        <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl">{t.title}</h1>
-        {item.is_synthesized && !t.content.trim().startsWith(t.lead.replace(/…$/, "").trim().slice(0, 60)) && <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75">{t.lead}</p>}
+        <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl"><RichText text={t.title} /></h1>
+        {item.is_synthesized && !t.content.trim().startsWith(t.lead.replace(/…$/, "").trim().slice(0, 60)) && <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75"><RichText text={t.lead} /></p>}
         {item.image && <img src={item.image} alt="" className="mt-6 aspect-video w-full rounded-lg border border-border object-cover" />}
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
-          {t.content.split(/\n\n+/).map((p, i) => <p key={i}>{p}</p>)}
+          {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
         <section className="mt-12 rounded-lg border border-border bg-card p-6">
           <h2 className="mb-4 font-display text-sm font-extrabold uppercase">{item.is_synthesized ? (ro ? `Surse utilizate (${item.sources.length})` : `Felhasznált források (${item.sources.length})`) : (ro ? "Sursă" : "Forrás")}</h2>
