@@ -97,7 +97,6 @@ CATEGORIES = {
         "színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", 
         "fesztivál", "egyház", "vallás", "pápa", "misé", "teatru", "muzeu", "carte", "muzica", "biserica", "cultura"
     ],
-    # ✅ "Közélet" lecserélve "Erdély"-re, erdélyi régiókkal és településekkel kiegészítve:
     "Erdély": [
         "erdély", "székelyföld", "kolozsvár", "marosvásárhely", "csíkszereda", "sepsiszentgyörgy",
         "székelyudvarhely", "nagyvárad", "szatmárnémeti", "brassó", "hargita", "kovászna", "maros",
@@ -148,6 +147,7 @@ def clean_text(text):
     return text
 
 def classify_article(title, summary, source_name, entry_tags):
+    # 1. FIX KATEGÓRIÁS FORRÁSOK
     if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
         return "Sport"
         
@@ -157,8 +157,16 @@ def classify_article(title, summary, source_name, entry_tags):
     if source_name in ["Click.ro", "Cancan.ro", "Maszol Életmód"]:
         return "Bulvár"
 
-    # ✅ Helyi és erdélyi lapok besorolása Erdély alá:
-    if source_name in ["PresaSM (Szatmár)", "Udvarhelyi Hírportál (UH.ro)", "Hargita Népe", "Szatmári Friss Újság"]:
+    # ✅ 100%-ban Erdélyi/Helyi források automatikus besorolása
+    if source_name in [
+        "Udvarhelyi Hírportál (UH.ro)", 
+        "Hargita Népe", 
+        "PresaSM (Szatmár)", 
+        "Szatmári Friss Újság", 
+        "Vásárhely.ma", 
+        "Átlátszó Erdély",
+        "Ebihoreanul (Nagyvárad/Bihar)"
+    ]:
         return "Erdély"
 
     if source_name in ["Go4IT", "Zonait.ro"]:
@@ -167,6 +175,7 @@ def classify_article(title, summary, source_name, entry_tags):
     if source_name in ["Agerpres (Politica)"]:
         return "Politika"
 
+    # 2. CIMKÉK (TAGS) ALAPJÁN
     if entry_tags:
         tags_text = " ".join([t.lower() for t in entry_tags])
         
@@ -183,6 +192,7 @@ def classify_article(title, summary, source_name, entry_tags):
         if any(w in tags_text for w in ["social", "kozelet", "erdely", "transilvania", "eveniment", "accident"]):
             return "Erdély"
 
+    # 3. KULCSSZAVAK ALAPJÁN
     text = f"{title} {summary}".lower()
     
     for category, keywords in CATEGORIES.items():
