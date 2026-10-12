@@ -19,7 +19,7 @@ os.makedirs("src/data", exist_ok=True)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-MODEL_NAME = "gpt-6-luna"
+MODEL_NAME = "gpt-4o-mini"  # Vagy az általad használt modell azonosítója
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -263,9 +263,12 @@ def run_synthesis_direct():
 
     print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
 
-    # Szétválasztjuk az 1 forrásos és többforrásos híreket
+    # Szétválasztjuk az 1 forrásos és többforrásos híreket (Egyedi források száma alapján!)
     for g_id, articles in grouped_data.items():
-        if len(articles) > 1:
+        unique_sources = set(art.get("source") for art in articles if art.get("source"))
+        
+        # ✅ Csak akkor küldjük AI-nak, ha legalább 2 KÜLÖNBÖZŐ lap írt róla!
+        if len(unique_sources) >= 2:
             multi_groups.append((g_id, articles, existing_articles.get(g_id)))
         else:
             art = articles[0]
@@ -305,7 +308,7 @@ def run_synthesis_direct():
                     single_count += len(entries)
 
     # ==========================================================================
-    # MENTÉS A KIMENETI JSON FÁJLBA (Archívum megőrzésével)
+    # MENTÉS A KIMENETI JSON FÁJLBA (Archívum megőrzésével és 48 órás szűréssel)
     # ==========================================================================
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
@@ -325,9 +328,18 @@ def run_synthesis_direct():
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
+    # ✅ DÁTUMSZŰRÉS: Csak az elmúlt 48 órában megjelent hírek kerüljenek ki a címlapra!
+    # (A régebbi cikkek így kikerülnek a news.json-ból, de a memóriában megmaradnak)
+    CUTOFF_TIME = int(time.time()) - (48 * 3600)
+    
+    fresh_news = [
+        item for item in all_final_results.values() 
+        if item.get("published_at", 0) >= CUTOFF_TIME
+    ]
+
     # Rendezés a legfrissebb közzétételi idő szerint csökkenő sorrendbe
     final_sorted_list = sorted(
-        list(all_final_results.values()), 
+        fresh_news, 
         key=lambda x: x.get("published_at", 0), 
         reverse=True
     )
@@ -339,7 +351,7 @@ def run_synthesis_direct():
     print(f"✅ FOLYAMAT KÉSZ!")
     print(f"🤖 AI által összevont / bővített magyar és román hírek: {len(synthesized_results) - single_count} db")
     print(f"📰 Egyedi / Kiszűrt hírek: {single_count} db")
-    print(f"💾 Összesen {len(final_sorted_list)} cikk elmentve az archívumba ({OUTPUT_FILE}).")
+    print(f"💾 Összesen {len(final_sorted_list)} friss cikk elmentve a főoldali JSON-ba ({OUTPUT_FILE}).")
     print("=" * 60)
 
 if __name__ == "__main__":
