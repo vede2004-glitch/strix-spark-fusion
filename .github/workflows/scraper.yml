@@ -3,6 +3,8 @@ name: Hírgyűjtő és AI Szintetizáló
 on:
   schedule:
     - cron: '*/5 * * * *'
+  repository_dispatch:
+    types: [cron-job-trigger]
   workflow_dispatch:
 
 jobs:
@@ -41,5 +43,7 @@ jobs:
           git config --local user.name "GitHub Action"
           # Elmentjük a munkafájlokat és a végső news.json-t is
           git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json src/data/news.json
-          git commit -m "Auto-update: Friss adatok és szintetizált hírek [skip ci]" || exit 0
+          git diff --staged --quiet || git commit -m "Auto-update: Friss adatok és szintetizált hírek [skip ci]"
+          git fetch origin main
+          git pull --rebase origin main
           git push
