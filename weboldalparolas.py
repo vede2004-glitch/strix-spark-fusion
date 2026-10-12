@@ -14,7 +14,6 @@ from sentence_transformers import SentenceTransformer
 # 1. KONFIGURÁCIÓ
 # ==============================================================================
 RSS_FEEDS = {
-    # --- MAGYAR ERDÉLYI FORRÁSOK ---
     "Maszol": "https://maszol.ro/rss",
     "Maszol Sport": "https://maszol.ro/sport/rss",
     "Maszol Gazdaság": "https://maszol.ro/gazdasag/rss",
@@ -27,6 +26,41 @@ RSS_FEEDS = {
     "Vásárhely.ma": "https://www.vasarhely.ma/feed/",
     "Marosvásárhelyi Rádió (HU)": "https://www.marosvasarhelyiradio.ro/feed/",
     "Mediatica.ro": "https://www.mediatica.ro/feed/",
+    "Szatmári Friss Újság": "https://friss.ro/feed",
+    "Szatmári sporthírek": "https://szmsport.ro/feed/",
+    "Manna": "https://manna.ro/feed/",
+    "RomKat": "https://romkat.ro/feed/",
+    "Hargita Népe": "https://hargitanepe.ro/rss",
+    "Agerpres (HU)": "https://www.agerpres.ro/magyar/rss",
+
+    # --- SPECIALIZÁLT SPORT (RO & HU) ---
+    "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
+
+    # --- SPECIALIZÁLT GAZDASÁG (RO) ---
+    "Economedia": "https://economedia.ro/feed",
+    "Ziarul Financiar": "https://www.zf.ro/rss",
+
+    # --- SPECIALIZÁLT BULVÁR & SZTÁRVILÁG (RO) ---
+    "Click.ro": "https://click.ro/rss",
+    "Cancan.ro": "https://www.cancan.ro/feed",
+
+    # --- SPECIALIZÁLT KÉKFÉNY & HELYI HÍREK (RO) ---
+    "PresaSM (Szatmár)": "https://www.presasm.ro/feed/",
+
+    # --- SPECIALIZÁLT TECH & AUTOMOBIL (RO) ---
+    "Go4IT": "https://www.go4it.ro/feed/",
+    "Zonait.ro": "https://zonait.ro/feed/",
+
+    # --- ÁLTALÁNOS & POLITIKAI HÍROLDALAK (RO) ---
+    "Digi24": "https://www.digi24.ro/rss",
+    "G4Media": "https://www.g4media.ro/feed",
+    "HotNews.ro": "https://www.hotnews.ro/rss",
+    "Adevărul": "https://adevarul.ro/rss/",
+    "Mediafax": "https://www.mediafax.ro/rss/",
+    "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
+    "Agerpres (Stiri)": "https://www.agerpres.ro/stiri-actualizate/rss",
+    "ProTV Stiri": "https://stirileprotv.ro/rss",
+    "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss"
 }
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
