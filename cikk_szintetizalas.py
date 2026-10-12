@@ -17,7 +17,7 @@ os.makedirs("src/data", exist_ok=True)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# Legolcsóbb és leggyorsabb modell összefoglaláshoz
+# Költséghatékony és gyors modell
 MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
@@ -54,7 +54,7 @@ def process_single_article(art: dict) -> dict:
     }
 
 def load_existing_synthesized_articles() -> dict:
-    """Beolvassa a már korábban elmentett kimeneti híreket."""
+    """Beolvassa a már korábban elmentett kimeneti híreket a group_id alapján."""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -256,7 +256,6 @@ def run_synthesis_direct():
 
     print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
 
-    # SZŰRÉS: Csak az új vagy frissült csoportok mehetnek az AI-nak!
     for g_id, articles in grouped_data.items():
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
         
@@ -285,21 +284,21 @@ def run_synthesis_direct():
             single_count += 1
             continue
 
-        # 2. Ha több mint 2 forrás van, megnézzük, feldolgoztuk-e már korábban
+        # 2. Ha létezik már feldolgozott szintetizált cikk ehhez a group_id-hoz:
         existing_synth = existing_articles.get(g_id)
         if existing_synth:
             existing_links = {s.get("link") for s in existing_synth.get("sources", []) if s.get("link")}
             current_links = {art.get("link") for art in articles if art.get("link")}
             
-            # ✅ HA NICS ÚJ LINK A CSOPORTBAN: Átulepedik az AI hívás ($0 token költség!)
-            if current_links.issubset(existing_links):
+            # HA NEM ÉRKEZETT ÚJ LINK: Átlépjük az AI-hívást! ($0 token költség)
+            if current_links and current_links.issubset(existing_links):
                 synthesized_results.append(existing_synth)
                 continue
 
-        # ✅ Csak akkor küldjük az OpenAI-nak, ha TÉNYLEG új cikk/link érkezett a csoporthoz!
+        # Csak akkor küldjük az OpenAI-nak, ha TÉNYLEG új cikk/link érkezett
         multi_groups.append((g_id, articles, existing_synth))
 
-    # Párhuzamosan futtatjuk az OpenAI API hívásokat a TÉNYLEG új többforrásos cikkekre
+    # Párhuzamos API-hívások az új/frissült csoportokra
     if multi_groups:
         print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak...")
         with ThreadPoolExecutor(max_workers=5) as executor:
