@@ -27,13 +27,10 @@ RSS_FEEDS = {
     "Vásárhely.ma": "https://www.vasarhely.ma/feed/",
     "Marosvásárhelyi Rádió (HU)": "https://www.marosvasarhelyiradio.ro/feed/",
     "Mediatica.ro": "https://www.mediatica.ro/feed/",
-
 }
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
 GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
-
-LOOKBACK_HOURS = 48
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
@@ -102,9 +99,8 @@ def save_memory(memory_data):
         json.dump(memory_data, f, ensure_ascii=False, indent=2)
 
 def clean_old_memory(memory_data):
-    current_time = time.time()
-    max_age_seconds = LOOKBACK_HOURS * 3600
-    return [art for art in memory_data if (current_time - art.get("fetched_at", current_time)) < max_age_seconds]
+    # ✅ Megtartunk minden cikket az archívum miatt, nem törlünk semmit
+    return memory_data
 
 def clean_text(text):
     if not text:
@@ -277,16 +273,11 @@ def run_pipeline():
     for article_list in results:
         fetched_articles.extend(article_list)
 
-    current_time = time.time()
-    max_age_seconds = LOOKBACK_HOURS * 3600
-    
     new_topics_count = 0
     grouped_articles_count = 0
 
     for art in fetched_articles:
-        if (current_time - art["published_at"]) > max_age_seconds:
-            continue
-
+        # ✅ Kizárólag a már meglévő linkeket szűrjük ki, régebbi cikkeket NEM dobunk el
         if any(m["link"] == art["link"] for m in memory):
             continue
 
