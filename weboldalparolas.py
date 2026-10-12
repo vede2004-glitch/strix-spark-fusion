@@ -36,17 +36,19 @@ RSS_FEEDS = {
 
     # --- SPECIALIZÁLT SPORT (RO & HU) ---
     "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
+    "Székely Sport": "https://szekelysport.ro/rss",
 
     # --- SPECIALIZÁLT GAZDASÁG (RO) ---
     "Economedia": "https://economedia.ro/feed",
     "Ziarul Financiar": "https://www.zf.ro/rss",
 
     # --- SPECIALIZÁLT BULVÁR & SZTÁRVILÁG (RO) ---
-  
     "Cancan.ro": "https://www.cancan.ro/feed",
+    "Click.ro": "https://click.ro/feed",
 
     # --- SPECIALIZÁLT KÉKFÉNY & HELYI HÍREK (RO) ---
     "PresaSM (Szatmár)": "https://www.presasm.ro/feed/",
+    "Szatmári Friss Újság": "https://friss.ro/feed/rss2",
 
     # --- SPECIALIZÁLT TECH & AUTOMOBIL (RO) ---
     "Go4IT": "https://www.go4it.ro/feed/",
@@ -61,11 +63,7 @@ RSS_FEEDS = {
     "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
     "Agerpres (Stiri)": "https://www.agerpres.ro/stiri-actualizate/rss",
     "ProTV Stiri": "https://stirileprotv.ro/rss",
-    "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss",
-    "Click.ro": "https://click.ro/feed", 
-    "Szatmári Friss Újság": "https://friss.ro/feed/rss2",
-    "Székely Sport": "https://szekelysport.ro/rss",
-    "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
+    "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss"
 }
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
@@ -99,7 +97,10 @@ CATEGORIES = {
         "színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", 
         "fesztivál", "egyház", "vallás", "pápa", "misé", "teatru", "muzeu", "carte", "muzica", "biserica", "cultura"
     ],
-    "Közélet": [
+    # ✅ "Közélet" lecserélve "Erdély"-re, erdélyi régiókkal és településekkel kiegészítve:
+    "Erdély": [
+        "erdély", "székelyföld", "kolozsvár", "marosvásárhely", "csíkszereda", "sepsiszentgyörgy",
+        "székelyudvarhely", "nagyvárad", "szatmárnémeti", "brassó", "hargita", "kovászna", "maros",
         "iskola", "egészségügy", "kórház", "utazás", "időjárás", "útlezárás", "diák", 
         "egyenruha", "scoala", "spital", "elevi", "trafic", "vremea", "oktatás",
         "baleset", "rendőrség", "mentők", "rendőr", "katasztrófa", "tűzoltók", "gyilkosság", 
@@ -156,8 +157,9 @@ def classify_article(title, summary, source_name, entry_tags):
     if source_name in ["Click.ro", "Cancan.ro", "Maszol Életmód"]:
         return "Bulvár"
 
-    if source_name in ["PresaSM (Szatmár)"]:
-        return "Közélet"
+    # ✅ Helyi és erdélyi lapok besorolása Erdély alá:
+    if source_name in ["PresaSM (Szatmár)", "Udvarhelyi Hírportál (UH.ro)", "Hargita Népe", "Szatmári Friss Újság"]:
+        return "Erdély"
 
     if source_name in ["Go4IT", "Zonait.ro"]:
         return "Általános"
@@ -178,8 +180,8 @@ def classify_article(title, summary, source_name, entry_tags):
             return "Kultúra"
         if any(w in tags_text for w in ["monden", "cancan", "showbiz", "eletmod", "bulvar"]):
             return "Bulvár"
-        if any(w in tags_text for w in ["social", "kozelet", "eveniment", "accident", "politie"]):
-            return "Közélet"
+        if any(w in tags_text for w in ["social", "kozelet", "erdely", "transilvania", "eveniment", "accident"]):
+            return "Erdély"
 
     text = f"{title} {summary}".lower()
     
@@ -348,7 +350,6 @@ def run_pipeline():
             grouped_articles_count += 1
             print(f"🔥 PÁROSÍTVA [{art['source']} <-> {best_match_source}] ({highest_similarity:.2f}):\n   • Új: {art['title'][:60]}...\n   • Meglévő: {matched_title[:60]}...")
         else:
-            # ✅ Determinisztikus ID generálás: Az első cikk URL-jének hash-éből képezzük
             link_hash = hashlib.md5(art["link"].encode("utf-8")).hexdigest()[:10]
             group_id = f"group_{link_hash}"
             new_topics_count += 1
