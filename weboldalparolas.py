@@ -19,7 +19,7 @@ RSS_FEEDS = {
     "Maszol Sport": "https://maszol.ro/sport/rss",
     "Maszol Gazdaság": "https://maszol.ro/gazdasag/rss",
     "Maszol Életmód": "https://maszol.ro/eletmod/rss",
-    "Székely Sport": "https://www.szekelysport.ro/rss",
+
     "Transtelex": "https://transtelex.ro/rss",
     "Átlátszó Erdély": "https://atlatszo.ro/feed/",
     "Udvarhelyi Hírportál (UH.ro)": "https://www.uh.ro/feed/",
@@ -27,7 +27,7 @@ RSS_FEEDS = {
     "Vásárhely.ma": "https://www.vasarhely.ma/feed/",
     "Marosvásárhelyi Rádió (HU)": "https://www.marosvasarhelyiradio.ro/feed/",
     "Mediatica.ro": "https://www.mediatica.ro/feed/",
-    "Szatmári Friss Újság": "https://friss.ro/feed",
+
     "Szatmári sporthírek": "https://szmsport.ro/feed/",
     "Manna": "https://manna.ro/feed/",
     "RomKat": "https://romkat.ro/feed/",
@@ -42,7 +42,7 @@ RSS_FEEDS = {
     "Ziarul Financiar": "https://www.zf.ro/rss",
 
     # --- SPECIALIZÁLT BULVÁR & SZTÁRVILÁG (RO) ---
-    "Click.ro": "https://click.ro/rss",
+  
     "Cancan.ro": "https://www.cancan.ro/feed",
 
     # --- SPECIALIZÁLT KÉKFÉNY & HELYI HÍREK (RO) ---
@@ -62,6 +62,10 @@ RSS_FEEDS = {
     "Agerpres (Stiri)": "https://www.agerpres.ro/stiri-actualizate/rss",
     "ProTV Stiri": "https://stirileprotv.ro/rss",
     "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss"
+    "Click.ro": "https://click.ro/feed" 
+    "Szatmári Friss Újság": "https://friss.ro/feed/rss2",
+    "Székely Sport": "https://szekelysport.ro/rss",
+    "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
 }
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
