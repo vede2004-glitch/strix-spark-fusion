@@ -12,14 +12,13 @@ from openai import OpenAI
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
 OUTPUT_FILE = "src/data/news.json"
 
-# ✅ Automatikusan létrehozza az src/data mappát, ha még nem létezik:
 os.makedirs("src/data", exist_ok=True)
 
-# ✅ KÖRNYEZETI VÁLTOZÓBÓL TÖRTÉNŐ BEOLVASÁS:
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-MODEL_NAME = "gpt-4o-mini"  # Vagy az általad használt modell azonosítója
+# Legolcsóbb és leggyorsabb modell összefoglaláshoz
+MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -55,6 +54,7 @@ def process_single_article(art: dict) -> dict:
     }
 
 def load_existing_synthesized_articles() -> dict:
+    """Beolvassa a már korábban elmentett kimeneti híreket."""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -78,9 +78,7 @@ def prepare_prompt_content(articles: list, existing_synthesized_article: dict = 
             "link": res["link"]
         })
 
-    # =========================================================================
-    # 1. PROMPT: MÁR MEGLÉVŐ CIKK BŐVÍTÉSE (MAGYAR ÉS ROMÁN NYELVEN)
-    # =========================================================================
+    # PROMPT: MÁR MEGLÉVŐ CIKK BŐVÍTÉSE
     if existing_synthesized_article and existing_synthesized_article.get("is_synthesized"):
         old_title_hu = existing_synthesized_article.get("title_hu", "")
         old_lead_hu = existing_synthesized_article.get("lead_hu", "")
@@ -112,7 +110,6 @@ FELADAT:
 SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
 - MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
-- Példa jó formátumra: "• **Szeptember 30-án** a hatóságok új döntést hoztak..." vagy "• A **Kémiai Nobel-díjat** idén két kutatónak ítélték oda..."
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
@@ -128,9 +125,7 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 """
         return prompt, cover_image, sources_used
 
-    # =========================================================================
-    # 2. PROMPT: ÚJ CIKK GENERÁLÁSA (MAGYAR ÉS ROMÁN NYELVEN)
-    # =========================================================================
+    # PROMPT: ÚJ CIKK GENERÁLÁSA
     combined_sources = ""
     for idx, res in enumerate(scraped_results, 1):
         combined_sources += f"\n--- {idx}. FORRÁS: {res['source']} | Cím: {res['title']} ---\n"
@@ -148,7 +143,6 @@ FELADAT ÉS SZŰRÉS:
 SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
 - MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
-- Példa jó formátumra: "• **Szeptember 30-án** Oroszország tavasz óta a legnagyobb..." vagy "• A **Kémiai Nobel-díjat** idén két kutatónak ítélték oda..."
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
@@ -173,7 +167,6 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
     prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
     category = articles[0].get("category", "Általános")
 
-    # Legfrissebb időbélyeg kiválasztása a csoport forrásai közül
     latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
     try:
@@ -263,14 +256,12 @@ def run_synthesis_direct():
 
     print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
 
-    # Szétválasztjuk az 1 forrásos és többforrásos híreket (Egyedi források száma alapján!)
+    # SZŰRÉS: Csak az új vagy frissült csoportok mehetnek az AI-nak!
     for g_id, articles in grouped_data.items():
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
         
-        # ✅ Csak akkor küldjük AI-nak, ha legalább 2 KÜLÖNBÖZŐ lap írt róla!
-        if len(unique_sources) >= 2:
-            multi_groups.append((g_id, articles, existing_articles.get(g_id)))
-        else:
+        # 1. Ha kevesebb mint 2 különálló forrás van, nem hívunk AI-t
+        if len(unique_sources) < 2:
             art = articles[0]
             title_hu = art.get("title", "")
             lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
@@ -292,10 +283,25 @@ def run_synthesis_direct():
                 "content_ro": content_hu
             })
             single_count += 1
+            continue
 
-    # Párhuzamosan futtatjuk az OpenAI API hívásokat a többforrásos cikkekre
+        # 2. Ha több mint 2 forrás van, megnézzük, feldolgoztuk-e már korábban
+        existing_synth = existing_articles.get(g_id)
+        if existing_synth:
+            existing_links = {s.get("link") for s in existing_synth.get("sources", []) if s.get("link")}
+            current_links = {art.get("link") for art in articles if art.get("link")}
+            
+            # ✅ HA NICS ÚJ LINK A CSOPORTBAN: Átulepedik az AI hívás ($0 token költség!)
+            if current_links.issubset(existing_links):
+                synthesized_results.append(existing_synth)
+                continue
+
+        # ✅ Csak akkor küldjük az OpenAI-nak, ha TÉNYLEG új cikk/link érkezett a csoporthoz!
+        multi_groups.append((g_id, articles, existing_synth))
+
+    # Párhuzamosan futtatjuk az OpenAI API hívásokat a TÉNYLEG új többforrásos cikkekre
     if multi_groups:
-        print(f"🚀 {len(multi_groups)} db többforrásos csoport feldolgozása indult párhuzamosan...")
+        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak...")
         with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(process_group_direct, g_id, articles, existing)
@@ -306,13 +312,12 @@ def run_synthesis_direct():
                 synthesized_results.extend(entries)
                 if not is_synth:
                     single_count += len(entries)
+    else:
+        print("💤 Nincs új téma vagy frissült cikk, 0 OpenAI API hívás történt!")
 
-    # ==========================================================================
-    # MENTÉS A KIMENETI JSON FÁJLBA (Archívum megőrzésével és 48 órás szűréssel)
-    # ==========================================================================
+    # MENTÉS ÉS DÁTUMSZŰRÉS
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
-    # Korábban elmentett adatok beolvasása az archívum megőrzéséhez
     all_final_results = {}
     if os.path.exists(OUTPUT_FILE):
         try:
@@ -324,12 +329,10 @@ def run_synthesis_direct():
         except Exception as e:
             print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
 
-    # Új és frissített cikkek beillesztése/frissítése
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # ✅ DÁTUMSZŰRÉS: Csak az elmúlt 48 órában megjelent hírek kerüljenek ki a címlapra!
-    # (A régebbi cikkek így kikerülnek a news.json-ból, de a memóriában megmaradnak)
+    # Csak az elmúlt 48 óra hírei a címlapra
     CUTOFF_TIME = int(time.time()) - (48 * 3600)
     
     fresh_news = [
@@ -337,7 +340,6 @@ def run_synthesis_direct():
         if item.get("published_at", 0) >= CUTOFF_TIME
     ]
 
-    # Rendezés a legfrissebb közzétételi idő szerint csökkenő sorrendbe
     final_sorted_list = sorted(
         fresh_news, 
         key=lambda x: x.get("published_at", 0), 
@@ -349,8 +351,7 @@ def run_synthesis_direct():
 
     print("\n" + "=" * 60)
     print(f"✅ FOLYAMAT KÉSZ!")
-    print(f"🤖 AI által összevont / bővített magyar és román hírek: {len(synthesized_results) - single_count} db")
-    print(f"📰 Egyedi / Kiszűrt hírek: {single_count} db")
+    print(f"🤖 AI által újonnan feldolgozott / bővített hírek: {len(multi_groups)} db")
     print(f"💾 Összesen {len(final_sorted_list)} friss cikk elmentve a főoldali JSON-ba ({OUTPUT_FILE}).")
     print("=" * 60)
 
