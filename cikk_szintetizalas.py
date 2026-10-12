@@ -109,19 +109,20 @@ FELADAT:
 3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
 4. Írd meg a frissített összefoglalót MAGYAR és ROMÁN nyelven is!
 
-FORMÁTUM ÉS STÍLUS (MIND KÉT NYELVEN):
+SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
-- Minden pontban a legfontosabb kulcsszavakat, dátumokat, helyszíneket és számokat EMELD KI FÉLKÖVÉRREL (pl. **Szeptember 30-án**, **30 septembrie**)!
+- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
+- Példa jó formátumra: "• **Szeptember 30-án** a hatóságok új döntést hoztak..." vagy "• A **Kémiai Nobel-díjat** idén két kutatónak ítélték oda..."
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
   "skip": false,
   "title_hu": "Frissített magyar cím",
   "lead_hu": "Frissített 2-3 mondatos magyar lead",
-  "content_hu": "• **Dátum** első fontos magyar pont...\\n\\n• **Kulcsszó** második magyar pont...",
+  "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• **Kulcsszó vagy Szereplő** második magyar pont...",
   "title_ro": "Titlu actualizat în română",
   "lead_ro": "Lead de 2-3 propoziții în română",
-  "content_ro": "• **Data** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct...",
+  "content_ro": "• **Data sau Afirmația Cheie** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct...",
   "used_sources_indices": [1]
 }}
 """
@@ -144,10 +145,10 @@ FELADAT ÉS SZŰRÉS:
 3. Ha a szűrés után nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
 4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
 
-MINDENRE KITERJEDŐ FELSOROLÁSOS FORMÁTUM (HÍRELEMZŐ STÍLUS):
+SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
-- A pontokat rendezd logikus/időrendi sorrendbe.
-- **Kiemelések használata:** A pontokon belül a legfontosabb adatokat, dátumokat, helyszíneket és neveket mindig EMELD KI FÉLKÖVÉR MARKDOWN-NAL mindkét nyelven (pl. **Szeptember 30-án** / **30 septembrie**)!
+- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
+- Példa jó formátumra: "• **Szeptember 30-án** Oroszország tavasz óta a legnagyobb..." vagy "• A **Kémiai Nobel-díjat** idén két kutatónak ítélték oda..."
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
@@ -303,16 +304,42 @@ def run_synthesis_direct():
                 if not is_synth:
                     single_count += len(entries)
 
-    # Mentés a kimeneti JSON fájlba
+    # ==========================================================================
+    # MENTÉS A KIMENETI JSON FÁJLBA (Archívum megőrzésével)
+    # ==========================================================================
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+
+    # Korábban elmentett adatok beolvasása az archívum megőrzéséhez
+    all_final_results = {}
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+                for item in existing_data:
+                    if "group_id" in item:
+                        all_final_results[item["group_id"]] = item
+        except Exception as e:
+            print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
+
+    # Új és frissített cikkek beillesztése/frissítése
+    for item in synthesized_results:
+        all_final_results[item["group_id"]] = item
+
+    # Rendezés a legfrissebb közzétételi idő szerint csökkenő sorrendbe
+    final_sorted_list = sorted(
+        list(all_final_results.values()), 
+        key=lambda x: x.get("published_at", 0), 
+        reverse=True
+    )
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(synthesized_results, f, ensure_ascii=False, indent=2)
+        json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
 
     print("\n" + "=" * 60)
     print(f"✅ FOLYAMAT KÉSZ!")
     print(f"🤖 AI által összevont / bővített magyar és román hírek: {len(synthesized_results) - single_count} db")
     print(f"📰 Egyedi / Kiszűrt hírek: {single_count} db")
-    print(f"💾 Összesen {len(synthesized_results)} cikk elmentve a(z) {OUTPUT_FILE} fájlba.")
+    print(f"💾 Összesen {len(final_sorted_list)} cikk elmentve az archívumba ({OUTPUT_FILE}).")
     print("=" * 60)
 
 if __name__ == "__main__":
