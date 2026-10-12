@@ -61,8 +61,8 @@ RSS_FEEDS = {
     "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
     "Agerpres (Stiri)": "https://www.agerpres.ro/stiri-actualizate/rss",
     "ProTV Stiri": "https://stirileprotv.ro/rss",
-    "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss"
-    "Click.ro": "https://click.ro/feed" 
+    "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss",
+    "Click.ro": "https://click.ro/feed", 
     "Szatmári Friss Újság": "https://friss.ro/feed/rss2",
     "Székely Sport": "https://szekelysport.ro/rss",
     "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
