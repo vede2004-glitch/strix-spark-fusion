@@ -50,7 +50,7 @@ function Article() {
       <main className="mx-auto max-w-3xl px-4 py-8">
         <div className="mb-4 flex flex-wrap items-center gap-3 text-[10px] font-bold uppercase">
           {item.is_synthesized ? <span className="inline-flex items-center gap-1 rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-primary"><Sparkles className="size-3" />{ro ? "Știre sintetizată cu AI" : "AI Összesített Hír"}</span> : <span className="rounded-sm border border-border px-2 py-1 text-muted-foreground">{ro ? "Sursă unică" : "Egyedi forrás"}</span>}
-          <span className="text-muted-foreground">{ro ? ({ "Általános": "General", "Politika": "Politică", "Közélet": "Societate", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden" }[item.category] ?? item.category) : item.category}</span>
+          <span className="text-muted-foreground">{ro ? ({ "Általános": "General", "Politika": "Politică", "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden" }[item.category] ?? item.category) : item.category}</span>
           <span className="text-muted-foreground">{timeAgo(item.published_at, lang)}</span>
         </div>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl"><RichText text={t.title} /></h1>

@@ -21,8 +21,8 @@ export const Route = createFileRoute("/osszes")({
 });
 
 const categoryRo: Record<string, string> = {
-  [ALL]: "Toate știrile", "Általános": "General", "Politika": "Politică", Sport: "Sport",
-  "Közélet": "Societate", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
+  [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
+  "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
 };
 
 function AllNews() {

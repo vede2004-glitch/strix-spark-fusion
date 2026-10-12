@@ -27,8 +27,8 @@ export const Route = createFileRoute("/")({
 
 const categories = [ALL, ...CATEGORIES];
 const categoryRo: Record<string, string> = {
-  [ALL]: "Toate știrile", "Általános": "General", "Politika": "Politică", Sport: "Sport",
-  "Közélet": "Societate", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
+  [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
+  "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
 };
 const fallbackImages = [borderCrossing, hospital, harghita];
 const img = (n: NewsItem, i: number) => n.image || fallbackImages[i % 3];
