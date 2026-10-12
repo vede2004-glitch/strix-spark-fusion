@@ -17,7 +17,6 @@ os.makedirs("src/data", exist_ok=True)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# Költséghatékony és gyors modell
 MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
@@ -120,7 +119,7 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "title_ro": "Titlu actualizat în română",
   "lead_ro": "Lead de 2-3 propoziții în română",
   "content_ro": "• **Data sau Afirmația Cheie** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct...",
-  "used_sources_indices": [1]
+  "used_sources_indices": [1, 2]
 }}
 """
         return prompt, cover_image, sources_used
@@ -210,6 +209,30 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
         else:
             filtered_sources = sources_used
 
+        # ✅ HA AZ AI SZŰRÉSE UTÁN KEVESEBB MINT 2 FORRÁS MARADT, NEM HASZNÁLJUK AZ AI SZINTÉZIST!
+        if len(filtered_sources) < 2:
+            print(f"⚠️ Kiszűrve [{g_id}]: Az AI csak {len(filtered_sources)} forrást talált érvényesnek/hasznosnak.")
+            fallback_entries = []
+            for art in articles:
+                title_hu = art.get("title", "")
+                lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
+                content_hu = art.get("summary", "")
+                fallback_entries.append({
+                    "group_id": g_id,
+                    "category": art.get("category", "Általános"),
+                    "image": art.get("image"),
+                    "is_synthesized": False,
+                    "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
+                    "published_at": int(art.get("published_at", art.get("fetched_at", time.time()))),
+                    "title_hu": title_hu,
+                    "lead_hu": lead_hu,
+                    "content_hu": content_hu,
+                    "title_ro": title_hu,
+                    "lead_ro": lead_hu,
+                    "content_ro": content_hu
+                })
+            return fallback_entries, False
+
         synthesized_entry = {
             "group_id": g_id,
             "category": category,
@@ -259,7 +282,7 @@ def run_synthesis_direct():
     for g_id, articles in grouped_data.items():
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
         
-        # 1. Ha kevesebb mint 2 különálló forrás van, nem hívunk AI-t
+        # 1. Ha kevesebb mint 2 KÜLÖNBÖZŐ forrás van, NEM hívunk AI-t
         if len(unique_sources) < 2:
             art = articles[0]
             title_hu = art.get("title", "")
