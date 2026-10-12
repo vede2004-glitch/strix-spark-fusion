@@ -2,6 +2,7 @@ import json
 import re
 import os
 import time
+import hashlib
 import requests
 import feedparser
 import numpy as np
@@ -106,7 +107,6 @@ CATEGORIES = {
     ]
 }
 
-# Globális modell változó (lusta betöltéshez)
 _MODEL = None
 
 def get_model():
@@ -133,7 +133,6 @@ def save_memory(memory_data):
         json.dump(memory_data, f, ensure_ascii=False, indent=2)
 
 def clean_old_memory(memory_data):
-    # ✅ Megtartunk minden cikket az archívum miatt, nem törlünk semmit
     return memory_data
 
 def clean_text(text):
@@ -311,7 +310,6 @@ def run_pipeline():
     grouped_articles_count = 0
 
     for art in fetched_articles:
-        # ✅ Kizárólag a már meglévő linkeket szűrjük ki, régebbi cikkeket NEM dobunk el
         if any(m["link"] == art["link"] for m in memory):
             continue
 
@@ -346,7 +344,9 @@ def run_pipeline():
             grouped_articles_count += 1
             print(f"🔥 PÁROSÍTVA [{art['source']} <-> {best_match_source}] ({highest_similarity:.2f}):\n   • Új: {art['title'][:60]}...\n   • Meglévő: {matched_title[:60]}...")
         else:
-            group_id = f"group_{int(time.time())}_{len(memory) + 1}"
+            # ✅ Determinisztikus ID generálás: Az első cikk URL-jének hash-éből képezzük
+            link_hash = hashlib.md5(art["link"].encode("utf-8")).hexdigest()[:10]
+            group_id = f"group_{link_hash}"
             new_topics_count += 1
 
         memory.append({
