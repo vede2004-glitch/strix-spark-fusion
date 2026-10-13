@@ -144,12 +144,11 @@ export function formatDate(ts: number | null | undefined, lang: Lang = "hu") {
 
 export const RECENT_HOURS = 24;
 /** Igaz, ha a hír az elmúlt 24 órában jelent meg (dátum nélküli hír frissnek számít).
- *  A `now` opcionális: a `.filter(isRecent)` az elem indexét adná át második paraméterként,
- *  ezért explicit `?? Date.now()` kell, különben minden hír átmenne a szűrőn. */
-export const isRecent = (n: NewsItem, now?: number) => {
-  const t = now ?? Date.now();
-  return !n.published_at || t / 1000 - n.published_at <= RECENT_HOURS * 3600;
-};
+ *  Szándékosan csak egy paramétert vesz: a `.filter(isRecent)` hívásnál a filter az elem
+ *  indexét adná át második argumentumként, ami egy korábbi `now` paraméterrel felülírta
+ *  volna a Date.now()-t, és minden hír átment volna a szűrőn. */
+export const isRecent = (n: NewsItem) =>
+  !n.published_at || Date.now() / 1000 - n.published_at <= RECENT_HOURS * 3600;
 
 /** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. */
 export const byRelevance = [...news].sort(
