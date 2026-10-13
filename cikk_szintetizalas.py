@@ -17,7 +17,7 @@ os.makedirs("src/data", exist_ok=True)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# ✅ Beállítva a kért gpt-6-luna modell
+# ✅ gpt-6-luna modell használata
 MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
@@ -183,26 +183,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
 
         if parsed_article.get("skip") is True:
             print(f"⚠️ Kiszűrve [{g_id}]: A cikkek nem érték el a kívánt témaegyezést.")
-            fallback_entries = []
-            for art in articles:
-                title_hu = art.get("title", "")
-                lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
-                content_hu = art.get("summary", "")
-                fallback_entries.append({
-                    "group_id": g_id,
-                    "category": art.get("category", "Általános"),
-                    "image": art.get("image"),
-                    "is_synthesized": False,
-                    "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
-                    "published_at": int(art.get("published_at", art.get("fetched_at", time.time()))),
-                    "title_hu": title_hu,
-                    "lead_hu": lead_hu,
-                    "content_hu": content_hu,
-                    "title_ro": title_hu,
-                    "lead_ro": lead_hu,
-                    "content_ro": content_hu
-                })
-            return fallback_entries, False
+            return [], False
 
         used_indices = parsed_article.get("used_sources_indices", [])
         if used_indices:
@@ -213,26 +194,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
         # HA AZ AI SZŰRÉSE UTÁN KEVESEBB MINT 2 FORRÁS MARADT, NEM HASZNÁLJUK AZ AI SZINTÉZIST
         if len(filtered_sources) < 2:
             print(f"⚠️ Kiszűrve [{g_id}]: Az AI csak {len(filtered_sources)} forrást talált érvényesnek/hasznosnak.")
-            fallback_entries = []
-            for art in articles:
-                title_hu = art.get("title", "")
-                lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
-                content_hu = art.get("summary", "")
-                fallback_entries.append({
-                    "group_id": g_id,
-                    "category": art.get("category", "Általános"),
-                    "image": art.get("image"),
-                    "is_synthesized": False,
-                    "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
-                    "published_at": int(art.get("published_at", art.get("fetched_at", time.time()))),
-                    "title_hu": title_hu,
-                    "lead_hu": lead_hu,
-                    "content_hu": content_hu,
-                    "title_ro": title_hu,
-                    "lead_ro": lead_hu,
-                    "content_ro": content_hu
-                })
-            return fallback_entries, False
+            return [], False
 
         synthesized_entry = {
             "group_id": g_id,
@@ -274,8 +236,6 @@ def run_synthesis_direct():
         if g_id:
             grouped_data.setdefault(g_id, []).append(item)
 
-    synthesized_results = []
-    single_count = 0
     multi_groups = []
 
     print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
@@ -283,32 +243,10 @@ def run_synthesis_direct():
     for g_id, articles in grouped_data.items():
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
         
-        # 1. Ha kevesebb mint 2 KÜLÖNBÖZŐ forrás van, NEM hívunk AI-t
+        # 🛑 KIZÁRÓLAG AKKOR HÍVUNK AI-T, HA LEGALÁBB 2 KÜLÖNBÖZŐ FORRÁS VAN
         if len(unique_sources) < 2:
-            art = articles[0]
-            title_hu = art.get("title", "")
-            lead_hu = art.get("summary", "")[:200] + "..." if art.get("summary") else ""
-            content_hu = art.get("summary", "")
-            pub_time = int(art.get("published_at", art.get("fetched_at", time.time())))
-
-            synthesized_results.append({
-                "group_id": g_id,
-                "category": art.get("category", "Általános"),
-                "image": art.get("image"),
-                "is_synthesized": False,
-                "sources": [{"source": art.get("source"), "title": art.get("title"), "link": art.get("link")}],
-                "published_at": pub_time,
-                "title_hu": title_hu,
-                "lead_hu": lead_hu,
-                "content_hu": content_hu,
-                "title_ro": title_hu,
-                "lead_ro": lead_hu,
-                "content_ro": content_hu
-            })
-            single_count += 1
             continue
 
-        # 2. Ha létezik már feldolgozott szintetizált cikk ehhez a group_id-hoz:
         existing_synth = existing_articles.get(g_id)
         if existing_synth:
             existing_links = {s.get("link") for s in existing_synth.get("sources", []) if s.get("link")}
@@ -316,15 +254,13 @@ def run_synthesis_direct():
             
             # HA NEM ÉRKEZETT ÚJ LINK: Átlépjük az AI-hívást! ($0 token költség)
             if current_links and current_links.issubset(existing_links):
-                synthesized_results.append(existing_synth)
                 continue
 
-        # Csak akkor küldjük az OpenAI-nak, ha TÉNYLEG új cikk/link érkezett
         multi_groups.append((g_id, articles, existing_synth))
 
-    # Párhuzamos API-hívások az új/frissült csoportokra
+    synthesized_results = []
     if multi_groups:
-        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak...")
+        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
         with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(process_group_direct, g_id, articles, existing)
@@ -332,15 +268,14 @@ def run_synthesis_direct():
             ]
             for future in futures:
                 entries, is_synth = future.result()
-                synthesized_results.extend(entries)
-                if not is_synth:
-                    single_count += len(entries)
+                if is_synth:
+                    synthesized_results.extend(entries)
     else:
         print("💤 Nincs új téma vagy frissült cikk, 0 OpenAI API hívás történt!")
 
-    # MENTÉS ÉS DÁTUMSZŰRÉS
-    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-
+    # 🛑 MENTÉS ÉS 12 ÓRÁS DÁTUMSZŰRÉS
+    CUTOFF_TIME = int(time.time()) - (12 * 3600)
+    
     all_final_results = {}
     if os.path.exists(OUTPUT_FILE):
         try:
@@ -352,12 +287,11 @@ def run_synthesis_direct():
         except Exception as e:
             print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
 
+    # Frissítjük a kimenetet az újonnan szintetizált AI kártyákkal
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # 🛑 12 ÓRÁS IDŐKORLÁT (12 * 3600 másodperc)
-    CUTOFF_TIME = int(time.time()) - (12 * 3600)
-    
+    # Kiszűrjük a 12 óránál régebbi elemeket
     fresh_news = [
         item for item in all_final_results.values() 
         if item.get("published_at", 0) >= CUTOFF_TIME
@@ -374,8 +308,8 @@ def run_synthesis_direct():
 
     print("\n" + "=" * 60)
     print(f"✅ FOLYAMAT KÉSZ!")
-    print(f"🤖 AI által újonnan feldolgozott / bővített hírek: {len(multi_groups)} db")
-    print(f"💾 Összesen {len(final_sorted_list)} friss cikk elmentve a főoldali JSON-ba ({OUTPUT_FILE}).")
+    print(f"🤖 AI által feldolgozott új kártyák: {len(synthesized_results)} db")
+    print(f"💾 Összesen {len(final_sorted_list)} friss cikk elmentve a címlapra ({OUTPUT_FILE}).")
     print("=" * 60)
 
 if __name__ == "__main__":
