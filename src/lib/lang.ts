@@ -12,7 +12,11 @@ export function setLang(l: Lang) {
   subs.forEach((f) => f());
 }
 
+/** Igaz hidratálás után: ekkor az időket a látogató saját időzónájában írjuk ki. */
+export let useLocalTz = false;
+
 export function useLang(): Lang {
+  useLocalTz = useSyncExternalStore(() => () => {}, () => true, () => false);
   const lang = useSyncExternalStore(
     (f) => { subs.add(f); return () => subs.delete(f); },
     () => current,
