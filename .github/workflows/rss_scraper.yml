@@ -1,0 +1,35 @@
+name: RSS Feed Scraper (5 min)
+
+on:
+  schedule:
+    # 5 percenként fut le
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Kézi indítási lehetőség a GitHub felületén
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository letöltése
+        uses: actions/checkout@v4
+
+      - name: Python környezet beállítása
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Függőségek telepítése
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser beautifulsoup4 requests sentence-transformers numpy
+
+      - name: Scraper futtatása
+        run: python weboldalparolas.py
+
+      - name: Módosítások mentése és feltöltése (Git Commit & Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json src/data/news.json
+          git commit -m "Auto-update RSS feeds (5-min batch)" || exit 0
+          git push
