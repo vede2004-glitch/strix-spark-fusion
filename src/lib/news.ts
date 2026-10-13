@@ -1,5 +1,6 @@
 import raw from "@/data/news.json";
 import type { Lang } from "@/lib/lang";
+import { localTz } from "@/lib/lang";
 
 export type NewsSource = { source: string; title: string; link: string };
 export type LangContent = { title: string; lead: string; content: string };
@@ -138,7 +139,8 @@ export function timeAgo(ts: number | null | undefined, lang: Lang = "hu") {
 export function formatDate(ts: number | null | undefined, lang: Lang = "hu") {
   if (!ts) return "";
   return new Date(ts * 1000).toLocaleString(lang === "ro" ? "ro-RO" : "hu-HU", {
-    month: "short", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Bucharest",
+    month: "short", day: "numeric", hour: "2-digit", minute: "2-digit",
+    ...(localTz ? {} : { timeZone: "Europe/Bucharest" }),
   });
 }
 
