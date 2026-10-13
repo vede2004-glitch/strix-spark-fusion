@@ -2326,7 +2326,7 @@
   {
     "group_id": "group_e961b0761c",
     "category": "Sport",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -2345,6 +2345,15 @@
         "summary": "Barcelona a învins Galatasaray cu 4-1, marți seară, la Istanbul, în etapa a doua a Ligii Campionilor. Gazdele au deschis scorul, însă formația spaniolă a egalat înainte de pauză și a înscris de trei ori în repriza secundă.",
         "category": "Sport",
         "published_at": 1791925517
+      },
+      {
+        "source": "G4Media",
+        "title": "Barcelona, pe val la Istanbul: 4-1 cu Galatasaray / Interul lui Chivu, învins acasă de campioana Belgiei / Rezultatele serii din Liga Campionilor",
+        "link": "https://www.g4media.ro/barcelona-isi-continua-forma-la-istanbul-4-1-cu-galatasaray-interul-lui-chivu-invins-acasa-de-campioana-belgiei-rezultatele-serii-din-liga-campionilor.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/profimedia-1143023910-scaled.jpg",
+        "summary": "Barcelona a învins-o pe Galatasaray în a doua rundă din faza ligii din Liga Campionilor, marți, scor 4-1, la Istanbul. În aceeași seară, Inter a pierdut pe teren propriu împotriva campioanei Belgiei, iar Bayern s-a încurcat pe sinteticul norvegian. Barcelona, fără milă la Istanbul Barcelona a început tare meciul de la Istanbul, iar Anthony Gordon […] © G4Media.ro.",
+        "category": "Sport",
+        "published_at": 1791926755
       }
     ]
   },
@@ -13774,12 +13783,21 @@
   {
     "group_id": "group_61cc679929",
     "category": "Gazdaság",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Ziarul Financiar",
         "title": "Americanii au redevenit cei mai activi investitori străini de pe piaţa românească de M&A în 2026",
         "link": "https://www.zf.ro/tranzactii/americanii-au-redevenit-cei-mai-activi-investitori-straini-de-pe-piata-romaneasca-de-m-a-in-2026-23259416",
+        "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/34786/23259416/1/afacere-shutterstock.jpg?width=700",
+        "summary": "În primele nouă luni din 2026, în România s-au parafat 212 tranzacţii cu o valoare cumulată de 7,1 mld. dolari. În volum piaţa a scăzut uşor, cu 1%, în timp ce în valoare se poate remarca un avans de 33%, arată datele companiei de audit şi consultanţă EY.",
+        "category": "Gazdaság",
+        "published_at": 1791925620
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Surpriză: Americanii au redevenit cei mai activi investitori străini de pe piaţa românească de M&A în 2026",
+        "link": "https://www.zf.ro/tranzactii/surpriza-americanii-au-redevenit-cei-mai-activi-investitori-straini-de-pe-piata-romaneasca-de-m-a-in-2026-23259416",
         "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/34786/23259416/1/afacere-shutterstock.jpg?width=700",
         "summary": "În primele nouă luni din 2026, în România s-au parafat 212 tranzacţii cu o valoare cumulată de 7,1 mld. dolari. În volum piaţa a scăzut uşor, cu 1%, în timp ce în valoare se poate remarca un avans de 33%, arată datele companiei de audit şi consultanţă EY.",
         "category": "Gazdaság",
@@ -14248,6 +14266,38 @@
         "summary": "Șantierul naval din Mangalia a fost subiectul unui schimb de replici între fostul premier Victor Ponta și ministrul interimar al Economiei, Radu Miruță, după acuzațiile lansate de politicianul USR cu privire la modul în care a gestionat PSD situația șantierului de-a lungul timpului. Rheinmetall Real Estate România SRL a câștigat licitația pentru Damen Shipyards Mangalia, …",
         "category": "Politika",
         "published_at": 1791926444
+      }
+    ]
+  },
+  {
+    "group_id": "group_2f50906b1e",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ce a zis Fabio Capello după Inter – Brugge 3-4: „Sub nivel”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/inter-club-brugge-analiza-fabio-capello-cristi-chivu-987837.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/e2da28a0-c3eb-4339-9ea5-cf45c21d40a9.jpg?width=290&height=208",
+        "summary": "Celebrul Fabio Capello a analizat prestația lui Inter din meciul pierdut dramatic cu Club Brugge, 3-4. După înfrângerea cu Real Madrid, Interul lui Cristi Chivu a pierdut și cu Club Brugge, 3-4, la capătul unui meci extrem de spectaculos. La final, în presa din Italia, fostul mare antrenor Fabio Capello a făcut analiza meciului. ...",
+        "category": "Sport",
+        "published_at": 1791926528
+      }
+    ]
+  },
+  {
+    "group_id": "group_dcdb960da1",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Surprize uriașe în Liga Campionilor: Interul lui Chivu pierde acasă, Bayern se împiedică în Norvegia. Manchester United pierde la Madrid. Toate rezultatele",
+        "link": "https://www.mediafax.ro/sport/surprize-uriase-in-liga-campionilor-interul-lui-chivu-pierde-acasa-bayern-se-impiedica-in-norvegia-manchester-united-pierde-la-madrid-toate-rezultatele-23824881",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8156197-hepta_mediafax_foto-dpa_hepta-1-1024x683.jpg",
+        "summary": "Etapa a doua a fazei principale din Liga Campionilor a adus marți seară surprize uriașe. Inter Milano, echipa antrenată de Cristian Chivu, a pierdut pe teren propriu cu Club Brugge, scor 3-4, Bayern München a fost ținută în șah de norvegienii de la Viking, scor 3-3, iar Manchester United a cedat cu 0-2 în fața lui Atlético Madrid. Arsenal și Barcelona au obținut victorii categorice, în timp ce Napoli a fost învinsă de Villarreal.",
+        "category": "Sport",
+        "published_at": 1791926275
       }
     ]
   }
