@@ -69,7 +69,7 @@ def process_single_article(art: dict) -> dict:
     }
 
 def load_existing_synthesized_articles() -> dict:
-    """Beolvassa a már korábban elmentett kimeneti híreket a group_id alapján."""
+    """Beolvassa a már korábban elmentett kimeneti híreket a group_id alapján (beleértve az elutasítottakat is)."""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -94,7 +94,7 @@ def prepare_prompt_content(articles: list, existing_synthesized_article: dict = 
         })
 
     # PROMPT: MÁR MEGLÉVŐ CIKK BŐVÍTÉSE
-    if existing_synthesized_article and existing_synthesized_article.get("is_synthesized"):
+    if existing_synthesized_article and existing_synthesized_article.get("is_synthesized") and not existing_synthesized_article.get("rejected"):
         old_title_hu = existing_synthesized_article.get("title_hu", "")
         old_lead_hu = existing_synthesized_article.get("lead_hu", "")
         old_content_hu = existing_synthesized_article.get("content_hu", "")
@@ -196,9 +196,17 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         content_str = response.choices[0].message.content
         parsed_article = json.loads(content_str)
 
+        # 🛑 HA AZ AI SKIP-ET AD VISSZA:
         if parsed_article.get("skip") is True:
             print(f"⚠️ Kiszűrve [{g_id}]: A cikkek nem érték el a kívánt témaegyezést.")
-            return [], False
+            rejected_entry = {
+                "group_id": g_id,
+                "fingerprint": group_fingerprint,
+                "is_synthesized": False,
+                "rejected": True,
+                "published_at": latest_timestamp
+            }
+            return [rejected_entry], False
 
         used_indices = parsed_article.get("used_sources_indices", [])
         if used_indices:
@@ -206,10 +214,17 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         else:
             filtered_sources = sources_used
 
-        # HA AZ AI SZŰRÉSE UTÁN KEVESEBB MINT 2 FORRÁS MARADT, NEM HASZNÁLJUK AZ AI SZINTÉZIST
+        # 🛑 HA KEVESEBB MINT 2 FORRÁS MARADT UTÁNA:
         if len(filtered_sources) < 2:
             print(f"⚠️ Kiszűrve [{g_id}]: Az AI csak {len(filtered_sources)} forrást talált érvényesnek/hasznosnak.")
-            return [], False
+            rejected_entry = {
+                "group_id": g_id,
+                "fingerprint": group_fingerprint,
+                "is_synthesized": False,
+                "rejected": True,
+                "published_at": latest_timestamp
+            }
+            return [rejected_entry], False
 
         synthesized_entry = {
             "group_id": g_id,
@@ -217,6 +232,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
             "category": category,
             "image": cover_image,
             "is_synthesized": True,
+            "rejected": False,
             "sources_count": len(filtered_sources),
             "sources": filtered_sources,
             "published_at": latest_timestamp,
@@ -282,7 +298,8 @@ def run_synthesis_direct():
             if not existing_fingerprint and "sources" in existing_synth:
                 existing_fingerprint = calculate_fingerprint(existing_synth["sources"])
 
-            # 🛑 HA AZ UJJLENYOMAT UGYANAZ: Átlépjük az AI-hívást! ($0 token költség)
+            # 🛑 HA AZ UJJLENYOMAT UGYANAZ (akár sikeres volt, akár KISZŰRT / REJECTED):
+            # Átlépjük az AI-hívást! ($0 token költség)
             if existing_fingerprint and current_fingerprint == existing_fingerprint:
                 continue
 
@@ -297,13 +314,13 @@ def run_synthesis_direct():
                 for g_id, articles, existing, fingerprint in multi_groups
             ]
             for future in futures:
-                entries, is_synth = future.result()
-                if is_synth:
+                entries, _ = future.result()
+                if entries:
                     synthesized_results.extend(entries)
     else:
         print("💤 Nincs friss (12 órán belüli) új téma vagy frissült cikk, 0 OpenAI API hívás történt!")
 
-    # 🛑 MENTÉS ÉS 12 ÓRÁS DÁTUMSZŰRÉS A KIMENETNÉL IS
+    # 🛑 MENTÉS ÉS DÁTUMSZŰRÉS
     all_final_results = {}
     if os.path.exists(OUTPUT_FILE):
         try:
@@ -315,18 +332,24 @@ def run_synthesis_direct():
         except Exception as e:
             print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
 
-    # Frissítjük a kimenetet az újonnan szintetizált AI kártyákkal
+    # Frissítjük az állapotokat az új eredményekkel (beleértve a rejected elemeket is a belső memóriához)
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # Kiszűrjük a 12 óránál régebbi elemeket a kimeneti news.json-ból is
-    fresh_news = [
+    # Kiszűrjük a 12 óránál régebbi elemeket
+    fresh_items = [
         item for item in all_final_results.values() 
         if item.get("published_at", 0) >= CUTOFF_TIME
     ]
 
+    # 🛑 A FRONTENDNEK CSAK A SIKERESEN SZINTETIZÁLT CIKKEKET MENTJÜK!
+    frontend_news = [
+        item for item in fresh_items 
+        if item.get("is_synthesized") is True and not item.get("rejected")
+    ]
+
     final_sorted_list = sorted(
-        fresh_news, 
+        frontend_news, 
         key=lambda x: x.get("published_at", 0), 
         reverse=True
     )
@@ -336,7 +359,7 @@ def run_synthesis_direct():
 
     print("\n" + "=" * 60)
     print(f"✅ FOLYAMAT KÉSZ!")
-    print(f"🤖 AI által feldolgozott új kártyák: {len(synthesized_results)} db")
+    print(f"🤖 AI által feldolgozott új kártyák: {len([x for x in synthesized_results if x.get('is_synthesized')])} db")
     print(f"💾 Összesen {len(final_sorted_list)} friss cikk elmentve a címlapra ({OUTPUT_FILE}).")
     print("=" * 60)
 
