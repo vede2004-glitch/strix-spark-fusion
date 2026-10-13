@@ -1,355 +1,316 @@
 import json
-import re
 import os
 import time
-import calendar
-import hashlib
 import requests
-import feedparser
-import numpy as np
-from datetime import datetime
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
-from sentence_transformers import SentenceTransformer
+from openai import OpenAI
 
 # ==============================================================================
 # 1. KONFIGURÁCIÓ
 # ==============================================================================
-RSS_FEEDS = {
-    "Maszol": "https://maszol.ro/rss",
-    "Maszol Sport": "https://maszol.ro/sport/rss",
-    "Maszol Gazdaság": "https://maszol.ro/gazdasag/rss",
-    "Maszol Életmód": "https://maszol.ro/eletmod/rss",
-
-    "Transtelex": "https://transtelex.ro/rss",
-    "Átlátszó Erdély": "https://atlatszo.ro/feed/",
-    "Udvarhelyi Hírportál (UH.ro)": "https://www.uh.ro/feed/",
-    "Kolozsvári Rádió (HU)": "https://www.kolozsvariradio.ro/feed/",
-    "Vásárhely.ma": "https://www.vasarhely.ma/feed/",
-    "Marosvásárhelyi Rádió (HU)": "https://www.marosvasarhelyiradio.ro/feed/",
-    "Mediatica.ro": "https://www.mediatica.ro/feed/",
-
-    "Szatmári sporthírek": "https://szmsport.ro/feed/",
-    "Manna": "https://manna.ro/feed/",
-    "RomKat": "https://romkat.ro/feed/",
-    "Hargita Népe": "https://hargitanepe.ro/rss",
-
-    "Agerpres (HU)": "https://www.agerpres.ro/magyar/rss",
-    "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
-    "Agerpres (Stiri)": "https://www.agerpres.ro/stiri-actualizate/rss",
-
-    "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
-    "Székely Sport": "https://szekelysport.ro/rss",
-
-    "Economedia": "https://economedia.ro/feed",
-    "Ziarul Financiar": "https://www.zf.ro/rss",
-
-    "Cancan.ro": "https://www.cancan.ro/feed",
-    "Click.ro": "https://click.ro/feed",
-
-    "PresaSM (Szatmár)": "https://www.presasm.ro/feed/",
-    "Szatmári Friss Újság": "https://friss.ro/feed/rss2",
-
-    "Go4IT": "https://www.go4it.ro/feed/",
-    "Zonait.ro": "https://zonait.ro/feed/",
-
-    "Digi24": "https://www.digi24.ro/rss",
-    "G4Media": "https://www.g4media.ro/feed",
-    "HotNews.ro": "https://www.hotnews.ro/rss",
-    "Adevărul": "https://adevarul.ro/rss/",
-    "Mediafax": "https://www.mediafax.ro/rss/",
-    "ProTV Stiri": "https://stirileprotv.ro/rss",
-    "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss"
-}
-
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
-GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
 OUTPUT_FILE = "src/data/news.json"
 
-SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
-SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
+os.makedirs("src/data", exist_ok=True)
+
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+client = OpenAI(api_key=OPENAI_API_KEY)
+
+# ✅ gpt-6-luna modell használata
+MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
-
-CATEGORIES = {
-    "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat", "sport"],
-    "Politika": ["kormány", "parlament", "választás", "párt", "politika", "tanács", "polgármester", "miniszter", "szenátus", "döntés", "törvény", "rmdsz", "psd", "pnl", "usr", "aur", "guvern", "alegeri", "primar"],
-    "Gazdaság": ["pénz", "euró", "lej", "infláció", "befektetés", "gazdaság", "cégek", "üzlet", "piac", "drágulás", "árak", "bank", "fizetés", "bér", "bani", "inflatie", "investitii", "economie"],
-    "Kultúra": ["színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", "fesztivál", "egyház", "teatru", "muzeu", "carte", "muzica", "biserica"],
-    "Erdély": ["erdély", "székelyföld", "kolozsvár", "marosvásárhely", "csíkszereda", "sepsiszentgyörgy", "székelyudvarhely", "nagyvárad", "szatmárnémeti", "brassó", "hargita", "kovászna", "maros", "iskola", "kórház", "baleset", "rendőrség", "accident", "politie"],
-    "Bulvár": ["sztár", "celeb", "szerelem", "szakítás", "házasság", "botrány", "vedeta", "scandal", "divort", "cancan", "showbiz", "horoszkóp"]
-}
-
-_MODEL = None
-
-def get_model():
-    global _MODEL
-    if _MODEL is None:
-        print("🧠 SentenceTransformer AI modell betöltése...")
-        _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-    return _MODEL
 
 # ==============================================================================
 # 2. SEGÉDFUNKCIÓK
 # ==============================================================================
-def load_memory():
-    if os.path.exists(MEMORY_FILE):
-        try:
-            with open(MEMORY_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return []
-    return []
-
-def save_memory(memory_data):
-    with open(MEMORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(memory_data, f, ensure_ascii=False, indent=2)
-
-def clean_text(text):
-    if not text:
+def fetch_full_article_text(url: str) -> str:
+    if not url:
         return ""
-    text = BeautifulSoup(text, 'html.parser').text.strip()
-    text = re.sub(r'\s+', ' ', text)
-    return text
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=8)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, "html.parser")
+        
+        paragraphs = soup.find_all("p")
+        text_blocks = [p.text.strip() for p in paragraphs if len(p.text.strip()) > 35]
+        return "\n\n".join(text_blocks)
+    except Exception as e:
+        print(f"⚠️ Nem sikerült a cikk letöltése ({url}): {e}")
+        return ""
 
-def classify_article(title, summary, source_name, entry_tags):
-    if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
-        return "Sport"
-    if source_name in ["Maszol Gazdaság", "Economedia", "Ziarul Financiar"]:
-        return "Gazdaság"
-    if source_name in ["Click.ro", "Cancan.ro", "Maszol Életmód"]:
-        return "Bulvár"
-    if source_name in ["Udvarhelyi Hírportál (UH.ro)", "Hargita Népe", "PresaSM (Szatmár)", "Szatmári Friss Újság", "Vásárhely.ma", "Átlátszó Erdély", "Ebihoreanul (Nagyvárad/Bihar)"]:
-        return "Erdély"
-    if source_name in ["Go4IT", "Zonait.ro"]:
-        return "Általános"
-    if source_name in ["Agerpres (Politica)"]:
-        return "Politika"
-
-    text = f"{title} {summary}".lower()
-    for category, keywords in CATEGORIES.items():
-        for kw in keywords:
-            if re.search(r'\b' + re.escape(kw) + r'\b', text):
-                return category
-    return "Általános"
-
-def extract_cover_image(entry, article_url, session):
-    if 'media_content' in entry and entry.media_content:
-        for media in entry.media_content:
-            if 'url' in media and media['url']:
-                return media['url']
-    if 'links' in entry:
-        for link in entry.links:
-            if link.get('type', '').startswith('image/') and 'href' in link:
-                return link['href']
-    raw_html = entry.get('summary', '') or entry.get('description', '')
-    if raw_html:
-        soup = BeautifulSoup(raw_html, 'html.parser')
-        img = soup.find('img')
-        if img and img.get('src'):
-            return img['src']
-    return "https://via.placeholder.com/600x400?text=Nincs+Kep"
-
-def get_embedding(title, summary):
-    clean_title = clean_text(title)
-    clean_sum = clean_text(summary)[:250]
-    text_to_embed = f"{clean_title}. {clean_title}. {clean_sum}"
-    if not text_to_embed.strip():
-        return []
-    model_inst = get_model()
-    embedding = model_inst.encode(text_to_embed, convert_to_numpy=True)
-    return np.round(embedding, 4).tolist()
-
-def cosine_similarity(v1, v2):
-    if not v1 or not v2:
-        return 0.0
-    a, b = np.array(v1), np.array(v2)
-    norm_a, norm_b = np.linalg.norm(a), np.linalg.norm(b)
-    if norm_a == 0 or norm_b == 0:
-        return 0.0
-    return float(np.dot(a, b) / (norm_a * norm_b))
-
-def extract_article_data(entry, source_name, session, cutoff_12h):
-    title = clean_text(entry.get('title', ''))
-    link = entry.get('link', '').strip()
-
-    pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
-    if pub_parsed:
-        pub_timestamp = int(calendar.timegm(pub_parsed))
-    else:
-        pub_timestamp = int(time.time())
-
-    # 🛑 12 ÓRÁS SZŰRŐ
-    if pub_timestamp < cutoff_12h:
-        return None
-
-    raw_summary = entry.get('summary', '') or entry.get('description', '')
-    clean_summary = clean_text(raw_summary)
-    image_url = extract_cover_image(entry, link, session)
-    category = classify_article(title, clean_summary, source_name, [])
-
+def process_single_article(art: dict) -> dict:
+    full_text = fetch_full_article_text(art.get("link", ""))
+    content_to_use = full_text if len(full_text) > 120 else art.get("summary", "")
     return {
-        "source": source_name,
-        "title": title,
-        "link": link,
-        "summary": clean_summary,
-        "image": image_url,
-        "published_at": pub_timestamp,
-        "category": category
+        "source": art.get("source", ""),
+        "title": art.get("title", ""),
+        "link": art.get("link", ""),
+        "image": art.get("image", ""),
+        "content": content_to_use
     }
 
-def fetch_single_feed(item_and_cutoff):
-    (source_name, feed_url), cutoff_12h = item_and_cutoff
-    extracted = []
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    try:
-        response = session.get(feed_url, timeout=20, allow_redirects=True)
-        response.raise_for_status()
-        feed = feedparser.parse(response.content)
-        for entry in feed.entries:
-            art = extract_article_data(entry, source_name, session, cutoff_12h)
-            if art and art["title"]:
-                extracted.append(art)
-    except Exception as e:
-        print(f"⚠️ Hiba a(z) {source_name} feed beolvasásakor: {e}")
-    return extracted
-
-# ==============================================================================
-# 3. CSOPORTOSÍTÁS ÉS GYORSHÍR KIMENTÉS A NEWS.JSON-BA
-# ==============================================================================
-def run_pipeline():
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"\n[{now_str}] 🔄 Hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
-
-    cutoff_12h = int(time.time()) - (12 * 3600)
-    memory = load_memory()
-
-    fetched_articles = []
-    feed_items = [((src, url), cutoff_12h) for src, url in RSS_FEEDS.items()]
-    
-    with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as executor:
-        results = executor.map(fetch_single_feed, feed_items)
-
-    for article_list in results:
-        fetched_articles.extend(article_list)
-
-    for art in fetched_articles:
-        if any(m["link"] == art["link"] for m in memory):
-            continue
-
-        art_embedding = get_embedding(art['title'], art['summary'])
-        if not art_embedding:
-            continue
-
-        best_match_group_id = None
-        highest_similarity = -1.0
-        best_match_source = ""
-
-        for m_item in memory:
-            if "embedding" not in m_item or not m_item["embedding"]:
-                m_item["embedding"] = get_embedding(m_item['title'], m_item.get('summary', ''))
-
-            sim = cosine_similarity(art_embedding, m_item["embedding"])
-            if sim > highest_similarity:
-                highest_similarity = sim
-                best_match_group_id = m_item["group_id"]
-                best_match_source = m_item["source"]
-
-        required_threshold = SIMILARITY_THRESHOLD_SAME_SOURCE if art["source"] == best_match_source else SIMILARITY_THRESHOLD_CROSS_SOURCE
-
-        if highest_similarity >= required_threshold and best_match_group_id:
-            group_id = best_match_group_id
-        else:
-            link_hash = hashlib.md5(art["link"].encode("utf-8")).hexdigest()[:10]
-            group_id = f"group_{link_hash}"
-
-        memory.append({
-            "group_id": group_id,
-            "source": art["source"],
-            "title": art["title"],
-            "link": art["link"],
-            "image": art["image"],
-            "summary": art["summary"],
-            "category": art["category"],
-            "embedding": art_embedding,
-            "fetched_at": art["published_at"]
-        })
-
-    save_memory(memory)
-
-    # CSOPORTOSÍTOTT MEMÓRIA MENTÉSE
-    grouped_dictionary = {}
-    for item in memory:
-        g_id = item["group_id"]
-        clean_item = {
-            "source": item["source"],
-            "title": item["title"],
-            "link": item["link"],
-            "image": item["image"],
-            "summary": item["summary"],
-            "category": item["category"],
-            "published_at": item["fetched_at"]
-        }
-        if g_id not in grouped_dictionary:
-            grouped_dictionary[g_id] = {
-                "group_id": g_id,
-                "category": item["category"],
-                "articles_count": 0,
-                "articles": []
-            }
-        grouped_dictionary[g_id]["articles"].append(clean_item)
-        grouped_dictionary[g_id]["articles_count"] += 1
-
-    with open(GROUPED_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(grouped_dictionary.values()), f, ensure_ascii=False, indent=2)
-
-    # ⚡ VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA
-    os.makedirs("src/data", exist_ok=True)
-    existing_news = {}
+def load_existing_synthesized_articles() -> dict:
+    """Beolvassa a már korábban elmentett kimeneti híreket a group_id alapján."""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-                for item in json.load(f):
-                    if "group_id" in item:
-                        existing_news[item["group_id"]] = item
-        except Exception:
-            pass
+                data = json.load(f)
+                return {item["group_id"]: item for item in data if "group_id" in item}
+        except Exception as e:
+            print(f"⚠️ Nem sikerült beolvasni a meglévő {OUTPUT_FILE} fájlt: {e}")
+    return {}
 
+def prepare_prompt_content(articles: list, existing_synthesized_article: dict = None) -> tuple:
+    with ThreadPoolExecutor(max_workers=min(len(articles), 5)) as executor:
+        scraped_results = list(executor.map(process_single_article, articles))
+
+    sources_used = []
+    cover_image = articles[0].get("image", "https://via.placeholder.com/600x400?text=Nincs+Kep")
+
+    for res in scraped_results:
+        sources_used.append({
+            "source": res["source"],
+            "title": res["title"],
+            "link": res["link"]
+        })
+
+    # PROMPT: MÁR MEGLÉVŐ CIKK BŐVÍTÉSE
+    if existing_synthesized_article and existing_synthesized_article.get("is_synthesized"):
+        old_title_hu = existing_synthesized_article.get("title_hu", "")
+        old_lead_hu = existing_synthesized_article.get("lead_hu", "")
+        old_content_hu = existing_synthesized_article.get("content_hu", "")
+
+        new_sources_text = ""
+        for idx, res in enumerate(scraped_results, 1):
+            new_sources_text += f"\n--- ÚJ FORRÁS ({res['source']}): {res['title']} ---\n"
+            new_sources_text += f"{res['content']}\n"
+
+        prompt = f"""
+Te a Hírelemző szerkesztője vagy. Korábban már írtál egy pontokba szedett összefoglalót egy témában, de most ÚJ forrás(ok) érkeztek hozzá.
+
+MÁR MEGLÉVŐ ÖSSZEFOGLALÓ (HU):
+Cím: {old_title_hu}
+Lead: {old_lead_hu}
+Tartalom:
+{old_content_hu}
+
+ÚJONNAN ÉRKEZETT FORRÁSOK TARTALMA:
+{new_sources_text}
+
+FELADAT:
+1. Vizsgáld meg az új forrásokat!
+2. HA tartalmaz új tényt, adatsort vagy dátumot, EGÉSZÍTSD KI a meglévő pontokból álló listát újabb gondolatjelekkel (•)!
+3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
+4. Írd meg a frissített összefoglalót MAGYAR és ROMÁN nyelven is!
+
+SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
+- A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
+- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
+
+KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
+{{
+  "skip": false,
+  "title_hu": "Frissített magyar cím",
+  "lead_hu": "Frissített 2-3 mondatos magyar lead",
+  "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• **Kulcsszó vagy Szereplő** második magyar pont...",
+  "title_ro": "Titlu actualizat în română",
+  "lead_ro": "Lead de 2-3 propoziții în română",
+  "content_ro": "• **Data sau Afirmația Cheie** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct...",
+  "used_sources_indices": [1, 2]
+}}
+"""
+        return prompt, cover_image, sources_used
+
+    # PROMPT: ÚJ CIKK GENERÁLÁSA
+    combined_sources = ""
+    for idx, res in enumerate(scraped_results, 1):
+        combined_sources += f"\n--- {idx}. FORRÁS: {res['source']} | Cím: {res['title']} ---\n"
+        combined_sources += f"{res['content']}\n"
+
+    prompt = f"""
+Te a Hírelemző portál vezető szerkesztője vagy. Az alábbiakban megadok több hírforrásból származó cikket egy témacsoportból.
+
+FELADAT ÉS SZŰRÉS:
+1. Szigorúan vizsgáld meg a megadott források tartalmát!
+2. HA BÁRMELYIK FORRÁS NEM UGYANARRÓL AZ ESEMÉNYRŐL SZÓL, AZT TELJESEN HAGYD KI!
+3. Ha a szűrés után nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
+4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
+
+SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
+- A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
+- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
+
+KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
+{{
+  "skip": false,
+  "title_hu": "A tényekre fókuszáló magyar cím",
+  "lead_hu": "2-3 mondatos magyar összefoglaló lead",
+  "content_hu": "• **Szeptember 30-án** Oroszország tavasz óta a legnagyobb...\\n\\n• A **Tripilszka hőerőmű** is találatot kapott...",
+  "title_ro": "Titlul în română focalizat pe fapte",
+  "lead_ro": "Rezumat de 2-3 propoziții în română",
+  "content_ro": "• Pe **30 septembrie** Rusia a lansat cel mai mare...\\n\\n• Centrala termică **Trypilska** a fost de asemenea lovită...",
+  "used_sources_indices": [1, 2]
+}}
+
+FORRÁSOK:
+{combined_sources}
+"""
+    return prompt, cover_image, sources_used
+
+def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
+    """Közvetlen API hívást végző segédfüggvény egy csoportra."""
+    print(f"🌐 Weboldalak feldolgozása a(z) {g_id} csoporthoz ({len(articles)} forrás)...")
+    prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
+    category = articles[0].get("category", "Általános")
+
+    latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
+
+    try:
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "system", "content": "Kizárólag érvényes JSON objektumot adj vissza!"},
+                {"role": "user", "content": prompt}
+            ],
+            response_format={"type": "json_object"}
+        )
+        content_str = response.choices[0].message.content
+        parsed_article = json.loads(content_str)
+
+        if parsed_article.get("skip") is True:
+            print(f"⚠️ Kiszűrve [{g_id}]: A cikkek nem érték el a kívánt témaegyezést.")
+            return [], False
+
+        used_indices = parsed_article.get("used_sources_indices", [])
+        if used_indices:
+            filtered_sources = [sources_used[i - 1] for i in used_indices if 0 < i <= len(sources_used)]
+        else:
+            filtered_sources = sources_used
+
+        # HA AZ AI SZŰRÉSE UTÁN KEVESEBB MINT 2 FORRÁS MARADT, NEM HASZNÁLJUK AZ AI SZINTÉZIST
+        if len(filtered_sources) < 2:
+            print(f"⚠️ Kiszűrve [{g_id}]: Az AI csak {len(filtered_sources)} forrást talált érvényesnek/hasznosnak.")
+            return [], False
+
+        synthesized_entry = {
+            "group_id": g_id,
+            "category": category,
+            "image": cover_image,
+            "is_synthesized": True,
+            "sources_count": len(filtered_sources),
+            "sources": filtered_sources,
+            "published_at": latest_timestamp,
+            "title_hu": parsed_article.get("title_hu", ""),
+            "lead_hu": parsed_article.get("lead_hu", ""),
+            "content_hu": parsed_article.get("content_hu", ""),
+            "title_ro": parsed_article.get("title_ro", ""),
+            "lead_ro": parsed_article.get("lead_ro", ""),
+            "content_ro": parsed_article.get("content_ro", "")
+        }
+        return [synthesized_entry], True
+
+    except Exception as e:
+        print(f"⚠️ Hiba a(z) {g_id} feldolgozásakor: {e}")
+        return [], False
+
+# ==============================================================================
+# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT
+# ==============================================================================
+def run_synthesis_direct():
+    if not os.path.exists(MEMORY_FILE):
+        print(f"⚠️ A memóriafájl ({MEMORY_FILE}) nem található!")
+        return
+
+    with open(MEMORY_FILE, "r", encoding="utf-8") as f:
+        memory = json.load(f)
+
+    existing_articles = load_existing_synthesized_articles()
+
+    grouped_data = {}
     for item in memory:
         g_id = item.get("group_id")
-        pub_time = int(item.get("fetched_at", time.time()))
+        if g_id:
+            grouped_data.setdefault(g_id, []).append(item)
 
-        if pub_time < cutoff_12h:
+    multi_groups = []
+
+    print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
+
+    for g_id, articles in grouped_data.items():
+        unique_sources = set(art.get("source") for art in articles if art.get("source"))
+        
+        # 🛑 KIZÁRÓLAG AKKOR HÍVUNK AI-T, HA LEGALÁBB 2 KÜLÖNBÖZŐ FORRÁS VAN
+        if len(unique_sources) < 2:
             continue
 
-        # Ha még nincs feldolgozva AI kártyaként, frissítjük/betesszük gyorshírként
-        if g_id not in existing_news or not existing_news[g_id].get("is_synthesized"):
-            existing_news[g_id] = {
-                "group_id": g_id,
-                "category": item.get("category", "Általános"),
-                "image": item.get("image"),
-                "is_synthesized": False,
-                "sources": [{"source": item.get("source"), "title": item.get("title"), "link": item.get("link")}],
-                "published_at": pub_time,
-                "title_hu": item.get("title", ""),
-                "lead_hu": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
-                "content_hu": item.get("summary", ""),
-                "title_ro": item.get("title", ""),
-                "lead_ro": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
-                "content_ro": item.get("summary", "")
-            }
+        existing_synth = existing_articles.get(g_id)
+        if existing_synth:
+            existing_links = {s.get("link") for s in existing_synth.get("sources", []) if s.get("link")}
+            current_links = {art.get("link") for art in articles if art.get("link")}
+            
+            # HA NEM ÉRKEZETT ÚJ LINK: Átlépjük az AI-hívást! ($0 token költség)
+            if current_links and current_links.issubset(existing_links):
+                continue
 
-    final_list = [item for item in existing_news.values() if item.get("published_at", 0) >= cutoff_12h]
-    final_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
+        multi_groups.append((g_id, articles, existing_synth))
+
+    synthesized_results = []
+    if multi_groups:
+        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = [
+                executor.submit(process_group_direct, g_id, articles, existing)
+                for g_id, articles, existing in multi_groups
+            ]
+            for future in futures:
+                entries, is_synth = future.result()
+                if is_synth:
+                    synthesized_results.extend(entries)
+    else:
+        print("💤 Nincs új téma vagy frissült cikk, 0 OpenAI API hívás történt!")
+
+    # 🛑 MENTÉS ÉS 12 ÓRÁS DÁTUMSZŰRÉS
+    CUTOFF_TIME = int(time.time()) - (12 * 3600)
+    
+    all_final_results = {}
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+                for item in existing_data:
+                    if "group_id" in item:
+                        all_final_results[item["group_id"]] = item
+        except Exception as e:
+            print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
+
+    # Frissítjük a kimenetet az újonnan szintetizált AI kártyákkal
+    for item in synthesized_results:
+        all_final_results[item["group_id"]] = item
+
+    # Kiszűrjük a 12 óránál régebbi elemeket
+    fresh_news = [
+        item for item in all_final_results.values() 
+        if item.get("published_at", 0) >= CUTOFF_TIME
+    ]
+
+    final_sorted_list = sorted(
+        fresh_news, 
+        key=lambda x: x.get("published_at", 0), 
+        reverse=True
+    )
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_list, f, ensure_ascii=False, indent=2)
+        json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
 
-    print(f"⚡ 5 perces gyorshír frissítés kész! ({len(final_list)} cikk a news.json-ban)")
+    print("\n" + "=" * 60)
+    print(f"✅ FOLYAMAT KÉSZ!")
+    print(f"🤖 AI által feldolgozott új kártyák: {len(synthesized_results)} db")
+    print(f"💾 Összesen {len(final_sorted_list)} friss cikk elmentve a címlapra ({OUTPUT_FILE}).")
+    print("=" * 60)
 
 if __name__ == "__main__":
-    run_pipeline()
+    run_synthesis_direct()
