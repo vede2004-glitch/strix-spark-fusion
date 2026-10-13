@@ -1,7 +1,7 @@
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { synthesized, singles, timeAgo, formatDate, isRecent, isHungarianSource, tr, CATEGORIES, ALL, type NewsItem } from "@/lib/news";
+import { synthesized, singles, timeAgo, formatDate, isRecent, isHungarianSource, tr, CATEGORIES, ALL, RECENT_HOURS, type NewsItem } from "@/lib/news";
 import { useLang, setLang, LANGS } from "@/lib/lang";
 import { Search, X } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
