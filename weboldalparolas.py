@@ -177,10 +177,15 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
     link = entry.get('link', '').strip()
 
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
+    current_now = int(time.time())
+
     if pub_parsed:
         pub_timestamp = int(calendar.timegm(pub_parsed))
+        # 🛑 JÖVŐBELI IDŐPONT VÉDELEM: Ha az RSS hibás időzónát ad, átállítjuk a jelenlegi időre
+        if pub_timestamp > current_now:
+            pub_timestamp = current_now
     else:
-        pub_timestamp = int(time.time())
+        pub_timestamp = current_now
 
     # 🛑 12 ÓRÁS SZŰRŐ
     if pub_timestamp < cutoff_12h:
@@ -281,7 +286,33 @@ def run_pipeline():
 
     save_memory(memory)
 
-    # ⚡ 4. VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA
+    # 💾 CSOPORTOSÍTOTT MEMÓRIA MENTÉSE (A 2 ÓRÁS AI SCRIPTNEK)
+    grouped_dictionary = {}
+    for item in memory:
+        g_id = item["group_id"]
+        clean_item = {
+            "source": item["source"],
+            "title": item["title"],
+            "link": item["link"],
+            "image": item["image"],
+            "summary": item["summary"],
+            "category": item["category"],
+            "published_at": item["fetched_at"]
+        }
+        if g_id not in grouped_dictionary:
+            grouped_dictionary[g_id] = {
+                "group_id": g_id,
+                "category": item["category"],
+                "articles_count": 0,
+                "articles": []
+            }
+        grouped_dictionary[g_id]["articles"].append(clean_item)
+        grouped_dictionary[g_id]["articles_count"] += 1
+
+    with open(GROUPED_FILE, "w", encoding="utf-8") as f:
+        json.dump(list(grouped_dictionary.values()), f, ensure_ascii=False, indent=2)
+
+    # ⚡ VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA
     os.makedirs("src/data", exist_ok=True)
     existing_news = {}
     if os.path.exists(OUTPUT_FILE):
@@ -317,8 +348,25 @@ def run_pipeline():
                 "content_ro": item.get("summary", "")
             }
 
-    final_list = [item for item in existing_news.values() if item.get("published_at", 0) >= cutoff_12h]
-    final_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
+    raw_list = [item for item in existing_news.values() if item.get("published_at", 0) >= cutoff_12h]
+    raw_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
+
+    # 🛑 FORRÁS-DIVERZITÁS: Megakadályozza, hogy 2-nél több egymást követő cikk ugyanattól a lapstól származzon
+    balanced_list = []
+    skipped_items = []
+
+    for item in raw_list:
+        item_source = item.get("sources", [{}])[0].get("source")
+        if (
+            len(balanced_list) >= 2 
+            and balanced_list[-1].get("sources", [{}])[0].get("source") == item_source
+            and balanced_list[-2].get("sources", [{}])[0].get("source") == item_source
+        ):
+            skipped_items.append(item)
+        else:
+            balanced_list.append(item)
+
+    final_list = balanced_list + skipped_items
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_list, f, ensure_ascii=False, indent=2)
