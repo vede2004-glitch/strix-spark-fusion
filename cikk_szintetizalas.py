@@ -2,6 +2,7 @@ import json
 import os
 import time
 import requests
+import hashlib
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 from openai import OpenAI
@@ -27,6 +28,20 @@ HEADERS = {
 # ==============================================================================
 # 2. SEGÉDFUNKCIÓK
 # ==============================================================================
+def calculate_fingerprint(articles_or_sources: list) -> str:
+    """
+    Kiszámítja a cikkek vagy források linkjei alapján a csoport egyedi ujjlenyomatát (hash).
+    Mivel a linkeket ábécé sorrendbe rendezi, a sorrendváltozás sem okoz hamis frissítést.
+    """
+    links = []
+    for item in articles_or_sources:
+        link = item.get("link", "")
+        if link:
+            links.append(link)
+    sorted_links = sorted(list(set(links)))
+    combined = "|".join(sorted_links)
+    return hashlib.md5(combined.encode("utf-8")).hexdigest()
+
 def fetch_full_article_text(url: str) -> str:
     if not url:
         return ""
@@ -161,7 +176,7 @@ FORRÁSOK:
 """
     return prompt, cover_image, sources_used
 
-def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
+def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, group_fingerprint: str):
     """Közvetlen API hívást végző segédfüggvény egy csoportra."""
     print(f"🌐 Weboldalak feldolgozása a(z) {g_id} csoporthoz ({len(articles)} forrás)...")
     prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
@@ -198,6 +213,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
 
         synthesized_entry = {
             "group_id": g_id,
+            "fingerprint": group_fingerprint,
             "category": category,
             "image": cover_image,
             "is_synthesized": True,
@@ -237,45 +253,57 @@ def run_synthesis_direct():
             grouped_data.setdefault(g_id, []).append(item)
 
     multi_groups = []
+    
+    # 🛑 12 ÓRÁS IDŐKORLÁT SZŰRŐ
+    CURRENT_TIME = int(time.time())
+    CUTOFF_TIME = CURRENT_TIME - (12 * 3600)
 
     print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
 
     for g_id, articles in grouped_data.items():
+        # 1. Megkeressük a csoportban lévő legfrissebb cikk időpontját
+        latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", 0))) for a in articles])
+
+        # 🛑 HA A CSOPORT LEEGFRISSEBB CIKKE IS RÉGEBBI 12 ÓRÁNÁL: ÁTLÉPJÜK!
+        if latest_timestamp < CUTOFF_TIME:
+            continue
+
+        # 2. Ellenőrizzük a források számát (legalább 2 különböző forrás kell)
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
-        
-        # 🛑 KIZÁRÓLAG AKKOR HÍVUNK AI-T, HA LEGALÁBB 2 KÜLÖNBÖZŐ FORRÁS VAN
         if len(unique_sources) < 2:
             continue
 
+        # 3. Kiszámítjuk a cikk-összeállítás ujjlenyomatát (hash)
+        current_fingerprint = calculate_fingerprint(articles)
         existing_synth = existing_articles.get(g_id)
+
         if existing_synth:
-            existing_links = {s.get("link") for s in existing_synth.get("sources", []) if s.get("link")}
-            current_links = {art.get("link") for art in articles if art.get("link")}
-            
-            # HA NEM ÉRKEZETT ÚJ LINK: Átlépjük az AI-hívást! ($0 token költség)
-            if current_links and current_links.issubset(existing_links):
+            existing_fingerprint = existing_synth.get("fingerprint")
+            if not existing_fingerprint and "sources" in existing_synth:
+                existing_fingerprint = calculate_fingerprint(existing_synth["sources"])
+
+            # 🛑 HA AZ UJJLENYOMAT UGYANAZ: Átlépjük az AI-hívást! ($0 token költség)
+            if existing_fingerprint and current_fingerprint == existing_fingerprint:
                 continue
 
-        multi_groups.append((g_id, articles, existing_synth))
+        multi_groups.append((g_id, articles, existing_synth, current_fingerprint))
 
     synthesized_results = []
     if multi_groups:
-        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
+        print(f"🚀 {len(multi_groups)} db új/frissült (12 órán belüli) többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
         with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
-                executor.submit(process_group_direct, g_id, articles, existing)
-                for g_id, articles, existing in multi_groups
+                executor.submit(process_group_direct, g_id, articles, existing, fingerprint)
+                for g_id, articles, existing, fingerprint in multi_groups
             ]
             for future in futures:
                 entries, is_synth = future.result()
                 if is_synth:
                     synthesized_results.extend(entries)
     else:
-        print("💤 Nincs új téma vagy frissült cikk, 0 OpenAI API hívás történt!")
+        print("💤 Nincs friss (12 órán belüli) új téma vagy frissült cikk, 0 OpenAI API hívás történt!")
 
-    # 🛑 MENTÉS ÉS 12 ÓRÁS DÁTUMSZŰRÉS
-    CUTOFF_TIME = int(time.time()) - (12 * 3600)
-    
+    # 🛑 MENTÉS ÉS 12 ÓRÁS DÁTUMSZŰRÉS A KIMENETNÉL IS
     all_final_results = {}
     if os.path.exists(OUTPUT_FILE):
         try:
@@ -291,7 +319,7 @@ def run_synthesis_direct():
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # Kiszűrjük a 12 óránál régebbi elemeket
+    # Kiszűrjük a 12 óránál régebbi elemeket a kimeneti news.json-ból is
     fresh_news = [
         item for item in all_final_results.values() 
         if item.get("published_at", 0) >= CUTOFF_TIME
