@@ -1,5 +1,485 @@
 [
   {
+    "group_id": "group_003bef164e",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (Politica)",
+        "title": "Casa Albă îi cere demisia ambasadoarei americane în Grecia, Kimberly Guilfoyle",
+        "link": "https://agerpres.ro/politic-extern/2026/10/13/casa-alba-ii-cere-demisia-ambasadoarei-americane-in-grecia-kimberly-guilfoyle--1602589"
+      }
+    ],
+    "published_at": 1791901993,
+    "title_hu": "Casa Albă îi cere demisia ambasadoarei americane în Grecia, Kimberly Guilfoyle",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Casa Albă îi cere demisia ambasadoarei americane în Grecia, Kimberly Guilfoyle",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_70ead208d0",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (Politica)",
+        "title": "Iași: Managerul Palatului Culturii dorește o evaluare structurală a clădirii, din cauza crăpăturilor și infiltrațiilor de apă",
+        "link": "https://agerpres.ro/cultura-media/2026/10/13/iasi-managerul-palatului-culturii-doreste-o-evaluare-structurala-a-cladirii-din-cauza-crapaturilor-s--1602587"
+      }
+    ],
+    "published_at": 1791901993,
+    "title_hu": "Iași: Managerul Palatului Culturii dorește o evaluare structurală a clădirii, din cauza crăpăturilor și infiltrațiilor de apă",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Iași: Managerul Palatului Culturii dorește o evaluare structurală a clădirii, din cauza crăpăturilor și infiltrațiilor de apă",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4915d29c6e",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (Politica)",
+        "title": "Cum te poți trezi cu hackeri în frigider (Reuters)",
+        "link": "https://agerpres.ro/social-extern/2026/10/13/cum-te-poti-trezi-cu-hackeri-in-frigider-reuters--1602585"
+      }
+    ],
+    "published_at": 1791901993,
+    "title_hu": "Cum te poți trezi cu hackeri în frigider (Reuters)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Cum te poți trezi cu hackeri în frigider (Reuters)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_5b4c6ae9d2",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (Politica)",
+        "title": "Mureș: Roboți umanoizi și inteligență artificială aplicată, pe scena Palatului Culturii la conferința LIMITL3SS",
+        "link": "https://agerpres.ro/educatie-stiinta/2026/10/13/mures-roboti-umanoizi-si-inteligenta-artificiala-aplicata-pe-scena-palatului-culturii-la-conferinta---1602586"
+      }
+    ],
+    "published_at": 1791901993,
+    "title_hu": "Mureș: Roboți umanoizi și inteligență artificială aplicată, pe scena Palatului Culturii la conferința LIMITL3SS",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Mureș: Roboți umanoizi și inteligență artificială aplicată, pe scena Palatului Culturii la conferința LIMITL3SS",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_955a97cbcd",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (Politica)",
+        "title": "COFCO: Producția de porumb a Chinei va crește anul acesta; livrările din SUA 'nu sunt încă o opțiune'",
+        "link": "https://agerpres.ro/economic-extern/2026/10/13/cofco-productia-de-porumb-a-chinei-va-creste-anul-acesta-livrarile-din-sua-nu-sunt-inca-o-optiune--1602588"
+      }
+    ],
+    "published_at": 1791901993,
+    "title_hu": "COFCO: Producția de porumb a Chinei va crește anul acesta; livrările din SUA 'nu sunt încă o opțiune'",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "COFCO: Producția de porumb a Chinei va crește anul acesta; livrările din SUA 'nu sunt încă o opțiune'",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_485fbd09bf",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAxMDg4Nl8zMDEw/ODg2X2hhY2tlci1wcm9maW1lZGlhLmpw/ZyZoYXNoPTY0YWRiNGZlNjllMmNhZGY0NTAxOTM2YTZkOGM2ODg4.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Cum pot ajunge hackerii la dispozitivele casnice sau la sistemele de supraveghere și alarmă ale locuinței (Reuters)",
+        "link": "https://www.digi24.ro/stiri/actualitate/cum-pot-ajunge-hackerii-la-dispozitivele-casnice-sau-la-sistemele-de-supraveghere-si-alarma-ale-locuintei-reuters-3990403"
+      }
+    ],
+    "published_at": 1791901930,
+    "title_hu": "Cum pot ajunge hackerii la dispozitivele casnice sau la sistemele de supraveghere și alarmă ale locuinței (Reuters)",
+    "lead_hu": "Hackerii care au sabotat sistemele de refrigerare din sute de supermarketuri franceze au exploatat conectivitatea tot mai mare a unor echipamente care, în trecut, erau în mare parte mecanice; de la fr...",
+    "content_hu": "Hackerii care au sabotat sistemele de refrigerare din sute de supermarketuri franceze au exploatat conectivitatea tot mai mare a unor echipamente care, în trecut, erau în mare parte mecanice; de la frigidere şi sisteme de încălzire până la camere de supraveghere şi reţele de alarmă, o gamă tot mai largă de dispozitive poate fi acum monitorizată şi controlată de la distanţă, creând noi oportunităţi pentru infractorii cibernetici, notează marţi agenţia Reuters, citată de Agerpres.",
+    "title_ro": "Cum pot ajunge hackerii la dispozitivele casnice sau la sistemele de supraveghere și alarmă ale locuinței (Reuters)",
+    "lead_ro": "Hackerii care au sabotat sistemele de refrigerare din sute de supermarketuri franceze au exploatat conectivitatea tot mai mare a unor echipamente care, în trecut, erau în mare parte mecanice; de la fr...",
+    "content_ro": "Hackerii care au sabotat sistemele de refrigerare din sute de supermarketuri franceze au exploatat conectivitatea tot mai mare a unor echipamente care, în trecut, erau în mare parte mecanice; de la frigidere şi sisteme de încălzire până la camere de supraveghere şi reţele de alarmă, o gamă tot mai largă de dispozitive poate fi acum monitorizată şi controlată de la distanţă, creând noi oportunităţi pentru infractorii cibernetici, notează marţi agenţia Reuters, citată de Agerpres."
+  },
+  {
+    "group_id": "group_270c18d989",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "579 állás várta a végzősöket Maros megyében",
+        "link": "https://www.mediatica.ro/hirek/gazdasag/579-allas-varta-a-vegzosoket-maros-megyeben"
+      }
+    ],
+    "published_at": 1791901897,
+    "title_hu": "579 állás várta a végzősöket Maros megyében",
+    "lead_hu": "A meghirdetett állások számát tekintve a negyedik helyen szerepeltünk országosan....",
+    "content_hu": "A meghirdetett állások számát tekintve a negyedik helyen szerepeltünk országosan.",
+    "title_ro": "579 állás várta a végzősöket Maros megyében",
+    "lead_ro": "A meghirdetett állások számát tekintve a negyedik helyen szerepeltünk országosan....",
+    "content_ro": "A meghirdetett állások számát tekintve a negyedik helyen szerepeltünk országosan."
+  },
+  {
+    "group_id": "group_eb4000e6b0",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/03/venus-statuie-figurina.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Figurină veche de peste 6.000 de ani, descoperită de arheologi la Păuleni-Ciuc, în Harghita",
+        "link": "https://www.g4media.ro/figurina-veche-de-peste-6-000-de-ani-descoperita-de-arheologi-la-pauleni-ciuc-in-harghita.html"
+      }
+    ],
+    "published_at": 1791901839,
+    "title_hu": "Figurină veche de peste 6.000 de ani, descoperită de arheologi la Păuleni-Ciuc, în Harghita",
+    "lead_hu": "O figurină din lut reprezentând o siluetă feminină, care, potrivit specialiştilor, ar avea o vechime de circa 6.000 de ani, a fost descoperită recent în situl „Dâmbul Cetăţii” din localitatea harghite...",
+    "content_hu": "O figurină din lut reprezentând o siluetă feminină, care, potrivit specialiştilor, ar avea o vechime de circa 6.000 de ani, a fost descoperită recent în situl „Dâmbul Cetăţii” din localitatea harghiteană Păuleni-Ciuc, au anunţat reprezentanţii Muzeului Naţional al Carpaţilor Răsăriteni (MNCR) din Sfântu Gheorghe. Potrivit sursei citate, obiectul aparţine culturii Cucuteni (4500-4050 î. Hr.) şi […] © G4Media.ro.",
+    "title_ro": "Figurină veche de peste 6.000 de ani, descoperită de arheologi la Păuleni-Ciuc, în Harghita",
+    "lead_ro": "O figurină din lut reprezentând o siluetă feminină, care, potrivit specialiştilor, ar avea o vechime de circa 6.000 de ani, a fost descoperită recent în situl „Dâmbul Cetăţii” din localitatea harghite...",
+    "content_ro": "O figurină din lut reprezentând o siluetă feminină, care, potrivit specialiştilor, ar avea o vechime de circa 6.000 de ani, a fost descoperită recent în situl „Dâmbul Cetăţii” din localitatea harghiteană Păuleni-Ciuc, au anunţat reprezentanţii Muzeului Naţional al Carpaţilor Răsăriteni (MNCR) din Sfântu Gheorghe. Potrivit sursei citate, obiectul aparţine culturii Cucuteni (4500-4050 î. Hr.) şi […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_ffd82710da",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23258397/1/7-alexandru-cristescu.jpg?width=700",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Alexandru Cristescu, Raiffeisen Private Banking: Sunt în continuare foarte mulţi bani în conturile clienţilor care nu sunt investiţi. „Vorbim undeva de 2,2 mld. euro active pe care le administrăm, dintre care circa 65% sunt diversificate în investiţii, restul fiind în zona de produse de economisire.“",
+        "link": "https://www.zf.ro/banci-si-asigurari/alexandru-cristescu-raiffeisen-private-banking-continuare-foarte-multi-bani-conturile-clientilor-investiti-vorbim-undeva-2-2-mld-euro-active-le-administram-dintre-circa-65-diversificate-investitii-23258397"
+      }
+    ],
+    "published_at": 1791901800,
+    "title_hu": "Alexandru Cristescu, Raiffeisen Private Banking: Sunt în continuare foarte mulţi bani în conturile clienţilor care nu sunt investiţi. „Vorbim undeva de 2,2 mld. euro active pe care le administrăm, dintre care circa 65% sunt diversificate în investiţii, restul fiind în zona de produse de economisire.“",
+    "lead_hu": "Românii cu averi mari păstrează în continuare o parte importantă a banilor în zona de economisire, chiar dacă au acces la o gamă tot mai largă de instrumente de investiţii. Raiffeisen Private Banking ...",
+    "content_hu": "Românii cu averi mari păstrează în continuare o parte importantă a banilor în zona de economisire, chiar dacă au acces la o gamă tot mai largă de instrumente de investiţii. Raiffeisen Private Banking administrează în prezent aproximativ 2,2 mld. euro pentru clienţii din acest segment, iar circa 65% din active sunt diversificate în investiţii, în timp ce restul sunt în produse de economisire, după cum spune Alexandru Cristescu, director, Raiffeisen Private Banking.",
+    "title_ro": "Alexandru Cristescu, Raiffeisen Private Banking: Sunt în continuare foarte mulţi bani în conturile clienţilor care nu sunt investiţi. „Vorbim undeva de 2,2 mld. euro active pe care le administrăm, dintre care circa 65% sunt diversificate în investiţii, restul fiind în zona de produse de economisire.“",
+    "lead_ro": "Românii cu averi mari păstrează în continuare o parte importantă a banilor în zona de economisire, chiar dacă au acces la o gamă tot mai largă de instrumente de investiţii. Raiffeisen Private Banking ...",
+    "content_ro": "Românii cu averi mari păstrează în continuare o parte importantă a banilor în zona de economisire, chiar dacă au acces la o gamă tot mai largă de instrumente de investiţii. Raiffeisen Private Banking administrează în prezent aproximativ 2,2 mld. euro pentru clienţii din acest segment, iar circa 65% din active sunt diversificate în investiţii, în timp ce restul sunt în produse de economisire, după cum spune Alexandru Cristescu, director, Raiffeisen Private Banking."
+  },
+  {
+    "group_id": "group_9490bb4cef",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-e/e8ef9267-1ae5-4c3c-a9ad-6bbee943002d/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Mirela Vaida rupe tăcerea după cearta cu Valerie Lungu de la Asia Express: „M-am văzut și eu pe mine”",
+        "link": "https://adevarul.ro/showbiz/tv/mirela-vaida-rupe-tacerea-dupa-cearta-cu-valerie-2563758.html"
+      }
+    ],
+    "published_at": 1791901783,
+    "title_hu": "Mirela Vaida rupe tăcerea după cearta cu Valerie Lungu de la Asia Express: „M-am văzut și eu pe mine”",
+    "lead_hu": "Mirela Vaida și creatoarea de conținut Valerie Lungu au trecut prin momente tensionate, după ce au ajuns să facă echipă la Asia Express....",
+    "content_hu": "Mirela Vaida și creatoarea de conținut Valerie Lungu au trecut prin momente tensionate, după ce au ajuns să facă echipă la Asia Express.",
+    "title_ro": "Mirela Vaida rupe tăcerea după cearta cu Valerie Lungu de la Asia Express: „M-am văzut și eu pe mine”",
+    "lead_ro": "Mirela Vaida și creatoarea de conținut Valerie Lungu au trecut prin momente tensionate, după ce au ajuns să facă echipă la Asia Express....",
+    "content_ro": "Mirela Vaida și creatoarea de conținut Valerie Lungu au trecut prin momente tensionate, după ce au ajuns să facă echipă la Asia Express."
+  },
+  {
+    "group_id": "group_7eb87acbe6",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Hatvan év után is súlyos öröksége van a romániai abortusztilalomnak",
+        "link": "https://www.mediatica.ro/hirek/aktualis/hatvan-ev-utan-is-sulyos-oroksege-van-a-romaniai-abortusztilalomnak"
+      }
+    ],
+    "published_at": 1791901769,
+    "title_hu": "Hatvan év után is súlyos öröksége van a romániai abortusztilalomnak",
+    "lead_hu": "Konferencián idézik fel a kommunista népesedéspolitika következményeit....",
+    "content_hu": "Konferencián idézik fel a kommunista népesedéspolitika következményeit.",
+    "title_ro": "Hatvan év után is súlyos öröksége van a romániai abortusztilalomnak",
+    "lead_ro": "Konferencián idézik fel a kommunista népesedéspolitika következményeit....",
+    "content_ro": "Konferencián idézik fel a kommunista népesedéspolitika következményeit."
+  },
+  {
+    "group_id": "group_d09362c095",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10386/23259185/1/3-nic.jpg?width=700",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "România, tot mai aproape de alegeri anticipate? Surse: Nicuşor Dan ia în calcul dizolvarea Parlamentului dacă Guvernul Niculescu nu obţine votul de învestitură. PSD cere intrarea PNL şi UDMR în coaliţie, însă liberalii refuză să guverneze alături de social-democraţi",
+        "link": "https://www.zf.ro/eveniment/romania-tot-aproape-alegeri-anticipate-surse-nicusor-dan-ia-calcul-dizolvarea-parlamentului-guvernul-niculescu-obtine-votul-investitura-psd-cere-intrarea-pnl-udmr-coalitie-insa-liberalii-refuza-23259185"
+      }
+    ],
+    "published_at": 1791901742,
+    "title_hu": "România, tot mai aproape de alegeri anticipate? Surse: Nicuşor Dan ia în calcul dizolvarea Parlamentului dacă Guvernul Niculescu nu obţine votul de învestitură. PSD cere intrarea PNL şi UDMR în coaliţie, însă liberalii refuză să guverneze alături de social-democraţi",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "România, tot mai aproape de alegeri anticipate? Surse: Nicuşor Dan ia în calcul dizolvarea Parlamentului dacă Guvernul Niculescu nu obţine votul de învestitură. PSD cere intrarea PNL şi UDMR în coaliţie, însă liberalii refuză să guverneze alături de social-democraţi",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_bdf7ca6a07",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Még keresi a szervezőt Románia a 2028-as frankfurti könyvvásári díszvendégszerepléshez",
+        "link": "https://www.mediatica.ro/hirek/kultura/meg-szervezot-keres-romania-a-2028-as-frankfurti-konyvvasari-diszvendegszerepleshez"
+      }
+    ],
+    "published_at": 1791901625,
+    "title_hu": "Még keresi a szervezőt Románia a 2028-as frankfurti könyvvásári díszvendégszerepléshez",
+    "lead_hu": "Az ügyvivő művelődési miniszter több könyvvásáron, így a marosvásárhelyin is egyeztetett a kiadókkal a szereplésről....",
+    "content_hu": "Az ügyvivő művelődési miniszter több könyvvásáron, így a marosvásárhelyin is egyeztetett a kiadókkal a szereplésről.",
+    "title_ro": "Még keresi a szervezőt Románia a 2028-as frankfurti könyvvásári díszvendégszerepléshez",
+    "lead_ro": "Az ügyvivő művelődési miniszter több könyvvásáron, így a marosvásárhelyin is egyeztetett a kiadókkal a szereplésről....",
+    "content_ro": "Az ügyvivő művelődési miniszter több könyvvásáron, így a marosvásárhelyin is egyeztetett a kiadókkal a szereplésről."
+  },
+  {
+    "group_id": "group_9a0ea5c1ec",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Chaplin humorával szembesít a mai világ kérdéseivel Csupán Eduárd kiállítása a Kultúrpalotában",
+        "link": "https://www.mediatica.ro/hirek/kultura/chaplin-humoraval-szembesit-a-mai-vilag-kerdeseivel-csupan-eduard-kiallitasa-a-kulturpalotaban"
+      }
+    ],
+    "published_at": 1791901421,
+    "title_hu": "Chaplin humorával szembesít a mai világ kérdéseivel Csupán Eduárd kiállítása a Kultúrpalotában",
+    "lead_hu": "A tárlat október 28-éig ingyenesen látogatható....",
+    "content_hu": "A tárlat október 28-éig ingyenesen látogatható.",
+    "title_ro": "Chaplin humorával szembesít a mai világ kérdéseivel Csupán Eduárd kiállítása a Kultúrpalotában",
+    "lead_ro": "A tárlat október 28-éig ingyenesen látogatható....",
+    "content_ro": "A tárlat október 28-éig ingyenesen látogatható."
+  },
+  {
+    "group_id": "group_76963a21b9",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21337/23259180/1/statiunea-saturn.jpg?width=700",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Cum arată turistul de pe litoralul românesc: cheltuie în medie 2.205 lei pentru un sejur de circa patru nopţi; 55% din rezervări sunt făcute de persoane cu vârste între 40 şi 59 de ani",
+        "link": "https://www.zf.ro/companii/industrie/cum-arata-turistul-de-pe-litoralul-romanesc-cheltuie-in-medie-2-205-lei-pentru-un-sejur-de-circa-patru-nopti-55-din-rezervari-sunt-facute-de-persoane-cu-varste-intre-40-si-59-de-ani-23259180"
+      }
+    ],
+    "published_at": 1791901375,
+    "title_hu": "Cum arată turistul de pe litoralul românesc: cheltuie în medie 2.205 lei pentru un sejur de circa patru nopţi; 55% din rezervări sunt făcute de persoane cu vârste între 40 şi 59 de ani",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Cum arată turistul de pe litoralul românesc: cheltuie în medie 2.205 lei pentru un sejur de circa patru nopţi; 55% din rezervări sunt făcute de persoane cu vârste între 40 şi 59 de ani",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_9f664d0acc",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/f8750c7e-9416-4671-adbf-ed4fe20e0a1f.png?width=290&height=208",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "A fost spaima ringului, l-a refuzat pe Tyson și 10.000.000 de dolari, iar acum a fost surprins printre gunoaie: „Caut ceva de mâncare!”",
+        "link": "https://www.gsp.ro/sporturi/box/felix-savon-campion-olimpic-box-cauta-mancare-gunoaie-987602.html"
+      }
+    ],
+    "published_at": 1791901370,
+    "title_hu": "A fost spaima ringului, l-a refuzat pe Tyson și 10.000.000 de dolari, iar acum a fost surprins printre gunoaie: „Caut ceva de mâncare!”",
+    "lead_hu": "Cubanezul Felix Savon (59 de ani), triplu campion olimpic la box și de șase ori campion mondial, a ajuns om al străzii. Pe rețelele sociale a apărut o filmare cu acesta îmbrăcat în haine ponosite, pe ...",
+    "content_hu": "Cubanezul Felix Savon (59 de ani), triplu campion olimpic la box și de șase ori campion mondial, a ajuns om al străzii. Pe rețelele sociale a apărut o filmare cu acesta îmbrăcat în haine ponosite, pe stradă, căutând de mâncare printre gunoaie. În clipul video care a făcut înconjurul internetului este surprinsă discuția dintre fostul mare campion și unui trecător care l-a recunoscut dintr-o mașină. ...",
+    "title_ro": "A fost spaima ringului, l-a refuzat pe Tyson și 10.000.000 de dolari, iar acum a fost surprins printre gunoaie: „Caut ceva de mâncare!”",
+    "lead_ro": "Cubanezul Felix Savon (59 de ani), triplu campion olimpic la box și de șase ori campion mondial, a ajuns om al străzii. Pe rețelele sociale a apărut o filmare cu acesta îmbrăcat în haine ponosite, pe ...",
+    "content_ro": "Cubanezul Felix Savon (59 de ani), triplu campion olimpic la box și de șase ori campion mondial, a ajuns om al străzii. Pe rețelele sociale a apărut o filmare cu acesta îmbrăcat în haine ponosite, pe stradă, căutând de mâncare printre gunoaie. În clipul video care a făcut înconjurul internetului este surprinsă discuția dintre fostul mare campion și unui trecător care l-a recunoscut dintr-o mașină. ..."
+  },
+  {
+    "group_id": "group_54e4cb29a7",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-d/dc6ea5ee-4b31-40bf-abdc-3b7be72a7802/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Tusea productivă vs. tusea seacă: cum le deosebești și ce poți face",
+        "link": "https://adevarul.ro/stiri-interne/sanatate/tusea-productiva-vs-tusea-seaca-cum-le-2563770.html"
+      }
+    ],
+    "published_at": 1791901351,
+    "title_hu": "Tusea productivă vs. tusea seacă: cum le deosebești și ce poți face",
+    "lead_hu": "Ți s-a întâmplat să ai o criză de tuse în miez de noapte? Sau să te trezești dimineața cu o senzație de greutate în piept și să tușești până când eliberezi căile respiratorii de mucusul acumulat? Deși...",
+    "content_hu": "Ți s-a întâmplat să ai o criză de tuse în miez de noapte? Sau să te trezești dimineața cu o senzație de greutate în piept și să tușești până când eliberezi căile respiratorii de mucusul acumulat? Deși în ambele cazuri vorbim despre tuse, cauzele și mecanismele lor sunt diferite.",
+    "title_ro": "Tusea productivă vs. tusea seacă: cum le deosebești și ce poți face",
+    "lead_ro": "Ți s-a întâmplat să ai o criză de tuse în miez de noapte? Sau să te trezești dimineața cu o senzație de greutate în piept și să tușești până când eliberezi căile respiratorii de mucusul acumulat? Deși...",
+    "content_ro": "Ți s-a întâmplat să ai o criză de tuse în miez de noapte? Sau să te trezești dimineața cu o senzație de greutate în piept și să tușești până când eliberezi căile respiratorii de mucusul acumulat? Deși în ambele cazuri vorbim despre tuse, cauzele și mecanismele lor sunt diferite."
+  },
+  {
+    "group_id": "group_412c3cbdd6",
+    "category": "Gazdaság",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/36086-mediafax_foto-doru_nica-1-e1791901250237-991x1024.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "IA ar putea da peste cap sistemul bancar. Economiștii se tem de retrageri masive din conturi",
+        "link": "https://www.mediafax.ro/economic/ia-ar-putea-da-peste-cap-sistemul-bancar-economistii-se-tem-de-retrageri-masive-din-conturi-23824696"
+      }
+    ],
+    "published_at": 1791901318,
+    "title_hu": "IA ar putea da peste cap sistemul bancar. Economiștii se tem de retrageri masive din conturi",
+    "lead_hu": "Inteligența artificială ar putea schimba radical modul în care oamenii își gestionează economiile și ar putea provoca retrageri masive de bani din bănci. Un economist american avertizează că această e...",
+    "content_hu": "Inteligența artificială ar putea schimba radical modul în care oamenii își gestionează economiile și ar putea provoca retrageri masive de bani din bănci. Un economist american avertizează că această evoluție ar putea afecta întregul sistem financiar.",
+    "title_ro": "IA ar putea da peste cap sistemul bancar. Economiștii se tem de retrageri masive din conturi",
+    "lead_ro": "Inteligența artificială ar putea schimba radical modul în care oamenii își gestionează economiile și ar putea provoca retrageri masive de bani din bănci. Un economist american avertizează că această e...",
+    "content_ro": "Inteligența artificială ar putea schimba radical modul în care oamenii își gestionează economiile și ar putea provoca retrageri masive de bani din bănci. Un economist american avertizează că această evoluție ar putea afecta întregul sistem financiar."
+  },
+  {
+    "group_id": "group_5749be2772",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/18042026/44700278-e9bd-4fb9-9cb3-d9f759273c67.jfif?width=290&height=208",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ce i-ar fura Gasperini lui Mourinho: » „Mi-aș dori să am puterea lui de convingere. Merită toată recunoașterea”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/ce-i-ar-fura-gian-piero-gasperini-lui-mourinho-liga-campionilor-corect-omagiu-merita-toata-recunoasterea-987636.html"
+      }
+    ],
+    "published_at": 1791901300,
+    "title_hu": "Ce i-ar fura Gasperini lui Mourinho: » „Mi-aș dori să am puterea lui de convingere. Merită toată recunoașterea”",
+    "lead_hu": "Gian Piero Gasperini (68 de ani) a prefațat meciul cu AS Roma din etapa a 2-a a grupei de Champions League, „Fotbalul italian nu poate câștiga Liga Campionilor acum. Real Madrid nu e un punct de refer...",
+    "content_hu": "Gian Piero Gasperini (68 de ani) a prefațat meciul cu AS Roma din etapa a 2-a a grupei de Champions League, „Fotbalul italian nu poate câștiga Liga Campionilor acum. Real Madrid nu e un punct de referință pentru ceea ce reprezintă în lume, însă pe teren, da. Ne dorim să concurăm cu ei, pentru că pot câștiga orice fel de meci”, a declarat antrenorul giallorossilor. ...",
+    "title_ro": "Ce i-ar fura Gasperini lui Mourinho: » „Mi-aș dori să am puterea lui de convingere. Merită toată recunoașterea”",
+    "lead_ro": "Gian Piero Gasperini (68 de ani) a prefațat meciul cu AS Roma din etapa a 2-a a grupei de Champions League, „Fotbalul italian nu poate câștiga Liga Campionilor acum. Real Madrid nu e un punct de refer...",
+    "content_ro": "Gian Piero Gasperini (68 de ani) a prefațat meciul cu AS Roma din etapa a 2-a a grupei de Champions League, „Fotbalul italian nu poate câștiga Liga Campionilor acum. Real Madrid nu e un punct de referință pentru ceea ce reprezintă în lume, însă pe teren, da. Ne dorim să concurăm cu ei, pentru că pot câștiga orice fel de meci”, a declarat antrenorul giallorossilor. ..."
+  },
+  {
+    "group_id": "group_2ac76ea6c7",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Erdélyi magyar kisjátékfilm nyerte a Filmtettfeszt fődíját",
+        "link": "https://www.mediatica.ro/hirek/kultura/erdelyi-magyar-kisjatekfilm-nyerte-a-filmtettfeszt-fodijat"
+      }
+    ],
+    "published_at": 1791901273,
+    "title_hu": "Erdélyi magyar kisjátékfilm nyerte a Filmtettfeszt fődíját",
+    "lead_hu": "Fazakas Lehel A menekülés lehetőségei című, 17 perces kisjátékfilmje lett a kitüntetett....",
+    "content_hu": "Fazakas Lehel A menekülés lehetőségei című, 17 perces kisjátékfilmje lett a kitüntetett.",
+    "title_ro": "Erdélyi magyar kisjátékfilm nyerte a Filmtettfeszt fődíját",
+    "lead_ro": "Fazakas Lehel A menekülés lehetőségei című, 17 perces kisjátékfilmje lett a kitüntetett....",
+    "content_ro": "Fazakas Lehel A menekülés lehetőségei című, 17 perces kisjátékfilmje lett a kitüntetett."
+  },
+  {
+    "group_id": "group_417782a37d",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/10/profimedia-1005132407.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Franța acuză actori străini, printre care miliardarul Elon Musk, de subminarea dezbaterii democratice din Europa",
+        "link": "https://www.g4media.ro/franta-acuza-actori-straini-printre-care-miliardarul-elon-musk-de-subminarea-dezbaterii-democratice-din-europa.html"
+      }
+    ],
+    "published_at": 1791901265,
+    "title_hu": "Franța acuză actori străini, printre care miliardarul Elon Musk, de subminarea dezbaterii democratice din Europa",
+    "lead_hu": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardaru...",
+    "content_hu": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardarul american Elon Musk printre actorii care încearcă să submineze dezbaterea democratică din Europa, informează agenția de presă France Presse, citată de Agerpres. În perspectiva scrutinului din 2027, […] © G4Media.ro.",
+    "title_ro": "Franța acuză actori străini, printre care miliardarul Elon Musk, de subminarea dezbaterii democratice din Europa",
+    "lead_ro": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardaru...",
+    "content_ro": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardarul american Elon Musk printre actorii care încearcă să submineze dezbaterea democratică din Europa, informează agenția de presă France Presse, citată de Agerpres. În perspectiva scrutinului din 2027, […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_d4314ba68c",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/09/28/150740/kimberly-guilfoyle-gettyimages-2216537913.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C683%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Oficial: Trump i-a cerut ambasadoarei SUA în Grecia să demisioneze, după ce s-a lăudat cu demiterea Guvernului Bolojan",
+        "link": "https://stirileprotv.ro/stiri/international/oficial-trump-i-a-cerut-ambasadoarei-sua-in-grecia-sa-demisioneze-scandalul-iscat-de-kimberly-guilfoyle-care-a-implicat-romania.html"
+      }
+    ],
+    "published_at": 1791901199,
+    "title_hu": "Oficial: Trump i-a cerut ambasadoarei SUA în Grecia să demisioneze, după ce s-a lăudat cu demiterea Guvernului Bolojan",
+    "lead_hu": "Casa Albă a confirmat, marți, că administrația Trump i-a solicitat ambasadoarei în Grecia, Kimberly Guilfoyle, să demisioneze....",
+    "content_hu": "Casa Albă a confirmat, marți, că administrația Trump i-a solicitat ambasadoarei în Grecia, Kimberly Guilfoyle, să demisioneze.",
+    "title_ro": "Oficial: Trump i-a cerut ambasadoarei SUA în Grecia să demisioneze, după ce s-a lăudat cu demiterea Guvernului Bolojan",
+    "lead_ro": "Casa Albă a confirmat, marți, că administrația Trump i-a solicitat ambasadoarei în Grecia, Kimberly Guilfoyle, să demisioneze....",
+    "content_ro": "Casa Albă a confirmat, marți, că administrația Trump i-a solicitat ambasadoarei în Grecia, Kimberly Guilfoyle, să demisioneze."
+  },
+  {
+    "group_id": "group_aa6122f684",
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/raluca-turcan-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Raluca Turcan: PNL va oferi Guvernului Niculescu „ceea ce PSD nu a oferit niciodată Guvernului Bolojan”",
+        "link": "https://www.mediafax.ro/politic/raluca-turcan-pnl-va-oferi-guvernului-niculescu-ceea-ce-psd-nu-a-oferit-niciodata-guvernului-bolojan-23824715"
+      }
+    ],
+    "published_at": 1791901158,
+    "title_hu": "Raluca Turcan: PNL va oferi Guvernului Niculescu „ceea ce PSD nu a oferit niciodată Guvernului Bolojan”",
+    "lead_hu": "Deputata PNL Raluca Turcan a declarat marți că liberalii vor sprijini proiectele majore ale României chiar dacă vor trece în opoziție odată cu instalarea unui eventual Guvern condus de Luca Niculescu....",
+    "content_hu": "Deputata PNL Raluca Turcan a declarat marți că liberalii vor sprijini proiectele majore ale României chiar dacă vor trece în opoziție odată cu instalarea unui eventual Guvern condus de Luca Niculescu.",
+    "title_ro": "Raluca Turcan: PNL va oferi Guvernului Niculescu „ceea ce PSD nu a oferit niciodată Guvernului Bolojan”",
+    "lead_ro": "Deputata PNL Raluca Turcan a declarat marți că liberalii vor sprijini proiectele majore ale României chiar dacă vor trece în opoziție odată cu instalarea unui eventual Guvern condus de Luca Niculescu....",
+    "content_ro": "Deputata PNL Raluca Turcan a declarat marți că liberalii vor sprijini proiectele majore ale României chiar dacă vor trece în opoziție odată cu instalarea unui eventual Guvern condus de Luca Niculescu."
+  },
+  {
+    "group_id": "group_ae2f261ae2",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/13/135307/vlcsnap-2026-10-13-16h51m00s842.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "O femeie din Neamț, lovită cu toporul în cap de partenerul gelos. Ulterior, a refuzat protecția poliției",
+        "link": "https://stirileprotv.ro/justitie/o-femeie-din-neamt-lovita-cu-toporul-in-cap-de-partenerul-gelos-ulterior-a-refuzat-protectia-politiei.html"
+      }
+    ],
+    "published_at": 1791901101,
+    "title_hu": "O femeie din Neamț, lovită cu toporul în cap de partenerul gelos. Ulterior, a refuzat protecția poliției",
+    "lead_hu": "Agresiune teribilă, în familie, în județul Neamț. O femeie de 41 de ani a fost lovită cu toporul în cap, chiar de partenerul său, în propria casă....",
+    "content_hu": "Agresiune teribilă, în familie, în județul Neamț. O femeie de 41 de ani a fost lovită cu toporul în cap, chiar de partenerul său, în propria casă.",
+    "title_ro": "O femeie din Neamț, lovită cu toporul în cap de partenerul gelos. Ulterior, a refuzat protecția poliției",
+    "lead_ro": "Agresiune teribilă, în familie, în județul Neamț. O femeie de 41 de ani a fost lovită cu toporul în cap, chiar de partenerul său, în propria casă....",
+    "content_ro": "Agresiune teribilă, în familie, în județul Neamț. O femeie de 41 de ani a fost lovită cu toporul în cap, chiar de partenerul său, în propria casă."
+  },
+  {
     "group_id": "group_0a3f40dc05",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -360,44 +840,24 @@
     "content_ro": "Trei persoane au fost rănite într-un accident produs marți după-amiază pe centura Oradiei, pe pasarela de pe strada Ogorului, din zona Pieței 100, pe sensul de mers spre Sântandrei. În accident au fost implicate un autoturism, un microbuz și o autoutilitară, iar unul dintre vehicule transporta butelii."
   },
   {
-    "group_id": "group_003bef164e",
+    "group_id": "group_ea0228ebe5",
     "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8158318-mediafax_foto-alex_nicodim-1024x683.jpg",
     "is_synthesized": false,
     "sources": [
       {
-        "source": "HotNews.ro",
-        "title": "Casa Albă i-a cerut demisia ambasadoarei care a dat de înțeles că este implicată în doborârea guvernului Bolojan",
-        "link": "https://hotnews.ro/kimberly-guilfoyle-demisie-2374913"
+        "source": "Mediafax",
+        "title": "Diana Buzoianu anunță punerea din nou în funcțiune a panourilor fotovoltaice de la Ministerul Mediului. „Ani de zile doar adunau praf” / Ce se întâmplă cu panourile nefuncționale",
+        "link": "https://www.mediafax.ro/stirile-zilei/diana-buzoianu-anunta-punerea-din-nou-in-functiune-a-panourilor-fotovoltaice-de-la-ministerul-mediului-ani-de-zile-doar-adunau-praf-ce-se-intampla-cu-panourile-nefunctionale-23824675"
       }
     ],
-    "published_at": 1791900968,
-    "title_hu": "Casa Albă i-a cerut demisia ambasadoarei care a dat de înțeles că este implicată în doborârea guvernului Bolojan",
-    "lead_hu": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de do...",
-    "content_hu": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de dolari de la un donator al lui Trump în perioada premergătoare audierii sale de confirmare de anul trecut, relatează Wall …",
-    "title_ro": "Casa Albă i-a cerut demisia ambasadoarei care a dat de înțeles că este implicată în doborârea guvernului Bolojan",
-    "lead_ro": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de do...",
-    "content_ro": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de dolari de la un donator al lui Trump în perioada premergătoare audierii sale de confirmare de anul trecut, relatează Wall …"
-  },
-  {
-    "group_id": "group_417782a37d",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjA3JTJGMjQzMDk3Ml8yNDMw/OTcyX3Byb2ZpbWVkaWEtMTAwNTYyNjkz/Ny5qcGcmaGFzaD0yNjM1ODAzMzBjZjFkNzU5ZDEzOTBhMDI4Y2VlZGQ4OQ==.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Elon Musk și MAGA, acuzați de subminarea dezbaterii democratice din Europa. Franța: „Îi vedem, îi denunţăm, răspundem cu intransigenţă”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/elon-musk-si-maga-acuzati-de-subminarea-dezbaterii-democratice-din-europa-franta-ii-vedem-ii-denuntam-raspundem-cu-intransigenta-3990371"
-      }
-    ],
-    "published_at": 1791900918,
-    "title_hu": "Elon Musk și MAGA, acuzați de subminarea dezbaterii democratice din Europa. Franța: „Îi vedem, îi denunţăm, răspundem cu intransigenţă”",
-    "lead_hu": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardaru...",
-    "content_hu": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardarul american Elon Musk printre actorii care încearcă să submineze dezbaterea democratică din Europa, informează France Presse.",
-    "title_ro": "Elon Musk și MAGA, acuzați de subminarea dezbaterii democratice din Europa. Franța: „Îi vedem, îi denunţăm, răspundem cu intransigenţă”",
-    "lead_ro": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardaru...",
-    "content_ro": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardarul american Elon Musk printre actorii care încearcă să submineze dezbaterea democratică din Europa, informează France Presse."
+    "published_at": 1791900913,
+    "title_hu": "Diana Buzoianu anunță punerea din nou în funcțiune a panourilor fotovoltaice de la Ministerul Mediului. „Ani de zile doar adunau praf” / Ce se întâmplă cu panourile nefuncționale",
+    "lead_hu": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar ad...",
+    "content_hu": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar aduna praf”.",
+    "title_ro": "Diana Buzoianu anunță punerea din nou în funcțiune a panourilor fotovoltaice de la Ministerul Mediului. „Ani de zile doar adunau praf” / Ce se întâmplă cu panourile nefuncționale",
+    "lead_ro": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar ad...",
+    "content_ro": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar aduna praf”."
   },
   {
     "group_id": "group_8a5066e085",
@@ -420,24 +880,24 @@
     "content_ro": "Președintele Nicușor Dan ia în calcul dizolvarea Parlamentului și declanșarea alegerilor anticipate dacă premierul desemnat, Luca Niculescu, nu reușește să obțină votul de învestitură sau renunță la mandat din cauza lipsei unei majorități parlamentare, potrivit unor surse citate de G4Media și Hotnews. Este o schimbare majoră de strategie la Palatul Cotroceni, după cinci luni în care șeful statului a respins scenariul anticipatelor."
   },
   {
-    "group_id": "group_d09362c095",
-    "category": "Politika",
-    "image": "https://stirileprotv.ro/img/2026/10/08/060630/agerpres-luca-niculescu-nicusor-dan.jpeg?fm=jpg&q=80&fit=crop&crop=5507%2C3671%2C0%2C0&w=1280",
+    "group_id": "group_4b045296f5",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-4/49d0f526-b546-45bf-8d4d-aec534e9f116/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
     "is_synthesized": false,
     "sources": [
       {
-        "source": "ProTV Stiri",
-        "title": "SURSE: Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament",
-        "link": "https://stirileprotv.ro/stiri/politic/surse-nicusor-dan-ia-in-calcul-declansarea-alegerilor-anticipate-daca-guvernul-luca-niculescu-pica-in-parlament.html"
+        "source": "Adevărul",
+        "title": "Vacanţă de coşmar în Veneţia pentru 3.500 de turişti. Ce au pățit după ce au plătit 25 de euro pe noapte pentru o cameră, pe Booking",
+        "link": "https://adevarul.ro/stil-de-viata/calatorii/vacanta-de-cosmar-in-venetia-pentru-3500-de-2563756.html"
       }
     ],
-    "published_at": 1791900700,
-    "title_hu": "SURSE: Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament",
-    "lead_hu": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială....",
-    "content_hu": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială.",
-    "title_ro": "SURSE: Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament",
-    "lead_ro": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială....",
-    "content_ro": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială."
+    "published_at": 1791900736,
+    "title_hu": "Vacanţă de coşmar în Veneţia pentru 3.500 de turişti. Ce au pățit după ce au plătit 25 de euro pe noapte pentru o cameră, pe Booking",
+    "lead_hu": "Aproximativ 3.500 de rezervări false au provocat haos la un hotel din Veneția. Turiștii au plătit pe Booking pentru camere care nu existau în evidențele hotelului, atrași de „chilipirul” de numai 25 d...",
+    "content_hu": "Aproximativ 3.500 de rezervări false au provocat haos la un hotel din Veneția. Turiștii au plătit pe Booking pentru camere care nu existau în evidențele hotelului, atrași de „chilipirul” de numai 25 de euro pe noapte de persoană.",
+    "title_ro": "Vacanţă de coşmar în Veneţia pentru 3.500 de turişti. Ce au pățit după ce au plătit 25 de euro pe noapte pentru o cameră, pe Booking",
+    "lead_ro": "Aproximativ 3.500 de rezervări false au provocat haos la un hotel din Veneția. Turiștii au plătit pe Booking pentru camere care nu existau în evidențele hotelului, atrași de „chilipirul” de numai 25 d...",
+    "content_ro": "Aproximativ 3.500 de rezervări false au provocat haos la un hotel din Veneția. Turiștii au plătit pe Booking pentru camere care nu existau în evidențele hotelului, atrași de „chilipirul” de numai 25 de euro pe noapte de persoană."
   },
   {
     "group_id": "group_225e459c26",
@@ -1718,26 +2178,6 @@
     "title_ro": "România se află pe locul 5 în lume la capitalul privat atras cu sprijinul Băncii Mondiale, de 12,3 mld.dolari în ultimii 4 ani ani, după Brazilia, India, Turcia şi Nigeria",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_ea0228ebe5",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8158318-mediafax_foto-alex_nicodim-1024x683.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Diana Buzoianu anunță punerea din nou în funcțiune a panourilor fotovoltaice de la Ministerul Mediului. „Ani de zile doar adunau praf”",
-        "link": "https://www.mediafax.ro/stirile-zilei/diana-buzoianu-anunta-punerea-din-nou-in-functiune-a-panourilor-fotovoltaice-de-la-ministerul-mediului-ani-de-zile-doar-adunau-praf-23824675"
-      }
-    ],
-    "published_at": 1791897433,
-    "title_hu": "Diana Buzoianu anunță punerea din nou în funcțiune a panourilor fotovoltaice de la Ministerul Mediului. „Ani de zile doar adunau praf”",
-    "lead_hu": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar ad...",
-    "content_hu": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar aduna praf”.",
-    "title_ro": "Diana Buzoianu anunță punerea din nou în funcțiune a panourilor fotovoltaice de la Ministerul Mediului. „Ani de zile doar adunau praf”",
-    "lead_ro": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar ad...",
-    "content_ro": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar aduna praf”."
   },
   {
     "group_id": "group_44bd693f5e",
@@ -3198,26 +3638,6 @@
     "title_ro": "Descoperire macabră la Slatina: Criminaliștii scot sacii cu oseminte ascunși în spatele unui zid fals din capela cimitirului Strehareți",
     "lead_ro": "Criminaliștii fac cercetări marți într-un cimitir din Slatina, după ce 13 saci în care s-ar afla oseminte, precum și un sicriu, au fost descoperiți cu o zi înainte de muncitorii care lucrau în subsolu...",
     "content_ro": "Criminaliștii fac cercetări marți într-un cimitir din Slatina, după ce 13 saci în care s-ar afla oseminte, precum și un sicriu, au fost descoperiți cu o zi înainte de muncitorii care lucrau în subsolul unei capele din Cimitirul Strehareț. Anchetatorii au spart zidul fals în spatele căruia se aflau sacii și au început să ridice rămășițele. Primarul municipiului, Mario De Mezzo, susține că spațiul, cu o lungime de aproximativ patru metri și o înălțime de un metru și jumătate, era plin cu saci acoperiți de un sicriu metalic."
-  },
-  {
-    "group_id": "group_aa6122f684",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21448/23259061/1/hepta-8805682.jpg?width=700",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Bolojan anunţă condiţiile PNL pentru susţinerea Guvernului Niculescu: Atingerea ţintei de deficit, menţinerea disciplinei fiscale, protejarea investiţiilor, utilizarea responsabilă a banilor publici şi respectarea angajamentelor europene ale României. PNL ar rămâne în opoziţie",
-        "link": "https://www.zf.ro/eveniment/bolojan-anunta-conditiile-pnl-sustinerea-guvernului-niculescu-atingerea-tintei-deficit-mentinerea-disciplinei-fiscale-protejarea-investitiilor-utilizarea-responsabila-banilor-publici-respectarea-23259061"
-      }
-    ],
-    "published_at": 1791893805,
-    "title_hu": "Bolojan anunţă condiţiile PNL pentru susţinerea Guvernului Niculescu: Atingerea ţintei de deficit, menţinerea disciplinei fiscale, protejarea investiţiilor, utilizarea responsabilă a banilor publici şi respectarea angajamentelor europene ale României. PNL ar rămâne în opoziţie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Bolojan anunţă condiţiile PNL pentru susţinerea Guvernului Niculescu: Atingerea ţintei de deficit, menţinerea disciplinei fiscale, protejarea investiţiilor, utilizarea responsabilă a banilor publici şi respectarea angajamentelor europene ale României. PNL ar rămâne în opoziţie",
-    "lead_ro": "",
-    "content_ro": ""
   },
   {
     "group_id": "group_38a8c3c1da",
@@ -8342,26 +8762,6 @@
     "content_ro": "La finalul etapei 11 din Superliga, supercomputerul a făcut calculele privind șansele la play-off în acest sezon. FCSB, în prezent pe locul 9, e văzută în top 6 la finalul sezonului regular. Roș-albaștrii au câștigat primul meci cu Laurențiu Reghecampf pe bancă, 1-0 cu Oțelul. A fost primul succes după o serie de 5 meciuri fără victorie în Liga 1. FCSB nu mai câștigase de pe 17 august, de la 3-2 cu FC Botoșani. ..."
   },
   {
-    "group_id": "group_d4314ba68c",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/13/081432/imago0851913996h.jpg?fm=jpg&q=80&fit=crop&crop=4845%2C3230%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Trump, despre ambasadoarea sa din Grecia care se lăuda că SUA au dat jos Guvernul Bolojan: Nu sunt mulțumit de ea",
-        "link": "https://stirileprotv.ro/stiri/international/trump-despre-ambasadoarea-sa-din-grecia-care-se-lauda-ca-sua-au-dat-jos-guvernul-bolojan-nu-sunt-multumit-de-ea.html"
-      }
-    ],
-    "published_at": 1791879618,
-    "title_hu": "Trump, despre ambasadoarea sa din Grecia care se lăuda că SUA au dat jos Guvernul Bolojan: Nu sunt mulțumit de ea",
-    "lead_hu": "Preşedintele SUA, Donald Trump, a confirmat luni că ia în considerare retragerea ambasadoarei SUA în Grecia, Kimberly Guilfoyle, despre care s-au publicat în ultimele zile mai multe informaţii comprom...",
-    "content_hu": "Preşedintele SUA, Donald Trump, a confirmat luni că ia în considerare retragerea ambasadoarei SUA în Grecia, Kimberly Guilfoyle, despre care s-au publicat în ultimele zile mai multe informaţii compromiţătoare, informează EFE şi Reuters.",
-    "title_ro": "Trump, despre ambasadoarea sa din Grecia care se lăuda că SUA au dat jos Guvernul Bolojan: Nu sunt mulțumit de ea",
-    "lead_ro": "Preşedintele SUA, Donald Trump, a confirmat luni că ia în considerare retragerea ambasadoarei SUA în Grecia, Kimberly Guilfoyle, despre care s-au publicat în ultimele zile mai multe informaţii comprom...",
-    "content_ro": "Preşedintele SUA, Donald Trump, a confirmat luni că ia în considerare retragerea ambasadoarei SUA în Grecia, Kimberly Guilfoyle, despre care s-au publicat în ultimele zile mai multe informaţii compromiţătoare, informează EFE şi Reuters."
-  },
-  {
     "group_id": "group_729c2da604",
     "category": "Politika",
     "image": "https://maszol.ro/resized/2026_oktober/13/cikk_bolojan_grindeanu_psd_fboldal.jpg",
@@ -11232,26 +11632,6 @@
     "title_ro": "Turiştii care vizitează o destinaţie exotică celebră din Asia ar putea plăti 30 de dolari la plecare. Ce alte taxe sunt pregătite",
     "lead_ro": "Thailanda intenţionează să obţină venituri suplimentare de la turişti, punând la încercare o industrie a turismului care nu şi-a revenit încă pe deplin după pandemia de coronavirus....",
     "content_ro": "Thailanda intenţionează să obţină venituri suplimentare de la turişti, punând la încercare o industrie a turismului care nu şi-a revenit încă pe deplin după pandemia de coronavirus."
-  },
-  {
-    "group_id": "group_485fbd09bf",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/13/063901/screenshot-2026-10-13-093728.png?fm=jpg&q=80&fit=crop&crop=1638%2C948%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Cum a fost posibil atacul cibernetic asupra frigiderelor din Franța. Mii de frigidere din Europa sunt conectate la internet",
-        "link": "https://stirileprotv.ro/stiri/ilikeit/cum-a-fost-posibil-atacul-cibernetic-asupra-frigiderelor-din-franta-mii-de-frigidere-din-europa-sunt-conectate-la-internet.html"
-      }
-    ],
-    "published_at": 1791873706,
-    "title_hu": "Cum a fost posibil atacul cibernetic asupra frigiderelor din Franța. Mii de frigidere din Europa sunt conectate la internet",
-    "lead_hu": "Avem câteva știri interesante din tehnologie, și cu produse noi, dar și cu povestea legată de atacul cibernetic asupra frigiderelor din supermarketuri, în Franța....",
-    "content_hu": "Avem câteva știri interesante din tehnologie, și cu produse noi, dar și cu povestea legată de atacul cibernetic asupra frigiderelor din supermarketuri, în Franța.",
-    "title_ro": "Cum a fost posibil atacul cibernetic asupra frigiderelor din Franța. Mii de frigidere din Europa sunt conectate la internet",
-    "lead_ro": "Avem câteva știri interesante din tehnologie, și cu produse noi, dar și cu povestea legată de atacul cibernetic asupra frigiderelor din supermarketuri, în Franța....",
-    "content_ro": "Avem câteva știri interesante din tehnologie, și cu produse noi, dar și cu povestea legată de atacul cibernetic asupra frigiderelor din supermarketuri, în Franța."
   },
   {
     "group_id": "group_441923013c",
