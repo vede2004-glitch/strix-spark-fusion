@@ -17,6 +17,7 @@ os.makedirs("src/data", exist_ok=True)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
+# ✅ Beállítva a kért gpt-6-luna modell
 MODEL_NAME = "gpt-6-luna"
 
 HEADERS = {
@@ -209,7 +210,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict):
         else:
             filtered_sources = sources_used
 
-        # ✅ HA AZ AI SZŰRÉSE UTÁN KEVESEBB MINT 2 FORRÁS MARADT, NEM HASZNÁLJUK AZ AI SZINTÉZIST!
+        # HA AZ AI SZŰRÉSE UTÁN KEVESEBB MINT 2 FORRÁS MARADT, NEM HASZNÁLJUK AZ AI SZINTÉZIST
         if len(filtered_sources) < 2:
             print(f"⚠️ Kiszűrve [{g_id}]: Az AI csak {len(filtered_sources)} forrást talált érvényesnek/hasznosnak.")
             fallback_entries = []
@@ -354,8 +355,8 @@ def run_synthesis_direct():
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # Csak az elmúlt 48 óra hírei a címlapra
-    CUTOFF_TIME = int(time.time()) - (48 * 3600)
+    # 🛑 12 ÓRÁS IDŐKORLÁT (12 * 3600 másodperc)
+    CUTOFF_TIME = int(time.time()) - (12 * 3600)
     
     fresh_news = [
         item for item in all_final_results.values() 
