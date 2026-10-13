@@ -2,9 +2,8 @@ name: RSS Feed Scraper (5 min)
 
 on:
   schedule:
-    # 5 percenként fut le
     - cron: '*/5 * * * *'
-  workflow_dispatch: # Kézi indítási lehetőség a GitHub felületén
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -20,13 +19,12 @@ jobs:
 
       - name: Függőségek telepítése
         run: |
-          python -m pip install --upgrade pip
           pip install feedparser beautifulsoup4 requests sentence-transformers numpy
 
       - name: Scraper futtatása
         run: python weboldalparolas.py
 
-      - name: Módosítások mentése és feltöltése (Git Commit & Push)
+      - name: Módosítások mentése
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
