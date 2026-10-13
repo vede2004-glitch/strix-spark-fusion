@@ -1,23 +1,663 @@
 [
   {
     "group_id": "group_0a3f40dc05",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Alexander Zverev s-a calificat cu emoții în sferturi de finală la Shanghai (ATP)",
+        "link": "https://agerpres.ro/sport-extern/2026/10/13/tenis-alexander-zverev-s-a-calificat-cu-emotii-in-sferturi-de-finala-la-shanghai-atp--1602576"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Tenis: Alexander Zverev s-a calificat cu emoții în sferturi de finală la Shanghai (ATP)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Alexander Zverev s-a calificat cu emoții în sferturi de finală la Shanghai (ATP)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_8ca6a2cce4",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "România și India ar putea semna curând certificatele sanitare veterinare necesare realizării de schimburi comerciale",
+        "link": "https://agerpres.ro/economic/2026/10/13/romania-si-india-ar-putea-semna-curand-certificatele-sanitare-veterinare-necesare-realizarii-de-schi--1602581"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "România și India ar putea semna curând certificatele sanitare veterinare necesare realizării de schimburi comerciale",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "România și India ar putea semna curând certificatele sanitare veterinare necesare realizării de schimburi comerciale",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_576244b50f",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Peste 9.000 de infecții cu Ebola în RD Congo, conform unui raport guvernamental",
+        "link": "https://agerpres.ro/social-extern/2026/10/13/peste-9-000-de-infectii-cu-ebola-in-rd-congo-conform-unui-raport-guvernamental--1602572"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Peste 9.000 de infecții cu Ebola în RD Congo, conform unui raport guvernamental",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Peste 9.000 de infecții cu Ebola în RD Congo, conform unui raport guvernamental",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_8bf0c8990a",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Filip Jianu și Radu Papoe, calificați în optimi la Catania (challenger)",
+        "link": "https://agerpres.ro/sport-extern/2026/10/13/tenis-filip-jianu-si-radu-papoe-calificati-in-optimi-la-catania-challenger--1602575"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Tenis: Filip Jianu și Radu Papoe, calificați în optimi la Catania (challenger)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Filip Jianu și Radu Papoe, calificați în optimi la Catania (challenger)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_18e0bfda07",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Ministerul Culturii: Apel de înscriere la preselecția națională pentru concursurile culturale din cadrul Jocurilor Francofoniei",
+        "link": "https://agerpres.ro/cultura-media/2026/10/13/ministerul-culturii-apel-de-inscriere-la-preselectia-nationala-pentru-concursurile-culturale-din-cad--1602570"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Ministerul Culturii: Apel de înscriere la preselecția națională pentru concursurile culturale din cadrul Jocurilor Francofoniei",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Ministerul Culturii: Apel de înscriere la preselecția națională pentru concursurile culturale din cadrul Jocurilor Francofoniei",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_370a83fd5a",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Planurile Poloniei și Finlandei de a produce mine antipersonal trezesc îngrijorare",
+        "link": "https://agerpres.ro/politic-extern/2026/10/13/planurile-poloniei-si-finlandei-de-a-produce-mine-antipersonal-trezesc-ingrijorare--1602564"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Planurile Poloniei și Finlandei de a produce mine antipersonal trezesc îngrijorare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Planurile Poloniei și Finlandei de a produce mine antipersonal trezesc îngrijorare",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c3f717c6c4",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO SpaceX a lansat o încărcătură de 2,8 tone de alimente și echipamente spre ISS",
+        "link": "https://agerpres.ro/stiinta/2026/10/13/video-spacex-a-lansat-o-incarcatura-de-2-8-tone-de-alimente-si-echipamente-spre-iss--1602559"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "VIDEO SpaceX a lansat o încărcătură de 2,8 tone de alimente și echipamente spre ISS",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "VIDEO SpaceX a lansat o încărcătură de 2,8 tone de alimente și echipamente spre ISS",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_3d8612aa64",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Vânzările trimestriale ale BMW, afectate de dificultățile de pe piața din China",
+        "link": "https://agerpres.ro/economic-extern/2026/10/13/vanzarile-trimestriale-ale-bmw-afectate-de-dificultatile-de-pe-piata-din-china--1602561"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Vânzările trimestriale ale BMW, afectate de dificultățile de pe piața din China",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Vânzările trimestriale ale BMW, afectate de dificultățile de pe piața din China",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_cc13cd2d5f",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Nicușor Dan: Noile dispoziții din Ucraina stabilesc că limba maternă poate fi folosită în toate circumstanțele",
+        "link": "https://agerpres.ro/politic/2026/10/13/nicusor-dan-noile-dispozitii-din-ucraina-stabilesc-ca-limba-materna-poate-fi-folosita-in-toate-circu--1602547"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Nicușor Dan: Noile dispoziții din Ucraina stabilesc că limba maternă poate fi folosită în toate circumstanțele",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Nicușor Dan: Noile dispoziții din Ucraina stabilesc că limba maternă poate fi folosită în toate circumstanțele",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_3eb695999e",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Cîmpean: Am solicitat evitarea concentrării excesive a finanțărilor din Fondul pentru Competitivitate în anumite state membre",
+        "link": "https://agerpres.ro/politic/2026/10/13/cimpean-am-solicitat-evitarea-concentrarii-excesive-a-finantarilor-din-fondul-pentru-competitivitate--1602549"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Cîmpean: Am solicitat evitarea concentrării excesive a finanțărilor din Fondul pentru Competitivitate în anumite state membre",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Cîmpean: Am solicitat evitarea concentrării excesive a finanțărilor din Fondul pentru Competitivitate în anumite state membre",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_074ca9cf28",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Șeful ANRE: Investițiile în securitatea cibernetică sunt tratate cu toată seriozitatea de către autoritatea de reglementare",
+        "link": "https://agerpres.ro/economic/2026/10/13/seful-anre-investitiile-in-securitatea-cibernetica-sunt-tratate-cu-toata-seriozitatea-de-catre-autor--1602542"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Șeful ANRE: Investițiile în securitatea cibernetică sunt tratate cu toată seriozitatea de către autoritatea de reglementare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Șeful ANRE: Investițiile în securitatea cibernetică sunt tratate cu toată seriozitatea de către autoritatea de reglementare",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_b520f048f7",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Acordul americano-rus privind motorina arată că Trump este cu spatele la zid, afirmă ministrul apărării german",
+        "link": "https://agerpres.ro/politic-extern/2026/10/13/acordul-americano-rus-privind-motorina-arata-ca-trump-este-cu-spatele-la-zid-afirma-ministrul-aparar--1602563"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Acordul americano-rus privind motorina arată că Trump este cu spatele la zid, afirmă ministrul apărării german",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Acordul americano-rus privind motorina arată că Trump este cu spatele la zid, afirmă ministrul apărării german",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_41bdce278f",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Diana Stoica (USR): Trebuie să învățăm să facem bugete pe tot anul, nu să ne bazăm pe rectificări",
+        "link": "https://agerpres.ro/politic/2026/10/13/diana-stoica-usr-trebuie-sa-invatam-sa-facem-bugete-pe-tot-anul-nu-sa-ne-bazam-pe-rectificari--1602558"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Diana Stoica (USR): Trebuie să învățăm să facem bugete pe tot anul, nu să ne bazăm pe rectificări",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Diana Stoica (USR): Trebuie să învățăm să facem bugete pe tot anul, nu să ne bazăm pe rectificări",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_baf35dddfd",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "AFP, Radio France și The New York Times se alătură unei coaliții mass-media împotriva AI",
+        "link": "https://agerpres.ro/cultura/2026/10/13/afp-radio-france-si-the-new-york-times-se-alatura-unei-coalitii-mass-media-impotriva-ai--1602584"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "AFP, Radio France și The New York Times se alătură unei coaliții mass-media împotriva AI",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "AFP, Radio France și The New York Times se alătură unei coaliții mass-media împotriva AI",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_060efd2049",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mureș/Expertul în energie Marius Codarcea: Mitul că eficiența energetică se rezumă la achiziția de tehnologie, demontat de conceptul 'SmartEnergy'",
+        "link": "https://agerpres.ro/social/2026/10/13/mures-expertul-in-energie-marius-codarcea-mitul-ca-eficienta-energetica-se-rezuma-la-achizitia-de-te--1602582"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Mureș/Expertul în energie Marius Codarcea: Mitul că eficiența energetică se rezumă la achiziția de tehnologie, demontat de conceptul 'SmartEnergy'",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Mureș/Expertul în energie Marius Codarcea: Mitul că eficiența energetică se rezumă la achiziția de tehnologie, demontat de conceptul 'SmartEnergy'",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_e13b45146c",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "BTA/ Bulgaria și România vor să aprofundeze cooperarea după atacurile asupra navelor comerciale din Marea Neagră",
+        "link": "https://agerpres.ro/romania-in-lume/2026/10/13/bta-bulgaria-si-romania-vor-sa-aprofundeze-cooperarea-dupa-atacurile-asupra-navelor-comerciale-din-m--1602579"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "BTA/ Bulgaria și România vor să aprofundeze cooperarea după atacurile asupra navelor comerciale din Marea Neagră",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "BTA/ Bulgaria și România vor să aprofundeze cooperarea după atacurile asupra navelor comerciale din Marea Neagră",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_b1c82ef9eb",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Marius Budăi: România are nevoie urgentă de un Guvern cu puteri depline, susținut de o majoritate parlamentară clară",
+        "link": "https://agerpres.ro/politic/2026/10/13/marius-budai-romania-are-nevoie-urgenta-de-un-guvern-cu-puteri-depline-sustinut-de-o-majoritate-parl--1602565"
+      }
+    ],
+    "published_at": 1791901039,
+    "title_hu": "Marius Budăi: România are nevoie urgentă de un Guvern cu puteri depline, susținut de o majoritate parlamentară clară",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Marius Budăi: România are nevoie urgentă de un Guvern cu puteri depline, susținut de o majoritate parlamentară clară",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_927f940327",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Accident pe centura Oradiei: Trei persoane, duse la spital. Unul dintre autovehicule transporta butelii",
+        "link": "https://www.ebihoreanul.ro/stiri/accident-pe-centura-oradiei-trei-persoane-duse-la-spital-unul-dintre-autovehicule-transporta-butelii-205777.html"
+      }
+    ],
+    "published_at": 1791901035,
+    "title_hu": "Accident pe centura Oradiei: Trei persoane, duse la spital. Unul dintre autovehicule transporta butelii",
+    "lead_hu": "Trei persoane au fost rănite într-un accident produs marți după-amiază pe centura Oradiei, pe pasarela de pe strada Ogorului, din zona Pieței 100, pe sensul de mers spre Sântandrei. În accident au fos...",
+    "content_hu": "Trei persoane au fost rănite într-un accident produs marți după-amiază pe centura Oradiei, pe pasarela de pe strada Ogorului, din zona Pieței 100, pe sensul de mers spre Sântandrei. În accident au fost implicate un autoturism, un microbuz și o autoutilitară, iar unul dintre vehicule transporta butelii.",
+    "title_ro": "Accident pe centura Oradiei: Trei persoane, duse la spital. Unul dintre autovehicule transporta butelii",
+    "lead_ro": "Trei persoane au fost rănite într-un accident produs marți după-amiază pe centura Oradiei, pe pasarela de pe strada Ogorului, din zona Pieței 100, pe sensul de mers spre Sântandrei. În accident au fos...",
+    "content_ro": "Trei persoane au fost rănite într-un accident produs marți după-amiază pe centura Oradiei, pe pasarela de pe strada Ogorului, din zona Pieței 100, pe sensul de mers spre Sântandrei. În accident au fost implicate un autoturism, un microbuz și o autoutilitară, iar unul dintre vehicule transporta butelii."
+  },
+  {
+    "group_id": "group_003bef164e",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Casa Albă i-a cerut demisia ambasadoarei care a dat de înțeles că este implicată în doborârea guvernului Bolojan",
+        "link": "https://hotnews.ro/kimberly-guilfoyle-demisie-2374913"
+      }
+    ],
+    "published_at": 1791900968,
+    "title_hu": "Casa Albă i-a cerut demisia ambasadoarei care a dat de înțeles că este implicată în doborârea guvernului Bolojan",
+    "lead_hu": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de do...",
+    "content_hu": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de dolari de la un donator al lui Trump în perioada premergătoare audierii sale de confirmare de anul trecut, relatează Wall …",
+    "title_ro": "Casa Albă i-a cerut demisia ambasadoarei care a dat de înțeles că este implicată în doborârea guvernului Bolojan",
+    "lead_ro": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de do...",
+    "content_ro": "Casa Albă i-a cerut lui Kimberly Guilfoyle să demisioneze din funcția de ambasador al SUA în Grecia, după ce ziarul „The Wall Street Journal” a relatat că aceasta ar fi solicitat suma de 100.000 de dolari de la un donator al lui Trump în perioada premergătoare audierii sale de confirmare de anul trecut, relatează Wall …"
+  },
+  {
+    "group_id": "group_417782a37d",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjA3JTJGMjQzMDk3Ml8yNDMw/OTcyX3Byb2ZpbWVkaWEtMTAwNTYyNjkz/Ny5qcGcmaGFzaD0yNjM1ODAzMzBjZjFkNzU5ZDEzOTBhMDI4Y2VlZGQ4OQ==.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Elon Musk și MAGA, acuzați de subminarea dezbaterii democratice din Europa. Franța: „Îi vedem, îi denunţăm, răspundem cu intransigenţă”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/elon-musk-si-maga-acuzati-de-subminarea-dezbaterii-democratice-din-europa-franta-ii-vedem-ii-denuntam-raspundem-cu-intransigenta-3990371"
+      }
+    ],
+    "published_at": 1791900918,
+    "title_hu": "Elon Musk și MAGA, acuzați de subminarea dezbaterii democratice din Europa. Franța: „Îi vedem, îi denunţăm, răspundem cu intransigenţă”",
+    "lead_hu": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardaru...",
+    "content_hu": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardarul american Elon Musk printre actorii care încearcă să submineze dezbaterea democratică din Europa, informează France Presse.",
+    "title_ro": "Elon Musk și MAGA, acuzați de subminarea dezbaterii democratice din Europa. Franța: „Îi vedem, îi denunţăm, răspundem cu intransigenţă”",
+    "lead_ro": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardaru...",
+    "content_ro": "Şeful diplomaţiei franceze Jean-Noël Barrot a lansat marţi încă un avertisment referitor la tentativele de ingerinţă vizând alegerile prezidenţiale din Franţa din 2027 şi l-a evocat pe multimiliardarul american Elon Musk printre actorii care încearcă să submineze dezbaterea democratică din Europa, informează France Presse."
+  },
+  {
+    "group_id": "group_8a5066e085",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/nicusor-dan-1024x708.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Surse G4Media: Nicușor Dan ia în calcul dizolvarea Parlamentului dacă Guvernul Niculescu nu trece. Politician implicat în negocieri, pentru Mediafax: „Mesajul de la Cotroceni pune presiune pe parlamentarii care riscă să-și piardă mandatele”",
+        "link": "https://www.mediafax.ro/politic/surse-g4media-nicusor-dan-ia-in-calcul-dizolvarea-parlamentului-daca-guvernul-niculescu-nu-trece-politician-implicat-in-negocieri-pentru-mediafax-mesajul-de-la-cotroceni-pune-presiune-pe-23824709"
+      }
+    ],
+    "published_at": 1791900872,
+    "title_hu": "Surse G4Media: Nicușor Dan ia în calcul dizolvarea Parlamentului dacă Guvernul Niculescu nu trece. Politician implicat în negocieri, pentru Mediafax: „Mesajul de la Cotroceni pune presiune pe parlamentarii care riscă să-și piardă mandatele”",
+    "lead_hu": "Președintele Nicușor Dan ia în calcul dizolvarea Parlamentului și declanșarea alegerilor anticipate dacă premierul desemnat, Luca Niculescu, nu reușește să obțină votul de învestitură sau renunță la m...",
+    "content_hu": "Președintele Nicușor Dan ia în calcul dizolvarea Parlamentului și declanșarea alegerilor anticipate dacă premierul desemnat, Luca Niculescu, nu reușește să obțină votul de învestitură sau renunță la mandat din cauza lipsei unei majorități parlamentare, potrivit unor surse citate de G4Media și Hotnews. Este o schimbare majoră de strategie la Palatul Cotroceni, după cinci luni în care șeful statului a respins scenariul anticipatelor.",
+    "title_ro": "Surse G4Media: Nicușor Dan ia în calcul dizolvarea Parlamentului dacă Guvernul Niculescu nu trece. Politician implicat în negocieri, pentru Mediafax: „Mesajul de la Cotroceni pune presiune pe parlamentarii care riscă să-și piardă mandatele”",
+    "lead_ro": "Președintele Nicușor Dan ia în calcul dizolvarea Parlamentului și declanșarea alegerilor anticipate dacă premierul desemnat, Luca Niculescu, nu reușește să obțină votul de învestitură sau renunță la m...",
+    "content_ro": "Președintele Nicușor Dan ia în calcul dizolvarea Parlamentului și declanșarea alegerilor anticipate dacă premierul desemnat, Luca Niculescu, nu reușește să obțină votul de învestitură sau renunță la mandat din cauza lipsei unei majorități parlamentare, potrivit unor surse citate de G4Media și Hotnews. Este o schimbare majoră de strategie la Palatul Cotroceni, după cinci luni în care șeful statului a respins scenariul anticipatelor."
+  },
+  {
+    "group_id": "group_d09362c095",
+    "category": "Politika",
+    "image": "https://stirileprotv.ro/img/2026/10/08/060630/agerpres-luca-niculescu-nicusor-dan.jpeg?fm=jpg&q=80&fit=crop&crop=5507%2C3671%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "SURSE: Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament",
+        "link": "https://stirileprotv.ro/stiri/politic/surse-nicusor-dan-ia-in-calcul-declansarea-alegerilor-anticipate-daca-guvernul-luca-niculescu-pica-in-parlament.html"
+      }
+    ],
+    "published_at": 1791900700,
+    "title_hu": "SURSE: Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament",
+    "lead_hu": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială....",
+    "content_hu": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială.",
+    "title_ro": "SURSE: Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament",
+    "lead_ro": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială....",
+    "content_ro": "Președintele Nicuțor Dan i-a în calcul declanșarea alegerilor anticipate dacă Luca Niculescu nu trece de votul Parlamentului, susține surse apropiate de Administrația Prezidențială."
+  },
+  {
+    "group_id": "group_225e459c26",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Zonait.ro",
+        "title": "OPPO lansează ColorOS 17, bazat pe Android 17. Când ajunge la utilizatori din România",
+        "link": "https://zonait.ro/oppo-lanseaza-coloros-17/"
+      }
+    ],
+    "published_at": 1791900698,
+    "title_hu": "OPPO lansează ColorOS 17, bazat pe Android 17. Când ajunge la utilizatori din România",
+    "lead_hu": "Publicat pe Zona IT de catre Aurelian Mihai: ColorOS 17, cea mai recentă versiune a software pentru telefoanele OPPO este acum oficială. Noul firmware aduce o interfață reproiectatată în jurul unui mo...",
+    "content_hu": "Publicat pe Zona IT de catre Aurelian Mihai: ColorOS 17, cea mai recentă versiune a software pentru telefoanele OPPO este acum oficială. Noul firmware aduce o interfață reproiectatată în jurul unui motor de randare optimizat pentru folosirea mai eficientă a resurselor, capabilități extinse de inteligență artificială pentru gestionarea fișierelor, editarea fotografiilor și organizarea informațiilor. Interfața ColorOS 17 introduce Living Flow Design, un concept … Citeste mai mult: OPPO lansează ColorOS 17, bazat pe Android 17. Când ajunge la utilizatori din România - Zona IT.",
+    "title_ro": "OPPO lansează ColorOS 17, bazat pe Android 17. Când ajunge la utilizatori din România",
+    "lead_ro": "Publicat pe Zona IT de catre Aurelian Mihai: ColorOS 17, cea mai recentă versiune a software pentru telefoanele OPPO este acum oficială. Noul firmware aduce o interfață reproiectatată în jurul unui mo...",
+    "content_ro": "Publicat pe Zona IT de catre Aurelian Mihai: ColorOS 17, cea mai recentă versiune a software pentru telefoanele OPPO este acum oficială. Noul firmware aduce o interfață reproiectatată în jurul unui motor de randare optimizat pentru folosirea mai eficientă a resurselor, capabilități extinse de inteligență artificială pentru gestionarea fișierelor, editarea fotografiilor și organizarea informațiilor. Interfața ColorOS 17 introduce Living Flow Design, un concept … Citeste mai mult: OPPO lansează ColorOS 17, bazat pe Android 17. Când ajunge la utilizatori din România - Zona IT."
+  },
+  {
+    "group_id": "group_4d94afcaee",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/emiza-tanase.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Sora Valentinei a făcut un lucru emoționant după moartea tinerei. Mesajul care i-a impresionat pe internauți",
+        "link": "https://www.cancan.ro/sora-valentinei-a-facut-un-lucru-emotionant-dupa-moartea-tinerei-mesajul-care-i-a-impresionat-pe-internauti-21529461"
+      }
+    ],
+    "published_at": 1791900602,
+    "title_hu": "Sora Valentinei a făcut un lucru emoționant după moartea tinerei. Mesajul care i-a impresionat pe internauți",
+    "lead_hu": "Gestul făcut de sora Valentinei, tânăra găsită fără viață într-o valiză pe râul Olt, i-a impresionat pe mulți. La câteva săptămâni după moartea femeii de 28 de ani, Eliza a ales să îi aducă un omagiu ...",
+    "content_hu": "Gestul făcut de sora Valentinei, tânăra găsită fără viață într-o valiză pe râul Olt, i-a impresionat pe mulți. La câteva săptămâni după moartea femeii de 28 de ani, Eliza a ales să îi aducă un omagiu emoționant prin intermediul artei, păstrând astfel vie amintirea celei alături de care și-a petrecut copilăria. Cazul Valentinei a șocat […]",
+    "title_ro": "Sora Valentinei a făcut un lucru emoționant după moartea tinerei. Mesajul care i-a impresionat pe internauți",
+    "lead_ro": "Gestul făcut de sora Valentinei, tânăra găsită fără viață într-o valiză pe râul Olt, i-a impresionat pe mulți. La câteva săptămâni după moartea femeii de 28 de ani, Eliza a ales să îi aducă un omagiu ...",
+    "content_ro": "Gestul făcut de sora Valentinei, tânăra găsită fără viață într-o valiză pe râul Olt, i-a impresionat pe mulți. La câteva săptămâni după moartea femeii de 28 de ani, Eliza a ales să îi aducă un omagiu emoționant prin intermediul artei, păstrând astfel vie amintirea celei alături de care și-a petrecut copilăria. Cazul Valentinei a șocat […]"
+  },
+  {
+    "group_id": "group_3ffb21b709",
     "category": "Sport",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/09/profimedia-1132249442.jpg",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/e2ad6f85-b3a6-4d92-b728-e420f803be7c.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Dani Coman a luat decizia în privința lui Bogdan Andone, după încă un eșec al lui FC Argeș: „Eu nu uit aceste lucruri!”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/dani-coman-decizia-in-privinta-lui-bogdan-andone-fc-arges-987633.html"
+      }
+    ],
+    "published_at": 1791900600,
+    "title_hu": "Dani Coman a luat decizia în privința lui Bogdan Andone, după încă un eșec al lui FC Argeș: „Eu nu uit aceste lucruri!”",
+    "lead_hu": "Dani Coman, președintele lui FC Argeș, își reafirmă sprijinul pentru Bogdan Andone, la 24 de ore după înfrângerea suferită de piteșteni în fața lui CFR Cluj, 0-1. Într-un interviu acordat marți Gazete...",
+    "content_hu": "Dani Coman, președintele lui FC Argeș, își reafirmă sprijinul pentru Bogdan Andone, la 24 de ore după înfrângerea suferită de piteșteni în fața lui CFR Cluj, 0-1. Într-un interviu acordat marți Gazetei Sporturilor, oficialul s-a arătat optimist în privința redresării echipei, care se află în acest moment pe loc de baraj. ...",
+    "title_ro": "Dani Coman a luat decizia în privința lui Bogdan Andone, după încă un eșec al lui FC Argeș: „Eu nu uit aceste lucruri!”",
+    "lead_ro": "Dani Coman, președintele lui FC Argeș, își reafirmă sprijinul pentru Bogdan Andone, la 24 de ore după înfrângerea suferită de piteșteni în fața lui CFR Cluj, 0-1. Într-un interviu acordat marți Gazete...",
+    "content_ro": "Dani Coman, președintele lui FC Argeș, își reafirmă sprijinul pentru Bogdan Andone, la 24 de ore după înfrângerea suferită de piteșteni în fața lui CFR Cluj, 0-1. Într-un interviu acordat marți Gazetei Sporturilor, oficialul s-a arătat optimist în privința redresării echipei, care se află în acest moment pe loc de baraj. ..."
+  },
+  {
+    "group_id": "group_c795387082",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/8148041-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Bolojan și premierul Bulgariei, discuții despre atacurile asupra navelor comerciale din Marea Neagră",
+        "link": "https://www.mediafax.ro/politic/bolojan-si-premierul-bulgariei-discutii-despre-atacurile-asupra-navelor-comerciale-din-marea-neagra-23824707"
+      }
+    ],
+    "published_at": 1791900548,
+    "title_hu": "Bolojan și premierul Bulgariei, discuții despre atacurile asupra navelor comerciale din Marea Neagră",
+    "lead_hu": "Premierul interimar Ilie Bolojan a discutat telefonic cu omologul său bulgar, Rumen Radev, despre deteriorarea situației de securitate din Marea Neagră și atacurile asupra navelor comerciale. Cei doi ...",
+    "content_hu": "Premierul interimar Ilie Bolojan a discutat telefonic cu omologul său bulgar, Rumen Radev, despre deteriorarea situației de securitate din Marea Neagră și atacurile asupra navelor comerciale. Cei doi oficiali au analizat inclusiv consolidarea cooperării regionale cu Turcia pentru întărirea securității maritime.",
+    "title_ro": "Bolojan și premierul Bulgariei, discuții despre atacurile asupra navelor comerciale din Marea Neagră",
+    "lead_ro": "Premierul interimar Ilie Bolojan a discutat telefonic cu omologul său bulgar, Rumen Radev, despre deteriorarea situației de securitate din Marea Neagră și atacurile asupra navelor comerciale. Cei doi ...",
+    "content_ro": "Premierul interimar Ilie Bolojan a discutat telefonic cu omologul său bulgar, Rumen Radev, despre deteriorarea situației de securitate din Marea Neagră și atacurile asupra navelor comerciale. Cei doi oficiali au analizat inclusiv consolidarea cooperării regionale cu Turcia pentru întărirea securității maritime."
+  },
+  {
+    "group_id": "group_1485762e11",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/marius-nasta-1024x576.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Alexandru Rogobete anunță finalizarea noului corp de spital de la Institutul „Marius Nasta”",
+        "link": "https://www.mediafax.ro/social/alexandru-rogobete-anunta-finalizarea-noului-corp-de-spital-de-la-institutul-marius-nasta-23824708"
+      }
+    ],
+    "published_at": 1791900499,
+    "title_hu": "Alexandru Rogobete anunță finalizarea noului corp de spital de la Institutul „Marius Nasta”",
+    "lead_hu": "Alexandru Rogobete a anunțat, marți, într-o postare pe Facebook, realizarea noului corp de spital al Institutului „Marius Nasta” din București, o investiție finanțată prin Planul Național de Redresare...",
+    "content_hu": "Alexandru Rogobete a anunțat, marți, într-o postare pe Facebook, realizarea noului corp de spital al Institutului „Marius Nasta” din București, o investiție finanțată prin Planul Național de Redresare și Reziliență (PNRR), prin Ministerul Sănătății, și implementată de Primăria Sectorului 4.",
+    "title_ro": "Alexandru Rogobete anunță finalizarea noului corp de spital de la Institutul „Marius Nasta”",
+    "lead_ro": "Alexandru Rogobete a anunțat, marți, într-o postare pe Facebook, realizarea noului corp de spital al Institutului „Marius Nasta” din București, o investiție finanțată prin Planul Național de Redresare...",
+    "content_ro": "Alexandru Rogobete a anunțat, marți, într-o postare pe Facebook, realizarea noului corp de spital al Institutului „Marius Nasta” din București, o investiție finanțată prin Planul Național de Redresare și Reziliență (PNRR), prin Ministerul Sănătății, și implementată de Primăria Sectorului 4."
+  },
+  {
+    "group_id": "group_e90f9f6510",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/delegatia-romaniei-la-campionatele-mondiale-de-gimnastica-1024x722.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Șapte gimnaști reprezintă România la Campionatele Mondiale de la Rotterdam. Cine face parte din lot",
+        "link": "https://www.mediafax.ro/sport/sapte-gimnasti-reprezinta-romania-la-campionatele-mondiale-de-la-rotterdam-cine-face-parte-din-lot-23824702"
+      }
+    ],
+    "published_at": 1791900473,
+    "title_hu": "Șapte gimnaști reprezintă România la Campionatele Mondiale de la Rotterdam. Cine face parte din lot",
+    "lead_hu": "România va fi reprezentată de șapte sportivi la cea de-a 54-a ediție a Campionatelor Mondiale de Gimnastică Artistică, programată în perioada 17-25 octombrie 2026, la Rotterdam....",
+    "content_hu": "România va fi reprezentată de șapte sportivi la cea de-a 54-a ediție a Campionatelor Mondiale de Gimnastică Artistică, programată în perioada 17-25 octombrie 2026, la Rotterdam.",
+    "title_ro": "Șapte gimnaști reprezintă România la Campionatele Mondiale de la Rotterdam. Cine face parte din lot",
+    "lead_ro": "România va fi reprezentată de șapte sportivi la cea de-a 54-a ediție a Campionatelor Mondiale de Gimnastică Artistică, programată în perioada 17-25 octombrie 2026, la Rotterdam....",
+    "content_ro": "România va fi reprezentată de șapte sportivi la cea de-a 54-a ediție a Campionatelor Mondiale de Gimnastică Artistică, programată în perioada 17-25 octombrie 2026, la Rotterdam."
+  },
+  {
+    "group_id": "group_42f458d1d7",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10387/23259174/1/andreea-matei-prologic.png?width=700",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Andreea Matei, CEO & founder Prologic: Cel mai periculos moment pentru o companie e când începe să creadă că ce a mers până acum o să meargă şi de acum încolo",
+        "link": "https://www.zf.ro/companii/andreea-matei-ceo-founder-prologic-cel-mai-periculos-moment-pentru-o-companie-e-cand-incepe-sa-creada-ca-ce-a-mers-pana-acum-o-sa-mearga-si-de-acum-incolo-23259174"
+      }
+    ],
+    "published_at": 1791900459,
+    "title_hu": "Andreea Matei, CEO & founder Prologic: Cel mai periculos moment pentru o companie e când începe să creadă că ce a mers până acum o să meargă şi de acum încolo",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Andreea Matei, CEO & founder Prologic: Cel mai periculos moment pentru o companie e când începe să creadă că ce a mers până acum o să meargă şi de acum încolo",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_ec13e09776",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "UE afirmă că n-a importat atât de multă energie din Rusia pe cât pretind Moscova și Washingtonul",
+        "link": "https://hotnews.ro/ue-afirma-ca-n-a-importat-atat-de-multa-energie-din-rusia-pe-cat-pretind-moscova-si-washingtonul-2374870"
+      }
+    ],
+    "published_at": 1791900441,
+    "title_hu": "UE afirmă că n-a importat atât de multă energie din Rusia pe cât pretind Moscova și Washingtonul",
+    "lead_hu": "Comisia Europeană a contestat marți afirmația Moscovei potrivit căreia țările membre ale UE ar fi cheltuit 320,7 miliarde de dolari (286 de miliarde de euro) pentru energie provenită din Rusia începân...",
+    "content_hu": "Comisia Europeană a contestat marți afirmația Moscovei potrivit căreia țările membre ale UE ar fi cheltuit 320,7 miliarde de dolari (286 de miliarde de euro) pentru energie provenită din Rusia începând din 2022, indicând o sumă semnificativ mai mică, relatează Euronews. Citând datele COMEXT, baza de date oficială de referință administrată de Eurostat, o purtătoare …",
+    "title_ro": "UE afirmă că n-a importat atât de multă energie din Rusia pe cât pretind Moscova și Washingtonul",
+    "lead_ro": "Comisia Europeană a contestat marți afirmația Moscovei potrivit căreia țările membre ale UE ar fi cheltuit 320,7 miliarde de dolari (286 de miliarde de euro) pentru energie provenită din Rusia începân...",
+    "content_ro": "Comisia Europeană a contestat marți afirmația Moscovei potrivit căreia țările membre ale UE ar fi cheltuit 320,7 miliarde de dolari (286 de miliarde de euro) pentru energie provenită din Rusia începând din 2022, indicând o sumă semnificativ mai mică, relatează Euronews. Citând datele COMEXT, baza de date oficială de referință administrată de Eurostat, o purtătoare …"
+  },
+  {
+    "group_id": "group_2d806c4772",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/841230161_122139249921189076_2200960521941614131_n.jpg",
     "is_synthesized": false,
     "sources": [
       {
         "source": "G4Media",
-        "title": "VIDEO: Zverev, viitor lider ATP, calificare cu mari emoții în sferturile Mastersului de la Shanghai",
-        "link": "https://www.g4media.ro/video-zverev-viitor-lider-atp-calificare-cu-mari-emotii-in-sferturile-mastersului-de-la-shanghai.html"
+        "title": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, perturbată de un incident cibernetic",
+        "link": "https://www.g4media.ro/constructia-tunelului-fehmarnbelt-care-leaga-danemarca-de-germania-a-fost-perturbata-de-un-incident-cibernetic.html"
       }
     ],
-    "published_at": 1791900163,
-    "title_hu": "VIDEO: Zverev, viitor lider ATP, calificare cu mari emoții în sferturile Mastersului de la Shanghai",
-    "lead_hu": "Alexander Zverev s-a calificat în sferturile Mastersului de la Shanghai. Viitor lider ATP, germanul a avut parte de un meci foarte dificil cu Alexander Bublik. Ocupant al locului 22 în ierarhia mondia...",
-    "content_hu": "Alexander Zverev s-a calificat în sferturile Mastersului de la Shanghai. Viitor lider ATP, germanul a avut parte de un meci foarte dificil cu Alexander Bublik. Ocupant al locului 22 în ierarhia mondială, Bublik i-a oferit o replică solidă lui Zverev, victoria germanului contândurându-se în trei seturi, scor 7-6(6), 4-6, 7-6(1). Partida a fost una intensă […] © G4Media.ro.",
-    "title_ro": "VIDEO: Zverev, viitor lider ATP, calificare cu mari emoții în sferturile Mastersului de la Shanghai",
-    "lead_ro": "Alexander Zverev s-a calificat în sferturile Mastersului de la Shanghai. Viitor lider ATP, germanul a avut parte de un meci foarte dificil cu Alexander Bublik. Ocupant al locului 22 în ierarhia mondia...",
-    "content_ro": "Alexander Zverev s-a calificat în sferturile Mastersului de la Shanghai. Viitor lider ATP, germanul a avut parte de un meci foarte dificil cu Alexander Bublik. Ocupant al locului 22 în ierarhia mondială, Bublik i-a oferit o replică solidă lui Zverev, victoria germanului contândurându-se în trei seturi, scor 7-6(6), 4-6, 7-6(1). Partida a fost una intensă […] © G4Media.ro."
+    "published_at": 1791900405,
+    "title_hu": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, perturbată de un incident cibernetic",
+    "lead_hu": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, a fost perturbată de un incident cibernetic. Compania de stat Sund & Bælt a confirmat că principalul antreprenor al lucrărilor, Fem...",
+    "content_hu": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, a fost perturbată de un incident cibernetic. Compania de stat Sund & Bælt a confirmat că principalul antreprenor al lucrărilor, Femern Link Contractors (FLC), a fost afectat. Potrivit presei regionale daneze, sistemele IT centrale au fost scoase din funcțiune, cu efecte asupra lucrărilor de construcție. Natura incidentului, […] © G4Media.ro.",
+    "title_ro": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, perturbată de un incident cibernetic",
+    "lead_ro": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, a fost perturbată de un incident cibernetic. Compania de stat Sund & Bælt a confirmat că principalul antreprenor al lucrărilor, Fem...",
+    "content_ro": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, a fost perturbată de un incident cibernetic. Compania de stat Sund & Bælt a confirmat că principalul antreprenor al lucrărilor, Femern Link Contractors (FLC), a fost afectat. Potrivit presei regionale daneze, sistemele IT centrale au fost scoase din funcțiune, cu efecte asupra lucrărilor de construcție. Natura incidentului, […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_5402e2ea82",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/jaguarul-1200x686.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Jaguarul i-a furat-o pe Daniela Pană lui Remi? Imagini cu cele două ispite, împreună în București",
+        "link": "https://www.cancan.ro/jaguarul-i-a-furat-o-pe-daniela-pana-lui-remi-imagini-cu-cele-doua-ispite-impreuna-in-bucuresti-21529424"
+      }
+    ],
+    "published_at": 1791900319,
+    "title_hu": "Jaguarul i-a furat-o pe Daniela Pană lui Remi? Imagini cu cele două ispite, împreună în București",
+    "lead_hu": "După Insula Iubirii, Remi Dobre ar fi rămas cu Daniela Pană, una dintre ispitele feminine. Cei doi erau foarte apropiați la emisiune, însă acum pare că Jaguarul i-a furat-o. Aceștia s-au afișat împreu...",
+    "content_hu": "După Insula Iubirii, Remi Dobre ar fi rămas cu Daniela Pană, una dintre ispitele feminine. Cei doi erau foarte apropiați la emisiune, însă acum pare că Jaguarul i-a furat-o. Aceștia s-au afișat împreună în mediul online, într-o ipostază care pune fanii pe gânduri. Daniela Pană nu doar că și-a făcut rolul de ispită, dar l-ar […]",
+    "title_ro": "Jaguarul i-a furat-o pe Daniela Pană lui Remi? Imagini cu cele două ispite, împreună în București",
+    "lead_ro": "După Insula Iubirii, Remi Dobre ar fi rămas cu Daniela Pană, una dintre ispitele feminine. Cei doi erau foarte apropiați la emisiune, însă acum pare că Jaguarul i-a furat-o. Aceștia s-au afișat împreu...",
+    "content_ro": "După Insula Iubirii, Remi Dobre ar fi rămas cu Daniela Pană, una dintre ispitele feminine. Cei doi erau foarte apropiați la emisiune, însă acum pare că Jaguarul i-a furat-o. Aceștia s-au afișat împreună în mediul online, într-o ipostază care pune fanii pe gânduri. Daniela Pană nu doar că și-a făcut rolul de ispită, dar l-ar […]"
+  },
+  {
+    "group_id": "group_3963029e50",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/09/082633/shutterstock-studenti.jpg?fm=jpg&q=80&fit=crop&crop=4928%2C3280%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Ministrul interimar al Sănătății, după sesizările privind examenul de medic specialist: „Vom face o analiză”",
+        "link": "https://stirileprotv.ro/stiri/sanatate/ministrul-interimar-al-sanatatii-dupa-sesizarile-privind-examenul-de-medic-specialist-vom-face-o-analiza.html"
+      }
+    ],
+    "published_at": 1791900166,
+    "title_hu": "Ministrul interimar al Sănătății, după sesizările privind examenul de medic specialist: „Vom face o analiză”",
+    "lead_hu": "Cseke Attila, ministrul interimar al Sănătății, a anunțat că instituția va analiza sesizările primite cu privire la neregulile reclamate în cadrul examenului pentru obținerea titlului de medic special...",
+    "content_hu": "Cseke Attila, ministrul interimar al Sănătății, a anunțat că instituția va analiza sesizările primite cu privire la neregulile reclamate în cadrul examenului pentru obținerea titlului de medic specialist, aflat în desfășurare în această perioadă.",
+    "title_ro": "Ministrul interimar al Sănătății, după sesizările privind examenul de medic specialist: „Vom face o analiză”",
+    "lead_ro": "Cseke Attila, ministrul interimar al Sănătății, a anunțat că instituția va analiza sesizările primite cu privire la neregulile reclamate în cadrul examenului pentru obținerea titlului de medic special...",
+    "content_ro": "Cseke Attila, ministrul interimar al Sănătății, a anunțat că instituția va analiza sesizările primite cu privire la neregulile reclamate în cadrul examenului pentru obținerea titlului de medic specialist, aflat în desfășurare în această perioadă."
   },
   {
     "group_id": "group_8d1a046b05",
@@ -60,26 +700,6 @@
     "content_ro": "Október 20–23. között tartják Tusnádfürdőn a Tus­nad­­Eco­Bear nemzetközi konferenciát. Az ötödik alkalommal megszervezett tanácskozás programján negyven előadás, diákszekciók, tereplátogatások és természetvédelmi filmek vetítése is szerepel."
   },
   {
-    "group_id": "group_93c30ac87d",
-    "category": "Erdély",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Cseke Attila: Fără rectificare bugetară, sistemul medical riscă să nu mai funcționeze în două-trei săptămâni. Lipsesc peste 7 miliarde lei",
-        "link": "https://www.ebihoreanul.ro/stiri/cseke-attila-fara-rectificare-bugetara-sistemul-medical-risca-sa-nu-mai-functioneze-in-doua-trei-saptamani-lipsesc-peste-7-miliarde-lei-205773.html"
-      }
-    ],
-    "published_at": 1791900142,
-    "title_hu": "Cseke Attila: Fără rectificare bugetară, sistemul medical riscă să nu mai funcționeze în două-trei săptămâni. Lipsesc peste 7 miliarde lei",
-    "lead_hu": "Ministrul interimar al Sănătății, Cseke Attila, avertizează că sistemul sanitar românesc riscă să intre în blocaj fără o rectificare bugetară urgentă, care să asigure finanțarea funcționării până la f...",
-    "content_hu": "Ministrul interimar al Sănătății, Cseke Attila, avertizează că sistemul sanitar românesc riscă să intre în blocaj fără o rectificare bugetară urgentă, care să asigure finanțarea funcționării până la finele anului. Pentru instituțiile din subordinea Ministerul Sănătății și serviciile acoperite de Casa Națională de Asigurări de Sănătate este nevoie, spune Cseke, de peste 7 miliarde de lei, iar în lipsa rectificării, care poate fi făcută doar de un Guvern cu puteri depline sau de Parlament, primele probleme grave ar putea apărea de la începutul lunii noiembrie.",
-    "title_ro": "Cseke Attila: Fără rectificare bugetară, sistemul medical riscă să nu mai funcționeze în două-trei săptămâni. Lipsesc peste 7 miliarde lei",
-    "lead_ro": "Ministrul interimar al Sănătății, Cseke Attila, avertizează că sistemul sanitar românesc riscă să intre în blocaj fără o rectificare bugetară urgentă, care să asigure finanțarea funcționării până la f...",
-    "content_ro": "Ministrul interimar al Sănătății, Cseke Attila, avertizează că sistemul sanitar românesc riscă să intre în blocaj fără o rectificare bugetară urgentă, care să asigure finanțarea funcționării până la finele anului. Pentru instituțiile din subordinea Ministerul Sănătății și serviciile acoperite de Casa Națională de Asigurări de Sănătate este nevoie, spune Cseke, de peste 7 miliarde de lei, iar în lipsa rectificării, care poate fi făcută doar de un Guvern cu puteri depline sau de Parlament, primele probleme grave ar putea apărea de la începutul lunii noiembrie."
-  },
-  {
     "group_id": "group_1cf62addfc",
     "category": "Erdély",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -98,26 +718,6 @@
     "title_ro": "Orădenii cer căldură în apartamente. De când ar putea Termoficare să pornească încălzirea",
     "lead_ro": "Termoficare Oradea a primit, începând de luni dimineață, circa 80 de solicitări pentru pornirea încălzirii apartamentelor. Orădenii s-au plâns de frigul din locuințe atât direct operatorului, cât și p...",
     "content_ro": "Termoficare Oradea a primit, începând de luni dimineață, circa 80 de solicitări pentru pornirea încălzirii apartamentelor. Orădenii s-au plâns de frigul din locuințe atât direct operatorului, cât și prin aplicația Oradea City Report. Potrivit prognozelor, abia noaptea de marți spre miercuri ar putea fi prima cu temperaturi medii de cel mult 10 grade Celsius, din cele trei consecutive prevăzute de regulament pentru reluarea furnizării agentului termic. Societatea ia însă în calcul să pornească încălzirea anticipat, încă de joi, dacă vremea se menține rece."
-  },
-  {
-    "group_id": "group_7828f76de9",
-    "category": "Erdély",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Bolojan: PNL ar putea vota Guvernul Niculescu fără să intre la guvernare și să-i ofere 6 luni de sprijin. Care sunt condițiile",
-        "link": "https://www.ebihoreanul.ro/stiri/bolojan-pnl-ar-putea-vota-guvernul-niculescu-fara-sa-intre-la-guvernare-si-sa-i-ofere-6-luni-de-sprijin-care-sunt-conditiile-205776.html"
-      }
-    ],
-    "published_at": 1791900142,
-    "title_hu": "Bolojan: PNL ar putea vota Guvernul Niculescu fără să intre la guvernare și să-i ofere 6 luni de sprijin. Care sunt condițiile",
-    "lead_hu": "Președintele PNL, Ilie Bolojan, a anunțat că liberalii iau în calcul încheierea unui acord politic cu premierul desemnat Luca Niculescu, prin care să susțină învestirea viitorului Guvern și să nu vote...",
-    "content_hu": "Președintele PNL, Ilie Bolojan, a anunțat că liberalii iau în calcul încheierea unui acord politic cu premierul desemnat Luca Niculescu, prin care să susțină învestirea viitorului Guvern și să nu voteze nicio moțiune de cenzură timp de șase luni, cu condiția continuării reformelor și a respectării disciplinei bugetare. PNL nu va intra însă la guvernare, ci va rămâne în opoziție.",
-    "title_ro": "Bolojan: PNL ar putea vota Guvernul Niculescu fără să intre la guvernare și să-i ofere 6 luni de sprijin. Care sunt condițiile",
-    "lead_ro": "Președintele PNL, Ilie Bolojan, a anunțat că liberalii iau în calcul încheierea unui acord politic cu premierul desemnat Luca Niculescu, prin care să susțină învestirea viitorului Guvern și să nu vote...",
-    "content_ro": "Președintele PNL, Ilie Bolojan, a anunțat că liberalii iau în calcul încheierea unui acord politic cu premierul desemnat Luca Niculescu, prin care să susțină învestirea viitorului Guvern și să nu voteze nicio moțiune de cenzură timp de șase luni, cu condiția continuării reformelor și a respectării disciplinei bugetare. PNL nu va intra însă la guvernare, ci va rămâne în opoziție."
   },
   {
     "group_id": "group_e991e45956",
@@ -140,24 +740,24 @@
     "content_ro": "Compania de Apă Oradea informează consumatorii că miercuri, 14 octombrie 2026, între orele 08:00 și 16:00, se va întrerupe alimentarea cu apă în localitatea Hidișelu de Sus și comunele Drăgești și Ceica, pentru continuarea lucrărilor de conectare a căminelor la rețeaua de aducțiune."
   },
   {
-    "group_id": "group_dc1fadc82a",
-    "category": "Erdély",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "group_id": "group_ab2aed2667",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/23259153/1/hepta-8996319.jpg?width=700",
     "is_synthesized": false,
     "sources": [
       {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Călin Georgescu, decizie favorabilă la Tribunalul București: Arest la domiciliu, dar nu pleacă încă acasă",
-        "link": "https://www.ebihoreanul.ro/stiri/calin-georgescu-decizie-favorabila-la-tribunalul-bucuresti-arest-la-domiciliu-dar-nu-pleaca-inca-acasa-205772.html"
+        "source": "Ziarul Financiar",
+        "title": "Frigiderul şi cuptorul din apartament ar putea fi următoarea victimă a Inteligenţei Artificiale. Anthrophic avertizează că agenţii AI ar putea prelua controlul asupra televizoarelor, frigiderelor şi device-urilor smart din locuinţe",
+        "link": "https://www.zf.ro/business-international/frigiderul-cuptorul-apartament-ar-putea-urmatoarea-victima-inteligentei-artificiale-anthrophic-avertizeaza-agentii-ar-putea-prelua-controlul-asupra-televizoarelor-frigiderelor-device-urilor-smart-23259153"
       }
     ],
-    "published_at": 1791900000,
-    "title_hu": "Călin Georgescu, decizie favorabilă la Tribunalul București: Arest la domiciliu, dar nu pleacă încă acasă",
-    "lead_hu": "Tribunalul București a decis marți înlocuirea arestului preventiv al lui Călin Georgescu cu arestul la domiciliu, în dosarul în care fostul candidat la prezidențiale este acuzat că ar fi înșelat un om...",
-    "content_hu": "Tribunalul București a decis marți înlocuirea arestului preventiv al lui Călin Georgescu cu arestul la domiciliu, în dosarul în care fostul candidat la prezidențiale este acuzat că ar fi înșelat un om de afaceri cu 1,1 milioane de euro. Hotărârea nu este definitivă și nici executorie, astfel că Georgescu rămâne, deocamdată, în Arestul Central al Poliției Capitalei.",
-    "title_ro": "Călin Georgescu, decizie favorabilă la Tribunalul București: Arest la domiciliu, dar nu pleacă încă acasă",
-    "lead_ro": "Tribunalul București a decis marți înlocuirea arestului preventiv al lui Călin Georgescu cu arestul la domiciliu, în dosarul în care fostul candidat la prezidențiale este acuzat că ar fi înșelat un om...",
-    "content_ro": "Tribunalul București a decis marți înlocuirea arestului preventiv al lui Călin Georgescu cu arestul la domiciliu, în dosarul în care fostul candidat la prezidențiale este acuzat că ar fi înșelat un om de afaceri cu 1,1 milioane de euro. Hotărârea nu este definitivă și nici executorie, astfel că Georgescu rămâne, deocamdată, în Arestul Central al Poliției Capitalei."
+    "published_at": 1791900072,
+    "title_hu": "Frigiderul şi cuptorul din apartament ar putea fi următoarea victimă a Inteligenţei Artificiale. Anthrophic avertizează că agenţii AI ar putea prelua controlul asupra televizoarelor, frigiderelor şi device-urilor smart din locuinţe",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Frigiderul şi cuptorul din apartament ar putea fi următoarea victimă a Inteligenţei Artificiale. Anthrophic avertizează că agenţii AI ar putea prelua controlul asupra televizoarelor, frigiderelor şi device-urilor smart din locuinţe",
+    "lead_ro": "",
+    "content_ro": ""
   },
   {
     "group_id": "group_dfd5ad472a",
@@ -278,26 +878,6 @@
     "title_ro": "FOTO Vine în România: Primul miliardar în dolari al Albaniei aduce brandul danez Flying Tiger Copenhagen",
     "lead_ro": "Flying Tiger Copenhagen, retailer danez de jucării, decorațiuni, papetărie și accesorii pentru casă, cu o rețea de peste 1.100 de magazine în 45 de țări, se pregătește să intre în România, primele mag...",
     "content_ro": "Flying Tiger Copenhagen, retailer danez de jucării, decorațiuni, papetărie și accesorii pentru casă, cu o rețea de peste 1.100 de magazine în 45 de țări, se pregătește să intre în România, primele magazine urmând să fie deschise în 2027, relevă datele analizate de Profit.ro. Brandul va fi adus în România de grupul de investiții Balfin …"
-  },
-  {
-    "group_id": "group_8ca6a2cce4",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2024/10/dreamstime_l_305856400.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "România şi India ar putea semna curând certificatele sanitare veterinare necesare realizării de schimburi comerciale",
-        "link": "https://www.g4media.ro/romania-si-india-ar-putea-semna-curand-certificatele-sanitare-veterinare-necesare-realizarii-de-schimburi-comerciale.html"
-      }
-    ],
-    "published_at": 1791899722,
-    "title_hu": "România şi India ar putea semna curând certificatele sanitare veterinare necesare realizării de schimburi comerciale",
-    "lead_hu": "Perspectiva semnării, într-un termen cât mai scurt, a certificatelor sanitare veterinare necesare schimburilor comerciale dintre România şi India a fost unul dintre subiectele discutate de preşedintel...",
-    "content_hu": "Perspectiva semnării, într-un termen cât mai scurt, a certificatelor sanitare veterinare necesare schimburilor comerciale dintre România şi India a fost unul dintre subiectele discutate de preşedintele ANSVSA, Alexandru Bociu, şi ambasadorul Indiei în România, Manoj Kumar Mohapatra, transmite Agerpres. Potrivit unei postări pe pagina de Facebook a instituţiei, ambasadorul Indiei în România a efectuat o […] © G4Media.ro.",
-    "title_ro": "România şi India ar putea semna curând certificatele sanitare veterinare necesare realizării de schimburi comerciale",
-    "lead_ro": "Perspectiva semnării, într-un termen cât mai scurt, a certificatelor sanitare veterinare necesare schimburilor comerciale dintre România şi India a fost unul dintre subiectele discutate de preşedintel...",
-    "content_ro": "Perspectiva semnării, într-un termen cât mai scurt, a certificatelor sanitare veterinare necesare schimburilor comerciale dintre România şi India a fost unul dintre subiectele discutate de preşedintele ANSVSA, Alexandru Bociu, şi ambasadorul Indiei în România, Manoj Kumar Mohapatra, transmite Agerpres. Potrivit unei postări pe pagina de Facebook a instituţiei, ambasadorul Indiei în România a efectuat o […] © G4Media.ro."
   },
   {
     "group_id": "group_9dcf34160e",
@@ -620,106 +1200,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_576244b50f",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Peste 9.000 de infecții cu Ebola în RD Congo, conform unui raport guvernamental",
-        "link": "https://agerpres.ro/social-extern/2026/10/13/peste-9-000-de-infectii-cu-ebola-in-rd-congo-conform-unui-raport-guvernamental--1602572"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Peste 9.000 de infecții cu Ebola în RD Congo, conform unui raport guvernamental",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Peste 9.000 de infecții cu Ebola în RD Congo, conform unui raport guvernamental",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_8bf0c8990a",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Tenis: Filip Jianu și Radu Papoe, calificați în optimi la Catania (challenger)",
-        "link": "https://agerpres.ro/sport-extern/2026/10/13/tenis-filip-jianu-si-radu-papoe-calificati-in-optimi-la-catania-challenger--1602575"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Tenis: Filip Jianu și Radu Papoe, calificați în optimi la Catania (challenger)",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Tenis: Filip Jianu și Radu Papoe, calificați în optimi la Catania (challenger)",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_18e0bfda07",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Ministerul Culturii: Apel de înscriere la preselecția națională pentru concursurile culturale din cadrul Jocurilor Francofoniei",
-        "link": "https://agerpres.ro/cultura-media/2026/10/13/ministerul-culturii-apel-de-inscriere-la-preselectia-nationala-pentru-concursurile-culturale-din-cad--1602570"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Ministerul Culturii: Apel de înscriere la preselecția națională pentru concursurile culturale din cadrul Jocurilor Francofoniei",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Ministerul Culturii: Apel de înscriere la preselecția națională pentru concursurile culturale din cadrul Jocurilor Francofoniei",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_370a83fd5a",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Planurile Poloniei și Finlandei de a produce mine antipersonal trezesc îngrijorare",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/planurile-poloniei-si-finlandei-de-a-produce-mine-antipersonal-trezesc-ingrijorare--1602564"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Planurile Poloniei și Finlandei de a produce mine antipersonal trezesc îngrijorare",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Planurile Poloniei și Finlandei de a produce mine antipersonal trezesc îngrijorare",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_c3f717c6c4",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "VIDEO SpaceX a lansat o încărcătură de 2,8 tone de alimente și echipamente spre ISS",
-        "link": "https://agerpres.ro/stiinta/2026/10/13/video-spacex-a-lansat-o-incarcatura-de-2-8-tone-de-alimente-si-echipamente-spre-iss--1602559"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "VIDEO SpaceX a lansat o încărcătură de 2,8 tone de alimente și echipamente spre ISS",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "VIDEO SpaceX a lansat o încărcătură de 2,8 tone de alimente și echipamente spre ISS",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
     "group_id": "group_69d684d978",
     "category": "Politika",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -736,86 +1216,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Marius Budăi: România are nevoie urgentă de un Guvern cu puteri depline, susținut de o majoritate parlamentară clară",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_3d8612aa64",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Vânzările trimestriale ale BMW, afectate de dificultățile de pe piața din China",
-        "link": "https://agerpres.ro/economic-extern/2026/10/13/vanzarile-trimestriale-ale-bmw-afectate-de-dificultatile-de-pe-piata-din-china--1602561"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Vânzările trimestriale ale BMW, afectate de dificultățile de pe piața din China",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Vânzările trimestriale ale BMW, afectate de dificultățile de pe piața din China",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_cc13cd2d5f",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Nicușor Dan: Noile dispoziții din Ucraina stabilesc că limba maternă poate fi folosită în toate circumstanțele",
-        "link": "https://agerpres.ro/politic/2026/10/13/nicusor-dan-noile-dispozitii-din-ucraina-stabilesc-ca-limba-materna-poate-fi-folosita-in-toate-circu--1602547"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Nicușor Dan: Noile dispoziții din Ucraina stabilesc că limba maternă poate fi folosită în toate circumstanțele",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Nicușor Dan: Noile dispoziții din Ucraina stabilesc că limba maternă poate fi folosită în toate circumstanțele",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_3eb695999e",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Cîmpean: Am solicitat evitarea concentrării excesive a finanțărilor din Fondul pentru Competitivitate în anumite state membre",
-        "link": "https://agerpres.ro/politic/2026/10/13/cimpean-am-solicitat-evitarea-concentrarii-excesive-a-finantarilor-din-fondul-pentru-competitivitate--1602549"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Cîmpean: Am solicitat evitarea concentrării excesive a finanțărilor din Fondul pentru Competitivitate în anumite state membre",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Cîmpean: Am solicitat evitarea concentrării excesive a finanțărilor din Fondul pentru Competitivitate în anumite state membre",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_074ca9cf28",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Șeful ANRE: Investițiile în securitatea cibernetică sunt tratate cu toată seriozitatea de către autoritatea de reglementare",
-        "link": "https://agerpres.ro/economic/2026/10/13/seful-anre-investitiile-in-securitatea-cibernetica-sunt-tratate-cu-toata-seriozitatea-de-catre-autor--1602542"
-      }
-    ],
-    "published_at": 1791899027,
-    "title_hu": "Șeful ANRE: Investițiile în securitatea cibernetică sunt tratate cu toată seriozitatea de către autoritatea de reglementare",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Șeful ANRE: Investițiile în securitatea cibernetică sunt tratate cu toată seriozitatea de către autoritatea de reglementare",
     "lead_ro": "",
     "content_ro": ""
   },
@@ -967,15 +1367,15 @@
     "sources": [
       {
         "source": "Ziarul Financiar",
-        "title": "Capcana \"work from home\" ne-a dus într-o cultură a disponibilităţii permanente: cât e muncă, ce rămâne pentru viaţa privată? Europa se pune la masă pentru a găsi soluţii la stres, anxietate şi despresie la lcoul de muncă",
-        "link": "https://www.zf.ro/zf-gen-z/capcana-work-from-home-ne-dus-intr-cultura-disponibilitatii-permanente-cat-e-munca-ramane-viata-privata-europa-pune-masa-gasi-solutii-stres-anxietate-despresie-lcoul-munca-23259126"
+        "title": "Capcana \"work from home\" ne-a dus într-o cultură a disponibilităţii permanente: cât e muncă, ce rămâne pentru viaţa privată? Europa se pune la masă pentru a găsi soluţii la stres, anxietate şi despresie la locul de muncă",
+        "link": "https://www.zf.ro/zf-gen-z/capcana-work-from-home-ne-dus-intr-cultura-disponibilitatii-permanente-cat-e-munca-ramane-viata-privata-europa-pune-masa-gasi-solutii-stres-anxietate-despresie-locul-munca-23259126"
       }
     ],
-    "published_at": 1791898586,
-    "title_hu": "Capcana \"work from home\" ne-a dus într-o cultură a disponibilităţii permanente: cât e muncă, ce rămâne pentru viaţa privată? Europa se pune la masă pentru a găsi soluţii la stres, anxietate şi despresie la lcoul de muncă",
+    "published_at": 1791898560,
+    "title_hu": "Capcana \"work from home\" ne-a dus într-o cultură a disponibilităţii permanente: cât e muncă, ce rămâne pentru viaţa privată? Europa se pune la masă pentru a găsi soluţii la stres, anxietate şi despresie la locul de muncă",
     "lead_hu": "",
     "content_hu": "",
-    "title_ro": "Capcana \"work from home\" ne-a dus într-o cultură a disponibilităţii permanente: cât e muncă, ce rămâne pentru viaţa privată? Europa se pune la masă pentru a găsi soluţii la stres, anxietate şi despresie la lcoul de muncă",
+    "title_ro": "Capcana \"work from home\" ne-a dus într-o cultură a disponibilităţii permanente: cât e muncă, ce rămâne pentru viaţa privată? Europa se pune la masă pentru a găsi soluţii la stres, anxietate şi despresie la locul de muncă",
     "lead_ro": "",
     "content_ro": ""
   },
@@ -1041,26 +1441,6 @@
   },
   {
     "group_id": "group_fe9dcf23e5",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjE0JTJGMjU0MjM1MF8yNTQy/MzUwX3ZsYWRpbWlyLXB1dGluLWRvbmFs/ZC10cnVtcC0xLmpwZyZoYXNoPTk3NjIz/YzU2M2ExMDdkNjJmMWE0MjM0ZDI0Y2RkZjU3.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Trump este „cu spatele la zid”, avertizează ministrul german al Apărării. Ce stă la baza apropierii de Rusia",
-        "link": "https://www.digi24.ro/stiri/externe/sua/trump-este-cu-spatele-la-zid-avertizeaza-ministrul-german-al-apararii-ce-se-ascunde-in-spatele-apropierii-de-rusia-3990281"
-      }
-    ],
-    "published_at": 1791898204,
-    "title_hu": "Trump este „cu spatele la zid”, avertizează ministrul german al Apărării. Ce stă la baza apropierii de Rusia",
-    "lead_hu": "Ministrul german al Apărării, Boris Pistorius, consideră că apropierea președintelui american Donald Trump de Rusia este determinată de presiunile politice interne, în perspectiva alegerilor de la jum...",
-    "content_hu": "Ministrul german al Apărării, Boris Pistorius, consideră că apropierea președintelui american Donald Trump de Rusia este determinată de presiunile politice interne, în perspectiva alegerilor de la jumătatea mandatului din noiembrie. Oficialul german susține că liderul de la Casa Albă se află „cu spatele la zid” și avertizează că deciziile sale de politică externă ar putea avea consecințe nedorite.",
-    "title_ro": "Trump este „cu spatele la zid”, avertizează ministrul german al Apărării. Ce stă la baza apropierii de Rusia",
-    "lead_ro": "Ministrul german al Apărării, Boris Pistorius, consideră că apropierea președintelui american Donald Trump de Rusia este determinată de presiunile politice interne, în perspectiva alegerilor de la jum...",
-    "content_ro": "Ministrul german al Apărării, Boris Pistorius, consideră că apropierea președintelui american Donald Trump de Rusia este determinată de presiunile politice interne, în perspectiva alegerilor de la jumătatea mandatului din noiembrie. Oficialul german susține că liderul de la Casa Albă se află „cu spatele la zid” și avertizează că deciziile sale de politică externă ar putea avea consecințe nedorite."
-  },
-  {
-    "group_id": "group_b520f048f7",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjE0JTJGMjU0MjM1MF8yNTQy/MzUwX3ZsYWRpbWlyLXB1dGluLWRvbmFs/ZC10cnVtcC0xLmpwZyZoYXNoPTk3NjIz/YzU2M2ExMDdkNjJmMWE0MjM0ZDI0Y2RkZjU3.jpg",
     "is_synthesized": false,
@@ -1240,47 +1620,7 @@
     "content_ro": "Mononucleoza infecțioasă, cunoscută popular drept „boala sărutului”, este o afecțiune virală contagioasă transmisă în principal prin salivă, cel mai adesea prin sărut."
   },
   {
-    "group_id": "group_de98004772",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/13/132244/refugiu.jpg?fm=jpg&q=80&fit=crop&crop=1280%2C853%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Refugii montane cu Wi-Fi și energie electrică vor fi montate în Făgăraș și Iezer. Ce trebuie să facă turiștii pentru a le accesa",
-        "link": "https://stirileprotv.ro/stiri/actualitate/refugii-montane-cu-wi-fi-si-energie-electrica-vor-fi-montate-in-fagaras-si-iezer-ce-trebuie-sa-faca-turistii-pentru-a-le-accesa.html"
-      }
-    ],
-    "published_at": 1791897807,
-    "title_hu": "Refugii montane cu Wi-Fi și energie electrică vor fi montate în Făgăraș și Iezer. Ce trebuie să facă turiștii pentru a le accesa",
-    "lead_hu": "Salvamont Argeș va monta două noi refugii montane în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna....",
-    "content_hu": "Salvamont Argeș va monta două noi refugii montane în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna.",
-    "title_ro": "Refugii montane cu Wi-Fi și energie electrică vor fi montate în Făgăraș și Iezer. Ce trebuie să facă turiștii pentru a le accesa",
-    "lead_ro": "Salvamont Argeș va monta două noi refugii montane în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna....",
-    "content_ro": "Salvamont Argeș va monta două noi refugii montane în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna."
-  },
-  {
     "group_id": "group_3a69074be3",
-    "category": "Politika",
-    "image": "https://cdn.adh.reperio.news/image-9/90725aab-cdb9-4982-93ae-9a7950180482/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "SURSE PSD e gata să intre la guvernare într-un Cabinet hibrid",
-        "link": "https://adevarul.ro/politica/surse-psd-e-gata-sa-intre-la-guvernare-intr-un-2563710.html"
-      }
-    ],
-    "published_at": 1791897784,
-    "title_hu": "SURSE PSD e gata să intre la guvernare într-un Cabinet hibrid",
-    "lead_hu": "Cei mai mulți lideri PSD i-au transmis lui Sorin Grindeanu că partidul trebuie să intre la guvernare și să primească ministere cu greutate, susțin surse politice pentru „Adevărul”....",
-    "content_hu": "Cei mai mulți lideri PSD i-au transmis lui Sorin Grindeanu că partidul trebuie să intre la guvernare și să primească ministere cu greutate, susțin surse politice pentru „Adevărul”.",
-    "title_ro": "SURSE PSD e gata să intre la guvernare într-un Cabinet hibrid",
-    "lead_ro": "Cei mai mulți lideri PSD i-au transmis lui Sorin Grindeanu că partidul trebuie să intre la guvernare și să primească ministere cu greutate, susțin surse politice pentru „Adevărul”....",
-    "content_ro": "Cei mai mulți lideri PSD i-au transmis lui Sorin Grindeanu că partidul trebuie să intre la guvernare și să primească ministere cu greutate, susțin surse politice pentru „Adevărul”."
-  },
-  {
-    "group_id": "group_746ea01c03",
     "category": "Politika",
     "image": "https://cdn.adh.reperio.news/image-9/90725aab-cdb9-4982-93ae-9a7950180482/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
     "is_synthesized": false,
@@ -1321,26 +1661,6 @@
   },
   {
     "group_id": "group_2082017815",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNiUyRjE5JTJGMTM0MTczOV8xMzQx/NzM5X0RpYW5hLVN0b2ljYV9hdmF0YXJf/MTYyNDA4ODk3My5qcGcmaGFzaD00OWU2/MGUwNDdjMjZlM2EwNDBhZWM3MTAxZjhmM2FkMw==.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Diana Stoica (USR) crede că nu ar trebui să ne mai bazăm pe rectificări: „Nu trebuie să rămâi fără bani la jumătatea anului”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/diana-stoica-usr-crede-ca-nu-ar-trebui-sa-ne-mai-bazam-pe-rectificari-nu-trebuie-sa-ramai-fara-bani-la-jumatatea-anului-3990269"
-      }
-    ],
-    "published_at": 1791897612,
-    "title_hu": "Diana Stoica (USR) crede că nu ar trebui să ne mai bazăm pe rectificări: „Nu trebuie să rămâi fără bani la jumătatea anului”",
-    "lead_hu": "Liderul deputaţilor USR, Diana Stoica, a declarat marţi că Guvernul şi Parlamentul trebuie să înveţe să facă bugetul de stat pe tot anul, pentru că rectificările bugetare nu sunt normale „în nicio ţar...",
-    "content_hu": "Liderul deputaţilor USR, Diana Stoica, a declarat marţi că Guvernul şi Parlamentul trebuie să înveţe să facă bugetul de stat pe tot anul, pentru că rectificările bugetare nu sunt normale „în nicio ţară civilizată”.",
-    "title_ro": "Diana Stoica (USR) crede că nu ar trebui să ne mai bazăm pe rectificări: „Nu trebuie să rămâi fără bani la jumătatea anului”",
-    "lead_ro": "Liderul deputaţilor USR, Diana Stoica, a declarat marţi că Guvernul şi Parlamentul trebuie să înveţe să facă bugetul de stat pe tot anul, pentru că rectificările bugetare nu sunt normale „în nicio ţar...",
-    "content_ro": "Liderul deputaţilor USR, Diana Stoica, a declarat marţi că Guvernul şi Parlamentul trebuie să înveţe să facă bugetul de stat pe tot anul, pentru că rectificările bugetare nu sunt normale „în nicio ţară civilizată”."
-  },
-  {
-    "group_id": "group_41bdce278f",
     "category": "Politika",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNiUyRjE5JTJGMTM0MTczOV8xMzQx/NzM5X0RpYW5hLVN0b2ljYV9hdmF0YXJf/MTYyNDA4ODk3My5qcGcmaGFzaD00OWU2/MGUwNDdjMjZlM2EwNDBhZWM3MTAxZjhmM2FkMw==.jpg",
     "is_synthesized": false,
@@ -1418,26 +1738,6 @@
     "title_ro": "Diana Buzoianu anunță punerea din nou în funcțiune a panourilor fotovoltaice de la Ministerul Mediului. „Ani de zile doar adunau praf”",
     "lead_ro": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar ad...",
     "content_ro": "Ministra interimară a Mediului, Diana Buzoianu, a transmis marți că panourile fotovoltaice de la Ministerul Mediului funcționează din nou, după ce „de ani de zile sistemul nu mai funcționa, ci doar aduna praf”."
-  },
-  {
-    "group_id": "group_5b226285e9",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2020/04/Sediul-MI5-sursa-Wikipedia.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Șeful MI5 numește Rusia „agresorul numărul unu” / Serviciul britanic avertizează că organizațiile teroriste încearcă deja să folosească inteligența artificială pentru pregătirea atacurilor",
-        "link": "https://www.g4media.ro/seful-mi5-numeste-rusia-agresorul-numarul-unu-serviciul-britanic-avertizeaza-ca-organizatiile-teroriste-incearca-deja-sa-foloseasca-inteligenta-artificiala-pentru-pregatirea-atacur.html"
-      }
-    ],
-    "published_at": 1791897433,
-    "title_hu": "Șeful MI5 numește Rusia „agresorul numărul unu” / Serviciul britanic avertizează că organizațiile teroriste încearcă deja să folosească inteligența artificială pentru pregătirea atacurilor",
-    "lead_hu": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării ope...",
-    "content_hu": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării operațiunilor atribuite Rusiei și Iranului, transmite MEDIAFAX. Șeful MI5 avertizează, în același timp, că organizațiile teroriste încearcă deja să folosească inteligența artificială pentru pregătirea atacurilor, relatează BBC. Rusia, […] © G4Media.ro.",
-    "title_ro": "Șeful MI5 numește Rusia „agresorul numărul unu” / Serviciul britanic avertizează că organizațiile teroriste încearcă deja să folosească inteligența artificială pentru pregătirea atacurilor",
-    "lead_ro": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării ope...",
-    "content_ro": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării operațiunilor atribuite Rusiei și Iranului, transmite MEDIAFAX. Șeful MI5 avertizează, în același timp, că organizațiile teroriste încearcă deja să folosească inteligența artificială pentru pregătirea atacurilor, relatează BBC. Rusia, […] © G4Media.ro."
   },
   {
     "group_id": "group_44bd693f5e",
@@ -1618,26 +1918,6 @@
     "title_ro": "Nvidia dublează performanțele DLSS 5 cu o singură actualizare adusă driverelor GeForce",
     "lead_ro": "Publicat pe Zona IT de catre Aurelian Mihai: După ce a oferit primele demonstrații DLSS 5 „recrutând” o a doua placă video strict pentru procesare DLSS 5, Nvidia a limitat drastic folosirea acestei te...",
     "content_ro": "Publicat pe Zona IT de catre Aurelian Mihai: După ce a oferit primele demonstrații DLSS 5 „recrutând” o a doua placă video strict pentru procesare DLSS 5, Nvidia a limitat drastic folosirea acestei tehnologii în jocul NBA 2K27, primul titlul de PC care suportă în mod oficial augmentarea calității imaginii folosind procesare neurală. Între timp, entuziaști din comunitatea de modding au „potcovit” tot … Citeste mai mult: Nvidia dublează performanțele DLSS 5 cu o singură actualizare adusă driverelor GeForce - Zona IT."
-  },
-  {
-    "group_id": "group_f82dee1bf2",
-    "category": "Politika",
-    "image": "https://stirileprotv.ro/img/2026/09/22/111333/georgescu-simion-id234346-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "George Simion, ușor nemulțumit de măsura luată în cazul lui Călin Georgescu. Cum a comentat decizia Tribunalului București",
-        "link": "https://stirileprotv.ro/stiri/politic/george-simion-usor-nemultumit-de-masura-luata-in-cazul-lui-calin-georgescu-cum-a-comentat-decizia-tribunalului-bucuresti.html"
-      }
-    ],
-    "published_at": 1791897309,
-    "title_hu": "George Simion, ușor nemulțumit de măsura luată în cazul lui Călin Georgescu. Cum a comentat decizia Tribunalului București",
-    "lead_hu": "Preşedintele AUR, George Simion, consideră \"tot un abuz\" înlocuirea măsurii arestului preventiv cu cea a arestului la domiciliu pentru Călin Georgescu, dar apreciază că această decizie este \"o victori...",
-    "content_hu": "Preşedintele AUR, George Simion, consideră \"tot un abuz\" înlocuirea măsurii arestului preventiv cu cea a arestului la domiciliu pentru Călin Georgescu, dar apreciază că această decizie este \"o victorie a protestelor\".",
-    "title_ro": "George Simion, ușor nemulțumit de măsura luată în cazul lui Călin Georgescu. Cum a comentat decizia Tribunalului București",
-    "lead_ro": "Preşedintele AUR, George Simion, consideră \"tot un abuz\" înlocuirea măsurii arestului preventiv cu cea a arestului la domiciliu pentru Călin Georgescu, dar apreciază că această decizie este \"o victori...",
-    "content_ro": "Preşedintele AUR, George Simion, consideră \"tot un abuz\" înlocuirea măsurii arestului preventiv cu cea a arestului la domiciliu pentru Călin Georgescu, dar apreciază că această decizie este \"o victorie a protestelor\"."
   },
   {
     "group_id": "group_816d75913a",
@@ -2040,6 +2320,26 @@
     "content_ro": "Elevii de gimnaziu din toată ţara şi profesorii lor de matematică pot să se înscrie gratuit până la 31 octombrie 2026 în ediţia 2027 a campionatului naţional pe echipe CampioMATE. Ajuns la cea de-a şasea ediţie, pro­gramul începe în noiembrie cu etapa de calificări şi se încheie în iunie 2027 cu gala de premiere. După o ediţie re­cord în anul şcolar trecut, cu 16.000 de copii din toată ţara şi peste 3 mili­oane de probleme rezolvate, organizatorii îşi propun să susţină în noul sezon 20.000 de jucători."
   },
   {
+    "group_id": "group_5b226285e9",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8033273-hepta_mediafax_foto-dpa_hepta-1024x676.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Șeful MI5 numește Rusia „agresorul numărul unu”. Serviciul britanic avertizează și asupra dronelor controlate cu AI",
+        "link": "https://www.mediafax.ro/externe/seful-mi5-numeste-rusia-agresorul-numarul-unu-serviciul-britanic-avertizeaza-si-asupra-dronelor-controlate-cu-ai-23824659"
+      }
+    ],
+    "published_at": 1791896113,
+    "title_hu": "Șeful MI5 numește Rusia „agresorul numărul unu”. Serviciul britanic avertizează și asupra dronelor controlate cu AI",
+    "lead_hu": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării ope...",
+    "content_hu": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării operațiunilor atribuite Rusiei și Iranului.",
+    "title_ro": "Șeful MI5 numește Rusia „agresorul numărul unu”. Serviciul britanic avertizează și asupra dronelor controlate cu AI",
+    "lead_ro": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării ope...",
+    "content_ro": "Serviciul britanic de informații interne MI5 alocă în prezent mai multe resurse combaterii amenințărilor provenite din partea unor state decât în perioada Războiului Rece, pe fondul intensificării operațiunilor atribuite Rusiei și Iranului."
+  },
+  {
     "group_id": "group_52d711f903",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8033273-hepta_mediafax_foto-dpa_hepta-1024x676.jpg",
@@ -2260,26 +2560,6 @@
     "content_ro": "Trei sportive din România au terminat pe prima poziție în grupele de calificare și și-au asigurat prezența directă în Top 64 la Campionatul European Individual de tenis de masă pentru seniori din 2026."
   },
   {
-    "group_id": "group_e90f9f6510",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-b/b86c3ce1-dab5-4043-934c-a15e167f41d8/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "România face spectacol la Europenele de tenis de masă! Trei românce, calificate direct în Top 64",
-        "link": "https://adevarul.ro/sport/romania-face-spectacol-la-europenele-de-tenis-de-2563734.html"
-      }
-    ],
-    "published_at": 1791895723,
-    "title_hu": "România face spectacol la Europenele de tenis de masă! Trei românce, calificate direct în Top 64",
-    "lead_hu": "Trei sportive din România au terminat pe prima poziție în grupele de calificare și și-au asigurat prezența directă în Top 64 la Campionatul European Individual de tenis de masă pentru seniori din 2026...",
-    "content_hu": "Trei sportive din România au terminat pe prima poziție în grupele de calificare și și-au asigurat prezența directă în Top 64 la Campionatul European Individual de tenis de masă pentru seniori din 2026.",
-    "title_ro": "România face spectacol la Europenele de tenis de masă! Trei românce, calificate direct în Top 64",
-    "lead_ro": "Trei sportive din România au terminat pe prima poziție în grupele de calificare și și-au asigurat prezența directă în Top 64 la Campionatul European Individual de tenis de masă pentru seniori din 2026...",
-    "content_ro": "Trei sportive din România au terminat pe prima poziție în grupele de calificare și și-au asigurat prezența directă în Top 64 la Campionatul European Individual de tenis de masă pentru seniori din 2026."
-  },
-  {
     "group_id": "group_30370b07f6",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2025/01/profimedia-0950817993.jpg",
@@ -2340,6 +2620,26 @@
     "content_ro": "A Stop Rasism platform tájékoztató eszközként szolgál a lakosság számára és megkönnyíti a jelentés folyamatát."
   },
   {
+    "group_id": "group_746ea01c03",
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/nicusor-dan-luca-niculescu-5-1024x768.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "SURSE: Se conturează un Guvern PSD–Niculescu, cu trei ministere pentru oamenii lui Nicușor Dan. Pact cu Bolojan și UDMR pentru supraviețuirea Cabinetului până în aprilie. Decizia, la PSD",
+        "link": "https://www.mediafax.ro/politic/surse-se-contureaza-un-guvern-psd-niculescu-cu-trei-ministere-pentru-oamenii-lui-nicusor-dan-pact-cu-bolojan-si-udmr-pentru-supravietuirea-cabinetului-pana-in-aprilie-decizia-la-psd-23824658"
+      }
+    ],
+    "published_at": 1791895565,
+    "title_hu": "SURSE: Se conturează un Guvern PSD–Niculescu, cu trei ministere pentru oamenii lui Nicușor Dan. Pact cu Bolojan și UDMR pentru supraviețuirea Cabinetului până în aprilie. Decizia, la PSD",
+    "lead_hu": "Negocierile pentru formarea Guvernului Luca Niculescu au ajuns într-un punct decisiv. Potrivit informațiilor obținute de Mediafax din surse politice, pe masa discuțiilor se află o formulă în care PSD ...",
+    "content_hu": "Negocierile pentru formarea Guvernului Luca Niculescu au ajuns într-un punct decisiv. Potrivit informațiilor obținute de Mediafax din surse politice, pe masa discuțiilor se află o formulă în care PSD ar urma să dețină cea mai mare parte a portofoliilor ministeriale, în timp ce președintele Nicușor Dan ar avea un cuvânt decisiv în desemnarea miniștrilor de Externe, Apărare, Fonduri Europene sau Finanțe. Guvernul ar beneficia de un acord politic cu PNL, prin Ilie Bolojan, și cu UDMR, care să îi asigure susținerea parlamentară cel puțin până în aprilie 2027. Social-democrații ezită însă să accepte această variantă, de teama costurilor electorale ale unei guvernări pe care ar urma să o gestioneze aproape singuri.",
+    "title_ro": "SURSE: Se conturează un Guvern PSD–Niculescu, cu trei ministere pentru oamenii lui Nicușor Dan. Pact cu Bolojan și UDMR pentru supraviețuirea Cabinetului până în aprilie. Decizia, la PSD",
+    "lead_ro": "Negocierile pentru formarea Guvernului Luca Niculescu au ajuns într-un punct decisiv. Potrivit informațiilor obținute de Mediafax din surse politice, pe masa discuțiilor se află o formulă în care PSD ...",
+    "content_ro": "Negocierile pentru formarea Guvernului Luca Niculescu au ajuns într-un punct decisiv. Potrivit informațiilor obținute de Mediafax din surse politice, pe masa discuțiilor se află o formulă în care PSD ar urma să dețină cea mai mare parte a portofoliilor ministeriale, în timp ce președintele Nicușor Dan ar avea un cuvânt decisiv în desemnarea miniștrilor de Externe, Apărare, Fonduri Europene sau Finanțe. Guvernul ar beneficia de un acord politic cu PNL, prin Ilie Bolojan, și cu UDMR, care să îi asigure susținerea parlamentară cel puțin până în aprilie 2027. Social-democrații ezită însă să accepte această variantă, de teama costurilor electorale ale unei guvernări pe care ar urma să o gestioneze aproape singuri."
+  },
+  {
     "group_id": "group_619f6156a4",
     "category": "Általános",
     "image": "https://www.kolozsvariradio.ro/wp-content/uploads/2026/10/sargacsiko-300x169.jpg",
@@ -2361,26 +2661,6 @@
   },
   {
     "group_id": "group_c0c9914f71",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Planul lui Nicușor Dan. Dacă Guvernul Niculescu nu găsește susținere până joi, președintele „va prezenta vineri decretul de dizolvare a Parlamentului”",
-        "link": "https://hotnews.ro/planul-lui-nicusor-dan-daca-guvernul-niculescu-nu-gaseste-sustinere-pana-joi-presedintele-va-prezenta-vineri-decretul-de-dizolvare-a-parlamentului-2374797"
-      }
-    ],
-    "published_at": 1791895548,
-    "title_hu": "Planul lui Nicușor Dan. Dacă Guvernul Niculescu nu găsește susținere până joi, președintele „va prezenta vineri decretul de dizolvare a Parlamentului”",
-    "lead_hu": "Președintele nu va ezita să declanșeze alegerile anticipate dacă partidele fostei coaliții nu ajung la un acord pentru învestirea Guvernului Luca Niculescu, au declarat, pentru HotNews, surse apropiat...",
-    "content_hu": "Președintele nu va ezita să declanșeze alegerile anticipate dacă partidele fostei coaliții nu ajung la un acord pentru învestirea Guvernului Luca Niculescu, au declarat, pentru HotNews, surse apropiate de Administrația Prezidențială. „Următoarea desemnare nu va mai exista. Dacă joi premierul propus nu va avea o majoritate asumată printr-o înțelegere transparentă între partide, vineri, la conferința …",
-    "title_ro": "Planul lui Nicușor Dan. Dacă Guvernul Niculescu nu găsește susținere până joi, președintele „va prezenta vineri decretul de dizolvare a Parlamentului”",
-    "lead_ro": "Președintele nu va ezita să declanșeze alegerile anticipate dacă partidele fostei coaliții nu ajung la un acord pentru învestirea Guvernului Luca Niculescu, au declarat, pentru HotNews, surse apropiat...",
-    "content_ro": "Președintele nu va ezita să declanșeze alegerile anticipate dacă partidele fostei coaliții nu ajung la un acord pentru învestirea Guvernului Luca Niculescu, au declarat, pentru HotNews, surse apropiate de Administrația Prezidențială. „Următoarea desemnare nu va mai exista. Dacă joi premierul propus nu va avea o majoritate asumată printr-o înțelegere transparentă între partide, vineri, la conferința …"
-  },
-  {
-    "group_id": "group_d09362c095",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
     "is_synthesized": false,
@@ -2540,26 +2820,6 @@
     "content_ro": "Președintele Nicușor Dan a salutat promulgarea de către Volodimir Zelenski a modificărilor legislative privind dreptul minorităților naționale la educație în limba maternă, subliniind importanța acestora pentru păstrarea identității românilor din Ucraina."
   },
   {
-    "group_id": "group_7d1db6b898",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/05/31/190331/nicusor-dan-zelenski-inquam-og.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Reacția lui Nicușor Dan după ce Zelenski a promulgat modificările privind educația în limba maternă a românilor din Ucraina",
-        "link": "https://stirileprotv.ro/stiri/politic/ce-spune-nicusor-dan-despre-modificarile-decise-de-zelenski-privind-educatia-in-limba-materna-a-minoritatilor-nationale.html"
-      }
-    ],
-    "published_at": 1791895267,
-    "title_hu": "Reacția lui Nicușor Dan după ce Zelenski a promulgat modificările privind educația în limba maternă a românilor din Ucraina",
-    "lead_hu": "Președintele Nicușor Dan a salutat promulgarea de către Volodimir Zelenski a modificărilor legislative privind dreptul minorităților naționale la educație în limba maternă, subliniind importanța acest...",
-    "content_hu": "Președintele Nicușor Dan a salutat promulgarea de către Volodimir Zelenski a modificărilor legislative privind dreptul minorităților naționale la educație în limba maternă, subliniind importanța acestora pentru păstrarea identității românilor din Ucraina.",
-    "title_ro": "Reacția lui Nicușor Dan după ce Zelenski a promulgat modificările privind educația în limba maternă a românilor din Ucraina",
-    "lead_ro": "Președintele Nicușor Dan a salutat promulgarea de către Volodimir Zelenski a modificărilor legislative privind dreptul minorităților naționale la educație în limba maternă, subliniind importanța acest...",
-    "content_ro": "Președintele Nicușor Dan a salutat promulgarea de către Volodimir Zelenski a modificărilor legislative privind dreptul minorităților naționale la educație în limba maternă, subliniind importanța acestora pentru păstrarea identității românilor din Ucraina."
-  },
-  {
     "group_id": "group_fd05284c68",
     "category": "Gazdaság",
     "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21366/23259074/1/radu-savopol-fondator-cafeneaua-parcului-sinaia-1905.jpg?width=700",
@@ -2660,6 +2920,26 @@
     "content_ro": "Un tânăr de 21 de ani a fost prins în flagrant la intrarea în țară, la Nădlac, în timp ce transporta peste 7 kilograme de canabis, despre care anchetatorii susțin că erau destinate comercializării. Bărbatul a fost reținut marți, iar procurorii DIICOT au cerut arestarea sa preventivă pentru 30 de zile."
   },
   {
+    "group_id": "group_a37f022097",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/canabis-nadlac-724x1024.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Tânăr prins într-un autocar la Nădlac cu peste 7 kilograme de canabis aduse din Spania",
+        "link": "https://www.mediafax.ro/social/tanar-prins-intr-un-autocar-la-nadlac-cu-peste-7-kilograme-de-canabis-aduse-din-spania-23824654"
+      }
+    ],
+    "published_at": 1791894778,
+    "title_hu": "Tânăr prins într-un autocar la Nădlac cu peste 7 kilograme de canabis aduse din Spania",
+    "lead_hu": "Un tânăr de 21 de ani a fost prins în flagrant la intrarea în țară, la Nădlac, în timp ce transporta peste 7 kilograme de canabis, despre care anchetatorii susțin că erau destinate comercializării. Bă...",
+    "content_hu": "Un tânăr de 21 de ani a fost prins în flagrant la intrarea în țară, la Nădlac, în timp ce transporta peste 7 kilograme de canabis, despre care anchetatorii susțin că erau destinate comercializării. Bărbatul a fost reținut marți, iar procurorii DIICOT au cerut arestarea sa preventivă pentru 30 de zile.",
+    "title_ro": "Tânăr prins într-un autocar la Nădlac cu peste 7 kilograme de canabis aduse din Spania",
+    "lead_ro": "Un tânăr de 21 de ani a fost prins în flagrant la intrarea în țară, la Nădlac, în timp ce transporta peste 7 kilograme de canabis, despre care anchetatorii susțin că erau destinate comercializării. Bă...",
+    "content_ro": "Un tânăr de 21 de ani a fost prins în flagrant la intrarea în țară, la Nădlac, în timp ce transporta peste 7 kilograme de canabis, despre care anchetatorii susțin că erau destinate comercializării. Bărbatul a fost reținut marți, iar procurorii DIICOT au cerut arestarea sa preventivă pentru 30 de zile."
+  },
+  {
     "group_id": "group_3f54bbde40",
     "category": "Erdély",
     "image": "https://www.presasm.ro/uploads/2026/10/accc-munca.jpg",
@@ -2678,6 +2958,26 @@
     "title_ro": "FOTO. Tragedie cumplită. Trei români din Maramureș au murit la locul de muncă. Alți trei muncitori, răniți",
     "lead_ro": "O tragedie de proporții a avut loc luni, 12 octombrie 2026, în Portugalia, unde trei muncitori români, originari din comuna Poienile de Sub Munte, județul Maramureș, și-au pierdut viața într-un accide...",
     "content_ro": "O tragedie de proporții a avut loc luni, 12 octombrie 2026, în Portugalia, unde trei muncitori români, originari din comuna Poienile de Sub Munte, județul Maramureș, și-au pierdut viața într-un accident de muncă. Victimele aveau doar 21, 24 și 40 de ani. Alte …"
+  },
+  {
+    "group_id": "group_4396a58dca",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/tudorel-toader-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Tudorel Toader, despre contestația DIICOT în cazul lui Georgescu: „În câteva zile” ar putea fi luată o decizie",
+        "link": "https://www.mediafax.ro/politic/tudorel-toader-despre-contestatia-diicot-in-cazul-lui-georgescu-in-cateva-zile-ar-putea-fi-luata-o-decizie-23824634"
+      }
+    ],
+    "published_at": 1791894611,
+    "title_hu": "Tudorel Toader, despre contestația DIICOT în cazul lui Georgescu: „În câteva zile” ar putea fi luată o decizie",
+    "lead_hu": "Tudorel Toader a explicat, marți, la Antena 3 CNN ce urmează în cazul lui Călin Georgescu, după decizia privind arestul la domiciliu. Fostul ministru estimează că o contestație ar putea fi soluționată...",
+    "content_hu": "Tudorel Toader a explicat, marți, la Antena 3 CNN ce urmează în cazul lui Călin Georgescu, după decizia privind arestul la domiciliu. Fostul ministru estimează că o contestație ar putea fi soluționată în câteva zile.",
+    "title_ro": "Tudorel Toader, despre contestația DIICOT în cazul lui Georgescu: „În câteva zile” ar putea fi luată o decizie",
+    "lead_ro": "Tudorel Toader a explicat, marți, la Antena 3 CNN ce urmează în cazul lui Călin Georgescu, după decizia privind arestul la domiciliu. Fostul ministru estimează că o contestație ar putea fi soluționată...",
+    "content_ro": "Tudorel Toader a explicat, marți, la Antena 3 CNN ce urmează în cazul lui Călin Georgescu, după decizia privind arestul la domiciliu. Fostul ministru estimează că o contestație ar putea fi soluționată în câteva zile."
   },
   {
     "group_id": "group_cc7601652f",
@@ -2738,6 +3038,26 @@
     "title_ro": "Erkélybeépítés engedély nélkül? Idéntől megduplázódik a lakás adója és bírság is jöhet",
     "lead_ro": "A bejelentés nélküli munkálatokért 5000-től 50 000 lejig, míg az engedély nélküli szerkezeti módosításokért akár 50 000-től 1 000 000 lejig terjedő óriási bírságot is kiszabhatnak....",
     "content_ro": "A bejelentés nélküli munkálatokért 5000-től 50 000 lejig, míg az engedély nélküli szerkezeti módosításokért akár 50 000-től 1 000 000 lejig terjedő óriási bírságot is kiszabhatnak."
+  },
+  {
+    "group_id": "group_7d1db6b898",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/nicusor-dan-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan, după modificarea legislației din Ucraina: Vom lucra pentru ca elevii români să învețe în limba maternă și la liceu",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-dupa-modificarea-legislatiei-din-ucraina-vom-lucra-pentru-ca-elevii-romani-sa-invete-in-limba-materna-si-la-liceu-23824638"
+      }
+    ],
+    "published_at": 1791894500,
+    "title_hu": "Nicușor Dan, după modificarea legislației din Ucraina: Vom lucra pentru ca elevii români să învețe în limba maternă și la liceu",
+    "lead_hu": "Președintele Nicușor Dan a salutat marți promulgarea de către omologul său ucrainean, Volodimir Zelenski, a modificărilor legislative referitoare la educația în limbile minorităților naționale....",
+    "content_hu": "Președintele Nicușor Dan a salutat marți promulgarea de către omologul său ucrainean, Volodimir Zelenski, a modificărilor legislative referitoare la educația în limbile minorităților naționale.",
+    "title_ro": "Nicușor Dan, după modificarea legislației din Ucraina: Vom lucra pentru ca elevii români să învețe în limba maternă și la liceu",
+    "lead_ro": "Președintele Nicușor Dan a salutat marți promulgarea de către omologul său ucrainean, Volodimir Zelenski, a modificărilor legislative referitoare la educația în limbile minorităților naționale....",
+    "content_ro": "Președintele Nicușor Dan a salutat marți promulgarea de către omologul său ucrainean, Volodimir Zelenski, a modificărilor legislative referitoare la educația în limbile minorităților naționale."
   },
   {
     "group_id": "group_c7ce1efd01",
@@ -2818,6 +3138,26 @@
     "title_ro": "Florin Piersic, apariție specială la MasterChef. Cum arată marele actor la 90 de ani",
     "lead_ro": "O ediție cu totul specială a MasterChef România va fi difuzată marți, de la ora 20:30, la Pro TV, avându-l în prim-plan pe Florin Piersic (90 de ani), unul dintre cei mai apreciați actori ai României....",
     "content_ro": "O ediție cu totul specială a MasterChef România va fi difuzată marți, de la ora 20:30, la Pro TV, avându-l în prim-plan pe Florin Piersic (90 de ani), unul dintre cei mai apreciați actori ai României. Filmările pentru această probă de excepție au avut loc în Rimetea, la poalele Munților Apuseni, în apropiere de Cluj, […]"
+  },
+  {
+    "group_id": "group_de98004772",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/salvamont-arges4-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Două refugii montane vor fi instalate în Argeș, în Munții Făgăraș și pe Vârful Bătrâna | Turiștii vor avea acces pe bază de cod",
+        "link": "https://www.mediafax.ro/social/doua-refugii-montane-vor-fi-instalate-in-arges-in-muntii-fagaras-si-pe-varful-batrana-turistii-vor-avea-acces-pe-baza-de-cod-23824629"
+      }
+    ],
+    "published_at": 1791894117,
+    "title_hu": "Două refugii montane vor fi instalate în Argeș, în Munții Făgăraș și pe Vârful Bătrâna | Turiștii vor avea acces pe bază de cod",
+    "lead_hu": "Salvamont Argeș a primit două refugii montane care vor fi amplasate în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna....",
+    "content_hu": "Salvamont Argeș a primit două refugii montane care vor fi amplasate în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna.",
+    "title_ro": "Două refugii montane vor fi instalate în Argeș, în Munții Făgăraș și pe Vârful Bătrâna | Turiștii vor avea acces pe bază de cod",
+    "lead_ro": "Salvamont Argeș a primit două refugii montane care vor fi amplasate în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna....",
+    "content_ro": "Salvamont Argeș a primit două refugii montane care vor fi amplasate în Munții Făgăraș, la Lacul Galbena, și în Masivul Iezer, pe Vârful Bătrâna."
   },
   {
     "group_id": "group_14136edd9b",
@@ -2920,6 +3260,26 @@
     "content_ro": ""
   },
   {
+    "group_id": "group_f82dee1bf2",
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8040723-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Reacția lui George Simion după ce Călin Georgescu a scăpat de arestul preventiv: O mică victorie a românilor",
+        "link": "https://www.mediafax.ro/stirile-zilei/reactia-lui-george-simion-dupa-ce-calin-georgescu-a-scapat-de-arestul-preventiv-o-mica-victorie-a-romanilor-23824628"
+      }
+    ],
+    "published_at": 1791893715,
+    "title_hu": "Reacția lui George Simion după ce Călin Georgescu a scăpat de arestul preventiv: O mică victorie a românilor",
+    "lead_hu": "George Simion a reacționat pe Facebook după ce Tribunalul București a decis ca fostul candidat la alegerile prezidențiale Călin Georgescu să scape de arestul preventiv. Liderul AUR a spus că decizia i...",
+    "content_hu": "George Simion a reacționat pe Facebook după ce Tribunalul București a decis ca fostul candidat la alegerile prezidențiale Călin Georgescu să scape de arestul preventiv. Liderul AUR a spus că decizia instanței este rezultatul protestelor de la Arestul Central, numind-o „o mică victorie a românilor”.",
+    "title_ro": "Reacția lui George Simion după ce Călin Georgescu a scăpat de arestul preventiv: O mică victorie a românilor",
+    "lead_ro": "George Simion a reacționat pe Facebook după ce Tribunalul București a decis ca fostul candidat la alegerile prezidențiale Călin Georgescu să scape de arestul preventiv. Liderul AUR a spus că decizia i...",
+    "content_ro": "George Simion a reacționat pe Facebook după ce Tribunalul București a decis ca fostul candidat la alegerile prezidențiale Călin Georgescu să scape de arestul preventiv. Liderul AUR a spus că decizia instanței este rezultatul protestelor de la Arestul Central, numind-o „o mică victorie a românilor”."
+  },
+  {
     "group_id": "group_b5ff449b54",
     "category": "Kultúra",
     "image": "https://maszol.ro/resized/2026_oktober/13/cikk_IMG_6799.jpg",
@@ -2938,6 +3298,26 @@
     "title_ro": "Tanterembe költözik a színház: az iskolai zaklatásról mutat be előadást a gyergyói Figura",
     "lead_ro": "Eve Ainsworth, kortárs ifjúsági szerző darabját Orbók Áron rendezésében mutatja be október 17-én a társulat – tájékoztat közleményében a stúdiószínház....",
     "content_ro": "Eve Ainsworth, kortárs ifjúsági szerző darabját Orbók Áron rendezésében mutatja be október 17-én a társulat – tájékoztat közleményében a stúdiószínház."
+  },
+  {
+    "group_id": "group_7828f76de9",
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/ilie-bolojan-mediafax_foto-alexandru_nechez-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "PNL deschide calea unui Guvern Niculescu susținut din opoziție. Bolojan pune cinci condiții și promite că nu-l va demite șase luni",
+        "link": "https://www.mediafax.ro/politic/pnl-deschide-calea-unui-guvern-niculescu-sustinut-din-opozitie-bolojan-pune-cinci-conditii-si-promite-ca-nu-l-va-demite-sase-luni-23824624"
+      }
+    ],
+    "published_at": 1791893693,
+    "title_hu": "PNL deschide calea unui Guvern Niculescu susținut din opoziție. Bolojan pune cinci condiții și promite că nu-l va demite șase luni",
+    "lead_hu": "Partidul Național Liberal ia în calcul semnarea unui acord politic bilateral cu premierul desemnat Luca Niculescu, prin care liberalii ar putea asigura sprijin pentru o serie de măsuri ale viitorului ...",
+    "content_hu": "Partidul Național Liberal ia în calcul semnarea unui acord politic bilateral cu premierul desemnat Luca Niculescu, prin care liberalii ar putea asigura sprijin pentru o serie de măsuri ale viitorului Executiv, fără să intre la guvernare.",
+    "title_ro": "PNL deschide calea unui Guvern Niculescu susținut din opoziție. Bolojan pune cinci condiții și promite că nu-l va demite șase luni",
+    "lead_ro": "Partidul Național Liberal ia în calcul semnarea unui acord politic bilateral cu premierul desemnat Luca Niculescu, prin care liberalii ar putea asigura sprijin pentru o serie de măsuri ale viitorului ...",
+    "content_ro": "Partidul Național Liberal ia în calcul semnarea unui acord politic bilateral cu premierul desemnat Luca Niculescu, prin care liberalii ar putea asigura sprijin pentru o serie de măsuri ale viitorului Executiv, fără să intre la guvernare."
   },
   {
     "group_id": "group_fbdf0c2ef8",
@@ -3098,6 +3478,26 @@
     "title_ro": "Alertă în Germania: Aeroportul din Nürnberg, închis / Avioane Eurofighter au escortat un avion de pasageri aflat în „urgență aeriană”",
     "lead_ro": "Aeroportul din Nürnberg, al doilea cel mai mare din Bavaria ca volum de trafic, a suspendat toate operațiunile de zbor marți, în urma unei alerte de securitate declanșate în spațiul aerian german. Avi...",
     "content_ro": "Aeroportul din Nürnberg, al doilea cel mai mare din Bavaria ca volum de trafic, a suspendat toate operațiunile de zbor marți, în urma unei alerte de securitate declanșate în spațiul aerian german. Avioane de vânătoare Eurofighter au fost mobilizate pentru a escorta aeronava care se îndrepta din Corfu, Grecia către Germania, din cauza unei „situații …"
+  },
+  {
+    "group_id": "group_90c48e0325",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/cetatuie-3-1024x575.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cetățuia Brașovului ar putea fi redeschisă parțial după lucrările de conservare",
+        "link": "https://www.mediafax.ro/cultura-media/cetatuia-brasovului-ar-putea-fi-redeschisa-partial-dupa-lucrarile-de-conservare-23824613"
+      }
+    ],
+    "published_at": 1791893030,
+    "title_hu": "Cetățuia Brașovului ar putea fi redeschisă parțial după lucrările de conservare",
+    "lead_hu": "Cetățuia de pe Dealul Straja din Brașov ar putea fi redeschisă parțial pentru vizitatori după finalizarea lucrărilor de conservare aflate în desfășurare. Intervențiile urmăresc să oprească degradarea ...",
+    "content_hu": "Cetățuia de pe Dealul Straja din Brașov ar putea fi redeschisă parțial pentru vizitatori după finalizarea lucrărilor de conservare aflate în desfășurare. Intervențiile urmăresc să oprească degradarea zidăriei istorice, prin îndepărtarea tencuielilor din ciment, eliminarea vegetației de pe ziduri și repararea acoperișurilor, a anunțat marți Primăria Brașov.",
+    "title_ro": "Cetățuia Brașovului ar putea fi redeschisă parțial după lucrările de conservare",
+    "lead_ro": "Cetățuia de pe Dealul Straja din Brașov ar putea fi redeschisă parțial pentru vizitatori după finalizarea lucrărilor de conservare aflate în desfășurare. Intervențiile urmăresc să oprească degradarea ...",
+    "content_ro": "Cetățuia de pe Dealul Straja din Brașov ar putea fi redeschisă parțial pentru vizitatori după finalizarea lucrărilor de conservare aflate în desfășurare. Intervențiile urmăresc să oprească degradarea zidăriei istorice, prin îndepărtarea tencuielilor din ciment, eliminarea vegetației de pe ziduri și repararea acoperișurilor, a anunțat marți Primăria Brașov."
   },
   {
     "group_id": "group_1be281675e",
@@ -3400,6 +3800,26 @@
     "content_ro": "Un tribunal rus a amendat o femeie cu 15.000 de ruble (179 de dolari) pentru că a folosit inteligenţa artificială (IA) pentru a genera o fotografie cu un urs cu care i-a speriat pe locuitorii din oraşul ei."
   },
   {
+    "group_id": "group_dc1fadc82a",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/calin-georgescu-1024x576.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Călin Georgescu scapă de arestul preventiv, dar nu pleacă astăzi acasă. Procurorii au 48 de ore să conteste decizia Tribunalului București",
+        "link": "https://www.mediafax.ro/justitie/calin-georgescu-scapa-de-arestul-preventiv-dar-nu-pleaca-astazi-acasa-procurorii-au-48-de-ore-sa-conteste-decizia-23824607"
+      }
+    ],
+    "published_at": 1791892303,
+    "title_hu": "Călin Georgescu scapă de arestul preventiv, dar nu pleacă astăzi acasă. Procurorii au 48 de ore să conteste decizia Tribunalului București",
+    "lead_hu": "Călin Georgescu scapă de arestul preventiv, însă nu va fi eliberat marți, 13 octombrie. Tribunalul București a decis înlocuirea măsurii cu arestul la domiciliu pentru 30 de zile, dar hotărârea va prod...",
+    "content_hu": "Călin Georgescu scapă de arestul preventiv, însă nu va fi eliberat marți, 13 octombrie. Tribunalul București a decis înlocuirea măsurii cu arestul la domiciliu pentru 30 de zile, dar hotărârea va produce efecte doar după ce rămâne definitivă. Procurorii DIICOT au la dispoziție 48 de ore pentru a formula contestație. Decizia a fost luată de judecătorul Vlad Andriescu, același magistrat care, pe 22 septembrie, a respins prima solicitare de arestare a fostului candidat la alegerile prezidențiale.",
+    "title_ro": "Călin Georgescu scapă de arestul preventiv, dar nu pleacă astăzi acasă. Procurorii au 48 de ore să conteste decizia Tribunalului București",
+    "lead_ro": "Călin Georgescu scapă de arestul preventiv, însă nu va fi eliberat marți, 13 octombrie. Tribunalul București a decis înlocuirea măsurii cu arestul la domiciliu pentru 30 de zile, dar hotărârea va prod...",
+    "content_ro": "Călin Georgescu scapă de arestul preventiv, însă nu va fi eliberat marți, 13 octombrie. Tribunalul București a decis înlocuirea măsurii cu arestul la domiciliu pentru 30 de zile, dar hotărârea va produce efecte doar după ce rămâne definitivă. Procurorii DIICOT au la dispoziție 48 de ore pentru a formula contestație. Decizia a fost luată de judecătorul Vlad Andriescu, același magistrat care, pe 22 septembrie, a respins prima solicitare de arestare a fostului candidat la alegerile prezidențiale."
+  },
+  {
     "group_id": "group_11d6b9022d",
     "category": "Sport",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -3521,26 +3941,6 @@
   },
   {
     "group_id": "group_bc62bea267",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/13/114543/shutterstock-2731104635.jpg?fm=jpg&q=80&fit=crop&crop=4152%2C2768%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "România primește gratuit un avion militar C-130H Hercules. Câte astfel de aeronave avem în dotare și cine ni le-a oferit",
-        "link": "https://stirileprotv.ro/stiri/social/romania-primeste-gratuit-un-avion-militar-c-130h-hercules-cate-astfel-de-aeronave-avem-in-dotare-si-cine-ni-le-a-oferit.html"
-      }
-    ],
-    "published_at": 1791892071,
-    "title_hu": "România primește gratuit un avion militar C-130H Hercules. Câte astfel de aeronave avem în dotare și cine ni le-a oferit",
-    "lead_hu": "Forţele Aeriene Române vor primi gratuit de la Guvernul Statelor Unite ale Americii o aeronavă C-130H Hercules. Ceremonia de predare-primire va avea loc miercuri, în Baza 90 Otopeni....",
-    "content_hu": "Forţele Aeriene Române vor primi gratuit de la Guvernul Statelor Unite ale Americii o aeronavă C-130H Hercules. Ceremonia de predare-primire va avea loc miercuri, în Baza 90 Otopeni.",
-    "title_ro": "România primește gratuit un avion militar C-130H Hercules. Câte astfel de aeronave avem în dotare și cine ni le-a oferit",
-    "lead_ro": "Forţele Aeriene Române vor primi gratuit de la Guvernul Statelor Unite ale Americii o aeronavă C-130H Hercules. Ceremonia de predare-primire va avea loc miercuri, în Baza 90 Otopeni....",
-    "content_ro": "Forţele Aeriene Române vor primi gratuit de la Guvernul Statelor Unite ale Americii o aeronavă C-130H Hercules. Ceremonia de predare-primire va avea loc miercuri, în Baza 90 Otopeni."
-  },
-  {
-    "group_id": "group_107da08a93",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/13/114543/shutterstock-2731104635.jpg?fm=jpg&q=80&fit=crop&crop=4152%2C2768%2C0%2C0&w=1280",
     "is_synthesized": false,
@@ -3720,6 +4120,26 @@
     "content_ro": "Egy ember meghalt az Európai Parlament brüsszeli épülete előtt történt lövöldözésben kedden, Brüsszelben pedig egy másik helyszínen egy intézkedő rendőrt is fejbe lőttek, ő sem élte túl a támadást. A belga hatóságok szerint a két eset között egyelőre nem állapítottak meg összefüggést. Az MTI beszámolója szerint az EP közelében történt lövöldözésnek is halálos áldozata van, […]"
   },
   {
+    "group_id": "group_107da08a93",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/160617-f-qn515-024-1024x681.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Romania adds new Hercules aircraft to military fleet, received free of charge from the US",
+        "link": "https://www.mediafax.ro/english/romania-adds-new-hercules-aircraft-to-military-fleet-received-free-of-charge-from-the-us-23824601"
+      }
+    ],
+    "published_at": 1791891501,
+    "title_hu": "Romania adds new Hercules aircraft to military fleet, received free of charge from the US",
+    "lead_hu": "Romania is set to receive a C-130H Hercules transport aircraft from the United States on Wednesday, free of charge through the Excess Defense Articles program....",
+    "content_hu": "Romania is set to receive a C-130H Hercules transport aircraft from the United States on Wednesday, free of charge through the Excess Defense Articles program.",
+    "title_ro": "Romania adds new Hercules aircraft to military fleet, received free of charge from the US",
+    "lead_ro": "Romania is set to receive a C-130H Hercules transport aircraft from the United States on Wednesday, free of charge through the Excess Defense Articles program....",
+    "content_ro": "Romania is set to receive a C-130H Hercules transport aircraft from the United States on Wednesday, free of charge through the Excess Defense Articles program."
+  },
+  {
     "group_id": "group_d533a64831",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/ccbd840e-f671-4387-92e4-e792463f7524.jpg?width=290&height=208",
@@ -3820,7 +4240,47 @@
     "content_ro": "Un zbor al companiei British Airways a fost nevoit să se întoarcă de urgență după ce echipajul a declarat o situație de urgență în aer, în urma unor informații privind fisurarea unui geam al aeronavei."
   },
   {
+    "group_id": "group_e1d1f13b71",
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8162845-mediafax_foto-alexandru_nechez-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Why the Prime Minister-designate did not negotiate with AUR: Luca Niculescu’s explanation",
+        "link": "https://www.mediafax.ro/english/why-the-prime-minister-designate-did-not-negotiate-with-aur-luca-niculescus-explanation-23824598"
+      }
+    ],
+    "published_at": 1791891219,
+    "title_hu": "Why the Prime Minister-designate did not negotiate with AUR: Luca Niculescu’s explanation",
+    "lead_hu": "Prime Minister-designate Luca Niculescu excluded AUR from government-formation negotiations because the party had not expressed willingness to support an executive....",
+    "content_hu": "Prime Minister-designate Luca Niculescu excluded AUR from government-formation negotiations because the party had not expressed willingness to support an executive.",
+    "title_ro": "Why the Prime Minister-designate did not negotiate with AUR: Luca Niculescu’s explanation",
+    "lead_ro": "Prime Minister-designate Luca Niculescu excluded AUR from government-formation negotiations because the party had not expressed willingness to support an executive....",
+    "content_ro": "Prime Minister-designate Luca Niculescu excluded AUR from government-formation negotiations because the party had not expressed willingness to support an executive."
+  },
+  {
     "group_id": "group_f0515123d1",
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/pexels-efrem-efre-2786187-16138880-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Blocajul politic din Suedia se prelungește. Social-democrații au eșuat din nou să formeze un guvern",
+        "link": "https://www.mediafax.ro/stirile-zilei/blocajul-politic-din-suedia-se-prelungeste-social-democratii-au-esuat-din-nou-sa-formeze-un-guvern-23824596"
+      }
+    ],
+    "published_at": 1791891193,
+    "title_hu": "Blocajul politic din Suedia se prelungește. Social-democrații au eșuat din nou să formeze un guvern",
+    "lead_hu": "Lidera social-democraților suedezi, Magdalena Andersson, a anunțat marți că nu a reușit să ajungă la un acord pentru formarea unei majorități de guvernare alături de celelalte partide din blocul de st...",
+    "content_hu": "Lidera social-democraților suedezi, Magdalena Andersson, a anunțat marți că nu a reușit să ajungă la un acord pentru formarea unei majorități de guvernare alături de celelalte partide din blocul de stânga. Cu toate aceste, președintele Parlamentului a declarat că joi va avea loc un vot de învestitura în ciuda lipsei unui acord.",
+    "title_ro": "Blocajul politic din Suedia se prelungește. Social-democrații au eșuat din nou să formeze un guvern",
+    "lead_ro": "Lidera social-democraților suedezi, Magdalena Andersson, a anunțat marți că nu a reușit să ajungă la un acord pentru formarea unei majorități de guvernare alături de celelalte partide din blocul de st...",
+    "content_ro": "Lidera social-democraților suedezi, Magdalena Andersson, a anunțat marți că nu a reușit să ajungă la un acord pentru formarea unei majorități de guvernare alături de celelalte partide din blocul de stânga. Cu toate aceste, președintele Parlamentului a declarat că joi va avea loc un vot de învestitura în ciuda lipsei unui acord."
+  },
+  {
+    "group_id": "group_a1a2559cb8",
     "category": "Politika",
     "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/pexels-efrem-efre-2786187-16138880-1024x683.jpg",
     "is_synthesized": false,
@@ -3898,6 +4358,26 @@
     "title_ro": "Campanie de căutare a victimelor Securității / Rămășițele deținuților politici din Dobrogea, căutate pe Dealul Ciura de lângă Lugoj",
     "lead_ro": "A patra campanie de căutare a victimelor executate de Securitate în martie 1950 s-a încheiat fără identificarea mormintelor comune din pădurea de pe Dealul Ciura, în apropiere de Lugoj. Cercetătorii c...",
     "content_ro": "A patra campanie de căutare a victimelor executate de Securitate în martie 1950 s-a încheiat fără identificarea mormintelor comune din pădurea de pe Dealul Ciura, în apropiere de Lugoj. Cercetătorii continuă demersurile pentru localizarea rămășițelor celor uciși, relatează Agenția de presă Rador, care citează Radio Reșița. De asemenea, aceştia fac apel la localnici să ofere […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_93c30ac87d",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/8147588-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Ministry of Health needs 800 million lei. Cseke Attila: No more time to wait",
+        "link": "https://www.mediafax.ro/english/ministry-of-health-needs-800-million-lei-cseke-attila-no-more-time-to-wait-23824595"
+      }
+    ],
+    "published_at": 1791891078,
+    "title_hu": "Ministry of Health needs 800 million lei. Cseke Attila: No more time to wait",
+    "lead_hu": "Interim Health Minister Cseke Attila warned that emergency departments and ambulance services could face operational disruptions without additional funding, saying Romania urgently needs a budget revi...",
+    "content_hu": "Interim Health Minister Cseke Attila warned that emergency departments and ambulance services could face operational disruptions without additional funding, saying Romania urgently needs a budget revision.",
+    "title_ro": "Ministry of Health needs 800 million lei. Cseke Attila: No more time to wait",
+    "lead_ro": "Interim Health Minister Cseke Attila warned that emergency departments and ambulance services could face operational disruptions without additional funding, saying Romania urgently needs a budget revi...",
+    "content_ro": "Interim Health Minister Cseke Attila warned that emergency departments and ambulance services could face operational disruptions without additional funding, saying Romania urgently needs a budget revision."
   },
   {
     "group_id": "group_d8bc3ce71f",
@@ -5321,26 +5801,6 @@
   },
   {
     "group_id": "group_e80479dc28",
-    "category": "Politika",
-    "image": "https://stirileprotv.ro/img/2026/10/12/110834/instant-luca-niculescu-usr-004inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=5736%2C3824%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Răspunsul premierului desemnat, Luca Niculescu, întrebat dacă va negocia cu partidul AUR pentru susținerea Guvernului său",
-        "link": "https://stirileprotv.ro/stiri/politic/ce-a-raspuns-luca-niculescu-intrebat-daca-va-negocia-cu-partidul-aur-pentru-sustinerea-guvernului-sau.html"
-      }
-    ],
-    "published_at": 1791886559,
-    "title_hu": "Răspunsul premierului desemnat, Luca Niculescu, întrebat dacă va negocia cu partidul AUR pentru susținerea Guvernului său",
-    "lead_hu": "Premierul desemnat, Luca Niculescu, a continuat, marți, 13 octombrie, seria consultărilor politice pentru formarea viitorului Guvern, întâlnindu-se la Palatul Parlamentului cu reprezentanții parlament...",
-    "content_hu": "Premierul desemnat, Luca Niculescu, a continuat, marți, 13 octombrie, seria consultărilor politice pentru formarea viitorului Guvern, întâlnindu-se la Palatul Parlamentului cu reprezentanții parlamentarilor neafiliați.",
-    "title_ro": "Răspunsul premierului desemnat, Luca Niculescu, întrebat dacă va negocia cu partidul AUR pentru susținerea Guvernului său",
-    "lead_ro": "Premierul desemnat, Luca Niculescu, a continuat, marți, 13 octombrie, seria consultărilor politice pentru formarea viitorului Guvern, întâlnindu-se la Palatul Parlamentului cu reprezentanții parlament...",
-    "content_ro": "Premierul desemnat, Luca Niculescu, a continuat, marți, 13 octombrie, seria consultărilor politice pentru formarea viitorului Guvern, întâlnindu-se la Palatul Parlamentului cu reprezentanții parlamentarilor neafiliați."
-  },
-  {
-    "group_id": "group_e1d1f13b71",
     "category": "Politika",
     "image": "https://stirileprotv.ro/img/2026/10/12/110834/instant-luca-niculescu-usr-004inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=5736%2C3824%2C0%2C0&w=1280",
     "is_synthesized": false,
@@ -11133,26 +11593,6 @@
     "content_ro": "Prim-ministrul polonez Donald Tusk a acuzat luni fostul guvern al țării că a permis Israelului accesul la datele colectate cu ajutorul programului spion Pegasus pentru a-i viza pe politicienii din opoziție și pe critici, în urma unei anchete parlamentare de doi ani privind sistemul de supraveghere dezvoltat de firma israeliană NSO Group, scrie Haaretz."
   },
   {
-    "group_id": "group_ec13e09776",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/08/20/102215/vlcsnap-2026-08-20-13h22m09s969.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Rusia susține că Europa a cumpărat energie de 320 de miliarde de dolari din 2022. Moscova acuză UE de ipocrizie",
-        "link": "https://stirileprotv.ro/stiri/international/rusia-sustine-ca-europa-a-cumparat-energie-de-320-de-miliarde-de-dolari-din-2022-moscova-acuza-ue-de-ipocrizie.html"
-      }
-    ],
-    "published_at": 1791872287,
-    "title_hu": "Rusia susține că Europa a cumpărat energie de 320 de miliarde de dolari din 2022. Moscova acuză UE de ipocrizie",
-    "lead_hu": "Rusia a declarat luni că a vândut ţărilor europene hidrocarburi în valoare de peste 320 de miliarde de dolari începând din 2022, în ciuda sancţiunilor adoptate împotriva sa din cauza conflictului din ...",
-    "content_hu": "Rusia a declarat luni că a vândut ţărilor europene hidrocarburi în valoare de peste 320 de miliarde de dolari începând din 2022, în ciuda sancţiunilor adoptate împotriva sa din cauza conflictului din Ucraina.",
-    "title_ro": "Rusia susține că Europa a cumpărat energie de 320 de miliarde de dolari din 2022. Moscova acuză UE de ipocrizie",
-    "lead_ro": "Rusia a declarat luni că a vândut ţărilor europene hidrocarburi în valoare de peste 320 de miliarde de dolari începând din 2022, în ciuda sancţiunilor adoptate împotriva sa din cauza conflictului din ...",
-    "content_ro": "Rusia a declarat luni că a vândut ţărilor europene hidrocarburi în valoare de peste 320 de miliarde de dolari începând din 2022, în ciuda sancţiunilor adoptate împotriva sa din cauza conflictului din Ucraina."
-  },
-  {
     "group_id": "group_e72c4f60d5",
     "category": "Erdély",
     "image": "https://www.presasm.ro/uploads/2026/03/micro-15-incendiu-seara-noaptea-bloc--3-.jpg",
@@ -13377,46 +13817,5 @@
     "title_ro": "Petrotel Ploiești, în jocul unei tranzacții de 20 de miliarde de dolari. Cine vrea să cumpere activele internaționale ale Lukoil",
     "lead_ro": "Un pachet de active petroliere evaluat la aproximativ 20 de miliarde de dolari ar putea ajunge sub controlul unui consorțiu de investitori susținut de administrația americană. Printre activele vizate ...",
     "content_ro": "Un pachet de active petroliere evaluat la aproximativ 20 de miliarde de dolari ar putea ajunge sub controlul unui consorțiu de investitori susținut de administrația americană. Printre activele vizate se află trei rafinării europene, inclusiv Petrotel din Ploiești, dar și zăcăminte de petrol și gaze."
-  },
-  {
-    "group_id": "group_d4d06b8e0b",
-    "category": "Általános",
-    "image": "https://assets.telex.hu/images/20261012/1791791611-temp-s5ekjuhpov7k8aanmfa_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Hiába termelnek olcsón áramot a víz- és atomerőművek, a romániai fogyasztók mégis drágán jutnak hozzá",
-        "link": "https://transtelex.ro/penzcsinalok/2026/10/12/energia-romania-olcso-termeles-draga-szamla"
-      },
-      {
-        "source": "Digi24",
-        "title": "De ce plătesc românii energie scumpă, deși hidrocentralele și reactoarele nucleare o produc la costuri reduse",
-        "link": "https://www.digi24.ro/stiri/economie/energie/de-ce-platesc-romanii-energie-scumpa-desi-hidrocentralele-si-reactoarele-nucleare-o-produc-la-costuri-reduse-3987571"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "România va avea unul dintre cele mai mari sisteme de stocare a energiei din Europa de Est. Investiție de 46 milioane de euro",
-        "link": "https://stirileprotv.ro/stiri/actualitate/romania-va-avea-una-dintre-cele-mai-mari-baterii-de-stocare-a-energiei-din-europa-de-est-investitie-de-46-milioane-de-euro.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "De ce plătesc românii energie scumpă, deși avem hidrocentrale și reactoare nucleare. Explicațiile președintelui AEI",
-        "link": "https://stirileprotv.ro/stiri/actualitate/de-ce-platesc-romanii-energie-scumpa-desi-avem-hidrocentrale-si-reactoare-nucleare-explicatiile-presedintelui-aei.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "România produce energie ieftină, dar consumatorii plătesc scump. Explicația unui expert",
-        "link": "https://adevarul.ro/economie/romania-produce-energie-ieftina-dar-consumatorii-2563391.html"
-      }
-    ],
-    "published_at": 1791857005,
-    "title_hu": "Chisăliță: az olcsó román áram előnye nem jut el automatikusan a fogyasztókhoz",
-    "lead_hu": "Dumitru Chisăliță, az Intelligens Energia Egyesület elnöke szerint a román víz- és atomerőművek alacsonyabb termelési költsége nem jelenik meg automatikusan a fogyasztói számlákban. A határköltség-alapú árképzésben a kereslet fedezéséhez még szükséges legdrágább ajánlat az olcsóbb források áramának árát is felhajthatja, de a nagykereskedelmi ár nem épül át szükségszerűen és teljes egészében minden számlába. Scornicești-en elkészült egy 127 MW teljesítményű, 254 MWh kapacitású akkumulátoros tároló telepítése; hálózati csatlakozását 2026 végére vagy 2027 elejére tervezik.",
-    "content_hu": "• **A 2000-ben megkezdett átszervezés** különálló vállalatokba szervezte az egyes termelési formákat. Chisăliță szerint a víz-, atom- és hőerőművi cégek így saját bevételeikre, nyereségükre és beruházásaikra összpontosítanak, miközben háttérbe szorulhat az egész energiarendszer összehangolt működtetése.\n\n• **Az integrált rendszer előnye** az lehetett, hogy az eltérő szerepű erőművek kiegészítették egymást: egyesek folyamatosan termeltek, mások gyorsan reagáltak a fogyasztás változására, illetve akkor biztosítottak energiát, amikor a többi forrás nem volt elegendő. A költségeket és az értékesítési szerződéseket a teljes termelési portfólió költségei és kockázatai alapján lehetett kezelni.\n\n• **A határköltség-alapú árképzésben** az adott időszak keresletének fedezéséhez még szükséges, legdrágább elfogadott ajánlat határozza meg a piaci árat. Ha a fogyasztás kiszolgálásához gázerőműre is szükség van, az általa meghatározott magasabb ár a víz-, atom- és naperőművek által értékesített áramra is kiterjedhet, noha ezek termelési költsége alacsonyabb.\n\n• **Egy szemléltető példa szerint** 100 MWh keresletet 40 MWh naperőművi energia 60 euró/MWh-s, 40 MWh vízenergia 115 euró/MWh-s, valamint 20 MWh gázerőművi energia 180 euró/MWh-s ajánlata fedezhet. Egységes határár esetén a 180 euró/MWh-s ajánlat szabhatja meg mind a 100 MWh elszámolóárát: ez 18 ezer euró, szemben az ajánlatok 10 600 eurós összköltségével. A példa a mechanizmust szemlélteti, a különbség nem tekinthető automatikusan a termelők nettó profitjának.\n\n• **Chisăliță bírálata szerint** az olcsón termelő vállalatok részesülhetnek a magas piaci árból, de ez nem jelent automatikus megtakarítást a fogyasztóknak. A termelési költség és az eladási ár közötti különbség a vállalatok bevételévé válhat anélkül, hogy az a gazdaság vagy a fogyasztók előnyére fordulna.\n\n• **A piaci ár és a fogyasztói számla kapcsolata összetett:** a nagykereskedelmi ár csak az egyik számlaelem, amelyhez többek között hálózati díjak és adók is társulnak. A magas ár nem jelenik meg automatikusan és teljes egészében minden fogyasztó számlájában; a hatás függ a beszállítói szerződésektől, a beszerzési időpontoktól és a további költségektől.\n\n• **A határárnak gazdasági szerepe is van:** jelzi, mennyibe kerül a teljes kereslet kielégítéséhez szükséges utolsó termelőkapacitás, és jelezheti a további termelési kapacitások szükségességét. Chisăliță ugyanakkor úgy véli, hogy a rendszer nem biztosítja automatikusan, hogy az olcsó termelés előnye a fogyasztóknál jelentkezzen.\n\n• **A technológiák gazdasági feltételei eltérnek:** a vízerőműveknek például nincs a szén- és gázerőművekéhez hasonló tüzelőanyag- és kibocsátásikvóta-költségük. A beruházások, az elérhetőség és a rugalmasság is különböző, ezért Chisăliță szerint az azonos piacon való verseny nem jelenti azt, hogy a termelők összehasonlítható feltételekkel indulnak.\n\n• **A beruházások összehangolása is nehezebb lehet** a feldarabolt rendszerben: az egyes vállalatok saját üzleti stratégiájuk és pénzügyi érdekeik alapján döntenek a fejlesztésekről, így háttérbe szorulhat az országos energiarendszer egészének optimalizálása. Románia víz-, atom-, gáz-, szén-, szél- és napenergiát is használ, de Chisăliță szerint ez a sokszínűség nem biztosít automatikus előnyt a fogyasztói árakban.\n\n• **A cégek újbóli integrációja önmagában nem garantálná az olcsóbb számlákat:** az árképzést a vállalatok szervezeti felépítése önmagában nem változtatja meg, az esetleges átszervezés hatása pedig az irányítástól, a piaci szabályoktól és a fogyasztókhoz eljuttatott előnyöket biztosító megoldásoktól függene.\n\n• **A hosszú távú szerződések és a különbözeti szerződések** kiszámíthatóbbá tehetik a beszerzést vagy a termelői bevételeket; a különbözeti szerződések szabályaitól függően a magas piaci árakból származó többletbevétel egy része is visszajuthat. A hálózatok korszerűsítése, a tárolás és a rugalmas termelőkapacitások fejlesztése mérsékelheti a drága energia iránti igényt.\n\n• **Chisăliță szerint nem önmagában a piac liberalizációja a fő probléma**, hanem az, hogy a versenyt összekapcsolták a termelés szétválasztásával, miközben az árképzés a drága, marginális ajánlat szintjére emelheti az értékesítési árakat. Úgy véli, több mint két évtized után érdemes felülvizsgálni, hogy az átszervezés a fogyasztók és a román gazdaság érdekeit szolgálja-e.\n\n• **A Scornicești-en épülő akkumulátoros tároló** 127 MW teljesítményű és 254 MWh kapacitású lesz; a 46 akkumulátoregység telepítése befejeződött, emellett 23 középfeszültségű transzformátorállomást is elhelyeztek. A munkálatok 2026 tavaszán kezdődtek, a hálózatra kapcsolást 2026 végére vagy 2027 elejére tervezik.\n\n• **A 46 millió eurós finanszírozási csomagból** az Európai Újjáépítési és Fejlesztési Bank 44 millió eurót biztosított beruházás és áthidaló finanszírozás formájában, a lengyel BGK pedig 2,3 millió eurós bankgaranciát adott. Az újonnan közölt részletek szerint a garancia a regionális kereskedelmi partnerrel, a GEN-I-vel kötött hosszú távú optimalizálási szerződést támogatja. A projekt közös vállalkozásban valósul meg az Eiffel Investment Grouppal.\n\n• **Az R.Power regionális tárolóportfóliója** a vállalat közlése szerint 0,9 GW/3 GWh működő vagy építés alatt álló kapacitást foglal magában, további 0,7 GW/2,8 GWh pedig építésre kész állapotban van. A Scornicești-projekt a cég első nagy kapacitású romániai akkumulátoros tárolója, és a közép- és kelet-európai régió egyik legnagyobb ilyen létesítménye lehet.\n\n• **A tároló célja a román energiarendszer stabilizálásának támogatása:** a Transelectrica által üzemeltetett nagyfeszültségű országos hálózatra csatlakozik, és segítheti a megújuló termelés bővülését, valamint a hálózat ellenálló képességét.\n\n• **A romániai árak alakulásáról** Cristian Bușoi energiaügyi államtitkár arra figyelmeztetett, hogy 2026 telén és 2027 tavaszán jelentős drágulás következhet. A kockázatok között a cernavodăi atomerőmű reaktorainak leállását, a magas európai gázárakat és az aszály miatt csökkenő vízenergia-termelést említette.",
-    "title_ro": "Chisăliță: avantajul energiei ieftine din România nu ajunge automat la consumatori",
-    "lead_ro": "Dumitru Chisăliță, președintele Asociației Energia Inteligentă, susține că prețurile mai reduse de producție ale hidrocentralelor și reactoarelor nucleare din România nu se reflectă automat în facturile consumatorilor. În mecanismul prețului marginal, oferta cea mai scumpă necesară pentru acoperirea cererii poate ridica prețul și pentru energia produsă mai ieftin, fără ca prețul angro să se transfere automat și integral în fiecare factură. La Scornicești a fost finalizată instalarea unui sistem de stocare în baterii de 127 MW și 254 MWh, a cărui conectare la rețea este programată pentru sfârșitul anului 2026 sau începutul lui 2027.",
-    "content_ro": "• **Reorganizarea începută în 2000** a separat formele de producție în companii distincte. Potrivit lui Chisăliță, companiile hidro, nucleare și termo se concentrează astfel pe propriile venituri, profituri și investiții, în timp ce funcționarea coordonată a întregului sistem energetic poate trece în plan secund.\n\n• **Avantajul unui sistem integrat** era complementaritatea centralelor cu roluri diferite: unele produceau constant, altele răspundeau rapid variațiilor de consum, iar altele furnizau energie când celelalte surse nu erau suficiente. Costurile și contractele de vânzare puteau fi gestionate în funcție de costurile și riscurile întregului portofoliu de producție.\n\n• **În mecanismul prețului marginal**, prețul pieței este stabilit de cea mai scumpă ofertă acceptată, încă necesară pentru acoperirea cererii dintr-un anumit interval. Dacă este nevoie de o centrală pe gaze pentru a satisface consumul, prețul mai ridicat stabilit de aceasta se poate aplica și energiei vândute de hidrocentrale, centrale nucleare și parcuri fotovoltaice, deși costurile lor de producție sunt mai mici.\n\n• **Un exemplu ilustrativ** arată cum 100 MWh de cerere pot fi acoperiți de 40 MWh fotovoltaici la 60 de euro/MWh, 40 MWh hidro la 115 euro/MWh și 20 MWh produși de o centrală pe gaze la 180 de euro/MWh. Dacă se aplică un preț marginal uniform, oferta de 180 de euro/MWh poate stabili prețul de decontare pentru toți cei 100 MWh: 18.000 de euro, față de un cost total al ofertelor de 10.600 de euro. Exemplul ilustrează mecanismul, iar diferența nu reprezintă automat profitul net al producătorilor.\n\n• **Potrivit criticii lui Chisăliță**, companiile care produc energie ieftină pot beneficia de prețul ridicat al pieței, fără ca acest lucru să însemne automat economii pentru consumatori. Diferența dintre costul de producție și prețul de vânzare poate deveni venit pentru companii fără să se transforme neapărat într-un avantaj pentru economie sau consumatori.\n\n• **Legătura dintre prețul pieței și factura consumatorului este complexă:** prețul angro este doar una dintre componentele facturii, la care se adaugă, între altele, tarife de rețea și taxe. Un preț ridicat nu se transferă automat și integral în toate facturile; efectul depinde de contractele furnizorilor, de momentul achiziției și de celelalte costuri.\n\n• **Prețul marginal are și un rol economic:** indică valoarea ultimei capacități de producție necesare pentru acoperirea cererii și poate semnala nevoia unor capacități suplimentare. Chisăliță consideră însă că sistemul nu garantează automat transferarea avantajului producției ieftine către consumatori.\n\n• **Condițiile economice diferă între tehnologii:** hidrocentralele nu au costuri cu combustibilul și certificatele de emisii comparabile cu cele ale centralelor pe cărbune sau gaze. Investițiile, disponibilitatea și flexibilitatea diferă, astfel încât concurența pe aceeași piață nu înseamnă că producătorii pornesc de la condiții comparabile.\n\n• **Fragmentarea poate îngreuna coordonarea investițiilor:** companiile iau decizii de dezvoltare în funcție de propriile strategii comerciale și interese financiare, ceea ce poate pune în plan secund optimizarea întregului sistem energetic național. România produce energie din surse hidro, nucleare, gaze, cărbune, eolian și solar, dar Chisăliță afirmă că diversitatea nu garantează automat prețuri mai mici pentru consumatori.\n\n• **Reintegrarea companiilor nu ar garanta, de una singură, facturi mai mici:** structura organizațională nu schimbă automat mecanismul de formare a prețurilor, iar efectele unei reorganizări ar depinde de conducere, regulile pieței și mecanismele care ar transmite beneficiile către consumatori.\n\n• **Contractele pe termen lung și contractele pentru diferență** pot face achizițiile sau veniturile producătorilor mai previzibile; în funcție de regulile contractelor pentru diferență, o parte din veniturile suplimentare obținute când prețurile pieței sunt ridicate poate reveni sistemului. Modernizarea rețelelor, stocarea și dezvoltarea capacităților flexibile pot reduce nevoia de energie scumpă.\n\n• **Potrivit lui Chisăliță, problema principală nu este liberalizarea pieței în sine**, ci asocierea concurenței cu fragmentarea producției, în timp ce mecanismul prețului poate ridica prețurile de vânzare la nivelul ofertei marginale scumpe. El consideră că, după mai bine de două decenii, merită evaluat dacă reorganizarea servește interesul consumatorilor și al economiei românești.\n\n• **Sistemul de stocare în baterii de la Scornicești** va avea o putere de 127 MW și o capacitate de 254 MWh. Instalarea celor 46 de unități de baterii a fost finalizată, iar proiectul include și 23 de stații de transformare de medie tensiune. Lucrările au început în primăvara anului 2026, iar conectarea la rețea este programată pentru sfârșitul anului 2026 sau începutul lui 2027.\n\n• **Pachetul de finanțare de 46 de milioane de euro** include 44 de milioane de euro oferite de Banca Europeană pentru Reconstrucție și Dezvoltare sub formă de investiție și finanțare-punte, precum și o garanție bancară de 2,3 milioane de euro emisă de banca poloneză BGK. Potrivit detaliilor nou publicate, garanția susține contractul de optimizare pe termen lung încheiat cu partenerul comercial regional GEN-I. Proiectul este deținut în comun printr-un joint-venture cu Eiffel Investment Group.\n\n• **Portofoliul regional de stocare al R.Power** cuprinde, potrivit companiei, 0,9 GW/3 GWh în operare sau în construcție, la care se adaugă proiecte de 0,7 GW/2,8 GWh aflate în stadiul ready-to-build. Proiectul de la Scornicești este primul sistem BESS de mare capacitate al companiei în România și ar putea deveni una dintre cele mai mari instalații de acest tip din Europa Centrală și de Est.\n\n• **Sistemul de stocare este destinat să sprijine stabilizarea sistemului energetic românesc:** acesta va fi conectat la rețeaua națională de înaltă tensiune, operată de Transelectrica, și poate contribui la extinderea producției din surse regenerabile și la reziliența rețelei.\n\n• **În privința evoluției prețurilor din România**, secretarul de stat în Ministerul Energiei Cristian Bușoi a avertizat că sunt posibile scumpiri importante în iarna 2026 și primăvara 2027. Printre riscuri a menționat oprirea reactoarelor de la Cernavodă, prețurile ridicate ale gazelor în Europa și scăderea producției hidro din cauza secetei."
   }
 ]
