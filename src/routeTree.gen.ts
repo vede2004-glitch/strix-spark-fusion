@@ -17,7 +17,6 @@ import { Route as RolunkRouteImport } from './routes/rolunk'
 import { Route as TamogatasRouteImport } from './routes/tamogatas'
 import { Route as VisszajelzesRouteImport } from './routes/visszajelzes'
 import { Route as ApiAskRouteImport } from './routes/api/ask'
-import { Route as ApiDebugRecalRouteImport } from './routes/api/debug-recal'
 import { Route as HirIdRouteImport } from './routes/hir.$id'
 
 const IndexRoute = IndexRouteImport.update({
@@ -60,11 +59,6 @@ const ApiAskRoute = ApiAskRouteImport.update({
   path: '/api/ask',
   getParentRoute: () => rootRouteImport,
 } as any)
-const ApiDebugRecalRoute = ApiDebugRecalRouteImport.update({
-  id: '/api/debug-recal',
-  path: '/api/debug-recal',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const HirIdRoute = HirIdRouteImport.update({
   id: '/hir/$id',
   path: '/hir/$id',
@@ -80,7 +74,6 @@ export interface FileRoutesByFullPath {
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
-  '/api/debug-recal': typeof ApiDebugRecalRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRoutesByTo {
@@ -92,7 +85,6 @@ export interface FileRoutesByTo {
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
-  '/api/debug-recal': typeof ApiDebugRecalRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRoutesById {
@@ -105,7 +97,6 @@ export interface FileRoutesById {
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
-  '/api/debug-recal': typeof ApiDebugRecalRoute
   '/hir/$id': typeof HirIdRoute
 }
 export interface FileRouteTypes {
@@ -119,7 +110,6 @@ export interface FileRouteTypes {
     | '/tamogatas'
     | '/visszajelzes'
     | '/api/ask'
-    | '/api/debug-recal'
     | '/hir/$id'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -131,7 +121,6 @@ export interface FileRouteTypes {
     | '/tamogatas'
     | '/visszajelzes'
     | '/api/ask'
-    | '/api/debug-recal'
     | '/hir/$id'
   id:
     | '__root__'
@@ -143,7 +132,6 @@ export interface FileRouteTypes {
     | '/tamogatas'
     | '/visszajelzes'
     | '/api/ask'
-    | '/api/debug-recal'
     | '/hir/$id'
   fileRoutesById: FileRoutesById
 }
@@ -156,7 +144,6 @@ export interface RootRouteChildren {
   TamogatasRoute: typeof TamogatasRoute
   VisszajelzesRoute: typeof VisszajelzesRoute
   ApiAskRoute: typeof ApiAskRoute
-  ApiDebugRecalRoute: typeof ApiDebugRecalRoute
   HirIdRoute: typeof HirIdRoute
 }
 
@@ -218,13 +205,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ApiAskRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/api/debug-recal': {
-      id: '/api/debug-recal'
-      path: '/api/debug-recal'
-      fullPath: '/api/debug-recal'
-      preLoaderRoute: typeof ApiDebugRecalRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/hir/$id': {
       id: '/hir/$id'
       path: '/hir/$id'
@@ -244,7 +224,6 @@ const rootRouteChildren: RootRouteChildren = {
   TamogatasRoute: TamogatasRoute,
   VisszajelzesRoute: VisszajelzesRoute,
   ApiAskRoute: ApiAskRoute,
-  ApiDebugRecalRoute: ApiDebugRecalRoute,
   HirIdRoute: HirIdRoute,
 }
 export const routeTree = rootRouteImport
