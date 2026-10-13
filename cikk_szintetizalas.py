@@ -250,7 +250,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         return [], False
 
 # ==============================================================================
-# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT
+# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT STATISZTIKÁVAL
 # ==============================================================================
 def run_synthesis_direct():
     if not os.path.exists(MEMORY_FILE):
@@ -270,26 +270,36 @@ def run_synthesis_direct():
 
     multi_groups = []
     
-    # 🛑 12 ÓRÁS IDŐKORLÁT SZŰRŐ
+    # 🛑 STATISZTIKAI CIKLUS ÉS IDŐKORLÁT
     CURRENT_TIME = int(time.time())
     CUTOFF_TIME = CURRENT_TIME - (12 * 3600)
 
-    print(f"📊 {len(grouped_data)} témacsoport elemzése indult...")
+    stats = {
+        "total_groups": len(grouped_data),
+        "expired_groups": 0,
+        "single_source_groups": 0,
+        "skipped_fingerprint": 0,
+        "processed_by_ai": 0
+    }
+
+    print(f"📊 {stats['total_groups']} témacsoport elemzése indult...")
 
     for g_id, articles in grouped_data.items():
-        # 1. Megkeressük a csoportban lévő legfrissebb cikk időpontját
+        # 1. Legfrissebb cikk időpontja a csoportban
         latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", 0))) for a in articles])
 
-        # 🛑 HA A CSOPORT LEEGFRISSEBB CIKKE IS RÉGEBBI 12 ÓRÁNÁL: ÁTLÉPJÜK!
+        # 🛑 12 ÓRÁNÁL RÉGEBBI CSOPORTOK KIESNEK
         if latest_timestamp < CUTOFF_TIME:
+            stats["expired_groups"] += 1
             continue
 
-        # 2. Ellenőrizzük a források számát (legalább 2 különböző forrás kell)
+        # 2. Források ellenőrzése (legalább 2 független forrás kell)
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
         if len(unique_sources) < 2:
+            stats["single_source_groups"] += 1
             continue
 
-        # 3. Kiszámítjuk a cikk-összeállítás ujjlenyomatát (hash)
+        # 3. Ujjlenyomat (hash) ellenőrzése
         current_fingerprint = calculate_fingerprint(articles)
         existing_synth = existing_articles.get(g_id)
 
@@ -298,16 +308,18 @@ def run_synthesis_direct():
             if not existing_fingerprint and "sources" in existing_synth:
                 existing_fingerprint = calculate_fingerprint(existing_synth["sources"])
 
-            # 🛑 HA AZ UJJLENYOMAT UGYANAZ (akár sikeres volt, akár KISZŰRT / REJECTED):
-            # Átlépjük az AI-hívást! ($0 token költség)
+            # 🛑 ÁTLÉPJÜK, HA A HASH VÁLTOZATLAN ($0 token)
             if existing_fingerprint and current_fingerprint == existing_fingerprint:
+                stats["skipped_fingerprint"] += 1
                 continue
 
         multi_groups.append((g_id, articles, existing_synth, current_fingerprint))
 
+    stats["processed_by_ai"] = len(multi_groups)
+
     synthesized_results = []
     if multi_groups:
-        print(f"🚀 {len(multi_groups)} db új/frissült (12 órán belüli) többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
+        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
         with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(process_group_direct, g_id, articles, existing, fingerprint)
@@ -320,7 +332,7 @@ def run_synthesis_direct():
     else:
         print("💤 Nincs friss (12 órán belüli) új téma vagy frissült cikk, 0 OpenAI API hívás történt!")
 
-    # 🛑 MENTÉS ÉS DÁTUMSZŰRÉS
+    # 🛑 MENTÉS ÉS KIMENETI ADATOK TISZTÍTÁSA
     all_final_results = {}
     if os.path.exists(OUTPUT_FILE):
         try:
@@ -332,11 +344,9 @@ def run_synthesis_direct():
         except Exception as e:
             print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
 
-    # Frissítjük az állapotokat az új eredményekkel (beleértve a rejected elemeket is a belső memóriához)
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # Kiszűrjük a 12 óránál régebbi elemeket
     fresh_items = [
         item for item in all_final_results.values() 
         if item.get("published_at", 0) >= CUTOFF_TIME
@@ -357,11 +367,23 @@ def run_synthesis_direct():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
 
+    # 📊 RÉSZLETES STATISZTIKAI ÉRTÉKELÉS KIÍRÁSA A LOGBA
+    successful_ai_cards = len([x for x in synthesized_results if x.get('is_synthesized') and not x.get('rejected')])
+    rejected_ai_cards = len([x for x in synthesized_results if x.get('rejected')])
+
     print("\n" + "=" * 60)
-    print(f"✅ FOLYAMAT KÉSZ!")
-    print(f"🤖 AI által feldolgozott új kártyák: {len([x for x in synthesized_results if x.get('is_synthesized')])} db")
-    print(f"💾 Összesen {len(final_sorted_list)} friss cikk elmentve a címlapra ({OUTPUT_FILE}).")
+    print("📈 FUTÁSI ÉS KÖLTSÉGOPTIMALIZÁLÁSI STATISZTIKA")
     print("=" * 60)
+    print(f"📂 Összes vizsgált csoport a memóriában: {stats['total_groups']} db")
+    print(f"⌛ 12 óránál régebbi (lejárt) csoportok: {stats['expired_groups']} db")
+    print(f"👤 Egyforrásos csoportok (AI nem szükséges): {stats['single_source_groups']} db")
+    print(f"⏸️ Változatlan/kiszűrt csoportok (0 tokenből átugorva): {stats['skipped_fingerprint']} db")
+    print(f"🤖 AI által megvizsgált csoportok: {stats['processed_by_ai']} db")
+    print(f"   ├─ ✅ Sikeresen létrehozott/frissített cikkek: {successful_ai_cards} db")
+    print(f"   └─ 🚫 Elutasított / témaegyezés nélküli cikkek: {rejected_ai_cards} db")
+    print("-" * 60)
+    print(f"💾 Összesen {len(final_sorted_list)} friss, aktív cikk van a címlapon ({OUTPUT_FILE}).")
+    print("=" * 60 + "\n")
 
 if __name__ == "__main__":
     run_synthesis_direct()
