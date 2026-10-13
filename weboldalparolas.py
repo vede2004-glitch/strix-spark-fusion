@@ -35,20 +35,15 @@ RSS_FEEDS = {
     "Hargita Népe": "https://hargitanepe.ro/rss",
 
     "Agerpres (HU)": "https://www.agerpres.ro/magyar/rss",
-    "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
-    "Agerpres (Stiri)": "https://www.agerpres.ro/stiri-actualizate/rss",
 
     "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
-    "Székely Sport": "https://szekelysport.ro/rss",
 
     "Economedia": "https://economedia.ro/feed",
     "Ziarul Financiar": "https://www.zf.ro/rss",
 
     "Cancan.ro": "https://www.cancan.ro/feed",
-    "Click.ro": "https://click.ro/feed",
 
     "PresaSM (Szatmár)": "https://www.presasm.ro/feed/",
-    "Szatmári Friss Újság": "https://friss.ro/feed/rss2",
 
     "Go4IT": "https://www.go4it.ro/feed/",
     "Zonait.ro": "https://zonait.ro/feed/",
