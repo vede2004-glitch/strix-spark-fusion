@@ -1,7 +1,7 @@
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { synthesized, singles, timeAgo, formatDate, isRecent, isHungarianSource, tr, CATEGORIES, ALL, RECENT_HOURS, type NewsItem } from "@/lib/news";
+import { synthesized, singles, timeAgo, formatDate, isRecent, isHungarianSource, tr, CATEGORIES, ALL, type NewsItem } from "@/lib/news";
 import { useLang, setLang, LANGS } from "@/lib/lang";
 import { Search, X } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
@@ -122,9 +122,9 @@ function Index() {
         </section>
       </main>
 
-      <footer className="mt-20 border-t border-border py-10"><div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 px-4 sm:flex-row"><BrandLogo className="h-10 w-40 object-contain" /><p className="text-center text-[10px] font-bold uppercase text-muted-foreground">© 2026 Stirix.ro PROBE123 · {ro ? "Toate știrile într-un singur loc" : "Minden hír egy helyen"}</p><div className="flex gap-5 text-[10px] font-bold uppercase text-muted-foreground"><a href="#top" className="hover:text-primary">{ro ? "Surse" : "Források"}</a><a href="#top" className="hover:text-primary">{ro ? "Contact" : "Kapcsolat"}</a></div></div></footer>
+      <footer className="mt-20 border-t border-border py-10"><div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 px-4 sm:flex-row"><BrandLogo className="h-10 w-40 object-contain" /><p className="text-center text-[10px] font-bold uppercase text-muted-foreground">© 2026 Stirix.ro · {ro ? "Toate știrile într-un singur loc" : "Minden hír egy helyen"}</p><div className="flex gap-5 text-[10px] font-bold uppercase text-muted-foreground"><a href="#top" className="hover:text-primary">{ro ? "Surse" : "Források"}</a><a href="#top" className="hover:text-primary">{ro ? "Contact" : "Kapcsolat"}</a></div></div></footer>
     </div>
   );
 }
 
-// probe
+
