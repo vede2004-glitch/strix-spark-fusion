@@ -2,6 +2,7 @@ import json
 import re
 import os
 import time
+import calendar
 import hashlib
 import requests
 import feedparser
@@ -33,14 +34,13 @@ RSS_FEEDS = {
     "RomKat": "https://romkat.ro/feed/",
     "Hargita Népe": "https://hargitanepe.ro/rss",
 
-    # ✅ JAVÍTVA: Proxy mentes, közvetlen Agerpres RSS URL-ek
+    # ✅ Proxy mentes, közvetlen Agerpres RSS URL-ek
     "Agerpres (HU)": "https://www.agerpres.ro/magyar/rss",
     "Agerpres (Politica)": "https://www.agerpres.ro/politica/rss",
     "Agerpres (Stiri)": "https://www.agerpres.ro/stiri-actualizate/rss",
 
     # --- SPECIALIZÁLT SPORT (RO & HU) ---
     "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
-    # ✅ JAVÍTVA: Székely Sport közvetlen RSS
     "Székely Sport": "https://szekelysport.ro/rss",
 
     # --- SPECIALIZÁLT GAZDASÁG (RO) ---
@@ -49,12 +49,10 @@ RSS_FEEDS = {
 
     # --- SPECIALIZÁLT BULVÁR & SZTÁRVILÁG (RO) ---
     "Cancan.ro": "https://www.cancan.ro/feed",
-    # ✅ JAVÍTVA: Click.ro helyes WordPress feed
     "Click.ro": "https://click.ro/feed",
 
     # --- SPECIALIZÁLT KÉKFÉNY & HELYI HÍREK (RO) ---
     "PresaSM (Szatmár)": "https://www.presasm.ro/feed/",
-    # ✅ JAVÍTVA: Szatmári Friss Újság RSS2 feed
     "Szatmári Friss Újság": "https://friss.ro/feed/rss2",
 
     # --- SPECIALIZÁLT TECH & AUTOMOBIL (RO) ---
@@ -260,19 +258,27 @@ def cosine_similarity(v1, v2):
         return 0.0
     return float(np.dot(a, b) / (norm_a * norm_b))
 
-def extract_article_data(entry, source_name, session):
+def extract_article_data(entry, source_name, session, cutoff_12h):
     title = clean_text(entry.get('title', ''))
     link = entry.get('link', '').strip()
-    
+
+    # ✅ JAVÍTVA: UTC alapú timestamp számítás (megakadályozza a "jövőbeli" időpontokat)
+    pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
+    if pub_parsed:
+        pub_timestamp = int(calendar.timegm(pub_parsed))
+    else:
+        pub_timestamp = int(time.time())
+
+    # 🛑 12 ÓRÁS SZŰRŐ: A régebbi cikkeket azonnal figyelmen kívül hagyjuk
+    if pub_timestamp < cutoff_12h:
+        return None
+
     raw_summary = entry.get('summary', '') or entry.get('description', '')
     if 'content' in entry and entry.content and not raw_summary:
         raw_summary = entry.content[0].get('value', '')
         
     clean_summary = clean_text(raw_summary)
     image_url = extract_cover_image(entry, link, session)
-
-    pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
-    pub_timestamp = time.mktime(pub_parsed) if pub_parsed else time.time()
 
     entry_tags = []
     if 'tags' in entry and entry.tags:
@@ -293,8 +299,8 @@ def extract_article_data(entry, source_name, session):
 # ==============================================================================
 # 3. CSOPORTOSÍTÁSI & FÁJLBA MENTÉSI LOGIKA
 # ==============================================================================
-def fetch_single_feed(item):
-    source_name, feed_url = item
+def fetch_single_feed(item_and_cutoff):
+    (source_name, feed_url), cutoff_12h = item_and_cutoff
     extracted = []
     
     session = requests.Session()
@@ -306,8 +312,8 @@ def fetch_single_feed(item):
         feed = feedparser.parse(response.content)
 
         for entry in feed.entries:
-            art = extract_article_data(entry, source_name, session)
-            if art["title"]:
+            art = extract_article_data(entry, source_name, session, cutoff_12h)
+            if art and art["title"]:
                 extracted.append(art)
     except Exception as e:
         print(f"⚠️ Hiba a(z) {source_name} feed beolvasásakor: {e}")
@@ -317,12 +323,17 @@ def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{now_str}] 🔄 Hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
 
+    # 🛑 12 órás időkorlát (12 * 3600 másodperc)
+    cutoff_12h = int(time.time()) - (12 * 3600)
+
     memory = load_memory()
     memory = clean_old_memory(memory)
 
     fetched_articles = []
+    feed_items = [((src, url), cutoff_12h) for src, url in RSS_FEEDS.items()]
+    
     with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as executor:
-        results = executor.map(fetch_single_feed, RSS_FEEDS.items())
+        results = executor.map(fetch_single_feed, feed_items)
 
     for article_list in results:
         fetched_articles.extend(article_list)
