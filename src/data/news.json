@@ -1,5 +1,839 @@
 [
   {
+    "group_id": "group_dfa7806656",
+    "fingerprint": "cc42f200824f107fd331a365ca8ccbe4",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/14/190450/yara-j-getty.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Navă lovită de dronă în apele teritoriale românești. Ce a raportat echipajul către Căpitănia Sulina",
+        "link": "https://stirileprotv.ro/stiri/actualitate/nava-lovita-de-drona-in-apele-teritoriale-romanesti-ce-a-raportat-echipajul-catre-capitania-sulina.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Incident grav în Marea Neagră! O navă a fost lovită de o dronă în apele României",
+        "link": "https://www.cancan.ro/incident-grav-in-marea-neagra-o-nava-a-fost-lovita-de-o-drona-in-apele-romaniei-21530275"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Navă implicată într-un incident, în apele teritoriale române. Alertă maritimă lângă Sulina",
+        "link": "https://www.go4it.ro/diverse-2/nava-implicata-intr-un-incident-in-apele-teritoriale-romane-alerta-maritima-langa-sulina-19287886/"
+      },
+      {
+        "source": "Digi24",
+        "title": "Reacția lui Miruță după ce o navă a fost lovită în apropiere de Sulina: „Nu au ce căuta drone în spațiul aerian național”",
+        "link": "https://www.digi24.ro/stiri/actualitate/reactia-lui-miruta-dupa-ce-o-nava-a-fost-lovita-in-apropiere-de-sulina-nu-au-ce-cauta-drone-in-spatiul-aerian-national-3992919"
+      }
+    ],
+    "published_at": 1792012569,
+    "title_hu": "Drón találhatta el a Yara J teherhajót Sulina közelében, a román felségvizeken",
+    "lead_hu": "Október 14-én este tűz ütött ki a Comore-szigeteki zászló alatt közlekedő Yara J teherhajón Sulina közelében, a román felségvizeken. A legénység biztonságban van, a tüzet eloltották, de a román védelmi miniszter szerint egyelőre nem bizonyított, hogy drón találta el a hajót; az esetet vizsgálják.",
+    "content_hu": "• **2026. október 14-én este** a Yara J nevű, Comore-szigeteki zászló alatt közlekedő teherhajón tűz ütött ki Sulinától mintegy 8–10 tengeri mérföldre délkeletre, a román felségvizeken. A hajó IMO-azonosítója 9221803; ballasztosan, horgonyon állt, és a beszámolók szerint több napja várakozott a térségben.\n\n• **A legénység biztonságban van, a tüzet eloltották.** A hajó 20:23-kor rádión jelentette a tüzet; a parti őrség közlése szerint később arról tájékoztatta a MRCC-t, hogy nincs szüksége további segítségre. A SAR APOLLO mentőhajó 20:31-kor indult a helyszínre, de a tűz eloltása után visszafordult.\n\n• **A drónbecsapódás egyelőre nem bizonyított.** Radu Miruță ügyvivő védelmi miniszter szerint nincs bizonyosság arról, hogy drón találta el a hajót, és a minisztérium, illetve a parti őrség radarjai nem észleltek a hajó felé tartó drónt. A Yara J Constanța kikötője felé tart, ahol műszaki vizsgálatokkal próbálják tisztázni a történteket.\n\n• **A román felségvizeken történt incidens a beszámolók szerint az első ilyen eset.** A hatóságok vizsgálják a körülményeket; a román külügyminisztérium közölte, hogy kapcsolatban áll az illetékes intézményekkel, és a vizsgálat eredménye alapján tájékoztathatja a nemzetközi partnereket. A NATO-szerződés 4. cikkének esetleges alkalmazásáról is a körülmények tisztázása után reagál.\n\n• **Október 14-én este két légi célpont lépett be a román légtérbe.** A román védelmi minisztérium szerint az egyik radarjele a tenger felett eltűnt, a másik Ukrajna felé távozott, és Reni térségében az ukrán légvédelem megsemmisítette. A korábbi beszámolók aznap összesen három román légtérbe behatoló drónról, valamint a Tulcea megye északi részén kiadott negyedik RO-Alert-üzenetről is szóltak.\n\n• **Miruță szerint fokozni kell a diplomáciai fellépést és a szövetséges jelenlétet.** A miniszter úgy fogalmazott, hogy a Fekete-tenger területe Románia területének kétszerese, ezért irreális elvárás minden légi célpont észlelése és elfogása. Szerinte a román félnek nemzetközi szinten tiltakoznia kell, és nagyobb NATO-szövetségesi jelenlétre van szükség a térségben.\n\n• **A román és a bolgár védelmi miniszter közös NATO-levélről egyeztetett.** Miruță közlése szerint bolgár kollégája elfogadta a két ország közös fellépésére vonatkozó javaslatot, és aláírná a NATO-nak címzett levelet.\n\n• **Október 13-án két teherhajót is drón talált el a bolgár partok közelében.** A HS Dignity elsüllyedt, 11 tengerész eltűnt; Bulgária szerdán újraindította a keresést, miután a rossz idő és a sötétség miatt előző este felfüggesztették. Szófia bekérette az orosz nagykövetet; a bolgár kormány tájékoztatása szerint a nagykövet nem zárta ki, hogy harmadik fél provokációjáról van szó. Október 6-án ugyanott két másik teherhajót is dróntámadás ért.",
+    "title_ro": "Drona ar fi putut lovi nava Yara J în apropiere de Sulina, în apele teritoriale românești",
+    "lead_ro": "Miercuri seară, 14 octombrie, un incendiu a izbucnit la bordul navei comerciale Yara J, sub pavilionul Insulelor Comore, în apropiere de Sulina, în apele teritoriale românești. Echipajul este în siguranță, iar incendiul a fost stins, însă ministrul interimar al Apărării spune că nu există deocamdată certitudinea că nava a fost lovită de o dronă; incidentul este investigat.",
+    "content_ro": "• **În seara de 14 octombrie 2026**, un incendiu a izbucnit la bordul navei Yara J, sub pavilionul Insulelor Comore, la aproximativ 8–10 mile marine sud-est de Sulina, în apele teritoriale românești. Nava are numărul IMO 9221803; era în balast, ancorată și, potrivit relatărilor, aștepta de mai multe zile în zonă.\n\n• **Echipajul este în siguranță, iar incendiul a fost stins.** Nava a raportat incendiul prin radio la ora 20:23; Garda de Coastă a transmis că reprezentanții săi au informat ulterior MRCC că nu mai este nevoie de sprijin. Nava de salvare SAR APOLLO a plecat spre zonă la 20:31, dar s-a întors după stingerea incendiului.\n\n• **Lovirea navei de către o dronă nu este deocamdată confirmată.** Ministrul interimar al Apărării, Radu Miruță, a spus că nu există certitudinea că nava a fost lovită de o dronă și că radarele Ministerului Apărării și ale Gărzii de Coastă nu au observat o dronă îndreptându-se spre navă. Yara J se îndreaptă spre Portul Constanța, unde verificările tehnice vor ajuta la stabilirea circumstanțelor.\n\n• **Incidentul este prezentat în relatări drept primul de acest fel în apele teritoriale românești.** Autoritățile investighează împrejurările; Ministerul Afacerilor Externe a precizat că este în legătură cu instituțiile competente și că ar putea informa partenerii internaționali după clarificarea cazului. MAE va reacționa cu privire la eventuala invocare a Articolului 4 al Tratatului NATO după stabilirea circumstanțelor.\n\n• **Două ținte aeriene au pătruns în spațiul aerian românesc miercuri seară.** Potrivit Ministerului Apărării, contactul radar cu una dintre ele s-a pierdut deasupra mării, iar cealaltă a părăsit spațiul aerian românesc spre Ucraina și a fost distrusă de apărarea aeriană ucraineană în zona Reni. Relatările anterioare au menționat trei drone intrate în total în spațiul aerian al României în acea zi și al patrulea mesaj RO-Alert pentru nordul județului Tulcea.\n\n• **Miruță consideră necesare o reacție diplomatică și o prezență aliată mai puternică.** Ministrul a spus că Marea Neagră are o suprafață de două ori mai mare decât România, astfel că este nerealist să se aștepte ca orice țintă aeriană să fie detectată și interceptată. El a afirmat că România trebuie să protesteze la nivel internațional și că este nevoie de o prezență aliată mai mare în regiune.\n\n• **Miniștrii apărării din România și Bulgaria au discutat despre o scrisoare comună către NATO.** Potrivit lui Miruță, omologul său bulgar a acceptat propunerea de acțiune comună și ar urma să semneze scrisoarea adresată NATO.\n\n• **Pe 13 octombrie, două nave comerciale au fost lovite de drone în largul coastei bulgare.** Nava HS Dignity s-a scufundat, iar 11 marinari au fost dați dispăruți; Bulgaria a reluat miercuri căutările, suspendate în seara precedentă din cauza vremii nefavorabile și a întunericului. Sofia l-a convocat pe ambasadorul Rusiei; potrivit guvernului bulgar, acesta nu a exclus posibilitatea unei provocări din partea unei terțe părți. Pe 6 octombrie, alte două nave comerciale au fost lovite de drone în aceeași zonă."
+  },
+  {
+    "group_id": "group_f30e8375da",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "„Un element de gravitate semnificativă”. Anunțul ministrului Apărării despre nava lovită în apele teritoriale ale României",
+        "link": "https://hotnews.ro/un-element-de-gravitate-semnificativa-anuntul-ministrului-apararii-despre-nava-lovita-in-apele-teritoriale-ale-romaniei-2376418"
+      }
+    ],
+    "published_at": 1792012463,
+    "title_hu": "„Un element de gravitate semnificativă”. Anunțul ministrului Apărării despre nava lovită în apele teritoriale ale României",
+    "lead_hu": "Ministrul interimar al Apărării, Radu Miruță, a vorbit, miercuri seară, despre „un element de gravitate semnificativă”, după ce o navă comercială sub pavilion străin a fost lovită în apropiere de Suli…",
+    "content_hu": "Ministrul interimar al Apărării, Radu Miruță, a vorbit, miercuri seară, despre „un element de gravitate semnificativă”, după ce o navă comercială sub pavilion străin a fost lovită în apropiere de Sulina, în apele teritoriale ale României. Oficialul guvernamental a confirmat faptul că un incendiu a cuprins nava comercială, existând ipoteza ca vasul să fi fost …",
+    "title_ro": "„Un element de gravitate semnificativă”. Anunțul ministrului Apărării despre nava lovită în apele teritoriale ale României",
+    "lead_ro": "Ministrul interimar al Apărării, Radu Miruță, a vorbit, miercuri seară, despre „un element de gravitate semnificativă”, după ce o navă comercială sub pavilion străin a fost lovită în apropiere de Suli…",
+    "content_ro": "Ministrul interimar al Apărării, Radu Miruță, a vorbit, miercuri seară, despre „un element de gravitate semnificativă”, după ce o navă comercială sub pavilion străin a fost lovită în apropiere de Sulina, în apele teritoriale ale României. Oficialul guvernamental a confirmat faptul că un incendiu a cuprins nava comercială, existând ipoteza ca vasul să fi fost …"
+  },
+  {
+    "group_id": "group_e2c80c951f",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/Guest-Calling.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "WhatsApp are o funcție nouă: Guest Calls. Apeluri pentru invitați fără cont; fără costuri și fără limită de timp",
+        "link": "https://www.go4it.ro/content/aplicatii/whatsapp-are-o-functie-noua-guest-calls-apeluri-pentru-invitati-fara-cont-fara-costuri-si-fara-limita-de-timp-19287879/"
+      }
+    ],
+    "published_at": 1792012351,
+    "title_hu": "WhatsApp are o funcție nouă: Guest Calls. Apeluri pentru invitați fără cont; fără costuri și fără limită de timp",
+    "lead_hu": "WhatsApp are o funcție nouă, Guest Calls, care permite persoanelor care nu au un cont să se alăture apelurilor audio și video doar cu ajutorul unui link. Cu Guest Calls, utilizatorii pot chema pe oric…",
+    "content_hu": "WhatsApp are o funcție nouă, Guest Calls, care permite persoanelor care nu au un cont să se alăture apelurilor audio și video doar cu ajutorul unui link. Cu Guest Calls, utilizatorii pot chema pe oricine […] Articolul WhatsApp are o funcție nouă: Guest Calls. Apeluri pentru invitați fără cont; fără costuri și fără limită de timp apare prima dată în Go4IT.",
+    "title_ro": "WhatsApp are o funcție nouă: Guest Calls. Apeluri pentru invitați fără cont; fără costuri și fără limită de timp",
+    "lead_ro": "WhatsApp are o funcție nouă, Guest Calls, care permite persoanelor care nu au un cont să se alăture apelurilor audio și video doar cu ajutorul unui link. Cu Guest Calls, utilizatorii pot chema pe oric…",
+    "content_ro": "WhatsApp are o funcție nouă, Guest Calls, care permite persoanelor care nu au un cont să se alăture apelurilor audio și video doar cu ajutorul unui link. Cu Guest Calls, utilizatorii pot chema pe oricine […] Articolul WhatsApp are o funcție nouă: Guest Calls. Apeluri pentru invitați fără cont; fără costuri și fără limită de timp apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_c818bd442e",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/blanco_COMPLETO@3x-2-scaled-1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse",
+        "link": "https://www.go4it.ro/content/telefoane-mobile/acer-sospiro-a70-urmeaza-sa-fie-lansat-care-sunt-noutatile-aduse-19287869/"
+      }
+    ],
+    "published_at": 1792012260,
+    "title_hu": "Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse",
+    "lead_hu": "Acer Sospiro A70 este unul dintre cele mai neobișnuite smartphone-uri din gama medie de pe piață. Și asta pentru că dispozitivul integrează un ecran secundar relativ mare în modulul camerei foto, ceea…",
+    "content_hu": "Acer Sospiro A70 este unul dintre cele mai neobișnuite smartphone-uri din gama medie de pe piață. Și asta pentru că dispozitivul integrează un ecran secundar relativ mare în modulul camerei foto, ceea ce permit realizarea […] Articolul Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse apare prima dată în Go4IT.",
+    "title_ro": "Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse",
+    "lead_ro": "Acer Sospiro A70 este unul dintre cele mai neobișnuite smartphone-uri din gama medie de pe piață. Și asta pentru că dispozitivul integrează un ecran secundar relativ mare în modulul camerei foto, ceea…",
+    "content_ro": "Acer Sospiro A70 este unul dintre cele mai neobișnuite smartphone-uri din gama medie de pe piață. Și asta pentru că dispozitivul integrează un ecran secundar relativ mare în modulul camerei foto, ceea ce permit realizarea […] Articolul Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_b668b98ed3",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/09/Screenshot-Apple-debuts-iPhone-18-Pro-and-iPhone-18-Pro-Max-Apple-AU.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "iPhone 18 Pro Burgundy devine roșu în 3 săptămâni. Nimeni nu știe exact de ce",
+        "link": "https://www.go4it.ro/content/telefoane-mobile/iphone-18-pro-burgundy-devine-rosu-in-3-saptamani-nimeni-nu-stie-exact-de-ce-19287867/"
+      }
+    ],
+    "published_at": 1792012238,
+    "title_hu": "iPhone 18 Pro Burgundy devine roșu în 3 săptămâni. Nimeni nu știe exact de ce",
+    "lead_hu": "Finisajul bogat și închis la culoare „Burgundy” (acel vișiniu foarte apreciat) de pe unele unități iPhone 18 Pro și Pro Max își pierde vizibil intensitatea, devenind mai deschis. Imaginile postate de …",
+    "content_hu": "Finisajul bogat și închis la culoare „Burgundy” (acel vișiniu foarte apreciat) de pe unele unități iPhone 18 Pro și Pro Max își pierde vizibil intensitatea, devenind mai deschis. Imaginile postate de unii proprietari scot în […] Articolul iPhone 18 Pro Burgundy devine roșu în 3 săptămâni. Nimeni nu știe exact de ce apare prima dată în Go4IT.",
+    "title_ro": "iPhone 18 Pro Burgundy devine roșu în 3 săptămâni. Nimeni nu știe exact de ce",
+    "lead_ro": "Finisajul bogat și închis la culoare „Burgundy” (acel vișiniu foarte apreciat) de pe unele unități iPhone 18 Pro și Pro Max își pierde vizibil intensitatea, devenind mai deschis. Imaginile postate de …",
+    "content_ro": "Finisajul bogat și închis la culoare „Burgundy” (acel vișiniu foarte apreciat) de pe unele unități iPhone 18 Pro și Pro Max își pierde vizibil intensitatea, devenind mai deschis. Imaginile postate de unii proprietari scot în […] Articolul iPhone 18 Pro Burgundy devine roșu în 3 săptămâni. Nimeni nu știe exact de ce apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_1bf4eb01eb",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/XBOX-Nano-Controller95.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "Microsoft a lansat un controler Xbox mai mic și mai ieftin",
+        "link": "https://www.go4it.ro/content/accesorii/microsoft-a-lansat-xbox-nano-un-controler-mai-mic-si-mai-ieftin-19287861/"
+      }
+    ],
+    "published_at": 1792012188,
+    "title_hu": "Microsoft a lansat un controler Xbox mai mic și mai ieftin",
+    "lead_hu": "Microsoft a anunțat că a lansat pe piață un nou controler penru Xbox. Producătorul a precizat că acest nou dispozitiv, Xbox Nano, este conceput pentru jocuri în deplasare și pentru gamerii mai tineri,…",
+    "content_hu": "Microsoft a anunțat că a lansat pe piață un nou controler penru Xbox. Producătorul a precizat că acest nou dispozitiv, Xbox Nano, este conceput pentru jocuri în deplasare și pentru gamerii mai tineri, care au […] Articolul Microsoft a lansat un controler Xbox mai mic și mai ieftin apare prima dată în Go4IT.",
+    "title_ro": "Microsoft a lansat un controler Xbox mai mic și mai ieftin",
+    "lead_ro": "Microsoft a anunțat că a lansat pe piață un nou controler penru Xbox. Producătorul a precizat că acest nou dispozitiv, Xbox Nano, este conceput pentru jocuri în deplasare și pentru gamerii mai tineri,…",
+    "content_ro": "Microsoft a anunțat că a lansat pe piață un nou controler penru Xbox. Producătorul a precizat că acest nou dispozitiv, Xbox Nano, este conceput pentru jocuri în deplasare și pentru gamerii mai tineri, care au […] Articolul Microsoft a lansat un controler Xbox mai mic și mai ieftin apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_35051d93d3",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-color-lineup-260909_big-1.jpg.large_2x-1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "Producția modelului standard iPhone 18 ar putea începe în noiembrie, pentru lansarea din 2027",
+        "link": "https://www.go4it.ro/content/telefoane-mobile/productia-modelului-standard-iphone-18-ar-putea-incepe-in-noiembrie-pentru-lansarea-din-2027-19287857/"
+      }
+    ],
+    "published_at": 1792012108,
+    "title_hu": "Producția modelului standard iPhone 18 ar putea începe în noiembrie, pentru lansarea din 2027",
+    "lead_hu": "Se pare că Apple se pregătește să înceapă producția modelului standard iPhone 18 până la sfârșitul lunii noiembrie 2026. Conform informațiilor apărute, compania intenționează să fabrice un număr mare …",
+    "content_hu": "Se pare că Apple se pregătește să înceapă producția modelului standard iPhone 18 până la sfârșitul lunii noiembrie 2026. Conform informațiilor apărute, compania intenționează să fabrice un număr mare de unități înainte de lansarea preconizată […] Articolul Producția modelului standard iPhone 18 ar putea începe în noiembrie, pentru lansarea din 2027 apare prima dată în Go4IT.",
+    "title_ro": "Producția modelului standard iPhone 18 ar putea începe în noiembrie, pentru lansarea din 2027",
+    "lead_ro": "Se pare că Apple se pregătește să înceapă producția modelului standard iPhone 18 până la sfârșitul lunii noiembrie 2026. Conform informațiilor apărute, compania intenționează să fabrice un număr mare …",
+    "content_ro": "Se pare că Apple se pregătește să înceapă producția modelului standard iPhone 18 până la sfârșitul lunii noiembrie 2026. Conform informațiilor apărute, compania intenționează să fabrice un număr mare de unități înainte de lansarea preconizată […] Articolul Producția modelului standard iPhone 18 ar putea începe în noiembrie, pentru lansarea din 2027 apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_e86ac9038f",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/03/profimedia-1068374607.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "Elon Musk acuză Samsung de prețuri „exorbitante” la memoriile pentru AI",
+        "link": "https://www.go4it.ro/content/business/elon-musk-acuza-samsung-de-preturi-exorbitante-la-memoriile-pentru-ai-19287853/"
+      }
+    ],
+    "published_at": 1792012070,
+    "title_hu": "Elon Musk acuză Samsung de prețuri „exorbitante” la memoriile pentru AI",
+    "lead_hu": "Elon Musk critică public furnizori de top, precum Samsung, pentru majorarea prețurilor cipurilor de memorie în contextul actualului avânt al inteligenței artificiale, avertizându-i că clienții vor reț…",
+    "content_hu": "Elon Musk critică public furnizori de top, precum Samsung, pentru majorarea prețurilor cipurilor de memorie în contextul actualului avânt al inteligenței artificiale, avertizându-i că clienții vor reține cine i-a tratat corect odată ce oferta se […] Articolul Elon Musk acuză Samsung de prețuri „exorbitante” la memoriile pentru AI apare prima dată în Go4IT.",
+    "title_ro": "Elon Musk acuză Samsung de prețuri „exorbitante” la memoriile pentru AI",
+    "lead_ro": "Elon Musk critică public furnizori de top, precum Samsung, pentru majorarea prețurilor cipurilor de memorie în contextul actualului avânt al inteligenței artificiale, avertizându-i că clienții vor reț…",
+    "content_ro": "Elon Musk critică public furnizori de top, precum Samsung, pentru majorarea prețurilor cipurilor de memorie în contextul actualului avânt al inteligenței artificiale, avertizându-i că clienții vor reține cine i-a tratat corect odată ce oferta se […] Articolul Elon Musk acuză Samsung de prețuri „exorbitante” la memoriile pentru AI apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_417f794af2",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/25326/23259453/2/aliz-kosza.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Ce faci cu banii tăi? „Vreau să fiu antreprenor ca să am mulţi bani“ e o motivaţie suficient de puternică pentru ca o afacere să reziste? Aliz Kosza, unul dintre cei mai experimentaţi mentori şi strategi din businessul românesc: Antreprenoriatul nu este despre asta.",
+        "link": "https://www.zf.ro/ce-faci-cu-banii-tai/faci-banii-tai-vreau-fiu-antreprenor-multi-bani-e-motivatie-suficient-puternica-afacere-reziste-aliz-kosza-unul-dintre-cei-experimentati-mentori-strategi-businessul-romanesc-antreprenoriatul-asta-23259453"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "Ce faci cu banii tăi? „Vreau să fiu antreprenor ca să am mulţi bani“ e o motivaţie suficient de puternică pentru ca o afacere să reziste? Aliz Kosza, unul dintre cei mai experimentaţi mentori şi strategi din businessul românesc: Antreprenoriatul nu este despre asta.",
+    "lead_hu": "Mulţi bani, îmbogăţire rapidă, libertate şi poate mai puţină muncă decât la un job nine to five. Aceştia sunt doar câţiva dintre termenii care, în viziunea unor tineri care aleargă către independenţa …",
+    "content_hu": "Mulţi bani, îmbogăţire rapidă, libertate şi poate mai puţină muncă decât la un job nine to five. Aceştia sunt doar câţiva dintre termenii care, în viziunea unor tineri care aleargă către independenţa financiară, ar defini antreprenoriatul. Însă realitatea este alta.",
+    "title_ro": "Ce faci cu banii tăi? „Vreau să fiu antreprenor ca să am mulţi bani“ e o motivaţie suficient de puternică pentru ca o afacere să reziste? Aliz Kosza, unul dintre cei mai experimentaţi mentori şi strategi din businessul românesc: Antreprenoriatul nu este despre asta.",
+    "lead_ro": "Mulţi bani, îmbogăţire rapidă, libertate şi poate mai puţină muncă decât la un job nine to five. Aceştia sunt doar câţiva dintre termenii care, în viziunea unor tineri care aleargă către independenţa …",
+    "content_ro": "Mulţi bani, îmbogăţire rapidă, libertate şi poate mai puţină muncă decât la un job nine to five. Aceştia sunt doar câţiva dintre termenii care, în viziunea unor tineri care aleargă către independenţa financiară, ar defini antreprenoriatul. Însă realitatea este alta."
+  },
+  {
+    "group_id": "group_2c7d094078",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21330/23260081/2/7-marian-pavel-rezolv-energy-romania.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "CEC Bank pentru afaceri româneşti. Marian Pavel, Rezolv Energy, compania cu cele mai mari proiecte de energie verde în şantier: Vrem un portofoliu de 4 GW până în 2030 şi ne uităm la achiziţii. Cred că sectorul energetic va avea mult de lucru în următorii 5 ani",
+        "link": "https://www.zf.ro/cec-bank-pentru-afaceri-romanesti/cec-bank-afaceri-romanesti-marian-pavel-rezolv-energy-compania-cele-mari-proiecte-energie-verde-santier-vrem-portofoliu-4-gw-pana-2030-ne-uitam-achizitii-cred-sectorul-energetic-avea-mult-lucru-23260081"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "CEC Bank pentru afaceri româneşti. Marian Pavel, Rezolv Energy, compania cu cele mai mari proiecte de energie verde în şantier: Vrem un portofoliu de 4 GW până în 2030 şi ne uităm la achiziţii. Cred că sectorul energetic va avea mult de lucru în următorii 5 ani",
+    "lead_hu": "„Am ajuns în faza de im­plementare cu o bună parte dintre proiec­tele noastre“, spune Marian Pavel, invitat la CEC Bank pentru afaceri româneşti. „În momentul de faţă vorbim despre proaspăta inaugurar…",
+    "content_hu": "„Am ajuns în faza de im­plementare cu o bună parte dintre proiec­tele noastre“, spune Marian Pavel, invitat la CEC Bank pentru afaceri româneşti. „În momentul de faţă vorbim despre proaspăta inaugurare a proiectului eolian de la Buzău, VIFOR, etapa de 192 MW. Pe lângă aceas­ta, avem şi proiectul fotovoltaic Dama din Arad, care tocmai ce a intrat în etapa de construire.",
+    "title_ro": "CEC Bank pentru afaceri româneşti. Marian Pavel, Rezolv Energy, compania cu cele mai mari proiecte de energie verde în şantier: Vrem un portofoliu de 4 GW până în 2030 şi ne uităm la achiziţii. Cred că sectorul energetic va avea mult de lucru în următorii 5 ani",
+    "lead_ro": "„Am ajuns în faza de im­plementare cu o bună parte dintre proiec­tele noastre“, spune Marian Pavel, invitat la CEC Bank pentru afaceri româneşti. „În momentul de faţă vorbim despre proaspăta inaugurar…",
+    "content_ro": "„Am ajuns în faza de im­plementare cu o bună parte dintre proiec­tele noastre“, spune Marian Pavel, invitat la CEC Bank pentru afaceri româneşti. „În momentul de faţă vorbim despre proaspăta inaugurare a proiectului eolian de la Buzău, VIFOR, etapa de 192 MW. Pe lângă aceas­ta, avem şi proiectul fotovoltaic Dama din Arad, care tocmai ce a intrat în etapa de construire."
+  },
+  {
+    "group_id": "group_145909e17f",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/25326/23260201/1/8-poza-sala.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "De la greşeli de milioane de euro la afaceri predate noii generaţii. Ce au povestit liderii la Gala BUSINESS Magazin - CEO Awards 2026",
+        "link": "https://www.zf.ro/eveniment/de-la-greseli-de-milioane-de-euro-la-afaceri-predate-noii-generatii-ce-au-povestit-liderii-la-gala-business-magazin-ceo-awards-2026-23260201"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "De la greşeli de milioane de euro la afaceri predate noii generaţii. Ce au povestit liderii la Gala BUSINESS Magazin - CEO Awards 2026",
+    "lead_hu": "Peste 300 de invitaţi au fost prezenţi la Gala CEO Awards 2026, organizată de BUSINESS Magazin sub tema „The Multiplier Effect – Liderii care îi fac pe ceilalţi mai buni“",
+    "content_hu": "Peste 300 de invitaţi au fost prezenţi la Gala CEO Awards 2026, organizată de BUSINESS Magazin sub tema „The Multiplier Effect – Liderii care îi fac pe ceilalţi mai buni“",
+    "title_ro": "De la greşeli de milioane de euro la afaceri predate noii generaţii. Ce au povestit liderii la Gala BUSINESS Magazin - CEO Awards 2026",
+    "lead_ro": "Peste 300 de invitaţi au fost prezenţi la Gala CEO Awards 2026, organizată de BUSINESS Magazin sub tema „The Multiplier Effect – Liderii care îi fac pe ceilalţi mai buni“",
+    "content_ro": "Peste 300 de invitaţi au fost prezenţi la Gala CEO Awards 2026, organizată de BUSINESS Magazin sub tema „The Multiplier Effect – Liderii care îi fac pe ceilalţi mai buni“"
+  },
+  {
+    "group_id": "group_bf6ac75abe",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/25326/23260210/1/9-main.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Gen Z nu e „ghimpele“ de la locul de muncă. Care sunt atuurile tinerilor într-o echipă şi ce spune mediul de afaceri despre generaţia ta: „Generaţia tânără este mult mai antreprenorială, înţelege mult mai bine cum funcţionează lumea, îşi cunoaşte drepturile şi ştie ce vrea“",
+        "link": "https://www.zf.ro/zf-gen-z/gen-z-e-ghimpele-locul-munca-atuurile-tinerilor-intr-echipa-spune-mediul-afaceri-generatia-generatia-tanara-mult-antreprenoriala-intelege-mult-bine-functioneaza-lumea-isi-cunoaste-drepturile-stie-23260210"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "Gen Z nu e „ghimpele“ de la locul de muncă. Care sunt atuurile tinerilor într-o echipă şi ce spune mediul de afaceri despre generaţia ta: „Generaţia tânără este mult mai antreprenorială, înţelege mult mai bine cum funcţionează lumea, îşi cunoaşte drepturile şi ştie ce vrea“",
+    "lead_hu": "Faci parte din Generaţia Z, deci probabil că îţi doreşti mai mult de la un job decât un salariu primit la final de lună. Vrei să înveţi lucruri noi, să ai ocazia să îţi pui ideile în practică, să fii …",
+    "content_hu": "Faci parte din Generaţia Z, deci probabil că îţi doreşti mai mult de la un job decât un salariu primit la final de lună. Vrei să înveţi lucruri noi, să ai ocazia să îţi pui ideile în practică, să fii apreciat pentru ceea ce ştii să faci şi, de ce nu, să avansezi cât mai repede. Iar vestea bună este că unii angajatori văd în aceste aşteptări o oportunitate, nu o problemă.",
+    "title_ro": "Gen Z nu e „ghimpele“ de la locul de muncă. Care sunt atuurile tinerilor într-o echipă şi ce spune mediul de afaceri despre generaţia ta: „Generaţia tânără este mult mai antreprenorială, înţelege mult mai bine cum funcţionează lumea, îşi cunoaşte drepturile şi ştie ce vrea“",
+    "lead_ro": "Faci parte din Generaţia Z, deci probabil că îţi doreşti mai mult de la un job decât un salariu primit la final de lună. Vrei să înveţi lucruri noi, să ai ocazia să îţi pui ideile în practică, să fii …",
+    "content_ro": "Faci parte din Generaţia Z, deci probabil că îţi doreşti mai mult de la un job decât un salariu primit la final de lună. Vrei să înveţi lucruri noi, să ai ocazia să îţi pui ideile în practică, să fii apreciat pentru ceea ce ştii să faci şi, de ce nu, să avansezi cât mai repede. Iar vestea bună este că unii angajatori văd în aceste aşteptări o oportunitate, nu o problemă."
+  },
+  {
+    "group_id": "group_54f8107f5c",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21332/23260220/1/marius-munteanu-concentrix.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Marius Munteanu, senior director, transformation & AI enablement, Concentrix: Românii sunt încă utilizatori ocazionali de AI, iar un asistent lansat într-o piaţă nepregătită are o rată mai mare de abandon. „Nu vă aşteptaţi la miracole. Va trata poate 5% din toate volumele faţă de ce vi s-a spus că se va întâmpla“",
+        "link": "https://www.zf.ro/business-hi-tech/marius-munteanu-senior-director-transformation-enablement-concentrix-romanii-utilizatori-ocazionali-iar-asistent-lansat-intr-piata-nepregatita-rata-mare-abandon-asteptati-miracole-trata-5-toate-23260220"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "Marius Munteanu, senior director, transformation & AI enablement, Concentrix: Românii sunt încă utilizatori ocazionali de AI, iar un asistent lansat într-o piaţă nepregătită are o rată mai mare de abandon. „Nu vă aşteptaţi la miracole. Va trata poate 5% din toate volumele faţă de ce vi s-a spus că se va întâmpla“",
+    "lead_hu": "Românii sunt deocamdată uti­lizatori ocazionali de in­te­­ligenţă artificială, nu utili­zatori frecvenţi, şi rămân încă uşor sceptici în faţa con­versaţiei cu un asistent AI, iar un asis­tent lansat î…",
+    "content_hu": "Românii sunt deocamdată uti­lizatori ocazionali de in­te­­ligenţă artificială, nu utili­zatori frecvenţi, şi rămân încă uşor sceptici în faţa con­versaţiei cu un asistent AI, iar un asis­tent lansat într-o piaţă care nu este pregă­tită are o rată mai mare de abandon a ape­lu­rilor şi a interacţiunilor, a declarat Ma­rius Munteanu, senior director, trans­for­mation & AI enablement în cadrul Con­centrix, furnizor global de servicii de relaţii cu clienţii şi de externalizare a proceselor de business, în cadrul conferinţei ZF High-Tech Innovation Summit 2026.",
+    "title_ro": "Marius Munteanu, senior director, transformation & AI enablement, Concentrix: Românii sunt încă utilizatori ocazionali de AI, iar un asistent lansat într-o piaţă nepregătită are o rată mai mare de abandon. „Nu vă aşteptaţi la miracole. Va trata poate 5% din toate volumele faţă de ce vi s-a spus că se va întâmpla“",
+    "lead_ro": "Românii sunt deocamdată uti­lizatori ocazionali de in­te­­ligenţă artificială, nu utili­zatori frecvenţi, şi rămân încă uşor sceptici în faţa con­versaţiei cu un asistent AI, iar un asis­tent lansat î…",
+    "content_ro": "Românii sunt deocamdată uti­lizatori ocazionali de in­te­­ligenţă artificială, nu utili­zatori frecvenţi, şi rămân încă uşor sceptici în faţa con­versaţiei cu un asistent AI, iar un asis­tent lansat într-o piaţă care nu este pregă­tită are o rată mai mare de abandon a ape­lu­rilor şi a interacţiunilor, a declarat Ma­rius Munteanu, senior director, trans­for­mation & AI enablement în cadrul Con­centrix, furnizor global de servicii de relaţii cu clienţii şi de externalizare a proceselor de business, în cadrul conferinţei ZF High-Tech Innovation Summit 2026."
+  },
+  {
+    "group_id": "group_640feb4e06",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21335/23260276/17/1-main-pib.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "ACUM ORI NICIODATĂ. ŢARA ARE NEVOIE DE UN GUVERN. NU VĂ JUCAŢI CU VIITORUL NOSTRU ŞI AL VOSTRU",
+        "link": "https://www.zf.ro/companii/retail-agrobusiness/acum-ori-niciodata-tara-are-nevoie-de-un-guvern-nu-va-jucati-cu-viitorul-nostru-si-al-vostru-23260276"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "ACUM ORI NICIODATĂ. ŢARA ARE NEVOIE DE UN GUVERN. NU VĂ JUCAŢI CU VIITORUL NOSTRU ŞI AL VOSTRU",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "ACUM ORI NICIODATĂ. ŢARA ARE NEVOIE DE UN GUVERN. NU VĂ JUCAŢI CU VIITORUL NOSTRU ŞI AL VOSTRU",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_a35c36e02c",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23260299/1/medic-shutterstock.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Cum merge piaţa asigurărilor de sănătate. Care sunt cei mai mari jucători",
+        "link": "https://www.zf.ro/banci-si-asigurari/cum-merge-piata-asigurarilor-de-sanatate-care-sunt-cei-mai-mari-jucatori-23260299"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "Cum merge piaţa asigurărilor de sănătate. Care sunt cei mai mari jucători",
+    "lead_hu": "Piaţa asigurărilor de sănătate a ajuns al finalul primului semestru (S1) din anul 2026 la prime brute subscrise de 710 mil. lei, în creştere cu 11% faţă de S1/2025, potrivit ASF.",
+    "content_hu": "Piaţa asigurărilor de sănătate a ajuns al finalul primului semestru (S1) din anul 2026 la prime brute subscrise de 710 mil. lei, în creştere cu 11% faţă de S1/2025, potrivit ASF.",
+    "title_ro": "Cum merge piaţa asigurărilor de sănătate. Care sunt cei mai mari jucători",
+    "lead_ro": "Piaţa asigurărilor de sănătate a ajuns al finalul primului semestru (S1) din anul 2026 la prime brute subscrise de 710 mil. lei, în creştere cu 11% faţă de S1/2025, potrivit ASF.",
+    "content_ro": "Piaţa asigurărilor de sănătate a ajuns al finalul primului semestru (S1) din anul 2026 la prime brute subscrise de 710 mil. lei, în creştere cu 11% faţă de S1/2025, potrivit ASF."
+  },
+  {
+    "group_id": "group_a251ac99f1",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/32906/23260315/1/1-dan-sucu-nou.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Dan Şucu, preşedinte Concordia: România nu a crescut singură, ci cu ajutorul companiilor germane, franceze şi olandeze. Dar coeziunea nu a fost niciodată caritate, a fost una dintre cele mai bune investiţii ale Europei",
+        "link": "https://www.zf.ro/imm/dan-sucu-presedinte-concordia-romania-crescut-singura-ci-ajutorul-companiilor-germane-franceze-olandeze-coeziunea-niciodata-caritate-una-dintre-cele-bune-investitii-europei-23260315"
+      }
+    ],
+    "published_at": 1792012020,
+    "title_hu": "Dan Şucu, preşedinte Concordia: România nu a crescut singură, ci cu ajutorul companiilor germane, franceze şi olandeze. Dar coeziunea nu a fost niciodată caritate, a fost una dintre cele mai bune investiţii ale Europei",
+    "lead_hu": "Federaţia Patronală Concordia, cea mai puternică organizaţie patronală care reuneşte cele mai puternice companii din România, a deschis joi primul birou din afara ţării, la Bruxelles, pentru a fi cât …",
+    "content_hu": "Federaţia Patronală Concordia, cea mai puternică organizaţie patronală care reuneşte cele mai puternice companii din România, a deschis joi primul birou din afara ţării, la Bruxelles, pentru a fi cât mai aproape de instituţiile europene, acolo unde se iau cele mai importante decizii economice şi politice ale Europei şi unde se împart banii UE.",
+    "title_ro": "Dan Şucu, preşedinte Concordia: România nu a crescut singură, ci cu ajutorul companiilor germane, franceze şi olandeze. Dar coeziunea nu a fost niciodată caritate, a fost una dintre cele mai bune investiţii ale Europei",
+    "lead_ro": "Federaţia Patronală Concordia, cea mai puternică organizaţie patronală care reuneşte cele mai puternice companii din România, a deschis joi primul birou din afara ţării, la Bruxelles, pentru a fi cât …",
+    "content_ro": "Federaţia Patronală Concordia, cea mai puternică organizaţie patronală care reuneşte cele mai puternice companii din România, a deschis joi primul birou din afara ţării, la Bruxelles, pentru a fi cât mai aproape de instituţiile europene, acolo unde se iau cele mai importante decizii economice şi politice ale Europei şi unde se împart banii UE."
+  },
+  {
+    "group_id": "group_f7c4120086",
+    "category": "Sport",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/849785840_2029852677728150_2030987798994517728_n-1024x576.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Real Madrid, revenire spectaculoasă în Liga Campionilor! Madrilenii au întors scorul de la 1-3 și au învins AS Roma",
+        "link": "https://www.mediafax.ro/sport/real-madrid-revenire-spectaculoasa-in-liga-campionilor-madrilenii-au-intors-scorul-de-la-1-3-si-au-invins-as-roma-23825603"
+      }
+    ],
+    "published_at": 1792011997,
+    "title_hu": "Real Madrid, revenire spectaculoasă în Liga Campionilor! Madrilenii au întors scorul de la 1-3 și au învins AS Roma",
+    "lead_hu": "Real Madrid a învins AS Roma cu 4-3, miercuri seară, pe Stadio Olimpico, în Liga Campionilor. Madrilenii au revenit de la 1-3 și au marcat de trei ori în ultimele minute, obținând o victorie spectacul…",
+    "content_hu": "Real Madrid a învins AS Roma cu 4-3, miercuri seară, pe Stadio Olimpico, în Liga Campionilor. Madrilenii au revenit de la 1-3 și au marcat de trei ori în ultimele minute, obținând o victorie spectaculoasă în deplasare.",
+    "title_ro": "Real Madrid, revenire spectaculoasă în Liga Campionilor! Madrilenii au întors scorul de la 1-3 și au învins AS Roma",
+    "lead_ro": "Real Madrid a învins AS Roma cu 4-3, miercuri seară, pe Stadio Olimpico, în Liga Campionilor. Madrilenii au revenit de la 1-3 și au marcat de trei ori în ultimele minute, obținând o victorie spectacul…",
+    "content_ro": "Real Madrid a învins AS Roma cu 4-3, miercuri seară, pe Stadio Olimpico, în Liga Campionilor. Madrilenii au revenit de la 1-3 și au marcat de trei ori în ultimele minute, obținând o victorie spectaculoasă în deplasare."
+  },
+  {
+    "group_id": "group_5a936108ac",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/2026-10-13_stellaris-16-gen8-overview-e1791999174922.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "Tuxedo a lansat laptopurile Stellaris 16 Gen 8 cu răcire cu lichid opțională",
+        "link": "https://www.go4it.ro/content/laptopuri/tuxedo-a-lansat-laptopurile-stellaris-16-gen-8-cu-racire-cu-lichid-optionala-19287843/"
+      }
+    ],
+    "published_at": 1792011989,
+    "title_hu": "Tuxedo a lansat laptopurile Stellaris 16 Gen 8 cu răcire cu lichid opțională",
+    "lead_hu": "Tuxedo Computers, producătorul german de hardware pentru Linux, a lansat Stellaris 16 Gen 8, un laptop de 16 inchi destinat înlocuirii desktopului. Acesta dispune de o opțiune de răcire cu lichid. Mod…",
+    "content_hu": "Tuxedo Computers, producătorul german de hardware pentru Linux, a lansat Stellaris 16 Gen 8, un laptop de 16 inchi destinat înlocuirii desktopului. Acesta dispune de o opțiune de răcire cu lichid. Modelul Stellaris 16 este […] Articolul Tuxedo a lansat laptopurile Stellaris 16 Gen 8 cu răcire cu lichid opțională apare prima dată în Go4IT.",
+    "title_ro": "Tuxedo a lansat laptopurile Stellaris 16 Gen 8 cu răcire cu lichid opțională",
+    "lead_ro": "Tuxedo Computers, producătorul german de hardware pentru Linux, a lansat Stellaris 16 Gen 8, un laptop de 16 inchi destinat înlocuirii desktopului. Acesta dispune de o opțiune de răcire cu lichid. Mod…",
+    "content_ro": "Tuxedo Computers, producătorul german de hardware pentru Linux, a lansat Stellaris 16 Gen 8, un laptop de 16 inchi destinat înlocuirii desktopului. Acesta dispune de o opțiune de răcire cu lichid. Modelul Stellaris 16 este […] Articolul Tuxedo a lansat laptopurile Stellaris 16 Gen 8 cu răcire cu lichid opțională apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_0d2eec5e59",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21335/23259139/2/6-mircea-baluta.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Mircea Băluţă, Argeş Biosud Cooperativă Agricolă: Vrem să facem pasul spre procesare – făină, mălai, pufuleţi. Acum trimitem la export materii prime cu valoare adăugată foarte mică",
+        "link": "https://www.zf.ro/te-inspira/arges-de-la-pol-industrial-la-centru-de-afaceri/mircea-baluta-arges-biosud-cooperativa-agricola-vrem-sa-facem-pasul-spre-procesare-faina-malai-pufuleti-acum-trimitem-la-export-materii-prime-cu-valoare-adaugata-foarte-mica-23259139"
+      }
+    ],
+    "published_at": 1792011960,
+    "title_hu": "Mircea Băluţă, Argeş Biosud Cooperativă Agricolă: Vrem să facem pasul spre procesare – făină, mălai, pufuleţi. Acum trimitem la export materii prime cu valoare adăugată foarte mică",
+    "lead_hu": "Cooperativa Agricolă Argeş Biosud a fost înfiinţată în 2010. A pornit la drum cu zece fermieri. Ulterior, s-a dezvoltat şi a tot crescut. Un moment important în evoluţia sa a fost 2019, când am ajuns …",
+    "content_hu": "Cooperativa Agricolă Argeş Biosud a fost înfiinţată în 2010. A pornit la drum cu zece fermieri. Ulterior, s-a dezvoltat şi a tot crescut. Un moment important în evoluţia sa a fost 2019, când am ajuns la 41 de membri din Argeş şi din nordul Teleormanului şi la o suprafaţă de circa 20.000 de hectare cultivate.",
+    "title_ro": "Mircea Băluţă, Argeş Biosud Cooperativă Agricolă: Vrem să facem pasul spre procesare – făină, mălai, pufuleţi. Acum trimitem la export materii prime cu valoare adăugată foarte mică",
+    "lead_ro": "Cooperativa Agricolă Argeş Biosud a fost înfiinţată în 2010. A pornit la drum cu zece fermieri. Ulterior, s-a dezvoltat şi a tot crescut. Un moment important în evoluţia sa a fost 2019, când am ajuns …",
+    "content_ro": "Cooperativa Agricolă Argeş Biosud a fost înfiinţată în 2010. A pornit la drum cu zece fermieri. Ulterior, s-a dezvoltat şi a tot crescut. Un moment important în evoluţia sa a fost 2019, când am ajuns la 41 de membri din Argeş şi din nordul Teleormanului şi la o suprafaţă de circa 20.000 de hectare cultivate."
+  },
+  {
+    "group_id": "group_bd9af9252e",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21335/23260083/2/6-nicoleta-iordan.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "ZF 15 minute cu un antreprenor. Reţeaua Cărtureşti, care numără peste 60 de librării, continuă extinderea şi vizează noi oraşe din România. „Nu suntem în toate judeţele din ţară încă, avem câteva unde aşteptăm de multă vreme să intrăm“",
+        "link": "https://www.zf.ro/zf-15-minute-cu-un-antreprenor/zf-15-minute-antreprenor-reteaua-carturesti-numara-peste-60-librarii-continua-extinderea-vizeaza-orase-romania-toate-judetele-tara-avem-cateva-unde-asteptam-multa-vreme-intram-23260083"
+      }
+    ],
+    "published_at": 1792011960,
+    "title_hu": "ZF 15 minute cu un antreprenor. Reţeaua Cărtureşti, care numără peste 60 de librării, continuă extinderea şi vizează noi oraşe din România. „Nu suntem în toate judeţele din ţară încă, avem câteva unde aşteptăm de multă vreme să intrăm“",
+    "lead_hu": "Cărtureşti, unul dintre cele mai cunoscute lanţuri de librării din România, continuă planurile de expansiune şi vizează noi oraşe pe care încă nu le-a acoperit.",
+    "content_hu": "Cărtureşti, unul dintre cele mai cunoscute lanţuri de librării din România, continuă planurile de expansiune şi vizează noi oraşe pe care încă nu le-a acoperit.",
+    "title_ro": "ZF 15 minute cu un antreprenor. Reţeaua Cărtureşti, care numără peste 60 de librării, continuă extinderea şi vizează noi oraşe din România. „Nu suntem în toate judeţele din ţară încă, avem câteva unde aşteptăm de multă vreme să intrăm“",
+    "lead_ro": "Cărtureşti, unul dintre cele mai cunoscute lanţuri de librării din România, continuă planurile de expansiune şi vizează noi oraşe pe care încă nu le-a acoperit.",
+    "content_ro": "Cărtureşti, unul dintre cele mai cunoscute lanţuri de librării din România, continuă planurile de expansiune şi vizează noi oraşe pe care încă nu le-a acoperit."
+  },
+  {
+    "group_id": "group_4f9868a4b0",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21335/23260185/1/costel-codreanu.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Ediţie specială Afaceri de la Zero susţinută de 5 to go. Cornel Codreanu a pornit cu o primă cafenea 5 to go în Bârlad şi a ajuns să administreze patru unităţi în trei oraşe din judeţele Vaslui şi Galaţi. „Vrem să mai deschidem o cafenea“",
+        "link": "https://www.zf.ro/afaceri-de-la-zero/editie-speciala-afaceri-zero-sustinuta-5-to-go-cornel-codreanu-pornit-prima-cafenea-5-to-go-barlad-ajuns-administreze-patru-unitati-trei-orase-judetele-vaslui-galati-vrem-deschidem-cafenea-23260185"
+      }
+    ],
+    "published_at": 1792011960,
+    "title_hu": "Ediţie specială Afaceri de la Zero susţinută de 5 to go. Cornel Codreanu a pornit cu o primă cafenea 5 to go în Bârlad şi a ajuns să administreze patru unităţi în trei oraşe din judeţele Vaslui şi Galaţi. „Vrem să mai deschidem o cafenea“",
+    "lead_hu": "Deschiderea unei cafenele nu a deschis calea antreprenoriatului pentru Cornel Codreanu, dar l-a ajutat să îşi dezvolte un business care se întinde în trei oraşe. Cornel Codreanu, care se ocupa cu vânz…",
+    "content_hu": "Deschiderea unei cafenele nu a deschis calea antreprenoriatului pentru Cornel Codreanu, dar l-a ajutat să îşi dezvolte un business care se întinde în trei oraşe. Cornel Codreanu, care se ocupa cu vânzarea de ambalaje, afacere pe care o are şi astăzi, a deschis prima cafenea 5 to go în Bârlad, în 2021.",
+    "title_ro": "Ediţie specială Afaceri de la Zero susţinută de 5 to go. Cornel Codreanu a pornit cu o primă cafenea 5 to go în Bârlad şi a ajuns să administreze patru unităţi în trei oraşe din judeţele Vaslui şi Galaţi. „Vrem să mai deschidem o cafenea“",
+    "lead_ro": "Deschiderea unei cafenele nu a deschis calea antreprenoriatului pentru Cornel Codreanu, dar l-a ajutat să îşi dezvolte un business care se întinde în trei oraşe. Cornel Codreanu, care se ocupa cu vânz…",
+    "content_ro": "Deschiderea unei cafenele nu a deschis calea antreprenoriatului pentru Cornel Codreanu, dar l-a ajutat să îşi dezvolte un business care se întinde în trei oraşe. Cornel Codreanu, care se ocupa cu vânzarea de ambalaje, afacere pe care o are şi astăzi, a deschis prima cafenea 5 to go în Bârlad, în 2021."
+  },
+  {
+    "group_id": "group_2e03330bcd",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21335/23260190/1/laurent-pfeffer-catleya.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "ZF Agropower. Laurent Pfeffer, cofondatorul cramei Catleya din Mehedinţi: „Sperăm să ajungem la 100.000 de sticle îmbuteliate, ar fi o premieră. De anul acesta vom avea şi vinuri bio în portofoliu“",
+        "link": "https://www.zf.ro/zf-agropower/zf-agropower-laurent-pfeffer-cofondatorul-cramei-catleya-din-mehedinti-speram-sa-ajungem-la-100-000-de-sticle-imbuteliate-ar-fi-o-premiera-de-anul-acesta-vom-avea-si-vinuri-bio-in-portofoliu-23260190"
+      }
+    ],
+    "published_at": 1792011960,
+    "title_hu": "ZF Agropower. Laurent Pfeffer, cofondatorul cramei Catleya din Mehedinţi: „Sperăm să ajungem la 100.000 de sticle îmbuteliate, ar fi o premieră. De anul acesta vom avea şi vinuri bio în portofoliu“",
+    "lead_hu": "Anul 2026 ar putea aduce un record de sticle îmbuteliate pentru crama care produce vinurile sub brandul Catleya, un mic producător din Corcova, judeţul Mehedinţi. Recolta bogată de struguri din aceast…",
+    "content_hu": "Anul 2026 ar putea aduce un record de sticle îmbuteliate pentru crama care produce vinurile sub brandul Catleya, un mic producător din Corcova, judeţul Mehedinţi. Recolta bogată de struguri din această toamnă este promiţătoare pentru volumul de vin aşteptat.",
+    "title_ro": "ZF Agropower. Laurent Pfeffer, cofondatorul cramei Catleya din Mehedinţi: „Sperăm să ajungem la 100.000 de sticle îmbuteliate, ar fi o premieră. De anul acesta vom avea şi vinuri bio în portofoliu“",
+    "lead_ro": "Anul 2026 ar putea aduce un record de sticle îmbuteliate pentru crama care produce vinurile sub brandul Catleya, un mic producător din Corcova, judeţul Mehedinţi. Recolta bogată de struguri din aceast…",
+    "content_ro": "Anul 2026 ar putea aduce un record de sticle îmbuteliate pentru crama care produce vinurile sub brandul Catleya, un mic producător din Corcova, judeţul Mehedinţi. Recolta bogată de struguri din această toamnă este promiţătoare pentru volumul de vin aşteptat."
+  },
+  {
+    "group_id": "group_b6b52efeb4",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21333/23260227/1/10-foto-col-1.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Urmează Gala ZF 2026, luni 23 noiembrie. Johan Norberg, un apărător al capitalismului: Poate fi creată avuţie sustenabilă şi durabilă de un stat intervenţionist sau într-o economie planificată?",
+        "link": "https://www.zf.ro/business-international/urmeaza-gala-zf-2026-luni-23-noiembrie-johan-norberg-un-aparator-al-capitalismului-poate-fi-creata-avutie-sustenabila-si-durabila-de-un-stat-interventionist-sau-intr-o-economie-planificata-23260227"
+      }
+    ],
+    "published_at": 1792011960,
+    "title_hu": "Urmează Gala ZF 2026, luni 23 noiembrie. Johan Norberg, un apărător al capitalismului: Poate fi creată avuţie sustenabilă şi durabilă de un stat intervenţionist sau într-o economie planificată?",
+    "lead_hu": "Atât progresiştii, cât şi conservatorii au propriile planuri pentru creşterea prosperităţii, dar ambii ratează acelaşi adevăr fundamental: nu există o reţetă pentru abundenţă. Oamenii prosperă doar at…",
+    "content_hu": "Atât progresiştii, cât şi conservatorii au propriile planuri pentru creşterea prosperităţii, dar ambii ratează acelaşi adevăr fundamental: nu există o reţetă pentru abundenţă. Oamenii prosperă doar atunci când sunt lăsaţi în pace să gândească, să vorbească, să investească şi să experimenteze liber - să îşi asume riscuri şi să suporte consecinţele, bune sau rele, scrie Johan Norberg într-un articol publicat de Institutul Cato.",
+    "title_ro": "Urmează Gala ZF 2026, luni 23 noiembrie. Johan Norberg, un apărător al capitalismului: Poate fi creată avuţie sustenabilă şi durabilă de un stat intervenţionist sau într-o economie planificată?",
+    "lead_ro": "Atât progresiştii, cât şi conservatorii au propriile planuri pentru creşterea prosperităţii, dar ambii ratează acelaşi adevăr fundamental: nu există o reţetă pentru abundenţă. Oamenii prosperă doar at…",
+    "content_ro": "Atât progresiştii, cât şi conservatorii au propriile planuri pentru creşterea prosperităţii, dar ambii ratează acelaşi adevăr fundamental: nu există o reţetă pentru abundenţă. Oamenii prosperă doar atunci când sunt lăsaţi în pace să gândească, să vorbească, să investească şi să experimenteze liber - să îşi asume riscuri şi să suporte consecinţele, bune sau rele, scrie Johan Norberg într-un articol publicat de Institutul Cato."
+  },
+  {
+    "group_id": "group_220592fe1b",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21327/23260229/1/quant-e-refilling-pipes.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "China transformă gunoiul în comori la o scară uriaşă",
+        "link": "https://www.zf.ro/auto/china-transforma-gunoiul-in-comori-la-o-scara-uriasa-23260229"
+      }
+    ],
+    "published_at": 1792011960,
+    "title_hu": "China transformă gunoiul în comori la o scară uriaşă",
+    "lead_hu": "Uniunea Europeană este îngrijorată cu privire la uriaşele exporturi de maşini electrice ieftine ale Chinei. Pe 12 octombrie, blocul a anunţat că din decembrie o limită de 350.000 de unităţi pe an va f…",
+    "content_hu": "Uniunea Europeană este îngrijorată cu privire la uriaşele exporturi de maşini electrice ieftine ale Chinei. Pe 12 octombrie, blocul a anunţat că din decembrie o limită de 350.000 de unităţi pe an va fi impusă pe importurile de maşini electrice hibride din China, aceasta fiind aşteptată să le înjumătăţească cota de piaţă.",
+    "title_ro": "China transformă gunoiul în comori la o scară uriaşă",
+    "lead_ro": "Uniunea Europeană este îngrijorată cu privire la uriaşele exporturi de maşini electrice ieftine ale Chinei. Pe 12 octombrie, blocul a anunţat că din decembrie o limită de 350.000 de unităţi pe an va f…",
+    "content_ro": "Uniunea Europeană este îngrijorată cu privire la uriaşele exporturi de maşini electrice ieftine ale Chinei. Pe 12 octombrie, blocul a anunţat că din decembrie o limită de 350.000 de unităţi pe an va fi impusă pe importurile de maşini electrice hibride din China, aceasta fiind aşteptată să le înjumătăţească cota de piaţă."
+  },
+  {
+    "group_id": "group_3bf23e0161",
+    "fingerprint": "0d87dc776033153574a631fa43b9fcaa",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/8147684-hepta_mediafax_foto-abacapress_hepta-1-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un judecător prelungește accesul CNN, MS NOW și Politico la Casa Albă pe fondul unui litigiu juridic",
+        "link": "https://www.mediafax.ro/externe/un-judecator-prelungeste-accesul-cnn-ms-now-si-politico-la-casa-alba-pe-fondul-unui-litigiu-juridic-23824984"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un judecător american garantează temporar accesul CNN, MSNBC și Politico la Casa Albă",
+        "link": "https://www.g4media.ro/un-judecator-american-garanteaza-temporar-accesul-cnn-msnbc-si-politico-la-casa-alba.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Administraţia Trump va contesta decizia unui judecător federal care a restabilit accesul la Casa Albă pentru CNN, MS NOW şi Politico",
+        "link": "https://www.digi24.ro/stiri/externe/sua/administratia-trump-va-contesta-decizia-unui-judecator-federal-care-a-restabilit-accesul-la-casa-alba-pentru-cnn-ms-now-si-politico-3992925"
+      }
+    ],
+    "published_at": 1792011952,
+    "title_hu": "A bíró ideiglenesen fenntartotta a CNN, az MSNBC és a Politico fehér házi hozzáférését",
+    "lead_hu": "Timothy Kelly szövetségi bíró ideiglenesen fenntartotta a CNN, az MSNBC és a Politico újságíróinak fehér házi hozzáférését, és megállapította, hogy a szervezeteknek erős érveik vannak a perben. A Trump-adminisztráció fellebbez a döntés ellen; a végzés a jogvita idejére szól, nem rendezi véglegesen az ügyet.",
+    "content_hu": "• **Timothy Kelly szövetségi bíró** ideiglenesen fenntartotta a CNN, az MSNBC és a Politico újságíróinak hozzáférését a Fehér Házhoz a per lezárásáig, hacsak egy fellebbviteli bíróság nem változtatja meg a végzést.\n\n• **A bíró szerint a felpereseknek jó esélyük van a per megnyerésére:** az eljárási garanciák mellett az első alkotmánykiegészítésre alapozott érveik is megalapozottak lehetnek.\n\n• **Kelly a korlátozást valószínűsíthetően jogellenes véleményalapú diszkriminációnak nevezte.** Indoklása szerint Trump nyilatkozatai valószínűsíthető kapcsolatot teremtenek a szerkesztőségek védett tudósításai és akkreditációjuk visszavonása között.\n\n• **A bíró elutasította a nemzetbiztonsági indoklást:** szerinte az ügy iratai nem támasztják alá, hogy ez indokolta volna a kizárást, a kormányzat érveit pedig utólagos igazolásként értékelte.\n\n• **Szeptember 18-án** Trump visszavonta a három szervezet újságíróinak hozzáférését, hamis hírek közlésével vádolva őket. **Szeptember 24-én** a bíró elrendelte az akkreditációk visszaállítását.\n\n• **A hozzáférés továbbra is korlátozott bizonyos eseményeken és elnöki utakon:** a riporterek egyes fehér házi eseményekről, illetve az Air Force One fedélzetéről is kiszorulnak.\n\n• **A Fehér Ház a visszavonást egyebek mellett az iráni háború miatt kialakult amerikai lőszerhiányról szóló tudósításokkal indokolta.** A Pentagon szeptember közepén közzétett jelentése megerősítette a hiányról szóló állítást.\n\n• **A Trump-adminisztráció fellebbez a döntés ellen.** A bíró végzése ideiglenes, és nem dönt véglegesen a korlátozások jogszerűségéről.",
+    "title_ro": "Judecătorul menține temporar accesul CNN, MSNBC și Politico la Casa Albă",
+    "lead_ro": "Judecătorul federal Timothy Kelly a menținut temporar accesul jurnaliștilor CNN, MSNBC și Politico la Casa Albă și a apreciat că organizațiile au argumente solide în proces. Administrația Trump contestă decizia în apel, iar ordinul nu tranșează definitiv legalitatea restricțiilor.",
+    "content_ro": "• **Judecătorul federal Timothy Kelly** a menținut temporar accesul jurnaliștilor CNN, MSNBC și Politico la Casa Albă până la soluționarea procesului, cu excepția cazului în care o instanță de apel anulează ordinul.\n\n• **Reclamanții au șanse mari de câștig**, a apreciat Kelly: argumentele lor privind procedura legală și cele întemeiate pe Primul Amendament sunt solide.\n\n• **Kelly a calificat măsura drept o discriminare probabil ilegală bazată pe opinii.** Potrivit judecătorului, comentariile lui Trump indică o legătură probabilă între relatările protejate ale publicațiilor și retragerea acreditărilor.\n\n• **Judecătorul a respins justificarea privind securitatea națională:** dosarul nu conține dovezi care să explice excluderea din acest motiv, iar argumentele guvernului au fost considerate justificări formulate ulterior.\n\n• **Pe 18 septembrie**, Trump a retras accesul jurnaliștilor celor trei organizații, acuzându-le că difuzează știri false. **Pe 24 septembrie**, judecătorul a dispus restabilirea acreditărilor.\n\n• **Accesul rămâne limitat la anumite evenimente și deplasări prezidențiale:** reporterilor li se refuză participarea la unele evenimente de la Casa Albă și accesul la bordul Air Force One.\n\n• **Casa Albă a justificat retragerea, printre altele, prin relatările despre lipsa de muniție a forțelor americane din cauza războiului împotriva Iranului.** Un raport al Pentagonului publicat la jumătatea lunii septembrie a confirmat deficitul.\n\n• **Administrația Trump face apel împotriva deciziei.** Ordinul judecătorului este temporar și nu stabilește definitiv dacă restricțiile au fost legale."
+  },
+  {
+    "group_id": "group_66dbb3eb8f",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/HMD-2660-Flip-Senior-Edition.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "HMD 2660 Flip Senior Edition, un telefon creat special pentru seniori. Mary le poate ține companie utilizatorilor",
+        "link": "https://www.go4it.ro/content/telefoane-mobile/hmd-2660-flip-senior-edition-un-telefon-creat-special-pentru-seniori-mary-le-tina-companie-utilizatorilor-19287839/"
+      }
+    ],
+    "published_at": 1792011919,
+    "title_hu": "HMD 2660 Flip Senior Edition, un telefon creat special pentru seniori. Mary le poate ține companie utilizatorilor",
+    "lead_hu": "HMD 2660 Flip Senior Edition este noua versiune a telefonului 2660 Flip, care are un asistent AI conceput pentru a combate singurătatea în rândul utilizatorilor vârstnici, a anunțat HMD. Caracteristic…",
+    "content_hu": "HMD 2660 Flip Senior Edition este noua versiune a telefonului 2660 Flip, care are un asistent AI conceput pentru a combate singurătatea în rândul utilizatorilor vârstnici, a anunțat HMD. Caracteristica sa principală este Mary, un […] Articolul HMD 2660 Flip Senior Edition, un telefon creat special pentru seniori. Mary le poate ține companie utilizatorilor apare prima dată în Go4IT.",
+    "title_ro": "HMD 2660 Flip Senior Edition, un telefon creat special pentru seniori. Mary le poate ține companie utilizatorilor",
+    "lead_ro": "HMD 2660 Flip Senior Edition este noua versiune a telefonului 2660 Flip, care are un asistent AI conceput pentru a combate singurătatea în rândul utilizatorilor vârstnici, a anunțat HMD. Caracteristic…",
+    "content_ro": "HMD 2660 Flip Senior Edition este noua versiune a telefonului 2660 Flip, care are un asistent AI conceput pentru a combate singurătatea în rândul utilizatorilor vârstnici, a anunțat HMD. Caracteristica sa principală este Mary, un […] Articolul HMD 2660 Flip Senior Edition, un telefon creat special pentru seniori. Mary le poate ține companie utilizatorilor apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_06767975a7",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23259274/2/alexandru-combei-director-investitii-brd-am.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "ZF Deschiderea de astăzi la Bursă. Alexandru Combei, BRD AM, administrator cu active de 13 mld. lei: Dobânzile titlurilor de stat în valută nu se reflectă pe deplin în evaluările acţiunilor de la BVB",
+        "link": "https://www.zf.ro/zf-deschiderea-de-astazi/zf-deschiderea-de-astazi-la-bursa-alexandru-combei-brd-am-administrator-cu-active-de-13-mld-lei-dobanzile-titlurilor-de-stat-in-valuta-nu-se-reflecta-pe-deplin-in-evaluarile-actiunilor-de-la-bvb-23259274"
+      }
+    ],
+    "published_at": 1792011900,
+    "title_hu": "ZF Deschiderea de astăzi la Bursă. Alexandru Combei, BRD AM, administrator cu active de 13 mld. lei: Dobânzile titlurilor de stat în valută nu se reflectă pe deplin în evaluările acţiunilor de la BVB",
+    "lead_hu": "Randamentele titlurilor de stat româneşti în valută nu se reflectă pe deplin în evaluările acţiunilor de la Bursa de Valori Bucureşti, consideră Alexandru Combei, director de investiţii la BRD Asset M…",
+    "content_hu": "Randamentele titlurilor de stat româneşti în valută nu se reflectă pe deplin în evaluările acţiunilor de la Bursa de Valori Bucureşti, consideră Alexandru Combei, director de investiţii la BRD Asset Management, administrator de fonduri cu active în valoare de aproape 13 miliarde de lei, invitat la emisiunea ZF Deschiderea de Astăzi.",
+    "title_ro": "ZF Deschiderea de astăzi la Bursă. Alexandru Combei, BRD AM, administrator cu active de 13 mld. lei: Dobânzile titlurilor de stat în valută nu se reflectă pe deplin în evaluările acţiunilor de la BVB",
+    "lead_ro": "Randamentele titlurilor de stat româneşti în valută nu se reflectă pe deplin în evaluările acţiunilor de la Bursa de Valori Bucureşti, consideră Alexandru Combei, director de investiţii la BRD Asset M…",
+    "content_ro": "Randamentele titlurilor de stat româneşti în valută nu se reflectă pe deplin în evaluările acţiunilor de la Bursa de Valori Bucureşti, consideră Alexandru Combei, director de investiţii la BRD Asset Management, administrator de fonduri cu active în valoare de aproape 13 miliarde de lei, invitat la emisiunea ZF Deschiderea de Astăzi."
+  },
+  {
+    "group_id": "group_145d60c5c0",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260203/1/4-investor-day-p17.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "EXCLUSIV ZF CORPORATE. Comparaţie ZF: cât plătesc investitorii pentru fiecare 100 de lei din bilanţul unei bănci? Circa 19 lei la Banca Transilvania, 22 de lei la BRD, 12 lei la UniCredit şi 9 lei la Erste",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/exclusiv-zf-corporate-comparatie-zf-cat-platesc-investitorii-100-lei-bilantul-unei-banci-circa-19-lei-banca-transilvania-22-lei-brd-12-lei-unicredit-9-lei-erste-23260203"
+      }
+    ],
+    "published_at": 1792011900,
+    "title_hu": "EXCLUSIV ZF CORPORATE. Comparaţie ZF: cât plătesc investitorii pentru fiecare 100 de lei din bilanţul unei bănci? Circa 19 lei la Banca Transilvania, 22 de lei la BRD, 12 lei la UniCredit şi 9 lei la Erste",
+    "lead_hu": "Planul Băncii Transilvania (TLV) de a-şi creşte activele de la 44 mld. euro la 100 mld. euro până în 2030 are sens pentru acţionari în măsura în care banca îşi păstrează profitabilitatea, spun analişt…",
+    "content_hu": "Planul Băncii Transilvania (TLV) de a-şi creşte activele de la 44 mld. euro la 100 mld. euro până în 2030 are sens pentru acţionari în măsura în care banca îşi păstrează profitabilitatea, spun analiştii şi brokeri în discuţii cu ZF. Bursa evaluează deja ­grupul la aproape 19% din acti­ve, peste marile bănci europene.",
+    "title_ro": "EXCLUSIV ZF CORPORATE. Comparaţie ZF: cât plătesc investitorii pentru fiecare 100 de lei din bilanţul unei bănci? Circa 19 lei la Banca Transilvania, 22 de lei la BRD, 12 lei la UniCredit şi 9 lei la Erste",
+    "lead_ro": "Planul Băncii Transilvania (TLV) de a-şi creşte activele de la 44 mld. euro la 100 mld. euro până în 2030 are sens pentru acţionari în măsura în care banca îşi păstrează profitabilitatea, spun analişt…",
+    "content_ro": "Planul Băncii Transilvania (TLV) de a-şi creşte activele de la 44 mld. euro la 100 mld. euro până în 2030 are sens pentru acţionari în măsura în care banca îşi păstrează profitabilitatea, spun analiştii şi brokeri în discuţii cu ZF. Bursa evaluează deja ­grupul la aproape 19% din acti­ve, peste marile bănci europene."
+  },
+  {
+    "group_id": "group_9de4df2f10",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21328/23260206/1/7-bogdan-gubandru-coo-redport.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Capitala în transformare urbană, un proiect susţinut de REDPORT. Bogdan Gubandru, COO: Am adus execuţia în casă pentru peste 2.000 de apartamente. Istoricul de livrare va deveni elementul care va face diferenţa dintre dezvoltatori",
+        "link": "https://www.zf.ro/capitala-in-transformare-urbana/capitala-transformare-urbana-proiect-sustinut-redport-bogdan-gubandru-coo-adus-executia-casa-peste-2-000-apartamente-istoricul-livrare-deveni-elementul-face-diferenta-dintre-dezvoltatori-23260206"
+      }
+    ],
+    "published_at": 1792011900,
+    "title_hu": "Capitala în transformare urbană, un proiect susţinut de REDPORT. Bogdan Gubandru, COO: Am adus execuţia în casă pentru peste 2.000 de apartamente. Istoricul de livrare va deveni elementul care va face diferenţa dintre dezvoltatori",
+    "lead_hu": "Evoluţia pieţei rezidenţiale din Capitală începe de pe şantier, iar un dezvoltator cu peste 2.000 de aparta­mente în lucru nu mai cumpără lifturi, tâmplărie sau ceramică pentru un singur bloc, ci pent…",
+    "content_hu": "Evoluţia pieţei rezidenţiale din Capitală începe de pe şantier, iar un dezvoltator cu peste 2.000 de aparta­mente în lucru nu mai cumpără lifturi, tâmplărie sau ceramică pentru un singur bloc, ci pentru un întreg pipeline de proiecte.",
+    "title_ro": "Capitala în transformare urbană, un proiect susţinut de REDPORT. Bogdan Gubandru, COO: Am adus execuţia în casă pentru peste 2.000 de apartamente. Istoricul de livrare va deveni elementul care va face diferenţa dintre dezvoltatori",
+    "lead_ro": "Evoluţia pieţei rezidenţiale din Capitală începe de pe şantier, iar un dezvoltator cu peste 2.000 de aparta­mente în lucru nu mai cumpără lifturi, tâmplărie sau ceramică pentru un singur bloc, ci pent…",
+    "content_ro": "Evoluţia pieţei rezidenţiale din Capitală începe de pe şantier, iar un dezvoltator cu peste 2.000 de aparta­mente în lucru nu mai cumpără lifturi, tâmplărie sau ceramică pentru un singur bloc, ci pentru un întreg pipeline de proiecte."
+  },
+  {
+    "group_id": "group_48cb103bdb",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/25326/23260231/2/9-img-6199.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Ce au în comun criminologia şi cofetăria şi cum se poate schimba radical viaţa ta atunci când îţi descoperi pasiunea şi o transformi în business",
+        "link": "https://www.zf.ro/zf-gen-z/ce-au-in-comun-criminologia-si-cofetaria-si-cum-se-poate-schimba-radical-viata-ta-atunci-cand-iti-descoperi-pasiunea-si-o-transformi-in-business-23260231"
+      }
+    ],
+    "published_at": 1792011900,
+    "title_hu": "Ce au în comun criminologia şi cofetăria şi cum se poate schimba radical viaţa ta atunci când îţi descoperi pasiunea şi o transformi în business",
+    "lead_hu": "Te-ai gândit vreodată că meseria pentru care te pregăteşti în facultate s-ar putea să nu fie cea pe care o vei practica peste câţiva ani? Sau că un hobby pe care îl ai acum ar putea deveni, la un mome…",
+    "content_hu": "Te-ai gândit vreodată că meseria pentru care te pregăteşti în facultate s-ar putea să nu fie cea pe care o vei practica peste câţiva ani? Sau că un hobby pe care îl ai acum ar putea deveni, la un moment dat, propriul tău business? Povestea Iuliei Ilie, o tânără de 25 de ani, arată că nu trebuie să urmezi neapărat drumul pe care ţi l-ai imaginat la început şi că, uneori, pasiunea te poate duce într-o direcţie complet diferită.",
+    "title_ro": "Ce au în comun criminologia şi cofetăria şi cum se poate schimba radical viaţa ta atunci când îţi descoperi pasiunea şi o transformi în business",
+    "lead_ro": "Te-ai gândit vreodată că meseria pentru care te pregăteşti în facultate s-ar putea să nu fie cea pe care o vei practica peste câţiva ani? Sau că un hobby pe care îl ai acum ar putea deveni, la un mome…",
+    "content_ro": "Te-ai gândit vreodată că meseria pentru care te pregăteşti în facultate s-ar putea să nu fie cea pe care o vei practica peste câţiva ani? Sau că un hobby pe care îl ai acum ar putea deveni, la un moment dat, propriul tău business? Povestea Iuliei Ilie, o tânără de 25 de ani, arată că nu trebuie să urmezi neapărat drumul pe care ţi l-ai imaginat la început şi că, uneori, pasiunea te poate duce într-o direcţie complet diferită."
+  },
+  {
+    "group_id": "group_29bc7129e5",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/25326/23260232/3/9-gen-z-sondaj.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Sondaj. „Îmi permit“ înseamnă…",
+        "link": "https://www.zf.ro/zf-gen-z/sondaj-imi-permit-inseamna-23260232"
+      }
+    ],
+    "published_at": 1792011900,
+    "title_hu": "Sondaj. „Îmi permit“ înseamnă…",
+    "lead_hu": "Când spunem „îmi permit“, nu ne referim întotdeauna doar la faptul că avem suficienţi bani în acel moment. Pentru unii tineri, contează ca o cheltuială să fie planificată şi să se încadreze în buget. …",
+    "content_hu": "Când spunem „îmi permit“, nu ne referim întotdeauna doar la faptul că avem suficienţi bani în acel moment. Pentru unii tineri, contează ca o cheltuială să fie planificată şi să se încadreze în buget. Pentru alţii, înseamnă să nu fie nevoie să se împrumute sau, pur şi simplu, să ştie că, după ce cumpără ceva, le mai rămân bani.",
+    "title_ro": "Sondaj. „Îmi permit“ înseamnă…",
+    "lead_ro": "Când spunem „îmi permit“, nu ne referim întotdeauna doar la faptul că avem suficienţi bani în acel moment. Pentru unii tineri, contează ca o cheltuială să fie planificată şi să se încadreze în buget. …",
+    "content_ro": "Când spunem „îmi permit“, nu ne referim întotdeauna doar la faptul că avem suficienţi bani în acel moment. Pentru unii tineri, contează ca o cheltuială să fie planificată şi să se încadreze în buget. Pentru alţii, înseamnă să nu fie nevoie să se împrumute sau, pur şi simplu, să ştie că, după ce cumpără ceva, le mai rămân bani."
+  },
+  {
+    "group_id": "group_5478b1d7ff",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/32906/23260280/4/7-investitii.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Ce înseamnă cinci luni fără guvern pentru mediul de business? Investitorii preferă să aştepte, pun proiectele pe hold, iar piaţa şi consumul scad",
+        "link": "https://www.zf.ro/imm/ce-inseamna-cinci-luni-fara-guvern-pentru-mediul-de-business-investitorii-prefera-sa-astepte-pun-proiectele-pe-hold-iar-piata-si-consumul-scad-23260280"
+      }
+    ],
+    "published_at": 1792011900,
+    "title_hu": "Ce înseamnă cinci luni fără guvern pentru mediul de business? Investitorii preferă să aştepte, pun proiectele pe hold, iar piaţa şi consumul scad",
+    "lead_hu": "Guvernul este ceea ce le-a lipsit cel mai mult antreprenorilor în anul 2026, în condiţiile în care, de mai bine de cinci luni, România funcţionează fără un premier cu funcţii depline. În aceste condiţ…",
+    "content_hu": "Guvernul este ceea ce le-a lipsit cel mai mult antreprenorilor în anul 2026, în condiţiile în care, de mai bine de cinci luni, România funcţionează fără un premier cu funcţii depline. În aceste condiţii, unii dintre cei care aveau în plan investiţii au ales să le pună „pe hold”, deci în aşteptare, până când vor putea avea o imagine ceva mai clară referitor la decidenţii din mediul politic, mai ales că această problemă se suprapune peste altele.",
+    "title_ro": "Ce înseamnă cinci luni fără guvern pentru mediul de business? Investitorii preferă să aştepte, pun proiectele pe hold, iar piaţa şi consumul scad",
+    "lead_ro": "Guvernul este ceea ce le-a lipsit cel mai mult antreprenorilor în anul 2026, în condiţiile în care, de mai bine de cinci luni, România funcţionează fără un premier cu funcţii depline. În aceste condiţ…",
+    "content_ro": "Guvernul este ceea ce le-a lipsit cel mai mult antreprenorilor în anul 2026, în condiţiile în care, de mai bine de cinci luni, România funcţionează fără un premier cu funcţii depline. În aceste condiţii, unii dintre cei care aveau în plan investiţii au ales să le pună „pe hold”, deci în aşteptare, până când vor putea avea o imagine ceva mai clară referitor la decidenţii din mediul politic, mai ales că această problemă se suprapune peste altele."
+  },
+  {
+    "group_id": "group_485fbd09bf",
+    "fingerprint": "3070a10d5c6ea6e02fe01fac70189b55",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTUxM18zMDA5/NTEzX3Byb2ZpbWVkaWEtMTAyODA4NDQ1/Mi5qcGcmaGFzaD1hYzdkODkwNjhlOTdjNGMwZmFmZDU3ODdlOGZkZDI4Yw==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Atac cibernetic în sute de supermarketuri din Franța. Hackerii au încins frigiderele, iar alimentele au ajuns la gunoi",
+        "link": "https://www.digi24.ro/stiri/externe/ue/atac-cibernetic-in-sute-de-supermarketuri-din-franta-hackerii-au-incins-frigiderele-iar-alimentele-au-ajuns-la-gunoi-3989667"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Atac cibernetic fără precedent asupra supermarketurilor din Europa: hackerii au crescut temperatura frigiderelor la 50 de grade",
+        "link": "https://adevarul.ro/stiri-externe/europa/atac-cibernetic-fara-precedent-asupra-2563659.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cum pot ajunge hackerii la dispozitivele casnice sau la sistemele de supraveghere și alarmă ale locuinței (Reuters)",
+        "link": "https://www.digi24.ro/stiri/actualitate/cum-pot-ajunge-hackerii-la-dispozitivele-casnice-sau-la-sistemele-de-supraveghere-si-alarma-ale-locuintei-reuters-3990403"
+      },
+      {
+        "source": "Maszol",
+        "title": "Példátlan kibertámadás Franciaországban: több száz szupermarket hűtőjét kapcsolták le hackerek (VIDEÓ)",
+        "link": "https://maszol.ro/kulfold/Peldatlan-kibertamadas-Franciaorszagban-tobb-szaz-szupermarket-hutojet-kapcsoltak-le-hackerek-VIDEO"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cele mai vulnerabile dispozitive din locuință. Cum pot hackerii să „intre” în casele noastre prin televizor",
+        "link": "https://stirileprotv.ro/stiri/actualitate/casele-inteligente-vizate-de-hackeri-cineva-care-vrea-sa-ne-faca-rau-poate-intra-in-casa-noastra-printr-un-televizor.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Parola era data zilei. Cum au putut hackerii să încălzească frigiderele a sute de supermarketuri din Franța",
+        "link": "https://www.mediafax.ro/tehnologie/parola-era-data-zilei-cum-au-putut-hackerii-sa-incalzeasca-frigiderele-a-sute-de-supermarketuri-din-franta-23825446"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Parola care ar fi permis hackerilor să saboteze frigiderele din supermarketurile din Franța. Ce a descoperit un expert",
+        "link": "https://stirileprotv.ro/stiri/international/parola-care-ar-fi-permis-hackerilor-sa-saboteze-frigiderele-din-supermarketurile-din-franta-ce-a-descoperit-un-expert.html"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Atacul asupra frigiderelor supermarketurilor din Franța, simplu ca „bună-ziua”",
+        "link": "https://www.go4it.ro/securitate-informatica/atacul-asupra-frigiderelor-supermarketurilor-din-franta-simplu-ca-buna-ziua-19287836/"
+      }
+    ],
+    "published_at": 1792011891,
+    "title_hu": "Kibertámadás melegítette fel több száz francia szupermarket hűtőit",
+    "lead_hu": "Hackerek távolról módosították több francia áruházlánc hűtőrendszereinek beállításait, egyes berendezésekben 50 Celsius-fokra emelve a hőmérsékletet. Az üzletek nagy mennyiségű élelmiszert semmisítettek meg, a hatóságok nyomoznak, a károk pedig akár több tízmillió euróra rúghatnak. A francia hatóságok európai partnereikkel is egyeztetnek, miközben az eset a hálózatra kötött berendezések biztonsági kockázataira is ráirányította a figyelmet.",
+    "content_hu": "• **Több száz franciaországi szupermarketet** érintett a kibertámadás. A becslések eltérnek: egyes összesítések körülbelül 400, mások több mint 500 érintett üzletről írnak; ez a nagyjából 15 ezer franciaországi áruház töredéke.\n\n• **A hackerek távolról elindították a hűtőberendezések leolvasztását**, és egyes rendszerekben 50 Celsius-fokra emelték a hőmérsékletet. Az Intermarché üzleteiben a hűtők a beszámolók szerint hat órán át maradtak ilyen hőmérsékleten, a támadás október 11-ről 12-re virradó éjjel történt.\n\n• **Több nagy áruházlánc is érintett volt:** az Intermarché és a Netto mintegy 150–180 üzletéről, a Carrefour 80 boltról, a Coopérative U pedig több mint száz üzletről számolt be. A Monoprix közlése szerint üzleteinek 5 százalékát érintette az eset; az E.Leclerc is megerősítette az érintettséget. A Coopérative U további száz üzletét elővigyázatosságból lekapcsolta az internetről.\n\n• **Az üzletek kivonták a forgalomból vagy megsemmisítették az érintett élelmiszereket**, hogy elkerüljék az egészségügyi kockázatokat. Egyes helyszíneken tűz is keletkezett; két haguenau-i üzlet mintegy 270 ezer eurós veszteséget jelentett, az országos kár pedig elérheti a több tízmillió eurót. Egyes hűtőpultok még hétfő délután sem működtek.\n\n• **A támadás a Danfoss hűtésvezérlő rendszereihez kapcsolódik.** Az ANSSI vizsgálata a Danfoss AK-SM 800A vezérlőjének sérülékenységére is kiterjed; a Claroty augusztusi kutatása 2765, internet felől elérhető ilyen eszközt talált. A Danfoss szerint az érintett berendezések között elavult, illetve nem frissített szoftvert használó modellek voltak; a gyártó korábban már adott ki javításokat a feltárt hibákra.\n\n• **Egy szakértő szerint több alapvető biztonsági hiányosság is közrejátszhatott:** könnyen kitalálható vagy alapértelmezett jelszavak, közvetlenül internetre kötött ipari rendszerek, elavult szoftverek és az elkülönített hálózatok hiánya. Az admin felhasználónév és az aznapi dátum mint jelszó használatáról szóló állítást azonban nem erősítették meg a támadás bizonyított módszereként.\n\n• **A francia hatóságok nyomoznak, és európai partnereikkel is egyeztetnek.** A párizsi ügyészség külön kiberbűnözési vizsgálatot indított, Sébastien Lecornu miniszterelnök pedig az ANSSI-t kérte fel az ügy kivizsgálására. Hollandiában és Belgiumban az Ahold Delhaize biztonsági problémát jelentett és egyes rendszereket leállított; az Albert Heijn üzletei nyitva maradtak, de az online alkalmazás és a házhoz szállítás akadozott, az elektronikus árcímkék pedig hibás adatokat mutathattak. Nem bizonyított, hogy ez összefügg a francia hűtőrendszerek elleni támadással.\n\n• **Az eset a hálózatra kötött eszközök általános kockázataira is rámutat.** Biztonsági szakértők rendszeres frissítést, az alapértelmezett jelszavak lecserélését és a már támogatás nélküli eszközök lecserélését javasolják; az internetre kötött berendezések kompromittálása akár más, ugyanazon a hálózaton lévő rendszerekhez is hozzáférést adhat.",
+    "title_ro": "Atacul cibernetic a încălzit frigiderele din sute de supermarketuri din Franța",
+    "lead_ro": "Hackerii au modificat de la distanță setările sistemelor frigorifice ale mai multor lanțuri de magazine din Franța, ridicând în unele cazuri temperatura până la 50 de grade Celsius. Magazinele au distrus cantități mari de alimente, autoritățile au deschis o anchetă, iar pagubele ar putea ajunge la zeci de milioane de euro. Franța discută cu partenerii europeni, iar incidentul a readus în atenție riscurile de securitate ale dispozitivelor conectate la internet.",
+    "content_ro": "• **Sute de supermarketuri din Franța** au fost afectate de atacul cibernetic. Estimările diferă: unele relatări indică aproximativ 400 de magazine, iar altele peste 500, dintr-un total de circa 15.000 de unități din țară.\n\n• **Hackerii au declanșat de la distanță ciclul de dezghețare al echipamentelor frigorifice**, ridicând temperatura în unele sisteme până la 50 de grade Celsius. În magazinele Intermarché, frigiderele ar fi rămas la această temperatură timp de șase ore; atacul a avut loc în noaptea de 11 spre 12 octombrie.\n\n• **Mai multe lanțuri importante au fost afectate:** Intermarché și Netto au raportat aproximativ 150–180 de magazine, Carrefour 80, iar Coopérative U peste 100. Monoprix a precizat că a fost afectat 5% din rețeaua sa, iar E.Leclerc a confirmat, de asemenea, incidente. Coopérative U a deconectat preventiv de la internet alte 100 de magazine.\n\n• **Magazinele au retras sau au distrus alimentele afectate** pentru a evita riscurile pentru sănătatea consumatorilor. În unele locuri au izbucnit incendii; două magazine din Haguenau au raportat pierderi de aproximativ 270.000 de euro, iar pagubele la nivel național ar putea ajunge la zeci de milioane. Unele vitrine frigorifice încă nu funcționau luni după-amiază.\n\n• **Atacul este legat de sistemele de control frigorific Danfoss.** Investigația ANSSI analizează și vulnerabilitatea controlerului Danfoss AK-SM 800A; o cercetare Claroty din august a identificat 2.765 de astfel de dispozitive accesibile de pe internet. Danfoss a declarat că printre echipamentele afectate se aflau modele vechi sau cu software neactualizat; compania publicase anterior actualizări pentru vulnerabilitățile identificate.\n\n• **Un expert spune că ar fi putut contribui mai multe deficiențe elementare de securitate:** parole implicite sau ușor de ghicit, sisteme industriale expuse direct la internet, software învechit și lipsa segmentării rețelelor. Afirmația că unele sisteme ar fi folosit utilizatorul „admin” și data zilei drept parolă nu a fost confirmată ca metodă folosită efectiv în atac.\n\n• **Autoritățile franceze investighează cazul și se coordonează cu partenerii europeni.** Parchetul din Paris a deschis o anchetă specială privind criminalitatea informatică, iar premierul Sébastien Lecornu a cerut ANSSI să investigheze. În Olanda și Belgia, Ahold Delhaize a semnalat o problemă de securitate și a oprit unele sisteme; magazinele Albert Heijn au rămas deschise, dar aplicația online și livrările au fost afectate, iar etichetele electronice de preț puteau afișa informații greșite. Nu s-a demonstrat că aceste probleme sunt legate de atacul asupra sistemelor frigorifice din Franța.\n\n• **Incidentul evidențiază și riscurile generale ale dispozitivelor conectate la internet.** Experții recomandă actualizarea regulată a software-ului, schimbarea parolelor implicite și înlocuirea dispozitivelor care nu mai primesc suport; compromiterea unui echipament conectat poate oferi acces și la alte sisteme din aceeași rețea."
+  },
+  {
+    "group_id": "group_d960a118ae",
+    "category": "Gazdaság",
+    "image": "https://cdn.adh.reperio.news/image-a/a7c5174e-9fc1-4f20-9bc3-59d69d057ea6/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cum s-a ajuns ca zeci de mii de animale să figureze în baza oficială de date, dar să lipsească din ferme. „Anul trecut n-au avut bani de inspecții”",
+        "link": "https://adevarul.ro/stiri-locale/slatina/cum-s-a-ajuns-ca-zeci-de-mii-de-animale-sa-2563887.html"
+      }
+    ],
+    "published_at": 1792011866,
+    "title_hu": "Cum s-a ajuns ca zeci de mii de animale să figureze în baza oficială de date, dar să lipsească din ferme. „Anul trecut n-au avut bani de inspecții”",
+    "lead_hu": "Într-un singur județ, la controalele în exploatațiile de ovine și caprine s-au constatat neconcordanțe foarte mari între numărul de animale înscris oficial în baza națională de date (BND) și animalele…",
+    "content_hu": "Într-un singur județ, la controalele în exploatațiile de ovine și caprine s-au constatat neconcordanțe foarte mari între numărul de animale înscris oficial în baza națională de date (BND) și animalele efectiv existente în ferme. Există explicații, există și implicații.",
+    "title_ro": "Cum s-a ajuns ca zeci de mii de animale să figureze în baza oficială de date, dar să lipsească din ferme. „Anul trecut n-au avut bani de inspecții”",
+    "lead_ro": "Într-un singur județ, la controalele în exploatațiile de ovine și caprine s-au constatat neconcordanțe foarte mari între numărul de animale înscris oficial în baza națională de date (BND) și animalele…",
+    "content_ro": "Într-un singur județ, la controalele în exploatațiile de ovine și caprine s-au constatat neconcordanțe foarte mari între numărul de animale înscris oficial în baza națională de date (BND) și animalele efectiv existente în ferme. Există explicații, există și implicații."
+  },
+  {
+    "group_id": "group_b79f783873",
+    "fingerprint": "75b6a94f848eb19fff4d0ed22329658e",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-f/f412a2c2-5e17-4cc7-a3df-9026746ca69c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Unii cercetători AI s-au apucat de fumat, optimiști că tehnologia va vindeca cancerul. „Există un fel de psihoză în masă”",
+        "link": "https://adevarul.ro/stil-de-viata/tehnologie/unii-cercetatori-ai-s-au-apucat-de-fumat-2563990.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "„Ce? Asta nu are niciun sens!” | Cercetători AI s-au apucat de fumat, fiind siguri că aceasta va găsi leacul pentru cancer",
+        "link": "https://www.mediafax.ro/sanatate/ce-asta-nu-are-niciun-sens-cercetatori-ai-s-au-apucat-de-fumat-fiind-siguri-ca-aceasta-va-gasi-leacul-pentru-cancer-23825358"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Cancerul provocat de fumat va fi vindecat de AI? De ce s-au apucat de fumat cercetători din AI",
+        "link": "https://www.go4it.ro/content/curiozitati/cercetatori-ai-s-au-apucat-de-fumat-cancerul-vindecat-ai-19287834/"
+      }
+    ],
+    "published_at": 1792011838,
+    "title_hu": "A Palantir vezetője szerint egyes AI-kutatók a rákgyógyító AI-ban bízva dohányoznak",
+    "lead_hu": "Shyam Sankar, a Palantir technológiai igazgatója azt állította, hogy egyes AI-kutatók azért kezdtek dohányozni, mert bíznak abban, hogy a technológia gyógymódot talál a rákra. Nem nevezett meg érintetteket, és nem szolgált bizonyítékkal az állítására; azt viszont bizonyíték nélkül állította, hogy az amerikai kutatók többsége osztja ezt a nézetet.",
+    "content_hu": "• **Sankar állítása szerint** egyes AI-kutatók azért kezdtek dohányozni, hogy ezzel jelezzék kollégáiknak: annyira bíznak a mesterséges intelligenciában, hogy szerintük az rákgyógymódot találhat.\n\n• **Nem közölt neveket vagy bizonyítékot**, és azt sem mondta meg, hány kutatóról lehet szó. Azt viszont bizonyíték nélkül állította, hogy az amerikai AI-kutatók többsége osztja ezt a nézetet.\n\n• **A kijelentés a CBS Face the Nation című műsorában hangzott el**; Margaret Brennan műsorvezető meglepetten reagált, és azt mondta: „Mi? Ennek semmi értelme!” Sankar a jelenséget „kollektív pszichózisnak” és „közös téveszmének” nevezte, az AGI körüli túlzott hitet bírálva.\n\n• **A nikotinhasználat más formái is megjelentek a Szilícium-völgyben**: az Adevărul beszámolója szerint a Palantir ingyenes nikotinpárnákat biztosít a 21 éven felüli dolgozóinak, egyes startupalapítók pedig a szakmai kapcsolatok építését is említették a dohányzás okaként. Avi Schiffmann, a Friend startup vezetője azzal viccelődött, hogy mire valaki tüdőrákot kap, az AI-robotok talán már meggyógyítják.\n\n• **Az AI-t már alkalmazzák az orvosi kutatásban**, például biológiai adatok elemzésére és lehetséges kezelések felkutatására, de ez nem garantálja a rák gyógymódjának felfedezését. A dohányzás továbbra is súlyos egészségügyi kockázat.",
+    "title_ro": "Șeful Palantir spune că unii cercetători AI fumează, încrezători că tehnologia va găsi leacul pentru cancer",
+    "lead_ro": "Shyam Sankar, directorul tehnologic al Palantir, a afirmat că unii cercetători în AI au început să fumeze deoarece cred că tehnologia va găsi un leac pentru cancer. Nu a oferit nume sau dovezi, dar a susținut, fără să prezinte dovezi, că majoritatea cercetătorilor americani împărtășesc această convingere.",
+    "content_ro": "• **Potrivit lui Sankar**, unii cercetători în AI au început să fumeze pentru a le arăta colegilor că au atât de multă încredere în inteligența artificială, încât cred că aceasta va găsi un leac pentru cancer.\n\n• **Sankar nu a oferit nume sau dovezi** și nu a precizat câți cercetători ar avea acest comportament. El a susținut, fără dovezi, că majoritatea cercetătorilor americani în AI împărtășesc această viziune.\n\n• **Afirmația a fost făcută în emisiunea Face the Nation de la CBS**; moderatoarea Margaret Brennan a reacționat surprinsă: „Ce? Asta nu are niciun sens!” Sankar a numit fenomenul „psihoză colectivă” și „iluzie colectivă”, criticând încrederea exagerată în AGI.\n\n• **Alte forme de consum de nicotină au revenit în unele medii din Silicon Valley**: potrivit Adevărul, Palantir oferă gratuit pliculețe cu nicotină angajaților cu vârsta peste 21 de ani, iar unii fondatori de startupuri au invocat și construirea de relații profesionale drept motiv pentru fumat. Avi Schiffmann, directorul startupului Friend, a glumit că, până când cineva va face cancer pulmonar, roboții AI ar putea deja să-l vindece.\n\n• **AI este deja folosită în cercetarea medicală**, inclusiv pentru analiza datelor biologice și identificarea unor posibile tratamente, dar acest lucru nu garantează descoperirea unui leac pentru cancer. Fumatul rămâne un risc grav pentru sănătate."
+  },
+  {
+    "group_id": "group_3179564094",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-5/54fff03d-87eb-4a3f-9451-77013f80c597/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "15 octombrie: Ziua în care Ferdinand I și Regina Maria au fost încoronați ca suverani ai tuturor românilor la Alba Iulia",
+        "link": "https://adevarul.ro/istoria-zilei/15-octombrie-ziua-in-care-ferdinand-i-si-regina-2563357.html"
+      }
+    ],
+    "published_at": 1792011685,
+    "title_hu": "15 octombrie: Ziua în care Ferdinand I și Regina Maria au fost încoronați ca suverani ai tuturor românilor la Alba Iulia",
+    "lead_hu": "Pe 15 octombrie 1893 s-a născut Carol al II-lea, regele României între 1930 și 1940. În aceeași zi, în 2011, au avut loc proteste în 951 de orașe din 82 de țări, împotriva inegalităților economice și …",
+    "content_hu": "Pe 15 octombrie 1893 s-a născut Carol al II-lea, regele României între 1930 și 1940. În aceeași zi, în 2011, au avut loc proteste în 951 de orașe din 82 de țări, împotriva inegalităților economice și a influenței corporațiilor asupra deciziilor politice.",
+    "title_ro": "15 octombrie: Ziua în care Ferdinand I și Regina Maria au fost încoronați ca suverani ai tuturor românilor la Alba Iulia",
+    "lead_ro": "Pe 15 octombrie 1893 s-a născut Carol al II-lea, regele României între 1930 și 1940. În aceeași zi, în 2011, au avut loc proteste în 951 de orașe din 82 de țări, împotriva inegalităților economice și …",
+    "content_ro": "Pe 15 octombrie 1893 s-a născut Carol al II-lea, regele României între 1930 și 1940. În aceeași zi, în 2011, au avut loc proteste în 951 de orașe din 82 de țări, împotriva inegalităților economice și a influenței corporațiilor asupra deciziilor politice."
+  },
+  {
     "group_id": "group_5ca4206385",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/derks24-demonstration-5026397_1920-1024x768.jpg",
@@ -370,39 +1204,6 @@
     "title_ro": "Criticile acordului privind motorina și costurile războiului amplifică disputa Trump–Zelenski",
     "lead_ro": "Noile surse confirmă criticile privind impactul limitat al acordului asupra prețurilor și consecințele sale politice. Ele adaugă o estimare a pierderilor Rusiei, data exactă a alegerilor americane de la jumătatea mandatului și numărul senatorilor care au cerut anularea înțelegerii.",
     "content_ro": "• **Estimarea pierderilor rusești și 3 noiembrie**: potrivit estimărilor citate de Transtelex, bilanțul cumulat al morților și răniților grav din Rusia ar putea depăși 1,5 milioane în al cincilea an al războiului; pentru septembrie este menționată o pierdere de 50.000 de oameni. Articolul indică 3 noiembrie drept data alegerilor americane de la jumătatea mandatului, înaintea cărora Trump tratează reducerea prețurilor la motorină și ca obiectiv politic.\n\n• **Doisprezece senatori au cerut anularea acordului**: semnatarii bipartizani ai scrisorii au solicitat Casei Albe, secretarului Trezoreriei și secretarului de Stat retragerea din înțelegere; în opinia lor, aceasta ar reduce prea puțin prețurile la combustibili, oferindu-i în schimb Moscovei venituri."
-  },
-  {
-    "group_id": "group_dfa7806656",
-    "fingerprint": "25bed7a2444e31cbe9176892a013a822",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/14/190450/yara-j-getty.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Navă lovită de dronă în apele teritoriale românești. Ce a raportat echipajul către Căpitănia Sulina",
-        "link": "https://stirileprotv.ro/stiri/actualitate/nava-lovita-de-drona-in-apele-teritoriale-romanesti-ce-a-raportat-echipajul-catre-capitania-sulina.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Incident grav în Marea Neagră! O navă a fost lovită de o dronă în apele României",
-        "link": "https://www.cancan.ro/incident-grav-in-marea-neagra-o-nava-a-fost-lovita-de-o-drona-in-apele-romaniei-21530275"
-      },
-      {
-        "source": "Go4IT",
-        "title": "Navă implicată într-un incident, în apele teritoriale române. Alertă maritimă lângă Sulina",
-        "link": "https://www.go4it.ro/diverse-2/nava-implicata-intr-un-incident-in-apele-teritoriale-romane-alerta-maritima-langa-sulina-19287886/"
-      }
-    ],
-    "published_at": 1792009209,
-    "title_hu": "Drón talált el egy teherhajót a román felségvizeken, Sulina közelében",
-    "lead_hu": "Október 14-én este drón találta el a Comore-szigeteki zászló alatt közlekedő Yara J teherhajót Sulina közelében, a román felségvizeken. A robbanás tüzet okozott, amelyet eloltottak; a legénység biztonságban van. A román hatóságok mentőhajót is a helyszínre küldtek, az incidens körülményeit vizsgálják.",
-    "content_hu": "• **2026. október 14-én, szerda este** a Yara J nevű, Comore-szigeteki zászló alatt közlekedő teherhajót drón találta el Sulinától mintegy 8–10 tengeri mérföldre délkeletre, a román felségvizeken.\n\n• **A hajó azonosítója IMO 9221803**; a beszámolók szerint ballasztosan, horgonyon állt, mintegy kilenc tengeri mérföldre Vădanei térségétől. Az esetet rádión jelentette a sulinai kikötőkapitányságnak, majd a MRCC-nek.\n\n• **A robbanás után tűz ütött ki a fedélzeten.** A legénységet kimenekítették, mindenki biztonságban van; a parti őrség szerint a tüzet eloltották, és a hajó nem kért további segítséget.\n\n• **A román mentőszolgálat SAR APOLLO hajója is elindult a helyszínre.** A MRCC 20:25-kor kérte a beavatkozást, a mentőhajó hat perccel később indult; ekkor a Yara J mindössze 0,4 csomós sebességgel haladt.\n\n• **A román külügyminisztérium az incidens kivizsgálásához köti a további lépéseket.** Közlése szerint kapcsolatban áll az illetékes román intézményekkel, és a körülmények tisztázása után tájékoztathatja a nemzetközi partnereket; a NATO-szerződés 4. cikkének esetleges alkalmazásáról is csak a vizsgálat fényében reagál.\n\n• **A légiriadókról szóló beszámolók szerint** 20:04-kor két légi célpont lépett be a román légtérbe: az egyik radarjele eltűnt a tenger felett, a másik Ukrajna felé távozott, és Reni térségében az ukrán légvédelem megsemmisítette. A ProTV külön azt is közölte, hogy szerdán összesen három drón hatolt be a román légtérbe, és a Tulcea megye északi részén élők aznap este a negyedik RO-Alert-üzenetet kapták.\n\n• **A romániai incidens előtti napon, október 13-án** két teherhajót is drón talált el a bolgár partok közelében. A HS Dignity elsüllyedt, és 11 tengerész eltűnt; a forrás szerint október 6-án ugyanott két másik teherhajót is dróntámadás ért.",
-    "title_ro": "Navă de marfă lovită de o dronă în apele teritoriale române, lângă Sulina",
-    "lead_ro": "În seara de 14 octombrie, nava de marfă Yara J, sub pavilionul Insulelor Comore, a fost lovită de o dronă în apropiere de Sulina, în apele teritoriale române. Explozia a provocat un incendiu, care a fost stins, iar echipajul este în siguranță. Autoritățile române au trimis și o navă de salvare în zonă și investighează circumstanțele incidentului.",
-    "content_ro": "• **Miercuri seară, 14 octombrie 2026,** nava de marfă Yara J, sub pavilionul Insulelor Comore, a fost lovită de o dronă la aproximativ 8–10 mile marine sud-est de Sulina, în apele teritoriale române.\n\n• **Nava are numărul IMO 9221803** și, potrivit relatărilor, se afla în balast și era ancorată la aproximativ nouă mile marine de zona Vădanei. Incidentul a fost raportat prin radio Căpităniei Sulina, apoi către MRCC.\n\n• **Explozia a provocat un incendiu la bord.** Echipajul a fost evacuat și toți membrii sunt în siguranță; Garda de Coastă a anunțat că incendiul a fost stins și că nava nu a solicitat asistență suplimentară.\n\n• **Nava de salvare SAR APOLLO a fost trimisă în zonă.** MRCC a solicitat intervenția la ora 20:25, iar nava a plecat șase minute mai târziu; în acel moment, Yara J avea o viteză de numai 0,4 noduri.\n\n• **Ministerul român de Externe condiționează pașii următori de clarificarea incidentului.** Instituția a declarat că este în legătură cu autoritățile române competente și că poate informa partenerii internaționali după stabilirea circumstanțelor; va reacționa inclusiv în privința unei eventuale invocări a articolului 4 din Tratatul NATO după finalizarea verificărilor.\n\n• **Potrivit relatărilor despre alertele aeriene,** la ora 20:04 două ținte aeriene au pătruns în spațiul aerian românesc: contactul radar cu una s-a pierdut deasupra mării, iar cealaltă a părăsit spațiul aerian către Ucraina și a fost distrusă de apărarea antiaeriană ucraineană în zona Reni. ProTV a relatat separat că, miercuri, în total trei drone au pătruns în spațiul aerian românesc și că locuitorii din nordul județului Tulcea au primit al patrulea mesaj RO-Alert al zilei.\n\n• **Cu o zi înainte, pe 13 octombrie,** două nave de marfă au fost lovite de drone în largul coastei Bulgariei. HS Dignity s-a scufundat, iar 11 marinari au fost dați dispăruți; potrivit sursei, alte două nave de marfă fuseseră lovite de drone în aceeași zonă pe 6 octombrie."
   },
   {
     "group_id": "group_2072d0df3e",
@@ -2915,54 +3716,6 @@
     "title_ro": "Raul Opruț: „Am fost dezamăgit de ce s-a întâmplat. Când mergi la națională, mergi cu gândul să joci”",
     "lead_ro": "Raul Opruț, fundașul stânga al celor de la Dinamo, a vorbit despre faptul că nu a fost folosit deloc de Gică Hagi la acțiunea recent încheiată a României din Liga Națiunilor. România a disputat 4 meci…",
     "content_ro": "Raul Opruț, fundașul stânga al celor de la Dinamo, a vorbit despre faptul că nu a fost folosit deloc de Gică Hagi la acțiunea recent încheiată a României din Liga Națiunilor. România a disputat 4 meciuri în Liga Națiunilor în septembrie și octombrie. Bilanțul a fost de 4 înfrângeri, iar Raul Opruț, deși a fost convocat în lotul final, nu a prins deloc minute. Acum, fotbalistul a transmis că a fost dezamăgit. ..."
-  },
-  {
-    "group_id": "group_485fbd09bf",
-    "fingerprint": "04c20ef62fd5b99b4a64f2d00a9b4547",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTUxM18zMDA5/NTEzX3Byb2ZpbWVkaWEtMTAyODA4NDQ1/Mi5qcGcmaGFzaD1hYzdkODkwNjhlOTdjNGMwZmFmZDU3ODdlOGZkZDI4Yw==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Atac cibernetic în sute de supermarketuri din Franța. Hackerii au încins frigiderele, iar alimentele au ajuns la gunoi",
-        "link": "https://www.digi24.ro/stiri/externe/ue/atac-cibernetic-in-sute-de-supermarketuri-din-franta-hackerii-au-incins-frigiderele-iar-alimentele-au-ajuns-la-gunoi-3989667"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Atac cibernetic fără precedent asupra supermarketurilor din Europa: hackerii au crescut temperatura frigiderelor la 50 de grade",
-        "link": "https://adevarul.ro/stiri-externe/europa/atac-cibernetic-fara-precedent-asupra-2563659.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cum a fost posibil atacul cibernetic asupra frigiderelor din Franța. Mii de frigidere din Europa sunt conectate la internet",
-        "link": "https://stirileprotv.ro/stiri/ilikeit/cum-a-fost-posibil-atacul-cibernetic-asupra-frigiderelor-din-franta-mii-de-frigidere-din-europa-sunt-conectate-la-internet.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Példátlan kibertámadás Franciaországban: több száz szupermarket hűtőjét kapcsolták le hackerek (VIDEÓ)",
-        "link": "https://maszol.ro/kulfold/Peldatlan-kibertamadas-Franciaorszagban-tobb-szaz-szupermarket-hutojet-kapcsoltak-le-hackerek-VIDEO"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Parola era data zilei. Cum au putut hackerii să încălzească frigiderele a sute de supermarketuri din Franța",
-        "link": "https://www.mediafax.ro/tehnologie/parola-era-data-zilei-cum-au-putut-hackerii-sa-incalzeasca-frigiderele-a-sute-de-supermarketuri-din-franta-23825446"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Parola care ar fi permis hackerilor să saboteze frigiderele din supermarketurile din Franța. Ce a descoperit un expert",
-        "link": "https://stirileprotv.ro/stiri/international/parola-care-ar-fi-permis-hackerilor-sa-saboteze-frigiderele-din-supermarketurile-din-franta-ce-a-descoperit-un-expert.html"
-      }
-    ],
-    "published_at": 1792000001,
-    "title_hu": "Kibertámadás melegítette fel több száz francia szupermarket hűtőit",
-    "lead_hu": "Hackerek távolról módosították több francia áruházlánc hűtőrendszereinek beállításait, egyes berendezésekben 50 Celsius-fokra emelve a hőmérsékletet. Az üzletek nagy mennyiségű élelmiszert semmisítettek meg, a hatóságok vizsgálatot indítottak, a károk pedig akár több tízmillió euróra rúghatnak. A francia hatóságok európai partnereikkel is egyeztetnek, miután Hollandiában és Belgiumban is jelentettek biztonsági problémákat.",
-    "content_hu": "• **Több száz franciaországi szupermarketet** érintett a kibertámadás. A beszámolók eltérő becsléseket közölnek: egyes összesítések körülbelül 400 üzletről, mások több mint 500 érintett áruházról írnak; ez nagyjából 15 ezer franciaországi üzlet töredéke.\n\n• **A hackerek távolról indították el a hűtőberendezések leolvasztását**, és egyes rendszerekben 50 Celsius-fokra emelték a hőmérsékletet. Az Intermarché üzleteiben a hűtők a beszámolók szerint hat órán át maradtak ilyen hőmérsékleten, a támadás pedig október 11-ről 12-re virradó éjjel történt.\n\n• **Az Intermarché, a Netto, a Coopérative U, a Carrefour, a Monoprix és az E.Leclerc üzletei is érintettek voltak.** Az Intermarché és a Netto mintegy 150–180 üzletéről, a Carrefour 80 boltról, a Coopérative U pedig több mint száz üzletről számolt be. A Coopérative U további száz üzletét elővigyázatosságból lekapcsolta az internetről.\n\n• **Az üzletek megsemmisítették vagy kivonták a forgalomból az érintett élelmiszereket**, hogy elkerüljék az egészségügyi kockázatokat. Egyes helyszíneken tűz is keletkezett; két haguenau-i üzlet mintegy 270 ezer eurós veszteséget jelentett, az országos kár pedig elérheti a több tízmillió eurót.\n\n• **A támadás a dán Danfoss hűtésvezérlő rendszereihez kapcsolódik.** Az ANSSI vizsgálata a Danfoss AK-SM 800A vezérlőjének sérülékenységére irányul; a Claroty augusztusi kutatása 2765, internet felől elérhető ilyen eszközt talált. A Danfoss szerint az érintett berendezések között elavult, illetve már nem frissíthető vagy nem frissített szoftvert használó modellek voltak.\n\n• **Egy szakértő szerint az eset hátterében alapvető biztonsági hiányosságok is állhattak**, például könnyen kitalálható jelszavak, közvetlenül internetre kötött rendszerek és a hálózatok elégtelen elkülönítése. Az admin felhasználónév és az aznapi dátum mint jelszó használatáról szóló állítást azonban nem erősítették meg a támadás bizonyított módszereként.\n\n• **A francia hatóságok nyomoznak, és európai partnereikkel is egyeztetnek.** Hollandiában és Belgiumban az Ahold Delhaize biztonsági problémát jelentett, és egyes rendszereket leállított; nem bizonyított, hogy ez összefügg a francia hűtőrendszerek elleni támadással.",
-    "title_ro": "Atacul cibernetic a încălzit frigiderele a sute de supermarketuri din Franța",
-    "lead_ro": "Hackerii au modificat de la distanță setările sistemelor de refrigerare din mai multe lanțuri de magazine din Franța, ridicând temperatura unor echipamente până la 50 de grade Celsius. Magazinele au distrus cantități mari de alimente, autoritățile au deschis o anchetă, iar pagubele ar putea ajunge la zeci de milioane de euro. Franța discută și cu parteneri europeni, după ce au fost semnalate probleme de securitate în Olanda și Belgia.",
-    "content_ro": "• **Atacul a afectat sute de supermarketuri din Franța.** Estimările diferă: unele relatări indică aproximativ 400 de magazine, iar altele peste 500, dintr-un total de circa 15.000 de magazine din țară.\n\n• **Hackerii au declanșat de la distanță dezghețarea instalațiilor frigorifice**, ridicând în unele sisteme temperatura până la 50 de grade Celsius. În magazinele Intermarché, frigiderele ar fi rămas la această temperatură timp de șase ore; atacul a avut loc în noaptea de 11 spre 12 octombrie.\n\n• **Au fost afectate magazine Intermarché, Netto, Coopérative U, Carrefour, Monoprix și E.Leclerc.** Intermarché și Netto au raportat aproximativ 150–180 de magazine afectate, Carrefour 80, iar Coopérative U peste 100. Alte 100 de magazine Coopérative U au fost deconectate preventiv de la internet.\n\n• **Magazinele au distrus sau retras de la vânzare alimentele afectate**, pentru a evita riscurile pentru sănătate. În unele locații au izbucnit incendii; două magazine din Haguenau au raportat pierderi de aproximativ 270.000 de euro, iar pagubele la nivel național ar putea ajunge la zeci de milioane de euro.\n\n• **Atacul este legat de sistemele de control al refrigerării ale companiei daneze Danfoss.** Investigația ANSSI se concentrează asupra vulnerabilității controlerului Danfoss AK-SM 800A; o cercetare Claroty din august a identificat 2.765 de astfel de dispozitive accesibile de pe internet. Danfoss a declarat că printre echipamentele afectate se aflau modele vechi, cu software care nu mai putea fi actualizat sau nu fusese actualizat.\n\n• **Un expert consideră că incidentul ar fi putut implica și deficiențe elementare de securitate**, precum parole ușor de ghicit, sisteme expuse direct pe internet și separarea insuficientă a rețelelor. Afirmația că unele sisteme ar fi folosit utilizatorul admin și data zilei ca parolă nu a fost confirmată drept metoda dovedită a atacului.\n\n• **Autoritățile franceze investighează cazul și se coordonează cu parteneri europeni.** În Olanda și Belgia, Ahold Delhaize a semnalat o problemă de securitate și a oprit unele sisteme; nu s-a confirmat că incidentul are legătură cu atacul asupra instalațiilor frigorifice din Franța."
   },
   {
     "group_id": "group_9b0cae2ce7",
@@ -6955,34 +7708,6 @@
     "title_ro": "Șeful Camerei de Comerț se delimitează de descinderile în dosarul navelor NATO: „Nu știm ce prostii fac oamenii ăia”",
     "lead_ro": "Mihai Daraban, președintele Camerei de Comerț și Industrie a României (CCIR), a declarat că nu are nicio legătură cu perchezițiile desfășurate miercuri, 14 octombrie, într-un dosar de evaziune fiscală…",
     "content_ro": "Mihai Daraban, președintele Camerei de Comerț și Industrie a României (CCIR), a declarat că nu are nicio legătură cu perchezițiile desfășurate miercuri, 14 octombrie, într-un dosar de evaziune fiscală și spălare de bani privind contracte pentru nave NATO."
-  },
-  {
-    "group_id": "group_b79f783873",
-    "fingerprint": "19beeddfffe51c3df217703b0fc52959",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-f/f412a2c2-5e17-4cc7-a3df-9026746ca69c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Unii cercetători AI s-au apucat de fumat, optimiști că tehnologia va vindeca cancerul. „Există un fel de psihoză în masă”",
-        "link": "https://adevarul.ro/stil-de-viata/tehnologie/unii-cercetatori-ai-s-au-apucat-de-fumat-2563990.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Ce? Asta nu are niciun sens!” | Cercetători AI s-au apucat de fumat, fiind siguri că aceasta va găsi leacul pentru cancer",
-        "link": "https://www.mediafax.ro/sanatate/ce-asta-nu-are-niciun-sens-cercetatori-ai-s-au-apucat-de-fumat-fiind-siguri-ca-aceasta-va-gasi-leacul-pentru-cancer-23825358"
-      }
-    ],
-    "published_at": 1791987149,
-    "title_hu": "A Palantir vezetője szerint egyes AI-kutatók azért dohányoznak, mert bíznak a technológia rákgyógyító képességében",
-    "lead_hu": "Shyam Sankar, a Palantir technológiai igazgatója azt állította, hogy egyes mesterségesintelligencia-kutatók dohányozni kezdtek, mert úgy vélik, az AI idővel gyógymódot találhat a rákra. Nem nevezett meg érintetteket, és nem szolgált bizonyítékkal arra, mennyire elterjedt ez a magatartás.",
-    "content_hu": "• **Shyam Sankar állítása szerint** egyes AI-kutatók azért kezdtek dohányozni, hogy ezzel is jelezzék: annyira bíznak a mesterséges intelligenciában, hogy szerintük az technológia rákgyógymódot találhat.\n\n• **Sankar nem közölt bizonyítékot vagy neveket**, és azt sem mondta meg, hány kutatóra vonatkozhat az állítása. A jelenséget a Szilícium-völgyben szerinte kialakult „kollektív téveszmeként” és „tömegpszichózisként” írta le.\n\n• **A kijelentés az általános mesterséges intelligenciáról (AGI) szóló vitában hangzott el**; ez egy olyan hipotetikus rendszer, amely sokféle szellemi feladatot emberi szinten vagy annál jobban végezhetne. Sankar bírálta az AGI-ba vetett szerinte túlzott hitet.\n\n• **Az AI-t már alkalmazzák az orvosi kutatásban**, például biológiai adatok elemzésére és lehetséges kezelések felkutatására, de ez nem garantálja a rák gyógymódjának felfedezését. A dohányzás továbbra is súlyos egészségügyi kockázat.",
-    "title_ro": "Șeful tehnic al Palantir susține că unii cercetători AI fumează, convinși că tehnologia va găsi un leac pentru cancer",
-    "lead_ro": "Shyam Sankar, directorul tehnic al Palantir, a afirmat că unii cercetători în inteligență artificială au început să fumeze deoarece cred că AI ar putea găsi în cele din urmă un leac pentru cancer. El nu a oferit nume sau dovezi privind amploarea acestui comportament.",
-    "content_ro": "• **Potrivit lui Shyam Sankar**, unii cercetători în AI au început să fumeze pentru a le arăta altora că au atât de multă încredere în inteligența artificială încât cred că aceasta va găsi un leac pentru cancer.\n\n• **Sankar nu a prezentat dovezi și nu a numit persoane**, nici nu a precizat câți cercetători ar fi implicați. El a descris fenomenul drept o „iluzie colectivă” și o „psihoză în masă” în Silicon Valley.\n\n• **Afirmația a apărut în contextul dezbaterilor despre inteligența artificială generală (AGI)**, un sistem ipotetic capabil să îndeplinească o gamă largă de sarcini intelectuale la nivel uman sau peste acesta. Sankar a criticat ceea ce consideră a fi o încredere exagerată în AGI.\n\n• **AI este deja folosită în cercetarea medicală**, inclusiv pentru analiza datelor biologice și identificarea unor posibile tratamente, însă aceste aplicații nu garantează descoperirea unui leac pentru cancer. Fumatul rămâne un risc grav pentru sănătate."
   },
   {
     "group_id": "group_f3a20cf0fd",
@@ -14865,34 +15590,6 @@
     "content_ro": "• **La aeroporturile Henri Coandă și Băneasa,** a fost introdus accesul automatizat în parcările publice pentru autovehiculele care transportă persoane cu mobilitate redusă și dețin o legitimație valabilă. Accesul este gratuit și nu necesită tichet de parcare.\n\n• **Sistemul de recunoaștere a numerelor de înmatriculare** este conectat la o bază de date: la intrare verifică dacă vehiculul este înregistrat, iar dacă datele sunt valide, bariera se deschide automat.\n\n• **Este necesară înregistrarea prealabilă:** persoana eligibilă sau reprezentantul acesteia trebuie să trimită la parcare.pmr@cnab.ro numele beneficiarului sau al reprezentantului legal, datele legitimației, numărul de înmatriculare și datele de contact.\n\n• **Legitimația originală trebuie afișată vizibil** în partea din față a autovehiculului pe durata utilizării parcării. Orice modificare a numărului de înmatriculare sau a valabilității legitimației trebuie comunicată cu cel puțin 48 de ore înainte, pentru actualizarea bazei de date.\n\n• **Dacă sistemul nu recunoaște numărul de înmatriculare,** șoferul poate solicita ajutor prin interfonul de la barieră; personalul verifică datele și autorizează accesul pe loc.\n\n• **CNAB urmărește simplificarea formalităților:** compania afirmă că sistemul va oferi persoanelor cu mobilitate redusă un acces predictibil, simplu și rapid la infrastructura aeroportuară."
   },
   {
-    "group_id": "group_3bf23e0161",
-    "fingerprint": "9cfe6a016e2734691320ced2e5dbd24a",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/8147684-hepta_mediafax_foto-abacapress_hepta-1-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Un judecător prelungește accesul CNN, MS NOW și Politico la Casa Albă pe fondul unui litigiu juridic",
-        "link": "https://www.mediafax.ro/externe/un-judecator-prelungeste-accesul-cnn-ms-now-si-politico-la-casa-alba-pe-fondul-unui-litigiu-juridic-23824984"
-      },
-      {
-        "source": "G4Media",
-        "title": "Un judecător american garantează temporar accesul CNN, MSNBC și Politico la Casa Albă",
-        "link": "https://www.g4media.ro/un-judecator-american-garanteaza-temporar-accesul-cnn-msnbc-si-politico-la-casa-alba.html"
-      }
-    ],
-    "published_at": 1791970058,
-    "title_hu": "Ideiglenesen biztosította a CNN, az MSNBC és a Politico fehér házi hozzáférését egy bíró",
-    "lead_hu": "Timothy Kelly szövetségi bíró ideiglenes végzéssel fenntartotta a CNN, az MSNBC és a Politico újságíróinak hozzáférését a Fehér Házhoz, amíg tart az adminisztráció korlátozásait megtámadó per. A bíró szerint a sajtószervezeteknek jó esélyük van a sikerre, de a döntés nem rendezi véglegesen a vita jogszerűségét.",
-    "content_hu": "• **Timothy Kelly szövetségi bíró** ideiglenesen fenntartotta a CNN, az MSNBC és a Politico újságíróinak fehér házi hozzáférését a per lezárásáig, hacsak egy fellebbviteli bíróság nem változtatja meg a végzést.\n\n• **A bíró indoklása szerint** a sajtószervezeteknek jó esélyük van a per megnyerésére, többek között az első alkotmánykiegészítés sajtószabadságot garantáló rendelkezéseire hivatkozó érveikkel.\n\n• **Donald Trump adminisztrációja** szeptemberben vonta vissza a három szervezet újságíróinak hozzáférését, arra hivatkozva, hogy hamis híreket közölnek. A szerkesztőségek szerint a döntés a tudósításaik miatti megtorlás volt.\n\n• **A végzés nem végleges ítélet:** a bíróság a jogvita idejére állapította meg a hozzáférés feltételeit, a korlátozások jogszerűségéről később születhet döntés.",
-    "title_ro": "Un judecător a menținut temporar accesul CNN, MSNBC și Politico la Casa Albă",
-    "lead_ro": "Judecătorul federal Timothy Kelly a menținut temporar accesul jurnaliștilor de la CNN, MSNBC și Politico la Casa Albă, pe durata procesului împotriva restricțiilor impuse de administrație. El a apreciat că organizațiile de presă au șanse mari de câștig, însă decizia nu soluționează definitiv legalitatea măsurii.",
-    "content_ro": "• **Judecătorul federal Timothy Kelly** a menținut temporar accesul jurnaliștilor de la CNN, MSNBC și Politico la Casa Albă până la încheierea procesului, cu excepția cazului în care o instanță de apel modifică ordinul.\n\n• **Potrivit motivării judecătorului**, organizațiile de presă au șanse mari de câștig, inclusiv prin argumentele întemeiate pe Primul Amendament al Constituției SUA, care protejează libertatea presei.\n\n• **Administrația Donald Trump** a retras în septembrie accesul jurnaliștilor celor trei organizații, susținând că acestea publică știri false. Redacțiile au afirmat că măsura a fost o represalie pentru modul în care au relatat.\n\n• **Ordinul nu reprezintă o hotărâre definitivă:** instanța a stabilit condițiile de acces pe durata litigiului, iar legalitatea restricțiilor urmează să fie soluționată ulterior."
-  },
-  {
     "group_id": "group_2c3e2ff42f",
     "fingerprint": "eddccb9798be93099afa7e384e255e63",
     "category": "Politika",
@@ -14967,447 +15664,5 @@
     "title_ro": "Vreme rece, cu vânt și ploi în România; la munte sunt așteptate ninsori și strat de zăpadă",
     "lead_ro": "Pe 13–14 octombrie, în România se anunță vreme rece și precipitații în mai multe regiuni: ploi în sud și est, iar la munte, la altitudini mari, lapoviță și ninsoare. Pe 14 octombrie temperaturile diurne cresc ușor, dar rămân sub cele normale în cea mai mare parte a țării; noaptea poate îngheța, iar în depresiunile Carpaților Orientali se pot înregistra până la −5 grade. La munte se poate depune un strat de zăpadă de 5–15 centimetri până pe 16 octombrie, iar în București se anunță vreme rece și ploioasă și în 17–18 octombrie.",
     "content_ro": "• **În perioada 12 octombrie – 9 noiembrie**, prognoza ANM indică temperaturi sub mediile sezoniere în cea mai mare parte a României. Vremea rece poate persista până la sfârșitul lunii octombrie, iar spre finalul intervalului temperaturile se pot apropia treptat de valorile obișnuite.\n\n• **În perioada 12–19 octombrie**, temperaturile medii pot fi sub cele normale în cea mai mare parte a țării; răcirea ar putea fi mai accentuată în vest, iar în sud vor exista, de asemenea, zone mai reci decât de obicei. În sud-est sunt estimate precipitații peste medie, iar în restul țării, sub medie.\n\n• **În perioada 19–26 octombrie**, temperaturile pot rămâne ușor sub medie pe întreg teritoriul țării, în timp ce cantitățile de precipitații vor fi, în general, apropiate de cele normale.\n\n• **În perioada 26 octombrie – 2 noiembrie**, vremea va continua să fie mai rece decât în mod obișnuit, fără abateri importante ale precipitațiilor: cantitățile de ploaie vor fi, în general, apropiate de cele normale.\n\n• **Pe 13 octombrie**, temperaturile au scăzut cu aproximativ 15 grade față de ziua precedentă. În centrul și sudul României erau așteptate ploi, iar la altitudini mari, lapoviță și ninsoare; în unele zone din Dobrogea și Oltenia puteau cădea până la 20 de litri de apă pe metru pătrat, iar pe creste erau prognozate rafale de până la 80 km/h. În vest se așteptau vreme mai blândă, perioade însorite și maxime de 17–18 grade.\n\n• **Pe 14 octombrie**, temperaturile diurne pot crește ușor, dar vremea va rămâne rece în cea mai mare parte a țării. Maximele se vor situa, în general, între 12 și 20 de grade; cele mai ridicate valori sunt așteptate în Oltenia și sudul Banatului, iar în depresiunile montane maximele pot rămâne în jurul valorilor de 11–12 grade.\n\n• **Ploile și vântul pe 14 octombrie** pot afecta în special Dobrogea, sudul Munteniei și sudul Olteniei, cu ploi în general slabe; spre sfârșitul nopții sunt posibile precipitații slabe și în nord, mai ales în nordul Moldovei. Rafalele pot ajunge la 40–55 km/h în est și sud-est și la 60–80 km/h la munte.\n\n• **În perioada 14–16 octombrie**, ANM a emis o informare meteorologică privind intensificările vântului: pe 14 octombrie, rafalele pot atinge în general 45–55 km/h în Dobrogea, jumătatea sudică a Moldovei și estul Munteniei; pe 15–16 octombrie, pot ajunge la 40–50 km/h în Moldova, Dobrogea și estul Munteniei.\n\n• **La altitudini mari, în perioada 14–16 octombrie**, sunt așteptate lapoviță și ninsoare peste 1.500 de metri. În Carpații Meridionali și Orientali se poate depune local un strat de zăpadă de 5–15 centimetri, iar în Carpații Meridionali și de Curbură sunt posibile rafale de 60–80 km/h.\n\n• **În noaptea de 14 spre 15 octombrie**, vremea poate fi deosebit de rece: minimele vor fi, în general, între −2 și 8 grade, pot coborî până la −5 grade în depresiunile Carpaților Orientali, iar pe litoral se pot menține în jur de 10 grade. Izolat se pot forma brumă și ceață.\n\n• **În București, pe 14 octombrie**, se așteptau maxime de 16–17 grade și minime nocturne de 5–6 grade; în zona periurbană temperatura putea coborî până spre 2 grade. Seara și noaptea se putea forma ceață.\n\n• **În București, pe 15–16 octombrie**, se anunțau perioade cu cer temporar noros și ploi slabe, mai ales seara și noaptea. Maximele diurne pot fi de 16–18 grade, apoi de 14–15 grade, iar minimele nocturne, de 5–7 grade; dimineața și noaptea sunt posibile condiții de ceață.\n\n• **În București, pe 17–18 octombrie**, vremea va rămâne închisă și rece, cu ploi temporare. Pe 17 octombrie, maxima va fi de aproximativ 13 grade, iar minima nocturnă, între 6 și 8 grade; local, ploile pot aduce cantități mai însemnate de apă."
-  },
-  {
-    "group_id": "group_38917359a2",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23259880/1/hepta-8793029.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Ungaria vrea să adopte euro până în 2030, dar pentru asta guvernul Magyar trebuie să reducă deficitul bugetar de la 7,5% la 3% din PIB în trei ani",
-        "link": "https://www.zf.ro/banci-si-asigurari/ungaria-vrea-sa-adopte-euro-pana-in-2030-dar-pentru-asta-guvernul-magyar-trebuie-sa-reduca-deficitul-bugetar-de-la-7-5-la-3-din-pib-in-trei-ani-23259880"
-      }
-    ],
-    "published_at": 1791969519,
-    "title_hu": "Ungaria vrea să adopte euro până în 2030, dar pentru asta guvernul Magyar trebuie să reducă deficitul bugetar de la 7,5% la 3% din PIB în trei ani",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Ungaria vrea să adopte euro până în 2030, dar pentru asta guvernul Magyar trebuie să reducă deficitul bugetar de la 7,5% la 3% din PIB în trei ani",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_85e47812b3",
-    "fingerprint": "742d7a1ee2aed18cc99106adabdbad31",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMTk0MV8zMDEx/OTQxX0luc2NyaWVyZWEtaW4tY2xhc2Et/cHJlZ2F0aXRvYXJlLTIwMjdfLUZvdG8t/R2V0dHktSW1hZ2VzLmpwZyZoYXNoPTA5/MTU0MDhjZmQyZDY4NjRlZjU0NGRkOTI5ZmUwMjIz.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Înscrierea în clasa pregătitoare 2027-2028. Când propune Ministerul Educației să înceapă depunerea cererilor",
-        "link": "https://www.digi24.ro/stiri/actualitate/educatie/inscrierea-in-clasa-pregatitoare-2027-2028-cand-propune-ministerul-educatiei-sa-inceapa-depunerea-cererilor-3991403"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Înscrierea în clasa pregătitoare 2027-2028. Când începe completarea cererilor și ce părinți trebuie să obțină o recomandare",
-        "link": "https://www.mediafax.ro/social/inscrierea-in-clasa-pregatitoare-2027-2028-cand-incepe-completarea-cererilor-si-ce-parinti-trebuie-sa-obtina-o-recomandare-23825063"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Înscrierea la clasa pregătitoare 2027. Perioada a fost scurtată cu aproape două săptămâni față de anul trecut. Calendarul anunțat de Ministerul Educației",
-        "link": "https://hotnews.ro/inscrierea-la-clasa-pregatitoare-2027-perioada-a-fost-scurtata-cu-aproape-doua-saptamani-fata-de-anul-trecut-calendarul-anuntat-de-ministerul-educatiei-2375643"
-      }
-    ],
-    "published_at": 1791969453,
-    "title_hu": "Március végén indulhat a beiratkozás a 2027–2028-as előkészítő osztályokba",
-    "lead_hu": "Az oktatási minisztérium nyilvános konzultációra bocsátotta a 2027–2028-as tanévre szóló beiratkozási naptár tervezetét. A szülők a javaslat szerint március 31. és április 23. között nyújthatják be a kérelmeket; ez 13 naptári nappal rövidebb időszak, mint a 2026–2027-es tanévre meghirdetett. A dátumok a végleges jóváhagyás előtt még változhatnak.",
-    "content_hu": "• **2027. március 31. és április 23. között** lehet majd online vagy az iskolában kitölteni és benyújtani a beiratkozási kérelmeket. A javasolt időszak 13 naptári nappal rövidebb a 2026–2027-es tanévre érvényes március 31. és május 6. közötti időszaknál.\n\n• **Március 15-én** tennék közzé az iskolai körzeteket és az előkészítő osztályok férőhelyeit; március 17-től pedig megkezdődne azoknak a gyermekeknek a fejlettségi felmérése és ajánlásának kiállítása, akik 2027. szeptember 1. és december 31. között töltik be a hatodik életévüket.\n\n• **A körzetes iskolába történő elosztásra május 5–11. között** kerülne sor, a más iskolát megjelölő kérelmeket pedig május 12–19. között, a szabad férőhelyek függvényében dolgoznák fel. Az első szakasz eredményeit május 21-én tennék közzé; a végleges beiratkozási listákat a tervezet szerint június 17-én publikálnák.\n\n• **Szeptember 1-jén és 2-án** az iskolai felügyelőségek rendeznék azoknak a gyermekeknek a kérelmeit, akiket korábban még nem írattak be.\n\n• **A hatéves kor betöltésére vonatkozó szabályok szerint** az augusztus 31-ig hatéves gyermekeket be kell íratni az előkészítő osztályba. Az óvodába korábban nem járó gyermekek beíratása is lehetséges, ha ennek igazolt oka volt, például betegség, a helyi infrastruktúra hiánya vagy az ideiglenes külföldi tartózkodás.\n\n• **A szeptember 1. és december 31. között hatéves kort betöltő gyermekek** megfelelő fejlettség esetén, ajánlás alapján kezdhetik meg az iskolát. Az ajánlást óvodába járó gyermekek esetében az óvoda állítja ki a szülő írásbeli kérésére; az óvodába nem járt vagy külföldről hazatért gyermekeket a megyei, illetve bukaresti oktatási erőforrás- és segítségnyújtó központok mérik fel.\n\n• **Ha a gyermek fejlettsége nem megfelelő, vagy a szülő nem kéri az előkészítő osztályba való felvételt**, tanácsot adnak a nagycsoportos óvodai beiratkozáshoz. Indokolt esetben a szülők legfeljebb egy év halasztást kérhetnek.\n\n• **A naptár még tervezet:** a minisztérium a nyilvános konzultáció során beérkező észrevételek elemzése és a társadalmi párbeszédet folytató bizottság tárgyalása után hagyja jóvá a végleges változatot.",
-    "title_ro": "Înscrierea în clasa pregătitoare 2027–2028 ar putea începe la sfârșitul lunii martie",
-    "lead_ro": "Ministerul Educației a pus în consultare publică proiectul calendarului de înscriere pentru anul școlar 2027–2028. Potrivit propunerii, părinții vor putea depune cererile între 31 martie și 23 aprilie, o perioadă cu 13 zile calendaristice mai scurtă decât cea din calendarul pentru anul școlar 2026–2027. Datele se pot modifica înainte de aprobarea formei finale.",
-    "content_ro": "• **În perioada 31 martie–23 aprilie 2027**, cererile de înscriere vor putea fi completate și depuse online sau la unitatea de învățământ. Intervalul propus este cu 13 zile calendaristice mai scurt decât perioada 31 martie–6 mai din calendarul pentru anul școlar 2026–2027.\n\n• **Pe 15 martie** ar urma să fie afișate circumscripțiile școlare și numărul locurilor disponibile în clasele pregătitoare. Din 17 martie ar începe evaluarea dezvoltării copiilor care împlinesc șase ani între 1 septembrie și 31 decembrie 2027 și eliberarea recomandărilor necesare.\n\n• **Repartizarea la școala de circumscripție este prevăzută pentru 5–11 mai**, iar cererile pentru alte școli decât cea de circumscripție ar urma să fie procesate între 12 și 19 mai, în limita locurilor disponibile. Rezultatele primei etape ar fi afișate pe 21 mai, iar listele finale de înscriere, pe 17 iunie.\n\n• **Pe 1 și 2 septembrie**, inspectoratele școlare ar urma să soluționeze cererile copiilor care nu au fost încă înscriși.\n\n• **Copiii care împlinesc șase ani până la 31 august** trebuie înscriși în clasa pregătitoare. Metodologia permite înscrierea și a copiilor care nu au frecventat grădinița din motive întemeiate, precum boala, lipsa infrastructurii locale sau șederea temporară în străinătate.\n\n• **Copiii care împlinesc șase ani între 1 septembrie și 31 decembrie** pot începe clasa pregătitoare dacă au un nivel de dezvoltare corespunzător și obțin o recomandare. Pentru copiii care au frecventat grădinița, recomandarea este eliberată de unitatea de învățământ, la cererea scrisă a părinților; copiii care nu au mers la grădiniță sau s-au întors din străinătate sunt evaluați de centrele județene, respectiv de centrul municipiului București de resurse și asistență educațională.\n\n• **Copiii care nu au nivelul de dezvoltare corespunzător sau ai căror părinți nu optează pentru clasa pregătitoare** vor fi îndrumați către grupa mare de grădiniță. În cazuri justificate, părinții pot solicita amânarea începerii învățământului primar cu cel mult un an.\n\n• **Calendarul este încă în stadiul de proiect:** forma finală va fi aprobată după analizarea observațiilor primite în consultarea publică și discutarea proiectului în Comisia de Dialog Social."
-  },
-  {
-    "group_id": "group_77bf563207",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/91971e60-e295-498d-adc7-9d66ebf8e7dc.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "O glorie a Rapidului are iar mari speranțe: „Și-a revenit favoritul meu, sezonul ăsta vom fi o forță în play-off”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/nichi-dumitriu-u-cluj-rapid-favoritul-meu-987520.html"
-      }
-    ],
-    "published_at": 1791969421,
-    "title_hu": "O glorie a Rapidului are iar mari speranțe: „Și-a revenit favoritul meu, sezonul ăsta vom fi o forță în play-off”",
-    "lead_hu": "La 83 de ani, Nichi Dumitriu e încă total conectat la fotbalul românesc, la Rapid mai ales, chiar și de acolo, de la Atena, unde s-a stabilit cu patru decenii în urmă. Și pentru prima dată în ultimii …",
-    "content_hu": "La 83 de ani, Nichi Dumitriu e încă total conectat la fotbalul românesc, la Rapid mai ales, chiar și de acolo, de la Atena, unde s-a stabilit cu patru decenii în urmă. Și pentru prima dată în ultimii ani, are un ton optimist în privința șanselor ca echipa sa de suflet să intre cu adevărat în lupta pentru titlu de această dată, să treacă de „bariera” locului 5, pe care n-a putut s-o depășească în ultimele 4 sezoane. ...",
-    "title_ro": "O glorie a Rapidului are iar mari speranțe: „Și-a revenit favoritul meu, sezonul ăsta vom fi o forță în play-off”",
-    "lead_ro": "La 83 de ani, Nichi Dumitriu e încă total conectat la fotbalul românesc, la Rapid mai ales, chiar și de acolo, de la Atena, unde s-a stabilit cu patru decenii în urmă. Și pentru prima dată în ultimii …",
-    "content_ro": "La 83 de ani, Nichi Dumitriu e încă total conectat la fotbalul românesc, la Rapid mai ales, chiar și de acolo, de la Atena, unde s-a stabilit cu patru decenii în urmă. Și pentru prima dată în ultimii ani, are un ton optimist în privința șanselor ca echipa sa de suflet să intre cu adevărat în lupta pentru titlu de această dată, să treacă de „bariera” locului 5, pe care n-a putut s-o depășească în ultimele 4 sezoane. ..."
-  },
-  {
-    "group_id": "group_89af058723",
-    "fingerprint": "f3e03327c4c2fee5420556d0a35ea681",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTE5OV8zMDA5/MTk5X1RyYWRpdGlpLXNpLW9iaWNlaXVy/aS1TZmFudGEtUGFyYXNjaGV2YS0yMDI2/Xy1TdXJzYS1Gb3RvLUdldHR5LUltYWdl/cy5qcGcmaGFzaD1lOWJhNWJkNzFkMjY2YzM0MDgzOTMyOGQ1MmVkZDEwMg==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Sfânta Parascheva 2026, sărbătoare cu cruce roșie. Ce alimente se împart de pomană pe 14 octombrie și ce tradiții păstrează credincioși",
-        "link": "https://www.digi24.ro/magazin/sfanta-parascheva-2026-sarbatoare-cu-cruce-rosie-ce-alimente-se-impart-de-pomana-pe-14-octombrie-si-ce-traditii-pastreaza-credinciosi-3989499"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce se dă de pomană de Sfânta Parascheva. Alimentele pe care le poți împărți pe 14 octombrie",
-        "link": "https://stirileprotv.ro/divers/ce-se-da-de-pomana-de-sfanta-parascheva-alimentele-pe-care-le-poti-imparti-pe-14-octombrie.html"
-      }
-    ],
-    "published_at": 1791969365,
-    "title_hu": "Szent Paraszkeva napján őszi ételeket osztanak emlékezésül és jótékony céllal",
-    "lead_hu": "Október 14-én, Szent Paraszkeva ünnepén sokan ételcsomagokat adnak az elhunytak emlékére, illetve a rászorulók megsegítésére. A csomagokban gyakran koliva, kenyér, őszi gyümölcs, édesség és gyertya található, de a szokások tájegységenként és családonként eltérnek.",
-    "content_hu": "• **Október 14-én, Szent Paraszkeva napján** sok hívő adományoz ételt az elhunytak emlékére, és azért, hogy segítsen a rászorulóknak.\n\n• **A leggyakrabban osztott ételek** közé tartozik a koliva, a kenyér vagy kalács, valamint az őszi gyümölcsök, például az alma, a körte, a birs, a szőlő és a dió. Édességet, mustot, gyertyát, esetenként pénzt vagy használati tárgyakat is adhatnak.\n\n• **A csomagok tartalma változó:** egyes családok egyszerű élelmiszercsomagot készítenek, mások főtt ételt is kínálnak, vagy megemlékező étkezést tartanak. Az adományokat rokonoknak, szomszédoknak, a templomi szertartáson részt vevőknek vagy rászorulóknak adják.\n\n• **A szokások nem egységesek:** a regionális és családi hagyományok eltérhetnek, és bizonyos ételek adásával kapcsolatban helyi hiedelmek is élnek. A Digi24 által idézett pap hangsúlyozta, hogy ezek népszokások, nem kötelező egyházi előírások; a megemlékezés középpontjában az ima áll.",
-    "title_ro": "De Sfânta Parascheva se împart alimente de toamnă în memoria celor adormiți și pentru cei nevoiași",
-    "lead_ro": "Pe 14 octombrie, de sărbătoarea Sfintei Parascheva, mulți credincioși oferă pachete în memoria celor adormiți și pentru a-i ajuta pe cei aflați în nevoie. Acestea conțin adesea colivă, pâine, fructe de toamnă, dulciuri și o lumânare, însă obiceiurile diferă de la o regiune și familie la alta.",
-    "content_ro": "• **Pe 14 octombrie, de Sfânta Parascheva,** mulți credincioși împart alimente în memoria celor adormiți și pentru a-i sprijini pe oamenii nevoiași.\n\n• **Printre darurile oferite frecvent** se numără coliva, pâinea sau colacii și fructele de toamnă, precum merele, perele, gutuile, strugurii și nucile. Se mai pot oferi dulciuri, must, lumânări și, uneori, bani sau obiecte folositoare.\n\n• **Conținutul pachetelor variază:** unele familii pregătesc pachete simple cu alimente, iar altele oferă și mâncare gătită sau organizează o masă de pomenire. Darurile sunt împărțite rudelor, vecinilor, celor prezenți la slujbă ori persoanelor aflate în dificultate.\n\n• **Obiceiurile nu sunt uniforme:** tradițiile diferă în funcție de regiune și familie, iar în unele locuri există credințe despre anumite alimente care se oferă sau se evită. Preotul citat de Digi24 precizează că aceste practici țin de tradiția populară și nu sunt reguli bisericești obligatorii; pomenirea este legată în primul rând de rugăciune."
-  },
-  {
-    "group_id": "group_ba9020cae8",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/08/zodie-horoscop-1200x798.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Trei zodii care atrag norocul și abundența din 14 octombrie. Viața lor se schimbă",
-        "link": "https://www.cancan.ro/trei-zodii-care-atrag-norocul-si-abundenta-din-14-octombrie-viata-lor-se-schimba-21529951"
-      }
-    ],
-    "published_at": 1791969346,
-    "title_hu": "Trei zodii care atrag norocul și abundența din 14 octombrie. Viața lor se schimbă",
-    "lead_hu": "O parte dintre cei născuți în zodia Scorpionului vor fi eficienți în profesia lor. Se vor concentra pe sarcini noi și vor avea ocazia să accepte tot mai multe propuneri favorabile. Eforturile profesio…",
-    "content_hu": "O parte dintre cei născuți în zodia Scorpionului vor fi eficienți în profesia lor. Se vor concentra pe sarcini noi și vor avea ocazia să accepte tot mai multe propuneri favorabile. Eforturile profesionale vor prinde avânt. Vor prelua inițiativa în sarcinile de colaborare, vor menține ritmul de lucru și armonia. Capricornul se bucură de o […]",
-    "title_ro": "Trei zodii care atrag norocul și abundența din 14 octombrie. Viața lor se schimbă",
-    "lead_ro": "O parte dintre cei născuți în zodia Scorpionului vor fi eficienți în profesia lor. Se vor concentra pe sarcini noi și vor avea ocazia să accepte tot mai multe propuneri favorabile. Eforturile profesio…",
-    "content_ro": "O parte dintre cei născuți în zodia Scorpionului vor fi eficienți în profesia lor. Se vor concentra pe sarcini noi și vor avea ocazia să accepte tot mai multe propuneri favorabile. Eforturile profesionale vor prinde avânt. Vor prelua inițiativa în sarcinile de colaborare, vor menține ritmul de lucru și armonia. Capricornul se bucură de o […]"
-  },
-  {
-    "group_id": "group_3171305e0b",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/06e7f001-2098-477e-a22e-40ee321d22cb.png?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Atacantul cu mamă germană și fiul unui fost apărător italian este disputat de Klopp și Mancini » Povestea tânărului Nicolo, care a făcut-o pe Inter de „Tre Soldi”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/atacant-mama-germana-fiul-fost-fundas-italian-disputat-klopp-mancini-a-facut-o-pe-inter-tresoldi-987928.html"
-      }
-    ],
-    "published_at": 1791969339,
-    "title_hu": "Atacantul cu mamă germană și fiul unui fost apărător italian este disputat de Klopp și Mancini » Povestea tânărului Nicolo, care a făcut-o pe Inter de „Tre Soldi”",
-    "lead_hu": "Nicolo Tresoldi (22 de ani) a fost jucătorul meciului de marți pe „Giuseppe Meazza”, aducând victoria lui Club Brugge contra celor de la Inter (4-3), în grupa din Champions League, și plecând acasă cu…",
-    "content_hu": "Nicolo Tresoldi (22 de ani) a fost jucătorul meciului de marți pe „Giuseppe Meazza”, aducând victoria lui Club Brugge contra celor de la Inter (4-3), în grupa din Champions League, și plecând acasă cu mingea cu care a dat un hattrick. ...",
-    "title_ro": "Atacantul cu mamă germană și fiul unui fost apărător italian este disputat de Klopp și Mancini » Povestea tânărului Nicolo, care a făcut-o pe Inter de „Tre Soldi”",
-    "lead_ro": "Nicolo Tresoldi (22 de ani) a fost jucătorul meciului de marți pe „Giuseppe Meazza”, aducând victoria lui Club Brugge contra celor de la Inter (4-3), în grupa din Champions League, și plecând acasă cu…",
-    "content_ro": "Nicolo Tresoldi (22 de ani) a fost jucătorul meciului de marți pe „Giuseppe Meazza”, aducând victoria lui Club Brugge contra celor de la Inter (4-3), în grupa din Champions League, și plecând acasă cu mingea cu care a dat un hattrick. ..."
-  },
-  {
-    "group_id": "group_bd0a934923",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/14/091415/ambulanta-japonia.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C750%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "O tânără de 23 de ani a murit după ce un bărbat care a sărit de la etajul 11 a căzut peste ea, în Japonia. El a supraviețuit",
-        "link": "https://stirileprotv.ro/stiri/international/o-tanara-de-23-de-ani-a-murit-dupa-ce-un-barbat-care-a-sarit-de-la-etajul-11-a-cazut-peste-ea-in-japonia-el-a-supravietuit.html"
-      }
-    ],
-    "published_at": 1791969292,
-    "title_hu": "O tânără de 23 de ani a murit după ce un bărbat care a sărit de la etajul 11 a căzut peste ea, în Japonia. El a supraviețuit",
-    "lead_hu": "O tragedie șocantă petrecută în Japonia a declanșat o luptă pentru dreptate, după ce o tânără de 23 de ani și-a pierdut viața în urma impactului cu un bărbat care s-a aruncat de la etajul 11 al unui b…",
-    "content_hu": "O tragedie șocantă petrecută în Japonia a declanșat o luptă pentru dreptate, după ce o tânără de 23 de ani și-a pierdut viața în urma impactului cu un bărbat care s-a aruncat de la etajul 11 al unui bloc.",
-    "title_ro": "O tânără de 23 de ani a murit după ce un bărbat care a sărit de la etajul 11 a căzut peste ea, în Japonia. El a supraviețuit",
-    "lead_ro": "O tragedie șocantă petrecută în Japonia a declanșat o luptă pentru dreptate, după ce o tânără de 23 de ani și-a pierdut viața în urma impactului cu un bărbat care s-a aruncat de la etajul 11 al unui b…",
-    "content_ro": "O tragedie șocantă petrecută în Japonia a declanșat o luptă pentru dreptate, după ce o tânără de 23 de ani și-a pierdut viața în urma impactului cu un bărbat care s-a aruncat de la etajul 11 al unui bloc."
-  },
-  {
-    "group_id": "group_d069489453",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMjE2Ml8zMDEy/MTYyX3NhbHZhdGktY29waWlpLmpwZyZo/YXNoPTE3MmU1Y2RkYTg2YjIzNjZkOWMwZGIyNmQ2ZDRiMjE3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Aproape o treime dintre copiii din România sunt în risc de sărăcie. UE ar putea elimina garanții financiare cheie (raport)",
-        "link": "https://www.digi24.ro/stiri/aproape-o-treime-dintre-copiii-din-romania-sunt-in-risc-de-saracie-ue-ar-putea-elimina-garantii-financiare-cheie-raport-3991537"
-      }
-    ],
-    "published_at": 1791969280,
-    "title_hu": "Aproape o treime dintre copiii din România sunt în risc de sărăcie. UE ar putea elimina garanții financiare cheie (raport)",
-    "lead_hu": "Aproape o treime dintre copiii din România, respectiv 32,4%, se confruntau în 2025 cu riscul de sărăcie sau excluziune socială, potrivit unei analize publicate de organizația Salvați Copiii. Deși acea…",
-    "content_hu": "Aproape o treime dintre copiii din România, respectiv 32,4%, se confruntau în 2025 cu riscul de sărăcie sau excluziune socială, potrivit unei analize publicate de organizația Salvați Copiii. Deși aceasta este cea mai mică pondere din ultimul deceniu, România continuă să se numere printre țările din Uniunea Europeană cu cele mai ridicate niveluri ale acestui indicator. La nivelul UE, 19,2 milioane de copii se aflau în această situație în 2025, cu puțin mai mulți decât în 2019.",
-    "title_ro": "Aproape o treime dintre copiii din România sunt în risc de sărăcie. UE ar putea elimina garanții financiare cheie (raport)",
-    "lead_ro": "Aproape o treime dintre copiii din România, respectiv 32,4%, se confruntau în 2025 cu riscul de sărăcie sau excluziune socială, potrivit unei analize publicate de organizația Salvați Copiii. Deși acea…",
-    "content_ro": "Aproape o treime dintre copiii din România, respectiv 32,4%, se confruntau în 2025 cu riscul de sărăcie sau excluziune socială, potrivit unei analize publicate de organizația Salvați Copiii. Deși aceasta este cea mai mică pondere din ultimul deceniu, România continuă să se numere printre țările din Uniunea Europeană cu cele mai ridicate niveluri ale acestui indicator. La nivelul UE, 19,2 milioane de copii se aflau în această situație în 2025, cu puțin mai mulți decât în 2019."
-  },
-  {
-    "group_id": "group_ebc70fc0a2",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2025/07/Energie-regenerabila.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Avem noroc în SEN că vine multă energie de la vânt şi soare",
-        "link": "https://economedia.ro/avem-noroc-in-sen-ca-vine-multa-energie-de-la-vant-si-soare.html"
-      }
-    ],
-    "published_at": 1791969236,
-    "title_hu": "Avem noroc în SEN că vine multă energie de la vânt şi soare",
-    "lead_hu": "Sistemul Energetic Național este susținut acum în mare măsură de sursele regenerabile de energie, un plus necesar, mai ales că înregistrăm deficite cornice pe generarea din surse clasice. Conform date…",
-    "content_hu": "Sistemul Energetic Național este susținut acum în mare măsură de sursele regenerabile de energie, un plus necesar, mai ales că înregistrăm deficite cornice pe generarea din surse clasice. Conform datelor Transelectrica de la mijlocul zilei de 14 octombrie 2026, România înregistrează o producție totală de peste 7.680 MW, la un consum național de doar 5.194 […]",
-    "title_ro": "Avem noroc în SEN că vine multă energie de la vânt şi soare",
-    "lead_ro": "Sistemul Energetic Național este susținut acum în mare măsură de sursele regenerabile de energie, un plus necesar, mai ales că înregistrăm deficite cornice pe generarea din surse clasice. Conform date…",
-    "content_ro": "Sistemul Energetic Național este susținut acum în mare măsură de sursele regenerabile de energie, un plus necesar, mai ales că înregistrăm deficite cornice pe generarea din surse clasice. Conform datelor Transelectrica de la mijlocul zilei de 14 octombrie 2026, România înregistrează o producție totală de peste 7.680 MW, la un consum național de doar 5.194 […]"
-  },
-  {
-    "group_id": "group_7808c1c7a2",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-3/32f6bfb1-dbc3-4cb9-91fd-1de6fb6bfad3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Cum te pregătești din timp pentru zilele friguroase: ghid de tranziție de la toamnă la iarnă",
-        "link": "https://adevarul.ro/stil-de-viata/cum-te-pregatesti-din-timp-pentru-zilele-2563927.html"
-      }
-    ],
-    "published_at": 1791969216,
-    "title_hu": "Cum te pregătești din timp pentru zilele friguroase: ghid de tranziție de la toamnă la iarnă",
-    "lead_hu": "Diminețile reci, după-amiezile mai blânde și serile cu vânt schimbă rapid felul în care te îmbraci. Dacă îți pregătești garderoba înainte ca temperaturile să scadă de tot, alegi mai relaxat și eviți c…",
-    "content_hu": "Diminețile reci, după-amiezile mai blânde și serile cu vânt schimbă rapid felul în care te îmbraci. Dacă îți pregătești garderoba înainte ca temperaturile să scadă de tot, alegi mai relaxat și eviți cumpărăturile făcute în grabă. În plus, îți creezi mai ușor ținute potrivite pentru....",
-    "title_ro": "Cum te pregătești din timp pentru zilele friguroase: ghid de tranziție de la toamnă la iarnă",
-    "lead_ro": "Diminețile reci, după-amiezile mai blânde și serile cu vânt schimbă rapid felul în care te îmbraci. Dacă îți pregătești garderoba înainte ca temperaturile să scadă de tot, alegi mai relaxat și eviți c…",
-    "content_ro": "Diminețile reci, după-amiezile mai blânde și serile cu vânt schimbă rapid felul în care te îmbraci. Dacă îți pregătești garderoba înainte ca temperaturile să scadă de tot, alegi mai relaxat și eviți cumpărăturile făcute în grabă. În plus, îți creezi mai ușor ținute potrivite pentru...."
-  },
-  {
-    "group_id": "group_e14d72cd3b",
-    "category": "Politika",
-    "image": "https://cdn.adh.reperio.news/image-e/e2e6b743-7b6e-4513-995c-1b9da2b1e476/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Liderul PNL convins că noul Guvern trece de Parlament: „Nimeni nu vrea cu adevărat alegeri anticipate”",
-        "link": "https://adevarul.ro/politica/liderul-pnl-convins-ca-noul-guvern-trece-de-2563914.html"
-      }
-    ],
-    "published_at": 1791969173,
-    "title_hu": "Liderul PNL convins că noul Guvern trece de Parlament: „Nimeni nu vrea cu adevărat alegeri anticipate”",
-    "lead_hu": "Președintele Consiliului Județean Cluj, liberalul Alin Tișe, a declarat miercuri că România va avea un nou guvern, indiferent de formula politică și de partidele care vor face parte din executiv.",
-    "content_hu": "Președintele Consiliului Județean Cluj, liberalul Alin Tișe, a declarat miercuri că România va avea un nou guvern, indiferent de formula politică și de partidele care vor face parte din executiv.",
-    "title_ro": "Liderul PNL convins că noul Guvern trece de Parlament: „Nimeni nu vrea cu adevărat alegeri anticipate”",
-    "lead_ro": "Președintele Consiliului Județean Cluj, liberalul Alin Tișe, a declarat miercuri că România va avea un nou guvern, indiferent de formula politică și de partidele care vor face parte din executiv.",
-    "content_ro": "Președintele Consiliului Județean Cluj, liberalul Alin Tișe, a declarat miercuri că România va avea un nou guvern, indiferent de formula politică și de partidele care vor face parte din executiv."
-  },
-  {
-    "group_id": "group_f2f829ed73",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/5d428581-3d53-4d69-a158-d1b5ff3e19b9.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Jose Mourinho, poziție fermă în privința viitorului lui Endrick la Real Madrid",
-        "link": "https://www.gsp.ro/international/campionate/jose-mourinho-pozitie-ferma-viitor-endrick-real-madrid-987798.html"
-      }
-    ],
-    "published_at": 1791969075,
-    "title_hu": "Jose Mourinho, poziție fermă în privința viitorului lui Endrick la Real Madrid",
-    "lead_hu": "Jose Mourinho (63 de ani), antrenorul lui Real Madrid, a fost categoric și a anunțat că nu va permite ca atacantul Endrick (20 de ani) să fie împrumutat la o altă echipă în perioada de transferuri din…",
-    "content_hu": "Jose Mourinho (63 de ani), antrenorul lui Real Madrid, a fost categoric și a anunțat că nu va permite ca atacantul Endrick (20 de ani) să fie împrumutat la o altă echipă în perioada de transferuri din iarnă. Brazilianul a bifat doar patru minute în cele nouă partide disputate de „galactici” în actualul sezon, motiv pentru care în Italia au apărut zvonuri privind un posibil la AC Milan sau AS Roma pentru a doua jumătate a sezonului. ...",
-    "title_ro": "Jose Mourinho, poziție fermă în privința viitorului lui Endrick la Real Madrid",
-    "lead_ro": "Jose Mourinho (63 de ani), antrenorul lui Real Madrid, a fost categoric și a anunțat că nu va permite ca atacantul Endrick (20 de ani) să fie împrumutat la o altă echipă în perioada de transferuri din…",
-    "content_ro": "Jose Mourinho (63 de ani), antrenorul lui Real Madrid, a fost categoric și a anunțat că nu va permite ca atacantul Endrick (20 de ani) să fie împrumutat la o altă echipă în perioada de transferuri din iarnă. Brazilianul a bifat doar patru minute în cele nouă partide disputate de „galactici” în actualul sezon, motiv pentru care în Italia au apărut zvonuri privind un posibil la AC Milan sau AS Roma pentru a doua jumătate a sezonului. ..."
-  },
-  {
-    "group_id": "group_7386ef426c",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/licitatie-1024x1024.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Poeta care scria sub pseudonim masculin și devenea muză pentru artiști, reprezentată în două opere, la licitație",
-        "link": "https://www.mediafax.ro/cultura-media/poeta-care-scria-sub-pseudonim-masculin-si-devenea-muza-pentru-artisti-reprezentata-in-doua-opere-la-licitatie-23825075"
-      }
-    ],
-    "published_at": 1791969040,
-    "title_hu": "Poeta care scria sub pseudonim masculin și devenea muză pentru artiști, reprezentată în două opere, la licitație",
-    "lead_hu": "Licitația de Toamnă Artmark o readuce în atenție pe Claudia Millian, soția lui Ion Minulescu, prin două reprezentări semnate de artiștii Oscar Han și Alexandru Satmary. Este vorba despre o sculptură î…",
-    "content_hu": "Licitația de Toamnă Artmark o readuce în atenție pe Claudia Millian, soția lui Ion Minulescu, prin două reprezentări semnate de artiștii Oscar Han și Alexandru Satmary. Este vorba despre o sculptură în bronz și o pictură.",
-    "title_ro": "Poeta care scria sub pseudonim masculin și devenea muză pentru artiști, reprezentată în două opere, la licitație",
-    "lead_ro": "Licitația de Toamnă Artmark o readuce în atenție pe Claudia Millian, soția lui Ion Minulescu, prin două reprezentări semnate de artiștii Oscar Han și Alexandru Satmary. Este vorba despre o sculptură î…",
-    "content_ro": "Licitația de Toamnă Artmark o readuce în atenție pe Claudia Millian, soția lui Ion Minulescu, prin două reprezentări semnate de artiștii Oscar Han și Alexandru Satmary. Este vorba despre o sculptură în bronz și o pictură."
-  },
-  {
-    "group_id": "group_aa6122f684",
-    "fingerprint": "239de690fcdbf10b5e13355aeb5d48e1",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2026/04/8116964-Mediafax_Foto-Alexandru_Nechez-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Ilie Bolojan propune un acord politic, cu PNL în opoziție. Condiții: reducerea deficitului și folosirea responsabilă a banului public: „Vom susține și vota bugetul pe 2027 dacă este realist”",
-        "link": "https://economedia.ro/ilie-bolojan-propune-un-acord-politic-cu-pnl-in-opozitie-conditii-reducerea-deficitului-si-folosirea-responsabila-a-banului-public-vom-sustine-si-vota-bugetul-pe-2027-daca-este-realist.html"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Bolojan anunţă condiţiile PNL pentru susţinerea Guvernului Niculescu: Atingerea ţintei de deficit, menţinerea disciplinei fiscale, protejarea investiţiilor, utilizarea responsabilă a banilor publici şi respectarea angajamentelor europene ale României. PNL ar rămâne în opoziţie",
-        "link": "https://www.zf.ro/eveniment/bolojan-anunta-conditiile-pnl-sustinerea-guvernului-niculescu-atingerea-tintei-deficit-mentinerea-disciplinei-fiscale-protejarea-investitiilor-utilizarea-responsabila-banilor-publici-respectarea-23259061"
-      }
-    ],
-    "published_at": 1791969012,
-    "title_hu": "A PNL ellenzékből, feltételekkel támogatná a Niculescu-kormányt",
-    "lead_hu": "Ilie Bolojan szerint a PNL politikai megállapodást mérlegel Luca Niculescu kijelölt miniszterelnökkel, de nem lépne be a kormányba. A párt a támogatást a költségvetési fegyelemhez, a beruházások védelméhez és a 2027-es költségvetés realitásához kötné.",
-    "content_hu": "• **Ilie Bolojan** bejelentette, hogy a PNL kétoldalú politikai megállapodást mérlegel Luca Niculescu kijelölt miniszterelnökkel. A párt ellenzékben maradna, és nem venne részt a kormányban.\n\n• **A támogatás feltételei** között szerepel a hiánycél elérése, a költségvetési fegyelem fenntartása, a beruházások védelme, a közpénzek felelős felhasználása és Románia európai kötelezettségeinek teljesítése.\n\n• **A 2027-es költségvetésről** a PNL akkor szavazna igennel, ha az reális, ténylegesen beszedhető bevételekre épül, folytatja a költségvetési konszolidációt, és nem irányoz elő fedezet nélküli kiadásnövelést.\n\n• **Az első hat hónapban** a PNL a megállapodásban rögzített elvek és célok betartása esetén nem kezdeményezne és nem támogatna bizalmatlansági indítványt a Niculescu-kormány ellen. Bolojan szerint a párt nem kér kormányzati tisztségeket vagy minisztériumokat.",
-    "title_ro": "PNL ar susține condiționat Guvernul Niculescu, din opoziție",
-    "lead_ro": "Ilie Bolojan a anunțat că PNL ia în calcul un acord politic cu premierul desemnat Luca Niculescu, fără să intre la guvernare. Liberalii ar condiționa sprijinul de disciplina fiscală, protejarea investițiilor și realismul bugetului pentru 2027.",
-    "content_ro": "• **Ilie Bolojan** a anunțat că PNL ia în calcul un acord politic bilateral cu premierul desemnat Luca Niculescu. Liberalii ar rămâne în opoziție și nu ar participa la guvernare.\n\n• **Condițiile sprijinului** includ atingerea țintei de deficit, menținerea disciplinei fiscale, protejarea investițiilor, utilizarea responsabilă a banilor publici și respectarea angajamentelor europene ale României.\n\n• **Bugetul pentru 2027** ar urma să fie susținut de PNL dacă este realist și se bazează pe venituri care pot fi încasate, continuă consolidarea fiscală și evită creșterea cheltuielilor fără surse de finanțare.\n\n• **În primele șase luni**, PNL nu ar iniția și nu ar vota o moțiune de cenzură împotriva Guvernului Niculescu, atât timp cât acesta respectă principiile și obiectivele acordului. Bolojan a precizat că partidul nu solicită funcții sau ministere."
-  },
-  {
-    "group_id": "group_7c74385dc7",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/02102026/7d112db7-559c-4696-8020-f99bd3751ab0.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Chiar trebuie să-i facem statuie lui Hagi!” » Discurs pătimaș al fostului conducător din Liga 1: „Până și pe el l-au mințit și l-au trădat!”",
-        "link": "https://www.gsp.ro/fotbal/nationala/chiar-trebuie-sa-i-facem-statuie-lui-hagi-discurs-patimas-al-fostului-conducator-din-liga-1-987935.html"
-      }
-    ],
-    "published_at": 1791968940,
-    "title_hu": "„Chiar trebuie să-i facem statuie lui Hagi!” » Discurs pătimaș al fostului conducător din Liga 1: „Până și pe el l-au mințit și l-au trădat!”",
-    "lead_hu": "Fost conducător de club în prima ligă a României și fotbalist cunoscut la Dinamo în anii '80, Ioan Mărginean, 66 de ani, a fost protagonistul unui discurs pătimaș pe tema selecționerului Gheorghe Hagi…",
-    "content_hu": "Fost conducător de club în prima ligă a României și fotbalist cunoscut la Dinamo în anii '80, Ioan Mărginean, 66 de ani, a fost protagonistul unui discurs pătimaș pe tema selecționerului Gheorghe Hagi, într-un interviu acordat Gazetei Sporturilor. Parcursul dezastruos pe care „tricolorii” l-au avut în Nations League continuă să aibă ecouri, la mai bine de o săptămână de la ultimul meci al naționalei, eșecul la limită cu Suedia, 0-1. ...",
-    "title_ro": "„Chiar trebuie să-i facem statuie lui Hagi!” » Discurs pătimaș al fostului conducător din Liga 1: „Până și pe el l-au mințit și l-au trădat!”",
-    "lead_ro": "Fost conducător de club în prima ligă a României și fotbalist cunoscut la Dinamo în anii '80, Ioan Mărginean, 66 de ani, a fost protagonistul unui discurs pătimaș pe tema selecționerului Gheorghe Hagi…",
-    "content_ro": "Fost conducător de club în prima ligă a României și fotbalist cunoscut la Dinamo în anii '80, Ioan Mărginean, 66 de ani, a fost protagonistul unui discurs pătimaș pe tema selecționerului Gheorghe Hagi, într-un interviu acordat Gazetei Sporturilor. Parcursul dezastruos pe care „tricolorii” l-au avut în Nations League continuă să aibă ecouri, la mai bine de o săptămână de la ultimul meci al naționalei, eșecul la limită cu Suedia, 0-1. ..."
-  },
-  {
-    "group_id": "group_d638ba0f22",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/ma-1024x683.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Finala Campionatului Național de Super Rally va avea loc duminică, la București. Traseu și program",
-        "link": "https://www.mediafax.ro/sport/finala-campionatului-national-de-super-rally-va-avea-loc-duminica-la-bucuresti-traseu-si-program-23825101"
-      }
-    ],
-    "published_at": 1791968854,
-    "title_hu": "Finala Campionatului Național de Super Rally va avea loc duminică, la București. Traseu și program",
-    "lead_hu": "Marea finală a Campionatului Național de Super Rally va avea loc duminică, 18 octombrie, în jurul Sălii Palatului din București. Evenimentul va stabili numele noilor campioni ai sezonului 2026. La sta…",
-    "content_hu": "Marea finală a Campionatului Național de Super Rally va avea loc duminică, 18 octombrie, în jurul Sălii Palatului din București. Evenimentul va stabili numele noilor campioni ai sezonului 2026. La start vor fi prezente cele mai mari nume din automobilismul sportiv românesc și sunt așteptați aproape 10.000 de spectatori. Accesul publicului este gratuit.",
-    "title_ro": "Finala Campionatului Național de Super Rally va avea loc duminică, la București. Traseu și program",
-    "lead_ro": "Marea finală a Campionatului Național de Super Rally va avea loc duminică, 18 octombrie, în jurul Sălii Palatului din București. Evenimentul va stabili numele noilor campioni ai sezonului 2026. La sta…",
-    "content_ro": "Marea finală a Campionatului Național de Super Rally va avea loc duminică, 18 octombrie, în jurul Sălii Palatului din București. Evenimentul va stabili numele noilor campioni ai sezonului 2026. La start vor fi prezente cele mai mari nume din automobilismul sportiv românesc și sunt așteptați aproape 10.000 de spectatori. Accesul publicului este gratuit."
-  },
-  {
-    "group_id": "group_f8088988c2",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/844976005_1121790267473493_944932401977037138_n-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Sinop, orașul de la Marea Neagră unde s-a scris și o parte din istoria României. De la Mitridate la Războiul Crimeii și arta contemporană",
-        "link": "https://www.mediafax.ro/stirile-zilei/sinop-orasul-de-la-marea-neagra-unde-s-a-scris-si-o-parte-din-istoria-romaniei-de-la-mitridate-la-razboiul-crimeii-si-arta-contemporana-23825064"
-      }
-    ],
-    "published_at": 1791968854,
-    "title_hu": "Sinop, orașul de la Marea Neagră unde s-a scris și o parte din istoria României. De la Mitridate la Războiul Crimeii și arta contemporană",
-    "lead_hu": "La câteva sute de kilometri, de cealaltă parte a Mării Negre, un oraș turcesc pare să trăiască într-un ritm diferit de restul țării. Sinop nu are aglomerația Istanbulului, nici marile resorturi din An…",
-    "content_hu": "La câteva sute de kilometri, de cealaltă parte a Mării Negre, un oraș turcesc pare să trăiască într-un ritm diferit de restul țării. Sinop nu are aglomerația Istanbulului, nici marile resorturi din Antalya. Are însă plaje liniștite, o istorie de peste două milenii, o fostă închisoare celebră și una dintre cele mai interesante bienale de artă contemporană din Turcia. În 2026, printre artiștii invitați se numără și românca Adina Mocanu. Iar legăturile acestui oraș cu România sunt mai profunde decât ar putea părea la prima vedere.",
-    "title_ro": "Sinop, orașul de la Marea Neagră unde s-a scris și o parte din istoria României. De la Mitridate la Războiul Crimeii și arta contemporană",
-    "lead_ro": "La câteva sute de kilometri, de cealaltă parte a Mării Negre, un oraș turcesc pare să trăiască într-un ritm diferit de restul țării. Sinop nu are aglomerația Istanbulului, nici marile resorturi din An…",
-    "content_ro": "La câteva sute de kilometri, de cealaltă parte a Mării Negre, un oraș turcesc pare să trăiască într-un ritm diferit de restul țării. Sinop nu are aglomerația Istanbulului, nici marile resorturi din Antalya. Are însă plaje liniștite, o istorie de peste două milenii, o fostă închisoare celebră și una dintre cele mai interesante bienale de artă contemporană din Turcia. În 2026, printre artiștii invitați se numără și românca Adina Mocanu. Iar legăturile acestui oraș cu România sunt mai profunde decât ar putea părea la prima vedere."
-  },
-  {
-    "group_id": "group_a1cbe45a90",
-    "fingerprint": "6fb894abc112e9cdf43bd050941e2f89",
-    "category": "Erdély",
-    "image": "https://www.presasm.ro/uploads/2026/10/accc-munca.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "FOTO. Tragedie cumplită. Trei români din Maramureș au murit la locul de muncă. Alți trei muncitori, răniți",
-        "link": "https://www.presasm.ro/foto-tragedie-cumplita-trei-romani-din-maramures-au-murit-la-locul-de-munca-alti-trei-muncitori/53778"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Filmul tragediei din Portugalia, unde trei români au fost găsiți morți într-un rezervor de apă. Noi detalii din anchetă",
-        "link": "https://stirileprotv.ro/stiri/international/filmul-tragediei-din-portugalia-unde-trei-romani-au-fost-gasiti-morti-intr-un-rezervor-de-apa-noi-detalii-din-ancheta.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "De ce nu și-au dat seama de pericol cei trei români morți în Portugalia. „Decesul survine la câteva minute”",
-        "link": "https://stirileprotv.ro/stiri/international/ce-spun-apropiatii-despre-cei-trei-romani-morti-in-portugalia-voia-sa-faca-nunta.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Tragedie românească în Portugalia! Trei bărbați, doi frați de 21 și 24 de ani și unchiul lor, au murit intoxicați la locul de muncă",
-        "link": "https://www.cancan.ro/tragedie-romaneasca-in-portugalia-trei-barbati-doi-frati-de-21-si-24-de-ani-si-unchiul-lor-au-murit-intoxicati-la-locul-de-munca-21529928"
-      }
-    ],
-    "published_at": 1791968685,
-    "title_hu": "Három román munkás halt meg egy portugáliai víztartályban",
-    "lead_hu": "Október 12-én három, Máramarosból származó román munkás vesztette életét a dél-portugáliai Quinta do Lagóban, miközben egy magánház víztartályának szigetelésén dolgoztak. A sajtó beszámolói szerint mérgező vegyi anyagok gőzei okozhatták a rosszullétüket, de a halálesetek pontos körülményeit hatósági vizsgálatok tisztázzák.",
-    "content_hu": "• **Október 12-én** a dél-portugáliai Quinta do Lagóban, Almancil térségében három román munkás vesztette életét egy munkabalesetben. A férfiak egy magánrezidencia víztartályának belső szigetelésén dolgoztak.\n\n• **Az áldozatok** 21, 24 és 40 évesek voltak, és a beszámolók szerint ugyanahhoz a családhoz tartoztak: a két fiatalabb férfi testvér volt, a 40 éves pedig a nagybátyjuk. Máramaros megyei Poienile de Sub Munte községből származtak, és régóta Portugáliában éltek.\n\n• **A feltételezett ok** a tartályban használt vegyi anyagok mérgező gőze lehetett. A sajtó szerint a rosszul szellőző, zárt térben először az egyik munkás lett rosszul, majd a segítségére siető két társa is elvesztette az eszméletét; ezt a lefolyást a hatóságoknak még vizsgálniuk kell.\n\n• **A mentés során** a három férfit kihozták a tartályból, és megpróbálták újraéleszteni őket, de a helyszínen meghaltak. További három, 50 és 52 év közötti munkás orvosi ellátást kapott; a beszámolók szerint nem szenvedtek súlyos sérülést, és nem kérték kórházi szállításukat.\n\n• **A vizsgálatot** a rendőrség és a portugál munkavédelmi hatóság folytatja. Azt ellenőrzik, hogy betartották-e a munkavédelmi előírásokat, megfelelő volt-e a szellőzés és a védőfelszerelés, illetve milyen anyagokat használtak a zárt térben végzett munkához.",
-    "title_ro": "Trei muncitori români au murit într-un rezervor de apă din Portugalia",
-    "lead_ro": "Pe 12 octombrie, trei muncitori români originari din Maramureș au murit în Quinta do Lago, în sudul Portugaliei, în timp ce izolau rezervorul de apă al unei proprietăți private. Presa a relatat că vaporii unor substanțe chimice ar fi putut provoca intoxicația, însă autoritățile investighează în continuare circumstanțele exacte.",
-    "content_ro": "• **Pe 12 octombrie**, trei muncitori români au murit într-un accident de muncă în Quinta do Lago, în zona Almancil, din sudul Portugaliei. Ei efectuau lucrări de impermeabilizare în interiorul unui rezervor de apă de la o proprietate privată.\n\n• **Victimele** aveau 21, 24 și 40 de ani și, potrivit relatărilor, făceau parte din aceeași familie: cei doi mai tineri erau frați, iar bărbatul de 40 de ani era unchiul lor. Originari din comuna Poienile de Sub Munte, județul Maramureș, locuiau de mai mulți ani în Portugalia.\n\n• **Cauza posibilă** ar fi fost inhalarea vaporilor toxici ai substanțelor chimice folosite în rezervor. Potrivit presei, spațiul era slab ventilat, iar după ce unuia dintre muncitori i s-a făcut rău, ceilalți doi au coborât să-l ajute și și-au pierdut și ei cunoștința; autoritățile verifică această desfășurare a evenimentelor.\n\n• **Intervenția de salvare** a inclus scoaterea celor trei bărbați din rezervor și manevre de resuscitare, fără rezultat. Alți trei muncitori, cu vârste între 50 și 52 de ani, au primit îngrijiri medicale; potrivit relatărilor, nu au suferit răni grave și au refuzat transportul la spital.\n\n• **Ancheta** este desfășurată de poliție și de autoritatea portugheză pentru condițiile de muncă. Verificările urmăresc să stabilească dacă au fost respectate normele de securitate, dacă ventilația și echipamentele de protecție erau adecvate și ce substanțe au fost folosite în spațiul închis."
-  },
-  {
-    "group_id": "group_b2aea40797",
-    "category": "Gazdaság",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8077381-mediafax_foto-marc_marasescu-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "FIFA pregătește un fond uriaș de 5,5 miliarde de euro. Câți bani ar putea primi România, în timp ce Infantino se luptă să rămână la conducere",
-        "link": "https://www.mediafax.ro/sport/fifa-pregateste-un-fond-urias-de-55-miliarde-de-euro-cati-bani-ar-putea-primi-romania-in-timp-ce-infantino-se-lupta-sa-ramana-la-conducere-23825062"
-      }
-    ],
-    "published_at": 1791968607,
-    "title_hu": "FIFA pregătește un fond uriaș de 5,5 miliarde de euro. Câți bani ar putea primi România, în timp ce Infantino se luptă să rămână la conducere",
-    "lead_hu": "Fotbalul românesc ar putea beneficia de o finanțare de aproximativ 21,5 milioane de euro în următorii patru ani, printr-un nou program pregătit de FIFA.",
-    "content_hu": "Fotbalul românesc ar putea beneficia de o finanțare de aproximativ 21,5 milioane de euro în următorii patru ani, printr-un nou program pregătit de FIFA.",
-    "title_ro": "FIFA pregătește un fond uriaș de 5,5 miliarde de euro. Câți bani ar putea primi România, în timp ce Infantino se luptă să rămână la conducere",
-    "lead_ro": "Fotbalul românesc ar putea beneficia de o finanțare de aproximativ 21,5 milioane de euro în următorii patru ani, printr-un nou program pregătit de FIFA.",
-    "content_ro": "Fotbalul românesc ar putea beneficia de o finanțare de aproximativ 21,5 milioane de euro în următorii patru ani, printr-un nou program pregătit de FIFA."
   }
 ]
