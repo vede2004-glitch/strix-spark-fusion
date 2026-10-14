@@ -1,5 +1,472 @@
 [
   {
+    "group_id": "group_ef9c7779cb",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Incendiu violent într-o gospodărie din Bihor. Au ars acoperișul unei magazii și mai multe bunuri, inclusiv un ATV",
+        "link": "https://www.ebihoreanul.ro/stiri/incendiu-violent-intr-o-gospodarie-din-bihor-au-ars-acoperisul-unei-magazii-si-mai-multe-bunuri-inclusiv-un-atv-205789.html"
+      }
+    ],
+    "published_at": 1791963137,
+    "title_hu": "Incendiu violent într-o gospodărie din Bihor. Au ars acoperișul unei magazii și mai multe bunuri, inclusiv un ATV",
+    "lead_hu": "Un incendiu violent a izbucnit miercuri dimineață la o magazie din Fiziș, comuna Finiș, unde flăcările au distrus acoperișul acesteia și mai multe bunuri aflate în interior, inclusiv un ATV, și au ame…",
+    "content_hu": "Un incendiu violent a izbucnit miercuri dimineață la o magazie din Fiziș, comuna Finiș, unde flăcările au distrus acoperișul acesteia și mai multe bunuri aflate în interior, inclusiv un ATV, și au amenințat anexele aflate la mai puțin de jumătate de metru.",
+    "title_ro": "Incendiu violent într-o gospodărie din Bihor. Au ars acoperișul unei magazii și mai multe bunuri, inclusiv un ATV",
+    "lead_ro": "Un incendiu violent a izbucnit miercuri dimineață la o magazie din Fiziș, comuna Finiș, unde flăcările au distrus acoperișul acesteia și mai multe bunuri aflate în interior, inclusiv un ATV, și au ame…",
+    "content_ro": "Un incendiu violent a izbucnit miercuri dimineață la o magazie din Fiziș, comuna Finiș, unde flăcările au distrus acoperișul acesteia și mai multe bunuri aflate în interior, inclusiv un ATV, și au amenințat anexele aflate la mai puțin de jumătate de metru."
+  },
+  {
+    "group_id": "group_1422e1bef9",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMTg1NV8zMDEx/ODU1X3RyZWNlcmUtcGlldG9uaS5qcGcm/aGFzaD02YWMxNzRmYjRhY2U2Yzk3Zjk2MTZkNmU2MjRhNTFhYQ==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "VIDEO Trecerea de pietoni cu instalație de iluminare care face legătura între un șanț și o miriște",
+        "link": "https://www.digi24.ro/stiri/actualitate/video-trecerea-de-pietoni-cu-instalatie-de-iluminare-care-face-legatura-intre-un-sant-si-o-miriste-3991327"
+      }
+    ],
+    "published_at": 1791963100,
+    "title_hu": "VIDEO Trecerea de pietoni cu instalație de iluminare care face legătura între un șanț și o miriște",
+    "lead_hu": "O trecere de pietoni aflată în mijlocul câmpului e iluminată cu o instalație LED, dar face legătura între un șanț și o miriște. Se întâmplă în județul Brăila și amenajarea face parte dintr-o investiți…",
+    "content_hu": "O trecere de pietoni aflată în mijlocul câmpului e iluminată cu o instalație LED, dar face legătura între un șanț și o miriște. Se întâmplă în județul Brăila și amenajarea face parte dintr-o investiție mai largă a Consiliului Județean, în valoare de 5 milioane de lei.",
+    "title_ro": "VIDEO Trecerea de pietoni cu instalație de iluminare care face legătura între un șanț și o miriște",
+    "lead_ro": "O trecere de pietoni aflată în mijlocul câmpului e iluminată cu o instalație LED, dar face legătura între un șanț și o miriște. Se întâmplă în județul Brăila și amenajarea face parte dintr-o investiți…",
+    "content_ro": "O trecere de pietoni aflată în mijlocul câmpului e iluminată cu o instalație LED, dar face legătura între un șanț și o miriște. Se întâmplă în județul Brăila și amenajarea face parte dintr-o investiție mai largă a Consiliului Județean, în valoare de 5 milioane de lei."
+  },
+  {
+    "group_id": "group_eccd7df21b",
+    "fingerprint": "cb6ad3eba7cd122d6813b87ccfc01af0",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTE2MF8zMDA5/MTYwX3RvYW1uYS12cmVtZWEtcHJvZmlt/ZWRpYS0xMTM5NjY1MTU0LmpwZyZoYXNo/PTNmYmE1OTE1ZjQyZDViZjgzYmE5MDhlZjY5YzFmZGNl.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Cod galben de vânt în opt județe. ANM anunță rafale de până la 70 km/h, ploi și lapoviță la munte",
+        "link": "https://stirileprotv.ro/stiri/vremea/cod-galben-de-vant-in-opt-judete-anm-anunta-rafale-de-pana-la-70-km-h-ploi-si-lapovita-la-munte.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "ANM a emis cod galben de vânt puternic: sunt așteptate lapoviță și ninsoare la munte. Ce zone sunt vizate HARTĂ",
+        "link": "https://www.digi24.ro/meteo/anm-a-emis-cod-galben-de-vant-puternic-sunt-asteptate-lapovita-si-ninsoare-la-munte-ce-zone-sunt-vizate-harta-3991289"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cod galben de vânt în sudul Moldovei, estul Munteniei şi Dobrogea, pe parcursul zilei de miercuri",
+        "link": "https://www.g4media.ro/cod-galben-de-vant-in-sudul-moldovei-estul-munteniei-si-dobrogea-pe-parcursul-zilei-de-miercuri.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Alertă de vreme severă: vânt puternic în 8 județe, ninsori și strat de zăpadă la munte. Minime de 2 grade la București",
+        "link": "https://hotnews.ro/alerta-de-vreme-severa-vant-puternic-in-8-judete-ninsori-si-strat-de-zapada-la-munte-minime-de-2-grade-la-bucuresti-2375437"
+      },
+      {
+        "source": "Mediafax",
+        "title": "ANM: Vânt și ninsori la munte până vineri. Se va depune un strat de zăpadă de până la 15 centimetri. Frig, ploi și ceață în București",
+        "link": "https://www.mediafax.ro/social/anm-vant-si-ninsori-la-munte-pana-vineri-se-va-depune-un-strat-de-zapada-de-pana-la-15-centimetri-frig-ploi-si-ceata-in-bucuresti-23824994"
+      }
+    ],
+    "published_at": 1791963086,
+    "title_hu": "Sárga riasztás a szél miatt, havazás várható a hegyekben",
+    "lead_hu": "Az ANM október 14-én, szerdán sárga riasztást adott ki a szél miatt Moldova déli részére, Muntenia keleti részére és Dobrudzsára. A hegyekben havas esőre és havazásra, a magasabb területeken 5–15 centiméteres hórétegre számítanak; a meteorológiai tájékoztatás péntek estig érvényes.",
+    "content_hu": "• **Október 14-én, szerdán 10 és 18 óra között** sárga riasztás lesz érvényben Moldova déli részén, Muntenia keleti részén és Dobrudzsában. A nyolc érintett megye Vrancea, Buzău, Galați, Brăila, Ialomița, Călărași, Tulcea és Constanța.\n\n• **A széllökések** a riasztással érintett térségekben elérhetik az 50–70 km/órát. Szerdán más érintett területeken általában 45–55 km/órás széllökések várhatók; csütörtökön és pénteken helyenként 40–50 km/órás széllökések lehetnek.\n\n• **A magashegységekben** – különösen a Déli-Kárpátokban és a Kárpátkanyarban – 60–80 km/órás széllökésekre számítanak. 1500 méter felett havas eső és havazás várható, a Déli- és a Keleti-Kárpátokban pedig helyenként 5–15 centiméteres hóréteg alakulhat ki.\n\n• **A meteorológiai tájékoztatás** október 16-án, pénteken 18 óráig érvényes, és az ANM szerint az idő az évszakos átlagnál hidegebb marad. Bukarestben szerdán 16–17 fokos maximumot és 5–6 fokos minimumot jeleznek; a külvárosokban akár 2 fokig is süllyedhet a hőmérséklet.",
+    "title_ro": "Cod galben de vânt; sunt așteptate ninsori la munte",
+    "lead_ro": "ANM a emis miercuri, 14 octombrie, un cod galben de vânt pentru sudul Moldovei, estul Munteniei și Dobrogea. La munte sunt așteptate lapoviță și ninsoare, iar la altitudini mari se poate depune un strat de zăpadă de 5–15 centimetri; informarea meteorologică este valabilă până vineri seara.",
+    "content_ro": "• **Miercuri, 14 octombrie, între orele 10:00 și 18:00**, este în vigoare un cod galben în sudul Moldovei, estul Munteniei și Dobrogea. Cele opt județe vizate sunt Vrancea, Buzău, Galați, Brăila, Ialomița, Călărași, Tulcea și Constanța.\n\n• **Rafalele de vânt** pot ajunge la 50–70 km/h în zonele aflate sub cod galben. Miercuri, în celelalte regiuni menționate de ANM, rafalele vor fi în general de 45–55 km/h; joi și vineri, local, pot atinge 40–50 km/h.\n\n• **La munte**, în special în Carpații Meridionali și Carpații de Curbură, sunt prognozate rafale de 60–80 km/h. La altitudini de peste 1.500 de metri sunt așteptate lapoviță și ninsoare, iar în Carpații Meridionali și Orientali se poate depune un strat de zăpadă de 5–15 centimetri.\n\n• **Informarea meteorologică** este valabilă până vineri, 16 octombrie, la ora 18:00, iar ANM anunță că vremea va rămâne mai rece decât este normal pentru această perioadă. La București, miercuri sunt prognozate maxime de 16–17 grade și minime de 5–6 grade; la periferie, temperatura poate coborî până la 2 grade."
+  },
+  {
+    "group_id": "group_70a92ba63e",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Alegerile românești văzute din culise: “Micile Speranțe” noul film al lui Alexandru Solomon, selectat la IDFA",
+        "link": "https://hotnews.ro/alegerile-romanesti-vazute-din-culise-micile-sperante-noul-film-al-lui-alexandru-solomon-selectat-la-idfa-2375443"
+      }
+    ],
+    "published_at": 1791963077,
+    "title_hu": "Alegerile românești văzute din culise: “Micile Speranțe” noul film al lui Alexandru Solomon, selectat la IDFA",
+    "lead_hu": "“Micile Speranțe” cel mai recent film al regizorului Alexandru Solomon, una dintre vocile importante ale documentarului românesc, a fost selectat la IDFA 2026 – International Documentary Film Festival…",
+    "content_hu": "“Micile Speranțe” cel mai recent film al regizorului Alexandru Solomon, una dintre vocile importante ale documentarului românesc, a fost selectat la IDFA 2026 – International Documentary Film Festival Amsterdam, în secțiunea Frontlight, dedicată filmelor care explorează, printr-o abordare artistică, cele mai urgente teme ale prezentului. Filmat între aprilie 2024 și vara lui 2025, documentarul urmărește …",
+    "title_ro": "Alegerile românești văzute din culise: “Micile Speranțe” noul film al lui Alexandru Solomon, selectat la IDFA",
+    "lead_ro": "“Micile Speranțe” cel mai recent film al regizorului Alexandru Solomon, una dintre vocile importante ale documentarului românesc, a fost selectat la IDFA 2026 – International Documentary Film Festival…",
+    "content_ro": "“Micile Speranțe” cel mai recent film al regizorului Alexandru Solomon, una dintre vocile importante ale documentarului românesc, a fost selectat la IDFA 2026 – International Documentary Film Festival Amsterdam, în secțiunea Frontlight, dedicată filmelor care explorează, printr-o abordare artistică, cele mai urgente teme ale prezentului. Filmat între aprilie 2024 și vara lui 2025, documentarul urmărește …"
+  },
+  {
+    "group_id": "group_9bd3378100",
+    "fingerprint": "8a7f40a608819058a40ec2677bd52f40",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/post-tv-turcia.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Sediul principalului canal de televiziune al opoziției din Turcia a fost plasat sub controlul poliției",
+        "link": "https://www.mediafax.ro/externe/sediul-principalului-canal-de-televiziune-al-opozitiei-din-turcia-a-fost-plasat-sub-controlul-politiei-23824983"
+      },
+      {
+        "source": "Digi24",
+        "title": "Poliția turcă a preluat controlul asupra unui post TV al opoziției. Măsura vine după interzicerea unui site pentru „propagandă LGBT”",
+        "link": "https://www.digi24.ro/stiri/externe/politia-turca-a-preluat-controlul-asupra-unui-post-tv-al-opozitiei-masura-vine-dupa-interzicerea-unui-site-pentru-propaganda-lgbt-3991329"
+      }
+    ],
+    "published_at": 1791963043,
+    "title_hu": "Rendőri ellenőrzés alá került a török ellenzéki Halk TV székháza",
+    "lead_hu": "A Halk TV közlése szerint 2026. október 14-én rendőrök jelentek meg a török ellenzéki televízió székházában, és megszakadt az élő adás. Ügyintézőt neveztek ki az irányítás átvételére, az épületben házkutatást tartottak, az akciót pedig az ellenzék vezetője is elítélte.",
+    "content_hu": "• **2026. október 14-én** a Halk TV közlése szerint rendőrök jelentek meg a török ellenzéki televízió székházában, és megszakadt a csatorna élő adása.\n\n• **A csatorna közlése szerint** ügyintézőt neveztek ki a Halk TV irányításának átvételére, a rendőrség pedig átkutatta az épületet.\n\n• **A házkutatás idején** nem engedtek be senkit a székházba; a csatorna később azt közölte, hogy a rendőrségi kutatás befejeződött.\n\n• **Suat Toktaş főszerkesztő** egy, a Halk TV által megosztott videóban jogellenesnek nevezte az intézkedést, és megpróbálta rávenni a kinevezett ügyintézőt, hogy ne szakítsa meg az élő adást.\n\n• **Özgür Özel**, a legnagyobb ellenzéki párt vezetője elítélte az intézkedést, és azt állította, hogy a kormány a lakosság tájékozódását próbálja akadályozni.\n\n• **A T24 híroldal blokkolása** után két héttel került sor az akcióra; a Digi24 beszámolója szerint a török hatóságok a weboldalt állítólagos „LMBT-propaganda” miatt tették elérhetetlenné.",
+    "title_ro": "Sediul postului turc de opoziție Halk TV a fost plasat sub controlul poliției",
+    "lead_ro": "Potrivit Halk TV, la 14 octombrie 2026 polițiștii au intrat în sediul postului turc de opoziție, iar transmisiunea în direct a fost întreruptă. A fost numit un administrator pentru preluarea controlului, în clădire a avut loc o percheziție, iar liderul opoziției a condamnat acțiunea.",
+    "content_ro": "• **La 14 octombrie 2026**, potrivit Halk TV, polițiștii au intrat în sediul postului turc de opoziție, iar transmisiunea în direct a fost întreruptă.\n\n• **Potrivit postului**, a fost numit un administrator pentru preluarea controlului asupra Halk TV, iar poliția a percheziționat clădirea.\n\n• **În timpul percheziției**, accesul în sediu a fost interzis; ulterior, postul a anunțat că verificările poliției s-au încheiat.\n\n• **Suat Toktaș, redactorul-șef**, a numit măsura ilegală într-un videoclip distribuit de Halk TV și a încercat să-l convingă pe administratorul numit să nu întrerupă transmisiunea în direct.\n\n• **Özgür Özel**, liderul principalului partid de opoziție, a condamnat măsura și a afirmat că guvernul încearcă să împiedice accesul populației la informații.\n\n• **Blocarea site-ului de știri T24** avusese loc cu două săptămâni înaintea acțiunii; potrivit Digi24, autoritățile turce au restricționat accesul la site pentru presupusă „propagandă LGBT”."
+  },
+  {
+    "group_id": "group_8c7442cc1a",
+    "category": "Sport",
+    "image": "https://cdn.adh.reperio.news/image-9/9baf6059-64c3-479c-a8d3-e834d4dd69a6/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Ce suspendare riscă Cristiano Ronaldo pentru că a părăsit cantonamentul echipei Portugaliei",
+        "link": "https://adevarul.ro/sport/ce-suspendare-risca-cristiano-ronaldo-pentru-ca-a-2563888.html"
+      }
+    ],
+    "published_at": 1791962901,
+    "title_hu": "Ce suspendare riscă Cristiano Ronaldo pentru că a părăsit cantonamentul echipei Portugaliei",
+    "lead_hu": "Potrivit presei de la Lisabona, Cristiano Ronaldo riscă o suspendare de până la șase luni pentru că a părăsit cantonamentul echipei naționale de fotbal a Portugaliei. Acesta a avut un conflict cu sele…",
+    "content_hu": "Potrivit presei de la Lisabona, Cristiano Ronaldo riscă o suspendare de până la șase luni pentru că a părăsit cantonamentul echipei naționale de fotbal a Portugaliei. Acesta a avut un conflict cu selecționerul Jorge Jesus, fiind nemulțumit de faptul că a fost rezervă în Liga Națiunilor la fotbal.",
+    "title_ro": "Ce suspendare riscă Cristiano Ronaldo pentru că a părăsit cantonamentul echipei Portugaliei",
+    "lead_ro": "Potrivit presei de la Lisabona, Cristiano Ronaldo riscă o suspendare de până la șase luni pentru că a părăsit cantonamentul echipei naționale de fotbal a Portugaliei. Acesta a avut un conflict cu sele…",
+    "content_ro": "Potrivit presei de la Lisabona, Cristiano Ronaldo riscă o suspendare de până la șase luni pentru că a părăsit cantonamentul echipei naționale de fotbal a Portugaliei. Acesta a avut un conflict cu selecționerul Jorge Jesus, fiind nemulțumit de faptul că a fost rezervă în Liga Națiunilor la fotbal."
+  },
+  {
+    "group_id": "group_fcfec4f2ad",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/c1ca9225-8d7a-4e47-bdf7-ab34b456b277.png?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Universitatea Craiova – Getafe: debutul care poate seta tonul oltenilor în Conference League",
+        "link": "https://www.gsp.ro/comercial/advertorial/universitatea-craiova-getafe-debutul-care-poate-seta-tonul-oltenilor-in-conference-league-987914.html"
+      }
+    ],
+    "published_at": 1791962789,
+    "title_hu": "Universitatea Craiova – Getafe: debutul care poate seta tonul oltenilor în Conference League",
+    "lead_hu": "Universitatea Craiova debutează în faza principală a Europa Conference League pe teren propriu, în fața celor de la Getafe. Ora de start a partidei de pe Ion Oblemenco este 19:45, ora locală. Universi…",
+    "content_hu": "Universitatea Craiova debutează în faza principală a Europa Conference League pe teren propriu, în fața celor de la Getafe. Ora de start a partidei de pe Ion Oblemenco este 19:45, ora locală. Universitatea Craiova – Getafe este un prim test dificil în nou faza ligii pentru olteni, care vor să își depășească recordul din sezonul trecut, atunci când au acumulat șapte puncte și au ratat calificarea în fazele eliminatorii la limită. ...",
+    "title_ro": "Universitatea Craiova – Getafe: debutul care poate seta tonul oltenilor în Conference League",
+    "lead_ro": "Universitatea Craiova debutează în faza principală a Europa Conference League pe teren propriu, în fața celor de la Getafe. Ora de start a partidei de pe Ion Oblemenco este 19:45, ora locală. Universi…",
+    "content_ro": "Universitatea Craiova debutează în faza principală a Europa Conference League pe teren propriu, în fața celor de la Getafe. Ora de start a partidei de pe Ion Oblemenco este 19:45, ora locală. Universitatea Craiova – Getafe este un prim test dificil în nou faza ligii pentru olteni, care vor să își depășească recordul din sezonul trecut, atunci când au acumulat șapte puncte și au ratat calificarea în fazele eliminatorii la limită. ..."
+  },
+  {
+    "group_id": "group_c5224121ca",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2025/08/ANRE-1024x576.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "APCE acuză ANRE că nu a sancționat distribuitorii pentru investițiile insuficiente în rețelele electrice: România a investit 32 de euro pe locuitor în 2024",
+        "link": "https://economedia.ro/apce-acuza-anre-ca-nu-a-sanctionat-distribuitorii-pentru-investitiile-insuficiente-in-retelele-electrice-romania-a-investit-32-de-euro-pe-locuitor-in-2024.html"
+      }
+    ],
+    "published_at": 1791962752,
+    "title_hu": "APCE acuză ANRE că nu a sancționat distribuitorii pentru investițiile insuficiente în rețelele electrice: România a investit 32 de euro pe locuitor în 2024",
+    "lead_hu": "Asociația Prosumatorilor și a Comunităților de Energie din România (APCE) acuză Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) că nu a verificat și sancționat suficient distribuitor…",
+    "content_hu": "Asociația Prosumatorilor și a Comunităților de Energie din România (APCE) acuză Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) că nu a verificat și sancționat suficient distribuitorii de energie pentru investițiile nerealizate în rețelele electrice. Potrivit calculelor APCE, realizate pe baza datelor Agenției Uniunii Europene pentru Cooperarea Autorităților de Reglementare în Energie (ACER), România a […]",
+    "title_ro": "APCE acuză ANRE că nu a sancționat distribuitorii pentru investițiile insuficiente în rețelele electrice: România a investit 32 de euro pe locuitor în 2024",
+    "lead_ro": "Asociația Prosumatorilor și a Comunităților de Energie din România (APCE) acuză Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) că nu a verificat și sancționat suficient distribuitor…",
+    "content_ro": "Asociația Prosumatorilor și a Comunităților de Energie din România (APCE) acuză Autoritatea Națională de Reglementare în domeniul Energiei (ANRE) că nu a verificat și sancționat suficient distribuitorii de energie pentru investițiile nerealizate în rețelele electrice. Potrivit calculelor APCE, realizate pe baza datelor Agenției Uniunii Europene pentru Cooperarea Autorităților de Reglementare în Energie (ACER), România a […]"
+  },
+  {
+    "group_id": "group_5fb15463cc",
+    "fingerprint": "8dcbe5a39a11f0fb39b1815a5a4b4de8",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8161631-mediafax_foto-abacapress_hepta-1024x685.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Misiune istorică spre satelitul lui Marte: MMX va încerca să aducă pe Pământ primele mostre de pe Phobos",
+        "link": "https://www.mediafax.ro/life-inedit/misiune-istorica-spre-satelitul-lui-marte-mmx-va-incerca-sa-aduca-pe-pamant-primele-mostre-de-pe-phobos-23824796"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Misiune spațială istorică pe satelitul planetei Marte: omenirea vizează primele mostre de pe Phobos",
+        "link": "https://www.go4it.ro/content/stiinta/misiune-spatiala-istorica-pe-satelitul-planetei-marte-omenirea-vizeaza-primele-mostre-de-pe-phobos-19287766/"
+      }
+    ],
+    "published_at": 1791962744,
+    "title_hu": "A JAXA MMX-küldetése mintákat hozna a Mars Phobos nevű holdjáról",
+    "lead_hu": "A japán JAXA vezette MMX-küldetés célja a Phobos vizsgálata és legalább tíz grammnyi felszíni minta visszahozása a Földre 2031-ben. Az elemzések segíthetnek tisztázni, hogyan keletkezett a Mars két holdja, a Phobos és a Deimos.",
+    "content_hu": "• **A JAXA vezette MMX-küldetés** a Phobos, a Mars nagyobbik holdjának vizsgálatára indul; a tervek szerint egy H3-as rakéta viszi fel a Tanegashima Űrközpontból. A programban a NASA, az ESA, a francia CNES és a Német Űrközpont (DLR) is részt vesz.\n\n• **A tervezett indítás** október 20-án, helyi idő szerint 4:41-kor esedékes, ami Romániában október 19-én 22:41-nek felel meg. A Marsig tartó út körülbelül egy évig tart.\n\n• **A küldetés fő célja** a Phobos tanulmányozása, az Idefix rover felszínre juttatása, majd a fő szonda leszállítása és mintagyűjtése. Ha a terv megvalósul, legalább tíz gramm Phobosról származó anyag érkezhet a Földre 2031-ben.\n\n• **A minták** segíthetnek eldönteni, miként alakult ki a Phobos és a Deimos. Az egyik elképzelés szerint a holdak befogott aszteroidák, egy másik szerint egy ősi, nagy marsi ütközés törmelékéből jöttek létre.\n\n• **Az MMX fedélzetén** 11 tudományos műszer kap helyet: hét a fő szondán, négy pedig az Idefix roverben. A 25 kilogrammos jármű a Phobos rendkívül gyenge gravitációja miatt a felszínen mindössze körülbelül 15 gramm földi súlyának megfelelő erőt érzékel.\n\n• **A küldetés ütemterve szerint** az űrszonda 2027 augusztusában áll Mars körüli pályára, és szeptemberben kezdi meg a Phobos közelében végzett műveleteket. Az Idefixet 2029 elején engednék le, a mintagyűjtést pedig 2030-ra tervezik.\n\n• **A mintákat szállító kapszula** várhatóan 2031-ben érkezik Ausztráliába; a begyűjtött anyagot ezután Japánban vizsgálják és osztják meg a küldetés tudományos partnereivel. Az MMX a visszaúton a Deimost és a Marsot is megfigyeli.",
+    "title_ro": "Misiunea MMX a JAXA ar putea aduce pe Pământ mostre de pe Phobos",
+    "lead_ro": "Misiunea MMX, coordonată de agenția japoneză JAXA, va studia Phobos și ar urma să aducă pe Pământ cel puțin zece grame de material în 2031. Analiza probelor ar putea clarifica modul în care s-au format Phobos și Deimos, cei doi sateliți ai lui Marte.",
+    "content_ro": "• **Misiunea MMX, coordonată de JAXA**, are ca obiectiv principal studierea lui Phobos, cel mai mare dintre sateliții lui Marte, și va fi lansată cu o rachetă H3 de la Centrul Spațial Tanegashima. La proiect participă și NASA, ESA, agenția franceză CNES și Centrul Aerospațial German (DLR).\n\n• **Lansarea este programată** pentru 20 octombrie, la ora locală 04:41, echivalentul datei de 19 octombrie, ora 22:41 în România. Călătoria până la Marte va dura aproximativ un an.\n\n• **Planul misiunii** include studierea lui Phobos, coborârea roverului Idefix pe suprafața sa și apoi asolizarea sondei principale pentru colectarea de probe. Dacă operațiunile decurg conform planului, cel puțin zece grame de material ar urma să ajungă pe Pământ în 2031.\n\n• **Mostrele** ar putea lămuri originea lui Phobos și Deimos. Potrivit unei ipoteze, cei doi sateliți sunt asteroizi capturați de gravitația lui Marte; o altă teorie susține că s-au format din resturile unei coliziuni uriașe de pe planetă.\n\n• **MMX transportă 11 instrumente științifice**: șapte sunt instalate pe sonda principală, iar patru pe roverul Idefix. Roverul are o masă de 25 de kilograme, însă gravitația foarte redusă de pe Phobos face ca greutatea resimțită la suprafață să fie echivalentă cu aproximativ 15 grame pe Pământ.\n\n• **Calendarul misiunii** prevede intrarea pe orbita lui Marte în august 2027 și începerea operațiunilor în apropierea lui Phobos în septembrie. Roverul ar urma să fie eliberat la începutul lui 2029, iar colectarea probelor este planificată pentru 2030.\n\n• **Capsula cu probe** ar urma să aterizeze în Australia în 2031, iar materialul va fi apoi transportat în Japonia pentru analiză și distribuire către partenerii științifici. La întoarcere, MMX va efectua observații suplimentare asupra lui Deimos și a planetei Marte."
+  },
+  {
+    "group_id": "group_1967bcbd91",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2020/07/handicap-parking-3865315_1280-e1595586488973.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Compania Națională Aeroporturi București introduce accesul automatizat în parcări pentru persoanele cu mobilitate redusă / Fără tichet și fără plata parcării, prin simpla recunoaștere a numărului de înmatriculare",
+        "link": "https://www.g4media.ro/compania-nationala-aeroporturi-bucuresti-introduce-accesul-automatizat-in-parcari-pentru-persoanele-cu-mobilitate-redusa-fara-tichet-si-fara-plata-parcarii-prin-simpla-recunoastere-a-numarului-de-i.html"
+      }
+    ],
+    "published_at": 1791962720,
+    "title_hu": "Compania Națională Aeroporturi București introduce accesul automatizat în parcări pentru persoanele cu mobilitate redusă / Fără tichet și fără plata parcării, prin simpla recunoaștere a numărului de înmatriculare",
+    "lead_hu": "Compania Națională Aeroporturi București a introdus un sistem de acces automatizat în parcările publice ale aeroporturilor Henri Coandă și Băneasa, pentru autovehiculele care transportă persoane cu mo…",
+    "content_hu": "Compania Națională Aeroporturi București a introdus un sistem de acces automatizat în parcările publice ale aeroporturilor Henri Coandă și Băneasa, pentru autovehiculele care transportă persoane cu mobilitate redusă (PMR), deținătoare ale unei legitimații valide. Noua facilitate simplifică accesul în parcări prin recunoașterea automată a numărului de înmatriculare, eliminând necesitatea obținerii unui tichet de parcare și […] © G4Media.ro.",
+    "title_ro": "Compania Națională Aeroporturi București introduce accesul automatizat în parcări pentru persoanele cu mobilitate redusă / Fără tichet și fără plata parcării, prin simpla recunoaștere a numărului de înmatriculare",
+    "lead_ro": "Compania Națională Aeroporturi București a introdus un sistem de acces automatizat în parcările publice ale aeroporturilor Henri Coandă și Băneasa, pentru autovehiculele care transportă persoane cu mo…",
+    "content_ro": "Compania Națională Aeroporturi București a introdus un sistem de acces automatizat în parcările publice ale aeroporturilor Henri Coandă și Băneasa, pentru autovehiculele care transportă persoane cu mobilitate redusă (PMR), deținătoare ale unei legitimații valide. Noua facilitate simplifică accesul în parcări prin recunoașterea automată a numărului de înmatriculare, eliminând necesitatea obținerii unui tichet de parcare și […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_b09ea10201",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-f/f39828ef-5043-4721-a5c0-c6491c81a94b/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Iarna balistică: scutul Ucrainei, cusut din petice",
+        "link": "https://adevarul.ro/blogurile-adevarul/iarna-balistica-scutul-ucrainei-cusut-din-2563871.html"
+      }
+    ],
+    "published_at": 1791962659,
+    "title_hu": "Iarna balistică: scutul Ucrainei, cusut din petice",
+    "lead_hu": "Kievul adună interceptoare din stocurile aliaților, din fabricile de mâine și dintr-un prototip numit Freyja. Problema este că Rusia nu așteaptă calendarul niciuneia dintre ele.",
+    "content_hu": "Kievul adună interceptoare din stocurile aliaților, din fabricile de mâine și dintr-un prototip numit Freyja. Problema este că Rusia nu așteaptă calendarul niciuneia dintre ele.",
+    "title_ro": "Iarna balistică: scutul Ucrainei, cusut din petice",
+    "lead_ro": "Kievul adună interceptoare din stocurile aliaților, din fabricile de mâine și dintr-un prototip numit Freyja. Problema este că Rusia nu așteaptă calendarul niciuneia dintre ele.",
+    "content_ro": "Kievul adună interceptoare din stocurile aliaților, din fabricile de mâine și dintr-un prototip numit Freyja. Problema este că Rusia nu așteaptă calendarul niciuneia dintre ele."
+  },
+  {
+    "group_id": "group_d04017b405",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/04/dreamstime_m_62861982-1024x683.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Bucureștiul a atras până în septembrie doar 29% din investițiile imobiliare comerciale din România, față de 50%, în anii anteriori. Orașele regionale câștigă teren",
+        "link": "https://economedia.ro/bucurestiul-a-atras-pana-in-septembrie-doar-29-din-investitiile-imobiliare-comerciale-din-romania-fata-de-50-in-anii-anteriori-orasele-regionale-castiga-teren.html"
+      }
+    ],
+    "published_at": 1791962599,
+    "title_hu": "Bucureștiul a atras până în septembrie doar 29% din investițiile imobiliare comerciale din România, față de 50%, în anii anteriori. Orașele regionale câștigă teren",
+    "lead_hu": "Bucureștiul a atras investiții imobiliare comerciale de aproximativ 190 milioane euro în perioada ianuarie-septembrie 2026, echivalentul a doar 29% din volumul total tranzacționat la nivel național, p...",
+    "content_hu": "Bucureștiul a atras investiții imobiliare comerciale de aproximativ 190 milioane euro în perioada ianuarie-septembrie 2026, echivalentul a doar 29% din volumul total tranzacționat la nivel național, potrivit unei analize realizate de Crosspoint Real Estate, Asociatul Internațional al Savills în România. Procentul este semnificativ sub nivelul de peste 50% înregistrat în mod obișnuit de Capitală în […]",
+    "title_ro": "Bucureștiul a atras până în septembrie doar 29% din investițiile imobiliare comerciale din România, față de 50%, în anii anteriori. Orașele regionale câștigă teren",
+    "lead_ro": "Bucureștiul a atras investiții imobiliare comerciale de aproximativ 190 milioane euro în perioada ianuarie-septembrie 2026, echivalentul a doar 29% din volumul total tranzacționat la nivel național, p...",
+    "content_ro": "Bucureștiul a atras investiții imobiliare comerciale de aproximativ 190 milioane euro în perioada ianuarie-septembrie 2026, echivalentul a doar 29% din volumul total tranzacționat la nivel național, potrivit unei analize realizate de Crosspoint Real Estate, Asociatul Internațional al Savills în România. Procentul este semnificativ sub nivelul de peste 50% înregistrat în mod obișnuit de Capitală în […]"
+  },
+  {
+    "group_id": "group_f7cc228393",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/14/072301/shutterstock-2567417985.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Descoperire uluitoare în Marea Mediterană. O navă veche de 4.700 de ani ascundea un mister pe fundul mării",
+        "link": "https://stirileprotv.ro/stiri/international/descoperire-uluitoare-in-marea-mediterana-o-nava-veche-de-4-700-de-ani-ascundea-un-mister-pe-fundul-marii.html"
+      }
+    ],
+    "published_at": 1791962588,
+    "title_hu": "Descoperire uluitoare în Marea Mediterană. O navă veche de 4.700 de ani ascundea un mister pe fundul mării",
+    "lead_hu": "O descoperire arheologică remarcabilă, făcută în largul coastelor Turciei, ar putea rescrie istoria navigației și a comerțului din lumea antică.",
+    "content_hu": "O descoperire arheologică remarcabilă, făcută în largul coastelor Turciei, ar putea rescrie istoria navigației și a comerțului din lumea antică.",
+    "title_ro": "Descoperire uluitoare în Marea Mediterană. O navă veche de 4.700 de ani ascundea un mister pe fundul mării",
+    "lead_ro": "O descoperire arheologică remarcabilă, făcută în largul coastelor Turciei, ar putea rescrie istoria navigației și a comerțului din lumea antică.",
+    "content_ro": "O descoperire arheologică remarcabilă, făcută în largul coastelor Turciei, ar putea rescrie istoria navigației și a comerțului din lumea antică."
+  },
+  {
+    "group_id": "group_33ae2621ed",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cum îl ironizează Ucraina pe Donald Trump: „Aceasta este o realizare”",
+        "link": "https://hotnews.ro/cum-il-ironizeaza-ucraina-pe-donald-trump-aceasta-este-o-realizare-2375413"
+      }
+    ],
+    "published_at": 1791962537,
+    "title_hu": "Cum îl ironizează Ucraina pe Donald Trump: „Aceasta este o realizare”",
+    "lead_hu": "Ministrul ucrainean de externe Andrii Sîbiha afirmă că Ucraina are nevoie să își consolideze în continuare capacitățile de apărare și de sprijinul internațional pentru a obține o pace „cuprinzătoare, …",
+    "content_hu": "Ministrul ucrainean de externe Andrii Sîbiha afirmă că Ucraina are nevoie să își consolideze în continuare capacitățile de apărare și de sprijinul internațional pentru a obține o pace „cuprinzătoare, justă și durabilă”. El a subliniat progresele Ucrainei cu un comentariu ce a amintit de declarații repetate făcute de președintele Donald Trump. „Am trecut în mai …",
+    "title_ro": "Cum îl ironizează Ucraina pe Donald Trump: „Aceasta este o realizare”",
+    "lead_ro": "Ministrul ucrainean de externe Andrii Sîbiha afirmă că Ucraina are nevoie să își consolideze în continuare capacitățile de apărare și de sprijinul internațional pentru a obține o pace „cuprinzătoare, …",
+    "content_ro": "Ministrul ucrainean de externe Andrii Sîbiha afirmă că Ucraina are nevoie să își consolideze în continuare capacitățile de apărare și de sprijinul internațional pentru a obține o pace „cuprinzătoare, justă și durabilă”. El a subliniat progresele Ucrainei cu un comentariu ce a amintit de declarații repetate făcute de președintele Donald Trump. „Am trecut în mai …"
+  },
+  {
+    "group_id": "group_e93cd44ee0",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Fonduri-investittii-sustenabilitate-green-dreamstime-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "BRD, finanțări sustenabile de peste 2,6 miliarde de euro din 2021. Secretar general: „Ceea ce alegem să finanțăm astăzi va contribui la modelarea economiei de mâine”",
+        "link": "https://economedia.ro/brd-finantari-sustenabile-de-peste-26-miliarde-de-euro-din-2021-secretar-general-ceea-ce-alegem-sa-finantam-astazi-va-contribui-la-modelarea-economiei-de-maine.html"
+      }
+    ],
+    "published_at": 1791962466,
+    "title_hu": "BRD, finanțări sustenabile de peste 2,6 miliarde de euro din 2021. Secretar general: „Ceea ce alegem să finanțăm astăzi va contribui la modelarea economiei de mâine”",
+    "lead_hu": "Secretar general BRD Groupe Société Générale, Flavia Popa, a transmis faptul că grupul bancar a acordat finanțări sustenabile în valoare de 2,63 de miliarde de euro începând din 2021, punctând faptul …",
+    "content_hu": "Secretar general BRD Groupe Société Générale, Flavia Popa, a transmis faptul că grupul bancar a acordat finanțări sustenabile în valoare de 2,63 de miliarde de euro începând din 2021, punctând faptul că finanțarea nu poate fi măsurată doar prin cifre, iar progresul real necesită colaborarea dintre mediul științific, mediul de afaceri, instituțiile publice și societatea […]",
+    "title_ro": "BRD, finanțări sustenabile de peste 2,6 miliarde de euro din 2021. Secretar general: „Ceea ce alegem să finanțăm astăzi va contribui la modelarea economiei de mâine”",
+    "lead_ro": "Secretar general BRD Groupe Société Générale, Flavia Popa, a transmis faptul că grupul bancar a acordat finanțări sustenabile în valoare de 2,63 de miliarde de euro începând din 2021, punctând faptul …",
+    "content_ro": "Secretar general BRD Groupe Société Générale, Flavia Popa, a transmis faptul că grupul bancar a acordat finanțări sustenabile în valoare de 2,63 de miliarde de euro începând din 2021, punctând faptul că finanțarea nu poate fi măsurată doar prin cifre, iar progresul real necesită colaborarea dintre mediul științific, mediul de afaceri, instituțiile publice și societatea […]"
+  },
+  {
+    "group_id": "group_d3fe7510db",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/401/781/25368/23252918/1/coco-naki-1.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "De ce să bem apă de cocos? Dincolo de gust, această băutură vine şi cu multe beneficii. Care sunt ele şi ce branduri româneşti au pus acest produs pe piaţa locală?",
+        "link": "https://www.zf.ro/dupa-afaceri/gastronomie/de-ce-sa-bem-apa-de-cocos-dincolo-de-gust-aceasta-bautura-vine-si-cu-multe-beneficii-care-sunt-ele-si-ce-branduri-romanesti-au-pus-acest-produs-pe-piata-locala-23252918"
+      }
+    ],
+    "published_at": 1791962448,
+    "title_hu": "De ce să bem apă de cocos? Dincolo de gust, această băutură vine şi cu multe beneficii. Care sunt ele şi ce branduri româneşti au pus acest produs pe piaţa locală?",
+    "lead_hu": "„Influenţa călătoriilor şi a tendinţelor internaţionale a făcut ca produse precum apa de cocos să fie din ce în ce mai cunoscute şi pe piaţa din România.\"",
+    "content_hu": "„Influenţa călătoriilor şi a tendinţelor internaţionale a făcut ca produse precum apa de cocos să fie din ce în ce mai cunoscute şi pe piaţa din România.\"",
+    "title_ro": "De ce să bem apă de cocos? Dincolo de gust, această băutură vine şi cu multe beneficii. Care sunt ele şi ce branduri româneşti au pus acest produs pe piaţa locală?",
+    "lead_ro": "„Influenţa călătoriilor şi a tendinţelor internaţionale a făcut ca produse precum apa de cocos să fie din ce în ce mai cunoscute şi pe piaţa din România.\"",
+    "content_ro": "„Influenţa călătoriilor şi a tendinţelor internaţionale a făcut ca produse precum apa de cocos să fie din ce în ce mai cunoscute şi pe piaţa din România.\""
+  },
+  {
+    "group_id": "group_28c65c792d",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23259817/2/lei-bani.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "CEC Bank şi BID extind finanţarea pentru IMM-uri: garanţii de până la 80%, credite revolving şi împrumuturi în euro",
+        "link": "https://www.zf.ro/banci-si-asigurari/cec-bank-si-bid-extind-finantarea-pentru-imm-uri-garantii-de-pana-la-80-credite-revolving-si-imprumuturi-in-euro-23259817"
+      }
+    ],
+    "published_at": 1791962382,
+    "title_hu": "CEC Bank şi BID extind finanţarea pentru IMM-uri: garanţii de până la 80%, credite revolving şi împrumuturi în euro",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "CEC Bank şi BID extind finanţarea pentru IMM-uri: garanţii de până la 80%, credite revolving şi împrumuturi în euro",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_6dac1ec059",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMTgwMV8zMDEx/ODAxX3Byb2ZpbWVkaWEtMTA5NTYwMTY5/MC5qcGcmaGFzaD0xOGIxMWQxMTdmYTI2ZDQ1MTgwMzYyMTQ3YmZmN2EzOQ==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Armata germană testează cu muniție reală pe insula Creta un sistem antiaerian folosit de Ucraina",
+        "link": "https://www.digi24.ro/stiri/externe/ue/armata-germana-testeaza-cu-munitie-reala-pe-insula-creta-un-sistem-antiaerian-folosit-de-ucraina-3991293"
+      }
+    ],
+    "published_at": 1791962365,
+    "title_hu": "Armata germană testează cu muniție reală pe insula Creta un sistem antiaerian folosit de Ucraina",
+    "lead_hu": "Armata germană testează miercuri, în cadrul unui exercițiu militar cu muniție reală desfășurat pe insula greacă Creta, sistemul de apărare antiaeriană IRIS-T SLM, utilizat deja în Ucraina. La exerciți…",
+    "content_hu": "Armata germană testează miercuri, în cadrul unui exercițiu militar cu muniție reală desfășurat pe insula greacă Creta, sistemul de apărare antiaeriană IRIS-T SLM, utilizat deja în Ucraina. La exercițiul Spartan Arrow 2026 participă și forțe suedeze, fiind implicat și sistemul Patriot.",
+    "title_ro": "Armata germană testează cu muniție reală pe insula Creta un sistem antiaerian folosit de Ucraina",
+    "lead_ro": "Armata germană testează miercuri, în cadrul unui exercițiu militar cu muniție reală desfășurat pe insula greacă Creta, sistemul de apărare antiaeriană IRIS-T SLM, utilizat deja în Ucraina. La exerciți…",
+    "content_ro": "Armata germană testează miercuri, în cadrul unui exercițiu militar cu muniție reală desfășurat pe insula greacă Creta, sistemul de apărare antiaeriană IRIS-T SLM, utilizat deja în Ucraina. La exercițiul Spartan Arrow 2026 participă și forțe suedeze, fiind implicat și sistemul Patriot."
+  },
+  {
+    "group_id": "group_d31e447dff",
+    "fingerprint": "0dfab592af421bdc847be76c868436c4",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Kelemen Hunor: UDMR va vota guvernul Niculescu, indiferent dacă este tehnocrat sau în jurul PSD",
+        "link": "https://agerpres.ro/politic/2026/10/13/kelemen-hunor-udmr-va-vota-guvernul-niculescu-indiferent-daca-este-tehnocrat-sau-in-jurul-psd--1602667"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Kelemen Hunor: UDMR va vota guvernul Niculescu, indiferent dacă este tehnocrat sau în jurul PSD",
+        "link": "https://stirileprotv.ro/stiri/politic/kelemen-hunor-udmr-va-vota-guvernul-niculescu-indiferent-daca-este-tehnocrat-sau-in-jurul-psd.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Președintele CJ Cluj, Alin Tişe (PNL): Vom avea Guvern de data aceasta. Criza guvernamentală se va încheia, cel puţin pentru moment",
+        "link": "https://www.g4media.ro/presedintele-cj-cluj-alin-tise-pnl-vom-avea-guvern-de-data-aceasta-criza-guvernamentala-se-va-incheia-cel-putin-pentru-moment.html"
+      }
+    ],
+    "published_at": 1791962348,
+    "title_hu": "Az RMDSZ megszavazza Luca Niculescu kormányát",
+    "lead_hu": "Kelemen Hunor bejelentette, hogy az RMDSZ támogatja a Luca Niculescu által javasolt kormányt és annak programját, akár szakértői kabinet, akár a PSD köré szerveződő kormány alakul. A párt támogatási megállapodást is kész kötni a kijelölt miniszterelnökkel, miközben Kelemen szerint a politikai patthelyzet lezárásához a többi párt megállapodása is szükséges. Niculescu csütörtökre ígérte a kormányprogram és a miniszterjelöltek névsorának parlamenti benyújtását.",
+    "content_hu": "• **Kelemen Hunor kedden** közölte: az RMDSZ parlamenti képviselői megszavazzák a Luca Niculescu által a parlament elé terjesztett kormányt és kormányprogramot, függetlenül attól, hogy szakértői kabinet vagy a PSD köré szerveződő kormány jön létre.\n\n• **Az RMDSZ támogatási megállapodást is kötne** Niculescuval a költségvetés kiigazításáról, a bérezési törvényről, a jövő évi költségvetésről, a gazdaságélénkítésről, a pénzügyi stabilitásról és a rászorulók segítéséről, ha a kijelölt miniszterelnök kéri a támogatást és érdemben egyeztet a párttal.\n\n• **Kelemen Hunor visszautasította, hogy az RMDSZ kezében lenne a válság megoldásának kulcsa.** Azt mondta, a párt 36 éve a megoldás része, és soha nem egyedül rajta múlt a politikai válságok feloldása vagy a parlamenti többség létrejötte.\n\n• **A teljes jogkörű kormány megalakulását mielőbb szeretnék:** Kelemen szerint Romániának pénteken, de legkésőbb hétfőn kellene ilyen kormánnyal rendelkeznie. Elmondása szerint az RMDSZ több mint öt hónapja tárgyal a politikai szereplőkkel és keresi a kompromisszumot.\n\n• **A többi párt álláspontja még nem egységes:** a PNL nem lépne be a kormányba, de kétoldalú politikai megállapodást mérlegel Niculescuval, amely a következő hat hónapra szabná meg, miként járulhat hozzá a stabilitáshoz. Az USR nem támogat olyan kabinetet, amelynek parlamenti többsége nem világos. A PSD szerdán dönt a végleges álláspontjáról, és felmerült, hogy technokrata miniszterek mellett kormányra léphet.\n\n• **Sorin Grindeanu, a PSD elnöke kedden kizárta az USR-rel való együttműködést:** kijelentette, hogy semmilyen körülmények között nem veszi ezt fontolóra, és szerinte az USR képviselőinek „haza kell menniük”.\n\n• **Niculescu csütörtökön nyújtaná be a kormányprogramot és a miniszterjelöltek névsorát** a parlamentnek. A kijelölt miniszterelnök optimista a kormányalakítással kapcsolatban, és továbbra is lehetségesnek tart politikai, vegyes vagy szakértői kabinetet.\n\n• **A HotNews elnöki forrásokra hivatkozva előrehozott választásokat is kilátásba helyezett:** Nicușor Dan államfő nem zárná ki azok kiírását, ha a korábbi koalíció pártjai nem jutnak megállapodásra Niculescu kormányának beiktatásáról.\n\n• **Alin Tișe, a Kolozs Megyei Tanács PNL-es elnöke arra számít, hogy a kormány átmegy a parlamenten.** Szerinte a pártok – az AUR kivételével – valójában nem akarnak előrehozott választást, mert képviselőik mandátumukat és politikai jövőjüket kockáztatnák; a kormányválság így legalább átmenetileg lezárulhat.\n\n• **Nicușor Dan államfő október 5-én jelölte Luca Niculescut miniszterelnöknek** a parlamenti pártokkal folytatott egyeztetések után.",
+    "title_ro": "UDMR va vota guvernul Luca Niculescu",
+    "lead_ro": "Kelemen Hunor a anunțat că UDMR va susține guvernul propus de Luca Niculescu și programul acestuia, indiferent dacă va fi un cabinet tehnocrat sau unul format în jurul PSD. Uniunea este pregătită să încheie și un acord de susținere cu premierul desemnat, iar Kelemen spune că depășirea blocajului politic depinde și de înțelegerea celorlalte partide. Niculescu a anunțat că va depune joi la Parlament programul de guvernare și lista miniștrilor.",
+    "content_ro": "• **Kelemen Hunor a anunțat marți** că parlamentarii UDMR vor vota guvernul și programul de guvernare prezentate Parlamentului de Luca Niculescu, indiferent dacă va fi un cabinet tehnocrat sau unul format în jurul PSD.\n\n• **UDMR este pregătită să încheie un acord de susținere** cu Niculescu pentru rectificarea bugetară, legea salarizării, bugetul de anul viitor, relansarea economică, stabilitatea fiscală și sprijinirea persoanelor vulnerabile, dacă premierul desemnat va cere sprijinul și va purta discuții concrete cu formațiunea.\n\n• **Kelemen Hunor a respins ideea că UDMR deține cheia soluționării crizei.** El a spus că formațiunea a fost, în cei 36 de ani, parte a soluției și că depășirea crizelor politice sau formarea unei majorități parlamentare nu a depins niciodată doar de UDMR.\n\n• **UDMR dorește formarea cât mai rapidă a unui guvern cu puteri depline:** potrivit lui Kelemen, România ar trebui să aibă un astfel de guvern vineri sau cel târziu luni. El a spus că UDMR discută de peste cinci luni cu actorii politici și caută un compromis.\n\n• **Pozițiile celorlalte partide nu sunt încă aliniate:** PNL nu ar intra la guvernare, dar ia în calcul un acord politic bilateral cu Niculescu, care să stabilească pentru următoarele șase luni cum pot contribui liberalii la stabilitate. USR nu va susține un guvern dacă nu este clară majoritatea parlamentară pe care se bazează. PSD urma să decidă miercuri și s-a discutat despre posibilitatea intrării la guvernare alături de miniștri tehnocrați.\n\n• **Sorin Grindeanu, liderul PSD, a exclus marți o colaborare cu USR:** a spus că nu ia în calcul o astfel de variantă sub nicio formă și că reprezentanții USR „trebuie să plece acasă”.\n\n• **Niculescu intenționează să depună joi la Parlament programul de guvernare și lista miniștrilor.** Premierul desemnat s-a declarat optimist în privința formării guvernului și a spus că rămân posibile formule politice, mixte sau tehnocrate.\n\n• **HotNews a relatat, citând surse prezidențiale, că sunt luate în calcul alegerile anticipate:** președintele Nicușor Dan nu le-ar exclude dacă partidele fostei coaliții nu ajung la un acord pentru învestirea guvernului Niculescu.\n\n• **Alin Tișe, președintele PNL al Consiliului Județean Cluj, se așteaptă ca guvernul să treacă de Parlament.** În opinia sa, partidele – cu excepția AUR – nu își doresc cu adevărat alegeri anticipate, deoarece parlamentarii și-ar risca mandatele și viitorul politic; astfel, criza guvernamentală s-ar putea încheia cel puțin temporar.\n\n• **Președintele Nicușor Dan l-a desemnat pe Luca Niculescu premier la 5 octombrie**, după consultările cu partidele parlamentare."
+  },
+  {
+    "group_id": "group_9085e282c8",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA4JTJGMjgzOTA1OF8yODM5/MDU4X1VudGl0bGVkLWRlc2lnbi0xNC5w/bmcmaGFzaD00ZmViZTljN2ZlY2Q0N2NlNDdlNWM5NzYyYTEwYzk5Yg==.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Musk a lăsat Ucraina fără Starlink. „Misiuni importante au fost zădărnicite la cererea administrației Trump”",
+        "link": "https://www.digi24.ro/stiri/externe/musk-a-lasat-ucraina-fara-starlink-misiuni-importante-au-fost-zadarnicite-la-cererea-administratiei-trump-3991301"
+      }
+    ],
+    "published_at": 1791962274,
+    "title_hu": "Musk a lăsat Ucraina fără Starlink. „Misiuni importante au fost zădărnicite la cererea administrației Trump”",
+    "lead_hu": "Armata ucraineană s-a confruntat cu restricționarea funcționării serviciului de comunicații prin satelit Starlink în noaptea de 14 octombrie, a declarat fostul consilier al ministrului apărării din Uc…",
+    "content_hu": "Armata ucraineană s-a confruntat cu restricționarea funcționării serviciului de comunicații prin satelit Starlink în noaptea de 14 octombrie, a declarat fostul consilier al ministrului apărării din Ucraina, Serghei Sternenko. Potrivit acestuia, semnalul a început să se întrerupă la viteze de peste 160 km/h. „O serie de misiuni importante au fost zădărnicite. Probabil că compania SpaceX a recurs la astfel de măsuri la cererea administrației [președintelui SUA, Donald] Trump. Terminalele obișnuite de comunicații prin satelit funcționează”, a scris Sternenko pe canalul său de Telegram.",
+    "title_ro": "Musk a lăsat Ucraina fără Starlink. „Misiuni importante au fost zădărnicite la cererea administrației Trump”",
+    "lead_ro": "Armata ucraineană s-a confruntat cu restricționarea funcționării serviciului de comunicații prin satelit Starlink în noaptea de 14 octombrie, a declarat fostul consilier al ministrului apărării din Uc…",
+    "content_ro": "Armata ucraineană s-a confruntat cu restricționarea funcționării serviciului de comunicații prin satelit Starlink în noaptea de 14 octombrie, a declarat fostul consilier al ministrului apărării din Ucraina, Serghei Sternenko. Potrivit acestuia, semnalul a început să se întrerupă la viteze de peste 160 km/h. „O serie de misiuni importante au fost zădărnicite. Probabil că compania SpaceX a recurs la astfel de măsuri la cererea administrației [președintelui SUA, Donald] Trump. Terminalele obișnuite de comunicații prin satelit funcționează”, a scris Sternenko pe canalul său de Telegram."
+  },
+  {
     "group_id": "group_a8c84056c8",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -19,6 +486,27 @@
     "title_ro": "NOD Festival 2026, Brașov: Jonathan Coe, Maja Lunde, Matt Haig și René Karabash, la o ediție cu peste 8.000 de partic",
     "lead_ro": "Sub tema Building Communities, a doua ediție NOD Festival a transformat Brașovul într-o capitală a literaturii, teatrului și filmului, sub umbrela drepturilor de autor. Peste 50 de evenimente, 80 de i…",
     "content_ro": "Sub tema Building Communities, a doua ediție NOD Festival a transformat Brașovul într-o capitală a literaturii, teatrului și filmului, sub umbrela drepturilor de autor. Peste 50 de evenimente, 80 de invitați din 12 țări, 25 de editori și agenți literari, peste 100 de pitch-uri pentru autori și mai mult de 8.000 de participanți prezenți la …"
+  },
+  {
+    "group_id": "group_cce1dfdc46",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/9d7b16a8-5f5f-46a4-a1ca-f7f1f56d1432.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Max Verstappen recunoaște că a fost prea dur cu Red Bull: „Sunt un perfecționist”",
+        "link": "https://www.gsp.ro/sporturi/formula-1/max-verstappen-recunoaste-ca-a-fost-prea-dur-cu-red-bull-987907.html"
+      }
+    ],
+    "published_at": 1791962184,
+    "title_hu": "Max Verstappen recunoaște că a fost prea dur cu Red Bull: „Sunt un perfecționist”",
+    "lead_hu": "Max Verstappen, 29 de ani, cvadruplu campion mondial, câștigătorul ultimelor două curse din Formula 1, din Singapore și Malaezia, a recunoscut că a fost „prea dur” cu Red Bull la începutul sezonului, …",
+    "content_hu": "Max Verstappen, 29 de ani, cvadruplu campion mondial, câștigătorul ultimelor două curse din Formula 1, din Singapore și Malaezia, a recunoscut că a fost „prea dur” cu Red Bull la începutul sezonului, când echipa cu sediul la Milton Keynes era mult în spatele celor de la Mercedes, McLaren și Ferrari. Primele luni ale campaniei au fost extrem de dificile, iar formația a căutat îndelung soluții pentru problemele de echilibru ale monopostului RB22. ...",
+    "title_ro": "Max Verstappen recunoaște că a fost prea dur cu Red Bull: „Sunt un perfecționist”",
+    "lead_ro": "Max Verstappen, 29 de ani, cvadruplu campion mondial, câștigătorul ultimelor două curse din Formula 1, din Singapore și Malaezia, a recunoscut că a fost „prea dur” cu Red Bull la începutul sezonului, …",
+    "content_ro": "Max Verstappen, 29 de ani, cvadruplu campion mondial, câștigătorul ultimelor două curse din Formula 1, din Singapore și Malaezia, a recunoscut că a fost „prea dur” cu Red Bull la începutul sezonului, când echipa cu sediul la Milton Keynes era mult în spatele celor de la Mercedes, McLaren și Ferrari. Primele luni ale campaniei au fost extrem de dificile, iar formația a căutat îndelung soluții pentru problemele de echilibru ale monopostului RB22. ..."
   },
   {
     "group_id": "group_4a8d3ab31b",
@@ -126,34 +614,6 @@
     "content_ro": "• **Regulile UE „Made in Europe”** urmăresc să consolideze producția locală și să încurajeze utilizarea componentelor și serviciilor produse în regiune. Propunerea face parte din proiectul Industrial Accelerator Act și este elaborată în contextul creșterii prezenței constructorilor chinezi pe piața europeană.\n\n• **Changan** a anunțat la Salonul Auto de la Paris că vizează o capacitate de producție de 180.000 de automobile pe an în Europa până în 2028 și de 350.000 până în 2030. Compania intenționează să înceapă producția europeană la începutul lui 2027 și discută deja cu producători și furnizori locali.\n\n• **Xpeng, Chery și GAC** pregătesc, la rândul lor, extinderea producției și a lanțurilor de aprovizionare din Europa. Grupul canadian Magna produce deja automobile electrice Xpeng în Austria.\n\n• **Un punct controversat al proiectului** este că forma actuală nu include Turcia, Regatul Unit și Marocul în definiția industriei europene, deși aceste țări sunt integrate în lanțurile de aprovizionare auto ale continentului. Asociația exportatorilor auto din Turcia afirmă că industria țării susține aproximativ 250.000 de locuri de muncă în UE; peste jumătate din valoarea componentelor folosite la furgonetele electrice Ford Transit produse în Turcia provine de la furnizori europeni.\n\n• **Taxele UE și viitoarele cerințe privind producția locală** influențează strategia companiilor chineze: după introducerea, în octombrie 2024, a tarifelor pentru automobilele electrice fabricate în China, mai multe companii și-au orientat oferta către hibridele plug-in. Analiștii estimează că regulile privind producția locală ar putea îngreuna extinderea constructorilor chinezi, dar nu ar opri-o."
   },
   {
-    "group_id": "group_9bd3378100",
-    "fingerprint": "8a1c1a7324c6525a9ff7f428254105fc",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/post-tv-turcia.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Sediul principalului canal de televiziune al opoziției din Turcia a fost plasat sub controlul poliției",
-        "link": "https://www.mediafax.ro/externe/sediul-principalului-canal-de-televiziune-al-opozitiei-din-turcia-a-fost-plasat-sub-controlul-politiei-23824983"
-      },
-      {
-        "source": "G4Media",
-        "title": "Sediul principalului canal de televiziune al opoziției din Turcia a fost plasat sub controlul poliției",
-        "link": "https://www.g4media.ro/sediul-principalului-canal-de-televiziune-al-opozitiei-din-turcia-a-fost-plasat-sub-controlul-politiei.html"
-      }
-    ],
-    "published_at": 1791961913,
-    "title_hu": "Rendőri ellenőrzés alá került a török ellenzéki Halk TV székháza",
-    "lead_hu": "A Halk TV közlése szerint a rendőrség október 14-én megjelent a török ellenzéki televízió székházában, és megszakadt az élő adás. A csatorna arról is beszámolt, hogy ügyintézőt neveztek ki az irányítás átvételére, az épületben házkutatást tartottak, és egy ideig nem engedtek be senkit.",
-    "content_hu": "• **Október 14-én** a Halk TV közlése szerint rendőrök jelentek meg a török ellenzéki televízió székházában, és a csatorna élő adása megszakadt.\n\n• **A csatorna közlése szerint** ügyintézőt neveztek ki a Halk TV irányításának átvételére, a rendőrség pedig átkutatta az épületet.\n\n• **A házkutatás idején** nem engedtek be senkit a székházba; a csatorna később azt közölte, hogy a rendőrségi kutatás befejeződött.",
-    "title_ro": "Poliția a preluat controlul asupra sediului televiziunii de opoziție Halk TV",
-    "lead_ro": "Potrivit Halk TV, poliția a venit pe 14 octombrie la sediul televiziunii turce de opoziție, iar transmisiunea în direct a fost întreruptă. Postul a mai relatat că a fost numit un administrator pentru preluarea conducerii, că sediul a fost percheziționat și că accesul a fost interzis temporar.",
-    "content_ro": "• **Pe 14 octombrie**, potrivit Halk TV, polițiștii au ajuns la sediul televiziunii turce de opoziție, iar transmisiunea în direct a fost întreruptă.\n\n• **Potrivit postului**, a fost numit un administrator pentru preluarea conducerii Halk TV, iar poliția a percheziționat clădirea.\n\n• **În timpul percheziției**, accesul în sediu a fost interzis; ulterior, postul a anunțat că verificările poliției s-au încheiat."
-  },
-  {
     "group_id": "group_25e26c2c32",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/01052025/6af5d040-f50e-4582-93c1-d04311780ccc.jpg?width=290&height=208",
@@ -222,6 +682,27 @@
     "title_ro": "Exporturile Chinei au crescut cu 36,3% în septembrie",
     "lead_ro": "Exporturile Chinei au fost în septembrie cu 36,3% mai mari decât în aceeași lună a anului trecut, depășind semnificativ estimările analiștilor. Excedentul comercial cumulat în primele nouă luni a ajuns la 938 de miliarde de dolari, iar țara s-ar putea apropia de recordul anual stabilit în 2025 sau chiar îl poate depăși.",
     "content_ro": "• **În septembrie**, exporturile Chinei au crescut cu 36,3% față de aceeași lună a anului precedent. Ritmul s-a accelerat față de avansul de 25% din august și a depășit estimările analiștilor.\n\n• **Produsele tehnologice** au contribuit semnificativ la creșterea exporturilor: livrările de semiconductori au avansat cu 108,1% în primele nouă luni ale anului, iar cele de echipamente pentru procesarea automată a datelor și componente aferente, cu 54,6%. Cipurile și echipamentele asociate inteligenței artificiale au reprezentat 17,9% din exporturile totale în septembrie.\n\n• **Excedentul comercial** cumulat între ianuarie și septembrie a ajuns la 938 de miliarde de dolari, față de 875 de miliarde în aceeași perioadă a anului precedent. Dacă tendința continuă, China ar putea depăși recordul anual de aproximativ 1.200 de miliarde de dolari, stabilit în 2025.\n\n• **Importurile** au crescut cu 31% în septembrie față de anul anterior, după un avans de 28,2% în august. Creșterea a depășit estimările analiștilor, iar majorarea prețurilor petrolului a contribuit la factura mai mare a importurilor.\n\n• **Economia Chinei** și-a consolidat exporturile în condițiile unei cereri interne slabe și ale problemelor persistente de pe piața imobiliară. Comerțul exterior oferă astfel un sprijin important, dar nu înlătură dificultățile economice interne."
+  },
+  {
+    "group_id": "group_4cb1b329e0",
+    "category": "Erdély",
+    "image": "https://www.presasm.ro/uploads/2026/10/tragedie.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "TRAGEDIE. Doi frați și unchiul lor au murit. Au încercat să se salveze unul pe celălalt. Erau din județul vecin",
+        "link": "https://www.presasm.ro/tragedie-doi-frati-si-unchiul-lor-au-murit-au-incercat-sa-se-salveze-unul-pe-celalalt-erau-din/53783"
+      }
+    ],
+    "published_at": 1791961740,
+    "title_hu": "TRAGEDIE. Doi frați și unchiul lor au murit. Au încercat să se salveze unul pe celălalt. Erau din județul vecin",
+    "lead_hu": "Noi detalii ies la iveală despre tragedia produsă luni, 12 octombrie 2026, în Portugalia, unde trei români originari din Poienile de Sub Munte, județul Maramureș, și-au pierdut viața într-un accident …",
+    "content_hu": "Noi detalii ies la iveală despre tragedia produsă luni, 12 octombrie 2026, în Portugalia, unde trei români originari din Poienile de Sub Munte, județul Maramureș, și-au pierdut viața într-un accident de muncă. Victimele sunt doi frați, în vârstă de 21 și 24 de…",
+    "title_ro": "TRAGEDIE. Doi frați și unchiul lor au murit. Au încercat să se salveze unul pe celălalt. Erau din județul vecin",
+    "lead_ro": "Noi detalii ies la iveală despre tragedia produsă luni, 12 octombrie 2026, în Portugalia, unde trei români originari din Poienile de Sub Munte, județul Maramureș, și-au pierdut viața într-un accident …",
+    "content_ro": "Noi detalii ies la iveală despre tragedia produsă luni, 12 octombrie 2026, în Portugalia, unde trei români originari din Poienile de Sub Munte, județul Maramureș, și-au pierdut viața într-un accident de muncă. Victimele sunt doi frați, în vârstă de 21 și 24 de…"
   },
   {
     "group_id": "group_1c05a2fc8d",
@@ -3691,39 +4172,6 @@
     "title_ro": "Femeile nu l-au iubit pe Mihai Mărgineanu. „Ardiles” din Las Fierbinți recunoaște: „Nu mă deranjează că nu am avut succes la fete”",
     "lead_ro": "Mihai Mărgineanu a răspuns la întrebarea care stă pe buzele tuturor: cât de mult îl iubesc femeile în realitate? Artistul a dezvăluit, pentru CANCAN.RO, cum stau lucrurile dincolo de reflectoare. Iar …",
     "content_ro": "Mihai Mărgineanu a răspuns la întrebarea care stă pe buzele tuturor: cât de mult îl iubesc femeile în realitate? Artistul a dezvăluit, pentru CANCAN.RO, cum stau lucrurile dincolo de reflectoare. Iar aici, surpriză: una e să cânți că femeile sunt „moarte” după tine și alta e să le și cucerești! Se pare că, în viața […]"
-  },
-  {
-    "group_id": "group_d31e447dff",
-    "fingerprint": "055599d9e0d7f3211519c3c092233df0",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Kelemen Hunor anunță cum se va poziționa UDMR la votul pe guvern: „Indiferent dacă este unul tehnocrat sau format în jurul PSD”",
-        "link": "https://hotnews.ro/kelemen-hunor-anunta-cum-se-va-pozitiona-udmr-la-votul-pe-guvern-indiferent-daca-este-unul-tehnocrat-sau-format-in-jurul-psd-2375003"
-      },
-      {
-        "source": "Maszol",
-        "title": "Kelemen Hunor: az RMDSZ megszavazza a Niculescu-kormányt",
-        "link": "https://maszol.ro/belfold/Kelemen-Hunor-az-RMDSZ-megszavazza-a-Niculescu-kormanyt"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Kelemen Hunor: UDMR va vota guvernul Niculescu, indiferent dacă este tehnocrat sau în jurul PSD",
-        "link": "https://agerpres.ro/politic/2026/10/13/kelemen-hunor-udmr-va-vota-guvernul-niculescu-indiferent-daca-este-tehnocrat-sau-in-jurul-psd--1602667"
-      }
-    ],
-    "published_at": 1791952996,
-    "title_hu": "Az RMDSZ megszavazza Luca Niculescu kormányát",
-    "lead_hu": "Kelemen Hunor bejelentette, hogy az RMDSZ támogatja a Luca Niculescu által javasolt kormányt és annak programját, akár szakértői kabinet, akár a PSD köré szerveződő kormány alakul. A párt támogatási megállapodást is kész kötni a kijelölt miniszterelnökkel, miközben Kelemen szerint a politikai patthelyzet lezárásához a többi párt megállapodása is szükséges. Niculescu csütörtökre ígérte a kormányprogram és a miniszterjelöltek névsorának parlamenti benyújtását.",
-    "content_hu": "• **Kelemen Hunor kedden** közölte: az RMDSZ parlamenti képviselői megszavazzák a Luca Niculescu által a parlament elé terjesztett kormányt és kormányprogramot, függetlenül attól, hogy szakértői kabinet vagy a PSD köré szerveződő kormány jön létre.\n\n• **Az RMDSZ támogatási megállapodást is kötne** Niculescuval a költségvetés kiigazításáról, a bérezési törvényről, a jövő évi költségvetésről, a gazdaságélénkítésről, a pénzügyi stabilitásról és a rászorulók segítéséről, ha a kijelölt miniszterelnök kéri a támogatást és érdemben egyeztet a párttal.\n\n• **Kelemen Hunor visszautasította, hogy az RMDSZ kezében lenne a válság megoldásának kulcsa.** Azt mondta, a párt 36 éve a megoldás része, és soha nem egyedül rajta múlt a politikai válságok feloldása vagy a parlamenti többség létrejötte.\n\n• **A teljes jogkörű kormány megalakulását mielőbb szeretnék:** Kelemen szerint Romániának pénteken, de legkésőbb hétfőn kellene ilyen kormánnyal rendelkeznie. Elmondása szerint az RMDSZ több mint öt hónapja tárgyal a politikai szereplőkkel és keresi a kompromisszumot.\n\n• **A többi párt álláspontja még nem egységes:** a PNL nem lépne be a kormányba, de kétoldalú politikai megállapodást mérlegel Niculescuval, amely a következő hat hónapra szabná meg, miként járulhat hozzá a stabilitáshoz. Az USR nem támogat olyan kabinetet, amelynek parlamenti többsége nem világos. A PSD szerdán dönt a végleges álláspontjáról, és felmerült, hogy technokrata miniszterek mellett kormányra léphet.\n\n• **Sorin Grindeanu, a PSD elnöke kedden kizárta az USR-rel való együttműködést:** kijelentette, hogy semmilyen körülmények között nem veszi ezt fontolóra, és szerinte az USR képviselőinek „haza kell menniük”.\n\n• **Niculescu csütörtökön nyújtaná be a kormányprogramot és a miniszterjelöltek névsorát** a parlamentnek. A kijelölt miniszterelnök optimista a kormányalakítással kapcsolatban, és továbbra is lehetségesnek tart politikai, vegyes vagy szakértői kabinetet.\n\n• **A HotNews elnöki forrásokra hivatkozva előrehozott választásokat is kilátásba helyezett:** Nicușor Dan államfő nem zárná ki azok kiírását, ha a korábbi koalíció pártjai nem jutnak megállapodásra Niculescu kormányának beiktatásáról.",
-    "title_ro": "UDMR va vota guvernul Luca Niculescu",
-    "lead_ro": "Kelemen Hunor a anunțat că UDMR va susține guvernul și programul propuse de Luca Niculescu, indiferent dacă va fi un cabinet tehnocrat sau unul format în jurul PSD. Formațiunea este pregătită să încheie și un acord de susținere cu premierul desemnat, însă Kelemen spune că deblocarea crizei depinde și de înțelegerea dintre celelalte partide. Niculescu a anunțat că va depune joi în Parlament programul de guvernare și lista miniștrilor.",
-    "content_ro": "• **Marți, Kelemen Hunor** a anunțat că parlamentarii UDMR vor vota guvernul și programul de guvernare prezentate de Luca Niculescu, indiferent dacă Executivul va fi tehnocrat sau format în jurul PSD.\n\n• **UDMR este pregătită să încheie un acord de susținere** cu Niculescu pentru rectificarea bugetară, legea salarizării, bugetul de anul viitor și măsuri de relansare economică, stabilitate fiscală și ajutorare a persoanelor vulnerabile, dacă premierul desemnat solicită sprijinul și discută cu formațiunea.\n\n• **Kelemen Hunor a respins ideea că UDMR ar deține cheia rezolvării crizei.** El a spus că Uniunea a fost, în cei 36 de ani, parte a soluției și că depășirea crizelor politice sau formarea unei majorități nu au depins niciodată doar de UDMR.\n\n• **UDMR dorește formarea cât mai rapidă a unui guvern cu puteri depline:** Kelemen a spus că România ar trebui să aibă un asemenea guvern vineri sau cel târziu luni. Potrivit acestuia, formațiunea discută cu actorii politici de mai bine de cinci luni și caută un compromis.\n\n• **Pozițiile celorlalte partide nu sunt încă aliniate:** PNL nu ar intra la guvernare, dar ia în calcul un acord politic bilateral cu Niculescu privind contribuția liberalilor la stabilitate în următoarele șase luni. USR nu susține un guvern a cărui majoritate parlamentară nu este clară. PSD urmează să decidă miercuri și s-a discutat posibilitatea participării la guvernare alături de miniștri tehnocrați.\n\n• **Sorin Grindeanu, președintele PSD, a exclus marți colaborarea cu USR:** a declarat că nu ia în calcul o colaborare cu formațiunea „sub nicio formă” și a spus că reprezentanții USR „trebuie să plece acasă”.\n\n• **Niculescu urmează să depună joi la Parlament programul de guvernare și lista miniștrilor.** Premierul desemnat s-a declarat optimist în privința formării guvernului și a spus că rămân posibile formule politice, mixte sau tehnocrate.\n\n• **HotNews a relatat, citând surse prezidențiale, că sunt luate în calcul alegeri anticipate:** președintele Nicușor Dan nu le-ar exclude dacă partidele fostei coaliții nu ajung la un acord pentru învestirea guvernului Niculescu."
   },
   {
     "group_id": "group_5d12a2b3eb",
@@ -7492,124 +7940,5 @@
     "title_ro": "Conflictul Arabia Saudită - rebelii Houthi escaladează. Riadul a atacat un depozit strategic de petrol din capitala Yemenului",
     "lead_ro": "Arabia Saudită a lansat o serie de atacuri asupra unui depozit strategic de petrol situat la periferia capitalei Yemenului, Sana’a, într-o nouă escaladare a conflictului dintre Riad și forțele houthi …",
     "content_ro": "Arabia Saudită a lansat o serie de atacuri asupra unui depozit strategic de petrol situat la periferia capitalei Yemenului, Sana’a, într-o nouă escaladare a conflictului dintre Riad și forțele houthi susținute de Iran, relatează The Guardian."
-  },
-  {
-    "group_id": "group_ff3328ca9f",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Adrian-Cuculis-dezvaluiri-despre-o-fotografie-primita-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Ce fotografie a primit Adrian Cuculis, avocatul familiei Valentinei Tănasie: „Spune cu o siguranță ieșită din comun că el știe cine a omorât-o”",
-        "link": "https://www.cancan.ro/ce-fotografie-a-primit-adrian-cuculis-avocatul-familiei-valentinei-tanasie-spune-cu-o-siguranta-iesita-din-comun-ca-el-stie-cine-a-omorat-o-21529706"
-      }
-    ],
-    "published_at": 1791919410,
-    "title_hu": "Ce fotografie a primit Adrian Cuculis, avocatul familiei Valentinei Tănasie: „Spune cu o siguranță ieșită din comun că el știe cine a omorât-o”",
-    "lead_hu": "Apar informații noi în ancheta morții Valentinei Tănasie! Adrian Cuculis, avocatul familiei victimei, a dezvăluit la Dan Capatos Show că a primit o fotografie șocantă. Imaginea ar prezenta doi bărbați…",
-    "content_hu": "Apar informații noi în ancheta morții Valentinei Tănasie! Adrian Cuculis, avocatul familiei victimei, a dezvăluit la Dan Capatos Show că a primit o fotografie șocantă. Imaginea ar prezenta doi bărbați care ar fi înghesuit-o pe Valentina în geamantanul groazei. Avocatul spune că a verificat fotografia din mai multe surse și nu ar fi făcută cu […]",
-    "title_ro": "Ce fotografie a primit Adrian Cuculis, avocatul familiei Valentinei Tănasie: „Spune cu o siguranță ieșită din comun că el știe cine a omorât-o”",
-    "lead_ro": "Apar informații noi în ancheta morții Valentinei Tănasie! Adrian Cuculis, avocatul familiei victimei, a dezvăluit la Dan Capatos Show că a primit o fotografie șocantă. Imaginea ar prezenta doi bărbați…",
-    "content_ro": "Apar informații noi în ancheta morții Valentinei Tănasie! Adrian Cuculis, avocatul familiei victimei, a dezvăluit la Dan Capatos Show că a primit o fotografie șocantă. Imaginea ar prezenta doi bărbați care ar fi înghesuit-o pe Valentina în geamantanul groazei. Avocatul spune că a verificat fotografia din mai multe surse și nu ar fi făcută cu […]"
-  },
-  {
-    "group_id": "group_f1534419e2",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-8/81cb2f8f-c085-40c9-8ddb-109de35dff16/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Un român, mama și mătușa sa, arestați în Austria după moartea unui tânăr. I-ar fi vândut plasturi cu fentanil",
-        "link": "https://adevarul.ro/stiri-interne/societate/un-roman-mama-si-matusa-sa-arestati-in-austria-2563823.html"
-      }
-    ],
-    "published_at": 1791919251,
-    "title_hu": "Un român, mama și mătușa sa, arestați în Austria după moartea unui tânăr. I-ar fi vândut plasturi cu fentanil",
-    "lead_hu": "Un român în vârstă de 38 de ani, mama sa și mătușa acestuia au fost arestați în Austria, într-un dosar privind traficul cu plasturi cu fentanil, un opioid puternic folosit în tratarea durerilor severe…",
-    "content_hu": "Un român în vârstă de 38 de ani, mama sa și mătușa acestuia au fost arestați în Austria, într-un dosar privind traficul cu plasturi cu fentanil, un opioid puternic folosit în tratarea durerilor severe.",
-    "title_ro": "Un român, mama și mătușa sa, arestați în Austria după moartea unui tânăr. I-ar fi vândut plasturi cu fentanil",
-    "lead_ro": "Un român în vârstă de 38 de ani, mama sa și mătușa acestuia au fost arestați în Austria, într-un dosar privind traficul cu plasturi cu fentanil, un opioid puternic folosit în tratarea durerilor severe…",
-    "content_ro": "Un român în vârstă de 38 de ani, mama sa și mătușa acestuia au fost arestați în Austria, într-un dosar privind traficul cu plasturi cu fentanil, un opioid puternic folosit în tratarea durerilor severe."
-  },
-  {
-    "group_id": "group_6c891c4d71",
-    "fingerprint": "ac13723db345889150ae98b9af774e5d",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Directoarele de la două mari Colegii Naționale din București, eliminate după prima probă de la concursul pentru funcțiile de conducere: „Problema mare a fost timpul”",
-        "link": "https://hotnews.ro/directoarele-de-la-doua-mari-colegii-nationale-din-bucuresti-eliminate-dupa-prima-proba-de-la-concursul-pentru-functiile-de-conducere-problema-mare-a-fost-timpul-2375098"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Directoarele colegiilor „Lazăr” și „Caragiale” din Capitală, eliminate de la concursul pentru conducerea școlilor",
-        "link": "https://adevarul.ro/stiri-interne/educatie/directoarele-colegiilor-lazar-si-caragiale-din-2563818.html"
-      }
-    ],
-    "published_at": 1791919212,
-    "title_hu": "Két budapesti iskolaigazgató kiesett az igazgatói pályázat első fordulójában",
-    "lead_hu": "A budapesti Gheorghe Lazăr és I.L. Caragiale kollégium igazgatója nem jutott tovább az iskolavezetői pályázat kompetenciamérésén. Mindketten az időhiányt bírálták; országosan a vizsgázók 69,05 százaléka teljesítette a minimumkövetelményt.",
-    "content_hu": "• **Ionela Neagoe és Andreia Bodea** nem teljesítette az állami iskolák igazgatói és igazgatóhelyettesi állásaira kiírt pályázat kompetenciamérését, így kiestek a versenyből. Neagoe a Gheorghe Lazăr, Bodea az I.L. Caragiale kollégium igazgatója Bukarestben.\n\n• **A 60 perces teszt** 20 feladatból állt, amelyek verbális, numerikus és logikai gondolkodást mértek. A továbbjutáshoz legalább 12 helyes válaszra, azaz 6-os osztályzatra volt szükség.\n\n• **A két igazgató szerint kevés volt az idő** a hosszú, sok információt tartalmazó feladatok elolvasására és megoldására. Bodea a feladatok és a rendelkezésre álló idő arányát bírálta, Neagoe pedig azt javasolta, hogy a minisztérium képviselői is ugyanilyen feltételek között töltsék ki a tesztet.\n\n• **Országosan 4 615-en jutottak tovább** a 6 684 megjelent vizsgázó közül, ami 69,05 százalékos sikerarány. A pályázat következő, írásbeli fordulóját 2026. október 20-ára tűzték ki.",
-    "title_ro": "Două directoare din București au fost eliminate în prima etapă a concursului pentru conducerea școlilor",
-    "lead_ro": "Directoarele Colegiilor Naționale „Gheorghe Lazăr” și „I.L. Caragiale” din București nu au promovat proba de competențe a concursului pentru funcțiile de conducere din școli. Ambele au criticat timpul insuficient, iar la nivel național 69,05% dintre candidații prezenți au trecut de etapă.",
-    "content_ro": "• **Ionela Neagoe și Andreia Bodea** au fost eliminate din concursul pentru funcțiile de director și director adjunct în școlile de stat, după ce nu au promovat proba de competențe. Neagoe conduce Colegiul Național „Gheorghe Lazăr”, iar Bodea, Colegiul Național „I.L. Caragiale” din București.\n\n• **Testul a durat 60 de minute** și a cuprins 20 de itemi de raționament verbal, numeric și logic. Pentru a promova, candidații aveau nevoie de cel puțin 12 răspunsuri corecte, echivalentul notei 6.\n\n• **Cele două directoare au reclamat timpul insuficient** pentru citirea și rezolvarea subiectelor lungi, care conțineau multă informație. Bodea a criticat disproporția dintre volumul subiectelor și timpul disponibil, iar Neagoe a cerut reprezentanților ministerului să susțină testul în aceleași condiții.\n\n• **La nivel național au promovat 4.615 candidați** dintre cei 6.684 prezenți, rata de promovare fiind de 69,05%. Următoarea etapă, proba scrisă, este programată pentru 20 octombrie 2026."
-  },
-  {
-    "group_id": "group_b9708fa8eb",
-    "fingerprint": "71bfe7076576003fd302c5755a06ffc5",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/alexandergrey-healing-4054923_1920-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Femeia care s-a vindecat de trei ori de cancer de colon dezvăluie primul simptom pe care l-a observat. „L-am ascuns de toată lumea”",
-        "link": "https://www.mediafax.ro/stirile-zilei/femeia-care-s-a-vindecat-de-trei-ori-de-cancer-de-colon-dezvaluie-primul-simptom-pe-care-l-a-observat-l-am-ascuns-de-toata-lumea-23824803"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "O femeie a supraviețuit de trei ori cancerului de colon. Simptomul pe care l-a ascuns ani la rând",
-        "link": "https://stirileprotv.ro/stiri/international/o-femeie-a-supravietuit-de-trei-ori-cancerului-de-colon-simptomul-pe-care-l-a-ascuns-ani-la-rand.html"
-      }
-    ],
-    "published_at": 1791919079,
-    "title_hu": "Háromszor küzdött meg a vastagbélrákkal: 14 évesen vért vett észre a székletében",
-    "lead_hu": "Danielle Ripley-Burgess 14 évesen vért észlelt a székletében, de szégyenérzetből sokáig titkolta a tünetet. Később háromszor diagnosztizáltak nála vastagbélrákot; a Lynch-szindrómáról és a tapasztalatairól azért beszél, hogy másokat is az időben kért orvosi segítségre biztasson.",
-    "content_hu": "• **Danielle Ripley-Burgess 14 évesen** vett először észre vért a székletében. Eleinte arra gondolt, hogy vörös ételtől színeződött el, ezért kerülni kezdte a piros ételeket, és a tünetet egy-két évig titkolta.\n\n• **A tünetek később erősödtek:** fáradtság, erős hasi fájdalom és egyre több vér jelentkezett. Néhány héttel a 17. születésnapja után harmadik stádiumú vastagbélrákot diagnosztizáltak nála; kemoterápiát, sugárkezelést és műtétet kapott.\n\n• **25 évesen újabb vastagbélrákot találtak nála.** Tünetei nem voltak, de a rendszeres kolonoszkópián rákos polipot fedeztek fel. A családi előzmény hiánya miatt végzett vizsgálatok Lynch-szindrómát mutattak ki, amely többek között növeli a vastagbél- és a méhtestrák kockázatát.\n\n• **A megelőző beavatkozások ellenére 2023-ban kiújult a betegsége.** A 39 éves Ripley-Burgess ekkor úgy döntött, hogy végleges ileosztómiát végeznek rajta, és eltávolítják a megmaradt vastagbélrészét is. Korábban megelőző méheltávolításon és a vastagbél nagy részének eltávolításán is átesett.\n\n• **Ripley-Burgess ma arra biztatja az embereket, hogy ne szégyelljék a testük jelzéseit.** Azt tanácsolja, hogy szokatlan tünetek esetén kérjenek orvosi segítséget, vagy legalább beszéljenek valakivel, és ne bagatellizálják, amit észlelnek.",
-    "title_ro": "A învins cancerul de colon de trei ori: la 14 ani a observat sânge în scaun",
-    "lead_ro": "Danielle Ripley-Burgess a observat sânge în scaun la vârsta de 14 ani, dar a ascuns simptomul mult timp, din jenă. Ulterior, a fost diagnosticată de trei ori cu cancer de colon; acum își împărtășește povestea și experiența cu sindromul Lynch pentru a-i încuraja pe alții să ceară ajutor medical la timp.",
-    "content_ro": "• **Danielle Ripley-Burgess avea 14 ani** când a observat pentru prima dată sânge în scaun. La început a crezut că era de la alimente roșii, pe care a început să le evite, și a ascuns simptomul timp de un an sau doi.\n\n• **Simptomele s-au agravat ulterior:** au apărut oboseala, durerile abdominale puternice și o cantitate tot mai mare de sânge. La câteva săptămâni după ce a împlinit 17 ani, a fost diagnosticată cu cancer de colon în stadiul al treilea și a urmat chimioterapie, radioterapie și o intervenție chirurgicală.\n\n• **La 25 de ani, a fost diagnosticată din nou cu cancer de colon.** Nu avea simptome, însă o colonoscopie de rutină a depistat un polip canceros. Testele efectuate deoarece nu avea antecedente familiale au identificat sindromul Lynch, care crește riscul de apariție a mai multor tipuri de cancer, inclusiv cel de colon și uterin.\n\n• **Boala a recidivat în 2023, în ciuda măsurilor luate pentru reducerea riscului.** Ripley-Burgess, în vârstă de 39 de ani, a decis atunci să facă o ileostomie permanentă și să îi fie îndepărtată și partea rămasă din colon. Înainte trecuse printr-o histerectomie preventivă și o intervenție prin care i-a fost îndepărtată cea mai mare parte a colonului.\n\n• **Ripley-Burgess îi îndeamnă acum pe oameni să nu le fie rușine de semnalele corpului lor.** Ea îi sfătuiește să solicite ajutor medical când observă simptome neobișnuite sau să vorbească măcar cu cineva și să nu minimalizeze ceea ce li se întâmplă."
-  },
-  {
-    "group_id": "group_f1571973ab",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "VIDEO Moment stânjenitor în prima conferință de presă a noii purtătoare de cuvânt a Casei Albe",
-        "link": "https://hotnews.ro/video-moment-stanjenitor-in-prima-conferinta-de-presa-a-noii-purtatoare-de-cuvant-a-casei-albe-2375183"
-      }
-    ],
-    "published_at": 1791919060,
-    "title_hu": "VIDEO Moment stânjenitor în prima conferință de presă a noii purtătoare de cuvânt a Casei Albe",
-    "lead_hu": "Noua purtătoare de cuvânt a Casei Albe, Katie Zacharia, pe care președintele Donald Trump a desemnat-o vineri să o înlocuiască pe Karoline Leavitt, a apărut marți pentru prima dată în sala de briefing…",
-    "content_hu": "Noua purtătoare de cuvânt a Casei Albe, Katie Zacharia, pe care președintele Donald Trump a desemnat-o vineri să o înlocuiască pe Karoline Leavitt, a apărut marți pentru prima dată în sala de briefing, în a doua zi de la preluarea funcției. Într-o gafă stânjenitoare, ea l-a confundat pe președintele Donald Trump cu propriul soț. Ea …",
-    "title_ro": "VIDEO Moment stânjenitor în prima conferință de presă a noii purtătoare de cuvânt a Casei Albe",
-    "lead_ro": "Noua purtătoare de cuvânt a Casei Albe, Katie Zacharia, pe care președintele Donald Trump a desemnat-o vineri să o înlocuiască pe Karoline Leavitt, a apărut marți pentru prima dată în sala de briefing…",
-    "content_ro": "Noua purtătoare de cuvânt a Casei Albe, Katie Zacharia, pe care președintele Donald Trump a desemnat-o vineri să o înlocuiască pe Karoline Leavitt, a apărut marți pentru prima dată în sala de briefing, în a doua zi de la preluarea funcției. Într-o gafă stânjenitoare, ea l-a confundat pe președintele Donald Trump cu propriul soț. Ea …"
   }
 ]
