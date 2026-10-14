@@ -272,6 +272,7 @@ def run_synthesis_direct():
             grouped_data.setdefault(g_id, []).append(item)
 
     multi_groups = []
+    single_results = []
     
     # 🛑 STATISZTIKAI CIKLUS ÉS IDŐKORLÁT
     CURRENT_TIME = int(time.time())
@@ -300,6 +301,21 @@ def run_synthesis_direct():
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
         if len(unique_sources) < 2:
             stats["single_source_groups"] += 1
+            # Egyforrásos hír: AI nélkül, közvetlenül a "Friss hírek" sávba
+            art = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
+            summ = art.get("summary", "") or ""
+            lead = (summ[:200] + "…") if len(summ) > 200 else summ
+            single_results.append({
+                "group_id": g_id,
+                "category": art.get("category", "Általános"),
+                "image": art.get("image"),
+                "is_synthesized": False,
+                "sources_count": 1,
+                "sources": [{"source": art.get("source", ""), "title": art.get("title", ""), "link": art.get("link", "")}],
+                "published_at": latest_timestamp,
+                "title_hu": art.get("title", ""), "lead_hu": lead, "content_hu": summ,
+                "title_ro": art.get("title", ""), "lead_ro": lead, "content_ro": summ,
+            })
             continue
 
         # 3. Ujjlenyomat (hash) ellenőrzése
@@ -354,6 +370,8 @@ def run_synthesis_direct():
         except Exception as e:
             print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
 
+    for item in single_results:
+        all_final_results[item["group_id"]] = item
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
@@ -364,7 +382,7 @@ def run_synthesis_direct():
 
     frontend_news = [
         item for item in fresh_items 
-        if item.get("is_synthesized") is True and not item.get("rejected")
+        if not item.get("rejected")
     ]
 
     final_sorted_list = sorted(
