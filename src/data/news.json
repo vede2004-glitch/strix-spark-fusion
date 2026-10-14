@@ -1,5 +1,528 @@
 [
   {
+    "group_id": "group_2a8c990807",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Barajul de la Corbești, construit cu explozii controlate. Lucrările la investiția de 103 milioane de lei au ajuns la 10% (FOTO)",
+        "link": "https://www.ebihoreanul.ro/stiri/barajul-de-la-corbesti-construit-cu-explozii-controlate-lucrarile-la-investitia-de-103-milioane-de-lei-au-ajuns-la-10-foto-205796.html"
+      }
+    ],
+    "published_at": 1791989230,
+    "title_hu": "Barajul de la Corbești, construit cu explozii controlate. Lucrările la investiția de 103 milioane de lei au ajuns la 10% (FOTO)",
+    "lead_hu": "Lucrările la acumularea nepermanentă Corbești, o investiție de 103 milioane de lei menită să protejeze de inundații șase localități bihorene, au depășit pragul de 10% din stadiul de execuție. Construc…",
+    "content_hu": "Lucrările la acumularea nepermanentă Corbești, o investiție de 103 milioane de lei menită să protejeze de inundații șase localități bihorene, au depășit pragul de 10% din stadiul de execuție. Constructorii lucrează inclusiv cu explozibili, pentru a pregăti terenul necesar consolidării unui drum de acces.",
+    "title_ro": "Barajul de la Corbești, construit cu explozii controlate. Lucrările la investiția de 103 milioane de lei au ajuns la 10% (FOTO)",
+    "lead_ro": "Lucrările la acumularea nepermanentă Corbești, o investiție de 103 milioane de lei menită să protejeze de inundații șase localități bihorene, au depășit pragul de 10% din stadiul de execuție. Construc…",
+    "content_ro": "Lucrările la acumularea nepermanentă Corbești, o investiție de 103 milioane de lei menită să protejeze de inundații șase localități bihorene, au depășit pragul de 10% din stadiul de execuție. Constructorii lucrează inclusiv cu explozibili, pentru a pregăti terenul necesar consolidării unui drum de acces."
+  },
+  {
+    "group_id": "group_c6662b46fe",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Nagy László lemondott az SZTFH éléről",
+        "link": "https://a24.hu/nagy-laszlo-lemondott-az-sztfh-elerol/"
+      }
+    ],
+    "published_at": 1791989187,
+    "title_hu": "Nagy László lemondott az SZTFH éléről",
+    "lead_hu": "Szerdán benyújtotta lemondását Nagy László, a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke. A hatóság közleménye szerint december közepéig marad a posztján, mert 60 napos lemondási idővel…",
+    "content_hu": "Szerdán benyújtotta lemondását Nagy László, a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke. A hatóság közleménye szerint december közepéig marad a posztján, mert 60 napos lemondási idővel távozik. Nagy László korábban elnökhelyettesként vezette az SZTFH-t, 2024-től pedig elnökként irányította az intézményt. A közleményben azt írta, büszke a hatóság munkájára, de a kormány által tervezett változások mellett már […]",
+    "title_ro": "Nagy László lemondott az SZTFH éléről",
+    "lead_ro": "Szerdán benyújtotta lemondását Nagy László, a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke. A hatóság közleménye szerint december közepéig marad a posztján, mert 60 napos lemondási idővel…",
+    "content_ro": "Szerdán benyújtotta lemondását Nagy László, a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke. A hatóság közleménye szerint december közepéig marad a posztján, mert 60 napos lemondási idővel távozik. Nagy László korábban elnökhelyettesként vezette az SZTFH-t, 2024-től pedig elnökként irányította az intézményt. A közleményben azt írta, büszke a hatóság munkájára, de a kormány által tervezett változások mellett már […]"
+  },
+  {
+    "group_id": "group_5aa7747dc9",
+    "fingerprint": "bced320fd721d6cc40a528ca9d477e7b",
+    "category": "Politika",
+    "image": "https://stirileprotv.ro/img/2026/04/09/074611/alexandru-muraru.jpg?fm=jpg&q=80&fit=crop&crop=5413%2C3609%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un lider PNL susține că PSD încearcă să-l dea jos pe Bolojan și să preia controlul asupra liberalilor: „Oferte otrăvite”",
+        "link": "https://stirileprotv.ro/stiri/politic/un-lider-pnl-sustine-ca-psd-incearca-sa-l-dea-jos-pe-bolojan-si-sa-preia-controlul-asupra-liberalilor-oferte-otravite.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Gorghiu, după decizia lui Bolojan de a susține un guvern cu miniștri PSD: „O fi cineva care trebuie să își ceară scuze?”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/gorghiu-dupa-decizia-lui-bolojan-de-a-sustine-un-guvern-cu-ministri-psd-o-fi-cineva-care-trebuie-sa-isi-ceara-scuze-3991699"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Gorghiu, atac la Bolojan după decizia de a susține un guvern cu miniștri PSD: „Eram pe punctul de a fi dați afară că am votat guvernul Veștea”",
+        "link": "https://adevarul.ro/politica/gorghiu-atac-la-bolojan-dupa-decizia-de-a-sustine-2563938.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alina Gorghiu, „săgeți” către Ilie Bolojan: „PNL decide sa voteze guvern PSD. O fi cineva care trebuie sa își ceară scuze”",
+        "link": "https://stirileprotv.ro/stiri/politic/alina-gorghiu-sageti-catre-ilie-bolojan-pnl-decide-sa-voteze-guvern-psd-o-fi-cineva-care-trebuie-sa-isi-ceara-scuze.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "„Nu vom gira niciun ministru PSD”. Siegfried Mureșan: Vom fi în totală opoziție față de PSD în următorii ani",
+        "link": "https://www.mediafax.ro/stirile-zilei/nu-vom-gira-niciun-ministru-psd-siegfried-muresan-vom-fi-in-totala-opozitie-fata-de-psd-in-urmatorii-ani-23825339"
+      },
+      {
+        "source": "Mediafax",
+        "title": "„Cine a greșit?” – Alina Gorghiu, ironie la adresa PNL după decizia de a vota Guvernul Niculescu",
+        "link": "https://www.mediafax.ro/politic/cine-a-gresit-alina-gorghiu-ironie-la-adresa-pnl-dupa-decizia-de-a-vota-guvernul-niculescu-23825359"
+      },
+      {
+        "source": "Digi24",
+        "title": "Siegfried Mureșan: Deblocăm criza politică creată de PSD și AUR, dar vom fi cu ochii pe miniștrii PSD",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/siegfried-muresan-deblocam-criza-politica-creata-de-psd-si-aur-dar-vom-fi-cu-ochii-pe-ministrii-psd-3992239"
+      },
+      {
+        "source": "G4Media",
+        "title": "Europarlamentarul liberal Siegfried Mureşan: Nu vom da un cec în alb niciunei propuneri de ministru PSD. Vom fi în totală opoziţie",
+        "link": "https://www.g4media.ro/europarlamentarul-liberal-siegfried-muresan-nu-vom-da-un-cec-in-alb-niciunei-propuneri-de-ministru-psd-vom-fi-in-totala-opozitie.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "PNL, despre mutarea pregătită de PSD în privința guvernului Niculescu: „Vom fi în totală opoziție”",
+        "link": "https://hotnews.ro/siegfried-muresan-despre-intrarea-psd-la-guvernare-nu-vom-da-un-cec-in-alb-niciunei-propuneri-de-ministru-psd-vom-fi-in-totala-opozitie-2376063"
+      }
+    ],
+    "published_at": 1791989162,
+    "title_hu": "A PNL megszavazná Niculescu kormányát, de ellenzékben maradna, és nem vállal garanciát a PSD minisztereiért",
+    "lead_hu": "A PNL parlamenti frakciói a Luca Niculescu vezette kormány támogatását javasolják, miközben a párt ellenzékben maradna, és politikai megállapodást mérlegel a kijelölt miniszterelnökkel. A frakciók döntése konzultatív, a végső álláspontról a PNL Országos Politikai Bürója határoz. A sajtóértesülések szerint a PSD is úgy döntött, hogy részt vesz a kormányban, de hivatalos bejelentésre még vártak.",
+    "content_hu": "• **Alexandru Muraru, a PNL alelnöke** azzal vádolta a PSD-t, hogy Ilie Bolojan eltávolítására, a PNL irányváltására és a párt 2028-as választások előtti alárendelésére törekszik. Szerinte Sorin Grindeanu nyilatkozatai és a liberálisoknak tett „mérgező ajánlatok” a PNL megosztását célozzák.\n\n• **Ilie Bolojan október 13-i bejelentése** szerint a PNL mérlegeli egy kétoldalú politikai megállapodás megkötését Luca Niculescu kijelölt miniszterelnökkel. Ez nem koalíciós megállapodás, és nem jelenti a PNL kormányzati részvételét: a liberálisok ellenzékben maradnának, a dokumentum pedig a következő hat hónapra szabna átlátható feltételeket az együttműködéshez.\n\n• **A PNL által szabott feltételek** között szerepel a költségvetési hiánycél teljesítése, a közpénzek felelős felhasználása, a beruházások védelme és az európai kötelezettségek betartása. A párt kész támogatni a 2027-es költségvetést, ha az reális, ténylegesen beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tartalmaz fedezet nélküli kiadásnövelést.\n\n• **A PNL parlamenti frakcióinak döntése** szerint a liberálisok megszavaznák a Niculescu-kormányt, hogy a párt ellenzékben maradhasson és megállapodást köthessen a kijelölt miniszterelnökkel. Ionel Bogdan szóvivő közölte, hogy a frakciók szavazása konzultatív; a végső döntést a PNL Országos Politikai Bürója hozza meg. A párt nem lép koalícióra a PSD-vel.\n\n• **A PSD kormányzati részvételéről szóló sajtóértesülések** szerint a szociáldemokraták úgy döntöttek, hogy támogatják Niculescu kormányát, és minisztereket is delegálnak a kabinetbe. A HotNews forrásai a kormányba lépésről számoltak be; a döntés hivatalos bejelentésére még vártak.\n\n• **Siegfried Mureșan, a PNL európai parlamenti képviselője** kijelentette, hogy a párt nem ad „biankó csekket” egyetlen PSD-s miniszterjelöltnek sem, és a következő években teljes ellenzékben lesz a PSD-vel szemben. Külön is utalt olyan jelöltekre, akiket a Mykonoshoz, a Nordis-ügyhöz, Monte Carlóhoz vagy „cipősdobozokhoz” kötnek, és azt mondta: a miniszterek felelősek lesznek tetteikért, a PNL pedig figyelni fogja őket.\n\n• **Alina Gorghiu, a PNL képviselője** bírálta a párt stratégiáját: emlékeztetett, hogy korábban majdnem kizárták azokat a liberálisokat, akik Adrian Veștea miniszterelnökségével és PSD-részvétellel alakítottak volna kormányt. Gorghiu azt kérdezte, kell-e valakinek bocsánatot kérnie, amiért a párt most egy technokrata miniszterelnök és PSD-s kormány támogatására készül.\n\n• **A Veștea-kormány körüli vita** június 14-én kezdődött, amikor Adrian Veșteát miniszterelnöknek jelölték. A PNL június 21-i rendkívüli kongresszusa kizárással fenyegette azokat a párttagokat, akik PSD-vel közös kormányban vállalnak szerepet; a Veștea-kormány június 22-én 189 támogatói szavazatot kapott a szükséges 233 helyett, miután az AUR képviselői kivonultak. A kongresszusi szankciókról szóló döntések alkalmazását később bíróság függesztette fel.\n\n• **A Niculescu-kormány következő lépései** előtt a PSD országos politikai tanácsa arról döntött, hogy miniszterekkel belép-e a kabinetbe, parlamenti szavazással támogatja-e, vagy kívül marad. Luca Niculescu csütörtökre tervezi benyújtani a kormányprogramot és a miniszterjelöltek listáját; elmondása szerint politikai, vegyes vagy teljesen technokrata kormány is lehetséges.",
+    "title_ro": "PNL ar vota Guvernul Niculescu, dar ar rămâne în opoziție și nu garantează pentru miniștrii PSD",
+    "lead_ro": "Grupurile parlamentare ale PNL au recomandat susținerea Guvernului condus de Luca Niculescu, în timp ce partidul ar rămâne în opoziție și ia în calcul un acord politic cu premierul desemnat. Votul grupurilor este consultativ, iar decizia finală aparține Biroului Politic Național al PNL. Potrivit unor relatări de presă, PSD a decis, la rândul său, să participe la guvernare, însă anunțul oficial era încă așteptat.",
+    "content_ro": "• **Alexandru Muraru, vicepreședinte PNL**, a acuzat PSD că urmărește înlăturarea lui Ilie Bolojan, schimbarea direcției PNL și subordonarea partidului înaintea alegerilor din 2028. În opinia sa, declarațiile lui Sorin Grindeanu și „ofertele otrăvite” adresate liberalilor urmăresc divizarea PNL.\n\n• **Anunțul lui Ilie Bolojan din 13 octombrie** arată că PNL ia în calcul încheierea unui acord politic bilateral cu premierul desemnat Luca Niculescu. Acordul nu ar fi unul de coaliție și nu ar presupune participarea PNL la guvernare: liberalii ar rămâne în opoziție, iar documentul ar stabili condiții transparente pentru colaborare în următoarele șase luni.\n\n• **Condițiile PNL** includ atingerea țintei de deficit bugetar, folosirea responsabilă a banului public, protejarea investițiilor și respectarea angajamentelor europene. Partidul este pregătit să susțină bugetul pentru 2027 dacă acesta este realist, se bazează pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și nu prevede creșteri de cheltuieli fără acoperire.\n\n• **Decizia grupurilor parlamentare ale PNL** este ca liberalii să voteze Guvernul Niculescu, pentru ca partidul să poată rămâne în opoziție și să încheie un acord cu premierul desemnat. Purtătorul de cuvânt Ionel Bogdan a precizat că votul grupurilor este consultativ, iar decizia finală va fi luată de Biroul Politic Național al PNL. Partidul exclude o coaliție cu PSD.\n\n• **Relatările de presă despre participarea PSD la guvernare** indică faptul că social-democrații au decis să susțină Guvernul Niculescu și să aibă miniștri în cabinet. Surse citate de HotNews au relatat că PSD a decis să intre la guvernare; anunțul oficial era încă așteptat.\n\n• **Siegfried Mureșan, europarlamentar PNL**, a declarat că partidul nu va da „un cec în alb” niciunei propuneri de ministru PSD și că se va afla în opoziție totală față de social-democrați în următorii ani. El a făcut referire la candidați asociați cu Mykonos, dosarul Nordis, Monte Carlo sau „cutiile de pantofi” și a afirmat că miniștrii vor răspunde pentru faptele lor, iar PNL îi va monitoriza.\n\n• **Alina Gorghiu, deputată PNL**, a criticat strategia partidului și a amintit că liberalii care au susținut anterior un guvern condus de Adrian Veștea, cu participarea PSD, au fost aproape excluși. Gorghiu a întrebat dacă cineva ar trebui să-și ceară scuze pentru că partidul se pregătește acum să susțină un premier tehnocrat și un guvern cu PSD.\n\n• **Controversa privind Guvernul Veștea** a început pe 14 iunie, când Adrian Veștea a fost desemnat premier. Congresul extraordinar al PNL din 21 iunie a amenințat cu excluderea membrii partidului care ar fi participat la un guvern cu PSD; Guvernul Veștea a obținut pe 22 iunie 189 de voturi favorabile, față de cele 233 necesare, după ce parlamentarii AUR au părăsit sala. Ulterior, instanța a suspendat aplicarea deciziilor congresului privind sancțiunile.\n\n• **Următorii pași pentru Guvernul Niculescu** au inclus decizia Consiliului Politic Național al PSD dacă partidul intră în cabinet cu miniștri, susține guvernul prin vot sau rămâne în afara acestuia. Luca Niculescu intenționează să depună joi programul de guvernare și lista miniștrilor; el a spus că sunt posibile un guvern politic, unul mixt sau unul integral tehnocrat."
+  },
+  {
+    "group_id": "group_3e8ae01018",
+    "fingerprint": "2d4b8fd9032c6bf4d74c3ad2946e1ad2",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/Sorin-Grindeanu-grimasa-ceas-scaled.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Sorin Grindeanu, interviu la România TV, în ajunul ședinței decisive a PSD privind intrarea la guvernare",
+        "link": "https://www.g4media.ro/sorin-grindeanu-interviu-la-romania-tv-in-ajunul-sedintei-decisive-a-psd-privind-intrarea-la-guvernare.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Sorin Grindeanu face anunțul momentului, după ședința decisivă din PSD pentru intrarea la guvernare",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-face-anuntul-momentului-dupa-sedinta-decisiva-din-psd-pentru-intrarea-la-guvernare-3992023"
+      }
+    ],
+    "published_at": 1791989091,
+    "title_hu": "A PSD úgy döntött, belép a Luca Niculescu vezette kormányba",
+    "lead_hu": "A PSD szerdai, döntő ülésén megszavazta, hogy részt vesz a Luca Niculescu által javasolt kormányban, és jóváhagyta a párt miniszterjelöltjeinek listáját. A párt hat hónap múlva értékeli, hogy folytatja-e a kormányzást; Sorin Grindeanu az ülés előtt a kormányprogramot és a gazdasági helyzetet nevezte döntő szempontnak.",
+    "content_hu": "• **Szerdán este** a PSD vezetése arról döntött, hogy belép a Luca Niculescu által javasolt kormányba, és megszavazta a párt által jelölendő miniszterek listáját.\n\n• **Hat hónap múlva** a szociáldemokraták felülvizsgálják, hogy a kormányban maradjanak-e.\n\n• **Sorin Grindeanu a döntő ülés előtt** azt mondta, a kormányzati részvétel feltétele, hogy a program tartalmazza a PSD javaslatait; szerinte a tárcák számánál fontosabb a kormányprogram tartalma.\n\n• **Grindeanu a gazdasági helyzetet** kritikusnak nevezte, és arra figyelmeztetett, hogy kormány nélkül nehezebbé válhat az állam finanszírozása. Azt is mondta, hogy a kormánynak költségvetési kiigazításra és a 2027-es költségvetés előkészítésére kell összpontosítania.",
+    "title_ro": "PSD a decis să intre în guvernul propus de Luca Niculescu",
+    "lead_ro": "În ședința decisivă de miercuri, PSD a votat intrarea în guvernul propus de Luca Niculescu și lista miniștrilor pe care partidul îi va propune. Social-democrații vor reevalua peste șase luni dacă rămân la guvernare; înaintea ședinței, Sorin Grindeanu a prezentat programul de guvernare și situația economică drept criterii importante.",
+    "content_ro": "• **Miercuri seară**, conducerea PSD a decis intrarea în guvernul propus de Luca Niculescu și a votat lista miniștrilor pe care partidul îi va propune.\n\n• **Peste șase luni**, social-democrații vor analiza dacă rămân sau nu la guvernare.\n\n• **Înaintea ședinței decisive**, Sorin Grindeanu a spus că participarea la guvernare depinde de includerea propunerilor PSD în program și că programul este mai important decât numărul de ministere.\n\n• **Grindeanu a descris situația economică** drept critică și a avertizat că, în lipsa unui guvern, finanțarea statului ar putea deveni mai dificilă. El a spus că printre priorități ar trebui să se numere rectificarea bugetară și pregătirea bugetului pentru 2027."
+  },
+  {
+    "group_id": "group_f19b6ddd30",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMiUyRjA2JTJGMTg1NTQ3NF8xODU1/NDc0X2RhbmllbC1mdW5lcml1LmpwZyZo/YXNoPTQ2NTA0N2QzZTQyN2Y1NTVhMTA0MjVhZTY5ZmRmNzc1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ce spune un fost ministru al Educației despre concursul de directori de școli: „Examenul ăsta i-a eliminat pe proști”",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/ce-spune-un-fost-ministru-al-educatiei-despre-concursul-de-directori-de-scoli-examenul-asta-i-a-eliminat-pe-prosti-3992273"
+      }
+    ],
+    "published_at": 1791989021,
+    "title_hu": "Ce spune un fost ministru al Educației despre concursul de directori de școli: „Examenul ăsta i-a eliminat pe proști”",
+    "lead_hu": "Fostul ministru al Educației, Daniel Funeriu, a criticat reacțiile celor nemulțumiți de prima probă a concursului pentru directorii de școli, promovată de 69,05% dintre candidații prezenți. „Din milă …",
+    "content_hu": "Fostul ministru al Educației, Daniel Funeriu, a criticat reacțiile celor nemulțumiți de prima probă a concursului pentru directorii de școli, promovată de 69,05% dintre candidații prezenți. „Din milă față de proști și contestarea pentru orice a autorităților ajungem să fim conduși de proști”, a scris acesta, miercuri, într-o postare pe Facebook.",
+    "title_ro": "Ce spune un fost ministru al Educației despre concursul de directori de școli: „Examenul ăsta i-a eliminat pe proști”",
+    "lead_ro": "Fostul ministru al Educației, Daniel Funeriu, a criticat reacțiile celor nemulțumiți de prima probă a concursului pentru directorii de școli, promovată de 69,05% dintre candidații prezenți. „Din milă …",
+    "content_ro": "Fostul ministru al Educației, Daniel Funeriu, a criticat reacțiile celor nemulțumiți de prima probă a concursului pentru directorii de școli, promovată de 69,05% dintre candidații prezenți. „Din milă față de proști și contestarea pentru orice a autorităților ajungem să fim conduși de proști”, a scris acesta, miercuri, într-o postare pe Facebook."
+  },
+  {
+    "group_id": "group_270e04eb68",
+    "fingerprint": "fe5531459bddb6633357a514a50e5d98",
+    "category": "Erdély",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/12/pexels-cottonbro-6940878-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Ce poate face insomnia cronică organismului. Studiile indică riscuri pentru creier și sănătatea mintală",
+        "link": "https://www.mediafax.ro/life-inedit/ce-poate-face-insomnia-cronica-organismului-studiile-indica-riscuri-pentru-creier-si-sanatatea-mintala-23825353"
+      },
+      {
+        "source": "G4Media",
+        "title": "STUDIU: Insomnia cronică poate provoca grave probleme pentru creier și sănătatea mintală",
+        "link": "https://www.g4media.ro/studiu-insomnia-cronica-poate-provoca-grave-probleme-pentru-creier-si-sanatatea-mintala.html"
+      }
+    ],
+    "published_at": 1791988920,
+    "title_hu": "A krónikus álmatlanság több egészségi kockázattal járhat, de az ok-okozati kapcsolat nem bizonyított",
+    "lead_hu": "Egy több mint 1,3 millió résztvevő adatait összesítő elemzés az álmatlanságot többek között a stroke, a kórházi kezelés, a demencia, a depresszió és az öngyilkossági magatartás magasabb kockázatával hozta összefüggésbe. A kutatók hangsúlyozzák, hogy az eredmények összefüggéseket mutatnak, és nem bizonyítják, hogy az álmatlanság közvetlenül okozza ezeket az állapotokat.",
+    "content_hu": "• **Egy több mint 1,3 millió résztvevő adatait összesítő elemzés** az álmatlanság és több súlyos egészségi probléma közötti kapcsolatot vizsgálta; a kutatást a Sleep Medicine Reviews folyóirat közölte.\n\n• **Az álmatlansággal élőknél** 26 százalékkal magasabb stroke-kockázatot és 28 százalékkal nagyobb, bármilyen okból történő kórházi kezelésre esélyt találtak. Az elemzés demenciával, depresszióval és öngyilkossági magatartással való összefüggéseket is jelzett.\n\n• **Az eredmények nem bizonyítják az ok-okozati kapcsolatot:** a statisztikai összefüggés önmagában nem mutatja meg, hogy az álmatlanság okozza-e a vizsgált problémákat. Egyes kutatásokban az összefüggések gyengültek vagy eltűntek, miután figyelembe vették az altatók használatát; az elemzés nem talált magasabb halálozási kockázatot.\n\n• **A lehetséges magyarázatok között** szerepel, hogy az álmatlanság és a magas vérnyomás közös kockázati tényezőkhöz, például stresszhez és életmódhoz kapcsolódhat. A kutatások szerint az alvás az agy bizonyos fehérjéktől való megtisztulásában is szerepet játszhat, de ennek demenciával való kapcsolatát még vizsgálják.\n\n• **Az alvás és a mentális egészség kölcsönösen hathat egymásra:** az alvászavar megnehezítheti az érzelmek kezelését, míg a mentális problémák ronthatják az alvást.\n\n• **Krónikus álmatlanságról** akkor beszélnek, ha a problémák legalább három hónapon át, hetente minimum három napon jelentkeznek, és a nappali működést is befolyásolják. A rövid ideig tartó rossz alvás önmagában nem jelenti ezt a diagnózist.\n\n• **A krónikus álmatlanság kezelhető:** alkalmazható kognitív viselkedésterápia, egyes esetekben gyógyszeres kezelés, valamint segíthet az állandó ébredési idő, az álmosság jelentkezésekor történő lefekvés és a hosszan tartó nappali alvás kerülése.",
+    "title_ro": "Insomnia cronică este asociată cu mai multe riscuri pentru sănătate, dar cauzalitatea nu este dovedită",
+    "lead_ro": "O analiză care a reunit datele a peste 1,3 milioane de participanți a asociat insomnia cu riscuri mai mari de AVC, spitalizare, demență, depresie și comportament suicidar. Cercetătorii subliniază că rezultatele indică asocieri și nu demonstrează că insomnia provoacă direct aceste afecțiuni.",
+    "content_ro": "• **O analiză a datelor provenite de la peste 1,3 milioane de participanți** a examinat legătura dintre insomnie și mai multe probleme grave de sănătate; cercetarea a fost publicată în revista Sleep Medicine Reviews.\n\n• **Persoanele cu insomnie** au prezentat un risc cu 26% mai mare de AVC și o probabilitate cu 28% mai ridicată de spitalizare, indiferent de cauză. Analiza a identificat asocieri și cu demența, depresia și comportamentul suicidar.\n\n• **Rezultatele nu dovedesc o relație de cauzalitate:** o asociere statistică nu arată, în sine, dacă insomnia provoacă problemele analizate. În unele studii, asocierile s-au diminuat sau au dispărut după luarea în calcul a medicamentelor pentru somn; analiza nu a identificat un risc mai mare de deces.\n\n• **Printre explicațiile posibile** se numără factorii comuni, precum stresul și stilul de viață, care pot contribui atât la insomnie, cât și la hipertensiune. Cercetările sugerează și că somnul ajută creierul să elimine anumite proteine, însă legătura acestui proces cu demența este încă studiată.\n\n• **Somnul și sănătatea mintală se pot influența reciproc:** tulburările de somn pot îngreuna gestionarea emoțiilor, iar problemele psihice pot afecta calitatea somnului.\n\n• **Insomnia cronică** este definită prin probleme de somn persistente timp de cel puțin trei luni, în minimum trei zile pe săptămână, care afectează funcționarea din timpul zilei. O perioadă scurtă de somn deficitar nu înseamnă automat acest diagnostic.\n\n• **Insomnia cronică este tratabilă:** printre opțiuni se numără terapia cognitiv-comportamentală și, în unele cazuri, tratamentul medicamentos. Menținerea unei ore constante de trezire, culcarea atunci când apare somnolența și evitarea somnului prelungit în timpul zilei pot ajuta, de asemenea."
+  },
+  {
+    "group_id": "group_7cd068d9ba",
+    "fingerprint": "feead47e6d9511cfdf325cb3e655e043",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/4b1c42fa-d493-4caf-a98d-05d351872cd2.jfif?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Elizabeta Samara sunt la un pas de medalie la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-elizabeta-samara-sunt-la-un-pas-de-medalie-la-campionatele-europene-de-la-ljubljana-987941.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Samara și Szocs, în sferturile CE de tenis de masă din Ljubljana",
+        "link": "https://www.g4media.ro/samara-si-szocs-in-sferturile-ce-de-tenis-de-masa-din-ljubljana.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Elizabeta Samara și Bernadette Szocs s-au calificat în sferturile de finală ale Campionatului European",
+        "link": "https://adevarul.ro/sport/elizabeta-samara-si-bernadette-szocs-s-au-2563936.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Eduard Ionescu, prima medalie pentru România la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-eduard-ionescu-prima-medalie-pentru-romania-la-campionatele-europene-de-la-ljubljana-987990.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Bernadette Szocs și Eduard Ionescu aduc prima medalie a României la CE de tenis de masă",
+        "link": "https://www.g4media.ro/bernadette-szocs-si-eduard-ionescu-aduc-prima-medalie-a-romaniei-la-ce-de-tenis-de-masa.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs, după ce și-a asigurat a 14-a medalie europeană din carieră: „Sunt fericită și emoționată”",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-reactie-dupa-ce-si-a-asigurat-a-14-a-medalie-europeana-din-cariera-988036.html"
+      }
+    ],
+    "published_at": 1791988878,
+    "title_hu": "Szocsék negyeddöntősök, Románia első érme is biztos az asztalitenisz-Eb-n",
+    "lead_hu": "Bernadette Szocs és Elizabeta Samara 3–0-ra legyőzte a horvát Lea Rakovac–Hana Arapovic párost, így bejutott a ljubljanai Európa-bajnokság női párosversenyének negyeddöntőjébe. Szocs és Eduard Ionescu a vegyes páros negyeddöntőjében 3–2-re nyert a franciák ellen, ezzel Románia első érme is biztossá vált. A német Benedikt Duda–Nina Mittelham kettős elleni elődöntő csütörtökön, október 15-én 13:40-kor kezdődik.",
+    "content_hu": "• **Szocs Bernadette és Elizabeta Samara** 3–0-ra (11–9, 11–8, 11–6) nyert a horvát Lea Rakovac–Hana Arapovic kettős ellen a női páros nyolcaddöntőjében, és bejutott a legjobb nyolc közé. A románok első kiemeltek, a horvát páros a 13. helyen szerepelt.\n\n• **A női páros negyeddöntőben** a német Ying Han és Sabine Winter vár Szocsra és Samarara. A mérkőzés győztese elődöntős lesz, és biztosítja az érmet; a találkozót csütörtökön játsszák.\n\n• **Dragoman és Diaconu** 0–3-ra (12–14, 5–11, 7–11) kikapott a francia Prithika Pavade–Charlotte Lutz kettőstől, így kiesett. A románok negyedik, a franciák 11. kiemeltek voltak.\n\n• **Szocs és Samara korábbi győzelme** a szlovák Dominika Wiltschkova–Ema Labosova kettős ellen született: a románok 3–1-re nyertek (11–4, 11–4, 12–14, 11–7). A páros a jó kommunikációt, az összehangolt játékot és a könnyű hibák elkerülését emelte ki.\n\n• **Szocs Bernadette és Eduard Ionescu** 3–2-re (9–11, 13–11, 12–10, 6–11, 11–9) legyőzte a francia Thibault Poret–Prithika Pavade kettőst a vegyes páros negyeddöntőjében, és bejutott az elődöntőbe. A román kettős negyedik, a francia páros 19. kiemelt volt.\n\n• **Románia első érme** ezzel biztossá vált a ljubljanai Európa-bajnokságon: a vegyes párosban nincs bronzmérkőzés, így Szocs és Ionescu legalább bronzérmes. A német Benedikt Duda–Nina Mittelheim elleni elődöntő csütörtökön, október 15-én 13:40-kor kezdődik.\n\n• **Szocs a győzelem után** azt mondta, boldog és meghatott, a fordításban pedig az segített, hogy jól kiegészítik egymást, és nehéz helyzetben is biztatták a másikat. Ionescu számára ez a második Eb-érme, Szocsnak a 14.; a román játékos vegyes párosban negyedszer áll dobogóra.\n\n• **Szocs és Ionescu korábbi vegyes páros győzelmei** közé tartozik a cseh Jiri Martinko–Veronika Polakova kettős elleni 3–1-es siker (11–5, 9–11, 11–9, 11–5), majd Anders Lind és Anna Hursey 3–1-es legyőzése (11–7, 4–11, 11–9, 14–12) a nyolcaddöntőben. A másik elődöntőben a svéd Kristian Karlsson–Christina Kallberg és a francia Alexis Lebrun–Charlotte Lutz páros találkozik.\n\n• **A románok a férfi párosversenyben** már nem érdekeltek: Darius Movileanu és Eduard Ionescu 2–3-ra kikapott a finn Benedek Olah–Alex Naumi kettőstől, Iulian Chirița és Andrei Istrate pedig 0–3-ra maradt alul a svéd Truls Moregard–Elias Ranefur párossal szemben.\n\n• **A főtáblán tíz román versenyző** szerepel egyesben: hat nő és négy férfi. A nőknél Adina Diaconu, Elena Zaharia és Ioana Sîngeorzan a selejtezőcsoportból jutott tovább; a férfiaknál Ovidiu Ionescu és Andrei Istrate harcolta ki a főtáblás szereplést. Bianca Mei-Roșu és Darius Movileanu nem jutott tovább a csoportjából.\n\n• **A román egyesjátékosok első fordulós mérkőzéseit** október 14-re írták ki: Szocs Sofia-Xuan Zhanggal, Samara Ece Haraccal, Diaconu Christina Kallberggel, Sîngeorzan Margaryta Pesotskával, Dragoman Nina Skerbinzzel, Zaharia Tin-Tin Hóval, Eduard Ionescu pedig Adam Szudival játszik.",
+    "title_ro": "Szocs și Ionescu au asigurat prima medalie a României la Europenele de tenis de masă",
+    "lead_ro": "Bernadette Szocs și Elizabeta Samara au învins cu 3-0 perechea croată Lea Rakovac–Hana Arapovic și s-au calificat în sferturile probei de dublu feminin de la Campionatele Europene de la Ljubljana. Szocs și Eduard Ionescu au câștigat cu 3-2 în fața francezilor în sferturile probei de dublu mixt, asigurând prima medalie a României. Semifinala cu germanii Benedikt Duda–Nina Mittelham este programată joi, 15 octombrie, la ora 13:40.",
+    "content_ro": "• **Bernadette Szocs și Elizabeta Samara** au câștigat cu 3-0 (11-9, 11-8, 11-6) în fața perechii croate Lea Rakovac–Hana Arapovic, în optimile probei de dublu feminin, și s-au calificat între primele opt echipe. Româncele sunt favoritele numărul unu, iar perechea croată a fost cap de serie 13.\n\n• **În sferturile probei de dublu feminin**, Szocs și Samara vor întâlni perechea germană Ying Han–Sabine Winter. Câștigătoarele se vor califica în semifinale și își vor asigura o medalie; partida se joacă joi.\n\n• **Andreea Dragoman și Adina Diaconu** au pierdut cu 0-3 (12-14, 5-11, 7-11) în fața franțuzoaicelor Prithika Pavade–Charlotte Lutz și au fost eliminate. Româncele au fost favoritele numărul patru, iar adversarele lor favoritele numărul 11.\n\n• **Victoria anterioară a lui Szocs și Samara** a fost obținută contra slovacelor Dominika Wiltschkova–Ema Labosova: 3-1 (11-4, 11-4, 12-14, 11-7). Jucătoarele au subliniat importanța comunicării, a jocului complementar și a evitării greșelilor ușoare.\n\n• **Bernadette Szocs și Eduard Ionescu** au învins cu 3-2 (9-11, 13-11, 12-10, 6-11, 11-9) perechea franceză Thibault Poret–Prithika Pavade, în sferturile probei de dublu mixt, și s-au calificat în semifinale. Românii au fost favoriții numărul patru, iar francezii favoriții numărul 19.\n\n• **România și-a asigurat prima medalie** la Campionatele Europene de la Ljubljana: în proba de dublu mixt nu se joacă finală mică, astfel că Szocs și Ionescu au garantat cel puțin bronzul. Semifinala cu germanii Benedikt Duda–Nina Mittelham este programată joi, 15 octombrie, la ora 13:40.\n\n• **După victorie, Szocs** a spus că este fericită și emoționată și că succesul s-a datorat faptului că ea și Ionescu se completează bine și s-au încurajat reciproc. Pentru Ionescu este a doua medalie europeană, iar pentru Szocs a 14-a; românca urcă pentru a patra oară pe podiumul european la dublu mixt.\n\n• **Printre victoriile anterioare la dublu mixt** ale lui Szocs și Ionescu se numără succesul cu 3-1 în fața cehilor Jiri Martinko–Veronika Polakova (11-5, 9-11, 11-9, 11-5) și victoria cu 3-1 contra lui Anders Lind și Anna Hursey (11-7, 4-11, 11-9, 14-12), în optimi. În cealaltă semifinală se vor întâlni suedezii Kristian Karlsson–Christina Kallberg și francezii Alexis Lebrun–Charlotte Lutz.\n\n• **România nu mai are reprezentanți la dublu masculin**: Darius Movileanu și Eduard Ionescu au pierdut cu 2-3 în fața finlandezilor Benedek Olah–Alex Naumi, iar Iulian Chirița și Andrei Istrate au fost învinși cu 0-3 de suedezii Truls Moregard–Elias Ranefur.\n\n• **Zece români sunt pe tablourile principale de simplu**, șase la feminin și patru la masculin. La feminin, Adina Diaconu, Elena Zaharia și Ioana Sîngeorzan s-au calificat din grupe; la masculin, Ovidiu Ionescu și Andrei Istrate au obținut accesul pe tabloul principal. Bianca Mei-Roșu și Darius Movileanu nu au trecut de grupele preliminare.\n\n• **Meciurile din primul tur de simplu ale românilor** au fost programate pentru 14 octombrie: Szocs–Sofia-Xuan Zhang, Samara–Ece Harac, Diaconu–Christina Kallberg, Sîngeorzan–Margaryta Pesoțka, Dragoman–Nina Skerbinz, Zaharia–Tin-Tin Ho, iar Eduard Ionescu–Adam Szudi."
+  },
+  {
+    "group_id": "group_5f17a77587",
+    "fingerprint": "ca007783310855112611298e7832df96",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Bulgaria ia în calcul invocarea Articolului 4 din NATO, după atacurile cu drone din Marea Neagră / Nicuşor Dan, discuție cu președinta Iliana Iotova",
+        "link": "https://hotnews.ro/bulgaria-ia-in-calcul-invocarea-articolului-4-din-nato-dupa-atacurile-cu-drone-din-marea-neagra-nicusor-dan-discutie-cu-presedinta-iliana-iotova-2375733"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Bulgaria pregătește aderarea la o inițiativă NATO împotriva dronelor. Cât va plăti anual pentru apărare",
+        "link": "https://www.mediafax.ro/aparare/bulgaria-pregateste-aderarea-la-o-initiativa-nato-impotriva-dronelor-cat-va-plati-anual-pentru-aparare-23825306"
+      },
+      {
+        "source": "Digi24",
+        "title": "Bulgaria ia în calcul activarea Articolului 4 al NATO după atacurile din Marea Neagră. Când se va alătura inițiativei NATO anti-drone",
+        "link": "https://www.digi24.ro/stiri/externe/ue/bulgaria-ia-in-calcul-activarea-articolului-4-al-nato-dupa-atacurile-din-marea-neagra-cand-se-va-alatura-initiativei-nato-anti-drone-3992269"
+      }
+    ],
+    "published_at": 1791988858,
+    "title_hu": "Bulgária NATO-drónelhárító kezdeményezéshez csatlakozna, és a 4. cikkely alkalmazását is mérlegeli",
+    "lead_hu": "Bulgária október 30-ig csatlakozna a kis magasságban repülő légi fenyegetések, köztük a drónok elleni NATO-programhoz, amelynek éves hozzájárulása 220 ezer euró. A Fekete-tengeri hajótámadások miatt Szófia az ENSZ Biztonsági Tanácsához fordulna, és a NATO 4. cikkelyének alkalmazását is mérlegeli; Romániával közösen sürgetne határozottabb fellépést.",
+    "content_hu": "• **Október 30-ig** Bulgária csatlakozna egy NATO-programhoz, amely a kis magasságban repülő légi fenyegetések, köztük a drónok elleni védekezést erősíti. Dimitar Stoyanov védelmi miniszter szerint az éves hozzájárulás 220 ezer euró, amit a tárca megfizethetőnek tart.\n\n• **A bolgár drónvédelem fejlesztésére** az ország az európai SAFE mechanizmuson keresztül 80 millió eurót fordítana 20 elhárító rendszer beszerzésére: tíz mobil és tíz telepített eszközre. A beszerzést Spanyolországgal közösen tervezik; a két ország egyetértési memorandumot készül aláírni. Bulgária már részt vesz a NATO Drone Edge programjában, és nem tervezi, hogy kilép belőle.\n\n• **Október 6-án és 13-án** összesen négy kereskedelmi hajót ért dróntámadás a bolgár partok közelében. Az első támadássorozatban az Alfa Watan elsüllyedt, tíz tengerész eltűnt, az Able pedig kigyulladt; a legénységét kimentették, ketten megsérültek. Október 13-án a HS Dignity elsüllyedt, 11 tengerész eltűnt, a Chelsea-3 mind a 15 fős legénységét pedig kimentették. A támadások miatt Bulgária nemzetközi segítséget kért a légtér és a tengeri útvonalak megfigyeléséhez.\n\n• **A NATO 4. cikkelyének alkalmazását** Bulgária mérlegeli, de Iliana Iotova elnök szerint a lépést alaposan meg kell fontolni, és nagyobb súlya lenne, ha több ország közösen kezdeményezné. Szófia az ENSZ Biztonsági Tanácsához fordulna, valamint rendkívüli napirendi pontot javasolna a Fekete-tenger tengeri biztonságáról a 2026. október 15-én kezdődő európai tanácsi ülésre.\n\n• **Nicusor Dan és Iliana Iotova** telefonbeszélgetésükön megállapodtak abban, hogy Románia és Bulgária szorosan együttműködik a drónok elleni határozottabb uniós és NATO-intézkedések előmozdításában, a kereskedelmi hajózás biztonságáért. Bulgária Romániával és Törökországgal is egyeztetne közös javaslatokról. A bolgár hatóságok nem vádolták meg hivatalosan Oroszországot a támadásokkal; Rumen Radev miniszterelnök szerint azok eredménye Moszkvának kedvez.",
+    "title_ro": "Bulgaria vrea să adere la o inițiativă NATO anti-drone și ia în calcul Articolul 4",
+    "lead_ro": "Bulgaria intenționează să se alăture până la 30 octombrie unui program NATO împotriva amenințărilor aeriene care zboară la joasă altitudine, inclusiv a dronelor, cu o contribuție anuală de 220.000 de euro. După atacurile asupra navelor din Marea Neagră, Sofia va sesiza Consiliul de Securitate al ONU și ia în calcul Articolul 4 al NATO; Bulgaria și România vor susține măsuri mai ferme.",
+    "content_ro": "• **Până la 30 octombrie** Bulgaria intenționează să adere la un program NATO care consolidează apărarea împotriva amenințărilor aeriene care zboară la joasă altitudine, inclusiv a dronelor. Ministrul Apărării, Dimitar Stoyanov, a declarat că aportul anual va fi de 220.000 de euro, sumă pe care ministerul o consideră suportabilă.\n\n• **Pentru dezvoltarea apărării anti-drone**, Bulgaria intenționează să aloce 80 de milioane de euro prin mecanismul european SAFE pentru achiziționarea a 20 de sisteme: zece mobile și zece fixe. Achiziția ar urma să fie realizată împreună cu Spania, iar cele două țări pregătesc un memorandum de înțelegere. Bulgaria participă deja la programul NATO Drone Edge și nu intenționează să se retragă.\n\n• **Pe 6 și 13 octombrie**, patru nave comerciale au fost atacate cu drone în largul coastelor bulgare. În primul atac, Alfa Watan s-a scufundat, zece marinari au fost dați dispăruți, iar nava Able a luat foc; echipajul acesteia a fost salvat, doi membri fiind răniți. Pe 13 octombrie, HS Dignity s-a scufundat, 11 marinari au fost dați dispăruți, iar toți cei 15 membri ai echipajului navei Chelsea-3 au fost salvați. Bulgaria a cerut sprijin internațional pentru supravegherea spațiului aerian și a rutelor maritime.\n\n• **Activarea Articolului 4 al NATO** este luată în calcul de Bulgaria, însă președinta Iliana Iotova a spus că măsura trebuie analizată cu atenție și ar avea o greutate mai mare dacă ar fi solicitată împreună cu alte state. Sofia va sesiza Consiliul de Securitate al ONU și vrea să includă un punct extraordinar despre securitatea maritimă la reuniunea Consiliului European care începe pe 15 octombrie 2026.\n\n• **Nicușor Dan și Iliana Iotova** au convenit, într-o convorbire telefonică, ca România și Bulgaria să colaboreze strâns pentru promovarea unor măsuri mai ferme împotriva dronelor în UE și NATO, în vederea protejării transportului maritim comercial. Bulgaria intenționează să discute propuneri comune și cu România și Turcia. Autoritățile bulgare nu au atribuit oficial atacurile Rusiei, însă premierul Rumen Radev a declarat că rezultatul acestora este în avantajul Moscovei."
+  },
+  {
+    "group_id": "group_84b670e178",
+    "fingerprint": "5dfdca319ed8157fa8190a173e18a656",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Decizia privind intrarea Animawings în insolvență, amânată de instanță. Nume noi pe lista creditorilor",
+        "link": "https://hotnews.ro/decizia-privind-intrarea-animawings-in-insolventa-amanata-de-instanta-nume-noi-pe-lista-creditorilor-2375710"
+      },
+      {
+        "source": "Economedia",
+        "title": "Tribunalul București amână decizia privind insolvența AnimaWings. Banca Transilvania, ROMATSA și mai multe aeroporturi, pe lista creditorilor",
+        "link": "https://economedia.ro/tribunalul-bucuresti-amana-decizia-privind-insolventa-animawings-banca-transilvania-romatsa-si-mai-multe-aeroporturi-pe-lista-creditorilor.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Eșec pentru Animawings în instanță. Cererea de intrare în insolvență, respinsă de tribunal",
+        "link": "https://hotnews.ro/esec-pentru-animawings-in-instanta-cererea-de-intrare-in-insolventa-respinsa-de-tribunal-2375966"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Tribunalul Bucureşti a respins cererea operatorului aerian AnimaWings de deschidere a insolvenţei. Cererile a 25 de creditori, printre care Banca Transilvania, ROMATSA şi mai multe aeroporturi, se judecă separat pe 11 noiembrie",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/tribunalul-bucuresti-respins-cererea-operatorului-aerian-animawings-deschidere-insolventei-cererile-25-creditori-printre-banca-transilvania-romatsa-multe-aeroporturi-judeca-separat-11-noiembrie-23260103"
+      }
+    ],
+    "published_at": 1791988841,
+    "title_hu": "Elutasította az AnimaWings fizetésképtelenségi kérelmét a bukaresti bíróság",
+    "lead_hu": "A bukaresti törvényszék október 14-én elutasította az AnimaWings fizetésképtelenségi eljárásának megindítására vonatkozó kérelmét. A döntés nem jogerős, hét napon belül fellebbezhető; a hitelezők külön kezelt kérelmeit november 11-én tárgyalják.",
+    "content_hu": "• **Október 14-én** a bukaresti törvényszék elutasította az AnimaWings Aviation SA saját fizetésképtelenségi kérelmét. A korábbi, halasztásról szóló értesülést később a bírósági döntés pontosította.\n\n• **A döntés nem jogerős:** a társaság a határozat kézbesítésétől számított hét napon belül fellebbezhet. A bíróság a hitelezők különválasztott kérelmeit november 11-én tárgyalja.\n\n• **A bíróság jogi indoka** a román fizetésképtelenségi törvény 67. cikkének 2. bekezdése volt, amely az adós kérelméhez csatolandó dokumentumokról rendelkezik. A teljes indokolást még nem tették közzé.\n\n• **A társaság egyelőre nem került fizetésképtelenségi eljárás alá:** nem neveztek ki bírósági vagyonfelügyelőt, és a hitelezők követeléseinek érvényesítése, illetve végrehajtási eljárásai sem függtek fel. A hitelezők kérelmeinek helyt adva azonban a cég saját kérelmének elutasítása ellenére is megindulhat az eljárás.\n\n• **A hitelezők között** szerepel a Banca Transilvania, a román légi forgalmi szolgálatot irányító ROMATSA, valamint több repülőtér. A korábban felsoroltak mellett a bukaresti és a kolozsvári repülőtér is szerepel a 25 hitelező kérelmező között; utas-kártérítési igényeket kezelő cégek, például a Skycop és az Air Claim, valamint magánszemélyek is vannak a listán.\n\n• **Négy hitelezőnek** 200 lejes illetéket kell fizetnie, ellenkező esetben kérelmüket elutasíthatják.\n\n• **Október 9-én** a bíróság elutasította a tárgyalási időpont előrehozására irányuló kérelmet.\n\n• **Szeptember 30-án** az AnimaWings kérte a fizetésképtelenségi eljárás megindítását, miután bejelentette, hogy műszaki problémák miatt fokozatosan leállítja a nyolc gépéből hatnak a járatait. Később a fennmaradó két repülőgép járatait is felfüggesztette október végéig.\n\n• **A társaság indoklása szerint** a kérelem célja a bírósági reorganizáció, a működés stabilizálása és a pénzügyi kötelezettségek átstrukturálása.\n\n• **A 2025-ös pénzügyi adatok szerint** az AnimaWings árbevétele 330,8 millió lejre nőtt a 2024-es, mintegy 125 millió lej után, miközben nettó eredménye az 1,9 millió lejes nyereségből 110,7 millió lejes veszteségbe fordult.\n\n• **Egy AnimaWings-gép szeptember 28. óta Londonban áll.** A légitársaság megerősítette a helyzetet, de nem igazolta, hogy azt tartozások ki nem fizetése okozta; közlése szerint a lízingpartnerekkel és az Airbusszal egyeztetnek a gépek műszaki problémáiról.",
+    "title_ro": "Tribunalul București a respins cererea AnimaWings de intrare în insolvență",
+    "lead_ro": "Tribunalul București a respins, pe 14 octombrie, cererea AnimaWings de deschidere a procedurii insolvenței. Hotărârea nu este definitivă și poate fi atacată cu apel în termen de șapte zile de la comunicare; cererile creditorilor, disjunse de instanță, vor fi judecate pe 11 noiembrie.",
+    "content_ro": "• **Pe 14 octombrie**, Tribunalul București a respins cererea proprie a AnimaWings Aviation SA de deschidere a procedurii insolvenței. Informația inițială potrivit căreia pronunțarea fusese amânată a fost ulterior clarificată prin decizia instanței.\n\n• **Hotărârea nu este definitivă:** compania poate face apel în termen de șapte zile de la comunicarea deciziei. Cererile creditorilor, disjunse de instanță, vor fi judecate pe 11 noiembrie.\n\n• **Temeiul juridic invocat de instanță** este art. 67 alin. 2 din Legea insolvenței, care privește documentele ce trebuie depuse de debitor odată cu cererea. Motivarea completă nu a fost încă publicată.\n\n• **Compania nu a intrat deocamdată în insolvență:** nu a fost numit un administrator judiciar, iar acțiunile creditorilor și executările silite nu au fost suspendate. Procedura poate fi totuși deschisă la cererea creditorilor, dacă solicitările acestora vor fi admise, chiar dacă cererea companiei a fost respinsă.\n\n• **Printre creditori** se numără Banca Transilvania, ROMATSA și mai multe aeroporturi. Pe lângă aeroporturile menționate anterior, sunt incluse și aeroporturile din București și Cluj; dosarul cuprinde cererile a 25 de creditori, între care firme care gestionează solicitări de despăgubiri ale pasagerilor, precum Skycop și Air Claim, și persoane fizice.\n\n• **Patru creditori** trebuie să achite o taxă de timbru de 200 de lei, în caz contrar cererile lor putând fi anulate.\n\n• **Pe 9 octombrie**, instanța a respins cererea de preschimbare a termenului de judecată.\n\n• **Pe 30 septembrie**, AnimaWings a solicitat deschiderea procedurii insolvenței, după ce anunțase că, din cauza unor probleme tehnice, suspendă treptat zborurile cu șase dintre cele opt aeronave folosite. Ulterior, compania a suspendat până la finalul lunii octombrie și zborurile operate cu celelalte două avioane.\n\n• **Potrivit companiei**, cererea urmărea reorganizarea judiciară, stabilizarea operațiunilor și restructurarea obligațiilor financiare.\n\n• **Datele financiare pentru 2025** arată că cifra de afaceri a AnimaWings a crescut la 330,8 milioane de lei, de la aproximativ 125 de milioane de lei în 2024, în timp ce compania a trecut de la un profit net de 1,9 milioane de lei la o pierdere netă de 110,7 milioane de lei.\n\n• **O aeronavă AnimaWings este la sol la Londra din 28 septembrie.** Compania a confirmat situația, dar nu a confirmat că aceasta ar fi fost cauzată de neplata unor datorii; operatorul a spus că discută cu partenerii de leasing și cu Airbus despre problemele tehnice ale aeronavelor."
+  },
+  {
+    "group_id": "group_b4afb6f3a1",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/cb07c3c5-7923-4cec-9f68-20d0f8a65557.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Județul din România unde fotbalul a murit! Fără echipă în primele 3 ligi, stadion abandonat",
+        "link": "https://www.gsp.ro/fotbal/liga-3/dacia-unirea-braila-liga-3-stadionul-municipal-988054.html"
+      }
+    ],
+    "published_at": 1791988797,
+    "title_hu": "Județul din România unde fotbalul a murit! Fără echipă în primele 3 ligi, stadion abandonat",
+    "lead_hu": "Fotbalul brăilean traversează cea mai neagră perioadă din istorie. Județul nu are echipă în primele 3 ligi din România, în timp ce stadionul este complet abandonat. Este vorba despre o premieră istori…",
+    "content_hu": "Fotbalul brăilean traversează cea mai neagră perioadă din istorie. Județul nu are echipă în primele 3 ligi din România, în timp ce stadionul este complet abandonat. Este vorba despre o premieră istorică negativă pentru fotbalul din Brăila. Nu s-a mai întâmplat până în acest an ca județul respectiv să nu aibă măcar o reprezentantă în una dintre primele 3 ligi. ...",
+    "title_ro": "Județul din România unde fotbalul a murit! Fără echipă în primele 3 ligi, stadion abandonat",
+    "lead_ro": "Fotbalul brăilean traversează cea mai neagră perioadă din istorie. Județul nu are echipă în primele 3 ligi din România, în timp ce stadionul este complet abandonat. Este vorba despre o premieră istori…",
+    "content_ro": "Fotbalul brăilean traversează cea mai neagră perioadă din istorie. Județul nu are echipă în primele 3 ligi din România, în timp ce stadionul este complet abandonat. Este vorba despre o premieră istorică negativă pentru fotbalul din Brăila. Nu s-a mai întâmplat până în acest an ca județul respectiv să nu aibă măcar o reprezentantă în una dintre primele 3 ligi. ..."
+  },
+  {
+    "group_id": "group_03cc6963b3",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA2dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjAl/MkYwNyUyRjI5JTJGMTIxMTA1N18xMjEx/MDU3X2FjYWRlbWlhLXJvbWFuYS1jbGFk/aXJlLWFnZXJwcmVzXzEzNjM3OTY1Lmpw/ZWcmaGFzaD05YzZlMTA1ODI5OGY3NmI1MTlmODNkMmQxNmFkMDA3MQ==.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Academia Română a ales șapte noi membri de onoare. Printre aceștia se numără regizorul Stere Gulea și laureatul Nobel Randy Schekman",
+        "link": "https://www.digi24.ro/magazin/timp-liber/cultura/academia-romana-a-ales-sapte-noi-membri-de-onoare-printre-acestia-se-numara-regizorul-stere-gulea-si-laureatul-nobel-randy-schekman-3992305"
+      }
+    ],
+    "published_at": 1791988776,
+    "title_hu": "Academia Română a ales șapte noi membri de onoare. Printre aceștia se numără regizorul Stere Gulea și laureatul Nobel Randy Schekman",
+    "lead_hu": "Academia Română a ales șapte noi membri de onoare, în urma votului secret din Adunarea Generală din 14 octombrie. Printre personalitățile desemnate se numără regizorul Stere Gulea, filosoful Adrian-Pa…",
+    "content_hu": "Academia Română a ales șapte noi membri de onoare, în urma votului secret din Adunarea Generală din 14 octombrie. Printre personalitățile desemnate se numără regizorul Stere Gulea, filosoful Adrian-Paul Iliescu și biologul american Randy W. Schekman, laureat al Premiului Nobel pentru Fiziologie sau Medicină în 2013. Lista include și patru personalități din străinătate, cu activitate în matematică, geofizică, științe agricole și muzică.",
+    "title_ro": "Academia Română a ales șapte noi membri de onoare. Printre aceștia se numără regizorul Stere Gulea și laureatul Nobel Randy Schekman",
+    "lead_ro": "Academia Română a ales șapte noi membri de onoare, în urma votului secret din Adunarea Generală din 14 octombrie. Printre personalitățile desemnate se numără regizorul Stere Gulea, filosoful Adrian-Pa…",
+    "content_ro": "Academia Română a ales șapte noi membri de onoare, în urma votului secret din Adunarea Generală din 14 octombrie. Printre personalitățile desemnate se numără regizorul Stere Gulea, filosoful Adrian-Paul Iliescu și biologul american Randy W. Schekman, laureat al Premiului Nobel pentru Fiziologie sau Medicină în 2013. Lista include și patru personalități din străinătate, cu activitate în matematică, geofizică, științe agricole și muzică."
+  },
+  {
+    "group_id": "group_f9820d0d8d",
+    "category": "Gazdaság",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8160573-mediafax_foto-valentina_sarosi-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Noi acuzații la adresa ANM. Buzoianu susține că Elena Mateescu „știa clar” din anul 2025 de achizițiile ilegale",
+        "link": "https://www.mediafax.ro/stirile-zilei/noi-acuzatii-la-adresa-anm-buzoianu-sustine-ca-elena-mateescu-stia-clar-din-anul-2025-de-achizitiile-ilegale-23825385"
+      }
+    ],
+    "published_at": 1791988760,
+    "title_hu": "Noi acuzații la adresa ANM. Buzoianu susține că Elena Mateescu „știa clar” din anul 2025 de achizițiile ilegale",
+    "lead_hu": "Ministra interimară a Mediului, Diana Buzoianu, afirmă că Elena Mateescu „știa clar” despre achizițiile ilegale realizate din bani publici la ANM încă de anul trecut. Buzoianu spune că a primit un mai…",
+    "content_hu": "Ministra interimară a Mediului, Diana Buzoianu, afirmă că Elena Mateescu „știa clar” despre achizițiile ilegale realizate din bani publici la ANM încă de anul trecut. Buzoianu spune că a primit un mail la Ministerul Mediului, transmis către angajații ANM în noiembrie 2025, care menționa expres achizițiile.",
+    "title_ro": "Noi acuzații la adresa ANM. Buzoianu susține că Elena Mateescu „știa clar” din anul 2025 de achizițiile ilegale",
+    "lead_ro": "Ministra interimară a Mediului, Diana Buzoianu, afirmă că Elena Mateescu „știa clar” despre achizițiile ilegale realizate din bani publici la ANM încă de anul trecut. Buzoianu spune că a primit un mai…",
+    "content_ro": "Ministra interimară a Mediului, Diana Buzoianu, afirmă că Elena Mateescu „știa clar” despre achizițiile ilegale realizate din bani publici la ANM încă de anul trecut. Buzoianu spune că a primit un mail la Ministerul Mediului, transmis către angajații ANM în noiembrie 2025, care menționa expres achizițiile."
+  },
+  {
+    "group_id": "group_746ea01c03",
+    "fingerprint": "81703ebda2c1a5f11d9d22e5c36040d1",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "SURSE: Lideri din PSD iau în calcul să ceară intrarea partidului în guvernul Luca Niculescu cu 9 miniștri la ministerele cu bugete mari și la Justiție / Sorin Grindeanu vrea să evite intrarea în guvern",
+        "link": "https://www.g4media.ro/surse-lideri-din-psd-iau-in-calcul-sa-ceara-intrarea-partidului-in-guvernul-luca-niculescu-cu-9-ministri-la-ministerele-cu-bugete-mari-si-la-justitie-sorin-grindeanu-vrea-sa-evite-intrarea-in-guver.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Culisele social-democrate: PSD e împărțit în două. Fiecare tabără vrea să voteze un guvern: frica de răspundere și dorința de putere",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/surpriza-in-negocierile-pentru-noul-guvern-psd-ar-accepta-ministri-tehnocrati-iar-pnl-si-udmr-ar-urma-sa-voteze-cabinetul-3990801"
+      },
+      {
+        "source": "Maszol",
+        "title": "Fordulat jöhet, a PSD is hajlik a patthelyzet feloldására",
+        "link": "https://maszol.ro/belfold/Fordulat-johet-a-PSD-is-hajlik-a-patthelyzet-feloldasara"
+      },
+      {
+        "source": "Mediafax",
+        "title": "What a Luca Niculescu-led government might look like if the PSD decides to join the administration",
+        "link": "https://www.mediafax.ro/english/what-a-luca-niculescu-led-government-might-look-like-if-the-psd-decides-to-join-the-administration-23825171"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Guvernul Luca Niculescu ar putea fi cel mai dominat de PSD de la era Dragnea. Social-democrații ar urma să controleze aproape două treimi dintre ministere",
+        "link": "https://www.mediafax.ro/stirile-zilei/guvernul-luca-niculescu-ar-putea-fi-cel-mai-dominat-de-psd-de-la-era-dragnea-social-democratii-ar-urma-sa-controleze-aproape-doua-treimi-dintre-ministere-23825237"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ședința decisivă a PSD pentru intrarea la guvernare a început la Vila Lac. Se conturează cel mai puternic Guvern PSD de la era Dragnea",
+        "link": "https://www.mediafax.ro/politic/sedinta-decisiva-a-psd-pentru-intrarea-la-guvernare-a-inceput-la-vila-lac-se-contureaza-cel-mai-puternic-guvern-psd-de-la-era-dragnea-23824950"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
+        "link": "https://www.g4media.ro/breaking-psd-a-decis-sa-intre-in-guvernul-luca-niculescu-surse.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "PSD a decis să intre la guvernare. Conducerea partidului a stabilit și lista de miniștri în Guvernul Luca Niculescu",
+        "link": "https://hotnews.ro/psd-a-decis-sa-intre-la-guvernare-conducerea-partidului-a-stabilit-si-lista-de-ministri-2376053"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PSD a decis să intre în Guvernul Luca Niculescu. PSD a votat lista celor 11 miniștri pentru Guvernul Luca Niculescu. Marian Neacșu, vicepremier și ministru de Interne.",
+        "link": "https://www.mediafax.ro/politic/psd-a-decis-sa-intre-in-guvernul-luca-niculescu-psd-a-votat-lista-celor-11-ministri-pentru-guvernul-luca-niculescu-marian-neacsu-vicepremier-si-ministru-de-interne-23824950"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "SURSE: PSD va susține guvernul Luca Niculescu. Lista miniștrilor care vor face parte din noul Executiv",
+        "link": "https://stirileprotv.ro/stiri/politic/surse-psd-va-sustine-guvernul-luca-niculescu-lista-ministrilor-care-vor-face-parte-din-noul-executiv.html"
+      }
+    ],
+    "published_at": 1791988549,
+    "title_hu": "A PSD miniszterekkel lép be a Niculescu-kormányba",
+    "lead_hu": "A PSD vezetősége október 14-én úgy döntött, hogy miniszterekkel vesz részt a Luca Niculescu vezette kormányban; a részvételről szóló döntést nyolcan tartózkodásával, köztük Sorin Grindeanu pártelnökével fogadták el. A párt 11-et szerezhet meg a tervezett 17 tárcából, a kabinet beiktatását pedig a PNL és az RMDSZ is támogatja, miközben ellenzékben maradnak. A miniszterjelöltek listája és a kormányprogram parlamenti jóváhagyása még hátravan.",
+    "content_hu": "• **Október 14-én döntött a PSD vezetősége** arról, hogy miniszterekkel belép a Luca Niculescu vezette kormányba. A részvételről szóló döntést csaknem egyhangúlag támogatták: nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök; a kormány támogatásáról szóló szavazás a beszámolók szerint egyhangú volt.\n\n• **Grindeanu a kormányzás mellett érvelt**, és azt mondta: a PSD úgy csökkentheti az AUR támogatottságát, ha jól kormányoz; pusztán hangos bírálatokkal nem győzheti le a pártot. Korábban ugyanakkor óvott attól, hogy a PSD más pártok tényleges kormányzati részvétele nélkül vállaljon felelősséget, mert ez választási szempontból sebezhetővé teheti.\n\n• **A kabinet vegyes összetételű lesz:** PSD-s politikusok mellett technokraták, illetve Nicușor Dan államfő által támogatott jelöltek kaphatnak helyet. Luca Niculescu korábban politikai, vegyes vagy technokrata kormányalakítási lehetőséget is mérlegelt.\n\n• **A PSD a tervezett 17 tárcából 11-et ellenőrizhet közvetlenül vagy közvetve**, ami 64,7 százalékos arány. A korábbi egyeztetéseken egyes vezetők kilenc tárcát kértek, köztük a közlekedési, mezőgazdasági, egészségügyi, környezetvédelmi és igazságügyi minisztériumot; a 11 tárcás arányról szóló értesülés még nem jelent végleges, hivatalosan közölt felosztást.\n\n• **A PSD által jóváhagyott jelöltek között Marian Neacșu, Alexandru Rogobete és Florin Barbu neve szerepel:** Neacșu a belügyminiszteri és miniszterelnök-helyettesi, Rogobete az egészségügyi, Barbu a mezőgazdasági posztra kaphat jelölést. A sajtó további lehetséges PSD-s jelöltként említi Florin Manolét a munkaügy, Radu Marinescut az igazságügy élére; több tárca és név még egyeztetés alatt áll.\n\n• **A Nicușor Dan által támogatott jelöltek stratégiai tárcákat kaphatnak.** A pénzügyminiszteri posztra Alexandru Nazare, az oktatásira Sorin Costreie, a külügy élére Dan Neculăescu neve merült fel; a védelmi és az európai uniós alapokért felelős tárca jelöltje még nem végleges.\n\n• **A PSD hat hónap után értékeli a kormány munkáját**, és a párt a miniszterjelölteken túl intézkedéseket is kér Niculescutól. A sajtóértesülések szerint ezek között szerepelnek egyes juttatások indexálása, valamint a CASS-fizetési kötelezettség eltörlése több kedvezményezetti csoport, köztük az anyák és a veteránok esetében; a teljes lista és a költségvetési hatás nem ismert.\n\n• **A PNL parlamenti frakciói megszavazzák a Niculescu-kormányt**, de a párt Ilie Bolojan vezetésével ellenzékben marad. A liberálisok külön megállapodást kötnének a miniszterelnök-jelölttel a kormányzati célok támogatásáról, és vállalnák, hogy 2027 áprilisáig nem kezdeményeznek vagy támogatnak bizalmatlansági indítványt, ha a kabinet teljesíti a megállapodás feltételeit.\n\n• **Az RMDSZ szintén támogatja a kormányt és programját**, függetlenül attól, hogy technokrata vagy a PSD köré szerveződő kabinet alakul. Kelemen Hunor szerint a szövetség támogatási megállapodást is kész aláírni, és azt szeretné, hogy a kormány pénteken vagy legkésőbb hétfőn teljes jogkörrel működjön.\n\n• **Az USR nem szavaz meg PSD-minisztereket tartalmazó kormányt**, és olyan kabinetet sem támogat, amely mögött nem világos a parlamenti többség. Az AUR szintén elutasítja a kormány támogatását; a nemzeti kisebbségek frakciója korábban támogatást ígért.\n\n• **A kormány beiktatásához 233 szavazat szükséges.** A PNL-nek és az RMDSZ-nek együtt 111 képviselője van, az USR-rel együtt 170; a PSD 127 képviselővel rendelkezik. A PSD részvétele és a PNL, illetve az RMDSZ támogatása javítja a beiktatás esélyét, de a parlamenti szavazás még nem történt meg.\n\n• **Nicușor Dan a sajtóértesülések szerint előrehozott választással fenyegetett:** ha nem születik átlátható megállapodás Niculescu kormányának támogatásáról, kezdeményezheti a parlament feloszlatását. Grindeanu szerint a PSD erre az alkotmányos, de nem kívánatos lehetőségre is készül.\n\n• **Niculescu október 15-én nyújtja be a kormányprogramot és a miniszterjelöltek listáját.** A beszámolók szerint a parlamenti bizalmi szavazást október 16-ára tervezik, de a kormány összetételének véglegesítése és a szavazás még hátravan.\n\n• **A tervezett PSD-s tárcaarány történelmi összevetésben is magas lenne.** A párt 2024-ben a képviselőházi választáson 21,96 százalékot szerzett, míg 2016-ban 45,47 százalékot; a Grindeanu-, Tudose- és Dăncilă-kormányokban a PSD tárcaaránya 80 százalék fölött volt. A most emlegetett, akár 64,7 százalékos arány még nem végleges, és az adatok nem teljesen összehasonlíthatók.",
+    "title_ro": "PSD intră cu miniștri în Guvernul Niculescu",
+    "lead_ro": "Conducerea PSD a decis, pe 14 octombrie, ca partidul să participe cu miniștri la Guvernul condus de Luca Niculescu; decizia a fost adoptată aproape în unanimitate, cu opt abțineri, inclusiv cea a președintelui Sorin Grindeanu. PSD ar putea controla 11 dintre cele 17 ministere, iar PNL și UDMR au anunțat că vor vota învestirea Guvernului, deși vor rămâne în opoziție. Lista finală a miniștrilor și programul de guvernare urmează să fie depuse în Parlament.",
+    "content_ro": "• **Conducerea PSD a decis pe 14 octombrie** ca partidul să intre cu miniștri în Guvernul condus de Luca Niculescu. Decizia privind participarea a fost adoptată aproape în unanimitate: au fost opt abțineri, inclusiv cea a președintelui Sorin Grindeanu; potrivit relatărilor, susținerea Guvernului a fost votată în unanimitate.\n\n• **Grindeanu a susținut participarea la guvernare**, afirmând că PSD poate reduce sprijinul pentru AUR dacă guvernează bine și că simplele critici zgomotoase nu sunt suficiente. Anterior, el avertizase însă că asumarea guvernării fără participarea efectivă a altor partide ar putea vulnerabiliza electoral PSD.\n\n• **Cabinetul va avea o componență mixtă:** pe lângă politicieni PSD, ar urma să intre tehnocrați și persoane agreate de președintele Nicușor Dan. Luca Niculescu luase în calcul atât un guvern politic, cât și unul mixt sau tehnocrat.\n\n• **PSD ar putea controla direct sau indirect 11 dintre cele 17 ministere**, adică 64,7%. În negocierile anterioare, unii lideri au cerut nouă portofolii, între care Transporturile, Agricultura, Sănătatea, Mediul și Justiția; cifra de 11 nu reprezintă încă o împărțire finală anunțată oficial.\n\n• **Printre nominalizările PSD aprobate se numără Marian Neacșu, Alexandru Rogobete și Florin Barbu:** Neacșu ar putea deveni ministru de Interne și vicepremier, Rogobete ar urma să preia Sănătatea, iar Barbu Agricultura. Presa îi menționează și pe Florin Manole pentru Muncă și Radu Marinescu pentru Justiție; mai multe portofolii și nume sunt încă negociate.\n\n• **Persoanele agreate de Nicușor Dan ar putea primi portofolii strategice.** Pentru Finanțe este vehiculat Alexandru Nazare, pentru Educație Sorin Costreie, iar pentru Externe Dan Neculăescu; nominalizările pentru Apărare și fonduri europene nu sunt încă definitive.\n\n• **PSD va evalua activitatea Guvernului după șase luni** și a votat și un set de solicitări adresate lui Niculescu. Potrivit informațiilor de presă, acestea ar include indexări ale unor beneficii și eliminarea obligației de plată a CASS pentru mai multe categorii, între care mamele și veteranii; lista completă și impactul bugetar nu au fost făcute publice.\n\n• **Grupurile parlamentare PNL vor vota Guvernul Niculescu**, dar partidul condus de Ilie Bolojan va rămâne în opoziție. Liberalii propun un acord separat cu premierul desemnat pentru susținerea obiectivelor guvernamentale și s-ar angaja să nu inițieze sau să voteze moțiuni de cenzură până în aprilie 2027, dacă Executivul respectă condițiile acordului.\n\n• **UDMR va susține Guvernul și programul său**, indiferent dacă va fi tehnocrat sau format în jurul PSD. Kelemen Hunor a spus că Uniunea este gata să semneze și un acord de susținere și dorește ca Executivul să aibă puteri depline vineri sau cel târziu luni.\n\n• **USR nu va vota un guvern cu miniștri PSD** și nici un cabinet fără o majoritate parlamentară clară. AUR respinge, de asemenea, susținerea Guvernului; grupul minorităților naționale promisese anterior că va vota învestirea.\n\n• **Pentru învestirea Guvernului sunt necesare 233 de voturi.** PNL și UDMR au împreună 111 deputați, iar alături de USR totalul ajunge la 170; PSD are 127 de deputați. Participarea PSD și sprijinul PNL și UDMR sporesc șansele învestirii, însă votul parlamentar nu a avut încă loc.\n\n• **Potrivit informațiilor de presă, Nicușor Dan a amenințat cu alegeri anticipate:** dacă nu se ajunge la un acord transparent privind susținerea Guvernului Niculescu, ar putea iniția dizolvarea Parlamentului. Grindeanu a spus că PSD se pregătește și pentru acest scenariu constituțional, deși nedorit.\n\n• **Niculescu urmează să depună programul de guvernare și lista miniștrilor pe 15 octombrie.** Relatările indică faptul că votul de învestitură ar putea avea loc pe 16 octombrie, dar componența finală a Guvernului și votul sunt încă în așteptare.\n\n• **Ponderea planificată a PSD în Cabinet ar fi ridicată și în comparație istorică.** Partidul a obținut 21,96% la alegerile pentru Camera Deputaților din 2024, față de 45,47% în 2016; în guvernele Grindeanu, Tudose și Dăncilă, ponderea PSD în ministere a depășit 80%. Procentul de până la 64,7% vehiculat pentru noul Cabinet nu este definitiv, iar cifrele nu sunt pe deplin comparabile."
+  },
+  {
+    "group_id": "group_7937537b25",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/05102026/3e77da4b-0f5e-486a-8d22-39b2bb54eba8.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "21 de meciuri fără spectatori, după bătaia șocantă petrecută sub ochii tinerelor sportive",
+        "link": "https://www.gsp.ro/sporturi/handbal/sanctiuni-scandal-handbal-lps-banatul-millenium-giarmata-988059.html"
+      }
+    ],
+    "published_at": 1791988490,
+    "title_hu": "21 de meciuri fără spectatori, după bătaia șocantă petrecută sub ochii tinerelor sportive",
+    "lead_hu": "În urma ședinței Comisiei de Disciplină a FRH au fost stabilite sancțiunile după scandalul din timpul partidei de handbal feminin, categoria Junioare 3, dintre LPS Banatul și Millenium Giarmata, scor …",
+    "content_hu": "În urma ședinței Comisiei de Disciplină a FRH au fost stabilite sancțiunile după scandalul din timpul partidei de handbal feminin, categoria Junioare 3, dintre LPS Banatul și Millenium Giarmata, scor 18-28. CONTEXT: Pe 4 octombrie, în Sala „Constantin Jude” din Timișoara a avut loc duelul dintre LPS Banatul și Millenium Giarmata, formații cu o rivalitate puternică. ...",
+    "title_ro": "21 de meciuri fără spectatori, după bătaia șocantă petrecută sub ochii tinerelor sportive",
+    "lead_ro": "În urma ședinței Comisiei de Disciplină a FRH au fost stabilite sancțiunile după scandalul din timpul partidei de handbal feminin, categoria Junioare 3, dintre LPS Banatul și Millenium Giarmata, scor …",
+    "content_ro": "În urma ședinței Comisiei de Disciplină a FRH au fost stabilite sancțiunile după scandalul din timpul partidei de handbal feminin, categoria Junioare 3, dintre LPS Banatul și Millenium Giarmata, scor 18-28. CONTEXT: Pe 4 octombrie, în Sala „Constantin Jude” din Timișoara a avut loc duelul dintre LPS Banatul și Millenium Giarmata, formații cu o rivalitate puternică. ..."
+  },
+  {
+    "group_id": "group_4aaee40b9f",
+    "fingerprint": "b115236d6752fbaa9eaa0ab52b5fb2fa",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/6f1319d9-1df2-45e3-a878-61078cc81e62.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„O echipă care cunoaște ritmul Europei și gustul victoriei”. Cum este descrisă U-BT Cluj de adversarii din Lituania",
+        "link": "https://www.mediafax.ro/sport/o-echipa-care-cunoaste-ritmul-europei-si-gustul-victoriei-cum-este-descrisa-u-bt-cluj-de-adversarii-din-lituania-23825023"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Siauliai - U-BT Cluj-Napoca, în etapa a 3-a a EuroCup! Călătorie cu peripeții spre Lituania pentru campioana României",
+        "link": "https://www.gsp.ro/sporturi/baschet/siauliai-u-bt-cluj-napoca-etapa-3-eurocup-988062.html"
+      }
+    ],
+    "published_at": 1791988411,
+    "title_hu": "Nehéz idegenbeli EuroCup-meccs vár az U-BT Clujra Šiauliaiban",
+    "lead_hu": "Az U-BT Cluj-Napoca október 14-én a BC Šiauliai otthonában lép pályára az EuroCup csoportkörének harmadik fordulójában, és második győzelméért küzd. A csapat varsói járatkésése miatt lekéste a rigai csatlakozást, így csak hajnali három után érkezett meg a szállodájába.",
+    "content_hu": "• **Október 14-én** az U-BT Cluj-Napoca a BC Šiauliai vendégeként játszik az EuroCup harmadik fordulójában; a mérkőzés romániai idő szerint 18:30-kor kezdődik.\n\n• **A kolozsvári csapat** az első fordulóban 55–89-re kikapott a Maxima Romától, majd 98–92-re legyőzte az Umana Reyer Veneziát. A Šiauliai mérlege szintén egy győzelem és egy vereség: a litván csapat a London Lions ellen 74–71-re nyert, a Skyliners Frankfurtól pedig 79–71-re kapott ki.\n\n• **A kolozsváriak utazása** a varsói járat késése miatt nehézkessé vált: lemaradtak a rigai csatlakozásról, és a következő géppel utaztak tovább. A csapat hajnali három után ért a šiauliai szállodába, ami kérdéseket vetett fel a játékosok mérkőzésnapi energiaszintjével kapcsolatban.\n\n• **Mihai Silvășan vezetőedző** szerint a litván csapatok fegyelmezetten és jól kosárlabdáznak, az U-BT célja pedig a győzelem. A keretből Dušan Beslać hiányzik; a többi játékos bevethető.\n\n• **A Šiauliai szakmai stábja** az U-BT-t kiegyensúlyozott csapatként jellemezte, és kiemelte Kristian Kullamäe szerepét, valamint a kolozsváriak magas centereinek veszélyességét. A litván együttes négy olyan játékost is foglalkoztat, aki korábban a román bajnokságban szerepelt.",
+    "title_ro": "U-BT Cluj se pregătește pentru un meci dificil în deplasare, la Šiauliai",
+    "lead_ro": "U-BT Cluj-Napoca joacă pe 14 octombrie în deplasare cu BC Šiauliai, în etapa a treia din EuroCup, și caută a doua victorie în grupă. O întârziere a zborului spre Varșovia a făcut echipa să piardă legătura către Riga, astfel că a ajuns la hotel după ora 3 dimineața.",
+    "content_ro": "• **Pe 14 octombrie**, U-BT Cluj-Napoca întâlnește BC Šiauliai în deplasare, în etapa a treia din EuroCup; partida începe la ora 18:30, ora României.\n\n• **Echipa clujeană** a pierdut cu 55-89 în fața Maximei Roma în prima etapă, apoi a învins-o pe Umana Reyer Veneția cu 98-92. Șiauliai are, de asemenea, o victorie și o înfrângere: a câștigat cu 74-71 în fața lui London Lions și a pierdut cu 71-79 în fața lui Skyliners Frankfurt.\n\n• **Deplasarea clujenilor** a fost complicată de întârzierea zborului spre Varșovia, din cauza căreia au pierdut legătura către Riga. Au continuat călătoria cu următorul zbor și au ajuns la hotelul din Šiauliai după ora 3 dimineața, ceea ce a ridicat semne de întrebare privind nivelul lor de energie pentru meci.\n\n• **Antrenorul principal Mihai Silvășan** a spus că echipele lituaniene sunt disciplinate și știu să joace baschet, iar obiectivul lui U-BT este victoria. Dušan Beslać este singurul jucător indisponibil; restul lotului este apt de joc.\n\n• **Stafful lui Šiauliai** a descris U-BT drept o echipă echilibrată și a remarcat rolul lui Kristian Kullamäe, precum și pericolul reprezentat de pivoții înalți ai clujenilor. Formația lituaniană are în lot și patru jucători care au evoluat anterior în campionatul României."
+  },
+  {
+    "group_id": "group_65672d528d",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/12/rq8zozo-x_k.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "1.000 dintre angajaţii Netflix vor fi concediați, pe fondul problemelor cu care se confruntă gigantul de streaming pe piața media",
+        "link": "https://www.g4media.ro/1-000-dintre-angajatii-netflix-vor-fi-concediati-pe-fondul-problemelor-cu-care-se-confrunta-gigantul-de-streaming-pe-piata-media.html"
+      }
+    ],
+    "published_at": 1791988339,
+    "title_hu": "1.000 dintre angajaţii Netflix vor fi concediați, pe fondul problemelor cu care se confruntă gigantul de streaming pe piața media",
+    "lead_hu": "Gigantul american de streaming Netflix urmează să disponibilizeze aproximativ 6% din forţa sa de muncă, adică în jur de 1.000 de locuri de muncă, în cadrul celei mai ample runde de disponibilizări de …",
+    "content_hu": "Gigantul american de streaming Netflix urmează să disponibilizeze aproximativ 6% din forţa sa de muncă, adică în jur de 1.000 de locuri de muncă, în cadrul celei mai ample runde de disponibilizări de după 2022, a relatat miercuri cotidianul financiar Wall Street Journal, citând un e-mail transmis angajaţilor companiei, transmite Agerpres. Disponibilizările vin în contextul […] © G4Media.ro.",
+    "title_ro": "1.000 dintre angajaţii Netflix vor fi concediați, pe fondul problemelor cu care se confruntă gigantul de streaming pe piața media",
+    "lead_ro": "Gigantul american de streaming Netflix urmează să disponibilizeze aproximativ 6% din forţa sa de muncă, adică în jur de 1.000 de locuri de muncă, în cadrul celei mai ample runde de disponibilizări de …",
+    "content_ro": "Gigantul american de streaming Netflix urmează să disponibilizeze aproximativ 6% din forţa sa de muncă, adică în jur de 1.000 de locuri de muncă, în cadrul celei mai ample runde de disponibilizări de după 2022, a relatat miercuri cotidianul financiar Wall Street Journal, citând un e-mail transmis angajaţilor companiei, transmite Agerpres. Disponibilizările vin în contextul […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_a07efd8fd7",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-marcel-insula-ispita.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Fosta ispită de la Insula Iubirii, Anca Zoțoiu, face dezvăluiri de senzație despre soțul Arminei: „Am avut o relație cu Marcel”",
+        "link": "https://www.cancan.ro/fosta-ispita-de-la-insula-iubirii-anca-zotoiu-face-dezvaluiri-de-senzatie-despre-sotul-arminei-am-avut-o-relatie-cu-marcel-21530050"
+      }
+    ],
+    "published_at": 1791988284,
+    "title_hu": "Fosta ispită de la Insula Iubirii, Anca Zoțoiu, face dezvăluiri de senzație despre soțul Arminei: „Am avut o relație cu Marcel”",
+    "lead_hu": "Invitată în platoul emisiunii CANCAN pe insulă, fosta ispită de la Insula Iubirii, Anca Zoțoiu, a făcut dezvăluiri de senzație. Nimeni nu știa faptul că între ea și Marcel a existat o relație de scurt…",
+    "content_hu": "Invitată în platoul emisiunii CANCAN pe insulă, fosta ispită de la Insula Iubirii, Anca Zoțoiu, a făcut dezvăluiri de senzație. Nimeni nu știa faptul că între ea și Marcel a existat o relație de scurtă durată, imediat după sezonul 8 al emisiunii de la Antena 1. Chiar dacă relația dintre cei doi a durat puțin, […]",
+    "title_ro": "Fosta ispită de la Insula Iubirii, Anca Zoțoiu, face dezvăluiri de senzație despre soțul Arminei: „Am avut o relație cu Marcel”",
+    "lead_ro": "Invitată în platoul emisiunii CANCAN pe insulă, fosta ispită de la Insula Iubirii, Anca Zoțoiu, a făcut dezvăluiri de senzație. Nimeni nu știa faptul că între ea și Marcel a existat o relație de scurt…",
+    "content_ro": "Invitată în platoul emisiunii CANCAN pe insulă, fosta ispită de la Insula Iubirii, Anca Zoțoiu, a făcut dezvăluiri de senzație. Nimeni nu știa faptul că între ea și Marcel a existat o relație de scurtă durată, imediat după sezonul 8 al emisiunii de la Antena 1. Chiar dacă relația dintre cei doi a durat puțin, […]"
+  },
+  {
     "group_id": "group_bb0d685444",
     "fingerprint": "fdd54676477f80ac80c64bb3274cd5a6",
     "category": "Erdély",
@@ -144,97 +667,6 @@
     "title_ro": "„Un guvern Nicușor Dan-Sorin Grindeanu”. Ludovic Orban: Președintele pune presiune pe parlamentarii indeciși să voteze",
     "lead_ro": "Fostul premier Ludovic Orban a declarat, miercuri, la Digi24, că un Executiv cu PSD prezent în ministere va fi un guvern în care Luca Niculescu „va juca cum dictează PSD”. Fostul președinte PNL consid…",
     "content_ro": "Fostul premier Ludovic Orban a declarat, miercuri, la Digi24, că un Executiv cu PSD prezent în ministere va fi un guvern în care Luca Niculescu „va juca cum dictează PSD”. Fostul președinte PNL consideră că Luca Niculescu nu este capabil să-și respecte acordul cu PNL. Orban susține că va fi un guvern „Nicușor Dan-Sorin Grindeanu, exact ce și-a dorit Nicușor Dan, să aibă un guvern în care să fie doar PSD și miniștrii lui, un premier care să aibă el garanția că îl va asculta pe Nicușor Dan”. Fostul consilier prezidențial al lui Nicușor Dan critică informația dată pe surse de șeful statului privind dizolvarea Parlamentului, pentru a pune presiune pe parlamentarii indeciși să voteze „guvernul pe care și-l dorește”."
-  },
-  {
-    "group_id": "group_746ea01c03",
-    "fingerprint": "cdfcc8d84f23d3b6fc6dbe9d18da9675",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Surse: PSD intră la guvernare alături de miniștri tehnocrați propuși de Nicușor Dan. PNL și UDMR ar urma să voteze Guvernul Niculescu",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/negocieri-contracronometru-cum-va-arata-guvernul-niculescu-surse-psd-isi-poate-asuma-guvernarea-cu-voturile-pnl-si-udmr-3989715"
-      },
-      {
-        "source": "Mediafax",
-        "title": "SURSE: Se conturează un Guvern PSD–Niculescu, cu trei ministere pentru oamenii lui Nicușor Dan. Pact cu Bolojan și UDMR pentru supraviețuirea Cabinetului până în aprilie. Decizia, la PSD",
-        "link": "https://www.mediafax.ro/politic/surse-se-contureaza-un-guvern-psd-niculescu-cu-trei-ministere-pentru-oamenii-lui-nicusor-dan-pact-cu-bolojan-si-udmr-pentru-supravietuirea-cabinetului-pana-in-aprilie-decizia-la-psd-23824658"
-      },
-      {
-        "source": "G4Media",
-        "title": "SURSE: Lideri din PSD iau în calcul să ceară intrarea partidului în guvernul Luca Niculescu cu 9 miniștri la ministerele cu bugete mari și la Justiție / Sorin Grindeanu vrea să evite intrarea în guvern",
-        "link": "https://www.g4media.ro/surse-lideri-din-psd-iau-in-calcul-sa-ceara-intrarea-partidului-in-guvernul-luca-niculescu-cu-9-ministri-la-ministerele-cu-bugete-mari-si-la-justitie-sorin-grindeanu-vrea-sa-evite-intrarea-in-guver.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Culisele social-democrate: PSD e împărțit în două. Fiecare tabără vrea să voteze un guvern: frica de răspundere și dorința de putere",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/surpriza-in-negocierile-pentru-noul-guvern-psd-ar-accepta-ministri-tehnocrati-iar-pnl-si-udmr-ar-urma-sa-voteze-cabinetul-3990801"
-      },
-      {
-        "source": "Mediafax",
-        "title": "What a Luca Niculescu-led government might look like if the PSD decides to join the administration",
-        "link": "https://www.mediafax.ro/english/what-a-luca-niculescu-led-government-might-look-like-if-the-psd-decides-to-join-the-administration-23825171"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Guvernul Luca Niculescu ar putea fi cel mai dominat de PSD de la era Dragnea. Social-democrații ar urma să controleze aproape două treimi dintre ministere",
-        "link": "https://www.mediafax.ro/stirile-zilei/guvernul-luca-niculescu-ar-putea-fi-cel-mai-dominat-de-psd-de-la-era-dragnea-social-democratii-ar-urma-sa-controleze-aproape-doua-treimi-dintre-ministere-23825237"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ședința decisivă a PSD pentru intrarea la guvernare a început la Vila Lac. Se conturează cel mai puternic Guvern PSD de la era Dragnea",
-        "link": "https://www.mediafax.ro/politic/sedinta-decisiva-a-psd-pentru-intrarea-la-guvernare-a-inceput-la-vila-lac-se-contureaza-cel-mai-puternic-guvern-psd-de-la-era-dragnea-23824950"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
-        "link": "https://www.g4media.ro/breaking-psd-a-decis-sa-intre-in-guvernul-luca-niculescu-surse.html"
-      }
-    ],
-    "published_at": 1791987962,
-    "title_hu": "A PSD megszavazta, hogy miniszterekkel belépjen a Niculescu-kormányba",
-    "lead_hu": "A PSD szerdai vezetőségi ülésén úgy döntött, hogy miniszterekkel részt vesz a Luca Niculescu vezette kormányban; a döntést csaknem egyhangúlag támogatták, Sorin Grindeanu is tartózkodott. A tervezett kabinet vegyes összetételű lehet, PSD-s politikusokkal, technokratákkal és Nicușor Dan államfő által támogatott jelöltekkel. A PNL és az RMDSZ miniszterek nélkül szavazná meg a kormányt, az USR viszont ellenzi a PSD-miniszterek részvételét.",
-    "content_hu": "• **Október 14-én, szerdán döntött a PSD vezetősége** arról, hogy miniszterekkel belép a Luca Niculescu vezette kormányba. A G4Media értesülése szerint a döntés csaknem egyhangú volt: nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök.\n\n• **Grindeanu a kormányzás mellett érvelt**, és azt mondta: a PSD úgy csökkentheti az AUR támogatottságát, ha jól kormányoz; pusztán hangos bírálatokkal nem győzheti le a pártot.\n\n• **A tervezett kabinet hibrid összetételű lehet:** PSD-s politikusok mellett technokraták, illetve Nicușor Dan államfő és Luca Niculescu által támogatott jelöltek kaphatnak helyet benne. A miniszterelnök-jelölt korábban azt mondta, politikai, vegyes vagy technokrata kormányalakítást is mérlegel.\n\n• **A PSD jelentős tárcatöbbségre törekszik, de a felosztás még nem végleges.** Egyes vezetők kilenc miniszteri posztot kérnének, többek között a közlekedési, mezőgazdasági, egészségügyi, környezetvédelmi és igazságügyi tárcát. A Mediafax szerint a párt közvetlenül vagy közvetve akár 17 minisztériumból 11-et is ellenőrizhetne.\n\n• **A PSD lehetséges miniszterjelöltjei között** szerepel Marian Neacșu a belügy, Alexandru Rogobete az egészségügy, Florin Manole a munkaügy, Florin Barbu a mezőgazdaság és Radu Marinescu az igazságügy élére. A közlekedési, gazdasági és fejlesztési tárcák jelöltjeiről, illetve elosztásáról továbbra is egyeztetnek.\n\n• **Nicușor Dan támogatottjai stratégiai tárcákat kaphatnak.** A pénzügyminiszteri posztra Alexandru Nazare, az oktatásira Sorin Costreie, a külügy élére Dan Neculăescu neve merült fel; a védelmi és az európai uniós alapokért felelős tárca jelöltje még nem végleges.\n\n• **A PNL és az RMDSZ miniszterek nélkül támogatná a kormányt.** Ilie Bolojan közölte, hogy a liberálisok ellenzékben maradnak, de külön megállapodást kötnének Niculescuval a kabinet beiktatásáról és a kormányzati célok támogatásáról. Kelemen Hunor szerint az RMDSZ a kormány összetételétől függetlenül megszavazza a kabinetet és programját.\n\n• **A PNL hat hónapos támogatási vállalást ajánlott.** Bolojan szerint a liberálisok 2027 áprilisáig nem kezdeményeznek és nem támogatnak bizalmatlansági indítványt, ha a kormány teljesíti a megállapodásban rögzített feltételeket. A tárgyalt formula kizárná a Bolojan pártvezetését bíráló liberálisok kormányzati szerepvállalását.\n\n• **Az USR nem szavaz meg PSD-minisztereket tartalmazó kormányt**, és olyan kabinetet sem támogat, amely mögött nem világos a parlamenti többség. Az AUR szintén elutasítja a kormány támogatását; a nemzeti kisebbségek frakciója korábban támogatást ígért.\n\n• **A parlamenti többség a PSD döntésével elérhető közelségbe került, de a szavazás időpontja és eredménye még nem biztos.** A PNL-nek és az RMDSZ-nek együtt 111 képviselője van, az USR-rel együtt 170; a PSD 127 képviselővel rendelkezik, miközben a beiktatáshoz 233 szavazat kell.\n\n• **Nicușor Dan a sajtóértesülések szerint előrehozott választással fenyegetett:** ha csütörtökig nem születik átlátható megállapodás Niculescu kormányának támogatásáról, pénteken kezdeményezheti a parlament feloszlatását. Grindeanu szerint a PSD erre a lehetőségre is készül, bár az előrehozott választást nem tartja kívánatosnak.\n\n• **Niculescu október 15-én, csütörtökön nyújtja be a kormányprogramot és a miniszterjelöltek listáját.** A parlamenti bizalmi szavazást egyes beszámolók október 16-ára, péntekre, mások a következő hétre várják; az RMDSZ célja, hogy a kabinet pénteken vagy legkésőbb hétfőn teljes jogkörrel működjön.\n\n• **A PSD tervezett tárcaaránya történelmi összevetésben is magas lenne.** A Mediafax szerint a párt 2024-ben a képviselőházi választáson 21,96 százalékot szerzett, míg 2016-ban 45,47 százalékot; a Grindeanu-, Tudose- és Dăncilă-kormányokban a PSD tárcaaránya 80 százalék fölött volt. A most emlegetett, akár 64,7 százalékos arány még nem végleges, és az adatok nem teljesen összehasonlíthatók.",
-    "title_ro": "PSD a decis să intre cu miniștri în Guvernul Niculescu",
-    "lead_ro": "Conducerea PSD a decis miercuri să participe cu miniștri la Guvernul condus de Luca Niculescu; hotărârea a fost adoptată aproape în unanimitate, iar Sorin Grindeanu s-a abținut. Cabinetul ar urma să aibă o formulă mixtă, cu politicieni PSD, tehnocrați și persoane susținute de președintele Nicușor Dan. PNL și UDMR ar vota Guvernul fără să participe cu miniștri, în timp ce USR se opune unui Executiv cu miniștri PSD.",
-    "content_ro": "• **PSD a decis miercuri, 14 octombrie, să intre cu miniștri în Guvernul condus de Luca Niculescu.** Potrivit G4Media, hotărârea a fost adoptată aproape în unanimitate: au fost opt abțineri, printre care și cea a președintelui partidului, Sorin Grindeanu.\n\n• **Grindeanu a susținut participarea la guvernare**, afirmând că PSD poate reduce procentele AUR guvernând bine și că partidul nu îi poate învinge doar prin declarații vehemente.\n\n• **Cabinetul ar urma să aibă o formulă hibridă:** alături de politicieni PSD ar putea intra tehnocrați și persoane susținute de președintele Nicușor Dan și de premierul desemnat Luca Niculescu. Niculescu declarase anterior că ia în calcul un guvern politic, mixt sau tehnocrat.\n\n• **PSD vizează o pondere importantă în repartizarea ministerelor, însă împărțirea nu este definitivă.** Unii lideri ar cere nouă portofolii, inclusiv Transporturile, Agricultura, Sănătatea, Mediul și Justiția. Potrivit Mediafax, partidul ar putea controla direct sau indirect până la 11 dintre cele 17 ministere.\n\n• **Printre posibilii miniștri PSD** se numără Marian Neacșu la Interne, Alexandru Rogobete la Sănătate, Florin Manole la Muncă, Florin Barbu la Agricultură și Radu Marinescu la Justiție. Negocierile privind Transporturile, Economia și Dezvoltarea continuă.\n\n• **Persoanele susținute de Nicușor Dan ar putea primi portofolii strategice.** Pentru Finanțe este vehiculat Alexandru Nazare, pentru Educație Sorin Costreie, iar pentru Externe Dan Neculăescu; nominalizările la Apărare și la fonduri europene nu sunt încă definitive.\n\n• **PNL și UDMR ar susține Guvernul fără să participe cu miniștri.** Ilie Bolojan a anunțat că liberalii vor rămâne în opoziție, dar sunt dispuși să încheie un acord separat cu Niculescu pentru învestirea Executivului și susținerea obiectivelor guvernamentale. Kelemen Hunor a spus că UDMR va vota Guvernul și programul său indiferent de componență.\n\n• **PNL a propus un angajament de susținere pentru șase luni.** Bolojan a declarat că liberalii nu vor iniția și nu vor vota o moțiune de cenzură până în aprilie 2027 dacă Guvernul respectă condițiile acordului. Formula discutată i-ar exclude din Executiv pe liberalii care contestă conducerea lui Bolojan.\n\n• **USR nu va vota un Guvern cu miniștri PSD** și se opune unui cabinet pentru care nu este clară majoritatea parlamentară. AUR respinge, de asemenea, susținerea Guvernului; grupul minorităților naționale promisese anterior că va vota pentru învestire.\n\n• **Majoritatea parlamentară pare mai accesibilă după decizia PSD, dar votul de învestitură nu este încă sigur.** PNL și UDMR au împreună 111 deputați, iar cu USR ajung la 170; PSD are 127 de deputați, în timp ce pentru învestire sunt necesare 233 de voturi.\n\n• **Potrivit relatărilor din presă, Nicușor Dan a invocat alegerile anticipate:** dacă până joi nu se ajunge la un acord transparent pentru susținerea Guvernului Niculescu, ar putea iniția vineri dizolvarea Parlamentului. Grindeanu a spus că PSD se pregătește și pentru acest scenariu, deși nu îl consideră de dorit.\n\n• **Niculescu va depune programul de guvernare și lista miniștrilor joi, 15 octombrie.** Unele relatări indică vineri, 16 octombrie, drept dată posibilă pentru votul de învestitură, în timp ce altele anticipează săptămâna următoare; UDMR își dorește ca Guvernul să aibă puteri depline vineri sau cel târziu luni.\n\n• **Ponderea ministerială preconizată pentru PSD ar fi ridicată în comparație istorică.** Potrivit Mediafax, partidul a obținut 21,96% la alegerile pentru Camera Deputaților din 2024, față de 45,47% în 2016; în guvernele Grindeanu, Tudose și Dăncilă, PSD deținea peste 80% din portofolii. Procentul vehiculat acum, de până la 64,7%, nu este definitiv, iar cifrele nu sunt pe deplin comparabile."
-  },
-  {
-    "group_id": "group_5aa7747dc9",
-    "fingerprint": "af0220d1fd0826a79bfef4d38c0f312c",
-    "category": "Politika",
-    "image": "https://stirileprotv.ro/img/2026/04/09/074611/alexandru-muraru.jpg?fm=jpg&q=80&fit=crop&crop=5413%2C3609%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un lider PNL susține că PSD încearcă să-l dea jos pe Bolojan și să preia controlul asupra liberalilor: „Oferte otrăvite”",
-        "link": "https://stirileprotv.ro/stiri/politic/un-lider-pnl-sustine-ca-psd-incearca-sa-l-dea-jos-pe-bolojan-si-sa-preia-controlul-asupra-liberalilor-oferte-otravite.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Nu vom gira niciun ministru PSD”. Siegfried Mureșan: Vom fi în totală opoziție față de PSD în următorii ani",
-        "link": "https://www.mediafax.ro/stirile-zilei/nu-vom-gira-niciun-ministru-psd-siegfried-muresan-vom-fi-in-totala-opozitie-fata-de-psd-in-urmatorii-ani-23825339"
-      },
-      {
-        "source": "G4Media",
-        "title": "Europarlamentarul liberal Siegfried Mureşan: Nu vom da un cec în alb niciunei propuneri de ministru PSD. Vom fi în totală opoziţie",
-        "link": "https://www.g4media.ro/europarlamentarul-liberal-siegfried-muresan-nu-vom-da-un-cec-in-alb-niciunei-propuneri-de-ministru-psd-vom-fi-in-totala-opozitie.html"
-      }
-    ],
-    "published_at": 1791987925,
-    "title_hu": "A PNL megszavazná Niculescu kormányát, de ellenzékben maradna, és nem vállalna garanciát a PSD minisztereiért",
-    "lead_hu": "A román kormányalakítási tárgyalások középpontjában a PNL és a PSD viszonya, valamint Luca Niculescu kijelölt miniszterelnök támogatása áll. A PNL parlamenti frakciói a kormány megszavazását javasolják, de ez egyelőre konzultatív döntés: a végső álláspontról a párt Országos Politikai Bürója határoz. Ilie Bolojan szerint a liberálisok ellenzékben maradnának, Siegfried Mureșan pedig hangsúlyozta, hogy nem vállalnak garanciát egyetlen PSD-miniszterért sem.",
-    "content_hu": "• **Alexandru Muraru, a PNL alelnöke** azzal vádolta a PSD-t, hogy Ilie Bolojan eltávolítására, a PNL irányváltására és a párt 2028-as választások előtti alárendelésére törekszik. Szerinte Sorin Grindeanu nyilatkozatai és a liberálisoknak tett „mérgező ajánlatok” a PNL megosztását célozzák.\n\n• **Ilie Bolojan október 13-i bejelentése** szerint a PNL mérlegeli egy kétoldalú politikai megállapodás megkötését Luca Niculescu kijelölt miniszterelnökkel. Ez nem koalíciós megállapodás, és nem jelenti a PNL kormányzati részvételét: a liberálisok ellenzékben maradnának, a dokumentum pedig a következő hat hónapra szabna átlátható feltételeket az együttműködéshez.\n\n• **A PNL által szabott feltételek** között szerepel a költségvetési hiánycél teljesítése, a közpénzek felelős felhasználása, a beruházások védelme és az európai kötelezettségek betartása. A párt kész támogatni a 2027-es költségvetést, ha az reális, ténylegesen beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tartalmaz fedezet nélküli kiadásnövelést.\n\n• **A PNL parlamenti frakcióinak döntése** szerint a liberálisok megszavaznák a Niculescu-kormányt, hogy a párt ellenzékben maradhasson és megállapodást köthessen a kijelölt miniszterelnökkel. Ionel Bogdan szóvivő közölte, hogy a frakciók szavazása konzultatív; a végső döntést a PNL Országos Politikai Bürója hozza meg. A párt nem lép koalícióra a PSD-vel.\n\n• **Siegfried Mureșan, a PNL európai parlamenti képviselője** kijelentette, hogy a párt nem ad „biankó csekket” egyetlen PSD-s miniszterjelöltnek sem, és a következő években teljes ellenzékben lesz a PSD-vel szemben. Külön is utalt olyan jelöltekre, akiket a Mykonoshoz, a Nordis-ügyhöz, Monte Carlóhoz vagy „cipősdobozokhoz” kötnek, és azt mondta: a miniszterek felelősek lesznek tetteikért, a PNL pedig figyelni fogja őket.\n\n• **Alina Gorghiu, a PNL képviselője** bírálta a párt stratégiáját: emlékeztetett, hogy korábban majdnem kizárták azokat a liberálisokat, akik Adrian Veștea miniszterelnökségével és PSD-részvétellel alakítottak volna kormányt. Gorghiu azt kérdezte, kell-e valakinek bocsánatot kérnie, amiért a párt most egy technokrata miniszterelnök és PSD-s kormány támogatására készül.\n\n• **A Veștea-kormány körüli vita** június 14-én kezdődött, amikor Adrian Veșteát miniszterelnöknek jelölték. A PNL június 21-i rendkívüli kongresszusa kizárással fenyegette azokat a párttagokat, akik PSD-vel közös kormányban vállalnak szerepet; a Veștea-kormány június 22-én 189 támogatói szavazatot kapott a szükséges 233 helyett, miután az AUR képviselői kivonultak. A kongresszusi szankciókról szóló döntések alkalmazását később bíróság függesztette fel.\n\n• **A Niculescu-kormány következő lépései** előtt a PSD országos politikai tanácsa arról dönt, hogy miniszterekkel belép-e a kabinetbe, parlamenti szavazással támogatja-e, vagy kívül marad. Luca Niculescu csütörtökre tervezi benyújtani a kormányprogramot és a miniszterjelöltek listáját; elmondása szerint politikai, vegyes vagy teljesen technokrata kormány is lehetséges.",
-    "title_ro": "PNL ar vota Guvernul Niculescu, dar rămâne în opoziție și nu garantează pentru miniștrii PSD",
-    "lead_ro": "Negocierile pentru formarea guvernului din România se concentrează asupra relației dintre PNL și PSD și asupra sprijinului pentru premierul desemnat Luca Niculescu. Grupurile parlamentare liberale au recomandat votarea Guvernului, însă hotărârea lor este consultativă, iar decizia finală îi revine Biroului Politic Național al PNL. Ilie Bolojan spune că liberalii vor rămâne în opoziție, iar Siegfried Mureșan afirmă că partidul nu garantează pentru niciun ministru PSD.",
-    "content_ro": "• **Alexandru Muraru, vicepreședinte PNL**, a acuzat PSD că urmărește îndepărtarea lui Ilie Bolojan, schimbarea direcției PNL și subordonarea partidului înaintea alegerilor din 2028. În opinia sa, declarațiile lui Sorin Grindeanu și „ofertele otrăvite” adresate liberalilor au ca scop divizarea PNL.\n\n• **Anunțul lui Ilie Bolojan din 13 octombrie**: PNL ia în calcul semnarea unui acord politic bilateral cu premierul desemnat Luca Niculescu. Acordul nu ar fi unul de coaliție și nu ar însemna participarea PNL la guvernare; liberalii ar rămâne în opoziție, iar documentul ar stabili condițiile unei colaborări transparente pentru următoarele șase luni.\n\n• **Condițiile impuse de PNL** includ atingerea țintei de deficit bugetar, folosirea responsabilă a banului public, protejarea investițiilor și respectarea angajamentelor europene. Partidul este pregătit să susțină bugetul pentru 2027 dacă acesta este realist, se bazează pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și nu prevede creșteri de cheltuieli fără acoperire.\n\n• **Decizia grupurilor parlamentare ale PNL** este să voteze Guvernul Niculescu, astfel încât partidul să rămână în opoziție și să poată încheia un acord cu premierul desemnat. Purtătorul de cuvânt Ionel Bogdan a precizat că votul grupurilor este consultativ, iar hotărârea finală va fi luată de Biroul Politic Național al PNL. Liberalii exclud o coaliție cu PSD.\n\n• **Siegfried Mureșan, europarlamentar PNL**, a declarat că partidul nu va da „cec în alb” niciunei propuneri de ministru PSD și va fi în opoziție totală față de social-democrați în următorii ani. El a făcut referire la candidați asociați cu Mykonos, dosarul Nordis, Monte Carlo sau „cutiile de pantofi” și a spus că miniștrii vor răspunde pentru ceea ce fac, iar PNL îi va urmări atent.\n\n• **Alina Gorghiu, deputată PNL**, a criticat strategia partidului și a amintit că liberalii care susțineau un guvern condus de Adrian Veștea, cu participarea PSD, au fost aproape excluși. Gorghiu a întrebat dacă cineva ar trebui să-și ceară scuze pentru că PNL se pregătește acum să susțină un premier tehnocrat și un guvern cu miniștri PSD.\n\n• **Controversa guvernului Veștea** a început pe 14 iunie, când Adrian Veștea a fost desemnat premier. Congresul extraordinar al PNL din 21 iunie a amenințat cu excluderea membrii care ar participa la un guvern cu PSD. Guvernul Veștea a primit 189 de voturi favorabile, față de cele 233 necesare, pe 22 iunie, după retragerea parlamentarilor AUR din sală. Ulterior, instanța a suspendat aplicarea hotărârilor congresului privind sancțiunile.\n\n• **Următorii pași pentru Guvernul Niculescu** depind și de decizia Consiliului Politic Național al PSD: social-democrații vor hotărî dacă intră în cabinet cu miniștri, susțin guvernul prin vot sau rămân în afara lui. Luca Niculescu intenționează să depună joi programul de guvernare și lista miniștrilor; a spus că sunt posibile un guvern politic, unul mixt sau unul exclusiv tehnocrat."
   },
   {
     "group_id": "group_ffb1673a33",
@@ -1233,27 +1665,6 @@
     "content_ro": "Un motan pe nume Simba e căutată de familie după ce a dispărut în urma unui accident rutier grav, petrecut duminică noapte, în județul Vâlcea. Animalul se afla în mașină alături de stăpânii săi în momentul accidentului, iar de atunci e de negăsit."
   },
   {
-    "group_id": "group_270e04eb68",
-    "category": "Erdély",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/12/pexels-cottonbro-6940878-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Ce poate face insomnia cronică organismului. Studiile indică riscuri pentru creier și sănătatea mintală",
-        "link": "https://www.mediafax.ro/life-inedit/ce-poate-face-insomnia-cronica-organismului-studiile-indica-riscuri-pentru-creier-si-sanatatea-mintala-23825353"
-      }
-    ],
-    "published_at": 1791986605,
-    "title_hu": "Ce poate face insomnia cronică organismului. Studiile indică riscuri pentru creier și sănătatea mintală",
-    "lead_hu": "Insomnia cronică ar putea indica un risc crescut pentru mai multe probleme grave de sănătate, de la accident vascular cerebral (AVC) și demență până la depresie și comportament suicidar.",
-    "content_hu": "Insomnia cronică ar putea indica un risc crescut pentru mai multe probleme grave de sănătate, de la accident vascular cerebral (AVC) și demență până la depresie și comportament suicidar.",
-    "title_ro": "Ce poate face insomnia cronică organismului. Studiile indică riscuri pentru creier și sănătatea mintală",
-    "lead_ro": "Insomnia cronică ar putea indica un risc crescut pentru mai multe probleme grave de sănătate, de la accident vascular cerebral (AVC) și demență până la depresie și comportament suicidar.",
-    "content_ro": "Insomnia cronică ar putea indica un risc crescut pentru mai multe probleme grave de sănătate, de la accident vascular cerebral (AVC) și demență până la depresie și comportament suicidar."
-  },
-  {
     "group_id": "group_38ad7b7197",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -1807,34 +2218,6 @@
     "content_ro": "• **La reuniunea de miercuri**, Putin a discutat despre securitatea cibernetică și consolidarea securității informaționale cu responsabili din guvern, economie și structurile de securitate.\n\n• **Printre participanți** s-au numărat Dmitri Medvedev, Serghei Șoigu, directorul FSB, Aleksandr Bortnikov, guvernatoarea Băncii Centrale, Elvira Nabiullina, și directorul Sberbank, German Gref. La întâlnire au participat și mai mulți miniștri și alți oficiali de rang înalt.\n\n• **Scopul reuniunii**, potrivit Kremlinului, a fost evaluarea pregătirii sectoarelor-cheie ale economiei în fața amenințărilor la adresa securității informaționale și a măsurilor necesare pentru consolidarea protecției.\n\n• **Dmitri Peskov a negat** că reuniunea ar fi fost convocată din cauza atacurilor recente cu drone ucrainene asupra centrelor de date rusești. Purtătorul de cuvânt al Kremlinului a spus că discuția vizează chestiuni mai ample și sistemice; în săptămâna precedentă fuseseră atacate patru centre de date, trei aparținând Yandex și unul Sberbank."
   },
   {
-    "group_id": "group_5f17a77587",
-    "fingerprint": "84c3205d84ade76da6f66367dbec5e42",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Bulgaria pregătește aderarea la o inițiativă NATO împotriva dronelor. Cât va plăti anual pentru apărare",
-        "link": "https://www.mediafax.ro/aparare/bulgaria-pregateste-aderarea-la-o-initiativa-nato-impotriva-dronelor-cat-va-plati-anual-pentru-aparare-23825306"
-      },
-      {
-        "source": "G4Media",
-        "title": "Bulgaria pregătește aderarea la o inițiativă NATO împotriva dronelor, pentru care va plăti anual 220.000 de euro",
-        "link": "https://www.g4media.ro/bulgaria-pregateste-aderarea-la-o-initiativa-nato-impotriva-dronelor-pentru-care-va-plati-anual-220-000-de-euro.html"
-      }
-    ],
-    "published_at": 1791985937,
-    "title_hu": "Bulgária október végéig csatlakozna egy NATO-drónelhárító kezdeményezéshez",
-    "lead_hu": "Bulgária október 30-ig csatlakozna a kis magasságban repülő légi fenyegetések, köztük a drónok elleni NATO-programhoz. A részvétel évi 220 ezer euróba kerülne; az ország emellett 20 drónelhárító rendszer közös beszerzését tervezi Spanyolországgal.",
-    "content_hu": "• **Október 30-ig** Bulgária csatlakozna egy NATO-programhoz, amely a kis magasságban repülő légi fenyegetések, köztük a drónok elleni védekezést erősíti. Dimitar Stoyanov védelmi miniszter parlamenti meghallgatáson közölte, hogy a részvétel éves hozzájárulása 220 ezer euró, amelyet a tárca megfizethetőnek tart.\n\n• **A bolgár drónvédelem fejlesztésére** az ország az európai SAFE mechanizmuson keresztül 80 millió eurót fordítana 20 elhárító rendszer beszerzésére. Tíz rendszer mobil, tíz pedig telepített lenne; a beszerzést Spanyolországgal közösen tervezik, és a két ország egyetértési memorandumot készül aláírni. Bulgária már részt vesz a NATO Drone Edge programjában, és nem tervezi, hogy kilép belőle.\n\n• **A bejelentés hátterében** a Fekete-tengeren egy hét alatt drónokkal megtámadott négy kereskedelmi hajó áll. Két hajó elsüllyedt, több tengerész eltűnt; a támadások miatt Bulgária nemzetközi segítséget kért a légterének és a tengeri útvonalaknak a megfigyeléséhez.",
-    "title_ro": "Bulgaria vrea să adere până la sfârșitul lunii octombrie la o inițiativă NATO antidronă",
-    "lead_ro": "Bulgaria intenționează să adere până la 30 octombrie la un program NATO de combatere a amenințărilor aeriene care zboară la joasă altitudine, inclusiv a dronelor. Contribuția anuală ar fi de 220.000 de euro, iar țara pregătește și achiziția comună cu Spania a 20 de sisteme antidronă.",
-    "content_ro": "• **Până la 30 octombrie** Bulgaria intenționează să adere la un program NATO care consolidează apărarea împotriva amenințărilor aeriene la joasă altitudine, inclusiv a dronelor. Ministrul Apărării, Dimitar Stoyanov, a declarat în Parlament că participarea va costa 220.000 de euro pe an, sumă pe care ministerul o consideră suportabilă.\n\n• **Pentru dezvoltarea apărării antidronă**, Bulgaria intenționează să aloce 80 de milioane de euro prin mecanismul european SAFE pentru achiziționarea a 20 de sisteme. Zece vor fi mobile, iar zece fixe; achiziția este planificată împreună cu Spania, cu care Bulgaria urmează să semneze un memorandum de înțelegere. Bulgaria participă deja la programul NATO Drone Edge și nu intenționează să se retragă.\n\n• **Contextul anunțului** îl reprezintă atacurile cu drone asupra a patru nave comerciale în Marea Neagră, într-o săptămână. Două nave s-au scufundat, iar mai mulți marinari au fost dați dispăruți; în urma atacurilor, Bulgaria a solicitat sprijin internațional pentru supravegherea spațiului aerian și a rutelor maritime."
-  },
-  {
     "group_id": "group_4dd528beb0",
     "category": "Gazdaság",
     "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/41446/23260060/2/318424719-m.jpg?width=700",
@@ -2336,39 +2719,6 @@
     "content_ro": "Comisia Europeană pregătește un plan prin care să folosească inteligența artificială pentru a detecta și a limita mai rapid atacurile cibernetice cu risc ridicat, potrivit unui document obținut de Politico. Departamentul IT al executivului european avertizează că modelele avansate de IA ar putea face atacurile mai rapide, mai frecvente și mai ample, permițându-le hackerilor să compromită sisteme și să fure date înainte ca specialiștii să poată interveni manual. Planul prevede măsuri automate de protecție, cu supraveghere umană și controale stricte, însă nu este clar dacă acestea au fost deja puse în aplicare."
   },
   {
-    "group_id": "group_84b670e178",
-    "fingerprint": "8f052fb45a330ca7c7b0600f4f0da35d",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Decizia privind intrarea Animawings în insolvență, amânată de instanță. Nume noi pe lista creditorilor",
-        "link": "https://hotnews.ro/decizia-privind-intrarea-animawings-in-insolventa-amanata-de-instanta-nume-noi-pe-lista-creditorilor-2375710"
-      },
-      {
-        "source": "Economedia",
-        "title": "Tribunalul București amână decizia privind insolvența AnimaWings. Banca Transilvania, ROMATSA și mai multe aeroporturi, pe lista creditorilor",
-        "link": "https://economedia.ro/tribunalul-bucuresti-amana-decizia-privind-insolventa-animawings-banca-transilvania-romatsa-si-mai-multe-aeroporturi-pe-lista-creditorilor.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Eșec pentru Animawings în instanță. Cererea de intrare în insolvență, respinsă de tribunal",
-        "link": "https://hotnews.ro/esec-pentru-animawings-in-instanta-cererea-de-intrare-in-insolventa-respinsa-de-tribunal-2375966"
-      }
-    ],
-    "published_at": 1791984983,
-    "title_hu": "Elutasította az AnimaWings fizetésképtelenségi kérelmét a bukaresti bíróság",
-    "lead_hu": "A bukaresti törvényszék október 14-én elutasította az AnimaWings fizetésképtelenségi eljárásának megindítására vonatkozó kérelmét. A döntés nem jogerős, hét napon belül fellebbezhető; a hitelezők kérelmeit november 11-én tárgyalják.",
-    "content_hu": "• **Október 14-én** a bukaresti törvényszék elutasította az AnimaWings Aviation SA saját fizetésképtelenségi kérelmét. A korábbi beszámoló még halasztásról szólt, de a később közölt bírósági döntés szerint a kérelmet elutasították.\n\n• **A döntés nem jogerős:** a társaság a határozat kézbesítésétől számított hét napon belül fellebbezhet. A bíróság a hitelezők különválasztott kérelmeit november 11-én tárgyalja.\n\n• **A hitelezők között** szerepel a Banca Transilvania, a román légi forgalmi szolgálatot irányító ROMATSA, valamint az oradeai, suceavai, brassó-gimbavi, craiovai, nagyszebeni, aradi és temesvári repülőtér. A listán utas-kártérítési igényeket képviselő cégek és magánszemélyek is vannak.\n\n• **Október 9-én** a bíróság elutasította a tárgyalási időpont előrehozására irányuló kérelmet.\n\n• **Szeptember 30-án** az AnimaWings kérte a fizetésképtelenségi eljárás megindítását, miután bejelentette, hogy műszaki problémák miatt fokozatosan leállítja a nyolc gépéből hatnak a járatait. Később a fennmaradó két repülőgép járatait is felfüggesztette október végéig.\n\n• **A társaság indoklása szerint** a kérelem célja a bírósági reorganizáció, a működés stabilizálása és a pénzügyi kötelezettségek átstrukturálása.\n\n• **A 2025-ös pénzügyi adatok szerint** az AnimaWings árbevétele 330,8 millió lejre nőtt a 2024-es, mintegy 125 millió lej után, miközben nettó eredménye az 1,9 millió lejes nyereségből 110,7 millió lejes veszteségbe fordult.\n\n• **Egy AnimaWings-gép szeptember 28. óta Londonban áll.** A légitársaság megerősítette a helyzetet, de nem igazolta, hogy azt tartozások ki nem fizetése okozta; közlése szerint a lízingpartnerekkel és az Airbusszal egyeztetnek a gépek műszaki problémáiról.",
-    "title_ro": "Tribunalul București a respins cererea de insolvență a AnimaWings",
-    "lead_ro": "Tribunalul București a respins, pe 14 octombrie, cererea AnimaWings de deschidere a procedurii insolvenței. Decizia nu este definitivă și poate fi atacată în termen de șapte zile; cererile creditorilor vor fi judecate pe 11 noiembrie.",
-    "content_ro": "• **Pe 14 octombrie**, Tribunalul București a respins cererea depusă de AnimaWings Aviation SA pentru deschiderea procedurii insolvenței. Relatările inițiale indicau amânarea cauzei, însă informațiile publicate ulterior arată că solicitarea companiei a fost respinsă.\n\n• **Decizia nu este definitivă:** compania poate face apel în termen de șapte zile de la comunicarea hotărârii. Instanța a disjuns cererile creditorilor, care vor fi judecate pe 11 noiembrie.\n\n• **Printre creditori** se numără Banca Transilvania, compania de servicii de trafic aerian ROMATSA și aeroporturile din Oradea, Suceava, Brașov-Ghimbav, Craiova, Sibiu, Arad și Timișoara. Lista include și companii care reprezintă cereri de despăgubire ale pasagerilor, precum și persoane fizice.\n\n• **Pe 9 octombrie**, instanța a respins cererea de preschimbare a termenului de judecată.\n\n• **Pe 30 septembrie**, AnimaWings a solicitat deschiderea procedurii insolvenței, după ce anunțase suspendarea treptată a zborurilor cu șase dintre cele opt aeronave, invocând probleme tehnice repetate. Ulterior, compania a suspendat până la finalul lunii octombrie și zborurile operate cu celelalte două avioane.\n\n• **Potrivit companiei**, cererea urmărea reorganizarea judiciară, stabilizarea operațiunilor și restructurarea obligațiilor financiare.\n\n• **Datele financiare pentru 2025** arată că cifra de afaceri a AnimaWings a crescut la 330,8 milioane de lei, de la aproximativ 125 de milioane în 2024, în timp ce compania a trecut de la un profit net de 1,9 milioane de lei la o pierdere netă de 110,7 milioane de lei.\n\n• **O aeronavă AnimaWings se află la sol la Londra din 28 septembrie.** Compania a confirmat situația, dar nu a confirmat că aceasta ar fi fost cauzată de neplata unor datorii; a precizat că discută cu partenerii de leasing și cu Airbus despre problemele tehnice ale aeronavelor."
-  },
-  {
     "group_id": "group_45028e4dba",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/tanara-constanta.jpg-1200x675.jpeg",
@@ -2773,54 +3123,6 @@
     "title_ro": "Cosmin Contra vrea să renunțe la antrenorat: „Mă gândesc de ceva timp, am motivele mele”",
     "lead_ro": "Cosmin Contra (50 de ani), fostul selecționer al naționalei României în perioada septembrie 2017 - noiembrie 2019, a dezvăluit că se gândește serios să se retragă din antrenorat. În prezent antrenor l…",
     "content_ro": "Cosmin Contra (50 de ani), fostul selecționer al naționalei României în perioada septembrie 2017 - noiembrie 2019, a dezvăluit că se gândește serios să se retragă din antrenorat. În prezent antrenor la Al-Arabi, în Qatar, „Guriță” a declarat că nu crede că va mai reveni la vreo echipă din Europa și ia în calcul să se retragă din activitate după ce îi va expira contractul cu actuala echipă, în vara anului 2028. ..."
-  },
-  {
-    "group_id": "group_7cd068d9ba",
-    "fingerprint": "125c46dc39fd218ac6a307fced402c43",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/4b1c42fa-d493-4caf-a98d-05d351872cd2.jfif?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs și Elizabeta Samara sunt la un pas de medalie la Campionatele Europene de la Ljubljana",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-elizabeta-samara-sunt-la-un-pas-de-medalie-la-campionatele-europene-de-la-ljubljana-987941.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Samara și Szocs, în sferturile CE de tenis de masă din Ljubljana",
-        "link": "https://www.g4media.ro/samara-si-szocs-in-sferturile-ce-de-tenis-de-masa-din-ljubljana.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Elizabeta Samara și Bernadette Szocs s-au calificat în sferturile de finală ale Campionatului European",
-        "link": "https://adevarul.ro/sport/elizabeta-samara-si-bernadette-szocs-s-au-2563936.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs și Eduard Ionescu, prima medalie pentru România la Campionatele Europene de la Ljubljana",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-eduard-ionescu-prima-medalie-pentru-romania-la-campionatele-europene-de-la-ljubljana-987990.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Bernadette Szocs și Eduard Ionescu aduc prima medalie a României la CE de tenis de masă",
-        "link": "https://www.g4media.ro/bernadette-szocs-si-eduard-ionescu-aduc-prima-medalie-a-romaniei-la-ce-de-tenis-de-masa.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs, după ce și-a asigurat a 14-a medalie europeană din carieră: „Sunt fericită și emoționată”",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-reactie-dupa-ce-si-a-asigurat-a-14-a-medalie-europeana-din-cariera-988036.html"
-      }
-    ],
-    "published_at": 1791984389,
-    "title_hu": "Szocsék negyeddöntősök, a vegyes páros már biztos érmes az asztalitenisz-Eb-n",
-    "lead_hu": "Bernadette Szocs és Elizabeta Samara 3–0-ra legyőzte a horvát Lea Rakovac–Hana Arapovic párost, így bejutott a ljubljanai Európa-bajnokság női párosversenyének negyeddöntőjébe. Szocs és Eduard Ionescu a vegyes páros negyeddöntőjében 3–2-re nyert a franciák ellen, ezzel Románia első érmét is biztosította. A német Benedikt Duda–Nina Mittelham kettős elleni elődöntő csütörtökön, október 15-én 13:40-kor kezdődik.",
-    "content_hu": "• **Szocs Bernadette és Elizabeta Samara** 3–0-ra (11–9, 11–8, 11–6) nyert a horvát Lea Rakovac–Hana Arapovic kettős ellen a női páros nyolcaddöntőjében, és bejutott a legjobb nyolc közé.\n\n• **A negyeddöntőben** a német Ying Han és Sabine Winter vár a románokra. A találkozó győztese elődöntős lesz, és biztosítja az érmet; a mérkőzést csütörtökön játsszák.\n\n• **A kiemelések szerint** Szocs és Samara az első kiemelt volt, a horvát kettős a 13. helyen szerepelt. Andreea Dragoman és Adina Diaconu negyedik kiemeltként, a francia Prithika Pavade–Charlotte Lutz páros pedig 11. kiemeltként játszott.\n\n• **Dragoman és Diaconu** 0–3-ra (12–14, 5–11, 7–11) kikapott Pavade és Lutz ellen, így kiesett a női párosversenyből.\n\n• **Szocs és Samara korábbi győzelme** a szlovák Dominika Wiltschkova–Ema Labosova kettős ellen született: a románok 3–1-re nyertek (11–4, 11–4, 12–14, 11–7). A páros szerint a sikerhez a jó kommunikáció, az összehangolt játék és a könnyű hibák elkerülése is hozzájárult.\n\n• **Szocs Bernadette és Eduard Ionescu** 3–2-re (9–11, 13–11, 12–10, 6–11, 11–9) legyőzte a francia Thibault Poret–Prithika Pavade kettőst a vegyes páros negyeddöntőjében, és bejutott az elődöntőbe. A francia páros 19. kiemelt volt, a román kettős a negyedik.\n\n• **A román vegyes páros** ezzel biztosította Románia első érmét a ljubljanai Európa-bajnokságon; mivel nincs bronzmérkőző, legalább bronzérmes. Az elődöntőben a német Benedikt Duda–Nina Mittelham kettős ellen játszik október 15-én, csütörtökön 13:40-kor.\n\n• **Szocs és Ionescu korábbi vegyes páros győzelmei** közé tartozik a cseh Jiri Martinko–Veronika Polakova kettős elleni 3–1-es siker (11–5, 9–11, 11–9, 11–5), majd az Anders Lind–Anna Hursey páros 3–1-es legyőzése (11–7, 4–11, 11–9, 14–12) a nyolcaddöntőben.\n\n• **Szocs Bernadettnek** ez a 14. Európa-bajnoki érme, a vegyes párosban pedig a negyedik: korábban 2012-ben és 2016-ban bronzot, 2022-ben ezüstöt szerzett. **Eduard Ionescu** második Eb-érmét nyerte, miután tavaly csapatban ezüstérmes lett; vegyes párosban ez az első érme.\n\n• **Elizabeta Samara** éremmérlege a résztvevők között a legjobb: öt Európa-bajnoki arany-, három ezüst- és hat bronzérmet szerzett. Szocs 31, Samara 37, Ionescu 21 éves.",
-    "title_ro": "Szocs și Samara, în sferturi, iar dublul mixt și-a asigurat deja medalia la CE de tenis de masă",
-    "lead_ro": "Bernadette Szocs și Elizabeta Samara au învins cu 3-0 perechea croată Lea Rakovac–Hana Arapovic și s-au calificat în sferturile probei de dublu feminin de la Campionatele Europene de la Ljubljana. Szocs și Eduard Ionescu au câștigat cu 3-2 în sferturile probei de dublu mixt, asigurând prima medalie a României la competiție. Semifinala cu germanii Benedikt Duda–Nina Mittelham este programată joi, 15 octombrie, de la ora 13:40.",
-    "content_ro": "• **Bernadette Szocs și Elizabeta Samara** au câștigat cu 3-0 (11-9, 11-8, 11-6) în fața perechii croate Lea Rakovac–Hana Arapovic, în optimile probei de dublu feminin, și s-au calificat între primele opt perechi.\n\n• **În sferturi**, româncele vor întâlni perechea germană Ying Han–Sabine Winter. Câștigătoarea meciului se califică în semifinale și își asigură o medalie; partida se joacă joi.\n\n• **Conform capilor de serie**, Szocs și Samara au fost favoritele numărul 1, iar perechea croată a fost cap de serie 13. Andreea Dragoman și Adina Diaconu au fost favoritele numărul 4, iar franțuzoaicele Prithika Pavade–Charlotte Lutz, favoritele numărul 11.\n\n• **Dragoman și Diaconu** au pierdut cu 0-3 (12-14, 5-11, 7-11) în fața lui Pavade și Lutz și au fost eliminate din proba de dublu feminin.\n\n• **Victoria anterioară a lui Szocs și Samara** a fost împotriva slovacelor Dominika Wiltschkova–Ema Labosova: româncele s-au impus cu 3-1 (11-4, 11-4, 12-14, 11-7). Cele două au spus că au contat comunicarea bună, jocul coordonat și evitarea greșelilor ușoare.\n\n• **Bernadette Szocs și Eduard Ionescu** au învins cu 3-2 (9-11, 13-11, 12-10, 6-11, 11-9) perechea franceză Thibault Poret–Prithika Pavade în sferturile probei de dublu mixt și s-au calificat în semifinale. Francezii au fost favoriții numărul 19, iar românii, cap de serie 4.\n\n• **Perechea română de dublu mixt** a asigurat astfel prima medalie a României la Campionatele Europene de la Ljubljana; cum nu se joacă finală mică, medalia este cel puțin de bronz. În semifinale, românii vor întâlni perechea germană Benedikt Duda–Nina Mittelham joi, 15 octombrie, de la ora 13:40.\n\n• **Victoriile anterioare ale lui Szocs și Ionescu la dublu mixt** au fost împotriva cehilor Jiri Martinko–Veronika Polakova, scor 3-1 (11-5, 9-11, 11-9, 11-5), și apoi a perechii Anders Lind–Anna Hursey, scor 3-1 (11-7, 4-11, 11-9, 14-12), în optimi.\n\n• **Pentru Bernadette Szocs**, medalia este a 14-a la Campionatele Europene și a patra la dublu mixt: anterior, a obținut bronzul în 2012 și 2016 și argintul în 2022. **Eduard Ionescu** a câștigat a doua sa medalie europeană, după argintul cu echipa de anul trecut; la dublu mixt este prima sa medalie.\n\n• **Elizabeta Samara** are cel mai bogat palmares european dintre sportivii participanți: cinci medalii de aur, trei de argint și șase de bronz. Szocs are 31 de ani, Samara 37, iar Ionescu 21."
   },
   {
     "group_id": "group_3179e3d8b3",
@@ -11760,26 +12062,6 @@
     "content_ro": "Ezekben a napokban, amikor XIV. Leó pápa a betegség megpróbáltatásait éli át, és a műtéti beavatkozást követő felépülés útját járja, Románia katolikus püspökei lelki közösségükről, gyermeki ragaszkodásukról és imádságos közelségükről biztosítják Szent Péter apostol utódát. Papjainkkal, szerzeteseinkkel és egyházi közösségeink valamennyi hívével együtt Isten irgalmas szeretetébe ajánljuk a szentatyát, abban a mély meggyőződésben, hogy az […]"
   },
   {
-    "group_id": "group_4aaee40b9f",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/ubt-2-819x1024.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„O echipă care cunoaște ritmul Europei și gustul victoriei”. Cum este descrisă U-BT Cluj de adversarii din Lituania",
-        "link": "https://www.mediafax.ro/sport/o-echipa-care-cunoaste-ritmul-europei-si-gustul-victoriei-cum-este-descrisa-u-bt-cluj-de-adversarii-din-lituania-23825023"
-      }
-    ],
-    "published_at": 1791965127,
-    "title_hu": "„O echipă care cunoaște ritmul Europei și gustul victoriei”. Cum este descrisă U-BT Cluj de adversarii din Lituania",
-    "lead_hu": "U-BT Cluj-Napoca joacă miercuri, de la ora 18.30, în deplasare cu BC Šiauliai, în etapa a treia din Grupa B a EuroCup. Clujenii caută a doua victorie în competiție, după succesul de pe teren propriu c...",
-    "content_hu": "U-BT Cluj-Napoca joacă miercuri, de la ora 18.30, în deplasare cu BC Šiauliai, în etapa a treia din Grupa B a EuroCup. Clujenii caută a doua victorie în competiție, după succesul de pe teren propriu cu Umana Reyer Veneția, scor 98-92.",
-    "title_ro": "„O echipă care cunoaște ritmul Europei și gustul victoriei”. Cum este descrisă U-BT Cluj de adversarii din Lituania",
-    "lead_ro": "U-BT Cluj-Napoca joacă miercuri, de la ora 18.30, în deplasare cu BC Šiauliai, în etapa a treia din Grupa B a EuroCup. Clujenii caută a doua victorie în competiție, după succesul de pe teren propriu c...",
-    "content_ro": "U-BT Cluj-Napoca joacă miercuri, de la ora 18.30, în deplasare cu BC Šiauliai, în etapa a treia din Grupa B a EuroCup. Clujenii caută a doua victorie în competiție, după succesul de pe teren propriu cu Umana Reyer Veneția, scor 98-92."
-  },
-  {
     "group_id": "group_2ddc6b2c7f",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/30082026/2ed8efe8-864f-4aef-96e4-e67f73e1f205.jpg?width=290&height=208",
@@ -16697,89 +16979,5 @@
     "title_ro": "Zelenski, primit de premierul britanic la Londra. Un nou angajament militar pentru Ucraina",
     "lead_ro": "Premierul britanic Andy Burnham îl primește miercuri, la Downing Street, pe Volodimir Zelenski, pentru a reafirma sprijinul Londrei față de Kiev. Întâlnirea are loc după criticile lansate de Donald Tr…",
     "content_ro": "Premierul britanic Andy Burnham îl primește miercuri, la Downing Street, pe Volodimir Zelenski, pentru a reafirma sprijinul Londrei față de Kiev. Întâlnirea are loc după criticile lansate de Donald Trump la adresa liderului ucrainean și pe fondul disputelor privind sancțiunile împotriva Rusiei."
-  },
-  {
-    "group_id": "group_92b8c44e17",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "EFEMERIDE ASTRONOMICE - 14 octombrie",
-        "link": "https://agerpres.ro/documentare/2026/10/14/efemeride-astronomice---14-octombrie--1602696"
-      }
-    ],
-    "published_at": 1791946029,
-    "title_hu": "EFEMERIDE ASTRONOMICE - 14 octombrie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "EFEMERIDE ASTRONOMICE - 14 octombrie",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_345e5d4bcb",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Tururi ghidate la expoziția 'Brâncovenii: putere și moștenire' - pe 14 și 31 octombrie, la Palatul Suțu",
-        "link": "https://agerpres.ro/cultura-media/2026/10/14/tururi-ghidate-la-expozitia-brancovenii-putere-si-mostenire---pe-14-si-31-octombrie-la-palatul-sutu--1602371"
-      }
-    ],
-    "published_at": 1791946029,
-    "title_hu": "Tururi ghidate la expoziția 'Brâncovenii: putere și moștenire' - pe 14 și 31 octombrie, la Palatul Suțu",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Tururi ghidate la expoziția 'Brâncovenii: putere și moștenire' - pe 14 și 31 octombrie, la Palatul Suțu",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_4ef5c99380",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Diplomație și afaceri pentru Rubio în Asia Centrală și de Sud săptămâna viitoare",
-        "link": "https://agerpres.ro/politic-extern/2026/10/14/diplomatie-si-afaceri-pentru-rubio-in-asia-centrala-si-de-sud-saptamana-viitoare--1602702"
-      }
-    ],
-    "published_at": 1791946029,
-    "title_hu": "Diplomație și afaceri pentru Rubio în Asia Centrală și de Sud săptămâna viitoare",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Diplomație și afaceri pentru Rubio în Asia Centrală și de Sud săptămâna viitoare",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_39dfbaf566",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/mihaela-bilic.jpg-1-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Dovleacul, comoara portocalie a toamnei! Mihaela Bilic explică de ce ar trebui să ajungă mai des în farfuria românilor",
-        "link": "https://www.cancan.ro/dovleacul-comoara-portocalie-a-toamnei-mihaela-bilic-explica-de-ce-ar-trebui-sa-ajunga-mai-des-in-farfuria-romanilor-21529558"
-      }
-    ],
-    "published_at": 1791945601,
-    "title_hu": "Dovleacul, comoara portocalie a toamnei! Mihaela Bilic explică de ce ar trebui să ajungă mai des în farfuria românilor",
-    "lead_hu": "Toamna aduce în bucătăriile românilor unul dintre cele mai îndrăgite alimente de sezon: dovleacul. Cu aroma sa inconfundabilă, gustul dulceag și culoarea portocalie care ne duce imediat cu gândul la z…",
-    "content_hu": "Toamna aduce în bucătăriile românilor unul dintre cele mai îndrăgite alimente de sezon: dovleacul. Cu aroma sa inconfundabilă, gustul dulceag și culoarea portocalie care ne duce imediat cu gândul la zilele răcoroase, dovleacul este nelipsit din plăcinte, deserturi și preparate tradiționale. Însă, dincolo de savoare și de mirosul îmbietor care umple casa atunci când este […]",
-    "title_ro": "Dovleacul, comoara portocalie a toamnei! Mihaela Bilic explică de ce ar trebui să ajungă mai des în farfuria românilor",
-    "lead_ro": "Toamna aduce în bucătăriile românilor unul dintre cele mai îndrăgite alimente de sezon: dovleacul. Cu aroma sa inconfundabilă, gustul dulceag și culoarea portocalie care ne duce imediat cu gândul la z…",
-    "content_ro": "Toamna aduce în bucătăriile românilor unul dintre cele mai îndrăgite alimente de sezon: dovleacul. Cu aroma sa inconfundabilă, gustul dulceag și culoarea portocalie care ne duce imediat cu gândul la zilele răcoroase, dovleacul este nelipsit din plăcinte, deserturi și preparate tradiționale. Însă, dincolo de savoare și de mirosul îmbietor care umple casa atunci când este […]"
   }
 ]
