@@ -1,5 +1,435 @@
 [
   {
+    "group_id": "group_f51fc0cd83",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Din achitată, condamnată! Mioara Țigan a fost găsită vinovată de falsificarea unei lucrări la concursul pentru șefia unei școli din Oradea",
+        "link": "https://www.ebihoreanul.ro/stiri/din-achitata-condamnata-mioara-tigan-a-fost-gasita-vinovata-de-falsificarea-unei-lucrari-la-concursul-pentru-sefia-unei-scoli-din-oradea-205817.html"
+      }
+    ],
+    "published_at": 1791995591,
+    "title_hu": "Din achitată, condamnată! Mioara Țigan a fost găsită vinovată de falsificarea unei lucrări la concursul pentru șefia unei școli din Oradea",
+    "lead_hu": "O nouă răsturnare de situație, de această dată definitivă, în dosarul concursului fraudat pentru conducerea Școlii Gimnaziale Avram Iancu din Oradea. Mioara Țigan, fosta directoare a Casei Corpului Di…",
+    "content_hu": "O nouă răsturnare de situație, de această dată definitivă, în dosarul concursului fraudat pentru conducerea Școlii Gimnaziale Avram Iancu din Oradea. Mioara Țigan, fosta directoare a Casei Corpului Didactic Bihor, a fost condamnată miercuri de Curtea de Apel Oradea la 3 ani de închisoare cu suspendare, după ce Tribunalul Bihor o achitase pentru toate acuzațiile. Prin noul verdict, instanța a găsit-o vinovată de falsificarea lucrării de concurs a profesorului Sorin Cuc, care a obținut astfel o notă mai mare. Și Cuc a fost condamnat definitiv, la 2 ani și 8 luni de închisoare cu suspendare.",
+    "title_ro": "Din achitată, condamnată! Mioara Țigan a fost găsită vinovată de falsificarea unei lucrări la concursul pentru șefia unei școli din Oradea",
+    "lead_ro": "O nouă răsturnare de situație, de această dată definitivă, în dosarul concursului fraudat pentru conducerea Școlii Gimnaziale Avram Iancu din Oradea. Mioara Țigan, fosta directoare a Casei Corpului Di…",
+    "content_ro": "O nouă răsturnare de situație, de această dată definitivă, în dosarul concursului fraudat pentru conducerea Școlii Gimnaziale Avram Iancu din Oradea. Mioara Țigan, fosta directoare a Casei Corpului Didactic Bihor, a fost condamnată miercuri de Curtea de Apel Oradea la 3 ani de închisoare cu suspendare, după ce Tribunalul Bihor o achitase pentru toate acuzațiile. Prin noul verdict, instanța a găsit-o vinovată de falsificarea lucrării de concurs a profesorului Sorin Cuc, care a obținut astfel o notă mai mare. Și Cuc a fost condamnat definitiv, la 2 ani și 8 luni de închisoare cu suspendare."
+  },
+  {
+    "group_id": "group_746ea01c03",
+    "fingerprint": "cab5dd80d3358fdf0ea52ffa51fcc690",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 24,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Surse: PSD intră la guvernare alături de miniștri tehnocrați propuși de Nicușor Dan. PNL și UDMR ar urma să voteze Guvernul Niculescu",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/negocieri-contracronometru-cum-va-arata-guvernul-niculescu-surse-psd-isi-poate-asuma-guvernarea-cu-voturile-pnl-si-udmr-3989715"
+      },
+      {
+        "source": "Adevărul",
+        "title": "SURSE PSD e gata să intre la guvernare într-un Cabinet hibrid",
+        "link": "https://adevarul.ro/politica/surse-psd-e-gata-sa-intre-la-guvernare-intr-un-2563710.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "SURSE: Se conturează un Guvern PSD–Niculescu, cu trei ministere pentru oamenii lui Nicușor Dan. Pact cu Bolojan și UDMR pentru supraviețuirea Cabinetului până în aprilie. Decizia, la PSD",
+        "link": "https://www.mediafax.ro/politic/surse-se-contureaza-un-guvern-psd-niculescu-cu-trei-ministere-pentru-oamenii-lui-nicusor-dan-pact-cu-bolojan-si-udmr-pentru-supravietuirea-cabinetului-pana-in-aprilie-decizia-la-psd-23824658"
+      },
+      {
+        "source": "Maszol",
+        "title": "Sajtóforrás: kormányra léphet a PSD",
+        "link": "https://maszol.ro/belfold/Sajtoforras-kormanyra-lephet-a-PSD"
+      },
+      {
+        "source": "G4Media",
+        "title": "SURSE: Lideri din PSD iau în calcul să ceară intrarea partidului în guvernul Luca Niculescu cu 9 miniștri la ministerele cu bugete mari și la Justiție / Sorin Grindeanu vrea să evite intrarea în guvern",
+        "link": "https://www.g4media.ro/surse-lideri-din-psd-iau-in-calcul-sa-ceara-intrarea-partidului-in-guvernul-luca-niculescu-cu-9-ministri-la-ministerele-cu-bugete-mari-si-la-justitie-sorin-grindeanu-vrea-sa-evite-intrarea-in-guver.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Culisele social-democrate: PSD e împărțit în două. Fiecare tabără vrea să voteze un guvern: frica de răspundere și dorința de putere",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/surpriza-in-negocierile-pentru-noul-guvern-psd-ar-accepta-ministri-tehnocrati-iar-pnl-si-udmr-ar-urma-sa-voteze-cabinetul-3990801"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cele trei opțiuni pentru PSD, care decide azi dacă intră la guvernare: Vot contra guvernului Luca Niculescu, vot pentru guvern tehnocrat fără PSD sau vot pentru guvern cu miniștri PSD",
+        "link": "https://www.g4media.ro/cele-trei-optiuni-pentru-psd-care-decide-azi-daca-intra-la-guvernare-vot-contra-guvernului-luca-niculescu-vot-pentru-guvern-tehnocrat-fara-psd-sau-vot-pentru-guvern-cu-ministri-psd.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Surse: Primele nume vehiculate pentru Guvernul Niculescu. PSD ar putea prelua portofolii mari, un minister ar urma să dispară",
+        "link": "https://stirileprotv.ro/stiri/politic/surse-primele-nume-vehiculate-pentru-guvernul-niculescu-psd-ar-putea-prelua-portofolii-mari-un-minister-ar-urma-sa-dispara.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A PSD vezetői kormányra juttatnák a pártot, Grindeanu viszont elkerülné azt, szerdán döntenek",
+        "link": "https://transtelex.ro/kozelet/2026/10/14/a-psd-vezetoi-kormanyra-juttatnak-a-partot-grindeanu-viszont-elkerulne-azt-szerdan-dontenek"
+      },
+      {
+        "source": "Maszol",
+        "title": "Fordulat jöhet, a PSD is hajlik a patthelyzet feloldására",
+        "link": "https://maszol.ro/belfold/Fordulat-johet-a-PSD-is-hajlik-a-patthelyzet-feloldasara"
+      },
+      {
+        "source": "Mediafax",
+        "title": "What a Luca Niculescu-led government might look like if the PSD decides to join the administration",
+        "link": "https://www.mediafax.ro/english/what-a-luca-niculescu-led-government-might-look-like-if-the-psd-decides-to-join-the-administration-23825171"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Guvernul Luca Niculescu ar putea fi cel mai dominat de PSD de la era Dragnea. Social-democrații ar urma să controleze aproape două treimi dintre ministere",
+        "link": "https://www.mediafax.ro/stirile-zilei/guvernul-luca-niculescu-ar-putea-fi-cel-mai-dominat-de-psd-de-la-era-dragnea-social-democratii-ar-urma-sa-controleze-aproape-doua-treimi-dintre-ministere-23825237"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ședința decisivă a PSD pentru intrarea la guvernare a început la Vila Lac. Se conturează cel mai puternic Guvern PSD de la era Dragnea",
+        "link": "https://www.mediafax.ro/politic/sedinta-decisiva-a-psd-pentru-intrarea-la-guvernare-a-inceput-la-vila-lac-se-contureaza-cel-mai-puternic-guvern-psd-de-la-era-dragnea-23824950"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
+        "link": "https://www.g4media.ro/breaking-psd-a-decis-sa-intre-in-guvernul-luca-niculescu-surse.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "PSD a decis să intre la guvernare. Conducerea partidului a stabilit și lista de miniștri în Guvernul Luca Niculescu",
+        "link": "https://hotnews.ro/psd-a-decis-sa-intre-la-guvernare-conducerea-partidului-a-stabilit-si-lista-de-ministri-2376053"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PSD a decis să intre în Guvernul Luca Niculescu. PSD a votat lista celor 11 miniștri pentru Guvernul Luca Niculescu. Marian Neacșu, vicepremier și ministru de Interne.",
+        "link": "https://www.mediafax.ro/politic/psd-a-decis-sa-intre-in-guvernul-luca-niculescu-psd-a-votat-lista-celor-11-ministri-pentru-guvernul-luca-niculescu-marian-neacsu-vicepremier-si-ministru-de-interne-23824950"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "SURSE: PSD va susține guvernul Luca Niculescu. Lista miniștrilor care vor face parte din noul Executiv",
+        "link": "https://stirileprotv.ro/stiri/politic/surse-psd-va-sustine-guvernul-luca-niculescu-lista-ministrilor-care-vor-face-parte-din-noul-executiv.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PSD a validat lista celor 11 miniștri pentru Guvernul Luca Niculescu. Cine intră în noul Executiv și ce ministere vor conduce",
+        "link": "https://www.mediafax.ro/politic/psd-a-validat-lista-celor-11-ministri-pentru-guvernul-luca-niculescu-cine-intra-in-noul-executiv-si-ce-ministere-vor-conduce-23825409"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cum va arăta guvernul Luca Niculescu. Împărțirea ministerelor între PSD și premierul desemnat",
+        "link": "https://stirileprotv.ro/stiri/politic/cum-va-arata-guvernul-luca-niculescu-impartirea-ministerelor-intre-psd-si-premierul-desemnat.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A PSD a kormányzati szerepvállalás mellett döntött, már a minisztereket is megszavazták",
+        "link": "https://transtelex.ro/kozelet/2026/10/14/a-psd-vezetosege-a-kormanyzati-szerepvallalas-mellett-dontott"
+      },
+      {
+        "source": "Economedia",
+        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
+        "link": "https://economedia.ro/breaking-psd-a-decis-sa-intre-cu-ministri-in-guvernul-luca-niculescu-grindeanu-s-a-abtinut-sorin-grindeanu-sansa-noastra-de-a-diminua-procentele-aur-este-sa-guvernam-bine-la-tipat-nu-c.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "PSD intră la guvernare şi va avea 11 miniştri dintr-un total de 15 în guvernul Luca Niculescu. Ministerele grele, precum cele ale Sănătăţii, Dezvoltării, Transporturilor şi Agriculturii, ajung astfel la social-democraţi. Sorin Grindeanu face declaraţii de presă la ora 19:00",
+        "link": "https://www.zf.ro/eveniment/psd-intra-guvernare-avea-11-ministri-dintr-total-15-guvernul-luca-niculescu-ministerele-grele-precum-cele-sanatatii-dezvoltarii-transporturilor-agriculturii-ajung-astfel-social-democrati-sorin-23260131"
+      },
+      {
+        "source": "Mediafax",
+        "title": "STENOGRAME din ședința PSD. Firea: „Am un doctorat în Nicușor Dan”. Grindeanu amenință miniștrii cu „roșu direct”, Manda cere reformă administrativă",
+        "link": "https://www.mediafax.ro/politic/stenograme-din-sedinta-psd-firea-am-un-doctorat-in-nicusor-dan-grindeanu-ameninta-ministrii-cu-rosu-direct-manda-cere-reforma-administrativa-23825437"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cine este Ștefan-Ovidiu Popa, propunerea PSD pentru Ministerul Transporturilor în Guvernul Niculescu și cu ce s-a ocupat înainte de a deveni deputat",
+        "link": "https://www.g4media.ro/cine-este-stefan-ovidiu-popa-propunerea-psd-pentru-ministerul-transporturilor-in-guvernul-niculescu-si-cu-ce-s-a-ocupat-inainte-de-a-deveni-deputat.html"
+      }
+    ],
+    "published_at": 1791995591,
+    "title_hu": "A PSD 11 miniszterrel lép be a Niculescu-kormányba",
+    "lead_hu": "A PSD október 14-én úgy döntött, hogy 11 miniszterrel részt vesz Luca Niculescu kormányában; a részvételről szóló szavazáson nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök, a kabinet támogatását viszont egyhangúlag fogadták el. A párt tíz prioritást szabott, többek között azt, hogy 2027-ben ne emelkedjenek a vállalkozásokat terhelő adók. Niculescu október 15-én nyújtja be a programot és a névsort; a parlamenti meghallgatások és a bizalmi szavazás várhatóan október 19–20-án lesznek, de a kormány beiktatása még nem történt meg.",
+    "content_hu": "• **Október 14-én a PSD vezetősége jóváhagyta a kormányzati részvételt.** A kabinet parlamenti támogatásáról egyhangúlag döntöttek, a miniszteri részvételről szóló szavazáson nyolcan tartózkodtak, köztük Sorin Grindeanu, Marcel Ciolacu és Ciprian Șerban.\n\n• **A PSD 11 jelöltet hagyott jóvá a tervezett 17 tárcára.** Marian Neacșu a belügyminiszteri és miniszterelnök-helyettesi, Ștefan Radu Oprea a védelmi, Florin Barbu a mezőgazdasági, Alexandru Rogobete az egészségügyi, Radu Marinescu az igazságügyi, Petre-Florin Manole a munkaügyi, Daniel Zamfir a gazdasági, Alexandru Stoica a fejlesztési, Ștefan Ovidiu Popa a közlekedési, Natalia Intotero a környezetvédelmi, Mihai Ghigiu pedig az uniós alapokért felelős tárca élére kerülhet.\n\n• **A további hat tárca jelöltjeit még egyeztetik.** A sajtóértesülések Alexandru Nazare-t említik pénzügyminiszterként, Sorin Costreie-t oktatási, Dan Neculăescu-t külügyi, Ioana Ciocan-t kulturális, Bogdan Dumitru-t pedig a kommunikációért és mesterséges intelligenciáért felelős tárca élére; az energiaügyi jelölt nem végleges. A korábbi értesülésekkel szemben a PSD jóváhagyott listáján a védelmi tárca Ștefan Radu Opreáé. A névsor és a tárcák a hivatalos benyújtásig változhatnak.\n\n• **A PSD tíz prioritást terjesztett elő.** Ezek között szerepel a költségvetési hiány és az elhalasztott tartozások parlamenti ismertetése 2026. november 1-ig; megállapodás az üzleti szférával és a szakszervezetekkel arról, hogy 2027-ben ne emelkedjenek az adók; a költségvetés kiigazítása, illetve az uniós és PNRR-projektek áttekintése; a gazdaságélénkítő intézkedések felgyorsítása november 15-ig; a 2027-es költségvetés elkészítése december 1-ig; a téli energia- és fűtésellátás biztosítása; a nyugdíjak, köztük a katonai és minimálnyugdíjak indexálása; a CASS eltörlése az anyák, veteránok és fogyatékossággal élők számára; valamint az 1500 fő alatti települések és egyes közszolgáltatások összevonásának megkezdése.\n\n• **A PSD hat hónap után értékeli a kormány teljesítményét.** Grindeanu gyors eredményeket, intenzív munkát és hatékony kommunikációt vár a miniszterektől, és azt mondta, gyenge teljesítmény esetén nem figyelmeztetés, hanem politikai következmény jöhet. Szerinte az AUR támogatottságát jó kormányzással lehet csökkenteni, nem hangos bírálatokkal.\n\n• **A 11 PSD-tárca a tervezett minisztériumok 64,7 százalékát jelentené.** Ez meghaladná a párt 2024-es, 21,96 százalékos képviselőházi eredményét; 2016-ban a PSD 45,47 százalékot szerzett. Az összevetés nem teljesen pontos, mert a korábbi kormányok összetétele és a tisztségek számítása eltért. A sajtó a kabinetet a PSD által leginkább dominált kormányok egyikeként jellemzi a 2017–2019-es időszak óta.\n\n• **A PNL és az RMDSZ parlamenten kívülről támogatná a kabinetet.** A PNL parlamenti frakciói elvi támogatásukról döntöttek, de ez nem végleges párthatározat; Ilie Bolojan szerint a liberálisok ellenzékben maradnak. A PNL kész megállapodást kötni Niculescuval, és feltételek teljesülése esetén hat hónapig nem kezdeményez vagy támogat bizalmatlansági indítványt. Kelemen Hunor bejelentette, hogy az RMDSZ a kormányt és programját a kabinet összetételétől függetlenül megszavazza.\n\n• **Az USR nem szavaz meg PSD-minisztereket tartalmazó kormányt, az AUR pedig elutasítja a kabinet támogatását.** Az USR a parlamenti többség tisztázását is feltételül szabta. A nemzeti kisebbségek frakciója korábban támogatást ígért.\n\n• **A kormány beiktatásához 233 szavazat szükséges.** A PNL-nek és az RMDSZ-nek együtt 111 képviselője van, az USR-rel együtt pedig 170; a PSD 127 képviselővel rendelkezik. A PSD részvétele, valamint a PNL és az RMDSZ támogatása javítja a kabinet esélyeit, de a parlamenti szavazás még hátravan.\n\n• **Nicușor Dan előrehozott választást helyezhet kilátásba, ha nem születik megállapodás.** Sajtóértesülések szerint azt üzente a pártvezetőknek, hogy ha csütörtökig nem jutnak átlátható egyezségre a kormány támogatásáról, pénteken bejelentheti a parlament feloszlatását. Grindeanu az előrehozott választást alkotmányos, de nem kívánatos lehetőségnek nevezte, és azt mondta, a PSD erre is készül.\n\n• **Niculescu október 15-én nyújtja be a kormányprogramot és a miniszterjelöltek listáját.** A meghallgatások és a bizalmi szavazás időpontjáról eltérő előrejelzések jelentek meg; a frissebb beszámolók október 19–20-át valószínűsítik. A kormány beiktatása még nem történt meg.\n\n• **A közlekedési tárca várományosáról szakmai tapasztalattal kapcsolatos kérdések merültek fel.** A G4Media szerint Ștefan-Ovidiu Popa önéletrajza nem mutat jelentős közlekedési vagy infrastruktúra-ágazati tapasztalatot; képviselővé válása előtt egy pénzügyi szolgáltatásokat nyújtó kölcsönös segélypénztárt vezetett.",
+    "title_ro": "PSD intră în Guvernul Niculescu cu 11 miniștri",
+    "lead_ro": "PSD a decis pe 14 octombrie să participe cu 11 miniștri la Guvernul Luca Niculescu. Opt membri s-au abținut la votul privind intrarea la guvernare, inclusiv liderul Sorin Grindeanu, în timp ce susținerea Cabinetului a fost aprobată în unanimitate. Partidul a prezentat zece priorități, între care menținerea taxelor pentru mediul de afaceri la nivelul actual în 2027; Niculescu urmează să depună programul și lista miniștrilor pe 15 octombrie, iar votul de învestitură este estimat, potrivit relatărilor mai recente, pentru 19–20 octombrie.",
+    "content_ro": "• **Pe 14 octombrie, conducerea PSD a aprobat participarea la guvernare.** Susținerea Cabinetului în Parlament a fost aprobată în unanimitate, iar la votul privind participarea cu miniștri s-au înregistrat opt abțineri, inclusiv cele ale lui Sorin Grindeanu, Marcel Ciolacu și Ciprian Șerban.\n\n• **PSD a validat 11 propuneri pentru cele 17 ministere planificate.** Marian Neacșu este propus la Interne și ca vicepremier, Ștefan Radu Oprea la Apărare, Florin Barbu la Agricultură, Alexandru Rogobete la Sănătate, Radu Marinescu la Justiție, Petre-Florin Manole la Muncă, Daniel Zamfir la Economie, Alexandru Stoica la Dezvoltare, Ștefan Ovidiu Popa la Transporturi, Natalia Intotero la Mediu și Mihai Ghigiu la Investiții și Proiecte Europene.\n\n• **Numele pentru celelalte șase portofolii sunt încă în discuție.** Presa îi menționează pe Alexandru Nazare la Finanțe, Sorin Costreie la Educație, Dan Neculăescu la Externe, Ioana Ciocan la Cultură și Bogdan Dumitru la Comunicații și Inteligență Artificială; nominalizarea pentru Energie nu este definitivă. Spre deosebire de unele informații apărute anterior, lista aprobată de PSD îl propune pe Ștefan Radu Oprea la Apărare. Lista și repartizarea portofoliilor se pot schimba până la depunerea oficială.\n\n• **PSD a prezentat zece priorități.** Acestea includ prezentarea în Parlament a deficitului bugetar și a datoriilor amânate până la 1 noiembrie 2026; un memorandum cu mediul de afaceri și sindicatele pentru a nu crește taxele în 2027; rectificarea bugetară și inventarierea proiectelor UE și PNRR; accelerarea măsurilor de relansare economică până la 15 noiembrie; elaborarea bugetului pe 2027 până la 1 decembrie; asigurarea energiei și încălzirii în sezonul rece; indexarea pensiilor, inclusiv a celor militare și a pensiei minime; eliminarea CASS pentru mame, veterani și persoane cu dizabilități; precum și demararea comasării localităților cu până la 1.500 de locuitori și a unor servicii publice.\n\n• **PSD va evalua activitatea Guvernului după șase luni.** Grindeanu le cere miniștrilor rezultate rapide, muncă intensă și comunicare eficientă și a avertizat că performanța slabă va avea consecințe politice. El susține că PSD poate reduce sprijinul pentru AUR printr-o guvernare bună, nu prin critici zgomotoase.\n\n• **Cele 11 portofolii PSD ar reprezenta 64,7% din ministerele planificate.** Proporția ar depăși rezultatul PSD de 21,96% la Camera Deputaților în 2024; în 2016, partidul obținuse 45,47%. Comparația nu este perfectă, deoarece structura guvernelor anterioare și modul de numărare a funcțiilor au fost diferite. Presa descrie Cabinetul drept unul dintre cele mai dominate de PSD de după perioada 2017–2019.\n\n• **PNL și UDMR ar susține Guvernul din Parlament, fără să intre în Executiv.** Grupurile parlamentare ale PNL și-au exprimat sprijinul de principiu, dar decizia nu reprezintă încă hotărârea finală a partidului; Ilie Bolojan a spus că liberalii rămân în opoziție. PNL este dispus să încheie un acord cu Niculescu și, dacă sunt respectate condițiile convenite, să nu inițieze sau să voteze o moțiune de cenzură timp de șase luni. Kelemen Hunor a anunțat că UDMR va vota Guvernul și programul indiferent de componența Cabinetului.\n\n• **USR nu va vota un Guvern cu miniștri PSD, iar AUR refuză să susțină Cabinetul.** USR a cerut și clarificarea majorității parlamentare. Grupul minorităților naționale anunțase anterior că va susține învestirea.\n\n• **Pentru învestirea Guvernului sunt necesare 233 de voturi.** PNL și UDMR au împreună 111 deputați, iar împreună cu USR, 170; PSD are 127 de deputați. Participarea PSD și sprijinul PNL și UDMR îmbunătățesc șansele Cabinetului, însă votul parlamentar nu a avut încă loc.\n\n• **Nicușor Dan ar putea invoca alegerile anticipate dacă nu se ajunge la un acord.** Potrivit informațiilor din presă, președintele le-ar fi transmis liderilor de partid că, dacă până joi nu se ajunge la o înțelegere transparentă privind susținerea Guvernului, vineri ar putea anunța dizolvarea Parlamentului. Grindeanu a calificat alegerile anticipate drept o opțiune constituțională, dar nedorită, și a spus că PSD se pregătește și pentru acest scenariu.\n\n• **Niculescu urmează să depună programul de guvernare și lista miniștrilor pe 15 octombrie.** Calendarul audierilor și al votului de învestitură a fost relatat diferit; informațiile mai recente indică cel mai probabil 19–20 octombrie. Guvernul nu a fost încă învestit.\n\n• **Au fost ridicate întrebări privind experiența profesională a propunerii pentru Transporturi.** Potrivit G4Media, CV-ul lui Ștefan-Ovidiu Popa nu indică experiență importantă în transporturi sau infrastructură; înainte de a deveni deputat, acesta a condus o casă de ajutor reciproc care oferea servicii financiare."
+  },
+  {
+    "group_id": "group_2a4ae616d9",
+    "fingerprint": "85d118e89499433b60006ffce5fb8ef1",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Două avioane F-16 au fost ridicate în această seară, după ce sistemul radar a detectat o nouă țintă în apropierea Insulei Șerpilor",
+        "link": "https://www.digi24.ro/stiri/actualitate/doua-avioane-f-16-au-fost-ridicate-in-aceasta-seara-dupa-ce-sistemul-radar-a-detectat-o-noua-tinta-in-apropierea-insulei-serpilor-3992577"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alertă aeriană în Tulcea: țintă aeriană la aproximativ 30 de km est de Insula Șerpilor",
+        "link": "https://www.mediafax.ro/social/alerta-aeriana-in-tulcea-tinta-aeriana-la-aproximativ-30-de-km-est-de-insula-serpilor-23825481"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O nouă dronă a pătruns în spațiul aerian al României. Două avioane F-16 au fost ridicate de la sol",
+        "link": "https://stirileprotv.ro/stiri/actualitate/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-doua-avioane-f-16-au-fost-ridicate-de-la-borcea.html"
+      }
+    ],
+    "published_at": 1791995495,
+    "title_hu": "Több RO-Alert-riasztás Tulcea megyében: drónok miatt két alkalommal is megsértették Románia légterét",
+    "lead_hu": "Október 14-én drónveszély miatt több RO-Alert-riasztást kaptak Tulcea megye lakói. A reggeli riasztások során egy drón rövid időre belépett Románia légterébe, délután pedig egy másik légi célpont is átrepült a román légtér egy részén, majd távozott; az esti riasztás 19:03-kor ért véget.",
+    "content_hu": "• **Október 14-én, szerda reggel** drónok lehetséges berepülésére figyelmeztető RO-Alert-riasztást kaptak Tulcea megye északi részének lakói.\n\n• **Az első riasztást 6:39-kor adták ki, és körülbelül 7:58-kor fújták le.** A lakosságot nyugalomra intették, és arra kérték, hogy húzódjon pincébe vagy polgári védelmi óvóhelyre; ha ilyen nem áll rendelkezésre, maradjon otthon, távol az ablakoktól és a külső falaktól.\n\n• **A román védelmi minisztérium radarjai három légi célt észleltek** az ukrajnai Vâlkove közelében, a román határ térségében. A minisztérium szerint ezek nem léptek be Románia légterébe.\n\n• **A légierő két F-16-os vadászgépet és egy IAR-330 SOCAT helikoptert indított** a helyzet megfigyelésére; a vadászgépek a borceai 86-os légibázisról szálltak fel.\n\n• **Körülbelül 8:20-kor újabb RO-Alert-riasztást adtak ki** Tulcea megye északi részén. A figyelmeztetés a légből lezuhanó tárgyak becsapódásának veszélyére is felhívta a figyelmet.\n\n• **10:19-kor újabb riasztást adtak ki** Tulcea megye keleti és északi részére, miután a radarok egy másik drónt észleltek a román határ közelében. Két F-16-os vadászgépet ismét a levegőbe emeltek, ezúttal is a borceai 86-os légibázisról.\n\n• **A később észlelt drón rövid időre belépett Románia légterébe** a Fekete-tenger fölött, Sulina keleti térségében, majd átrepült Ukrajna légterébe, ahol az ukrán légvédelem lelőtte. A riasztás 11:22-kor ért véget.\n\n• **Délután újabb légi célt észleltek** a Kígyó-szigettől mintegy 30 kilométerre keletre. Két F-16-os vadászgép szállt fel, és 17:39-kor RO-Alert-üzenetet küldtek Tulcea megye északi és keleti részének lakóinak.\n\n• **A délutáni légi cél 17:38-kor lépett be a román légtérbe**, Sulinától mintegy 22 kilométerre északkeletre, a román felségvizek fölött. A román légteret 17:46-kor hagyta el; az ehhez kapcsolódó riasztás 19:03-kor ért véget.\n\n• **Az ISU Tulcea közlése szerint** a reggeli riasztás után nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **Az idei RO-Alert-üzenetek száma** Tulcea megyében már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.\n\n• **A Cancan által idézett hivatalos adatok szerint 2026. szeptember 27-ig** 81, a román határ közelében történt támadást, 30 jogosulatlan légtérsértést és négy lelőtt drónt tartottak nyilván.",
+    "title_ro": "Mai multe alerte RO-Alert în Tulcea: dronele au pătruns de două ori în spațiul aerian al României",
+    "lead_ro": "Pe 14 octombrie, locuitorii județului Tulcea au primit mai multe mesaje RO-Alert privind riscul unor incursiuni de drone. În timpul alertelor de dimineață, o dronă a intrat pentru scurt timp în spațiul aerian românesc, iar după-amiază o altă țintă aeriană a traversat o porțiune a acestuia; alerta de seară a încetat la ora 19:03.",
+    "content_ro": "• **Miercuri dimineață, 14 octombrie,** locuitorii din nordul județului Tulcea au primit un mesaj RO-Alert privind o posibilă incursiune a unor drone.\n\n• **Prima alertă a fost transmisă la ora 6:39 și a încetat în jurul orei 7:58.** Oamenii au fost îndemnați să-și păstreze calmul și să se adăpostească în beciuri sau în adăposturi de protecție civilă; în lipsa acestora, să rămână în locuințe, departe de ferestre și de pereții exteriori.\n\n• **Radarele Ministerului Apărării din România au detectat trei ținte aeriene** în apropierea localității Vâlkove, în Ucraina, lângă granița cu România. Potrivit ministerului, acestea nu au intrat în spațiul aerian național.\n\n• **Forțele Aeriene Române au ridicat de la sol două aeronave F-16 și un elicopter IAR-330 SOCAT** pentru monitorizarea situației; avioanele au decolat de la Baza 86 Aeriană Borcea.\n\n• **În jurul orei 8:20 a fost transmisă o nouă alertă RO-Alert** pentru nordul județului Tulcea. Mesajul avertiza și asupra riscului de cădere a unor obiecte din aer.\n\n• **La ora 10:19 a fost transmisă o nouă alertă** pentru zonele de est și nord ale județului Tulcea, după ce radarele au detectat o altă dronă în apropierea graniței. Două aeronave F-16 au fost ridicate din nou de la sol, tot de la Baza 86 Aeriană Borcea.\n\n• **Drona detectată ulterior a intrat pentru scurt timp în spațiul aerian românesc** deasupra Mării Negre, la est de Sulina, apoi a trecut în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Alerta a încetat la ora 11:22.\n\n• **După-amiază a fost detectată o nouă țintă aeriană,** la aproximativ 30 de kilometri est de Insula Șerpilor. Două aeronave F-16 au decolat, iar la ora 17:39 a fost transmis un mesaj RO-Alert pentru locuitorii din nordul și estul județului Tulcea.\n\n• **Ținta aeriană a intrat în spațiul aerian românesc la ora 17:38,** la aproximativ 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale românești. A părăsit spațiul aerian național la ora 17:46, iar alerta aferentă a încetat la ora 19:03.\n\n• **Potrivit ISU Tulcea,** după alerta de dimineață nu au fost primite apeluri de urgență și nu au fost raportate incidente în zona vizată.\n\n• **Numărul mesajelor RO-Alert transmise în acest an** în județul Tulcea l-a depășit deja pe cel al mesajelor de alertă extremă transmise în România din același motiv în perioada 2023–2025.\n\n• **Potrivit datelor oficiale citate de Cancan, până la 27 septembrie 2026** au fost înregistrate 81 de atacuri în apropierea graniței României, 30 de pătrunderi neautorizate în spațiul aerian și patru drone doborâte."
+  },
+  {
+    "group_id": "group_58060ad50a",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260195/1/medlife-photo-2.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "MedLife explică de ce vrea să-şi majoreze capitalul cu până la 20%: achiziţii, extindere în regiune şi o finanţare a creşterii mai puţin dependentă de credite, fără o sumă stabilită",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/medlife-explica-de-ce-vrea-sa-si-majoreze-capitalul-cu-pana-la-20-achizitii-extindere-in-regiune-si-o-finantare-a-cresterii-mai-putin-dependenta-de-credite-fara-o-suma-stabilita-23260195"
+      }
+    ],
+    "published_at": 1791995383,
+    "title_hu": "MedLife explică de ce vrea să-şi majoreze capitalul cu până la 20%: achiziţii, extindere în regiune şi o finanţare a creşterii mai puţin dependentă de credite, fără o sumă stabilită",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "MedLife explică de ce vrea să-şi majoreze capitalul cu până la 20%: achiziţii, extindere în regiune şi o finanţare a creşterii mai puţin dependentă de credite, fără o sumă stabilită",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4cad8b4a88",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260193/1/purcari.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Bursă. Polonezii de la Maspex au trecut de pragul de 75% din acţiunile producătorului de vinuri Purcari, după ce au mai cumpărat peste 900.000 de acţiuni de la oferta de preluare din 2025",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-polonezii-de-la-maspex-au-trecut-de-pragul-de-75-din-actiunile-producatorului-de-vinuri-purcari-dupa-ce-au-mai-cumparat-peste-900-000-de-actiuni-de-la-oferta-de-preluare-din-2025-23260193"
+      }
+    ],
+    "published_at": 1791995344,
+    "title_hu": "Bursă. Polonezii de la Maspex au trecut de pragul de 75% din acţiunile producătorului de vinuri Purcari, după ce au mai cumpărat peste 900.000 de acţiuni de la oferta de preluare din 2025",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Bursă. Polonezii de la Maspex au trecut de pragul de 75% din acţiunile producătorului de vinuri Purcari, după ce au mai cumpărat peste 900.000 de acţiuni de la oferta de preluare din 2025",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_24c6292913",
+    "fingerprint": "109d1e97b0da93bfbfde7a69df687789",
+    "category": "Kultúra",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/8079389-hepta_mediafax_foto-abacapress_hepta-1-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Luvru riscă să-și închidă porțile dacă nu este renovat. Avertismentul conducerii celui mai cunoscut muzeu din Paris",
+        "link": "https://www.mediafax.ro/cultura-media/luvru-risca-sa-si-inchida-portile-daca-nu-este-renovat-avertismentul-conducerii-celui-mai-cunoscut-muzeu-din-paris-23825351"
+      },
+      {
+        "source": "Digi24",
+        "title": "După jaful bijuteriilor coroanei, Luvrul se confruntă cu noi probleme. Directorul muzeului avertizează asupra riscului de închidere",
+        "link": "https://www.digi24.ro/stiri/externe/ue/dupa-jaful-bijuteriilor-coroanei-luvrul-se-confrunta-cu-noi-probleme-directorul-muzeului-avertizeaza-asupra-riscului-de-inchidere-3992537"
+      }
+    ],
+    "published_at": 1791995342,
+    "title_hu": "A Louvre felújítás nélkül bezárhat – figyelmeztet az igazgató",
+    "lead_hu": "Christophe Leribault igazgató szerint a Louvre-nak átfogó felújításra, infrastrukturális korszerűsítésre és biztonsági beruházásokra van szüksége, különben a múzeum végül kénytelen lehet bezárni a látogatók előtt. A munkálatok finanszírozása és a beruházások prioritásai politikai vitát váltottak ki Franciaországban.",
+    "content_hu": "• **Christophe Leribault figyelmeztetése szerint** ha a Louvre épületét nem javítják meg, nem korszerűsítik és nem alakítják át, a múzeum végül bezárhatja kapuit a közönség előtt.\n\n• **A felújítás sürgető oka** az épület és infrastruktúrája romló állapota, a túlzsúfoltság, valamint a biztonsági hiányosságok. A Louvre tavaly mintegy kilencmillió látogatót fogadott.\n\n• **A 2025. október 19-i ékszerrablás után** a biztonság javítása kiemelt feladattá vált. A 83 millió eurós biztonsági terv része egy biztonsági vezetői poszt létrehozása, a kamerahálózat korszerűsítése, valamint a múzeum kerületének és belépési pontjainak jobb megfigyelése.\n\n• **A tervezett beruházások finanszírozása vitatott.** A Louvre magánforrásokat is bevonna, de jelentős állami támogatásra is szükség lehet. Emmanuel Macron 600 millió eurós felújítási tervet támogat, amely új bejárat építését is tartalmazná.\n\n• **A kritikusok és a szakszervezetek a prioritásokat vitatják:** szerintük a nagyszabású építészeti tervek helyett előbb a mindennapi problémákat, például az elavult mosdókat, egyes galériák gyenge szigetelését és a zsúfolt közösségi tereket kellene kezelni.",
+    "title_ro": "Luvrul riscă să se închidă fără renovări, avertizează directorul",
+    "lead_ro": "Directorul Christophe Leribault spune că Luvrul are nevoie de renovări ample, de modernizarea infrastructurii și de investiții în securitate, în caz contrar muzeul putând ajunge să-și închidă porțile publicului. Finanțarea lucrărilor și prioritățile investițiilor au devenit subiect de dispută politică în Franța.",
+    "content_ro": "• **Avertismentul lui Christophe Leribault** este că, dacă Luvrul nu este reparat, modernizat și transformat, muzeul ar putea ajunge în cele din urmă să-și închidă porțile pentru public.\n\n• **Nevoia de renovare** este legată de degradarea clădirii și a infrastructurii, de supraaglomerare și de deficiențele de securitate. Luvrul a primit aproximativ nouă milioane de vizitatori anul trecut.\n\n• **După jaful din 19 octombrie 2025**, îmbunătățirea securității a devenit o prioritate. Planul de securitate, în valoare de 83 de milioane de euro, include crearea unui post de șef al securității, modernizarea camerelor de supraveghere și monitorizarea mai bună a perimetrului și a punctelor de acces.\n\n• **Finanțarea investițiilor planificate este controversată.** Luvrul intenționează să atragă și surse private, dar ar putea avea nevoie de fonduri publice importante. Emmanuel Macron susține un proiect de renovare de 600 de milioane de euro, care ar include construirea unei noi intrări.\n\n• **Criticii și sindicatele contestă prioritățile proiectului:** în opinia lor, înaintea planurilor arhitecturale de amploare ar trebui rezolvate problemele cotidiene, precum instalațiile sanitare vechi, izolarea insuficientă a unor galerii și aglomerația din spațiile publice."
+  },
+  {
+    "group_id": "group_291818249b",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/8db90297-fedc-4d7d-8af7-b8b5d60a7282.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Dan Petrescu l-a monitorizat „non-stop” pe Gigi Becali: „Mi-a zis: «Bă, nu le-a făcut el»”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/dan-petrescu-gigi-becali-fcsb-reghecampf-otelul-galati-988108.html"
+      }
+    ],
+    "published_at": 1791995270,
+    "title_hu": "Dan Petrescu l-a monitorizat „non-stop” pe Gigi Becali: „Mi-a zis: «Bă, nu le-a făcut el»”",
+    "lead_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat d…",
+    "content_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat de roș-albaștri cu 1-0, în etapa a 11-a din Superliga. Partida a reprezentat debutul lui Laurențiu Reghecampf pe banca tehnică a roș-albaștrilor, iar Gigi Becali și-a făcut apariția pe Arena Națională. ...",
+    "title_ro": "Dan Petrescu l-a monitorizat „non-stop” pe Gigi Becali: „Mi-a zis: «Bă, nu le-a făcut el»”",
+    "lead_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat d…",
+    "content_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat de roș-albaștri cu 1-0, în etapa a 11-a din Superliga. Partida a reprezentat debutul lui Laurențiu Reghecampf pe banca tehnică a roș-albaștrilor, iar Gigi Becali și-a făcut apariția pe Arena Națională. ..."
+  },
+  {
+    "group_id": "group_213e5b5677",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23260180/4/20261014-093426.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "AI-ul nu îi va înlocui pe trezorieri în viitor, dar le va schimba profesia. „Profesia de trezorier s-a transformat dintr-una în care eram cei care făceam plăţile într-o profesie în care suntem cei care ţinem compania pe linia de plutire şi o menţinem funcţională în vremurile grele”",
+        "link": "https://www.zf.ro/banci-si-asigurari/ul-ii-inlocui-trezorieri-viitor-le-schimba-profesia-profesia-trezorier-s-transformat-dintr-una-eram-cei-faceam-platile-intr-profesie-cei-tinem-compania-linia-plutire-mentinem-functionala-vremurile-23260180"
+      }
+    ],
+    "published_at": 1791995155,
+    "title_hu": "AI-ul nu îi va înlocui pe trezorieri în viitor, dar le va schimba profesia. „Profesia de trezorier s-a transformat dintr-una în care eram cei care făceam plăţile într-o profesie în care suntem cei care ţinem compania pe linia de plutire şi o menţinem funcţională în vremurile grele”",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "AI-ul nu îi va înlocui pe trezorieri în viitor, dar le va schimba profesia. „Profesia de trezorier s-a transformat dintr-una în care eram cei care făceam plăţile într-o profesie în care suntem cei care ţinem compania pe linia de plutire şi o menţinem funcţională în vremurile grele”",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_446ae57b53",
+    "category": "Erdély",
+    "image": "https://cdn.adh.reperio.news/image-c/c6284e23-d8e0-499b-a5a8-c09e8baa165c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Accident grav pe DN 13, în Mureș. Un autocar și un camion s-au ciocnit. Cinci persoane, rănite",
+        "link": "https://adevarul.ro/stiri-locale/targu-mures/accident-grav-pe-dn-13-in-mures-un-autocar-si-un-2564050.html"
+      }
+    ],
+    "published_at": 1791995147,
+    "title_hu": "Accident grav pe DN 13, în Mureș. Un autocar și un camion s-au ciocnit. Cinci persoane, rănite",
+    "lead_hu": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenți…",
+    "content_hu": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenția echipajelor de salvare este în desfășurare.",
+    "title_ro": "Accident grav pe DN 13, în Mureș. Un autocar și un camion s-au ciocnit. Cinci persoane, rănite",
+    "lead_ro": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenți…",
+    "content_ro": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenția echipajelor de salvare este în desfășurare."
+  },
+  {
+    "group_id": "group_13791f3882",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/01/justitie-1-1024x768.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Dosar penal după anularea alegerilor prezidențiale din 2024. Parchetul General a început urmărirea penală in rem",
+        "link": "https://www.mediafax.ro/politic/dosar-penal-dupa-anularea-alegerilor-prezidentiale-din-2024-parchetul-general-a-inceput-urmarirea-penala-in-rem-23825457"
+      }
+    ],
+    "published_at": 1791994910,
+    "title_hu": "Dosar penal după anularea alegerilor prezidențiale din 2024. Parchetul General a început urmărirea penală in rem",
+    "lead_hu": "Parchetul de pe lângă Înalta Curte de Casație și Justiție a anunțat miercuri că a fost începută urmărirea penală in rem într-un dosar constituit în urma depunerii a peste 600 de plângeri legate de anu…",
+    "content_hu": "Parchetul de pe lângă Înalta Curte de Casație și Justiție a anunțat miercuri că a fost începută urmărirea penală in rem într-un dosar constituit în urma depunerii a peste 600 de plângeri legate de anularea alegerilor prezidențiale din decembrie 2024.",
+    "title_ro": "Dosar penal după anularea alegerilor prezidențiale din 2024. Parchetul General a început urmărirea penală in rem",
+    "lead_ro": "Parchetul de pe lângă Înalta Curte de Casație și Justiție a anunțat miercuri că a fost începută urmărirea penală in rem într-un dosar constituit în urma depunerii a peste 600 de plângeri legate de anu…",
+    "content_ro": "Parchetul de pe lângă Înalta Curte de Casație și Justiție a anunțat miercuri că a fost începută urmărirea penală in rem într-un dosar constituit în urma depunerii a peste 600 de plângeri legate de anularea alegerilor prezidențiale din decembrie 2024."
+  },
+  {
+    "group_id": "group_2300b15607",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cine este Radu Oprea, propus ministru al Apărării în Guvernul Niculescu. A fost trimis în judecată, dar Înalta Curte a respins dosarul",
+        "link": "https://hotnews.ro/cine-este-radu-oprea-propus-ministru-al-apararii-in-guvernul-niculescu-2375629"
+      }
+    ],
+    "published_at": 1791994887,
+    "title_hu": "Cine este Radu Oprea, propus ministru al Apărării în Guvernul Niculescu. A fost trimis în judecată, dar Înalta Curte a respins dosarul",
+    "lead_hu": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a a…",
+    "content_hu": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a absolvit în 1994, Facultatea de Utilaj Tehnologic din cadrul Universității de Petrol și Gaze din Ploiești, potrivit CV-ului său oficial. El a lucrat …",
+    "title_ro": "Cine este Radu Oprea, propus ministru al Apărării în Guvernul Niculescu. A fost trimis în judecată, dar Înalta Curte a respins dosarul",
+    "lead_ro": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a a…",
+    "content_ro": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a absolvit în 1994, Facultatea de Utilaj Tehnologic din cadrul Universității de Petrol și Gaze din Ploiești, potrivit CV-ului său oficial. El a lucrat …"
+  },
+  {
+    "group_id": "group_845accf0bd",
+    "category": "Erdély",
+    "image": "https://storage.ghost.io/c/4c/64/4c643208-156b-4d4a-a219-b28f7d4d3d90/content/images/2026/10/kamilla.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Udvarhelyi Hírportál (UH.ro)",
+        "title": "A kamillateát inkább idd meg te: a kéretlen tanácsadás elviselhetetlen könnyűsége",
+        "link": "https://www.uh.ro/a-kamillateat-inkabb-idd-meg-te-a-keretlen-tanacsadas-elviselhetetlen-konnyusege/"
+      }
+    ],
+    "published_at": 1791994769,
+    "title_hu": "A kamillateát inkább idd meg te: a kéretlen tanácsadás elviselhetetlen könnyűsége",
+    "lead_hu": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni.",
+    "content_hu": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni.",
+    "title_ro": "A kamillateát inkább idd meg te: a kéretlen tanácsadás elviselhetetlen könnyűsége",
+    "lead_ro": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni.",
+    "content_ro": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni."
+  },
+  {
+    "group_id": "group_1c53373b73",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/4abd5572-4729-427b-b012-6fc3fb7b6f9d.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Veste bună pentru Rapid! A revenit azi sub comanda lui Daniel Pancu",
+        "link": "https://www.gsp.ro/fotbal/liga-1/jason-kodor-revenire-antrenamente-rapid-daniel-pancu-988023.html"
+      }
+    ],
+    "published_at": 1791994673,
+    "title_hu": "Veste bună pentru Rapid! A revenit azi sub comanda lui Daniel Pancu",
+    "lead_hu": "Jason Kodor (20 de ani), atacantul Rapidului, s-a recuperat după accidentarea la genunchi suferită săptămâna trecută. Tânărul fotbalist, care a ratat deplasarea cu Universitatea Cluj, scor 4-3, din et…",
+    "content_hu": "Jason Kodor (20 de ani), atacantul Rapidului, s-a recuperat după accidentarea la genunchi suferită săptămâna trecută. Tânărul fotbalist, care a ratat deplasarea cu Universitatea Cluj, scor 4-3, din etapa a 11-a a Superligii, a revenit la antrenamente și poate fi o soluție pentru Daniel Pancu la următorul meci al giuleștenilor. Din informațiile GSP. ...",
+    "title_ro": "Veste bună pentru Rapid! A revenit azi sub comanda lui Daniel Pancu",
+    "lead_ro": "Jason Kodor (20 de ani), atacantul Rapidului, s-a recuperat după accidentarea la genunchi suferită săptămâna trecută. Tânărul fotbalist, care a ratat deplasarea cu Universitatea Cluj, scor 4-3, din et…",
+    "content_ro": "Jason Kodor (20 de ani), atacantul Rapidului, s-a recuperat după accidentarea la genunchi suferită săptămâna trecută. Tânărul fotbalist, care a ratat deplasarea cu Universitatea Cluj, scor 4-3, din etapa a 11-a a Superligii, a revenit la antrenamente și poate fi o soluție pentru Daniel Pancu la următorul meci al giuleștenilor. Din informațiile GSP. ..."
+  },
+  {
+    "group_id": "group_55b19e4005",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2024/08/Cele-4-zodii-afectate-de-Mercur-in-retrograd.-Ce-se-intampla-din-5-august-2024.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Mercur retrograd răscolește trecutul amoros! Zodiile care ar putea primi mesaje de la foștii parteneri",
+        "link": "https://www.cancan.ro/mercur-retrograd-rascoleste-trecutul-amoros-zodiile-care-ar-putea-primi-mesaje-de-la-fostii-parteneri-21530172"
+      }
+    ],
+    "published_at": 1791994567,
+    "title_hu": "Mercur retrograd răscolește trecutul amoros! Zodiile care ar putea primi mesaje de la foștii parteneri",
+    "lead_hu": "Ultima retrogradare a lui Mercur din 2026 se apropie, iar perioada cuprinsă între 24 octombrie și 13 noiembrie este asociată, în astrologie, cu revenirea unor persoane din trecut, reluarea unor conver…",
+    "content_hu": "Ultima retrogradare a lui Mercur din 2026 se apropie, iar perioada cuprinsă între 24 octombrie și 13 noiembrie este asociată, în astrologie, cu revenirea unor persoane din trecut, reluarea unor conversații neterminate și reevaluarea relațiilor sentimentale. Tranzitul se desfășoară în întregime în zodia Scorpionului, un semn legat de intensitatea emoțională, secrete, încredere și atașamente puternice. […]",
+    "title_ro": "Mercur retrograd răscolește trecutul amoros! Zodiile care ar putea primi mesaje de la foștii parteneri",
+    "lead_ro": "Ultima retrogradare a lui Mercur din 2026 se apropie, iar perioada cuprinsă între 24 octombrie și 13 noiembrie este asociată, în astrologie, cu revenirea unor persoane din trecut, reluarea unor conver…",
+    "content_ro": "Ultima retrogradare a lui Mercur din 2026 se apropie, iar perioada cuprinsă între 24 octombrie și 13 noiembrie este asociată, în astrologie, cu revenirea unor persoane din trecut, reluarea unor conversații neterminate și reevaluarea relațiilor sentimentale. Tranzitul se desfășoară în întregime în zodia Scorpionului, un semn legat de intensitatea emoțională, secrete, încredere și atașamente puternice. […]"
+  },
+  {
     "group_id": "group_9d1d5e4694",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -155,59 +585,6 @@
     "title_ro": "Ce condamnare a primit bărbatul din Prahova care, acum un an, şi-a bătut apoi și-a ucis amanta, trecând cu maşina peste ea",
     "lead_ro": "Bărbatul acuzat de uciderea amantei sale, după ce a bătut-o pe femeie în localitatea prahoveană Baba Ana, iar apoi a trecut cu maşina peste corpul acesteia, a fost condamnat, miercuri, la închisoare p…",
     "content_ro": "Bărbatul acuzat de uciderea amantei sale, după ce a bătut-o pe femeie în localitatea prahoveană Baba Ana, iar apoi a trecut cu maşina peste corpul acesteia, a fost condamnat, miercuri, la închisoare pe viaţă, decizia nefiind definitivă."
-  },
-  {
-    "group_id": "group_746ea01c03",
-    "fingerprint": "3336504aa953bdaceb9d19e9996b6cb9",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Ședința decisivă a PSD pentru intrarea la guvernare a început la Vila Lac. Se conturează cel mai puternic Guvern PSD de la era Dragnea",
-        "link": "https://www.mediafax.ro/politic/sedinta-decisiva-a-psd-pentru-intrarea-la-guvernare-a-inceput-la-vila-lac-se-contureaza-cel-mai-puternic-guvern-psd-de-la-era-dragnea-23824950"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "PSD a decis să intre la guvernare. Conducerea partidului a stabilit și lista de miniștri în Guvernul Luca Niculescu",
-        "link": "https://hotnews.ro/psd-a-decis-sa-intre-la-guvernare-conducerea-partidului-a-stabilit-si-lista-de-ministri-2376053"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cum va arăta guvernul Luca Niculescu. Împărțirea ministerelor între PSD și premierul desemnat",
-        "link": "https://stirileprotv.ro/stiri/politic/cum-va-arata-guvernul-luca-niculescu-impartirea-ministerelor-intre-psd-si-premierul-desemnat.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "A PSD a kormányzati szerepvállalás mellett döntött, már a minisztereket is megszavazták",
-        "link": "https://transtelex.ro/kozelet/2026/10/14/a-psd-vezetosege-a-kormanyzati-szerepvallalas-mellett-dontott"
-      },
-      {
-        "source": "Mediafax",
-        "title": "STENOGRAME din ședința PSD. Firea: „Am un doctorat în Nicușor Dan”. Grindeanu amenință miniștrii cu „roșu direct”, Manda cere reformă administrativă",
-        "link": "https://www.mediafax.ro/politic/stenograme-din-sedinta-psd-firea-am-un-doctorat-in-nicusor-dan-grindeanu-ameninta-ministrii-cu-rosu-direct-manda-cere-reforma-administrativa-23825437"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cine este Ștefan-Ovidiu Popa, propunerea PSD pentru Ministerul Transporturilor în Guvernul Niculescu și cu ce s-a ocupat înainte de a deveni deputat",
-        "link": "https://www.g4media.ro/cine-este-stefan-ovidiu-popa-propunerea-psd-pentru-ministerul-transporturilor-in-guvernul-niculescu-si-cu-ce-s-a-ocupat-inainte-de-a-deveni-deputat.html"
-      },
-      {
-        "source": "Economedia",
-        "title": "BREAKING | VIDEO | PSD intră oficial în Guvernul Niculescu. Zece priorități: fără creșteri de taxe pentru mediul de afaceri în 2027",
-        "link": "https://economedia.ro/breaking-psd-intra-oficial-in-guvernul-niculescu-zece-conditii-fara-taxe-noi-pentru-mediul-de-afaceri.html"
-      }
-    ],
-    "published_at": 1791994274,
-    "title_hu": "A PSD 11 miniszterrel lép be a Niculescu-kormányba",
-    "lead_hu": "A PSD vezetősége október 14-én a kormányzati részvétel mellett döntött, és jóváhagyta 11 miniszterjelöltjét a tervezett 17 tárcára; a részvételről szóló szavazáson nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök. A párt tíz kormányzati prioritást jelentett be, köztük azt, hogy 2027-ben ne emelkedjenek a vállalkozásokat terhelő adók. Luca Niculescu október 15-én nyújtja be a programot és a névsort; a parlamenti szavazás időpontjáról eltérő értesülések jelentek meg, a frissebb beszámolók október 19–20-át valószínűsítik.",
-    "content_hu": "• **Október 14-én a PSD vezetősége megszavazta a kormányzati részvételt.** A Niculescu-kormány parlamenti támogatását egyhangúlag fogadták el, a miniszteri részvételről szóló döntésnél nyolcan tartózkodtak, köztük Grindeanu. A pártelnök később hivatalosan is bejelentette a döntést.\n\n• **A PSD 11 jelöltet hagyott jóvá a tervezett 17 tárcára.** Marian Neacșu a belügyminiszteri és miniszterelnök-helyettesi, Ștefan Radu Oprea a védelmi, Florin Barbu a mezőgazdasági, Alexandru Rogobete az egészségügyi, Radu Marinescu az igazságügyi, Petre-Florin Manole a munkaügyi, Daniel Zamfir a gazdasági, Alexandru Stoica a fejlesztési, Ștefan Ovidiu Popa a közlekedési, Natalia Intotero a környezetvédelmi, Mihai Ghigiu pedig az uniós alapokért felelős tárca élére kerülhet.\n\n• **A fennmaradó hat tárcára független vagy technokrata jelölteket emlegetnek.** A sajtóértesülések szerint Alexandru Nazare maradhat a pénzügyminiszter, Sorin Costreie az oktatási, Dan Neculăescu a külügyi, Ioana Ciocan a kulturális, Bogdan Dumitru pedig a kommunikációért és mesterséges intelligenciáért felelős tárca élére kerülhet; az energiaügyi jelölt nem végleges. A nevek és a tárcák a hivatalos névsor benyújtásáig változhatnak.\n\n• **A PSD tíz kormányzati prioritást jelentett be.** Grindeanu közlése szerint ezek között szerepel, hogy 2027-ben ne emelkedjenek a vállalkozásokat terhelő adók. A párt emellett egyes juttatások indexálását és a CASS-fizetési kötelezettség eltörlését kéri több csoport, köztük az anyák és a veteránok esetében; a teljes lista, a pontos érintetti kör és a költségvetési hatás nem ismert.\n\n• **A PSD hat hónap után értékeli a kormány munkáját.** Grindeanu a leendő miniszterektől gyors eredményeket, intenzív munkát és hatékony kommunikációt vár, és figyelmeztetett: gyenge teljesítmény esetén nem enyhe figyelmeztetésre, hanem politikai következményekre számíthatnak. Szerinte az AUR támogatottságát jó kormányzással lehet visszaszorítani, nem hangos bírálatokkal.\n\n• **A PSD 11 tárcával a minisztériumok 64,7 százalékát kapná.** Ez meghaladná a párt 2024-es, 21,96 százalékos képviselőházi eredményét; 2016-ban a PSD 45,47 százalékot szerzett. Az összevetés nem teljesen pontos, mert a korábbi kormányok összetétele és a tisztségek számítása eltért. A sajtó a leendő kabinetet a PSD által leginkább dominált kormányok egyikeként jellemzi a 2017–2019-es időszak óta.\n\n• **A PNL és az RMDSZ parlamenten kívülről támogatná a kabinetet.** Ilie Bolojan szerint a PNL ellenzékben marad, de feltételekhez kötött megállapodást kötne Niculescuval; a vállalás szerint hat hónapig nem kezdeményeznek vagy támogatnak bizalmatlansági indítványt, amíg a kormány betartja a megállapodás elveit és céljait. Kelemen Hunor bejelentette, hogy az RMDSZ a kormányt és programját a kabinet összetételétől függetlenül megszavazza.\n\n• **Az USR nem szavaz meg PSD-minisztereket tartalmazó kormányt, az AUR pedig elutasítja a kabinet támogatását.** Az USR a parlamenti többség tisztázását is feltételül szabta; a nemzeti kisebbségek frakciója korábban támogatást ígért. A PNL parlamenti frakciói támogató álláspontot fogadtak el, de a párt országos vezetőségének végleges döntése még hátravan.\n\n• **A kormány beiktatásához 233 szavazat szükséges.** A PNL-nek és az RMDSZ-nek együtt 111 képviselője van, az USR-rel együtt 170; a PSD 127 képviselővel rendelkezik. A PSD részvétele, valamint a PNL és az RMDSZ támogatása javítja a kabinet esélyeit, de a parlamenti szavazás még hátravan.\n\n• **Nicușor Dan előrehozott választást helyezhet kilátásba, ha nem születik megállapodás.** Sajtóértesülések szerint azt üzente a pártvezetőknek, hogy ha csütörtökig nem jutnak átlátható egyezségre a kormány támogatásáról, pénteken bejelentheti a parlament feloszlatását. Grindeanu az előrehozott választást alkotmányos, de nem kívánatos lehetőségnek nevezte, és azt mondta, a PSD erre is készül.\n\n• **Niculescu október 15-én nyújtja be a kormányprogramot és a miniszterjelöltek listáját.** A meghallgatások és a bizalmi szavazás időpontjáról eltérő előrejelzések jelentek meg: egyes értesülések október 16-át, a frissebb beszámolók inkább október 19–20-át valószínűsítik. A kormány beiktatása még nem történt meg.\n\n• **A közlekedési tárca várományosáról szakmai tapasztalattal kapcsolatos kérdések is megjelentek.** A G4Media szerint Ștefan-Ovidiu Popa önéletrajza nem mutat jelentős közlekedési vagy infrastruktúra-ágazati tapasztalatot; képviselővé válása előtt egy pénzügyi szolgáltatásokat nyújtó kölcsönös segélypénztárt vezetett.",
-    "title_ro": "PSD intră în Guvernul Niculescu cu 11 miniștri",
-    "lead_ro": "Conducerea PSD a decis, pe 14 octombrie, intrarea la guvernare și a validat 11 propuneri pentru cele 17 portofolii; opt participanți s-au abținut de la votul privind participarea, printre ei fiind și președintele partidului, Sorin Grindeanu. Partidul a anunțat zece priorități, inclusiv menținerea taxelor pentru mediul de afaceri la nivelul actual în 2027. Luca Niculescu urmează să depună programul și lista miniștrilor pe 15 octombrie, iar sursele indică date diferite pentru votul parlamentar, cele mai recente estimând 19–20 octombrie.",
-    "content_ro": "• **La 14 octombrie, conducerea PSD a votat intrarea la guvernare.** Susținerea parlamentară a Guvernului Niculescu a fost aprobată în unanimitate, iar la votul privind participarea cu miniștri au fost opt abțineri, inclusiv cea a lui Sorin Grindeanu. Președintele PSD a anunțat ulterior oficial decizia.\n\n• **PSD a validat 11 propuneri pentru cele 17 portofolii.** Marian Neacșu este propus pentru Interne și funcția de vicepremier, Ștefan Radu Oprea pentru Apărare, Florin Barbu pentru Agricultură, Alexandru Rogobete pentru Sănătate, Radu Marinescu pentru Justiție, Petre-Florin Manole pentru Muncă, Daniel Zamfir pentru Economie, Alexandru Stoica pentru Dezvoltare, Ștefan Ovidiu Popa pentru Transporturi, Natalia Intotero pentru Mediu, iar Mihai Ghigiu pentru Investiții și Proiecte Europene.\n\n• **Celelalte șase portofolii ar urma să revină unor independenți sau tehnocrați.** Presa îi menționează pe Alexandru Nazare la Finanțe, Sorin Costreie la Educație, Dan Neculăescu la Externe, Ioana Ciocan la Cultură și Bogdan Dumitru la Comunicații și Inteligență Artificială; numele pentru Energie nu este stabilit. Lista și repartizarea portofoliilor se pot modifica până la depunerea componenței oficiale.\n\n• **PSD a anunțat zece priorități pentru guvernare.** Grindeanu a spus că printre acestea se numără menținerea taxelor pentru mediul de afaceri la nivelul actual în 2027. Partidul mai solicită indexarea unor beneficii și eliminarea obligației de plată a CASS pentru mai multe categorii, între care mamele și veteranii; lista completă, categoriile vizate și impactul bugetar nu sunt cunoscute.\n\n• **PSD va evalua activitatea Guvernului după șase luni.** Grindeanu le cere viitorilor miniștri rezultate rapide, muncă intensă și comunicare eficientă și a avertizat că performanța slabă va atrage sancțiuni politice. În opinia sa, PSD poate reduce sprijinul pentru AUR printr-o guvernare bună, nu prin declarații zgomotoase.\n\n• **Cu 11 portofolii, PSD ar deține 64,7% dintre ministere.** Ponderea ar depăși rezultatul partidului de 21,96% la alegerile pentru Camera Deputaților din 2024; în 2016, PSD obținuse 45,47%. Comparația nu este perfectă, deoarece structura guvernelor anterioare și modul de numărare a funcțiilor au fost diferite. Presa descrie formula ca una dintre cele mai dominate de PSD de după perioada 2017–2019.\n\n• **PNL și UDMR ar susține Guvernul din Parlament, fără să participe cu miniștri.** Ilie Bolojan a spus că PNL rămâne în opoziție, dar este dispus să încheie un acord condiționat cu Niculescu; liberalii nu ar iniția și nu ar vota moțiuni de cenzură timp de șase luni, atât timp cât Guvernul respectă principiile și obiectivele convenite. Kelemen Hunor a anunțat că UDMR va vota Guvernul și programul indiferent de componența cabinetului.\n\n• **USR refuză să voteze un Guvern cu miniștri PSD, iar AUR respinge susținerea cabinetului.** USR a cerut și clarificarea majorității parlamentare; grupul minorităților naționale anunțase anterior că va susține învestirea. Grupurile parlamentare ale PNL au adoptat o poziție favorabilă, însă decizia finală a conducerii naționale a partidului rămâne în așteptare.\n\n• **Pentru învestirea Guvernului sunt necesare 233 de voturi.** PNL și UDMR au împreună 111 deputați, iar alături de USR ajung la 170; PSD are 127 de deputați. Participarea PSD și sprijinul PNL și UDMR sporesc șansele cabinetului, dar votul parlamentar nu a avut încă loc.\n\n• **Nicușor Dan ar putea invoca alegeri anticipate dacă nu se ajunge la un acord.** Potrivit relatărilor din presă, le-ar fi transmis liderilor de partid că, în lipsa unei înțelegeri transparente până joi privind susținerea Guvernului, ar putea anunța vineri dizolvarea Parlamentului. Grindeanu a numit anticipate un scenariu constituțional, dar nedorit, și a spus că PSD se pregătește și pentru această variantă.\n\n• **Niculescu depune programul și lista miniștrilor pe 15 octombrie.** Relatările indică date diferite pentru audieri și votul de învestitură: unele surse au menționat 16 octombrie, iar cele mai recente estimează mai degrabă 19–20 octombrie. Guvernul nu a fost încă învestit.\n\n• **Au apărut întrebări privind experiența profesională a propunerii pentru Transporturi.** Potrivit G4Media, CV-ul lui Ștefan-Ovidiu Popa nu indică experiență notabilă în transporturi sau infrastructură; înainte de a deveni deputat, acesta a condus o casă de ajutor reciproc care furnizează servicii financiare."
   },
   {
     "group_id": "group_1470a72793",
@@ -387,6 +764,27 @@
     "title_ro": "Abuzul, tema centrală a Târgului Internațional de Carte de la Târgu Mureș",
     "lead_ro": "Cea de-a 32-a ediție a Târgului Internațional de Carte de la Târgu Mureș va avea loc în perioada 12–15 noiembrie, sub motto-ul „Lumină pentru suflet”. Tema centrală este abuzul fizic și psihologic, iar programul cuprinde lansări de carte, discuții, spectacole de teatru și activități pentru copii și tineri.",
     "content_ro": "• **În perioada 12–15 noiembrie** va avea loc cea de-a 32-a ediție a Târgului Internațional de Carte de la Târgu Mureș, cu motto-ul „Lumină pentru suflet”.\n\n• **Tema centrală a evenimentului** este abuzul fizic și psihologic și felul în care traumele suferite pot fi abordate prin literatură și alte forme de artă.\n\n• **La târg vor participa 29 de edituri și librării**, dintre care șase din Ungaria. Evenimentele se vor desfășura la Teatrul Național din Târgu Mureș.\n\n• **Programul include** lansări de carte, întâlniri cu scriitori și discuții, precum și spectacole de teatru, proiecții de film, concerte și activități pentru copii și tineri.\n\n• **Programele pentru copii și tineri** au un rol important: organizatorii au consultat liceenii, care și-au exprimat interesul mai ales pentru discuții și ateliere creative. La concursul de lectură s-au înscris 250 de echipe, cu aproximativ 800 de copii."
+  },
+  {
+    "group_id": "group_b22bda0d97",
+    "category": "Erdély",
+    "image": "https://www.presasm.ro/uploads/2025/09//1757063406_fb332f9b2e8b188b93ff1e8646070684.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "„Te omor!” Polițiști amenințați în județul Satu Mare. Au intervenit trupele speciale",
+        "link": "https://www.presasm.ro/te-omor-politisti-amenintati-in-judetul-satu-mare-au-intervenit-trupele-speciale/53598"
+      }
+    ],
+    "published_at": 1791993780,
+    "title_hu": "„Te omor!” Polițiști amenințați în județul Satu Mare. Au intervenit trupele speciale",
+    "lead_hu": "Un bărbat din județul Satu Mare va fi judecat pentru două infracțiuni de ultraj, după un incident care a început în urma unui apel la 112 și a culminat cu intervenția polițiștilor Serviciului pentru A…",
+    "content_hu": "Un bărbat din județul Satu Mare va fi judecat pentru două infracțiuni de ultraj, după un incident care a început în urma unui apel la 112 și a culminat cu intervenția polițiștilor Serviciului pentru Acțiuni Speciale. Potrivit documentelor consultate de PresaSM…",
+    "title_ro": "„Te omor!” Polițiști amenințați în județul Satu Mare. Au intervenit trupele speciale",
+    "lead_ro": "Un bărbat din județul Satu Mare va fi judecat pentru două infracțiuni de ultraj, după un incident care a început în urma unui apel la 112 și a culminat cu intervenția polițiștilor Serviciului pentru A…",
+    "content_ro": "Un bărbat din județul Satu Mare va fi judecat pentru două infracțiuni de ultraj, după un incident care a început în urma unui apel la 112 și a culminat cu intervenția polițiștilor Serviciului pentru Acțiuni Speciale. Potrivit documentelor consultate de PresaSM…"
   },
   {
     "group_id": "group_ace6526b0a",
@@ -4225,27 +4623,6 @@
     "title_ro": "Lucian Bode, atac la Bolojan: „Nu-mi amintesc ca un guvern să fie format dintr-un număr atât de mare de miniştri dintr-un singur partid”",
     "lead_ro": "Deputatul PNL Lucian Bode a criticat voalat conducerea lui Ilie Bolojan, spunând că nu-şi aminteşte să fi fost vreun guvern format dintr-un număr atât de mare de miniştri de la un singur partid cum va…",
     "content_ro": "Deputatul PNL Lucian Bode a criticat voalat conducerea lui Ilie Bolojan, spunând că nu-şi aminteşte să fi fost vreun guvern format dintr-un număr atât de mare de miniştri de la un singur partid cum va fi cel propus de premierul desemnat Luca Niculescu."
-  },
-  {
-    "group_id": "group_24c6292913",
-    "category": "Kultúra",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/8079389-hepta_mediafax_foto-abacapress_hepta-1-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Luvru riscă să-și închidă porțile dacă nu este renovat. Avertismentul conducerii celui mai cunoscut muzeu din Paris",
-        "link": "https://www.mediafax.ro/cultura-media/luvru-risca-sa-si-inchida-portile-daca-nu-este-renovat-avertismentul-conducerii-celui-mai-cunoscut-muzeu-din-paris-23825351"
-      }
-    ],
-    "published_at": 1791985993,
-    "title_hu": "Luvru riscă să-și închidă porțile dacă nu este renovat. Avertismentul conducerii celui mai cunoscut muzeu din Paris",
-    "lead_hu": "Luvru ar putea fi nevoit să-și închidă porțile dacă nu sunt realizate lucrări majore de renovare, a avertizat Christophe Leribault, directorul muzeului din Paris, într-un interviu acordat publicației …",
-    "content_hu": "Luvru ar putea fi nevoit să-și închidă porțile dacă nu sunt realizate lucrări majore de renovare, a avertizat Christophe Leribault, directorul muzeului din Paris, într-un interviu acordat publicației franceze Le Figaro, preluat de RTL Today.",
-    "title_ro": "Luvru riscă să-și închidă porțile dacă nu este renovat. Avertismentul conducerii celui mai cunoscut muzeu din Paris",
-    "lead_ro": "Luvru ar putea fi nevoit să-și închidă porțile dacă nu sunt realizate lucrări majore de renovare, a avertizat Christophe Leribault, directorul muzeului din Paris, într-un interviu acordat publicației …",
-    "content_ro": "Luvru ar putea fi nevoit să-și închidă porțile dacă nu sunt realizate lucrări majore de renovare, a avertizat Christophe Leribault, directorul muzeului din Paris, într-un interviu acordat publicației franceze Le Figaro, preluat de RTL Today."
   },
   {
     "group_id": "group_278dc50498",
@@ -10021,49 +10398,6 @@
     "title_ro": "Noi detalii despre dispozitivul de înregistrare găsit în sala de conferințe a OpenAI",
     "lead_ro": "Autoritățile americane îl acuză pe Abdulrahman Alfozan, un inginer saudit de 35 de ani angajat al OpenAI, că a ascuns un dispozitiv de înregistrare în sala de conferințe a conducerii companiei; acesta a fost arestat pe 9 octombrie. Potrivit unor noi detalii din anchetă, el ar fi căutat informații despre săli de ședință și membri ai conducerii, iar în geanta sa a fost găsit un al doilea dispozitiv.",
     "content_ro": "• **Potrivit acuzațiilor**, Abdulrahman Alfozan ar fi ascuns un dispozitiv de înregistrare în sala de conferințe a conducerii OpenAI, pentru a capta în secret comunicații verbale confidențiale. Directorul FBI, Kash Patel, a declarat că înregistrările ar fi vizat discuții sensibile despre tehnologia de superinteligență a companiei.\n\n• **Pe 30 septembrie** a fost descoperit dispozitivul la sediul OpenAI din San Francisco. Potrivit autorităților, acesta fusese plasat cu aproximativ două zile înainte, învelit în hârtie igienică și introdus într-un port USB aflat în spatele unui televizor; dispozitivul era criptat.\n\n• **Pe 5 octombrie**, imaginile camerelor de supraveghere l-ar fi surprins pe Alfozan intrând în sala din apropierea sălii de conferințe și uitându-se în spatele televizorului. În aceeași zi, angajații i-au verificat geanta și au găsit un al doilea dispozitiv de înregistrare; în geantă se aflau și portofelul și actul său de identitate.\n\n• **Pe 9 octombrie**, Alfozan a fost arestat. Cetățeanul saudit în vârstă de 35 de ani lucra ca inginer la OpenAI din iulie 2025; a apărut pentru prima dată în instanță marți și urmează să se prezinte din nou pe 19 octombrie.\n\n• **Alfozan nu avea autorizația să intre în sala de conferințe**, a transmis Departamentul american al Justiției. Camerele de supraveghere l-ar fi surprins în apropierea încăperii în mai multe zile, iar pe 5 octombrie ar fi intrat în sală.\n\n• **Ar fi căutat și informații despre spații interne**: potrivit documentelor anchetei, a folosit un instrument de productivitate pentru a căuta săli de ședință, calendare interne și locurile în care se aflau membrii conducerii. De pe un cont de chatbot asociat soției sale au fost adresate întrebări despre locurile unde se întâlnesc partenerii externi, înregistrarea audio continuă, conectarea la Wi-Fi și construirea, instalarea, ascunderea, testarea și accesarea de la distanță a dispozitivelor de înregistrare. DOJ a precizat că mai multe elemente de identificare și caracteristici ale contului erau comune cu cele ale contului lui Alfozan.\n\n• **OpenAI a sesizat FBI-ul** și a declarat că a folosit propriile modele de inteligență artificială pentru a înțelege dispozitivul și a-i identifica proveniența. Compania l-a concediat pe Alfozan și susține că are dovezi că acesta ar fi plănuit să amplaseze și alte dispozitive de ascultare.\n\n• **Sala era folosită pentru întâlniri ale conducerii**, inclusiv cu oficiali guvernamentali și lideri de afaceri. Autoritățile nu au făcut public presupusul motiv al lui Alfozan; acesta este acuzat că ar fi folosit sau încercat să folosească un dispozitiv pentru interceptarea comunicațiilor orale.\n\n• **Despre experiența profesională a lui Alfozan**, G4Media a relatat că acesta figurează și ca partener la firma de investiții Raed Ventures, cu sediul la Riad. Firma l-a anunțat pe prințul Khalid Bin Bader Al Saud ca partener de investiții pe 6 februarie 2025, iar pe Alfozan l-a prezentat în același rol două zile mai târziu; profilul său public menționează experiențe anterioare la Meta, Microsoft și SAP, precum și studii de informatică și inginerie la MIT.\n\n• **OpenAI afirmă că** nu există indicii că Alfozan ar fi accesat fără autorizație sau ar fi sustras parametrii modelelor, codul-sursă ori datele clienților. Dacă va fi găsit vinovat, riscă până la cinci ani de închisoare, o amendă de 250.000 de dolari și trei ani de eliberare sub supraveghere; ancheta FBI este în desfășurare."
-  },
-  {
-    "group_id": "group_2a4ae616d9",
-    "fingerprint": "64027ebf53b777785442390bd8664983",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Mesaje RO-Alert în nordul județului Tulcea referitoare la o posibilă incursiune de drone. Populația, îndemnată să se adăpostească",
-        "link": "https://adevarul.ro/stiri-locale/tulcea/mesaje-ro-alert-in-nordul-judetului-tulcea-2563838.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Radarele MApN au detectat încă o dronă care a intrat în spațiul aerian național. Aparatul a fost doborât de ucraineni",
-        "link": "https://www.digi24.ro/stiri/actualitate/radarele-mapn-au-detectat-inca-o-drona-care-a-intrat-in-spatiul-aerian-national-aparatul-a-fost-doborat-de-ucraineni-3991583"
-      },
-      {
-        "source": "G4Media",
-        "title": "Dronă intrată în spaţiul naţional la Sulina / Două aeronave F-16 ridicate de la sol / A fost doborâtă în Ucraina",
-        "link": "https://www.g4media.ro/drona-intrata-in-spatiul-national-la-sulina-doua-aeronave-f-16-ridicate-de-la-sol-a-fost-doborata-in-ucraina.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "O dronă a pătruns în spațiul aerian românesc. Două avioane F-16 au fost ridicate de la sol",
-        "link": "https://www.mediafax.ro/social/o-drona-a-patruns-in-spatiul-aerian-romanesc-doua-avioane-f-16-au-fost-ridicate-de-la-sol-23825139"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "MApN: Dronă intrată în spațiul național la Sulina; două aeronave F-16 ridicate de la sol",
-        "link": "https://agerpres.ro/social/2026/10/14/mapn-drona-intrata-in-spatiul-national-la-sulina-doua-aeronave-f-16-ridicate-de-la-sol--1602822"
-      }
-    ],
-    "published_at": 1791973742,
-    "title_hu": "Három RO-Alert-riasztás Tulcea megyében, egy drón rövid időre belépett Románia légterébe",
-    "lead_hu": "Október 14-én reggel három RO-Alert-riasztást kaptak Tulcea megye lakói drónveszély miatt. Az elsőként észlelt három légi cél Ukrajna légterében maradt, egy később észlelt drón viszont rövid időre belépett Románia légterébe, majd Ukrajna felé távozott, ahol az ukrán légvédelem lelőtte.",
-    "content_hu": "• **Október 14-én, szerda reggel** drónok lehetséges berepülésére figyelmeztető RO-Alert-riasztást kaptak Tulcea megye északi részének lakói.\n\n• **Az első riasztást 6:39-kor adták ki, és körülbelül 7:58-kor fújták le.** A lakosságot nyugalomra intették, és arra kérték, hogy húzódjon pincébe vagy polgári védelmi óvóhelyre; ha ilyen nem áll rendelkezésre, maradjon otthon, távol az ablakoktól és a külső falaktól.\n\n• **A román védelmi minisztérium radarjai három légi célt észleltek** az ukrajnai Vâlkove közelében, a román határ térségében. A minisztérium szerint ezek nem léptek be Románia légterébe.\n\n• **A légierő két F-16-os vadászgépet és egy IAR-330 SOCAT helikoptert indított** a helyzet megfigyelésére; a vadászgépek a borceai 86-os légibázisról szálltak fel.\n\n• **Körülbelül 8:20-kor újabb, kevesebb mint négy órán belül már a második RO-Alert-riasztást adták ki** Tulcea megye északi részén. A figyelmeztetés a légből lezuhanó tárgyak becsapódásának veszélyére is felhívta a figyelmet.\n\n• **10:19-kor újabb riasztást adtak ki** Tulcea megye keleti és északi részére, miután a radarok egy másik drónt észleltek a román határ közelében. Két F-16-os vadászgépet ismét a levegőbe emeltek, ezúttal is a borceai 86-os légibázisról.\n\n• **A később észlelt drón rövid időre belépett Románia légterébe** a Fekete-tenger fölött, Sulina keleti térségében, majd átrepült Ukrajna légterébe, ahol az ukrán légvédelem lelőtte. A riasztás 11:22-kor ért véget.\n\n• **Az ISU Tulcea közlése szerint** nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **Az idei RO-Alert-üzenetek száma** Tulcea megyében már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.\n\n• **A Cancan által idézett hivatalos adatok szerint 2026. szeptember 27-ig** 81, a román határ közelében történt támadást, 30 jogosulatlan légtérsértést és négy lelőtt drónt tartottak nyilván.",
-    "title_ro": "Trei alerte RO-Alert în județul Tulcea; o dronă a intrat pentru scurt timp în spațiul aerian al României",
-    "lead_ro": "În dimineața zilei de 14 octombrie, populația din județul Tulcea a primit trei mesaje RO-Alert privind pericolul reprezentat de drone. Primele trei ținte detectate au rămas în spațiul aerian ucrainean, însă o dronă observată ulterior a intrat pentru scurt timp în spațiul aerian al României, apoi a revenit în Ucraina, unde a fost doborâtă de apărarea antiaeriană ucraineană.",
-    "content_ro": "• **Miercuri dimineață, 14 octombrie,** locuitorii din nordul județului Tulcea au primit un mesaj RO-Alert privind posibila incursiune a unor drone.\n\n• **Prima alertă a fost transmisă la ora 6:39 și a încetat în jurul orei 7:58.** Populația a fost îndemnată să-și păstreze calmul și să se adăpostească în beciuri sau în spații de protecție civilă; în lipsa unui adăpost, oamenii au fost sfătuiți să rămână în casă, departe de ferestre și de pereții exteriori.\n\n• **Radarele Ministerului Apărării Naționale au detectat trei ținte aeriene** în apropierea localității Vâlkove, pe teritoriul Ucrainei, în zona frontierei cu România. Potrivit ministerului, acestea nu au pătruns în spațiul aerian național.\n\n• **Forțele Aeriene Române au ridicat de la sol două aeronave F-16 și un elicopter IAR-330 SOCAT** pentru monitorizarea situației; avioanele de vânătoare au decolat de la Baza 86 Aeriană Borcea.\n\n• **În jurul orei 8:20 a fost transmisă a doua alertă RO-Alert, la mai puțin de patru ore de la prima,** pentru nordul județului Tulcea. Mesajul avertiza și asupra riscului de impact al unor obiecte căzute din aer.\n\n• **La ora 10:19 a fost transmisă o nouă alertă** pentru estul și nordul județului Tulcea, după ce radarele au detectat o altă dronă în apropierea frontierei cu România. Două aeronave F-16 au fost ridicate din nou de la sol, de această dată de la Baza 86 Aeriană Borcea.\n\n• **Drona detectată ulterior a intrat pentru scurt timp în spațiul aerian românesc,** deasupra Mării Negre, în zona de est a localității Sulina, apoi a trecut în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Alerta a încetat la ora 11:22.\n\n• **Potrivit ISU Tulcea,** nu au fost primite apeluri de urgență și nu au fost raportate incidente în zona vizată.\n\n• **Numărul mesajelor RO-Alert transmise anul acesta în județul Tulcea** a depășit numărul alertelor extreme transmise în întreaga Românie din aceeași cauză în perioada 2023–2025.\n\n• **Potrivit datelor oficiale citate de Cancan, până la 27 septembrie 2026** au fost înregistrate 81 de atacuri în apropierea frontierei României, 30 de pătrunderi neautorizate în spațiul aerian și patru drone doborâte."
   },
   {
     "group_id": "group_6f7db6c855",
@@ -17461,198 +17795,5 @@
     "title_ro": "Moldova a deschis negocierile de aderare la UE pentru încă două grupuri de capitole",
     "lead_ro": "Moldova a început marți, la Luxemburg, negocierile cu UE pentru grupurile de capitole privind piața internă, respectiv competitivitatea și creșterea incluzivă. Potrivit președintei Maia Sandu, au fost deschise 24 dintre cele 33 de capitole de negociere; comisara europeană Marta Kos a declarat că ultimele două grupuri sunt pregătite tehnic pentru deschidere. Negocierile cu Ucraina pentru aceleași domenii vor începe, de asemenea.",
     "content_ro": "• **Marți, în cadrul celei de-a patra conferințe de integrare**, Moldova și UE au început la Luxemburg negocierile pentru încă două grupuri de capitole: piața internă, respectiv competitivitatea și creșterea incluzivă.\n\n• **Potrivit președintei Republicii Moldova, Maia Sandu**, au fost deschise 24 dintre cele 33 de capitole de negociere. Ea a spus că la acest progres au contribuit și angajați ai ministerelor și agențiilor publice, care lucrează la armonizarea legislației, pregătirea reformelor și negocieri.\n\n• **Comisara europeană pentru extindere, Marta Kos, a declarat** că reformele asociate noilor grupuri de capitole pot consolida economia Moldovei, stimula investițiile și crea locuri de muncă. Acestea pot facilita comerțul companiilor moldovenești cu UE și pot îmbunătăți educația, drepturile lucrătorilor și protecția consumatorilor.\n\n• **Ultimele două grupuri de capitole de negociere** sunt deja pregătite din punct de vedere tehnic pentru deschidere, potrivit lui Kos. Ea a încurajat Moldova să mențină ritmul reformelor și să continue punerea în aplicare a măsurilor necesare aderării.\n\n• **Kos a vorbit și despre accelerarea extinderii UE:** potrivit acesteia, politica de extindere nu a mai înregistrat din 2002 un progres anual atât de important ca în acest an, iar patru conferințe de aderare au loc simultan pentru a treia oară. Comisia Europeană și-a prezentat săptămâna trecută evaluarea privind pregătirea pentru viitoarea extindere; Kos a afirmat că o Uniune Europeană mai mare poate funcționa.\n\n• **Negocierile cu Ucraina pentru aceleași domenii** vor începe, de asemenea, cu Uniunea Europeană.\n\n• **Albania organizează a zecea conferință de aderare**, în cadrul căreia se preconizează închiderea capitolului de negociere privind industria și întreprinderile, a anunțat Consiliul UE."
-  },
-  {
-    "group_id": "group_3be572a146",
-    "fingerprint": "841dfcf9d5f4d750a4f47cfee07cc6cf",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTMwOV8zMDA5/MzA5X1ZpYXRhLVNmaW50ZWktUGFyYXNj/aGV2YV8tU3Vyc2EtRm90by1JbnF1YW0t/TWlydW5hLVR1cmJhdHUuanBnJmhhc2g9/MTMxMTVjNjZlMWY4MmQyZTkyNTg4N2Q3MDk1OWUzZjc=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Cine a fost Sfânta Parascheva și de ce este considerată făcătoare de minuni. Povestea vieții Ocrotitoarei Moldovei",
-        "link": "https://www.digi24.ro/magazin/cine-a-fost-sfanta-parascheva-si-de-ce-este-considerata-facatoare-de-minuni-povestea-vietii-ocrotitoarei-moldovei-3989533"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Istoria moaștelor Sfintei Parascheva și cum au ajuns la Mitropolia din Iași",
-        "link": "https://www.cancan.ro/istoria-moastelor-sfintei-parascheva-si-cum-au-ajuns-la-mitropolia-din-iasi-21529812"
-      }
-    ],
-    "published_at": 1791952247,
-    "title_hu": "Szent Paraszkeva élete és ereklyéinek útja Jászvásárra",
-    "lead_hu": "Szent Paraszkevát, Moldva egyik legfontosabb ortodox védőszentjét október 14-én ünneplik. Ereklyéi 1641-ben kerültek Jászvásárra, ahol ma is a metropolita székesegyházban őrzik őket, és évente több százezer zarándok keresi fel.",
-    "content_hu": "• **Szent Paraszkeva** a 11. század elején született Epivatban, a Márvány-tenger partján, a mai Törökország területén. A keresztény hagyomány szerint fiatalon a hitnek és a rászorulók segítésének szentelte életét.\n\n• **Tízéves korában** hallotta a Krisztus követéséről szóló evangéliumi tanítást, amely mély hatást tett rá. Vagyonából és ruháiból a szegényeknek adott, majd elhagyta otthonát, és imádságos, aszketikus életet választott.\n\n• **Élete során** Konstantinápolyban, Khalkédónban és Herakleia Pontikában is megfordult, később pedig Jeruzsálembe és a Jordán pusztájába jutott. A hagyomány szerint 25 évesen látomás hatására tért vissza szülőföldjére, Epivatba; 27 évesen hunyt el.\n\n• **Ereklyéit** a beszámolók szerint később találták meg, teste pedig épségben maradt. Az ereklyéket előbb Kalikrateia, majd Tarnovo, Belgrád és Konstantinápoly templomaiban őrizték.\n\n• **1641-ben** Vasile Lupu moldvai fejedelem támogatásáért cserébe a konstantinápolyi ökumenikus patriarchátus Paraszkeva ereklyéit Moldvába adta. Az ereklyéket Jászvásárra vitték, és június 13-án a Három Szent Hierarcha templomban helyezték el.\n\n• **1889 óta** az ereklyék a jászvásári metropolita székesegyházban találhatók. Szent Paraszkevát Moldva és Jászvásár védőszentjeként tisztelik; október 14-i ünnepén évente több százezer hívő zarándokol a városba.",
-    "title_ro": "Viața Sfintei Parascheva și drumul moaștelor sale la Iași",
-    "lead_ro": "Sfânta Parascheva, una dintre cele mai importante ocrotitoare ortodoxe ale Moldovei, este prăznuită pe 14 octombrie. Moaștele sale au ajuns la Iași în 1641 și sunt păstrate astăzi la Catedrala Mitropolitană, unde se adună anual sute de mii de pelerini.",
-    "content_ro": "• **Sfânta Parascheva** s-a născut la începutul secolului al XI-lea în Epivat, pe țărmul Mării Marmara, pe teritoriul Turciei de astăzi. Potrivit tradiției creștine, și-a dedicat de timpuriu viața credinței și ajutorării celor nevoiași.\n\n• **La vârsta de zece ani**, a auzit în biserică îndemnul evanghelic de a-L urma pe Hristos, iar cuvintele au impresionat-o profund. A dăruit săracilor haine și bunuri, apoi și-a părăsit casa și a ales o viață de rugăciune și asceză.\n\n• **În timpul vieții**, a trecut prin Constantinopol, Calcedon și Heracleea Pontului, apoi a ajuns la Ierusalim și în pustiul Iordanului. Tradiția spune că, la 25 de ani, s-a întors la Epivat după o vedenie, iar la 27 de ani a murit.\n\n• **Moaștele sale** au fost descoperite ulterior, iar trupul sfintei a fost găsit neputrezit, potrivit relatărilor. Ele au fost păstrate mai întâi la Kallicrateia, apoi la Târnovo, Belgrad și Constantinopol.\n\n• **În 1641**, domnitorul Moldovei, Vasile Lupu, a primit moaștele Sfintei Parascheva de la Patriarhia Ecumenică a Constantinopolului, în semn de recunoaștere pentru sprijinul acordat. Moaștele au fost aduse la Iași și așezate, pe 13 iunie, în biserica „Sfinții Trei Ierarhi”.\n\n• **Din 1889**, moaștele se află la Catedrala Mitropolitană din Iași. Sfânta Parascheva este cinstită ca ocrotitoare a Moldovei și a Iașiului, iar de sărbătoarea sa, pe 14 octombrie, sute de mii de credincioși vin în pelerinaj."
-  },
-  {
-    "group_id": "group_5b226285e9",
-    "fingerprint": "1340f351a0e32db3b0d78da1284f3c1f",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMCUyRjE2JTJGMjM5NjAyN18yMzk2/MDI3X3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjUtMTAtMTZUMTg1ODUyXzE5NS5wbmcm/aGFzaD03MGU2NDMyODEwNDM4ZTgyYzI4MDQzOTZhY2VhMzdiMQ==.png",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Șeful MI5 avertizează că Rusia și Iranul își intensifică atacurile hibride în Europa. Instalațiile militare britanice, printre ținte",
-        "link": "https://www.digi24.ro/stiri/externe/seful-mi5-avertizeaza-ca-rusia-si-iranul-isi-intensifica-atacurile-hibride-in-europa-instalatiile-militare-britanice-printre-tinte-3990351"
-      },
-      {
-        "source": "G4Media",
-        "title": "Șeful MI5 numește Rusia „agresorul numărul unu” / Serviciul britanic avertizează că organizațiile teroriste încearcă deja să folosească inteligența artificială pentru pregătirea atacurilor",
-        "link": "https://www.g4media.ro/seful-mi5-numeste-rusia-agresorul-numarul-unu-serviciul-britanic-avertizeaza-ca-organizatiile-teroriste-incearca-deja-sa-foloseasca-inteligenta-artificiala-pentru-pregatirea-atacur.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Iranul și Rusia își intensifică campaniile hibride în Marea Britanie (șeful serviciului britanic de informații MI5)",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/iranul-si-rusia-isi-intensifica-campaniile-hibride-in-marea-britanie-seful-serviciului-britanic-de-i--1602577"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Șeful MI5 numește Rusia „agresorul numărul unu”. Serviciul britanic avertizează și asupra dronelor controlate cu AI",
-        "link": "https://www.mediafax.ro/externe/seful-mi5-numeste-rusia-agresorul-numarul-unu-serviciul-britanic-avertizeaza-si-asupra-dronelor-controlate-cu-ai-23824659"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Șeful contraspionajului britanic avertizează că Rusia și Iranul intensifică operațiunile hibride. „Agresorul numărul 1” și efectele AI",
-        "link": "https://hotnews.ro/seful-contraspionajului-britanic-avertizeaza-ca-rusia-si-iranul-intensifica-operatiunile-hibride-agresorul-numarul-1-si-efectele-ai-2374985"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Șeful MI5 avertizează că amenințările la adresa Marii Britanii au crescut de patru ori. Rusia, principalul agresor",
-        "link": "https://stirileprotv.ro/stiri/international/seful-mi5-avertizeaza-ca-amenintarile-la-adresa-marii-britanii-au-crescut-de-patru-ori-rusia-principalul-agresor.html"
-      }
-    ],
-    "published_at": 1791951885,
-    "title_hu": "A MI5 vezetője szerint négyszeresére nőtt az állami fenyegetések száma",
-    "lead_hu": "Ken McCallum, a brit MI5 vezetője éves beszédében Oroszországot nevezte a legfőbb agresszornak, és az orosz, illetve iráni hibrid műveletek erősödésére figyelmeztetett. Elmondása szerint az állami szereplőktől eredő fenyegetések egy évtized alatt megnégyszereződtek; a terroristák mesterséges intelligencia-használata szintén növekvő kockázat.",
-    "content_hu": "• **A fenyegetések növekedése:** McCallum szerint az állami szereplőktől eredő fenyegetések száma az elmúlt évtizedben a négyszeresére emelkedett. A MI5 ezek elhárítására ma több erőforrást fordít, mint a hidegháború idején.\n\n• **Oroszország hibrid műveletei:** McCallum Oroszországot „az első számú agresszornak” nevezte, és azzal vádolta Moszkvát, hogy a NATO kollektív válaszát kiváltó küszöb alatt próbálja destabilizálni az európai országokat. Példaként egy németországi repülőtéren, egy teherszállító repülőgép ellen megkísérelt dróntámadást, valamint a lengyel energetikai infrastruktúrát ért kibertámadást említett.\n\n• **Orosz közvetítők:** A MI5 vezetője szerint az orosz ügynökök külföldi kiutasítása gyengítette Moszkva hagyományos titkos műveleti képességét, ezért egyre inkább közvetítőkre, köztük bűnözőkre támaszkodhat.\n\n• **Irán és a katonai célpontok:** McCallum az iráni műveletek erősödésére és arra figyelmeztetett, hogy Teherán nehezebben támadható célpontokat, például katonai létesítményeket is megcélozhat. A brit miniszterelnök a RAF Fairford elleni feltételezett iráni összeesküvésről beszélt, de McCallum a folyamatban lévő vizsgálat miatt nem kommentálta az esetet. A források szerint az Iránhoz köthető tevékenységekkel összefüggésben az elmúlt évben több mint 50 embert tartóztattak le Nagy-Britanniában.\n\n• **Mesterséges intelligencia és terrorizmus:** McCallum szerint terroristák már próbálták a mesterséges intelligenciát felderítési és támadási módszereik javítására használni, az MI-alapú drónok pedig új kockázatot jelentenek. Különösen aggasztónak nevezte, hogy szélsőséges csoportok a technológiát biológiai fegyverek vagy új kórokozók fejlesztésére használhatják; ilyen eset egyelőre nem történt.\n\n• **Szélsőjobboldali radikalizálódás:** A MI5 vezetője az online radikalizálódással összefüggő szélsőjobboldali terrorfenyegetés növekedésére is felhívta a figyelmet. Beszámolója szerint egy 13 éves, szélsőjobboldali ideológiától radikalizálódott brit fiatal ügyében szerzett információk segítettek egy nemzetközi partnernek meghiúsítani egy halálos támadást.",
-    "title_ro": "Șeful MI5: Amenințările provenite din partea statelor s-au multiplicat de patru ori",
-    "lead_ro": "În discursul său anual, Ken McCallum, directorul MI5, a numit Rusia „agresorul numărul unu” și a avertizat asupra intensificării operațiunilor hibride ruse și iraniene. Potrivit acestuia, amenințările provenite din partea actorilor statali s-au multiplicat de patru ori într-un deceniu, iar folosirea inteligenței artificiale de către teroriști reprezintă un risc în creștere.",
-    "content_ro": "• **Creșterea amenințărilor:** McCallum a declarat că amenințările provenite din partea actorilor statali s-au multiplicat de patru ori în ultimul deceniu. MI5 alocă în prezent combaterii lor mai multe resurse decât în perioada Războiului Rece.\n\n• **Operațiunile hibride ale Rusiei:** McCallum a numit Rusia „agresorul numărul unu” și a acuzat Moscova că încearcă să destabilizeze state europene fără să depășească pragul care ar declanșa un răspuns colectiv al NATO. Ca exemple, a menționat o tentativă de atac cu dronă asupra unui avion cargo pe un aeroport german și un atac cibernetic asupra infrastructurii energetice a Poloniei.\n\n• **Intermediarii Rusiei:** Potrivit șefului MI5, expulzarea agenților ruși din străinătate a slăbit capacitatea Moscovei de a desfășura operațiuni clandestine tradiționale, iar Rusia ar apela tot mai mult la intermediari, inclusiv la infractori.\n\n• **Iranul și obiectivele militare:** McCallum a avertizat asupra intensificării activităților atribuite Iranului și asupra ambițiilor Teheranului de a viza obiective mai greu de atacat, precum instalațiile militare. Premierul britanic a vorbit despre un presupus complot iranian împotriva bazei RAF Fairford, însă McCallum nu a comentat cazul, invocând ancheta în curs. Potrivit surselor, în ultimul an au fost arestate în Marea Britanie peste 50 de persoane în legătură cu activități asociate Iranului.\n\n• **Inteligența artificială și terorismul:** McCallum a afirmat că teroriștii au încercat deja să folosească inteligența artificială pentru a-și îmbunătăți metodele de recunoaștere și atac, iar dronele bazate pe AI adaugă un nou risc. El a numit deosebit de îngrijorătoare posibilitatea ca grupările extremiste să folosească tehnologia pentru a dezvolta arme biologice sau agenți patogeni noi; un astfel de caz nu s-a materializat până acum.\n\n• **Radicalizarea de extremă dreapta:** Șeful MI5 a atras atenția și asupra creșterii amenințării teroriste de extremă dreapta, asociate inclusiv radicalizării online. Potrivit relatării sale, informațiile obținute într-o anchetă privind un adolescent britanic de 13 ani radicalizat de ideologia extremei drepte au ajutat un partener internațional să împiedice un atac mortal."
-  },
-  {
-    "group_id": "group_f76220b68f",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/aprozar-Mihai-Viteazu19.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Fostă sală de jocuri din Sibiu, transformată în aprozar / Investiția a 75 de familii de fermieri din Giurgiu / „De așa ceva aveam nevoie, nu de săli de jocuri de noroc”",
-        "link": "https://www.g4media.ro/fosta-sala-de-jocuri-din-sibiu-transformata-in-aprozar-investitia-a-75-de-familii-de-fermieri-din-giurgiu-de-asa-ceva-aveam-nevoie-nu-de-sali-de-jocuri-de-noroc.html"
-      }
-    ],
-    "published_at": 1791951718,
-    "title_hu": "Fostă sală de jocuri din Sibiu, transformată în aprozar / Investiția a 75 de familii de fermieri din Giurgiu / „De așa ceva aveam nevoie, nu de săli de jocuri de noroc”",
-    "lead_hu": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a ales Sibiul pentru deschiderea primului aprozar, relatează Turnul Sfatului. La nici trei zile de la deschidere, …",
-    "content_hu": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a ales Sibiul pentru deschiderea primului aprozar, relatează Turnul Sfatului. La nici trei zile de la deschidere, producătorii spun că este foarte mulțumit de începutul afacerii. „Foarte bine. Excelent! Am aprovizionat zi de zi, ca să fie produsele proaspete. Oamenii stăteau și […] © G4Media.ro.",
-    "title_ro": "Fostă sală de jocuri din Sibiu, transformată în aprozar / Investiția a 75 de familii de fermieri din Giurgiu / „De așa ceva aveam nevoie, nu de săli de jocuri de noroc”",
-    "lead_ro": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a ales Sibiul pentru deschiderea primului aprozar, relatează Turnul Sfatului. La nici trei zile de la deschidere, …",
-    "content_ro": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a ales Sibiul pentru deschiderea primului aprozar, relatează Turnul Sfatului. La nici trei zile de la deschidere, producătorii spun că este foarte mulțumit de începutul afacerii. „Foarte bine. Excelent! Am aprovizionat zi de zi, ca să fie produsele proaspete. Oamenii stăteau și […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_b15f54293a",
-    "category": "Sport",
-    "image": "https://www.g4media.ro//wp-content/uploads/2023/06/Dinamo-FC-Dinamo-Bucuresti.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Primarul orașului Sfântu Gheorghe cere Federației Române de Fotbal să ia măsuri din cauza scandărilor anti-maghiare repetate ale huliganilor dinamoviști",
-        "link": "https://www.g4media.ro/primarul-orasului-sfantu-gheorghe-cere-federatiei-romane-de-fotbal-sa-ia-masuri-din-cauza-scandarilor-anti-maghiare-repetate-ale-huliganilor-dinamovisti.html"
-      }
-    ],
-    "published_at": 1791951648,
-    "title_hu": "Primarul orașului Sfântu Gheorghe cere Federației Române de Fotbal să ia măsuri din cauza scandărilor anti-maghiare repetate ale huliganilor dinamoviști",
-    "lead_hu": "Primarul orașului Sfântu Gheorghe, Árpád Antal, a cerut oficial o anchetă din partea Comisiei de disciplină și etică a Federației Române de Fotbal (FRF) și a organizației arbitrilor din cauza scandări…",
-    "content_hu": "Primarul orașului Sfântu Gheorghe, Árpád Antal, a cerut oficial o anchetă din partea Comisiei de disciplină și etică a Federației Române de Fotbal (FRF) și a organizației arbitrilor din cauza scandărilor scandaloase anti-maghiare din timpul meciului Sepsi OSK-Dinamo București, a relatat luni portalul de știri clujean de limbă maghiară Krónika.ro, citat de Rador. Huliganii dinamoviști […] © G4Media.ro.",
-    "title_ro": "Primarul orașului Sfântu Gheorghe cere Federației Române de Fotbal să ia măsuri din cauza scandărilor anti-maghiare repetate ale huliganilor dinamoviști",
-    "lead_ro": "Primarul orașului Sfântu Gheorghe, Árpád Antal, a cerut oficial o anchetă din partea Comisiei de disciplină și etică a Federației Române de Fotbal (FRF) și a organizației arbitrilor din cauza scandări…",
-    "content_ro": "Primarul orașului Sfântu Gheorghe, Árpád Antal, a cerut oficial o anchetă din partea Comisiei de disciplină și etică a Federației Române de Fotbal (FRF) și a organizației arbitrilor din cauza scandărilor scandaloase anti-maghiare din timpul meciului Sepsi OSK-Dinamo București, a relatat luni portalul de știri clujean de limbă maghiară Krónika.ro, citat de Rador. Huliganii dinamoviști […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_c83e5117e6",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/printul-william.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Prințul William a făcut spectacol în fața Palatului Buckingham! Turiștii au rămas mască atunci când au văzut ce face viitorul rege",
-        "link": "https://www.cancan.ro/printul-william-a-facut-spectacol-in-fata-palatului-buckingham-turistii-au-ramas-masca-atunci-cand-au-vazut-ce-face-viitorul-rege-21529572"
-      }
-    ],
-    "published_at": 1791951629,
-    "title_hu": "Prințul William a făcut spectacol în fața Palatului Buckingham! Turiștii au rămas mască atunci când au văzut ce face viitorul rege",
-    "lead_hu": "Prințul William le-a oferit turiștilor aflați marți, 13 octombrie 2026, în apropierea Palatului Buckingham o surpriză pe care cu siguranță nu o vor uita prea curând. Cei care veniseră să asiste la cel…",
-    "content_hu": "Prințul William le-a oferit turiștilor aflați marți, 13 octombrie 2026, în apropierea Palatului Buckingham o surpriză pe care cu siguranță nu o vor uita prea curând. Cei care veniseră să asiste la celebra schimbare a gărzii au avut ocazia să îl vadă pe moștenitorul tronului britanic într-o ipostază mai puțin obișnuită: cu o bâtă de […]",
-    "title_ro": "Prințul William a făcut spectacol în fața Palatului Buckingham! Turiștii au rămas mască atunci când au văzut ce face viitorul rege",
-    "lead_ro": "Prințul William le-a oferit turiștilor aflați marți, 13 octombrie 2026, în apropierea Palatului Buckingham o surpriză pe care cu siguranță nu o vor uita prea curând. Cei care veniseră să asiste la cel…",
-    "content_ro": "Prințul William le-a oferit turiștilor aflați marți, 13 octombrie 2026, în apropierea Palatului Buckingham o surpriză pe care cu siguranță nu o vor uita prea curând. Cei care veniseră să asiste la celebra schimbare a gărzii au avut ocazia să îl vadă pe moștenitorul tronului britanic într-o ipostază mai puțin obișnuită: cu o bâtă de […]"
-  },
-  {
-    "group_id": "group_a3a08d8418",
-    "fingerprint": "62f632c6ef4aa8b4e46364584611f493",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Procedura de aderare a Ucrainei și Republicii Moldova la UE: Von der Leyen salută o nouă etapă",
-        "link": "https://agerpres.ro/politic-extern/2026/10/14/procedura-de-aderare-a-ucrainei-si-republicii-moldova-la-ue-von-der-leyen-saluta-o-noua-etapa--1602700"
-      },
-      {
-        "source": "G4Media",
-        "title": "Aderarea Ucrainei şi Republicii Moldova la UE, încă un pas înainte cu noi capitole de negociere deschise. Ursula Von der Leyen salută o nouă etapă",
-        "link": "https://www.g4media.ro/aderarea-ucrainei-si-republicii-moldova-la-ue-inca-un-pas-inainte-cu-noi-capitole-de-negociere-deschise-ursula-von-der-leyen-saluta-o-noua-etapa.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "UE deschide noi capitole de negociere cu Ucraina și Republica Moldova. Bruxellesul anunță progrese importante în negocieri",
-        "link": "https://stirileprotv.ro/stiri/international/ue-deschide-noi-capitole-de-negociere-cu-ucraina-si-republica-moldova-bruxellesul-anunta-progrese-importante-in-negocieri.html"
-      }
-    ],
-    "published_at": 1791951574,
-    "title_hu": "Újabb tárgyalási fejezetek nyíltak Ukrajna és Moldova uniós csatlakozásáról",
-    "lead_hu": "Az Európai Unió újabb tárgyalási fejezeteket nyitott Ukrajna és Moldova csatlakozási folyamatában, a megbeszélések a belső piacra, valamint a versenyképességre és az inkluzív növekedésre összpontosítanak. Volodimir Zelenszkij közben kihirdette a nemzeti kisebbségek anyanyelvi oktatási jogait erősítő törvénymódosításokat; az EU Albániával kapcsolatban is előrelépést jelentett be.",
-    "content_hu": "• **Az Európai Unió újabb tárgyalási fejezeteket nyitott** Ukrajna és Moldova csatlakozási folyamatában, amit Ursula von der Leyen és Volodimir Zelenszkij is fontos előrelépésként üdvözölt.\n\n• **Az ukrán kisebbségi jogokat védő törvénymódosítások** elhárítottak egy fontos akadályt a folyamatban; a magyar kisebbség helyzete korábban feszültséget okozott Budapest és Kijev között.\n\n• **Volodimir Zelenszkij kihirdette az anyanyelvi oktatás jogát erősítő módosításokat.** A változások a román gyermekek ukrajnai, román nyelvű oktatására is garanciákat adnak; Nicușor Dan román elnök üdvözölte a lépést.\n\n• **A tárgyalások a belső piacra, a versenyképességre és az inkluzív növekedésre összpontosítanak.** A 35 fejezetet hat témakörbe rendezik, és ezek közül már csak kettő maradt nyitásra váróként.\n\n• **A csatlakozáshoz szükséges reformok** az uniós joganyag átvételét szolgálják, és a folyamat lezárásához mind a 27 tagállam egyhangú döntése kell.\n\n• **Marta Kos bővítési biztos szerint** technikailag 2028 első vagy második negyedévére befejeződhetnek a tárgyalások; a reformok Moldova számára további uniós forrásokat is megnyithatnak.\n\n• **Albániával is előrelépés történt:** az EU egy tárgyalási fejezet ideiglenes lezárását jelentette be.",
-    "title_ro": "UE a deschis noi capitole de negociere pentru aderarea Ucrainei și Republicii Moldova",
-    "lead_ro": "Uniunea Europeană a deschis noi capitole de negociere în procesul de aderare a Ucrainei și Republicii Moldova, discuțiile concentrându-se pe piața internă, competitivitate și creștere incluzivă. Volodimir Zelenski a promulgat între timp modificări legislative care consolidează dreptul minorităților la educație în limba maternă, iar UE a anunțat progrese și în negocierile cu Albania.",
-    "content_ro": "• **Uniunea Europeană a deschis noi capitole de negociere** în procesul de aderare a Ucrainei și Republicii Moldova, o etapă salutată drept importantă de Ursula von der Leyen și Volodimir Zelenski.\n\n• **Modificările legislative ucrainene privind protecția minorităților naționale** au eliminat un obstacol important în calea aderării; statutul minorității maghiare provocase anterior tensiuni între Budapesta și Kiev.\n\n• **Volodimir Zelenski a promulgat modificări care consolidează dreptul la educație în limba maternă.** Acestea oferă garanții și pentru educația în limba română a copiilor români din Ucraina, iar președintele român Nicușor Dan a salutat măsura.\n\n• **Negocierile se vor concentra pe piața internă, competitivitate și creștere incluzivă.** Cele 35 de capitole sunt grupate în șase tematici, dintre care doar două mai sunt nedeschise.\n\n• **Reformele necesare aderării** urmăresc preluarea acquis-ului comunitar, iar încheierea procesului necesită o decizie unanimă a tuturor celor 27 de state membre.\n\n• **Comisara europeană pentru extindere, Marta Kos, estimează** că negocierile ar putea fi încheiate din punct de vedere tehnic în primul sau al doilea trimestru din 2028; reformele pot aduce Republicii Moldova fonduri europene suplimentare.\n\n• **Au fost anunțate progrese și în cazul Albaniei:** UE a închis provizoriu un capitol de negociere."
-  },
-  {
-    "group_id": "group_f849083d32",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/19022026/e55ee635-7a82-4c04-8c7b-9c1f6ae7d4ca.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Interul lui Cristi Chivu, desființat după umilința cu Club Brugge! Paolo Di Canio nu a menajat pe nimeni: „Nu există niciun jucător de clasă mondială!”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/interul-lui-cristi-chivu-desfiintat-dupa-umilinta-cu-club-brugge-987871.html"
-      }
-    ],
-    "published_at": 1791951537,
-    "title_hu": "Interul lui Cristi Chivu, desființat după umilința cu Club Brugge! Paolo Di Canio nu a menajat pe nimeni: „Nu există niciun jucător de clasă mondială!”",
-    "lead_hu": "După ce Interul lui Cristi Chivu a fost învins pe teren propriu de Club Brugge, scor 3-4, Paolo Di Canio, fostul atacant italian trecut de-a lungul carierei pe la Lazio, Milan, Napoli sau West Ham, ac…",
-    "content_hu": "După ce Interul lui Cristi Chivu a fost învins pe teren propriu de Club Brugge, scor 3-4, Paolo Di Canio, fostul atacant italian trecut de-a lungul carierei pe la Lazio, Milan, Napoli sau West Ham, actualmente analist pentru Sky Sport, a lansat o serie de critici la adresa „nerazzurrilor”. ...",
-    "title_ro": "Interul lui Cristi Chivu, desființat după umilința cu Club Brugge! Paolo Di Canio nu a menajat pe nimeni: „Nu există niciun jucător de clasă mondială!”",
-    "lead_ro": "După ce Interul lui Cristi Chivu a fost învins pe teren propriu de Club Brugge, scor 3-4, Paolo Di Canio, fostul atacant italian trecut de-a lungul carierei pe la Lazio, Milan, Napoli sau West Ham, ac…",
-    "content_ro": "După ce Interul lui Cristi Chivu a fost învins pe teren propriu de Club Brugge, scor 3-4, Paolo Di Canio, fostul atacant italian trecut de-a lungul carierei pe la Lazio, Milan, Napoli sau West Ham, actualmente analist pentru Sky Sport, a lansat o serie de critici la adresa „nerazzurrilor”. ..."
   }
 ]
