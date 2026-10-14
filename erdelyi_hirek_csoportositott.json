@@ -3390,7 +3390,7 @@
   {
     "group_id": "group_3c009f782d",
     "category": "Bulvár",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Cancan.ro",
@@ -3409,6 +3409,15 @@
         "summary": "Marți temperaturile se mențin scăzute, iar ploile continuă în centru și pe partea sudică. În zonele înalte ninge sau cade lapoviță, iar vântul bate mai tare în vest, în sud-est și la munte.",
         "category": "Általános",
         "published_at": 1791866755
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza meteo azi, 14 octombrie 2026. Ploi în sud, vânt puternic în est și frig pătrunzător peste noapte",
+        "link": "https://www.cancan.ro/prognoza-meteo-azi-14-octombrie-2026-ploi-in-sud-vant-puternic-in-est-si-frig-patrunzator-peste-noapte-21529290",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/vreme-rece.jpg-1-1200x675.jpeg",
+        "summary": "Vremea rămâne rece în România miercuri, 14 octombrie 2026, chiar dacă temperaturile maxime vor crește ușor față de ziua precedentă, mai ales în sudul și sud-vestul țării. Potrivit prognozei meteorologice pentru intervalul 14 octombrie, ora 09:00 – 15 octombrie, ora 09:00, ploile slabe vor apărea în special în Dobrogea, sudul Munteniei și al Olteniei, în […]",
+        "category": "Bulvár",
+        "published_at": 1791945054
       }
     ]
   },
@@ -14709,6 +14718,86 @@
         "summary": "Industria IT din România are perspective de creștere și nevoie de tot mai mulți specialiști, însă dezvoltarea inteligenței artificiale și presiunile asupra salariilor stârnesc îngrijorări printre programatori.",
         "category": "Általános",
         "published_at": 1791944905
+      }
+    ]
+  },
+  {
+    "group_id": "group_92b8c44e17",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "EFEMERIDE ASTRONOMICE - 14 octombrie",
+        "link": "https://agerpres.ro/documentare/2026/10/14/efemeride-astronomice---14-octombrie--1602696",
+        "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1791946029
+      }
+    ]
+  },
+  {
+    "group_id": "group_345e5d4bcb",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tururi ghidate la expoziția 'Brâncovenii: putere și moștenire' - pe 14 și 31 octombrie, la Palatul Suțu",
+        "link": "https://agerpres.ro/cultura-media/2026/10/14/tururi-ghidate-la-expozitia-brancovenii-putere-si-mostenire---pe-14-si-31-octombrie-la-palatul-sutu--1602371",
+        "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1791946029
+      }
+    ]
+  },
+  {
+    "group_id": "group_4ef5c99380",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Diplomație și afaceri pentru Rubio în Asia Centrală și de Sud săptămâna viitoare",
+        "link": "https://agerpres.ro/politic-extern/2026/10/14/diplomatie-si-afaceri-pentru-rubio-in-asia-centrala-si-de-sud-saptamana-viitoare--1602702",
+        "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1791946029
+      }
+    ]
+  },
+  {
+    "group_id": "group_39dfbaf566",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Dovleacul, comoara portocalie a toamnei! Mihaela Bilic explică de ce ar trebui să ajungă mai des în farfuria românilor",
+        "link": "https://www.cancan.ro/dovleacul-comoara-portocalie-a-toamnei-mihaela-bilic-explica-de-ce-ar-trebui-sa-ajunga-mai-des-in-farfuria-romanilor-21529558",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/mihaela-bilic.jpg-1-1200x675.jpeg",
+        "summary": "Toamna aduce în bucătăriile românilor unul dintre cele mai îndrăgite alimente de sezon: dovleacul. Cu aroma sa inconfundabilă, gustul dulceag și culoarea portocalie care ne duce imediat cu gândul la zilele răcoroase, dovleacul este nelipsit din plăcinte, deserturi și preparate tradiționale. Însă, dincolo de savoare și de mirosul îmbietor care umple casa atunci când este […]",
+        "category": "Bulvár",
+        "published_at": 1791945601
+      }
+    ]
+  },
+  {
+    "group_id": "group_b045941be4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Corupția ar putea fi mai greu de depistat în UE. Avertisment privind noul buget european",
+        "link": "https://www.mediafax.ro/externe/coruptia-ar-putea-fi-mai-greu-de-depistat-in-ue-avertisment-privind-noul-buget-european-23824910",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/naknaknak-brussels-4056171_1920-1024x683.jpg",
+        "summary": "Noul buget al Uniunii Europene ar putea îngreuna depistarea fraudelor și urmărirea modului în care sunt cheltuiți banii publici. Curtea de Conturi Europeană avertizează că flexibilitatea acordată statelor membre poate reduce transparența utilizării fondurilor europene.",
+        "category": "Általános",
+        "published_at": 1791945284
       }
     ]
   }
