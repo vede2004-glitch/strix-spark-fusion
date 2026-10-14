@@ -1,5 +1,566 @@
 [
   {
+    "group_id": "group_a838eee315",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "S-a stabilit programul Cupei României. Când joacă FC Bihor cu FK Csíkszereda",
+        "link": "https://www.ebihoreanul.ro/stiri/s-a-stabilit-programul-cupei-romaniei-cand-joaca-fc-bihor-cu-fk-csikszereda-205801.html"
+      }
+    ],
+    "published_at": 1791977536,
+    "title_hu": "S-a stabilit programul Cupei României. Când joacă FC Bihor cu FK Csíkszereda",
+    "lead_hu": "FC Bihor Oradea va juca marți, 27 octombrie, de la ora 15:00, în deplasare cu FK Csíkszereda, în etapa a doua a grupelor Cupei României. Federația Română de Fotbal a anunțat programul partidelor, iar …",
+    "content_hu": "FC Bihor Oradea va juca marți, 27 octombrie, de la ora 15:00, în deplasare cu FK Csíkszereda, în etapa a doua a grupelor Cupei României. Federația Română de Fotbal a anunțat programul partidelor, iar confruntarea de la Miercurea Ciuc va fi transmisă în direct pe FRF TV, pe YouTube. Până la duelul din Cupă, orădenii mai au de disputat, însă, două meciuri în campionat.",
+    "title_ro": "S-a stabilit programul Cupei României. Când joacă FC Bihor cu FK Csíkszereda",
+    "lead_ro": "FC Bihor Oradea va juca marți, 27 octombrie, de la ora 15:00, în deplasare cu FK Csíkszereda, în etapa a doua a grupelor Cupei României. Federația Română de Fotbal a anunțat programul partidelor, iar …",
+    "content_ro": "FC Bihor Oradea va juca marți, 27 octombrie, de la ora 15:00, în deplasare cu FK Csíkszereda, în etapa a doua a grupelor Cupei României. Federația Română de Fotbal a anunțat programul partidelor, iar confruntarea de la Miercurea Ciuc va fi transmisă în direct pe FRF TV, pe YouTube. Până la duelul din Cupă, orădenii mai au de disputat, însă, două meciuri în campionat."
+  },
+  {
+    "group_id": "group_2cb363e89c",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Câtă ciocolată mai e în tableta ta preferată? Învață să citești eticheta ca să știi ce cumperi",
+        "link": "https://hotnews.ro/cata-ciocolata-mai-e-in-tableta-ta-preferata-invata-sa-citesti-eticheta-ca-sa-stii-ce-cumperi-2375756"
+      }
+    ],
+    "published_at": 1791977431,
+    "title_hu": "Câtă ciocolată mai e în tableta ta preferată? Învață să citești eticheta ca să știi ce cumperi",
+    "lead_hu": "Poate ai observat, poate nu: pe unele dintre ciocolatele de pe piața românească nu mai scrie cuvântul ciocolată. Scrie tabletă sau baton umplut cu cremă. Etichetele din supermarket le descriu în conti…",
+    "content_hu": "Poate ai observat, poate nu: pe unele dintre ciocolatele de pe piața românească nu mai scrie cuvântul ciocolată. Scrie tabletă sau baton umplut cu cremă. Etichetele din supermarket le descriu în continuare drept ciocolată, dar ele nu mai îndeplinesc de mult condițiile minime pentru a fi numite așa. Uite cum să citești etichetele pentru a …",
+    "title_ro": "Câtă ciocolată mai e în tableta ta preferată? Învață să citești eticheta ca să știi ce cumperi",
+    "lead_ro": "Poate ai observat, poate nu: pe unele dintre ciocolatele de pe piața românească nu mai scrie cuvântul ciocolată. Scrie tabletă sau baton umplut cu cremă. Etichetele din supermarket le descriu în conti…",
+    "content_ro": "Poate ai observat, poate nu: pe unele dintre ciocolatele de pe piața românească nu mai scrie cuvântul ciocolată. Scrie tabletă sau baton umplut cu cremă. Etichetele din supermarket le descriu în continuare drept ciocolată, dar ele nu mai îndeplinesc de mult condițiile minime pentru a fi numite așa. Uite cum să citești etichetele pentru a …"
+  },
+  {
+    "group_id": "group_0023381096",
+    "fingerprint": "5958b3704b54857c9bb83d435ed44a56",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 12,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "SUA ar fi oferit Rusiei acordul pentru motorină ca să-l „înmoaie” pe Putin în negocierile de pace: „E rândul tău să dai ceva”",
+        "link": "https://stirileprotv.ro/stiri/international/sua-ar-fi-oferit-rusiei-acordul-pentru-motorina-ca-sa-l-inmoaie-pe-putin-in-negocierile-de-pace-e-randul-tau-sa-dai-ceva.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Trump megint Putyint cirógatja, Zelenszkijt pedig lazán a víz alá nyomná",
+        "link": "https://transtelex.ro/kulfold/2026/10/13/trump-putyin-dizel-megallapodas-ukrajna-zelenszkij-energetikai-tuzszunet-bejelentes-tamadasok-orosz-ukran-haboru"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
+        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Motivul pentru care Trump „a sărit la gâtul” lui Zelenski. Liderul ucrainean, scos țap ispășitor pentru o problemă creată de Washington",
+        "link": "https://www.digi24.ro/stiri/externe/motivul-pentru-care-trump-a-sarit-la-gatul-lui-zelenski-liderul-ucrainean-scos-tap-ispasitor-pentru-o-problema-creata-de-washington-3990857"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cine l-ar putea înlocui pe Zelenski: Patru candidați pentru funcția de președinte al Ucrainei, unul e favorit",
+        "link": "https://www.digi24.ro/stiri/externe/cine-l-ar-putea-inlocui-pe-zelenski-patru-candidatii-pentru-functia-de-presedinte-al-ucrainei-unul-e-favorit-3989879"
+      },
+      {
+        "source": "Digi24",
+        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
+        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
+      },
+      {
+        "source": "Digi24",
+        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
+        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
+        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Volodimir Zelenski a dezvăluit cu ce a fost Ucraina amenințată de către Statele Unite",
+        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-a-dezvaluit-cu-ce-a-fost-ucraina-amenintata-de-catre-statele-unite-23825122"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Zelenski acuză Rusia de 'dispreț' față de SUA, după atacurile asupra infrastructurii energetice din #Ucraina",
+        "link": "https://agerpres.ro/politic-extern/2026/10/14/zelenski-acuza-rusia-de-dispret-fata-de-sua-dupa-atacurile-asupra-infrastructurii-energetice-din-ucr--1602809"
+      },
+      {
+        "source": "G4Media",
+        "title": "Meloni critică acordul dintre SUA și Rusia privind exporturile de motorină: „O alegere foarte riscantă”",
+        "link": "https://www.g4media.ro/meloni-critica-acordul-dintre-sua-si-rusia-privind-exporturile-de-motorina-o-alegere-foarte-riscanta.html"
+      }
+    ],
+    "published_at": 1791977384,
+    "title_hu": "Trump dízelalkuja Putyinnak kedvezhet, miközben Washington Kijevre nehezedő nyomása és az orosz támadások fokozódnak",
+    "lead_hu": "Trump szerint Putyin jobban akar békemegállapodást, mint Zelenszkij, miközben Washington orosz dízelexportot engedélyezett, és az ukrán finomítótámadások leállítását sürgeti. Az alku árhatása korlátozott lehet, de a szankciók fellazításának precedenst teremthet; Moszkva közben folytatja támadásait, Zelenszkij pedig kölcsönösséget, amerikai fellépést és a választásokhoz 60 napos tűzszünetet követel. A lépést szenátorok és európai vezetők bírálják, a legutóbbi támadások pedig legalább hét halálos áldozatot és 600 ezer áram nélkül maradt embert követeltek.",
+    "content_hu": "• **Trump Putyint a békére készebbnek tartja Zelenszkijnél**: az amerikai elnök nem ítélte el Moszkvát az energetikai infrastruktúra elleni támadásokért, és azt mondta, mindkét fél megsérthette az általa bejelentett energiafegyverszünetet. Szerinte Zelenszkijt is rá kell venni a megállapodásra.\n\n• **Zelenszkij kölcsönösséget és amerikai fellépést sürget**: azt mondta, Trump tűzszüneti bejelentése után Oroszország megtámadott egy harkivi erőművet, majd drónok csapást mértek Kijevre. Ukrajna kész leállítani az orosz energetikai infrastruktúra elleni támadásokat, ha Moszkva is így tesz; az ukrán erők állítása szerint az éjszaka nem támadtak orosz finomítókat. Zelenszkij szerint az amerikai dízelmegállapodás mennyisége aligha befolyásolja a világpiacot, és felvetette, hogy Washington Ukrajnával is köthetne dízelmegállapodást.\n\n• **A dízelmegállapodást a tárgyalások újraindítására szánt jelzésként mutatták be**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón azt mondta ukrán tisztviselőknek, hogy az alku jelezheti Moszkvának: miután Kijev leállítja a finomítótámadásokat, Oroszországon a sor. A források szerint Putyin nem hajlandó tárgyalni a háború lezárásáról; szó esett biztonsági garanciákról és újjáépítésről is, de hivatalos megállapodás nem született, és a küldöttek ott nem fenyegettek a támogatás megvonásával.\n\n• **A tervezett dízelmennyiségről eltérő számok jelentek meg**: az egyik bejelentés több mint 2,25 millió hordóról szólt, egy másik Trump 4,8 millió tonnás, közel 36 millió hordós tervét ismertette. Eszerint 300 ezer tonna érkezhet először, novemberben további 500 ezer, majd egymillió tonna, később pedig akár hárommillió tonna is. Alekszandr Novak orosz miniszterelnök-helyettes a későbbi exportot havi hárommillió tonnáig terjedőnek nevezte, a finomítók állapotától függően.\n\n• **Az alku árhatása várhatóan csekély**: a Goldman Sachs becslése szerint az októberre és novemberre tervezett szállítások hordónként mindössze 1–2 dollárral csökkenthetik a nagykereskedelmi dízelárat az Egyesült Államokban és Európában. A kezdeti szállítások az amerikai fogyasztás kevesebb mint egy napját fedeznék; a G7 európai tagjai által négy hónap alatt felszabadítandó 100 millió hordó dízel és nyersolaj ennek mintegy ötvenszerese. Az amerikai dízelár gallononként 6,28 dollárra emelkedett, 72 százalékkal az egy évvel korábbi szint fölé; a benzin ára 4,34 dollár volt a korábbi 3,08 dollár után. Az Egyesült Államok nettó dízelexportőr, így az orosz szállítmányok inkább az amerikai exportpiacokon, például Brazíliában és Törökországban mérsékelhetik a versenyt.\n\n• **Az üzemanyagárakat elsősorban az iráni háború és a Hormuzi-szoros zavarai hajtják fel**: a Financial Times elemzése szerint Trump tévesen Zelenszkijt teszi felelőssé a drágulásért, amelynek fő oka az Irán elleni háború és a szoros körüli fennakadások. Az ukrán finomítótámadások is szűkítették a kínálatot, de az elemzés szerint nem ezek a fő hajtóerők; Oroszországban az egy évvel korábbinál napi hárommillió hordóval több finomítói kapacitás lehet kiesésben.\n\n• **A szankciók fellazítása politikai és gazdasági precedenst teremthet**: elemzők és orosz propagandisták szerint az amerikai engedmény azt a benyomást keltheti, hogy a szankciók rugalmasan megkerülhetők, és más országokat – köztük Dél-Koreát – is erre bátoríthat. Orosz propagandisták azt is állították, hogy az alku alig hat az árakra, Trump pedig a félidős választások előtt Moszkva segítségét keresi; egyikük bizonyíték nélkül Jared Kushner anyagi hasznára célzott.\n\n• **Putyin a területi engedményhez kötné az érdemi tárgyalásokat**: egy Kremlhez közeli személy szerint Putyin csak akkor térne vissza az érdemi tárgyalásokhoz, ha megszerezné a Donbasz még ukrán ellenőrzés alatt álló, hátralévő 11 százalékát. Ukrajna közölte, hogy nem enged át több területet, de a jelenlegi frontvonalak befagyasztását a béke alapjának tekintheti.\n\n• **Washington nyomást gyakorol Kijevre a finomítótámadások leállítása érdekében**: Trump nyilvánosan új ukrán elnök megválasztását is sürgette. Zelenszkij az NPR-nek azt mondta, az amerikai kormányzat a hírszerzési információk megosztásának felfüggesztésével fenyegetett, ha Ukrajna nem állítja le az orosz finomítók elleni dróntámadásokat; a figyelmeztetés a katonai vezetéshez is eljutott. A Financial Times szerint a fegyvereladások és a hírszerzési együttműködés korlátozása is felmerült, valamint a hírszerzési támogatás választások megtartásához kötése. Tim Willasey-Wilsey volt brit diplomata szerint Kijev nem becsülheti alá, milyen veszélyes lehet egy politikailag meggyengült, sértett Trump; Nathalie Tocci elemző szerint ugyanakkor Washington nyomásgyakorlási mozgástere szűkült, bár a hírszerzési támogatás felfüggesztése súlyosan érintené Ukrajnát.\n\n• **Zelenszkij 60 napos teljes tűzszünethez kötné a választásokat**: azt üzente Putyinnak, hogy Ukrajna két hónapos teljes tűzszünet esetén választásokat tarthat. A választások biztonságos megtartását a megszállás és a folytatódó támadások is akadályozzák. Egy felmérésben Valerij Zaluzsnij szerepelt lehetséges favoritként: a válaszadók több mint 20 százaléka szavazna rá; Kirilo Budanovban 53 százalék bízik. Mihail Fedorov és Petro Porosenko is felmerült lehetséges jelöltként.\n\n• **Kétpárti szenátorcsoport követeli a dízelmegállapodás visszavonását**: a szenátorok szerint az alku alig mérsékelné az üzemanyagárakat, miközben bevételt adna Oroszországnak a háború folytatásához, és sértené az amerikai biztonsági érdekeket, valamint Ukrajna szövetségeseit. A 2022-es importtilalomra és a 2026-os szankciós törvényre hivatkozva a 135. számú általános engedély visszavonását és a törvény végrehajtását sürgették; szerintük a kormány nem tájékoztatta megfelelően a Kongresszust. Levelük az alku visszavonását követelte, és arra figyelmeztetett, hogy a bevételek Moszkva Kínával, Iránnal és Észak-Koreával folytatott biztonsági együttműködését is erősíthetik.\n\n• **Az újabb orosz támadás 600 ezer embert hagyott áram nélkül**: Zelenszkij szerint Oroszország 39 ballisztikus rakétát és több mint 120 támadó drónt vetett be Kijev, a Kijevi terület és Harkiv energetikai, illetve kritikus infrastruktúrája ellen. Az ukrán elnök 26 energetikai és négy olaj- és gázipari létesítmény sérüléséről számolt be. A későbbi ukrán mérleg legalább hét halottról és 25 sebesültről szólt: négyen Kijevben, ketten a Dnyipropetrovszki, egy ember pedig a Zaporizzsjai területen halt meg. Zelenszkij az amerikai elnök által bejelentett tűzszünet nyílt semmibevételének nevezte a támadást, és súlyosabb szankciókat, illetve további Patriot elfogórakétákat kért.\n\n• **A Starlink katonai használatának korlátozása ukrán műveleteket zavart meg**: egy ukrán elnöki tanácsadó szerint a SpaceX egyes, katonai célra használt Starlink-szolgáltatásokat korlátozott, és 160 km/óránál nagyobb sebesség felett megszakította a működésüket; emiatt több harci küldetés is fennakadt. A jelentések nem állítják, hogy a korlátozás az amerikai kormány által kilátásba helyezett büntetőintézkedés lenne.\n\n• **Giorgia Meloni kockázatosnak és Moszkvának kedvezőnek nevezte az alkut**: az olasz miniszterelnök szerint a megállapodás legitimálja Oroszországot, új bevételt biztosíthat a háború finanszírozására, és gyengíti a szankciókat. Azt javasolta, hogy az EU jelöljön ki felhatalmazott képviselőt az ukrajnai tárgyalásokra; ennek szerepét akár a francia, német és brit E3-csoport is betölthetné. Azt is sürgette, hogy Európa védje kritikus infrastruktúráját az orosz hibrid támadásokkal szemben.\n\n• **Az európai vezetők és Ukrajna politikai ellenfelei is bírálták Trump lépéseit**: Kaja Kallas szerint az engedmény hozzájárul Moszkva háborújához, az EU pedig új, az orosz hadiipart célzó szankciókat fogadott el. Ursula von der Leyen, Emmanuel Macron és Donald Tusk is támogatásáról biztosította Ukrajnát, illetve az energetikai tűzszünet kölcsönös betartását sürgette. A G7 európai tagjai a következő négy hónapban 100 millió hordó dízelt és nyersolajat szabadítanának fel stratégiai tartalékaikból. Petro Porosenko szerint ha valahol új vezetőre van szükség, az Oroszország; egy ukrán ellenzéki képviselő pedig úgy vélte, Trump támadásai akár Zelenszkij támogatottságát is növelhetik. A NATO főtitkára, Mark Rutte a légvédelem megerősítését is sürgette Ukrajna támogatására.",
+    "title_ro": "Acordul lui Trump privind motorina ar putea avantaja Moscova, în timp ce Washingtonul pune presiune pe Kiev, iar atacurile rusești se intensifică",
+    "lead_ro": "Trump susține că Putin își dorește pacea mai mult decât Zelenski, în timp ce Washingtonul a permis exporturile de motorină rusească și cere oprirea atacurilor ucrainene asupra rafinăriilor. Efectul acordului asupra prețurilor ar putea fi limitat, dar măsura riscă să creeze un precedent pentru relaxarea sancțiunilor; Moscova continuă atacurile, iar Zelenski cere reciprocitate, măsuri americane și o încetare totală a focului de 60 de zile înaintea alegerilor. Senatorii și liderii europeni critică înțelegerea, iar cele mai recente atacuri rusești au provocat cel puțin șapte morți și au lăsat 600.000 de persoane fără electricitate.",
+    "content_ro": "• **Trump îl consideră pe Putin mai dornic de pace decât pe Zelenski**: președintele american nu a condamnat Moscova pentru atacurile asupra infrastructurii energetice și a spus că ambele părți ar fi putut încălca armistițiul energetic anunțat de el. Potrivit lui, și Zelenski trebuie convins să accepte un acord.\n\n• **Zelenski cere reciprocitate și intervenția Statelor Unite**: el a spus că, după anunțul lui Trump privind armistițiul, Rusia a atacat o centrală electrică din Harkov, iar apoi dronele au lovit Kievul. Ucraina este pregătită să oprească atacurile asupra infrastructurii energetice rusești dacă Moscova face același lucru; potrivit Kievului, forțele ucrainene nu au atacat rafinării rusești în timpul nopții. Zelenski consideră că volumul motorinei din acordul american este prea mic pentru a influența piața mondială și a sugerat că Washingtonul ar putea încheia un acord similar cu Ucraina.\n\n• **Acordul privind motorina a fost prezentat ca un semnal menit să relanseze negocierile**: potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni la întâlnirea de la Miami că înțelegerea ar putea transmite Moscovei mesajul că, după oprirea atacurilor Kievului asupra rafinăriilor, este rândul Rusiei să facă un pas. Sursele au spus că Putin nu este dispus să negocieze încheierea războiului. S-au discutat și garanții de securitate și reconstrucția, dar nu s-a ajuns la un acord oficial, iar trimișii nu au amenințat acolo cu retragerea sprijinului.\n\n• **Au apărut cifre diferite privind volumele de motorină planificate**: un anunț menționa peste 2,25 milioane de barili, iar altul prezenta planul lui Trump de 4,8 milioane de tone, echivalentul a aproape 36 de milioane de barili. Potrivit acestuia, ar urma să fie livrate inițial 300.000 de tone, apoi alte 500.000 în noiembrie și un milion imediat după aceea, cu până la încă trei milioane de tone ulterior. Vicepremierul rus Aleksandr Novak a spus că exporturile viitoare ar putea ajunge la trei milioane de tone pe lună, în funcție de situația rafinăriilor.\n\n• **Impactul acordului asupra prețurilor este estimat să fie redus**: Goldman Sachs estimează că livrările planificate pentru octombrie și noiembrie ar putea reduce prețul angro al motorinei cu doar 1–2 dolari pe baril în SUA și Europa. Livrările inițiale ar acoperi mai puțin de o zi din consumul american; cele 100 de milioane de barili de motorină și țiței pe care membrii europeni ai G7 intenționează să le elibereze din rezerve în patru luni reprezintă de aproximativ 50 de ori mai mult. Motorina în SUA a ajuns la 6,28 dolari pe galon, cu 72% peste nivelul de acum un an; benzina costa 4,34 dolari, față de 3,08 dolari. SUA sunt exportator net de motorină, astfel că livrările rusești ar putea reduce mai ales concurența pe piețe de export americane precum Brazilia și Turcia.\n\n• **Războiul cu Iranul și perturbările din Strâmtoarea Ormuz sunt principalii factori ai scumpirii carburanților**: potrivit unei analize Financial Times, Trump îl învinovățește în mod greșit pe Zelenski pentru creșterea prețurilor, al cărei principal factor este războiul împotriva Iranului și perturbarea traficului prin strâmtoare. Atacurile ucrainene asupra rafinăriilor au restrâns și ele oferta, dar analiza spune că nu sunt cauza principală; în Rusia, capacitatea de rafinare indisponibilă ar putea fi cu trei milioane de barili pe zi mai mare decât în urmă cu un an.\n\n• **Relaxarea sancțiunilor riscă să creeze un precedent politic și economic**: analiștii și propagandiștii ruși au avertizat că concesia americană ar putea crea impresia că sancțiunile pot fi ocolite cu ușurință și ar putea încuraja și alte țări, inclusiv Coreea de Sud, să facă același lucru. Propagandiștii ruși au mai susținut că acordul va avea un efect redus asupra prețurilor și că Trump caută ajutorul Moscovei înaintea alegerilor de la jumătatea mandatului; unul dintre ei l-a acuzat fără dovezi pe Jared Kushner că ar avea un câștig financiar.\n\n• **Putin ar condiționa negocierile substanțiale de concesii teritoriale**: potrivit unei persoane apropiate Kremlinului, Putin ar reveni la negocieri serioase doar dacă ar obține restul de 11% din Donbas controlat încă de Ucraina. Kievul a spus că nu va ceda alte teritorii, dar ar putea considera înghețarea conflictului pe liniile actuale ale frontului drept o bază pentru pace.\n\n• **Washingtonul face presiuni asupra Kievului pentru oprirea atacurilor asupra rafinăriilor**: Trump a cerut public și alegerea unui nou președinte ucrainean. Zelenski a declarat pentru NPR că administrația americană a amenințat cu suspendarea schimbului de informații dacă Ucraina nu oprește atacurile cu drone asupra rafinăriilor rusești; avertismentul ar fi ajuns și la conducerea militară. Financial Times a relatat că s-au discutat și restricționarea vânzărilor de arme și a cooperării în domeniul informațiilor, precum și condiționarea sprijinului de organizarea alegerilor. Fostul diplomat britanic Tim Willasey-Wilsey a avertizat că Kievul nu ar trebui să subestimeze riscul unui Trump slăbit politic și frustrat; analista Nathalie Tocci a spus că marja de presiune a Washingtonului s-a redus, dar suspendarea informațiilor ar afecta grav Ucraina.\n\n• **Zelenski ar condiționa alegerile de o încetare totală a focului timp de 60 de zile**: el i-a transmis lui Putin că Ucraina poate organiza alegeri după două luni de armistițiu total. Ocupația și atacurile continue împiedică desfășurarea în siguranță a scrutinului. Într-un sondaj, Valeri Zalujnîi a apărut drept posibil favorit: peste 20% dintre respondenți ar vota pentru el; 53% au încredere în Kirilo Budanov. Mihail Fedorov și Petro Poroșenko au fost menționați, de asemenea, ca posibili candidați.\n\n• **Un grup bipartizan de senatori cere anularea acordului privind motorina**: senatorii spun că înțelegerea ar reduce foarte puțin prețurile la combustibil, oferind în același timp venituri Rusiei pentru continuarea războiului și afectând interesele de securitate ale SUA și aliații Ucrainei. Invocând interdicția din 2022 privind importurile și legea sancțiunilor din 2026, ei au cerut revocarea Licenței Generale nr. 135 și aplicarea legii; potrivit lor, administrația nu a informat corespunzător Congresul. Scrisoarea cere anularea acordului și avertizează că veniturile ar putea consolida și cooperarea de securitate a Moscovei cu China, Iranul și Coreea de Nord.\n\n• **Un nou atac rusesc a lăsat 600.000 de persoane fără electricitate**: potrivit lui Zelenski, Rusia a lansat 39 de rachete balistice și peste 120 de drone de atac asupra infrastructurii energetice și critice din Kiev, regiunea Kiev și Harkov. Președintele ucrainean a raportat avarierea a 26 de instalații energetice și a patru obiective din sectorul petrolier și gazier. Bilanțul ucrainean ulterior a indicat cel puțin șapte morți și 25 de răniți: patru persoane au murit la Kiev, două în regiunea Dnipropetrovsk și una în regiunea Zaporojie. Zelenski a numit atacul o sfidare fățișă a armistițiului anunțat de Trump și a cerut sancțiuni mai dure și rachete interceptoare Patriot suplimentare.\n\n• **Restricționarea utilizării militare a Starlink a perturbat operațiuni ucrainene**: potrivit unui consilier al președintelui ucrainean, SpaceX a limitat anumite servicii Starlink folosite în scopuri militare și le-a întrerupt la viteze de peste 160 km/h, perturbând mai multe misiuni de luptă. Relatările nu afirmă că restricția ar fi o măsură punitivă amenințată de guvernul american.\n\n• **Giorgia Meloni a calificat acordul drept riscant și favorabil Moscovei**: premierul italian a spus că înțelegerea legitimează Rusia, îi poate aduce venituri suplimentare pentru finanțarea războiului și slăbește sancțiunile. Ea a propus ca UE să desemneze un reprezentant cu mandat pentru negocierile privind Ucraina; acest rol ar putea reveni și grupului E3, format din Franța, Germania și Regatul Unit. Meloni a cerut și protejarea infrastructurii critice europene împotriva atacurilor hibride rusești.\n\n• **Liderii europeni și adversarii politici ai lui Zelenski au criticat și ei demersurile lui Trump**: Kaja Kallas a spus că această concesie contribuie la războiul Moscovei, iar UE a adoptat noi sancțiuni împotriva industriei militare ruse. Ursula von der Leyen, Emmanuel Macron și Donald Tusk și-au exprimat sprijinul pentru Ucraina și au cerut respectarea reciprocă a armistițiului energetic. Membrii europeni ai G7 intenționează să elibereze din rezerve 100 de milioane de barili de motorină și țiței în următoarele patru luni. Petro Poroșenko a spus că, dacă undeva este nevoie de un nou lider, acela este Rusia; un deputat al opoziției ucrainene a apreciat că atacurile lui Trump ar putea chiar spori sprijinul pentru Zelenski. Secretarul general al NATO, Mark Rutte, a cerut consolidarea apărării antiaeriene a Ucrainei."
+  },
+  {
+    "group_id": "group_e590b175f4",
+    "fingerprint": "a44174852f5d604fd59815853bdcc88a",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2024/04/20/210000/62443423.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C683%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Moscova sfidează armistițiul invocat de Donald Trump: „Nu ne oprim, nu avem de dat socoteală nimănui”",
+        "link": "https://stirileprotv.ro/stiri/international/moscova-sfideaza-armistitiul-invocat-de-donald-trump-nu-ne-oprim-nu-avem-de-dat-socoteala-nimanui.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cum justifică Donald Trump încălcarea armistițiului energetic de către Rusia: „Colaborăm cu ei pentru a pune capăt războiului”",
+        "link": "https://www.digi24.ro/stiri/externe/sua/cum-justifica-donald-trump-incalcarea-armistitiului-energetic-de-catre-rusia-colaboram-cu-ei-pentru-a-pune-capat-razboiului-3990805"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Răspunsul Kremlinului la acuzațiile că a încălcat armistițiul energetic impus de Donald Trump",
+        "link": "https://hotnews.ro/raspunsul-kremlinului-la-acuzatiile-ca-a-incalcat-armistitiul-energetic-impus-de-donald-trump-2375778"
+      }
+    ],
+    "published_at": 1791977316,
+    "title_hu": "Vita a Trump által bejelentett orosz–ukrán energetikai tűzszünetről",
+    "lead_hu": "Donald Trump energetikai tűzszünetet jelentett be Oroszország és Ukrajna között, ám a felek nem erősítették meg egyértelműen, hogy megállapodtak volna a feltételekről. Kijev szerint Oroszország ezután is ukrán energetikai létesítményeket támadott, miközben Moszkva a tűzszünet pontos hatókörét kérdőjelezte meg.",
+    "content_hu": "• **Trump bejelentése** szerint Oroszország és Ukrajna energetikai tűzszünetben állapodott meg; az amerikai elnök azt mondta, a felek azért egyeztek bele, mert ő ezt kérte. A források eltérő dátumokat közölnek a bejelentésről: október 9-ét, illetve október 11-ét.\n\n• **Az ukrán fél állítása szerint** Oroszország a bejelentés után energetikai létesítményeket támadott. Volodimir Zelenszkij hat érintett objektumról beszélt, a Digi24 pedig a harkivi CHP-5 erőmű elleni támadást és országszerte 33 sebesültet említett.\n\n• **Trump nem vádolta közvetlenül Moszkvát** a tűzszünet megsértésével: azt mondta, később ellenőrzi a történteket, és arra is hivatkozott, hogy Ukrajna korábban orosz energetikai célpontokat támadott.\n\n• **A Kreml megkérdőjelezte a megállapodás kereteit.** Dmitrij Peszkov azt kérdezte, pontosan mit jelent és mire terjed ki az energetikai tűzszünet; egy másik beszámoló szerint az orosz védelmi minisztérium által közölt célpontlistán ukrán erőművek is szerepeltek.\n\n• **Zelenszkij késznek mondta Ukrajnát a tűzszünet betartására**, ha Oroszország is így tesz. Azt is hangsúlyozta, hogy az olajfinomítókra korlátozott szünet szerinte nem lenne érdemi, mivel Ukrajnának egyetlen, súlyosan megrongálódott finomítója van.\n\n• **Lavrov elutasító hangnemben nyilatkozott:** azt mondta, Oroszország addig folytatja a háborút, amíg el nem éri céljait, és nem tartozik magyarázattal senkinek. A német kancellár ezzel szemben az Oroszországra gyakorolt nyomás és a szankciók fenntartása mellett állt ki.",
+    "title_ro": "Dispute privind armistițiul energetic anunțat de Trump între Rusia și Ucraina",
+    "lead_ro": "Donald Trump a anunțat un armistițiu energetic între Rusia și Ucraina, însă părțile nu au confirmat clar că au convenit asupra condițiilor. Kievul afirmă că Rusia a continuat să lovească obiective energetice ucrainene, în timp ce Moscova a contestat aria exactă a armistițiului.",
+    "content_ro": "• **Potrivit anunțului lui Trump**, Rusia și Ucraina au convenit asupra unui armistițiu energetic; președintele american a spus că părțile au acceptat pentru că el le-a cerut acest lucru. Sursele indică date diferite pentru anunț: 9 octombrie, respectiv 11 octombrie.\n\n• **Potrivit părții ucrainene**, Rusia a atacat obiective energetice după anunț. Volodimir Zelenski a menționat șase obiective afectate, iar Digi24 a relatat despre atacul asupra centralei CHP-5 din Harkov și despre 33 de răniți în întreaga țară.\n\n• **Trump nu a acuzat direct Moscova** că a încălcat armistițiul: a spus că va verifica ulterior ce s-a întâmplat și a invocat atacuri ucrainene anterioare asupra unor ținte energetice rusești.\n\n• **Kremlinul a contestat termenii acordului.** Dmitri Peskov a întrebat ce înseamnă exact armistițiul energetic și care este aria sa de aplicare; potrivit unui alt articol, lista țintelor publicată de Ministerul rus al Apărării includea și centrale electrice ucrainene.\n\n• **Zelenski a declarat că Ucraina este pregătită să respecte armistițiul**, dacă și Rusia face același lucru. El a adăugat că o încetare a focului limitată la rafinării nu ar fi suficientă, întrucât Ucraina are o singură rafinărie, grav avariată.\n\n• **Lavrov a adoptat un ton sfidător:** a declarat că Rusia va continua războiul până la atingerea obiectivelor sale și că nu datorează explicații nimănui. Cancelarul german, în schimb, a susținut menținerea presiunii asupra Rusiei și a sancțiunilor."
+  },
+  {
+    "group_id": "group_1ce7fa6085",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/4f873fbf-f237-486f-b699-0e86c376ca4f.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Gest impresionant la maraton: A străbătut 6.400 de kilometri și a fost susținut de sute de necunoscuți",
+        "link": "https://www.gsp.ro/sporturi/altele/gest-impresionant-maraton-chicago-alergator-sustinut-de-sute-de-necunoscuti-987987.html"
+      }
+    ],
+    "published_at": 1791977299,
+    "title_hu": "Gest impresionant la maraton: A străbătut 6.400 de kilometri și a fost susținut de sute de necunoscuți",
+    "lead_hu": "O deplasare de peste 6.400 de kilometri s-a transformat într-o adevărată experiență copleșitoare pentru un tânăr sportiv. Ethan Woodhead, în vârstă de 24 de ani, a călătorit de unul singur din insula …",
+    "content_hu": "O deplasare de peste 6.400 de kilometri s-a transformat într-o adevărată experiență copleșitoare pentru un tânăr sportiv. Ethan Woodhead, în vârstă de 24 de ani, a călătorit de unul singur din insula Guernsey până în orașul Chicago din Statele Unite ale Americii, convins că va parcurge maratonul de duminica trecută fără să aibă pe nimeni apropiat pe marginea traseului. ...",
+    "title_ro": "Gest impresionant la maraton: A străbătut 6.400 de kilometri și a fost susținut de sute de necunoscuți",
+    "lead_ro": "O deplasare de peste 6.400 de kilometri s-a transformat într-o adevărată experiență copleșitoare pentru un tânăr sportiv. Ethan Woodhead, în vârstă de 24 de ani, a călătorit de unul singur din insula …",
+    "content_ro": "O deplasare de peste 6.400 de kilometri s-a transformat într-o adevărată experiență copleșitoare pentru un tânăr sportiv. Ethan Woodhead, în vârstă de 24 de ani, a călătorit de unul singur din insula Guernsey până în orașul Chicago din Statele Unite ale Americii, convins că va parcurge maratonul de duminica trecută fără să aibă pe nimeni apropiat pe marginea traseului. ..."
+  },
+  {
+    "group_id": "group_8225197771",
+    "fingerprint": "bd6db999b61e614f79c6454543b8e875",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23259920/1/poza-main-7-002.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Spitalul de Pediatrie MedLife din Bucureşti îşi extinde serviciile şi devine Spitalul Copilului şi Adolescentului MedLife, deschizând şi un centru de kinetoterapie pediatrică",
+        "link": "https://www.zf.ro/zf-24/spitalul-de-pediatrie-medlife-din-bucuresti-isi-extinde-serviciile-si-devine-spitalul-copilului-si-adolescentului-medlife-deschizand-si-un-centru-de-kinetoterapie-pediatrica-23259920"
+      },
+      {
+        "source": "G4Media",
+        "title": "MedLife face un nou pas în dezvoltarea pediatriei private: Spitalul de Pediatrie devine Spitalul Copilului și Adolescentului și își extinde serviciile cu un nou centru de kinetoterapie pediatrică",
+        "link": "https://www.g4media.ro/medlife-face-un-nou-pas-in-dezvoltarea-pediatriei-private-spitalul-de-pediatrie-devine-spitalul-copilului-si-adolescentului-si-isi-extinde-serviciile-cu-un-nou-centru-de-kinetoterapie-pediatrica.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "MedLife face un nou pas în dezvoltarea pediatriei private: Spitalul de Pediatrie devine Spitalul Copilului și Adolescentului și își extinde serviciile cu un nou centru de kinetoterapie pediatrică",
+        "link": "https://hotnews.ro/medlife-face-un-nou-pas-in-dezvoltarea-pediatriei-private-spitalul-de-pediatrie-devine-spitalul-copilului-si-adolescentului-si-isi-extinde-serviciile-cu-un-nou-centru-de-kinetoterapie-pediatrica-2375784"
+      }
+    ],
+    "published_at": 1791977266,
+    "title_hu": "A MedLife gyermekkórháza a serdülőkre is kiterjeszti ellátását, új gyógytorna-központtal",
+    "lead_hu": "A MedLife bukaresti gyermekgyógyászati kórháza a Gyermek- és Serdülőkórház nevet veszi fel, és ellátását a serdülők szükségleteire is kiterjeszti. Az intézmény ezzel párhuzamosan megnyitotta első gyermekgyógyászati gyógytorna-központját, ahol felmérést, rehabilitációt és hosszú távú követést is biztosítanak.",
+    "content_hu": "• **A MedLife kórháza** Spitalul Copilului și Adolescentului MedLife néven működik tovább, hogy a gyermekkor mellett a serdülőkor sajátos egészségügyi szükségleteit is lefedje.\n\n• **Az új gyermekgyógyászati gyógytorna-központban** a páciensek egy helyen kaphatnak orvosi felmérést, vizsgálatokat, gyógytornát, rehabilitációt és hosszú távú utánkövetést.\n\n• **A rehabilitációs programokat** az életkorhoz, a diagnózishoz és az egyéni funkcionális célokhoz igazítják; a serdülők esetében a gyors növekedés miatt a testtartás és a mozgásszervi állapot felmérése is fontos.\n\n• **A kórház jelenlegi szolgáltatásai** között több mint 14 szakterülettel működő szakrendelő, képalkotó részleg, éjjel-nappal elérhető sürgősségi ellátás és laboratórium, két műtő, valamint intenzív osztály szerepel.",
+    "title_ro": "Spitalul MedLife din București se extinde către adolescenți și deschide un centru de kinetoterapie pediatrică",
+    "lead_ro": "Spitalul de Pediatrie MedLife din București devine Spitalul Copilului și Adolescentului MedLife, extinzându-și serviciile pentru a răspunde și nevoilor adolescenților. În paralel, unitatea a deschis primul său centru de kinetoterapie pediatrică, care oferă evaluare, recuperare și monitorizare pe termen lung.",
+    "content_ro": "• **Spitalul MedLife** funcționează sub noua denumire, Spitalul Copilului și Adolescentului MedLife, pentru a acoperi atât nevoile copiilor, cât și pe cele specifice adolescenței.\n\n• **Noul centru de kinetoterapie pediatrică** oferă, în aceeași unitate, evaluare medicală, investigații, kinetoterapie, recuperare și monitorizare pe termen lung.\n\n• **Programele de recuperare** sunt adaptate vârstei, diagnosticului și obiectivelor funcționale ale fiecărui pacient; pentru adolescenți, sunt relevante și evaluarea posturii și a aparatului locomotor, în contextul creșterii accelerate.\n\n• **Serviciile actuale ale spitalului** includ un ambulatoriu cu peste 14 specialități, un departament de imagistică, cameră de gardă și laborator cu program 24/7, două săli de operație și o secție de ATI."
+  },
+  {
+    "group_id": "group_571cdfb546",
+    "fingerprint": "fc72091ca1062b095aac88b26c6a9733",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Zece orașe - înscrise pentru a deveni Capitala Tineretului din România în 2028",
+        "link": "https://agerpres.ro/social/2026/10/14/zece-orase---inscrise-pentru-a-deveni-capitala-tineretului-din-romania-in-2028--1602860"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Care sunt cele 10 orașe înscrise în cursa pentru titlul de Capitală a Tineretului din România 2028",
+        "link": "https://stirileprotv.ro/stiri/social/care-sunt-cele-10-orase-inscrise-in-cursa-pentru-titlul-de-capitala-a-tineretului-din-romania-2028.html"
+      }
+    ],
+    "published_at": 1791977207,
+    "title_hu": "Tíz város versenyez a 2028-as romániai Ifjúsági Főváros címért",
+    "lead_hu": "Tíz romániai város jutott tovább a 2028-as Ifjúsági Főváros címért folyó verseny első két szakaszán; ez a program évtizedes történetének legnépesebb mezőnye. A pályázatokat október 15-ig értékelik, a végső pontszám 21 százalékát pedig egy kizárólag fiatalokból álló zsűri adja.",
+    "content_hu": "• **Tíz város** — Beszterce, Brassó, Bukarest 1. kerülete, Déva, Medgyes, Râmnicu Sărat, Râmnicu Vâlcea, Szatmárnémeti, Szucsáva és Târgu Neamț — folytatja a versenyt a 2028-as romániai Ifjúsági Főváros címért. A szervezők szerint ez a program tízéves történetének legnagyobb részvétele.\n\n• **Szeptember 21-ig** a városok benyújtották teljes pályázatukat, miután a polgármester által vállalt szándéknyilatkozatban kötelezettséget vállaltak arra, hogy a helyi fiatalok szükségleteire és törekvéseire építik jelölésüket.\n\n• **Október 15-ig** értékelik az írásos pályázatokat. Az eredmények alapján a két vagy három legmagasabb pontszámot elérő város jut a döntőbe, amelyet a 11. Ifjúsági Csúcstalálkozó alkalmával, Gyulafehérváron rendeznek meg.\n\n• **A Youth Voice zsűri** 24, 14 és 29 év közötti fiatalból áll, és a végső pontszám 21 százalékáról dönt. A fiatal zsűritagok a számukra készített pályázati részeket és a jelölések videós összefoglalóit értékelik.\n\n• **A győztes város** használhatja a 2028-as romániai Ifjúsági Főváros címet, 50 ezer eurós, a BCR által felajánlott díjat kap, valamint megrendezheti a 2028-as Ifjúsági Csúcstalálkozót, és szakmai mentorálásban részesül.",
+    "title_ro": "Zece orașe concurează pentru titlul de Capitală a Tineretului din România 2028",
+    "lead_ro": "Zece orașe au trecut de primele două etape ale competiției pentru titlul de Capitală a Tineretului din România 2028, cea mai numeroasă participare din istoria de un deceniu a programului. Candidaturile sunt evaluate până la 15 octombrie, iar un juriu format exclusiv din tineri contribuie cu 21% la punctajul final.",
+    "content_ro": "• **Zece orașe** — Bistrița, Brașov, București - Sectorul 1, Deva, Mediaș, Râmnicu Sărat, Râmnicu Vâlcea, Satu Mare, Suceava și Târgu Neamț — continuă cursa pentru titlul de Capitală a Tineretului din România 2028. Potrivit organizatorilor, este cea mai numeroasă participare din istoria de un deceniu a programului.\n\n• **Până la 21 septembrie**, orașele au depus dosarele complete de candidatură, după ce primarii și-au asumat angajamentul de a construi propunerile pornind de la nevoile și aspirațiile tinerilor din comunitățile lor.\n\n• **Până la 15 octombrie** sunt evaluate candidaturile scrise. În funcție de punctaj, primele două sau trei orașe vor ajunge în finala organizată la Alba Iulia, cu prilejul celei de-a 11-a ediții a Summitului Tinerilor.\n\n• **Juriul Youth Voice** este format din 24 de tineri cu vârste între 14 și 29 de ani și contribuie cu 21% la punctajul final. Membrii săi analizează secțiunea dosarelor redactată special pentru ei și rezumatele video ale candidaturilor.\n\n• **Orașul câștigător** va putea folosi titlul de Capitala Tineretului din România 2028, va primi un premiu de 50.000 de euro oferit de BCR și va găzdui Summitul Tinerilor din 2028, beneficiind totodată de mentorat și sprijin profesional."
+  },
+  {
+    "group_id": "group_a2433e332e",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cea mai valoroasă companie din Europa anunță vânzări record și că nu mai face față cererii",
+        "link": "https://hotnews.ro/cea-mai-valoroasa-companie-din-europa-anunta-vanzari-record-si-ca-nu-mai-face-fata-cererii-2375769"
+      }
+    ],
+    "published_at": 1791977143,
+    "title_hu": "Cea mai valoroasă companie din Europa anunță vânzări record și că nu mai face față cererii",
+    "lead_hu": "ASML, producătorul olandez de echipamente de litografie pentru semiconductori, a avertizat miercuri că oferta planificată de utilaje nu va putea satisface pe deplin cererea uriașă a clienților din cau…",
+    "content_hu": "ASML, producătorul olandez de echipamente de litografie pentru semiconductori, a avertizat miercuri că oferta planificată de utilaje nu va putea satisface pe deplin cererea uriașă a clienților din cauza AI nici anul viitor, nici în 2028, în contextul în care a raportat vânzări trimestriale record, relatează Euronews. Compania a declarat că planurile sale actuale de …",
+    "title_ro": "Cea mai valoroasă companie din Europa anunță vânzări record și că nu mai face față cererii",
+    "lead_ro": "ASML, producătorul olandez de echipamente de litografie pentru semiconductori, a avertizat miercuri că oferta planificată de utilaje nu va putea satisface pe deplin cererea uriașă a clienților din cau…",
+    "content_ro": "ASML, producătorul olandez de echipamente de litografie pentru semiconductori, a avertizat miercuri că oferta planificată de utilaje nu va putea satisface pe deplin cererea uriașă a clienților din cauza AI nici anul viitor, nici în 2028, în contextul în care a raportat vânzări trimestriale record, relatează Euronews. Compania a declarat că planurile sale actuale de …"
+  },
+  {
+    "group_id": "group_7f325236c0",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/Gianpiero-Nacci.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "Gianpiero Nacci (BERD): Anul trecut, 70% din întreaga capacitate nouă de energie electrică instalată la nivel mondial a fost solară. Putem evita o catastrofă climatică",
+        "link": "https://www.go4it.ro/energie-regenerabila/gianpiero-nacci-berd-anul-trecut-70-din-intreaga-capacitate-noua-de-energie-electrica-instalata-la-nivel-mondial-a-fost-solara-putem-evita-o-catastrofa-climatica-19287798/"
+      }
+    ],
+    "published_at": 1791977086,
+    "title_hu": "Gianpiero Nacci (BERD): Anul trecut, 70% din întreaga capacitate nouă de energie electrică instalată la nivel mondial a fost solară. Putem evita o catastrofă climatică",
+    "lead_hu": "Obiectivul de limitare la 1,5 grade C a creșterii temperaturii globale nu mai este valabil, dar omenirea poate evita o catastrofă climatică provocată de încălzirea globală, a declarat Gianpiero Nacci,…",
+    "content_hu": "Obiectivul de limitare la 1,5 grade C a creșterii temperaturii globale nu mai este valabil, dar omenirea poate evita o catastrofă climatică provocată de încălzirea globală, a declarat Gianpiero Nacci, director general pentru strategie climatică […] Articolul Gianpiero Nacci (BERD): Anul trecut, 70% din întreaga capacitate nouă de energie electrică instalată la nivel mondial a fost solară. Putem evita o catastrofă climatică apare prima dată în Go4IT.",
+    "title_ro": "Gianpiero Nacci (BERD): Anul trecut, 70% din întreaga capacitate nouă de energie electrică instalată la nivel mondial a fost solară. Putem evita o catastrofă climatică",
+    "lead_ro": "Obiectivul de limitare la 1,5 grade C a creșterii temperaturii globale nu mai este valabil, dar omenirea poate evita o catastrofă climatică provocată de încălzirea globală, a declarat Gianpiero Nacci,…",
+    "content_ro": "Obiectivul de limitare la 1,5 grade C a creșterii temperaturii globale nu mai este valabil, dar omenirea poate evita o catastrofă climatică provocată de încălzirea globală, a declarat Gianpiero Nacci, director general pentru strategie climatică […] Articolul Gianpiero Nacci (BERD): Anul trecut, 70% din întreaga capacitate nouă de energie electrică instalată la nivel mondial a fost solară. Putem evita o catastrofă climatică apare prima dată în Go4IT."
+  },
+  {
+    "group_id": "group_9d1d5e4694",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Lemondott Tótth András energetikai államtitkár",
+        "link": "https://a24.hu/lemondott-totth-andras-energetikai-allamtitkar/"
+      }
+    ],
+    "published_at": 1791977062,
+    "title_hu": "Lemondott Tótth András energetikai államtitkár",
+    "lead_hu": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium…",
+    "content_hu": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium közleménye szerint Tótth András lemondását dr. Baka András köztársasági elnök fogadta el Magyar Péter miniszterelnök javaslatára. A döntés időpontját is rögzítették: az államtitkári feladatkör megszűnését 2026. október 13-ai […]",
+    "title_ro": "Lemondott Tótth András energetikai államtitkár",
+    "lead_ro": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium…",
+    "content_ro": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium közleménye szerint Tótth András lemondását dr. Baka András köztársasági elnök fogadta el Magyar Péter miniszterelnök javaslatára. A döntés időpontját is rögzítették: az államtitkári feladatkör megszűnését 2026. október 13-ai […]"
+  },
+  {
+    "group_id": "group_d56a69d0ed",
+    "fingerprint": "78ba25631013308564c54376f35e6b5c",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMjU0NV8zMDEy/NTQ1X3BubC1pbnF1YW0tcGhvdG9zLWdl/b3JnZS1jYWxpbi0xLmpwZyZoYXNoPTU2/MWE0ZTRlMzAyMTJjODMzZTNkNmYxOWExODIwMGQ4.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "PNL s-a reunit în ședință pentru a discuta susținerea Guvernului Niculescu. Ce condiții pun liberalii",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-s-a-reunit-in-sedinta-pentru-a-discuta-sustinerea-guvernului-niculescu-ce-conditii-pun-liberalii-3991767"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Conducerea PNL a intrat în ședință pentru a discuta poziția partidului față de viitorul Guvern Luca Niculescu. Unii liberali au rezerve",
+        "link": "https://adevarul.ro/politica/conducerea-pnl-a-intrat-in-sedinta-pentru-a-2563941.html"
+      }
+    ],
+    "published_at": 1791977052,
+    "title_hu": "A PNL a Niculescu-kormány támogatásáról tárgyal, feltételeket szabna",
+    "lead_hu": "A PNL vezetése szerdán azt mérlegelte, támogatja-e Luca Niculescu kijelölt miniszterelnök kormányát. A liberálisok egy kétoldalú politikai megállapodáshoz kötnék a beiktatási szavazatukat, miközben a párton belül a kabinet tervezett összetétele is vitát váltott ki.",
+    "content_hu": "• **Október 14-én, szerdán** a Nemzeti Liberális Párt (PNL) Országos Politikai Bürója arról tárgyalt, milyen álláspontot képviseljen a párt a Luca Niculescu kijelölt miniszterelnök által javasolt kormánnyal kapcsolatban.\n\n• **A beiktatási szavazás** legkorábban a hét végén, akár pénteken lehet. A PNL még nem hozott végleges döntést a kormány támogatásáról.\n\n• **A liberálisok feltétele** egy Niculescuval kötendő kétoldalú politikai megállapodás lenne. Ebben a költségvetési hiány csökkentését, a beruházások védelmét és Románia európai kötelezettségvállalásainak betartását rögzítenék.\n\n• **Vasile Blaga** azt mondta, Romániának mielőbb teljes jogkörű kormányra van szüksége, és a PNL akkor támogathatja a kabinetet, ha a miniszterelnök aláírja és betartja a megállapodás feltételeit.\n\n• **Lucian Bode** bírálta a tervezett kormány összetételét, mert szerinte a PSD sok tárcát kaphat. Úgy vélte, ilyen nagy arányú egy párti jelenlét a kabinetben Adrian Năstase kormányzása óta nem fordult elő.\n\n• **Alina Gorghiu** szintén bírálta a PNL stratégiáját: felidézte, hogy korábban egyes párttagokat azért bíráltak, mert az Adrian Veștea vezette kormány beiktatását támogatták, miközben most egy technokrata miniszterelnök és PSD-s kormány támogatása is napirenden van. A politikai válság elhúzódásának költségeire is figyelmeztetett.",
+    "title_ro": "PNL discută susținerea Guvernului Niculescu și impune condiții",
+    "lead_ro": "Conducerea PNL a analizat miercuri dacă va susține guvernul propus de premierul desemnat Luca Niculescu. Liberalii ar condiționa votul de învestitură de un acord politic bilateral, iar formula viitorului Cabinet a stârnit rezerve în partid.",
+    "content_ro": "• **Miercuri, 14 octombrie**, Biroul Politic Național al Partidului Național Liberal (PNL) a discutat poziția formațiunii față de guvernul propus de premierul desemnat Luca Niculescu.\n\n• **Votul de învestitură** ar putea avea loc cel mai devreme la finalul săptămânii, posibil vineri. PNL nu luase încă o decizie finală privind susținerea Cabinetului.\n\n• **Condiția liberalilor** este încheierea unui acord politic bilateral cu Niculescu. Documentul ar urma să prevadă reducerea deficitului bugetar, protejarea investițiilor și respectarea angajamentelor europene ale României.\n\n• **Vasile Blaga** a spus că România are nevoie cât mai repede de un guvern cu puteri depline și că PNL ar putea susține Cabinetul dacă premierul semnează și respectă condițiile acordului.\n\n• **Lucian Bode** a criticat formula discutată pentru viitorul Guvern, susținând că PSD ar urma să obțină multe portofolii. În opinia sa, o pondere atât de mare a unui singur partid în Executiv nu s-a mai întâlnit din perioada guvernării Adrian Năstase.\n\n• **Alina Gorghiu** a criticat, la rândul ei, strategia PNL: a amintit că unii membri ai partidului au fost criticați anterior pentru susținerea învestirii unui guvern condus de Adrian Veștea, în timp ce acum se discută sprijinirea unui premier tehnocrat și a unui guvern cu PSD. Ea a avertizat și asupra costurilor prelungirii crizei politice."
+  },
+  {
+    "group_id": "group_6540d86b95",
+    "category": "Politika",
+    "image": "https://stirileprotv.ro/img/2026/10/14/112215/vlcsnap-2026-10-14-14h22m00s420.png?fm=jpg&q=80&fit=crop&crop=1024%2C576%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Protest în fața Parlamentului European, în sprijinul lui Călin Georgescu. George Simion participă la o conferință despre alegerile anticipate",
+        "link": "https://stirileprotv.ro/stiri/politic/protest-in-fata-parlamentului-european-in-sprijinul-lui-calin-georgescu-george-simion-participa-la-o-conferinta-despre-alegerile-anticipate.html"
+      }
+    ],
+    "published_at": 1791976956,
+    "title_hu": "Protest în fața Parlamentului European, în sprijinul lui Călin Georgescu. George Simion participă la o conferință despre alegerile anticipate",
+    "lead_hu": "George Simion va participa miercuri, 14 octombrie, începând cu ora 15:00, ora României, la un eveniment organizat de delegația AUR din Parlamentul European, dedicat oportunității organizării alegerilo…",
+    "content_hu": "George Simion va participa miercuri, 14 octombrie, începând cu ora 15:00, ora României, la un eveniment organizat de delegația AUR din Parlamentul European, dedicat oportunității organizării alegerilor anticipate.",
+    "title_ro": "Protest în fața Parlamentului European, în sprijinul lui Călin Georgescu. George Simion participă la o conferință despre alegerile anticipate",
+    "lead_ro": "George Simion va participa miercuri, 14 octombrie, începând cu ora 15:00, ora României, la un eveniment organizat de delegația AUR din Parlamentul European, dedicat oportunității organizării alegerilo…",
+    "content_ro": "George Simion va participa miercuri, 14 octombrie, începând cu ora 15:00, ora României, la un eveniment organizat de delegația AUR din Parlamentul European, dedicat oportunității organizării alegerilor anticipate."
+  },
+  {
+    "group_id": "group_46a846aac4",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/12102026/581d10f4-ce7b-4d92-aafb-64482d8efac0.jpeg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Nici Kopic n-a putut! Ce a trecut neobservat la Dinamo, de când a venit Nuno Campos",
+        "link": "https://www.gsp.ro/fotbal/liga-1/detaliul-care-arata-ca-dinamo-are-banca-987174.html"
+      }
+    ],
+    "published_at": 1791976937,
+    "title_hu": "Nici Kopic n-a putut! Ce a trecut neobservat la Dinamo, de când a venit Nuno Campos",
+    "lead_hu": "Nuno Campos, 51 de ani, este antrenorul dinamovist cu cele mai multe schimbări făcute în ultimele patru sezoane în primele 11 runde, de la revenirea „câinilor” pe prima scenă, detaliu ce arată că port…",
+    "content_hu": "Nuno Campos, 51 de ani, este antrenorul dinamovist cu cele mai multe schimbări făcute în ultimele patru sezoane în primele 11 runde, de la revenirea „câinilor” pe prima scenă, detaliu ce arată că portughezul se bazează enorm și pe jucătorii intrați în meci de pe banca de rezerve. Dinamo a impresionat în prima parte a sezonului și este apreciată și de rivali pentru locul 1 ocupat în prezent după 11 etape. ...",
+    "title_ro": "Nici Kopic n-a putut! Ce a trecut neobservat la Dinamo, de când a venit Nuno Campos",
+    "lead_ro": "Nuno Campos, 51 de ani, este antrenorul dinamovist cu cele mai multe schimbări făcute în ultimele patru sezoane în primele 11 runde, de la revenirea „câinilor” pe prima scenă, detaliu ce arată că port…",
+    "content_ro": "Nuno Campos, 51 de ani, este antrenorul dinamovist cu cele mai multe schimbări făcute în ultimele patru sezoane în primele 11 runde, de la revenirea „câinilor” pe prima scenă, detaliu ce arată că portughezul se bazează enorm și pe jucătorii intrați în meci de pe banca de rezerve. Dinamo a impresionat în prima parte a sezonului și este apreciată și de rivali pentru locul 1 ocupat în prezent după 11 etape. ..."
+  },
+  {
+    "group_id": "group_18172ddf49",
+    "fingerprint": "4baecd2319e9b4ddc7276c853bf3f45e",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8154027-mediafax_foto-dpa_hepta-1024x855.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Sentință în unul dintre cele mai celebre cazuri nerezolvate din SUA: cel puțin 40 de ani de închisoare pentru uciderea lui Tupac",
+        "link": "https://www.mediafax.ro/life-entertaiment/sentinta-in-unul-dintre-cele-mai-celebre-cazuri-nerezolvate-din-sua-cel-putin-40-de-ani-de-inchisoare-pentru-uciderea-lui-tupac-23824852"
+      },
+      {
+        "source": "Digi24",
+        "title": "Duane „Keffe D” Davis, condamnat la 40 de ani de închisoare pentru organizarea asasinării lui Tupac Shakur",
+        "link": "https://www.digi24.ro/stiri/externe/duane-keffe-d-davis-condamnat-la-40-de-ani-de-inchisoare-pentru-organizarea-asasinarii-lui-tupac-shakur-3991013"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Condamnare de la 40 de ani la închisoare pe viață. Cazul uciderii lui Tupac Shakur a fost închis, marele mister rămâne",
+        "link": "https://stirileprotv.ro/show-buzz/entertainment/condamnare-de-la-40-de-ani-la-inchisoare-pe-viata-cazul-uciderii-lui-tupac-shakur-a-fost-inchis-marele-mister-ramane.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Câți ani va petrece în închisoare bărbatul condamnat pentru uciderea lui Tupac",
+        "link": "https://hotnews.ro/cati-ani-va-petrece-in-inchisoare-barbatul-condamnat-pentru-uciderea-lui-tupac-2375475"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Bărbatul condamnat pentru uciderea lui Tupac Shakur și-a aflat pedeapsa, la 30 de ani de la crimă. Câți ani va petrece în închisoare",
+        "link": "https://www.cancan.ro/barbatul-condamnat-pentru-uciderea-lui-tupac-shakur-si-a-aflat-pedeapsa-la-30-de-ani-de-la-crima-cati-ani-va-petrece-in-inchisoare-21529990"
+      }
+    ],
+    "published_at": 1791976929,
+    "title_hu": "Legalább 40 évre, akár életfogytiglanra ítélték Duane Davist Tupac Shakur meggyilkolásának megszervezéséért",
+    "lead_hu": "Duane „Keffe D” Davist 2026. október 13-án Las Vegasban két, egymást követően letöltendő, egyenként 20 évtől életfogytig tartó szabadságvesztésre ítélték Tupac Shakur 1996-os meggyilkolásának megszervezéséért. A 63 éves férfit augusztusban találta bűnösnek az esküdtszék; Davis fellebbezést jelentett be, miközben továbbra sem tisztázott, ki lőtte le a rappert.",
+    "content_hu": "• **A büntetés és az ítélethirdetés** Davist két, egymást követően letöltendő, egyenként 20 évtől életfogytig tartó szabadságvesztésre ítélték: egyet gyilkosságért, egyet halálos fegyver használatáért. A büntetés legalább 40 év letöltését jelenti; az ítéletet 2026. október 13-án, Las Vegasban hirdették ki, mintegy hat héttel azután, hogy az esküdtszék augusztusban bűnösnek találta elsőfokú gyilkosságban.\n\n• **Davis fellebbezése és a lefoglalt tárgyak** A 63 éves Davis közölte, hogy fellebbez az ítélet ellen; ügyvédje szintén jelezte a fellebbezést. Az ítélethirdetésen Davis azt kérte, adják vissza az otthonából lefoglalt tárgyait, és vitatta, mennyi időt számítanak be neki az előzetes fogva tartásból.\n\n• **Az 1996. szeptember 7-i támadásban** a 25 éves Tupac Shakurt négyszer lőtték meg, miközben Marion „Suge” Knight, a Death Row Records vezetője által vezetett autóban utazott; Shakur hat nappal később meghalt. Knightet csak egy golyószilánk okozta kisebb sérülés érte.\n\n• **A megtorlás indítéka** az ügyészség szerint az volt, hogy Shakur és társai a Las Vegas-i MGM Grand kaszinóban összeverekedtek Davis unokaöccsével, Orlando Andersonnal. A két, Los Angeles környéki bandához kötődő társaság Mike Tyson és Bruce Seldon bokszmeccse miatt tartózkodott a városban.\n\n• **A támadás megszervezése** az ügyészek szerint Davishez köthető: unokaöccsét és két másik férfit egy fehér Cadillacbe ültetett, majd Shakurék keresésére indult. Davis korábbi vallomása szerint fegyvert adott a hátsó ülésen ülőknek, és az autóból egyikük nyitott tüzet.\n\n• **A lövöldöző személye** nem tisztázódott véglegesen, és az ügyészek hivatalosan nem neveztek meg feltételezett elkövetőt. Davis a 2008-as rendőrségi kihallgatásán a HotNews beszámolója szerint azt mondta, hogy unokaöccse, Orlando Anderson adta le a halálos lövéseket; Anderson 1998-ban meghalt, és korábban tagadta, hogy köze lett volna a gyilkossághoz. Nevada törvénye alapján Davis akkor is felelősségre vonható gyilkosságért, ha nem ő húzta meg a ravaszt.\n\n• **Davis kijelentései** az ügy fontos bizonyítékai voltak. 2008-ban, a Christopher Wallace, vagyis Notorious B.I.G. meggyilkolásával kapcsolatos nyomozás során beszélt a rendőröknek Shakur ügyéről, egy kezdetben védelmet biztosító megállapodás keretében. Később a Compton Street Legend című, 2019-es könyvében és interjúkban is beszélt a szerepéről; ezek miatt elveszítette a megállapodás nyújtotta védelmet, és vallomásait felhasználhatták a perben.\n\n• **A tárgyalás bizonyítékai** között nem volt olyan tárgyi bizonyíték, amely Davist a lövöldözés helyszínére helyezte volna. A vád főként Davis korábbi kijelentéseire és a bizalmas nyomozati találkozókról készült felvételekre támaszkodott; az ügyészek szerint Davis éveken át nyilvánosan dicsekedett a szerepével. A védelem szerint történetei kitalációk vagy a könyveladást és pénzszerzést szolgáló hencegések voltak.\n\n• **A család vallomásai** a büntetéskiszabás előtt hangzottak el. Sekyiwa Shakur, Tupac húga arról beszélt, hogy anyjuk emberi jogi aktivizmusra nevelte a rappert, aki jobbá akarta tenni a világot; a család elvesztését hosszú időre meghatározó fájdalomként írta le. Maurice Shakur, Tupac bátyja a lehető leghosszabb büntetést kérte.\n\n• **Carli Kierny bíró** elutasította Davis érvelését, hogy megváltozott az 1990-es évek óta. Azt mondta, Davis nem vehette el Shakur életét és jövőjét, majd nem tehetett úgy, mintha semmi sem történt volna; hozzátette, hogy a világ nem felejtette el a rappert.\n\n• **Az ügy előzménye**: Davist 2023-ban tartóztatták le, miután hosszú ideig nem állt rendelkezésre elegendő bizonyíték a vádemeléshez. Elítélése az első ebben az ügyben, amely közel három évtizeden át az Egyesült Államok egyik legismertebb megoldatlan gyilkossági esete volt.\n\n• **Shakur öröksége** túlmutatott zenei pályáján: lemezeiből világszerte több mint 75 millió példány kelt el, és 2017-ben bekerült a Rock and Roll Hall of Fame-be. Halála a kilencvenes évek hiphopkultúrájának és a keleti, illetve nyugati parti rap közötti rivalizálásnak is meghatározó eseményévé vált.\n\n• **Suge Knight jelenleg** egy ettől az ügytől független emberölési ügyben kiszabott 28 éves börtönbüntetését tölti.",
+    "title_ro": "Duane Davis, condamnat la cel puțin 40 de ani de închisoare pentru organizarea uciderii lui Tupac Shakur",
+    "lead_ro": "Duane „Keffe D” Davis a fost condamnat la Las Vegas, pe 13 octombrie 2026, la două pedepse consecutive de câte 20 de ani până la închisoare pe viață pentru organizarea uciderii lui Tupac Shakur în 1996. Juriul l-a găsit vinovat în august; Davis a anunțat că va contesta condamnarea, în timp ce identitatea celui care a tras rămâne neclară.",
+    "content_ro": "• **Sentința și pronunțarea ei** Davis a primit două pedepse consecutive de câte 20 de ani până la închisoare pe viață: una pentru omor și una pentru folosirea unei arme letale. Pedeapsa presupune minimum 40 de ani de închisoare; sentința a fost pronunțată la Las Vegas, pe 13 octombrie 2026, la aproximativ șase săptămâni după ce juriul l-a găsit vinovat de crimă de gradul întâi, în august.\n\n• **Apelul lui Davis și bunurile confiscate** Bărbatul, în vârstă de 63 de ani, a anunțat că va contesta condamnarea, iar avocatul său a confirmat că va face apel. La pronunțarea sentinței, Davis a cerut să-i fie restituite obiectele ridicate de la domiciliu și a contestat modul în care urma să i se deducă perioada petrecută în arest.\n\n• **Atacul din 7 septembrie 1996** Tupac Shakur, în vârstă de 25 de ani, a fost împușcat de patru ori în timp ce se afla într-o mașină condusă de Marion „Suge” Knight, șeful casei de discuri Death Row Records. Shakur a murit la spital șase zile mai târziu; Knight a suferit doar o rană minoră provocată de un fragment de glonț.\n\n• **Motivul răzbunării** Potrivit acuzării, atacul a urmat unei altercații din cazinoul MGM Grand din Las Vegas, unde Shakur și anturajul său s-au bătut cu Orlando Anderson, nepotul lui Davis. Cele două grupări de stradă din zona Los Angeles se aflau în oraș pentru meciul de box dintre Mike Tyson și Bruce Seldon.\n\n• **Organizarea atacului** Procurorii au susținut că Davis și-a urcat nepotul și alți doi bărbați într-un Cadillac alb și a plecat în căutarea lui Shakur și Knight. Davis le spusese anchetatorilor că le-a dat o armă bărbaților de pe bancheta din spate, iar unul dintre ocupanții mașinii a deschis focul.\n\n• **Identitatea trăgătorului** Nu a fost stabilită definitiv, iar procurorii nu au desemnat oficial un presupus autor al focurilor de armă. Potrivit relatării HotNews, la interogatoriul din 2008 Davis le-a spus anchetatorilor că nepotul său, Orlando Anderson, a tras focurile fatale. Anderson a murit în 1998 și negase anterior orice implicare în uciderea rapperului. Legea din Nevada permite condamnarea pentru omor a unui participant la infracțiune chiar dacă nu el a tras.\n\n• **Declarațiile lui Davis** au devenit probe importante în dosar. În 2008, în cadrul anchetei privind uciderea lui Christopher Wallace, cunoscut drept Notorious B.I.G., Davis le-a vorbit polițiștilor despre cazul Shakur, în baza unei înțelegeri care inițial îl proteja de urmărirea penală. Ulterior a relatat despre rolul său în cartea Compton Street Legend, publicată în 2019, și în interviuri; dezvăluirile au dus la pierderea protecției și au putut fi folosite la proces.\n\n• **Probe și apărare** Nu a existat nicio probă materială care să-l plaseze pe Davis la locul atacului. Acuzarea s-a bazat în principal pe declarațiile sale anterioare și pe înregistrări ale întâlnirilor confidențiale cu anchetatorii, susținând că Davis s-a lăudat public ani la rând cu rolul său. Apărarea a afirmat că poveștile erau inventate sau exagerate pentru a-i aduce bani și a-i crește vânzările de carte.\n\n• **Mărturiile familiei** au fost prezentate înainte de pronunțarea sentinței. Sekyiwa Shakur, sora lui Tupac, a spus că mama lor l-a crescut în spiritul activismului pentru drepturile omului și că rapperul voia să facă lumea mai bună; ea a descris pierderea drept o suferință care a afectat familia mult timp. Maurice Shakur, fratele rapperului, a cerut pedeapsa maximă.\n\n• **Judecătoarea Carli Kierny** a respins argumentul lui Davis potrivit căruia s-ar fi schimbat față de anii ’90. Ea i-a spus că nu avea dreptul să-i ia lui Shakur viața și viitorul și apoi să se comporte ca și cum nimic nu s-ar fi întâmplat, adăugând că lumea nu l-a uitat pe rapper.\n\n• **Arestarea și evoluția dosarului** Davis a fost arestat în 2023, după ce autoritățile au afirmat mult timp că nu aveau suficiente probe pentru a-l acuza. Condamnarea sa este prima din acest caz, rămas nerezolvat timp de aproape trei decenii și devenit unul dintre cele mai cunoscute dosare de omor din Statele Unite.\n\n• **Moștenirea lui Shakur** depășește cariera muzicală: albumele sale s-au vândut în peste 75 de milioane de exemplare la nivel mondial, iar în 2017 a fost inclus în Rock and Roll Hall of Fame. Moartea sa a devenit un moment definitoriu al culturii hip-hop din anii 1990 și al rivalității dintre scenele rap de pe Coasta de Est și Coasta de Vest.\n\n• **Suge Knight** execută în prezent o pedeapsă de 28 de ani de închisoare într-un dosar separat de omor voluntar."
+  },
+  {
+    "group_id": "group_accbcb100b",
+    "category": "Politika",
+    "image": "https://cdn.adh.reperio.news/image-5/5803e8a2-4369-4555-b028-58f19e391087/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Prețul gramului de aur, 14 octombrie 2026. Aurul s-a ieftinit cu peste 7 lei",
+        "link": "https://adevarul.ro/economie/pretul-gramului-de-aur-14-octombrie-2026-aurul-2563959.html"
+      }
+    ],
+    "published_at": 1791976893,
+    "title_hu": "Prețul gramului de aur, 14 octombrie 2026. Aurul s-a ieftinit cu peste 7 lei",
+    "lead_hu": "Prețul gramului de aur a scăzut miercuri, 14 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 635,4807 lei, după ce în ședința precedentă fuses…",
+    "content_hu": "Prețul gramului de aur a scăzut miercuri, 14 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 635,4807 lei, după ce în ședința precedentă fusese cotat la 642,8367 lei.",
+    "title_ro": "Prețul gramului de aur, 14 octombrie 2026. Aurul s-a ieftinit cu peste 7 lei",
+    "lead_ro": "Prețul gramului de aur a scăzut miercuri, 14 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 635,4807 lei, după ce în ședința precedentă fuses…",
+    "content_ro": "Prețul gramului de aur a scăzut miercuri, 14 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 635,4807 lei, după ce în ședința precedentă fusese cotat la 642,8367 lei."
+  },
+  {
+    "group_id": "group_726461fd45",
+    "category": "Kultúra",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_583734186_1339108384581444_3660367735786684561_n.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "A bántalmazásról és az irodalom gyógyító erejéről is szó lesz a 32. Marosvásárhelyi Nemzetközi Könyvvásáron",
+        "link": "https://maszol.ro/kultura/A-bantalmazasrol-es-az-irodalom-gyogyito-erejerol-is-szo-lesz-a-32-Marosvasarhelyi-Nemzetkozi-Konyvvasaron"
+      }
+    ],
+    "published_at": 1791976860,
+    "title_hu": "A bántalmazásról és az irodalom gyógyító erejéről is szó lesz a 32. Marosvásárhelyi Nemzetközi Könyvvásáron",
+    "lead_hu": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe.",
+    "content_hu": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe.",
+    "title_ro": "A bántalmazásról és az irodalom gyógyító erejéről is szó lesz a 32. Marosvásárhelyi Nemzetközi Könyvvásáron",
+    "lead_ro": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe.",
+    "content_ro": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe."
+  },
+  {
+    "group_id": "group_99f6c6ea86",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/05/avion-2-1024x747.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un pilot a vrut să semnaleze o defecțiune radio, dar a declanșat o alertă de deturnare. Avioane de luptă, ridicate de urgență",
+        "link": "https://www.mediafax.ro/externe/un-pilot-a-vrut-sa-semnaleze-o-defectiune-radio-dar-a-declansat-o-alerta-de-deturnare-avioane-de-lupta-ridicate-de-urgenta-23825219"
+      }
+    ],
+    "published_at": 1791976758,
+    "title_hu": "Un pilot a vrut să semnaleze o defecțiune radio, dar a declanșat o alertă de deturnare. Avioane de luptă, ridicate de urgență",
+    "lead_hu": "O eroare de introducere a unui cod în cabina de pilotaj ar fi provocat o alertă de deturnare a unui avion pe aeroportul din Nürnberg, Germania, a declarat miercuri un purtător de cuvânt al poliției pe…",
+    "content_hu": "O eroare de introducere a unui cod în cabina de pilotaj ar fi provocat o alertă de deturnare a unui avion pe aeroportul din Nürnberg, Germania, a declarat miercuri un purtător de cuvânt al poliției pentru agenția de presă dpa.",
+    "title_ro": "Un pilot a vrut să semnaleze o defecțiune radio, dar a declanșat o alertă de deturnare. Avioane de luptă, ridicate de urgență",
+    "lead_ro": "O eroare de introducere a unui cod în cabina de pilotaj ar fi provocat o alertă de deturnare a unui avion pe aeroportul din Nürnberg, Germania, a declarat miercuri un purtător de cuvânt al poliției pe…",
+    "content_ro": "O eroare de introducere a unui cod în cabina de pilotaj ar fi provocat o alertă de deturnare a unui avion pe aeroportul din Nürnberg, Germania, a declarat miercuri un purtător de cuvânt al poliției pentru agenția de presă dpa."
+  },
+  {
+    "group_id": "group_7fd8b7544f",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/ema-oprisan.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Ema Oprișan se mută din nou! De ce nu își găsește liniștea după despărțirea de Răzvan Kovacs",
+        "link": "https://www.cancan.ro/ema-oprisan-se-muta-din-nou-de-ce-nu-isi-gaseste-linistea-dupa-despartirea-de-razvan-kovacs-21529989"
+      }
+    ],
+    "published_at": 1791976745,
+    "title_hu": "Ema Oprișan se mută din nou! De ce nu își găsește liniștea după despărțirea de Răzvan Kovacs",
+    "lead_hu": "Ema Oprișan traversează o perioadă în care încearcă să își găsească echilibrul și să le ofere celor doi copii ai săi un mediu în care să se simtă în siguranță. Fosta concurentă de la Insula iubirii a …",
+    "content_hu": "Ema Oprișan traversează o perioadă în care încearcă să își găsească echilibrul și să le ofere celor doi copii ai săi un mediu în care să se simtă în siguranță. Fosta concurentă de la Insula iubirii a luat o nouă decizie în privința locuinței și urmează să se mute din nou. După ce a părăsit […]",
+    "title_ro": "Ema Oprișan se mută din nou! De ce nu își găsește liniștea după despărțirea de Răzvan Kovacs",
+    "lead_ro": "Ema Oprișan traversează o perioadă în care încearcă să își găsească echilibrul și să le ofere celor doi copii ai săi un mediu în care să se simtă în siguranță. Fosta concurentă de la Insula iubirii a …",
+    "content_ro": "Ema Oprișan traversează o perioadă în care încearcă să își găsească echilibrul și să le ofere celor doi copii ai săi un mediu în care să se simtă în siguranță. Fosta concurentă de la Insula iubirii a luat o nouă decizie în privința locuinței și urmează să se mute din nou. După ce a părăsit […]"
+  },
+  {
+    "group_id": "group_0ed6a1d149",
+    "fingerprint": "f510a8b9ab3f333ff10bab6e968a1518",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYwMyUyRjIzJTJGMTcwMDg2N18xNzAw/ODY3X0dldHR5SW1hZ2VzLTExMzMyNDk4/NjAuanBnJmhhc2g9NDI1NTE3YWFjODUzMjdhYjcxYzhhMGI2YmU0NWYxM2E=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Câștiguri fabuloase din meditații: Un profesor din Timiș a încasat 110.000 de euro într-un singur an. Ce arată datele ANAF",
+        "link": "https://www.digi24.ro/stiri/castiguri-fabuloase-din-meditatii-un-profesor-din-timis-a-incasat-110-000-de-euro-intr-un-singur-an-ce-arata-datele-anaf-3991547"
+      },
+      {
+        "source": "Mediafax",
+        "title": "575.000 de lei din meditații într-un singur an | Un profesor din Timiș arată unde se poate ajunge cu câștigurile din lecțiile private",
+        "link": "https://www.mediafax.ro/social/575-000-de-lei-din-meditatii-intr-un-singur-an-un-profesor-din-timis-arata-unde-se-poate-ajunge-cu-castigurile-din-lectiile-private-23825230"
+      }
+    ],
+    "published_at": 1791976732,
+    "title_hu": "575 ezer lejt vallott be magánórákból egy Temes megyei tanár 2025-ben",
+    "lead_hu": "Egy Temes megyei tanár 575 ezer lej, vagyis közel 110 ezer euró bevételt jelentett be magánórákból 2025-re. A nyugat-romániai adatok szerint a bevallott tanítási bevételek és a bevallást benyújtók száma is emelkedett.",
+    "content_hu": "• **575 ezer lej** bevételt vallott be magánórákból 2025-re egy Temes megyei tanár a Temesvári Regionális Pénzügyi Főigazgatóság adatai szerint. Ez közel 110 ezer eurónak felel meg, és a nyugati országrészben közölt legnagyobb egyéni összeg.\n\n• **A nyugat-romániai bevallások száma** 2025-ben 941-re nőtt a 2024-es 676-ról. A bevallott bruttó bevételek ugyanezen időszakban 11,4 millió lejről 18,7 millió lejre emelkedtek.\n\n• **A bevallás és az engedélyezés menete** szerint a magánórákat adó tanároknak a lakóhelyük szerinti cégjegyzéknél kell engedélyeztetniük a tevékenységet, majd az ANAF-nál az egységes adóbevallásban kell jelenteniük a bevételeiket. Ezt Petru Răzvan Vlad, a regionális pénzügyi igazgatóság felügyelője ismertette.",
+    "title_ro": "Un profesor din Timiș a declarat 575.000 de lei din meditații în 2025",
+    "lead_ro": "Un profesor din județul Timiș a declarat venituri de 575.000 de lei, echivalentul a aproape 110.000 de euro, din meditații în 2025. Datele din vestul României arată că au crescut atât numărul persoanelor care și-au declarat aceste venituri, cât și sumele raportate.",
+    "content_ro": "• **575.000 de lei** din meditații a declarat pentru anul 2025 un profesor din județul Timiș, potrivit datelor Direcției Regionale a Finanțelor Publice Timișoara. Suma echivalează cu aproape 110.000 de euro și este cel mai mare venit individual menționat pentru vestul țării.\n\n• **Numărul declarațiilor depuse în vestul României** a ajuns la 941 în 2025, față de 676 în 2024. În aceeași perioadă, veniturile brute declarate au crescut de la 11,4 milioane de lei la 18,7 milioane de lei.\n\n• **Procedura de autorizare și declarare** presupune înregistrarea activității la Registrul Comerțului din județul de domiciliu și raportarea veniturilor la ANAF prin declarația unică. Explicațiile au fost oferite de Petru Răzvan Vlad, inspector în cadrul direcției regionale a finanțelor."
+  },
+  {
+    "group_id": "group_7cd068d9ba",
+    "fingerprint": "6252fca30d72fbeb5118d8c152e05c2d",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/4b1c42fa-d493-4caf-a98d-05d351872cd2.jfif?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Elizabeta Samara sunt la un pas de medalie la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-elizabeta-samara-sunt-la-un-pas-de-medalie-la-campionatele-europene-de-la-ljubljana-987941.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Samara și Szocs, în sferturile CE de tenis de masă din Ljubljana",
+        "link": "https://www.g4media.ro/samara-si-szocs-in-sferturile-ce-de-tenis-de-masa-din-ljubljana.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Elizabeta Samara și Bernadette Szocs s-au calificat în sferturile de finală ale Campionatului European",
+        "link": "https://adevarul.ro/sport/elizabeta-samara-si-bernadette-szocs-s-au-2563936.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Eduard Ionescu, prima medalie pentru România la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-eduard-ionescu-prima-medalie-pentru-romania-la-campionatele-europene-de-la-ljubljana-987990.html"
+      }
+    ],
+    "published_at": 1791976650,
+    "title_hu": "Szocsék negyeddöntősök, Szocs és Ionescu már érmes az asztalitenisz-Eb-n",
+    "lead_hu": "Bernadette Szocs és Elizabeta Samara 3–0-ra legyőzte a horvát Lea Rakovac–Hana Arapovic párost, és bejutott a ljubljanai Európa-bajnokság női párosversenyének negyeddöntőjébe. Szocs vegyes párosban Eduard Ionescuval is elődöntős lett, amivel a román kettős biztosította az ország első érmét a tornán.",
+    "content_hu": "• **Szocs Bernadette és Elizabeta Samara** 3–0-ra (11–9, 11–8, 11–6) nyert a horvát Lea Rakovac–Hana Arapovic kettős ellen a ljubljanai Európa-bajnokság női párosversenyének nyolcaddöntőjében.\n\n• **A negyeddöntőben** a német Ying Han és Sabine Winter vár a román párosra; a mérkőzés győztese bejut az elődöntőbe.\n\n• **Andreea Dragoman és Adina Diaconu** 0–3-ra (12–14, 5–11, 7–11) kikapott a francia Prithika Pavade–Charlotte Lutz párostól, így búcsúzott a versenytől.\n\n• **Szocs Bernadette és Eduard Ionescu** vegyes párosban 3–2-re (9–11, 13–11, 12–10, 6–11, 11–9) legyőzte a francia Thibault Poret–Prithika Pavade kettőst a negyeddöntőben, és bejutott az elődöntőbe.\n\n• **A román vegyes páros** ezzel biztosította Románia első érmét a ljubljanai Európa-bajnokságon. Ionescu számára ez az első vegyes párosban szerzett Európa-bajnoki érem.\n\n• **Az elődöntőben** Szocs és Ionescu csütörtökön a német Benedikt Duda–Nina Mittelham párossal mérkőzik meg.",
+    "title_ro": "Szocs și Samara, în sferturi; Szocs și Ionescu au asigurat prima medalie a României",
+    "lead_ro": "Bernadette Szocs și Elizabeta Samara au învins cu 3-0 perechea croată Lea Rakovac–Hana Arapovic și s-au calificat în sferturile probei de dublu feminin de la Campionatele Europene de la Ljubljana. Szocs a ajuns și în semifinale la dublu mixt, alături de Eduard Ionescu, asigurând astfel prima medalie a României la competiție.",
+    "content_ro": "• **Bernadette Szocs și Elizabeta Samara** au câștigat cu 3-0 (11-9, 11-8, 11-6) în fața perechii croate Lea Rakovac–Hana Arapovic, în optimile probei de dublu feminin de la Campionatele Europene de la Ljubljana.\n\n• **În sferturi**, perechea română va întâlni cuplul german Ying Han–Sabine Winter; câștigătoarea meciului se califică în semifinale.\n\n• **Andreea Dragoman și Adina Diaconu** au pierdut cu 0-3 (12-14, 5-11, 7-11) în fața franțuzoaicelor Prithika Pavade și Charlotte Lutz și au fost eliminate.\n\n• **Bernadette Szocs și Eduard Ionescu** au învins cu 3-2 (9-11, 13-11, 12-10, 6-11, 11-9) perechea franceză Thibault Poret–Prithika Pavade, în sferturile probei de dublu mixt, și s-au calificat în semifinale.\n\n• **Perechea română de dublu mixt** a asigurat astfel prima medalie a României la Campionatele Europene de la Ljubljana. Pentru Ionescu este prima medalie europeană la dublu mixt.\n\n• **În semifinale**, Szocs și Ionescu vor juca joi împotriva perechii germane Benedikt Duda–Nina Mittelham."
+  },
+  {
     "group_id": "group_9fb84ba4d1",
     "category": "Politika",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -105,6 +666,48 @@
     "content_ro": ""
   },
   {
+    "group_id": "group_a92847aeba",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-5/50a704e3-42ea-4a62-8baa-c13d51167b34/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Curs valutar BNR, 14 octombrie 2026. Euro și lira sterlină au crescut, dolarul a scăzut. Cum au evoluat principalele valute",
+        "link": "https://adevarul.ro/economie/curs-valutar-bnr-14-octombrie-2026-euro-si-lira-2563954.html"
+      }
+    ],
+    "published_at": 1791976557,
+    "title_hu": "Curs valutar BNR, 14 octombrie 2026. Euro și lira sterlină au crescut, dolarul a scăzut. Cum au evoluat principalele valute",
+    "lead_hu": "Banca Națională a României (BNR) a publicat miercuri, 14 octombrie 2026, noile cotații pentru principalele valute. Euro a crescut ușor, până la 5,3393 lei, în timp ce dolarul american a scăzut la 4,77…",
+    "content_hu": "Banca Națională a României (BNR) a publicat miercuri, 14 octombrie 2026, noile cotații pentru principalele valute. Euro a crescut ușor, până la 5,3393 lei, în timp ce dolarul american a scăzut la 4,7706 lei.",
+    "title_ro": "Curs valutar BNR, 14 octombrie 2026. Euro și lira sterlină au crescut, dolarul a scăzut. Cum au evoluat principalele valute",
+    "lead_ro": "Banca Națională a României (BNR) a publicat miercuri, 14 octombrie 2026, noile cotații pentru principalele valute. Euro a crescut ușor, până la 5,3393 lei, în timp ce dolarul american a scăzut la 4,77…",
+    "content_ro": "Banca Națională a României (BNR) a publicat miercuri, 14 octombrie 2026, noile cotații pentru principalele valute. Euro a crescut ușor, până la 5,3393 lei, în timp ce dolarul american a scăzut la 4,7706 lei."
+  },
+  {
+    "group_id": "group_b8439a9029",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/a8eace0f-21ce-4e02-8a33-bd71c8112f50.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "43 de goluri marcate, 0 puncte pierdute: Barcelona sperie Europa",
+        "link": "https://www.gsp.ro/international/liga-campionilor/barcelona-sperie-europa-liga-campionilor-987955.html"
+      }
+    ],
+    "published_at": 1791976501,
+    "title_hu": "43 de goluri marcate, 0 puncte pierdute: Barcelona sperie Europa",
+    "lead_hu": "Barcelona traversează o perioadă excepțională în acest debut de sezon. Sub conducerea lui Hansi Flick, formația catalană și-a transformat partidele în adevărate recitaluri ofensive, înregistrând victo…",
+    "content_hu": "Barcelona traversează o perioadă excepțională în acest debut de sezon. Sub conducerea lui Hansi Flick, formația catalană și-a transformat partidele în adevărate recitaluri ofensive, înregistrând victorii categorice atât pe plan intern, cât și în Liga Campionilor, așa cum s-a întâmplat marți la Istanbul, un spectaculos 4-1 în fața celor de la Galatasaray, deși a fost condusă inițial pe tabelă. ...",
+    "title_ro": "43 de goluri marcate, 0 puncte pierdute: Barcelona sperie Europa",
+    "lead_ro": "Barcelona traversează o perioadă excepțională în acest debut de sezon. Sub conducerea lui Hansi Flick, formația catalană și-a transformat partidele în adevărate recitaluri ofensive, înregistrând victo…",
+    "content_ro": "Barcelona traversează o perioadă excepțională în acest debut de sezon. Sub conducerea lui Hansi Flick, formația catalană și-a transformat partidele în adevărate recitaluri ofensive, înregistrând victorii categorice atât pe plan intern, cât și în Liga Campionilor, așa cum s-a întâmplat marți la Istanbul, un spectaculos 4-1 în fața celor de la Galatasaray, deși a fost condusă inițial pe tabelă. ..."
+  },
+  {
     "group_id": "group_77cd763446",
     "category": "Gazdaság",
     "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21330/23259147/2/7-andrei-manea-rpia.jpg?width=700",
@@ -178,6 +781,48 @@
     "title_ro": "Explozii puternice la Riad, locuitorii alertați. Atacurile rebelilor Houthi asupra infrastructurii saudite au implicații globale",
     "lead_ro": "Explozii puternice s-au auzit miercuri în capitala Arabiei Saudite, atacată cu regularitate în ultimele zile de către rebelii hurhi din Yemen, transmit jurnalişti AFP, preluată de News.ro. Locuitorii …",
     "content_ro": "Explozii puternice s-au auzit miercuri în capitala Arabiei Saudite, atacată cu regularitate în ultimele zile de către rebelii hurhi din Yemen, transmit jurnalişti AFP, preluată de News.ro. Locuitorii Riadului au primit meaje de alertă pe telefon, prin care au fost avertizaţi cu privire la o „ameninţare aeriană” şi au fost îndemnaţi să se adpostească."
+  },
+  {
+    "group_id": "group_f79faa7e8d",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_tankonyvek_rmdsz.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Tizenkilenc új magyar nyelvű tankönyv készült el a kilencedikeseknek",
+        "link": "https://maszol.ro/belfold/Tizenkilenc-uj-magyar-nyelvu-tankonyv-keszult-el-a-kilencedikeseknek"
+      }
+    ],
+    "published_at": 1791976380,
+    "title_hu": "Tizenkilenc új magyar nyelvű tankönyv készült el a kilencedikeseknek",
+    "lead_hu": "Korábban többnyire románból fordították magyarra a tankönyveket, az újakat viszont magyarul írták a pedagógusok és szakemberek.",
+    "content_hu": "Korábban többnyire románból fordították magyarra a tankönyveket, az újakat viszont magyarul írták a pedagógusok és szakemberek.",
+    "title_ro": "Tizenkilenc új magyar nyelvű tankönyv készült el a kilencedikeseknek",
+    "lead_ro": "Korábban többnyire románból fordították magyarra a tankönyveket, az újakat viszont magyarul írták a pedagógusok és szakemberek.",
+    "content_ro": "Korábban többnyire románból fordították magyarra a tankönyveket, az újakat viszont magyarul írták a pedagógusok és szakemberek."
+  },
+  {
+    "group_id": "group_f2f90331bb",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/oana-radu.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Oana Radu a slăbit 16 kilograme în mai puțin de două luni: „Lupta mea nu s-a terminat”",
+        "link": "https://www.cancan.ro/oana-radu-a-slabit-16-kilograme-in-mai-putin-de-doua-luni-lupta-mea-nu-s-a-terminat-21529970"
+      }
+    ],
+    "published_at": 1791976374,
+    "title_hu": "Oana Radu a slăbit 16 kilograme în mai puțin de două luni: „Lupta mea nu s-a terminat”",
+    "lead_hu": "De aproape două luni, Oana Radu se află într-un proces de transformare spectaculos în lupta cu cele 30 de kilograme în plus. Este a treia oară când artista se confruntă cu această neplăcere, după ce î…",
+    "content_hu": "De aproape două luni, Oana Radu se află într-un proces de transformare spectaculos în lupta cu cele 30 de kilograme în plus. Este a treia oară când artista se confruntă cu această neplăcere, după ce în trecut a reușit să slăbească de două ori câte 50 de kilograme. După doar 46 de zile de dietă […]",
+    "title_ro": "Oana Radu a slăbit 16 kilograme în mai puțin de două luni: „Lupta mea nu s-a terminat”",
+    "lead_ro": "De aproape două luni, Oana Radu se află într-un proces de transformare spectaculos în lupta cu cele 30 de kilograme în plus. Este a treia oară când artista se confruntă cu această neplăcere, după ce î…",
+    "content_ro": "De aproape două luni, Oana Radu se află într-un proces de transformare spectaculos în lupta cu cele 30 de kilograme în plus. Este a treia oară când artista se confruntă cu această neplăcere, după ce în trecut a reușit să slăbească de două ori câte 50 de kilograme. După doar 46 de zile de dietă […]"
   },
   {
     "group_id": "group_d31e447dff",
@@ -596,84 +1241,6 @@
     "content_ro": "• **Camera Deputaților a adoptat proiectul miercuri**, în calitate de for decizional. Potrivit HotNews.ro, proiectul a fost votat de 262 de deputați, fără voturi împotrivă; o persoană nu a votat.\n\n• **Femeia însărcinată poate alege, la cerere, persoana care o însoțește** pe tot parcursul travaliului, nașterii și transferului intrainstituțional. Exercitarea acestui drept trebuie să respecte normele de igienă, epidemiologice și de siguranță medicală.\n\n• **Unitățile sanitare trebuie să protejeze demnitatea și viața privată a pacientelor**, inclusiv prin separare vizuală adecvată în spațiile în care se desfășoară travaliul și nașterea. Restrângerea drepturilor este permisă numai din motive obiective, medicale sau epidemiologice, legate de siguranța femeii însărcinate, a nou-născutului, a personalului ori a celorlalte paciente. AGERPRES menționează și separarea auditivă, pe lângă cea vizuală.\n\n• **Nou-născutul are dreptul să rămână împreună cu mama sa** imediat după naștere și pe durata internării, cu excepția situațiilor justificate medical, epidemiologic, de siguranță sau de forță majoră. Unitățile sanitare trebuie să favorizeze contactul precoce mamă–copil, inițierea alăptării și găzduirea lor împreună.\n\n• **Inițiatoarea proiectului este senatoarea USR Ruxandra Cibu Deaconu**, iar actul normativ modifică Legea drepturilor pacientului.\n\n• **Senatul a adoptat proiectul la 24 august**, iar Camera Deputaților a avut votul decizional. Noile prevederi vor deveni aplicabile după promulgarea legii de către președinte.\n\n• **În timpul dezbaterii parlamentare a fost abordat și subiectul vaccinării nou-născuților.** O deputată neafiliată a făcut afirmații împotriva vaccinării, criticate de un fost ministru al Sănătății; o deputată AUR a apărat-o pe vorbitoare."
   },
   {
-    "group_id": "group_0023381096",
-    "fingerprint": "8a12070d5100b084b9b2c79075197ae2",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 12,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Trump megint Putyint cirógatja, Zelenszkijt pedig lazán a víz alá nyomná",
-        "link": "https://transtelex.ro/kulfold/2026/10/13/trump-putyin-dizel-megallapodas-ukrajna-zelenszkij-energetikai-tuzszunet-bejelentes-tamadasok-orosz-ukran-haboru"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
-        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
-        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Motivul pentru care Trump „a sărit la gâtul” lui Zelenski. Liderul ucrainean, scos țap ispășitor pentru o problemă creată de Washington",
-        "link": "https://www.digi24.ro/stiri/externe/motivul-pentru-care-trump-a-sarit-la-gatul-lui-zelenski-liderul-ucrainean-scos-tap-ispasitor-pentru-o-problema-creata-de-washington-3990857"
-      },
-      {
-        "source": "Digi24",
-        "title": "Cine l-ar putea înlocui pe Zelenski: Patru candidați pentru funcția de președinte al Ucrainei, unul e favorit",
-        "link": "https://www.digi24.ro/stiri/externe/cine-l-ar-putea-inlocui-pe-zelenski-patru-candidatii-pentru-functia-de-presedinte-al-ucrainei-unul-e-favorit-3989879"
-      },
-      {
-        "source": "Digi24",
-        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
-        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
-        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
-        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Giorgia Meloni, fosta aliată a lui Trump, critică aspru acordul acestuia cu Putin: „Riscurile sunt clare”",
-        "link": "https://hotnews.ro/giorgia-meloni-fosta-aliata-a-lui-trump-critica-aspru-acordul-acestuia-cu-putin-riscurile-sunt-clare-2375611"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Volodimir Zelenski a dezvăluit cu ce a fost Ucraina amenințată de către Statele Unite",
-        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-a-dezvaluit-cu-ce-a-fost-ucraina-amenintata-de-catre-statele-unite-23825122"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Zelenski acuză Rusia de 'dispreț' față de SUA, după atacurile asupra infrastructurii energetice din #Ucraina",
-        "link": "https://agerpres.ro/politic-extern/2026/10/14/zelenski-acuza-rusia-de-dispret-fata-de-sua-dupa-atacurile-asupra-infrastructurii-energetice-din-ucr--1602809"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Meloni afirmă că acordul dintre SUA și Rusia privind motorina este o 'alegere foarte riscantă'",
-        "link": "https://agerpres.ro/politic-extern/2026/10/14/meloni-afirma-ca-acordul-dintre-sua-si-rusia-privind-motorina-este-o-alegere-foarte-riscanta--1602855"
-      }
-    ],
-    "published_at": 1791975776,
-    "title_hu": "Trump dízelalkuja Putyinnak kedvezhet, miközben Washington Kijevre nehezedő nyomása és az orosz támadások fokozódnak",
-    "lead_hu": "Trump szerint Putyin jobban akar békemegállapodást, mint Zelenszkij, miközben az orosz dízelexport engedélyezésével és az ukrán finomítótámadások leállításának követelésével újabb feszültséget kelt. Az alku árhatása korlátozott lehet, de a szankciók fellazításának precedenst teremthet; Moszkva közben folytatja támadásait, Zelenszkij pedig kölcsönösséget, amerikai fellépést és a választásokhoz 60 napos tűzszünetet követel. Az amerikai félidős választások előtt szenátorok és európai vezetők is bírálják a lépést, egy újabb támadás után pedig legalább hét halottról, 600 ezer áram nélkül maradt emberről és a Starlink katonai használatának korlátozásáról érkezett jelentés.",
-    "content_hu": "• **Trump Putyint a békére készebbnek tartja Zelenszkijnél**: az amerikai elnök nem ítélte el Moszkvát az energetikai infrastruktúra elleni támadásokért, és azt mondta, mindkét fél megsérthette az általa bejelentett energiafegyverszünetet. Szerinte Zelenszkijt is rá kell venni a megállapodásra.\n\n• **Zelenszkij kölcsönösséget és amerikai fellépést sürget**: azt mondta, Trump tűzszüneti bejelentése után Oroszország megtámadott egy harkivi erőművet, majd drónok csapást mértek Kijevre. Ukrajna kész leállítani az orosz energetikai infrastruktúra elleni támadásokat, ha Moszkva is így tesz; az ukrán erők állítása szerint az éjszaka nem támadtak orosz finomítókat. Zelenszkij szerint az amerikai dízelmegállapodás mennyisége aligha befolyásolja a világpiacot, és felvetette, hogy Washington Ukrajnával is köthetne dízelmegállapodást.\n\n• **A dízelmegállapodást a tárgyalások újraindítására szánt jelzésként mutatták be**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón azt mondta ukrán tisztviselőknek, hogy az alku jelezheti Moszkvának: miután Kijev leállítja a finomítótámadásokat, Oroszországon a sor. A források szerint Putyin nem hajlandó tárgyalni a háború lezárásáról; szó esett biztonsági garanciákról és újjáépítésről is, de hivatalos megállapodás nem született, és a küldöttek ott nem fenyegettek a támogatás megvonásával.\n\n• **A tervezett dízelmennyiségről eltérő számok jelentek meg**: az egyik bejelentés több mint 2,25 millió hordóról szólt, egy másik Trump 4,8 millió tonnás, közel 36 millió hordós tervét ismertette. Eszerint 300 ezer tonna érkezhet először, novemberben további 500 ezer, majd egymillió tonna, később pedig akár hárommillió tonna is. Alekszandr Novak orosz miniszterelnök-helyettes a későbbi exportot havi hárommillió tonnáig terjedőnek nevezte, a finomítók állapotától függően.\n\n• **Az alku árhatása várhatóan csekély**: a Goldman Sachs becslése szerint az októberre és novemberre tervezett szállítások hordónként mindössze 1–2 dollárral csökkenthetik a nagykereskedelmi dízelárat az Egyesült Államokban és Európában. A kezdeti szállítások az amerikai fogyasztás kevesebb mint egy napját fedeznék; a G7 európai tagjai által négy hónap alatt felszabadítandó 100 millió hordó dízel és nyersolaj ennek mintegy ötvenszerese. Az amerikai dízelár gallononként 6,28 dollárra emelkedett, 72 százalékkal az egy évvel korábbi szint fölé. Az Egyesült Államok nettó dízelexportőr, így az orosz szállítmányok inkább az amerikai exportpiacokon, például Brazíliában és Törökországban mérsékelhetik a versenyt.\n\n• **Az üzemanyagárakat elsősorban az iráni háború és a Hormuzi-szoros zavarai hajtják fel**: a Financial Times elemzése szerint Trump tévesen Zelenszkijt teszi felelőssé a drágulásért, amelynek fő oka az Irán elleni háború és a szoros körüli fennakadások. Az ukrán finomítótámadások is szűkítették a kínálatot, de az elemzés szerint nem ezek a fő hajtóerők; Oroszországban az egy évvel korábbinál napi hárommillió hordóval több finomítói kapacitás lehet kiesésben.\n\n• **A szankciók fellazítása politikai és gazdasági precedenst teremthet**: elemzők szerint az amerikai engedmény azt a benyomást keltheti, hogy a szankciók rugalmasan megkerülhetők, és más országokat – köztük Dél-Koreát – is erre bátoríthat. Orosz propagandisták szerint a megállapodás alig hat az árakra, és Trump a félidős választások előtt Moszkva segítségét keresi; egyikük bizonyíték nélkül Jared Kushner anyagi hasznára célzott.\n\n• **Putyin a területi engedményhez kötné az érdemi tárgyalásokat**: egy Kremlhez közeli személy szerint Putyin csak akkor térne vissza az érdemi tárgyalásokhoz, ha megszerezné a Donbasz még ukrán ellenőrzés alatt álló, hátralévő 11 százalékát. Ukrajna közölte, hogy nem enged át több területet, de a jelenlegi frontvonalak befagyasztását a béke alapjának tekintheti.\n\n• **Washington nyomást gyakorol Kijevre a finomítótámadások leállítása érdekében**: Trump nyilvánosan új ukrán elnök megválasztását is sürgette. Zelenszkij az NPR-nek azt mondta, az amerikai kormányzat a hírszerzési információk megosztásának felfüggesztésével fenyegetett, ha Ukrajna nem állítja le az orosz finomítók elleni dróntámadásokat; a figyelmeztetés a katonai vezetéshez is eljutott. A Financial Times szerint a fegyvereladások és a hírszerzési együttműködés korlátozása is felmerült, valamint a hírszerzési támogatás választások megtartásához kötése. Tim Willasey-Wilsey volt brit diplomata szerint Kijev nem becsülheti alá, milyen veszélyes lehet egy politikailag meggyengült, sértett Trump; Nathalie Tocci elemző szerint ugyanakkor Washington nyomásgyakorlási mozgástere szűkült, bár a hírszerzési támogatás felfüggesztése súlyosan érintené Ukrajnát.\n\n• **Zelenszkij 60 napos teljes tűzszünethez kötné a választásokat**: azt üzente Putyinnak, hogy Ukrajna két hónapos teljes tűzszünet esetén választásokat tarthat. A választások biztonságos megtartását a megszállás és a folytatódó támadások is akadályozzák. Egy felmérésben Valerij Zaluzsnij szerepelt lehetséges favoritként: a válaszadók több mint 20 százaléka szavazna rá; Kirilo Budanovban 53 százalék bízik. Mihail Fedorov és Petro Porosenko is felmerült lehetséges jelöltként.\n\n• **Kétpárti szenátorcsoport követeli a dízelmegállapodás visszavonását**: a szenátorok szerint az alku alig mérsékelné az üzemanyagárakat, miközben bevételt adna Oroszországnak a háború folytatásához, és sértené az amerikai biztonsági érdekeket, valamint Ukrajna szövetségeseit. A 2022-es importtilalomra és a 2026-os szankciós törvényre hivatkozva a 135. számú általános engedély visszavonását és a törvény végrehajtását sürgették; szerintük a kormány nem tájékoztatta megfelelően a Kongresszust. A levél a megállapodást az amerikai szövetségesek elárulásának és Oroszország ajándékának nevezte.\n\n• **Az újabb orosz támadás 600 ezer embert hagyott áram nélkül**: Zelenszkij szerint Oroszország 39 ballisztikus rakétát és több mint 120 támadó drónt vetett be Kijev, a Kijevi terület és Harkiv energetikai, illetve kritikus infrastruktúrája ellen. Az ukrán elnök 26 energetikai és négy olaj- és gázipari létesítmény sérüléséről számolt be. A későbbi ukrán mérleg legalább hét halottról és 25 sebesültről szólt: négyen Kijevben, ketten a Dnyipropetrovszki, egy ember pedig a Zaporizzsjai területen halt meg. Zelenszkij az amerikai elnök által bejelentett tűzszünet nyílt semmibevételének nevezte a támadást, és súlyosabb szankciókat, illetve további Patriot elfogórakétákat kért.\n\n• **A Starlink katonai használatának korlátozása ukrán műveleteket zavart meg**: egy ukrán elnöki tanácsadó szerint a SpaceX egyes, katonai célra használt Starlink-szolgáltatásokat korlátozott, és 160 km/óránál nagyobb sebesség felett megszakította a működésüket; emiatt több harci küldetés is fennakadt. A jelentések nem állítják, hogy a korlátozás az amerikai kormány által kilátásba helyezett büntetőintézkedés lenne.\n\n• **Giorgia Meloni kockázatosnak és Moszkvának kedvezőnek nevezte az alkut**: az olasz miniszterelnök szerint a megállapodás legitimálja Oroszországot, új bevételt biztosíthat a háború finanszírozására, és gyengíti a szankciókat. Azt javasolta, hogy az EU jelöljön ki felhatalmazott képviselőt az ukrajnai tárgyalásokra; ennek szerepét akár a francia, német és brit E3-csoport is betölthetné. Azt is sürgette, hogy Európa védje kritikus infrastruktúráját az orosz hibrid támadásokkal szemben.\n\n• **Az európai vezetők és Ukrajna politikai ellenfelei is bírálták Trump lépéseit**: Kaja Kallas szerint az engedmény hozzájárul Moszkva háborújához, az EU pedig új, az orosz hadiipart célzó szankciókat fogadott el. A G7 európai tagjai a következő négy hónapban 100 millió hordó dízelt és nyersolajat szabadítanának fel stratégiai tartalékaikból. Petro Porosenko szerint ha valahol új vezetőre van szükség, az Oroszország; egy ukrán ellenzéki képviselő pedig úgy vélte, Trump támadásai akár Zelenszkij támogatottságát is növelhetik. A NATO főtitkára, Mark Rutte a légvédelem megerősítését is sürgette Ukrajna támogatására.",
-    "title_ro": "Acordul lui Trump privind motorina ar putea favoriza Rusia, în timp ce presiunile asupra Kievului și atacurile rusești se intensifică",
-    "lead_ro": "Trump susține că Putin își dorește pacea mai mult decât Zelenski, în timp ce autorizarea exporturilor rusești de motorină și cererea ca Ucraina să oprească atacurile asupra rafinăriilor sporesc tensiunile. Acordul ar putea avea un efect redus asupra prețurilor, dar riscă să creeze un precedent pentru relaxarea sancțiunilor; între timp, Rusia continuă atacurile, iar Zelenski cere reciprocitate, acțiuni din partea SUA și o încetare a focului de 60 de zile pentru organizarea alegerilor. Înaintea alegerilor intermediare americane, senatori și lideri europeni critică decizia, iar după un nou atac rusesc au fost raportate cel puțin șapte decese, 600.000 de persoane fără electricitate și restricții asupra utilizării militare a Starlink.",
-    "content_ro": "• **Trump îl consideră pe Putin mai dornic de pace decât pe Zelenski**: președintele american nu a condamnat Moscova pentru atacurile asupra infrastructurii energetice și a spus că ambele părți ar fi putut încălca armistițiul energetic anunțat de el. Potrivit lui, și Zelenski trebuie convins să accepte un acord.\n\n• **Zelenski cere reciprocitate și acțiuni din partea SUA**: el a afirmat că, după anunțul lui Trump privind armistițiul, Rusia a atacat o centrală electrică din Harkov, iar dronele au lovit Kievul. Ucraina este pregătită să oprească atacurile asupra infrastructurii energetice rusești dacă Moscova procedează la fel; potrivit Kievului, forțele ucrainene nu au atacat rafinării rusești în cursul nopții. Zelenski a spus că volumul acordului american privind motorina este prea mic pentru a influența semnificativ piața mondială și a propus ca Washingtonul să încheie un acord similar cu Ucraina.\n\n• **Acordul privind motorina a fost prezentat ca un semnal menit să repornească negocierile**: potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea de la Miami, că acordul ar putea transmite Moscovei mesajul că, după oprirea atacurilor Kievului asupra rafinăriilor, urmează ca Rusia să facă un pas. Sursele spun că Putin nu este dispus să negocieze încheierea războiului. S-au discutat și garanții de securitate și reconstrucția Ucrainei, dar nu s-a ajuns la un acord oficial, iar trimișii nu au amenințat atunci cu retragerea sprijinului.\n\n• **Au fost vehiculate cifre diferite privind volumele de motorină**: un anunț a menționat peste 2,25 milioane de barili, iar altul planul lui Trump de 4,8 milioane de tone, echivalentul a aproape 36 de milioane de barili. Potrivit planului, ar urma să fie livrate inițial 300.000 de tone, apoi 500.000 în noiembrie și încă un milion, iar ulterior până la trei milioane de tone. Vicepremierul rus Aleksandr Novak a spus că exporturile ar putea ajunge în viitor la trei milioane de tone pe lună, în funcție de starea rafinăriilor.\n\n• **Efectul acordului asupra prețurilor este estimat să fie redus**: Goldman Sachs estimează că livrările programate pentru octombrie și noiembrie ar putea reduce prețul angro al motorinei cu numai 1–2 dolari pe baril în SUA și Europa. Primele transporturi ar acoperi mai puțin de o zi din consumul american; cele 100 de milioane de barili de motorină și petrol pe care membrii europeni ai G7 vor să le elibereze din rezerve în patru luni reprezintă de aproximativ 50 de ori mai mult. Prețul motorinei în SUA a ajuns la 6,28 dolari pe galon, cu 72% peste nivelul de acum un an. SUA sunt exportator net de motorină, astfel că livrările rusești ar putea reduce mai degrabă concurența pentru exporturile americane către piețe precum Brazilia și Turcia.\n\n• **Războiul din Iran și perturbările din Strâmtoarea Hormuz sunt principalii factori ai scumpirii combustibililor**: potrivit unei analize Financial Times, Trump îl învinovățește pe Zelenski pentru scumpiri, deși cauza principală este războiul împotriva Iranului și perturbarea transporturilor prin strâmtoare. Atacurile ucrainene asupra rafinăriilor au redus și ele oferta, dar analiza spune că nu reprezintă factorul principal; în Rusia, capacitatea de rafinare indisponibilă ar putea fi cu trei milioane de barili pe zi mai mare decât în urmă cu un an.\n\n• **Relaxarea sancțiunilor riscă să creeze un precedent politic și economic**: analiștii avertizează că decizia SUA poate da impresia că sancțiunile pot fi ocolite cu ușurință și poate încuraja și alte țări, inclusiv Coreea de Sud, să procedeze la fel. Propagandiști ruși au spus că acordul va influența puțin prețurile și că Trump caută ajutorul Moscovei înaintea alegerilor intermediare; unul dintre ei l-a vizat pe Jared Kushner cu acuzații de câștig financiar, fără să prezinte dovezi.\n\n• **Putin ar condiționa negocierile substanțiale de concesii teritoriale**: o persoană apropiată Kremlinului a spus că Putin ar reveni la negocieri doar dacă ar obține restul de 11% din Donbas aflat încă sub control ucrainean. Ucraina a declarat că nu va ceda alte teritorii, dar ar putea considera înghețarea actualei linii a frontului drept bază pentru pace.\n\n• **Washingtonul pune presiune pe Kiev pentru oprirea atacurilor asupra rafinăriilor**: Trump a cerut public alegerea unui nou președinte ucrainean. Zelenski a declarat pentru NPR că administrația americană a amenințat că va suspenda schimbul de informații dacă Ucraina nu oprește atacurile cu drone asupra rafinăriilor rusești; avertismentul ar fi fost transmis și conducerii militare. Potrivit Financial Times, au fost luate în calcul și restricții asupra vânzărilor de arme și cooperării de informații, precum și condiționarea sprijinului de organizarea alegerilor. Fostul diplomat britanic Tim Willasey-Wilsey a avertizat că Kievul nu trebuie să subestimeze pericolul unui Trump slăbit politic și frustrat. Analista Nathalie Tocci consideră că posibilitatea Washingtonului de a exercita presiuni s-a redus, deși suspendarea sprijinului de informații ar afecta grav Ucraina.\n\n• **Zelenski ar organiza alegeri după 60 de zile de încetare totală a focului**: el i-a transmis lui Putin că Ucraina poate organiza alegeri dacă există un armistițiu complet timp de două luni. Ocupația și atacurile continue împiedică desfășurarea lor în siguranță. Într-un sondaj, Valeri Zalujnîi apărea drept posibil favorit, cu peste 20% dintre respondenți spunând că l-ar vota; 53% aveau încredere în Kirilo Budanov. Mihail Fedorov și Petro Poroșenko au fost menționați, de asemenea, ca posibili candidați.\n\n• **Un grup bipartizan de senatori cere anularea acordului privind motorina**: senatorii susțin că înțelegerea ar reduce nesemnificativ prețurile, dar i-ar oferi Rusiei venituri pentru continuarea războiului și ar afecta interesele de securitate ale SUA și aliații Ucrainei. Invocând interdicția importurilor din 2022 și legea sancțiunilor din 2026, ei au cerut revocarea Licenței generale nr. 135 și aplicarea legii; au afirmat că administrația nu a informat corespunzător Congresul. Scrisoarea a descris acordul drept un cadou pentru adversar și o trădare a aliaților SUA.\n\n• **Un nou atac rusesc a lăsat 600.000 de persoane fără electricitate**: potrivit lui Zelenski, Rusia a lansat 39 de rachete balistice și peste 120 de drone de atac împotriva infrastructurii energetice și critice din Kiev, regiunea Kiev și Harkov. Președintele ucrainean a raportat avarii la 26 de instalații energetice și la patru obiective din sectorul petrolier și gazier. Bilanțul ulterior al autorităților ucrainene a fost de cel puțin șapte morți și 25 de răniți: patru persoane au murit la Kiev, două în regiunea Dnipropetrovsk și una în regiunea Zaporojie. Zelenski a descris atacul drept o sfidare ostentativă a armistițiului anunțat de Trump și a cerut sancțiuni mai dure și noi rachete interceptoare Patriot.\n\n• **Restricțiile asupra utilizării militare a Starlink au perturbat operațiuni ucrainene**: un consilier prezidențial ucrainean a declarat că SpaceX a limitat unele servicii Starlink utilizate în scopuri militare și că funcționarea lor se întrerupe la viteze de peste 160 km/h. Mai multe misiuni de luptă ar fi fost afectate. Relatările nu susțin că restricția ar fi o măsură de represalii anunțată de guvernul american.\n\n• **Giorgia Meloni a calificat acordul drept riscant și favorabil Moscovei**: premierul italian a spus că înțelegerea legitimează Rusia, poate genera noi venituri pentru finanțarea războiului și slăbește sancțiunile. Ea a propus ca UE să desemneze un reprezentant cu mandat pentru negocierile privind Ucraina; acest rol ar putea reveni și grupului E3, format din Franța, Germania și Marea Britanie. Meloni a cerut, de asemenea, protejarea infrastructurii critice europene împotriva atacurilor hibride rusești.\n\n• **Liderii europeni și adversarii politici ai lui Zelenski au criticat și ei deciziile lui Trump**: Kaja Kallas a afirmat că această concesie contribuie la războiul Moscovei, iar UE a adoptat noi sancțiuni care vizează industria militară rusă. Membrii europeni ai G7 intenționează să elibereze 100 de milioane de barili de motorină și petrol din rezervele strategice în următoarele patru luni. Petro Poroșenko a spus că, dacă undeva este nevoie de un nou lider, acela este Rusia; un deputat ucrainean din opoziție a apreciat că atacurile verbale ale lui Trump ar putea chiar să crească sprijinul pentru Zelenski. Secretarul general al NATO, Mark Rutte, a cerut aliaților să intensifice sprijinul pentru apărarea aeriană a Ucrainei."
-  },
-  {
     "group_id": "group_dfd5ad472a",
     "fingerprint": "8765a7e9475e2022f3a4fa460d9b903b",
     "category": "Általános",
@@ -762,27 +1329,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Comisia Europeană obligă Sanofi să corecteze presupuse mesaje 'înșelătoare' privind un vaccin antigripal concurent",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_571cdfb546",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Zece orașe - înscrise pentru a deveni Capitala Tineretului din România în 2028",
-        "link": "https://agerpres.ro/social/2026/10/14/zece-orase---inscrise-pentru-a-deveni-capitala-tineretului-din-romania-in-2028--1602860"
-      }
-    ],
-    "published_at": 1791975776,
-    "title_hu": "Zece orașe - înscrise pentru a deveni Capitala Tineretului din România în 2028",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Zece orașe - înscrise pentru a deveni Capitala Tineretului din România în 2028",
     "lead_ro": "",
     "content_ro": ""
   },
@@ -1520,27 +2066,6 @@
     "content_ro": "Președintele rus Vladimir Putin va discuta miercuri despre securitatea cibernetică cu înalți oficiali, a anunțat Kremlinul, descriind această problemă ca fiind una din ce în ce mai urgentă, dar negând că întâlnirea ar fi fost determinată de o serie de atacuri cu drone ucrainene asupra centrelor de date rusești, transmite Reuters. „Tehnologiile de inteligență artificială …"
   },
   {
-    "group_id": "group_d56a69d0ed",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMjU0NV8zMDEy/NTQ1X3BubC1pbnF1YW0tcGhvdG9zLWdl/b3JnZS1jYWxpbi0xLmpwZyZoYXNoPTU2/MWE0ZTRlMzAyMTJjODMzZTNkNmYxOWExODIwMGQ4.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "PNL s-a reunit în ședință pentru a discuta susținerea Guvernului Niculescu. Ce condiții pun liberalii",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-s-a-reunit-in-sedinta-pentru-a-discuta-sustinerea-guvernului-niculescu-ce-conditii-pun-liberalii-3991767"
-      }
-    ],
-    "published_at": 1791974606,
-    "title_hu": "PNL s-a reunit în ședință pentru a discuta susținerea Guvernului Niculescu. Ce condiții pun liberalii",
-    "lead_hu": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24,…",
-    "content_hu": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24, votul de învestitură pentru noul Guvern ar putea avea loc cel mai devreme vineri.",
-    "title_ro": "PNL s-a reunit în ședință pentru a discuta susținerea Guvernului Niculescu. Ce condiții pun liberalii",
-    "lead_ro": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24,…",
-    "content_ro": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24, votul de învestitură pentru noul Guvern ar putea avea loc cel mai devreme vineri."
-  },
-  {
     "group_id": "group_ce56d18457",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -1917,27 +2442,6 @@
     "title_ro": "Noi detalii despre dispozitivul de înregistrare găsit în sala de conferințe a OpenAI",
     "lead_ro": "Autoritățile americane îl acuză pe Abdulrahman Alfozan, un inginer saudit de 35 de ani angajat al OpenAI, că a ascuns un dispozitiv de înregistrare în sala de conferințe a conducerii companiei; acesta a fost arestat pe 9 octombrie. Potrivit unor noi detalii din anchetă, el ar fi căutat informații despre săli de ședință și membri ai conducerii, iar în geanta sa a fost găsit un al doilea dispozitiv.",
     "content_ro": "• **Potrivit acuzațiilor**, Abdulrahman Alfozan ar fi ascuns un dispozitiv de înregistrare în sala de conferințe a conducerii OpenAI, pentru a capta în secret comunicații verbale confidențiale. Directorul FBI, Kash Patel, a declarat că înregistrările ar fi vizat discuții sensibile despre tehnologia de superinteligență a companiei.\n\n• **Pe 30 septembrie** a fost descoperit dispozitivul la sediul OpenAI din San Francisco. Potrivit autorităților, acesta fusese plasat cu aproximativ două zile înainte, învelit în hârtie igienică și introdus într-un port USB aflat în spatele unui televizor; dispozitivul era criptat.\n\n• **Pe 5 octombrie**, imaginile camerelor de supraveghere l-ar fi surprins pe Alfozan intrând în sala din apropierea sălii de conferințe și uitându-se în spatele televizorului. În aceeași zi, angajații i-au verificat geanta și au găsit un al doilea dispozitiv de înregistrare; în geantă se aflau și portofelul și actul său de identitate.\n\n• **Pe 9 octombrie**, Alfozan a fost arestat. Cetățeanul saudit în vârstă de 35 de ani lucra ca inginer la OpenAI din iulie 2025; a apărut pentru prima dată în instanță marți și urmează să se prezinte din nou pe 19 octombrie.\n\n• **Alfozan nu avea autorizația să intre în sala de conferințe**, a transmis Departamentul american al Justiției. Camerele de supraveghere l-ar fi surprins în apropierea încăperii în mai multe zile, iar pe 5 octombrie ar fi intrat în sală.\n\n• **Ar fi căutat și informații despre spații interne**: potrivit documentelor anchetei, a folosit un instrument de productivitate pentru a căuta săli de ședință, calendare interne și locurile în care se aflau membrii conducerii. De pe un cont de chatbot asociat soției sale au fost adresate întrebări despre locurile unde se întâlnesc partenerii externi, înregistrarea audio continuă, conectarea la Wi-Fi și construirea, instalarea, ascunderea, testarea și accesarea de la distanță a dispozitivelor de înregistrare. DOJ a precizat că mai multe elemente de identificare și caracteristici ale contului erau comune cu cele ale contului lui Alfozan.\n\n• **OpenAI a sesizat FBI-ul** și a declarat că a folosit propriile modele de inteligență artificială pentru a înțelege dispozitivul și a-i identifica proveniența. Compania l-a concediat pe Alfozan și susține că are dovezi că acesta ar fi plănuit să amplaseze și alte dispozitive de ascultare.\n\n• **Sala era folosită pentru întâlniri ale conducerii**, inclusiv cu oficiali guvernamentali și lideri de afaceri. Autoritățile nu au făcut public presupusul motiv al lui Alfozan; acesta este acuzat că ar fi folosit sau încercat să folosească un dispozitiv pentru interceptarea comunicațiilor orale.\n\n• **Despre experiența profesională a lui Alfozan**, G4Media a relatat că acesta figurează și ca partener la firma de investiții Raed Ventures, cu sediul la Riad. Firma l-a anunțat pe prințul Khalid Bin Bader Al Saud ca partener de investiții pe 6 februarie 2025, iar pe Alfozan l-a prezentat în același rol două zile mai târziu; profilul său public menționează experiențe anterioare la Meta, Microsoft și SAP, precum și studii de informatică și inginerie la MIT.\n\n• **OpenAI afirmă că** nu există indicii că Alfozan ar fi accesat fără autorizație sau ar fi sustras parametrii modelelor, codul-sursă ori datele clienților. Dacă va fi găsit vinovat, riscă până la cinci ani de închisoare, o amendă de 250.000 de dolari și trei ani de eliberare sub supraveghere; ancheta FBI este în desfășurare."
-  },
-  {
-    "group_id": "group_8225197771",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23259920/1/poza-main-7-002.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Spitalul de Pediatrie MedLife din Bucureşti îşi extinde serviciile şi devine Spitalul Copilului şi Adolescentului MedLife, deschizând şi un centru de kinetoterapie pediatrică",
-        "link": "https://www.zf.ro/zf-24/spitalul-de-pediatrie-medlife-din-bucuresti-isi-extinde-serviciile-si-devine-spitalul-copilului-si-adolescentului-medlife-deschizand-si-un-centru-de-kinetoterapie-pediatrica-23259920"
-      }
-    ],
-    "published_at": 1791973712,
-    "title_hu": "Spitalul de Pediatrie MedLife din Bucureşti îşi extinde serviciile şi devine Spitalul Copilului şi Adolescentului MedLife, deschizând şi un centru de kinetoterapie pediatrică",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Spitalul de Pediatrie MedLife din Bucureşti îşi extinde serviciile şi devine Spitalul Copilului şi Adolescentului MedLife, deschizând şi un centru de kinetoterapie pediatrică",
-    "lead_ro": "",
-    "content_ro": ""
   },
   {
     "group_id": "group_6f7db6c855",
@@ -2923,39 +3427,6 @@
     "content_ro": "Primăria oraşului Medellin, din nord-vestul Columbiei, a început marţi demolarea unei case care a aparţinut traficantului de droguri Pablo Escobar, deoarece, potrivit administraţiei municipale, locuinţa era folosită pentru consumul de droguri, acte sexuale şi presupuse ritualuri satanice, informează agenția de știri EFE, citată de Agerpres. „Conform rapoartelor oficiale, proprietatea era folosită pentru consumul de narcotice […] © G4Media.ro."
   },
   {
-    "group_id": "group_7cd068d9ba",
-    "fingerprint": "c2340dabe6fbd16f8178a39d737529d1",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/4b1c42fa-d493-4caf-a98d-05d351872cd2.jfif?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs și Elizabeta Samara sunt la un pas de medalie la Campionatele Europene de la Ljubljana",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-elizabeta-samara-sunt-la-un-pas-de-medalie-la-campionatele-europene-de-la-ljubljana-987941.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Samara și Szocs, în sferturile CE de tenis de masă din Ljubljana",
-        "link": "https://www.g4media.ro/samara-si-szocs-in-sferturile-ce-de-tenis-de-masa-din-ljubljana.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Elizabeta Samara și Bernadette Szocs s-au calificat în sferturile de finală ale Campionatului European",
-        "link": "https://adevarul.ro/sport/elizabeta-samara-si-bernadette-szocs-s-au-2563936.html"
-      }
-    ],
-    "published_at": 1791972549,
-    "title_hu": "Szocs és Samara negyeddöntős az asztalitenisz-Eb-n",
-    "lead_hu": "Bernadette Szocs és Elizabeta Samara 3–0-ra legyőzte a horvát Lea Rakovac–Hana Arapovic párost, és bejutott a ljubljanai Európa-bajnokság női párosversenyének negyeddöntőjébe. A magyar idő szerint csütörtökön esedékes elődöntőbe jutásért a német Ying Han és Sabine Winter lesz az ellenfelük.",
-    "content_hu": "• **Szocs Bernadette és Elizabeta Samara** 3–0-ra (11–9, 11–8, 11–6) nyert a horvát Lea Rakovac–Hana Arapovic kettős ellen a ljubljanai Európa-bajnokság női párosversenyének nyolcaddöntőjében.\n\n• **A negyeddöntőben** a német Ying Han és Sabine Winter vár a román párosra; a mérkőzés győztese bejut az elődöntőbe.\n\n• **Andreea Dragoman és Adina Diaconu** 0–3-ra (12–14, 5–11, 7–11) kikapott a francia Prithika Pavade–Charlotte Lutz párostól, így búcsúzott a versenytől.",
-    "title_ro": "Szocs și Samara s-au calificat în sferturile CE de tenis de masă",
-    "lead_ro": "Bernadette Szocs și Elizabeta Samara au învins cu 3-0 perechea croată Lea Rakovac–Hana Arapovic și s-au calificat în sferturile probei de dublu feminin de la Campionatele Europene de la Ljubljana. Pentru un loc în semifinale, româncele vor juca împotriva germanelor Ying Han și Sabine Winter.",
-    "content_ro": "• **Bernadette Szocs și Elizabeta Samara** au câștigat cu 3-0 (11-9, 11-8, 11-6) meciul din optimi împotriva perechii croate Lea Rakovac–Hana Arapovic, la proba de dublu feminin a Campionatelor Europene de la Ljubljana.\n\n• **În sferturile de finală**, perechea română o va întâlni pe cea germană, formată din Ying Han și Sabine Winter. Învingătoarele se vor califica în semifinale.\n\n• **Andreea Dragoman și Adina Diaconu** au fost eliminate în optimi, după ce au pierdut cu 0-3 (12-14, 5-11, 7-11) în fața franțuzoaicelor Prithika Pavade și Charlotte Lutz."
-  },
-  {
     "group_id": "group_b5bf677c1a",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2026/10/Gianpiero-Nacci.jpg",
@@ -3115,6 +3586,54 @@
     "title_ro": "Apel pentru găsirea unei pisici dispărute în urma unui accident rutier în Vâlcea / Trei tineri au murit / ”S-a speriat si a fugit în timpul descarcerării” / Simba are cataractă și probleme cu tiroida",
     "lead_ro": "O familie implicată în tragicul accident rutier petrecut în noaptea de 11 spre 12 octombrie, pe DN 67, în județul Vâlcea, face un apel disperat către comunitate pentru găsirea pisicii lor, Simba, rela…",
     "content_ro": "O familie implicată în tragicul accident rutier petrecut în noaptea de 11 spre 12 octombrie, pe DN 67, în județul Vâlcea, face un apel disperat către comunitate pentru găsirea pisicii lor, Simba, relatează Turnul Sfatului. Felina, adoptată în anul 2020 de la Asociația Animal Life Sibiu, a dispărut de la locul impactului în timpul intervenției […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_3034910e56",
+    "fingerprint": "95b1ff864fdfef0c9422694edc5d7ca0",
+    "category": "Erdély",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTM5NF8zMDA5/Mzk0X3RvbWEtY3V6aW4tZmIuanBnJmhh/c2g9OGM4M2QxOWMwYTY3NGI3Mjg0Mjg4Mjc3OWZlY2MyY2U=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Surse: Actorul Toma Cuzin a fost reținut după ce a condus cu permisul suspendat și a produs un accident. A ieșit pozitiv și la DrugTest",
+        "link": "https://www.digi24.ro/stiri/actualitate/surse-actorul-toma-cuzin-a-fost-retinut-dupa-ce-a-condus-cu-permisul-suspendat-si-a-produs-un-accident-a-iesit-pozitiv-si-la-drugtest-3989627"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Reacția PRO TV după ce Toma Cuzin a fost reținut de polițiști pentru conducere fără permis și sub influența substanțelor interzise",
+        "link": "https://adevarul.ro/showbiz/tv/reactia-pro-tv-dupa-ce-toma-cuzin-a-fost-retinut-2563714.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Actorul Cuzin Toma, plasat sub control judiciar după ce a produs un accident rutier, aflându-se sub influența drogurilor și cu permisul suspendat",
+        "link": "https://www.g4media.ro/actorul-cuzin-toma-plasat-sub-control-judiciar-dupa-ce-a-produs-un-accident-rutier-aflandu-se-sub-influenta-drogurilor-si-cu-permisul-suspendat.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Ce au decis judecătorii după ce Cuzin Toma a produs un accident rutier sub influența substanțelor interzise",
+        "link": "https://www.cancan.ro/ce-au-decis-judecatorii-dupa-ce-cuzin-toma-a-produs-un-accident-rutier-sub-influenta-substantelor-interzise-21529597"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Decizia Parchetului în cazul actorului Toma Cuzin, din „Las Fierbinți”, după ce a fost reținut pentru accidentul auto din Teleorman",
+        "link": "https://hotnews.ro/actorul-toma-cuzin-plasat-sub-control-judiciar-dupa-ce-a-produs-un-accident-rutier-in-teleorman-2375157"
+      },
+      {
+        "source": "Digi24",
+        "title": "Actorul Toma Cuzin a fost plasat sub control judiciar",
+        "link": "https://www.digi24.ro/magazin/timp-liber/showbiz/actorul-toma-cuzin-a-fost-plasat-sub-control-judiciar-3991181"
+      }
+    ],
+    "published_at": 1791972054,
+    "title_hu": "Baleset után őrizetbe vették, majd bírósági felügyelet alá helyezték Toma Cuzin színészt",
+    "lead_hu": "Toma Cuzin színészt 2026. október 12-én, egy teleormani baleset után őrizetbe vették, miután felfüggesztett vezetési jogosultsággal vezetett, és a gyorstesztje pozitív lett. Október 13-án büntetőeljárást indítottak ellene a felfüggesztett jogosultság ellenére történő vezetés miatt, és bírósági felügyelet alá helyezték. Biológiai mintáiban kokain és kannabinoidok nyomait találták; szakértői vizsgálat állapítja meg, hogy ezek befolyásolták-e a vezetési képességét.",
+    "content_hu": "• **2026. október 12-én, este 18:45 körül** a 49 éves színész BMW-vel haladt a Teleorman megyei Peretu községben, a DN6-os úton, Alexandria és Roșiori de Vede között, amikor nekiütközött az előtte haladó autónak. Az ügyészség szerint nem tartotta be a biztonságos követési távolságot; a balesetben csak anyagi kár keletkezett, senki nem sérült meg.\n\n• **Felfüggesztett vezetési jogosultsággal vezetett**: a rendőrségi adatbázis ellenőrzésekor megállapították, hogy jogosultsága 2025. május 20. óta fel van függesztve egy korábbi közlekedési bűncselekmény miatt. Az ügyészség az előzményt a román büntető törvénykönyv 336. cikkének (2) bekezdése szerinti bűncselekményként jelölte meg. Az alkoholszonda nulla értéket mutatott.\n\n• **A DrugTest pozitív lett**: Toma Cuzint kórházba vitték biológiai mintavételre. Az ügyészség közlése szerint vér- és vizeletmintáiban kokain, illetve kannabinoidok nyomait találták; igazságügyi orvosszakértői vizsgálat hivatott megállapítani, hogy a szerek befolyásolták-e a vezetési képességét.\n\n• **Október 13-án 24 órára őrizetbe vették**, majd az ügyészség büntetőeljárást indított ellene a felfüggesztett vezetési jogosultság ellenére történő vezetés miatt. A kábítószer hatása alatti vezetés gyanújával külön is gyanúsítottként kezelik; az ezzel kapcsolatos szakértői vizsgálat folyamatban van.\n\n• **Bírósági felügyelet alá helyezték**: a Roșiori de Vede-i ügyészség október 13-án rendelte el a kényszerintézkedést az őrizetbe vétel után. A nyomozás folytatódik.\n\n• **A PRO TV közleményben reagált**: azt írta, örül annak, hogy senki sem sérült meg, bízik abban, hogy a hatóságok tisztázzák a körülményeket, és nem támogatja az olyan viselkedést, amely veszélyezteti mások biztonságát.\n\n• **Korábban is volt pozitív drogtesztje** egy közúti ellenőrzés során; erről a Digi24 és a HotNews is beszámolt.\n\n• **Korábbi esetekről további részleteket közölt az Adevărul**: a lap szerint 2016-ban kannabiszt találtak Cuzin autójában, és a vizsgálatok THC, illetve MDMA jelenlétét mutatták ki. A lap 2018-as esetekről is ír, köztük arról, hogy rövid időn belül többször találtak tiltott szereket az autójában, illetve a vérében kokain nyomait; ezek sajtóbeszámolóban szereplő állítások.\n\n• **A Cancan.ro további korábbi eseteket is állít**: a lap szerint körülbelül tíz éve kábítószert találtak az autójában, a vérvizsgálat pedig fogyasztást jelzett, de az ügyet közérdek hiányára hivatkozva lezárták. A lap azt is állítja, hogy két hónappal később ismét tiltott szereket találtak az autójában, majd egy folyamatban lévő vizsgálat idején Bukarestben egy pszichoaktív anyagot tartalmazó cigarettával állították meg. A Cancan.ro ezeket az eseteket is beleszámítva azt írja, hogy a mostani a hetedik alkalom, amikor megszegte a törvényt; ezek a részletek a lap állításai.\n\n• **A 2018-as ügyben 2022-ben egy év szabadságvesztésre ítélték**, miután vezetői engedély nélkül, alkohol vagy tiltott szer hatása alatt vezetett. A büntetés alkalmazását két évre elhalasztották; Cuzin akkor tagadta, hogy alkoholt fogyasztott vagy tiltott szer hatása alatt állt volna. Az Adevărul szerint egy televíziós megszólalásban azt mondta: „Nem ittam, nem fogyasztottam drogot.” A Cancan.ro szerint a döntésnél azt is figyelembe vették, hogy oktatási projektekben vett részt.\n\n• **A kétéves felügyeleti időszak incidens nélkül telt le** – a Digi24 beszámolója szerint Cuzin további eset nélkül teljesítette a felügyeleti időszakot.\n\n• **2023-ban Bukarestben is megállították**: a Cancan.ro beszámolója szerint az ellenőrzéskor azt állapították meg, hogy vezetési jogosultsága fel volt függesztve.\n\n• **A Cancan.ro szerint 2025-ben is közúti ügybe keveredett**: a lap azt írta, hogy Bukarest 1. kerületében kábítószer hatása alatti vezetés miatt intézkedtek vele szemben, és az ezzel kapcsolatos ügy még folyamatban van.",
+    "title_ro": "Actorul Toma Cuzin, reținut după un accident și plasat sub control judiciar",
+    "lead_ro": "Actorul Toma Cuzin a fost reținut după un accident produs în Teleorman, la 12 octombrie 2026, în timp ce conducea cu dreptul de a conduce suspendat; testul rapid pentru droguri a fost pozitiv. La 13 octombrie, procurorii au pus în mișcare acțiunea penală pentru conducerea unui vehicul cu permisul suspendat și au dispus controlul judiciar. În probele biologice au fost găsite urme de cocaină și canabinoizi, iar o expertiză urmează să stabilească dacă acestea i-au afectat capacitatea de a conduce.",
+    "content_ro": "• **La 12 octombrie 2026, în jurul orei 18:45**, actorul, în vârstă de 49 de ani, conducea un BMW pe DN 6, în comuna Peretu, județul Teleorman, din direcția Alexandria spre Roșiori de Vede, când a lovit autoturismul din fața sa. Potrivit procurorilor, nu a păstrat distanța de siguranță; accidentul s-a soldat doar cu pagube materiale, fără persoane rănite.\n\n• **Conducea cu dreptul de a conduce suspendat**: verificările în bazele de date au arătat că dreptul său de a conduce era suspendat din 20 mai 2025, în urma unei infracțiuni anterioare la regimul rutier. Procurorii au indicat că fapta anterioară este prevăzută de articolul 336 alineatul (2) din Codul penal român. Testul pentru alcool a indicat zero.\n\n• **Testul DrugTest a fost pozitiv**: Toma Cuzin a fost dus la spital pentru recoltarea de probe biologice. Potrivit procurorilor, în probele de sânge și urină au fost găsite urme de cocaină și canabinoizi; o expertiză medico-legală urmează să stabilească dacă substanțele i-au afectat capacitatea de a conduce.\n\n• **La 13 octombrie a fost reținut pentru 24 de ore**, iar procurorii au pus în mișcare acțiunea penală pentru conducerea unui vehicul cu dreptul de a conduce suspendat. Este suspectat separat și de conducere sub influența substanțelor psihoactive; expertiza aferentă este în curs.\n\n• **A fost plasat sub control judiciar**: Parchetul de pe lângă Judecătoria Roșiori de Vede a dispus măsura la 13 octombrie, după reținere. Ancheta continuă.\n\n• **PRO TV a reacționat printr-un comunicat**: postul a transmis că se bucură că nimeni nu a fost rănit, că are încredere că autoritățile vor clarifica împrejurările și că nu susține comportamentele care pun în pericol siguranța celorlalți.\n\n• **Actorul mai avusese un test antidrog pozitiv** în urma unui control rutier, potrivit relatărilor Digi24 și HotNews.\n\n• **Adevărul a relatat și despre incidente anterioare**: potrivit publicației, în 2016 au fost găsite substanțe interzise în mașina lui Cuzin, iar analizele ar fi indicat THC și MDMA. Publicația relatează și despre incidente din 2018, inclusiv găsirea de substanțe interzise în mașină în repetate rânduri într-un interval scurt și urme de cocaină în sânge; acestea sunt afirmații prezentate în relatările de presă.\n\n• **Cancan.ro susține că au existat și alte incidente anterioare**: potrivit publicației, în urmă cu aproximativ zece ani au fost găsite droguri în mașina sa, iar analizele de sânge ar fi indicat consum, însă dosarul a fost închis din lipsă de interes public. Publicația mai afirmă că, două luni mai târziu, au fost găsite din nou substanțe interzise în mașină, iar ulterior, în timpul unei anchete, actorul ar fi fost oprit la București având o țigară cu substanțe psihoactive. Incluzând aceste cazuri, Cancan.ro susține că actualul incident ar fi a șaptea încălcare a legii; detaliile sunt afirmațiile publicației.\n\n• **În dosarul privind faptele din 2018, a fost condamnat în 2022 la un an de închisoare**, după ce a condus fără permis și sub influența alcoolului sau a unor substanțe interzise. Aplicarea pedepsei a fost amânată pe un termen de supraveghere de doi ani; la acel moment, Cuzin a negat că ar fi consumat alcool sau droguri. Potrivit Adevărul, într-o intervenție televizată a declarat: „Nu am băut, nu am consumat droguri”. Cancan.ro susține că instanța a luat în considerare și implicarea sa în proiecte educaționale.\n\n• **Perioada de supraveghere de doi ani s-a încheiat fără incidente** – potrivit Digi24, Cuzin a parcurs perioada fără alte incidente.\n\n• **A fost oprit și la București în 2023**: potrivit Cancan.ro, verificările au arătat atunci că dreptul său de a conduce era suspendat.\n\n• **Cancan.ro relatează că a fost implicat într-un alt caz rutier și în 2025**: publicația a scris că s-a intervenit împotriva lui în Sectorul 1 al Bucureștiului pentru conducere sub influența drogurilor, iar dosarul respectiv este încă pe rol."
   },
   {
     "group_id": "group_d04017b405",
@@ -3753,27 +4272,6 @@
     "title_ro": "3 pentru un loc",
     "lead_ro": "Raul Rusescu stabilește echipa etapei a 11-a și numește jucătorii care au evoluat slab. Mai jos, explicațiile analistului GSP Live. Etapa a 11-a a avut 3 fundași stânga de 11, 3 echipe care au câștiga…",
     "content_ro": "Raul Rusescu stabilește echipa etapei a 11-a și numește jucătorii care au evoluat slab. Mai jos, explicațiile analistului GSP Live. Etapa a 11-a a avut 3 fundași stânga de 11, 3 echipe care au câștigat jocul și au pierdut meciul și un scaun gol la antrenori. Despre diferența dintre proces și tabelă. 19, 34, 37. ..."
-  },
-  {
-    "group_id": "group_0ed6a1d149",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYwMyUyRjIzJTJGMTcwMDg2N18xNzAw/ODY3X0dldHR5SW1hZ2VzLTExMzMyNDk4/NjAuanBnJmhhc2g9NDI1NTE3YWFjODUzMjdhYjcxYzhhMGI2YmU0NWYxM2E=.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Câștiguri fabuloase din meditații: Un profesor din Timiș a încasat 110.000 de euro într-un singur an. Ce arată datele ANAF",
-        "link": "https://www.digi24.ro/stiri/castiguri-fabuloase-din-meditatii-un-profesor-din-timis-a-incasat-110-000-de-euro-intr-un-singur-an-ce-arata-datele-anaf-3991547"
-      }
-    ],
-    "published_at": 1791970237,
-    "title_hu": "Câștiguri fabuloase din meditații: Un profesor din Timiș a încasat 110.000 de euro într-un singur an. Ce arată datele ANAF",
-    "lead_hu": "Câștig fabulos din meditații obținut de un profesor din Timiș. Acesta a declarat la Fisc venituri de aproape 110.000 de euro într-un an pe meditații, fiind cea mai mare sumă raportată în vestul țării.",
-    "content_hu": "Câștig fabulos din meditații obținut de un profesor din Timiș. Acesta a declarat la Fisc venituri de aproape 110.000 de euro într-un an pe meditații, fiind cea mai mare sumă raportată în vestul țării.",
-    "title_ro": "Câștiguri fabuloase din meditații: Un profesor din Timiș a încasat 110.000 de euro într-un singur an. Ce arată datele ANAF",
-    "lead_ro": "Câștig fabulos din meditații obținut de un profesor din Timiș. Acesta a declarat la Fisc venituri de aproape 110.000 de euro într-un an pe meditații, fiind cea mai mare sumă raportată în vestul țării.",
-    "content_ro": "Câștig fabulos din meditații obținut de un profesor din Timiș. Acesta a declarat la Fisc venituri de aproape 110.000 de euro într-un an pe meditații, fiind cea mai mare sumă raportată în vestul țării."
   },
   {
     "group_id": "group_b8736790cf",
@@ -6626,44 +7124,6 @@
     "content_ro": "Josep Martinez (28 de ani) și-a continuat seria gafelor la Inter, fiind complice la al doilea eșec la rând din Champions League. Pentru că îi acordă credit necondiționat, în loc să-l schimbe cu Ivan Provedel, Cristi Chivu este criticat foarte dur de presa italiană: „Nu-ți poți permite să joci în Ligă cu un asemenea gafeur!”. 14 goluri încasate în opt meciuri disputate de Inter în acest sezon, dintre care șase în primele două din grupa de Liga Campionilor. ..."
   },
   {
-    "group_id": "group_18172ddf49",
-    "fingerprint": "83ce2bc31e99b011465c8ee94ba2f56b",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8154027-mediafax_foto-dpa_hepta-1024x855.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Sentință în unul dintre cele mai celebre cazuri nerezolvate din SUA: cel puțin 40 de ani de închisoare pentru uciderea lui Tupac",
-        "link": "https://www.mediafax.ro/life-entertaiment/sentinta-in-unul-dintre-cele-mai-celebre-cazuri-nerezolvate-din-sua-cel-putin-40-de-ani-de-inchisoare-pentru-uciderea-lui-tupac-23824852"
-      },
-      {
-        "source": "Digi24",
-        "title": "Duane „Keffe D” Davis, condamnat la 40 de ani de închisoare pentru organizarea asasinării lui Tupac Shakur",
-        "link": "https://www.digi24.ro/stiri/externe/duane-keffe-d-davis-condamnat-la-40-de-ani-de-inchisoare-pentru-organizarea-asasinarii-lui-tupac-shakur-3991013"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Condamnare de la 40 de ani la închisoare pe viață. Cazul uciderii lui Tupac Shakur a fost închis, marele mister rămâne",
-        "link": "https://stirileprotv.ro/show-buzz/entertainment/condamnare-de-la-40-de-ani-la-inchisoare-pe-viata-cazul-uciderii-lui-tupac-shakur-a-fost-inchis-marele-mister-ramane.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Câți ani va petrece în închisoare bărbatul condamnat pentru uciderea lui Tupac",
-        "link": "https://hotnews.ro/cati-ani-va-petrece-in-inchisoare-barbatul-condamnat-pentru-uciderea-lui-tupac-2375475"
-      }
-    ],
-    "published_at": 1791963865,
-    "title_hu": "Legalább 40 évtől életfogytiglanig terjedő büntetést kapott Duane Davis Tupac Shakur meggyilkolásának megszervezéséért",
-    "lead_hu": "Duane „Keffe D” Davist Las Vegasban két, egymást követően letöltendő, egyenként 20 évtől életfogytig tartó szabadságvesztésre ítélték Tupac Shakur 1996-os meggyilkolásának megszervezéséért. A zsűri augusztusban találta bűnösnek; az ügyben közel három évtized után született az első ítélet. Davis fellebbezést jelentett be, miközben továbbra sem tisztázott, ki lőtte le a rappert.",
-    "content_hu": "• **A büntetés** Davis két, egymást követően letöltendő, egyenként 20 évtől életfogytig tartó szabadságvesztést kapott: egyet gyilkosságért, egyet halálos fegyver használatáért. A 63 éves férfit a zsűri augusztusban találta bűnösnek elsőfokú gyilkosságban; az ítélethirdetés körülbelül hat héttel követte az esküdtszék döntését.\n\n• **Az 1996. szeptember 7-i támadásban** a 25 éves Tupac Shakurt négyszer lőtték meg, miközben Marion „Suge” Knight, a Death Row Records vezetője által vezetett autóban utazott; Shakur hat nappal később meghalt. Knightet csak kisebb sérülés érte egy golyószilánktól. Az ügy közel három évtizedig az Egyesült Államok egyik legismertebb megoldatlan gyilkossági esete volt.\n\n• **Shakur öröksége** túlmutatott a zenei pályáján: lemezeiből világszerte több mint 75 millió példány kelt el, és 2017-ben bekerült a Rock and Roll Hall of Fame-be. Halála a kilencvenes évek hiphopkultúrájának és a keleti, illetve nyugati parti rap közötti rivalizálásnak is meghatározó eseményévé vált.\n\n• **Az ügyészség szerint** a támadás megtorlás volt, miután Shakur és társai a Las Vegas-i MGM Grand kaszinóban összeverekedtek Davis unokaöccsével. A két, Los Angeles környéki bandához kötődő társaság a Mike Tyson és Bruce Seldon közötti bokszmeccs miatt tartózkodott a városban.\n\n• **A támadás megszervezése** az ügyészek szerint Davishez köthető: unokaöccsét és két másik férfit egy fehér Cadillacbe ültetett, és Shakurék keresésére indult. Davis korábbi vallomása szerint fegyvert adott a hátsó ülésen ülő férfiaknak; az autóból egyikük nyitott tüzet.\n\n• **A lövöldöző személye** nem tisztázódott véglegesen, és az ügyészek hivatalosan nem neveztek meg feltételezett elkövetőt. Davis unokaöccsét, Orlando Andersont a vád szerint lövőként emlegették, de ő 1998-ban meghalt, és korábban tagadta, hogy köze lett volna a gyilkossághoz. Nevada törvénye alapján Davis akkor is felelősségre vonható gyilkosságért, ha nem ő húzta meg a ravaszt.\n\n• **Davis kijelentései** az ügy fontos bizonyítékai voltak. A férfi 2008-ban, egy Christopher Wallace, vagyis Notorious B.I.G. meggyilkolásával kapcsolatos nyomozás során beszélt a rendőröknek Shakur ügyéről, egy olyan megállapodás keretében, amely kezdetben védelmet biztosított neki a vádemeléssel szemben. Később a Compton Street Legend című, 2019-es könyvében és interjúkban is beszélt a szerepéről; ezek miatt elveszítette a megállapodás nyújtotta védelmet, és vallomásait felhasználhatták a perben.\n\n• **A tárgyalás bizonyítékai** között nem volt olyan tárgyi bizonyíték, amely Davist a lövöldözés helyszínére helyezte volna. A vád főként Davis korábbi kijelentéseire és a bizalmas nyomozati találkozókról készült felvételekre támaszkodott; az ügyészek szerint Davis éveken át nyilvánosan dicsekedett a szerepével. Marc DiGiacomo ügyész a bíróságon azt mondta, Shakur meggyilkolása világszerte mély következményekkel járt.\n\n• **Davis védelme** azt állította, hogy a férfi történetei kitalációk vagy a könyveladást és a pénzszerzést szolgáló hencegés voltak. Davis közölte, hogy fellebbez; a vele együtt a Cadillacben utazó másik három férfi időközben meghalt. Az ítélethirdetéskor azt is kérte, hogy adják vissza az otthonából lefoglalt tárgyait.\n\n• **A család és a bíró** a büntetéskiszabás előtt Shakur elvesztéséről beszélt. Húga, Sekyiwa Shakur szerint édesanyjuk emberi jogi aktivizmusra nevelte a rappert, aki jobbá akarta tenni a világot; bátyja, Maurice Shakur a lehető leghosszabb büntetést kérte. Carli Kierny bíró azt mondta Davisnek, hogy nem vehette volna el Shakur életét és jövőjét, és a világ nem felejtette el a rappert.\n\n• **Suge Knight jelenleg** egy ettől az ügytől független emberölési ügyben kiszabott 28 éves börtönbüntetését tölti.",
-    "title_ro": "Duane Davis a fost condamnat la cel puțin 40 de ani de închisoare pentru organizarea uciderii lui Tupac Shakur",
-    "lead_ro": "Duane „Keffe D” Davis a fost condamnat la Las Vegas la două pedepse consecutive, fiecare între 20 de ani și închisoare pe viață, pentru organizarea uciderii lui Tupac Shakur în 1996. Juriul l-a găsit vinovat în august; verdictul este primul pronunțat în acest caz după aproape trei decenii. Davis a anunțat că va face apel, în timp ce identitatea persoanei care a tras rămâne neclară.",
-    "content_ro": "• **Pedeapsa** lui Davis constă în două condamnări consecutive, fiecare între 20 de ani și închisoare pe viață: una pentru crimă și una pentru folosirea unei arme letale. Bărbatul de 63 de ani a fost găsit vinovat de crimă de gradul întâi în august; sentința a fost pronunțată la aproximativ șase săptămâni după verdictul juriului.\n\n• **Atacul din 7 septembrie 1996** l-a vizat pe Tupac Shakur, în vârstă de 25 de ani, care se afla în mașina condusă de Marion „Suge” Knight, șeful Death Row Records. Shakur a fost împușcat de patru ori și a murit șase zile mai târziu. Knight a suferit doar o rană minoră provocată de un fragment de glonț. Timp de aproape trei decenii, cazul a fost unul dintre cele mai cunoscute dosare de crimă nerezolvate din Statele Unite.\n\n• **Moștenirea lui Shakur** a depășit cariera sa muzicală: albumele sale s-au vândut în peste 75 de milioane de exemplare în întreaga lume, iar în 2017 a fost inclus în Rock and Roll Hall of Fame. Moartea sa a devenit un moment definitoriu pentru cultura hip-hop a anilor 1990 și rivalitatea dintre scenele rap de pe Coasta de Est și Coasta de Vest.\n\n• **Potrivit acuzării**, atacul a fost o răzbunare după ce Shakur și anturajul său s-au încăierat cu nepotul lui Davis în cazinoul MGM Grand din Las Vegas. Cele două grupări asociate unor bande din zona Los Angeles se aflau în oraș pentru meciul de box dintre Mike Tyson și Bruce Seldon.\n\n• **Organizarea atacului** i-a fost atribuită lui Davis de către procurori: acesta și-ar fi urcat nepotul și alți doi bărbați într-un Cadillac alb și ar fi pornit în căutarea lui Shakur și a lui Knight. Davis declarase anterior că le-a dat o armă bărbaților de pe bancheta din spate; unul dintre ocupanții mașinii a deschis focul.\n\n• **Identitatea trăgătorului** nu a fost stabilită definitiv, iar procurorii nu au desemnat oficial un presupus autor al împușcăturilor. Nepotul lui Davis, Orlando Anderson, a fost indicat de acuzare drept posibilul trăgător, dar a murit în 1998 și negase anterior orice implicare în crimă. Legea din Nevada permite tragerea la răspundere pentru omor chiar și a unei persoane care nu a apăsat pe trăgaci.\n\n• **Declarațiile lui Davis** au constituit probe importante în dosar. În 2008, în cadrul anchetei privind uciderea lui Christopher Wallace, cunoscut drept Notorious B.I.G., Davis le-a vorbit polițiștilor despre cazul Shakur, în baza unei înțelegeri care îl proteja inițial de acuzații penale. Ulterior, a vorbit despre rolul său în cartea Compton Street Legend, publicată în 2019, și în interviuri; aceste dezvăluiri l-au făcut să piardă protecția acordului, iar declarațiile sale au putut fi folosite în proces.\n\n• **Probele prezentate la proces** nu au inclus dovezi materiale care să-l plaseze pe Davis la locul împușcăturilor. Acuzarea s-a bazat în principal pe declarațiile sale anterioare și pe înregistrările întâlnirilor confidențiale cu anchetatorii; procurorii au susținut că Davis s-a lăudat public ani la rând cu rolul său. Procurorul Marc DiGiacomo a afirmat în instanță că uciderea lui Shakur a avut consecințe profunde la nivel mondial.\n\n• **Apărarea lui Davis** a susținut că poveștile sale erau inventate sau simple acte de bravură menite să-i crească vânzările de carte și să-i aducă bani. Davis a anunțat că va face apel; ceilalți trei bărbați care se aflau cu el în Cadillac au murit între timp. La ședința de condamnare, el a cerut și să-i fie returnate obiectele confiscate din locuința sa.\n\n• **Familia lui Shakur și judecătoarea** au vorbit despre pierderea rapperului înainte de pronunțarea sentinței. Sora sa, Sekyiwa Shakur, a spus că mama lor l-a crescut în spiritul activismului pentru drepturile omului și că el voia să facă lumea mai bună; fratele său, Maurice Shakur, a cerut pedeapsa maximă. Judecătoarea Carli Kierny i-a spus lui Davis că nu avea dreptul să-i ia lui Shakur viața și viitorul și că lumea nu l-a uitat.\n\n• **Suge Knight ispășește în prezent** o pedeapsă de 28 de ani de închisoare într-un dosar separat de omor involuntar."
-  },
-  {
     "group_id": "group_3f56dc84a7",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/comisia-europeana-e1783517197359-1024x586.jpg",
@@ -8169,39 +8629,6 @@
     "title_ro": "Algoritmul Facebook va putea fi configurat cu ajutorul AI-ului. Instagram are deja această funcție",
     "lead_ro": "Facebook le va oferi utilizatorilor acces la funcţionalitatea „Your Algorithm”, care le va permite acestora să aleagă subiectele de care sunt interesaţi şi cele care nu vor să le apară în newsfeed.",
     "content_ro": "Facebook le va oferi utilizatorilor acces la funcţionalitatea „Your Algorithm”, care le va permite acestora să aleagă subiectele de care sunt interesaţi şi cele care nu vor să le apară în newsfeed."
-  },
-  {
-    "group_id": "group_3034910e56",
-    "fingerprint": "c4b1934a64d5082a964c04c78e91ebab",
-    "category": "Erdély",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTM5NF8zMDA5/Mzk0X3RvbWEtY3V6aW4tZmIuanBnJmhh/c2g9OGM4M2QxOWMwYTY3NGI3Mjg0Mjg4Mjc3OWZlY2MyY2U=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Actorul Cuzin Toma, plasat sub control judiciar după ce a produs un accident rutier, aflându-se sub influența drogurilor și cu permisul suspendat",
-        "link": "https://www.g4media.ro/actorul-cuzin-toma-plasat-sub-control-judiciar-dupa-ce-a-produs-un-accident-rutier-aflandu-se-sub-influenta-drogurilor-si-cu-permisul-suspendat.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Ce au decis judecătorii după ce Cuzin Toma a produs un accident rutier sub influența substanțelor interzise",
-        "link": "https://www.cancan.ro/ce-au-decis-judecatorii-dupa-ce-cuzin-toma-a-produs-un-accident-rutier-sub-influenta-substantelor-interzise-21529597"
-      },
-      {
-        "source": "Digi24",
-        "title": "Actorul Toma Cuzin a fost plasat sub control judiciar",
-        "link": "https://www.digi24.ro/stiri/actualitate/actorul-toma-cuzin-a-fost-plasat-sub-control-judiciar-3991181"
-      }
-    ],
-    "published_at": 1791960503,
-    "title_hu": "Baleset után őrizetbe vették, majd bírósági felügyelet alá helyezték Toma Cuzin színészt",
-    "lead_hu": "Toma Cuzin színészt 2026. október 12-én baleset után őrizetbe vették, miután felfüggesztett vezetési jogosultsággal vezetett, és a DrugTestje pozitív lett. Az ügyészség október 13-án büntetőeljárást indított ellene a felfüggesztett jogosultság ellenére történő vezetés miatt, és bírósági felügyeletet rendelt el. Biológiai mintáiban kokain és kannabinoidok nyomait találták; szakértői vizsgálat állapítja meg, hogy ezek befolyásolták-e a vezetési képességét.",
-    "content_hu": "• **2026. október 12-én, este 18:45 körül** a 49 éves színész BMW-vel haladt a Teleorman megyei Peretu községben, a DN6-os úton, Alexandria és Roșiori de Vede között, amikor nekiütközött az előtte haladó autónak. Az ügyészség szerint nem tartotta be a biztonságos követési távolságot; a balesetben csak anyagi kár keletkezett, senki nem sérült meg.\n\n• **Felfüggesztett vezetési jogosultsággal vezetett**: a rendőrségi adatbázis ellenőrzésekor megállapították, hogy jogosultsága 2025. május 20. óta fel van függesztve egy korábbi közlekedési bűncselekmény miatt. Az ügyészség az előzményt a román büntető törvénykönyv 336. cikkének (2) bekezdése szerinti bűncselekményként jelölte meg. Az alkoholszonda nulla értéket mutatott.\n\n• **A DrugTest pozitív lett**: Toma Cuzint kórházba vitték biológiai mintavételre. Az ügyészség közlése szerint vér- és vizeletmintáiban kokain, illetve kannabinoidok nyomait találták; igazságügyi orvosszakértői vizsgálat hivatott megállapítani, hogy a szerek befolyásolták-e a vezetési képességét.\n\n• **Október 13-án 24 órára őrizetbe vették**, majd az ügyészség büntetőeljárást indított ellene a felfüggesztett vezetési jogosultság ellenére történő vezetés miatt. A kábítószer hatása alatti vezetés gyanújával külön is gyanúsítottként kezelik; az ezzel kapcsolatos szakértői vizsgálat folyamatban van.\n\n• **Bírósági felügyelet alá helyezték**: a Roșiori de Vede-i ügyészség október 13-án rendelte el a kényszerintézkedést az őrizetbe vétel után. A nyomozás folytatódik.\n\n• **A PRO TV közleményben reagált**: azt írta, örül annak, hogy senki sem sérült meg, bízik abban, hogy a hatóságok tisztázzák a körülményeket, és nem támogatja az olyan viselkedést, amely veszélyezteti mások biztonságát.\n\n• **Korábban is volt pozitív drogtesztje** egy közúti ellenőrzés során; erről a Digi24 és a HotNews is beszámolt.\n\n• **Korábbi esetekről további részleteket közölt az Adevărul**: a lap szerint 2016-ban kannabiszt találtak Cuzin autójában, és a vizsgálatok THC, illetve MDMA jelenlétét mutatták ki. A lap 2018-as esetekről is ír, köztük arról, hogy rövid időn belül többször találtak tiltott szereket az autójában, illetve a vérében kokain nyomait; ezek sajtóbeszámolóban szereplő állítások.\n\n• **Egy Cancan.ro-beszámoló további korábbi eseteket is állít**: a lap szerint körülbelül tíz éve kábítószert találtak az autójában, és vérvizsgálat is fogyasztást jelzett, de az ügyet közérdek hiányára hivatkozva lezárták. A lap azt is állítja, hogy két hónappal később ismét tiltott szereket találtak az autójában, majd egy folyamatban lévő vizsgálat idején Bukarestben egy pszichoaktív anyagot tartalmazó cigarettával állították meg. A Cancan.ro ezeket az eseteket is beleszámítva azt írja, hogy a mostani a hetedik alkalom, amikor megszegte a törvényt; ezek a részletek a lap állításai.\n\n• **A 2018-as ügyben 2022-ben egy év szabadságvesztésre ítélték**, miután vezetői engedély nélkül, alkohol vagy tiltott szer hatása alatt vezetett. A büntetés alkalmazását két évre elhalasztották; Cuzin akkor tagadta, hogy alkoholt fogyasztott vagy tiltott szer hatása alatt állt volna. A Cancan.ro szerint a döntésnél azt is figyelembe vették, hogy oktatási projektekben vett részt.\n\n• **A kétéves felügyeleti időszak incidens nélkül telt le** – a Digi24 beszámolója szerint Cuzin további eset nélkül teljesítette a felügyeleti időszakot.\n\n• **2023-ban Bukarestben is megállították**: a Cancan.ro beszámolója szerint az ellenőrzéskor azt állapították meg, hogy vezetési jogosultsága fel volt függesztve.\n\n• **A Cancan.ro szerint 2025-ben is közúti ügybe keveredett**: a lap azt írta, hogy Bukarest 1. kerületében kábítószer hatása alatti vezetés miatt intézkedtek vele szemben, és az ezzel kapcsolatos ügy még folyamatban van.",
-    "title_ro": "Toma Cuzin, reținut după un accident și plasat sub control judiciar",
-    "lead_ro": "Actorul Toma Cuzin a fost reținut după accidentul din 12 octombrie 2026, după ce a condus cu dreptul de a conduce suspendat, iar testul DrugTest a ieșit pozitiv. Pe 13 octombrie, procurorii au pus în mișcare acțiunea penală pentru conducerea unui vehicul cu permisul suspendat și au dispus controlul judiciar. În probele biologice au fost depistate urme de cocaină și canabinoizi, iar o expertiză urmează să stabilească dacă acestea i-au afectat capacitatea de a conduce.",
-    "content_ro": "• **La 12 octombrie 2026, în jurul orei 18:45**, actorul, în vârstă de 49 de ani, conducea un BMW pe DN6, în comuna Peretu, județul Teleorman, dinspre Alexandria către Roșiori de Vede, când a intrat în coliziune cu autoturismul din față. Potrivit procurorilor, nu a păstrat distanța de siguranță; accidentul s-a soldat doar cu pagube materiale, fără persoane rănite.\n\n• **Conducea cu dreptul de a conduce suspendat**: verificările în baza de date au arătat că acesta era suspendat din 20 mai 2025, în urma unei infracțiuni rutiere. Parchetul a indicat că fapta anterioară era prevăzută de articolul 336 alineatul (2) din Codul penal român. Testarea pentru alcool a indicat zero.\n\n• **Testul DrugTest a ieșit pozitiv**: Toma Cuzin a fost dus la spital pentru recoltarea probelor biologice. Potrivit Parchetului, în sânge și urină au fost găsite urme de cocaină și canabinoizi; o expertiză medico-legală urmează să stabilească dacă substanțele i-au afectat capacitatea de a conduce.\n\n• **La 13 octombrie a fost reținut pentru 24 de ore**, iar procurorii au pus în mișcare acțiunea penală pentru conducerea unui vehicul cu dreptul de a conduce suspendat. Actorul este, separat, suspectat de conducere sub influența substanțelor psihoactive; expertiza în acest caz este în curs.\n\n• **A fost plasat sub control judiciar**: Parchetul de pe lângă Judecătoria Roșiori de Vede a dispus măsura la 13 octombrie, după reținere. Cercetările continuă.\n\n• **PRO TV a reacționat printr-un comunicat**: postul a transmis că se bucură că nimeni nu a fost rănit, că are încredere că autoritățile vor clarifica circumstanțele și că nu susține comportamentele care pun în pericol siguranța celorlalți.\n\n• **Actorul mai fusese depistat pozitiv la un test antidrog** în timpul unui control rutier, potrivit Digi24 și HotNews.\n\n• **Adevărul a relatat detalii suplimentare despre incidente anterioare**: potrivit publicației, în 2016 au fost găsite substanțe interzise în mașina lui Cuzin, iar analizele ar fi indicat THC și MDMA. Adevărul mai relatează despre incidente din 2018, inclusiv găsirea repetată a unor substanțe interzise în mașină și urme de cocaină în sânge; acestea sunt afirmații prezentate în relatările presei.\n\n• **Cancan.ro susține că au existat și alte incidente anterioare**: potrivit publicației, cu aproximativ zece ani în urmă au fost găsite droguri în mașina actorului, iar analizele de sânge ar fi indicat consumul, însă dosarul a fost clasat din lipsă de interes public. Cancan.ro mai afirmă că, două luni mai târziu, au fost găsite din nou substanțe interzise în mașină și că, în timpul unei anchete aflate în curs, actorul a fost oprit la București cu o țigară care conținea o substanță psihoactivă. Publicația susține că, incluzând aceste cazuri, actualul incident ar fi a șaptea încălcare a legii; aceste detalii sunt afirmațiile publicației.\n\n• **Într-un dosar din 2018, a fost condamnat în 2022 la un an de închisoare**, după ce a condus fără permis și sub influența alcoolului sau a unor substanțe interzise. Aplicarea pedepsei a fost amânată pe un termen de supraveghere de doi ani; la acea vreme, Cuzin a negat că ar fi consumat alcool sau droguri. Potrivit Cancan.ro, instanța ar fi luat în considerare și implicarea sa în proiecte educaționale.\n\n• **Termenul de supraveghere de doi ani s-a încheiat fără incidente**, potrivit Digi24, care a relatat că actorul l-a parcurs fără alte probleme.\n\n• **În 2023 a fost oprit și la București**: potrivit Cancan.ro, verificările au arătat că dreptul său de a conduce era suspendat.\n\n• **Cancan.ro relatează că a fost implicat într-un alt dosar rutier în 2025**: publicația a scris că autoritățile au intervenit în Sectorul 1 al Bucureștiului pentru conducere sub influența drogurilor, iar dosarul este încă pe rol."
   },
   {
     "group_id": "group_78dcfb28f3",
@@ -11732,26 +12159,5 @@
     "title_ro": "O nouă decizie controversată în SUA. Copiii migranți primesc 3.000 de dolari dacă acceptă să plece",
     "lead_ro": "Administrația președintelui Donald Trump oferă 3.000 de dolari copiilor migranți neînsoțiți care acceptă să părăsească voluntar Statele Unite. Suma este cu 500 de dolari mai mare decât stimulentul aco…",
     "content_ro": "Administrația președintelui Donald Trump oferă 3.000 de dolari copiilor migranți neînsoțiți care acceptă să părăsească voluntar Statele Unite. Suma este cu 500 de dolari mai mare decât stimulentul acordat anul trecut, iar măsura vizează minorii de cel puțin 14 ani."
-  },
-  {
-    "group_id": "group_d887339936",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/huiyk6jxeaaikfe-768x1024.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Doi morți și 21 de răniți în urma atacului cu rachete balistice al Rusiei asupra Kievului. Patru persoane sunt în stare gravă",
-        "link": "https://www.mediafax.ro/externe/doi-morti-si-21-de-raniti-in-urma-atacului-cu-rachete-balistice-al-rusiei-asupra-kievului-patru-persoane-sunt-in-stare-grava-23824892"
-      }
-    ],
-    "published_at": 1791934290,
-    "title_hu": "Doi morți și 21 de răniți în urma atacului cu rachete balistice al Rusiei asupra Kievului. Patru persoane sunt în stare gravă",
-    "lead_hu": "Cel puțin două persoane au murit, iar alte 21 au fost rănite în urma atacului cu rachete balistice asupra Kievului. Patru dintre răniți se află în stare gravă, iar președintele ucrainean Volodimir Zel…",
-    "content_hu": "Cel puțin două persoane au murit, iar alte 21 au fost rănite în urma atacului cu rachete balistice asupra Kievului. Patru dintre răniți se află în stare gravă, iar președintele ucrainean Volodimir Zelenski a anunțat că o centrală energetică importantă a fost lovită.",
-    "title_ro": "Doi morți și 21 de răniți în urma atacului cu rachete balistice al Rusiei asupra Kievului. Patru persoane sunt în stare gravă",
-    "lead_ro": "Cel puțin două persoane au murit, iar alte 21 au fost rănite în urma atacului cu rachete balistice asupra Kievului. Patru dintre răniți se află în stare gravă, iar președintele ucrainean Volodimir Zel…",
-    "content_ro": "Cel puțin două persoane au murit, iar alte 21 au fost rănite în urma atacului cu rachete balistice asupra Kievului. Patru dintre răniți se află în stare gravă, iar președintele ucrainean Volodimir Zelenski a anunțat că o centrală energetică importantă a fost lovită."
   }
 ]
