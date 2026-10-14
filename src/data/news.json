@@ -1,5 +1,394 @@
 [
   {
+    "group_id": "group_9d1d5e4694",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Tótth András lemondott, több konfliktus előzte meg távozását",
+        "link": "https://a24.hu/totth-andras-lemondott-tobb-konfliktus-elozte-meg-tavozasat/"
+      }
+    ],
+    "published_at": 1791994469,
+    "title_hu": "Tótth András lemondott, több konfliktus előzte meg távozását",
+    "lead_hu": "2026. október 13-án, kedden este lemondott Tótth András energetikai államtitkár, akinek távozását a Gazdasági és Energetikai Minisztérium személyes okokkal indokolta. A háttérben azonban több, egymáss…",
+    "content_hu": "2026. október 13-án, kedden este lemondott Tótth András energetikai államtitkár, akinek távozását a Gazdasági és Energetikai Minisztérium személyes okokkal indokolta. A háttérben azonban több, egymással párhuzamos feszültség is állhatott, köztük egy Kapitány István miniszterrel folytatott vita és egy debreceni rendezvény körüli politikai ügy. Az energetikai ágazat működésére rálátó források szerint Tótth távozását nem egyetlen esemény […]",
+    "title_ro": "Tótth András lemondott, több konfliktus előzte meg távozását",
+    "lead_ro": "2026. október 13-án, kedden este lemondott Tótth András energetikai államtitkár, akinek távozását a Gazdasági és Energetikai Minisztérium személyes okokkal indokolta. A háttérben azonban több, egymáss…",
+    "content_ro": "2026. október 13-án, kedden este lemondott Tótth András energetikai államtitkár, akinek távozását a Gazdasági és Energetikai Minisztérium személyes okokkal indokolta. A háttérben azonban több, egymással párhuzamos feszültség is állhatott, köztük egy Kapitány István miniszterrel folytatott vita és egy debreceni rendezvény körüli politikai ügy. Az energetikai ágazat működésére rálátó források szerint Tótth távozását nem egyetlen esemény […]"
+  },
+  {
+    "group_id": "group_de13b35a49",
+    "fingerprint": "c7c2183fc717d524caf426a67c332ea1",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 11,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Grindeanu: Mâine avem ședință de Consiliu Politic Național în care decidem ce va face PSD",
+        "link": "https://agerpres.ro/politic/2026/10/13/grindeanu-maine-avem-sedinta-de-consiliu-politic-national-in-care-decidem-ce-va-face-psd--1602669"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Grindeanu anunță că PSD decide miercuri dacă intră în Guvernul Luca Niculescu. Ce spune despre alegerile anticipate",
+        "link": "https://adevarul.ro/politica/grindeanu-anunta-ca-psd-decide-miercuri-daca-intra-2563828.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Grindeanu afirmă că ședința finală a PSD de miercuri va stabili dacă partidul intră la guvernare",
+        "link": "https://www.g4media.ro/grindeanu-afirma-ca-sedinta-finala-a-psd-de-miercuri-va-stabili-daca-partidul-intra-la-guvernare.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Consiliul Naţional al PSD se reuneşte la Vila Lac, pentru a decide dacă intră la guvernare. Grindeanu pune pe masă trei scenarii pentru susținerea Cabinetului Niculescu",
+        "link": "https://adevarul.ro/politica/consiliul-national-al-psd-se-reuneste-la-vila-2563834.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ședință decisivă astăzi la PSD pentru Guvernul Niculescu. Grindeanu: „Eu o să le prezint colegilor trei variante”",
+        "link": "https://hotnews.ro/sedinta-decisiva-astazi-la-psd-pentru-guvernul-niculescu-grindeanu-eu-o-sa-le-prezint-colegilor-trei-variante-2375286"
+      },
+      {
+        "source": "Digi24",
+        "title": "Consiliul Naţional al PSD se reuneşte pentru a decide forma de implicare în guvernul Niculescu. Grindeanu va prezenta trei variante",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/consiliul-national-al-psd-se-reuneste-pentru-a-decide-forma-de-implicare-in-guvernul-niculescu-grindeanu-va-prezenta-trei-variante-3991119"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PSD decide miercuri formula de implicare în Guvernul Luca Niculescu. Sorin Grindeanu pune pe masă trei variante",
+        "link": "https://www.mediafax.ro/politic/psd-decide-miercuri-formula-de-implicare-in-guvernul-luca-niculescu-sorin-grindeanu-pune-pe-masa-trei-variante-23824950"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "PSD decide cum se implică în Guvernul Niculescu. Sorin Grindeanu: „Au luat la mișto acest apel al meu”",
+        "link": "https://stirileprotv.ro/stiri/politic/psd-decide-cum-se-implica-in-guvernul-niculescu-sorin-grindeanu-au-luat-la-misto-acest-apel-al-meu.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Stenograme din ședința PSD: „Dacă ne dați muniție, votez cu trei mâini un astfel de guvern”/ „Eu am un doctorat în Nicușor Dan”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/stenograme-din-sedinta-psd-daca-ne-dati-munitie-votez-cu-trei-maini-un-astfel-de-guvern-eu-am-un-doctorat-in-nicusor-dan-3992473"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Grindeanu anunță decizia PSD: intră în Guvernul Niculescu. „Salvarea economiei trebuie să primeze în fața politicii”",
+        "link": "https://www.mediafax.ro/politic/grindeanu-anunta-decizia-psd-intra-in-guvernul-niculescu-salvarea-economiei-trebuie-sa-primeze-in-fata-politicii-23825468"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Sorin Grindeanu, conferință de presă după ședința PSD: Consiliul Politic a dat undă verde intrării la guvernare",
+        "link": "https://stirileprotv.ro/stiri/politic/sorin-grindeanu-conferinta-de-presa-dupa-sedinta-psd-de-la-vila-lac-ce-au-decis-social-democratii.html"
+      }
+    ],
+    "published_at": 1791994455,
+    "title_hu": "A PSD belép a Niculescu-kormányba, tíz prioritást és 11 miniszteri helyet jelölt meg",
+    "lead_hu": "A PSD szerdán úgy döntött, hogy részt vesz a Luca Niculescu vezette kormányban, és a párt közlése szerint 11 miniszteri helyet kap a politikusokból és technokratákból álló kabinetben. Sorin Grindeanu tíz kormányzati prioritást ismertetett, a párt pedig hat hónap után értékeli, marad-e a kormányban. A PNL és az RMDSZ kormányon kívülről támogatná a kabinetet.",
+    "content_hu": "• **A PSD döntése** – A párt Országos Politikai Tanácsa szerdán jóváhagyta a kormányzati részvételt és a Niculescu-kabinet parlamenti támogatását. A Digi24 és a Mediafax beszámolója szerint a kabinet támogatását egyhangúlag szavazták meg, a PSD-miniszterek delegálásáról szóló döntésnél nyolcan tartózkodtak, köztük Sorin Grindeanu, Marcel Ciolacu és Ciprian Șerban.\n\n• **A kormány összetétele** – A PSD 11 miniszteri helyet kapna egy 17 minisztériumból álló, politikusokat és technokratákat vegyítő kabinetben; a HotNews hat technokrata részvételéről számolt be. A források több PSD-jelölt nevét is közölték: Marian Neacșu belügyminiszter és miniszterelnök-helyettes, Florin Barbu mezőgazdasági, Alexandru Rogobete egészségügyi, Daniel Zamfir gazdasági, Radu Marinescu igazságügyi, Alexandru Stoica fejlesztési, Ștefan Ovidiu Popa közlekedési, Natalia Intotero környezetvédelmi, Mihai Ghigiu európai projektekért felelős és Ștefan Radu Oprea védelmi miniszter lehet. A közölt névsorok nem teljesen egységesek, a 11. PSD-jelöltet és az energiaügyi tárca vezetőjét nem nevezték meg egyértelműen.\n\n• **Hat hónap után felülvizsgálat** – A PSD hat hónap múlva értékeli, hogy a kormányban marad-e.\n\n• **A PSD tíz prioritása** – Grindeanu szerint ezek között szerepel a költségvetési hiány és az elhalasztott tartozások parlamenti ismertetése 2026. november 1-jéig; a 2027-es adók kiszámíthatóságáról szóló memorandum; a kórházak és kritikus szolgáltatások finanszírozását biztosító költségvetési kiigazítás november 1-jéig; a finanszírozási forrásváltással érintett beruházások felmérése; a gazdaságélénkítő terv intézkedéseinek végrehajtása november 15-éig; valamint a 2027-es költségvetés elkészítése december 1-jéig. A további követelések között szerepel a téli energia- és fűtésellátás bemutatása, a nyugdíjak – köztük a katonai és minimálnyugdíjak – indexálása, a CASS eltörlése az anyák, veteránok és fogyatékossággal élők számára, továbbá a közigazgatási reform: az 1500 fő alatti települések önkéntes összevonása és a közszolgáltatások összevonása.\n\n• **Grindeanu gazdasági figyelmeztetései** – A PSD-elnök a politikai válság elhúzódását a gazdaságra nézve veszélyesnek nevezte. Állítása szerint az ügyvezető Bolojan-kormány fenntartása legalább 60 milliárd lej, a GDP mintegy 3 százalékának megfelelő többletterhet jelenthet; Grindeanu további kockázatok között említette a beruházások elhalasztását és mintegy 50 ezer új munkanélkülit. Ezek a PSD vezetőjének becslései, nem függetlenül igazolt előrejelzések.\n\n• **A döntés előzményei** – Grindeanu korábban három lehetőséget vázolt: a kormányzás és a kabinet támogatásának elutasítását, egy technokrata kormány támogatását, illetve politikai kormány alakítását. A technokrata megoldást gyengének és sérülékenynek nevezte; a harmadik lehetőségként többpárti, átlátható többséget szorgalmazott.\n\n• **A pártülés figyelmeztetései** – A Digi24 által közölt, sajtóhoz eljutott jegyzőkönyvrészletek szerint Grindeanu nehéz hat hónapra, kemény munkára és gyors eredményekre figyelmeztette a leendő minisztereket. Claudiu Manda a közigazgatási reformot sürgette, Gabriel Zetea pedig a kiváltságok elleni fellépést és az eredményeket hangsúlyozta. A közlések a sajtó által megszerzett jegyzőkönyveken alapulnak.\n\n• **Pénzügyi helyzet** – Grindeanu azt kérte, hogy a miniszterelnök-jelölt két héten belül ismertesse a parlamentben Románia aktuális pénzügyi helyzetét. A később közzétett prioritások ezt pontosították: a hiány és az elhalasztott tartozások bemutatását a 2027-es költségvetés nyilvános ismertetése előtt, november 1-jéig várják.\n\n• **PNL és RMDSZ** – A PNL megszavazná a Niculescu-kormány beiktatását, de nem lép be a kabinetbe, és ellenzékben marad. Ilie Bolojan szerint a liberálisok kétoldalú megállapodást mérlegelnek a miniszterelnök-jelölttel; a feltételek teljesülése esetén hat hónapig nem kezdeményeznének és nem támogatnának bizalmatlansági indítványt. Az RMDSZ szintén támogatná a kormányt és programját, de nem delegál minisztereket; a szervezet is kész támogatási megállapodásra.\n\n• **Parlamenti menetrend** – Niculescunak csütörtökön, október 15-én kell benyújtania a kormányprogramot és a miniszterjelöltek névsorát. A meghallgatások és a beiktatási szavazás időpontja még nem volt végleges: egyes beszámolók október 16-át, mások a következő hetet említették.\n\n• **Előrehozott választás** – Grindeanu kedvezőtlennek nevezte az előrehozott választást, mert szerinte legkorábban februárban tarthatnák meg, költségvetés és költségvetési kiigazítás nélkül, addig pedig ügyvezető kormány irányítana. Alkotmányos lehetőségnek nevezte, és azt mondta, a PSD szervezeti előkészületeket tett, de nem látott hivatalos elnöki közleményt a parlament feloszlatásáról.",
+    "title_ro": "PSD intră în Guvernul Niculescu și prezintă zece priorități",
+    "lead_ro": "PSD a decis miercuri să participe la Guvernul condus de Luca Niculescu și ar urma să primească 11 portofolii într-un cabinet mixt, cu politicieni și tehnocrați. Sorin Grindeanu a prezentat zece priorități ale partidului, iar PSD va evalua după șase luni dacă rămâne la guvernare. PNL și UDMR ar urma să susțină Guvernul din afara Executivului.",
+    "content_ro": "• **Decizia PSD** – Consiliul Politic Național a aprobat miercuri intrarea partidului la guvernare și susținerea în Parlament a Cabinetului Niculescu. Potrivit Digi24 și Mediafax, susținerea Guvernului a fost votată în unanimitate, iar decizia privind propunerea de miniștri PSD a înregistrat opt abțineri, inclusiv Sorin Grindeanu, Marcel Ciolacu și Ciprian Șerban.\n\n• **Componența Guvernului** – PSD ar urma să aibă 11 portofolii într-un cabinet cu 17 ministere, format din politicieni și tehnocrați; HotNews a relatat că șase membri ai Guvernului vor fi tehnocrați. Printre candidații PSD menționați de surse se numără Marian Neacșu la Interne și ca vicepremier, Florin Barbu la Agricultură, Alexandru Rogobete la Sănătate, Daniel Zamfir la Economie, Radu Marinescu la Justiție, Alexandru Stoica la Dezvoltare, Ștefan Ovidiu Popa la Transporturi, Natalia Intotero la Mediu, Mihai Ghigiu la Proiecte Europene și Ștefan Radu Oprea la Apărare. Listele publicate nu sunt pe deplin concordante; al 11-lea candidat PSD și titularul portofoliului Energie nu au fost identificați clar.\n\n• **Evaluare după șase luni** – PSD va analiza peste șase luni dacă rămâne sau nu la guvernare.\n\n• **Cele zece priorități ale PSD** – Grindeanu a enumerat prezentarea în Parlament, până la 1 noiembrie 2026, a deficitului bugetar real și a datoriilor amânate; un memorandum privind predictibilitatea fiscală pentru 2027; rectificarea bugetară necesară spitalelor și serviciilor critice până la 1 noiembrie; inventarierea proiectelor care trec la finanțare națională; operaționalizarea măsurilor de relansare economică până la 15 noiembrie; și elaborarea bugetului pe 2027 până la 1 decembrie. Celelalte cereri vizează măsurile pentru energia și încălzirea pe timp de iarnă, indexarea pensiilor — inclusiv a celor militare și a pensiei minime —, eliminarea CASS pentru mame, veterani și persoanele cu dizabilități, precum și reforma administrativă, inclusiv comasarea voluntară a localităților cu până la 1.500 de locuitori și a serviciilor publice.\n\n• **Avertismentele economice ale lui Grindeanu** – Liderul PSD a descris prelungirea crizei politice drept un risc pentru economie. El a susținut că menținerea Guvernului interimar Bolojan ar putea genera un impact bugetar suplimentar de cel puțin 60 de miliarde de lei, aproximativ 3% din PIB, și a invocat riscul amânării investițiilor și apariția a circa 50.000 de șomeri în plus. Aceste cifre sunt estimările prezentate de liderul PSD, nu prognoze verificate independent.\n\n• **Variantele discutate înaintea deciziei** – Grindeanu prezentase trei opțiuni: PSD să nu participe și să nu susțină Guvernul, să sprijine un cabinet tehnocrat sau să intre într-un Guvern politic. El a descris varianta tehnocrată drept slabă și vulnerabilă și a pledat pentru o majoritate transparentă, formată din mai multe partide.\n\n• **Avertismente în ședința partidului** – Potrivit unor stenograme obținute și publicate de Digi24, Grindeanu le-a spus viitorilor miniștri că următoarele șase luni vor fi dificile și că va cere rezultate rapide. Claudiu Manda a insistat asupra reformei administrative, iar Gabriel Zetea a cerut combaterea privilegiilor și obținerea unor rezultate concrete. Relatările se bazează pe stenograme obținute de presă.\n\n• **Situația financiară** – Grindeanu i-a cerut premierului desemnat să prezinte în Parlament, în termen de două săptămâni, situația financiară actuală a României. Prioritățile anunțate ulterior precizează că datele privind deficitul și datoriile amânate ar trebui prezentate până la 1 noiembrie, înainte de publicarea bugetului pe 2027.\n\n• **PNL și UDMR** – PNL va vota învestirea Guvernului Niculescu, dar nu va intra în Executiv și va rămâne în opoziție. Ilie Bolojan a anunțat că liberalii iau în calcul un acord bilateral cu premierul desemnat; dacă angajamentele sunt respectate, PNL nu ar iniția și nu ar susține o moțiune de cenzură timp de șase luni. UDMR va susține Guvernul și programul său, dar nu va propune miniștri; formațiunea este, de asemenea, pregătită să semneze un acord de susținere.\n\n• **Calendar parlamentar** – Niculescu urmează să depună joi, 15 octombrie, programul de guvernare și lista miniștrilor. Data audierilor și a votului de învestitură nu era stabilită definitiv: unele relatări indicau 16 octombrie, iar altele săptămâna următoare.\n\n• **Alegeri anticipate** – Grindeanu a spus că anticipatele ar fi nefavorabile, deoarece ar putea avea loc cel mai devreme în februarie, fără buget și rectificare bugetară, în timp ce țara ar fi condusă de un guvern interimar. El a numit scenariul constituțional și a spus că PSD face pregătiri organizatorice, dar că nu a văzut un comunicat oficial al Președinției privind dizolvarea Parlamentului."
+  },
+  {
+    "group_id": "group_084c0e782b",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/06/8024363-mediafax_group-alexandra_pandrea_gmn-1024x690.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Ștefan-Radu Oprea, despre contractul cu Rheinmetall: „Voi fi foarte transparent”",
+        "link": "https://www.mediafax.ro/politic/stefan-radu-oprea-despre-contractul-cu-rheinmetall-voi-fi-foarte-transparent-23825467"
+      }
+    ],
+    "published_at": 1791994335,
+    "title_hu": "Ștefan-Radu Oprea, despre contractul cu Rheinmetall: „Voi fi foarte transparent”",
+    "lead_hu": "Ștefan-Radu Oprea, propus pentru funcția de ministru al Apărării, promite transparență în privința contractului României cu Rheinmetall.",
+    "content_hu": "Ștefan-Radu Oprea, propus pentru funcția de ministru al Apărării, promite transparență în privința contractului României cu Rheinmetall.",
+    "title_ro": "Ștefan-Radu Oprea, despre contractul cu Rheinmetall: „Voi fi foarte transparent”",
+    "lead_ro": "Ștefan-Radu Oprea, propus pentru funcția de ministru al Apărării, promite transparență în privința contractului României cu Rheinmetall.",
+    "content_ro": "Ștefan-Radu Oprea, propus pentru funcția de ministru al Apărării, promite transparență în privința contractului României cu Rheinmetall."
+  },
+  {
+    "group_id": "group_0514c5048c",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/06/Natalia-Intotero-e1782155335336.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Natalia Intotero, propusă de PSD ministru al Mediului, are în ultima declarație de avere o mașină Porsche Panamera și o motocicletă Harley Davidson, modele foarte poluante / Afaceri cu statul în familie / Zero legături cu politicile de mediu",
+        "link": "https://www.g4media.ro/natalia-intotero-propusa-de-psd-ministru-al-mediului-are-in-ultima-declaratie-de-avere-o-masina-porsche-panamera-si-o-motocicleta-harley-davidson-modele-foarte-poluante-afaceri-cu-statul-in-famil.html"
+      }
+    ],
+    "published_at": 1791994310,
+    "title_hu": "Natalia Intotero, propusă de PSD ministru al Mediului, are în ultima declarație de avere o mașină Porsche Panamera și o motocicletă Harley Davidson, modele foarte poluante / Afaceri cu statul în familie / Zero legături cu politicile de mediu",
+    "lead_hu": "Natalia Intotero este vehiculată în PSD ca ministru al Mediului în guvernul Luca Niculescu. Intotero, care a terminat la 30 de ani o facultate a Universității București, e de meserie învățătoare/profe…",
+    "content_hu": "Natalia Intotero este vehiculată în PSD ca ministru al Mediului în guvernul Luca Niculescu. Intotero, care a terminat la 30 de ani o facultate a Universității București, e de meserie învățătoare/profesoară de limba română și nu are nici o legătură cu politicile de mediu, după cum arată cv-ul său oficial. Ea a mai fost de […] © G4Media.ro.",
+    "title_ro": "Natalia Intotero, propusă de PSD ministru al Mediului, are în ultima declarație de avere o mașină Porsche Panamera și o motocicletă Harley Davidson, modele foarte poluante / Afaceri cu statul în familie / Zero legături cu politicile de mediu",
+    "lead_ro": "Natalia Intotero este vehiculată în PSD ca ministru al Mediului în guvernul Luca Niculescu. Intotero, care a terminat la 30 de ani o facultate a Universității București, e de meserie învățătoare/profe…",
+    "content_ro": "Natalia Intotero este vehiculată în PSD ca ministru al Mediului în guvernul Luca Niculescu. Intotero, care a terminat la 30 de ani o facultate a Universității București, e de meserie învățătoare/profesoară de limba română și nu are nici o legătură cu politicile de mediu, după cum arată cv-ul său oficial. Ea a mai fost de […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_069054f80a",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMiUyRjA5JTJGMjQ4NTE1NV8yNDg1/MTU1X0lENTM4OTdfSU5RVUFNX1Bob3Rv/c19PY3Rhdl9HYW5lYS1jaW9jYW5lbC1z/YWxhLWRlLWp1ZGVjYXRhLTEtc2NhbGVk/LTEucG5nJmhhc2g9MmRlZmM0NDI0ZWM3MjRiNTc5ZjAxYmExYWJhNTEyMTI=.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ce condamnare a primit bărbatul din Prahova care, acum un an, şi-a bătut apoi și-a ucis amanta, trecând cu maşina peste ea",
+        "link": "https://www.digi24.ro/stiri/ce-condamnare-a-primit-barbatul-din-prahova-care-acum-un-an-si-a-batut-apoi-si-a-ucis-amanta-trecand-cu-masina-peste-ea-3992511"
+      }
+    ],
+    "published_at": 1791994298,
+    "title_hu": "Ce condamnare a primit bărbatul din Prahova care, acum un an, şi-a bătut apoi și-a ucis amanta, trecând cu maşina peste ea",
+    "lead_hu": "Bărbatul acuzat de uciderea amantei sale, după ce a bătut-o pe femeie în localitatea prahoveană Baba Ana, iar apoi a trecut cu maşina peste corpul acesteia, a fost condamnat, miercuri, la închisoare p…",
+    "content_hu": "Bărbatul acuzat de uciderea amantei sale, după ce a bătut-o pe femeie în localitatea prahoveană Baba Ana, iar apoi a trecut cu maşina peste corpul acesteia, a fost condamnat, miercuri, la închisoare pe viaţă, decizia nefiind definitivă.",
+    "title_ro": "Ce condamnare a primit bărbatul din Prahova care, acum un an, şi-a bătut apoi și-a ucis amanta, trecând cu maşina peste ea",
+    "lead_ro": "Bărbatul acuzat de uciderea amantei sale, după ce a bătut-o pe femeie în localitatea prahoveană Baba Ana, iar apoi a trecut cu maşina peste corpul acesteia, a fost condamnat, miercuri, la închisoare p…",
+    "content_ro": "Bărbatul acuzat de uciderea amantei sale, după ce a bătut-o pe femeie în localitatea prahoveană Baba Ana, iar apoi a trecut cu maşina peste corpul acesteia, a fost condamnat, miercuri, la închisoare pe viaţă, decizia nefiind definitivă."
+  },
+  {
+    "group_id": "group_746ea01c03",
+    "fingerprint": "3336504aa953bdaceb9d19e9996b6cb9",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Ședința decisivă a PSD pentru intrarea la guvernare a început la Vila Lac. Se conturează cel mai puternic Guvern PSD de la era Dragnea",
+        "link": "https://www.mediafax.ro/politic/sedinta-decisiva-a-psd-pentru-intrarea-la-guvernare-a-inceput-la-vila-lac-se-contureaza-cel-mai-puternic-guvern-psd-de-la-era-dragnea-23824950"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "PSD a decis să intre la guvernare. Conducerea partidului a stabilit și lista de miniștri în Guvernul Luca Niculescu",
+        "link": "https://hotnews.ro/psd-a-decis-sa-intre-la-guvernare-conducerea-partidului-a-stabilit-si-lista-de-ministri-2376053"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cum va arăta guvernul Luca Niculescu. Împărțirea ministerelor între PSD și premierul desemnat",
+        "link": "https://stirileprotv.ro/stiri/politic/cum-va-arata-guvernul-luca-niculescu-impartirea-ministerelor-intre-psd-si-premierul-desemnat.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A PSD a kormányzati szerepvállalás mellett döntött, már a minisztereket is megszavazták",
+        "link": "https://transtelex.ro/kozelet/2026/10/14/a-psd-vezetosege-a-kormanyzati-szerepvallalas-mellett-dontott"
+      },
+      {
+        "source": "Mediafax",
+        "title": "STENOGRAME din ședința PSD. Firea: „Am un doctorat în Nicușor Dan”. Grindeanu amenință miniștrii cu „roșu direct”, Manda cere reformă administrativă",
+        "link": "https://www.mediafax.ro/politic/stenograme-din-sedinta-psd-firea-am-un-doctorat-in-nicusor-dan-grindeanu-ameninta-ministrii-cu-rosu-direct-manda-cere-reforma-administrativa-23825437"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cine este Ștefan-Ovidiu Popa, propunerea PSD pentru Ministerul Transporturilor în Guvernul Niculescu și cu ce s-a ocupat înainte de a deveni deputat",
+        "link": "https://www.g4media.ro/cine-este-stefan-ovidiu-popa-propunerea-psd-pentru-ministerul-transporturilor-in-guvernul-niculescu-si-cu-ce-s-a-ocupat-inainte-de-a-deveni-deputat.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "BREAKING | VIDEO | PSD intră oficial în Guvernul Niculescu. Zece priorități: fără creșteri de taxe pentru mediul de afaceri în 2027",
+        "link": "https://economedia.ro/breaking-psd-intra-oficial-in-guvernul-niculescu-zece-conditii-fara-taxe-noi-pentru-mediul-de-afaceri.html"
+      }
+    ],
+    "published_at": 1791994274,
+    "title_hu": "A PSD 11 miniszterrel lép be a Niculescu-kormányba",
+    "lead_hu": "A PSD vezetősége október 14-én a kormányzati részvétel mellett döntött, és jóváhagyta 11 miniszterjelöltjét a tervezett 17 tárcára; a részvételről szóló szavazáson nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök. A párt tíz kormányzati prioritást jelentett be, köztük azt, hogy 2027-ben ne emelkedjenek a vállalkozásokat terhelő adók. Luca Niculescu október 15-én nyújtja be a programot és a névsort; a parlamenti szavazás időpontjáról eltérő értesülések jelentek meg, a frissebb beszámolók október 19–20-át valószínűsítik.",
+    "content_hu": "• **Október 14-én a PSD vezetősége megszavazta a kormányzati részvételt.** A Niculescu-kormány parlamenti támogatását egyhangúlag fogadták el, a miniszteri részvételről szóló döntésnél nyolcan tartózkodtak, köztük Grindeanu. A pártelnök később hivatalosan is bejelentette a döntést.\n\n• **A PSD 11 jelöltet hagyott jóvá a tervezett 17 tárcára.** Marian Neacșu a belügyminiszteri és miniszterelnök-helyettesi, Ștefan Radu Oprea a védelmi, Florin Barbu a mezőgazdasági, Alexandru Rogobete az egészségügyi, Radu Marinescu az igazságügyi, Petre-Florin Manole a munkaügyi, Daniel Zamfir a gazdasági, Alexandru Stoica a fejlesztési, Ștefan Ovidiu Popa a közlekedési, Natalia Intotero a környezetvédelmi, Mihai Ghigiu pedig az uniós alapokért felelős tárca élére kerülhet.\n\n• **A fennmaradó hat tárcára független vagy technokrata jelölteket emlegetnek.** A sajtóértesülések szerint Alexandru Nazare maradhat a pénzügyminiszter, Sorin Costreie az oktatási, Dan Neculăescu a külügyi, Ioana Ciocan a kulturális, Bogdan Dumitru pedig a kommunikációért és mesterséges intelligenciáért felelős tárca élére kerülhet; az energiaügyi jelölt nem végleges. A nevek és a tárcák a hivatalos névsor benyújtásáig változhatnak.\n\n• **A PSD tíz kormányzati prioritást jelentett be.** Grindeanu közlése szerint ezek között szerepel, hogy 2027-ben ne emelkedjenek a vállalkozásokat terhelő adók. A párt emellett egyes juttatások indexálását és a CASS-fizetési kötelezettség eltörlését kéri több csoport, köztük az anyák és a veteránok esetében; a teljes lista, a pontos érintetti kör és a költségvetési hatás nem ismert.\n\n• **A PSD hat hónap után értékeli a kormány munkáját.** Grindeanu a leendő miniszterektől gyors eredményeket, intenzív munkát és hatékony kommunikációt vár, és figyelmeztetett: gyenge teljesítmény esetén nem enyhe figyelmeztetésre, hanem politikai következményekre számíthatnak. Szerinte az AUR támogatottságát jó kormányzással lehet visszaszorítani, nem hangos bírálatokkal.\n\n• **A PSD 11 tárcával a minisztériumok 64,7 százalékát kapná.** Ez meghaladná a párt 2024-es, 21,96 százalékos képviselőházi eredményét; 2016-ban a PSD 45,47 százalékot szerzett. Az összevetés nem teljesen pontos, mert a korábbi kormányok összetétele és a tisztségek számítása eltért. A sajtó a leendő kabinetet a PSD által leginkább dominált kormányok egyikeként jellemzi a 2017–2019-es időszak óta.\n\n• **A PNL és az RMDSZ parlamenten kívülről támogatná a kabinetet.** Ilie Bolojan szerint a PNL ellenzékben marad, de feltételekhez kötött megállapodást kötne Niculescuval; a vállalás szerint hat hónapig nem kezdeményeznek vagy támogatnak bizalmatlansági indítványt, amíg a kormány betartja a megállapodás elveit és céljait. Kelemen Hunor bejelentette, hogy az RMDSZ a kormányt és programját a kabinet összetételétől függetlenül megszavazza.\n\n• **Az USR nem szavaz meg PSD-minisztereket tartalmazó kormányt, az AUR pedig elutasítja a kabinet támogatását.** Az USR a parlamenti többség tisztázását is feltételül szabta; a nemzeti kisebbségek frakciója korábban támogatást ígért. A PNL parlamenti frakciói támogató álláspontot fogadtak el, de a párt országos vezetőségének végleges döntése még hátravan.\n\n• **A kormány beiktatásához 233 szavazat szükséges.** A PNL-nek és az RMDSZ-nek együtt 111 képviselője van, az USR-rel együtt 170; a PSD 127 képviselővel rendelkezik. A PSD részvétele, valamint a PNL és az RMDSZ támogatása javítja a kabinet esélyeit, de a parlamenti szavazás még hátravan.\n\n• **Nicușor Dan előrehozott választást helyezhet kilátásba, ha nem születik megállapodás.** Sajtóértesülések szerint azt üzente a pártvezetőknek, hogy ha csütörtökig nem jutnak átlátható egyezségre a kormány támogatásáról, pénteken bejelentheti a parlament feloszlatását. Grindeanu az előrehozott választást alkotmányos, de nem kívánatos lehetőségnek nevezte, és azt mondta, a PSD erre is készül.\n\n• **Niculescu október 15-én nyújtja be a kormányprogramot és a miniszterjelöltek listáját.** A meghallgatások és a bizalmi szavazás időpontjáról eltérő előrejelzések jelentek meg: egyes értesülések október 16-át, a frissebb beszámolók inkább október 19–20-át valószínűsítik. A kormány beiktatása még nem történt meg.\n\n• **A közlekedési tárca várományosáról szakmai tapasztalattal kapcsolatos kérdések is megjelentek.** A G4Media szerint Ștefan-Ovidiu Popa önéletrajza nem mutat jelentős közlekedési vagy infrastruktúra-ágazati tapasztalatot; képviselővé válása előtt egy pénzügyi szolgáltatásokat nyújtó kölcsönös segélypénztárt vezetett.",
+    "title_ro": "PSD intră în Guvernul Niculescu cu 11 miniștri",
+    "lead_ro": "Conducerea PSD a decis, pe 14 octombrie, intrarea la guvernare și a validat 11 propuneri pentru cele 17 portofolii; opt participanți s-au abținut de la votul privind participarea, printre ei fiind și președintele partidului, Sorin Grindeanu. Partidul a anunțat zece priorități, inclusiv menținerea taxelor pentru mediul de afaceri la nivelul actual în 2027. Luca Niculescu urmează să depună programul și lista miniștrilor pe 15 octombrie, iar sursele indică date diferite pentru votul parlamentar, cele mai recente estimând 19–20 octombrie.",
+    "content_ro": "• **La 14 octombrie, conducerea PSD a votat intrarea la guvernare.** Susținerea parlamentară a Guvernului Niculescu a fost aprobată în unanimitate, iar la votul privind participarea cu miniștri au fost opt abțineri, inclusiv cea a lui Sorin Grindeanu. Președintele PSD a anunțat ulterior oficial decizia.\n\n• **PSD a validat 11 propuneri pentru cele 17 portofolii.** Marian Neacșu este propus pentru Interne și funcția de vicepremier, Ștefan Radu Oprea pentru Apărare, Florin Barbu pentru Agricultură, Alexandru Rogobete pentru Sănătate, Radu Marinescu pentru Justiție, Petre-Florin Manole pentru Muncă, Daniel Zamfir pentru Economie, Alexandru Stoica pentru Dezvoltare, Ștefan Ovidiu Popa pentru Transporturi, Natalia Intotero pentru Mediu, iar Mihai Ghigiu pentru Investiții și Proiecte Europene.\n\n• **Celelalte șase portofolii ar urma să revină unor independenți sau tehnocrați.** Presa îi menționează pe Alexandru Nazare la Finanțe, Sorin Costreie la Educație, Dan Neculăescu la Externe, Ioana Ciocan la Cultură și Bogdan Dumitru la Comunicații și Inteligență Artificială; numele pentru Energie nu este stabilit. Lista și repartizarea portofoliilor se pot modifica până la depunerea componenței oficiale.\n\n• **PSD a anunțat zece priorități pentru guvernare.** Grindeanu a spus că printre acestea se numără menținerea taxelor pentru mediul de afaceri la nivelul actual în 2027. Partidul mai solicită indexarea unor beneficii și eliminarea obligației de plată a CASS pentru mai multe categorii, între care mamele și veteranii; lista completă, categoriile vizate și impactul bugetar nu sunt cunoscute.\n\n• **PSD va evalua activitatea Guvernului după șase luni.** Grindeanu le cere viitorilor miniștri rezultate rapide, muncă intensă și comunicare eficientă și a avertizat că performanța slabă va atrage sancțiuni politice. În opinia sa, PSD poate reduce sprijinul pentru AUR printr-o guvernare bună, nu prin declarații zgomotoase.\n\n• **Cu 11 portofolii, PSD ar deține 64,7% dintre ministere.** Ponderea ar depăși rezultatul partidului de 21,96% la alegerile pentru Camera Deputaților din 2024; în 2016, PSD obținuse 45,47%. Comparația nu este perfectă, deoarece structura guvernelor anterioare și modul de numărare a funcțiilor au fost diferite. Presa descrie formula ca una dintre cele mai dominate de PSD de după perioada 2017–2019.\n\n• **PNL și UDMR ar susține Guvernul din Parlament, fără să participe cu miniștri.** Ilie Bolojan a spus că PNL rămâne în opoziție, dar este dispus să încheie un acord condiționat cu Niculescu; liberalii nu ar iniția și nu ar vota moțiuni de cenzură timp de șase luni, atât timp cât Guvernul respectă principiile și obiectivele convenite. Kelemen Hunor a anunțat că UDMR va vota Guvernul și programul indiferent de componența cabinetului.\n\n• **USR refuză să voteze un Guvern cu miniștri PSD, iar AUR respinge susținerea cabinetului.** USR a cerut și clarificarea majorității parlamentare; grupul minorităților naționale anunțase anterior că va susține învestirea. Grupurile parlamentare ale PNL au adoptat o poziție favorabilă, însă decizia finală a conducerii naționale a partidului rămâne în așteptare.\n\n• **Pentru învestirea Guvernului sunt necesare 233 de voturi.** PNL și UDMR au împreună 111 deputați, iar alături de USR ajung la 170; PSD are 127 de deputați. Participarea PSD și sprijinul PNL și UDMR sporesc șansele cabinetului, dar votul parlamentar nu a avut încă loc.\n\n• **Nicușor Dan ar putea invoca alegeri anticipate dacă nu se ajunge la un acord.** Potrivit relatărilor din presă, le-ar fi transmis liderilor de partid că, în lipsa unei înțelegeri transparente până joi privind susținerea Guvernului, ar putea anunța vineri dizolvarea Parlamentului. Grindeanu a numit anticipate un scenariu constituțional, dar nedorit, și a spus că PSD se pregătește și pentru această variantă.\n\n• **Niculescu depune programul și lista miniștrilor pe 15 octombrie.** Relatările indică date diferite pentru audieri și votul de învestitură: unele surse au menționat 16 octombrie, iar cele mai recente estimează mai degrabă 19–20 octombrie. Guvernul nu a fost încă învestit.\n\n• **Au apărut întrebări privind experiența profesională a propunerii pentru Transporturi.** Potrivit G4Media, CV-ul lui Ștefan-Ovidiu Popa nu indică experiență notabilă în transporturi sau infrastructură; înainte de a deveni deputat, acesta a condus o casă de ajutor reciproc care furnizează servicii financiare."
+  },
+  {
+    "group_id": "group_1470a72793",
+    "fingerprint": "bb9cc63f71c3d8e620e61a22c53ad9aa",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/13/155336/vas-atacat-marea-neagra-afp-000-d34n2g3.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C575%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Marea Neagră devine tot mai periculoasă pentru marinari. Mulți cer să fie duși la mal: „Ne este frică pentru viața noastră”",
+        "link": "https://stirileprotv.ro/stiri/international/marea-neagra-devine-tot-mai-periculoasa-pentru-marinari-multi-cer-sa-fie-dusi-la-mal-ne-este-frica-pentru-viata-noastra.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Avertismentul șefului diplomației germane: Marea Neagră devine din ce în ce mai mult un teatru de război. „Nu trebuie să permitem”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/avertismentul-sefului-diplomatiei-germane-marea-neagra-devine-din-ce-in-ce-mai-mult-un-teatru-de-razboi-nu-trebuie-sa-permitem-3992505"
+      }
+    ],
+    "published_at": 1791994128,
+    "title_hu": "Dróntámadások értek két kereskedelmi hajót a bolgár partok közelében",
+    "lead_hu": "Két kereskedelmi hajót ért dróntámadás a Fekete-tenger bolgár gazdasági övezetében. A német külügyminiszter a támadások után arra figyelmeztetett, hogy a térség egyre inkább háborús hadszíntérré válik.",
+    "content_hu": "• **A hétfőről keddre virradó éjjel** két kereskedelmi hajót ért dróntámadás a bolgár partok közelében, a Fekete-tenger bolgár gazdasági övezetében.\n\n• **A Chelsea 3 legénységének 15 tagját kimentették**, közülük öten megsérültek. Az ukrán hajó Törökországból Moldova felé tartott, amikor a bolgár parttól mintegy 33 kilométerre találat érte.\n\n• **A HS Dignity elsüllyedt Krapets közelében.** A hajó Brăilába tartott; a beszámoló szerint öt fős legénységét biztonságban megtalálták, további 11 embert kerestek.\n\n• **Johann Wadephul német külügyminiszter** a támadások után a Fekete-tengert egyre inkább háborús hadszíntérnek nevezte, és felszólította Moszkvát, hogy fogadjon el a szállításokra – különösen a gabonaszállítmányokra – kiterjedő tűzszünetet.",
+    "title_ro": "Dronele au lovit două nave comerciale în apropierea coastelor Bulgariei",
+    "lead_ro": "Două nave comerciale au fost lovite de drone în zona economică exclusivă a Bulgariei din Marea Neagră. După atacuri, ministrul german de Externe a avertizat că regiunea devine tot mai mult un teatru de război.",
+    "content_ro": "• **În noaptea de luni spre marți**, două nave comerciale au fost lovite de drone în apropierea coastelor Bulgariei, în zona economică exclusivă bulgară din Marea Neagră.\n\n• **Cei 15 membri ai echipajului navei Chelsea 3 au fost salvați**, iar cinci dintre ei au fost răniți. Nava ucraineană se deplasa din Turcia spre Republica Moldova și se afla la aproximativ 33 de kilometri de țărmul Bulgariei când a fost lovită.\n\n• **Nava HS Dignity s-a scufundat lângă Krapets.** Aceasta urma să ajungă la Brăila; potrivit relatării, cinci membri ai echipajului au fost găsiți în siguranță, iar alți 11 erau căutați.\n\n• **Johann Wadephul, ministrul german de Externe**, a descris Marea Neagră drept o zonă tot mai mult transformată într-un teatru de război și a cerut Moscovei să accepte un armistițiu care să includă transporturile, în special livrările de cereale."
+  },
+  {
+    "group_id": "group_ec9ec44502",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/48b7efc6-0628-4e84-86e9-cde997f8ba8c.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "„Băga-mi-aș!” » Victor Angelescu a dezvăluit prin ce stări a trecut la victoria dramatică a Rapidului cu U Cluj",
+        "link": "https://www.gsp.ro/fotbal/liga-1/victor-angelescu-trairi-rapid-u-cluj-988095.html"
+      }
+    ],
+    "published_at": 1791994006,
+    "title_hu": "„Băga-mi-aș!” » Victor Angelescu a dezvăluit prin ce stări a trecut la victoria dramatică a Rapidului cu U Cluj",
+    "lead_hu": "Victor Angelescu, președintele Rapidului, a povestit cum a trăit finalul spectaculos al meciului câștigat de giuleșteni pe terenul Universității Cluj, scor 4-3, în etapa a 11-a din Superliga. Oficialu…",
+    "content_hu": "Victor Angelescu, președintele Rapidului, a povestit cum a trăit finalul spectaculos al meciului câștigat de giuleșteni pe terenul Universității Cluj, scor 4-3, în etapa a 11-a din Superliga. Oficialul alb-vișiniilor a recunoscut că golul victoriei, marcat de Răzvan Onea în minutul 88, i-a provocat o bucurie amestecată cu nervi și frustrare. Rapid a fost protagonista unui meci spectaculos la Cluj. ...",
+    "title_ro": "„Băga-mi-aș!” » Victor Angelescu a dezvăluit prin ce stări a trecut la victoria dramatică a Rapidului cu U Cluj",
+    "lead_ro": "Victor Angelescu, președintele Rapidului, a povestit cum a trăit finalul spectaculos al meciului câștigat de giuleșteni pe terenul Universității Cluj, scor 4-3, în etapa a 11-a din Superliga. Oficialu…",
+    "content_ro": "Victor Angelescu, președintele Rapidului, a povestit cum a trăit finalul spectaculos al meciului câștigat de giuleșteni pe terenul Universității Cluj, scor 4-3, în etapa a 11-a din Superliga. Oficialul alb-vișiniilor a recunoscut că golul victoriei, marcat de Răzvan Onea în minutul 88, i-a provocat o bucurie amestecată cu nervi și frustrare. Rapid a fost protagonista unui meci spectaculos la Cluj. ..."
+  },
+  {
+    "group_id": "group_e95117f386",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-14-at-19-01-02-1024x684.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Liderii conservatorilor europeni susțin, de la Bruxelles, alegerile anticipate în România",
+        "link": "https://www.mediafax.ro/politic/liderii-conservatorilor-europeni-sustin-de-la-bruxelles-alegerile-anticipate-in-romania-23825458"
+      }
+    ],
+    "published_at": 1791993937,
+    "title_hu": "Liderii conservatorilor europeni susțin, de la Bruxelles, alegerile anticipate în România",
+    "lead_hu": "Alegerile anticipate reprezintă o soluție democratică pentru depășirea blocajului politic din România, au susținut mai mulți reprezentanți ai Grupului Conservatorilor și Reformiștilor Europeni (ECR), …",
+    "content_hu": "Alegerile anticipate reprezintă o soluție democratică pentru depășirea blocajului politic din România, au susținut mai mulți reprezentanți ai Grupului Conservatorilor și Reformiștilor Europeni (ECR), în cadrul unei dezbateri organizate astăzi în Parlamentul European, la Bruxelles.",
+    "title_ro": "Liderii conservatorilor europeni susțin, de la Bruxelles, alegerile anticipate în România",
+    "lead_ro": "Alegerile anticipate reprezintă o soluție democratică pentru depășirea blocajului politic din România, au susținut mai mulți reprezentanți ai Grupului Conservatorilor și Reformiștilor Europeni (ECR), …",
+    "content_ro": "Alegerile anticipate reprezintă o soluție democratică pentru depășirea blocajului politic din România, au susținut mai mulți reprezentanți ai Grupului Conservatorilor și Reformiștilor Europeni (ECR), în cadrul unei dezbateri organizate astăzi în Parlamentul European, la Bruxelles."
+  },
+  {
+    "group_id": "group_dfd5ad472a",
+    "fingerprint": "4a22698f3dddf89657efe9e33e453aec",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Papa Leon al XIV-lea, diagnosticat cu cancer pulmonar. Medicii i-au îndepărtat o parte din plămân",
+        "link": "https://www.mediafax.ro/externe/papa-leon-al-xiv-lea-diagnosticat-cu-cancer-pulmonar-medicii-i-au-indepartat-o-parte-din-plaman-23824867"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Primul anunț al Vaticanului după diagnosticul de cancer pumonar stabilit pentru Papa Leon",
+        "link": "https://hotnews.ro/primul-anunt-al-vaticanului-dupa-diagnosticul-de-cancer-pumonar-stabilit-pentru-papa-leon-2375384"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Unul dintre frații Papei Leon se luptă și el cu cancerul. Detaliile dezvăluite de soția acestuia",
+        "link": "https://hotnews.ro/unul-dintre-fratii-papei-leon-se-lupta-si-el-cu-cancerul-detaliile-dezvaluite-de-sotia-acestuia-2375502"
+      },
+      {
+        "source": "RomKat",
+        "title": "Szabályosan zajlik XIV. Leó pápa műtét utáni felépülése – A Szentatya már jár és étkezik",
+        "link": "https://romkat.ro/2026/10/14/szabalyosan-zajlik-xiv-leo-papa-mutet-utani-felepulese-a-szentatya-mar-jar-es-etkezik/"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cum se simte Papa Leon, după extirparea tumorii canceroase. Cele mai noi informații oferite de Vatican",
+        "link": "https://hotnews.ro/cum-se-simte-papa-leon-dupa-extirparea-tumorii-canceroase-cele-mai-noi-informatii-oferite-de-vatican-2376140"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Papa Leon al XIV-lea, diagnosticat cu cancer pulmonar. Operația a reușit, iar episcopii catolici din România se roagă pentru însănătoșirea sa",
+        "link": "https://www.ebihoreanul.ro/stiri/papa-leon-al-xiv-lea-diagnosticat-cu-cancer-pulmonar-operatia-a-reusit-iar-episcopii-catolici-din-romania-se-roaga-pentru-insanatosirea-sa-205792.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cine va prelua atribuțiile Papei Leon în timp ce va fi internat în spital. În ce constă legile Vaticanului",
+        "link": "https://www.mediafax.ro/stirile-zilei/cine-va-prelua-atributiile-papei-leon-in-timp-ce-va-fi-internat-in-spital-in-ce-consta-legile-vaticanului-23824680"
+      }
+    ],
+    "published_at": 1791993932,
+    "title_hu": "Tüdő-adenokarcinómát diagnosztizáltak XIV. Leó pápánál; felépülése a várakozásoknak megfelelően halad",
+    "lead_hu": "A szövettani vizsgálat tüdő-adenokarcinómát igazolt XIV. Leó pápánál, akinek október 13-án videóasszisztált technikával eltávolították a jobb tüdeje alsó lebenyét. A Vatikán szerint a műtét komplikációk nélkül zajlott, a pápa nyugodt éjszaka után járni és rendszeresen étkezni kezdett. A daganat stádiumáról és esetleges terjedéséről továbbra sincs elegendő adat.",
+    "content_hu": "• **Október 11-én** XIV. Leó pápa az Úrangyala-imádság alkalmával elmondta, hogy egy rutinvizsgálat során korai stádiumú, jól körülhatárolt tüdőelváltozást találtak nála, és a hívek imáit kérte.\n\n• **Október 13-án, nem sokkal 13 óra előtt** a pápa megérkezett a római Agostino Gemelli Egyetemi Kórházba, ahol mellkassebészeti csapat operálta meg Stefano Margaritora professzor vezetésével.\n\n• **A műtét sikeresen, komplikációk nélkül zajlott:** a pápa mintegy három órát töltött a műtőben, maga a beavatkozás körülbelül 90 percig tartott. Normálisan magához tért, rövid megfigyelés után visszatért a kórházi szobájába.\n\n• **A szövettani vizsgálat tüdő-adenokarcinómát igazolt:** videóasszisztált technikával eltávolították a jobb tüdő alsó lebenyét. A vizsgálat megerősítette a műtét előtti gyanút; a Vatikán közlése szerint a gócot teljes egészében eltávolították.\n\n• **A daganat stádiuma és esetleges terjedése egyelőre nem ismert:** a Vatikán nem közölte a daganat méretét, illetve azt, hogy érintettek-e a nyirokcsomók. További vizsgálatok folynak, ezért XIV. Leó egyéni prognózisa és az esetleges további kezelés szükségessége még nem állapítható meg.\n\n• **Az adenokarcinóma a tüdőrák gyakori típusa:** mirigysejtekből alakul ki, és a nem kissejtes tüdőrákok közé tartozik; ez a csoport az esetek mintegy 80–85 százalékát, az adenokarcinóma pedig körülbelül 40 százalékát teszi ki. Gyakran a tüdő külső részein jelenik meg, korai szakaszában tünetmentes lehet, és nemcsak dohányzóknál fordul elő.\n\n• **A műtét önmagában gyógyító lehet, ha a daganat kicsi és nem terjedt a nyirokcsomókra:** Stephen Liu, a Georgetown Egyetem tüdőrákszakértője szerint ilyen esetben jó esély lehet a gyógyulásra; a kiterjedtebb betegség kedvezőtlenebb prognózist jelenthet.\n\n• **A túlélési statisztikák nem tekinthetők a pápa egyéni prognózisának:** az American Cancer Society adatai szerint a nem kissejtes tüdőrák ötéves relatív túlélési aránya 67 százalék, ha a betegség a tüdőre korlátozódik, körülbelül 40 százalék, ha közeli szövetekre vagy nyirokcsomókra terjed, és mintegy 12 százalék távoli szervek érintettsége esetén.\n\n• **A műtétet tapasztalt, részben robottechnikát alkalmazó csapat végezte:** Margaritora professzor orvoscsoportja több mint ötezer tüdőműtét tapasztalatával rendelkezik, és minimálisan invazív, illetve robottechnikákra szakosodott. A pápa kezelőorvosa, Luigi Carbone is részt vett az orvosi tájékoztatásban.\n\n• **XIV. Leó első műtét utáni éjszakája nyugodtan telt:** a pápa vacsorát kért, majd titkárai és a vatikáni személyzet egyes tagjai társaságában töltötte az estét.\n\n• **A felépülés a várakozásoknak megfelelően halad:** a vérvizsgálatok és a mellkasröntgen eredményei megfelelőek voltak, a pápa légzésfizioterápiát kezdett, már jár a szobájában, és ismét rendszeresen étkezik.\n\n• **A kórházi felépülés várhatóan körülbelül egy hétig tart:** a nyilvános audienciákat október 20-ig törölték. A pápa szeretné megtartani a 2026. november 6–17-re tervezett latin-amerikai apostoli útját; a Vatikán közlése szerint a látogatás tíz várost érintene Uruguayban, Argentínában és Peruban, de megtartása a felépülésétől függ.\n\n• **A pápa az útjára is tekintettel dönthetett a műtét időzítéséről:** Kikucsi Cutomu bíboros, aki hétfőn találkozott vele, azt mondta, XIV. Leó azért választotta az azonnali beavatkozást, hogy ne kelljen elhalasztania a dél-amerikai látogatást. A bíboros szerint a pápa fizikailag jól érezte magát.\n\n• **Pietro Parolin bíboros aggodalmát fejezte ki,** mert nem számított a műtétre, de azt mondta, a pápa nyugalma és a hétfő esti beszélgetésük megnyugtatta.\n\n• **XIV. Leó 71 éves,** és ez az első jelentős, nyilvánosságra került egészségügyi problémája pápasága kezdete óta. Nincs ismert krónikus betegsége, nem dohányzik, rendszeresen teniszezik és úszik; korábban, 1985-ben tífuszláz miatt kórházban kezelték.\n\n• **A pápa bátyja, Louis Prevost szintén daganatos betegséggel küzd:** a 74 éves, Floridában élő férfit 2017-ben mielóma multiplexszel diagnosztizálták. Őssejtkezelést és klinikai vizsgálat keretében végzett kezelést is kapott; a betegsége egy ideig alacsony szinten maradt, de felesége szerint három hónapja ismét kikerült a remisszióból.\n\n• **A pápa tisztsége és hatásköre nem változott a kórházi kezelés alatt:** nincs helyettese, a Vatikán napi ügyeit továbbra is az illetékes tisztségviselők intézik. A napi működés és a kinevezések folytatódtak, a pápai jóváhagyást igénylő döntések elhalaszthatók.\n\n• **XIV. Leó a Gemelli-kórház tizedik emeletén kapott kórtermet:** a pápák számára rendszerint fenntartott szobát felújítás miatt nem használhatták, ezért egy másik szobában helyezték el.\n\n• **A pápa felépüléséért a kórházban és a Szent Péter téren is imádkoztak:** a római egyházmegye rózsafüzér-imát tartott Baldo Reina bíboros vezetésével, majd Luis Tagle bíboros celebrálta a szerdai misét. A romániai katolikus püspökök Böcskei László püspök által aláírt üzenetben fejezték ki imádságos szolidaritásukat.\n\n• **Vezetők és politikusok is jókívánságaikat küldték XIV. Leónak:** köztük Marco Rubio amerikai külügyminiszter és Frank-Walter Steinmeier német államfő.",
+    "title_ro": "Papa Leon al XIV-lea, diagnosticat cu adenocarcinom pulmonar; recuperarea evoluează conform așteptărilor",
+    "lead_ro": "Examenul histologic a confirmat diagnosticul de adenocarcinom pulmonar pentru Papa Leon al XIV-lea, căruia i-a fost extirpat lobul inferior al plămânului drept printr-o tehnică video-asistată, pe 13 octombrie. Potrivit Vaticanului, operația s-a desfășurat fără complicații, iar după o noapte liniștită papa a început să meargă și să mănânce regulat. Stadiul bolii și eventuala răspândire nu sunt încă cunoscute.",
+    "content_ro": "• **Pe 11 octombrie**, Papa Leon al XIV-lea a spus, în timpul rugăciunii Angelus, că o formațiune pulmonară bine delimitată, aflată într-un stadiu incipient, a fost descoperită în urma unor controale de rutină și le-a cerut credincioșilor să se roage pentru el.\n\n• **Pe 13 octombrie, cu puțin înainte de ora 13:00**, papa a ajuns la Spitalul Universitar Agostino Gemelli din Roma, unde a fost operat de o echipă de chirurgie toracică condusă de profesorul Stefano Margaritora.\n\n• **Operația s-a încheiat cu succes și fără complicații:** papa a petrecut aproximativ trei ore în sala de operație, iar intervenția propriu-zisă a durat circa 90 de minute. Și-a recăpătat cunoștința în mod normal și, după o scurtă perioadă de observație, s-a întors în salon.\n\n• **Examenul histologic a confirmat adenocarcinomul pulmonar:** lobul inferior al plămânului drept a fost extirpat printr-o tehnică video-asistată. Analiza a confirmat suspiciunea medicilor dinaintea operației, iar Vaticanul a transmis că formațiunea a fost îndepărtată în întregime.\n\n• **Stadiul bolii și eventuala răspândire nu sunt încă cunoscute:** Vaticanul nu a comunicat dimensiunea tumorii și nici dacă sunt afectați ganglionii limfatici. Sunt în curs investigații suplimentare, astfel că prognosticul individual și necesitatea unui tratament ulterior nu pot fi stabilite deocamdată.\n\n• **Adenocarcinomul este un tip frecvent de cancer pulmonar:** se dezvoltă în celulele glandulare și face parte din categoria cancerelor pulmonare non-microcelulare, care reprezintă aproximativ 80–85% din cazuri. Adenocarcinomul constituie circa 40% dintre cazurile de cancer pulmonar, apare frecvent în zonele exterioare ale plămânilor și poate fi asimptomatic în stadiile timpurii; nu afectează doar fumătorii.\n\n• **Operația poate fi curativă dacă tumora este mică și nu a ajuns la ganglionii limfatici:** Stephen Liu, specialist în cancer pulmonar la Universitatea Georgetown, a spus că, în acest caz, șansele de vindecare pot fi bune; o boală mai extinsă poate însemna un prognostic mai puțin favorabil.\n\n• **Statisticile de supraviețuire nu reprezintă prognosticul individual al papei:** potrivit Societății Americane de Cancer, rata relativă de supraviețuire la cinci ani pentru cancerul pulmonar non-microcelular este de 67% când boala rămâne limitată la plămân, de aproximativ 40% când se extinde la țesuturile din apropiere sau la ganglionii limfatici și de circa 12% când ajunge la organe îndepărtate.\n\n• **Operația a fost efectuată de o echipă cu experiență, care folosește și tehnici robotice:** echipa profesorului Margaritora are la activ peste 5.000 de intervenții pulmonare și este specializată în tehnici minim invazive și robotice. Medicul personal al papei, Luigi Carbone, a participat la comunicarea informațiilor medicale.\n\n• **Papa Leon al XIV-lea a avut o noapte liniștită după operație:** a cerut cina și și-a petrecut seara alături de secretarii săi și de membri ai personalului Vaticanului.\n\n• **Recuperarea evoluează conform așteptărilor:** rezultatele analizelor de sânge și ale radiografiei toracice au fost corespunzătoare. Papa a început fizioterapia respiratorie, se plimbă prin cameră și a revenit la o alimentație regulată.\n\n• **Spitalizarea ar urma să dureze aproximativ o săptămână:** audiențele publice au fost anulate până pe 20 octombrie. Papa dorește să păstreze călătoria apostolică în America Latină, programată pentru 6–17 noiembrie 2026; potrivit Vaticanului, vizita ar urma să cuprindă zece orașe din Uruguay, Argentina și Peru, dar desfășurarea ei depinde de evoluția recuperării.\n\n• **Programarea rapidă a operației ar fi avut în vedere și călătoria:** cardinalul Tomatsu Kikuchi, care s-a întâlnit cu papa luni, a spus că acesta a ales intervenția imediată pentru a nu fi nevoit să amâne vizita în America de Sud. Potrivit cardinalului, papa se simțea bine din punct de vedere fizic.\n\n• **Cardinalul Pietro Parolin și-a exprimat îngrijorarea,** spunând că nu se aștepta la operație, dar că seninătatea papei și discuția lor de luni seară l-au liniștit.\n\n• **Papa Leon al XIV-lea are 71 de ani,** iar aceasta este prima problemă majoră de sănătate făcută publică de la începutul pontificatului. Nu are boli cronice cunoscute, nu fumează, joacă regulat tenis și înoată; în 1985 a fost spitalizat cu febră tifoidă.\n\n• **Fratele papei, Louis Prevost, se tratează și el pentru cancer:** bărbatul de 74 de ani, care locuiește în Florida, a fost diagnosticat cu mielom multiplu în 2017. A urmat tratament cu celule stem și tratament în cadrul unui studiu clinic; boala a rămas un timp la un nivel scăzut, dar soția sa a spus că a ieșit din remisie în urmă cu trei luni.\n\n• **Statutul și atribuțiile papei nu s-au schimbat în timpul spitalizării:** acesta nu are un adjunct, iar oficialii responsabili continuă să gestioneze activitatea curentă a Vaticanului. Activitatea de zi cu zi și numirile au continuat, iar deciziile care necesită aprobarea papei pot fi amânate.\n\n• **Papa Leon al XIV-lea este internat la etajul al zecelea al Spitalului Gemelli:** salonul folosit de regulă de papi nu este disponibil, fiind în renovare, astfel că a fost plasat într-o altă cameră.\n\n• **Credincioșii s-au rugat pentru însănătoșirea papei la spital și în Piața Sfântul Petru:** Dieceza Romei a organizat o rugăciune a Rozariului condusă de cardinalul Baldo Reina, iar cardinalul Luis Tagle a celebrat liturghia de miercuri. Episcopii catolici din România și-au exprimat solidaritatea în rugăciune într-un mesaj semnat de episcopul Böcskei László.\n\n• **Lideri și politicieni i-au transmis papei urări de însănătoșire:** printre aceștia se numără secretarul de stat american Marco Rubio și președintele Germaniei, Frank-Walter Steinmeier."
+  },
+  {
+    "group_id": "group_8501e4bb4e",
+    "fingerprint": "cc719edfadc9d0c5df4956ee3dfcc597",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/lei-1024x768.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Au forțat două terminale de plată din Capitală și au fugit cu banii. Doi tineri de 15 și 18 ani, reținuți",
+        "link": "https://www.mediafax.ro/social/au-fortat-doua-terminale-de-plata-din-capitala-si-au-fugit-cu-banii-doi-tineri-de-15-si-18-ani-retinuti-23825428"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Doi adolescenți de 15 și 18 ani, reținuți după ce ar fi spart două aparate de plată din București",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/doi-adolescenti-de-15-si-18-ani-retinuti-dupa-ce-2564044.html"
+      }
+    ],
+    "published_at": 1791993828,
+    "title_hu": "Két fiatalt vettek őrizetbe két bukaresti fizetőterminál feltörése miatt",
+    "lead_hu": "A rendőrség szerint a 15 és 18 éves gyanúsítottak szeptember 28-án két bukaresti fizetőterminált törtek fel: az egyikből üres pénzkazettát vittek el, a másikból 3446 lejt. Az ügyben egy 31 éves férfit is vizsgálnak, aki a gyanú szerint segített a fiatalok szállításában.",
+    "content_hu": "• **Szeptember 28-án** a két, 15 és 18 éves gyanúsított a bukaresti 3. és 2. kerületben tört fel egy-egy elektronikus fizetőterminált; a rendőrség szerint arcukat eltakarva, fémtárggyal feszítették fel a készülékek ajtaját.\n\n• **Az egyik terminál kazettája üres volt**, a másikból viszont 3446 lejt vittek el.\n\n• **A 31 éves férfi** a gyanú szerint autóval szállította a fiatalokat, és segített nekik a helyszínekre jutni, illetve a lopás után távozni.\n\n• **A rendőrség három házkutatást tartott Călărași megyében**; a két fiatalt 24 órára őrizetbe vették, a 31 éves férfit pedig kihallgatták. Az ügyben minősített lopás gyanúja miatt folytatódik a nyomozás.",
+    "title_ro": "Doi tineri, reținuți după spargerea a două terminale de plată din București",
+    "lead_ro": "Potrivit poliției, suspecții de 15 și 18 ani au forțat două terminale de plată din București pe 28 septembrie: dintr-unul au luat o casetă goală, iar din celălalt 3.446 de lei. În dosar este cercetat și un bărbat de 31 de ani, suspectat că i-a transportat și i-a ajutat pe cei doi.",
+    "content_ro": "• **Pe 28 septembrie**, cei doi suspecți, în vârstă de 15 și 18 ani, ar fi spart câte un terminal electronic de plată în sectoarele 3 și 2 din București; poliția afirmă că aveau fețele acoperite și au forțat ușile aparatelor cu un obiect metalic.\n\n• **Caseta unuia dintre terminale era goală**, iar din celălalt aparat ar fi fost furați 3.446 de lei.\n\n• **Bărbatul de 31 de ani** este suspectat că i-a transportat cu mașina pe cei doi și i-a ajutat să ajungă la locurile faptelor și să plece după furturi.\n\n• **Polițiștii au efectuat trei percheziții în județul Călărași**; cei doi tineri au fost reținuți pentru 24 de ore, iar bărbatul de 31 de ani a fost audiat. Cercetările continuă pentru furt calificat."
+  },
+  {
+    "group_id": "group_726461fd45",
+    "fingerprint": "392aa93281baaa71e7e247ae1077d15e",
+    "category": "Kultúra",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_583734186_1339108384581444_3660367735786684561_n.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "A bántalmazásról és az irodalom gyógyító erejéről is szó lesz a 32. Marosvásárhelyi Nemzetközi Könyvvásáron",
+        "link": "https://maszol.ro/kultura/A-bantalmazasrol-es-az-irodalom-gyogyito-erejerol-is-szo-lesz-a-32-Marosvasarhelyi-Nemzetkozi-Konyvvasaron"
+      },
+      {
+        "source": "Vásárhely.ma",
+        "title": "Fény a léleknek – a bántalmazás témája köré épül az idei könyvvásár",
+        "link": "https://www.vasarhely.ma/feny-a-leleknek-a-bantalmazas-temaja-kore-epul-az-idei-konyvvasar/"
+      }
+    ],
+    "published_at": 1791993796,
+    "title_hu": "A bántalmazás témája köré épül a 32. marosvásárhelyi könyvvásár",
+    "lead_hu": "November 12–15. között rendezik meg a 32. Marosvásárhelyi Nemzetközi Könyvvásárt, amelynek mottója a „Fény a léleknek”. A rendezvény központi témája a lelki és fizikai bántalmazás, programjai között könyvbemutatók, beszélgetések, színházi és gyermekprogramok is szerepelnek.",
+    "content_hu": "• **November 12–15. között** tartják a 32. Marosvásárhelyi Nemzetközi Könyvvásárt, amelynek idei mottója a „Fény a léleknek”.\n\n• **A rendezvény központi témája** a lelki és fizikai bántalmazás, valamint az, hogyan dolgozhatók fel az elszenvedett traumák irodalmi és más művészeti eszközökkel.\n\n• **29 kiadó és könyvkereskedő** vesz részt a vásáron, közülük hat Magyarországról érkezik. A programoknak a Marosvásárhelyi Nemzeti Színház ad otthont.\n\n• **A kínálatban** könyvbemutatók, író-olvasó találkozók és beszélgetések mellett színházi előadások, filmvetítések, koncertek, valamint gyermek- és ifjúsági programok is helyet kapnak.\n\n• **A gyermek- és ifjúsági programok** kiemelt szerepet kapnak: a szervezők felmérték a középiskolások érdeklődését, akik főként beszélgetéseket és alkotóműhelyeket szeretnének. Az olvasóversenyre 250 csapat, mintegy 800 gyermek jelentkezett.",
+    "title_ro": "Abuzul, tema centrală a Târgului Internațional de Carte de la Târgu Mureș",
+    "lead_ro": "Cea de-a 32-a ediție a Târgului Internațional de Carte de la Târgu Mureș va avea loc în perioada 12–15 noiembrie, sub motto-ul „Lumină pentru suflet”. Tema centrală este abuzul fizic și psihologic, iar programul cuprinde lansări de carte, discuții, spectacole de teatru și activități pentru copii și tineri.",
+    "content_ro": "• **În perioada 12–15 noiembrie** va avea loc cea de-a 32-a ediție a Târgului Internațional de Carte de la Târgu Mureș, cu motto-ul „Lumină pentru suflet”.\n\n• **Tema centrală a evenimentului** este abuzul fizic și psihologic și felul în care traumele suferite pot fi abordate prin literatură și alte forme de artă.\n\n• **La târg vor participa 29 de edituri și librării**, dintre care șase din Ungaria. Evenimentele se vor desfășura la Teatrul Național din Târgu Mureș.\n\n• **Programul include** lansări de carte, întâlniri cu scriitori și discuții, precum și spectacole de teatru, proiecții de film, concerte și activități pentru copii și tineri.\n\n• **Programele pentru copii și tineri** au un rol important: organizatorii au consultat liceenii, care și-au exprimat interesul mai ales pentru discuții și ateliere creative. La concursul de lectură s-au înscris 250 de echipe, cu aproximativ 800 de copii."
+  },
+  {
     "group_id": "group_ace6526b0a",
     "category": "Erdély",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -40,6 +429,27 @@
     "title_ro": "Cine e Alexandru Stoica, vehiculat în PSD ca viitor ministru al Dezvoltării: Bugetar de meserie, un loial al lui Marcel Ciolacu / Soția, consilier la Camera Deputaților",
     "lead_ro": "Alexandru Stoica este un politician din tânăra generație a PSD Buzău și omul lui Marcel Ciolacu în guvernul Niculescu. El a ocupat funcția de secretar de stat în Ministerul Dezvoltării (decembrie 2021…",
     "content_ro": "Alexandru Stoica este un politician din tânăra generație a PSD Buzău și omul lui Marcel Ciolacu în guvernul Niculescu. El a ocupat funcția de secretar de stat în Ministerul Dezvoltării (decembrie 2021 – aprilie 2026), fiind eliberat din funcție la cerere pentru a deveni ulterior administrator public al județului Buzău. „Cred că acesta este rostul […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_fe3743e9fd",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/68ee8880-c2b3-46a9-8982-afff9c5b00aa.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "S-a calificat oficial la Turneul Campioanelor » Cine e favorită pentru ultimul loc disponibil",
+        "link": "https://www.gsp.ro/sporturi/tenis/elina-svitolina-calificare-turneul-campioanelor-wuhan-988086.html"
+      }
+    ],
+    "published_at": 1791993566,
+    "title_hu": "S-a calificat oficial la Turneul Campioanelor » Cine e favorită pentru ultimul loc disponibil",
+    "lead_hu": "Elina Svitolina (32 de ani, 9 WTA) și-a asigurat matematic prezența la Turneul Campioanelor datorită unei victorii muncite în turul al doilea al turneului WTA 1000 de la Wuhan. Jucătoarea din Ucraina,…",
+    "content_hu": "Elina Svitolina (32 de ani, 9 WTA) și-a asigurat matematic prezența la Turneul Campioanelor datorită unei victorii muncite în turul al doilea al turneului WTA 1000 de la Wuhan. Jucătoarea din Ucraina, a cincea favorită a turneului chinez, a învins-o pe Liudmila Samsonova (27, 43 WTA) cu scorul de 6-2, 5-7, 6-2, într-o partidă care a durat două ore și 11 minute. ...",
+    "title_ro": "S-a calificat oficial la Turneul Campioanelor » Cine e favorită pentru ultimul loc disponibil",
+    "lead_ro": "Elina Svitolina (32 de ani, 9 WTA) și-a asigurat matematic prezența la Turneul Campioanelor datorită unei victorii muncite în turul al doilea al turneului WTA 1000 de la Wuhan. Jucătoarea din Ucraina,…",
+    "content_ro": "Elina Svitolina (32 de ani, 9 WTA) și-a asigurat matematic prezența la Turneul Campioanelor datorită unei victorii muncite în turul al doilea al turneului WTA 1000 de la Wuhan. Jucătoarea din Ucraina, a cincea favorită a turneului chinez, a învins-o pe Liudmila Samsonova (27, 43 WTA) cu scorul de 6-2, 5-7, 6-2, într-o partidă care a durat două ore și 11 minute. ..."
   },
   {
     "group_id": "group_ba29166582",
@@ -246,69 +656,6 @@
     "content_ro": "• **Discuția dintre Nicușor Dan și Iliana Iotova** – Pe 14 octombrie, președintele României a discutat telefonic cu omoloaga sa bulgară despre atacurile cu drone asupra navelor comerciale din Marea Neagră și despre incidentele care au afectat navigația și infrastructura din apele românești. Administrația Prezidențială anunțase inițial că discuția era programată pentru ora 15:00.\n\n• **Acțiune comună în UE și NATO** – Cei doi lideri au convenit să colaboreze pentru promovarea unor măsuri mai ferme de contracarare a dronelor, în vederea sporirii siguranței navigației comerciale în Marea Neagră. Dan nu a prezentat măsuri concrete sau un calendar de aplicare.\n\n• **Consecințele atacurilor** – Potrivit lui Dan, atacurile cu drone sunt consecințe directe ale războiului Rusiei împotriva Ucrainei. Riscurile amenință nu doar transportul maritim din regiune, ci și aprovizionarea altor continente cu produse agricole esențiale.\n\n• **5 octombrie** – Nava turcească Royad Mammadov a fost lovită de drone în apropierea platformei Petrom Pescăruș, lângă țărmul românesc. Doi membri ai echipajului au murit, iar alți unsprezece au fost răniți; sursele descriu incidentul drept cel mai grav înregistrat în apropierea coastei românești de la începutul războiului.\n\n• **Noaptea de 12 spre 13 octombrie – CHELSEA 3** – Nava, sub pavilion maltez și deținută de proprietari ucraineni, a fost atacată de trei drone la aproximativ 18 mile marine est de Byala, în apele bulgare. Cei 15 membri ai echipajului au fost evacuați; sursele diferă în privința răniților: mai multe relatează despre șase marinari răniți, iar Adevărul menționează cinci care au avut nevoie de îngrijiri pentru răni ușoare. Potrivit publicației, echipajul era format din șapte cetățeni ucraineni și opt azeri, transportați în portul Varna.\n\n• **Relatări diferite despre atacul asupra CHELSEA 3** – Digi24 a relatat despre un atac de marți, în care nava ar fi fost lovită de o dronă la aproximativ 15 mile marine de Byala. Relatarea diferă de celelalte surse, care indică noaptea de 12 spre 13 octombrie și trei drone.\n\n• **O altă navă s-a scufundat** – Nava atacată la aproximativ 17 mile marine est de Krapets s-a scufundat; informațiile despre navă și numărul supraviețuitorilor au fost contradictorii.\n\n• **Ancheta și reacția Bulgariei** – Premierul bulgar Rumen Radev a calificat incidentele drept inacceptabile și a spus că o va invita la discuții pe ambasadoarea Rusiei la Sofia. El a afirmat că, potrivit logicii evenimentelor, atacurile servesc intereselor Rusiei, dar ancheta este în desfășurare și nu există dovezi concludente privind originea dronelor sau responsabilitatea unei anumite țări. La Sofia a fost convocată și o reuniune de urgență privind securitatea națională.\n\n• **Consultări între premierii României și Bulgariei** – Marți, premierul român Ilie Bolojan a discutat telefonic cu omologul său bulgar, Rumen Radev, despre deteriorarea situației de securitate din Marea Neagră. Bolojan a condamnat atacurile asupra navigației civile din zona economică exclusivă a Bulgariei, calificându-le drept inacceptabile și încălcări grave ale dreptului maritim și internațional. Cei doi au discutat și despre cooperarea cu Turcia.\n\n• **Monitorizare sporită și cooperare cu NATO** – Ministrul bulgar al Apărării, Dimităr Stoianov, a avut consultări de urgență cu omologii din România și Turcia. Bulgaria cere intensificarea imediată a monitorizării maritime, schimburi mai eficiente de informații și cooperare cu structurile NATO; cele trei țări discută și despre canale directe de informare militară.\n\n• **Reacții internaționale** – Ursula von der Leyen, președinta Comisiei Europene, a condamnat atacurile, descriindu-le drept un nou front de escaladare în războiul ruso-ucrainean."
   },
   {
-    "group_id": "group_746ea01c03",
-    "fingerprint": "484be8374d191acdfc0886eb6e9f85e6",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Ședința decisivă a PSD pentru intrarea la guvernare a început la Vila Lac. Se conturează cel mai puternic Guvern PSD de la era Dragnea",
-        "link": "https://www.mediafax.ro/politic/sedinta-decisiva-a-psd-pentru-intrarea-la-guvernare-a-inceput-la-vila-lac-se-contureaza-cel-mai-puternic-guvern-psd-de-la-era-dragnea-23824950"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
-        "link": "https://www.g4media.ro/breaking-psd-a-decis-sa-intre-in-guvernul-luca-niculescu-surse.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "PSD a decis să intre la guvernare. Conducerea partidului a stabilit și lista de miniștri în Guvernul Luca Niculescu",
-        "link": "https://hotnews.ro/psd-a-decis-sa-intre-la-guvernare-conducerea-partidului-a-stabilit-si-lista-de-ministri-2376053"
-      },
-      {
-        "source": "Mediafax",
-        "title": "PSD a decis să intre în Guvernul Luca Niculescu. PSD a votat lista celor 11 miniștri pentru Guvernul Luca Niculescu. Marian Neacșu, vicepremier și ministru de Interne.",
-        "link": "https://www.mediafax.ro/politic/psd-a-decis-sa-intre-in-guvernul-luca-niculescu-psd-a-votat-lista-celor-11-ministri-pentru-guvernul-luca-niculescu-marian-neacsu-vicepremier-si-ministru-de-interne-23824950"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SURSE: PSD va susține guvernul Luca Niculescu. Lista miniștrilor care vor face parte din noul Executiv",
-        "link": "https://stirileprotv.ro/stiri/politic/surse-psd-va-sustine-guvernul-luca-niculescu-lista-ministrilor-care-vor-face-parte-din-noul-executiv.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "PSD a validat lista celor 11 miniștri pentru Guvernul Luca Niculescu. Cine intră în noul Executiv și ce ministere vor conduce",
-        "link": "https://www.mediafax.ro/politic/psd-a-validat-lista-celor-11-ministri-pentru-guvernul-luca-niculescu-cine-intra-in-noul-executiv-si-ce-ministere-vor-conduce-23825409"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cum va arăta guvernul Luca Niculescu. Împărțirea ministerelor între PSD și premierul desemnat",
-        "link": "https://stirileprotv.ro/stiri/politic/cum-va-arata-guvernul-luca-niculescu-impartirea-ministerelor-intre-psd-si-premierul-desemnat.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "A PSD a kormányzati szerepvállalás mellett döntött, már a minisztereket is megszavazták",
-        "link": "https://transtelex.ro/kozelet/2026/10/14/a-psd-vezetosege-a-kormanyzati-szerepvallalas-mellett-dontott"
-      },
-      {
-        "source": "Mediafax",
-        "title": "STENOGRAME din ședința PSD. Firea: „Am un doctorat în Nicușor Dan”. Grindeanu amenință miniștrii cu „roșu direct”, Manda cere reformă administrativă",
-        "link": "https://www.mediafax.ro/politic/stenograme-din-sedinta-psd-firea-am-un-doctorat-in-nicusor-dan-grindeanu-ameninta-ministrii-cu-rosu-direct-manda-cere-reforma-administrativa-23825437"
-      }
-    ],
-    "published_at": 1791992924,
-    "title_hu": "A PSD 11 miniszterrel lép be a Niculescu-kormányba",
-    "lead_hu": "A PSD vezetősége október 14-én úgy döntött, hogy miniszterekkel vesz részt a Luca Niculescu vezette kormányban, és jóváhagyta 11 jelöltjét a tervezett 17 tárcára. A kormány parlamenti támogatásáról egyhangúlag határoztak, a miniszteri részvételről szóló szavazáson nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök. A kabinet programját és teljes névsorát október 15-én nyújtják be; a beiktatásról szóló szavazást várhatóan október 19–20-án tartják.",
-    "content_hu": "• **Október 14-én a PSD vezetősége a kormányzati részvétel mellett döntött.** A kormány parlamenti támogatását egyhangúlag szavazták meg, a miniszteri részvételről szóló szavazáson viszont nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök.\n\n• **A PSD 11 miniszteri jelöltjét jóváhagyták a tervezett 17 tárcára.** Marian Neacșu a belügyminiszteri és miniszterelnök-helyettesi posztra, Ștefan Radu Oprea a védelmi tárcára, Florin Barbu a mezőgazdaságira, Alexandru Rogobete az egészségügyire, Radu Marinescu az igazságügyire, Petre-Florin Manole a munkaügyire, Daniel Zamfir a gazdaságira, Alexandru Stoica a fejlesztésire, Ștefan Ovidiu Popa a közlekedésire, Natalia Intotero a környezetvédelmire, Mihai Ghigiu pedig az uniós alapokért felelős tárcára kapott jelölést.\n\n• **A fennmaradó hat tárcát technokraták vagy független jelöltek kaphatják.** A sajtóértesülések szerint Alexandru Nazare maradhat a pénzügyminiszter, Sorin Costreie az oktatási, Dan Neculăescu a külügyi, Ioana Ciocan a kulturális, Bogdan Dumitru pedig a kommunikációért és mesterséges intelligenciáért felelős tárca élére kerülhet; az energiaügyi jelölt nem végleges. A kabinetlista benyújtásáig a nevek és a tárcák még változhatnak.\n\n• **A PSD hat hónap után értékeli a kormány munkáját, és intézkedéseket kér.** A párt javaslatai között szerepel egyes juttatások indexálása, valamint a CASS-fizetési kötelezettség eltörlése több kedvezményezetti csoport, köztük az anyák és a veteránok esetében. A teljes lista, az érintettek pontos köre és a költségvetési hatás nem ismert.\n\n• **Grindeanu kemény munkát és eredményeket vár a leendő PSD-miniszterektől.** Azt mondta, a kormányzással lehet visszaszorítani az AUR támogatottságát, és a hangos bírálatok helyett jó kormányzati teljesítményre van szükség. A minisztereknek intenzív munkára és hatékony kommunikációra kell készülniük; Grindeanu két héten belül parlamenti tájékoztatást is kér Niculescutól az ország aktuális pénzügyi helyzetéről.\n\n• **A PSD-n belül korábban viták voltak a kormányra lépésről és annak politikai költségeiről.** Több területi vezető a kormányzást és a nagy költségvetésű tárcák megszerzését támogatta, Grindeanu viszont attól tartott, hogy a PSD egyedül viselné a népszerűtlen intézkedések következményeit. A pártvezetés korábban a kormány elutasítását, egy technokrata kabinet parlamenti támogatását PSD-miniszterek nélkül, illetve a politikai részvételt is mérlegelte.\n\n• **A PNL és az RMDSZ parlamenten kívülről támogatná a kabinetet.** Ilie Bolojan közölte, hogy a PNL ellenzékben marad, de feltételekhez kötött megállapodást kész kötni Niculescuval; vállalása szerint hat hónapig nem kezdeményez vagy támogat bizalmatlansági indítványt, ha a kormány betartja a megállapodásban rögzített elveket és célokat. Az RMDSZ bejelentette, hogy a kormányt és programját a kabinet összetételétől függetlenül megszavazza. A PNL parlamenti frakciói támogató álláspontra jutottak, de a párt országos vezetésének végleges döntése még hátravan.\n\n• **Az USR nem szavaz meg PSD-minisztereket tartalmazó kormányt, az AUR pedig elutasítja a kabinet támogatását.** Az USR a parlamenti többség tisztázását is feltételül szabta; a nemzeti kisebbségek frakciója korábban támogatást ígért.\n\n• **A kormány beiktatásához 233 szavazat szükséges.** A PNL-nek és az RMDSZ-nek együtt 111 képviselője van, az USR-rel együtt 170; a PSD 127 képviselővel rendelkezik. A PSD részvétele, valamint a PNL és az RMDSZ támogatása javítja a kabinet esélyeit, de a parlamenti szavazás még hátravan.\n\n• **Nicușor Dan előrehozott választást helyezhet kilátásba, ha nem születik megállapodás.** Sajtóértesülések szerint azt üzente a pártvezetőknek, hogy ha csütörtökig nem jutnak átlátható egyezségre a kormány támogatásáról, pénteken bejelentheti a parlament feloszlatását. Grindeanu az előrehozott választást alkotmányos, de nem kívánatos lehetőségnek nevezte, és azt mondta, a PSD erre is készül.\n\n• **Niculescu október 15-én nyújtja be a kormányprogramot és a miniszterjelöltek listáját.** A parlamenti meghallgatásokat és a bizalmi szavazást a frissebb értesülések október 19–20-ára valószínűsítik; a kormány beiktatása még nem történt meg.\n\n• **A 17 tárcából 11 megszerzése 64,7 százalékos PSD-s arányt jelentene.** Ez magasabb lenne a párt 2024-es, 21,96 százalékos képviselőházi eredményénél; 2016-ban a PSD 45,47 százalékot szerzett. Az összevetés nem teljesen pontos, mert a korábbi kormányok összetétele és a tisztségek számítási módja eltért.",
-    "title_ro": "PSD intră în Guvernul Niculescu cu 11 miniștri",
-    "lead_ro": "Conducerea PSD a decis, pe 14 octombrie, ca partidul să participe cu miniștri la Guvernul condus de Luca Niculescu și a aprobat 11 nominalizări pentru cele 17 portofolii preconizate. Susținerea parlamentară a Guvernului a fost votată în unanimitate, în timp ce la votul privind participarea cu miniștri s-au înregistrat opt abțineri, inclusiv cea a președintelui PSD, Sorin Grindeanu. Programul și lista completă a Cabinetului urmează să fie depuse pe 15 octombrie, iar votul de învestitură este estimat pentru 19–20 octombrie.",
-    "content_ro": "• **Pe 14 octombrie, conducerea PSD a decis participarea la guvernare.** Susținerea parlamentară a Guvernului a fost votată în unanimitate, iar la votul privind intrarea cu miniștri s-au înregistrat opt abțineri, printre care și cea a președintelui partidului, Sorin Grindeanu.\n\n• **PSD a aprobat 11 nominalizări pentru cele 17 ministere preconizate.** Marian Neacșu este propus pentru funcțiile de ministru de Interne și vicepremier, Ștefan Radu Oprea pentru Apărare, Florin Barbu pentru Agricultură, Alexandru Rogobete pentru Sănătate, Radu Marinescu pentru Justiție, Petre-Florin Manole pentru Muncă, Daniel Zamfir pentru Economie, Alexandru Stoica pentru Dezvoltare, Ștefan Ovidiu Popa pentru Transporturi, Natalia Intotero pentru Mediu, iar Mihai Ghigiu pentru Investiții și Proiecte Europene.\n\n• **Celelalte șase portofolii ar putea reveni unor tehnocrați sau independenți.** Potrivit relatărilor din presă, Alexandru Nazare ar putea rămâne la Finanțe, Sorin Costreie ar putea prelua Educația, Dan Neculăescu Externele, Ioana Ciocan Cultura, iar Bogdan Dumitru portofoliul Comunicațiilor și Inteligenței Artificiale; nominalizarea pentru Energie nu este definitivă. Numele și repartizarea ministerelor se pot schimba până la depunerea listei Cabinetului.\n\n• **PSD va evalua activitatea Guvernului după șase luni și solicită măsuri.** Printre propuneri se numără indexarea unor beneficii și eliminarea obligației de plată a CASS pentru mai multe categorii, inclusiv mamele și veteranii. Lista completă, categoriile vizate și impactul bugetar nu au fost făcute publice.\n\n• **Grindeanu le cere viitorilor miniștri PSD muncă intensă și rezultate.** El a spus că o guvernare performantă este calea de a reduce sprijinul pentru AUR și că partidul nu poate câștiga în fața acestuia doar prin discursuri zgomotoase. Miniștrii trebuie să muncească intens și să comunice eficient; Grindeanu i-a cerut lui Niculescu să prezinte Parlamentului, în două săptămâni, situația financiară actuală a țării.\n\n• **În PSD au existat divergențe privind intrarea la guvernare și costurile politice ale acesteia.** Mai mulți lideri din teritoriu susțineau participarea la guvernare și obținerea unor ministere cu bugete mari, în timp ce Grindeanu se temea că PSD va suporta singur consecințele măsurilor nepopulare. Conducerea partidului analizase anterior respingerea Guvernului, susținerea parlamentară a unui Cabinet tehnocrat fără miniștri PSD sau participarea politică.\n\n• **PNL și UDMR ar urma să susțină Cabinetul din afara Guvernului.** Ilie Bolojan a anunțat că PNL rămâne în opoziție, dar este pregătit să încheie un acord cu Niculescu; liberalii nu vor iniția sau vota o moțiune de cenzură timp de șase luni, dacă Guvernul respectă principiile și obiectivele convenite. UDMR a anunțat că va vota Guvernul și programul, indiferent de componența Cabinetului. Grupurile parlamentare ale PNL și-au exprimat sprijinul, însă decizia finală a conducerii naționale a partidului este încă așteptată.\n\n• **USR nu va vota un Guvern cu miniștri PSD, iar AUR respinge susținerea Cabinetului.** USR a cerut și clarificarea majorității parlamentare; grupul minorităților naționale anunțase anterior că va susține Guvernul.\n\n• **Guvernul are nevoie de 233 de voturi pentru învestitură.** PNL și UDMR au împreună 111 deputați, iar alături de USR 170; PSD are 127 de deputați. Participarea PSD și sprijinul PNL și UDMR îmbunătățesc șansele Cabinetului, dar votul parlamentar nu a avut încă loc.\n\n• **Nicușor Dan ar putea anunța alegeri anticipate dacă nu se ajunge la un acord.** Potrivit informațiilor din presă, acesta le-a transmis liderilor de partid că, dacă până joi nu există un acord transparent privind susținerea Guvernului, ar putea anunța vineri dizolvarea Parlamentului. Grindeanu a numit alegerile anticipate o variantă constituțională, dar nedorită, și a spus că PSD se pregătește și pentru acest scenariu.\n\n• **Niculescu va depune pe 15 octombrie programul de guvernare și lista miniștrilor.** Cele mai recente informații estimează audierile parlamentare și votul de învestitură pentru 19–20 octombrie; Guvernul nu a fost încă învestit.\n\n• **Cele 11 ministere din 17 ar reprezenta 64,7% pentru PSD.** Procentul ar depăși rezultatul partidului de 21,96% la alegerile pentru Camera Deputaților din 2024; în 2016, PSD obținuse 45,47%. Comparația nu este perfectă, deoarece structura guvernelor anterioare și modul de numărare a funcțiilor au fost diferite."
-  },
-  {
     "group_id": "group_e3079abc11",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMzUwNl8zMDEz/NTA2X2dlcm1hbmlhLWRyYXBlbC1zdGVh/Zy1nZXR0eWlhbWVncy5qcGcmaGFzaD01/MmQyNDcyMjcxYTBjYTgyZjUzNzAxNTVjNDM4YzVjNQ==.jpg",
@@ -409,69 +756,6 @@
     "title_ro": "Tribunalul București a respins cererea AnimaWings de intrare în insolvență",
     "lead_ro": "Tribunalul București a respins, pe 14 octombrie, cererea AnimaWings de deschidere a propriei proceduri de insolvență. Hotărârea nu este definitivă și poate fi atacată cu apel în termen de șapte zile de la comunicare; cererile celor 25 de creditori vor fi judecate separat pe 11 noiembrie, la ora 11:00. Instanța a invocat prevederi referitoare la documentele care trebuie depuse, însă motivarea completă nu a fost publicată.",
     "content_ro": "• **La 14 octombrie**, Tribunalul București a respins cererea AnimaWings Aviation SA de deschidere a propriei proceduri de insolvență. Informația inițială potrivit căreia pronunțarea ar fi fost amânată a fost ulterior clarificată prin decizia instanței.\n\n• **Hotărârea nu este definitivă:** compania poate face apel în termen de șapte zile de la comunicarea deciziei.\n\n• **Temeiul juridic invocat de instanță** a fost art. 67 alin. 2 din Legea insolvenței. Acesta reglementează documentele care trebuie depuse de debitor, inclusiv cele privind situația financiară, patrimoniul, creditorii și intenția de reorganizare. Motivarea completă nu a fost încă publicată, astfel că nu se știe ce document anume a lipsit.\n\n• **AnimaWings nu a intrat deocamdată în insolvență:** nu a fost numit un administrator judiciar, iar acțiunile și executările silite ale creditorilor nu au fost suspendate. Procedura ar putea fi totuși deschisă dacă instanța admite cererile creditorilor, chiar dacă solicitarea companiei a fost respinsă.\n\n• **Cererile creditorilor vor fi judecate separat:** instanța a disjuns cererile a 25 de creditori și a stabilit termenul pentru 11 noiembrie 2026, ora 11:00. Pe listă se află Banca Transilvania, ROMATSA, Compania Națională Aeroporturi București, aeroportul din Cluj și aeroporturile din Oradea, Suceava, Brașov, Craiova, Sibiu, Arad și Timișoara.\n\n• **Printre creditori se află firme și persoane fizice:** lista include companii care gestionează solicitări de despăgubiri ale pasagerilor, precum Skycop și Air Claim, precum și Blue Air Technic, Uplift Airport Services și alte societăți.\n\n• **Patru creditori trebuie să achite o taxă de timbru de 200 de lei**, în caz contrar cererile lor putând fi anulate. Este vorba despre Uplift Airport Services, Stegerean Andreea, Aeroportul Internațional Avram Iancu Cluj și Compania Națională Aeroporturi București.\n\n• **La 9 octombrie**, instanța a respins cererea de preschimbare a termenului de judecată.\n\n• **La 30 septembrie**, AnimaWings a solicitat deschiderea procedurii de insolvență, după ce anunțase că renunță treptat la zborurile operate cu șase dintre cele opt aeronave, invocând probleme tehnice. La 1 octombrie, compania a anunțat suspendarea tuturor zborurilor regulate între 2 și 24 octombrie și reluarea lor, potrivit unui program revizuit, începând cu 25 octombrie.\n\n• **Potrivit companiei**, cererea urmărește reorganizarea judiciară, stabilizarea operațiunilor și restructurarea obligațiilor financiare. AnimaWings a menționat și dificultățile economice, scăderea puterii de cumpărare, instabilitatea politică și creșterea costurilor cu combustibilul printre factorii care au amplificat presiunea.\n\n• **Directorul general Marius Pandel** a declarat că problemele tehnice au avut efecte în lanț asupra activității companiei. Potrivit acestuia, operatorul intenționează să continue într-un format adaptat, acordând prioritate pasagerilor și menținerii unui număr cât mai mare de zboruri.\n\n• **În privința aeronavelor disponibile**, AnimaWings a transmis că poate opera cu două avioane Airbus A320 și că încearcă să păstreze cât mai multe dintre zborurile și rutele deja programate.\n\n• **Datele financiare pentru 2025** arată că cifra de afaceri a AnimaWings a ajuns la 330,8 milioane de lei, față de aproximativ 125 de milioane de lei în 2024. În același timp, compania a trecut de la un profit net de 1,9 milioane de lei la o pierdere de 110,7 milioane de lei.\n\n• **Datoriile companiei** se ridicau la aproximativ 157 de milioane de lei la sfârșitul anului 2025. La 30 iunie 2026, AnimaWings avea restanțe de circa 11,5 milioane de lei către administrația fiscală.\n\n• **O aeronavă AnimaWings se află la sol la Londra din 28 septembrie.** Compania a confirmat situația, dar nu a confirmat că aceasta ar fi fost cauzată de neplata unor datorii; a precizat că discută cu partenerii de leasing și cu Airbus despre problemele tehnice ale aeronavelor."
-  },
-  {
-    "group_id": "group_de13b35a49",
-    "fingerprint": "8d4ffc28f41cab03c1eb2d0b227010d8",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Grindeanu: Mâine avem ședință de Consiliu Politic Național în care decidem ce va face PSD",
-        "link": "https://agerpres.ro/politic/2026/10/13/grindeanu-maine-avem-sedinta-de-consiliu-politic-national-in-care-decidem-ce-va-face-psd--1602669"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Grindeanu anunță că PSD decide miercuri dacă intră în Guvernul Luca Niculescu. Ce spune despre alegerile anticipate",
-        "link": "https://adevarul.ro/politica/grindeanu-anunta-ca-psd-decide-miercuri-daca-intra-2563828.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Grindeanu afirmă că ședința finală a PSD de miercuri va stabili dacă partidul intră la guvernare",
-        "link": "https://www.g4media.ro/grindeanu-afirma-ca-sedinta-finala-a-psd-de-miercuri-va-stabili-daca-partidul-intra-la-guvernare.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Consiliul Naţional al PSD se reuneşte la Vila Lac, pentru a decide dacă intră la guvernare. Grindeanu pune pe masă trei scenarii pentru susținerea Cabinetului Niculescu",
-        "link": "https://adevarul.ro/politica/consiliul-national-al-psd-se-reuneste-la-vila-2563834.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ședință decisivă astăzi la PSD pentru Guvernul Niculescu. Grindeanu: „Eu o să le prezint colegilor trei variante”",
-        "link": "https://hotnews.ro/sedinta-decisiva-astazi-la-psd-pentru-guvernul-niculescu-grindeanu-eu-o-sa-le-prezint-colegilor-trei-variante-2375286"
-      },
-      {
-        "source": "Digi24",
-        "title": "Consiliul Naţional al PSD se reuneşte pentru a decide forma de implicare în guvernul Niculescu. Grindeanu va prezenta trei variante",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/consiliul-national-al-psd-se-reuneste-pentru-a-decide-forma-de-implicare-in-guvernul-niculescu-grindeanu-va-prezenta-trei-variante-3991119"
-      },
-      {
-        "source": "Mediafax",
-        "title": "PSD decide miercuri formula de implicare în Guvernul Luca Niculescu. Sorin Grindeanu pune pe masă trei variante",
-        "link": "https://www.mediafax.ro/politic/psd-decide-miercuri-formula-de-implicare-in-guvernul-luca-niculescu-sorin-grindeanu-pune-pe-masa-trei-variante-23824950"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "PSD decide cum se implică în Guvernul Niculescu. Sorin Grindeanu: „Au luat la mișto acest apel al meu”",
-        "link": "https://stirileprotv.ro/stiri/politic/psd-decide-cum-se-implica-in-guvernul-niculescu-sorin-grindeanu-au-luat-la-misto-acest-apel-al-meu.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Stenograme din ședința PSD: „Dacă ne dați muniție, votez cu trei mâini un astfel de guvern”/ „Eu am un doctorat în Nicușor Dan”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/stenograme-din-sedinta-psd-daca-ne-dati-munitie-votez-cu-trei-maini-un-astfel-de-guvern-eu-am-un-doctorat-in-nicusor-dan-3992473"
-      }
-    ],
-    "published_at": 1791992450,
-    "title_hu": "A PSD belép a Niculescu-kormányba, 11 minisztert adna",
-    "lead_hu": "A PSD szerdai döntése szerint részt vesz a Luca Niculescu vezette kormányban, és a sajtóértesülések alapján 11 miniszteri helyet kapna egy politikusokból és technokratákból álló kabinetben. A párt hat hónap után értékeli, marad-e a kormányban; a PNL kormányon kívülről szavazná meg a kabinetet, az RMDSZ pedig szintén támogatja.",
-    "content_hu": "• **A PSD döntése** – A párt szerdai Országos Politikai Tanácsa úgy határozott, hogy belép a Luca Niculescu vezette kormányba, és a parlamentben támogatja a kabinetet. A Digi24 beszámolója szerint a kormány támogatását egyhangúlag szavazták meg, a miniszterekkel való kormányzati részvételnél pedig nyolcan tartózkodtak, köztük Sorin Grindeanu, Marcel Ciolacu és Ciprian Șerban.\n\n• **A kormány összetétele** – Sajtóértesülések szerint a PSD 11 minisztert delegálna egy vegyes, politikusokból és technokratákból álló kabinetbe; a HotNews hat technokrata részvételéről is beszámolt. A megnevezett PSD-jelöltek között van Marian Neacșu belügyminiszterként és miniszterelnök-helyettesként, Florin Barbu a mezőgazdasági, Alexandru Rogobete pedig az egészségügyi tárca élére. A teljes névsort és a fennmaradó jelöléseket a források nem közölték egységesen.\n\n• **Hat hónap után felülvizsgálat** – A PSD a beszámolók szerint hat hónap múlva értékeli, hogy a kormányban marad-e.\n\n• **A döntés előzményei** – Grindeanu a szerdai ülés előtt három lehetőséget vázolt: a kormányzás és a kabinet támogatásának elutasítását, egy technokrata kormány támogatását, illetve politikai kormány alakítását. A technokrata megoldást gyengének és sérülékenynek nevezte, és azt mondta, a párt több politikai erő részvételével létrejövő, átlátható többséget szeretne.\n\n• **A PSD követelései** – A Mediafax értesülései szerint a párt többek között egyes juttatások indexálását és a CASS-egészségügyi hozzájárulás megfizetésének eltörlését kérné bizonyos csoportoknak, köztük az anyáknak és a veteránoknak. A követelések teljes listáját és költségvetési hatását nem hozták nyilvánosságra.\n\n• **A PSD belső figyelmeztetései** – A Digi24 által közölt, a pártülésről származó jegyzőkönyvrészletek szerint Grindeanu nehéz, támadásokkal teli hat hónapra figyelmeztetett, és kemény munkát várt a leendő miniszterektől. Claudiu Manda a közigazgatási reformot sürgette; Gabriel Zetea pedig a kormányzati eredményeket és a kiváltságok elleni fellépést nevezte fontosnak. Ezek a közlések a sajtó által megszerzett jegyzőkönyveken alapulnak.\n\n• **Pénzügyi helyzet** – Grindeanu közölte: ha a PSD kormányra lép, azt kéri Niculescutól, hogy két héten belül ismertesse a parlamentben Románia aktuális pénzügyi helyzetét.\n\n• **PNL** – A liberálisok bejelentették, hogy megszavazzák a Niculescu-kormány beiktatását, de nem lépnek be a kabinetbe, és ellenzékben maradnak. A PNL kétoldalú megállapodást is mérlegel a miniszterelnök-jelölttel; ennek feltételeihez kötnék, hogy hat hónapig ne kezdeményezzenek és ne támogassanak bizalmatlansági indítványt.\n\n• **RMDSZ** – Kelemen Hunor szerint az RMDSZ megszavazza a kormányt és a programját. A HotNews értesülése szerint a szervezet nem küld minisztereket a kabinetbe, viszont a PNL-hez hasonlóan támogatási megállapodást írhat alá Niculescuval.\n\n• **Parlamenti menetrend** – Niculescunak csütörtökön kell benyújtania a parlamentnek a kormányprogramot és a miniszterjelöltek névsorát. A beszámolók szerint a meghallgatások és a beiktatási szavazás időpontjáról még egyeztettek; a Mediafax a pénteki, október 16-i szavazást lehetséges menetrendként említette.\n\n• **Előrehozott választás** – Grindeanu kedvezőtlennek nevezte az előrehozott választást, mert szerinte legkorábban februárban tarthatnák meg, költségvetés és költségvetési kiigazítás nélkül, addig pedig ügyvezető kormány irányítana. Alkotmányos lehetőségnek nevezte, és azt mondta, a PSD szervezeti előkészületeket tett, de nem látott hivatalos elnöki közleményt a parlament feloszlatásáról.",
-    "title_ro": "PSD intră în Guvernul Niculescu și ar urma să aibă 11 miniștri",
-    "lead_ro": "PSD a decis miercuri să intre în Guvernul condus de Luca Niculescu și să susțină Cabinetul în Parlament. Potrivit relatărilor din presă, partidul ar urma să aibă 11 miniștri într-un executiv mixt, cu politicieni și tehnocrați, iar după șase luni va evalua dacă rămâne la guvernare. PNL va vota învestirea din opoziție, iar UDMR susține, de asemenea, Guvernul.",
-    "content_ro": "• **Decizia PSD** – Consiliul Politic Național al partidului a decis miercuri ca PSD să intre în Guvernul condus de Luca Niculescu și să susțină Cabinetul în Parlament. Potrivit Digi24, susținerea Guvernului a fost votată în unanimitate, iar la votul privind participarea cu miniștri s-au înregistrat opt abțineri, inclusiv cele ale lui Sorin Grindeanu, Marcel Ciolacu și Ciprian Șerban.\n\n• **Componența Guvernului** – Potrivit relatărilor din presă, PSD ar urma să aibă 11 miniștri într-un Cabinet mixt, format din politicieni și tehnocrați; HotNews a relatat și despre participarea a șase tehnocrați. Printre nominalizările PSD menționate se numără Marian Neacșu pentru Interne și funcția de vicepremier, Florin Barbu la Agricultură și Alexandru Rogobete la Sănătate. Sursele nu au prezentat în mod consecvent lista completă și toate nominalizările.\n\n• **Evaluare după șase luni** – Potrivit relatărilor, PSD va analiza după șase luni dacă rămâne în Guvern.\n\n• **Opțiunile prezentate înaintea deciziei** – Înaintea ședinței de miercuri, Grindeanu a prezentat trei variante: refuzul de a intra la guvernare și de a susține Cabinetul, susținerea unui guvern tehnocrat sau formarea unui guvern politic. El a descris varianta tehnocrată drept slabă și vulnerabilă și a spus că PSD își dorește o majoritate transparentă, cu participarea mai multor formațiuni politice.\n\n• **Solicitările PSD** – Potrivit informațiilor Mediafax, partidul ar urma să ceară, printre altele, indexarea unor beneficii și eliminarea obligației de plată a contribuției CASS pentru anumite categorii, inclusiv mame și veterani. Lista completă a solicitărilor și impactul bugetar nu au fost făcute publice.\n\n• **Avertismente în ședința PSD** – Potrivit unor fragmente din stenogramele ședinței, publicate de Digi24, Grindeanu a avertizat că următoarele șase luni vor fi dificile și că se așteaptă la muncă intensă din partea viitorilor miniștri. Claudiu Manda a cerut reformă administrativă, iar Gabriel Zetea a subliniat importanța rezultatelor guvernării și a luptei împotriva privilegiilor. Relatările se bazează pe stenograme obținute de presă.\n\n• **Situația financiară** – Grindeanu a declarat că, dacă PSD intră la guvernare, îi va cere lui Niculescu să prezinte Parlamentului, în termen de două săptămâni, situația financiară actuală a României.\n\n• **PNL** – Liberalii au anunțat că vor vota învestirea Guvernului Niculescu, dar nu vor intra în Cabinet și vor rămâne în opoziție. PNL ia în calcul și un acord bilateral cu premierul desemnat, care ar putea prevedea ca, timp de șase luni, partidul să nu inițieze și să nu susțină moțiuni de cenzură.\n\n• **UDMR** – Kelemen Hunor a declarat că UDMR va vota Guvernul și programul de guvernare. Potrivit HotNews, Uniunea nu va avea miniștri în Cabinet, dar ar putea semna, la fel ca PNL, un acord de susținere cu Niculescu.\n\n• **Calendarul parlamentar** – Niculescu trebuie să depună joi la Parlament programul de guvernare și lista miniștrilor propuși. Potrivit relatărilor, calendarul audierilor și al votului de învestitură era încă discutat; Mediafax a menționat ca posibilă dată a votului ziua de vineri, 16 octombrie.\n\n• **Alegeri anticipate** – Grindeanu a spus că alegerile anticipate ar fi nefavorabile, deoarece s-ar putea desfășura cel mai devreme în februarie, fără rectificare bugetară și fără buget, iar până atunci țara ar fi condusă de un guvern interimar. El a numit alegerile anticipate o posibilitate constituțională și a spus că PSD a început pregătirile organizatorice, dar că nu a văzut un comunicat oficial al Președinției privind dizolvarea Parlamentului."
   },
   {
     "group_id": "group_339fe2df6a",
@@ -743,54 +1027,6 @@
     "content_ro": "În câmp, la marginea satului Ariciu din județul Brăila, o trecere de pietoni \"străluceşte\" în noapte cu ajutorul unor instalații LED și panouri fotovoltaice. Singura ei problemă e că nu duce nicăieri."
   },
   {
-    "group_id": "group_dfd5ad472a",
-    "fingerprint": "7f3c7d140a88042ebed257cc07a9441c",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cine va prelua atribuțiile Papei Leon în timp ce va fi internat în spital. În ce constă legile Vaticanului",
-        "link": "https://www.mediafax.ro/stirile-zilei/cine-va-prelua-atributiile-papei-leon-in-timp-ce-va-fi-internat-in-spital-in-ce-consta-legile-vaticanului-23824680"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Papa Leon al XIV-lea, diagnosticat cu cancer pulmonar. Medicii i-au îndepărtat o parte din plămân",
-        "link": "https://www.mediafax.ro/externe/papa-leon-al-xiv-lea-diagnosticat-cu-cancer-pulmonar-medicii-i-au-indepartat-o-parte-din-plaman-23824867"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Primul anunț al Vaticanului după diagnosticul de cancer pumonar stabilit pentru Papa Leon",
-        "link": "https://hotnews.ro/primul-anunt-al-vaticanului-dupa-diagnosticul-de-cancer-pumonar-stabilit-pentru-papa-leon-2375384"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ce este adenocarcinomul, cancerul cu care a fost diagnosticat Papa Leon",
-        "link": "https://hotnews.ro/ce-este-adenocarcinomul-cancerul-cu-care-a-fost-diagnosticat-papa-leon-2375463"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Papa Leon al XIV-lea, diagnosticat cu cancer pulmonar. Operația a reușit, iar episcopii catolici din România se roagă pentru însănătoșirea sa",
-        "link": "https://www.ebihoreanul.ro/stiri/papa-leon-al-xiv-lea-diagnosticat-cu-cancer-pulmonar-operatia-a-reusit-iar-episcopii-catolici-din-romania-se-roaga-pentru-insanatosirea-sa-205792.html"
-      },
-      {
-        "source": "RomKat",
-        "title": "Szabályosan zajlik XIV. Leó pápa műtét utáni felépülése – A Szentatya már jár és étkezik",
-        "link": "https://romkat.ro/2026/10/14/szabalyosan-zajlik-xiv-leo-papa-mutet-utani-felepulese-a-szentatya-mar-jar-es-etkezik/"
-      }
-    ],
-    "published_at": 1791991498,
-    "title_hu": "Tüdő-adenokarcinómát igazoltak XIV. Leó pápánál; a stádium továbbra sem ismert",
-    "lead_hu": "A szövettani vizsgálat tüdő-adenokarcinómát igazolt XIV. Leó pápánál, akinek október 13-án videóasszisztált technikával eltávolították a jobb tüdeje alsó lebenyét. A műtét komplikációk nélkül zajlott, a pápa nyugodt éjszaka után megkezdte a felépülést; a daganat stádiumáról és esetleges terjedéséről továbbra sincs elegendő adat.",
-    "content_hu": "• **Október 13-án, nem sokkal 13 óra előtt** XIV. Leó pápa megérkezett a római Agostino Gemelli Egyetemi Kórházba. A tüdejében talált, korai vizsgálatokon észlelt, jól körülhatárolt elváltozásról október 11-én, az Úrangyala-imádság alkalmával beszélt először nyilvánosan, és a hívek imáit kérte.\n\n• **A műtét sikeresen, komplikációk nélkül zajlott:** a pápa mintegy három órát töltött a műtőben, maga a beavatkozás körülbelül 90 percig tartott. Normálisan magához tért, rövid megfigyelés után visszatért kórházi szobájába.\n\n• **A szövettani vizsgálat tüdő-adenokarcinómát igazolt:** videóasszisztált technikával eltávolították a jobb tüdő alsó lebenyét. A vizsgálat megerősítette a műtét előtti gyanút; a Vatikán közlése szerint az elváltozást teljes egészében eltávolították.\n\n• **A daganat stádiuma és esetleges terjedése egyelőre nem ismert:** a Vatikán nem közölte a daganat méretét, illetve azt, hogy érintettek-e a nyirokcsomók. További vizsgálatok folynak, ezért XIV. Leó egyéni prognózisa és az esetleges további kezelés szükségessége még nem állapítható meg.\n\n• **Az adenokarcinóma a tüdőrák gyakori típusa:** mirigysejtekből alakul ki, és a nem kissejtes tüdőrákok közé tartozik; ez a csoport az esetek mintegy 80–85 százalékát, az adenokarcinóma pedig körülbelül 40 százalékát teszi ki. Gyakran a tüdő külső részein jelenik meg, korai szakaszában tünetmentes lehet, és nemcsak dohányzóknál fordul elő.\n\n• **A műtét önmagában gyógyító lehet, ha a daganat kicsi és nem terjedt a nyirokcsomókra:** Stephen Liu, a Georgetown Egyetem tüdőrákszakértője szerint ilyen esetben jó esély lehet a gyógyulásra; a kiterjedtebb betegség kedvezőtlenebb prognózist jelenthet.\n\n• **A túlélési statisztikák nem tekinthetők a pápa egyéni prognózisának:** az American Cancer Society adatai szerint a nem kissejtes tüdőrák ötéves relatív túlélési aránya 67 százalék, ha a betegség a tüdőre korlátozódik, körülbelül 40 százalék, ha közeli szövetekre vagy nyirokcsomókra terjedt, és mintegy 12 százalék távoli szervek érintettsége esetén.\n\n• **A műtétet tapasztalt mellkassebészeti csapat végezte:** Stefano Margaritora professzor vezette az orvoscsoportot, amely több mint ötezer tüdőműtét tapasztalatával rendelkezik. A csapat minimálisan invazív és robottechnikákra szakosodott; a beavatkozás részben robotasszisztált volt. A pápa kezelőorvosa, Luigi Carbone is részt vett a közlemény kiadásában.\n\n• **XIV. Leó első kórházi éjszakája nyugodtan telt:** a Vatikán október 14-én reggel közölte, hogy a pápa jól töltötte az éjszakát. Vacsorát kért, és az estét titkárai, valamint a vatikáni személyzet egyes tagjai társaságában töltötte.\n\n• **A műtét utáni felépülés a várakozásoknak megfelelően halad:** a vérvizsgálatok és a mellkasröntgen eredményei megfelelőek voltak, a pápa légzésfizioterápiát kezdett, már jár a szobájában, és ismét rendszeresen étkezik.\n\n• **A kórházi felépülés várhatóan körülbelül egy hétig tart:** a nyilvános audienciákat október 20-ig törölték. A november 6–17-re tervezett uruguayi, argentin és perui látogatás megtartása a felépülés alakulásától függ.\n\n• **A pápa a novemberi útjára is tekintettel dönthetett a műtét időzítéséről:** Kikucsi Cutomu bíboros, aki hétfőn találkozott vele, azt mondta, XIV. Leó azért választotta az azonnali beavatkozást, hogy ne kelljen elhalasztania a dél-amerikai látogatást. A bíboros szerint a pápa fizikailag jól érezte magát.\n\n• **Pietro Parolin bíboros aggodalmát fejezte ki,** mert nem számított a műtétre, de azt mondta, a pápa nyugalma és a hétfő esti beszélgetésük megnyugtatta.\n\n• **XIV. Leó 71 éves,** és ez az első jelentős, nyilvánosságra került egészségügyi problémája pápasága kezdete óta. Nincs ismert krónikus betegsége, nem dohányzik, rendszeresen teniszezik és úszik; korábban, 1985-ben tífuszláz miatt kórházban kezelték.\n\n• **A pápa bátyja, Louis Prevost szintén daganatos betegséggel küzd:** a 74 éves, Floridában élő férfit 2017-ben mielóma multiplexszel diagnosztizálták. Őssejtkezelést is kapott, a betegség később kiújult, és jelenleg klinikai vizsgálat keretében kezelik.\n\n• **A pápa tisztsége és hatásköre nem változott a kórházi kezelés alatt:** nincs helyettese, a Vatikán napi ügyeit továbbra is az illetékes tisztségviselők intézik. A napi működés és a kinevezések folytatódtak, a pápai jóváhagyást igénylő döntések elhalaszthatók.\n\n• **XIV. Leó a Gemelli-kórház tizedik emeletén kapott kórtermet:** a pápák számára rendszerint fenntartott szobát felújítás miatt nem használhatták, ezért egy másik szobában helyezték el.\n\n• **A pápa felépüléséért imádkoztak a Gemelli-kórházban és a Szent Péter téren is:** a római egyházmegye rózsafüzér-imát tartott Baldo Reina bíboros vezetésével, majd Luis Tagle bíboros celebrálta a szerdai misét. A romániai katolikus püspökök Böcskei László püspök által aláírt üzenetben fejezték ki imádságos szolidaritásukat.\n\n• **Vezetők és politikusok is jókívánságaikat küldték XIV. Leónak:** köztük Marco Rubio amerikai külügyminiszter és Frank-Walter Steinmeier német államfő.",
-    "title_ro": "Papa Leon al XIV-lea, diagnosticat cu adenocarcinom pulmonar; stadiul bolii rămâne necunoscut",
-    "lead_ro": "Examenul histologic a confirmat un adenocarcinom pulmonar la Papa Leon al XIV-lea, căruia i-a fost extirpat lobul inferior al plămânului drept, printr-o tehnică video-asistată, pe 13 octombrie. Operația s-a desfășurat fără complicații, iar după o noapte liniștită papa a început recuperarea; stadiul cancerului și eventuala sa răspândire nu sunt încă precizate.",
-    "content_ro": "• **Pe 13 octombrie, cu puțin înainte de ora 13:00,** Papa Leon al XIV-lea a ajuns la Spitalul Universitar Agostino Gemelli din Roma. Despre formațiunea pulmonară bine delimitată, descoperită la controale medicale, a vorbit public pentru prima dată pe 11 octombrie, în timpul rugăciunii Angelus, când le-a cerut credincioșilor să se roage pentru el.\n\n• **Operația s-a încheiat cu succes și fără complicații:** papa a petrecut aproximativ trei ore în sala de operație, iar intervenția propriu-zisă a durat circa 90 de minute. Și-a recăpătat cunoștința în mod normal și, după o scurtă perioadă de observație, s-a întors în salon.\n\n• **Examenul histologic a confirmat un adenocarcinom pulmonar:** chirurgii au îndepărtat lobul inferior al plămânului drept folosind o tehnică video-asistată. Analiza a confirmat suspiciunea medicilor de dinaintea operației, iar Vaticanul a transmis că formațiunea a fost extirpată în întregime.\n\n• **Stadiul cancerului și eventuala sa răspândire nu sunt cunoscute deocamdată:** Vaticanul nu a comunicat dimensiunea tumorii și nici dacă au fost afectați ganglionii limfatici. Sunt în curs investigații suplimentare, astfel că prognosticul individual al papei și necesitatea unui tratament ulterior nu pot fi stabilite încă.\n\n• **Adenocarcinomul este o formă frecventă de cancer pulmonar:** se dezvoltă în celulele glandulare și face parte din categoria cancerelor pulmonare non-microcelulare, care reprezintă aproximativ 80–85% din cazuri. Adenocarcinomul constituie circa 40% din toate cazurile de cancer pulmonar; apare adesea în zonele exterioare ale plămânului, poate fi asimptomatic în stadiile timpurii și se întâlnește și la persoane care nu au fumat.\n\n• **Operația poate avea caracter curativ dacă tumora este mică și nu s-a extins la ganglionii limfatici:** Stephen Liu, expert în cancer pulmonar la Universitatea Georgetown, a spus că în acest caz există șanse bune de vindecare. O boală mai extinsă poate indica un prognostic mai nefavorabil.\n\n• **Statisticile de supraviețuire nu reprezintă prognosticul individual al papei:** potrivit Societății Americane de Cancer, rata relativă de supraviețuire la cinci ani pentru cancerul pulmonar non-microcelular este de 67% când boala este limitată la plămân, de aproximativ 40% când s-a extins la țesuturile apropiate sau la ganglionii limfatici și de circa 12% când a ajuns la organe îndepărtate.\n\n• **Operația a fost efectuată de o echipă experimentată de chirurgie toracică:** echipa a fost condusă de profesorul Stefano Margaritora și are experiența a peste 5.000 de intervenții pulmonare. Specializată în tehnici minim invazive și robotice, echipa a realizat o operație parțial asistată robotic. Medicul personal al papei, Luigi Carbone, a participat la comunicarea informațiilor medicale.\n\n• **Papa Leon al XIV-lea a avut o primă noapte liniștită după operație:** Vaticanul a anunțat miercuri dimineață că s-a odihnit bine. Papa a cerut cina și și-a petrecut seara alături de secretarii săi și de membri ai personalului Vaticanului.\n\n• **Recuperarea postoperatorie evoluează conform așteptărilor:** analizele de sânge și radiografia toracică au avut rezultate corespunzătoare, papa a început fizioterapia respiratorie, se deplasează în salon și a revenit la mesele regulate.\n\n• **Spitalizarea pentru recuperare ar urma să dureze aproximativ o săptămână:** audiențele publice au fost anulate până pe 20 octombrie. Desfășurarea vizitei programate în Uruguay, Argentina și Peru între 6 și 17 noiembrie va depinde de evoluția recuperării.\n\n• **Papa ar fi putut ține cont de călătoria din noiembrie când a ales momentul operației:** cardinalul Tomotsu Kikuchi, care s-a întâlnit cu el luni, a spus că Leon a ales intervenția imediată pentru a nu fi nevoit să amâne vizita în America de Sud. Potrivit cardinalului, papa se simțea bine din punct de vedere fizic.\n\n• **Cardinalul Pietro Parolin și-a exprimat îngrijorarea,** deoarece nu se aștepta la operație, dar a spus că seninătatea papei și conversația lor de luni seară l-au liniștit.\n\n• **Papa Leon al XIV-lea are 71 de ani,** iar aceasta este prima problemă majoră de sănătate făcută publică de la începutul pontificatului său. Nu are boli cronice cunoscute, nu fumează și face în mod regulat sport, inclusiv tenis și înot; în 1985 a fost spitalizat cu febră tifoidă.\n\n• **Fratele mai mare al papei, Louis Prevost, se tratează și el pentru cancer:** bărbatul de 74 de ani, care locuiește în Florida, a fost diagnosticat cu mielom multiplu în 2017. A urmat inclusiv un tratament cu celule stem, boala a recidivat ulterior, iar acum este tratat în cadrul unui studiu clinic.\n\n• **Funcția și atribuțiile papei nu s-au schimbat pe durata spitalizării:** el nu are un adjunct, iar oficialii Vaticanului continuă să gestioneze activitatea zilnică. Instituțiile și numirile își continuă activitatea, în timp ce deciziile care necesită aprobarea papei pot fi amânate.\n\n• **Papa a fost internat într-un salon de la etajul al zecelea al Spitalului Gemelli:** camera rezervată de obicei papilor nu era disponibilă, fiind în renovare, așa că a fost repartizat într-un alt salon.\n\n• **Credincioșii s-au rugat pentru însănătoșirea papei la Spitalul Gemelli și în Piața Sfântul Petru:** Dieceza Romei a organizat o rugăciune a Rozariului condusă de cardinalul Baldo Reina, iar slujba de miercuri a fost celebrată de cardinalul Luis Tagle. Episcopii catolici din România au transmis un mesaj de solidaritate în rugăciune, semnat de episcopul Böcskei László.\n\n• **Lideri și politicieni i-au transmis papei mesaje de susținere,** printre care secretarul de stat american Marco Rubio și președintele Germaniei, Frank-Walter Steinmeier."
-  },
-  {
     "group_id": "group_7aa1f93b45",
     "category": "Politika",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-14-at-18-25-25-1024x682.jpeg",
@@ -928,27 +1164,6 @@
     "title_ro": "Colegiul Medicilor cere reforme urgente pentru sistemul de sănătate",
     "lead_ro": "Colegiul Medicilor din România (CMR) îi solicită premierului desemnat Luca Niculescu să includă în programul de guvernare un pachet de reforme în sănătate. Propunerile vizează plata gărzilor, distribuția medicilor, condițiile de lucru din spitale și elaborarea a două legi noi.",
     "content_ro": "• **Colegiul Medicilor din România (CMR)** i-a transmis o scrisoare publică premierului desemnat Luca Niculescu și reprezentanților clasei politice, cerând includerea propunerilor sale în programul de guvernare.\n\n• **Plata gărzilor** ar trebui calculată în raport cu salariul de bază actual, nu cu cel din 2017, iar CMR cere respectarea repausului obligatoriu după gardă și reglementarea compensării muncii suplimentare.\n\n• **Distribuirea echilibrată a medicilor** ar urma să fie sprijinită printr-o strategie națională și stimulente predictibile pentru zonele cu deficit. Potrivit unui studiu CMR din 2026, 93,7% dintre medicii rezidenți ar accepta să lucreze în zone mai puțin atractive sau defavorizate medical dacă ar avea condiții adecvate.\n\n• **Îmbunătățirea condițiilor de lucru din spitale** presupune personal și organizare adecvate, echipamente și materiale de igienă de bază, precum și spații pentru odihnă și masă. Peste două treimi dintre rezidenți au raportat suprasolicitare, lipsă de resurse și vulnerabilități structurale la locul de muncă, potrivit studiului citat de CMR.\n\n• **Finanțarea sistemului medical** ar trebui să se bazeze pe o evaluare transparentă și periodică a costurilor reale, pe un calendar clar de revizuire a finanțării și decontărilor și pe plăți predictibile.\n\n• **Coordonarea îngrijirii pacienților** ar putea fi îmbunătățită prin consolidarea medicinei de familie, dezvoltarea ambulatoriilor și a centrelor de permanență, reducerea internărilor evitabile și o mai bună legătură între nivelurile de îngrijire.\n\n• **Prevenirea lipsei medicamentelor** ar necesita un sistem național funcțional și coordonat de alertare, care să semnaleze din timp riscurile de aprovizionare și să faciliteze intervenția autorităților.\n\n• **Două legi noi** sunt propuse de CMR: o Lege a Sănătății și o Lege a Profesiei Medicale. Colegiul cere un calendar public de elaborare, consultarea organizațiilor profesionale și a asociațiilor de pacienți și evaluarea impactului medical și bugetar."
-  },
-  {
-    "group_id": "group_8501e4bb4e",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/lei-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Au forțat două terminale de plată din Capitală și au fugit cu banii. Doi tineri de 15 și 18 ani, reținuți",
-        "link": "https://www.mediafax.ro/social/au-fortat-doua-terminale-de-plata-din-capitala-si-au-fugit-cu-banii-doi-tineri-de-15-si-18-ani-retinuti-23825428"
-      }
-    ],
-    "published_at": 1791991264,
-    "title_hu": "Au forțat două terminale de plată din Capitală și au fugit cu banii. Doi tineri de 15 și 18 ani, reținuți",
-    "lead_hu": "Un adolescent de 15 ani și un tânăr de 18 ani au fost reținuți de polițiști, fiind suspectați că au spart două terminale electronice de plată din București, de unde ar fi încercat să fure casetele în …",
-    "content_hu": "Un adolescent de 15 ani și un tânăr de 18 ani au fost reținuți de polițiști, fiind suspectați că au spart două terminale electronice de plată din București, de unde ar fi încercat să fure casetele în care erau depozitați banii.",
-    "title_ro": "Au forțat două terminale de plată din Capitală și au fugit cu banii. Doi tineri de 15 și 18 ani, reținuți",
-    "lead_ro": "Un adolescent de 15 ani și un tânăr de 18 ani au fost reținuți de polițiști, fiind suspectați că au spart două terminale electronice de plată din București, de unde ar fi încercat să fure casetele în …",
-    "content_ro": "Un adolescent de 15 ani și un tânăr de 18 ani au fost reținuți de polițiști, fiind suspectați că au spart două terminale electronice de plată din București, de unde ar fi încercat să fure casetele în care erau depozitați banii."
   },
   {
     "group_id": "group_f79faa7e8d",
@@ -8333,27 +8548,6 @@
     "content_ro": "Obiectivul de limitare la 1,5 grade C a creșterii temperaturii globale nu mai este valabil, dar omenirea poate evita o catastrofă climatică provocată de încălzirea globală, a declarat Gianpiero Nacci, director general pentru strategie climatică […] Articolul Gianpiero Nacci (BERD): Anul trecut, 70% din întreaga capacitate nouă de energie electrică instalată la nivel mondial a fost solară. Putem evita o catastrofă climatică apare prima dată în Go4IT."
   },
   {
-    "group_id": "group_9d1d5e4694",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Manna",
-        "title": "Lemondott Tótth András energetikai államtitkár",
-        "link": "https://a24.hu/lemondott-totth-andras-energetikai-allamtitkar/"
-      }
-    ],
-    "published_at": 1791977062,
-    "title_hu": "Lemondott Tótth András energetikai államtitkár",
-    "lead_hu": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium…",
-    "content_hu": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium közleménye szerint Tótth András lemondását dr. Baka András köztársasági elnök fogadta el Magyar Péter miniszterelnök javaslatára. A döntés időpontját is rögzítették: az államtitkári feladatkör megszűnését 2026. október 13-ai […]",
-    "title_ro": "Lemondott Tótth András energetikai államtitkár",
-    "lead_ro": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium…",
-    "content_ro": "Személyes okokból lemondott Tótth András, a Gazdasági és Energetikai Minisztérium energetikai államtitkára. A tárca kedd este közölte, hogy a megbízatása 2026. október 13-án szűnik meg. A minisztérium közleménye szerint Tótth András lemondását dr. Baka András köztársasági elnök fogadta el Magyar Péter miniszterelnök javaslatára. A döntés időpontját is rögzítették: az államtitkári feladatkör megszűnését 2026. október 13-ai […]"
-  },
-  {
     "group_id": "group_d56a69d0ed",
     "fingerprint": "78ba25631013308564c54376f35e6b5c",
     "category": "Politika",
@@ -8443,27 +8637,6 @@
     "title_ro": "Prețul gramului de aur, 14 octombrie 2026. Aurul s-a ieftinit cu peste 7 lei",
     "lead_ro": "Prețul gramului de aur a scăzut miercuri, 14 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 635,4807 lei, după ce în ședința precedentă fuses…",
     "content_ro": "Prețul gramului de aur a scăzut miercuri, 14 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 635,4807 lei, după ce în ședința precedentă fusese cotat la 642,8367 lei."
-  },
-  {
-    "group_id": "group_726461fd45",
-    "category": "Kultúra",
-    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_583734186_1339108384581444_3660367735786684561_n.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "A bántalmazásról és az irodalom gyógyító erejéről is szó lesz a 32. Marosvásárhelyi Nemzetközi Könyvvásáron",
-        "link": "https://maszol.ro/kultura/A-bantalmazasrol-es-az-irodalom-gyogyito-erejerol-is-szo-lesz-a-32-Marosvasarhelyi-Nemzetkozi-Konyvvasaron"
-      }
-    ],
-    "published_at": 1791976860,
-    "title_hu": "A bántalmazásról és az irodalom gyógyító erejéről is szó lesz a 32. Marosvásárhelyi Nemzetközi Könyvvásáron",
-    "lead_hu": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe.",
-    "content_hu": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe.",
-    "title_ro": "A bántalmazásról és az irodalom gyógyító erejéről is szó lesz a 32. Marosvásárhelyi Nemzetközi Könyvvásáron",
-    "lead_ro": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe.",
-    "content_ro": "Fény a léleknek - 32. alkalommal szervezik meg Marosvásárhelyen a Nemzetközi Könyvvásárt. Idén a bántalmazás és az irodalom gyógyító ereje kerül előtérbe."
   },
   {
     "group_id": "group_7fd8b7544f",
@@ -17481,180 +17654,5 @@
     "title_ro": "Interul lui Cristi Chivu, desființat după umilința cu Club Brugge! Paolo Di Canio nu a menajat pe nimeni: „Nu există niciun jucător de clasă mondială!”",
     "lead_ro": "După ce Interul lui Cristi Chivu a fost învins pe teren propriu de Club Brugge, scor 3-4, Paolo Di Canio, fostul atacant italian trecut de-a lungul carierei pe la Lazio, Milan, Napoli sau West Ham, ac…",
     "content_ro": "După ce Interul lui Cristi Chivu a fost învins pe teren propriu de Club Brugge, scor 3-4, Paolo Di Canio, fostul atacant italian trecut de-a lungul carierei pe la Lazio, Milan, Napoli sau West Ham, actualmente analist pentru Sky Sport, a lansat o serie de critici la adresa „nerazzurrilor”. ..."
-  },
-  {
-    "group_id": "group_8a4a79a26c",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/banc-11-1200x686.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "BANC | Bulă vrea o soluție pentru creșterea părului",
-        "link": "https://www.cancan.ro/banc-bula-vrea-o-solutie-pentru-cresterea-parului-21529815"
-      }
-    ],
-    "published_at": 1791951457,
-    "title_hu": "BANC | Bulă vrea o soluție pentru creșterea părului",
-    "lead_hu": "CANCAN.RO ți-a pregătit bancul zilei de miercuri. Bulă este în căutarea unei soluții pentru creșterea părului. Ești pregătit să râzi cum nu ai mai făcut-o de mult timp? – Aveți soluție pentru creștere…",
-    "content_hu": "CANCAN.RO ți-a pregătit bancul zilei de miercuri. Bulă este în căutarea unei soluții pentru creșterea părului. Ești pregătit să râzi cum nu ai mai făcut-o de mult timp? – Aveți soluție pentru creșterea părului? – Da, domnule Bulă, avem. – Este de calitate bună? – Sigur. Vedeți la casă omul acela cu mustață? – Da. […]",
-    "title_ro": "BANC | Bulă vrea o soluție pentru creșterea părului",
-    "lead_ro": "CANCAN.RO ți-a pregătit bancul zilei de miercuri. Bulă este în căutarea unei soluții pentru creșterea părului. Ești pregătit să râzi cum nu ai mai făcut-o de mult timp? – Aveți soluție pentru creștere…",
-    "content_ro": "CANCAN.RO ți-a pregătit bancul zilei de miercuri. Bulă este în căutarea unei soluții pentru creșterea părului. Ești pregătit să râzi cum nu ai mai făcut-o de mult timp? – Aveți soluție pentru creșterea părului? – Da, domnule Bulă, avem. – Este de calitate bună? – Sigur. Vedeți la casă omul acela cu mustață? – Da. […]"
-  },
-  {
-    "group_id": "group_b784141e7e",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "O actriță pe val la Hollywood spune că e stânjenită de trecutul ei și că nu mai acceptă scene erotice: „Acum am copii”",
-        "link": "https://hotnews.ro/o-actrita-pe-val-la-hollywood-spune-ca-e-stanjenita-de-trecutul-ei-si-ca-nu-mai-accepta-scene-erotice-acum-am-copii-2374704"
-      }
-    ],
-    "published_at": 1791951150,
-    "title_hu": "O actriță pe val la Hollywood spune că e stânjenită de trecutul ei și că nu mai acceptă scene erotice: „Acum am copii”",
-    "lead_hu": "Apreciata actriță americană Amanda Seyfried pune capăt scenelor de sex în această etapă a carierei sale, spunând că este uimită de lejeritatea cu care le-a acceptat în trecut, relatează revista Variet…",
-    "content_hu": "Apreciata actriță americană Amanda Seyfried pune capăt scenelor de sex în această etapă a carierei sale, spunând că este uimită de lejeritatea cu care le-a acceptat în trecut, relatează revista Variety. Actrița nominalizată la Oscar pentru interpretarea din drama biografică „Mank” din 2020 a dezvăluit că „a refuzat un serial în care ar fi trebuit …",
-    "title_ro": "O actriță pe val la Hollywood spune că e stânjenită de trecutul ei și că nu mai acceptă scene erotice: „Acum am copii”",
-    "lead_ro": "Apreciata actriță americană Amanda Seyfried pune capăt scenelor de sex în această etapă a carierei sale, spunând că este uimită de lejeritatea cu care le-a acceptat în trecut, relatează revista Variet…",
-    "content_ro": "Apreciata actriță americană Amanda Seyfried pune capăt scenelor de sex în această etapă a carierei sale, spunând că este uimită de lejeritatea cu care le-a acceptat în trecut, relatează revista Variety. Actrița nominalizată la Oscar pentru interpretarea din drama biografică „Mank” din 2020 a dezvăluit că „a refuzat un serial în care ar fi trebuit …"
-  },
-  {
-    "group_id": "group_655351cef2",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2019/12/alaska-padure-munti-pexels.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Trump anunță că Taiwanul va cumpăra 30% din producţia viitorului gazoduct din Alaska / SUA vor exporta gaz lichefiat cu nave maritime către Asia",
-        "link": "https://www.g4media.ro/trump-anunta-ca-taiwanul-va-cumpara-30-din-productia-viitorului-gazoduct-din-alaska-sua-vor-exporta-gaz-lichefiat-cu-nave-maritime-catre-asia.html"
-      }
-    ],
-    "published_at": 1791951142,
-    "title_hu": "Trump anunță că Taiwanul va cumpăra 30% din producţia viitorului gazoduct din Alaska / SUA vor exporta gaz lichefiat cu nave maritime către Asia",
-    "lead_hu": "Preşedintele american Donald Trump a declarat în cursul unui miting electoral marţi seară că Taiwanul a acceptat să cumpere 30% din producţia viitorului gazoduct planificat în Alaska (nord-vest), rela…",
-    "content_hu": "Preşedintele american Donald Trump a declarat în cursul unui miting electoral marţi seară că Taiwanul a acceptat să cumpere 30% din producţia viitorului gazoduct planificat în Alaska (nord-vest), relatează Agerpres, care preia AFP. „Taiwanul tocmai a acceptat să cumpere 30% din gazul care va ieşi din gazoduct pentru următorii 20 de ani. Acest lucru garantează […] © G4Media.ro.",
-    "title_ro": "Trump anunță că Taiwanul va cumpăra 30% din producţia viitorului gazoduct din Alaska / SUA vor exporta gaz lichefiat cu nave maritime către Asia",
-    "lead_ro": "Preşedintele american Donald Trump a declarat în cursul unui miting electoral marţi seară că Taiwanul a acceptat să cumpere 30% din producţia viitorului gazoduct planificat în Alaska (nord-vest), rela…",
-    "content_ro": "Preşedintele american Donald Trump a declarat în cursul unui miting electoral marţi seară că Taiwanul a acceptat să cumpere 30% din producţia viitorului gazoduct planificat în Alaska (nord-vest), relatează Agerpres, care preia AFP. „Taiwanul tocmai a acceptat să cumpere 30% din gazul care va ieşi din gazoduct pentru următorii 20 de ani. Acest lucru garantează […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_a37f022097",
-    "fingerprint": "9ae77bcd56fede07421f01813e2610ee",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/canabis-nadlac-724x1024.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Tânăr prins într-un autocar la Nădlac cu peste 7 kilograme de canabis aduse din Spania",
-        "link": "https://www.mediafax.ro/social/tanar-prins-intr-un-autocar-la-nadlac-cu-peste-7-kilograme-de-canabis-aduse-din-spania-23824654"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Pasagerul unui autocar care venea din Spania a fost reținut în Vama Nădlac. Ce i-au descoperit oamenii legii în bagaje",
-        "link": "https://stirileprotv.ro/stiri/actualitate/pasagerul-unui-autocar-care-venea-din-spania-a-fost-retinut-in-vama-nadlac-ce-i-au-descoperit-oamenii-legii-in-bagaje.html"
-      }
-    ],
-    "published_at": 1791950892,
-    "title_hu": "Több mint hét kilogramm kannabisszal fogtak el egy utast a nagylaki határátkelőnél",
-    "lead_hu": "A DIICOT ügyészei egy 21 éves férfit vettek őrizetbe a nagylaki határátkelőnél, miután egy Spanyolországból Romániába tartó autóbusz utasaként több mint hét kilogramm kannabiszt találtak nála. A kábítószert a gyanú szerint értékesítésre szánták; az ügyészek 30 napos előzetes letartóztatást indítványoztak.",
-    "content_hu": "• **A 21 éves férfit a nagylaki határátkelőnél** fogták el, amikor egy Spanyolországból Romániába tartó autóbuszon utazott.\n\n• **Több mint hét kilogramm kannabiszt** találtak nála; a hatóságok szerint a kábítószert romániai értékesítésre szánták.\n\n• **A DIICOT ügyészei** a férfit kábítószer-kereskedelemmel, ezen belül kockázatos kábítószerek nemzetközi és belföldi kereskedelmével gyanúsítják.\n\n• **Az ügyészek 30 napos előzetes letartóztatást indítványoztak** az Arad megyei bíróságon.",
-    "title_ro": "Peste șapte kilograme de canabis, descoperite asupra unui pasager la Nădlac",
-    "lead_ro": "Procurorii DIICOT au reținut un tânăr de 21 de ani la Vama Nădlac, după ce au găsit asupra lui peste șapte kilograme de canabis. Bărbatul călătorea cu un autocar pe ruta Spania–România, iar drogurile ar fi fost destinate vânzării; procurorii au cerut arestarea preventivă pentru 30 de zile.",
-    "content_ro": "• **Tânărul de 21 de ani a fost prins la Vama Nădlac**, în timp ce călătorea cu un autocar pe ruta Spania–România.\n\n• **Asupra lui au fost găsite peste șapte kilograme de canabis**, despre care anchetatorii susțin că erau destinate comercializării în România.\n\n• **Procurorii DIICOT îl cercetează** pentru trafic intern și internațional de droguri de risc.\n\n• **Procurorii au solicitat arestarea preventivă pentru 30 de zile**, la Tribunalul Arad."
-  },
-  {
-    "group_id": "group_71ef53f922",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2019/12/Lucian-Croitoru-e1600410642191.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Câte nominalizări vor fi până la formarea unui guvern? (Op-ed)",
-        "link": "https://www.g4media.ro/cate-nominalizari-vor-fi-pana-la-formarea-unui-guvern-op-ed.html"
-      }
-    ],
-    "published_at": 1791950837,
-    "title_hu": "Câte nominalizări vor fi până la formarea unui guvern? (Op-ed)",
-    "lead_hu": "De la demiterea guvernului Bolojan, pe 5 mai 2026, au existat trei nominalizări pentru funcția de premier: domnii Eugen Tomac, Adrian Veștea și Siegfried Mureșan. Niciuna nu a dus la un guvern. A patr…",
-    "content_hu": "De la demiterea guvernului Bolojan, pe 5 mai 2026, au existat trei nominalizări pentru funcția de premier: domnii Eugen Tomac, Adrian Veștea și Siegfried Mureșan. Niciuna nu a dus la un guvern. A patra, cea a domnului Luca Niculescu, urmează să fie supusă votului. Problema nu e doar câte voturi strânge un candidat, ci ce […] © G4Media.ro.",
-    "title_ro": "Câte nominalizări vor fi până la formarea unui guvern? (Op-ed)",
-    "lead_ro": "De la demiterea guvernului Bolojan, pe 5 mai 2026, au existat trei nominalizări pentru funcția de premier: domnii Eugen Tomac, Adrian Veștea și Siegfried Mureșan. Niciuna nu a dus la un guvern. A patr…",
-    "content_ro": "De la demiterea guvernului Bolojan, pe 5 mai 2026, au existat trei nominalizări pentru funcția de premier: domnii Eugen Tomac, Adrian Veștea și Siegfried Mureșan. Niciuna nu a dus la un guvern. A patra, cea a domnului Luca Niculescu, urmează să fie supusă votului. Problema nu e doar câte voturi strânge un candidat, ci ce […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_57b734eed1",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2022/06/100L5297.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Presa bulgară îl critică pe premierul Rumen Radev: Acțiunea de convocare a ambasadoarei Rusiei după atacarea a două nave a fost un eșec total",
-        "link": "https://www.g4media.ro/presa-bulgara-il-critica-pe-premierul-rumen-radev-actiunea-de-convocare-a-ambasadoarei-rusiei-dupa-atacarea-a-doua-nave-a-fost-un-esec-total.html"
-      }
-    ],
-    "published_at": 1791950730,
-    "title_hu": "Presa bulgară îl critică pe premierul Rumen Radev: Acțiunea de convocare a ambasadoarei Rusiei după atacarea a două nave a fost un eșec total",
-    "lead_hu": "Operațiunea premierului Rumen Radev de a o convoca pe ambasadoarea rusă Eleonora Mitrofanova după ce Rusia a scufundat două nave în apele teritoriale bulgare, a înregistrat un eșec complet, scrie agen…",
-    "content_hu": "Operațiunea premierului Rumen Radev de a o convoca pe ambasadoarea rusă Eleonora Mitrofanova după ce Rusia a scufundat două nave în apele teritoriale bulgare, a înregistrat un eșec complet, scrie agenția bulgară Sega, citată de Rador. Acest lucru a devenit clar după întâlnirea lor de aproape o oră de la Consiliul de Miniștri și declarația […] © G4Media.ro.",
-    "title_ro": "Presa bulgară îl critică pe premierul Rumen Radev: Acțiunea de convocare a ambasadoarei Rusiei după atacarea a două nave a fost un eșec total",
-    "lead_ro": "Operațiunea premierului Rumen Radev de a o convoca pe ambasadoarea rusă Eleonora Mitrofanova după ce Rusia a scufundat două nave în apele teritoriale bulgare, a înregistrat un eșec complet, scrie agen…",
-    "content_ro": "Operațiunea premierului Rumen Radev de a o convoca pe ambasadoarea rusă Eleonora Mitrofanova după ce Rusia a scufundat două nave în apele teritoriale bulgare, a înregistrat un eșec complet, scrie agenția bulgară Sega, citată de Rador. Acest lucru a devenit clar după întâlnirea lor de aproape o oră de la Consiliul de Miniștri și declarația […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_1f63b78409",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Manna",
-        "title": "Simon Kornél elmondta, mi történt Gryllus Dorkával az RTL-ben",
-        "link": "https://a24.hu/simon-kornel-elmondta-mi-tortent-gryllus-dorkaval-az-rtl-ben/"
-      }
-    ],
-    "published_at": 1791950666,
-    "title_hu": "Simon Kornél elmondta, mi történt Gryllus Dorkával az RTL-ben",
-    "lead_hu": "Simon Kornél szerint felesége, Gryllus Dorka már jobban van, miután hétfő reggel rosszul lett az RTL Reggeli élő adásában. A színész azután szólalt meg, hogy az 53 éves színésznő rövid interjúja nagy …",
-    "content_hu": "Simon Kornél szerint felesége, Gryllus Dorka már jobban van, miután hétfő reggel rosszul lett az RTL Reggeli élő adásában. A színész azután szólalt meg, hogy az 53 éves színésznő rövid interjúja nagy figyelmet kapott az interneten. Gryllus Dorka eredetileg a munkáiról beszélt volna Barabás Évának és a nézőknek, de az adás közben láthatóan nehezen összpontosított. […]",
-    "title_ro": "Simon Kornél elmondta, mi történt Gryllus Dorkával az RTL-ben",
-    "lead_ro": "Simon Kornél szerint felesége, Gryllus Dorka már jobban van, miután hétfő reggel rosszul lett az RTL Reggeli élő adásában. A színész azután szólalt meg, hogy az 53 éves színésznő rövid interjúja nagy …",
-    "content_ro": "Simon Kornél szerint felesége, Gryllus Dorka már jobban van, miután hétfő reggel rosszul lett az RTL Reggeli élő adásában. A színész azután szólalt meg, hogy az 53 éves színésznő rövid interjúja nagy figyelmet kapott az interneten. Gryllus Dorka eredetileg a munkáiról beszélt volna Barabás Évának és a nézőknek, de az adás közben láthatóan nehezen összpontosított. […]"
-  },
-  {
-    "group_id": "group_f23ba7b21d",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Jeff Bezos spune că înțelege de ce socialismul câștigă teren, dar politicienii care dau vina pe „proprietarii lacomi” văd complet greșit problema locuințelor",
-        "link": "https://hotnews.ro/jeff-bezos-spune-ca-intelege-de-ce-socialismul-castiga-teren-dar-politicienii-care-dau-vina-pe-proprietarii-lacomi-vad-complet-gresit-problema-locuintelor-2374351"
-      }
-    ],
-    "published_at": 1791950638,
-    "title_hu": "Jeff Bezos spune că înțelege de ce socialismul câștigă teren, dar politicienii care dau vina pe „proprietarii lacomi” văd complet greșit problema locuințelor",
-    "lead_hu": "Scumpirile record la locuințele din SUA schimbă radical mentalitatea economică a tinerilor, iar fondatorul Amazon atrage atenția că intervențiile statului agravează situația. Americanii devin din ce î…",
-    "content_hu": "Scumpirile record la locuințele din SUA schimbă radical mentalitatea economică a tinerilor, iar fondatorul Amazon atrage atenția că intervențiile statului agravează situația. Americanii devin din ce în ce mai receptivi la socialism, chiar dacă percepția lor asupra marilor corporații se înrăutățește, arată sondajele recente. Iar criza locuințelor este principalul motor al acestei schimbări, potrivit unui …",
-    "title_ro": "Jeff Bezos spune că înțelege de ce socialismul câștigă teren, dar politicienii care dau vina pe „proprietarii lacomi” văd complet greșit problema locuințelor",
-    "lead_ro": "Scumpirile record la locuințele din SUA schimbă radical mentalitatea economică a tinerilor, iar fondatorul Amazon atrage atenția că intervențiile statului agravează situația. Americanii devin din ce î…",
-    "content_ro": "Scumpirile record la locuințele din SUA schimbă radical mentalitatea economică a tinerilor, iar fondatorul Amazon atrage atenția că intervențiile statului agravează situația. Americanii devin din ce în ce mai receptivi la socialism, chiar dacă percepția lor asupra marilor corporații se înrăutățește, arată sondajele recente. Iar criza locuințelor este principalul motor al acestei schimbări, potrivit unui …"
   }
 ]
