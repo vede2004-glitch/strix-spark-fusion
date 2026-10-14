@@ -1,7 +1,35 @@
 [
   {
+    "group_id": "group_3a0ed8afed",
+    "fingerprint": "3f96c46433c2afa6860c62d44ae310ff",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/geralt-co2-4767453_1920-1024x678.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Aproape 10.000 de reacții chimice, identificate de IA. Descoperirea ar putea transforma industria combustibililor",
+        "link": "https://www.mediafax.ro/stiinta-sanatate/aproape-10-000-de-reactii-chimice-identificate-de-ia-descoperirea-ar-putea-transforma-industria-combustibililor-23824900"
+      },
+      {
+        "source": "G4Media",
+        "title": "Inteligența artificială găsește noi căi de a transforma dioxidul de carbon în combustibil / Aproape 10.000 de reacții chimice, identificate de IA",
+        "link": "https://www.g4media.ro/inteligenta-artificiala-gaseste-noi-cai-de-a-transforma-dioxidul-de-carbon-in-combustibil-aproape-10-000-de-reactii-chimice-identificate-de-ia.html"
+      }
+    ],
+    "published_at": 1791954091,
+    "title_hu": "A mesterséges intelligencia 9389 reakciót azonosított a CO₂ átalakításánál",
+    "lead_hu": "Az Indiai Tudományos Intézet kutatói mesterséges intelligencia és számítógépes szimulációk segítségével 9389, rézkatalizátor felületén zajló kémiai reakciót térképeztek fel. A Nature Communications folyóiratban közölt eredmények pontosabbá tették a CO₂ metanollá és más hasznos termékekké alakításának modellezését.",
+    "content_hu": "• **Az Indiai Tudományos Intézet kutatói** 9389, rézkatalizátor felületén lejátszódó reakciót azonosítottak, miután a kvantummechanikai szimulációkból kiinduló, 152 reakciót tartalmazó hálózatot mesterséges intelligenciával bővítették.\n\n• **Az új modell** 105, a katalizátor felületén jelen lévő kémiai részecskét vizsgált, és olyan reakciókat is feltárt, amelyeket a hagyományos modellek gyakran figyelmen kívül hagynak.\n\n• **A CO₂-átalakítás becsült mennyisége** a kibővített hálózat alapján mintegy negyvenszerese lett a kezdeti modell előrejelzésének. Az új számítások a metanolt és a szén-monoxidot jelölték meg fő termékként, összhangban a kísérleti eredményekkel.\n\n• **A kutatók egy szokatlan hidrogénátadási mechanizmust is feltártak:** bizonyos reakciólépésekben a hidrogén H₂-molekulaként, előzetes atomokra bontás nélkül kerülhet át a köztes vegyületekre.\n\n• **A módszer további ipari folyamatokban is alkalmazható lehet**, például a nitrogén redukciójának vagy a víz bontásának vizsgálatában, és hozzájárulhat hatékonyabb katalizátorok fejlesztéséhez.",
+    "title_ro": "Inteligența artificială a identificat 9.389 de reacții în transformarea CO₂",
+    "lead_ro": "Cercetători de la Institutul Indian de Știință au cartografiat 9.389 de reacții chimice de pe suprafața unui catalizator de cupru, folosind inteligența artificială și simulări computerizate. Rezultatele, publicate în Nature Communications, îmbunătățesc modelarea transformării CO₂ în metanol și alte produse utile.",
+    "content_ro": "• **Cercetătorii de la Institutul Indian de Știință** au identificat 9.389 de reacții care au loc pe suprafața unui catalizator de cupru, extinzând cu ajutorul inteligenței artificiale o rețea inițială de 152 de reacții obținute prin simulări de mecanică cuantică.\n\n• **Noul model** a analizat 105 specii chimice prezente pe suprafața catalizatorului și a scos la iveală reacții pe care modelele tradiționale le omit adesea.\n\n• **Cantitatea estimată de CO₂ transformat** a fost de aproximativ 40 de ori mai mare decât în predicția modelului inițial. Noul calcul a indicat metanolul și monoxidul de carbon drept principalele produse, în concordanță cu rezultatele experimentale.\n\n• **Cercetătorii au identificat și un mecanism neobișnuit de transfer al hidrogenului:** în anumite etape, acesta poate ajunge la compușii intermediari sub formă de molecule H₂, fără să fie descompus mai întâi în atomi.\n\n• **Metoda ar putea fi aplicată și altor procese industriale**, precum reducerea azotului sau descompunerea apei, și ar putea contribui la dezvoltarea unor catalizatori mai eficienți."
+  },
+  {
     "group_id": "group_8497eb4d1f",
-    "fingerprint": "77174a2b969159dd91c6de22b939a10d",
+    "fingerprint": "205976f6fe574cb373946da07673d91c",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2019/05/Birou-lucru-statistici-Freepik.com_-e1599202745872.jpg",
     "is_synthesized": true,
@@ -19,13 +47,140 @@
         "link": "https://www.mediafax.ro/stirile-zilei/cnas-scoate-la-concurs-16-posturi-de-directori-generali-ai-caselor-de-sanatate-ce-judete-sunt-vizate-si-cand-au-loc-examenele-23823903"
       }
     ],
-    "published_at": 1791953066,
+    "published_at": 1791954040,
     "title_hu": "A CNAS 16 egészségbiztosítási igazgatói állásra hirdet versenyt",
-    "lead_hu": "A román Országos Egészségbiztosítási Pénztár (CNAS) 16 főigazgatói állás betöltésére szervez versenyvizsgát: 15 megyei egészségbiztosítási pénztár és a védelmi, közrendvédelmi és nemzetbiztonsági alkalmazottakat biztosító intézmény érintett. Az írásbeli vizsgát november 18-án tartják Bukarestben, az interjúra november 23-án kerül sor.",
-    "content_hu": "• **A CNAS 16 állásra hirdetett versenyvizsgát**: 15 megyei egészségbiztosítási pénztár, valamint a védelmi, közrendvédelmi, nemzetbiztonsági és igazságügyi szervek egészségbiztosítási pénztárának főigazgatói posztjára keresnek vezetőket.\n\n• **Az érintett megyék** Bákó, Călărași, Kovászna, Dolj, Galați, Giurgiu, Ialomița, Ilfov, Mehedinți, Neamț, Olt, Prahova, Szeben, Suceava és Temes.\n\n• **Az írásbeli vizsgát 2026. november 18-án, 10 órakor** tartják a Bukaresti Közgazdaságtudományi Egyetem Ion Angelescu épületében. Az írásbelin sikeres, a következő forduló feltételeinek megfelelő pályázókat **november 23-án interjúztatják** a CNAS bukaresti központjában.\n\n• **A részvételi feltételek és a szükséges dokumentumok** a CNAS, illetve az érintett megyei pénztárak székhelyén és honlapján érhetők el.",
+    "lead_hu": "A román Országos Egészségbiztosítási Pénztár (CNAS) 16 főigazgatói állás betöltésére szervez versenyvizsgát: 15 megyei egészségbiztosítási pénztár és a védelmi, közrendvédelmi, nemzetbiztonsági és igazságügyi szervek biztosítóintézménye érintett. Az írásbeli vizsgát 2026. november 18-án tartják Bukarestben, az interjúra november 23-án kerül sor. A jelentkezők a feltételekről és a vizsgáról telefonon, illetve a kijelölt kapcsolattartótól e-mailben is érdeklődhetnek.",
+    "content_hu": "• **A CNAS 16 állásra hirdetett versenyvizsgát**: 15 megyei egészségbiztosítási pénztár, valamint a védelmi, közrendvédelmi, nemzetbiztonsági és igazságügyi szervek egészségbiztosítási pénztárának főigazgatói posztjára keresnek vezetőket.\n\n• **Az érintett megyék** Bákó, Călărași, Kovászna, Dolj, Galați, Giurgiu, Ialomița, Ilfov, Mehedinți, Neamț, Olt, Prahova, Szeben, Suceava és Temes.\n\n• **Az írásbeli vizsgát 2026. november 18-án, 10 órakor** tartják a Bukaresti Közgazdaságtudományi Egyetem Ion Angelescu épületében, a Piața Romană 6. szám alatt. Az írásbelin sikeres, a következő forduló feltételeinek megfelelő pályázókat november 23-án, a CNAS bukaresti, Calea Călărașilor 248. szám alatti központjában interjúztatják.\n\n• **A részvételi feltételek és a szükséges dokumentumok** a CNAS, illetve az érintett megyei pénztárak székhelyén és honlapján érhetők el.\n\n• **További tájékoztatásért** a CNAS humánerőforrás-ügyekkel foglalkozó igazgatósága a 0372 309 240-es telefonszámon kereshető. A kijelölt kapcsolattartó Nicoleta Badiu, vezető szakmai tanácsadó; e-mail-címe: [email protected].",
     "title_ro": "CNAS scoate la concurs 16 posturi de director general la casele de sănătate",
-    "lead_ro": "Casa Națională de Asigurări de Sănătate (CNAS) organizează concursuri pentru ocuparea a 16 posturi de director general: 15 la case județene de asigurări de sănătate și unul la instituția care asigură personalul din apărare, ordine publică și siguranță națională. Proba scrisă va avea loc la București pe 18 noiembrie, iar interviurile sunt programate pentru 23 noiembrie.",
-    "content_ro": "• **CNAS organizează concursuri pentru 16 posturi de director general**: sunt vizate 15 case județene de asigurări de sănătate și Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești.\n\n• **Județele vizate** sunt Bacău, Călărași, Covasna, Dolj, Galați, Giurgiu, Ialomița, Ilfov, Mehedinți, Neamț, Olt, Prahova, Sibiu, Suceava și Timiș.\n\n• **Proba scrisă se va desfășura pe 18 noiembrie 2026, la ora 10:00**, la clădirea Ion Angelescu a Academiei de Studii Economice din București. Candidații care promovează proba și îndeplinesc condițiile pentru etapa următoare vor susține **interviul pe 23 noiembrie**, la sediul central al CNAS din București.\n\n• **Condițiile de participare și documentele necesare** sunt disponibile la sediul CNAS, la sediile caselor de asigurări vizate și pe paginile lor de internet."
+    "lead_ro": "Casa Națională de Asigurări de Sănătate (CNAS) organizează concursuri pentru ocuparea a 16 posturi de director general: la 15 case județene de asigurări de sănătate și la instituția care asigură personalul din apărare, ordine publică, siguranță națională și autoritatea judecătorească. Proba scrisă va avea loc la București pe 18 noiembrie 2026, iar interviul este programat pentru 23 noiembrie. Candidații pot solicita informații suplimentare telefonic sau prin e-mail persoanei de contact desemnate.",
+    "content_ro": "• **CNAS organizează concurs pentru 16 posturi**: funcții de director general la 15 case județene de asigurări de sănătate și la Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești.\n\n• **Județele vizate** sunt Bacău, Călărași, Covasna, Dolj, Galați, Giurgiu, Ialomița, Ilfov, Mehedinți, Neamț, Olt, Prahova, Sibiu, Suceava și Timiș.\n\n• **Proba scrisă va avea loc pe 18 noiembrie 2026, la ora 10:00**, la Academia de Studii Economice din București, în clădirea Ion Angelescu, Piața Romană nr. 6. Candidații care promovează proba scrisă și îndeplinesc condițiile pentru etapa următoare vor susține interviul pe 23 noiembrie, la sediul central al CNAS din București, Calea Călărașilor nr. 248.\n\n• **Condițiile de participare și documentele necesare** sunt disponibile la sediul CNAS, la sediile caselor de asigurări vizate și pe paginile lor de internet.\n\n• **Pentru informații suplimentare**, candidații pot contacta direcția de specialitate a CNAS la numărul 0372 309 240. Persoana de contact este Nicoleta Badiu, consilier grad profesional superior; adresa de e-mail este [email protected]."
+  },
+  {
+    "group_id": "group_0b16a4cc87",
+    "fingerprint": "7569cd7b6f0289af4a415e0ea8e9881f",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/13/074404/robot.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "O adolescentă de 16 ani a fost hărțuită sexual de un robot în Germania. Doi tineri ar fi controlat aparatul de la distanță",
+        "link": "https://stirileprotv.ro/stiri/international/o-adolescenta-de-16-ani-a-fost-hartuita-sexual-de-un-robot-in-germania-doi-tineri-ar-fi-controlat-aparatul-de-la-distanta.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O fată a fost agresată sexual de un robot. Doi tineri sunt anchetați în Germania după ce au filmat incidentul",
+        "link": "https://stirileprotv.ro/stiri/international/o-fata-a-fost-agresata-sexual-de-un-robot-doi-tineri-sunt-anchetati-in-germania-dupa-ce-au-filmat-incidentul.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Poliția germană a confiscat un robot controlat de la distanță care a pipăit o adolescentă, la Koln",
+        "link": "https://hotnews.ro/politia-germana-a-confiscat-un-robot-controlat-de-la-distanta-care-a-pipait-o-adolescenta-la-koln-2375319"
+      }
+    ],
+    "published_at": 1791953991,
+    "title_hu": "Robot zaklathatott szexuálisan egy 16 éves lányt Kölnben",
+    "lead_hu": "A kölni rendőrség két fiatalt vizsgál, akik a gyanú szerint egy távirányítású robottal zaklattak egy 16 éves lányt, és közvetítették az esetet a közösségi médiában. A hatóságok lefoglalták a robotot és a gyanúsítottak telefonjait; azt is vizsgálják, szándékosan irányították-e az eszköz mozgását.",
+    "content_hu": "• **Kölnben, egy gyorsétterem közelében** szombat éjjel egy körülbelül 120 centiméter magas robot a rendőrségi közlések szerint hátulról odament egy 16 éves lányhoz, megérintette a fenekét, és szexuális jellegű mozdulatokat végzett.\n\n• **A gyanú szerint két fiatal irányította a robotot:** a 16 éves tulajdonos és 19 éves kísérője. A beszámolók szerint a történteket filmre vették, élőben közvetítették a közösségi médiában, és kommentálták is.\n\n• **A rendőrség lefoglalta a robotot és két mobiltelefont.** A nyomozók azt vizsgálják, hogyan működött az eszköz az eset idején, és szándékosan vezérelték-e a mozgását.\n\n• **Az ügyben szexuális zaklatás gyanújával folyik vizsgálat.** A két fiatal felelőssége egyelőre nem tisztázott, az állítások gyanún alapulnak.",
+    "title_ro": "Un robot ar fi agresat sexual o adolescentă de 16 ani la Köln",
+    "lead_ro": "Poliția din Köln îi anchetează pe doi tineri suspectați că au folosit un robot controlat de la distanță pentru a hărțui o adolescentă de 16 ani și că au transmis incidentul pe rețelele sociale. Autoritățile au confiscat robotul și telefoanele suspecților și verifică dacă mișcările dispozitivului au fost comandate intenționat.",
+    "content_ro": "• **La Köln, lângă un restaurant fast-food**, un robot de aproximativ 120 de centimetri s-ar fi apropiat din spate de o adolescentă de 16 ani, ar fi atins-o în zona feselor și ar fi făcut mișcări cu tentă sexuală, potrivit relatărilor poliției.\n\n• **Doi tineri sunt suspectați că au controlat robotul:** proprietarul său, în vârstă de 16 ani, și un însoțitor de 19 ani. Potrivit relatărilor, ei ar fi filmat incidentul, l-ar fi transmis în direct pe rețelele sociale și l-ar fi comentat.\n\n• **Poliția a confiscat robotul și două telefoane mobile.** Anchetatorii verifică modul în care funcționa dispozitivul în timpul incidentului și dacă mișcările sale au fost controlate intenționat.\n\n• **Ancheta vizează suspiciunea de hărțuire sexuală.** Răspunderea celor doi tineri nu a fost stabilită, iar acuzațiile rămân deocamdată la nivel de suspiciune."
+  },
+  {
+    "group_id": "group_de13b35a49",
+    "fingerprint": "893d18375897bd0f8288a3a8125ec9b5",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Grindeanu afirmă că ședința finală a PSD de miercuri va stabili dacă partidul intră la guvernare",
+        "link": "https://www.g4media.ro/grindeanu-afirma-ca-sedinta-finala-a-psd-de-miercuri-va-stabili-daca-partidul-intra-la-guvernare.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Consiliul Naţional al PSD se reuneşte pentru a decide forma de implicare în guvernul Niculescu. Grindeanu va prezenta trei variante",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/consiliul-national-al-psd-se-reuneste-pentru-a-decide-forma-de-implicare-in-guvernul-niculescu-grindeanu-va-prezenta-trei-variante-3991119"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PSD decide miercuri formula de implicare în Guvernul Luca Niculescu. Sorin Grindeanu pune pe masă trei variante",
+        "link": "https://www.mediafax.ro/politic/psd-decide-miercuri-formula-de-implicare-in-guvernul-luca-niculescu-sorin-grindeanu-pune-pe-masa-trei-variante-23824950"
+      }
+    ],
+    "published_at": 1791953624,
+    "title_hu": "A PSD szerdán dönt a Niculescu-kormány támogatásáról",
+    "lead_hu": "Sorin Grindeanu szerint a PSD szerdán 16 órakor, a Vila Lacban tartandó Országos Politikai Tanács ülésén dönt arról, részt vesz-e a Luca Niculescu kijelölt miniszterelnök vezette kormányban, vagy más módon támogatja azt. Az előrehozott választást kedvezőtlennek nevezte, a lehetséges kormányzati forgatókönyvek között pedig technokrata és politikai kabinetet is említett. Sajtóértesülések szerint egyes PSD-vezetők kilenc miniszteri posztot is kérhetnek a pártnak.",
+    "content_hu": "• **Szerda 16 óra, Vila Lac** – A PSD Országos Politikai Tanácsa arról dönt, hogy a párt miniszterekkel belép-e a Niculescu-kormányba, csak parlamenti támogatást ad neki, vagy nem támogatja a kabinetet. Grindeanu ismerteti a lehetőségek előnyeit és hátrányait.\n\n• **Csütörtök** – Luca Niculescu kijelölt miniszterelnöknek be kell nyújtania a parlamentnek a kormányprogramot és a miniszterjelöltek névsorát.\n\n• **Előrehozott választás** – Grindeanu szerint az előrehozott választás kedvezőtlen lenne Románia és gazdasága számára: legkorábban februárban tarthatnák meg, addig pedig elmaradhatna a költségvetés elfogadása, és ügyvezető kormány irányítana. Alkotmányos lehetőségnek nevezte, amelyre a PSD szervezeti előkészületeket is tett; ugyanakkor nem látott hivatalos elnöki közleményt a parlament feloszlatásáról.\n\n• **A PSD három forgatókönyve** – A párt kívül maradhat a kormányon és nem támogathatja annak beiktatását; támogathat technokrata kabinetet; vagy politikai kormányt alakíthat, akár PSD-központú, akár több pártból álló, átlátható többségre épülő formában.\n\n• **Technokrata kormány** – Grindeanu gyengének és politikailag sérülékenynek tartja ezt a megoldást, és a 2015–2016-os példára hivatkozva azt mondta, a jelenlegi helyzet nem alkalmas kísérletezésre. Niculescu közölte, hogy a technokrata kabinethez már összeállította a miniszterjelöltek listáját; a politikai és a vegyes kormány lehetőségét is nyitva hagyta.\n\n• **A PSD feltételei** – Grindeanu szerint a párt nem lép kormányra akármilyen feltételekkel. Stabil, világos parlamenti többséget tart kívánatosnak az alkalmi támogatás helyett, és arra kérte a pártokat, hogy engedményeket téve találjanak közös megoldást. Azt is kifogásolta, hogy szerinte a pártok félvállról vették a stabil, PSD–PNL–RMDSZ-többségre vonatkozó felhívását.\n\n• **Lehetséges PSD-s miniszteri posztok** – Sajtóértesülések szerint a párt egyes vezetői a szerdai ülésen kilenc miniszteri helyet kérhetnek a kormányban, köztük nagy költségvetésű tárcáknál, például a közlekedési, mezőgazdasági, egészségügyi és környezetvédelmi minisztériumban, valamint az igazságügyben. Ez egyelőre nem végleges döntés.\n\n• **PNL** – Ilie Bolojan szerint a liberálisok nem terveznek belépni a kormányba, de kétoldalú politikai megállapodást mérlegelnek Niculescuval a következő hat hónap stabilitásáról. A megállapodás betartása esetén a PNL nem kezdeményezne és nem támogatna bizalmatlansági indítványt a kormány ellen.\n\n• **RMDSZ** – Kelemen Hunor közölte, hogy az RMDSZ megszavazza a kormányt és a kormányprogramot, akár technokrata, akár PSD köré szerveződő kabinet alakul. A szervezet parlamenti támogatási megállapodás aláírására is kész; céljuk, hogy a kormány akár pénteken, de legkésőbb hétfőn teljes jogkörrel hivatalba lépjen.\n\n• **A kormány pénzügyi helyzete** – Ha a PSD úgy dönt, hogy kormányra lép, Grindeanu azt kérné Niculescutól, hogy két héten belül ismertesse a parlamentben Románia aktuális pénzügyi helyzetét.\n\n• **USR** – Grindeanu azt mondta, hogy az USR képviselőinek távozniuk kellene, és kizárta a párttal való együttműködés lehetőségét.",
+    "title_ro": "PSD decide miercuri dacă susține Guvernul Niculescu",
+    "lead_ro": "Sorin Grindeanu a anunțat că PSD va decide miercuri, la ora 16:00, în Consiliul Politic Național de la Vila Lac, dacă intră în Guvernul condus de premierul desemnat Luca Niculescu sau îl susține în altă formulă. Liderul PSD consideră nefavorabile alegerile anticipate și a prezentat scenarii pentru un guvern tehnocrat ori politic. Potrivit unor informații de presă, unii lideri PSD ar putea cere nouă portofolii ministeriale.",
+    "content_ro": "• **Miercuri, ora 16:00, Vila Lac** – Consiliul Politic Național al PSD va decide dacă partidul intră cu miniștri în Guvernul Niculescu, îi acordă doar sprijin parlamentar sau nu susține învestirea. Grindeanu le va prezenta colegilor avantajele și dezavantajele variantelor.\n\n• **Joi** – Premierul desemnat Luca Niculescu trebuie să depună în Parlament programul de guvernare și lista miniștrilor.\n\n• **Alegeri anticipate** – Grindeanu consideră că scrutinul anticipat ar fi nefavorabil României și economiei: ar putea avea loc cel mai devreme în februarie, iar până atunci s-ar putea să nu fie adoptat bugetul, țara fiind condusă de un guvern interimar. El a spus că scenariul este constituțional și că PSD a început pregătirile organizatorice, dar că nu a văzut un comunicat oficial al Președinției privind dizolvarea Parlamentului.\n\n• **Cele trei scenarii ale PSD** – Partidul poate rămâne în afara guvernului și să nu voteze învestirea, poate susține un cabinet tehnocrat sau poate participa la formarea unui guvern politic, fie unul dominat de PSD, fie unul cu mai multe partide și o majoritate transparentă.\n\n• **Guvern tehnocrat** – Grindeanu consideră această variantă slabă și vulnerabilă politic, invocând exemplul din 2015–2016 și spunând că situația actuală nu este potrivită pentru experimente. Niculescu a afirmat că are deja pregătită lista miniștrilor pentru un cabinet tehnocrat și a lăsat deschise și variantele politică și mixtă.\n\n• **Condițiile PSD** – Grindeanu a spus că partidul nu va intra la guvernare în orice condiții. El preferă o majoritate parlamentară clară și stabilă în locul unui sprijin conjunctural și le-a cerut partidelor să facă compromisuri pentru a găsi o soluție comună. A reproșat, de asemenea, că partidele ar fi tratat cu superficialitate apelul său pentru o majoritate stabilă PSD–PNL–UDMR.\n\n• **Posibile portofolii PSD** – Potrivit unor informații de presă, unii lideri ai partidului ar putea cere la ședința de miercuri nouă funcții ministeriale, inclusiv la ministere cu bugete mari, precum Transporturile, Agricultura, Sănătatea și Mediul, precum și la Justiție. Deocamdată, aceasta nu este o decizie finală.\n\n• **PNL** – Ilie Bolojan a spus că liberalii nu intenționează să intre la guvernare, dar iau în calcul un acord politic bilateral cu Niculescu pentru stabilitatea următoarelor șase luni. Dacă angajamentele sunt respectate, PNL nu va iniția și nu va vota o moțiune de cenzură împotriva guvernului.\n\n• **UDMR** – Kelemen Hunor a declarat că UDMR va vota guvernul și programul de guvernare, indiferent dacă executivul va fi tehnocrat sau construit în jurul PSD. Uniunea este pregătită să semneze un acord de susținere parlamentară și își dorește ca guvernul cu puteri depline să fie instalat vineri sau cel târziu luni.\n\n• **Situația financiară a guvernului** – Dacă PSD decide să intre la guvernare, Grindeanu îi va cere lui Niculescu să prezinte Parlamentului, în termen de două săptămâni, situația financiară actuală a României.\n\n• **USR** – Grindeanu a afirmat că reprezentanții USR ar trebui să plece și a exclus orice posibilitate de colaborare cu partidul."
+  },
+  {
+    "group_id": "group_8b5da53912",
+    "fingerprint": "b938c310ae1548d8ef3fca386ab7df04",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/73d36bd7-a853-49d2-ac78-7eef5e112681.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cristi Chivu, descumpănit după eșecul cu Brugge: „Acest meci nu reprezintă o echipă puternică și ambițioasă”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/cristi-chivu-reactie-esec-inter-club-brugge-liga-campionilor-987842.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivitrivit”",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivitrivit-23824941"
+      }
+    ],
+    "published_at": 1791953610,
+    "title_hu": "A Club Brugge 4–3-ra nyert az Inter otthonában, Chivu vállalta a felelősséget",
+    "lead_hu": "Az Inter hazai pályán 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája második fordulójában, így az első két mérkőzését is elveszítette. Cristi Chivu szerint csapata a bekapott gólok után elvesztette az egyensúlyát és a taktikai fegyelmét; az edző magára vállalta a felelősséget, és úgy vélte, a vereség nem tükrözi egy erős, ambiciózus csapat teljesítményét.",
+    "content_hu": "• **Október 13-án** az Inter 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája második fordulójában, a milánói Giuseppe Meazza Stadionban. A vereséggel az olasz csapat két mérkőzés után pont nélkül áll.\n\n• **Nicolo Tresoldi** három gólt szerzett a Brugge színeiben, a győztes találatot a csereként beálló Romeo Vermant jegyezte. Az Inter góljai közül Lautaro Martínez kettőt, Ange-Yoan Bonny pedig egyet szerzett; Bonny a 90+3. percben talált be.\n\n• **Cristi Chivu** szerint csapata jól kezdett, és a szünet után is volt két nagy helyzete, de a bekapott gólok után elveszítette a nyugalmát és az egyensúlyát. Az edző úgy fogalmazott, hogy támadás közben a játékosok megfeledkeztek a védekezésről, és túl későn rendeződtek vissza, amit a Bajnokok Ligájában megbüntetnek.\n\n• **A 2–1-es Brugge-vezetés után** az Inter elveszítette a higgadtságát, improvizálni kezdett, és nem tartotta be a taktikai tervet – mondta Chivu. Azt is elismerte, hogy a szünetben több nyugalmat kellett volna közvetítenie a játékosok felé.\n\n• **Chivu vállalta a felelősséget** a történtekért, és elismerte, hogy bizonyos mérkőzéseken nem találta meg a megfelelő egyensúlyt. Szerinte a csapatnak a védekezésben, az egyéni párharcokban, a labdaszerzésben, a játékosok közötti távolságok megtartásában és a nyomás alatti szervezettségben is fejlődnie kell.\n\n• **„Ez a mérkőzés nem egy erős és ambiciózus csapatot képvisel”** – fogalmazott Chivu, aki szerint a vereség után elemezniük kell a hibákat, és mentálisan is össze kell szedniük magukat. Hozzátette, hogy az európai mérkőzések intenzitása és technikai színvonala nagyobb, ezért minden apró hiba számít.\n\n• **Hat mérkőzés van még hátra** a ligaszakaszból, Chivu pedig arra kérte csapatát, hogy ne veszítse el az önbizalmát. Az Inter következő ellenfelei a Sahtar, a Feyenoord, a Stuttgart, a Borussia Dortmund, a Liverpool és a Slovan Bratislava.",
+    "title_ro": "Club Brugge a învins-o pe Inter cu 4-3, iar Chivu și-a asumat responsabilitatea",
+    "lead_ro": "Inter a pierdut cu 4-3 pe teren propriu în fața lui Club Brugge, în etapa a doua a Ligii Campionilor, și a rămas fără punct după primele două meciuri. Cristi Chivu a spus că echipa și-a pierdut echilibrul și disciplina tactică după golurile primite, și-a asumat responsabilitatea și a afirmat că înfrângerea nu reprezintă o echipă puternică și ambițioasă.",
+    "content_ro": "• **Pe 13 octombrie**, Inter a pierdut cu 4-3 în fața lui Club Brugge, în etapa a doua a Ligii Campionilor, pe stadionul Giuseppe Meazza din Milano. După două meciuri, echipa italiană nu are niciun punct.\n\n• **Nicolo Tresoldi** a înscris de trei ori pentru Brugge, iar golul victoriei a fost marcat de rezerva Romeo Vermant. Pentru Inter au punctat de două ori Lautaro Martínez și o dată Ange-Yoan Bonny, care a înscris în minutul 90+3.\n\n• **Cristi Chivu** a spus că echipa sa a început bine și a avut două ocazii mari în repriza a doua, dar și-a pierdut calmul și echilibrul după golurile primite. Antrenorul a remarcat că jucătorii atacau fără să se mai întoarcă suficient de repede în apărare, lucru care se plătește în Liga Campionilor.\n\n• **După ce Brugge a preluat conducerea cu 2-1**, Inter și-a pierdut luciditatea, a început să improvizeze și nu a mai respectat planul tactic, a spus Chivu. Antrenorul a recunoscut și că ar fi trebuit să le transmită jucătorilor mai mult calm la pauză.\n\n• **Chivu și-a asumat responsabilitatea** pentru înfrângere și a admis că nu a reușit să găsească echilibrul potrivit în anumite meciuri. El a spus că echipa trebuie să se îmbunătățească în apărare, în duelurile individuale, la recuperarea mingii, la păstrarea distanțelor dintre jucători și în organizarea sub presiune.\n\n• **„Acest meci nu reprezintă o echipă puternică și ambițioasă”**, a afirmat Chivu. El a spus că echipa trebuie să analizeze greșelile și să-și revină mental, subliniind că meciurile europene au o intensitate și o calitate tehnică mai mari, iar fiecare greșeală contează.\n\n• **Inter mai are șase meciuri** de disputat în faza ligii, iar Chivu le-a cerut jucătorilor să nu-și piardă încrederea. Următorii adversari ai echipei sunt Șahtior, Feyenoord, Stuttgart, Borussia Dortmund, Liverpool și Slovan Bratislava."
+  },
+  {
+    "group_id": "group_2a4ae616d9",
+    "fingerprint": "b583d55b9f155ef565dc66861709af21",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Mesaje RO-Alert în nordul județului Tulcea referitoare la o posibilă incursiune de drone. Populația, îndemnată să se adăpostească",
+        "link": "https://adevarul.ro/stiri-locale/tulcea/mesaje-ro-alert-in-nordul-judetului-tulcea-2563838.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alertă aeriană în Tulcea din cauza unei posibile incursiuni de drone. Autoritățile au transmis un mesaj RO-Alert",
+        "link": "https://stirileprotv.ro/stiri/actualitate/alerta-aeriana-in-tulcea-din-cauza-unei-posibile-incursiuni-de-drone-autoritatile-au-transmis-un-mesaj-ro-alert.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Drónveszély: újabb RO-Alert figyelmeztetést küldtek a Tulcea megyeieknek",
+        "link": "https://maszol.ro/belfold/Dronveszely-ujabb-RO-Alert-figyelmeztetest-kuldtek-a-Tulcea-megyeieknek-1"
+      }
+    ],
+    "published_at": 1791953520,
+    "title_hu": "RO-Alert-riasztás drónok lehetséges berepülése miatt Tulcea megye északi részén",
+    "lead_hu": "Október 14-én, szerda reggel RO-Alert-üzenetben figyelmeztették Tulcea megye északi részének lakóit drónok lehetséges berepülésére. A radarrendszer három légi célt észlelt az ukrajnai Vâlkove közelében, de azok nem léptek be Románia légterébe; a lakosságnak menedékhely keresését vagy az ablakoktól és külső falaktól távoli otthonmaradást javasolták.",
+    "content_hu": "• **Október 14-én, szerda reggel** RO-Alert-riasztást küldtek Tulcea megye északi részének lakóinak drónok lehetséges berepülésére figyelmeztetve.\n\n• **A riasztást 6:39-kor adták ki.** A lakosságot nyugalomra intették, és arra kérték, hogy húzódjon pincébe vagy polgári védelmi óvóhelyre. Ha ilyen nem áll rendelkezésre, maradjon otthon, távol az ablakoktól és a külső falaktól.\n\n• **A román védelmi minisztérium radarjai három légi célt észleltek** az ukrajnai Vâlkove közelében, a román határ térségében. A minisztérium szerint a célok nem léptek be Románia légterébe.\n\n• **A román légierő két F-16-os vadászgépet és egy IAR-330 SOCAT helikoptert indított** a helyzet megfigyelésére.\n\n• **Az ISU Tulcea tájékoztatása szerint** a hírek közzétételéig nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **Az idei RO-Alert-üzenetek száma** Tulcea megyében már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.",
+    "title_ro": "Mesaj RO-Alert în nordul județului Tulcea, după detectarea unor ținte aeriene lângă graniță",
+    "lead_ro": "Miercuri dimineață, 14 octombrie, locuitorii din nordul județului Tulcea au fost avertizați prin RO-Alert cu privire la o posibilă incursiune a unor drone. Radarele au detectat trei ținte aeriene în apropiere de localitatea ucraineană Vâlkove, însă acestea nu au pătruns în spațiul aerian al României; populația a fost sfătuită să se adăpostească sau să rămână în locuințe, departe de ferestre și pereții exteriori.",
+    "content_ro": "• **Miercuri dimineață, 14 octombrie,** autoritățile au transmis un mesaj RO-Alert locuitorilor din nordul județului Tulcea, avertizându-i cu privire la o posibilă incursiune a unor drone.\n\n• **Alerta a fost transmisă la ora 6:39.** Populația a fost îndemnată să-și păstreze calmul și să se adăpostească în beciuri sau în spații de protecție civilă. În lipsa unui adăpost, oamenii au fost sfătuiți să rămână în casă, departe de ferestre și pereții exteriori.\n\n• **Radarele Ministerului Apărării Naționale au detectat trei ținte aeriene** în apropierea localității ucrainene Vâlkove, lângă granița cu România. Potrivit ministerului, țintele nu au pătruns în spațiul aerian național.\n\n• **Forțele Aeriene Române au ridicat de la sol două aeronave F-16 și un elicopter IAR-330 SOCAT** pentru monitorizarea situației.\n\n• **Potrivit ISU Tulcea,** până la transmiterea informațiilor nu au fost primite apeluri de urgență și nu au fost raportate incidente în zona vizată.\n\n• **Numărul mesajelor RO-Alert transmise în județul Tulcea de la începutul anului** l-a depășit pe cel al mesajelor de alertă extremă transmise în România din aceeași cauză în perioada 2023–2025."
   },
   {
     "group_id": "group_d31e447dff",
@@ -342,34 +497,6 @@
     "content_ro": "• **Creșterea amenințărilor:** McCallum a declarat că amenințările provenite din partea actorilor statali s-au multiplicat de patru ori în ultimul deceniu. MI5 alocă în prezent combaterii lor mai multe resurse decât în perioada Războiului Rece.\n\n• **Operațiunile hibride ale Rusiei:** McCallum a numit Rusia „agresorul numărul unu” și a acuzat Moscova că încearcă să destabilizeze state europene fără să depășească pragul care ar declanșa un răspuns colectiv al NATO. Ca exemple, a menționat o tentativă de atac cu dronă asupra unui avion cargo pe un aeroport german și un atac cibernetic asupra infrastructurii energetice a Poloniei.\n\n• **Intermediarii Rusiei:** Potrivit șefului MI5, expulzarea agenților ruși din străinătate a slăbit capacitatea Moscovei de a desfășura operațiuni clandestine tradiționale, iar Rusia ar apela tot mai mult la intermediari, inclusiv la infractori.\n\n• **Iranul și obiectivele militare:** McCallum a avertizat asupra intensificării activităților atribuite Iranului și asupra ambițiilor Teheranului de a viza obiective mai greu de atacat, precum instalațiile militare. Premierul britanic a vorbit despre un presupus complot iranian împotriva bazei RAF Fairford, însă McCallum nu a comentat cazul, invocând ancheta în curs. Potrivit surselor, în ultimul an au fost arestate în Marea Britanie peste 50 de persoane în legătură cu activități asociate Iranului.\n\n• **Inteligența artificială și terorismul:** McCallum a afirmat că teroriștii au încercat deja să folosească inteligența artificială pentru a-și îmbunătăți metodele de recunoaștere și atac, iar dronele bazate pe AI adaugă un nou risc. El a numit deosebit de îngrijorătoare posibilitatea ca grupările extremiste să folosească tehnologia pentru a dezvolta arme biologice sau agenți patogeni noi; un astfel de caz nu s-a materializat până acum.\n\n• **Radicalizarea de extremă dreapta:** Șeful MI5 a atras atenția și asupra creșterii amenințării teroriste de extremă dreapta, asociate inclusiv radicalizării online. Potrivit relatării sale, informațiile obținute într-o anchetă privind un adolescent britanic de 13 ani radicalizat de ideologia extremei drepte au ajutat un partener internațional să împiedice un atac mortal."
   },
   {
-    "group_id": "group_8b5da53912",
-    "fingerprint": "5031eda3314e97b528064cd4a4ea0da2",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/73d36bd7-a853-49d2-ac78-7eef5e112681.jpg?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cristi Chivu, descumpănit după eșecul cu Brugge: „Acest meci nu reprezintă o echipă puternică și ambițioasă”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/cristi-chivu-reactie-esec-inter-club-brugge-liga-campionilor-987842.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivitrivit”",
-        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivitrivit-23824941"
-      }
-    ],
-    "published_at": 1791951789,
-    "title_hu": "A Club Brugge 4–3-ra nyert az Inter otthonában, Chivu vállalta a felelősséget",
-    "lead_hu": "Az Inter hazai pályán 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája második fordulójában, így az első két mérkőzését is elveszítette. Cristi Chivu szerint csapata a kapott gólok után elvesztette az egyensúlyát és a taktikai fegyelmét; az edző magára is vállalta a felelősséget.",
-    "content_hu": "• **Október 13-án** az Inter 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája második fordulójában, a milánói Giuseppe Meazza Stadionban. A vereséggel az olasz csapat két mérkőzés után pont nélkül áll.\n\n• **Nicolo Tresoldi** három gólt szerzett a Brugge színeiben, a győztes találatot a csereként beálló Romeo Vermant jegyezte. Az Inter góljai közül Lautaro Martínez kettőt, Ange-Yoan Bonny pedig egyet szerzett.\n\n• **Cristi Chivu** szerint csapata jól kezdett, és a szünet után is voltak nagy helyzetei, de a bekapott gólok után elveszítette a nyugalmát és az egyensúlyát. Az edző úgy fogalmazott, hogy a játékosok támadás közben többször megfeledkeztek a védekezésről, amit a Bajnokok Ligájában megbüntetnek.\n\n• **Chivu vállalta a felelősséget** a történtekért, és elismerte, hogy nem találta meg a megfelelő egyensúlyt bizonyos mérkőzéseken. Szerinte a csapatnak taktikailag és mentálisan is fejlődnie kell, többek között a védekezés, a labdaszerzés és a nyomás alatti szervezettség terén.\n\n• **Hat mérkőzés van még hátra** a ligaszakaszból. Chivu arra kérte csapatát, hogy ne veszítse el az önbizalmát, és a következő találkozókon javítson a teljesítményén.",
-    "title_ro": "Club Brugge a învins-o pe Inter cu 4-3, iar Chivu și-a asumat responsabilitatea",
-    "lead_ro": "Inter a pierdut cu 4-3 pe teren propriu în fața lui Club Brugge, în etapa a doua a Ligii Campionilor, și a rămas fără punct după primele două meciuri. Cristi Chivu a spus că echipa și-a pierdut echilibrul și disciplina tactică după golurile primite și și-a asumat o parte din responsabilitate.",
-    "content_ro": "• **Pe 13 octombrie**, Inter a fost învinsă cu 4-3 de Club Brugge, pe stadionul Giuseppe Meazza, în etapa a doua a Ligii Campionilor. După două partide, echipa italiană nu a obținut niciun punct.\n\n• **Nicolo Tresoldi** a marcat de trei ori pentru Brugge, iar golul victoriei a fost înscris de rezerva Romeo Vermant. Pentru Inter au punctat Lautaro Martínez, cu o „dublă”, și Ange-Yoan Bonny.\n\n• **Cristi Chivu** a declarat că Inter a început bine și a avut ocazii importante după pauză, dar și-a pierdut calmul și echilibrul după golurile încasate. Antrenorul a spus că jucătorii s-au concentrat pe atac și au neglijat revenirea în apărare, lucru care se plătește în Liga Campionilor.\n\n• **Chivu și-a asumat responsabilitatea** și a recunoscut că nu a găsit echilibrul potrivit în anumite meciuri. În opinia sa, echipa trebuie să progreseze atât tactic, cât și mental, inclusiv în apărare, la recuperarea mingii și în organizarea sub presiune.\n\n• **Inter mai are șase meciuri** de disputat în faza ligii. Chivu a îndemnat echipa să nu-și piardă încrederea și să-și îmbunătățească jocul în partidele următoare."
-  },
-  {
     "group_id": "group_18172ddf49",
     "fingerprint": "a9b84b1c55e5f83ebfda9fa2d529a743",
     "category": "Általános",
@@ -434,34 +561,6 @@
     "title_ro": "UE a deschis noi capitole de negociere pentru aderarea Ucrainei și Republicii Moldova",
     "lead_ro": "Uniunea Europeană a deschis noi capitole de negociere în procesul de aderare a Ucrainei și Republicii Moldova, discuțiile concentrându-se pe piața internă, competitivitate și creștere incluzivă. Volodimir Zelenski a promulgat între timp modificări legislative care consolidează dreptul minorităților la educație în limba maternă, iar UE a anunțat progrese și în negocierile cu Albania.",
     "content_ro": "• **Uniunea Europeană a deschis noi capitole de negociere** în procesul de aderare a Ucrainei și Republicii Moldova, o etapă salutată drept importantă de Ursula von der Leyen și Volodimir Zelenski.\n\n• **Modificările legislative ucrainene privind protecția minorităților naționale** au eliminat un obstacol important în calea aderării; statutul minorității maghiare provocase anterior tensiuni între Budapesta și Kiev.\n\n• **Volodimir Zelenski a promulgat modificări care consolidează dreptul la educație în limba maternă.** Acestea oferă garanții și pentru educația în limba română a copiilor români din Ucraina, iar președintele român Nicușor Dan a salutat măsura.\n\n• **Negocierile se vor concentra pe piața internă, competitivitate și creștere incluzivă.** Cele 35 de capitole sunt grupate în șase tematici, dintre care doar două mai sunt nedeschise.\n\n• **Reformele necesare aderării** urmăresc preluarea acquis-ului comunitar, iar încheierea procesului necesită o decizie unanimă a tuturor celor 27 de state membre.\n\n• **Comisara europeană pentru extindere, Marta Kos, estimează** că negocierile ar putea fi încheiate din punct de vedere tehnic în primul sau al doilea trimestru din 2028; reformele pot aduce Republicii Moldova fonduri europene suplimentare.\n\n• **Au fost anunțate progrese și în cazul Albaniei:** UE a închis provizoriu un capitol de negociere."
-  },
-  {
-    "group_id": "group_2a4ae616d9",
-    "fingerprint": "5514edde205973f7984d7363c1101e08",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Mesaje RO-Alert în nordul județului Tulcea referitoare la o posibilă incursiune de drone. Populația, îndemnată să se adăpostească",
-        "link": "https://adevarul.ro/stiri-locale/tulcea/mesaje-ro-alert-in-nordul-judetului-tulcea-2563838.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Alertă aeriană în Tulcea din cauza unei posibile incursiuni de drone. Autoritățile au transmis un mesaj RO-Alert",
-        "link": "https://stirileprotv.ro/stiri/actualitate/alerta-aeriana-in-tulcea-din-cauza-unei-posibile-incursiuni-de-drone-autoritatile-au-transmis-un-mesaj-ro-alert.html"
-      }
-    ],
-    "published_at": 1791951537,
-    "title_hu": "RO-Alert-riasztás drónok lehetséges berepülése miatt Tulcea megye északi részén",
-    "lead_hu": "Szerda reggel, körülbelül 6:40-kor RO-Alert-üzenetben figyelmeztették Tulcea megye északi részének lakóit drónok lehetséges berepülésére. A hatóságok menedékhely keresését vagy az ablakoktól és külső falaktól távoli otthonmaradást javasoltak; nem jelentettek segélyhívást vagy incidenst.",
-    "content_hu": "• **Szerda reggel** a hatóságok RO-Alert-riasztást küldtek Tulcea megye északi részére, drónok lehetséges berepülésére figyelmeztetve.\n\n• **A riasztást körülbelül 6:40-kor** adták ki; a lakosságot nyugalomra intették, és arra kérték, hogy húzódjon pincébe vagy polgári védelmi óvóhelyre. Ha ilyen nem áll rendelkezésre, maradjon otthon, távol az ablakoktól és a külső falaktól.\n\n• **Az ISU Tulcea tájékoztatása szerint** a híradások közzétételéig nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **A határ menti légtér megfigyelése** közben a hatóságok továbbra is megelőző jelleggel riasztják a lakosságot az ukrán határ közelében kialakult helyzet miatt.\n\n• **Az idei RO-Alert-üzenetek száma** Tulcea megyében már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.",
-    "title_ro": "Alertă RO-Alert privind o posibilă incursiune de drone în nordul județului Tulcea",
-    "lead_ro": "Miercuri dimineață, în jurul orei 06:40, locuitorii din nordul județului Tulcea au fost avertizați prin RO-Alert cu privire la o posibilă incursiune de drone. Autoritățile le-au recomandat să se adăpostească sau să rămână în locuințe, departe de ferestre și pereții exteriori; nu au fost raportate apeluri de urgență sau incidente.",
-    "content_ro": "• **Miercuri dimineață**, autoritățile au transmis un mesaj RO-Alert în nordul județului Tulcea, avertizând asupra unei posibile incursiuni de drone.\n\n• **Alerta a fost emisă în jurul orei 06:40**; populația a fost îndemnată să-și păstreze calmul și să se adăpostească în beciuri sau în spații de protecție civilă. În lipsa unui adăpost, oamenii au fost sfătuiți să rămână în casă, departe de ferestre și de pereții exteriori.\n\n• **Potrivit ISU Tulcea**, până la transmiterea informațiilor nu au fost primite apeluri de urgență și nu au fost raportate incidente în zona vizată.\n\n• **Monitorizarea spațiului aerian de la graniță** continuă, iar autoritățile mențin măsurile de alertare preventivă în contextul situației din apropierea frontierei cu Ucraina.\n\n• **Numărul mesajelor RO-Alert transmise în Tulcea de la începutul acestui an** l-a depășit pe cel al mesajelor de alertă extremă transmise în România din aceeași cauză în perioada 2023–2025."
   },
   {
     "group_id": "group_746ea01c03",
@@ -959,44 +1058,6 @@
     "title_ro": "Harta de impact discută viitorul finanțării infrastructurii din România după PNRR",
     "lead_ro": "Invitatul ediției de miercuri a emisiunii Harta de impact, programată la ora 13:00, este Horațiu Cosma, secretar de stat în Ministerul Transporturilor. Discuția va aborda stadiul proiectelor rutiere și feroviare finanțate prin PNRR și sursele de finanțare necesare după încheierea programului.",
     "content_ro": "• **Horațiu Cosma**, secretar de stat în Ministerul Transporturilor, este invitatul ediției de miercuri, de la ora 13:00, a emisiunii Harta de impact, realizată în parteneriat de G4Media și Economedia.\n\n• **Încheierea PNRR și schimbarea surselor de finanțare** vor fi discutate în contextul viitorului proiectelor de infrastructură din România și al stadiului investițiilor rutiere și feroviare finanțate prin program.\n\n• **Lucrările care mai pot fi decontate și nevoia de noi fonduri europene** se numără printre subiectele ediției, care va analiza ce investiții au nevoie de alte surse de finanțare.\n\n• **Securitatea în regiunea Mării Negre** și implicațiile pentru România ale atacurilor asupra navelor comerciale vor fi, de asemenea, abordate în emisiune."
-  },
-  {
-    "group_id": "group_de13b35a49",
-    "fingerprint": "912ecfaf6d26de54549384e54a71d0d0",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Grindeanu: Mâine avem ședință de Consiliu Politic Național în care decidem ce va face PSD",
-        "link": "https://agerpres.ro/politic/2026/10/13/grindeanu-maine-avem-sedinta-de-consiliu-politic-national-in-care-decidem-ce-va-face-psd--1602669"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Grindeanu anunță că PSD decide miercuri dacă intră în Guvernul Luca Niculescu. Ce spune despre alegerile anticipate",
-        "link": "https://adevarul.ro/politica/grindeanu-anunta-ca-psd-decide-miercuri-daca-intra-2563828.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Grindeanu afirmă că ședința finală a PSD de miercuri va stabili dacă partidul intră la guvernare",
-        "link": "https://www.g4media.ro/grindeanu-afirma-ca-sedinta-finala-a-psd-de-miercuri-va-stabili-daca-partidul-intra-la-guvernare.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Consiliul Naţional al PSD se reuneşte la Vila Lac, pentru a decide dacă intră la guvernare. Grindeanu pune pe masă trei scenarii pentru susținerea Cabinetului Niculescu",
-        "link": "https://adevarul.ro/politica/consiliul-national-al-psd-se-reuneste-la-vila-2563834.html"
-      }
-    ],
-    "published_at": 1791948570,
-    "title_hu": "A PSD szerdán dönt a Niculescu-kormány támogatásáról",
-    "lead_hu": "Sorin Grindeanu szerint a PSD szerdán 16 órakor, a Vila Lacban tartandó Országos Politikai Tanács ülésén dönt arról, részt vesz-e a Luca Niculescu kijelölt miniszterelnök vezette kormányban, vagy más módon támogatja azt. Az előrehozott választást kedvezőtlennek nevezte, a lehetséges kormányzati forgatókönyvek között pedig technokrata és politikai kabinetet is említett. Niculescunak csütörtökön kell benyújtania a parlamentnek a kormányprogramot és a miniszterjelöltek listáját.",
-    "content_hu": "• **Szerda 16 óra, Vila Lac** – A PSD Országos Politikai Tanácsa arról dönt, hogy a párt miniszterekkel belép-e a Niculescu-kormányba, csak parlamenti támogatást ad neki, vagy nem támogatja a kabinetet. Grindeanu ismerteti a lehetőségek előnyeit és hátrányait.\n\n• **Csütörtök** – Luca Niculescu kijelölt miniszterelnöknek be kell nyújtania a parlamentnek a kormányprogramot és a miniszterjelöltek névsorát.\n\n• **Előrehozott választás** – Grindeanu szerint az előrehozott választás kedvezőtlen lenne Románia és gazdasága számára: legkorábban februárban tarthatnák meg, addig pedig elmaradhatna a költségvetés elfogadása, és ügyvezető kormány irányítana. Alkotmányos lehetőségnek nevezte, amelyre a PSD szervezeti előkészületeket is tett; ugyanakkor nem látott hivatalos elnöki közleményt a parlament feloszlatásáról.\n\n• **A PSD három forgatókönyve** – A párt kívül maradhat a kormányon és nem támogathatja annak beiktatását; támogathat technokrata kabinetet; vagy politikai kormányt alakíthat, akár PSD-központú, akár több pártból álló, átlátható többségre épülő formában.\n\n• **Technokrata kormány** – Grindeanu gyengének és politikailag sérülékenynek tartja ezt a megoldást, és a 2015–2016-os példára hivatkozva azt mondta, a jelenlegi helyzet nem alkalmas kísérletezésre. Niculescu közölte, hogy a technokrata kabinethez már összeállította a miniszterjelöltek listáját; a politikai és a vegyes kormány lehetőségét is nyitva hagyta.\n\n• **A PSD feltételei** – Grindeanu szerint a párt nem lép kormányra akármilyen feltételekkel. Stabil, világos parlamenti többséget tart kívánatosnak az alkalmi támogatás helyett, és arra kérte a pártokat, hogy engedményeket téve találjanak közös megoldást.\n\n• **PNL** – Ilie Bolojan szerint a liberálisok nem terveznek belépni a kormányba, de kétoldalú politikai megállapodást mérlegelnek Niculescuval a következő hat hónap stabilitásáról. A megállapodás betartása esetén a PNL nem kezdeményezne és nem támogatna bizalmatlansági indítványt a kormány ellen.\n\n• **RMDSZ** – Kelemen Hunor közölte, hogy az RMDSZ megszavazza a kormányt és a kormányprogramot, akár technokrata, akár PSD köré szerveződő kabinet alakul. A szervezet parlamenti támogatási megállapodás aláírására is kész.\n\n• **A kormány pénzügyi helyzete** – Ha a PSD úgy dönt, hogy kormányra lép, Grindeanu azt kérné Niculescutól, hogy két héten belül ismertesse a parlamentben Románia aktuális pénzügyi helyzetét.\n\n• **USR** – Grindeanu azt mondta, hogy az USR képviselőinek távozniuk kellene, és kizárta a párttal való együttműködés lehetőségét.",
-    "title_ro": "PSD decide miercuri dacă susține Guvernul Niculescu",
-    "lead_ro": "Sorin Grindeanu a anunțat că PSD va decide miercuri, la ora 16:00, în ședința Consiliului Politic Național de la Vila Lac, dacă intră cu miniștri în Guvernul desemnat de Luca Niculescu, îl susține doar parlamentar sau nu îl sprijină. Liderul social-democrat a calificat alegerile anticipate drept nefavorabile și a enumerat mai multe formule posibile de guvernare. Niculescu trebuie să depună joi în Parlament programul de guvernare și lista miniștrilor.",
-    "content_ro": "• **Miercuri, ora 16:00, la Vila Lac** – Consiliul Politic Național al PSD va decide dacă partidul intră cu miniștri în Guvernul Niculescu, îi acordă doar sprijin parlamentar sau nu susține învestirea. Grindeanu le va prezenta colegilor avantajele și dezavantajele variantelor.\n\n• **Joi** – Premierul desemnat Luca Niculescu trebuie să depună în Parlament programul de guvernare și lista miniștrilor.\n\n• **Alegeri anticipate** – Grindeanu a spus că scrutinul anticipat ar fi nefavorabil României și economiei: ar putea avea loc cel mai devreme în februarie, iar până atunci ar putea lipsi bugetul și ar funcționa un guvern interimar. El a precizat că scenariul este constituțional și că PSD a început pregătirile organizatorice, dar că nu a văzut un comunicat oficial al Președinției privind dizolvarea Parlamentului.\n\n• **Cele trei scenarii ale PSD** – Partidul poate rămâne în afara guvernării și nu poate susține învestirea, poate sprijini un guvern tehnocrat sau poate participa la un guvern politic, fie construit în jurul PSD, fie format din mai multe partide și bazat pe o majoritate transparentă.\n\n• **Guvernul tehnocrat** – Grindeanu consideră această variantă slabă și vulnerabilă politic și a invocat experiența din 2015–2016, spunând că situația actuală nu permite experimente. Niculescu a declarat că a pregătit deja lista miniștrilor pentru un cabinet tehnocrat și că rămân deschise și variantele unui guvern politic sau hibrid.\n\n• **Condițiile PSD** – Grindeanu a spus că partidul nu va intra la guvernare în orice condiții. El a susținut că este de preferat o majoritate parlamentară clară și stabilă, nu un sprijin conjunctural, și le-a cerut partidelor să facă compromisuri pentru a găsi o soluție comună.\n\n• **PNL** – Ilie Bolojan a declarat că liberalii nu intenționează să participe la guvernare, dar analizează un acord politic bilateral cu Niculescu pentru stabilitatea următoarelor șase luni. Dacă angajamentele acordului sunt respectate, PNL nu ar iniția și nu ar vota moțiuni de cenzură împotriva Guvernului.\n\n• **UDMR** – Kelemen Hunor a spus că formațiunea va vota Guvernul și programul de guvernare, indiferent dacă Executivul va fi tehnocrat sau format în jurul PSD. UDMR este pregătită să semneze și un acord de susținere parlamentară.\n\n• **Situația financiară a țării** – Dacă PSD decide să intre la guvernare, Grindeanu îi va cere lui Niculescu să prezinte Parlamentului, în termen de două săptămâni, situația financiară actuală a României.\n\n• **USR** – Grindeanu a spus că reprezentanții USR ar trebui să plece și a exclus orice colaborare cu partidul."
   },
   {
     "group_id": "group_2d5b6d5f38",
@@ -2275,259 +2336,5 @@
     "title_ro": "Franța avertizează asupra tentativelor de ingerință străină înaintea alegerilor din 2027",
     "lead_ro": "Ministrul francez de externe, Jean-Noël Barrot, consideră că actori străini și activitatea lui Elon Musk pot submina dezbaterea democratică din Europa. Înaintea alegerilor prezidențiale din Franța din 2027, el a promis un răspuns ferm la ingerințele străine; potrivit unei noi relatări, Musk a numit evenimentele din Franța o „invazie cu încetinitorul” și i-a catalogat drept trădători pe cei care o susțin.",
     "content_ro": "• **Conferința OCDE** Barrot a vorbit despre tentativele de ingerință care amenință dezbaterea democratică în discursul de încheiere al conferinței dedicate consolidării încrederii și democrației; potrivit lui, aceste tentative au fost deja documentate pe larg.\n\n• **Înaintea alegerilor prezidențiale din 2027** ministrul francez de externe a avertizat că adversarii democrației încearcă să destabilizeze Franța. Potrivit HotNews.ro, scrutinul este programat pentru aprilie–mai 2027, iar Marine Le Pen conduce în sondaje.\n\n• **Exploatarea diviziunilor** s-ar face, potrivit lui Barrot, prin alimentarea tensiunilor legate de imigrație, laicitate și conflictul israeliano-palestinian.\n\n• **Printre metodele de ingerință menționate** ministrul a enumerat o companie israeliană, pe care nu a numit-o, care ar fi creat conturi false ce pretindeau că aparțin unor utilizatori francezi pentru a provoca dispute artificiale despre chestiunea palestiniană. El a vorbit și despre campanii de hărțuire online a liderilor europeni asociate cu Elon Musk, precum și despre afirmații potrivit cărora alegerile franceze ar urma să fie trucate.\n\n• **Declarația lui Musk despre evenimentele din Franța** Barrot a criticat hărțuirea online a liderilor europeni. Potrivit HotNews.ro, Musk a numit situația din Franța o „invazie cu încetinitorul” și a scris că susținătorii invaziei sunt trădători care merită soarta trădătorilor.\n\n• **Protestele elevilor** ar fi fost exploatate, potrivit lui Barrot, prin narațiuni ostile venite din Rusia, China și Iran, precum și din comunitatea MAGA. HotNews.ro relatează că unele manifestații organizate de elevi pentru a cere condiții mai bune în școli au degenerat în violențe. Donald Trump a pus situația din Franța pe seama imigrației în masă și a islamului.\n\n• **Răspunsul Franței** va fi ferm, a declarat Barrot: țara nu va tolera nicio ingerință străină, deoarece aceasta este o chestiune de suveranitate."
-  },
-  {
-    "group_id": "group_e9514516ea",
-    "fingerprint": "c0306170237652d98e9e6d11aa3739fb",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA5JTJGMzAwNDc3Ml8zMDA0/NzcyX3Byb2ZpbWVkaWEtMDczMTUzNTQw/MC5qcGcmaGFzaD00ZjQzMjY0N2ZiZGIxYzA5ZjAyMWU1YTE0OWJlZmM2Mg==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "NATO a început exercițiile nucleare anuale Steadfast Noon: 17 țări participă la manevrele militare",
-        "link": "https://www.digi24.ro/stiri/externe/ue/nato-a-inceput-exercitiile-nucleare-anuale-steadfast-noon-17-tari-participa-la-manevrele-militare-3990595"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "NATO începe manevrele nucleare anuale Steadfast Noon",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/nato-incepe-manevrele-nucleare-anuale-steadfast-noon--1602631"
-      }
-    ],
-    "published_at": 1791910953,
-    "title_hu": "Megkezdődött a NATO Steadfast Noon nukleáris gyakorlata",
-    "lead_hu": "A NATO kedden elindította éves Steadfast Noon gyakorlatát, amelyen 17 tagállam fegyveres erői vesznek részt, és amely a jövő hét végéig tart. A manővereken német Tornado vadászgépek is részt vesznek; a gyakorlat során éles nukleáris fegyverek helyett gyakorlóbombákat használnak.",
-    "content_hu": "• **A NATO kedden** megkezdte az éves Steadfast Noon gyakorlatot, amelyen 17 tagállam fegyveres erői vesznek részt. A manőverek a jövő hét végéig tartanak, céljuk a nukleáris elrettentéshez kapcsolódó eljárások gyakorlása.\n\n• **Németország három Tornado repülőgépet** vezényelt az észak-olaszországi Aviano légibázisra; a német légierő szerint több tucat német katona vesz részt a gyakorlaton.\n\n• **A gyakorlat forgatókönyve titkos.** Szakértők szerint a manőverek része lehet a fegyverek biztonságos szállításának és repülőgépekre szerelésének gyakorlása. A gyakorlat során kizárólag nukleáris töltet nélküli gyakorlóbombákat használnak.\n\n• **A tavalyi gyakorlathoz hasonló léptékű manőverre** számít a NATO; a korábbi alkalommal a szövetség 2000 katonáról és több mint 70 repülőgépről számolt be, köztük F–35-ösökről, felderítő és légi utántöltő gépekről.",
-    "title_ro": "NATO a început exercițiul nuclear anual Steadfast Noon",
-    "lead_ro": "NATO a început marți exercițiul anual Steadfast Noon, la care participă forțe armate din 17 state membre, iar manevrele se vor desfășura până la sfârșitul săptămânii viitoare. La exercițiu participă și avioane germane Tornado, iar bombele folosite nu au încărcătură nucleară.",
-    "content_ro": "• **NATO a început marți** exercițiul anual Steadfast Noon, la care participă forțe armate din 17 state membre. Manevrele vor dura până la sfârșitul săptămânii viitoare și urmăresc exersarea procedurilor legate de apărarea nucleară a Alianței.\n\n• **Germania a trimis trei avioane Tornado** la baza aeriană Aviano din nordul Italiei. Potrivit forțelor aeriene germane, la exercițiu participă zeci de militari germani.\n\n• **Scenariul exercițiului este secret.** Potrivit unor experți, manevrele pot include exersarea transportului în siguranță al armelor și a montării acestora pe aeronave. Sunt folosite exclusiv bombe de exercițiu, fără încărcătură nucleară.\n\n• **NATO a precizat că exercițiul are o amploare comparabilă cu cel de anul trecut.** La ediția precedentă au participat, potrivit Alianței, 2.000 de militari și peste 70 de aeronave, inclusiv avioane F-35, aeronave de supraveghere și avioane de realimentare în zbor."
-  },
-  {
-    "group_id": "group_f76469c70a",
-    "fingerprint": "bd382a2ca4920d395ed60afc0dea4afd",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/dreamstime_m_22234649.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Finlanda califică acordul între Washington şi Moscova privind motorina rusă drept „o decepţie enormă” / Premierul finlandez: „Finanţează războiul lui Putin împotriva Ucrainei”",
-        "link": "https://www.g4media.ro/finlanda-califica-acordul-intre-washington-si-moscova-privind-motorina-rusa-drept-o-deceptie-enorma-premierul-finlandez-finanteaza-razboiul-lui-putin-impotriva-ucrainei.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Finlanda consideră că acordul între Washington și Moscova privind motorina rusă este ''o decepție enormă''",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/finlanda-considera-ca-acordul-intre-washington-si-moscova-privind-motorina-rusa-este-o-deceptie-enor--1602620"
-      }
-    ],
-    "published_at": 1791910953,
-    "title_hu": "A finn miniszterelnök bírálta az amerikai–orosz dízelmegállapodást",
-    "lead_hu": "Petteri Orpo finn miniszterelnök „óriási csalódásnak” nevezte, hogy Washington az orosz dízel szállításáért cserébe enyhíti a Moszkva elleni szankciókat. Szerinte a megállapodás Putyin háborúját finanszírozza, és ellentétes az Ukrajna támogatására tett közös erőfeszítésekkel.",
-    "content_hu": "• **Petteri Orpo finn miniszterelnök** kedden „óriási csalódásnak” nevezte, hogy az Egyesült Államok az orosz dízel amerikai és világpiaci szállításáért cserébe feloldja a Moszkvára kivetett szankciók egy részét.\n\n• **Orpo szerint a megállapodás Putyin háborúját finanszírozza**, és ellentétes az Ukrajna támogatása érdekében, többek között az Egyesült Államokkal közösen végzett munkával. Hangsúlyozta, hogy Ukrajna támogatásának fenntartása fontosabb, mint valaha.\n\n• **Donald Trump pénteken jelentette be a megállapodást**, amelyet európai bírálatok követtek: London és Berlin kedden további, Oroszország elleni szankciókat sürgetett. Az EU hétfőn mintegy 1600 új nevet vett fel az ukrajnai háborúhoz kapcsolódó szankciós listájára.",
-    "title_ro": "Premierul Finlandei critică acordul americano-rus privind motorina",
-    "lead_ro": "Premierul finlandez Petteri Orpo a numit „o enormă dezamăgire” decizia Washingtonului de a relaxa sancțiunile impuse Moscovei în schimbul livrărilor de motorină rusească. El a afirmat că acordul finanțează războiul lui Putin și contravine eforturilor comune de sprijinire a Ucrainei.",
-    "content_ro": "• **Premierul finlandez Petteri Orpo** a calificat marți drept „o enormă dezamăgire” ridicarea unor sancțiuni americane împotriva Moscovei în schimbul livrării de motorină rusească pe piețele din SUA și din lume.\n\n• **În opinia lui Orpo, acordul finanțează războiul lui Putin** și este contrar eforturilor depuse, inclusiv împreună cu Statele Unite, pentru sprijinirea Ucrainei. El a subliniat că menținerea acestui sprijin este astăzi mai importantă ca niciodată.\n\n• **Donald Trump a anunțat acordul vineri**, iar acesta a fost criticat de europeni: Londra și Berlinul au cerut marți sancțiuni suplimentare împotriva Moscovei. Luni, UE a adăugat aproximativ 1.600 de nume pe lista de sancțiuni legate de războiul din Ucraina."
-  },
-  {
-    "group_id": "group_c2ce22e812",
-    "fingerprint": "1ca06d149c6b8fd101d7cc85647cd3e0",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
-      },
-      {
-        "source": "G4Media",
-        "title": "O nouă zi de proteste ale elevilor în Franța: aproximativ 480.000 de participanți, potrivit organizatorilor",
-        "link": "https://www.g4media.ro/o-noua-zi-de-proteste-ale-elevilor-in-franta-aproximativ-480-000-de-participanti-potrivit-organizatorilor.html"
-      }
-    ],
-    "published_at": 1791910953,
-    "title_hu": "Körülbelül 480 ezren tüntettek a francia középiskolák jobb finanszírozásáért",
-    "lead_hu": "A szervezők szerint mintegy 480 ezren vettek részt kedden a franciaországi diáktüntetéseken. A több mint két hete tartó tiltakozásokon a középiskolák jobb finanszírozását, több tanárt és a tanulási körülmények javítását követelik.",
-    "content_hu": "• **Mintegy 480 ezren** tüntettek kedden Franciaországban a diák- és középiskolás-szervezetek szakszervezeti közössége szerint.\n\n• **Több mint 200 középiskolában** blokkolták a diákok a bejutást, és egyetemek közelében is tartottak demonstrációkat.\n\n• **A tiltakozók követelései** között szerepel a középiskolák jobb finanszírozása, a tanárok számának növelése és a tanulási feltételek javítása. A megmozdulások több mint két hete tartanak.\n\n• **Az előző keddi tüntetéseken** a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt számoltak össze országszerte. A francia oktatási minisztérium kedden dél körül közzétett előzetes adatai ugyanakkor a részvétel csökkenését jelezték.",
-    "title_ro": "Aproximativ 480.000 de persoane au protestat în Franța pentru finanțarea mai bună a liceelor",
-    "lead_ro": "Potrivit organizatorilor, aproximativ 480.000 de persoane au participat marți la protestele elevilor din Franța. Manifestațiile, desfășurate de peste două săptămâni, cer finanțarea mai bună a liceelor, mai mulți profesori și îmbunătățirea condițiilor de studiu.",
-    "content_ro": "• **Aproximativ 480.000 de persoane** au manifestat marți în Franța, potrivit intersindicalei organizațiilor de studenți și liceeni.\n\n• **Accesul în peste 200 de licee** a fost blocat de elevi, iar manifestații au avut loc și în apropierea unor universități.\n\n• **Protestatarii cer** finanțarea mai bună a liceelor, suplimentarea numărului de profesori și condiții de studiu mai bune. Mișcarea durează de peste două săptămâni.\n\n• **La manifestațiile de marțea trecută**, autoritățile au numărat 266.000 de participanți, iar organizatorii, 450.000 la nivel național. Totuși, datele preliminare publicate marți în jurul prânzului de Ministerul Educației indicau o scădere a participării."
-  },
-  {
-    "group_id": "group_63c14e2166",
-    "fingerprint": "4a95f337040b03524d1a3ef65dff9b90",
-    "category": "Politika",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/luca-n-1024x768.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Luca Niculescu anunță că joi va depune la Parlament programul de guvernare și lista miniștrilor",
-        "link": "https://www.mediafax.ro/politic/luca-niculescu-anunta-ca-joi-va-depune-la-parlament-programul-de-guvernare-si-lista-ministrilor-23824752"
-      },
-      {
-        "source": "Digi24",
-        "title": "Luca Niculescu a spus când va depune programul de guvernare și lista miniștrilor: „Cântărim cu atenţie toate formulele posibile”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-a-spus-cand-va-depune-programul-de-guvernare-si-lista-ministrilor-cantarim-cu-atentie-toate-formulele-posibile-3990547"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Luca Niculescu anunță „un singur criteriu” pentru guvern, după „două zile pline” de negocieri cu partidele. Când depune lista miniștrilor",
-        "link": "https://hotnews.ro/luca-niculescu-anunta-un-singur-criteriu-pentru-guvern-dupa-doua-zile-pline-de-negocieri-cu-partidele-cand-depune-lista-ministrilor-2375059"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Anunțul făcut de premierul desemnat Luca Niculescu după negocierile cu partidele: „Am un singur criteriu”",
-        "link": "https://stirileprotv.ro/stiri/politic/anuntul-facut-de-premierul-desemnat-luca-niculescu-dupa-negocierile-cu-partidele-am-un-singur-criteriu.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Luca Niculescu depune joi programul de guvernare și lista miniștrilor. „Toate formulele posibile” rămân în discuție",
-        "link": "https://adevarul.ro/politica/luca-niculescu-depune-joi-programul-de-guvernare-2563787.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Luca Niculescu csütörtökön benyújtja a parlamentnek a kormányprogramot",
-        "link": "https://maszol.ro/belfold/Luca-Niculescu-csutortokon-benyujtja-a-parlamentnek-a-kormanyprogramot"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Premierul desemnat Luca Niculescu: Joi depunem la Parlament programul de guvernare și lista miniștrilor",
-        "link": "https://agerpres.ro/politic/2026/10/13/premierul-desemnat-luca-niculescu-joi-depunem-la-parlament-programul-de-guvernare-si-lista-ministril--1602633"
-      }
-    ],
-    "published_at": 1791910953,
-    "title_hu": "Luca Niculescu október 15-én benyújtja a kormányprogramot és a miniszteri névsort",
-    "lead_hu": "Luca Niculescu kijelölt miniszterelnök kedden lezárta a parlamenti pártokkal folytatott kétnapos egyeztetéseket, de a párbeszédet nyitva hagyta; október 15-én benyújtja a parlamentnek a kormányprogramot és a miniszterjelöltek listáját. A kabinet összetétele és parlamenti támogatása továbbra sem dőlt el, Niculescu pedig sürgetőnek nevezte a kormányalakítást a költségvetési kiigazítás és az állami intézmények működése miatt.",
-    "content_hu": "• **Kedden** Luca Niculescu közölte, hogy lezárult a parlamenti pártokkal és frakciókkal folytatott, két napon át tartó egyeztetés. Megköszönte a résztvevők nyitottságát és javaslatait, és jelezte, hogy a párbeszéd nyitva marad.\n\n• **Október 15-én, csütörtökön** benyújtja a parlamentnek a kormányprogramot és a miniszterjelöltek névsorát.\n\n• **A kormány lehetséges összetételéről** Niculescu azt mondta, minden változatot mérlegelnek: politikai, vegyes politikai-technokrata vagy technokrata kormány is szóba jöhet. Technokrata kormány esetén már szerdán be tud mutatni egy miniszterjelölti listát.\n\n• **A kormányalakítás célja** Niculescu szerint egy stabil, a román állampolgárokért dolgozó kabinet gyors felállítása; úgy fogalmazott, ez mindenkitől felelősségvállalást kíván, és ő maga mindent megtesz ezért.\n\n• **A kormányalakítás határideje**: Niculescut Nicușor Dan államfő október 6-án bízta meg kormányalakítással. Az alkotmány szerint a kijelölt miniszterelnöknek a megbízástól számított tíz napon belül kell a parlament bizalmát kérnie a kormányprogramra és a teljes miniszteri névsorra.\n\n• **A gyors kormányalakítás sürgőssége** Niculescu szerint a költségvetési kiigazítással is összefügg. Arra figyelmeztetett, hogy enélkül hamarosan gondok lehetnek az államigazgatás, az iskolák és az intézmények üzemanyag-ellátásának működésével, valamint az állami intézmények vállalkozásoknak és önkormányzatoknak teljesítendő kifizetéseivel.\n\n• **Az UDMR támogatása** biztosnak tűnik: a párt jelezte, hogy megszavazza a Niculescu-kormányt, és kész támogatási megállapodást is kötni a kormányzati projektekről folytatott párbeszédért cserébe. A párt többek között a költségvetés kiigazítását, a bérezési törvényt, a jövő évi költségvetést, a gazdaságélénkítést és a rászorulók támogatását említette.\n\n• **A PNL, az USR és a PSD álláspontja** eltérő: a PNL mérlegeli a kétoldalú politikai megállapodást, Ilie Bolojan pedig késznek mutatkozott annak aláírására; a sajtóértesülések szerint a PNL ellenzékben maradna, de megszavazhatná a kabinetet. Az USR nem támogat olyan kormányt, amelynek parlamenti többsége nem világos, a PSD pedig szerdára ígérte döntését.\n\n• **A kormány támogatásáról szóló sajtóértesülések** szerint a PSD technokrata miniszterekkel léphetne kormányra, a PNL és az UDMR pedig megszavazhatná a Niculescu-kabinetet; ezek egyelőre nem megerősített információk.\n\n• **Az előrehozott választások lehetősége** is felmerült: a Digi24 és más lapok forrásai szerint Nicușor Dan államfő kezdeményezheti a parlament feloszlatását, ha csütörtökig, október 15-ig nem születik átlátható megállapodás a kormány támogatásáról, illetve ha a parlament nem szavazza meg a Niculescu-kormányt. Az Adevărulnak nyilatkozó politikai elemző szerint az eljárás alkotmányosan lehetséges, és ehhez konzultálni kell a parlament két házának elnökével, valamint a parlamenti frakciók vezetőivel; a feloszlatásról szóló rendelet pénteken kerülhet nyilvánosságra.\n\n• **A politikai válság előzménye**, hogy a Bolojan-kormány május 5-én bizalmatlansági indítvány nyomán bukott meg, és Romániának az új forrás szerint több mint öt hónapja ügyvivő kormánya van.",
-    "title_ro": "Luca Niculescu depune pe 15 octombrie programul de guvernare și lista miniștrilor",
-    "lead_ro": "Premierul desemnat Luca Niculescu a încheiat marți consultările de două zile cu partidele parlamentare, dar a precizat că dialogul rămâne deschis; pe 15 octombrie va depune la Parlament programul de guvernare și lista miniștrilor. Componența și susținerea parlamentară a viitorului Guvern rămân incerte, iar Niculescu a invocat urgența formării sale și necesitatea rectificării bugetare pentru funcționarea instituțiilor publice.",
-    "content_ro": "• **Marți**, Luca Niculescu a anunțat încheierea celor două zile de consultări cu partidele și grupurile parlamentare. Le-a mulțumit participanților pentru deschidere și propuneri și a precizat că dialogul rămâne deschis.\n\n• **Joi, 15 octombrie**, va depune la Parlament programul de guvernare și lista miniștrilor.\n\n• **În privința formulei de guvernare**, Niculescu a spus că sunt luate în calcul toate variantele: un guvern politic, unul mixt, cu miniștri politici și tehnocrați, sau unul tehnocrat. În cazul unui guvern tehnocrat, poate prezenta lista miniștrilor chiar miercuri.\n\n• **Obiectivul formării Guvernului**, potrivit lui Niculescu, este instalarea rapidă a unui cabinet stabil, care să lucreze pentru cetățenii români; el a spus că acest lucru cere responsabilitatea tuturor și că va face tot ce depinde de el.\n\n• **Termenul pentru formarea Guvernului**: președintele Nicușor Dan l-a desemnat pe Niculescu la 6 octombrie. Potrivit Constituției, candidatul la funcția de prim-ministru trebuie să ceară votul de încredere al Parlamentului asupra programului și a întregii liste a Guvernului în termen de zece zile de la desemnare.\n\n• **Urgența instalării unui nou Guvern** este legată, potrivit lui Niculescu, și de rectificarea bugetară. Fără aceasta, ar putea apărea în curând probleme în funcționarea administrației și a școlilor, în asigurarea combustibilului pentru instituții și în efectuarea plăților către firme private și primării.\n\n• **Susținerea UDMR** pare sigură: partidul a anunțat că va vota Guvernul Niculescu și este dispus să încheie un acord de susținere în schimbul dialogului asupra proiectelor guvernamentale. Printre prioritățile menționate se numără rectificarea bugetară, legea salarizării, bugetul pentru anul viitor, relansarea economică și sprijinirea persoanelor nevoiașe.\n\n• **Pozițiile PNL, USR și PSD** diferă: PNL ia în calcul un acord politic bilateral, iar Ilie Bolojan s-a arătat dispus să îl semneze; potrivit relatărilor din presă, PNL ar rămâne în opoziție, dar ar putea vota Guvernul. USR nu susține un guvern pentru care nu este clară majoritatea parlamentară, iar PSD a anunțat că va lua o decizie miercuri.\n\n• **Relatările neconfirmate despre susținerea Guvernului** spun că PSD ar putea intra la guvernare cu miniștri tehnocrați, iar PNL și UDMR ar putea vota cabinetul Niculescu.\n\n• **Posibilitatea alegerilor anticipate** a fost de asemenea invocată: potrivit unor surse citate de Digi24 și de alte publicații, președintele Nicușor Dan ar putea iniția dizolvarea Parlamentului dacă până joi, 15 octombrie, nu se ajunge la un acord transparent privind susținerea Guvernului sau dacă Parlamentul respinge cabinetul Niculescu. Un analist politic citat de Adevărul a spus că procedura este posibilă constituțional și presupune consultarea președinților celor două Camere și a liderilor grupurilor parlamentare; decretul de dizolvare ar putea fi făcut public vineri.\n\n• **Contextul crizei politice**: Guvernul Bolojan a fost demis prin moțiune de cenzură la 5 mai, iar potrivit noii surse România are un guvern interimar de peste cinci luni."
-  },
-  {
-    "group_id": "group_f9f9586829",
-    "fingerprint": "e7e5ca027942211a870267dd71723146",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA4JTJGMzAwNDQxMV8zMDA0/NDExX2RuYS1pbnF1YW0tbGl2aXUtZmxv/aW4tYWxiZWkuanBnJmhhc2g9NzZmZjU3/M2FlZDEzMDgyZTY0Y2JiOWM0ODE2ZGM1Zjg=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Percheziții DNA la Direcția de Permise din Ilfov. Mita primită de polițiști ar fi ajuns până la 500 de euro pe caz (surse)",
-        "link": "https://www.digi24.ro/stiri/actualitate/perchezitii-dna-la-directia-de-permise-din-ilfov-mita-primita-de-politisti-ar-fi-ajuns-pana-la-500-de-euro-pe-caz-surse-3989671"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Scandal de corupție la Permise Ilfov. Polițiștii ar fi luat șpăgi de sute de euro pentru programări și promovarea examenelor",
-        "link": "https://stirileprotv.ro/justitie/scandal-de-coruptie-la-permise-ilfov-politistii-ar-fi-luat-spagi-de-sute-de-euro-pentru-programari-si-promovarea-examenelor.html"
-      }
-    ],
-    "published_at": 1791910769,
-    "title_hu": "DNA-perquisíciók az Ilfov megyei jogosítványügyi igazgatóság korrupciós ügyében",
-    "lead_hu": "A román korrupcióellenes ügyészség (DNA) kedden házkutatásokat tartott az Ilfov megyei jogosítvány- és jármű-nyilvántartási igazgatóságon, valamint az ügyben érintettek lakóhelyein. A nyomozás gyanúja szerint rendőrök és autósiskolai alkalmazottak pénzért intézhettek soron kívüli vizsgáztatást, segíthették a gyakorlati vizsga sikeres teljesítését, illetve gyorsíthatták az okmányügyintézést.",
-    "content_hu": "• **A DNA kedden házkutatásokat tartott** az Ilfov megyei Jogosítvány- és Jármű-nyilvántartási Igazgatóságon; a nyomozók rendőrök lakóhelyein is bizonyítékokat kerestek.\n\n• **A gyanú szerint rendőrök és autósiskolai alkalmazottak** pénzt fogadhattak el azért, hogy egyes jelölteket soron kívül írjanak be a gyakorlati vizsgára, segítsék a vizsga sikeres teljesítését, vagy gyorsítsák a jogosítványokkal és a jármű-nyilvántartással kapcsolatos ügyintézést.\n\n• **Az összegek egyes esetekben elérhették az 500 eurót** – közölte a Digi24 által idézett forrás; a hatóságok szerint az ügyben a 2026-ban elkövetett korrupciós cselekmények gyanúját vizsgálják.\n\n• **A ProTV beszámolója szerint 18 gyanúsítottat hallgattak meg** az ügyészségen, miután a nyomozók hónapokon át megfigyeléseket végeztek és bizonyítékokat gyűjtöttek. A nyomozás a vesztegetés gyanúja szerint fizető személyekre is kiterjedhet.",
-    "title_ro": "Percheziții DNA în dosarul de corupție de la Permise Ilfov",
-    "lead_ro": "Direcția Națională Anticorupție (DNA) a făcut marți percheziții la Serviciul de Permise și Înmatriculări Ilfov și la locuințele unor persoane vizate. Anchetatorii suspectează că polițiști și angajați ai unor școli de șoferi ar fi primit bani pentru programări preferențiale la examenul practic, promovarea probei sau urgentarea unor proceduri administrative.",
-    "content_ro": "• **DNA a făcut marți percheziții** la Serviciul de Permise și Înmatriculări Ilfov, iar anchetatorii au căutat probe și la locuințele unor polițiști vizați de dosar.\n\n• **Polițiști și angajați ai unor școli de șoferi sunt suspectați** că ar fi primit bani pentru programarea candidaților „peste rând” la proba practică, pentru a-i ajuta să promoveze examenul sau pentru urgentarea unor proceduri privind permisele și înmatriculările.\n\n• **Sumele ar fi ajuns, în unele cazuri, până la 500 de euro**, potrivit surselor citate de Digi24. DNA a precizat că cercetează suspiciuni de fapte de corupție comise în cursul anului 2026.\n\n• **Potrivit ProTV, 18 suspecți au fost audiați** la DNA, după ce anchetatorii ar fi desfășurat măsuri de supraveghere timp de mai multe luni și ar fi strâns probe. Ancheta ar putea viza și persoane suspectate că au dat mită."
-  },
-  {
-    "group_id": "group_93c30ac87d",
-    "fingerprint": "cab0bdc5f9c1fb9ec11d20ed8d2a5314",
-    "category": "Politika",
-    "image": "https://maszol.ro/resized/2026_oktober/13/cikk_Cseke_Attila_Facebook_(1).jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Cseke Attila: Fără rectificare bugetară, sistemul medical riscă să nu mai funcționeze în două-trei săptămâni. Lipsesc peste 7 miliarde lei",
-        "link": "https://www.ebihoreanul.ro/stiri/cseke-attila-fara-rectificare-bugetara-sistemul-medical-risca-sa-nu-mai-functioneze-in-doua-trei-saptamani-lipsesc-peste-7-miliarde-lei-205773.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "8 miliarde de lei pentru a evita o criză în Sănătate. Rogobete: „Aici nu este de joacă”",
-        "link": "https://www.mediafax.ro/politic/8-miliarde-de-lei-pentru-a-evita-o-criza-in-sanatate-rogobete-aici-nu-este-de-joaca-23824768"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cât mai poate funcționa sistemul medical fără o rectificare bugetară. Ministerul Sănătății a rămas fără „trucuri contabile”",
-        "link": "https://stirileprotv.ro/stiri/sanatate/cat-mai-poate-functiona-sistemul-medical-fara-o-rectificare-bugetara-ministerul-sanatatii-a-ramas-fara-trucuri-contabile.html"
-      }
-    ],
-    "published_at": 1791910758,
-    "title_hu": "Cseke Attila: sürgős költségvetési kiigazítás nélkül hetek alatt veszélybe kerülhet az egészségügyi ellátás",
-    "lead_hu": "Cseke Attila ügyvivő egészségügyi miniszter szerint két-három héten belül működésképtelenség fenyegetheti a romániai egészségügyi rendszert, ha nem történik költségvetési kiigazítás. A minisztériumi intézményeknek év végéig közel 800 millió lejre, a CNAS által finanszírozott ellátásoknak pedig további 6,4 milliárd lejre lenne szükségük. Alexandru Rogobete volt egészségügyi miniszter a hátralékokkal együtt mintegy 8 milliárd lejre becsülte a rendszer év végi finanszírozási igényét.",
-    "content_hu": "• **Cseke Attila figyelmeztetése szerint** költségvetési kiigazítás nélkül két-három héten belül komoly működési zavarok fenyegethetik a romániai egészségügyi rendszert, beleértve az egészségügyi minisztérium és az Országos Egészségbiztosítási Pénztár (CNAS) által finanszírozott területeket is.\n\n• **A minisztériumi intézményeknek** az év végéig közel 800 millió lej hiányzik; ebből 227 millió lejt sürgősen, a novemberi működés biztosítására kellene előteremteni.\n\n• **A 227 millió lejből** 102 millió a sürgősségi osztályok dolgozóinak bérére, 44 millió az ottani anyag- és gyógyszerköltségekre, 25 millió a mentőszolgálatok kiadásaira, 56 millió pedig a HIV/AIDS-program finanszírozására szükséges.\n\n• **November elejéig** kellene biztosítani a sürgősségi osztályok és a mentőszolgálatok működéséhez szükséges forrásokat; ezek elmaradása esetén az egységek nem tudnák megfelelően ellátni közegészségügyi feladataikat.\n\n• **A sürgősségi ellátás eszközellátása is veszélybe kerülhet:** a ProTV szerint az UPU-k és a mentőszolgálatok gyógyszerekre, egészségügyi anyagokra, sőt üzemanyagra is elégtelen forrásokkal rendelkeznek.\n\n• **Decemberre** a minisztérium további 550–560 millió lejes hiányt jelez. Cseke szerint a források elmaradása veszélyeztetheti a sürgősségi osztályok és a mentőszolgálatok megfelelő működését.\n\n• **A CNAS-nak** novemberre és decemberre további 6,4 milliárd lejre van szüksége a kórházak, az egészségügyi programok és a támogatott gyógyszerek finanszírozására. Ezzel együtt az év végéig több mint 7 milliárd lejnyi többletforrás hiányzik az egészségügyi rendszerből.\n\n• **Az októberi CNAS-finanszírozás** biztosítására a pénztár október 9-én 5,4 milliárd lej költségvetési hitelt, október 12-én pedig 6 milliárd lej kötelezettségvállalási hitelt osztott szét a megyei pénztárak között; a kórházak és programok októberi finanszírozását kiegészítő szerződésekkel rendezték.\n\n• **A korábbi átcsoportosítások** már kimerítették a minisztérium lehetőségeit; a források egy részét korábban országos egészségügyi programoktól és a rezidens orvosok bérezésére szánt keretből csoportosították át.\n\n• **Alexandru Rogobete volt egészségügyi miniszter** a rendszer év végi kiadásaira és az egészségügyi szolgáltatóknak, illetve gyógyszertáraknak fennálló tartozásokra együtt mintegy 8 milliárd lejes finanszírozási igényt becsült. A sürgősségi ellátás körébe a mentők, az UPU-k, az intenzív terápia, valamint többek között a stroke-os, infarktusos, traumás és újszülött betegek ellátását sorolta.\n\n• **Rogobete szerint** a sürgősségi szolgáltatások finanszírozása nem halasztható, és nemzetbiztonsági jelentőségű; tömeges baleset vagy robbanás esetén azonnal mozgósítani kell a személyzetet, a felszerelést és a gyógyszereket. Elmondása szerint korábban 24 órán belüli forrásátrendezésre is szükség volt ilyen helyzetek kezeléséhez, és a mostanihoz hasonló finanszírozási válságra több mint húsz éve nem volt példa.\n\n• **A költségvetési kiigazítás akadálya**, hogy Romániát május 5. óta ügyvivő kormány vezeti, amelynek korlátozottak a jogkörei, így sürgősségi kormányrendeletet sem fogadhat el a büdzsé módosításáról. Cseke szerint a szükséges intézkedéseket teljes jogkörű kormány hozhatja meg, alternatívaként pedig parlamenti kiigazítás jöhet szóba, amit kockázatosnak nevezett.\n\n• **A kijelölt miniszterelnök, Luca Niculescu** azt közölte, hogy parlamenti bizalmi szavazás esetén kormányának első feladata a költségvetési kiigazítás elfogadása és a 2027-es büdzsé előkészítése lenne.\n\n• **A parlamenti választásokról szóló vita is érinti a kiigazítást:** a ProTV által idézett nyilatkozatok szerint Nicușor Dan államfő arra figyelmeztetett, hogy az előrehozott választások legalább öt hónapra megbéníthatják a költségvetési kiigazítás ügyét; a Pénzügyi Tanács pedig sürgős kiigazítást szorgalmazott, a törvényi, november 30-i határidőre figyelmeztetve.",
-    "title_ro": "Cseke Attila: fără rectificare bugetară urgentă, funcționarea sistemului medical poate fi în pericol în câteva săptămâni",
-    "lead_ro": "Ministrul interimar al Sănătății, Cseke Attila, avertizează că sistemul medical din România riscă să devină nefuncțional în două-trei săptămâni dacă nu se face o rectificare bugetară. Instituțiile finanțate de minister au nevoie de aproape 800 de milioane de lei până la sfârșitul anului, iar serviciile finanțate de CNAS de încă 6,4 miliarde de lei. Fostul ministru Alexandru Rogobete estimează necesarul total, inclusiv restanțele, la aproximativ 8 miliarde de lei.",
-    "content_ro": "• **Avertismentul lui Cseke Attila:** fără rectificare bugetară, sistemul medical românesc riscă să aibă probleme grave de funcționare în două-trei săptămâni, atât în instituțiile finanțate de Ministerul Sănătății, cât și în serviciile acoperite de Casa Națională de Asigurări de Sănătate (CNAS).\n\n• **Instituțiile finanțate de minister** au nevoie de aproape 800 de milioane de lei până la sfârșitul anului; 227 de milioane de lei sunt necesare urgent pentru funcționarea în noiembrie.\n\n• **Din cele 227 de milioane de lei**, 102 milioane sunt necesare pentru salariile personalului din unitățile de primiri urgențe (UPU), 44 de milioane pentru cheltuieli materiale și medicamente în UPU, 25 de milioane pentru cheltuielile serviciilor de ambulanță, iar 56 de milioane pentru completarea finanțării programului HIV/SIDA.\n\n• **La începutul lunii noiembrie** trebuie alocate fondurile pentru UPU și serviciile de ambulanță; în lipsa lor, aceste unități riscă să nu-și mai poată îndeplini corespunzător rolul de servicii publice de sănătate.\n\n• **Aprovizionarea serviciilor de urgență este, de asemenea, în pericol:** potrivit ProTV, fondurile UPU și ale ambulanțelor sunt insuficiente pentru medicamente, materiale sanitare și chiar combustibil.\n\n• **Pentru decembrie**, Ministerul Sănătății estimează un deficit suplimentar de 550–560 de milioane de lei. Cseke spune că lipsa fondurilor poate afecta funcționarea UPU și a serviciilor de ambulanță.\n\n• **CNAS are nevoie de încă 6,4 miliarde de lei** pentru noiembrie și decembrie, pentru finanțarea spitalelor, programelor de sănătate și medicamentelor compensate. În total, până la sfârșitul anului lipsesc peste 7 miliarde de lei pentru sistemul medical.\n\n• **Finanțarea CNAS pentru octombrie** a fost asigurată prin repartizarea a 5,4 miliarde de lei credite bugetare, la 9 octombrie, și a 6 miliarde de lei credite de angajament, la 12 octombrie; finanțarea spitalelor și programelor a fost reglementată prin acte adiționale.\n\n• **Redistribuirile anterioare de fonduri** au epuizat posibilitățile ministerului; o parte din bani fusese mutată de la programe naționale de sănătate și din sumele prevăzute pentru salariile medicilor rezidenți.\n\n• **Fostul ministru al Sănătății Alexandru Rogobete** estimează la aproximativ 8 miliarde de lei necesarul pentru cheltuielile sistemului până la sfârșitul anului și restanțele către furnizorii de servicii medicale și farmacii. El a inclus în zona de urgență ambulanțele, UPU, terapia intensivă și îngrijirea pacienților cu AVC, infarct, traumatisme și a nou-născuților.\n\n• **Potrivit lui Rogobete**, finanțarea serviciilor de urgență nu poate fi întreruptă și ține de securitatea națională; în cazul unui accident colectiv sau al unei explozii, personalul, echipamentele și medicamentele trebuie mobilizate imediat. El a spus că au existat situații în care a fost nevoie de redistribuirea fondurilor în mai puțin de 24 de ore și că o criză financiară similară nu a mai avut loc de peste 20 de ani.\n\n• **Rectificarea bugetară este blocată** de faptul că România este condusă de un guvern interimar din 5 mai, cu atribuții limitate, care nu poate adopta o ordonanță de urgență pentru modificarea bugetului. Cseke afirmă că măsurile necesare pot fi luate de un guvern cu puteri depline; alternativa unei rectificări prin Parlament este, în opinia sa, riscantă.\n\n• **Premierul desemnat Luca Niculescu** a declarat că, dacă va primi votul de învestitură, prima prioritate a guvernului său va fi rectificarea bugetară și pregătirea bugetului pentru 2027.\n\n• **Discuțiile despre alegeri anticipate au legătură și cu rectificarea:** potrivit declarațiilor citate de ProTV, președintele Nicușor Dan a avertizat că alegerile anticipate ar putea bloca rectificarea bugetară cel puțin cinci luni, iar Consiliul Fiscal a cerut o rectificare urgentă și a reamintit termenul legal de 30 noiembrie."
-  },
-  {
-    "group_id": "group_b2ab175c71",
-    "fingerprint": "4f93e168f414158910153398a085e0fa",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/03/instalatii-petroliere-in-alberta-1024x576.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Petrolul, în pragul unui nou salt. Cu cât ar putea urca din nou prețurile",
-        "link": "https://www.mediafax.ro/economic/petrolul-in-pragul-unui-nou-salt-cu-cat-ar-putea-urca-din-nou-preturile-23824739"
-      },
-      {
-        "source": "Economedia",
-        "title": "Petrolul, în pragul unui nou salt. Cu cât ar putea urca din nou prețurile",
-        "link": "https://economedia.ro/petrolul-in-pragul-unui-nou-salt-cu-cat-ar-putea-urca-din-nou-preturile.html"
-      }
-    ],
-    "published_at": 1791910677,
-    "title_hu": "Paul Tudor Jones 20–25 dolláros olajár-emelkedéstől tart",
-    "lead_hu": "Paul Tudor Jones amerikai befektető szerint a közel-keleti konfliktus miatt hordónként további 20–25 dollárral drágulhat az olaj, az amerikai jegyzés pedig így 112,50–117,50 dollárra emelkedhet. Az olajár növekedése inflációs nyomást okozhat és kedvezőtlenül hathat a részvénypiacokra; Jones 2027-et is nehéz évnek tartja a tőzsdék számára.",
-    "content_hu": "• **Paul Tudor Jones előrejelzése szerint** a konfliktus miatt hordónként további 20–25 dollárral emelkedhet az olaj ára. Az amerikai olaj kedden reggel körülbelül 92,50 dolláron forgott, így az előrejelzés teljesülése esetén 112,50–117,50 dollárra nőhetne a jegyzés, meghaladva az idei, valamivel 113 dollár alatti csúcsot.\n\n• **A konfliktus lezárása** Jones szerint a novemberi választások előtt nem valószínű. Arra számít, hogy Donald Trump elnök a választások után megpróbálhat békét elérni, mert a jelenlegi helyzet hosszú távon nem tartható fenn.\n\n• **A dráguló olaj** növelheti a vállalatok költségeit, fokozhatja az inflációt és ronthatja a gazdasági kilátásokat. Jones arra figyelmeztetett, hogy egy újabb 20–25 dolláros hordónkénti emelkedésre a tőzsdék „nagyon negatívan” reagálnának.\n\n• **A konfliktus február 28-i kezdete után** az S&P 500 március végén valamivel több mint 7 százalékkal került a háború előtti szint alá. Az amerikai olajár márciusban meredeken emelkedett, április elején tetőzött, júniusban 70 dollár alá csökkent, majd júliustól ismét nőtt; szeptemberben megközelítette a 106 dollárt, mielőtt kissé visszaesett.\n\n• **A Hormuzi-szoros helyzete** szintén befolyásolta az árakat: a Perzsa-öbölből induló olajszállítások korlátozása az ellátást és az európai árakat is érintheti.\n\n• **2027 a részvénypiacok számára is nehéz év lehet** Jones szerint. Az OpenAI és az Anthropic esetleges tőzsdei bevezetése jelentős befektetői pénzeket vonzhat, és arra késztetheti a befektetőket, hogy más vállalatok részvényeit adják el az új papírok megvásárlásához, ami csökkentheti az eladott részvények árfolyamát.",
-    "title_ro": "Paul Tudor Jones anticipează o scumpire a petrolului cu 20–25 de dolari pe baril",
-    "lead_ro": "Investitorul american Paul Tudor Jones estimează că petrolul s-ar putea scumpi cu încă 20–25 de dolari pe baril pe fondul conflictului din Orientul Mijlociu, iar cotația petrolului american ar putea ajunge la 112,50–117,50 dolari. Scumpirea ar putea alimenta inflația și afecta bursele, iar Jones avertizează că 2027 ar putea fi un an dificil pentru piețele de acțiuni.",
-    "content_ro": "• **Potrivit estimării lui Paul Tudor Jones**, conflictul ar putea împinge prețul petrolului în sus cu încă 20–25 de dolari pe baril. Marți dimineață, petrolul american se tranzacționa la aproximativ 92,50 de dolari, iar dacă prognoza se confirmă, cotația ar putea ajunge la 112,50–117,50 dolari, peste maximul din acest an, situat puțin sub 113 dolari.\n\n• **Un acord pentru încheierea conflictului** este puțin probabil înaintea alegerilor din noiembrie, consideră Jones. El se așteaptă ca Donald Trump să încerce să obțină pacea după scrutin, deoarece situația actuală nu poate continua pe termen lung.\n\n• **Petrolul mai scump** poate crește cheltuielile companiilor, alimenta inflația și afecta perspectivele economice. Jones a avertizat că bursele ar reacționa „foarte negativ” la o nouă scumpire de 20–25 de dolari pe baril.\n\n• **După începerea războiului, pe 28 februarie**, indicele S&P 500 a coborât cu puțin peste 7% față de nivelul anterior conflictului, atingând minimul la sfârșitul lunii martie. Petrolul american s-a scumpit puternic în martie și a atins un maxim la începutul lui aprilie, a coborât sub 70 de dolari în iunie, apoi a crescut din nou din iulie; în septembrie s-a apropiat de 106 dolari înainte să scadă ușor.\n\n• **Situația din Strâmtoarea Ormuz** a influențat, de asemenea, prețurile. Restricțiile asupra transportului petrolului din Golful Persic pot afecta aprovizionarea și pot duce la scumpiri inclusiv în Europa.\n\n• **Anul 2027 ar putea fi dificil pentru piețele bursiere**, a mai spus Jones. O posibilă listare la bursă a companiilor OpenAI și Anthropic ar putea atrage sume importante de la investitori, care ar putea vinde acțiuni ale altor companii pentru a cumpăra titlurile nou-listate, exercitând presiune asupra prețurilor acțiunilor vândute."
-  },
-  {
-    "group_id": "group_9e779dbbdf",
-    "fingerprint": "ca59ad1595fbd7b8b33c064497de3234",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTE4M18zMDA5/MTgzX3Byb2ZpbWVkaWEtMTAxNDE2MjUx/NS5qcGcmaGFzaD02NWVlZjVkMmJlOWUyNmJjOTM2NjBmNzYxZDExOTczMg==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "„Capacitatea ofensivă a Rusiei a fost anihilată”, susține fostul șef al armatei ucrainene. Avertisment pentru Europa",
-        "link": "https://www.digi24.ro/stiri/externe/ue/capacitatea-ofensiva-a-rusiei-a-fost-anihilata-sustine-fostul-sef-al-armatei-ucrainene-avertisment-pentru-europa-3989493"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Un fost general de rang înalt al Kievului susține că Ucraina a „zdrobit capacitatea Rusiei de a avansa”",
-        "link": "https://www.mediafax.ro/stirile-zilei/un-fost-general-de-rang-inalt-al-kievului-sustine-ca-ucraina-a-zdrobit-capacitatea-rusiei-de-a-avansa-23824786"
-      }
-    ],
-    "published_at": 1791910177,
-    "title_hu": "Szirs z kijelentette: stabilizálódott a front, és súlyos veszteségeket szenvedett Oroszország",
-    "lead_hu": "Olekszandr Szirs, az ukrán hadsereg korábbi főparancsnoka a BBC-nek adott interjújában azt állította, hogy az orosz előrenyomulás megtorpant, és az orosz veszteségek jóval meghaladják az ukránokat. A front stabilizálódását a veszteségek mellett az ukrán technológiai fejlesztésekkel és az orosz vonalak gyenge pontjainak támadásával magyarázta.",
-    "content_hu": "• **Olekszandr Szirs állítása szerint** az orosz veszteségek összességében hatszor akkorák, mint az ukránoké; a halottak számát tekintve az arány akár 11 az egyhez is lehet. Ezeket az adatokat független becslések nem igazolják teljesen, és egyik ország sem közöl hivatalos összesítést a háborús halottakról.\n\n• **2026 első hat hónapjában** Oroszország mindössze 61 négyzetkilométert foglalt el – mondta Szirs, ezt a front stabilizálódásának jeleként értékelve. A Háborúkutató Intézet (ISW) szerint 2026 szeptemberében az orosz erők területvesztesége meghaladta a területszerzésüket.\n\n• **A megtorpanás okai között** Szirs az orosz veszteségeket, az ukrán hadsereg technológiai fejlődését és az orosz vonalak gyenge pontjai ellen végrehajtott támadásokat említette. Állítása szerint a drónok az orosz veszteségek 80 százalékáért felelősek.\n\n• **Szirs júliusi menesztéséről** azt mondta, hogy nézeteltérései voltak Mihajlo Fedorov akkori védelmi miniszterrel a fegyver- és felszerelésbeszerzések prioritásairól. Visszautasította azt a bírálatot is, hogy túl „régimódi” lenne a modern hadviselés vezetéséhez.\n\n• **Az európai szövetségeseket** Szirs arra figyelmeztette, hogy készüljenek fel egy esetleges háborúra, és ne tekintsék kizártnak, hogy a konfliktus Ukrajnán túlra is kiterjedhet. Szerinte a hadviselésben egyre nagyobb szerepet kapnak a robotok, az automatizált rendszerek és a mesterséges intelligencia, de az emberi irányítás továbbra is döntő marad.",
-    "title_ro": "Syrskyi afirmă că frontul s-a stabilizat, iar Rusia a suferit pierderi grele",
-    "lead_ro": "Oleksandr Syrskyi, fostul comandant-șef al armatei ucrainene, a declarat într-un interviu pentru BBC că înaintarea Rusiei a stagnat și că pierderile rusești le depășesc cu mult pe cele ucrainene. El a explicat stabilizarea frontului prin pierderi, dezvoltarea tehnologică a armatei ucrainene și atacurile asupra punctelor slabe ale liniilor rusești.",
-    "content_ro": "• **Potrivit afirmațiilor lui Oleksandr Syrskyi**, pierderile totale ale Rusiei sunt de șase ori mai mari decât cele ale Ucrainei, iar raportul dintre militarii morți ar putea ajunge până la 11 la unu. Estimările independente nu confirmă pe deplin aceste cifre, iar niciuna dintre țări nu publică un bilanț oficial al morților din război.\n\n• **În primele șase luni ale anului 2026**, Rusia a cucerit doar 61 de kilometri pătrați, a spus Syrskyi, considerând acest lucru un indiciu al stabilizării frontului. Institutul pentru Studiul Războiului (ISW) a estimat că, în septembrie 2026, pierderile teritoriale ale forțelor ruse au depășit câștigurile.\n\n• **Printre cauzele stagnării**, Syrskyi a menționat pierderile rusești, progresul tehnologic al armatei ucrainene și atacurile asupra punctelor slabe ale liniilor rusești. Potrivit afirmației sale, dronele sunt responsabile pentru 80% din pierderile Rusiei.\n\n• **Despre demiterea sa din iulie**, Syrskyi a spus că a avut divergențe cu Mihailo Fedorov, ministrul apărării de atunci, privind prioritățile în achiziția de armament și echipamente. El a respins și criticile potrivit cărora ar fi fost prea „de modă veche” pentru a conduce un război modern.\n\n• **Aliaților europeni**, Syrskyi le-a recomandat să se pregătească pentru un posibil război și să nu excludă extinderea conflictului dincolo de Ucraina. În opinia sa, roboții, sistemele automatizate și inteligența artificială vor avea un rol tot mai important, însă controlul uman va rămâne decisiv."
   }
 ]
