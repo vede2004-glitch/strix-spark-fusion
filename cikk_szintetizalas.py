@@ -364,7 +364,7 @@ def run_synthesis_direct():
 
     frontend_news = [
         item for item in fresh_items 
-        if item.get("is_synthesized") is True and not item.get("rejected")
+        if not item.get("rejected")
     ]
 
     final_sorted_list = sorted(
