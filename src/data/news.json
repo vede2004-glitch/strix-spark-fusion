@@ -1,12 +1,145 @@
 [
   {
+    "group_id": "group_1c05a2fc8d",
+    "fingerprint": "6f3ecb4f78911e9cfc22e4bae2156295",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Probleme pentru armata ucraineană, după ce Starlink a impus o limită peste noapte, fără niciun avertisment. Au fost afectate „misiuni critice”",
+        "link": "https://hotnews.ro/probleme-pentru-armata-ucraineana-dupa-ce-starlink-a-impus-o-limita-peste-noapte-fara-niciun-avertisment-au-fost-afectate-misiuni-critice-2375385"
+      },
+      {
+        "source": "G4Media",
+        "title": "SpaceX ar fi limitat funcționarea Starlink în Ucraina, ceea ce perturbă misiunile militare / Kievul spune că nu a fost avertizat",
+        "link": "https://www.g4media.ro/spacex-ar-fi-limitat-functionarea-starlink-in-ucraina-ceea-ce-perturba-misiunile-militare-kievul-spune-ca-nu-a-fost-avertizat.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "SpaceX a impus o limită de viteză pentru terminalele Starlink utilizate de militarii ucraineni. Operațiunile militare au fost afectate",
+        "link": "https://www.mediafax.ro/politic/spacex-a-impus-o-limita-de-viteza-pentru-terminalele-starlink-utilizate-de-militarii-ucraineni-operatiunile-militare-au-fost-afectate-23825065"
+      },
+      {
+        "source": "Digi24",
+        "title": "Reacția Kremlinului după informațiile că serviciile Starlink ar fi fost restricționate pentru armata ucraineană",
+        "link": "https://www.digi24.ro/stiri/externe/reactia-kremlinului-dupa-informatiile-ca-serviciile-starlink-ar-fi-fost-restrictionate-pentru-armata-ucraineana-3991969"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Ukrajna szerint Musk korlátozta a hadserege hozzáférését a Starlinkhez, bevetéseket kellett lefújni",
+        "link": "https://transtelex.ro/kulfold/2026/10/14/ukrajna-spacex-starlink-hozzaferes-korlatozas"
+      },
+      {
+        "source": "Go4IT",
+        "title": "SpaceX limitează viteza pentru terminalele Starlink utilizate de militarii ucraineni",
+        "link": "https://www.go4it.ro/tehnologie-militara/spacex-limiteaza-viteza-pentru-terminalele-starlink-utilizate-de-militarii-ucraineni-19287793/"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ofițerii ucraineni avertizează că încetinirea serviciului Starlink este similar cu „un atac nuclear împotriva noastră”",
+        "link": "https://www.g4media.ro/ofiterii-ucraineni-avertizeaza-ca-incetinirea-serviciului-starlink-este-similar-cu-un-atac-nuclear-impotriva-noastra.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Volodimir Zelenski îi cere lui Elon Musk să restabilească serviciile Starlink în Ucraina: Vor muri oameni. Sper că e vorba de o eroare",
+        "link": "https://www.digi24.ro/stiri/externe/volodimir-zelenski-ii-cere-lui-elon-musk-sa-restabileasca-serviciile-starlink-in-ucraina-vor-muri-oameni-sper-ca-e-vorba-de-o-eroare-3992803"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Starlink, „coloana vertebrală” a armatei ucrainene. De ce este atât de greu de înlocuit",
+        "link": "https://www.mediafax.ro/externe/starlink-coloana-vertebrala-a-armatei-ucrainene-de-ce-este-atat-de-greu-de-inlocuit-23825596"
+      }
+    ],
+    "published_at": 1792009803,
+    "title_hu": "A Starlink-korlátozás ukrán katonai műveleteket zavart meg, Zelenszkij Musk segítségét kérte",
+    "lead_hu": "Ukrán tisztviselők és katonák szerint a Starlink mozgó termináljainak sebességkorlátozása több katonai műveletet, köztük közepes hatótávolságú dróntámadásokat zavart meg. A beszámolók eltérnek a határértékről és a korlátozás mértékéről; a szolgáltatás minősége szerda estére javult, de a 161 kilométer/órás korlát megmaradt. Zelenszkij Elon Musk segítségét kérte, Musk pedig azt írta, hogy a Starshield használatának korlátozásáról az amerikai kormány dönt.",
+    "content_hu": "• **A jelentések szerint szerdán** a SpaceX korlátozta a mozgó Starlink-terminálok működését. Ukrán tisztviselők és aktivisták 160–161 kilométer/órás határról számoltak be, míg egy Politicónak nyilatkozó frontvonalbeli tiszt 100 kilométer/órás korlátozást említett; a SpaceX nem erősítette meg a változtatást.\n\n• **A korlátozás a StarShieldet is érinthette:** az ukrán beszámolók a katonai célú szolgáltatásra utaltak, a Politicónak nyilatkozó tiszt pedig azt mondta, hogy az egysége által használt Starlink- és Starshield-terminálokra is kiterjedt az intézkedés.\n\n• **A szolgáltatás szerda estére javult:** az ukrán védelmi minisztérium szerint a 161 kilométer/órás korlát érvényben maradt, de napközben a tényleges határok ennél alacsonyabbak voltak; később 160 kilométer/órás sebességig javuló kapcsolatot tapasztaltak. A minisztérium közölte, hogy kapcsolatban áll a SpaceX-szel.\n\n• **Serhii Beskrestnov**, Volodimir Zelenszkij elnök katonai tanácsadója szerint az ukrán erők nem kaptak előzetes figyelmeztetést, és a korlátozás több misszió meghiúsulásához vezetett. A délkelet-ukrajnai 7. Gyorsreagálású Hadtest egyik forrása szintén megerősítette a Starlink működési zavarait.\n\n• **Serhii Sternenko aktivista** szerint a terminálok kapcsolata akkor kezdett megszakadni, amikor a mozgási sebesség meghaladta a 160 kilométer/órát, és több kritikus feladatot nem tudtak végrehajtani. A Starlink az ukrán hadsereg kommunikációjában, a műveletek koordinálásában és a drónok irányításában is fontos szerepet játszik.\n\n• **A közepes hatótávolságú drónműveletek leálltak:** egy, a Politicónak nyilatkozó, névtelenséget kérő ukrán tiszt szerint az egység támadó műveleteit felfüggesztették. A katonák Starlinket használnak az amerikai gyártmányú, akár 150 kilométeres hatótávolságú Hornet drónok működtetésére és navigálására.\n\n• **A drónhálózatok működése is sérülhetett:** a tiszt szerint egy Starlinkkel felszerelt drón továbbítja a jeleket a hálózatba kapcsolt többi drónnak. A beszámoló szerint a korlátozás az orosz logisztika, lőszerraktárak, parancsnoki központok és tüzérségi eszközök elleni támadásokat is akadályozta.\n\n• **Iryna Terekh**, a Fire Point ukrán rakétagyártó vezérigazgatója szerint az ukrán frontvonal nagyban függ a Starlinkkel működtetett közepes hatótávolságú támadó drónoktól. Ukrán katonák szerint ezek az eszközök az orosz utánpótlás és logisztika megzavarásával lassították az orosz előrenyomulást.\n\n• **A Starlinket nehéz gyorsan helyettesíteni:** a BBC által idézett szakértők szerint a rendszer a szárazföldi, tengeri és légi erők kommunikációját, valamint a drónok, tüzérség és parancsnoki pontok valós idejű összekapcsolását szolgálja. Nagy mennyiségű adatot, például videót is továbbít, és az ukrán szakértők szerint jelenleg nincs gyorsan bevethető alternatíva.\n\n• **A sebességkorlát a gyors célok elfogását is nehezítheti:** a BBC-nek nyilatkozó szakértők szerint a korlátozás akadályozhatja az orosz Shahed drónok követését és elfogását; ezek egyes változatai óránként több mint 318 kilométeres sebességgel haladhatnak.\n\n• **Volodimir Zelenszkij Elon Muskhoz fordult:** arra kérte a SpaceX vezetőjét, hogy állítsa helyre a Starlink szolgáltatását Ukrajnában. Zelenszkij „nagy hibának” nevezte a kiesést, és azt mondta, hogy ha az orosz támadások folytatódnak, a Starlink pedig nem működik, emberek fognak meghalni; reményét fejezte ki, hogy műszaki hibáról van szó.\n\n• **Elon Musk szerint a Starshieldet az Egyesült Államok irányítja:** azt írta, hogy a katonai változat az amerikai kormány tulajdona és ellenőrzése alatt áll, a sebességre vagy használatra vonatkozó korlátozásokról pedig az amerikai hadsereg, végső soron az elnök dönt. Musk a Starlinket ettől különálló, kereskedelmi szolgáltatásként írta le, amelyet szerinte polgári vagy védelmi célokra korlátoznak.\n\n• **A politikai háttér nem bizonyított:** Beskrestnov szerint az intézkedés aligha volt véletlen, Sternenko pedig felvetette, hogy a SpaceX a Trump-adminisztráció kérésére léphetett. A feltételezést összefüggésbe hozták Donald Trump nyomásával, hogy Ukrajna állítsa le az orosz energetikai létesítmények, köztük finomítók elleni támadásokat, de erre nem mutattak be bizonyítékot.\n\n• **Október 10-én és 11-én** Trump előbb azt javasolta, hogy Ukrajna keressen új vezetőt, aki megállapodást tud kötni, majd egyoldalúan energetikai tűzszünetet jelentett be. A Trump-kormány azzal is fenyegette Ukrajnát és európai szövetségeseit, hogy leállíthatja az amerikai fegyverek biztosítását és a hírszerzési együttműködést, ha Kijev nem hagy fel az orosz energetikai célpontok támadásával.\n\n• **A keddi orosz támadásokban** 39 ballisztikus rakéta és 120 drón vette célba Kijev és Harkiv térségét; erőművek és a fővárost ellátó alállomások is találatot kaptak. Zelenszkij szerint mintegy 600 ezer ember maradt áram nélkül.\n\n• **Az amerikai hírszerzési támogatás folytonossága is aggodalom tárgya:** az Egyesült Államok 2025 márciusában átmenetileg felfüggesztette az Ukrajnának nyújtott hírszerzési információk átadását. Zelenszkij később arról beszélt, hogy szövetségesek nem figyelmeztették előre Kijevet egyes orosz rakétatámadásokra; Trump azt állította, hogy az információmegosztás folytatódik.\n\n• **Andrii Kovalenko ukrán tisztviselő** azt állította, hogy a Trump-adminisztráció tudhatott az ukrán energetikai rendszer elleni orosz támadás terveiről, és szándékosan nem figyelmeztette Kijevet. Az állítást nem támasztották alá független bizonyítékok.\n\n• **A Starlink ukrajnai indulásáról új részlet jelent meg:** a Transtelex szerint a 2022-es invázió után az akkori ukrán miniszterelnök-helyettes, Mihajlo Fedorov kérte Musk segítségét, aki fél napon belül válaszolt; a beszámoló szerint az Egyesült Államok később 3 millió dollárral támogatta a szolgáltatást.\n\n• **A Starlink korábbi korlátozásai is előzményt jelentenek:** Musk 2022-ben utasította a SpaceX mérnökeit, hogy kapcsolják le a szolgáltatást a Krím partjainál, hogy megakadályozzon egy ukrán támadást az orosz flotta ellen; ezt 2023-ban ismerte el. 2023-ban a SpaceX a drónirányítás miatt is korlátozta az ukrán hadsereg hozzáférését, majd a Pentagon szerződést kötött a szolgáltatás biztosítására. A Starlink az orosz megszállás alatt álló ukrán területeken működik, Oroszországban viszont korlátozott; Kijev oroszországi területek feletti drónműveletekhez is szeretné használni.\n\n• **Dmitrij Peszkov, a Kreml szóvivője** azt mondta, nem tud többet a Starlink esetleges korlátozásáról annál, mint ami a sajtóban megjelent, és szerinte korai lenne következtetéseket levonni. Hozzátette: az ilyen technológiákat lehetőleg nem kellene katonai célokra használni.\n\n• **A korlátozás pontos hatása továbbra sem tisztázott:** nem ismert, hány egységet érintett, mennyi ideig tartott a kiesés, illetve általános technikai lépésről vagy külön kérésre hozott döntésről volt-e szó.",
+    "title_ro": "Restricțiile Starlink au perturbat operațiunile militare ucrainene; Zelenski i-a cerut ajutorul lui Musk",
+    "lead_ro": "Oficiali și militari ucraineni afirmă că limita de viteză impusă terminalelor Starlink aflate în mișcare a perturbat mai multe operațiuni, inclusiv atacuri cu drone cu rază medie de acțiune. Relatările diferă în privința pragului și a amplorii restricțiilor; calitatea serviciului s-a îmbunătățit miercuri seară, dar limita de 161 km/h a rămas în vigoare. Zelenski i-a cerut ajutorul lui Elon Musk, care a spus că restricțiile privind Starshield sunt decise de guvernul american.",
+    "content_ro": "• **Miercuri, potrivit relatărilor**, SpaceX a limitat funcționarea terminalelor Starlink aflate în mișcare. Oficialii și activiștii ucraineni au indicat un prag de 160–161 km/h, în timp ce un militar de pe linia frontului citat de Politico a menționat o limită de 100 km/h; SpaceX nu a confirmat schimbarea.\n\n• **Restricția ar fi putut afecta și Starshield:** relatările ucrainene au vizat serviciul destinat utilizării militare, iar un ofițer citat de Politico a spus că măsura s-a aplicat terminalelor Starlink și Starshield folosite de unitatea sa.\n\n• **Serviciul s-a îmbunătățit miercuri seară:** Ministerul ucrainean al Apărării a declarat că limita de 161 km/h a rămas în vigoare, dar că pragurile efective din timpul zilei au fost mult mai mici; ulterior, ministerul a observat o îmbunătățire a conexiunii până la viteza de 160 km/h. Acesta a precizat că este în contact cu SpaceX.\n\n• **Serhii Beskrestnov**, consilier militar al președintelui Volodimir Zelenski, a afirmat că forțele ucrainene nu au fost avertizate în prealabil și că restricția a dus la eșecul mai multor misiuni. O sursă din Corpul 7 de Reacție Rapidă, desfășurat în sud-estul Ucrainei, a confirmat perturbări ale serviciului Starlink.\n\n• **Activistul Serhii Sternenko** a spus că terminalele au început să piardă conexiunea când viteza de deplasare a depășit 160 km/h și că mai multe misiuni critice nu au putut fi îndeplinite. Starlink are un rol important în comunicațiile armatei ucrainene, coordonarea operațiunilor și controlul dronelor.\n\n• **Operațiunile cu drone cu rază medie de acțiune au fost suspendate:** un ofițer ucrainean anonim citat de Politico a declarat că unitatea sa și-a oprit operațiunile de atac. Militarii folosesc Starlink pentru operarea și navigarea dronelor Hornet de fabricație americană, cu o rază de acțiune de până la 150 km.\n\n• **Rețelele de drone ar fi fost, de asemenea, afectate:** potrivit ofițerului, o dronă echipată cu Starlink transmite semnale către alte drone conectate într-o rețea. Relatările spun că restricția a împiedicat și atacuri asupra logisticii ruse, depozitelor de muniții, centrelor de comandă și artileriei.\n\n• **Iryna Terekh**, directoarea producătorului ucrainean de rachete Fire Point, a afirmat că linia frontului depinde în mare măsură de dronele de atac cu rază medie de acțiune operate prin Starlink. Militarii ucraineni spun că aceste aparate au încetinit înaintarea Rusiei prin perturbarea aprovizionării și a logisticii.\n\n• **Starlink este dificil de înlocuit rapid:** experți citați de BBC spun că sistemul susține comunicațiile forțelor terestre, navale și aeriene și conectează în timp real dronele, artileria și centrele de comandă. Rețeaua poate transmite volume mari de date, inclusiv imagini video, iar Ucraina nu dispune în prezent de o alternativă care să poată fi introdusă rapid.\n\n• **Limita de viteză poate îngreuna interceptarea unor ținte rapide:** experți citați de BBC au afirmat că restricția ar putea afecta urmărirea și interceptarea dronelor rusești Shahed; unele dintre acestea pot depăși viteza de 318 km/h.\n\n• **Volodimir Zelenski i-a cerut ajutorul lui Elon Musk:** președintele ucrainean i-a solicitat să restabilească serviciul Starlink în Ucraina. Zelenski a numit întreruperea o „mare eroare” și a spus că vor muri oameni dacă atacurile rusești continuă, iar Starlink nu funcționează; el a sperat că este vorba despre o problemă tehnică.\n\n• **Elon Musk a declarat că Starshield este controlat de Statele Unite:** potrivit lui, versiunea militară este deținută și controlată de guvernul american, iar restricțiile privind viteza sau utilizarea sunt decise de armata SUA și, în ultimă instanță, de președinte. Musk a descris Starlink ca pe un serviciu comercial separat, a cărui utilizare este limitată, potrivit lui, la scopuri civile sau defensive.\n\n• **Legătura politică nu este dovedită:** Beskrestnov a spus că măsura nu pare întâmplătoare, iar Sternenko a sugerat că SpaceX ar fi putut acționa la cererea administrației Trump. Ipoteza a fost asociată presiunilor lui Donald Trump asupra Ucrainei pentru oprirea atacurilor asupra infrastructurii energetice ruse, inclusiv a rafinăriilor, însă nu au fost prezentate dovezi în acest sens.\n\n• **Pe 10 și 11 octombrie**, Trump a sugerat mai întâi ca Ucraina să își aleagă un nou lider capabil să încheie un acord, apoi a anunțat unilateral un armistițiu energetic. Administrația sa a amenințat Ucraina și aliații europeni cu oprirea furnizării de arme americane și a cooperării în materie de informații dacă Kievul nu încetează atacurile asupra țintelor energetice rusești.\n\n• **În atacurile rusești de marți**, 39 de rachete balistice și 120 de drone au vizat regiunile Kiev și Harkiv; au fost lovite centrale electrice și stații electrice care alimentează capitala. Zelenski a afirmat că aproximativ 600.000 de oameni au rămas fără curent.\n\n• **Continuitatea sprijinului american cu informații este, de asemenea, o preocupare:** Statele Unite au suspendat temporar transmiterea de informații către Ucraina în martie 2025. Ulterior, Zelenski a spus că aliații nu au avertizat Kievul din timp despre unele atacuri rusești cu rachete; Trump a afirmat că schimbul de informații continuă.\n\n• **Oficialul ucrainean Andrii Kovalenko** a susținut că administrația Trump ar fi putut cunoaște planurile Rusiei de a ataca sistemul energetic ucrainean și că nu ar fi avertizat Kievul în mod deliberat. Afirmația nu a fost susținută de dovezi independente.\n\n• **Au apărut detalii noi despre lansarea Starlink în Ucraina:** potrivit Transtelex, după invazia din 2022, vicepremierul ucrainean de atunci, Mihailo Fedorov, i-a cerut ajutorul lui Musk, care a răspuns în decurs de jumătate de zi; relatarea spune că Statele Unite au sprijinit ulterior serviciul cu 3 milioane de dolari.\n\n• **Restricțiile anterioare ale Starlink oferă un precedent:** în 2022, Musk le-a cerut inginerilor SpaceX să dezactiveze serviciul în apropierea coastelor Crimeei pentru a împiedica un atac ucrainean asupra flotei ruse, fapt pe care l-a recunoscut în 2023. Tot în 2023, SpaceX a restricționat accesul armatei ucrainene din cauza utilizării serviciului pentru controlul dronelor, iar Pentagonul a încheiat ulterior un contract pentru furnizarea Starlink. Serviciul funcționează în teritoriile ucrainene ocupate de Rusia, dar este restricționat în Rusia; Kievul dorește să îl folosească și pentru operațiuni cu drone deasupra teritoriului rus.\n\n• **Dmitri Peskov, purtătorul de cuvânt al Kremlinului**, a declarat că nu știe mai mult despre posibilele restricții decât ceea ce a apărut în presă și că este prea devreme pentru concluzii. El a adăugat că astfel de tehnologii nu ar trebui, pe cât posibil, folosite în scopuri militare.\n\n• **Amploarea exactă a restricției rămâne neclară:** nu se știe câte unități au fost afectate, cât au durat întreruperile sau dacă a fost vorba despre o măsură tehnică generală ori despre o decizie luată la cerere."
+  },
+  {
+    "group_id": "group_a7598532e9",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21328/23260223/1/10-foto-mijloc.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "În timp ce în Polonia şantierele navale de stat nu doar că şi-au revenit, dar prosperă şi se extind şi se văd în situaţia de a refuza comenzi, Damen Mangalia este vândut la discount",
+        "link": "https://www.zf.ro/business-international/in-timp-ce-in-polonia-santierele-navale-de-stat-nu-doar-ca-si-au-revenit-dar-prospera-si-se-extind-si-se-vad-in-situatia-de-a-refuza-comenzi-damen-mangalia-este-vandut-la-discount-23260223"
+      }
+    ],
+    "published_at": 1792009680,
+    "title_hu": "În timp ce în Polonia şantierele navale de stat nu doar că şi-au revenit, dar prosperă şi se extind şi se văd în situaţia de a refuza comenzi, Damen Mangalia este vândut la discount",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "În timp ce în Polonia şantierele navale de stat nu doar că şi-au revenit, dar prosperă şi se extind şi se văd în situaţia de a refuza comenzi, Damen Mangalia este vândut la discount",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c674114b6b",
+    "fingerprint": "fcec31039cec8638f6529fe6e72a2a8a",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI1JTJGMjYwNzE2NF8yNjA3/MTY0X3Byb2ZpbWVkaWEtMDgxODYxODM3/OS5qcGcmaGFzaD02MWE0ZWY3Yzg0MjUyNTkzMDJhNGJkY2U3Y2NjNmNlMA==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Elon Musk spune că orice limitări ale serviciului Starshield sunt decise de Armata și președintele SUA, nu de SpaceX",
+        "link": "https://www.digi24.ro/stiri/externe/elon-musk-spune-ca-orice-limitari-ale-serviciului-starshield-sunt-decise-de-armata-si-presedintele-sua-nu-de-spacex-3992895"
+      },
+      {
+        "source": "G4Media",
+        "title": "Musk sugerează că guvernul american este responsabil pentru o potenţială încetinire a reţelei militare securizate Starshield",
+        "link": "https://www.g4media.ro/musk-sugereaza-ca-guvernul-american-este-responsabil-pentru-o-potentiala-incetinire-a-retelei-militare-securizate-starshield.html"
+      }
+    ],
+    "published_at": 1792009661,
+    "title_hu": "Musk szerint az amerikai kormány dönt a Starshield korlátozásairól",
+    "lead_hu": "Elon Musk szerint az ukrajnai katonai Starshield-hálózat esetleges lassításáról nem a SpaceX, hanem az amerikai kormány dönt. Azt is közölte, hogy a rendszert az Egyesült Államok kormánya birtokolja és ellenőrzi.",
+    "content_hu": "• **Elon Musk** szerdán azt írta, hogy az ukrajnai Starshield-hálózat esetleges lassításáért nem a SpaceX, hanem az amerikai kormány felel.\n\n• **A korlátozásokról** Musk szerint az amerikai hadsereg, végső soron pedig az Egyesült Államok elnöke dönt.\n\n• **A Starshield és a Starlink** külön rendszer: Musk szerint a Starshieldet Ukrajna a fronton használja katonai kommunikációra, míg a Starlinket polgári használatra korlátozzák. Mindkettőt a SpaceX fejlesztette.",
+    "title_ro": "Musk afirmă că guvernul SUA decide limitările Starshield",
+    "lead_ro": "Elon Musk a declarat că eventualele încetiniri ale rețelei militare Starshield din Ucraina sunt decise de guvernul american, nu de SpaceX. El a precizat că sistemele Starshield sunt deținute și controlate de guvernul SUA.",
+    "content_ro": "• **Elon Musk** a scris miercuri că eventualele încetiniri ale rețelei Starshield din Ucraina nu sunt decise de SpaceX, ci de guvernul american.\n\n• **Limitările de utilizare și de lățime de bandă** sunt hotărâte, potrivit lui Musk, de armata SUA și, în cele din urmă, de președintele american.\n\n• **Starshield și Starlink** sunt sisteme distincte: Musk a spus că Ucraina folosește Starshield pentru comunicațiile militare de pe front, în timp ce Starlink este limitat la uz civil. Ambele au fost dezvoltate de SpaceX."
+  },
+  {
+    "group_id": "group_e9a4909f02",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMzkxNl8zMDEz/OTE2X3Byb2ZpbWVkaWEtMTE0MDE4MDg3/MS5qcGcmaGFzaD0yYWM0OWE3MTY2OWM4MDk0MzAwZTBhM2Q2MmMyODBiNA==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Amazonul, mistuit de incendii: stare de urgență în 36 de localități. Focul ar fi fost pus intenționat, iar El Nino amplifică dezastrul",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/amazonul-mistuit-de-incendii-stare-de-urgenta-in-36-de-localitati-focul-ar-fi-fost-pus-intentionat-iar-el-nino-amplifica-dezastrul-3992861"
+      }
+    ],
+    "published_at": 1792009521,
+    "title_hu": "Amazonul, mistuit de incendii: stare de urgență în 36 de localități. Focul ar fi fost pus intenționat, iar El Nino amplifică dezastrul",
+    "lead_hu": "Incendiile de vegetație se intensifică în Amazonul brazilian, unde numărul focarelor a crescut cu 253% în primele două săptămâni ale lunii octombrie, comparativ cu aceeași perioadă a anului trecut. Ce…",
+    "content_hu": "Incendiile de vegetație se intensifică în Amazonul brazilian, unde numărul focarelor a crescut cu 253% în primele două săptămâni ale lunii octombrie, comparativ cu aceeași perioadă a anului trecut. Cel puțin 36 de municipalități din statul Amazonas au declarat stare de urgență, în timp ce fumul dens provoacă probleme respiratorii locuitorilor și a dus la închiderea școlilor și anularea unor evenimente. Autoritățile suspectează că o parte dintre incendii au fost provocate intenționat.",
+    "title_ro": "Amazonul, mistuit de incendii: stare de urgență în 36 de localități. Focul ar fi fost pus intenționat, iar El Nino amplifică dezastrul",
+    "lead_ro": "Incendiile de vegetație se intensifică în Amazonul brazilian, unde numărul focarelor a crescut cu 253% în primele două săptămâni ale lunii octombrie, comparativ cu aceeași perioadă a anului trecut. Ce…",
+    "content_ro": "Incendiile de vegetație se intensifică în Amazonul brazilian, unde numărul focarelor a crescut cu 253% în primele două săptămâni ale lunii octombrie, comparativ cu aceeași perioadă a anului trecut. Cel puțin 36 de municipalități din statul Amazonas au declarat stare de urgență, în timp ce fumul dens provoacă probleme respiratorii locuitorilor și a dus la închiderea școlilor și anularea unor evenimente. Autoritățile suspectează că o parte dintre incendii au fost provocate intenționat."
+  },
+  {
     "group_id": "group_0023381096",
-    "fingerprint": "3f17ded88d1e346f61906a6f4283b457",
+    "fingerprint": "9bf1e3b72064738fb6ce853ac8f9efa2",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Transtelex",
@@ -14,33 +147,114 @@
         "link": "https://transtelex.ro/kulfold/2026/10/13/trump-putyin-dizel-megallapodas-ukrajna-zelenszkij-energetikai-tuzszunet-bejelentes-tamadasok-orosz-ukran-haboru"
       },
       {
-        "source": "Digi24",
-        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
-        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Zelenski acuză Rusia de 'dispreț' față de SUA, după atacurile asupra infrastructurii energetice din #Ucraina",
-        "link": "https://agerpres.ro/politic-extern/2026/10/14/zelenski-acuza-rusia-de-dispret-fata-de-sua-dupa-atacurile-asupra-infrastructurii-energetice-din-ucr--1602809"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Semnal de la Kremlin: Ce cale deschide acordul cu SUA pentru motorina rusească",
-        "link": "https://hotnews.ro/semnal-de-la-kremlin-ce-cale-deschide-acordul-cu-sua-pentru-motorina-ruseasca-2376026"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "VIDEO Zelenski, declarație dură despre Trump. Spune că se simte trădat: „Sincer, da… Este dureros”",
-        "link": "https://hotnews.ro/zelenski-declaratie-dura-despre-trump-spune-ca-se-simte-tradat-sincer-da-este-dureros-2376310"
+        "source": "G4Media",
+        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
+        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
       }
     ],
-    "published_at": 1792008757,
-    "title_hu": "Trump szerint Putyin készebb a békére, miközben a dízelalku és az orosz támadások tovább élezik a vitát",
-    "lead_hu": "Trump szerint Putyin jobban akar megállapodást, mint Zelenszkij, de nem helyezett nagyobb nyomást Moszkvára az orosz támadások miatt. Washington a dízelalkut a tárgyalások újraindítását segítő jelzésként mutatja be, ám az árhatása csekély lehet, miközben bevételt és politikai legitimációt adhat Oroszországnak. Kijev kölcsönösséget, amerikai támogatást és erősebb légvédelmet sürget; az alku miatt európai vezetők és kétpárti amerikai szenátorok is bírálták Washingtont.",
-    "content_hu": "• **Trump Putyint a békére készebbnek tartja Zelenszkijnél**: az amerikai elnök azt mondta, szerinte Putyin jobban akar megállapodást, mint az ukrán elnök. Az energetikai infrastruktúra elleni orosz támadásokról azt állította, mindkét fél megsérthette a tűzszünetet, és nem ítélte el Moszkvát.\n\n• **Zelenszkij kölcsönösséget és amerikai fellépést sürget**: Ukrajna kész leállítani az orosz energetikai infrastruktúra elleni csapásokat, ha Moszkva is így tesz. Zelenszkij szerint az amerikai tűzszünet-bejelentés után Oroszország megtámadott egy harkivi erőművet; az ukrán erők közben egy éjszakára tartózkodtak az orosz finomítók támadásától.\n\n• **Az energetikai tűzszünet feltételei nem tisztázottak**: a Kreml szerint a megállapodást nem véglegesítették, ezért nem állítható, hogy Oroszország megsértette. A nyilvánosan ismert feltételek hiányosak; egy fehér házi tájékoztatás szerint az egyezség csak az olajfinomítókra vonatkozhatott.\n\n• **Zelenszkij árulásként éli meg Trump állásfoglalását**: a Piers Morgannek adott interjúban fájdalmasnak nevezte, hogy Trump a másik fél oldalára állt, és azt mondta, a közvetítőnek középen kell maradnia. Sajnálja, hogy Ukrajna elveszíthet egy erős partnert, de kijelentette: az országot nem adják el.\n\n• **A dízelalkut a tárgyalások újraindítására szánt jelzésként mutatták be**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón arról beszélt ukrán tisztviselőknek, hogy miután Kijev leállítja a finomítótámadásokat, Moszkván a sor, hogy engedjen. A források szerint Putyin nem hajlandó tárgyalni a háború lezárásáról; biztonsági garanciákról és újjáépítésről is szó esett, de hivatalos megállapodás nem született.\n\n• **Zelenszkij amerikai–ukrán dízelmegállapodást is felvetett**: a Varsói Biztonsági Fórumon azt mondta, a Moszkvával kötött alku mennyisége aligha befolyásolja érdemben a világpiaci ellátást, és arra kérdezett rá, miért nem Kijevvel köt megállapodást Washington.\n\n• **A dízelexportra több, egymástól eltérő mennyiségi adat jelent meg**: az egyik bejelentés több mint 2,25 millió hordóról szólt, Trump egy másik közlése 4,8 millió tonnát, közel 36 millió hordót említett. A tervben 300 ezer tonna első szállítás, majd 500 ezer és egymillió tonna szerepel, később pedig további hárommillió tonna is lehetséges. Alekszandr Novak 3–3,5 millió tonnás exportlehetőségről beszélt; Moszkva szerint az első szerződéseket napokon belül aláírhatják.\n\n• **Az alku árhatása várhatóan csekély**: a Goldman Sachs becslése szerint az októberre és novemberre tervezett szállítások hordónként csak 1–2 dollárral mérsékelhetik a nagykereskedelmi dízelárat az Egyesült Államokban és Európában. A kezdeti mennyiségek az amerikai fogyasztás kevesebb mint egy napját fedeznék; a G7 európai tagjai által négy hónap alatt felszabadítandó 100 millió hordó dízel és nyersolaj ennek mintegy ötvenszerese. A teljes, 4,8 millió tonnás tervet egy másik becslés az amerikai fogyasztás tíz napjának megfelelőnek mondta.\n\n• **Az üzemanyagárakat főként az iráni háború és a Hormuzi-szoros zavarai hajtják fel**: a Financial Times elemzése szerint Trump tévesen Zelenszkijt teszi felelőssé a drágulásért. Az ukrán finomítótámadások is szűkítették a kínálatot, de nem ezek a fő okok; Oroszországban az egy évvel korábbinál napi hárommillió hordóval több finomítói kapacitás lehet kiesésben. Az amerikai dízelár gallononként 6,28 dollárra, a benziné 4,34 dollárra emelkedett; utóbbi egy évvel korábban 3,08 dollár volt.\n\n• **A szankciók fellazítása precedenst teremthet**: elemzők és orosz propagandisták szerint az amerikai engedmény azt a benyomást keltheti, hogy a szankciók megkerülhetők, és más országokat – köztük Dél-Koreát – is erre bátoríthat. Kirill Dmitrijev a dízelalkut az amerikai–orosz gazdasági és befektetési együttműködés bővítésének mintájaként említette; Moszkva szerint a szankciós nehézségeket is leküzdi a szállításokért.\n\n• **Moszkva az alku révén szélesebb gazdasági együttműködést remél**: Dmitrijev szerint a megállapodás más orosz–amerikai gazdasági és befektetési egyezségek modellje lehet. Alekszandr Novak az orosz költségvetésnek hozott többlet-adóbevételekről és befektetési lehetőségekről beszélt; a Kreml a dízelexportot a korábbi, akár havi 3–3,5 millió tonnás szállítási szinthez kötné.\n\n• **Az orosz propagandisták szerint az alku alig hat az árakra**: egy televíziós kommentátor szerint a megállapodás nem állítja helyre az üzemanyagpiaci egyensúlyt, Jared Kushner anyagi hasznára pedig bizonyíték nélkül célzott. Mások azt állították, Trump a novemberi félidős választások előtt Moszkva segítségét keresi.\n\n• **Kétpárti szenátorcsoport követeli a dízelmegállapodás visszavonását**: a szenátorok szerint az alku alig mérsékelné az árakat, miközben bevételt adna Oroszországnak a háború folytatásához, és sértené az amerikai biztonsági érdekeket, valamint Ukrajna szövetségeseit. A 135. számú általános engedély visszavonását és a 2026-os orosz–iráni szankciós törvény végrehajtását sürgették; szerintük a Kongresszust nem tájékoztatták megfelelően.\n\n• **Washington nyomást gyakorol Kijevre a finomítótámadások leállításáért**: Zelenszkij az NPR-nek azt mondta, az amerikai kormányzat a hírszerzési információk megosztásának felfüggesztésével fenyegetett, ha Ukrajna nem állítja le az orosz finomítók elleni dróntámadásokat. A Financial Times szerint a fegyvereladások korlátozása is felmerült. A Reutersnek nyilatkozó, miami találkozót ismerő források ugyanakkor azt mondták, ott nem fenyegették meg Kijevet a támogatás megvonásával.\n\n• **Zelenszkij 60 napos teljes tűzszünethez kötné a választásokat**: azt üzente Putyinnak, hogy két hónapos teljes tűzszünet esetén Ukrajna választásokat tarthat. A lehetséges jelöltek között Valerij Zaluzsnijt, Kirilo Budanovot, Mihail Fedorovot és Petro Porosenkót említették; a háborús körülmények, a megszállás és a folytatódó támadások megnehezítik a biztonságos voksolást.\n\n• **Zelenszkij nehéz választás előtt áll**: ha nyíltan szembeszáll Trumppal, kockáztathatja az amerikai hírszerzési és katonai támogatást; ha elfogadja a Moszkvának kedvező feltételeket, Ukrajna biztonsága és szuverenitása kerülhet veszélybe. Elemzők szerint Washington nyomásgyakorlási lehetőségei szűkültek, de a hírszerzési információk megosztásának leállítása továbbra is súlyosan érintené Kijevet.\n\n• **Az orosz támadás 600 ezer embert hagyott áram nélkül**: Zelenszkij szerint Oroszország 39 ballisztikus rakétát és több mint 120 támadó drónt vetett be Kijev, a Kijevi terület és Harkiv energetikai, illetve kritikus infrastruktúrája ellen. Ukrán közlés szerint 26 energetikai és négy olaj- és gázipari létesítmény sérült meg; a mérleg legalább hét halottról és 25 sebesültről szólt. Egy részletesebb bontás négy kijevi, két Dnyipropetrovszk megyei és egy zaporizzsjai halálos áldozatot jelzett. Zelenszkij szigorúbb szankciókat és további Patriot elfogórakétákat kért.\n\n• **A Starlink kiesése műveleteket zavart meg**: ukrán közlések szerint a szolgáltatás éjszakai kiesése több harci küldetésre és a védekezésre is hatással volt; Zelenszkij azt állította, hogy a korlátozás szándékos lehetett, ezt azonban nem igazolták függetlenül. Elon Musk szerint az ukrán hadsereg által használt Starshield rendszerek az amerikai kormány tulajdonában és ellenőrzése alatt állnak, a használati vagy sávszélességi korlátozásokról pedig az amerikai hadsereg dönt. A későbbi tájékoztatás szerint a kapcsolat javult, de a SpaceX mozgás közbeni használatnál 161 km/órás sebességhatárt tartott fenn.\n\n• **Giorgia Meloni kockázatosnak és Moszkvának kedvezőnek nevezte az alkut**: szerinte az legitimációt ad Oroszországnak, új bevételt biztosíthat a háború finanszírozására és gyengíti a szankciókat. Azt javasolta, hogy az EU jelöljön ki felhatalmazott képviselőt az ukrajnai tárgyalásokra; ezt akár az E3-csoport is elláthatná hivatalos mandátummal. Európa kritikus infrastruktúrájának védelmét is sürgette a drónokkal, kibertámadásokkal és szabotázzsal járó orosz hibrid fenyegetésekkel szemben.\n\n• **Az európai vezetők és ukrán politikusok is bírálták Trump lépéseit**: Kaja Kallas szerint az engedmény hozzájárul Moszkva háborújához, az EU pedig új, az orosz hadiipart célzó szankciókat fogadott el. Ursula von der Leyen, Emmanuel Macron és Donald Tusk támogatásáról biztosította Ukrajnát, illetve kölcsönös energetikai tűzszünetet sürgetett. Petro Porosenko szerint ha valahol új vezetőre van szükség, az Oroszország; egy ellenzéki képviselő úgy vélte, Trump támadásai akár Zelenszkij támogatottságát is növelhetik.\n\n• **Az orosz támadások civil áldozatai tovább élezik a bírálatokat**: a Financial Timesban megjelent írás szerint a dízelalku bejelentését megelőző héten több mint 100 ukrán, köztük 20 gyermek halt meg orosz rakéta- és dróntámadásokban. Az elemzés szerint Oroszország hírszerzési információkkal segítette Iránt amerikai támaszpontok és regionális szövetségesek elleni támadásokban is.",
-    "title_ro": "Trump spune că Putin vrea pace mai mult decât Zelenski, în timp ce acordul privind motorina și atacurile rusești amplifică disputa",
-    "lead_ro": "Trump afirmă că Putin își dorește un acord mai mult decât Zelenski, dar nu a anunțat presiuni suplimentare asupra Moscovei după atacurile rusești. Washingtonul prezintă acordul privind motorina drept un semnal menit să repornească negocierile, însă impactul asupra prețurilor ar putea fi redus, în timp ce Rusia ar obține venituri și legitimitate politică. Kievul cere reciprocitate, sprijin american și o apărare antiaeriană mai puternică, iar lideri europeni și senatori americani din ambele partide au criticat înțelegerea.",
-    "content_ro": "• **Trump îl consideră pe Putin mai dornic de pace decât pe Zelenski**: președintele american a spus că, în opinia sa, liderul rus dorește mai mult un acord decât președintele ucrainean. Întrebat despre atacurile rusești asupra infrastructurii energetice, Trump a afirmat că ambele părți ar fi putut încălca armistițiul și nu a condamnat Moscova.\n\n• **Zelenski cere reciprocitate și măsuri din partea SUA**: Ucraina este pregătită să oprească atacurile asupra infrastructurii energetice rusești dacă Moscova face același lucru. Potrivit lui Zelenski, după anunțul american privind armistițiul, Rusia a atacat o centrală electrică din Harkov; între timp, forțele ucrainene s-au abținut o noapte de la atacarea rafinăriilor rusești.\n\n• **Condițiile armistițiului energetic nu sunt clare**: Kremlinul susține că înțelegerea nu a fost finalizată și, prin urmare, nu se poate afirma că Rusia a încălcat-o. Termenii cunoscuți public sunt incompleți; potrivit unei informări de la Casa Albă, acordul ar putea viza doar rafinăriile de petrol.\n\n• **Zelenski resimte declarațiile lui Trump ca pe o trădare**: într-un interviu acordat lui Piers Morgan, a spus că este dureros faptul că Trump a ales tabăra adversă și că un mediator trebuie să rămână la mijloc. El regretă că Ucraina ar putea pierde un partener puternic, dar a afirmat că țara nu este de vânzare.\n\n• **Acordul privind motorina a fost prezentat drept un semnal pentru reluarea negocierilor**: potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni la întâlnirea de la Miami că, după ce Kievul oprește atacurile asupra rafinăriilor, Moscova trebuie să facă următorul pas. Sursele afirmă că Putin nu este dispus să negocieze încheierea războiului; s-au discutat și garanțiile de securitate și reconstrucția, dar nu s-a ajuns la un acord oficial.\n\n• **Zelenski a propus și un acord privind motorina între SUA și Ucraina**: la Forumul de Securitate de la Varșovia, el a spus că volumul înțelegerii cu Moscova este puțin probabil să influențeze în mod semnificativ aprovizionarea mondială și a întrebat de ce Washingtonul nu încheie un acord cu Kievul.\n\n• **Au fost prezentate cifre diferite privind exporturile de motorină**: un anunț a menționat peste 2,25 milioane de barili, iar Trump a vorbit ulterior despre 4,8 milioane de tone, echivalentul a aproape 36 de milioane de barili. Planul include o primă livrare de 300.000 de tone, apoi 500.000 și un milion de tone, cu posibilitatea a încă trei milioane de tone ulterior. Aleksandr Novak a vorbit despre un potențial de export de 3–3,5 milioane de tone; Moscova spune că primele contracte ar putea fi semnate în câteva zile.\n\n• **Impactul acordului asupra prețurilor ar putea fi redus**: Goldman Sachs estimează că livrările planificate pentru octombrie și noiembrie ar putea reduce prețul angro al motorinei cu doar 1–2 dolari pe baril în SUA și Europa. Volumele inițiale ar acoperi mai puțin de o zi din consumul american; cele 100 de milioane de barili de motorină și țiței pe care membrii europeni ai G7 urmează să le elibereze în patru luni reprezintă de aproximativ 50 de ori mai mult. O altă estimare arată că planul integral de 4,8 milioane de tone ar echivala cu zece zile de consum în SUA.\n\n• **Războiul din Iran și perturbările din Strâmtoarea Ormuz sunt principalii factori ai scumpirii carburanților**: o analiză Financial Times susține că Trump îl învinovățește pe nedrept pe Zelenski pentru creșterea prețurilor. Atacurile ucrainene asupra rafinăriilor au redus și ele oferta, dar nu sunt cauza principală; în Rusia, capacitatea de rafinare indisponibilă ar putea fi cu trei milioane de barili pe zi mai mare decât cu un an înainte. Motorina în SUA a ajuns la 6,28 dolari pe galon, iar benzina la 4,34 dolari, față de 3,08 dolari cu un an în urmă.\n\n• **Relaxarea sancțiunilor poate crea un precedent**: analiști și propagandiști ruși spun că decizia americană poate sugera că sancțiunile pot fi ocolite și poate încuraja și alte țări, inclusiv Coreea de Sud, să procedeze la fel. Kirill Dmitriev a prezentat acordul ca pe un model pentru extinderea cooperării economice și de investiții dintre SUA și Rusia; Moscova spune că va depăși dificultățile legate de sancțiuni pentru a face livrările.\n\n• **Moscova speră la o cooperare economică mai amplă în urma acordului**: potrivit lui Dmitriev, înțelegerea ar putea servi drept model pentru alte acorduri economice și de investiții ruso-americane. Aleksandr Novak a vorbit despre venituri fiscale suplimentare și oportunități de investiții pentru bugetul rus; Kremlinul ar urmări revenirea exporturilor la nivelul anterior, de până la 3–3,5 milioane de tone pe lună.\n\n• **Propagandiștii ruși afirmă că acordul va avea un efect minim asupra prețurilor**: un comentator de televiziune a spus că înțelegerea nu va restabili echilibrul pieței de combustibili și a sugerat, fără dovezi, că Jared Kushner ar fi avut un câștig personal. Alții au susținut că Trump caută ajutorul Moscovei înaintea alegerilor intermediare din noiembrie.\n\n• **Un grup bipartizan de senatori cere anularea acordului privind motorina**: senatorii susțin că înțelegerea ar reduce prea puțin prețurile, dar ar oferi Rusiei venituri pentru continuarea războiului și ar afecta interesele de securitate ale SUA și aliații Ucrainei. Ei au cerut revocarea Licenței generale nr. 135 și aplicarea legii din 2026 privind sancțiunile împotriva Rusiei și Iranului; potrivit lor, Congresul nu a fost informat corespunzător.\n\n• **Washingtonul face presiuni asupra Kievului pentru oprirea atacurilor asupra rafinăriilor**: Zelenski a declarat pentru NPR că administrația americană a amenințat cu suspendarea schimbului de informații dacă Ucraina nu oprește atacurile cu drone asupra rafinăriilor rusești. Financial Times a relatat că s-a discutat și despre limitarea vânzărilor de arme. Surse Reuters familiarizate cu întâlnirea de la Miami au spus însă că acolo Kievul nu a fost amenințat cu retragerea sprijinului.\n\n• **Zelenski ar lega alegerile de un armistițiu complet de 60 de zile**: el i-a transmis lui Putin că Ucraina poate organiza alegeri dacă se instituie o încetare totală a focului timp de două luni. Printre potențialii candidați menționați se numără Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko; războiul, ocupația și atacurile în curs fac dificil un scrutin sigur.\n\n• **Zelenski se confruntă cu o alegere dificilă**: dacă i se opune deschis lui Trump, riscă sprijinul militar și informațional american; dacă acceptă condiții favorabile Moscovei, securitatea și suveranitatea Ucrainei ar putea fi puse în pericol. Analiștii spun că posibilitățile Washingtonului de a face presiuni asupra Kievului s-au redus, dar oprirea schimbului de informații ar afecta grav Ucraina.\n\n• **Atacul rusesc a lăsat 600.000 de oameni fără electricitate**: potrivit lui Zelenski, Rusia a folosit 39 de rachete balistice și peste 120 de drone de atac împotriva infrastructurii energetice și critice din Kiev, regiunea Kiev și Harkov. Ucraina a raportat avarii la 26 de obiective energetice și patru instalații din sectorul petrolier și gazier; bilanțul a indicat cel puțin șapte morți și 25 de răniți. O defalcare mai detaliată a menționat patru victime la Kiev, două în regiunea Dnipropetrovsk și una în regiunea Zaporojie. Zelenski a cerut sancțiuni mai dure și rachete interceptoare Patriot suplimentare.\n\n• **Întreruperea Starlink a perturbat operațiuni militare**: potrivit unor oficiali ucraineni, întreruperea serviciului în cursul nopții a afectat mai multe misiuni și apărarea; Zelenski a afirmat că restricția ar fi putut fi intenționată, lucru care nu a fost confirmat independent. Elon Musk a spus că sistemele Starshield utilizate de armata ucraineană sunt deținute și controlate de guvernul SUA, iar limitele de utilizare sau de lățime de bandă sunt decise de armata americană. Ulterior, conexiunea s-a îmbunătățit, dar SpaceX a menținut limita de 161 km/h pentru utilizarea în mișcare.\n\n• **Giorgia Meloni a calificat acordul drept riscant și favorabil Moscovei**: potrivit premierului italian, acesta legitimează Rusia, poate aduce venituri suplimentare pentru finanțarea războiului și slăbește sancțiunile. Ea a propus ca UE să desemneze un reprezentant cu mandat pentru negocierile privind Ucraina; rolul ar putea reveni și grupului E3. Meloni a cerut și protejarea infrastructurii critice europene de amenințări hibride rusești, precum drone, atacuri cibernetice și sabotaj.\n\n• **Lideri europeni și politicieni ucraineni au criticat deciziile lui Trump**: Kaja Kallas a spus că această concesie contribuie la războiul Moscovei, iar UE a adoptat noi sancțiuni care vizează industria militară rusă. Ursula von der Leyen, Emmanuel Macron și Donald Tusk și-au reafirmat sprijinul pentru Ucraina și au cerut un armistițiu energetic reciproc. Petro Poroșenko a spus că, dacă este nevoie de un nou lider, acesta este în Rusia; un deputat al opoziției a sugerat că atacurile lui Trump ar putea chiar spori sprijinul pentru Zelenski.\n\n• **Victimele civile ale atacurilor rusești amplifică criticile**: potrivit unei analize publicate de Financial Times, în săptămâna dinaintea anunțării acordului privind motorina au fost uciși peste 100 de ucraineni, între care 20 de copii, în atacuri rusești cu rachete și drone. Analiza mai afirmă că Rusia a furnizat Iranului informații de intelligence folosite în atacuri împotriva bazelor americane și a aliaților regionali."
+    "published_at": 1792009476,
+    "title_hu": "A dízelalku bírálatai és a háború költségei tovább növelik a Trump–Zelenszkij-vitát",
+    "lead_hu": "Az új források megerősítik a dízelalku csekély várható árhatásáról és politikai következményeiről szóló bírálatokat. Kiegészítésként megjelent egy becslés az orosz veszteségekről, valamint pontosabb adat a novemberi amerikai félidős választás időpontjáról és a megállapodás visszavonását kérő szenátorok számáról.",
+    "content_hu": "• **Orosz veszteségbecslés és november 3.**: a Transtelex által idézett becslések szerint Oroszország összesített halott és súlyos sebesült vesztesége a háború ötödik évére meghaladhatja a másfél millió főt; 50 ezres szeptemberi veszteséget is említenek. A cikk a november 3-i amerikai félidős választást jelöli meg, amely előtt Trump a dízelárak mérséklését is politikai célnak tekinti.\n\n• **Tizenkét szenátor kérte az alku visszavonását**: a kétpárti levél aláírói a Fehér Háztól, a pénzügyminisztertől és a külügyminisztertől követelték a megállapodás felmondását; szerintük az alig enyhítené az üzemanyagárakat, miközben bevételt biztosítana Moszkvának.",
+    "title_ro": "Criticile acordului privind motorina și costurile războiului amplifică disputa Trump–Zelenski",
+    "lead_ro": "Noile surse confirmă criticile privind impactul limitat al acordului asupra prețurilor și consecințele sale politice. Ele adaugă o estimare a pierderilor Rusiei, data exactă a alegerilor americane de la jumătatea mandatului și numărul senatorilor care au cerut anularea înțelegerii.",
+    "content_ro": "• **Estimarea pierderilor rusești și 3 noiembrie**: potrivit estimărilor citate de Transtelex, bilanțul cumulat al morților și răniților grav din Rusia ar putea depăși 1,5 milioane în al cincilea an al războiului; pentru septembrie este menționată o pierdere de 50.000 de oameni. Articolul indică 3 noiembrie drept data alegerilor americane de la jumătatea mandatului, înaintea cărora Trump tratează reducerea prețurilor la motorină și ca obiectiv politic.\n\n• **Doisprezece senatori au cerut anularea acordului**: semnatarii bipartizani ai scrisorii au solicitat Casei Albe, secretarului Trezoreriei și secretarului de Stat retragerea din înțelegere; în opinia lor, aceasta ar reduce prea puțin prețurile la combustibili, oferindu-i în schimb Moscovei venituri."
+  },
+  {
+    "group_id": "group_dfa7806656",
+    "fingerprint": "25bed7a2444e31cbe9176892a013a822",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/14/190450/yara-j-getty.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Navă lovită de dronă în apele teritoriale românești. Ce a raportat echipajul către Căpitănia Sulina",
+        "link": "https://stirileprotv.ro/stiri/actualitate/nava-lovita-de-drona-in-apele-teritoriale-romanesti-ce-a-raportat-echipajul-catre-capitania-sulina.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Incident grav în Marea Neagră! O navă a fost lovită de o dronă în apele României",
+        "link": "https://www.cancan.ro/incident-grav-in-marea-neagra-o-nava-a-fost-lovita-de-o-drona-in-apele-romaniei-21530275"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Navă implicată într-un incident, în apele teritoriale române. Alertă maritimă lângă Sulina",
+        "link": "https://www.go4it.ro/diverse-2/nava-implicata-intr-un-incident-in-apele-teritoriale-romane-alerta-maritima-langa-sulina-19287886/"
+      }
+    ],
+    "published_at": 1792009209,
+    "title_hu": "Drón talált el egy teherhajót a román felségvizeken, Sulina közelében",
+    "lead_hu": "Október 14-én este drón találta el a Comore-szigeteki zászló alatt közlekedő Yara J teherhajót Sulina közelében, a román felségvizeken. A robbanás tüzet okozott, amelyet eloltottak; a legénység biztonságban van. A román hatóságok mentőhajót is a helyszínre küldtek, az incidens körülményeit vizsgálják.",
+    "content_hu": "• **2026. október 14-én, szerda este** a Yara J nevű, Comore-szigeteki zászló alatt közlekedő teherhajót drón találta el Sulinától mintegy 8–10 tengeri mérföldre délkeletre, a román felségvizeken.\n\n• **A hajó azonosítója IMO 9221803**; a beszámolók szerint ballasztosan, horgonyon állt, mintegy kilenc tengeri mérföldre Vădanei térségétől. Az esetet rádión jelentette a sulinai kikötőkapitányságnak, majd a MRCC-nek.\n\n• **A robbanás után tűz ütött ki a fedélzeten.** A legénységet kimenekítették, mindenki biztonságban van; a parti őrség szerint a tüzet eloltották, és a hajó nem kért további segítséget.\n\n• **A román mentőszolgálat SAR APOLLO hajója is elindult a helyszínre.** A MRCC 20:25-kor kérte a beavatkozást, a mentőhajó hat perccel később indult; ekkor a Yara J mindössze 0,4 csomós sebességgel haladt.\n\n• **A román külügyminisztérium az incidens kivizsgálásához köti a további lépéseket.** Közlése szerint kapcsolatban áll az illetékes román intézményekkel, és a körülmények tisztázása után tájékoztathatja a nemzetközi partnereket; a NATO-szerződés 4. cikkének esetleges alkalmazásáról is csak a vizsgálat fényében reagál.\n\n• **A légiriadókról szóló beszámolók szerint** 20:04-kor két légi célpont lépett be a román légtérbe: az egyik radarjele eltűnt a tenger felett, a másik Ukrajna felé távozott, és Reni térségében az ukrán légvédelem megsemmisítette. A ProTV külön azt is közölte, hogy szerdán összesen három drón hatolt be a román légtérbe, és a Tulcea megye északi részén élők aznap este a negyedik RO-Alert-üzenetet kapták.\n\n• **A romániai incidens előtti napon, október 13-án** két teherhajót is drón talált el a bolgár partok közelében. A HS Dignity elsüllyedt, és 11 tengerész eltűnt; a forrás szerint október 6-án ugyanott két másik teherhajót is dróntámadás ért.",
+    "title_ro": "Navă de marfă lovită de o dronă în apele teritoriale române, lângă Sulina",
+    "lead_ro": "În seara de 14 octombrie, nava de marfă Yara J, sub pavilionul Insulelor Comore, a fost lovită de o dronă în apropiere de Sulina, în apele teritoriale române. Explozia a provocat un incendiu, care a fost stins, iar echipajul este în siguranță. Autoritățile române au trimis și o navă de salvare în zonă și investighează circumstanțele incidentului.",
+    "content_ro": "• **Miercuri seară, 14 octombrie 2026,** nava de marfă Yara J, sub pavilionul Insulelor Comore, a fost lovită de o dronă la aproximativ 8–10 mile marine sud-est de Sulina, în apele teritoriale române.\n\n• **Nava are numărul IMO 9221803** și, potrivit relatărilor, se afla în balast și era ancorată la aproximativ nouă mile marine de zona Vădanei. Incidentul a fost raportat prin radio Căpităniei Sulina, apoi către MRCC.\n\n• **Explozia a provocat un incendiu la bord.** Echipajul a fost evacuat și toți membrii sunt în siguranță; Garda de Coastă a anunțat că incendiul a fost stins și că nava nu a solicitat asistență suplimentară.\n\n• **Nava de salvare SAR APOLLO a fost trimisă în zonă.** MRCC a solicitat intervenția la ora 20:25, iar nava a plecat șase minute mai târziu; în acel moment, Yara J avea o viteză de numai 0,4 noduri.\n\n• **Ministerul român de Externe condiționează pașii următori de clarificarea incidentului.** Instituția a declarat că este în legătură cu autoritățile române competente și că poate informa partenerii internaționali după stabilirea circumstanțelor; va reacționa inclusiv în privința unei eventuale invocări a articolului 4 din Tratatul NATO după finalizarea verificărilor.\n\n• **Potrivit relatărilor despre alertele aeriene,** la ora 20:04 două ținte aeriene au pătruns în spațiul aerian românesc: contactul radar cu una s-a pierdut deasupra mării, iar cealaltă a părăsit spațiul aerian către Ucraina și a fost distrusă de apărarea antiaeriană ucraineană în zona Reni. ProTV a relatat separat că, miercuri, în total trei drone au pătruns în spațiul aerian românesc și că locuitorii din nordul județului Tulcea au primit al patrulea mesaj RO-Alert al zilei.\n\n• **Cu o zi înainte, pe 13 octombrie,** două nave de marfă au fost lovite de drone în largul coastei Bulgariei. HS Dignity s-a scufundat, iar 11 marinari au fost dați dispăruți; potrivit sursei, alte două nave de marfă fuseseră lovite de drone în aceeași zonă pe 6 octombrie."
+  },
+  {
+    "group_id": "group_2072d0df3e",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/11102026/e8036182-eb3f-45cf-ae86-990887b72ed6.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Concluziile lui Andoni Iraola după recitalul lui Liverpool din Liga Campionilor: „De asta nu schimbi ambii fundași centrali”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/andoni-iraola-reactie-lask-liverpool-liga-campionilor-988172.html"
+      }
+    ],
+    "published_at": 1792009172,
+    "title_hu": "Concluziile lui Andoni Iraola după recitalul lui Liverpool din Liga Campionilor: „De asta nu schimbi ambii fundași centrali”",
+    "lead_hu": "Andoni Iraola, antrenorul celor de la Liverpool, a comentat victoria echipei sale în fața celor de la LASK, scor 6-3, în a doua etapă din faza ligii Champions League. Chiar dacă echipa sa a marcat 6 g…",
+    "content_hu": "Andoni Iraola, antrenorul celor de la Liverpool, a comentat victoria echipei sale în fața celor de la LASK, scor 6-3, în a doua etapă din faza ligii Champions League. Chiar dacă echipa sa a marcat 6 goluri, spaniolul a comentat și dificultățile defensive întâmpinate în repriza secundă. Tehnicianul a vorbit și despre „tripla” lui Barcola, dar și despre Florian Wirtz și Lewis Koumas. ...",
+    "title_ro": "Concluziile lui Andoni Iraola după recitalul lui Liverpool din Liga Campionilor: „De asta nu schimbi ambii fundași centrali”",
+    "lead_ro": "Andoni Iraola, antrenorul celor de la Liverpool, a comentat victoria echipei sale în fața celor de la LASK, scor 6-3, în a doua etapă din faza ligii Champions League. Chiar dacă echipa sa a marcat 6 g…",
+    "content_ro": "Andoni Iraola, antrenorul celor de la Liverpool, a comentat victoria echipei sale în fața celor de la LASK, scor 6-3, în a doua etapă din faza ligii Champions League. Chiar dacă echipa sa a marcat 6 goluri, spaniolul a comentat și dificultățile defensive întâmpinate în repriza secundă. Tehnicianul a vorbit și despre „tripla” lui Barcola, dar și despre Florian Wirtz și Lewis Koumas. ..."
+  },
+  {
+    "group_id": "group_2800021df2",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/15feffbd-8a75-46c3-9e50-9bc8f09159bb.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Turneul Six Kings Slam, la care ar fi trebuit să participe vedete uriașe din lumea tenisului, a fost amânat",
+        "link": "https://www.gsp.ro/sporturi/tenis/turneul-six-kings-slam-amanat-luna-decembrie-988177.html"
+      }
+    ],
+    "published_at": 1792009089,
+    "title_hu": "Turneul Six Kings Slam, la care ar fi trebuit să participe vedete uriașe din lumea tenisului, a fost amânat",
+    "lead_hu": "Turneul demonstrativ Six Kings Slam, organizat în Riad, Arabia Saudită, va fi amânat pe finalul anului 2026, din cauza conflictului din Orientul Mijlociu și a instabilității din Golful Persic. În peri…",
+    "content_hu": "Turneul demonstrativ Six Kings Slam, organizat în Riad, Arabia Saudită, va fi amânat pe finalul anului 2026, din cauza conflictului din Orientul Mijlociu și a instabilității din Golful Persic. În perioada 21-24 octombrie, Riad, capitala Arabiei Saudite, ar fi trebuit să găzduiască cea de-a treia ediție a turneului demonstrativ Six Kings Slam. ...",
+    "title_ro": "Turneul Six Kings Slam, la care ar fi trebuit să participe vedete uriașe din lumea tenisului, a fost amânat",
+    "lead_ro": "Turneul demonstrativ Six Kings Slam, organizat în Riad, Arabia Saudită, va fi amânat pe finalul anului 2026, din cauza conflictului din Orientul Mijlociu și a instabilității din Golful Persic. În peri…",
+    "content_ro": "Turneul demonstrativ Six Kings Slam, organizat în Riad, Arabia Saudită, va fi amânat pe finalul anului 2026, din cauza conflictului din Orientul Mijlociu și a instabilității din Golful Persic. În perioada 21-24 octombrie, Riad, capitala Arabiei Saudite, ar fi trebuit să găzduiască cea de-a treia ediție a turneului demonstrativ Six Kings Slam. ..."
+  },
+  {
+    "group_id": "group_07df3fc8b7",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-4/4c3e7f33-936e-4bbb-b9f8-209fbbeccc7a/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Noua purtătoare de cuvânt a lui Trump, acuzată că s-a prezentat drept avocată, deși nu are licență: „Constituie cel puțin o contravenție penală”",
+        "link": "https://adevarul.ro/stiri-externe/sua/noua-purtatoare-de-cuvant-a-lui-trump-acuzata-ca-2564089.html"
+      }
+    ],
+    "published_at": 1792008799,
+    "title_hu": "Noua purtătoare de cuvânt a lui Trump, acuzată că s-a prezentat drept avocată, deși nu are licență: „Constituie cel puțin o contravenție penală”",
+    "lead_hu": "Noua purtătoare de cuvânt a președintelui SUA, Donald Trump, Katie Zacharia, s-a descris în repetate rânduri drept avocată, însă nu există dovezi publice că ar fi fost autorizată să profeseze în state…",
+    "content_hu": "Noua purtătoare de cuvânt a președintelui SUA, Donald Trump, Katie Zacharia, s-a descris în repetate rânduri drept avocată, însă nu există dovezi publice că ar fi fost autorizată să profeseze în statele americane în care a locuit.",
+    "title_ro": "Noua purtătoare de cuvânt a lui Trump, acuzată că s-a prezentat drept avocată, deși nu are licență: „Constituie cel puțin o contravenție penală”",
+    "lead_ro": "Noua purtătoare de cuvânt a președintelui SUA, Donald Trump, Katie Zacharia, s-a descris în repetate rânduri drept avocată, însă nu există dovezi publice că ar fi fost autorizată să profeseze în state…",
+    "content_ro": "Noua purtătoare de cuvânt a președintelui SUA, Donald Trump, Katie Zacharia, s-a descris în repetate rânduri drept avocată, însă nu există dovezi publice că ar fi fost autorizată să profeseze în statele americane în care a locuit."
   },
   {
     "group_id": "group_a86f35fc6d",
@@ -271,34 +485,6 @@
     "title_ro": "Kylian Mbappe l-a depășit pe Lionel Messi! Două borne de impact atinse de starul lui Real Madrid",
     "lead_ro": "Kylian Mbappe (27 de ani), atacantul lui Real Madrid, a stabilit un nou record în Liga Campionilor. Francezul a devenit cel mai tânăr fotbalist din istoria competiției care ajunge la 100 de meciuri di…",
     "content_ro": "Kylian Mbappe (27 de ani), atacantul lui Real Madrid, a stabilit un nou record în Liga Campionilor. Francezul a devenit cel mai tânăr fotbalist din istoria competiției care ajunge la 100 de meciuri disputate, depășind recordul deținut până acum de Lionel Messi. Borna istorică a fost atinsă miercuri seară, în confruntarea dintre AS Roma și Real Madrid, din etapa a doua a fazei principale a Ligii Campionilor. ..."
-  },
-  {
-    "group_id": "group_dfa7806656",
-    "fingerprint": "e77a2c308ecdd1fd6a0291af1be5a0b1",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/14/190450/yara-j-getty.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Navă lovită de dronă în apele teritoriale românești. Ce a raportat echipajul către Căpitănia Sulina",
-        "link": "https://stirileprotv.ro/stiri/actualitate/nava-lovita-de-drona-in-apele-teritoriale-romanesti-ce-a-raportat-echipajul-catre-capitania-sulina.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Incident grav în Marea Neagră! O navă a fost lovită de o dronă în apele României",
-        "link": "https://www.cancan.ro/incident-grav-in-marea-neagra-o-nava-a-fost-lovita-de-o-drona-in-apele-romaniei-21530275"
-      }
-    ],
-    "published_at": 1792007619,
-    "title_hu": "Drón talált el egy teherhajót a román felségvizeken, Sulina közelében",
-    "lead_hu": "Szerda este drón csapódott a Yara J nevű teherhajóba Sulina közelében, a román felségvizeken. A robbanás tüzet okozott, de a legénységet biztonságban kimenekítették.",
-    "content_hu": "• **Szerda este, október 14-én** a Yara J nevű, Comore-szigeteki zászló alatt közlekedő teherhajót drón találta el Sulinától mintegy 8–10 tengeri mérföldre délkeletre, a román felségvizeken.\n\n• **A robbanás után tűz ütött ki** a fedélzeten. A legénységet kimenekítették, mindenki biztonságban van; a parti őrség szerint a tüzet eloltották, és a hajó nem kért további segítséget.\n\n• **A román hatóságok légi riasztást adtak ki** a drónincidensek miatt. A védelmi minisztérium által ismertetett tájékoztatás szerint két légi célpont lépett be a román légtérbe; az egyik radarjele eltűnt a tenger felett, a másik Ukrajna felé távozott, és Reni térségében az ukrán légvédelem megsemmisítette.",
-    "title_ro": "O dronă a lovit o navă comercială în apele teritoriale românești, lângă Sulina",
-    "lead_ro": "Miercuri seara, o dronă a lovit nava comercială Yara J în apropiere de Sulina, în apele teritoriale ale României. Explozia a provocat un incendiu, însă echipajul a fost evacuat în siguranță.",
-    "content_ro": "• **Miercuri seara, 14 octombrie**, nava comercială Yara J, sub pavilionul Insulelor Comore, a fost lovită de o dronă la aproximativ 8–10 mile marine sud-est de Sulina, în apele teritoriale românești.\n\n• **Explozia a provocat un incendiu la bord.** Echipajul a fost evacuat și toți membrii săi sunt în siguranță; Garda de Coastă a transmis că focul a fost stins și că nava nu a solicitat asistență suplimentară.\n\n• **Autoritățile române au emis alerte aeriene** în contextul incursiunilor dronelor. Potrivit informării Ministerului Apărării, două ținte aeriene au pătruns în spațiul aerian românesc: contactul radar cu una s-a pierdut deasupra mării, iar cealaltă s-a îndreptat spre Ucraina și a fost distrusă de apărarea aeriană ucraineană în zona Reni."
   },
   {
     "group_id": "group_365cf0d38c",
@@ -577,34 +763,6 @@
     "title_ro": "Un sat întreg, cu 17 case și un lac, a fost scos la vânzare. Cât costă",
     "lead_ro": "Un întreg sat din Anglia, folosit ca locație pentru filmările emisiunii de reality TV The Neighbourhood, prezentată de Graham Norton, a fost scos la vânzare pentru 8.8 milione de euro.",
     "content_ro": "Un întreg sat din Anglia, folosit ca locație pentru filmările emisiunii de reality TV The Neighbourhood, prezentată de Graham Norton, a fost scos la vânzare pentru 8.8 milione de euro."
-  },
-  {
-    "group_id": "group_1c05a2fc8d",
-    "fingerprint": "561011f29568395849ea542a75a56d01",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Ofițerii ucraineni avertizează că încetinirea serviciului Starlink este similar cu „un atac nuclear împotriva noastră”",
-        "link": "https://www.g4media.ro/ofiterii-ucraineni-avertizeaza-ca-incetinirea-serviciului-starlink-este-similar-cu-un-atac-nuclear-impotriva-noastra.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Volodimir Zelenski îi cere lui Elon Musk să restabilească serviciile Starlink în Ucraina: Vor muri oameni. Sper că e vorba de o eroare",
-        "link": "https://www.digi24.ro/stiri/externe/volodimir-zelenski-ii-cere-lui-elon-musk-sa-restabileasca-serviciile-starlink-in-ucraina-vor-muri-oameni-sper-ca-e-vorba-de-o-eroare-3992803"
-      }
-    ],
-    "published_at": 1792006221,
-    "title_hu": "A Starlink-korlátozás ukrán katonai műveleteket zavart meg, Zelenszkij Musk segítségét kérte",
-    "lead_hu": "Ukrán beszámolók szerint a Starlink mozgó katonai termináljainak korlátozása több műveletet, köztük közepes hatótávolságú dróntámadásokat zavart meg. A sebességhatárról eltérő adatok jelentek meg, a SpaceX nem erősítette meg a változtatást, Volodimir Zelenszkij pedig Elon Muskot kérte a szolgáltatás helyreállítására.",
-    "content_hu": "• **A jelentések szerint szerdán** a SpaceX korlátozást vezetett be a katonai célú StarShield-csomag mozgó termináljainál. Ukrán tisztviselők és aktivisták 160–161 kilométer/órás határról számoltak be, míg egy Politicónak nyilatkozó frontvonalbeli tiszt 100 kilométer/órás korlátozást említett; a SpaceX egyik értéket sem erősítette meg.\n\n• **Serhii Beskrestnov**, Volodimir Zelenszkij elnök katonai tanácsadója szerint az ukrán erők nem kaptak előzetes figyelmeztetést, és a korlátozás több misszió meghiúsulásához vezetett. A délkelet-ukrajnai 7. Gyorsreagálású Hadtest egyik forrása szintén megerősítette a Starlink működési zavarait.\n\n• **Serhii Sternenko aktivista** szerint a terminálok kapcsolata akkor kezdett megszakadni, amikor a mozgási sebesség meghaladta a 160 kilométer/órát, és több kritikus feladatot nem tudtak végrehajtani. A Starlink fontos szerepet játszik az ukrán hadsereg kommunikációjában, a műveletek koordinálásában és a drónok irányításában.\n\n• **A Politicónak nyilatkozó, névtelenséget kérő ukrán tiszt** szerint a korlátozás leállította a közepes hatótávolságú dróncsapásokat, és az egység műveleteit felfüggesztették. Az egység Starlinket használ az amerikai gyártmányú, akár 150 kilométeres hatótávolságú Hornet drónok működtetéséhez és navigálásához.\n\n• **A drónhálózatok működése is sérülhetett:** a Politicónak nyilatkozó tiszt szerint egy Starlinkkel felszerelt drón közvetíti a jeleket a hálózatba kapcsolt további drónoknak. A korlátozás a beszámoló szerint az orosz logisztika, a lőszerraktárak, parancsnoki központok, tüzérségi eszközök és más, a front mögötti célpontok elleni támadásokat is akadályozta.\n\n• **Iryna Terekh**, a Fire Point ukrán rakétagyártó vezérigazgatója szerint az ukrán frontvonal nagyban függ a Starlinkkel működtetett közepes hatótávolságú támadó drónoktól. Ukrán katonák szerint ezek a drónok az elmúlt hónapokban az orosz utánpótlás és logisztika megzavarásával lassították az orosz előrenyomulást.\n\n• **Volodimir Zelenszkij Elon Muskhoz fordult:** arra kérte a SpaceX vezetőjét, hogy állítsa helyre a Starlink szolgáltatását Ukrajnában. Zelenszkij szerint az orosz támadások folytatódása és a Starlink kiesése emberéletekbe kerülhet; reményét fejezte ki, hogy a történtek műszaki hibából erednek.\n\n• **A SpaceX nem erősítette meg a változást**, és továbbra sem ismert, hány egységet érintett az intézkedés, mennyi ideig tartott a kimaradás, illetve általános technikai lépésről vagy külön kérésre hozott döntésről volt-e szó.\n\n• **A politikai háttér nem bizonyított:** Beskrestnov szerint az intézkedés aligha volt véletlen, Sternenko pedig felvetette, hogy a SpaceX a Trump-adminisztráció kérésére léphetett. A feltételezés összefügghet Donald Trump nyomásával, hogy Ukrajna állítsa le az orosz energetikai létesítmények, köztük finomítók elleni támadásokat, de erre nem mutattak be bizonyítékot.\n\n• **Október 10-én és 11-én** Trump előbb azt javasolta, hogy Ukrajna keressen új vezetőt, aki megállapodást tud kötni, majd egyoldalúan energetikai tűzszünetet jelentett be. A Trump-kormány azzal is fenyegette Ukrajnát és európai szövetségeseit, hogy leállíthatja az amerikai fegyverek biztosítását és a hírszerzési együttműködést, ha Kijev nem hagy fel az orosz energetikai célpontok támadásával.\n\n• **A keddi orosz támadásokban** 39 ballisztikus rakéta és 120 drón vette célba Kijev és Harkiv térségét; erőművek és a fővárost ellátó alállomások is találatot kaptak. Zelenszkij szerint mintegy 600 ezer ember maradt áram nélkül.\n\n• **Az amerikai hírszerzési támogatás folytonossága is aggodalom tárgya:** az Egyesült Államok 2025 márciusában átmenetileg felfüggesztette az Ukrajnának nyújtott hírszerzési információk átadását. Zelenszkij később arról beszélt, hogy szövetségesek nem figyelmeztették előre Kijevet egyes orosz rakétatámadásokra; Trump azt állította, hogy az információmegosztás folytatódik.\n\n• **Andrii Kovalenko ukrán tisztviselő** azt állította, hogy a Trump-adminisztráció tudhatott az ukrán energetikai rendszer elleni orosz támadás terveiről, és szándékosan nem figyelmeztette Kijevet. Az állítást nem támasztották alá független bizonyítékok.\n\n• **A Starlink ukrajnai indulásáról új részlet jelent meg:** a Transtelex szerint a 2022-es invázió után az akkori ukrán miniszterelnök-helyettes, Mihajlo Fedorov kérte Musk segítségét, aki fél napon belül válaszolt; a beszámoló szerint az Egyesült Államok később 3 millió dollárral támogatta a szolgáltatást.\n\n• **A Starlink korábbi korlátozásai is előzményt jelentenek:** Musk 2022-ben utasította a SpaceX mérnökeit, hogy kapcsolják le a szolgáltatást a Krím partjainál, hogy megakadályozzon egy ukrán támadást az orosz flotta ellen; ezt 2023-ban ismerte el. 2023-ban a SpaceX a drónirányítás miatt is korlátozta az ukrán hadsereg hozzáférését, majd a Pentagon szerződést kötött a szolgáltatás biztosítására. A Starlink az orosz megszállás alatt álló ukrán területeken működik, Oroszországban viszont korlátozott; Kijev oroszországi területek feletti drónműveletekhez is szeretné használni.\n\n• **Dmitrij Peszkov, a Kreml szóvivője** azt mondta, nem tud többet a Starlink esetleges korlátozásáról annál, mint ami a sajtóban megjelent, és szerinte korai lenne következtetéseket levonni. Hozzátette: az ilyen technológiákat lehetőleg nem kellene katonai célokra használni.",
-    "title_ro": "Restricțiile Starlink au perturbat operațiuni militare ucrainene, iar Zelenski i-a cerut ajutorul lui Musk",
-    "lead_ro": "Potrivit unor relatări ucrainene, limitarea terminalelor Starlink aflate în mișcare a perturbat mai multe misiuni, inclusiv atacuri cu drone de rază medie. Au fost raportate praguri de viteză diferite, SpaceX nu a confirmat schimbarea, iar Volodimir Zelenski i-a cerut lui Elon Musk să restabilească serviciul.",
-    "content_ro": "• **Potrivit relatărilor de miercuri**, SpaceX a introdus restricții pentru terminalele mobile din pachetul militar StarShield. Oficialii și activiștii ucraineni au indicat un prag de 160–161 km/h, în timp ce un ofițer de pe front citat de Politico a menționat o limită de 100 km/h; SpaceX nu a confirmat niciuna dintre valori.\n\n• **Serhii Beskrestnov**, consilier militar al președintelui Volodimir Zelenski, a declarat că forțele ucrainene nu au fost avertizate în prealabil și că restricția a dus la eșecul mai multor misiuni. O sursă din Corpul 7 de Reacție Rapidă, desfășurat în sud-estul Ucrainei, a confirmat perturbări ale serviciului Starlink.\n\n• **Activistul Serhii Sternenko** a spus că terminalele au început să piardă conexiunea când viteza de deplasare a depășit 160 km/h și că mai multe misiuni critice nu au putut fi executate. Starlink are un rol important în comunicațiile armatei ucrainene, coordonarea operațiunilor și controlul dronelor.\n\n• **Un ofițer ucrainean citat de Politico, care a cerut să rămână anonim**, a afirmat că restricția a oprit atacurile cu drone de rază medie și a dus la suspendarea operațiunilor unității sale. Unitatea folosește Starlink pentru operarea și navigarea dronelor Hornet, de fabricație americană, cu o rază de acțiune de până la 150 km.\n\n• **Rețelele de drone ar fi fost, de asemenea, afectate:** potrivit ofițerului citat de Politico, o dronă echipată cu Starlink retransmite semnale către alte drone conectate într-o rețea mesh. Restricția ar fi împiedicat atacuri asupra logisticii ruse, depozitelor de muniții, centrelor de comandă, artileriei și altor ținte aflate în spatele frontului.\n\n• **Iryna Terekh**, directoarea generală a producătorului ucrainean de rachete Fire Point, a declarat că linia frontului ucrainean depinde în mare măsură de dronele de atac de rază medie operate prin Starlink. Militari ucraineni afirmă că aceste drone au încetinit avansul rus în ultimele luni, perturbând aprovizionarea și logistica Rusiei.\n\n• **Volodimir Zelenski i-a cerut ajutorul lui Elon Musk:** președintele ucrainean a solicitat restabilirea serviciilor Starlink în Ucraina. El a avertizat că oamenii ar putea muri dacă atacurile continuă, iar Starlink nu funcționează, și a spus că speră să fie vorba despre o eroare sau o problemă tehnică.\n\n• **SpaceX nu a confirmat schimbarea**, iar numărul unităților afectate, durata întreruperilor și natura măsurii — tehnică generală sau luată la solicitarea cuiva — rămân neclare.\n\n• **Legătura politică nu este demonstrată:** Beskrestnov a spus că măsura nu pare întâmplătoare, iar Sternenko a sugerat că SpaceX ar fi putut acționa la cererea administrației Trump. Ipoteza este asociată presiunilor lui Donald Trump asupra Kievului pentru oprirea atacurilor asupra infrastructurii energetice ruse, inclusiv a rafinăriilor, însă nu au fost prezentate dovezi în acest sens.\n\n• **Pe 10 și 11 octombrie**, Trump a sugerat mai întâi ca Ucraina să caute un nou lider capabil să încheie un acord, apoi a anunțat unilateral un armistițiu energetic. Administrația sa a amenințat Ucraina și aliații europeni că ar putea opri furnizarea de arme americane și cooperarea în domeniul informațiilor dacă Kievul nu încetează atacurile asupra țintelor energetice rusești.\n\n• **În atacurile rusești de marți**, 39 de rachete balistice și 120 de drone au vizat regiunea Kievului și Harkivului; au fost lovite centrale electrice și stații care alimentează capitala. Zelenski a declarat că aproximativ 600.000 de oameni au rămas fără electricitate.\n\n• **Continuitatea sprijinului american în materie de informații este, de asemenea, o preocupare:** Statele Unite au suspendat temporar, în martie 2025, transmiterea de informații către Ucraina. Zelenski a afirmat ulterior că aliații nu au avertizat Kievul înaintea unor atacuri rusești cu rachete, în timp ce Trump a susținut că schimbul de informații continuă.\n\n• **Oficialul ucrainean Andrii Kovalenko** a susținut că administrația Trump ar fi putut cunoaște planurile Rusiei de a ataca sistemul energetic ucrainean și că nu ar fi avertizat Kievul în mod intenționat. Afirmația nu a fost susținută de dovezi independente.\n\n• **Au apărut detalii despre lansarea Starlink în Ucraina:** potrivit Transtelex, după invazia din 2022, viceprim-ministrul ucrainean de atunci, Mihailo Fedorov, i-a cerut ajutorul lui Musk, care a răspuns în decurs de jumătate de zi. Relatarea mai arată că Statele Unite au sprijinit ulterior serviciul cu 3 milioane de dolari.\n\n• **Restricțiile anterioare Starlink oferă un precedent:** în 2022, Musk le-a cerut inginerilor SpaceX să dezactiveze serviciul în apropierea coastei Crimeei pentru a împiedica un atac ucrainean asupra flotei ruse; el a recunoscut acest lucru în 2023. Tot în 2023, SpaceX a restricționat accesul armatei ucrainene din cauza utilizării dronelor, după care Pentagonul a încheiat un contract pentru furnizarea serviciului. Starlink funcționează în teritoriile ucrainene ocupate de Rusia, dar este restricționat în Rusia; Kievul dorește să îl folosească și pentru operațiuni cu drone deasupra teritoriului rus.\n\n• **Dmitri Peskov, purtătorul de cuvânt al Kremlinului**, a declarat că nu știe mai multe despre posibilele restricții Starlink decât cele apărute în presă și că este prea devreme pentru concluzii. El a adăugat că astfel de tehnologii nu ar trebui, pe cât posibil, folosite în scopuri militare."
   },
   {
     "group_id": "group_ce37ed87be",
@@ -15563,419 +15721,5 @@
     "title_ro": "FRF, atenție la ce s-a întâmplat în surpriza serii din Liga Campionilor » Un român a fost pe banca celor de la Bayern!",
     "lead_ro": "David Podar-Știube, portar în vârstă de doar 16 ani, cu cetățenie română și germană, care a evoluat deja pentru selecționatele de juniori ale „Die Mannschaft”, a fost inclus în premieră în lotul prime…",
     "content_ro": "David Podar-Știube, portar în vârstă de doar 16 ani, cu cetățenie română și germană, care a evoluat deja pentru selecționatele de juniori ale „Die Mannschaft”, a fost inclus în premieră în lotul primei echipe a lui Bayern Munchen pentru un meci oficial. Tânărul goalkeeper a fost rezervă în partida cu Viking, din Liga Campionilor, încheiată la egalitate, scor 3-3. ..."
-  },
-  {
-    "group_id": "group_fecc530ca6",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Copilul spune mereu „nu știu”, deși știe răspunsul? Ce se poate ascunde în spatele acestor cuvinte și cum îl ajuți să aibă încredere în el",
-        "link": "https://hotnews.ro/copilul-spune-mereu-nu-stiu-desi-stie-raspunsul-ce-se-poate-ascunde-in-spatele-acestor-cuvinte-si-cum-il-ajuti-sa-aiba-incredere-in-el-2375573"
-      }
-    ],
-    "published_at": 1791966776,
-    "title_hu": "Copilul spune mereu „nu știu”, deși știe răspunsul? Ce se poate ascunde în spatele acestor cuvinte și cum îl ajuți să aibă încredere în el",
-    "lead_hu": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci a…",
-    "content_hu": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci altceva: „Ce ai vrea să mănânci la cină?”. Din nou, „Nu știu”. Iar când îl rogi să aleagă între două tricouri, …",
-    "title_ro": "Copilul spune mereu „nu știu”, deși știe răspunsul? Ce se poate ascunde în spatele acestor cuvinte și cum îl ajuți să aibă încredere în el",
-    "lead_ro": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci a…",
-    "content_ro": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci altceva: „Ce ai vrea să mănânci la cină?”. Din nou, „Nu știu”. Iar când îl rogi să aleagă între două tricouri, …"
-  },
-  {
-    "group_id": "group_5a78f0302b",
-    "fingerprint": "0aee769ad128edeff61475334a1f067d",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/china-sua-taxe-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "China se îndreaptă spre un nou record mondial. Exporturile au explodat, iar excedentul comercial a ajuns la 938 de miliarde de dolari",
-        "link": "https://www.mediafax.ro/economic/china-se-indreapta-spre-un-nou-record-mondial-exporturile-au-explodat-iar-excedentul-comercial-a-ajuns-la-938-de-miliarde-de-dolari-23824982"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "China accelerează puternic: exporturile au crescut cu peste 36% în septembrie, cel mai mare avans din ultimii cinci ani. Inteligenţa artificială şi electronicele susţin ofensiva comercială a Beijingului",
-        "link": "https://www.zf.ro/business-international/china-accelereaza-puternic-exporturile-au-crescut-cu-peste-36-in-septembrie-cel-mai-mare-avans-din-ultimii-cinci-ani-inteligenta-artificiala-si-electronicele-sustin-ofensiva-comerciala-a-beijingului-23259814"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Exporturile Chinei au explodat în luna septembrie. Se apropie de un record în acest an",
-        "link": "https://stirileprotv.ro/stiri/financiar/exporturile-chinei-au-explodat-in-luna-septembrie-va-atinge-un-nou-record-anual-in-2026.html"
-      }
-    ],
-    "published_at": 1791966776,
-    "title_hu": "Rekord felé tart Kína kereskedelmi többlete: szeptemberben 36,3 százalékkal nőtt az export",
-    "lead_hu": "Kína exportja szeptemberben 36,3 százalékkal nőtt az előző év azonos hónapjához képest, ami 2021 eleje óta a leggyorsabb ütem, és jelentősen meghaladta az elemzői várakozásokat. Az első kilenc hónap kereskedelmi többlete 938 milliárd dollárra emelkedett, így az ország a 2025-ös, mintegy 1,2 billió dolláros rekord túlszárnyalása felé tart. A technológiai termékek és az autók húzzák a kivitelt, miközben a nyugati partnerek egyre nagyobb aggodalommal figyelik az egyensúlytalanságot.",
-    "content_hu": "• **2026. szeptember** Kína exportja 36,3 százalékkal haladta meg az egy évvel korábbit. A növekedés gyorsult az augusztusi 25 százalékhoz képest, meghaladta a 25,7 százalékos elemzői várakozást, és 2021 januárja–februárja óta a legnagyobb volt; akkor a járványhoz kapcsolódó bázishatás miatt 60,2 százalékos emelkedést mértek.\n\n• **A technológiai termékek és a mesterséges intelligenciához kapcsolódó kereslet** fontos hajtóerők: a félvezető-export az év első kilenc hónapjában 108,1 százalékkal, az adatfeldolgozó berendezéseké és alkatrészeiké 54,6 százalékkal nőtt. E termékek szeptemberben az export 17,9 százalékát adták, és az éves növekedésből 13 százalékponttal részesedtek. Egy esetleges globális AI-beruházási lassulás visszafoghatja a kínai technológiai kivitelt.\n\n• **Az autóexport** 54,3 százalékkal emelkedett, a Kínában gyártott elektromos és hibrid autók iránti nemzetközi keresletnek köszönhetően.\n\n• **A kereskedelmi többlet** szeptemberben 133,5 milliárd dollár volt, az augusztusi 119,1 milliárd után. Január és szeptember között 938 milliárd dollárra nőtt, szemben az előző év azonos időszakának 875 milliárdjával; a trend folytatódása esetén Kína túlszárnyalhatja a 2025-ös, mintegy 1,2 billió dolláros éves rekordot.\n\n• **Az import** szeptemberben 31 százalékkal bővült éves összevetésben, az augusztusi 28,2 százalék után. A növekedés meghaladta a 25 százalékos elemzői várakozást; az importszámlát az olajárak emelkedése is növelte.\n\n• **Az Egyesült Államokba és az Európai Unióba irányuló export** szeptemberben 39,6, illetve 25,3 százalékkal nőtt. Az amerikai adatot részben az előző évi kereskedelmi visszaesésből adódó kedvező bázishatás magyarázza, miközben az EU-ból származó kínai import stagnált. Brüsszel fenntarthatatlannak tartja a Kínával szembeni, napi egymilliárd eurót meghaladó kereskedelmi deficitet; a felek átmeneti megállapodása a következő években felére csökkentené a kínai hibrid autók uniós importját.\n\n• **Az amerikai–kínai kereskedelmi viszony** továbbra is feszültségekkel terhelt: Washington vizsgálja Kína és más partnerek ipari túlkapacitásait, miközben a két ország megállapodott a kereskedelmi fegyverszünet meghosszabbításáról. Kína Délkelet-Ázsia és Latin-Amerika felé is bővítené exportját, de ez nem pótolja teljesen a nyugati piacok keresletét.\n\n• **A kínai gazdaság belső gyengeségei** – a szerény fogyasztás és beruházás, valamint az ingatlanpiaci problémák – miatt Peking az exportra támaszkodik. A gazdaság 2026 második negyedévében 4,3 százalékkal nőtt; a kormány 4,5–5 százalékos éves célt tűzött ki, az IMF pedig 4,5 százalékos növekedést vár. Kína többek között jelzáloghitelek kamattámogatásával próbálja élénkíteni a gazdaságot, de az export önmagában nem ellensúlyozza a belső kereslet gyengeségét.",
-    "title_ro": "China se apropie de un nou record comercial: exporturile au crescut cu 36,3% în septembrie",
-    "lead_ro": "Exporturile Chinei au crescut cu 36,3% în septembrie față de aceeași lună a anului trecut, cel mai rapid ritm de la începutul lui 2021 și mult peste estimările analiștilor. Excedentul comercial cumulat în primele nouă luni a ajuns la 938 de miliarde de dolari, apropiind țara de depășirea recordului de aproximativ 1.200 de miliarde de dolari din 2025. Produsele tehnologice și automobilele susțin exporturile, în timp ce dezechilibrul comercial îngrijorează tot mai mult partenerii occidentali.",
-    "content_ro": "• **Septembrie 2026** a adus o creștere de 36,3% a exporturilor Chinei față de aceeași lună a anului precedent. Avansul s-a accelerat de la 25% în august, a depășit estimarea de 25,7% a analiștilor și a fost cel mai mare din ianuarie-februarie 2021; atunci, efectele bazei de comparație din pandemie au dus la o creștere de 60,2%.\n\n• **Produsele tehnologice și cererea asociată inteligenței artificiale** sunt motoare importante ale exporturilor: livrările de semiconductori au crescut cu 108,1% în primele nouă luni, iar cele de echipamente pentru procesarea automată a datelor și componente aferente, cu 54,6%. Aceste produse au reprezentat 17,9% din exporturile din septembrie și au contribuit cu 13 puncte procentuale la creșterea anuală. O eventuală încetinire a investițiilor globale în AI ar putea afecta exporturile tehnologice ale Chinei.\n\n• **Exporturile de automobile** au crescut cu 54,3%, susținute de cererea internațională pentru mașini electrice și hibride produse în China.\n\n• **Excedentul comercial** a fost de 133,5 miliarde de dolari în septembrie, față de 119,1 miliarde în august. În perioada ianuarie-septembrie, acesta a ajuns la 938 de miliarde de dolari, comparativ cu 875 de miliarde în aceeași perioadă a anului trecut; dacă tendința continuă, China ar putea depăși recordul anual de aproximativ 1.200 de miliarde de dolari stabilit în 2025.\n\n• **Importurile** au crescut cu 31% în septembrie față de aceeași lună a anului trecut, după un avans de 28,2% în august. Creșterea a depășit estimarea analiștilor de 25%, iar majorarea prețurilor petrolului a contribuit la factura de import.\n\n• **Exporturile către Statele Unite și Uniunea Europeană** au crescut în septembrie cu 39,6%, respectiv 25,3%. Evoluția exporturilor către SUA a beneficiat parțial de baza de comparație favorabilă, după scăderea comerțului în anul precedent, în timp ce importurile Chinei din UE au stagnat. Bruxelles-ul consideră nesustenabil deficitul comercial cu China, de peste un miliard de euro pe zi; un acord interimar între părți ar înjumătăți în următorii ani importurile UE de automobile hibride chinezești.\n\n• **Relația comercială dintre SUA și China** rămâne tensionată: Washingtonul investighează capacitățile industriale excedentare ale Chinei și ale altor parteneri, în timp ce cele două țări au convenit prelungirea armistițiului comercial. China încearcă să-și extindă exporturile către Asia de Sud-Est și America Latină, dar aceste piețe nu pot înlocui integral cererea occidentală.\n\n• **Slăbiciunile interne ale economiei chineze** – consumul și investițiile modeste, precum și problemele persistente din sectorul imobiliar – sporesc dependența de exporturi. Economia a crescut cu 4,3% în trimestrul al doilea din 2026; guvernul a stabilit o țintă anuală de 4,5%-5%, iar FMI estimează o creștere de 4,5%. China încearcă să stimuleze economia, inclusiv prin subvenționarea dobânzilor la creditele ipotecare, însă exporturile nu pot compensa singure slăbiciunea cererii interne."
-  },
-  {
-    "group_id": "group_f8339bab86",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/20f47cc9-f3d5-49d8-9cc5-4ae04ab98985.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "A costat 60 de milioane de euro, dar a fost „tras pe linie moartă” » Starul din Premier League, trimis la echipa a doua",
-        "link": "https://www.gsp.ro/international/campionate/startul-premier-league-trimis-echipa-a-doua-richarlison-987924.html"
-      }
-    ],
-    "published_at": 1791966770,
-    "title_hu": "A costat 60 de milioane de euro, dar a fost „tras pe linie moartă” » Starul din Premier League, trimis la echipa a doua",
-    "lead_hu": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce …",
-    "content_hu": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce a refuzat mai multe oferte de transfer în această vară, a fost „tras pe linie moartă” de antrenorul Roberto de Zerbi. ...",
-    "title_ro": "A costat 60 de milioane de euro, dar a fost „tras pe linie moartă” » Starul din Premier League, trimis la echipa a doua",
-    "lead_ro": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce …",
-    "content_ro": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce a refuzat mai multe oferte de transfer în această vară, a fost „tras pe linie moartă” de antrenorul Roberto de Zerbi. ..."
-  },
-  {
-    "group_id": "group_2984395b83",
-    "category": "Erdély",
-    "image": "https://hargitanepe.ro//images/data/423x222/1791965582_0_WhatsApp Image 2026-10-14 at 11.12.44.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hargita Népe",
-        "title": "Kidőlt villanyoszlop akadályozta a forgalmat Vaslábnál",
-        "link": "https://hargitanepe.ro/kidolt-villanyoszlop-akadalyozta-a-forgalmat-vaslabnal"
-      }
-    ],
-    "published_at": 1791966755,
-    "title_hu": "Kidőlt villanyoszlop akadályozta a forgalmat Vaslábnál",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Kidőlt villanyoszlop akadályozta a forgalmat Vaslábnál",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_ea21339402",
-    "category": "Erdély",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Aeroportul Oradea, între cele 7 aeroporturi din România care au de recuperat bani de la AnimaWings",
-        "link": "https://www.ebihoreanul.ro/stiri/aeroportul-oradea-intre-cele-7-aeroporturi-din-romania-care-au-de-recuperat-bani-de-la-animawings-205791.html"
-      }
-    ],
-    "published_at": 1791966755,
-    "title_hu": "Aeroportul Oradea, între cele 7 aeroporturi din România care au de recuperat bani de la AnimaWings",
-    "lead_hu": "Alături de ROMATSA, 7 din cele 17 aeroporturi din România, inclusiv cel din Oradea, s-au constituit ca părți creditoare în dosarul în care AnimaWings și-a cerut oficial intrarea în insolvență. Aeropor…",
-    "content_hu": "Alături de ROMATSA, 7 din cele 17 aeroporturi din România, inclusiv cel din Oradea, s-au constituit ca părți creditoare în dosarul în care AnimaWings și-a cerut oficial intrarea în insolvență. Aeroportul orădean are de recuperat circa un sfert de milion de euro reprezentând taxe aeroportuare și servicii de handling.",
-    "title_ro": "Aeroportul Oradea, între cele 7 aeroporturi din România care au de recuperat bani de la AnimaWings",
-    "lead_ro": "Alături de ROMATSA, 7 din cele 17 aeroporturi din România, inclusiv cel din Oradea, s-au constituit ca părți creditoare în dosarul în care AnimaWings și-a cerut oficial intrarea în insolvență. Aeropor…",
-    "content_ro": "Alături de ROMATSA, 7 din cele 17 aeroporturi din România, inclusiv cel din Oradea, s-au constituit ca părți creditoare în dosarul în care AnimaWings și-a cerut oficial intrarea în insolvență. Aeroportul orădean are de recuperat circa un sfert de milion de euro reprezentând taxe aeroportuare și servicii de handling."
-  },
-  {
-    "group_id": "group_30cf604bf4",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Mare parte din livezile de măslini din Gaza, distruse cu buldozerele de armata israeliană, spun palestinienii",
-        "link": "https://hotnews.ro/mare-parte-din-livezile-de-maslini-din-gaza-distruse-cu-buldozerele-de-armata-israeliana-spun-palestinienii-2375535"
-      }
-    ],
-    "published_at": 1791966717,
-    "title_hu": "Mare parte din livezile de măslini din Gaza, distruse cu buldozerele de armata israeliană, spun palestinienii",
-    "lead_hu": "Autoritățile agricole din Gaza, citate de Reuters, estimează că, din cele 2 milioane de măslini, doar 150.000 mai sunt în picioare după război. Oficialii și localnicii din Gaza se plâng că armata isra…",
-    "content_hu": "Autoritățile agricole din Gaza, citate de Reuters, estimează că, din cele 2 milioane de măslini, doar 150.000 mai sunt în picioare după război. Oficialii și localnicii din Gaza se plâng că armata israeliană le-a distrus o mare parte din plantațiile de măslini. Înainte de război, măslinele erau bijuteriile agriculturii din Gaza, presate pentru a obține …",
-    "title_ro": "Mare parte din livezile de măslini din Gaza, distruse cu buldozerele de armata israeliană, spun palestinienii",
-    "lead_ro": "Autoritățile agricole din Gaza, citate de Reuters, estimează că, din cele 2 milioane de măslini, doar 150.000 mai sunt în picioare după război. Oficialii și localnicii din Gaza se plâng că armata isra…",
-    "content_ro": "Autoritățile agricole din Gaza, citate de Reuters, estimează că, din cele 2 milioane de măslini, doar 150.000 mai sunt în picioare după război. Oficialii și localnicii din Gaza se plâng că armata israeliană le-a distrus o mare parte din plantațiile de măslini. Înainte de război, măslinele erau bijuteriile agriculturii din Gaza, presate pentru a obține …"
-  },
-  {
-    "group_id": "group_f191f5c8d0",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/41486/23259849/1/diana-dumitrescu.png?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Diana Dumitrescu, CEO, InnovX: Companiile româneşti sunt pregătite să intre pe piaţa din SUA, trebuie doar să ajungă la oamenii şi partenerii potriviţi. Oportunităţile îi caută pe cei pregătiţi",
-        "link": "https://www.zf.ro/moonshotx/diana-dumitrescu-ceo-innovx-companiile-romanesti-sunt-pregatite-sa-intre-pe-piata-din-sua-trebuie-doar-sa-ajunga-la-oamenii-si-partenerii-potriviti-oportunitatile-ii-cauta-pe-cei-pregatiti-23259849"
-      }
-    ],
-    "published_at": 1791966692,
-    "title_hu": "Diana Dumitrescu, CEO, InnovX: Companiile româneşti sunt pregătite să intre pe piaţa din SUA, trebuie doar să ajungă la oamenii şi partenerii potriviţi. Oportunităţile îi caută pe cei pregătiţi",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Diana Dumitrescu, CEO, InnovX: Companiile româneşti sunt pregătite să intre pe piaţa din SUA, trebuie doar să ajungă la oamenii şi partenerii potriviţi. Oportunităţile îi caută pe cei pregătiţi",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_d94d258b96",
-    "fingerprint": "6294a4a095026cf3254e8805a8133717",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/7960138-mediafax_foto-zuma_press_hepta-1024x656.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Petrolul se scumpește din nou. Conflictul din Arabia Saudită și exporturile Rusiei influențează piețele",
-        "link": "https://www.mediafax.ro/economic/petrolul-se-scumpeste-din-nou-conflictul-din-arabia-saudita-si-exporturile-rusiei-influenteaza-pietele-23824908"
-      },
-      {
-        "source": "Digi24",
-        "title": "Prețul petrolului crește după atacuri raportate în Strâmtoarea Ormuz. Gazele naturale, aproape de maximul ultimilor patru ani în Europa",
-        "link": "https://www.digi24.ro/stiri/economie/pretul-petrolului-creste-dupa-atacuri-raportate-in-stramtoarea-ormuz-gazele-naturale-aproape-de-maximul-ultimilor-patru-ani-in-europa-3991437"
-      }
-    ],
-    "published_at": 1791966676,
-    "title_hu": "A húszi támadások és a Hormuzi-szoros feszültségei hajtják az olajárakat",
-    "lead_hu": "Szerdán emelkedtek az olajárak, miközben a befektetők a szaúdi ellátást fenyegető húszi támadásokat és a Hormuzi-szorosban jelentett incidenseket mérlegelték. Az európai földgázárak is közel kerültek az elmúlt négy év legmagasabb szintjéhez, az orosz dízelexport esetleges növekedése viszont mérsékelheti az ármozgásokat.",
-    "content_hu": "• **Szerdán 00:30 GMT-kor** a Brent határidős jegyzése 89 centtel, 0,8 százalékkal, hordónként 106,58 dollárra emelkedett; a WTI ára 80 centtel, 0,9 százalékkal, 94,94 dollárra nőtt. Kedden a Brent 0,9 százalékkal csökkent, míg a WTI 0,4 százalékkal emelkedett.\n\n• **A Hormuzi-szorosban történt incidensekről szóló hírek** tovább erősítették az ellátási aggodalmakat: egy szerdai beszámoló szerint Irán két hajót támadhatott meg az átjáróban. Később, szerda reggel Európában a Brent ára 107 dollár fölé emelkedett, a WTI-é pedig 94,64 dollár körül járt.\n\n• **A húszi támadások** miatti ellátási aggodalmak felfelé hajtották az árakat. A szaúdi energiaügyi minisztérium szerint a húszik egy Saudi Aramco-épületet támadtak meg Dhahranban, ahol kisebb tűz keletkezett.\n\n• **Rijádban** a húszi rakéták elfogása után lehulló törmelék négy embert sebesített meg. A csoport az előző héten rakétákkal és drónokkal is támadta Szaúd-Arábiát, megtorlásul azért, mert a királyság támogatja a jemeni kormányerőket. A rijádi nemzetközi repülőteret négyszer érte támadás, egy szombati csapás pedig 13 halálos áldozattal járt.\n\n• **Az európai földgázárak** közel kerültek az elmúlt négy év legmagasabb szintjéhez. A holland TTF gáztőzsdén a referenciaár szerdán reggel valamivel 86 euró/megawattóra fölött állt, nem sokkal a korábbi, 87,44 eurós csúcs alatt.\n\n• **Az orosz dízelexport esetleges növekedése** enyhítheti a piaci nyomást és korlátozhatja az árak hirtelen mozgását. Hiroyuki Kikukawa elemző a WTI árát hordónként 90–100 dollár közé várta.\n\n• **Szaúd-Arábia a múlt hónapban** a szállítási zavarok ellenére növelte olajkitermelését, miközben az Egyesült Államok és Irán háborúja akadályozta a szállítást. Az OPEC szerint a döntés hozzájárult az OPEC+ termelésének jelentős emelkedéséhez.\n\n• **Irán a Hormuzi-szorosban** új módszerekkel támadja az áthaladó hajókat, hogy magasan tartsa az olajárakat és befolyásolja az amerikai törvényhozási választásokat – állította a Reutersnek két magas rangú iráni tisztviselő.\n\n• **Az orosz kormány** kedden azt közölte, hogy nem lát közvetlen kapcsolatot az ukrajnai béketárgyalások és az Egyesült Államokba irányuló dízelexport-megállapodás között. A Reuters korábban arról számolt be, hogy amerikai megbízottak szerint a dízelmegállapodás része lehet annak a törekvésnek, hogy Oroszország visszatérjen a béketárgyalásokhoz.",
-    "title_ro": "Atacurile houthi și tensiunile din Strâmtoarea Ormuz influențează prețul petrolului",
-    "lead_ro": "Prețurile petrolului au crescut miercuri, în timp ce investitorii au evaluat atacurile houthi care amenință aprovizionarea din Arabia Saudită și incidentele raportate în Strâmtoarea Ormuz. Prețurile gazelor naturale din Europa s-au apropiat și ele de cel mai ridicat nivel din ultimii patru ani, în timp ce posibilele exporturi suplimentare de motorină din Rusia ar putea tempera fluctuațiile.",
-    "content_ro": "• **Miercuri, la ora 00:30 GMT**, contractele futures pentru petrolul Brent au crescut cu 89 de cenți, respectiv 0,8%, până la 106,58 dolari pe baril; WTI s-a scumpit cu 80 de cenți, echivalentul a 0,9%, până la 94,94 dolari. Marți, Brent scăzuse cu 0,9%, în timp ce WTI crescuse cu 0,4%.\n\n• **Informațiile despre incidentele din Strâmtoarea Ormuz** au amplificat temerile privind aprovizionarea: potrivit unei relatări de miercuri, Iranul ar fi atacat două nave în strâmtoare. Mai târziu, miercuri dimineață, în Europa, Brent a depășit 107 dolari pe baril, iar WTI se situa în jurul valorii de 94,64 dolari.\n\n• **Atacurile houthi** au alimentat temerile privind aprovizionarea și au împins prețurile în sus. Ministerul Energiei din Arabia Saudită a anunțat că rebelii au atacat o clădire a Saudi Aramco din Dhahran, provocând un incendiu de proporții reduse.\n\n• **La Riad**, fragmente provenite de la rachete houthi interceptate au rănit patru persoane. În ultima săptămână, gruparea a lansat rachete și drone asupra Arabiei Saudite, ca represalii pentru sprijinul acordat de regat forțelor guvernamentale din Yemen. Aeroportul internațional din Riad a fost lovit de patru ori, iar un atac produs sâmbătă s-a soldat cu 13 morți.\n\n• **Prețurile gazelor naturale din Europa** s-au apropiat de cel mai ridicat nivel din ultimii patru ani. Miercuri dimineață, contractele de referință de la hubul olandez TTF se situau puțin peste 86 de euro pe megawatt-oră, aproape de maximul anterior de 87,44 euro.\n\n• **Posibila creștere a exporturilor rusești de motorină** ar putea reduce presiunea asupra pieței și limita mișcările bruște ale prețurilor. Analistul Hiroyuki Kikukawa estimează că petrolul WTI se va tranzacționa între 90 și 100 de dolari pe baril.\n\n• **Arabia Saudită și-a majorat producția de petrol luna trecută**, în pofida perturbărilor transporturilor generate de războiul dintre Statele Unite și Iran. Potrivit OPEC, decizia a contribuit la creșterea semnificativă a producției OPEC+.\n\n• **Iranul folosește noi tactici în Strâmtoarea Ormuz** pentru a ataca navele care o traversează, în încercarea de a menține prețurile petrolului ridicate și de a influența alegerile legislative din Statele Unite, au declarat pentru Reuters doi înalți oficiali iranieni.\n\n• **Guvernul rus** a declarat marți că nu vede nicio legătură directă între negocierile de pace cu Ucraina și acordul privind exporturile de motorină către Statele Unite. Reuters relatase anterior că emisarii americani consideră acordul parte a unei încercări de a readuce Rusia la masa negocierilor de pace."
-  },
-  {
-    "group_id": "group_35c469a148",
-    "fingerprint": "f800cf29f3413c732b74936176738b2a",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-0/0a0b4e6f-2444-43d3-b9f6-262f1eea21e1/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Invitații s-au luat la bătaie după ce mirele a programat nunta în același hotel cu ziua copilului pe care îl avea cu fosta",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/invitatii-s-au-luat-la-bataie-dupa-ce-mirele-a-2563782.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Scandal la un hotel din China, unde un bărbat și-a organizat în aceeași zi și nunta, și botezul copilului făcut cu altă femeie",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/scandal-la-un-hotel-din-china-unde-un-barbat-si-a-organizat-in-aceeasi-zi-si-nunta-si-botezul-copilului-facut-cu-alta-femeie-3991447"
-      }
-    ],
-    "published_at": 1791966633,
-    "title_hu": "Kínai hotelben tartották egyszerre az esküvőt és a korábbi partnerrel közös gyermek ünnepségét",
-    "lead_hu": "Egy kínai férfi ugyanarra a napra és ugyanabba a hotelbe szervezte esküvőjét és a korábbi partnerével közös gyermeke ünnepségét. A két család találkozása után verekedés tört ki, ezért a rendőrséget is riasztották.",
-    "content_hu": "• **Október 9-én, a kínai Kujcsou tartományban fekvő Liupansujban** egy Wu nevű férfi ugyanabban a hotelben tartotta esküvőjét jelenlegi partnerével és a korábbi partnerével közös gyermeke ünnepségét.\n\n• **A két eseményt különböző személyek foglalták le**, ezért a hotel vezetése nem tudta, hogy ugyanahhoz a férfihoz kapcsolódnak.\n\n• **A családtagok találkozása után vita, majd verekedés tört ki** a meghívottak között. A hotel dolgozói rendőrt hívtak, és több egység érkezett a helyszínre a konfliktus megfékezésére.\n\n• **A bigámia gyanúja nem igazolódott:** a volt partner családja azzal vádolta Wut, hogy már házas volt a gyermek anyjával, de a vizsgálat szerint nem kötöttek hivatalosan házasságot.\n\n• **Az ügyben további vizsgálat folyik**, és a hotelben történtek után egy pénzügyi konfliktus is napvilágra került.",
-    "title_ro": "Nuntă și petrecerea copilului cu fosta parteneră, organizate în aceeași zi la un hotel din China",
-    "lead_ro": "Un bărbat din China și-a programat în aceeași zi și în același hotel nunta cu actuala parteneră și petrecerea copilului pe care îl are cu fosta parteneră. Întâlnirea celor două familii a degenerat într-o bătaie, iar poliția a intervenit.",
-    "content_ro": "• **Pe 9 octombrie, în Liupanshui, provincia chineză Guizhou**, un bărbat pe nume Wu a organizat la același hotel nunta cu actuala parteneră și petrecerea copilului pe care îl are cu fosta parteneră.\n\n• **Cele două evenimente au fost rezervate de persoane diferite**, astfel că administrația hotelului nu știa că ambele erau legate de același bărbat.\n\n• **Întâlnirea rudelor a dus la o dispută și apoi la o bătaie** între invitați. Angajații hotelului au chemat poliția, iar mai multe echipaje au intervenit pentru a calma conflictul.\n\n• **Suspiciunea de bigamie nu s-a confirmat:** familia fostei partenere l-a acuzat pe Wu că era deja căsătorit cu mama copilului, însă verificările au arătat că cei doi nu își înregistraseră legal căsătoria.\n\n• **Cercetările continuă**, iar după incidentul de la hotel a ieșit la iveală și un conflict financiar."
-  },
-  {
-    "group_id": "group_b431df592a",
-    "fingerprint": "c4a32281bdd2acb9374e88b42b627617",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8160101-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Elon Musk devine cel mai mare donator politic al alegerilor intermediare din SUA. A cheltuit peste 350 de milioane de dolari",
-        "link": "https://www.mediafax.ro/stirile-zilei/elon-musk-devine-cel-mai-mare-donator-politic-al-alegerilor-intermediare-din-sua-a-cheltuit-peste-350-de-milioane-de-dolari-23824807"
-      },
-      {
-        "source": "G4Media",
-        "title": "Elon Musk devine cel mai mare donator politic al alegerilor intermediare din SUA. A cheltuit peste 350 de milioane de dolari",
-        "link": "https://www.g4media.ro/elon-musk-devine-cel-mai-mare-donator-politic-al-alegerilor-intermediare-din-sua-a-cheltuit-peste-350-de-milioane-de-dolari.html"
-      },
-      {
-        "source": "Go4IT",
-        "title": "Elon Musk devine cel mai mare donator politic din istoria alegerilor intermediare din SUA",
-        "link": "https://www.go4it.ro/content/business/elon-musk-devine-cel-mai-mare-donator-politic-din-istoria-alegerilor-intermediare-din-sua-19287778/"
-      }
-    ],
-    "published_at": 1791966600,
-    "title_hu": "Elon Musk 366 millió dollárt költött az amerikai félidős választásokra",
-    "lead_hu": "Elon Musk mintegy 366 millió dollárral támogatta a 2026-os amerikai félidős választásokhoz kötődő politikai szervezeteket, ezzel meghaladva a 2024-es elnökválasztási kampányra fordított összegét. A pénz jelentős része republikánusokat segítő szervezetekhez került; a kiadások egy részét politikai reklámokra és üzenetekre fordítják.",
-    "content_hu": "• **Elon Musk mintegy 366 millió dolláros politikai kiadása** az amerikai félidős választásokhoz kapcsolódik, és meghaladja azt a közel 300 millió dollárt, amelyet a 2024-es elnökválasztáson Donald Trump újraválasztásának támogatására fordított.\n\n• **Július óta több mint 276 millió dollárt** költött politikai célokra. A kiadások egyik fő célja azoknak a versenyeknek a befolyásolása, amelyek eldönthetik, melyik párt ellenőrzi a szenátust.\n\n• **A legnagyobb egyedi hozzájárulása 158 millió dollár** volt a republikánusok szenátusi többségének megőrzését segítő Senate Leadership Fund számára. További 76 millió dollárt az America PAC, 20 milliót a Republican Congressional Leadership Fund, 10 milliót pedig a Republikánus Kormányzók Szövetsége kapott.\n\n• **Ken Paxton texasi szenátusi kampánya 10 millió dolláros támogatást kapott.** Musk ugyanekkora összeget adományozott januárban a kentucky-i republikánus Nate Morrisnak is, aki később visszalépett a jelöltségtől.\n\n• **A pénz egy részét politikai reklámokra és üzenetekre fordítják**, amelyek a források szerint transzellenes retorikát használnak, a demokrata jelölteket pedig radikális szocialistaként állítják be. Musk az X-en is bírálja politikai ellenfeleit; a cikkek választási dezinformáció terjesztésével is vádolják.\n\n• **A kiadások fordulatot jelentenek Musk korábbi álláspontjához képest:** tavaly azt jelezte, visszafogja a nagyszabású politikai adományozást. A 366 millió dolláros összeg a források szerint vagyonának kevesebb mint 0,04 százaléka.",
-    "title_ro": "Elon Musk a cheltuit 366 de milioane de dolari pentru alegerile intermediare din SUA",
-    "lead_ro": "Elon Musk a alocat aproximativ 366 de milioane de dolari unor organizații politice implicate în alegerile intermediare din SUA din 2026, depășind suma cheltuită pentru campania prezidențială din 2024. O parte importantă a banilor a ajuns la grupuri care susțin republicanii, iar o parte este folosită pentru publicitate și mesaje politice.",
-    "content_ro": "• **Cheltuielile politice ale lui Elon Musk, estimate la 366 de milioane de dolari**, sunt legate de alegerile intermediare din SUA și depășesc cele aproape 300 de milioane de dolari alocate în 2024 pentru campania de realegere a lui Donald Trump.\n\n• **Musk a cheltuit peste 276 de milioane de dolari din iulie încoace.** Una dintre țintele principale ale acestor cheltuieli este influențarea curselor electorale care vor determina ce partid controlează Senatul.\n\n• **Cea mai mare contribuție individuală a fost de 158 de milioane de dolari** către Senate Leadership Fund, care urmărește să ajute republicanii să-și păstreze majoritatea în Senat. Alte contribuții au inclus 76 de milioane de dolari pentru America PAC, 20 de milioane pentru Republican Congressional Leadership Fund și 10 milioane pentru Asociația Guvernatorilor Republicani.\n\n• **Campania pentru Senat a lui Ken Paxton din Texas a primit 10 milioane de dolari.** În ianuarie, Musk a donat aceeași sumă republicanului Nate Morris din Kentucky, care ulterior s-a retras din cursă.\n\n• **O parte din bani este folosită pentru publicitate și mesaje politice**, care, potrivit surselor, recurg la retorică anti-transgender și îi prezintă pe candidații democrați drept socialiști radicali. Musk își critică adversarii politici și pe platforma X; articolele îl acuză și de răspândirea dezinformării electorale.\n\n• **Cheltuielile marchează o schimbare față de poziția sa anterioară:** anul trecut, Musk a spus că își va reduce donațiile politice de amploare. Potrivit surselor, suma de 366 de milioane de dolari reprezintă mai puțin de 0,04% din averea sa."
-  },
-  {
-    "group_id": "group_e01919b662",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/Nicusor-Dan.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Nicușor Dan, despre Centura Verde București–Ilfov, pe care a susținut-o și ca primar general: Protejarea pădurilor din jurul Capitalei și conectarea lor, introduse în planificarea metropolitană / „Avem nevoie de aer mai curat și de o mai bună adaptare la temperaturi tot mai ridicate”",
-        "link": "https://www.g4media.ro/nicusor-dan-centura-verde-bucuresti-ilfov-paduri-planificare-metropolitana.html"
-      }
-    ],
-    "published_at": 1791966550,
-    "title_hu": "Nicușor Dan, despre Centura Verde București–Ilfov, pe care a susținut-o și ca primar general: Protejarea pădurilor din jurul Capitalei și conectarea lor, introduse în planificarea metropolitană / „Avem nevoie de aer mai curat și de o mai bună adaptare la temperaturi tot mai ridicate”",
-    "lead_hu": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit …",
-    "content_hu": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit 2026 de la București, șeful statului vorbește despre planificarea zonei metropolitane și spune că protejarea pădurilor din jurul Capitalei și refacerea legăturilor dintre spațiile naturale trebuie […] © G4Media.ro.",
-    "title_ro": "Nicușor Dan, despre Centura Verde București–Ilfov, pe care a susținut-o și ca primar general: Protejarea pădurilor din jurul Capitalei și conectarea lor, introduse în planificarea metropolitană / „Avem nevoie de aer mai curat și de o mai bună adaptare la temperaturi tot mai ridicate”",
-    "lead_ro": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit …",
-    "content_ro": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit 2026 de la București, șeful statului vorbește despre planificarea zonei metropolitane și spune că protejarea pădurilor din jurul Capitalei și refacerea legăturilor dintre spațiile naturale trebuie […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_cca1d9e7c6",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/401/781/10686/23259836/1/08.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "„Vâsleşte pentru viaţă!”: pe apă, contează ce poţi face, nu ce te limitează",
-        "link": "https://www.zf.ro/info/vasleste-pentru-viata-pe-apa-conteaza-ce-poti-face-nu-ce-te-limiteaza-23259836"
-      }
-    ],
-    "published_at": 1791966519,
-    "title_hu": "„Vâsleşte pentru viaţă!”: pe apă, contează ce poţi face, nu ce te limitează",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "„Vâsleşte pentru viaţă!”: pe apă, contează ce poţi face, nu ce te limitează",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_5492ffd2b2",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/printul-marco.jpg-3-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Au încălcat contractul din nou! Cum au fost surprinși Prințul Marco și Bianca în noaptea în care bărbatul mărturisea că e îndrăgostit de Gabriella",
-        "link": "https://www.cancan.ro/au-incalcat-contractul-din-nou-cum-au-fost-surprinsi-printul-marco-si-bianca-in-noaptea-in-care-barbatul-marturisea-ca-e-indragostit-de-gabriella-21529894"
-      }
-    ],
-    "published_at": 1791966484,
-    "title_hu": "Au încălcat contractul din nou! Cum au fost surprinși Prințul Marco și Bianca în noaptea în care bărbatul mărturisea că e îndrăgostit de Gabriella",
-    "lead_hu": "Bianca Ghiurcă și Prințul Marco continuă să sfideze regulile contractuale de la Insula Iubirii. Cei doi s-au afișat din nou împreună și nu s-au ferit să încarce imaginile pe o rețea de socializare. În…",
-    "content_hu": "Bianca Ghiurcă și Prințul Marco continuă să sfideze regulile contractuale de la Insula Iubirii. Cei doi s-au afișat din nou împreună și nu s-au ferit să încarce imaginile pe o rețea de socializare. În ediția de sâmbătă a emisiunii Insula Iubirii, Prințul Marco i-a mărturisit lui Mocăniță că Gabriella îl face să simtă fluturi în […]",
-    "title_ro": "Au încălcat contractul din nou! Cum au fost surprinși Prințul Marco și Bianca în noaptea în care bărbatul mărturisea că e îndrăgostit de Gabriella",
-    "lead_ro": "Bianca Ghiurcă și Prințul Marco continuă să sfideze regulile contractuale de la Insula Iubirii. Cei doi s-au afișat din nou împreună și nu s-au ferit să încarce imaginile pe o rețea de socializare. În…",
-    "content_ro": "Bianca Ghiurcă și Prințul Marco continuă să sfideze regulile contractuale de la Insula Iubirii. Cei doi s-au afișat din nou împreună și nu s-au ferit să încarce imaginile pe o rețea de socializare. În ediția de sâmbătă a emisiunii Insula Iubirii, Prințul Marco i-a mărturisit lui Mocăniță că Gabriella îl face să simtă fluturi în […]"
-  },
-  {
-    "group_id": "group_62f43e2dc0",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNCUyRjE4JTJGMjI0MDI2Ml8yMjQw/MjYyX25vdGFyLXByb2ZpbWVkaWEuanBn/Jmhhc2g9ZWMyNWRkZTg0NTA1YzA3NGU5YjUxYzkyNGU3ZjdiNjc=.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Vânzarea părților sociale ale unui SRL cu datorii: când cere ANAF garanții și ce verifică Registrul Comerțului",
-        "link": "https://www.digi24.ro/stiri/economie/companii/vanzarea-partilor-sociale-ale-unui-srl-cu-datorii-cand-cere-anaf-garantii-si-ce-verifica-registrul-comertului-3991419"
-      }
-    ],
-    "published_at": 1791966405,
-    "title_hu": "Vânzarea părților sociale ale unui SRL cu datorii: când cere ANAF garanții și ce verifică Registrul Comerțului",
-    "lead_hu": "Persoanele care vând sau cumpără părți sociale într-o societate cu răspundere limitată trebuie să respecte o procedură de verificare fiscală, potrivit ordinului comun emis de ANAF și Ministerul Justiț…",
-    "content_hu": "Persoanele care vând sau cumpără părți sociale într-o societate cu răspundere limitată trebuie să respecte o procedură de verificare fiscală, potrivit ordinului comun emis de ANAF și Ministerul Justiției și publicat luni, 12 octombrie, în Monitorul Oficial. Actul stabilește cum colaborează Fiscul și Registrul Comerțului: ANAF trebuie notificată în cel mult 15 zile de la cesiune, verifică datoriile societății și, dacă acestea există, poate fi necesară constituirea unor garanții înainte de înregistrarea transferului.",
-    "title_ro": "Vânzarea părților sociale ale unui SRL cu datorii: când cere ANAF garanții și ce verifică Registrul Comerțului",
-    "lead_ro": "Persoanele care vând sau cumpără părți sociale într-o societate cu răspundere limitată trebuie să respecte o procedură de verificare fiscală, potrivit ordinului comun emis de ANAF și Ministerul Justiț…",
-    "content_ro": "Persoanele care vând sau cumpără părți sociale într-o societate cu răspundere limitată trebuie să respecte o procedură de verificare fiscală, potrivit ordinului comun emis de ANAF și Ministerul Justiției și publicat luni, 12 octombrie, în Monitorul Oficial. Actul stabilește cum colaborează Fiscul și Registrul Comerțului: ANAF trebuie notificată în cel mult 15 zile de la cesiune, verifică datoriile societății și, dacă acestea există, poate fi necesară constituirea unor garanții înainte de înregistrarea transferului."
-  },
-  {
-    "group_id": "group_e93a364abe",
-    "fingerprint": "ac3c7f7a1b454309097daeab31830126",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMTc0OF8zMDEx/NzQ4X3NvYm9sYW5pLWNhcGl0YWxhLS5w/bmcmaGFzaD0xNjBmOGFjM2IwOWJkMzdiZGY0NGUxMGNjZmI1YTExMA==.png",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ciprian Ciucu dă vina pe oameni pentru invazia de șobolani din centrul Capitalei: „Efectul mizeriei pe care nu Primăria o face”",
-        "link": "https://www.digi24.ro/stiri/ciprian-ciucu-da-vina-pe-oameni-pentru-invazia-de-sobolani-din-centrul-capitalei-efectul-mizeriei-pe-care-nu-primaria-o-face-3991237"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Explicația lui Ciucu privind apariția șobolanilor în Piața Sf. Vineri: „Efectul mizeriei pe care nu Primăria o face”",
-        "link": "https://adevarul.ro/stiri-locale/bucuresti/explicatia-lui-ciucu-privind-aparitia-sobolanilor-2563882.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Reacția lui Ciucu în scandalul șobolanilor: Sunt efectul mizeriei pe care nu Primăria o face",
-        "link": "https://www.mediafax.ro/social/reactia-lui-ciucu-in-scandalul-sobolanilor-sunt-efectul-mizeriei-pe-care-nu-primaria-o-face-23825055"
-      }
-    ],
-    "published_at": 1791966316,
-    "title_hu": "Ciucu a közterületi szennyezést okolja a Sf. Vineri téri patkányokért",
-    "lead_hu": "Ciprian Ciucu bukaresti főpolgármester szerint a Sf. Vineri tér környékén felbukkant patkányok a szemét és az élelmiszer-maradékok miatt szaporodnak, az állatok pedig a higiéniai munkálatok nyomán jöttek a felszínre. A fővárosi önkormányzat május óta végez rágcsálóirtást, és további intézkedéseket kért a terület megtisztítására és átalakítására. A hatóságok szerint további mérgezőállomások is eltűntek, miután kihelyezték őket.",
-    "content_hu": "• **Ciprian Ciucu főpolgármester** a Facebookon azt írta, hogy a Sf. Vineri tér környékén látott patkányok a higiéniai munkálatok nyomán jöttek a felszínre. Szerinte a rágcsálók elszaporodásához az emberek által eldobott szemét és élelmiszer-maradékok is hozzájárulnak.\n\n• **Május 29-én** a bukaresti Eco Igienizare vállalat rágcsálóirtó szereket és vegyszeres kezelést alkalmazott a járatokban, a 3. kerületi ADP pedig betömte az üregeket. Az önkormányzat közlése szerint a június 3-i ellenőrzéskor a 21 mérgezőállomásból már csak hét volt meg; a többit megrongálták vagy ellopták.\n\n• **Az önkormányzat szerint** a területen továbbra is találnak eldobott hulladékot és ételmaradékot, a tuják és borókák pedig búvóhelyet kínálnak a rágcsálóknak. A főváros tájékoztatása szerint jelenleg 29 mérgezőállomás van kihelyezve.\n\n• **A kért további intézkedések** között szerepel a növényzet ritkítása, a terület tájépítészeti átalakítása, valamint a talaj homokkal és kaviccsal való cseréje, hogy nehezebb legyen járatokat ásni. A főváros a 3. kerületi rendőrséget és köztisztasági szolgálatot is a terület rendszeres ellenőrzésére és tisztán tartására kérte.\n\n• **További két rágcsálóirtó kezelés** után a kihelyezett állomások a fővárosi önkormányzat közlése szerint szintén eltűntek. Az Eco Igienizare vállalat a 3. kerületi rendőrségtől azt kérte, hogy büntesse meg a hulladékot lerakó, a madarakat és állatokat etető, illetve az irtóállomásokat megrongáló személyeket; a közlés szerint a rendőrségnek figyelnie kellett volna a területet.\n\n• **A közösségi médiában terjedő videó** a templom közelében, a járdán látható patkányokról készült; a felvételen több tucat rágcsáló tűnik fel, és a képek felháborodást, illetve gúnyos reakciókat váltottak ki.",
-    "title_ro": "Ciucu pune apariția șobolanilor din Piața Sf. Vineri pe seama mizeriei",
-    "lead_ro": "Primarul Capitalei, Ciprian Ciucu, susține că șobolanii apăruți în zona Pieței Sf. Vineri sunt favorizați de deșeuri și resturi alimentare și că rozătoarele au ieșit la suprafață în urma acțiunilor de igienizare. Primăria spune că intervine pentru combaterea lor din luna mai și a cerut măsuri suplimentare pentru curățarea și reamenajarea terenului. Potrivit administrației, au dispărut și stații de intoxicare amplasate ulterior.",
-    "content_ro": "• **Primarul Ciprian Ciucu** a scris pe Facebook că șobolanii văzuți în zona Pieței Sf. Vineri au ieșit la suprafață în urma acțiunilor de igienizare. El susține că deșeurile și resturile alimentare aruncate de oameni favorizează înmulțirea rozătoarelor.\n\n• **Pe 29 mai**, Compania Municipală Eco Igienizare a aplicat raticide și tratamente chimice în galerii, iar ADP Sector 3 le-a astupat. Potrivit Primăriei, la verificarea din 3 iunie, din cele 21 de stații de intoxicare mai rămăseseră doar șapte; celelalte fuseseră vandalizate sau furate.\n\n• **Potrivit Primăriei**, în zonă se găsesc în continuare deșeuri și resturi alimentare, iar tuia și ienupărul oferă adăpost rozătoarelor. În prezent, în perimetru sunt amplasate 29 de stații de intoxicare.\n\n• **Măsurile solicitate** includ rărirea vegetației, reamenajarea peisagistică și înlocuirea stratului de pământ cu nisip și pietriș, pentru a îngreuna săparea galeriilor. Primăria a cerut Poliției Locale Sector 3 și serviciului de salubritate să monitorizeze zona și să o mențină curată.\n\n• **Încă două tratamente raticide** au fost aplicate ulterior, însă stațiile aferente au dispărut, potrivit Primăriei Capitalei. Compania Eco Igienizare a cerut Poliției Locale Sector 3 să-i sancționeze pe cei care abandonează deșeuri, hrănesc păsările și animalele sau distrug stațiile; potrivit administrației, poliția ar fi trebuit să monitorizeze perimetrul.\n\n• **Videoclipul distribuit pe rețelele sociale** a surprins șobolani pe trotuarul din apropierea Bisericii Sfânta Vineri. În imagini apar zeci de rozătoare, iar filmarea a stârnit indignare și ironii."
-  },
-  {
-    "group_id": "group_2bf80e4847",
-    "fingerprint": "102e946b9f813501e6c90fd74f96e39f",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Recordul unui rover: Perseverance a parcurs cea mai mare distanță pe Marte. Reușita anterioară aparținea robotulului Opportunity",
-        "link": "https://www.digi24.ro/stiri/sci-tech/recordul-unui-rover-perseverance-a-parcurs-cea-mai-mare-distanta-pe-marte-reusita-anterioara-apartinea-robotulului-opportunity-3990807"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Record absolut al roverului Perseverance pe Marte | A reușit să facă în 5 ani ceea ce alte rovere au făcut în 15",
-        "link": "https://www.mediafax.ro/stiinta-sanatate/record-absolut-al-roverului-perseverance-pe-marte-a-reusit-sa-faca-in-5-ani-ceea-ce-alte-rovere-au-facut-in-15-23825030"
-      }
-    ],
-    "published_at": 1791966198,
-    "title_hu": "A Perseverance 45,22 kilométerrel új marsi távolsági rekordot állított fel",
-    "lead_hu": "A NASA Perseverance roverje október 11-én 45,22 kilométerre növelte a Marson megtett útját, ezzel megdöntötte az Opportunity korábbi, 45,16 kilométeres rekordját. Az önálló navigációt használó jármű a Jezero-kráter peremén vizsgál ősi kőzeteket, és a meghosszabbított küldetés keretében 2028 végéig folytathatja a kutatást.",
-    "content_hu": "• **Október 11-én** a Perseverance megtett útját jelző számláló elérte a 45,22 kilométert. Ezzel a NASA roverje túlszárnyalta az Opportunity 45,16 kilométeres korábbi marsi rekordját; az előző rover közel 15 év alatt tette meg ezt a távolságot, a Perseverance-nek pedig mintegy öt és fél év kellett a rekord megdöntéséhez.\n\n• **Az AutoNav önálló navigációs rendszer** a rover útjának több mint 90 százalékát emberi beavatkozás nélkül teszi lehetővé. A jármű kamerái feltérképezik az előtte lévő terepet, háromdimenziós akadálytérképet készítenek, majd biztonságos útvonalat választanak; egy marsi nap alatt akár 412 métert is megtehet.\n\n• **A rekordot a Jezero-kráter nyugati peremén**, a Lac de Charmes térségén áthaladva állította fel a rover, miközben az Idubi nevű terület felé tartott. A kutatók ősi geológiai képződményeket vizsgálnak, és annak nyomait keresik, hogy a térségben valaha hidrotermális rendszerek működhettek-e.\n\n• **A Perseverance eddig 29 kőzet- és talajmintát gyűjtött**, a Jezero-kráter egykori tómedréből, folyódeltájából és peremvidékéről. A rover korábban egy Cheyava Falls nevű kőzetben lehetséges bioszignatúrát is azonosított; ez azonban egyelőre nem bizonyítja, hogy valaha élet volt a Marson.\n\n• **A NASA 2028 végéig hosszabbította meg a küldetést**, hogy a rover tovább kutathassa a Jezero-kráter peremét. A Perseverance eredeti terve legfeljebb 20 kilométeres megtett úttal számolt, ám a rover mozgási rendszerei továbbra is működnek.",
-    "title_ro": "Perseverance a stabilit un nou record pe Marte: 45,22 kilometri parcurși",
-    "lead_ro": "Roverul Perseverance al NASA a ajuns la 45,22 kilometri parcurși pe Marte la 11 octombrie, depășind recordul anterior de 45,16 kilometri stabilit de Opportunity. Folosind navigația autonomă, vehiculul explorează formațiuni geologice străvechi de la marginea craterului Jezero, iar misiunea sa prelungită poate continua până la sfârșitul anului 2028.",
-    "content_ro": "• **La 11 octombrie**, odometrul roverului Perseverance a ajuns la 45,22 kilometri. NASA a depășit astfel recordul marțian anterior, de 45,16 kilometri, stabilit de Opportunity; acel rover a parcurs distanța în aproape 15 ani, în timp ce Perseverance a avut nevoie de aproximativ cinci ani și jumătate pentru a stabili noul record.\n\n• **Sistemul autonom AutoNav** permite efectuarea fără intervenție umană a peste 90% din traseul roverului. Camerele sale analizează terenul din față, construiesc o hartă tridimensională a obstacolelor și calculează o rută sigură; într-o zi marțiană, roverul poate parcurge până la 412 metri.\n\n• **Recordul a fost stabilit la marginea vestică a craterului Jezero**, în regiunea Lac de Charmes, în timp ce roverul se îndrepta spre zona numită Idubi. Cercetătorii analizează formațiuni geologice străvechi și caută indicii că în regiune ar fi existat cândva sisteme hidrotermale.\n\n• **Perseverance a colectat până acum 29 de probe de roci și regolit**, din fostul fund al lacului Jezero, dintr-o deltă și din regiunea marginii craterului. Roverul a identificat anterior o posibilă biosemnătură într-o rocă numită Cheyava Falls, însă aceasta nu demonstrează deocamdată că a existat viață pe Marte.\n\n• **NASA a prelungit misiunea până spre sfârșitul anului 2028**, pentru ca roverul să continue explorarea marginii craterului Jezero. Planul inițial prevedea parcurgerea a cel mult 20 de kilometri, însă sistemele de deplasare ale roverului continuă să funcționeze."
-  },
-  {
-    "group_id": "group_73fa176f81",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Cum arată businessul viitorului? Cei trei piloni tehnologici care schimbă deja companiile: AI, automatizare și securitate cibernetică",
-        "link": "https://hotnews.ro/cum-arata-businessul-viitorului-cei-trei-piloni-tehnologici-care-schimba-deja-companiile-ai-automatizare-si-securitate-cibernetica-2375468"
-      }
-    ],
-    "published_at": 1791965996,
-    "title_hu": "Cum arată businessul viitorului? Cei trei piloni tehnologici care schimbă deja companiile: AI, automatizare și securitate cibernetică",
-    "lead_hu": "AI-ul nu mai bate la ușa companiilor. Le-a trecut pragul și a început să-și găsească locul în tot mai multe procese de zi cu zi. A ajuns deja să preia sarcini repetitive, să analizeze procese, să scri…",
-    "content_hu": "AI-ul nu mai bate la ușa companiilor. Le-a trecut pragul și a început să-și găsească locul în tot mai multe procese de zi cu zi. A ajuns deja să preia sarcini repetitive, să analizeze procese, să scrie cod, să găsească mai repede probleme într-o rețea sau să ajute oamenii să ia decizii. Dar, odată cu …",
-    "title_ro": "Cum arată businessul viitorului? Cei trei piloni tehnologici care schimbă deja companiile: AI, automatizare și securitate cibernetică",
-    "lead_ro": "AI-ul nu mai bate la ușa companiilor. Le-a trecut pragul și a început să-și găsească locul în tot mai multe procese de zi cu zi. A ajuns deja să preia sarcini repetitive, să analizeze procese, să scri…",
-    "content_ro": "AI-ul nu mai bate la ușa companiilor. Le-a trecut pragul și a început să-și găsească locul în tot mai multe procese de zi cu zi. A ajuns deja să preia sarcini repetitive, să analizeze procese, să scrie cod, să găsească mai repede probleme într-o rețea sau să ajute oamenii să ia decizii. Dar, odată cu …"
   }
 ]
