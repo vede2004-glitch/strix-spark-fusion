@@ -1,5 +1,343 @@
 [
   {
+    "group_id": "group_2720c2000f",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "De joi pornește căldura în Oradea. Furnizarea va fi reluată treptat",
+        "link": "https://www.ebihoreanul.ro/stiri/de-joi-porneste-caldura-in-oradea-furnizarea-va-fi-reluata-treptat-205798.html"
+      }
+    ],
+    "published_at": 1791974825,
+    "title_hu": "De joi pornește căldura în Oradea. Furnizarea va fi reluată treptat",
+    "lead_hu": "Noul sezon rece va fi deschis începând din 15 octombrie, mai târziu cu aproape două săptămâni decât anul trecut și mai repede cu o zi decât în toamna anului 2024. Conducerea societății a luat această …",
+    "content_hu": "Noul sezon rece va fi deschis începând din 15 octombrie, mai târziu cu aproape două săptămâni decât anul trecut și mai repede cu o zi decât în toamna anului 2024. Conducerea societății a luat această decizie pe fondul scăderii temperaturilor exterioare, precum și al numărului mare de solicitări din partea orădenilor. Având în vedere inerția sistemului de termoficare, pornirea încălzirii va dura circa două zile, interval în care este de așteptat să se împlinească perioada de trei nopți consecutive cu temperaturi medii de cel mult 10 grade Celsius.",
+    "title_ro": "De joi pornește căldura în Oradea. Furnizarea va fi reluată treptat",
+    "lead_ro": "Noul sezon rece va fi deschis începând din 15 octombrie, mai târziu cu aproape două săptămâni decât anul trecut și mai repede cu o zi decât în toamna anului 2024. Conducerea societății a luat această …",
+    "content_ro": "Noul sezon rece va fi deschis începând din 15 octombrie, mai târziu cu aproape două săptămâni decât anul trecut și mai repede cu o zi decât în toamna anului 2024. Conducerea societății a luat această decizie pe fondul scăderii temperaturilor exterioare, precum și al numărului mare de solicitări din partea orădenilor. Având în vedere inerția sistemului de termoficare, pornirea încălzirii va dura circa două zile, interval în care este de așteptat să se împlinească perioada de trei nopți consecutive cu temperaturi medii de cel mult 10 grade Celsius."
+  },
+  {
+    "group_id": "group_107da08a93",
+    "fingerprint": "5ea84382a5920e5575c2f10f571be333",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/13/cikk_herkules_repulo_aopa.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "A román légierő ingyen kapja meg az amerikaiak egyik feleslegessé vált repülőgépét",
+        "link": "https://maszol.ro/belfold/A-roman-legiero-ingyen-kapja-meg-az-amerikaiak-egyik-feleslegesse-valt-repulogepet"
+      },
+      {
+        "source": "Go4IT",
+        "title": "SUA transferă gratuit Forțelor Aeriene Române o nouă aeronavă de transport C-130H Hercules. Ce poate face vehiculul aerian",
+        "link": "https://www.go4it.ro/tehnologie-militara/sua-transfera-gratuit-fortelor-aeriene-romane-o-noua-aeronava-de-transport-c-130h-hercules-ce-poate-face-vehiculul-aerian-19287694/"
+      },
+      {
+        "source": "Digi24",
+        "title": "Armata Română primește un nou avion militar Hercules de la americani. Ce misiuni poate îndeplini",
+        "link": "https://www.digi24.ro/stiri/armata-romana-primeste-un-nou-avion-militar-hercules-de-la-americani-ce-misiuni-poate-indeplini-3989955"
+      },
+      {
+        "source": "Adevărul",
+        "title": "România primește o nouă aeronavă Hercules, cadou de la SUA",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/romania-primeste-o-noua-aeronava-hercules-cadou-2563706.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "România primește gratuit un avion militar C-130H Hercules. Câte astfel de aeronave avem în dotare și cine ni le-a oferit",
+        "link": "https://stirileprotv.ro/stiri/social/romania-primeste-gratuit-un-avion-militar-c-130h-hercules-cate-astfel-de-aeronave-avem-in-dotare-si-cine-ni-le-a-oferit.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Romania adds new Hercules aircraft to military fleet, received free of charge from the US",
+        "link": "https://www.mediafax.ro/english/romania-adds-new-hercules-aircraft-to-military-fleet-received-free-of-charge-from-the-us-23824601"
+      },
+      {
+        "source": "G4Media",
+        "title": "SUA și România marchează 30 de ani de Parteneriat Strategic prin livrarea unei aeronave C-130 către Forțele Aeriene Române",
+        "link": "https://www.g4media.ro/sua-si-romania-marcheaza-30-de-ani-de-parteneriat-strategic-prin-livrarea-unei-aeronave-c-130-catre-fortele-aeriene-romane.html"
+      }
+    ],
+    "published_at": 1791974793,
+    "title_hu": "Újabb C–130H Hercules repülőgépet kapott ingyen Románia az Egyesült Államoktól",
+    "lead_hu": "Az Egyesült Államok ingyenesen átadott egy C–130H Hercules szállítórepülőgépet a Román Légierőnek az Excess Defense Articles program keretében. A gép a nyolcadik ilyen típusú repülőgép, amely ezen a programon keresztül került a román haderőhöz.",
+    "content_hu": "• **A C–130H Hercules átadása** az Otopeni 90-es légibázison tartott ünnepségen történt; a repülőgépet az Egyesült Államok kormánya ingyenesen adta át a Román Légierőnek.\n\n• **A nyolcadik C–130H** került a román haderő állományába az amerikai Excess Defense Articles (EDA) programon keresztül. Románia 1996 óta vesz részt a programban, amelynek keretében korábban C–130B gépek is érkeztek az országba.\n\n• **Radu Miruță védelmi miniszter és Darryl Nirenberg amerikai nagykövet** részt vett az átadási ceremónián. A román védelmi minisztérium az eseményt a két ország közel három évtizedes stratégiai partnersége kézzelfogható eredményének nevezte.\n\n• **A 92-3024 oldalszámú Hercules** növeli Románia taktikai légiszállítási kapacitását, és személyzet, illetve felszerelés szállítására, válsághelyzetek kezelésére, NATO-műveletek támogatására és humanitárius segítségnyújtásra is használható.\n\n• **A C–130H sokoldalú szállítórepülőgép:** katonai légiszállítás, egészségügyi evakuálás, humanitárius segítség és katasztrófaelhárítás egyaránt a lehetséges feladatai közé tartozik.",
+    "title_ro": "România a primit gratuit de la SUA o nouă aeronavă C-130H Hercules",
+    "lead_ro": "Statele Unite au transferat gratuit Forțelor Aeriene Române o aeronavă de transport C-130H Hercules prin programul Excess Defense Articles. Este al optulea aparat de acest tip ajuns în dotarea armatei române prin acest program.",
+    "content_ro": "• **Transferul aeronavei C-130H Hercules** a avut loc în cadrul unei ceremonii la Baza 90 Transport Aerian de la Otopeni; Guvernul Statelor Unite a oferit aparatul gratuit Forțelor Aeriene Române.\n\n• **Al optulea C-130H** a intrat în dotarea armatei române prin programul american Excess Defense Articles (EDA). România participă la program din 1996, când primele aeronave C-130B au fost integrate în flota de transport aerian.\n\n• **Ministrul Apărării, Radu Miruță, și ambasadorul SUA, Darryl Nirenberg,** au participat la ceremonia de predare-primire. Ministerul român al Apărării a prezentat evenimentul drept un rezultat concret al parteneriatului strategic dintre cele două țări, care se apropie de trei decenii.\n\n• **Aeronava Hercules cu numărul de coadă 92-3024** mărește capacitatea României de transport aerian tactic și poate transporta personal și echipamente, sprijini operațiuni NATO, interveni în situații de criză și furniza ajutor umanitar.\n\n• **C-130H este o aeronavă de transport versatilă:** poate fi folosită pentru transport aerian militar, evacuare medicală, asistență umanitară și intervenții în caz de dezastre."
+  },
+  {
+    "group_id": "group_76ebe1ae4f",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Putin a convocat miercuri mai mulți înalți oficiali ruși pentru o ședință: „Trebuie să fim pregătiți”",
+        "link": "https://hotnews.ro/putin-a-convocat-miercuri-mai-multi-inalti-oficiali-rusi-pentru-o-sedinta-trebuie-sa-fim-pregatiti-2375714"
+      }
+    ],
+    "published_at": 1791974617,
+    "title_hu": "Putin a convocat miercuri mai mulți înalți oficiali ruși pentru o ședință: „Trebuie să fim pregătiți”",
+    "lead_hu": "Președintele rus Vladimir Putin va discuta miercuri despre securitatea cibernetică cu înalți oficiali, a anunțat Kremlinul, descriind această problemă ca fiind una din ce în ce mai urgentă, dar negând...",
+    "content_hu": "Președintele rus Vladimir Putin va discuta miercuri despre securitatea cibernetică cu înalți oficiali, a anunțat Kremlinul, descriind această problemă ca fiind una din ce în ce mai urgentă, dar negând că întâlnirea ar fi fost determinată de o serie de atacuri cu drone ucrainene asupra centrelor de date rusești, transmite Reuters. „Tehnologiile de inteligență artificială …",
+    "title_ro": "Putin a convocat miercuri mai mulți înalți oficiali ruși pentru o ședință: „Trebuie să fim pregătiți”",
+    "lead_ro": "Președintele rus Vladimir Putin va discuta miercuri despre securitatea cibernetică cu înalți oficiali, a anunțat Kremlinul, descriind această problemă ca fiind una din ce în ce mai urgentă, dar negând...",
+    "content_ro": "Președintele rus Vladimir Putin va discuta miercuri despre securitatea cibernetică cu înalți oficiali, a anunțat Kremlinul, descriind această problemă ca fiind una din ce în ce mai urgentă, dar negând că întâlnirea ar fi fost determinată de o serie de atacuri cu drone ucrainene asupra centrelor de date rusești, transmite Reuters. „Tehnologiile de inteligență artificială …"
+  },
+  {
+    "group_id": "group_d56a69d0ed",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMjU0NV8zMDEy/NTQ1X3BubC1pbnF1YW0tcGhvdG9zLWdl/b3JnZS1jYWxpbi0xLmpwZyZoYXNoPTU2/MWE0ZTRlMzAyMTJjODMzZTNkNmYxOWExODIwMGQ4.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "PNL s-a reunit în ședință pentru a discuta susținerea Guvernului Niculescu. Ce condiții pun liberalii",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-s-a-reunit-in-sedinta-pentru-a-discuta-sustinerea-guvernului-niculescu-ce-conditii-pun-liberalii-3991767"
+      }
+    ],
+    "published_at": 1791974606,
+    "title_hu": "PNL s-a reunit în ședință pentru a discuta susținerea Guvernului Niculescu. Ce condiții pun liberalii",
+    "lead_hu": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24,…",
+    "content_hu": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24, votul de învestitură pentru noul Guvern ar putea avea loc cel mai devreme vineri.",
+    "title_ro": "PNL s-a reunit în ședință pentru a discuta susținerea Guvernului Niculescu. Ce condiții pun liberalii",
+    "lead_ro": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24,…",
+    "content_ro": "Liberalii s-au reunit, miercuri, în ședința Biroului Politic Național al PNL, în contextul discuțiilor privind susținerea Guvernului Luca Niculescu. Potrivit informațiilor obținute pe surse de Digi24, votul de învestitură pentru noul Guvern ar putea avea loc cel mai devreme vineri."
+  },
+  {
+    "group_id": "group_ce56d18457",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Zonait.ro",
+        "title": "No Time for Downtime 2026, eveniment Maguay despre AI și suveranitate digitală",
+        "link": "https://zonait.ro/no-time-for-downtime-2026-maguay/"
+      }
+    ],
+    "published_at": 1791974541,
+    "title_hu": "No Time for Downtime 2026, eveniment Maguay despre AI și suveranitate digitală",
+    "lead_hu": "Publicat pe Zona IT de catre Adrian Pogingeanu: Săptămâna trecută am participat la ediția cu numărul 23 a evenimentului No Time for Downtime, organizat de Maguay, la hotelul JW Marriott din București.…",
+    "content_hu": "Publicat pe Zona IT de catre Adrian Pogingeanu: Săptămâna trecută am participat la ediția cu numărul 23 a evenimentului No Time for Downtime, organizat de Maguay, la hotelul JW Marriott din București. Tema conferinței din acest an, care a reunit peste 430 de participanți, explică destul de bine direcția în care se îndreaptă tehnologia: „Sovereign by Design”. Mai exact, AI on-premise, edge computing … Citeste mai mult: No Time for Downtime 2026, eveniment Maguay despre AI și suveranitate digitală - Zona IT.",
+    "title_ro": "No Time for Downtime 2026, eveniment Maguay despre AI și suveranitate digitală",
+    "lead_ro": "Publicat pe Zona IT de catre Adrian Pogingeanu: Săptămâna trecută am participat la ediția cu numărul 23 a evenimentului No Time for Downtime, organizat de Maguay, la hotelul JW Marriott din București.…",
+    "content_ro": "Publicat pe Zona IT de catre Adrian Pogingeanu: Săptămâna trecută am participat la ediția cu numărul 23 a evenimentului No Time for Downtime, organizat de Maguay, la hotelul JW Marriott din București. Tema conferinței din acest an, care a reunit peste 430 de participanți, explică destul de bine direcția în care se îndreaptă tehnologia: „Sovereign by Design”. Mai exact, AI on-premise, edge computing … Citeste mai mult: No Time for Downtime 2026, eveniment Maguay despre AI și suveranitate digitală - Zona IT."
+  },
+  {
+    "group_id": "group_ddaa66bd52",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/manuale-online-1024x441.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Manualele noi pentru clasa a IX-a sunt disponibile online. Pentru câte discipline au fost finalizate licitațiile",
+        "link": "https://www.mediafax.ro/social/manualele-noi-pentru-clasa-a-ix-a-sunt-disponibile-online-pentru-cate-discipline-au-fost-finalizate-licitatiile-23825194"
+      }
+    ],
+    "published_at": 1791974508,
+    "title_hu": "Manualele noi pentru clasa a IX-a sunt disponibile online. Pentru câte discipline au fost finalizate licitațiile",
+    "lead_hu": "Manualele școlare noi pentru clasa a IX-a pentru 63 de discipline, sunt disponibile în format digital și PDF pe platforma Ministerului Educației, începând de miercuri, 14 octombrie. Pentru alte nouă d…",
+    "content_hu": "Manualele școlare noi pentru clasa a IX-a pentru 63 de discipline, sunt disponibile în format digital și PDF pe platforma Ministerului Educației, începând de miercuri, 14 octombrie. Pentru alte nouă discipline au fost depuse contestații, iar procedura de achiziție va continua după soluționarea acestora.",
+    "title_ro": "Manualele noi pentru clasa a IX-a sunt disponibile online. Pentru câte discipline au fost finalizate licitațiile",
+    "lead_ro": "Manualele școlare noi pentru clasa a IX-a pentru 63 de discipline, sunt disponibile în format digital și PDF pe platforma Ministerului Educației, începând de miercuri, 14 octombrie. Pentru alte nouă d…",
+    "content_ro": "Manualele școlare noi pentru clasa a IX-a pentru 63 de discipline, sunt disponibile în format digital și PDF pe platforma Ministerului Educației, începând de miercuri, 14 octombrie. Pentru alte nouă discipline au fost depuse contestații, iar procedura de achiziție va continua după soluționarea acestora."
+  },
+  {
+    "group_id": "group_7259d9e499",
+    "fingerprint": "48c72c5c44f33668dd95aabffc15c337",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/logo-sigla-DNA-INQUAM-PHOTOS-OCTAV-GANEA-scaled.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "SURSE: DNA a deschis un dosar la Primăria Timișoara, de unde primarul Dominic Fritz tocmai a fost înlăturat de PSD, AUR și CCR / Dosarul vizează operațiunile financiare de salvare a companiei de termoficare Colterm",
+        "link": "https://www.g4media.ro/surse-dna-a-deschis-un-dosar-la-primaria-timisoara-de-unde-primarul-dominic-fritz-tocmai-a-fost-inlaturat-de-psd-aur-si-ccr-dosarul-vizeaza-operatiunile-financiare-de-salvare-a-companiei-de-termo.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Acum vin și după echipa mea”. Dominic Fritz acuză că DNA are în lucru un dosar care vizează colaboratorii săi din Primăria Timișoara",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/acum-vin-si-dupa-echipa-mea-dominic-fritz-acuza-ca-dna-are-in-lucru-un-dosar-care-vizeaza-colaboratorii-sai-din-primaria-timisoara-3991383"
+      },
+      {
+        "source": "G4Media",
+        "title": "Dominic Fritz, reacție după ce DNA a deschis un dosar la Primăria Timișoara: ”Acum vin și după echipa mea. Când DNA vine după funcționari care încearcă să-și facă treaba cu bună credință, în loc să investigheze corupția reală și averile obscene ale unor politicieni, duce în derizoriu toată lupta anti-corupție”",
+        "link": "https://www.g4media.ro/dominic-fritz-reactie-dupa-ce-dna-a-deschis-un-dosar-la-primaria-timisoara-acum-vin-si-dupa-echipa-mea-cand-dna-vine-dupa-functionari-care-incearca-sa-si-faca-treaba-cu-buna-credinta-in-l.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Reacția lui Fritz după ce DNA ar pregăti un dosar în care sunt vizați angajați ai Primăriei Timișoara: „Acum vin și după echipa mea”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/reactia-lui-fritz-dupa-ce-dna-ar-pregati-un-dosar-2563896.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Anchetă DNA la Primăria Timișoara. Dominic Fritz: „Acum vin și după echipa mea”",
+        "link": "https://hotnews.ro/ancheta-dna-la-primaria-timisoara-dominic-fritz-acum-vin-si-dupa-echipa-mea-2375586"
+      },
+      {
+        "source": "Mediafax",
+        "title": "DNA anchetează un posibil prejudiciu de 68 de milioane de lei la Primăria Timișoara, în mandatul lui Dominic Fritz. Liderul USR acuză un dosar politic: „Acum vin și după echipa mea”",
+        "link": "https://www.mediafax.ro/justitie/dna-ancheteaza-un-posibil-prejudiciu-de-68-de-milioane-de-lei-la-primaria-timisoara-in-mandatul-lui-dominic-fritz-liderul-usr-acuza-un-dosar-politic-acum-vin-si-dupa-echipa-mea-23825195"
+      }
+    ],
+    "published_at": 1791974494,
+    "title_hu": "Pontosították a DNA Colterm-ügyének részleteit: 67,84 millió lejes kár gyanúját vizsgálják",
+    "lead_hu": "A DNA temesvári ügyészsége in rem eljárást folytat a Colterm megmentésére szánt állami támogatások önkormányzati kezeléséről. A Mediafax által idézett, Antena 3-hoz kötött dokumentum szerint a nyomozás 67,84 millió lejes feltételezett kárt vizsgál, Dominic Fritz viszont azt állítja, hogy a teljes összeget a vállalat kapta meg, és a város a pénzügyminisztérium írásos útmutatása alapján járt el.",
+    "content_hu": "• **A DNA temesvári ügyészsége** in rem eljárást indított annak vizsgálatára, hogyan kezelte a városvezetés a Colterm távhőszolgáltató megmentésére szánt pénzeket. A nyomozás egyelőre tényekre, nem konkrét személyekre irányul; az ügyészek tíz önkormányzati alkalmazottról kértek adatokat, köztük Ruben Lațcău alpolgármesterről.\n\n• **A nyomozás kezdete** a Mediafax által idézett Antena 3-as dokumentum szerint 2026. augusztus 3-án hivatalból tett feljelentéssel indult, majd másnap a DNA hivatali visszaélés gyanújával elrendelte a büntetőeljárás megkezdését. Ez az adat a sajtó által ismertetett dokumentumból származik; a G4Media az ügyet továbbra is in rem eljárásként írta le.\n\n• **A feltételezett kár összege** a Mediafax által idézett dokumentum szerint 67 840 130 lej, amelyet az ügyészek a Coltermet ért lehetséges kárként, egyúttal a városi költségvetés feltételezett jogtalan előnyeként vizsgálnak. A HotNews korábbi, Antena 3-ra hivatkozó beszámolója 68 millió lejről írt, Fritz pedig 67 millió lejt említett.\n\n• **A pénzek felhasználásának vitatott módjáról** a Mediafax által idézett beszámoló azt állítja, hogy a fejlesztési minisztérium a 2021–2022-es téli időszakban a távhőrendszer támogatására utalta az összeget, amelyet legfeljebb három napon belül kellett volna továbbítani a Coltermnek. A gyanú szerint az önkormányzat ehelyett olyan számlák rendezésére használta a pénzt, amelyekkel már korábban is tartozott a vállalatnak; az ügyészek szerint ez ronthatta a fizetésképtelenségben lévő Colterm pénzügyi helyzetét.\n\n• **Dominic Fritz** azt mondta, hogy a 2021–2022-es télen a kormány 67 millió lejt utalt a városnak a távhőszolgáltatás folyó kiadásainak fedezésére, majd az önkormányzat a pénzt támogatásként továbbadta a Coltermnek. Fritz szerint ezt a pénzügyminisztérium írásos útmutatása alapján és a vonatkozó szerződés keretei között tették; állítása szerint senki nem vitt haza pénzt.\n\n• **Fritz vitatja az eljárás indokoltságát**, és azt állítja, hogy a vizsgált döntések a város javát szolgálták. Azt mondta, az ügy egy öt évvel korábbi számviteli vitához kapcsolódik, és a feltételezett hivatali visszaélés a település javára történő jogtalan előnyszerzésről szólhat. Közölte, hogy nem kapott hivatalos tájékoztatást, és nincs eljárásjogi minősége az ügyben; a nyomozást a jóhiszeműen dolgozó köztisztviselők számára is visszatartó hatásúnak nevezte.\n\n• **A HotNews az Antena 3 értesülésére hivatkozva** azt írta, hogy az ügy a korábbi polgármestert, Dominic Fritzet, Ruben Lațcău alpolgármestert, a városi adminisztrátort és több tisztviselőt is érintheti. A DNA által ismertetett in rem eljárás hivatalos leírása azonban egyelőre nem nevez meg konkrét érintetteket.\n\n• **A Colterm korábbi pénzügyi nehézségei** között szerepelt a fizetésképtelenség és a 2021 októberében öt napra megszakadt szolgáltatás. A Mediafax szerint a kibocsátási egységek meg nem vásárlása miatt 2021-ben és 2022-ben kiszabott bírságok összege meghaladta a 178 millió lejt.\n\n• **A DNA 2021-ben egy másik Colterm-ügyben is indított eljárást**, amely Ruben Lațcăut érintette: azt vizsgálták, miért nem vásárolta meg a vállalat az üvegházhatású gázok kibocsátási egységeit, ami kárt okozott a cégnek. A G4Media szerint az akkori ügyet 2023-ban lezárták.\n\n• **Fritz állítása szerint** polgármestersége idején a Colterm több mint egymilliárd lej önkormányzati támogatást kapott, a város pedig több százmillió lejt fordított a távhőhálózat korszerűsítésére.\n\n• **A városvezetésben bekövetkezett változás után** Ruben Lațcău alpolgármester látja el ideiglenesen a polgármesteri feladatokat. A G4Media beszámolója szerint Fritzet a PSD és az AUR által támogatott törvénymódosítás, valamint annak alkotmánybírósági jóváhagyása nyomán távolították el hivatalából.",
+    "title_ro": "DNA precizează ancheta privind Colterm: suspiciune de prejudiciu de 67,84 milioane de lei",
+    "lead_ro": "DNA Timișoara investighează in rem modul în care administrația locală a gestionat fondurile destinate salvării companiei de termoficare Colterm. Potrivit unui document citat de Mediafax și atribuit Antena 3, ancheta vizează un prejudiciu presupus de 67,84 milioane de lei; Dominic Fritz susține însă că întreaga sumă a ajuns la companie și că primăria a urmat indicațiile scrise ale Ministerului Finanțelor.",
+    "content_ro": "• **DNA Timișoara** a deschis un dosar in rem pentru a verifica modul în care administrația locală a gestionat fondurile destinate salvării Colterm. Ancheta vizează deocamdată fapte, nu persoane, iar procurorii au cerut informații despre zece angajați ai primăriei, între care viceprimarul Ruben Lațcău.\n\n• **Începerea anchetei** ar fi fost precedată, potrivit documentului citat de Mediafax și atribuit Antena 3, de o sesizare din oficiu înregistrată la 3 august 2026; a doua zi, procurorul de caz ar fi dispus începerea urmăririi penale pentru abuz în serviciu. G4Media a descris dosarul ca fiind deschis in rem.\n\n• **Prejudiciul presupus** este de 67.840.130 de lei, potrivit documentului citat de Mediafax; suma ar reprezenta atât o posibilă pagubă pentru Colterm, cât și un folos necuvenit presupus pentru bugetul municipalității. HotNews, citând Antena 3, a relatat anterior despre 68 de milioane de lei, în timp ce Fritz a vorbit despre 67 de milioane.\n\n• **Folosirea fondurilor contestată de anchetatori** ar privi banii alocați de Ministerul Dezvoltării, în iarna 2021–2022, pentru sistemul de termoficare. Potrivit relatării Mediafax, fondurile ar fi trebuit virate către Colterm în cel mult trei zile, dar ar fi fost folosite la plata unor facturi pe care primăria le avea deja de achitat companiei. Procurorii ar suspecta că această operațiune a afectat situația financiară a Colterm, aflată în insolvență.\n\n• **Dominic Fritz** a afirmat că, în iarna 2021–2022, Guvernul a alocat 67 de milioane de lei pentru cheltuielile curente ale sistemelor de termoficare, iar Primăria Timișoara a transferat suma către Colterm sub formă de subvenție. El susține că administrația a urmat indicațiile scrise ale Ministerului Finanțelor și prevederile contractuale și că nimeni nu a luat bani acasă.\n\n• **Fritz contestă justificarea anchetei** și susține că deciziile investigate au fost luate în interesul orașului. El a descris situația drept o dispută contabilă de acum cinci ani și a spus că acuzația ar viza obținerea unui folos necuvenit în beneficiul municipalității. A afirmat că nu a fost informat oficial și că nu are nicio calitate în dosar; în opinia sa, anchetele de acest fel pot descuraja funcționarii publici să ia decizii.\n\n• **HotNews, citând Antena 3,** a relatat că ancheta ar putea viza fostul primar Dominic Fritz, viceprimarul Ruben Lațcău, administratorul public și mai mulți funcționari. Descrierea dosarului in rem prezentată de G4Media nu nominalizează însă, deocamdată, persoane vizate.\n\n• **Dificultățile financiare ale Colterm** au inclus intrarea în insolvență și întreruperea serviciului timp de cinci zile în octombrie 2021. Potrivit Mediafax, amenzile aplicate în 2021 și 2022 pentru neîndeplinirea obligațiilor privind certificatele de emisii au depășit 178 de milioane de lei.\n\n• **DNA a deschis în 2021 un alt dosar legat de Colterm**, care l-a vizat pe Ruben Lațcău și privea neachiziționarea certificatelor de emisii de gaze cu efect de seră. Potrivit G4Media, acel dosar a fost clasat în 2023.\n\n• **Potrivit lui Fritz,** în timpul mandatului său Colterm a primit subvenții de peste un miliard de lei de la bugetul local, iar municipalitatea a investit sute de milioane de lei în reabilitarea rețelei de termoficare.\n\n• **După schimbarea conducerii orașului,** viceprimarul Ruben Lațcău exercită interimar atribuțiile de primar. Potrivit G4Media, Fritz a fost înlăturat din funcție în urma unei modificări legislative susținute de PSD și AUR și validate de Curtea Constituțională."
+  },
+  {
+    "group_id": "group_9d14b07f78",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14092026/37f13057-45ec-45a4-b6e7-647bce2b2209.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Starul lui Pancu e plătit regește la Rapid » Am aflat salariul uriaș dat de Dan Șucu: doar Drăguș îl depășește în Superliga",
+        "link": "https://www.gsp.ro/fotbal/liga-1/cel-mai-mare-salariu-rapid-dan-sucu-filip-stojiljovic-superliga-987974.html"
+      }
+    ],
+    "published_at": 1791974407,
+    "title_hu": "Starul lui Pancu e plătit regește la Rapid » Am aflat salariul uriaș dat de Dan Șucu: doar Drăguș îl depășește în Superliga",
+    "lead_hu": "Încă de la sosirea sa de la Pisa la Rapid, Filip Stojilkovic (26 ani) a fost lăudat de Daniel Pancu, tehnicianul fiind convins că atacantul elvețian are calități care îl vor impune fără probleme în Su…",
+    "content_hu": "Încă de la sosirea sa de la Pisa la Rapid, Filip Stojilkovic (26 ani) a fost lăudat de Daniel Pancu, tehnicianul fiind convins că atacantul elvețian are calități care îl vor impune fără probleme în Superligă. Explozia elvețianului s-a lăsat însă așteptată, nu lipsa calității fiind problema, ci faptul că, deși apărea foarte des la finalizare, nu reușea să marcheze. ...",
+    "title_ro": "Starul lui Pancu e plătit regește la Rapid » Am aflat salariul uriaș dat de Dan Șucu: doar Drăguș îl depășește în Superliga",
+    "lead_ro": "Încă de la sosirea sa de la Pisa la Rapid, Filip Stojilkovic (26 ani) a fost lăudat de Daniel Pancu, tehnicianul fiind convins că atacantul elvețian are calități care îl vor impune fără probleme în Su…",
+    "content_ro": "Încă de la sosirea sa de la Pisa la Rapid, Filip Stojilkovic (26 ani) a fost lăudat de Daniel Pancu, tehnicianul fiind convins că atacantul elvețian are calități care îl vor impune fără probleme în Superligă. Explozia elvețianului s-a lăsat însă așteptată, nu lipsa calității fiind problema, ci faptul că, deși apărea foarte des la finalizare, nu reușea să marcheze. ..."
+  },
+  {
+    "group_id": "group_d4efc1b837",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "RomKat",
+        "title": "Ünnep, mosoly és közösség",
+        "link": "https://romkat.ro/2026/10/14/unnep-mosoly-es-kozosseg/"
+      }
+    ],
+    "published_at": 1791974400,
+    "title_hu": "Ünnep, mosoly és közösség",
+    "lead_hu": "A Gyulafehérvári Caritas Szervezet mindennapjaiban kiemelt helyet foglal el a szépkorúakról való gondoskodás: az otthoni ápolás, a gondozási és fejlesztő foglalkozások, a mozgásos és mentálhigiénés cs…",
+    "content_hu": "A Gyulafehérvári Caritas Szervezet mindennapjaiban kiemelt helyet foglal el a szépkorúakról való gondoskodás: az otthoni ápolás, a gondozási és fejlesztő foglalkozások, a mozgásos és mentálhigiénés csoportok mind-mind azt a célt szolgálják, hogy az idősek méltóságban, biztonságban és aktívan élhessék meg a mindennapokat. Bár ez az odafigyelés az év minden napján jelen van, az idősek világnapja […]",
+    "title_ro": "Ünnep, mosoly és közösség",
+    "lead_ro": "A Gyulafehérvári Caritas Szervezet mindennapjaiban kiemelt helyet foglal el a szépkorúakról való gondoskodás: az otthoni ápolás, a gondozási és fejlesztő foglalkozások, a mozgásos és mentálhigiénés cs…",
+    "content_ro": "A Gyulafehérvári Caritas Szervezet mindennapjaiban kiemelt helyet foglal el a szépkorúakról való gondoskodás: az otthoni ápolás, a gondozási és fejlesztő foglalkozások, a mozgásos és mentálhigiénés csoportok mind-mind azt a célt szolgálják, hogy az idősek méltóságban, biztonságban és aktívan élhessék meg a mindennapokat. Bár ez az odafigyelés az év minden napján jelen van, az idősek világnapja […]"
+  },
+  {
+    "group_id": "group_b63192539d",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-a/a409ae2f-c3ab-43da-bd78-d909231eca7e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "„Se duce să mai vândă niște cărți din portbagaj”. Ironiile Ancăi Alexandrescu la adresa lui Robert Turcescu pe tema cărții cu Călin Georgescu",
+        "link": "https://adevarul.ro/stiri-interne/societate/se-duce-sa-mai-vanda-niste-carti-din-portbagaj-2563937.html"
+      }
+    ],
+    "published_at": 1791974106,
+    "title_hu": "„Se duce să mai vândă niște cărți din portbagaj”. Ironiile Ancăi Alexandrescu la adresa lui Robert Turcescu pe tema cărții cu Călin Georgescu",
+    "lead_hu": "Anca Alexandrescu l-a acuzat pe Robert Turcescu că ar profita de protestele organizate la Arestul Central pentru a-și promova volumul de dialog cu Călin Georgescu.",
+    "content_hu": "Anca Alexandrescu l-a acuzat pe Robert Turcescu că ar profita de protestele organizate la Arestul Central pentru a-și promova volumul de dialog cu Călin Georgescu.",
+    "title_ro": "„Se duce să mai vândă niște cărți din portbagaj”. Ironiile Ancăi Alexandrescu la adresa lui Robert Turcescu pe tema cărții cu Călin Georgescu",
+    "lead_ro": "Anca Alexandrescu l-a acuzat pe Robert Turcescu că ar profita de protestele organizate la Arestul Central pentru a-și promova volumul de dialog cu Călin Georgescu.",
+    "content_ro": "Anca Alexandrescu l-a acuzat pe Robert Turcescu că ar profita de protestele organizate la Arestul Central pentru a-și promova volumul de dialog cu Călin Georgescu."
+  },
+  {
+    "group_id": "group_107385514c",
+    "fingerprint": "78728120434b36ec2e623ada37efec43",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Femeile însărcinate au dreptul la însoţitor în timpul travaliului şi naşterii. Legea merge la promulgare",
+        "link": "https://hotnews.ro/femeile-insarcinate-au-dreptul-la-insotitor-in-timpul-travaliului-si-nasterii-legea-merge-la-promulgare-2375709"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Femeile însărcinate vor avea dreptul la însoțitor în timpul nașterii. Camera Deputaților a adoptat proiectul de lege",
+        "link": "https://stirileprotv.ro/stiri/actualitate/femeile-insarcinate-vor-avea-dreptul-la-insotitor-in-timpul-nasterii-camera-deputatilor-a-adoptat-proiectul-de-lege.html"
+      }
+    ],
+    "published_at": 1791974049,
+    "title_hu": "A képviselőház elfogadta a szülés alatti kísérőhöz való jogról szóló törvényt",
+    "lead_hu": "A román képviselőház szerdán, döntéshozó kamaraként elfogadta azt a törvényjavaslatot, amely biztosítaná a várandós nők számára, hogy vajúdás és szülés közben az általuk választott személy kísérje őket. A jogszabály a magánszféra védelmét és az újszülött anyával való együtt tartózkodását is előírja; a törvény az államfő kihirdetésére vár.",
+    "content_hu": "• **A képviselőház szerdán** döntéshozó kamaraként elfogadta a várandós nők vajúdás és szülés alatti kísérőhöz való jogáról szóló törvényjavaslatot. A HotNews.ro beszámolója szerint a javaslat 262 támogató szavazatot kapott, ellenszavazat nélkül.\n\n• **A várandós nők kérésükre maguk választhatják meg kísérőjüket** a vajúdás, a szülés és az intézményen belüli átszállítás teljes ideje alatt. A jog gyakorlásának összhangban kell lennie a higiéniai, járványügyi és orvosi biztonsági előírásokkal.\n\n• **Az egészségügyi intézményeknek védeniük kell a páciensek méltóságát és magánéletét**, többek között megfelelő vizuális elkülönítéssel a vajúdás és a szülés helyszínén. A jogok korlátozása csak objektív, orvosi vagy járványügyi okból, a várandós nő, az újszülött, a személyzet vagy más betegek biztonsága érdekében lehetséges.\n\n• **Az újszülöttnek joga van az anyjával maradni** közvetlenül a születés után és a kórházi tartózkodás alatt, kivéve az indokolt orvosi, járványügyi, biztonsági vagy vis maior helyzeteket. Az intézményeknek a korai anya–újszülött kapcsolatot és a szoptatás megkezdését is támogatniuk kell.\n\n• **A törvényjavaslat Nicușor Dan államfő elé kerül kihirdetésre.**",
+    "title_ro": "Camera Deputaților a adoptat legea privind dreptul la însoțitor în timpul nașterii",
+    "lead_ro": "Camera Deputaților din România a adoptat miercuri, în calitate de for decizional, proiectul care le acordă femeilor însărcinate dreptul de a fi însoțite de o persoană aleasă de ele în timpul travaliului și al nașterii. Legea prevede și măsuri pentru protejarea intimității și menținerea nou-născutului alături de mamă; actul normativ urmează să fie promulgat de președinte.",
+    "content_ro": "• **Camera Deputaților a adoptat miercuri** proiectul de lege privind dreptul femeilor însărcinate la însoțitor în timpul travaliului și al nașterii, în calitate de for decizional. Potrivit HotNews.ro, proiectul a primit 262 de voturi pentru și niciun vot împotrivă.\n\n• **Femeia însărcinată poate alege persoana care să o însoțească**, la cerere, pe tot parcursul travaliului, nașterii și transferului în interiorul unității sanitare. Exercitarea acestui drept trebuie să respecte normele de igienă, epidemiologice și de siguranță medicală.\n\n• **Unitățile sanitare trebuie să protejeze demnitatea și intimitatea pacientelor**, inclusiv prin asigurarea unei separări vizuale adecvate în spațiile destinate travaliului și nașterii. Restrângerea drepturilor este permisă doar în situații obiective, justificate medical sau epidemiologic, pentru siguranța femeii însărcinate, a nou-născutului, a personalului ori a celorlalte paciente.\n\n• **Nou-născutul are dreptul să rămână împreună cu mama sa** imediat după naștere și pe durata internării, cu excepția unor situații justificate medical, epidemiologic, de siguranță sau de forță majoră. Unitățile sanitare trebuie să favorizeze contactul precoce dintre mamă și copil și inițierea alăptării.\n\n• **Proiectul de lege va fi trimis președintelui Nicușor Dan spre promulgare.**"
+  },
+  {
+    "group_id": "group_7948beea0e",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/14/093431/vlcsnap-2026-10-14-12h26m47s964.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "O femeie a profitat de bunătatea bătrânului din Alba pe care îl îngrijea și a făcut 139 de achiziții cu cardul lui",
+        "link": "https://stirileprotv.ro/stiri/actualitate/a-profitat-de-bunatatea-batranului-din-alba-pe-care-il-ingrijea-si-a-facut-139-de-achizitii-cu-cardul-lui-vecinul-salvator.html"
+      }
+    ],
+    "published_at": 1791974029,
+    "title_hu": "O femeie a profitat de bunătatea bătrânului din Alba pe care îl îngrijea și a făcut 139 de achiziții cu cardul lui",
+    "lead_hu": "O femeie de 43 de ani din Alba Iulia este cercetată de polițiști după ce a profitat de naivitatea unui bătrân pe care îl îngrijea și i-a golit contul bancar.",
+    "content_hu": "O femeie de 43 de ani din Alba Iulia este cercetată de polițiști după ce a profitat de naivitatea unui bătrân pe care îl îngrijea și i-a golit contul bancar.",
+    "title_ro": "O femeie a profitat de bunătatea bătrânului din Alba pe care îl îngrijea și a făcut 139 de achiziții cu cardul lui",
+    "lead_ro": "O femeie de 43 de ani din Alba Iulia este cercetată de polițiști după ce a profitat de naivitatea unui bătrân pe care îl îngrijea și i-a golit contul bancar.",
+    "content_ro": "O femeie de 43 de ani din Alba Iulia este cercetată de polițiști după ce a profitat de naivitatea unui bătrân pe care îl îngrijea și i-a golit contul bancar."
+  },
+  {
+    "group_id": "group_681a6854f8",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/7722921-mediafax_foto-remus_badea-1-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Siemens a câștigat licitația pentru 23 de locomotive electrice noi în România. Cât valorează proiectul",
+        "link": "https://www.mediafax.ro/economic/siemens-a-castigat-licitatia-pentru-23-de-locomotive-electrice-noi-in-romania-cat-valoreaza-proiectul-23825175"
+      }
+    ],
+    "published_at": 1791973975,
+    "title_hu": "Siemens a câștigat licitația pentru 23 de locomotive electrice noi în România. Cât valorează proiectul",
+    "lead_hu": "Autoritatea pentru Reformă Feroviară (ARF) a desemnat Siemens Mobility câștigătoare a licitației pentru achiziția a 23 de locomotive electrice noi, care vor putea circula cu viteze de până la 160 km/h…",
+    "content_hu": "Autoritatea pentru Reformă Feroviară (ARF) a desemnat Siemens Mobility câștigătoare a licitației pentru achiziția a 23 de locomotive electrice noi, care vor putea circula cu viteze de până la 160 km/h și vor putea tracta până la 16 vagoane de călători. Valoarea totală a proiectului este de peste 764 de milioane de lei, echivalentul a aproximativ 154 de milioane de euro.",
+    "title_ro": "Siemens a câștigat licitația pentru 23 de locomotive electrice noi în România. Cât valorează proiectul",
+    "lead_ro": "Autoritatea pentru Reformă Feroviară (ARF) a desemnat Siemens Mobility câștigătoare a licitației pentru achiziția a 23 de locomotive electrice noi, care vor putea circula cu viteze de până la 160 km/h…",
+    "content_ro": "Autoritatea pentru Reformă Feroviară (ARF) a desemnat Siemens Mobility câștigătoare a licitației pentru achiziția a 23 de locomotive electrice noi, care vor putea circula cu viteze de până la 160 km/h și vor putea tracta până la 16 vagoane de călători. Valoarea totală a proiectului este de peste 764 de milioane de lei, echivalentul a aproximativ 154 de milioane de euro."
+  },
+  {
     "group_id": "group_9c3a3e3f5e",
     "category": "Erdély",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -40,6 +378,130 @@
     "title_ro": "Rectificarea bugetară, testul banilor reali. De unde acoperă statul plățile până la finalul anului",
     "lead_ro": "Rectificarea bugetară din această toamnă va arăta dacă statul se poate baza pe veniturile estimate la începutul anului sau trebuie să-și revizuiască planurile pentru ultimele luni din 2026, susține o …",
     "content_ro": "Rectificarea bugetară din această toamnă va arăta dacă statul se poate baza pe veniturile estimate la începutul anului sau trebuie să-și revizuiască planurile pentru ultimele luni din 2026, susține o analiză Frames. Statul trebuie să acopere plăți către furnizori și autorități locale, cofinanțarea proiectelor europene și investițiile, în timp ce costul dobânzilor crește, iar o parte din fondurile PNRR nu a ajuns încă în țară."
+  },
+  {
+    "group_id": "group_c8d8af1b58",
+    "fingerprint": "3123681c88774d9d3fe17d2de685ac0f",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/01/Gara-de-Nord-Bucuresti-MT.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "CFR caută artiști pentru o pictură murală în Gara de Nord / Se vrea ”reinterpretarea a peste 150 de ani de istorie feroviară” / Compania se bazează pe ”contribuție voluntară”",
+        "link": "https://www.g4media.ro/cfr-cauta-artisti-pentru-o-pictura-murala-in-gara-de-nord-se-vrea-reinterpretarea-a-peste-150-de-ani-de-istorie-feroviara-compania-se-bazeaza-pe-contributie-voluntara.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "CFR caută artiști pentru o pictură murală în Gara de Nord",
+        "link": "https://www.mediafax.ro/life-inedit/cfr-cauta-artisti-pentru-o-pictura-murala-in-gara-de-nord-23825153"
+      },
+      {
+        "source": "Mediafax",
+        "title": "CFR seeks artists for a mural at the North Railway Station",
+        "link": "https://www.mediafax.ro/english/cfr-seeks-artists-for-a-mural-at-the-north-railway-station-23825183"
+      }
+    ],
+    "published_at": 1791973900,
+    "title_hu": "Önkéntes művészeket keres a CFR a bukaresti Északi pályaudvar falfestményéhez",
+    "lead_hu": "A CFR SA művészeket hív a bukaresti Északi pályaudvar 14-es vágányánál lévő falfestmény megújítására. A közösségi műalkotás a román vasutak több mint 150 éves történetét dolgozza fel; a részvétel önkéntes, a jelentkezési határidő 2026. november 13.",
+    "content_hu": "• **A CFR SA művészeket keres** a bukaresti Északi pályaudvar 14-es vágányánál található falfestmény megújításához. A projekt témája a román vasutak története, amelyet több mint 150 év távlatában dolgoznának fel.\n\n• **Graffiti-, street art-, falfestmény- vagy illusztrációs tervekkel** egyéni alkotók és csapatok is jelentkezhetnek. A felhívás vizuális művészeknek, graffiti-alkotóknak, művészeti hallgatóknak és művészkollektíváknak szól; a kiválasztásnál az eredetiség, a koncepció minősége és a történelmi szempontok figyelembevétele számít.\n\n• **A részvétel önkéntes és díjazás nélküli:** a CFR nem ad tiszteletdíjat, pénzdíjat vagy más anyagi juttatást. A kiválasztott művészek együttműködési megállapodás alapján dolgoznak.\n\n• **A CFR biztosítja a jóváhagyott falfelületet**, segíti a hozzáférést és a projekt népszerűsítését; az anyagok beszerzéséhez partnerek bevonását is tervezik.\n\n• **A kiválasztott művet aláírják, az alkotók nevét pedig feltüntetik** egy bemutató táblán. Az alkotás a pályaudvaron kap helyet, és a CFR hivatalos csatornáin is népszerűsítik.\n\n• **A jelentkezési határidő 2026. november 13., 23:59.**",
+    "title_ro": "CFR caută artiști voluntari pentru pictura murală din Gara de Nord București",
+    "lead_ro": "CFR SA invită artiști să refacă pictura murală de la linia 14 din Gara de Nord București. Lucrarea de artă publică va reinterpreta peste 150 de ani de istorie a căilor ferate române; participarea este voluntară, iar termenul-limită pentru înscriere este 13 noiembrie 2026.",
+    "content_ro": "• **CFR SA caută artiști** pentru refacerea picturii murale de la linia 14 din Gara de Nord București. Tema proiectului este istoria căilor ferate române, reinterpretată pe parcursul a peste 150 de ani.\n\n• **Pot fi depuse propuneri de graffiti, street art, pictură murală sau ilustrație**, individual ori în echipă. Apelul se adresează artiștilor vizuali, creatorilor de graffiti, studenților la arte și colectivelor artistice; selecția va ține cont de originalitate, calitatea conceptului și respectarea reperelor istorice.\n\n• **Participarea este voluntară și neremunerată:** CFR nu va acorda onorarii, premii în bani sau alte recompense financiare. Artiștii selectați vor lucra în baza unui acord de colaborare.\n\n• **CFR va pune la dispoziție suprafața aprobată**, va facilita accesul și va sprijini promovarea proiectului; compania are în vedere atragerea unor parteneri pentru materialele necesare.\n\n• **Lucrarea selectată va fi semnată, iar autorii vor fi menționați** pe un panou de prezentare. Pictura va fi expusă în gară și promovată pe canalele oficiale ale CFR.\n\n• **Termenul-limită pentru înscriere este 13 noiembrie 2026, ora 23:59.**"
+  },
+  {
+    "group_id": "group_e5eb35446f",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/06/16/133955/pensionari.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Cum s-au trezit mai mulți prahoveni că trebuie să returneze zeci de mii la CAR, deși nu au făcut niciun împrumut",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cum-s-au-trezit-mai-multi-prahoveni-ca-trebuie-sa-returneze-zeci-de-mii-la-car-desi-nu-au-facut-niciun-imprumut.html"
+      }
+    ],
+    "published_at": 1791973887,
+    "title_hu": "Cum s-au trezit mai mulți prahoveni că trebuie să returneze zeci de mii la CAR, deși nu au făcut niciun împrumut",
+    "lead_hu": "Descinderi ample în Prahova, unde anchetatorii au descoperit pagube de 1,9 milioane de lei la două case de ajutor reciproc din Ploiești și Câmpina. Banii ar fi fost luați ca împrumut cu acte false.",
+    "content_hu": "Descinderi ample în Prahova, unde anchetatorii au descoperit pagube de 1,9 milioane de lei la două case de ajutor reciproc din Ploiești și Câmpina. Banii ar fi fost luați ca împrumut cu acte false.",
+    "title_ro": "Cum s-au trezit mai mulți prahoveni că trebuie să returneze zeci de mii la CAR, deși nu au făcut niciun împrumut",
+    "lead_ro": "Descinderi ample în Prahova, unde anchetatorii au descoperit pagube de 1,9 milioane de lei la două case de ajutor reciproc din Ploiești și Câmpina. Banii ar fi fost luați ca împrumut cu acte false.",
+    "content_ro": "Descinderi ample în Prahova, unde anchetatorii au descoperit pagube de 1,9 milioane de lei la două case de ajutor reciproc din Ploiești și Câmpina. Banii ar fi fost luați ca împrumut cu acte false."
+  },
+  {
+    "group_id": "group_f53418b7ce",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/06102026/f55dedb4-45e5-48d6-8319-fba59a847a3a.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Surpriză! Ce rival l-a impresionat pe Mihai Stoica: „Am stat lângă el la meciuri”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/ce-rival-l-a-impresionat-pe-mihai-stoica-am-stat-langa-el-la-meciuri-987975.html"
+      }
+    ],
+    "published_at": 1791973847,
+    "title_hu": "Surpriză! Ce rival l-a impresionat pe Mihai Stoica: „Am stat lângă el la meciuri”",
+    "lead_hu": "Mihai Stoica, președintele Consiliului de Administrație al celor de la FCSB, a vorbit la superlativ despre Daniel Pancu, tehnicianul rivalilor de la Rapid. Acesta a evidențiat numărul scăzut de partid…",
+    "content_hu": "Mihai Stoica, președintele Consiliului de Administrație al celor de la FCSB, a vorbit la superlativ despre Daniel Pancu, tehnicianul rivalilor de la Rapid. Acesta a evidențiat numărul scăzut de partide pe care le are „Pancone” în Superligă, dezvăluind că dialogurile avute cu acesta la anumite meciuri au contribuit la o concluzie clară: „știe fotbal”. ...",
+    "title_ro": "Surpriză! Ce rival l-a impresionat pe Mihai Stoica: „Am stat lângă el la meciuri”",
+    "lead_ro": "Mihai Stoica, președintele Consiliului de Administrație al celor de la FCSB, a vorbit la superlativ despre Daniel Pancu, tehnicianul rivalilor de la Rapid. Acesta a evidențiat numărul scăzut de partid…",
+    "content_ro": "Mihai Stoica, președintele Consiliului de Administrație al celor de la FCSB, a vorbit la superlativ despre Daniel Pancu, tehnicianul rivalilor de la Rapid. Acesta a evidențiat numărul scăzut de partide pe care le are „Pancone” în Superligă, dezvăluind că dialogurile avute cu acesta la anumite meciuri au contribuit la o concluzie clară: „știe fotbal”. ..."
+  },
+  {
+    "group_id": "group_b21c82769b",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21337/23259921/1/radisson-blu-resort-and-spa-felix-1.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Investiţie de peste 17 mil. euro la Băile Felix: Lotus Therm Resort & Spa devine primul resort termal Radisson Blu din România",
+        "link": "https://www.zf.ro/companii/investitie-de-peste-17-mil-euro-la-baile-felix-lotus-therm-resort-spa-devine-primul-resort-termal-radisson-blu-din-romania-23259921"
+      }
+    ],
+    "published_at": 1791973844,
+    "title_hu": "Investiţie de peste 17 mil. euro la Băile Felix: Lotus Therm Resort & Spa devine primul resort termal Radisson Blu din România",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Investiţie de peste 17 mil. euro la Băile Felix: Lotus Therm Resort & Spa devine primul resort termal Radisson Blu din România",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4e9bd89da6",
+    "fingerprint": "7e01aeab21c13b562c62bca15533d22e",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "ANOFM: Angajatorii oferă 32.246 de posturi la nivel național; 84 de locuri de muncă sunt disponibile prin Eures",
+        "link": "https://agerpres.ro/economic/2026/10/14/anofm-angajatorii-ofera-32-246-de-posturi-la-nivel-national-84-de-locuri-de-munca-sunt-disponibile-p--1602837"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "ANOFM: Zeci de mii de locuri de muncă oferite la nivel național, multe foarte bine plătite. Joburi bănoase și în Europa",
+        "link": "https://stirileprotv.ro/stiri/social/anofm-zeci-de-mii-de-locuri-de-munca-oferite-la-nivel-national-multe-foarte-bine-platite-joburi-banoase-si-in-europa.html"
+      }
+    ],
+    "published_at": 1791973814,
+    "title_hu": "32 246 állás várja a munkakeresőket Romániában, további 84 az EGT-ben",
+    "lead_hu": "Az ANOFM adatai szerint jelenleg 32 246 betöltetlen állást hirdetnek Romániában, az EGT országaiban pedig 84-et kínálnak romániai munkavállalóknak. A hazai kínálatban a közúti tehergépkocsi-vezetői és az anyagmozgatói munkákból van a legtöbb.",
+    "content_hu": "• **32 246 állás Romániában** szerepel az ANOFM nyilvántartásában, emellett az EGT országaiban 84 munkalehetőség érhető el a romániai álláskeresőknek.\n\n• **A legtöbb hazai állás** közúti tehergépkocsi-vezetőknek (3 837), anyagmozgatóknak (1 858) és kereskedelmi dolgozóknak (1 632) szól. További jelentős kategória a bontási és építőipari segédmunka, az összeszerelés, a vagyonvédelem és a futármunka.\n\n• **A végzettség szerinti megoszlásban** 17 301 állás nem igényel végzettséget vagy alapfokú végzettséggel tölthető be; 6 698 szakmai, 6 124 középiskolai vagy posztliceális, 2 123 pedig felsőfokú végzettséget igényel.\n\n• **A 84 külföldi állásból** 45 Norvégiában, 20 Csehországban, 10 Hollandiában, 4 Franciaországban, 4 Dániában és 1 Spanyolországban található. A kínálat többek között lazacfeldolgozói, gyártósori, állatorvosi ellenőri, mezőgazdasági és karbantartásvezetői munkákat tartalmaz; a részletek az ANOFM EURES-oldalán érhetők el.",
+    "title_ro": "32.246 de locuri de muncă disponibile în România și 84 în SEE",
+    "lead_ro": "Potrivit datelor ANOFM, angajatorii oferă în prezent 32.246 de locuri de muncă în România, iar în țările Spațiului Economic European sunt disponibile alte 84 pentru lucrătorii români. Cele mai multe posturi din țară sunt pentru conducători auto de transport rutier și manipulanți de mărfuri.",
+    "content_ro": "• **32.246 de locuri de muncă în România** figurează în evidențele ANOFM, iar alte 84 sunt disponibile lucrătorilor români în țările SEE.\n\n• **Cele mai multe posturi din țară** sunt pentru conducători auto de transport rutier (3.837), manipulanți de mărfuri (1.858) și lucrători comerciali (1.632). Alte categorii importante includ munca necalificată în demolări și construcții, asamblarea de piese, paza și curieratul.\n\n• **În funcție de nivelul de studii**, 17.301 de posturi nu necesită studii sau pot fi ocupate de persoane cu studii primare ori gimnaziale; 6.698 sunt pentru persoane cu studii profesionale, 6.124 pentru cele cu studii liceale sau postliceale, iar 2.123 necesită studii superioare.\n\n• **Dintre cele 84 de posturi din străinătate**, 45 sunt în Norvegia, 20 în Cehia, 10 în Olanda, 4 în Franța, 4 în Danemarca și unul în Spania. Ofertele includ, între altele, prelucrarea somonului, munca pe linia de producție, inspecția veterinară, activități agricole și managementul mentenanței; detaliile sunt disponibile pe site-ul ANOFM, la secțiunea EURES."
   },
   {
     "group_id": "group_699001f6a5",
@@ -788,27 +1250,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_4e9bd89da6",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "ANOFM: Angajatorii oferă 32.246 de posturi la nivel național; 84 de locuri de muncă sunt disponibile prin Eures",
-        "link": "https://agerpres.ro/economic/2026/10/14/anofm-angajatorii-ofera-32-246-de-posturi-la-nivel-national-84-de-locuri-de-munca-sunt-disponibile-p--1602837"
-      }
-    ],
-    "published_at": 1791973278,
-    "title_hu": "ANOFM: Angajatorii oferă 32.246 de posturi la nivel național; 84 de locuri de muncă sunt disponibile prin Eures",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "ANOFM: Angajatorii oferă 32.246 de posturi la nivel național; 84 de locuri de muncă sunt disponibile prin Eures",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
     "group_id": "group_45b798ad7d",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -1197,34 +1638,6 @@
     "title_ro": "Lisandro Martinez, pus la zid de Rooney și Carragher: „Lipsă de respect față de restul echipei”",
     "lead_ro": "Lisandro Martinez (28 de ani), fundașul central al lui Manchester United, a intrat în colimatorul analiștilor Jamie Carragher și Wayne Rooney după declarațiile extrem de dure lansate la adresa conduce…",
     "content_ro": "Lisandro Martinez (28 de ani), fundașul central al lui Manchester United, a intrat în colimatorul analiștilor Jamie Carragher și Wayne Rooney după declarațiile extrem de dure lansate la adresa conducerii clubului. Internaționalul argentinian și-a exprimat deschis nemulțumirea față de campania de transferuri a „diavolilor roșii” imediat după eșecul cu 0-2 suferit în fața celor de la Atletico Madrid în Liga Campionilor. ..."
-  },
-  {
-    "group_id": "group_c8d8af1b58",
-    "fingerprint": "aabb1ac7319a27acfdbafa49bf0f37fa",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2023/01/Gara-de-Nord-Bucuresti-MT.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "CFR caută artiști pentru o pictură murală în Gara de Nord / Se vrea ”reinterpretarea a peste 150 de ani de istorie feroviară” / Compania se bazează pe ”contribuție voluntară”",
-        "link": "https://www.g4media.ro/cfr-cauta-artisti-pentru-o-pictura-murala-in-gara-de-nord-se-vrea-reinterpretarea-a-peste-150-de-ani-de-istorie-feroviara-compania-se-bazeaza-pe-contributie-voluntara.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "CFR caută artiști pentru o pictură murală în Gara de Nord",
-        "link": "https://www.mediafax.ro/life-inedit/cfr-cauta-artisti-pentru-o-pictura-murala-in-gara-de-nord-23825153"
-      }
-    ],
-    "published_at": 1791972895,
-    "title_hu": "Önkéntes művészeket keres a CFR a bukaresti Északi pályaudvar falfestményéhez",
-    "lead_hu": "A CFR SA művészeket hív a bukaresti Északi pályaudvar 14-es vágányánál lévő falfestmény megújítására. A több mint 150 év román vasúttörténetét feldolgozó közösségi műalkotás elkészítése önkéntes, a jelentkezési határidő 2026. november 13.",
-    "content_hu": "• **A CFR SA művészeket keres** a bukaresti Északi pályaudvar 14-es vágányánál található falfestmény megújításához. A projekt témája a román vasutak története, amelyet több mint 150 év távlatában dolgoznának fel.\n\n• **Graffiti-, street art-, falfestmény- vagy illusztrációs tervekkel** egyéni alkotók és csapatok is jelentkezhetnek. A felhívás vizuális művészeknek, graffiti-alkotóknak, művészeti hallgatóknak és művészkollektíváknak szól; a kiválasztásnál az eredetiség, a koncepció minősége és a történelmi szempontok figyelembevétele számít.\n\n• **A részvétel önkéntes és díjazás nélküli:** a CFR nem ad tiszteletdíjat, pénzdíjat vagy más anyagi juttatást. A vállalat biztosítja a jóváhagyott falfelületet, segíti a hozzáférést és a projekt népszerűsítését; az anyagok beszerzéséhez partnerek bevonását is tervezik.\n\n• **A jelentkezési határidő 2026. november 13., 23:59.** A kiválasztott alkotás a pályaudvaron kap helyet, az alkotók nevét pedig feltüntetik egy bemutató táblán, és a CFR hivatalos csatornáin is népszerűsítik.",
-    "title_ro": "CFR caută artiști voluntari pentru pictura murală din Gara de Nord",
-    "lead_ro": "CFR SA invită artiști să refacă pictura murală de lângă linia 14 din Gara de Nord București. Lucrarea de artă publică va aborda peste 150 de ani de istorie feroviară românească, iar participarea este voluntară; înscrierile se încheie pe 13 noiembrie 2026.",
-    "content_ro": "• **CFR SA caută artiști** pentru refacerea picturii murale de lângă linia 14 din Gara de Nord București. Tema proiectului este istoria căilor ferate române, prezentată printr-o reinterpretare a peste 150 de ani de istorie feroviară.\n\n• **Sunt acceptate propuneri de graffiti, street art, pictură murală sau ilustrație**, realizate individual sau în echipă. Apelul se adresează artiștilor vizuali, creatorilor de graffiti, studenților la arte și colectivelor artistice; selecția va ține cont de originalitate, calitatea conceptului și respectarea reperelor istorice.\n\n• **Participarea este voluntară și neremunerată:** CFR nu va acorda onorarii, premii în bani sau alte recompense financiare. Compania va pune la dispoziție suprafața aprobată, va facilita accesul și va promova proiectul; pentru materialele necesare sunt avuți în vedere și parteneri.\n\n• **Termenul-limită pentru înscriere este 13 noiembrie 2026, ora 23:59.** Lucrarea selectată va fi expusă în gară, autorii vor fi menționați pe un panou de prezentare, iar proiectul va fi promovat pe canalele oficiale ale CFR."
   },
   {
     "group_id": "group_b97b85011b",
@@ -3595,49 +4008,6 @@
     "title_ro": "BNR şi RoFintech încheie un protocol pentru susţinerea digitalizării responsabile şi dezvoltarea inovaţiei în domeniul serviciilor de plată",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_7259d9e499",
-    "fingerprint": "dafc5bb25e90b8b2158b9f3308612e25",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/logo-sigla-DNA-INQUAM-PHOTOS-OCTAV-GANEA-scaled.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "SURSE: DNA a deschis un dosar la Primăria Timișoara, de unde primarul Dominic Fritz tocmai a fost înlăturat de PSD, AUR și CCR / Dosarul vizează operațiunile financiare de salvare a companiei de termoficare Colterm",
-        "link": "https://www.g4media.ro/surse-dna-a-deschis-un-dosar-la-primaria-timisoara-de-unde-primarul-dominic-fritz-tocmai-a-fost-inlaturat-de-psd-aur-si-ccr-dosarul-vizeaza-operatiunile-financiare-de-salvare-a-companiei-de-termo.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Acum vin și după echipa mea”. Dominic Fritz acuză că DNA are în lucru un dosar care vizează colaboratorii săi din Primăria Timișoara",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/acum-vin-si-dupa-echipa-mea-dominic-fritz-acuza-ca-dna-are-in-lucru-un-dosar-care-vizeaza-colaboratorii-sai-din-primaria-timisoara-3991383"
-      },
-      {
-        "source": "G4Media",
-        "title": "Dominic Fritz, reacție după ce DNA a deschis un dosar la Primăria Timișoara: ”Acum vin și după echipa mea. Când DNA vine după funcționari care încearcă să-și facă treaba cu bună credință, în loc să investigheze corupția reală și averile obscene ale unor politicieni, duce în derizoriu toată lupta anti-corupție”",
-        "link": "https://www.g4media.ro/dominic-fritz-reactie-dupa-ce-dna-a-deschis-un-dosar-la-primaria-timisoara-acum-vin-si-dupa-echipa-mea-cand-dna-vine-dupa-functionari-care-incearca-sa-si-faca-treaba-cu-buna-credinta-in-l.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Reacția lui Fritz după ce DNA ar pregăti un dosar în care sunt vizați angajați ai Primăriei Timișoara: „Acum vin și după echipa mea”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/reactia-lui-fritz-dupa-ce-dna-ar-pregati-un-dosar-2563896.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Anchetă DNA la Primăria Timișoara. Dominic Fritz: „Acum vin și după echipa mea”",
-        "link": "https://hotnews.ro/ancheta-dna-la-primaria-timisoara-dominic-fritz-acum-vin-si-dupa-echipa-mea-2375586"
-      }
-    ],
-    "published_at": 1791967397,
-    "title_hu": "DNA-vizsgálat indult a Colterm megmentésére szánt támogatások ügyében Temesváron",
-    "lead_hu": "A DNA temesvári ügyészsége in rem eljárást indított a Colterm megmentéséhez kapcsolódó önkormányzati pénzügyi műveletek miatt; a nyomozás hivatalosan egyelőre tényekre, nem konkrét személyekre irányul. Dominic Fritz szerint a város munkatársai szabályosan jártak el, ő maga pedig nem kapott hivatalos tájékoztatást. A HotNews az Antena 3-ra hivatkozva ugyanakkor arról számolt be, hogy az ügy a korábbi városvezetés több tagját és 68 millió lej felhasználását is érintheti.",
-    "content_hu": "• **A DNA temesvári ügyészsége** in rem eljárást indított annak vizsgálatára, hogyan kezelte a városvezetés a Colterm távhőszolgáltató megmentésére szánt pénzeket. A nyomozás egyelőre tényekre, nem konkrét személyekre irányul; az ügyészek tíz önkormányzati alkalmazottról kértek adatokat, köztük Ruben Lațcău alpolgármesterről.\n\n• **A vizsgálat középpontjában** a kormányzati támogatások és a Coltermnek juttatott összegek kezelése áll; a gyanú hivatali visszaélés lehet. A G4Media szerint a pénzügyi műveletek a vállalat fizetésképtelenségből való megmentéséhez és a fejlesztési minisztériumtól érkező támogatások felhasználásához kapcsolódtak.\n\n• **Dominic Fritz** azt mondta, hogy a 2021–2022-es télen a kormány 67 millió lejt utalt a városnak a távhőszolgáltatás folyó kiadásainak fedezésére, majd az önkormányzat a pénzt támogatásként továbbadta a Coltermnek. Fritz szerint ezt a pénzügyminisztérium írásos útmutatása alapján és a vonatkozó szerződés keretei között tették; állítása szerint senki nem vitt haza pénzt.\n\n• **Fritz vitatja az eljárás indokoltságát**, és azt állítja, hogy a vizsgált döntések a város javát szolgálták. Azt mondta, az ügy feltehetően a pénzek „eltérítésének” nevezett, öt évvel korábbi számviteli vitájához kapcsolódik, és a feltételezett hivatali visszaélés a település javára történő jogtalan előnyszerzésről szólhat. Közölte, hogy nem minősül érintettnek, nem kapott hivatalos tájékoztatást, és szerinte a vizsgálat a jóhiszeműen dolgozó köztisztviselőket hozza nehéz helyzetbe.\n\n• **A HotNews az Antena 3-ra hivatkozva** azt írta, hogy az ügy a korábbi polgármestert, Dominic Fritzet, Ruben Lațcău alpolgármestert, Marius Creiveanu városi adminisztrátort és több tisztviselőt is érinthet, és a 2021–2022-es időszak dokumentumait kérték be. A beszámoló 68 millió lej állítólagos eltérítéséről szól, míg Fritz 67 millió lejről beszélt; az érintettek köre és az állítólagos cselekmények egyelőre nem szerepelnek a G4Media által ismertetett, in rem eljárás hivatalos leírásában.\n\n• **A HotNews beszámolója szerint** az Antena 3 úgy értesült, hogy a Colterm fizetésképtelenségi eljárásában részt vevő vagyonfelügyelő fedezte fel: a fejlesztési minisztériumtól érkező pénz nem támogatásként került a vállalat számláira. Ez a közlés az Antena 3-nak tulajdonított értesülés, nem a DNA hivatalos tájékoztatása.\n\n• **A DNA 2021-ben egy másik Colterm-ügyben is indított eljárást**, amely Ruben Lațcăut érintette: azt vizsgálták, miért nem vásárolta meg a vállalat az üvegházhatású gázok kibocsátási egységeit, ami kárt okozott a cégnek. A G4Media szerint az akkori ügyet 2023-ban lezárták.\n\n• **Fritz állítása szerint** polgármestersége idején a Colterm több mint egymilliárd lej önkormányzati támogatást kapott, a város pedig több százmillió lejt fordított a távhőhálózat korszerűsítésére. Azt is felidézte, hogy a társaság fizetésképtelenné vált, és 2021 októberében öt napra megszakadt a szolgáltatás.\n\n• **A városvezetésben bekövetkezett változás** után az alpolgármester, Ruben Lațcău látja el ideiglenesen a polgármesteri feladatokat. A G4Media beszámolója szerint Fritzet egy PSD és AUR által támogatott törvénymódosítás, valamint annak alkotmánybírósági jóváhagyása nyomán távolították el hivatalából.",
-    "title_ro": "DNA a deschis o anchetă privind ajutoarele destinate salvării Colterm, la Timișoara",
-    "lead_ro": "DNA Timișoara a deschis un dosar in rem privind operațiunile financiare ale municipalității legate de salvarea Colterm; oficial, ancheta vizează deocamdată fapte, nu persoane. Dominic Fritz susține că angajații primăriei au procedat legal și afirmă că nu a primit nicio informare oficială. HotNews, citând Antena 3, a relatat însă că dosarul ar putea viza mai mulți membri ai fostei conduceri și folosirea a 68 de milioane de lei.",
-    "content_ro": "• **DNA Timișoara** a deschis un dosar in rem pentru a verifica modul în care municipalitatea a gestionat banii destinați salvării companiei de termoficare Colterm. Ancheta vizează deocamdată fapte, nu persoane; procurorii au cerut informații despre zece angajați ai primăriei, printre care viceprimarul Ruben Lațcău.\n\n• **În centrul anchetei** se află gestionarea unor subvenții guvernamentale și a sumelor acordate companiei Colterm; suspiciunea ar fi de abuz în serviciu. Potrivit G4Media, operațiunile financiare aveau legătură cu salvarea companiei de la insolvență și cu folosirea fondurilor venite de la Ministerul Dezvoltării.\n\n• **Dominic Fritz** a declarat că, în iarna 2021–2022, Guvernul a virat municipalității 67 de milioane de lei pentru cheltuielile curente ale sistemului de termoficare, iar primăria a transferat apoi banii către Colterm sub formă de subvenție. Fritz susține că transferul s-a făcut în baza îndrumărilor scrise ale Ministerului Finanțelor și în limitele contractului relevant și afirmă că nimeni nu a luat bani acasă.\n\n• **Fritz contestă justificarea anchetei** și afirmă că deciziile verificate au fost luate în beneficiul orașului. El a spus că dosarul ar avea legătură cu o dispută contabilă de acum cinci ani, descrisă drept „deturnare”, iar presupusul abuz în serviciu ar viza obținerea unor foloase necuvenite în beneficiul municipalității. A precizat că nu are nicio calitate în dosar, că nu a primit o informare oficială și că, în opinia sa, ancheta îi pune într-o situație dificilă pe funcționarii care și-au făcut treaba cu bună-credință.\n\n• **HotNews, citând Antena 3,** a relatat că dosarul ar putea viza fostul primar Dominic Fritz, viceprimarul Ruben Lațcău, administratorul public Marius Creiveanu și mai mulți funcționari, iar procurorii ar fi cerut documente din perioada 2021–2022. Relatarea menționează o presupusă deturnare de 68 de milioane de lei, în timp ce Fritz a vorbit despre 67 de milioane; persoanele vizate și presupusele fapte nu apar, deocamdată, în descrierea dosarului in rem prezentată de G4Media.\n\n• **Potrivit relatării HotNews,** Antena 3 a susținut că administratorul judiciar al Colterm ar fi descoperit că banii veniți de la Ministerul Dezvoltării nu au ajuns în conturile companiei sub formă de subvenție. Această informație este atribuită Antena 3 și nu reprezintă o comunicare oficială a DNA.\n\n• **DNA a mai deschis în 2021 un dosar legat de Colterm**, care l-a vizat pe Ruben Lațcău: anchetatorii au cercetat de ce compania nu a cumpărat certificatele de emisii de gaze cu efect de seră, ceea ce ar fi provocat un prejudiciu. Potrivit G4Media, dosarul respectiv a fost clasat în 2023.\n\n• **Potrivit lui Fritz,** în timpul mandatului său de primar, Colterm a primit peste un miliard de lei subvenții de la bugetul local, iar municipalitatea a investit sute de milioane de lei în reabilitarea rețelei de termoficare. El a amintit și că societatea a intrat în insolvență, iar serviciul a fost întrerupt timp de cinci zile în octombrie 2021.\n\n• **După schimbarea conducerii municipale,** viceprimarul Ruben Lațcău exercită interimar atribuțiile de primar. Potrivit G4Media, Fritz a fost înlăturat din funcție în urma unei modificări legislative susținute de PSD și AUR și validate de Curtea Constituțională."
   },
   {
     "group_id": "group_6bbadc4c39",
@@ -8494,27 +8864,6 @@
     "content_ro": "Cele mai importante evenimente petrecute pe 14 octombrie"
   },
   {
-    "group_id": "group_76ebe1ae4f",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjA1JTJGMjc3MjkwMV8yNzcy/OTAxX2NvbmRpdGlpX3B1dGluLmpwZyZo/YXNoPWMzODU1ZDUzY2JjNTdkZTdjMjc1YTA0OWZhN2E5ZTZm.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Îngrijorare în rândul aliaților Ucrainei. Andrii Sîbiha avertizează că „e necesară” o întâlnire Putin-Zelenski",
-        "link": "https://www.digi24.ro/stiri/externe/ingrijorare-in-randul-aliatilor-ucrainei-andrii-sibiha-avertizeaza-ca-e-necesara-o-intalnire-putin-zelenski-3989661"
-      }
-    ],
-    "published_at": 1791955476,
-    "title_hu": "Îngrijorare în rândul aliaților Ucrainei. Andrii Sîbiha avertizează că „e necesară” o întâlnire Putin-Zelenski",
-    "lead_hu": "Un progres decisiv în negocierile de pace este posibil numai după ce Volodimir Zelenski și Vladimir Putin se vor întâlni, a declarat ministrul ucrainean de Externe, Andrii Sîbiha, potrivit RBC Ukraine…",
-    "content_hu": "Un progres decisiv în negocierile de pace este posibil numai după ce Volodimir Zelenski și Vladimir Putin se vor întâlni, a declarat ministrul ucrainean de Externe, Andrii Sîbiha, potrivit RBC Ukraine.",
-    "title_ro": "Îngrijorare în rândul aliaților Ucrainei. Andrii Sîbiha avertizează că „e necesară” o întâlnire Putin-Zelenski",
-    "lead_ro": "Un progres decisiv în negocierile de pace este posibil numai după ce Volodimir Zelenski și Vladimir Putin se vor întâlni, a declarat ministrul ucrainean de Externe, Andrii Sîbiha, potrivit RBC Ukraine…",
-    "content_ro": "Un progres decisiv în negocierile de pace este posibil numai după ce Volodimir Zelenski și Vladimir Putin se vor întâlni, a declarat ministrul ucrainean de Externe, Andrii Sîbiha, potrivit RBC Ukraine."
-  },
-  {
     "group_id": "group_12b5d13c62",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -10546,43 +10895,5 @@
     "title_ro": "Anchetă FBI după o descoperire suspectă în sediul OpenAI. Un angajat riscă cinci ani de închisoare",
     "lead_ro": "Un angajat al OpenAI a fost arestat și pus sub acuzare în Statele Unite, după ce autoritățile au descoperit un dispozitiv de înregistrare ascuns într-o sală de conferințe destinată conducerii companie…",
     "content_ro": "Un angajat al OpenAI a fost arestat și pus sub acuzare în Statele Unite, după ce autoritățile au descoperit un dispozitiv de înregistrare ascuns într-o sală de conferințe destinată conducerii companiei. Bărbatul riscă până la cinci ani de închisoare."
-  },
-  {
-    "group_id": "group_2d5b6d5f38",
-    "fingerprint": "c6d949b4addf92837026d560de4058f8",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAxMTEyNl8zMDEx/MTI2X29maXRlci1mc2ItZ2V0dHlpbWFn/ZXMuanBnJmhhc2g9YjE4NmFmM2Y5ZDRiMTZkNDJmMWM5MWU5MjE2Y2VjMDQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Un jurnalist japonez suspectat de spionaj a fost reținut de FSB în insula Sahalin, „ilegal ocupată de Rusia”",
-        "link": "https://www.digi24.ro/stiri/externe/un-jurnalist-japonez-suspectat-de-spionaj-a-fost-retinut-de-fsb-in-insula-sahalin-ilegal-ocupata-de-rusia-3990591"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Rusia a reținut în Sahalin un jurnalist japonez sub suspiciunea de spionaj",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/rusia-a-retinut-in-sahalin-un-jurnalist-japonez-sub-suspiciunea-de-spionaj--1602632"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Jurnalist japonez, reținut de Rusia sub suspiciunea de spionaj, pe o insulă disputată de Moscova și Tokyo",
-        "link": "https://adevarul.ro/stiri-externe/rusia/jurnalist-japonez-retinut-de-rusia-sub-2563798.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Scandal de spionaj între Rusia și Japonia. Un jurnalist, reținut de serviciile secrete ruse",
-        "link": "https://www.mediafax.ro/externe/scandal-de-spionaj-intre-rusia-si-japonia-un-jurnalist-retinut-de-serviciile-secrete-ruse-23824888"
-      }
-    ],
-    "published_at": 1791930841,
-    "title_hu": "Kémkedés gyanújával őrizetbe vettek egy japán újságírót Szahalinon",
-    "lead_hu": "Az orosz Szövetségi Biztonsági Szolgálat (FSZB) kémkedés gyanújával őrizetbe vett egy, a Hokkaido Shimbun japán lapnál dolgozó újságírót Szahalinon. Az FSZB szerint a férfi Japán hírszerzésének kérésére az orosz védelmi képességekről gyűjtött információkat; egy moszkvai bíróság két hónapra elrendelte előzetes letartóztatását. Az ügy tovább élezheti a Moszkva és Tokió közötti feszültséget.",
-    "content_hu": "• **Október 13-án** az FSZB bejelentette, hogy kémkedés gyanújával őrizetbe vették a Hokkaido Shimbun japán lap egyik újságíróját az orosz Távol-Keleten fekvő Szahalin szigetén.\n\n• **Az FSZB állítása szerint** az újságíró Japán hírszerzésének kérésére az orosz védelmi képességekről gyűjtött adatokat, amelyeket a szolgálat szerint Oroszország biztonsága ellen használhattak volna fel. Az orosz hatóságok büntetőeljárást indítottak; a gyanúsítás és az állítások az FSZB közléséből származnak.\n\n• **A fogva tartás részleteiről** a Mediafax arról számolt be, hogy a meg nem nevezett újságírót repülővel Moszkvába szállították. Az FSZB olyan videót tett közzé, amelyen maszkos ügynökök földre teperik és őrizetbe veszik a férfit.\n\n• **A moszkvai bíróság** két hónapra elrendelte az újságíró előzetes letartóztatását; a férfit a tárgyaláson fémketrecben mutatták be.\n\n• **A TASS szerint** az újságíró a dél-szahalinszki orosz külügyi képviselet mellett volt akkreditálva, és egy japán különleges szolgálat javára végzett kémkedéssel gyanúsítják.\n\n• **Az orosz–japán viszony egyik alapvető vitája** a Kuril-szigetek hovatartozása. A négy szigetet – Iturupot, Kunashirt, Shikotant és a Habomai-szigetcsoportot – a Szovjetunió 1945-ben foglalta el; Oroszország a Szahalin régióhoz sorolja őket, Japán pedig saját területének tekinti, és orosz megszállásukat törvénytelennek nevezi. A két ország nem kötött hivatalos békeszerződést a második világháború lezárásáról.\n\n• **A feszültséget fokozza**, hogy Vlagyimir Putyin orosz elnök augusztusban felkereste a vitatott szigeteket, amit Tokió „teljesen elfogadhatatlannak” minősített. Japán 2022 óta, Oroszország ukrajnai inváziójának megindítása óta élesebben bírálja Moszkvát, és csatlakozott az Oroszország elleni nyugati szankciókhoz; Moszkva Japánt „barátságtalan országnak” tekinti.\n\n• **A vita diplomáciai következményeiről** a Mediafax azt írta, hogy Moszkva később bekérette a japán nagykövetet a tokiói nyilatkozatok miatt, és azt közölte: szuverenitása a Dél-Kuril-szigetek felett megkérdőjelezhetetlen. Oroszország az elmúlt években katonai jelenlétét is erősítette a szigeteken.\n\n• **Tokió aggodalmát növeli** az orosz–kínai katonai együttműködés is: a két ország erői Japán közelében tartottak közös légi és haditengerészeti gyakorlatokat, amelyek miatt a japán légierő évente több száz alkalommal riasztott elfogó repülőgépeket.",
-    "title_ro": "Un jurnalist japonez a fost reținut în Sahalin sub suspiciunea de spionaj",
-    "lead_ro": "Serviciul Federal de Securitate al Rusiei (FSB) a reținut în Sahalin un jurnalist al publicației japoneze Hokkaido Shimbun, sub suspiciunea de spionaj. FSB susține că acesta ar fi strâns informații despre capacitățile de apărare ale Rusiei la cererea serviciilor de informații japoneze; o instanță din Moscova a dispus arestarea sa preventivă pentru două luni. Cazul riscă să amplifice tensiunile dintre Moscova și Tokyo.",
-    "content_ro": "• **La 13 octombrie**, FSB a anunțat reținerea sub suspiciunea de spionaj a unui jurnalist de la publicația japoneză Hokkaido Shimbun, pe insula Sahalin, în Extremul Orient rus.\n\n• **Potrivit FSB**, jurnalistul ar fi strâns, la cererea serviciilor de informații japoneze, date despre capacitățile de apărare ale Rusiei, care ar fi putut fi folosite împotriva securității acesteia. Autoritățile ruse au deschis o anchetă penală; acuzațiile și afirmațiile provin din comunicatul FSB.\n\n• **Despre reținere**, Mediafax a relatat că jurnalistul, al cărui nume nu a fost dezvăluit, a fost transportat cu avionul la Moscova. FSB a publicat o înregistrare video în care agenți mascați îl pun la pământ și îl rețin.\n\n• **O instanță din Moscova** a dispus arestarea preventivă a jurnalistului pentru două luni; acesta a fost prezentat la ședință într-o cușcă metalică.\n\n• **Potrivit TASS**, jurnalistul era acreditat pe lângă o structură a Ministerului rus de Externe din Iujno-Sahalinsk și este acuzat că ar fi spionat în beneficiul unui serviciu special japonez.\n\n• **Una dintre principalele dispute dintre Rusia și Japonia** privește statutul insulelor Kurile. Cele patru insule – Iturup, Kunashir, Shikotan și grupul Habomai – au fost ocupate de Uniunea Sovietică în 1945. Rusia le include în regiunea Sahalin, în timp ce Japonia le revendică și consideră că sunt ocupate ilegal de Rusia. Cele două țări nu au semnat un tratat oficial de pace care să marcheze încheierea celui de-Al Doilea Război Mondial.\n\n• **Tensiunile au crescut** după ce președintele rus Vladimir Putin a vizitat în august insulele disputate, vizită calificată de Tokyo drept „absolut inacceptabilă”. Japonia și-a înăsprit criticile la adresa Moscovei după invazia rusă la scară largă din Ucraina, începută în 2022, și s-a alăturat sancțiunilor occidentale; Rusia consideră Japonia o țară „neprietenoasă”.\n\n• **În plan diplomatic**, Mediafax a relatat că Moscova l-a convocat ulterior pe ambasadorul Japoniei în urma declarațiilor de la Tokyo și a afirmat că suveranitatea sa asupra Insulelor Kurile de Sud este de neclintit. În ultimii ani, Rusia și-a consolidat și prezența militară în insule.\n\n• **Cooperarea militară ruso-chineză** este o altă sursă de îngrijorare pentru Tokyo: forțele celor două țări au desfășurat exerciții aeriene și navale în apropierea Japoniei, determinând aviația japoneză să ridice de la sol avioane de interceptare de sute de ori pe an."
   }
 ]
