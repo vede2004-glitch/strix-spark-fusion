@@ -1,5 +1,607 @@
 [
   {
+    "group_id": "group_1c05a2fc8d",
+    "fingerprint": "9b36642b4c376621e4ff922d1f51548c",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Probleme pentru armata ucraineană, după ce Starlink a impus o limită peste noapte, fără niciun avertisment. Au fost afectate „misiuni critice”",
+        "link": "https://hotnews.ro/probleme-pentru-armata-ucraineana-dupa-ce-starlink-a-impus-o-limita-peste-noapte-fara-niciun-avertisment-au-fost-afectate-misiuni-critice-2375385"
+      },
+      {
+        "source": "G4Media",
+        "title": "SpaceX ar fi limitat funcționarea Starlink în Ucraina, ceea ce perturbă misiunile militare / Kievul spune că nu a fost avertizat",
+        "link": "https://www.g4media.ro/spacex-ar-fi-limitat-functionarea-starlink-in-ucraina-ceea-ce-perturba-misiunile-militare-kievul-spune-ca-nu-a-fost-avertizat.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "SpaceX a impus o limită de viteză pentru terminalele Starlink utilizate de militarii ucraineni. Operațiunile militare au fost afectate",
+        "link": "https://www.mediafax.ro/politic/spacex-a-impus-o-limita-de-viteza-pentru-terminalele-starlink-utilizate-de-militarii-ucraineni-operatiunile-militare-au-fost-afectate-23825065"
+      }
+    ],
+    "published_at": 1791967617,
+    "title_hu": "A Starlink sebességkorlátozása ukrán katonai missziókat zavart meg",
+    "lead_hu": "A SpaceX szerdán sebességkorlátozást vezetett be az ukrán hadsereg által használt Starlink katonai szolgáltatásnál: a mozgó terminálok kapcsolata 100 mérföld/óra, vagyis mintegy 161 kilométer/óra felett megszakadhatott. Ukrán tisztviselők és aktivisták szerint előzetes értesítés nélkül több katonai missziót is megzavart az intézkedés.",
+    "content_hu": "• **Szerdán** a SpaceX korlátozást vezetett be a Starlink katonai változatánál, a StarShield szolgáltatásnál: a mozgó terminálok kapcsolata 100 mérföld/óra, azaz körülbelül 161 kilométer/óra felett megszakadhatott.\n\n• **Serhii Beskrestnov**, Volodimir Zelenszkij elnök tanácsadója szerint az ukrán erők nem kaptak előzetes figyelmeztetést, és a korlátozás több misszió meghiúsulásához vezetett. A délkelet-ukrajnai 7. Gyorsreagálású Hadtest egyik forrása szintén megerősítette a Starlink működési zavarait.\n\n• **Serhii Sternenko aktivista** szerint több kritikus feladatot nem tudtak végrehajtani a kapcsolat megszakadása miatt. A Starlink fontos szerepet játszik az ukrán hadsereg kommunikációjában, a műveletek koordinálásában és a pilóta nélküli rendszerek irányításában.\n\n• **A lehetséges politikai háttér nem bizonyított:** Beskrestnov szerint az intézkedés aligha volt véletlen, és összefügghet az aktuális politikai helyzettel. Sternenko felvetette, hogy a SpaceX a Trump-adminisztráció kérésére léphetett, miközben Donald Trump az orosz finomítók elleni ukrán támadások leállítását sürgette; ezt az állítást nem támasztották alá bizonyítékok.\n\n• **A korlátozás kiterjedése és időtartama továbbra sem ismert:** nem tisztázott, hány egységet érintett, meddig tartott a kimaradás, illetve hogy általános technikai intézkedésről vagy külön kérésre hozott döntésről volt-e szó.\n\n• **Az amerikai hírszerzési támogatás folytonossága is aggodalom tárgya:** a G4Media szerint az Egyesült Államok 2025 márciusában átmenetileg felfüggesztette az Ukrajnának nyújtott hírszerzési információk átadását. Zelenszkij később arról számolt be, hogy szövetségesek nem figyelmeztették előre Kijevet egyes orosz rakétatámadásokra; az amerikai előzetes tudomásra vonatkozó ukrán állításokat a forrás nem támasztotta alá független bizonyítékkal.",
+    "title_ro": "Restricția de viteză impusă Starlink a perturbat misiuni militare ucrainene",
+    "lead_ro": "Miercuri, SpaceX a introdus o limită de viteză pentru serviciul militar Starlink folosit de armata ucraineană: conexiunea terminalelor aflate în mișcare putea fi întreruptă la peste 100 de mile pe oră, adică aproximativ 161 km/h. Oficialii și activiștii ucraineni au declarat că măsura, introdusă fără avertisment prealabil, a perturbat mai multe misiuni militare.",
+    "content_ro": "• **Miercuri**, SpaceX a introdus o restricție pentru versiunea militară Starlink, serviciul StarShield: conexiunea terminalelor aflate în mișcare putea fi întreruptă la peste 100 de mile pe oră, adică aproximativ 161 km/h.\n\n• **Serhii Beskrestnov**, consilier al președintelui Volodimir Zelenski, a declarat că forțele ucrainene nu au fost avertizate în prealabil și că restricția a dus la eșecul mai multor misiuni. O sursă din Corpul 7 de Reacție Rapidă, desfășurat în sud-estul Ucrainei, a confirmat perturbările serviciului Starlink.\n\n• **Activistul Serhii Sternenko** a spus că întreruperea conexiunii a împiedicat desfășurarea mai multor misiuni critice. Starlink are un rol important în comunicațiile armatei ucrainene, coordonarea operațiunilor și controlul sistemelor fără pilot.\n\n• **Posibila legătură politică nu este confirmată:** Beskrestnov a afirmat că măsura nu pare să fie o coincidență și ar putea avea legătură cu situația politică actuală. Sternenko a sugerat că SpaceX ar fi putut acționa la cererea administrației Trump, în timp ce Donald Trump făcea presiuni asupra Ucrainei pentru a opri atacurile asupra rafinăriilor rusești; afirmația nu a fost susținută de dovezi.\n\n• **Amploarea și durata restricției rămân necunoscute:** nu este clar câte unități au fost afectate, cât au durat întreruperile sau dacă a fost o măsură tehnică generală ori o decizie luată la solicitarea cuiva.\n\n• **Continuitatea sprijinului american de informații este, de asemenea, o preocupare:** potrivit G4Media, Statele Unite au suspendat temporar furnizarea de informații către Ucraina în martie 2025. Ulterior, Zelenski a relatat că aliații nu au avertizat Kievul în avans în legătură cu unele atacuri rusești cu rachete; afirmațiile ucrainene privind cunoașterea prealabilă a atacurilor de către SUA nu au fost susținute de dovezi independente în relatarea citată."
+  },
+  {
+    "group_id": "group_2d806c4772",
+    "fingerprint": "0f2ec1bb54206fce915f8c525c1fbae4",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/841230161_122139249921189076_2200960521941614131_n.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Construcția tunelului Fehmarnbelt, care leagă Danemarca de Germania, perturbată de un incident cibernetic",
+        "link": "https://www.g4media.ro/constructia-tunelului-fehmarnbelt-care-leaga-danemarca-de-germania-a-fost-perturbata-de-un-incident-cibernetic.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Probleme pe șantierul megatunelului dintre Danemarca și Germania. Sisteme esențiale, scoase din funcțiune de un atac cibernetic",
+        "link": "https://adevarul.ro/stiri-externe/europa/probleme-pe-santierul-megatunelului-dintre-2563795.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Un incident cibernetic a perturbat lucrările de construcție la tunelul dintre Danemarca și Germania",
+        "link": "https://www.digi24.ro/stiri/externe/un-incident-cibernetic-a-perturbat-lucrarile-de-constructie-la-tunelul-dintre-danemarca-si-germania-3991465"
+      }
+    ],
+    "published_at": 1791967491,
+    "title_hu": "Kiberincidens zavarta meg a dán–német Fehmarnbelt-alagút építését",
+    "lead_hu": "Kiberbiztonsági incidens érte a Fehmarnbelt-alagutat építő Femern Link Contractors (FLC) rendszereit, és a beszámolók szerint jelentősen hátráltatta a dániai munkálatokat. A projektet felügyelő Sund & Bælt megerősítette, hogy az FLC jelezte az esetet, de az érintett rendszerekről, a fennakadás pontos mértékéről és a felelősökről nem közölt részleteket.",
+    "content_hu": "• **A Femern Link Contractors (FLC)**, a Dániát Németországgal összekötő Fehmarnbelt-alagút építésének fővállalkozója kiberbiztonsági incidenst jelentett a projektet felügyelő dán állami Sund & Bæltnek.\n\n• **A dániai építkezésen** a helyi sajtó beszámolói szerint leálltak a központi informatikai rendszerek, ami jelentősen megzavarta a munkálatokat. Egyes híradások szerint a dolgozók számítógépeihez, a Wi-Fi-hez és az e-mailhez való hozzáférés, valamint a beléptetőkártyák rendszere is érintett volt; a munkásokat több kapunál kézzel regisztrálták.\n\n• **A munkaterületi műveletek** is érintettek lehettek: a sajtóértesülések szerint több, az építkezésben részt vevő hajó megállt, mert működésük a kiesett digitális rendszerektől és adatoktól függött. Ezeket a részleteket a Sund & Bælt nem erősítette meg külön.\n\n• **A felelősök és a kár mértéke** egyelőre ismeretlen; a Sund & Bælt közölte, hogy kapcsolatban áll az FLC-vel, de további információt nem adott az érintett rendszerekről vagy a fennakadás kiterjedéséről.\n\n• **A Fehmarnbelt-alagút** a dániai Rødbyhavnt köti majd össze a németországi Puttgardennel. Az építkezés Dániában 2020-ban, Németországban 2021-ben kezdődött; az elkészült alagúton a tervek szerint vonattal hét, autóval tíz percig tart majd az átkelés.",
+    "title_ro": "Incidentul cibernetic perturbă lucrările la tunelul Fehmarn Belt",
+    "lead_ro": "Un incident de securitate cibernetică a afectat sistemele Femern Link Contractors (FLC), compania care construiește tunelul Fehmarn Belt dintre Danemarca și Germania, și ar fi perturbat semnificativ lucrările de pe șantierul danez. Sund & Bælt, compania de stat care supraveghează proiectul, a confirmat că FLC a raportat incidentul, dar nu a oferit detalii despre sistemele afectate, amploarea întreruperilor sau responsabili.",
+    "content_ro": "• **Femern Link Contractors (FLC)**, antreprenorul principal al tunelului Fehmarn Belt, care va lega Danemarca de Germania, a informat compania daneză de stat Sund & Bælt despre un incident de securitate cibernetică.\n\n• **Șantierul din Danemarca** a fost perturbat semnificativ, potrivit relatărilor presei locale, după ce sistemele informatice centrale au fost scoase din funcțiune. Unele relatări menționează probleme de acces la computere, Wi-Fi și e-mail, precum și la sistemul de cartele de acces; muncitorii ar fi fost înregistrați manual la mai multe intrări.\n\n• **Activitatea de pe șantier** ar fi fost afectată și dincolo de sistemele de birou: potrivit presei, mai multe nave implicate în construcție au rămas blocate, deoarece operațiunile lor depindeau de sistemele digitale și de datele afectate. Sund & Bælt nu a confirmat separat aceste detalii.\n\n• **Amploarea incidentului și identitatea celor responsabili** nu sunt cunoscute. Sund & Bælt a declarat că este în dialog cu FLC, însă nu a precizat ce sisteme au fost afectate sau cât de extinse sunt perturbările.\n\n• **Tunelul Fehmarn Belt** va lega Rødbyhavn, în Danemarca, de Puttgarden, în Germania. Lucrările au început în Danemarca în 2020 și în Germania în 2021; după finalizare, traversarea ar urma să dureze șapte minute cu trenul și zece minute cu mașina."
+  },
+  {
+    "group_id": "group_6be6654a7c",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMjA4NF8zMDEy/MDg0X0dldHR5SW1hZ2VzLTIxODI1NDUz/ODYuanBnJmhhc2g9MTc3NDQ4ZmQwODhmMWM1NWY0MTkzZGIxMzFhNTYxZTg=.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Polonia anchetează fragmentele unei drone găsite pe o plajă la Marea Baltică. De unde ar putea proveni",
+        "link": "https://www.digi24.ro/stiri/externe/polonia-ancheteaza-fragmentele-unei-drone-gasite-pe-o-plaja-la-marea-baltica-de-unde-ar-putea-proveni-3991481"
+      }
+    ],
+    "published_at": 1791967453,
+    "title_hu": "Polonia anchetează fragmentele unei drone găsite pe o plajă la Marea Baltică. De unde ar putea proveni",
+    "lead_hu": "Poliția militară din Polonia investighează descoperirea unor fragmente ale unui obiect zburător, cel mai probabil o dronă poloneză, găsit marți pe o plajă de la Marea Baltică. Autoritățile au anunțat …",
+    "content_hu": "Poliția militară din Polonia investighează descoperirea unor fragmente ale unui obiect zburător, cel mai probabil o dronă poloneză, găsit marți pe o plajă de la Marea Baltică. Autoritățile au anunțat miercuri că primele indicii sugerează că acesta ar putea proveni de la o dronă de testare, relatează Reuters.",
+    "title_ro": "Polonia anchetează fragmentele unei drone găsite pe o plajă la Marea Baltică. De unde ar putea proveni",
+    "lead_ro": "Poliția militară din Polonia investighează descoperirea unor fragmente ale unui obiect zburător, cel mai probabil o dronă poloneză, găsit marți pe o plajă de la Marea Baltică. Autoritățile au anunțat …",
+    "content_ro": "Poliția militară din Polonia investighează descoperirea unor fragmente ale unui obiect zburător, cel mai probabil o dronă poloneză, găsit marți pe o plajă de la Marea Baltică. Autoritățile au anunțat miercuri că primele indicii sugerează că acesta ar putea proveni de la o dronă de testare, relatează Reuters."
+  },
+  {
+    "group_id": "group_2d543dbe50",
+    "fingerprint": "4e1e48389d94cac510eb230c52575ad7",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Familia bărbatului ucis de un tigru după ce a intrat în țarcul animalelor roagă oamenii să nu mai distribuie înregistrarea momentului",
+        "link": "https://hotnews.ro/familia-barbatului-ucis-de-un-tigru-dupa-ce-a-intrat-in-tarcul-animalelor-roaga-oamenii-sa-nu-mai-distribuie-inregistrarea-momentului-2375519"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Val de indignare după ce Donald Trump a distribuit imagini cu tânărul ucis de tigru în Marea Britanie. Reacția familiei: Ne provocați o suferință cumplită",
+        "link": "https://www.mediafax.ro/stirile-zilei/val-de-indignare-dupa-ce-donald-trump-a-distribuit-imagini-cu-tanarul-ucis-de-tigru-in-marea-britanie-reactia-familiei-ne-provocati-o-suferinta-cumplita-23825072"
+      }
+    ],
+    "published_at": 1791967406,
+    "title_hu": "A család arra kér, ne terjesszék tovább a tigris halálos támadásáról készült felvételt",
+    "lead_hu": "A 23 éves William Chapman szombaton halt meg, miután belépett a Yorkshire Wildlife Park egyik tigriskifutójába. Családja a felvétel terjesztésének leállítását kérte, miután Donald Trump megosztotta a videót a Truth Socialön.",
+    "content_hu": "• **William Chapman** szombaton életét vesztette, miután belépett az észak-angliai, Doncaster közelében található Yorkshire Wildlife Park tigriskifutójába; a 23 éves férfit a helyszínen halottnak nyilvánították.\n\n• **A család kérése** szerint az incidensről készült videó közzététele és továbbosztása súlyos érzelmi fájdalmat okoz nekik, ezért arra kérik az embereket, hogy hagyjanak fel a felvétel terjesztésével.\n\n• **Donald Trump** a Truth Socialön megosztotta a támadásról készült videót, majd egy mesterséges intelligenciával generált klipet is közzétett, amelyen egy tigrist szelídít meg.\n\n• **A vizsgálat** idejére a Yorkshire Wildlife Park zárva tart; a hatóságok a biztonsági körülményeket vizsgálják. A park közlése szerint az Altai nevű tigrist nem fogják elaltatni.",
+    "title_ro": "Familia cere oprirea distribuirii imaginilor atacului mortal al tigrului",
+    "lead_ro": "William Chapman, în vârstă de 23 de ani, a murit sâmbătă după ce a intrat într-un țarc pentru tigri de la Yorkshire Wildlife Park. Familia a cerut oamenilor să nu mai distribuie imaginile atacului, după ce Donald Trump a publicat videoclipul pe Truth Social.",
+    "content_ro": "• **William Chapman** a murit sâmbătă după ce a intrat într-un țarc pentru tigri de la Yorkshire Wildlife Park, în apropiere de Doncaster, în nordul Angliei; tânărul de 23 de ani a fost declarat decedat la fața locului.\n\n• **Apelul familiei** este ca oamenii să înceteze să publice și să distribuie înregistrarea atacului, deoarece imaginile le provoacă o suferință emoțională extremă.\n\n• **Donald Trump** a distribuit videoclipul atacului pe Truth Social, apoi a publicat și un clip generat cu ajutorul inteligenței artificiale, în care apare îmblânzind un tigru.\n\n• **Investigația** privind siguranța este în desfășurare, iar Yorkshire Wildlife Park rămâne închis pe durata verificărilor. Conducerea parcului a confirmat că tigrul Altai nu va fi eutanasiat."
+  },
+  {
+    "group_id": "group_1a5f888553",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23259859/1/echipa-bnr-002.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "BNR şi RoFintech încheie un protocol pentru susţinerea digitalizării responsabile şi dezvoltarea inovaţiei în domeniul serviciilor de plată",
+        "link": "https://www.zf.ro/zf-24/bnr-si-rofintech-incheie-un-protocol-pentru-sustinerea-digitalizarii-responsabile-si-dezvoltarea-inovatiei-in-domeniul-serviciilor-de-plata-23259859"
+      }
+    ],
+    "published_at": 1791967398,
+    "title_hu": "BNR şi RoFintech încheie un protocol pentru susţinerea digitalizării responsabile şi dezvoltarea inovaţiei în domeniul serviciilor de plată",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "BNR şi RoFintech încheie un protocol pentru susţinerea digitalizării responsabile şi dezvoltarea inovaţiei în domeniul serviciilor de plată",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_7259d9e499",
+    "fingerprint": "dafc5bb25e90b8b2158b9f3308612e25",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/logo-sigla-DNA-INQUAM-PHOTOS-OCTAV-GANEA-scaled.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "SURSE: DNA a deschis un dosar la Primăria Timișoara, de unde primarul Dominic Fritz tocmai a fost înlăturat de PSD, AUR și CCR / Dosarul vizează operațiunile financiare de salvare a companiei de termoficare Colterm",
+        "link": "https://www.g4media.ro/surse-dna-a-deschis-un-dosar-la-primaria-timisoara-de-unde-primarul-dominic-fritz-tocmai-a-fost-inlaturat-de-psd-aur-si-ccr-dosarul-vizeaza-operatiunile-financiare-de-salvare-a-companiei-de-termo.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Acum vin și după echipa mea”. Dominic Fritz acuză că DNA are în lucru un dosar care vizează colaboratorii săi din Primăria Timișoara",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/acum-vin-si-dupa-echipa-mea-dominic-fritz-acuza-ca-dna-are-in-lucru-un-dosar-care-vizeaza-colaboratorii-sai-din-primaria-timisoara-3991383"
+      },
+      {
+        "source": "G4Media",
+        "title": "Dominic Fritz, reacție după ce DNA a deschis un dosar la Primăria Timișoara: ”Acum vin și după echipa mea. Când DNA vine după funcționari care încearcă să-și facă treaba cu bună credință, în loc să investigheze corupția reală și averile obscene ale unor politicieni, duce în derizoriu toată lupta anti-corupție”",
+        "link": "https://www.g4media.ro/dominic-fritz-reactie-dupa-ce-dna-a-deschis-un-dosar-la-primaria-timisoara-acum-vin-si-dupa-echipa-mea-cand-dna-vine-dupa-functionari-care-incearca-sa-si-faca-treaba-cu-buna-credinta-in-l.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Reacția lui Fritz după ce DNA ar pregăti un dosar în care sunt vizați angajați ai Primăriei Timișoara: „Acum vin și după echipa mea”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/reactia-lui-fritz-dupa-ce-dna-ar-pregati-un-dosar-2563896.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Anchetă DNA la Primăria Timișoara. Dominic Fritz: „Acum vin și după echipa mea”",
+        "link": "https://hotnews.ro/ancheta-dna-la-primaria-timisoara-dominic-fritz-acum-vin-si-dupa-echipa-mea-2375586"
+      }
+    ],
+    "published_at": 1791967397,
+    "title_hu": "DNA-vizsgálat indult a Colterm megmentésére szánt támogatások ügyében Temesváron",
+    "lead_hu": "A DNA temesvári ügyészsége in rem eljárást indított a Colterm megmentéséhez kapcsolódó önkormányzati pénzügyi műveletek miatt; a nyomozás hivatalosan egyelőre tényekre, nem konkrét személyekre irányul. Dominic Fritz szerint a város munkatársai szabályosan jártak el, ő maga pedig nem kapott hivatalos tájékoztatást. A HotNews az Antena 3-ra hivatkozva ugyanakkor arról számolt be, hogy az ügy a korábbi városvezetés több tagját és 68 millió lej felhasználását is érintheti.",
+    "content_hu": "• **A DNA temesvári ügyészsége** in rem eljárást indított annak vizsgálatára, hogyan kezelte a városvezetés a Colterm távhőszolgáltató megmentésére szánt pénzeket. A nyomozás egyelőre tényekre, nem konkrét személyekre irányul; az ügyészek tíz önkormányzati alkalmazottról kértek adatokat, köztük Ruben Lațcău alpolgármesterről.\n\n• **A vizsgálat középpontjában** a kormányzati támogatások és a Coltermnek juttatott összegek kezelése áll; a gyanú hivatali visszaélés lehet. A G4Media szerint a pénzügyi műveletek a vállalat fizetésképtelenségből való megmentéséhez és a fejlesztési minisztériumtól érkező támogatások felhasználásához kapcsolódtak.\n\n• **Dominic Fritz** azt mondta, hogy a 2021–2022-es télen a kormány 67 millió lejt utalt a városnak a távhőszolgáltatás folyó kiadásainak fedezésére, majd az önkormányzat a pénzt támogatásként továbbadta a Coltermnek. Fritz szerint ezt a pénzügyminisztérium írásos útmutatása alapján és a vonatkozó szerződés keretei között tették; állítása szerint senki nem vitt haza pénzt.\n\n• **Fritz vitatja az eljárás indokoltságát**, és azt állítja, hogy a vizsgált döntések a város javát szolgálták. Azt mondta, az ügy feltehetően a pénzek „eltérítésének” nevezett, öt évvel korábbi számviteli vitájához kapcsolódik, és a feltételezett hivatali visszaélés a település javára történő jogtalan előnyszerzésről szólhat. Közölte, hogy nem minősül érintettnek, nem kapott hivatalos tájékoztatást, és szerinte a vizsgálat a jóhiszeműen dolgozó köztisztviselőket hozza nehéz helyzetbe.\n\n• **A HotNews az Antena 3-ra hivatkozva** azt írta, hogy az ügy a korábbi polgármestert, Dominic Fritzet, Ruben Lațcău alpolgármestert, Marius Creiveanu városi adminisztrátort és több tisztviselőt is érinthet, és a 2021–2022-es időszak dokumentumait kérték be. A beszámoló 68 millió lej állítólagos eltérítéséről szól, míg Fritz 67 millió lejről beszélt; az érintettek köre és az állítólagos cselekmények egyelőre nem szerepelnek a G4Media által ismertetett, in rem eljárás hivatalos leírásában.\n\n• **A HotNews beszámolója szerint** az Antena 3 úgy értesült, hogy a Colterm fizetésképtelenségi eljárásában részt vevő vagyonfelügyelő fedezte fel: a fejlesztési minisztériumtól érkező pénz nem támogatásként került a vállalat számláira. Ez a közlés az Antena 3-nak tulajdonított értesülés, nem a DNA hivatalos tájékoztatása.\n\n• **A DNA 2021-ben egy másik Colterm-ügyben is indított eljárást**, amely Ruben Lațcăut érintette: azt vizsgálták, miért nem vásárolta meg a vállalat az üvegházhatású gázok kibocsátási egységeit, ami kárt okozott a cégnek. A G4Media szerint az akkori ügyet 2023-ban lezárták.\n\n• **Fritz állítása szerint** polgármestersége idején a Colterm több mint egymilliárd lej önkormányzati támogatást kapott, a város pedig több százmillió lejt fordított a távhőhálózat korszerűsítésére. Azt is felidézte, hogy a társaság fizetésképtelenné vált, és 2021 októberében öt napra megszakadt a szolgáltatás.\n\n• **A városvezetésben bekövetkezett változás** után az alpolgármester, Ruben Lațcău látja el ideiglenesen a polgármesteri feladatokat. A G4Media beszámolója szerint Fritzet egy PSD és AUR által támogatott törvénymódosítás, valamint annak alkotmánybírósági jóváhagyása nyomán távolították el hivatalából.",
+    "title_ro": "DNA a deschis o anchetă privind ajutoarele destinate salvării Colterm, la Timișoara",
+    "lead_ro": "DNA Timișoara a deschis un dosar in rem privind operațiunile financiare ale municipalității legate de salvarea Colterm; oficial, ancheta vizează deocamdată fapte, nu persoane. Dominic Fritz susține că angajații primăriei au procedat legal și afirmă că nu a primit nicio informare oficială. HotNews, citând Antena 3, a relatat însă că dosarul ar putea viza mai mulți membri ai fostei conduceri și folosirea a 68 de milioane de lei.",
+    "content_ro": "• **DNA Timișoara** a deschis un dosar in rem pentru a verifica modul în care municipalitatea a gestionat banii destinați salvării companiei de termoficare Colterm. Ancheta vizează deocamdată fapte, nu persoane; procurorii au cerut informații despre zece angajați ai primăriei, printre care viceprimarul Ruben Lațcău.\n\n• **În centrul anchetei** se află gestionarea unor subvenții guvernamentale și a sumelor acordate companiei Colterm; suspiciunea ar fi de abuz în serviciu. Potrivit G4Media, operațiunile financiare aveau legătură cu salvarea companiei de la insolvență și cu folosirea fondurilor venite de la Ministerul Dezvoltării.\n\n• **Dominic Fritz** a declarat că, în iarna 2021–2022, Guvernul a virat municipalității 67 de milioane de lei pentru cheltuielile curente ale sistemului de termoficare, iar primăria a transferat apoi banii către Colterm sub formă de subvenție. Fritz susține că transferul s-a făcut în baza îndrumărilor scrise ale Ministerului Finanțelor și în limitele contractului relevant și afirmă că nimeni nu a luat bani acasă.\n\n• **Fritz contestă justificarea anchetei** și afirmă că deciziile verificate au fost luate în beneficiul orașului. El a spus că dosarul ar avea legătură cu o dispută contabilă de acum cinci ani, descrisă drept „deturnare”, iar presupusul abuz în serviciu ar viza obținerea unor foloase necuvenite în beneficiul municipalității. A precizat că nu are nicio calitate în dosar, că nu a primit o informare oficială și că, în opinia sa, ancheta îi pune într-o situație dificilă pe funcționarii care și-au făcut treaba cu bună-credință.\n\n• **HotNews, citând Antena 3,** a relatat că dosarul ar putea viza fostul primar Dominic Fritz, viceprimarul Ruben Lațcău, administratorul public Marius Creiveanu și mai mulți funcționari, iar procurorii ar fi cerut documente din perioada 2021–2022. Relatarea menționează o presupusă deturnare de 68 de milioane de lei, în timp ce Fritz a vorbit despre 67 de milioane; persoanele vizate și presupusele fapte nu apar, deocamdată, în descrierea dosarului in rem prezentată de G4Media.\n\n• **Potrivit relatării HotNews,** Antena 3 a susținut că administratorul judiciar al Colterm ar fi descoperit că banii veniți de la Ministerul Dezvoltării nu au ajuns în conturile companiei sub formă de subvenție. Această informație este atribuită Antena 3 și nu reprezintă o comunicare oficială a DNA.\n\n• **DNA a mai deschis în 2021 un dosar legat de Colterm**, care l-a vizat pe Ruben Lațcău: anchetatorii au cercetat de ce compania nu a cumpărat certificatele de emisii de gaze cu efect de seră, ceea ce ar fi provocat un prejudiciu. Potrivit G4Media, dosarul respectiv a fost clasat în 2023.\n\n• **Potrivit lui Fritz,** în timpul mandatului său de primar, Colterm a primit peste un miliard de lei subvenții de la bugetul local, iar municipalitatea a investit sute de milioane de lei în reabilitarea rețelei de termoficare. El a amintit și că societatea a intrat în insolvență, iar serviciul a fost întrerupt timp de cinci zile în octombrie 2021.\n\n• **După schimbarea conducerii municipale,** viceprimarul Ruben Lațcău exercită interimar atribuțiile de primar. Potrivit G4Media, Fritz a fost înlăturat din funcție în urma unei modificări legislative susținute de PSD și AUR și validate de Curtea Constituțională."
+  },
+  {
+    "group_id": "group_d0251314fc",
+    "fingerprint": "9b37ff3af82192dbc15393cfb38757cb",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/c73630d7-0143-4ce1-81e7-f31019c76db3.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Manchester City – PSG în Liga Campionilor: vedetele și duelurile tactice care pot decide meciul",
+        "link": "https://www.gsp.ro/comercial/advertorial/manchester-city-psg-in-liga-campionilor-vedetele-si-duelurile-tactice-care-pot-decide-meciul-987536.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Dueluri atractive miercuri în Champions League: City – PSG, capul de afiș – Programul televizărilor",
+        "link": "https://www.g4media.ro/dueluri-atractive-miercuri-in-champions-league-city-psg-capul-de-afis-programul-televizarilor.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Breaking Bets » Manchester City – PSG, meciul zilei în emisiunea de la ora 13:00",
+        "link": "https://www.gsp.ro/gsp-special/pariuri-sportive/manchester-city-psg-breaking-bets-liga-campionilor-987944.html"
+      }
+    ],
+    "published_at": 1791967371,
+    "title_hu": "Manchester City–PSG: rangadó a BL-szakasz második fordulójában",
+    "lead_hu": "A Manchester City október 14-én, szerdán 22 órakor fogadja a PSG-t az Etihad Stadionban, a Bajnokok Ligája alapszakaszának második fordulójában. Mindkét csapat győzelemmel kezdte a sorozatot; a mérkőzést a Digi 1 és a Prima 1 közvetíti. A két együttes legutóbbi egymás elleni meccsén a PSG 4–2-re nyert.",
+    "content_hu": "• **Október 14-én, szerdán 22 órakor** rendezik a Manchester City–PSG mérkőzést az Etihad Stadionban, a Bajnokok Ligája alapszakaszának második fordulójában.\n\n• **Mindkét csapat győzelemmel rajtolt**: a City 2–0-ra verte a Portót, a PSG pedig 6–1-re győzött a Slovan Bratislava ellen.\n\n• **A hétvégi bajnoki meccsén mindkét együttes nyert**: a City 3–0-ra győzött a Liverpool vendégeként, a PSG pedig 3–1-re verte a Le Manst.\n\n• **A PSG a legutóbbi két BL-idény címvédője**, míg a City a 2023-as sikere megismétlésére törekszik.\n\n• **A legutóbbi egymás elleni meccset a PSG nyerte**: 2025 januárjában 4–2-re győzött, miután a City már 2–0-ra vezetett. A PSG az utolsó nyolc City elleni találkozójából kettőt nyert meg, az Etihadban pedig még nem győzött.\n\n• **A mérkőzést a Digi 1 és a Prima 1 közvetíti**; ugyancsak 22 órakor játsszák az AS Roma–Real Madrid találkozót. A szerdai program 19:45-kor a LASK Linz–Liverpool meccsel kezdődik.",
+    "title_ro": "Manchester City–PSG: derby în etapa a doua a fazei principale din Liga Campionilor",
+    "lead_ro": "Manchester City o primește pe PSG miercuri, 14 octombrie, de la ora 22:00, pe stadionul Etihad, în etapa a doua a fazei principale a Ligii Campionilor. Ambele echipe au debutat cu victorii, iar partida va fi transmisă de Digi 1 și Prima 1. În cel mai recent duel direct, PSG s-a impus cu 4-2.",
+    "content_ro": "• **Miercuri, 14 octombrie, de la ora 22:00**, Manchester City și PSG se întâlnesc pe stadionul Etihad, în etapa a doua a fazei principale a Ligii Campionilor.\n\n• **Ambele echipe au început competiția cu o victorie**: City a învins-o pe Porto cu 2-0, iar PSG a trecut cu 6-1 de Slovan Bratislava.\n\n• **Ambele formații au câștigat în weekend**: City s-a impus cu 3-0 pe terenul lui Liverpool, iar PSG a învins-o pe Le Mans cu 3-1.\n\n• **PSG este deținătoarea trofeului în ultimele două ediții ale Ligii Campionilor**, în timp ce City încearcă să repete succesul din 2023.\n\n• **PSG a câștigat cel mai recent duel direct**: în ianuarie 2025 s-a impus cu 4-2, după ce City condusese cu 2-0. PSG a câștigat doar două dintre ultimele opt întâlniri cu City și nu s-a impus niciodată pe Etihad.\n\n• **Partida va fi transmisă de Digi 1 și Prima 1**; tot de la ora 22:00 se joacă AS Roma–Real Madrid. Programul de miercuri începe la 19:45 cu meciul LASK Linz–Liverpool."
+  },
+  {
+    "group_id": "group_55a4a187ae",
+    "fingerprint": "aab9e71860f06324d7907435f31b81f1",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Scandal în direct între Victor Ponta și Radu Miruță, după vânzarea șantierului naval Damen din Mangalia: „Îmi vine să vomit când te ascult” / „Un președinte v-a numit Pinocchio”",
+        "link": "https://hotnews.ro/scandal-in-direct-intre-victor-ponta-si-radu-miruta-dupa-vanzarea-santierului-naval-damen-din-mangalia-imi-vine-sa-vomit-cand-te-ascult-un-presedinte-v-a-numit-pinocchio-2375236"
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Ai băut ceva?” Scandal monstru între Ponta și Miruță, în direct la TV: „Băi, mincinosule, îmi vine să vomit când te ascult”. De la ce s-au luat",
+        "link": "https://adevarul.ro/politica/ai-baut-ceva-scandal-monstru-intre-ponta-si-2563906.html"
+      }
+    ],
+    "published_at": 1791967332,
+    "title_hu": "Éles vita Ponta és Miruță között a mangaliai hajógyár ügyéről",
+    "lead_hu": "Victor Ponta és Radu Miruță egy B1 TV-műsorban vitázott a mangaliai hajógyár helyzetéről és a korábbi döntésekről. Miruță a PSD felelősségét hangsúlyozta, Ponta pedig vitatta az állításait; a vita személyeskedő szóváltássá fajult.",
+    "content_hu": "• **A B1 TV élő adásában** Victor Ponta és Radu Miruță a mangaliai hajógyár helyzetéről, valamint annak korábbi kezeléséről csapott össze. Miruță a PSD korábbi döntéseit okolta a vállalat válságáért, Ponta pedig azt állította, hogy a politikus valótlanságokat mond.\n\n• **A Damen Galați-hoz kapcsolódó állításról** is vita bontakozott ki: Miruță szerint Ponta korábban egy olcsóbb alternatíváról beszélt, Ponta ezt tagadta, és arra kérte, hogy nevezze meg, mire alapozza az állítását.\n\n• **Florin Spătaru korábbi munkahelyéről** szintén ellentmondtak egymásnak. Miruță azt mondta, Spătaru dolgozott a Damennél, Ponta viszont azt állította, hogy jelenleg a GFR-nél dolgozik, és jogi következményeket helyezett kilátásba.\n\n• **A hajógyár értékesítési eljárásáról** a HotNews.ro beszámolója szerint a Rheinmetall Real Estate România mintegy 138 millió eurós, áfa nélküli ajánlattal nyerte meg a tendert; ez volt az ötödik kiírás, négy sikertelen próbálkozás után.",
+    "title_ro": "Dispută aprinsă între Ponta și Miruță privind șantierul naval din Mangalia",
+    "lead_ro": "Victor Ponta și Radu Miruță s-au confruntat într-o emisiune B1 TV pe tema situației șantierului naval din Mangalia și a deciziilor luate în trecut. Miruță a atribuit criza gestionării PSD, iar Ponta i-a contestat afirmațiile; schimbul de replici a devenit personal.",
+    "content_ro": "• **În direct la B1 TV**, Victor Ponta și Radu Miruță s-au contrazis în privința situației șantierului naval din Mangalia și a modului în care acesta a fost administrat în trecut. Miruță a acuzat deciziile PSD pentru criza companiei, iar Ponta a susținut că interlocutorul său face afirmații neadevărate.\n\n• **Afirmațiile despre Damen Galați** au provocat un alt schimb de replici: Miruță a spus că Ponta menționase anterior o alternativă mai ieftină, în timp ce fostul premier a negat și i-a cerut să precizeze pe ce își bazează acuzația.\n\n• **Experiența profesională a lui Florin Spătaru** a fost, de asemenea, contestată. Miruță a afirmat că Spătaru a lucrat la Damen, iar Ponta a susținut că acesta lucrează în prezent la GFR și a avertizat că ar putea exista consecințe juridice.\n\n• **Procedura de valorificare a șantierului**: potrivit HotNews.ro, Rheinmetall Real Estate România a câștigat licitația cu o ofertă de aproximativ 138 de milioane de euro, fără TVA. A fost a cincea licitație, după patru tentative fără succes."
+  },
+  {
+    "group_id": "group_53be683322",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/12/Nicusor-Dan.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Nicușor Dan discută miercuri cu președinta Bulgariei pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime",
+        "link": "https://www.g4media.ro/nicusor-dan-discuta-miercuri-cu-presedinta-bulgariei-pe-tema-atacurilor-asupra-navelor-din-marea-neagra-si-asigurarii-sigurantei-navigatiei-maritime.html"
+      }
+    ],
+    "published_at": 1791967266,
+    "title_hu": "Nicușor Dan discută miercuri cu președinta Bulgariei pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime",
+    "lead_hu": "Președintele României va avea miercuri o convorbire telefonică cu președinta Bulgariei, Iliana Iotova, pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime. …",
+    "content_hu": "Președintele României va avea miercuri o convorbire telefonică cu președinta Bulgariei, Iliana Iotova, pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime. Context Prim-ministrul Ilie Bolojan a avut, marți, o convorbire telefonică cu omologul său bulgar, Rumen Radev, privind deteriorarea situației de securitate din Marea Neagră și atacurile asupra navelor comerciale, […] © G4Media.ro.",
+    "title_ro": "Nicușor Dan discută miercuri cu președinta Bulgariei pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime",
+    "lead_ro": "Președintele României va avea miercuri o convorbire telefonică cu președinta Bulgariei, Iliana Iotova, pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime. …",
+    "content_ro": "Președintele României va avea miercuri o convorbire telefonică cu președinta Bulgariei, Iliana Iotova, pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime. Context Prim-ministrul Ilie Bolojan a avut, marți, o convorbire telefonică cu omologul său bulgar, Rumen Radev, privind deteriorarea situației de securitate din Marea Neagră și atacurile asupra navelor comerciale, […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_746ea01c03",
+    "fingerprint": "3a4b368a15fe554758c232b4456b447b",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Surse: PSD intră la guvernare alături de miniștri tehnocrați propuși de Nicușor Dan. PNL și UDMR ar urma să voteze Guvernul Niculescu",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/negocieri-contracronometru-cum-va-arata-guvernul-niculescu-surse-psd-isi-poate-asuma-guvernarea-cu-voturile-pnl-si-udmr-3989715"
+      },
+      {
+        "source": "Adevărul",
+        "title": "SURSE PSD e gata să intre la guvernare într-un Cabinet hibrid",
+        "link": "https://adevarul.ro/politica/surse-psd-e-gata-sa-intre-la-guvernare-intr-un-2563710.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "SURSE: Se conturează un Guvern PSD–Niculescu, cu trei ministere pentru oamenii lui Nicușor Dan. Pact cu Bolojan și UDMR pentru supraviețuirea Cabinetului până în aprilie. Decizia, la PSD",
+        "link": "https://www.mediafax.ro/politic/surse-se-contureaza-un-guvern-psd-niculescu-cu-trei-ministere-pentru-oamenii-lui-nicusor-dan-pact-cu-bolojan-si-udmr-pentru-supravietuirea-cabinetului-pana-in-aprilie-decizia-la-psd-23824658"
+      },
+      {
+        "source": "G4Media",
+        "title": "SURSE: Lideri din PSD iau în calcul să ceară intrarea partidului în guvernul Luca Niculescu cu 9 miniștri la ministerele cu bugete mari și la Justiție / Sorin Grindeanu vrea să evite intrarea în guvern",
+        "link": "https://www.g4media.ro/surse-lideri-din-psd-iau-in-calcul-sa-ceara-intrarea-partidului-in-guvernul-luca-niculescu-cu-9-ministri-la-ministerele-cu-bugete-mari-si-la-justitie-sorin-grindeanu-vrea-sa-evite-intrarea-in-guver.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Culisele social-democrate: PSD e împărțit în două. Fiecare tabără vrea să voteze un guvern: frica de răspundere și dorința de putere",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/surpriza-in-negocierile-pentru-noul-guvern-psd-ar-accepta-ministri-tehnocrati-iar-pnl-si-udmr-ar-urma-sa-voteze-cabinetul-3990801"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cele trei opțiuni pentru PSD, care decide azi dacă intră la guvernare: Vot contra guvernului Luca Niculescu, vot pentru guvern tehnocrat fără PSD sau vot pentru guvern cu miniștri PSD",
+        "link": "https://www.g4media.ro/cele-trei-optiuni-pentru-psd-care-decide-azi-daca-intra-la-guvernare-vot-contra-guvernului-luca-niculescu-vot-pentru-guvern-tehnocrat-fara-psd-sau-vot-pentru-guvern-cu-ministri-psd.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Surse: Primele nume vehiculate pentru Guvernul Niculescu. PSD ar putea prelua portofolii mari, un minister ar urma să dispară",
+        "link": "https://stirileprotv.ro/stiri/politic/surse-primele-nume-vehiculate-pentru-guvernul-niculescu-psd-ar-putea-prelua-portofolii-mari-un-minister-ar-urma-sa-dispara.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A PSD vezetői kormányra juttatnák a pártot, Grindeanu viszont elkerülné azt, szerdán döntenek",
+        "link": "https://transtelex.ro/kozelet/2026/10/14/a-psd-vezetoi-kormanyra-juttatnak-a-partot-grindeanu-viszont-elkerulne-azt-szerdan-dontenek"
+      }
+    ],
+    "published_at": 1791967220,
+    "title_hu": "A PSD várhatóan hibrid kormányba lép, de a párt szerdán dönt",
+    "lead_hu": "Sajtóértesülések szerint a PSD politikusokból és technokratákból álló, Luca Niculescu vezette kormányba léphet, miközben a PNL és az RMDSZ parlamentből támogatná a beiktatást, de nem adna minisztereket. A PSD vezetésén belül vita van a kormányzás politikai kockázatairól; a párt országos politikai tanácsa szerdán, október 14-én, 16 órakor dönt a részvétel formájáról.",
+    "content_hu": "• **A PSD szerdai, október 14-i, 16 órás döntése** három lehetőségről szól: a párt a kormány ellen szavaz és nem lép be, támogat egy PSD-miniszterek nélküli technokrata kabinetet, vagy politikusokkal együtt kormányra lép. Sorin Grindeanu a technokrata változatot gyengének nevezte, és több párt részvételével létrejövő, átlátható többséget szeretne.\n\n• **A hibrid kormány tűnik a legvalószínűbb forgatókönyvnek**, de erről még nincs végleges döntés: a sajtóforrások szerint PSD-s politikusok mellett Nicușor Dan államfő és Luca Niculescu kijelölt miniszterelnök által támogatott technokraták is lennének a kabinetben. Egyes értesülések szerint a PSD lenne az egyetlen párt, amely minisztereket ad.\n\n• **A PSD vezetésén belül két tábor van**, és mindkettő támogatna valamilyen kormányt. Grindeanu köre inkább technokrata kabinetet szeretne, hogy a párt elkerülje a költségvetési kiigazítás és a költségvetés terheit; a területi vezetők jelentős része politikusokat is felvonultató kormányt és miniszteri posztokat akar. Grindeanu a kormányra lépést ellenezheti, ha a PNL és az RMDSZ nem tér vissza a koalícióba.\n\n• **Kilenc miniszteri posztot is kérhet a PSD:** a G4Media szerint egyes vezetők a nagy költségvetésű tárcákat – köztük a közlekedési, mezőgazdasági, egészségügyi és környezetvédelmi minisztériumot – valamint az igazságügyi tárcát céloznák meg. Ez párton belüli igény, nem végleges megállapodás.\n\n• **Három stratégiai tárca vezetőjét Nicușor Dan jelölheti ki:** a pénzügy, a védelem és a külügy vezetői lehetnek az államfő által támogatott technokraták. A Mediafax szerint a pénzügyi tárca helyett az uniós beruházásokért felelős minisztérium is szóba kerülhet.\n\n• **A sajtóban megjelent miniszternevek egyelőre nem véglegesek:** a ProTV értesülése szerint a belügyminiszteri és miniszterelnök-helyettesi posztra Marian Neacșu, a pénzügyire Alexandru Nazare, a külügyire Dan Neculăescu, az oktatásira Sorin Costreie neve merült fel. Az energiaügyi tárca PSD-s politikushoz kerülhet, a munkaügyi posztra Florin Manole-t, a mezőgazdaságira Florin Barbut említették; egy új, kommunikációért és mesterséges intelligenciáért felelős minisztérium létrehozása is felmerült.\n\n• **A beruházási minisztérium megszűnése is felmerült:** a ProTV értesülése szerint a tárca kikerülhet az új kormány szerkezetéből. A miniszteri névsor és a tárcák felosztása egyelőre csak sajtóforrások által említett változat.\n\n• **A PSD a kormányzás politikai árától tart:** ha a párt adja a kabinet minisztereinek többségét, a népszerűtlen gazdasági és költségvetési döntések felelőssége is nagyrészt rá hárulhat, miközben a parlamenti támogató pártok megőrizhetik kritikai mozgásterüket. Ha a PSD belép a kormányba, Grindeanu azt kérné, hogy a miniszterelnök két héten belül ismertesse a parlamentben az ország aktuális pénzügyi helyzetét.\n\n• **A PNL és az RMDSZ támogatná a beiktatást, de ellenzékben maradna:** Ilie Bolojan külön megállapodást kötne Luca Niculescuval, nem pedig hárompárti koalíciós egyezséget. Bolojan szerint a PNL hat hónapig nem kezdeményez és nem támogat bizalmatlansági indítványt, amennyiben a kormány betartja a megállapodásban vállalt elveket és célokat; a Mediafax szerint a tervezett vállalás 2027 áprilisáig szólhat. Kelemen Hunor megerősítette, hogy az RMDSZ a kormány összetételétől függetlenül megszavazná a kabinetet és programját, de nem adna minisztereket.\n\n• **A Bolojan-ellenes liberálisok bevonása vitás:** a PSD megpróbálhatja őket tisztségekkel maga mellé állítani, de a kabinetből kimaradhatnak, hogy biztosítsák a PNL vezetésének támogatását. Bolojan jelezte, hogy a pártja visszavonhatja támogatását, ha a vezetését bíráló liberálisok miniszteri posztot kapnak; az RMDSZ a sajtóértesülések szerint megtartaná prefektusi és államtitkári tisztségeit.\n\n• **Az USR nem szavazna meg PSD-minisztereket tartalmazó kormányt:** Dominic Fritz szerint a párt nem támogat olyan kabinetet sem, amelynek parlamenti többsége nem világos. A parlamenti erőviszonyok egyik forrás szerinti összesítése alapján a PNL-nek és az RMDSZ-nek együtt 111 képviselője van, az USR-rel együtt 170; a PSD-nek 127 képviselője van, a beiktatáshoz pedig 233 szavazat kell.\n\n• **Luca Niculescu három kormányzati változatot tart nyitva:** politikai, hibrid vagy technokrata kabinetet. Csütörtökön benyújtja a kormányprogramot és a miniszterjelöltek listáját; a parlamenti szavazás várhatóan a következő héten lesz. Niculescu hat hónapos politikai megnemtámadási megállapodást is szeretne, hogy a kormány dolgozhasson a költségvetési kiigazításon és a jövő évi költségvetésen.\n\n• **Nicușor Dan előrehozott választásokat helyezett kilátásba:** a Digi24 értesülése szerint az államfő pénteken kezdeményezné a parlament feloszlatását, ha csütörtökig nem születik átlátható megállapodás a Niculescu-kormány támogatásáról.",
+    "title_ro": "PSD este așteptat să intre într-un guvern hibrid, dar decide miercuri",
+    "lead_ro": "Potrivit informațiilor de presă, PSD ar putea intra într-un guvern condus de Luca Niculescu, format din politicieni și tehnocrați, în timp ce PNL și UDMR ar susține învestirea în Parlament, fără să trimită miniștri. În conducerea PSD există divergențe privind costurile politice ale guvernării; Consiliul Politic Național al partidului decide miercuri, 14 octombrie, de la ora 16:00, forma implicării.",
+    "content_ro": "• **Decizia PSD de miercuri, 14 octombrie, de la ora 16:00** vizează trei variante: partidul votează împotriva Guvernului și nu intră la guvernare, susține un cabinet tehnocrat fără miniștri PSD sau intră la guvernare cu reprezentanți politici. Sorin Grindeanu a calificat varianta tehnocrată drept slabă și a spus că își dorește o majoritate transparentă, formată din mai multe partide.\n\n• **Guvernul hibrid pare scenariul cel mai probabil**, dar nu există încă o decizie finală: potrivit surselor de presă, cabinetul ar urma să includă politicieni PSD și tehnocrați susținuți de președintele Nicușor Dan și de premierul desemnat Luca Niculescu. Unele informații arată că PSD ar fi singurul partid care va avea miniștri.\n\n• **În conducerea PSD există două tabere**, iar ambele ar susține, într-o formă sau alta, un guvern. Gruparea lui Grindeanu ar prefera un cabinet tehnocrat, pentru a evita costurile rectificării și ale bugetului; o parte importantă a liderilor din teritoriu dorește un guvern cu politicieni și funcții ministeriale pentru partid. Grindeanu s-ar putea opune intrării la guvernare dacă PNL și UDMR nu revin în coaliție.\n\n• **PSD ar putea cere nouă portofolii ministeriale:** potrivit G4Media, unii lideri vizează ministerele cu bugete mari – între care Transporturile, Agricultura, Sănătatea și Mediul –, precum și Justiția. Este o solicitare internă, nu un acord final.\n\n• **Nicușor Dan ar putea desemna conducătorii a trei ministere strategice:** Finanțele, Apărarea și Externele ar urma să revină unor tehnocrați agreați de președinte. Mediafax relatează că, în locul Ministerului Finanțelor, este luat în calcul și Ministerul Investițiilor și Proiectelor Europene.\n\n• **Numele vehiculate pentru ministere nu sunt definitive:** potrivit ProTV, Marian Neacșu este menționat pentru Interne și funcția de vicepremier, Alexandru Nazare pentru Finanțe, Dan Neculăescu pentru Externe și Sorin Costreie pentru Educație. Ministerul Energiei ar putea reveni unui politician PSD, Florin Manole este menționat pentru Muncă, iar Florin Barbu pentru Agricultură; a fost avansată și ideea unui nou minister al Comunicațiilor și Inteligenței Artificiale.\n\n• **Desființarea Ministerului Investițiilor este, de asemenea, luată în calcul:** potrivit informațiilor ProTV, ministerul ar putea dispărea din structura noului guvern. Lista miniștrilor și repartizarea portofoliilor sunt deocamdată doar variante relatate de presă.\n\n• **PSD se teme de costul politic al guvernării:** dacă partidul va da majoritatea miniștrilor, îi va reveni o mare parte din responsabilitatea pentru măsurile economice și bugetare nepopulare, în timp ce partidele care susțin cabinetul în Parlament și-ar putea păstra libertatea de a-l critica. Dacă PSD intră la guvernare, Grindeanu ar cere premierului să prezinte în Parlament, în două săptămâni, situația financiară actuală a țării.\n\n• **PNL și UDMR ar susține învestirea, dar ar rămâne în opoziție:** Ilie Bolojan ar prefera un acord separat cu Luca Niculescu, nu o înțelegere de coaliție în trei. Bolojan spune că PNL nu va iniția și nu va vota o moțiune de cenzură timp de șase luni, atât timp cât guvernul respectă principiile și obiectivele convenite; potrivit Mediafax, angajamentul ar putea fi valabil până în aprilie 2027. Kelemen Hunor a confirmat că UDMR ar vota guvernul și programul său indiferent de componență, dar nu ar trimite miniștri.\n\n• **Cooptarea liberalilor care îl contestă pe Bolojan rămâne controversată:** PSD ar putea încerca să-i atragă oferindu-le funcții, însă aceștia ar putea fi excluși din guvern pentru a păstra sprijinul conducerii PNL. Bolojan a avertizat că partidul și-ar putea retrage susținerea dacă adversarii săi interni primesc portofolii; potrivit presei, UDMR și-ar păstra funcțiile de prefecți și secretari de stat.\n\n• **USR nu ar vota un guvern cu miniștri PSD:** Dominic Fritz a spus că partidul nu susține nici un cabinet fără o majoritate parlamentară clară. Potrivit unei estimări citate de una dintre surse, PNL și UDMR au împreună 111 deputați, iar împreună cu USR ajung la 170; PSD are 127 de deputați, iar pentru învestire sunt necesare 233 de voturi.\n\n• **Luca Niculescu menține deschise trei formule de guvernare:** un cabinet politic, unul hibrid sau unul tehnocrat. Joi va depune în Parlament programul de guvernare și lista miniștrilor, iar votul este așteptat cel mai probabil săptămâna viitoare. Niculescu dorește și un pact de neagresiune politică pentru șase luni, pentru ca guvernul să poată adopta rectificarea bugetară și bugetul pentru anul viitor.\n\n• **Nicușor Dan a amenințat cu alegeri anticipate:** potrivit Digi24, președintele ar urma să inițieze vineri dizolvarea Parlamentului dacă până joi nu se ajunge la un acord transparent privind susținerea Guvernului Niculescu."
+  },
+  {
+    "group_id": "group_da2e620a94",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/14/083945/profimedia-1140690799.jpg?fm=jpg&q=80&fit=crop&crop=1080%2C1350%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "A plecat în Thailanda pentru câteva luni, dar s-a stabilit definitiv acolo. Cât plătește chirie pentru o casă cu trei dormitoare",
+        "link": "https://stirileprotv.ro/stiri/international/a-plecat-in-thailanda-pentru-cateva-luni-dar-s-a-stabilit-definitiv-acolo-cat-plateste-chirie-pentru-o-casa-cu-trei-dormitoare.html"
+      }
+    ],
+    "published_at": 1791967208,
+    "title_hu": "A plecat în Thailanda pentru câteva luni, dar s-a stabilit definitiv acolo. Cât plătește chirie pentru o casă cu trei dormitoare",
+    "lead_hu": "Un britanic în vârstă de 31 de ani și-a schimbat radical viața după ce s-a mutat în Thailanda, unde susține că se bucură de un trai confortabil cu cheltuieli mult mai mici decât în Regatul Unit.",
+    "content_hu": "Un britanic în vârstă de 31 de ani și-a schimbat radical viața după ce s-a mutat în Thailanda, unde susține că se bucură de un trai confortabil cu cheltuieli mult mai mici decât în Regatul Unit.",
+    "title_ro": "A plecat în Thailanda pentru câteva luni, dar s-a stabilit definitiv acolo. Cât plătește chirie pentru o casă cu trei dormitoare",
+    "lead_ro": "Un britanic în vârstă de 31 de ani și-a schimbat radical viața după ce s-a mutat în Thailanda, unde susține că se bucură de un trai confortabil cu cheltuieli mult mai mici decât în Regatul Unit.",
+    "content_ro": "Un britanic în vârstă de 31 de ani și-a schimbat radical viața după ce s-a mutat în Thailanda, unde susține că se bucură de un trai confortabil cu cheltuieli mult mai mici decât în Regatul Unit."
+  },
+  {
+    "group_id": "group_2147fada1a",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21330/23259855/1/20261014-helleniq-renewables-strategia-de-stocare-foto-002.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Grecii de la HELLENiQ ENERGY accelerează investiţiile în stocarea energiei electrice în România, vizând o capacitate de cel puţin 500 MW până în 2029",
+        "link": "https://www.zf.ro/zf-news/grecii-de-la-helleniq-energy-accelereaza-investitiile-in-stocarea-energiei-electrice-in-romania-vizand-o-capacitate-de-cel-putin-500-mw-pana-in-2029-23259855"
+      }
+    ],
+    "published_at": 1791967169,
+    "title_hu": "Grecii de la HELLENiQ ENERGY accelerează investiţiile în stocarea energiei electrice în România, vizând o capacitate de cel puţin 500 MW până în 2029",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Grecii de la HELLENiQ ENERGY accelerează investiţiile în stocarea energiei electrice în România, vizând o capacitate de cel puţin 500 MW până în 2029",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_7cd068d9ba",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/4b1c42fa-d493-4caf-a98d-05d351872cd2.jfif?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Elizabeta Samara sunt la un pas de medalie la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-elizabeta-samara-sunt-la-un-pas-de-medalie-la-campionatele-europene-de-la-ljubljana-987941.html"
+      }
+    ],
+    "published_at": 1791967051,
+    "title_hu": "Bernadette Szocs și Elizabeta Samara sunt la un pas de medalie la Campionatele Europene de la Ljubljana",
+    "lead_hu": "Bernadette Szocs (31 de ani) și Elizabeta Samara (37 de ani) s-au calificat miercuri în sferturile de finală ale probei de dublu din cadrul Campionatelor Europene de la Ljubljana, după ce au trecut în…",
+    "content_hu": "Bernadette Szocs (31 de ani) și Elizabeta Samara (37 de ani) s-au calificat miercuri în sferturile de finală ale probei de dublu din cadrul Campionatelor Europene de la Ljubljana, după ce au trecut în „optimi” de perechea croată Lea Rakovac/Hana Arapovic cu 3-0 (11-9, 11-8, 11-6). Campionatele Europene de la Ljubljana pot fi urmărite pe AntenPlay și pe ETTU. ...",
+    "title_ro": "Bernadette Szocs și Elizabeta Samara sunt la un pas de medalie la Campionatele Europene de la Ljubljana",
+    "lead_ro": "Bernadette Szocs (31 de ani) și Elizabeta Samara (37 de ani) s-au calificat miercuri în sferturile de finală ale probei de dublu din cadrul Campionatelor Europene de la Ljubljana, după ce au trecut în…",
+    "content_ro": "Bernadette Szocs (31 de ani) și Elizabeta Samara (37 de ani) s-au calificat miercuri în sferturile de finală ale probei de dublu din cadrul Campionatelor Europene de la Ljubljana, după ce au trecut în „optimi” de perechea croată Lea Rakovac/Hana Arapovic cu 3-0 (11-9, 11-8, 11-6). Campionatele Europene de la Ljubljana pot fi urmărite pe AntenPlay și pe ETTU. ..."
+  },
+  {
+    "group_id": "group_7c56da0658",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/c841d7e4-7c7f-4465-8d43-e0d1b4826d7c.png?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "YOU’RE IN: Napoleon Games, mereu în mijlocul distracției",
+        "link": "https://www.gsp.ro/comercial/advertorial/youre-in-napoleon-games-mereu-in-mijlocul-distractiei-987940.html"
+      }
+    ],
+    "published_at": 1791967026,
+    "title_hu": "YOU’RE IN: Napoleon Games, mereu în mijlocul distracției",
+    "lead_hu": "Casino e doar pretextul, restul e partea din noapte în care rămâi mai mult decât ai plănuit. De la meciurile echipei preferate până la melodiile festivalului de suflet, YOU’RE IN cu Napoleon Games! Ce…",
+    "content_hu": "Casino e doar pretextul, restul e partea din noapte în care rămâi mai mult decât ai plănuit. De la meciurile echipei preferate până la melodiile festivalului de suflet, YOU’RE IN cu Napoleon Games! Cel mai bun loc pentru cele mai tari amintiri Napoleon Games e locul unde distracția e ridicată la rang de artă, iar tu ești personajul principal. ...",
+    "title_ro": "YOU’RE IN: Napoleon Games, mereu în mijlocul distracției",
+    "lead_ro": "Casino e doar pretextul, restul e partea din noapte în care rămâi mai mult decât ai plănuit. De la meciurile echipei preferate până la melodiile festivalului de suflet, YOU’RE IN cu Napoleon Games! Ce…",
+    "content_ro": "Casino e doar pretextul, restul e partea din noapte în care rămâi mai mult decât ai plănuit. De la meciurile echipei preferate până la melodiile festivalului de suflet, YOU’RE IN cu Napoleon Games! Cel mai bun loc pentru cele mai tari amintiri Napoleon Games e locul unde distracția e ridicată la rang de artă, iar tu ești personajul principal. ..."
+  },
+  {
+    "group_id": "group_e435b3157c",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Nodulii tiroidieni pot fi tratați minim invaziv, fără operație, prin ablație cu microunde. Dr. Emin Mammadov: „Se face cu anestezie locală, fără tăieturi”",
+        "link": "https://hotnews.ro/nodulii-tiroidieni-pot-fi-tratati-minim-invaziv-fara-operatie-prin-ablatie-cu-microunde-dr-emin-mammadov-2374695"
+      }
+    ],
+    "published_at": 1791966985,
+    "title_hu": "Nodulii tiroidieni pot fi tratați minim invaziv, fără operație, prin ablație cu microunde. Dr. Emin Mammadov: „Se face cu anestezie locală, fără tăieturi”",
+    "lead_hu": "Când află că au un nodul tiroidian, mulți oameni se gândesc imediat la operație. Însă prezența unui nodul nu înseamnă automat că este nevoie de o intervenție chirurgicală. În funcție de tipul și carac…",
+    "content_hu": "Când află că au un nodul tiroidian, mulți oameni se gândesc imediat la operație. Însă prezența unui nodul nu înseamnă automat că este nevoie de o intervenție chirurgicală. În funcție de tipul și caracteristicile acestuia, există și variante de tratament minim invaziv, fără îndepărtarea tiroidei. Acesta este ablația cu microunde: sub ghidaj ecografic, medicul introduce …",
+    "title_ro": "Nodulii tiroidieni pot fi tratați minim invaziv, fără operație, prin ablație cu microunde. Dr. Emin Mammadov: „Se face cu anestezie locală, fără tăieturi”",
+    "lead_ro": "Când află că au un nodul tiroidian, mulți oameni se gândesc imediat la operație. Însă prezența unui nodul nu înseamnă automat că este nevoie de o intervenție chirurgicală. În funcție de tipul și carac…",
+    "content_ro": "Când află că au un nodul tiroidian, mulți oameni se gândesc imediat la operație. Însă prezența unui nodul nu înseamnă automat că este nevoie de o intervenție chirurgicală. În funcție de tipul și caracteristicile acestuia, există și variante de tratament minim invaziv, fără îndepărtarea tiroidei. Acesta este ablația cu microunde: sub ghidaj ecografic, medicul introduce …"
+  },
+  {
+    "group_id": "group_85e47812b3",
+    "fingerprint": "7286e3d95e08238c7930973bd07ac7e4",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMTk0MV8zMDEx/OTQxX0luc2NyaWVyZWEtaW4tY2xhc2Et/cHJlZ2F0aXRvYXJlLTIwMjdfLUZvdG8t/R2V0dHktSW1hZ2VzLmpwZyZoYXNoPTA5/MTU0MDhjZmQyZDY4NjRlZjU0NGRkOTI5ZmUwMjIz.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Înscrierea în clasa pregătitoare 2027-2028. Când propune Ministerul Educației să înceapă depunerea cererilor",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/inscrierea-in-clasa-pregatitoare-2027-2028-cand-propune-ministerul-educatiei-sa-inceapa-depunerea-cererilor-3991403"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Înscrierea în clasa pregătitoare 2027-2028. Când începe completarea cererilor și ce părinți trebuie să obțină o recomandare",
+        "link": "https://www.mediafax.ro/social/inscrierea-in-clasa-pregatitoare-2027-2028-cand-incepe-completarea-cererilor-si-ce-parinti-trebuie-sa-obtina-o-recomandare-23825063"
+      }
+    ],
+    "published_at": 1791966901,
+    "title_hu": "Március végén indulhat a beiratkozás a 2027–2028-as előkészítő osztályokba",
+    "lead_hu": "Az oktatási minisztérium nyilvános konzultációra bocsátotta a 2027–2028-as tanévre szóló beiratkozási naptár tervezetét. A szülők a javaslat szerint március 31. és április 23. között nyújthatják be a kérelmeket; a dátumok a végleges jóváhagyás előtt még változhatnak.",
+    "content_hu": "• **A javasolt időszakban, 2027. március 31. és április 23. között** lehet majd online vagy az iskolában kitölteni és benyújtani a beiratkozási kérelmeket.\n\n• **Március 15-én** tennék közzé az iskolai körzeteket és az előkészítő osztályok férőhelyeit; március 17-től pedig megkezdődne azoknak a gyermekeknek a fejlettségi felmérése és ajánlásának kiállítása, akik 2027. szeptember 1. és december 31. között töltik be a hatodik életévüket.\n\n• **A körzetes iskolába történő elosztásra május 5–11. között** kerülne sor, a más iskolát megjelölő kérelmeket pedig május 12–19. között, a szabad férőhelyek függvényében dolgoznák fel. A Digi24 beszámolója az első szakasz eredményeinek május 21-i közzétételét jelöli meg; a végleges beiratkozási listákat a tervezet szerint június 17-én tennék közzé.\n\n• **Szeptember 1-jén és 2-án** az iskolai felügyelőségek rendeznék azoknak a gyermekeknek a kérelmeit, akiket korábban még nem írattak be.\n\n• **A hatéves kor betöltésére vonatkozó szabályok szerint** az augusztus 31-ig hatéves gyermekeket be kell íratni az előkészítő osztályba, míg a szeptember 1. és december 31. között hatéves korú gyermekek megfelelő fejlettség esetén, ajánlás alapján kezdhetik meg az iskolát. Indokolt esetben a szülők legfeljebb egy év halasztást kérhetnek.\n\n• **A naptár még tervezet:** a minisztérium a nyilvános konzultáció, a beérkező észrevételek és a társadalmi párbeszédet folytató bizottság tárgyalása után hagyja jóvá a végleges változatot.",
+    "title_ro": "Înscrierile în clasa pregătitoare pentru 2027–2028 ar putea începe la sfârșitul lunii martie",
+    "lead_ro": "Ministerul Educației a pus în consultare publică proiectul calendarului de înscriere în clasa pregătitoare pentru anul școlar 2027–2028. Potrivit propunerii, cererile ar putea fi depuse între 31 martie și 23 aprilie, însă datele se pot modifica înainte de aprobarea finală.",
+    "content_ro": "• **În intervalul propus, 31 martie–23 aprilie 2027**, cererile de înscriere vor putea fi completate online sau la unitatea de învățământ.\n\n• **Pe 15 martie** ar urma să fie afișate circumscripțiile școlare și locurile disponibile, iar din 17 martie ar începe evaluarea dezvoltării copiilor care împlinesc șase ani între 1 septembrie și 31 decembrie 2027 și eliberarea recomandărilor necesare.\n\n• **Repartizarea la școala de circumscripție este prevăzută pentru 5–11 mai**, iar cererile pentru alte școli ar urma să fie procesate între 12 și 19 mai, în limita locurilor disponibile. Digi24 indică 21 mai pentru afișarea rezultatelor primei etape, iar listele finale de înscriere ar urma să fie publicate pe 17 iunie.\n\n• **Pe 1 și 2 septembrie**, inspectoratele școlare ar urma să soluționeze cererile copiilor care nu au fost înscriși anterior.\n\n• **Regulile privind împlinirea vârstei de șase ani** prevăd înscrierea obligatorie în clasa pregătitoare a copiilor care împlinesc această vârstă până la 31 august. Cei care împlinesc șase ani între 1 septembrie și 31 decembrie pot începe școala dacă au nivelul de dezvoltare corespunzător și obțin o recomandare; în cazuri justificate, părinții pot solicita amânarea cu cel mult un an.\n\n• **Calendarul este încă un proiect:** forma finală va fi aprobată după consultarea publică, analizarea observațiilor primite și discutarea documentului în Comisia de Dialog Social."
+  },
+  {
+    "group_id": "group_8fa7bb0eb8",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/74ff3440-84e7-48a8-827d-5382353dc77b.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Mihai Răduț nu îi dă șanse lui Cristi Chivu în Liga Campionilor: „Nu poate emite pretenții”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/mihai-radut-viata-de-dupa-retragere-parere-inter-cristi-chivu-987930.html"
+      }
+    ],
+    "published_at": 1791966866,
+    "title_hu": "Mihai Răduț nu îi dă șanse lui Cristi Chivu în Liga Campionilor: „Nu poate emite pretenții”",
+    "lead_hu": "Mihai Răduț (36 de ani), fost internațional cu două selecții la prima reprezentativă a României, a fost prezent în studioul GSP Live, unde a vorbit despre viața de după retragerea din fotbal, dar și d…",
+    "content_hu": "Mihai Răduț (36 de ani), fost internațional cu două selecții la prima reprezentativă a României, a fost prezent în studioul GSP Live, unde a vorbit despre viața de după retragerea din fotbal, dar și despre parcursul lui Inter, formația antrenată de Cristi Chivu (45 de ani), în acest sezon din Liga Campionilor. De-a lungul carierei, a îmbrăcat în țară tricourile celor de la Curtea de Argeș, FCSB, Pandurii, Astra Giurgiu, FC Voluntari și FCU Craiova. ...",
+    "title_ro": "Mihai Răduț nu îi dă șanse lui Cristi Chivu în Liga Campionilor: „Nu poate emite pretenții”",
+    "lead_ro": "Mihai Răduț (36 de ani), fost internațional cu două selecții la prima reprezentativă a României, a fost prezent în studioul GSP Live, unde a vorbit despre viața de după retragerea din fotbal, dar și d…",
+    "content_ro": "Mihai Răduț (36 de ani), fost internațional cu două selecții la prima reprezentativă a României, a fost prezent în studioul GSP Live, unde a vorbit despre viața de după retragerea din fotbal, dar și despre parcursul lui Inter, formația antrenată de Cristi Chivu (45 de ani), în acest sezon din Liga Campionilor. De-a lungul carierei, a îmbrăcat în țară tricourile celor de la Curtea de Argeș, FCSB, Pandurii, Astra Giurgiu, FC Voluntari și FCU Craiova. ..."
+  },
+  {
+    "group_id": "group_4b62a24524",
+    "fingerprint": "aa2b2f09271dfefe716d78e9e60c562c",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjAxJTJGMjk4Mzk0OV8yOTgz/OTQ5X3NhbGEtZ3V2ZXJudWwtcm9tYW5p/ZWktaW5xdWFtLW9jdGF2LWdhbmVhLmpw/ZyZoYXNoPTk5NjAxN2I3ZDU1NzY0OTFiYjNlZTNkNDE3NWU1OGU3.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Guvernul hibrid al lui Luca Niculescu: ce nume ar putea face parte din cabinetul tehno-PSD (surse)",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-hibrid-al-lui-luca-niculescu-ce-nume-ar-putea-face-parte-din-cabinetul-tehno-psd-surse-3990837"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Primele nume de miniștri din Guvernul Luca Niculescu SURSE",
+        "link": "https://adevarul.ro/politica/primele-nume-de-ministri-din-guvernul-luca-2563854.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Primele nume de miniștri discutate pentru Guvernul Luca Niculescu",
+        "link": "https://hotnews.ro/primele-nume-de-ministri-discutate-pentru-guvernul-luca-niculescu-2375557"
+      }
+    ],
+    "published_at": 1791966837,
+    "title_hu": "Új nevekkel bővült a Luca Niculescu tervezett hibrid kabinetjéről szóló lista",
+    "lead_hu": "A friss sajtóértesülések további lehetséges miniszterjelölteket neveztek meg Luca Niculescu tervezett, PSD-s politikusokat és technokratákat vegyítő kormányában. A névsor és a tárcák elosztása továbbra sem végleges; a PSD szerdán dönt arról, hogy miniszterekkel lép-e kormányra, vagy csak parlamenti támogatást ad.",
+    "content_hu": "• **Hibrid kormány lehetősége** merült fel: a sajtóértesülések szerint PSD-s politikusok, Nicușor Dan elnökhöz közel álló technokraták és Luca Niculescu által kiválasztott szakértők alkothatják a kabinetet. A jelölések nem hivatalosak, a tárcákról még tárgyalnak.\n\n• **Dan Neculăescu és Sorin Costreie** neve a külügyi, illetve az oktatási tárca lehetséges vezetőjeként szerepel. Neculăescu Románia NATO-nagykövete, Costreie pedig a Digi24 szerint Nicușor Dan oktatási és kutatási tanácsadója.\n\n• **A pénzügyminiszteri poszt vitatott:** Alexandru Nazare neve felmerült, de a PSD saját jelöltet szeretne a tárca élére. A Digi24 szerint Bogdan Ivan lehet az energiaügyi, Alexandru Rogobete az egészségügyi, Petre-Florin Manole pedig a munkaügyi miniszter; utóbbi posztra az Adevărul Ciprian Văcaru nevét is lehetséges jelöltként említi.\n\n• **További PSD-s jelöltek** között Marian Neacșu neve a belügyi, Radu Marinescué az igazságügyi, Daniel Zamfiré pedig a gazdasági tárcával kapcsolatban merült fel. Az Adevărul szerint Neacșu, Rogobete és Marinescu visszatérése a kormányba különösen valószínűnek tűnik, de a lista nem végleges.\n\n• **Vlad Ionescu és Eugen Tomac neve is felmerült:** Ionescu lehet a védelmi miniszter, Tomac pedig tárca nélküli miniszterelnök-helyettesként kerülhet a kabinetbe. Ezek a sajtóértesülések egyelőre nem jelentenek hivatalos jelölést.\n\n• **A PSD szerdán 16 órakor, a Vila Lacban ülésezik**, és dönt arról, hogy miniszterekkel lép-e be a kormányba, vagy csak parlamenti támogatást nyújt. Marian Neacșu a HotNewsnak úgy fogalmazott: ha létrejön a kormány, vegyes, politikusokból és technokratákból álló kabinet lesz.\n\n• **A parlamenti támogatás körül is vannak nyitott kérdések:** a PNL nem tervez kormányra lépni, de politikai megállapodást mérlegel; az UDMR támogatná a kormányt és programját, míg az USR kizárta egy PSD-s minisztereket is tartalmazó kabinet támogatását. Niculescu a hírek szerint csütörtökön terjeszti be a kormányprogramot és a miniszterek listáját a parlamentnek.",
+    "title_ro": "Lista posibililor miniștri din guvernul hibrid al lui Luca Niculescu s-a extins",
+    "lead_ro": "Noile informații din presă au adăugat mai multe nume pe lista posibililor miniștri din guvernul mixt pregătit de Luca Niculescu, cu politicieni PSD și tehnocrați. Lista și împărțirea portofoliilor nu sunt definitive, iar PSD decide miercuri dacă intră la guvernare cu miniștri sau oferă doar sprijin parlamentar.",
+    "content_ro": "• **Formula unui guvern hibrid** este luată în calcul: potrivit informațiilor din presă, Executivul ar putea reuni politicieni PSD, tehnocrați apropiați de președintele Nicușor Dan și specialiști aleși de Luca Niculescu. Propunerile nu sunt oficiale, iar negocierile privind portofoliile continuă.\n\n• **Dan Neculăescu și Sorin Costreie** sunt vehiculați pentru Ministerul de Externe, respectiv Ministerul Educației. Neculăescu este ambasadorul României la NATO, iar Costreie este consilier prezidențial pentru educație și cercetare, potrivit Digi24.\n\n• **Portofoliul Finanțelor este disputat:** numele lui Alexandru Nazare a fost luat în calcul, dar PSD ar dori să aibă propriul ministru la acest minister. Digi24 îl menționează pe Bogdan Ivan pentru Energie, pe Alexandru Rogobete pentru Sănătate și pe Petre-Florin Manole pentru Muncă; pentru acest din urmă portofoliu, Adevărul îl indică și pe Ciprian Văcaru ca posibilă variantă.\n\n• **Alte nume PSD vehiculate** sunt Marian Neacșu pentru Interne, Radu Marinescu pentru Justiție și Daniel Zamfir pentru Economie. Potrivit Adevărul, revenirea lui Neacșu, Rogobete și Marinescu în Guvern pare deosebit de probabilă, însă lista nu este definitivă.\n\n• **Au mai apărut numele lui Vlad Ionescu și Eugen Tomac:** Ionescu ar putea prelua Apărarea, iar Tomac ar putea deveni vicepremier fără portofoliu. Aceste informații din presă nu reprezintă nominalizări oficiale.\n\n• **PSD se reunește miercuri, la ora 16:00, la Vila Lac**, pentru a decide dacă intră la guvernare cu miniștri sau oferă doar sprijin parlamentar. Marian Neacșu a declarat pentru HotNews că, dacă se va forma, guvernul va fi unul mixt, alcătuit din politicieni și tehnocrați.\n\n• **Susținerea parlamentară rămâne incertă:** PNL nu intenționează să intre la guvernare, dar analizează un acord politic; UDMR ar vota Guvernul și programul său, în timp ce USR a exclus susținerea unui cabinet care include miniștri PSD. Potrivit informațiilor din presă, Niculescu va depune joi în Parlament programul de guvernare și lista miniștrilor."
+  },
+  {
+    "group_id": "group_a915534589",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/ab1098aa-62f2-4ef5-97a1-2f034f9fd0c0.png?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "FRF, atenție la ce s-a întâmplat în surpriza serii din Liga Campionilor » Un român a fost pe banca celor de la Bayern!",
+        "link": "https://www.gsp.ro/international/campionate/un-roman-a-fost-pe-banca-celor-de-la-bayern-987938.html"
+      }
+    ],
+    "published_at": 1791966810,
+    "title_hu": "FRF, atenție la ce s-a întâmplat în surpriza serii din Liga Campionilor » Un român a fost pe banca celor de la Bayern!",
+    "lead_hu": "David Podar-Știube, portar în vârstă de doar 16 ani, cu cetățenie română și germană, care a evoluat deja pentru selecționatele de juniori ale „Die Mannschaft”, a fost inclus în premieră în lotul prime…",
+    "content_hu": "David Podar-Știube, portar în vârstă de doar 16 ani, cu cetățenie română și germană, care a evoluat deja pentru selecționatele de juniori ale „Die Mannschaft”, a fost inclus în premieră în lotul primei echipe a lui Bayern Munchen pentru un meci oficial. Tânărul goalkeeper a fost rezervă în partida cu Viking, din Liga Campionilor, încheiată la egalitate, scor 3-3. ...",
+    "title_ro": "FRF, atenție la ce s-a întâmplat în surpriza serii din Liga Campionilor » Un român a fost pe banca celor de la Bayern!",
+    "lead_ro": "David Podar-Știube, portar în vârstă de doar 16 ani, cu cetățenie română și germană, care a evoluat deja pentru selecționatele de juniori ale „Die Mannschaft”, a fost inclus în premieră în lotul prime…",
+    "content_ro": "David Podar-Știube, portar în vârstă de doar 16 ani, cu cetățenie română și germană, care a evoluat deja pentru selecționatele de juniori ale „Die Mannschaft”, a fost inclus în premieră în lotul primei echipe a lui Bayern Munchen pentru un meci oficial. Tânărul goalkeeper a fost rezervă în partida cu Viking, din Liga Campionilor, încheiată la egalitate, scor 3-3. ..."
+  },
+  {
+    "group_id": "group_fecc530ca6",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Copilul spune mereu „nu știu”, deși știe răspunsul? Ce se poate ascunde în spatele acestor cuvinte și cum îl ajuți să aibă încredere în el",
+        "link": "https://hotnews.ro/copilul-spune-mereu-nu-stiu-desi-stie-raspunsul-ce-se-poate-ascunde-in-spatele-acestor-cuvinte-si-cum-il-ajuti-sa-aiba-incredere-in-el-2375573"
+      }
+    ],
+    "published_at": 1791966776,
+    "title_hu": "Copilul spune mereu „nu știu”, deși știe răspunsul? Ce se poate ascunde în spatele acestor cuvinte și cum îl ajuți să aibă încredere în el",
+    "lead_hu": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci a…",
+    "content_hu": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci altceva: „Ce ai vrea să mănânci la cină?”. Din nou, „Nu știu”. Iar când îl rogi să aleagă între două tricouri, …",
+    "title_ro": "Copilul spune mereu „nu știu”, deși știe răspunsul? Ce se poate ascunde în spatele acestor cuvinte și cum îl ajuți să aibă încredere în el",
+    "lead_ro": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci a…",
+    "content_ro": "„Cât fac 7 plus 5?” Copilul se uită la tine, își frământă mâinile și ridică din umeri. „Nu știu.” Îi amintești că ieri a rezolvat singur exerciții mai dificile, dar răspunsul rămâne același. Încerci altceva: „Ce ai vrea să mănânci la cină?”. Din nou, „Nu știu”. Iar când îl rogi să aleagă între două tricouri, …"
+  },
+  {
+    "group_id": "group_5a78f0302b",
+    "fingerprint": "0aee769ad128edeff61475334a1f067d",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/china-sua-taxe-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "China se îndreaptă spre un nou record mondial. Exporturile au explodat, iar excedentul comercial a ajuns la 938 de miliarde de dolari",
+        "link": "https://www.mediafax.ro/economic/china-se-indreapta-spre-un-nou-record-mondial-exporturile-au-explodat-iar-excedentul-comercial-a-ajuns-la-938-de-miliarde-de-dolari-23824982"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "China accelerează puternic: exporturile au crescut cu peste 36% în septembrie, cel mai mare avans din ultimii cinci ani. Inteligenţa artificială şi electronicele susţin ofensiva comercială a Beijingului",
+        "link": "https://www.zf.ro/business-international/china-accelereaza-puternic-exporturile-au-crescut-cu-peste-36-in-septembrie-cel-mai-mare-avans-din-ultimii-cinci-ani-inteligenta-artificiala-si-electronicele-sustin-ofensiva-comerciala-a-beijingului-23259814"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Exporturile Chinei au explodat în luna septembrie. Se apropie de un record în acest an",
+        "link": "https://stirileprotv.ro/stiri/financiar/exporturile-chinei-au-explodat-in-luna-septembrie-va-atinge-un-nou-record-anual-in-2026.html"
+      }
+    ],
+    "published_at": 1791966776,
+    "title_hu": "Rekord felé tart Kína kereskedelmi többlete: szeptemberben 36,3 százalékkal nőtt az export",
+    "lead_hu": "Kína exportja szeptemberben 36,3 százalékkal nőtt az előző év azonos hónapjához képest, ami 2021 eleje óta a leggyorsabb ütem, és jelentősen meghaladta az elemzői várakozásokat. Az első kilenc hónap kereskedelmi többlete 938 milliárd dollárra emelkedett, így az ország a 2025-ös, mintegy 1,2 billió dolláros rekord túlszárnyalása felé tart. A technológiai termékek és az autók húzzák a kivitelt, miközben a nyugati partnerek egyre nagyobb aggodalommal figyelik az egyensúlytalanságot.",
+    "content_hu": "• **2026. szeptember** Kína exportja 36,3 százalékkal haladta meg az egy évvel korábbit. A növekedés gyorsult az augusztusi 25 százalékhoz képest, meghaladta a 25,7 százalékos elemzői várakozást, és 2021 januárja–februárja óta a legnagyobb volt; akkor a járványhoz kapcsolódó bázishatás miatt 60,2 százalékos emelkedést mértek.\n\n• **A technológiai termékek és a mesterséges intelligenciához kapcsolódó kereslet** fontos hajtóerők: a félvezető-export az év első kilenc hónapjában 108,1 százalékkal, az adatfeldolgozó berendezéseké és alkatrészeiké 54,6 százalékkal nőtt. E termékek szeptemberben az export 17,9 százalékát adták, és az éves növekedésből 13 százalékponttal részesedtek. Egy esetleges globális AI-beruházási lassulás visszafoghatja a kínai technológiai kivitelt.\n\n• **Az autóexport** 54,3 százalékkal emelkedett, a Kínában gyártott elektromos és hibrid autók iránti nemzetközi keresletnek köszönhetően.\n\n• **A kereskedelmi többlet** szeptemberben 133,5 milliárd dollár volt, az augusztusi 119,1 milliárd után. Január és szeptember között 938 milliárd dollárra nőtt, szemben az előző év azonos időszakának 875 milliárdjával; a trend folytatódása esetén Kína túlszárnyalhatja a 2025-ös, mintegy 1,2 billió dolláros éves rekordot.\n\n• **Az import** szeptemberben 31 százalékkal bővült éves összevetésben, az augusztusi 28,2 százalék után. A növekedés meghaladta a 25 százalékos elemzői várakozást; az importszámlát az olajárak emelkedése is növelte.\n\n• **Az Egyesült Államokba és az Európai Unióba irányuló export** szeptemberben 39,6, illetve 25,3 százalékkal nőtt. Az amerikai adatot részben az előző évi kereskedelmi visszaesésből adódó kedvező bázishatás magyarázza, miközben az EU-ból származó kínai import stagnált. Brüsszel fenntarthatatlannak tartja a Kínával szembeni, napi egymilliárd eurót meghaladó kereskedelmi deficitet; a felek átmeneti megállapodása a következő években felére csökkentené a kínai hibrid autók uniós importját.\n\n• **Az amerikai–kínai kereskedelmi viszony** továbbra is feszültségekkel terhelt: Washington vizsgálja Kína és más partnerek ipari túlkapacitásait, miközben a két ország megállapodott a kereskedelmi fegyverszünet meghosszabbításáról. Kína Délkelet-Ázsia és Latin-Amerika felé is bővítené exportját, de ez nem pótolja teljesen a nyugati piacok keresletét.\n\n• **A kínai gazdaság belső gyengeségei** – a szerény fogyasztás és beruházás, valamint az ingatlanpiaci problémák – miatt Peking az exportra támaszkodik. A gazdaság 2026 második negyedévében 4,3 százalékkal nőtt; a kormány 4,5–5 százalékos éves célt tűzött ki, az IMF pedig 4,5 százalékos növekedést vár. Kína többek között jelzáloghitelek kamattámogatásával próbálja élénkíteni a gazdaságot, de az export önmagában nem ellensúlyozza a belső kereslet gyengeségét.",
+    "title_ro": "China se apropie de un nou record comercial: exporturile au crescut cu 36,3% în septembrie",
+    "lead_ro": "Exporturile Chinei au crescut cu 36,3% în septembrie față de aceeași lună a anului trecut, cel mai rapid ritm de la începutul lui 2021 și mult peste estimările analiștilor. Excedentul comercial cumulat în primele nouă luni a ajuns la 938 de miliarde de dolari, apropiind țara de depășirea recordului de aproximativ 1.200 de miliarde de dolari din 2025. Produsele tehnologice și automobilele susțin exporturile, în timp ce dezechilibrul comercial îngrijorează tot mai mult partenerii occidentali.",
+    "content_ro": "• **Septembrie 2026** a adus o creștere de 36,3% a exporturilor Chinei față de aceeași lună a anului precedent. Avansul s-a accelerat de la 25% în august, a depășit estimarea de 25,7% a analiștilor și a fost cel mai mare din ianuarie-februarie 2021; atunci, efectele bazei de comparație din pandemie au dus la o creștere de 60,2%.\n\n• **Produsele tehnologice și cererea asociată inteligenței artificiale** sunt motoare importante ale exporturilor: livrările de semiconductori au crescut cu 108,1% în primele nouă luni, iar cele de echipamente pentru procesarea automată a datelor și componente aferente, cu 54,6%. Aceste produse au reprezentat 17,9% din exporturile din septembrie și au contribuit cu 13 puncte procentuale la creșterea anuală. O eventuală încetinire a investițiilor globale în AI ar putea afecta exporturile tehnologice ale Chinei.\n\n• **Exporturile de automobile** au crescut cu 54,3%, susținute de cererea internațională pentru mașini electrice și hibride produse în China.\n\n• **Excedentul comercial** a fost de 133,5 miliarde de dolari în septembrie, față de 119,1 miliarde în august. În perioada ianuarie-septembrie, acesta a ajuns la 938 de miliarde de dolari, comparativ cu 875 de miliarde în aceeași perioadă a anului trecut; dacă tendința continuă, China ar putea depăși recordul anual de aproximativ 1.200 de miliarde de dolari stabilit în 2025.\n\n• **Importurile** au crescut cu 31% în septembrie față de aceeași lună a anului trecut, după un avans de 28,2% în august. Creșterea a depășit estimarea analiștilor de 25%, iar majorarea prețurilor petrolului a contribuit la factura de import.\n\n• **Exporturile către Statele Unite și Uniunea Europeană** au crescut în septembrie cu 39,6%, respectiv 25,3%. Evoluția exporturilor către SUA a beneficiat parțial de baza de comparație favorabilă, după scăderea comerțului în anul precedent, în timp ce importurile Chinei din UE au stagnat. Bruxelles-ul consideră nesustenabil deficitul comercial cu China, de peste un miliard de euro pe zi; un acord interimar între părți ar înjumătăți în următorii ani importurile UE de automobile hibride chinezești.\n\n• **Relația comercială dintre SUA și China** rămâne tensionată: Washingtonul investighează capacitățile industriale excedentare ale Chinei și ale altor parteneri, în timp ce cele două țări au convenit prelungirea armistițiului comercial. China încearcă să-și extindă exporturile către Asia de Sud-Est și America Latină, dar aceste piețe nu pot înlocui integral cererea occidentală.\n\n• **Slăbiciunile interne ale economiei chineze** – consumul și investițiile modeste, precum și problemele persistente din sectorul imobiliar – sporesc dependența de exporturi. Economia a crescut cu 4,3% în trimestrul al doilea din 2026; guvernul a stabilit o țintă anuală de 4,5%-5%, iar FMI estimează o creștere de 4,5%. China încearcă să stimuleze economia, inclusiv prin subvenționarea dobânzilor la creditele ipotecare, însă exporturile nu pot compensa singure slăbiciunea cererii interne."
+  },
+  {
+    "group_id": "group_f8339bab86",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/20f47cc9-f3d5-49d8-9cc5-4ae04ab98985.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "A costat 60 de milioane de euro, dar a fost „tras pe linie moartă” » Starul din Premier League, trimis la echipa a doua",
+        "link": "https://www.gsp.ro/international/campionate/startul-premier-league-trimis-echipa-a-doua-richarlison-987924.html"
+      }
+    ],
+    "published_at": 1791966770,
+    "title_hu": "A costat 60 de milioane de euro, dar a fost „tras pe linie moartă” » Starul din Premier League, trimis la echipa a doua",
+    "lead_hu": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce …",
+    "content_hu": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce a refuzat mai multe oferte de transfer în această vară, a fost „tras pe linie moartă” de antrenorul Roberto de Zerbi. ...",
+    "title_ro": "A costat 60 de milioane de euro, dar a fost „tras pe linie moartă” » Starul din Premier League, trimis la echipa a doua",
+    "lead_ro": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce …",
+    "content_ro": "Richarlison (29 de ani) rămâne una dintre marile enigme din fotbalul englez. Internaționalul brazilian a fost golgheterul lui Tottenham în sezonul trecut, cu 12 goluri în 43 de meciuri, însă, după ce a refuzat mai multe oferte de transfer în această vară, a fost „tras pe linie moartă” de antrenorul Roberto de Zerbi. ..."
+  },
+  {
     "group_id": "group_2984395b83",
     "category": "Erdély",
     "image": "https://hargitanepe.ro//images/data/423x222/1791965582_0_WhatsApp Image 2026-10-14 at 11.12.44.jpeg",
@@ -61,6 +663,27 @@
     "title_ro": "Mare parte din livezile de măslini din Gaza, distruse cu buldozerele de armata israeliană, spun palestinienii",
     "lead_ro": "Autoritățile agricole din Gaza, citate de Reuters, estimează că, din cele 2 milioane de măslini, doar 150.000 mai sunt în picioare după război. Oficialii și localnicii din Gaza se plâng că armata isra…",
     "content_ro": "Autoritățile agricole din Gaza, citate de Reuters, estimează că, din cele 2 milioane de măslini, doar 150.000 mai sunt în picioare după război. Oficialii și localnicii din Gaza se plâng că armata israeliană le-a distrus o mare parte din plantațiile de măslini. Înainte de război, măslinele erau bijuteriile agriculturii din Gaza, presate pentru a obține …"
+  },
+  {
+    "group_id": "group_f191f5c8d0",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/41486/23259849/1/diana-dumitrescu.png?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Diana Dumitrescu, CEO, InnovX: Companiile româneşti sunt pregătite să intre pe piaţa din SUA, trebuie doar să ajungă la oamenii şi partenerii potriviţi. Oportunităţile îi caută pe cei pregătiţi",
+        "link": "https://www.zf.ro/moonshotx/diana-dumitrescu-ceo-innovx-companiile-romanesti-sunt-pregatite-sa-intre-pe-piata-din-sua-trebuie-doar-sa-ajunga-la-oamenii-si-partenerii-potriviti-oportunitatile-ii-cauta-pe-cei-pregatiti-23259849"
+      }
+    ],
+    "published_at": 1791966692,
+    "title_hu": "Diana Dumitrescu, CEO, InnovX: Companiile româneşti sunt pregătite să intre pe piaţa din SUA, trebuie doar să ajungă la oamenii şi partenerii potriviţi. Oportunităţile îi caută pe cei pregătiţi",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Diana Dumitrescu, CEO, InnovX: Companiile româneşti sunt pregătite să intre pe piaţa din SUA, trebuie doar să ajungă la oamenii şi partenerii potriviţi. Oportunităţile îi caută pe cei pregătiţi",
+    "lead_ro": "",
+    "content_ro": ""
   },
   {
     "group_id": "group_d94d258b96",
@@ -172,6 +795,39 @@
     "content_ro": "• **Trump îl consideră pe Putin mai dornic de pace decât pe Zelenski**: președintele american nu a condamnat Moscova pentru atacurile asupra infrastructurii energetice și a spus că ambele părți ar fi putut încălca armistițiul energetic. El a susținut că Zelenski trebuie, de asemenea, convins să accepte un acord.\n\n• **Zelenski cere reciprocitate și acțiuni din partea SUA**: el a spus că, după anunțul lui Trump privind armistițiul, Rusia a atacat o centrală electrică din Harkov, iar dronele au lovit Kievul. Ucraina este pregătită să oprească atacurile asupra infrastructurii energetice rusești dacă Moscova face același lucru; potrivit Kievului, forțele ucrainene nu au atacat rafinării rusești în noaptea respectivă.\n\n• **Acordul privind motorina a fost prezentat ca un semnal pentru reluarea negocierilor**: potrivit surselor Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea de la Miami, că înțelegerea ar putea transmite Moscovei că, după oprirea atacurilor ucrainene asupra rafinăriilor, este rândul Rusiei să facă un pas. S-au discutat și garanțiile de securitate și reconstrucția, fără a se ajunge la un acord oficial; sursele Reuters au afirmat că emisarii americani nu au amenințat atunci cu retragerea sprijinului.\n\n• **Au apărut cifre diferite privind volumul de motorină planificat**: un anunț menționa peste 2,25 milioane de barili, iar un alt material relata planul lui Trump de 4,8 milioane de tone, echivalentul a aproape 36 de milioane de barili. Potrivit acestuia, ar urma să fie livrate inițial 300.000 de tone, apoi alte 500.000 în noiembrie și un milion de tone ulterior, cu până la trei milioane de tone suplimentare, în funcție de starea rafinăriilor rusești.\n\n• **Efectul estimat al acordului asupra prețurilor este redus**: Goldman Sachs estimează că livrările planificate pentru octombrie și noiembrie ar putea reduce prețul angro al motorinei cu numai 1–2 dolari pe baril în SUA și Europa. Marți, motorina costa în medie 6,28 dolari pe galon în SUA, cu 72% mai mult decât cu un an înainte; benzina costa 4,34 dolari, față de 3,08 dolari. Războiul împotriva Iranului și perturbările din Strâmtoarea Hormuz au fost indicate printre principalele cauze ale scumpirii. SUA sunt exportator net de motorină, iar livrările rusești ar putea afecta mai ales competiția pe piețe precum Brazilia și Turcia.\n\n• **Relaxarea sancțiunilor ar putea crea un precedent politic și economic**: analiștii avertizează că decizia SUA poate lăsa impresia că sancțiunile pot fi ocolite cu ușurință și poate încuraja alte state să procedeze la fel. Propagandiști ruși au menționat Coreea de Sud ca posibil exemplu și au susținut că Trump ar căuta sprijinul Moscovei înaintea alegerilor americane de la jumătatea mandatului; unul dintre ei a insinuat, fără dovezi, că Jared Kushner ar fi obținut un câștig financiar.\n\n• **Putin ar condiționa negocierile serioase de concesii teritoriale**: o persoană apropiată de Kremlin a apreciat că liderul rus ar reveni la negocieri substanțiale doar dacă ar obține restul de 11% din Donbas aflat încă sub control ucrainean. Ucraina a declarat că nu va ceda alte teritorii, dar că înghețarea conflictului pe actualele linii ale frontului ar putea constitui baza unui acord de pace.\n\n• **Washingtonul pune presiune pe Kiev pentru oprirea atacurilor asupra rafinăriilor**: Trump a cerut public alegerea unui nou președinte ucrainean. Potrivit Financial Times, oficiali americani au amenințat că ar putea limita vânzările de arme și cooperarea în domeniul informațiilor; un alt material a relatat că s-a discutat și posibilitatea condiționării sprijinului de informații de organizarea alegerilor. Analiștii avertizează că limitarea schimbului de informații sau a Starlink ar slăbi grav apărarea Ucrainei.\n\n• **Zelenski condiționează alegerile de o încetare totală a focului timp de 60 de zile**: el i-a transmis lui Putin că Ucraina poate organiza alegeri după două luni de armistițiu complet. Într-un sondaj, Valeri Zalujnîi era prezentat drept posibil favorit, cu peste 20% dintre respondenți spunând că l-ar vota; 53% declarau că au încredere în Kirilo Budanov. Mihail Fedorov și Petro Poroșenko au fost, de asemenea, menționați ca posibili candidați.\n\n• **Senatorii cer anularea acordului privind motorina**: un grup bipartizan susține că înțelegerea va avea un efect neglijabil asupra prețurilor la combustibil, dar va aduce venituri Rusiei pentru continuarea războiului. Invocând interdicția importurilor din 2022 și legea privind sancțiunile din 2026, senatorii au cerut revocarea Licenței generale nr. 135 și aplicarea legii.\n\n• **Un nou atac rusesc a lăsat peste 600.000 de oameni fără electricitate**: potrivit lui Zelenski, Rusia a lansat 39 de rachete balistice și peste 120 de drone de atac asupra infrastructurii energetice și critice din Kiev, regiunea Kiev și Harkov. Președintele ucrainean a raportat avarii la 26 de instalații energetice și patru obiective din sectorul petrolier și gazier; bilanțul preliminar citat de Kyiv Independent indica cel puțin trei morți și 22 de răniți. Zelenski a descris atacul drept o demonstrație de sfidare față de Statele Unite și a cerut sancțiuni mai dure și rachete interceptoare Patriot.\n\n• **Giorgia Meloni a calificat acordul drept riscant și favorabil Moscovei**: premierul Italiei a spus că înțelegerea legitimează Rusia, poate furniza venituri noi pentru finanțarea războiului și slăbește sancțiunile. Ea a propus ca UE să desemneze un reprezentant cu mandat pentru negocierile privind Ucraina, rol care ar putea reveni grupului E3, format din Franța, Germania și Regatul Unit.\n\n• **Lideri europeni și adversari politici ai lui Zelenski au criticat deciziile lui Trump**: Kaja Kallas a afirmat că această concesie contribuie la războiul Moscovei, iar UE a adoptat noi sancțiuni care vizează industria militară rusă. Statele europene din G7 ar urma să elibereze 100 de milioane de barili de motorină și țiței din rezervele strategice în următoarele patru luni. Petro Poroșenko a spus că, dacă undeva este nevoie de un nou lider, acela este Rusia; un deputat ucrainean din opoziție a apreciat că atacurile lui Trump ar putea chiar să sporească sprijinul pentru Zelenski."
   },
   {
+    "group_id": "group_b431df592a",
+    "fingerprint": "c4a32281bdd2acb9374e88b42b627617",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8160101-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Elon Musk devine cel mai mare donator politic al alegerilor intermediare din SUA. A cheltuit peste 350 de milioane de dolari",
+        "link": "https://www.mediafax.ro/stirile-zilei/elon-musk-devine-cel-mai-mare-donator-politic-al-alegerilor-intermediare-din-sua-a-cheltuit-peste-350-de-milioane-de-dolari-23824807"
+      },
+      {
+        "source": "G4Media",
+        "title": "Elon Musk devine cel mai mare donator politic al alegerilor intermediare din SUA. A cheltuit peste 350 de milioane de dolari",
+        "link": "https://www.g4media.ro/elon-musk-devine-cel-mai-mare-donator-politic-al-alegerilor-intermediare-din-sua-a-cheltuit-peste-350-de-milioane-de-dolari.html"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Elon Musk devine cel mai mare donator politic din istoria alegerilor intermediare din SUA",
+        "link": "https://www.go4it.ro/content/business/elon-musk-devine-cel-mai-mare-donator-politic-din-istoria-alegerilor-intermediare-din-sua-19287778/"
+      }
+    ],
+    "published_at": 1791966600,
+    "title_hu": "Elon Musk 366 millió dollárt költött az amerikai félidős választásokra",
+    "lead_hu": "Elon Musk mintegy 366 millió dollárral támogatta a 2026-os amerikai félidős választásokhoz kötődő politikai szervezeteket, ezzel meghaladva a 2024-es elnökválasztási kampányra fordított összegét. A pénz jelentős része republikánusokat segítő szervezetekhez került; a kiadások egy részét politikai reklámokra és üzenetekre fordítják.",
+    "content_hu": "• **Elon Musk mintegy 366 millió dolláros politikai kiadása** az amerikai félidős választásokhoz kapcsolódik, és meghaladja azt a közel 300 millió dollárt, amelyet a 2024-es elnökválasztáson Donald Trump újraválasztásának támogatására fordított.\n\n• **Július óta több mint 276 millió dollárt** költött politikai célokra. A kiadások egyik fő célja azoknak a versenyeknek a befolyásolása, amelyek eldönthetik, melyik párt ellenőrzi a szenátust.\n\n• **A legnagyobb egyedi hozzájárulása 158 millió dollár** volt a republikánusok szenátusi többségének megőrzését segítő Senate Leadership Fund számára. További 76 millió dollárt az America PAC, 20 milliót a Republican Congressional Leadership Fund, 10 milliót pedig a Republikánus Kormányzók Szövetsége kapott.\n\n• **Ken Paxton texasi szenátusi kampánya 10 millió dolláros támogatást kapott.** Musk ugyanekkora összeget adományozott januárban a kentucky-i republikánus Nate Morrisnak is, aki később visszalépett a jelöltségtől.\n\n• **A pénz egy részét politikai reklámokra és üzenetekre fordítják**, amelyek a források szerint transzellenes retorikát használnak, a demokrata jelölteket pedig radikális szocialistaként állítják be. Musk az X-en is bírálja politikai ellenfeleit; a cikkek választási dezinformáció terjesztésével is vádolják.\n\n• **A kiadások fordulatot jelentenek Musk korábbi álláspontjához képest:** tavaly azt jelezte, visszafogja a nagyszabású politikai adományozást. A 366 millió dolláros összeg a források szerint vagyonának kevesebb mint 0,04 százaléka.",
+    "title_ro": "Elon Musk a cheltuit 366 de milioane de dolari pentru alegerile intermediare din SUA",
+    "lead_ro": "Elon Musk a alocat aproximativ 366 de milioane de dolari unor organizații politice implicate în alegerile intermediare din SUA din 2026, depășind suma cheltuită pentru campania prezidențială din 2024. O parte importantă a banilor a ajuns la grupuri care susțin republicanii, iar o parte este folosită pentru publicitate și mesaje politice.",
+    "content_ro": "• **Cheltuielile politice ale lui Elon Musk, estimate la 366 de milioane de dolari**, sunt legate de alegerile intermediare din SUA și depășesc cele aproape 300 de milioane de dolari alocate în 2024 pentru campania de realegere a lui Donald Trump.\n\n• **Musk a cheltuit peste 276 de milioane de dolari din iulie încoace.** Una dintre țintele principale ale acestor cheltuieli este influențarea curselor electorale care vor determina ce partid controlează Senatul.\n\n• **Cea mai mare contribuție individuală a fost de 158 de milioane de dolari** către Senate Leadership Fund, care urmărește să ajute republicanii să-și păstreze majoritatea în Senat. Alte contribuții au inclus 76 de milioane de dolari pentru America PAC, 20 de milioane pentru Republican Congressional Leadership Fund și 10 milioane pentru Asociația Guvernatorilor Republicani.\n\n• **Campania pentru Senat a lui Ken Paxton din Texas a primit 10 milioane de dolari.** În ianuarie, Musk a donat aceeași sumă republicanului Nate Morris din Kentucky, care ulterior s-a retras din cursă.\n\n• **O parte din bani este folosită pentru publicitate și mesaje politice**, care, potrivit surselor, recurg la retorică anti-transgender și îi prezintă pe candidații democrați drept socialiști radicali. Musk își critică adversarii politici și pe platforma X; articolele îl acuză și de răspândirea dezinformării electorale.\n\n• **Cheltuielile marchează o schimbare față de poziția sa anterioară:** anul trecut, Musk a spus că își va reduce donațiile politice de amploare. Potrivit surselor, suma de 366 de milioane de dolari reprezintă mai puțin de 0,04% din averea sa."
+  },
+  {
     "group_id": "group_7828f76de9",
     "fingerprint": "22571142687b3d688725dd8d9fb51b1d",
     "category": "Politika",
@@ -223,6 +879,27 @@
     "title_ro": "Bolojan: PNL rămâne în opoziție, dar ar susține Guvernul Niculescu timp de șase luni",
     "lead_ro": "Ilie Bolojan a anunțat că PNL ia în calcul un acord politic bilateral cu premierul desemnat Luca Niculescu, fără să intre la guvernare. Dacă principiile acordului sunt respectate, liberalii nu ar iniția și nu ar vota o moțiune de cenzură împotriva Guvernului Niculescu în primele șase luni.",
     "content_ro": "• **Ilie Bolojan a anunțat** că PNL ia în calcul încheierea unui acord politic bilateral cu premierul desemnat Luca Niculescu. Documentul nu ar fi un acord de coaliție și nu ar presupune participarea liberalilor la Guvern.\n\n• **PNL ar rămâne în opoziție**, dar ar susține măsurile Guvernului Niculescu care, în opinia partidului, servesc interesului României și respectă principiile economice și financiare asumate.\n\n• **Printre condițiile acordului** s-ar număra atingerea țintei de deficit, menținerea disciplinei fiscale, protejarea investițiilor, folosirea responsabilă a banului public și respectarea angajamentelor europene ale României.\n\n• **Bugetul de stat pentru 2027** ar putea fi susținut și votat de PNL dacă este realist și fundamentat pe venituri care pot fi încasate. Bolojan a spus că bugetul trebuie să continue consolidarea fiscală, să protejeze investițiile și să evite creșterea cheltuielilor fără acoperire.\n\n• **În primele șase luni**, PNL nu ar iniția și nu ar vota nicio moțiune de cenzură împotriva Guvernului Niculescu, atât timp cât premierul respectă principiile și obiectivele prevăzute în acord.\n\n• **Bolojan a precizat** că PNL nu cere funcții guvernamentale și nu negociază ministere. Liberalii au spus că vor critica deciziile pe care le consideră greșite și vor susține măsurile care servesc interesului României."
+  },
+  {
+    "group_id": "group_e01919b662",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/Nicusor-Dan.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Nicușor Dan, despre Centura Verde București–Ilfov, pe care a susținut-o și ca primar general: Protejarea pădurilor din jurul Capitalei și conectarea lor, introduse în planificarea metropolitană / „Avem nevoie de aer mai curat și de o mai bună adaptare la temperaturi tot mai ridicate”",
+        "link": "https://www.g4media.ro/nicusor-dan-centura-verde-bucuresti-ilfov-paduri-planificare-metropolitana.html"
+      }
+    ],
+    "published_at": 1791966550,
+    "title_hu": "Nicușor Dan, despre Centura Verde București–Ilfov, pe care a susținut-o și ca primar general: Protejarea pădurilor din jurul Capitalei și conectarea lor, introduse în planificarea metropolitană / „Avem nevoie de aer mai curat și de o mai bună adaptare la temperaturi tot mai ridicate”",
+    "lead_hu": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit …",
+    "content_hu": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit 2026 de la București, șeful statului vorbește despre planificarea zonei metropolitane și spune că protejarea pădurilor din jurul Capitalei și refacerea legăturilor dintre spațiile naturale trebuie […] © G4Media.ro.",
+    "title_ro": "Nicușor Dan, despre Centura Verde București–Ilfov, pe care a susținut-o și ca primar general: Protejarea pădurilor din jurul Capitalei și conectarea lor, introduse în planificarea metropolitană / „Avem nevoie de aer mai curat și de o mai bună adaptare la temperaturi tot mai ridicate”",
+    "lead_ro": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit …",
+    "content_ro": "Președintele Nicușor Dan declară că o inițiativă pe care dorește să o vadă reflectată în politicile publice este proiectul Centurii Verzi București–Ilfov. În mesajul transmis la Climate Change Summit 2026 de la București, șeful statului vorbește despre planificarea zonei metropolitane și spune că protejarea pădurilor din jurul Capitalei și refacerea legăturilor dintre spațiile naturale trebuie […] © G4Media.ro."
   },
   {
     "group_id": "group_cca1d9e7c6",
@@ -316,6 +993,34 @@
     "content_ro": "• **La aeroporturile Henri Coandă și Băneasa** a fost introdus accesul automatizat în parcările publice pentru autovehiculele care transportă persoane cu mobilitate redusă și dețin o legitimație valabilă. Sistemul permite intrarea fără tichet și fără plata parcării.\n\n• **Sistemul de recunoaștere a numerelor de înmatriculare** verifică la intrare dacă datele vehiculului sunt înregistrate în baza de date; dacă înregistrarea este valabilă, bariera se deschide automat.\n\n• **Înregistrarea prealabilă este necesară:** persoana eligibilă sau reprezentantul acesteia trebuie să trimită la parcare.pmr@cnab.ro numele beneficiarului sau al reprezentantului legal, datele legitimației, numărul de înmatriculare și datele de contact.\n\n• **Legitimația în original trebuie afișată vizibil** în partea din față a autovehiculului pe durata utilizării parcării. Orice modificare a numărului de înmatriculare sau a valabilității legitimației trebuie comunicată cu cel puțin 48 de ore înainte, pentru actualizarea bazei de date.\n\n• **Dacă sistemul nu recunoaște numărul de înmatriculare,** șoferul poate solicita ajutor prin interfonul de la barieră; personalul verifică datele și autorizează accesul pe loc."
   },
   {
+    "group_id": "group_36ed859f4d",
+    "fingerprint": "66ad6ec0728b938d9d912ee0a91574b3",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/01/8099672-hepta_mediafax_foto-abacapress_hepta-1024x768.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "O femeie din Iran, condamnată la pedeapsa cu moartea, după ce a postat pe rețelele de socializare. Statul o acuză de blasfemie",
+        "link": "https://www.mediafax.ro/externe/o-femeie-din-iran-condamnata-la-pedeapsa-cu-moartea-dupa-ce-a-postat-pe-retelele-de-socializare-statul-o-acuza-de-blasfemie-23824965"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Caz tulburător în Iran: o studentă de 23 de ani, condamnată la moarte după o postare online",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/caz-tulburator-in-iran-o-studenta-de-23-de-ani-2563900.html"
+      }
+    ],
+    "published_at": 1791966382,
+    "title_hu": "Halálra ítéltek egy 23 éves iráni egyetemistát egy közösségi médiás bejegyzés miatt",
+    "lead_hu": "A 23 éves Najmeh Amini iráni számviteli hallgatót a próféta megsértésének vádjával halálra ítélték, egy külön ügyben pedig több mint 12 év börtönt kapott. Emberi jogi szervezetek szerint az ítélet a közösségi médiás véleménynyilvánítás büntetőjogi üldözésének és az iráni kivégzések növekedésének aggasztó példája.",
+    "content_hu": "• **Najmeh Amini**, a 23 éves iráni számviteli hallgató a mashhadi Vakilabad börtönben van fogva. Két külön ügyben ítélkeztek felette: az egyikben halálbüntetést kapott a „sab ol-nabi”, vagyis a próféta megsértésének vádjával, a másikban pedig 12 év, 6 hónap és 1 nap börtönbüntetést szabtak ki rá, többek között a nemzetbiztonság elleni cselekmények és a rezsim elleni propaganda vádjával.\n\n• **Az ítélet alapjául szolgáló bejegyzés** a közösségi médiában jelent meg. A Khorasan című iráni lap beszámolója szerint Amini azt mondta a bíráknak, hogy pszichedelikus gombák fogyasztása után hallucinált, amikor közzétette az üzeneteket; védelme „nyelvbotlásként” írta le az esetet, de a bíró elutasította ezt az érvelést.\n\n• **A halálos ítélet nem jogerős**, és az iráni Legfelsőbb Bíróságon megtámadható. Amini januárban, a hatóságok által erőszakkal feloszlatott országos tiltakozások idején került őrizetbe.\n\n• **Amini a börtönből nemzetközi segítséget kért** egy múlt hónapban nyilvánosságra hozott hangfelvételen. Arra kérte az ENSZ-t, az ügyvédeket és az emberi jogi szervezeteket, hogy vizsgálják ki az ügyét, és azt mondta: azt szeretné, ha az emberek „a hangja” lennének.\n\n• **Az Iran Human Rights oslói székhelyű szervezet szerint** az év eleje óta több mint 600 embert végeztek ki Iránban. Emberi jogi aktivisták arra figyelmeztetnek, hogy a hatóságok egyre gyakrabban alkalmazzák a halálbüntetést a félelemkeltés és a másként gondolkodók elhallgattatása érdekében.",
+    "title_ro": "O studentă iraniană de 23 de ani, condamnată la moarte pentru o postare pe rețelele sociale",
+    "lead_ro": "Najmeh Amini, o studentă iraniană la contabilitate în vârstă de 23 de ani, a fost condamnată la moarte pentru insultarea profetului, iar într-un dosar separat a primit peste 12 ani de închisoare. Organizațiile pentru drepturile omului consideră cazul un exemplu îngrijorător al pedepsirii exprimării pe rețelele sociale și al creșterii numărului de execuții din Iran.",
+    "content_ro": "• **Najmeh Amini**, studenta iraniană la contabilitate în vârstă de 23 de ani, este deținută în penitenciarul Vakilabad din Mashhad. Ea a fost judecată în două dosare separate: într-unul a primit pedeapsa cu moartea pentru „sab ol-nabi”, adică insultarea profetului, iar în celălalt a fost condamnată la 12 ani, șase luni și o zi de închisoare, între altele pentru acțiuni împotriva securității naționale și propagandă împotriva regimului.\n\n• **Postarea care a dus la condamnare** a fost publicată pe rețelele sociale. Potrivit publicației iraniene Khorasan, Amini le-a spus judecătorilor că avea halucinații după ce consumase ciuperci psihedelice când a publicat mesajele; apărarea a descris incidentul drept o „scăpare verbală”, însă judecătorul a respins acest argument.\n\n• **Condamnarea la moarte nu este definitivă** și poate fi contestată la Curtea Supremă a Iranului. Amini a fost arestată în ianuarie, în timpul protestelor naționale reprimate violent de autorități.\n\n• **Amini a cerut sprijin internațional din închisoare** într-o înregistrare audio făcută publică luna trecută. Ea le-a cerut ONU, avocaților și organizațiilor pentru drepturile omului să-i investigheze cazul și a spus că își dorește ca oamenii să fie „vocea” ei.\n\n• **Potrivit organizației Iran Human Rights, cu sediul la Oslo**, peste 600 de persoane au fost executate în Iran de la începutul acestui an. Activiștii pentru drepturile omului avertizează că autoritățile folosesc tot mai des pedeapsa capitală pentru a instaura frica și a reduce la tăcere disidența."
+  },
+  {
     "group_id": "group_e93a364abe",
     "fingerprint": "ac3c7f7a1b454309097daeab31830126",
     "category": "Általános",
@@ -375,6 +1080,34 @@
     "title_ro": "Perseverance a stabilit un nou record pe Marte: 45,22 kilometri parcurși",
     "lead_ro": "Roverul Perseverance al NASA a ajuns la 45,22 kilometri parcurși pe Marte la 11 octombrie, depășind recordul anterior de 45,16 kilometri stabilit de Opportunity. Folosind navigația autonomă, vehiculul explorează formațiuni geologice străvechi de la marginea craterului Jezero, iar misiunea sa prelungită poate continua până la sfârșitul anului 2028.",
     "content_ro": "• **La 11 octombrie**, odometrul roverului Perseverance a ajuns la 45,22 kilometri. NASA a depășit astfel recordul marțian anterior, de 45,16 kilometri, stabilit de Opportunity; acel rover a parcurs distanța în aproape 15 ani, în timp ce Perseverance a avut nevoie de aproximativ cinci ani și jumătate pentru a stabili noul record.\n\n• **Sistemul autonom AutoNav** permite efectuarea fără intervenție umană a peste 90% din traseul roverului. Camerele sale analizează terenul din față, construiesc o hartă tridimensională a obstacolelor și calculează o rută sigură; într-o zi marțiană, roverul poate parcurge până la 412 metri.\n\n• **Recordul a fost stabilit la marginea vestică a craterului Jezero**, în regiunea Lac de Charmes, în timp ce roverul se îndrepta spre zona numită Idubi. Cercetătorii analizează formațiuni geologice străvechi și caută indicii că în regiune ar fi existat cândva sisteme hidrotermale.\n\n• **Perseverance a colectat până acum 29 de probe de roci și regolit**, din fostul fund al lacului Jezero, dintr-o deltă și din regiunea marginii craterului. Roverul a identificat anterior o posibilă biosemnătură într-o rocă numită Cheyava Falls, însă aceasta nu demonstrează deocamdată că a existat viață pe Marte.\n\n• **NASA a prelungit misiunea până spre sfârșitul anului 2028**, pentru ca roverul să continue explorarea marginii craterului Jezero. Planul inițial prevedea parcurgerea a cel mult 20 de kilometri, însă sistemele de deplasare ale roverului continuă să funcționeze."
+  },
+  {
+    "group_id": "group_32843e7557",
+    "fingerprint": "fdb6c6f9e89d6ef7dd968061dc96f9d5",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Iași: Prezență numeroasă la slujba de hramul Sfintei Parascheva; oficiază 28 de ierarhi din mai multe țări",
+        "link": "https://agerpres.ro/social/2026/10/14/iasi-prezenta-numeroasa-la-slujba-de-hramul-sfintei-parascheva-oficiaza-28-de-ierarhi-din-mai-multe---1602714"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Mii de credincioşi la slujba de hram a Sfintei Parascheva, din Iași. Au oficiat 28 de ierarhi din mai multe ţări. VIDEO",
+        "link": "https://stirileprotv.ro/stiri/actualitate/prezen-a-numeroasa-la-slujba-de-hramul-sfintei-parascheva-oficiaza-28-de-ierarhi-din-mai-multe-ari.html"
+      }
+    ],
+    "published_at": 1791966188,
+    "title_hu": "Több tízezer zarándok vett részt a Szent Paraszkeva-napi ünnepségen Iași-ban",
+    "lead_hu": "Több tízezer hívő érkezett Iași-ba Szent Paraszkeva ünnepére, és kilométeres sorban várakozott, hogy lerója tiszteletét az ereklyéknél. Az ünnepi liturgiát 28 romániai és külföldi főpap mutatta be.",
+    "content_hu": "• **Október 14-én** több ezer hívő gyűlt össze Iași-ban, a Moldvai és Bukovinai Metropólia környékén, hogy részt vegyen Szent Paraszkeva ünnepi liturgiáján.\n\n• **A szertartást 28 főpap** vezette, köztük Teofan, Moldva és Bukovina metropolitája, valamint Dimitrosz, Franciaország metropolitája és Európa exarchája. A résztvevők között romániai, görög, szerb és francia ortodox egyházi vezetők is voltak.\n\n• **Több tízezer zarándok** állt kilométeres sorban, hogy tiszteletét tegye Szent Paraszkeva ereklyéinél. A zarándokok számára a metropolitai székesegyház és a Nemzeti Színház közötti területet is megnyitották, a liturgiát pedig több nagy kivetítőn közvetítették.\n\n• **Szent Paisziosz ereklyéit is kihelyezték** az ünnepi alkalomra; azokat egy Neamț megyei kolostorból hozták Iași-ba.",
+    "title_ro": "Zeci de mii de pelerini au participat la sărbătoarea Sfintei Parascheva, la Iași",
+    "lead_ro": "Zeci de mii de credincioși au venit la Iași de sărbătoarea Sfintei Parascheva și au stat la cozi de câțiva kilometri pentru a se închina la moaște. Sfânta Liturghie a fost oficiată de 28 de ierarhi din țară și din străinătate.",
+    "content_ro": "• **Pe 14 octombrie**, mii de credincioși s-au adunat la Iași, în zona Mitropoliei Moldovei și Bucovinei, pentru a participa la slujba de hram a Sfintei Parascheva.\n\n• **Slujba a fost oficiată de 28 de ierarhi**, între care Teofan, mitropolitul Moldovei și Bucovinei, și Dimitros, mitropolitul Franței și exarh al Europei. La ceremonie au participat reprezentanți ai bisericilor ortodoxe din România, Grecia, Serbia și Franța.\n\n• **Zeci de mii de pelerini** au format un rând de câțiva kilometri pentru a se închina la moaștele Sfintei Parascheva. Pentru credincioși a fost amenajată și zona dintre Catedrala Mitropolitană și Teatrul Național, iar slujba a putut fi urmărită pe ecrane de mari dimensiuni.\n\n• **Au fost aduse și moaștele Sfântului Paisie**, de la o mănăstire din județul Neamț, pentru sărbătoarea de la Iași."
   },
   {
     "group_id": "group_d6383c1944",
@@ -550,27 +1283,6 @@
     "content_ro": "• **La Salonul Auto de la Paris 2026** a fost prezentat sistemul XPENG ARIDGE Land Aircraft Carrier, care combină un vehicul rutier cu șase roți și o aeronavă electrică cu decolare și aterizare verticală.\n\n• **Separarea și reconectarea modulelor** se realizează, potrivit producătorului, automat, printr-o singură comandă și în aproximativ cinci minute. Aeronava este transportată într-un compartiment integrat în partea din spate a vehiculului, fără a fi nevoie de o remorcă separată.\n\n• **Vehiculul rutier** are tracțiune integrală 6×6, direcție pe puntea din spate și un sistem electric de 800 V. Datele de laborator ARIDGE indică o autonomie combinată de peste 1.000 km în ciclul CLTC; vehiculul poate fi folosit și pentru încărcarea aeronavei.\n\n• **Aeronava eVTOL** are șase rotoare și brațe pliabile și oferă moduri de pilotare manuală și automată. Potrivit producătorului, energia vehiculului poate susține până la șase zboruri, iar sistemele esențiale dispun de soluții de rezervă.\n\n• **ARIDGE a început producția de probă în noiembrie 2025.** Capacitatea anuală inițială anunțată este de 5.000 de unități, cu posibilitatea extinderii la 10.000. Compania a raportat anterior peste 7.000 de comenzi la nivel global, cifră care nu reprezintă aeronave deja livrate."
   },
   {
-    "group_id": "group_2d543dbe50",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Familia bărbatului ucis de un tigru după ce a intrat în țarcul animalelor roagă oamenii să nu mai distribuie înregistrarea momentului",
-        "link": "https://hotnews.ro/familia-barbatului-ucis-de-un-tigru-dupa-ce-a-intrat-in-tarcul-animalelor-roaga-oamenii-sa-nu-mai-distribuie-inregistrarea-momentului-2375519"
-      }
-    ],
-    "published_at": 1791965744,
-    "title_hu": "Familia bărbatului ucis de un tigru după ce a intrat în țarcul animalelor roagă oamenii să nu mai distribuie înregistrarea momentului",
-    "lead_hu": "Familia lui William Chapman, bărbatul ucis de un tigru într-un parc zoologic cu animale sălbatice din Marea Britanie, a făcut apel la oameni să nu mai distribuie imaginile video ale atacului, afirmând…",
-    "content_hu": "Familia lui William Chapman, bărbatul ucis de un tigru într-un parc zoologic cu animale sălbatice din Marea Britanie, a făcut apel la oameni să nu mai distribuie imaginile video ale atacului, afirmând că acestea le provoacă o suferință emoțională extremă, relatează Reuters. William Chapman a murit sâmbătă, după ce a intrat într-un țarc destinat tigrilor …",
-    "title_ro": "Familia bărbatului ucis de un tigru după ce a intrat în țarcul animalelor roagă oamenii să nu mai distribuie înregistrarea momentului",
-    "lead_ro": "Familia lui William Chapman, bărbatul ucis de un tigru într-un parc zoologic cu animale sălbatice din Marea Britanie, a făcut apel la oameni să nu mai distribuie imaginile video ale atacului, afirmând…",
-    "content_ro": "Familia lui William Chapman, bărbatul ucis de un tigru într-un parc zoologic cu animale sălbatice din Marea Britanie, a făcut apel la oameni să nu mai distribuie imaginile video ale atacului, afirmând că acestea le provoacă o suferință emoțională extremă, relatează Reuters. William Chapman a murit sâmbătă, după ce a intrat într-un țarc destinat tigrilor …"
-  },
-  {
     "group_id": "group_5c71eacf78",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2014/10/12/210000/61583178.jpg?fm=jpg&q=80&fit=crop&crop=267%2C297%2C0%2C0&w=1280",
@@ -686,27 +1398,6 @@
     "title_ro": "Grindeanu critică USR în urma controlului de la ANM",
     "lead_ro": "Președintele PSD, Sorin Grindeanu, a declarat marți că nu ia în calcul o colaborare cu USR și i-a acuzat pe miniștrii partidului că se comportă ca niște „detectivi”. În disputa privind controlul dispus de ministra Mediului, Diana Buzoianu, Grindeanu a susținut că miniștrii ar trebui să se concentreze asupra administrării domeniului și elaborării politicilor publice. Buzoianu a avertizat că schimbarea șefei ANM și aprobarea bugetului instituției pot fi blocate, deoarece Consiliul de Administrație nu funcționează de luni de zile.",
     "content_ro": "• **Sorin Grindeanu a declarat marți** că reprezentanții USR „trebuie să plece acasă” și că nu ia în calcul, sub nicio formă, o colaborare cu partidul.\n\n• **Grindeanu a criticat controlul de la ANM:** a spus că miniștrii USR se comportă ca niște „detectivi” și caută sutiene și lenjerie. El a adăugat că cei care încalcă legea trebuie să plătească, dar că rolul miniștrilor este să administreze domeniul și să elaboreze politici publice; potrivit lui, fiecare minister are un corp de control.\n\n• **Ministra Mediului, Diana Buzoianu, a anunțat anterior** că verificările au identificat la ANM achiziții din bani publici de lenjerie intimă, haine de firmă, parfumuri și produse cosmetice; ea a reclamat și nereguli la achiziții directe de milioane de lei.\n\n• **Potrivit detaliilor prezentate despre control,** cinci carduri oficiale ar fi fost folosite pentru cumpărarea din bani publici a unor articole vestimentare, parfumuri, produse de machiaj și poșete.\n\n• **Directoarea ANM, Elena Mateescu,** a respins acuzațiile și a susținut că împotriva sa se desfășoară o campanie cu scop politic. Buzoianu a precizat că înlocuirea directoarei depinde de Consiliul de Administrație al ANM, însă acesta nu are cvorum de luni de zile; astfel, evaluarea directoarei și aprobarea bugetului instituției pot fi blocate.\n\n• **Buzoianu a spus că procedura de completare a Consiliului de Administrație este blocată:** agenția AMEPIP a respins doi candidați propuși de minister, iar pentru o a treia propunere, cu experiență în audit și finanțe, se așteaptă un răspuns. Ministra a avertizat că, din cauza blocajului, bugetul ANM ar putea să nu fie aprobat până la sfârșitul lunii octombrie."
-  },
-  {
-    "group_id": "group_85e47812b3",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMTk0MV8zMDEx/OTQxX0luc2NyaWVyZWEtaW4tY2xhc2Et/cHJlZ2F0aXRvYXJlLTIwMjdfLUZvdG8t/R2V0dHktSW1hZ2VzLmpwZyZoYXNoPTA5/MTU0MDhjZmQyZDY4NjRlZjU0NGRkOTI5ZmUwMjIz.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Înscrierea în clasa pregătitoare 2027-2028. Când propune Ministerul Educației să înceapă depunerea cererilor",
-        "link": "https://www.digi24.ro/stiri/actualitate/educatie/inscrierea-in-clasa-pregatitoare-2027-2028-cand-propune-ministerul-educatiei-sa-inceapa-depunerea-cererilor-3991403"
-      }
-    ],
-    "published_at": 1791965629,
-    "title_hu": "Înscrierea în clasa pregătitoare 2027-2028. Când propune Ministerul Educației să înceapă depunerea cererilor",
-    "lead_hu": "Ministerul Educației și Cercetării a pus în consultare publică proiectul calendarului pentru înscrierea în clasa pregătitoare în anul școlar 2027-2028. Potrivit documentului, părinții ar urma să compl…",
-    "content_hu": "Ministerul Educației și Cercetării a pus în consultare publică proiectul calendarului pentru înscrierea în clasa pregătitoare în anul școlar 2027-2028. Potrivit documentului, părinții ar urma să completeze și să depună cererile între 31 martie și 23 aprilie 2027, iar rezultatele primei etape să fie afișate pe 21 mai.",
-    "title_ro": "Înscrierea în clasa pregătitoare 2027-2028. Când propune Ministerul Educației să înceapă depunerea cererilor",
-    "lead_ro": "Ministerul Educației și Cercetării a pus în consultare publică proiectul calendarului pentru înscrierea în clasa pregătitoare în anul școlar 2027-2028. Potrivit documentului, părinții ar urma să compl…",
-    "content_ro": "Ministerul Educației și Cercetării a pus în consultare publică proiectul calendarului pentru înscrierea în clasa pregătitoare în anul școlar 2027-2028. Potrivit documentului, părinții ar urma să completeze și să depună cererile între 31 martie și 23 aprilie 2027, iar rezultatele primei etape să fie afișate pe 21 mai."
   },
   {
     "group_id": "group_546690727f",
@@ -917,34 +1608,6 @@
     "content_ro": "Circulația pe Breteaua 5 a Nodului Rutier Sebeș va fi închisă joi, 15 octombrie, între orele 07:00 și 18:00, pentru lucrări de reparații ale carosabilului. Măsura îi vizează pe șoferii care circulă pe Autostrada A10 și vor să coboare pe DN1, în zona Sebeș. Vor fi efectuate lucrări de remediere a sistemului rutier (frezare și […]"
   },
   {
-    "group_id": "group_1c05a2fc8d",
-    "fingerprint": "bb7d04c45cd135541894ae07d0b283c9",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Probleme pentru armata ucraineană, după ce Starlink a impus o limită peste noapte, fără niciun avertisment. Au fost afectate „misiuni critice”",
-        "link": "https://hotnews.ro/probleme-pentru-armata-ucraineana-dupa-ce-starlink-a-impus-o-limita-peste-noapte-fara-niciun-avertisment-au-fost-afectate-misiuni-critice-2375385"
-      },
-      {
-        "source": "G4Media",
-        "title": "SpaceX ar fi limitat funcționarea Starlink în Ucraina, ceea ce perturbă misiunile militare / Kievul spune că nu a fost avertizat",
-        "link": "https://www.g4media.ro/spacex-ar-fi-limitat-functionarea-starlink-in-ucraina-ceea-ce-perturba-misiunile-militare-kievul-spune-ca-nu-a-fost-avertizat.html"
-      }
-    ],
-    "published_at": 1791965355,
-    "title_hu": "A Starlink sebességkorlátozása ukrán katonai missziókat zavart meg",
-    "lead_hu": "A SpaceX szerdán korlátozta az ukrán hadsereg által használt Starlink-terminálok működését, amikor azok 160 kilométer/óránál gyorsabban haladtak. Ukrán tisztviselők és aktivisták szerint a csapatokat előzetesen nem értesítették, és több fontos katonai missziót nem tudtak végrehajtani.",
-    "content_hu": "• **Szerdán** a SpaceX korlátozást vezetett be az ukrán erők által használt Starlink-szolgáltatásnál: a mozgó terminálok kapcsolata 160 kilométer/óra feletti sebességnél megszakadhatott.\n\n• **Serhii Beskrestnov**, Volodimir Zelenszkij elnök tanácsadója azt közölte, hogy az ukrán erők nem kaptak előzetes figyelmeztetést, és a korlátozás több missziót megzavart. A délkelet-ukrajnai 7. Gyorsreagálású Hadtest egyik forrása szintén megerősítette a Starlink működési zavarait.\n\n• **Serhii Sternenko aktivista** szerint több kritikus feladatot nem tudtak végrehajtani a kapcsolat megszakadása miatt. A Starlink az ukrán hadsereg kommunikációjában, valamint a műveletek és pilóta nélküli rendszerek koordinálásában is fontos szerepet tölt be.\n\n• **A korlátozás háttere és hatása nem tisztázott:** nem ismert, hány egységet érintett, meddig tartott a kimaradás, illetve hogy az intézkedés az amerikai kormány kérésére történt-e. Az utóbbi lehetőséget ukrán szereplők felvetették, de ezt nem támasztották alá bizonyítékok.",
-    "title_ro": "Restricțiile Starlink au perturbat misiuni militare ucrainene",
-    "lead_ro": "SpaceX a limitat miercuri funcționarea terminalelor Starlink folosite de armata ucraineană atunci când acestea se deplasau cu peste 160 km/h. Oficialii și activiștii ucraineni au declarat că forțele nu au fost avertizate în prealabil și că mai multe misiuni militare importante au fost perturbate.",
-    "content_ro": "• **Miercuri**, SpaceX a introdus o restricție pentru serviciul Starlink folosit de forțele ucrainene: conexiunea terminalelor aflate în mișcare putea fi întreruptă la viteze de peste 160 km/h.\n\n• **Serhii Beskrestnov**, consilier al președintelui Volodimir Zelenski, a declarat că forțele ucrainene nu au fost avertizate în prealabil și că restricția a perturbat mai multe misiuni. O sursă din Corpul 7 de Reacție Rapidă, desfășurat în sud-estul Ucrainei, a confirmat de asemenea problemele serviciului Starlink.\n\n• **Activistul Serhii Sternenko** a afirmat că mai multe misiuni critice nu au putut fi executate din cauza pierderii conexiunii. Starlink are un rol important în comunicațiile armatei ucrainene și în coordonarea operațiunilor și a sistemelor fără pilot.\n\n• **Cauzele și amploarea restricției nu sunt clarificate:** nu se știe câte unități au fost afectate, cât au durat întreruperile sau dacă măsura a fost luată la solicitarea administrației americane. Ucraineni au avansat această posibilitate, însă informațiile relatate nu au prezentat dovezi care să o confirme."
-  },
-  {
     "group_id": "group_a0a2362283",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2024/11/colaj-sobolan.jpg",
@@ -1089,44 +1752,6 @@
     "title_ro": "Marius Baciu a reacționat, după ce MM Stoica i-a citit mesajele în direct: „Mă așteptam să fie mai vocal”",
     "lead_ro": "Marius Baciu (51 de ani), fost antrenor la FCSB în perioada 19 mai - 23 septembrie, a dezvăluit că a rămas în relații bune cu toată lumea din club, inclusiv cu Mihai Stoica, președintele Consiliului d…",
     "content_ro": "Marius Baciu (51 de ani), fost antrenor la FCSB în perioada 19 mai - 23 septembrie, a dezvăluit că a rămas în relații bune cu toată lumea din club, inclusiv cu Mihai Stoica, președintele Consiliului de Administrație, în ciuda micilor contre de la distanță de după demiterea tehnicianului. ..."
-  },
-  {
-    "group_id": "group_7259d9e499",
-    "fingerprint": "d8776b84f61f737cd26d70ced1fc9568",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/logo-sigla-DNA-INQUAM-PHOTOS-OCTAV-GANEA-scaled.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "SURSE: DNA a deschis un dosar la Primăria Timișoara, de unde primarul Dominic Fritz tocmai a fost înlăturat de PSD, AUR și CCR / Dosarul vizează operațiunile financiare de salvare a companiei de termoficare Colterm",
-        "link": "https://www.g4media.ro/surse-dna-a-deschis-un-dosar-la-primaria-timisoara-de-unde-primarul-dominic-fritz-tocmai-a-fost-inlaturat-de-psd-aur-si-ccr-dosarul-vizeaza-operatiunile-financiare-de-salvare-a-companiei-de-termo.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Acum vin și după echipa mea”. Dominic Fritz acuză că DNA are în lucru un dosar care vizează colaboratorii săi din Primăria Timișoara",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/acum-vin-si-dupa-echipa-mea-dominic-fritz-acuza-ca-dna-are-in-lucru-un-dosar-care-vizeaza-colaboratorii-sai-din-primaria-timisoara-3991383"
-      },
-      {
-        "source": "G4Media",
-        "title": "Dominic Fritz, reacție după ce DNA a deschis un dosar la Primăria Timișoara: ”Acum vin și după echipa mea. Când DNA vine după funcționari care încearcă să-și facă treaba cu bună credință, în loc să investigheze corupția reală și averile obscene ale unor politicieni, duce în derizoriu toată lupta anti-corupție”",
-        "link": "https://www.g4media.ro/dominic-fritz-reactie-dupa-ce-dna-a-deschis-un-dosar-la-primaria-timisoara-acum-vin-si-dupa-echipa-mea-cand-dna-vine-dupa-functionari-care-incearca-sa-si-faca-treaba-cu-buna-credinta-in-l.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Reacția lui Fritz după ce DNA ar pregăti un dosar în care sunt vizați angajați ai Primăriei Timișoara: „Acum vin și după echipa mea”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/reactia-lui-fritz-dupa-ce-dna-ar-pregati-un-dosar-2563896.html"
-      }
-    ],
-    "published_at": 1791965020,
-    "title_hu": "DNA-vizsgálat indult a Colterm megmentésére szánt támogatások ügyében Temesváron",
-    "lead_hu": "A DNA temesvári ügyészsége in rem eljárást indított a Colterm távhőszolgáltató megmentéséhez kapcsolódó önkormányzati pénzügyi műveletek miatt. Dominic Fritz volt polgármester szerint a hivatal munkatársai szabályosan jártak el; neki nincs eljárási minősége az ügyben, és hivatalos tájékoztatást sem kapott. A sajtó egy korábbi, Colterm-ügyben indult, 2023-ban lezárt DNA-eljárásról is beszámolt.",
-    "content_hu": "• **A DNA temesvári ügyészsége** in rem eljárást indított annak vizsgálatára, hogyan kezelte a városvezetés a Colterm távhőszolgáltató megmentésére szánt pénzeket. A nyomozás egyelőre tényekre, nem konkrét személyekre irányul; az ügyészek tíz önkormányzati alkalmazottról kértek adatokat, köztük Ruben Lațcău alpolgármesterről.\n\n• **A vizsgálat középpontjában** a kormányzati támogatások és a Coltermnek juttatott összegek kezelése áll; a gyanú hivatali visszaélés lehet. A G4Media szerint a pénzügyi műveletek a vállalat fizetésképtelenségből való megmentéséhez, a fejlesztési minisztériumtól érkező támogatások felhasználásához kapcsolódtak.\n\n• **Dominic Fritz** azt mondta, hogy a 2021–2022-es télen a kormány 67 millió lejt utalt a városnak a távhőszolgáltatás folyó kiadásainak fedezésére, majd az önkormányzat a pénzt támogatásként továbbadta a Coltermnek. Fritz szerint ezt a pénzügyminisztérium írásos útmutatása alapján és a vonatkozó szerződés keretei között tették; állítása szerint senki nem vitt haza pénzt.\n\n• **Fritz vitatja az eljárás indokoltságát**, és azt állítja, hogy a vizsgált döntések a város javát szolgálták. Közölte, hogy nem minősül érintettnek az ügyben, nem kapott hivatalos tájékoztatást, és úgy véli, a vizsgálat a jóhiszeműen dolgozó köztisztviselőket hozza nehéz helyzetbe.\n\n• **A DNA 2021-ben egy másik Colterm-ügyben is indított eljárást**, amely Ruben Lațcăut érintette: azt vizsgálták, miért nem vásárolta meg a vállalat az üvegházhatású gázok kibocsátási egységeit, ami kárt okozott a cégnek. A G4Media szerint az akkori ügyet 2023-ban lezárták.\n\n• **Fritz állítása szerint** polgármestersége idején a Colterm több mint egymilliárd lej önkormányzati támogatást kapott, a város pedig több százmillió lejt fordított a távhőhálózat korszerűsítésére. Azt is felidézte, hogy a társaság fizetésképtelenné vált, és 2021 októberében öt napra megszakadt a szolgáltatás.\n\n• **A városvezetésben bekövetkezett változás** után az alpolgármester, Ruben Lațcău látja el ideiglenesen a polgármesteri feladatokat. A G4Media beszámolója szerint Fritzet egy PSD és AUR által támogatott törvénymódosítás, valamint annak alkotmánybírósági jóváhagyása nyomán távolították el hivatalából.",
-    "title_ro": "DNA a deschis o anchetă privind fondurile pentru salvarea Colterm, la Timișoara",
-    "lead_ro": "Procurorii DNA din Timișoara au deschis un dosar in rem privind operațiunile financiare ale Primăriei legate de salvarea companiei de termoficare Colterm. Fostul primar Dominic Fritz susține că angajații municipalității au acționat legal și spune că nu are nicio calitate în dosar și nu a primit o informare oficială. Presa relatează și despre un dosar DNA mai vechi privind Colterm, clasat în 2023.",
-    "content_ro": "• **Procurorii DNA din Timișoara** au deschis un dosar in rem pentru a verifica modul în care administrația locală a gestionat fondurile destinate salvării companiei de termoficare Colterm. Ancheta vizează deocamdată fapte, nu persoane; procurorii au cerut informații despre zece angajați ai Primăriei, printre care viceprimarul Ruben Lațcău.\n\n• **Ancheta vizează** gestionarea subvențiilor guvernamentale și a sumelor acordate companiei, iar suspiciunea ar fi de abuz în serviciu. Potrivit G4Media, operațiunile financiare au legătură cu salvarea Colterm de la insolvență și cu utilizarea unor subvenții de la Ministerul Dezvoltării.\n\n• **Dominic Fritz** a declarat că, în iarna 2021–2022, Guvernul a alocat orașului 67 de milioane de lei pentru cheltuielile curente ale sistemului de termoficare, iar Primăria a transferat suma către Colterm sub formă de subvenție. Potrivit fostului primar, transferul a fost făcut pe baza unor îndrumări scrise ale Ministerului Finanțelor și în cadrul contractului aplicabil; el susține că nimeni nu a luat bani acasă.\n\n• **Fritz contestă justificarea anchetei** și afirmă că deciziile verificate au fost luate în interesul orașului. El a spus că nu are nicio calitate în dosar, nu a primit o informare oficială și consideră că ancheta pune în dificultate funcționarii care și-au făcut datoria cu bună-credință.\n\n• **DNA a deschis în 2021 un alt dosar legat de Colterm**, care l-a vizat pe Ruben Lațcău. Procurorii au cercetat atunci de ce compania nu a cumpărat certificatele de emisii de gaze cu efect de seră, fapt care a produs o pagubă societății. Potrivit G4Media, dosarul a fost clasat în 2023.\n\n• **Potrivit lui Fritz**, în timpul mandatului său Colterm a primit subvenții de peste un miliard de lei de la bugetul local, iar municipalitatea a investit sute de milioane de lei în modernizarea rețelei de termoficare. El a amintit și că societatea a intrat în insolvență, iar serviciul a fost întrerupt timp de cinci zile în octombrie 2021.\n\n• **Conducerea interimară a Primăriei** este asigurată de viceprimarul Ruben Lațcău. Potrivit relatării G4Media, Fritz a fost înlăturat din funcție în urma unei modificări legislative susținute de PSD și AUR și validate de Curtea Constituțională."
   },
   {
     "group_id": "group_d8ca575393",
@@ -1284,10 +1909,18 @@
   },
   {
     "group_id": "group_d1a64dc0f9",
+    "fingerprint": "549915174cf66f29b9de9f9b1a5bbe11",
     "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/12/161820/sf-parascheva.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": false,
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTM1Ml8zMDA5/MzUyX01lc2FqZS1zaS11cmFyaS1kZS1T/ZmFudGEtQ3V2aW9hc2EtUGFyYXNjaGV2/YS0yMDI2Xy1TdXJzYS1Gb3RvLUdldHR5/LUltYWdlcy5qcGcmaGFzaD0zMjYzNGUx/MzQ1MzdjMWE1N2UyOGNiZWVkNGFlOWFhYg==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
+      {
+        "source": "Digi24",
+        "title": "Mesaje de „La mulți ani” de Sfânta Parascheva 2026: Cele mai frumoase urări pe care să le trimiți sărbătoriților pe 14 octombrie",
+        "link": "https://www.digi24.ro/magazin/mesaje-de-la-multi-ani-de-sfanta-parascheva-2026-cele-mai-frumoase-urari-pe-care-sa-le-trimiti-sarbatoritilor-pe-14-octombrie-3989589"
+      },
       {
         "source": "ProTV Stiri",
         "title": "Sfânta Parascheva 2026. Totul despre Sfânta Liturghie și programul zilei de 14 octombrie. Până când pot fi sărutate moaștele",
@@ -1295,12 +1928,12 @@
       }
     ],
     "published_at": 1791964753,
-    "title_hu": "Sfânta Parascheva 2026. Totul despre Sfânta Liturghie și programul zilei de 14 octombrie. Până când pot fi sărutate moaștele",
-    "lead_hu": "Pe 14 octombrie, la Iași, are loc Sfânta Liturghie de Sfânta Parascheva, unul dintre cele mai importante momente ale pelerinajului....",
-    "content_hu": "Pe 14 octombrie, la Iași, are loc Sfânta Liturghie de Sfânta Parascheva, unul dintre cele mai importante momente ale pelerinajului.",
-    "title_ro": "Sfânta Parascheva 2026. Totul despre Sfânta Liturghie și programul zilei de 14 octombrie. Până când pot fi sărutate moaștele",
-    "lead_ro": "Pe 14 octombrie, la Iași, are loc Sfânta Liturghie de Sfânta Parascheva, unul dintre cele mai importante momente ale pelerinajului....",
-    "content_ro": "Pe 14 octombrie, la Iași, are loc Sfânta Liturghie de Sfânta Parascheva, unul dintre cele mai importante momente ale pelerinajului."
+    "title_hu": "Szent Paraszkeva ünnepe: szabadtéri liturgiát tartottak Iașiban",
+    "lead_hu": "Október 14-én tartották Szent Paraszkeva ünnepét, amelyhez Iașiban nagyszabású zarándoklat és ünnepi liturgia kapcsolódott. A szertartást a sok résztvevő miatt a metropolita katedrális melletti szabadtéri emelvényen rendezték meg; a hívők Szent Paisie ereklyéinél is imádkozhattak.",
+    "content_hu": "• **Október 14.** Szent Paraszkeva ünnepe alkalmat ad arra, hogy a névnapjukat ünneplőknek jókívánságokat küldjenek; a Digi24 különféle köszöntőüzeneteket ajánlott erre az alkalomra.\n\n• **Iași ünnepi liturgiája** reggel 9 órakor kezdődött, és a tervek szerint 12:30 körül ért véget. A reggeli szertartásokat 7 és 9 óra között a metropolita katedrálisban tartották, a fő liturgiát viszont a nagy tömeg miatt a katedrális melletti, a Ștefan cel Mare és Sfânt sétány közelében felállított emelvényen celebrálták.\n\n• **A zarándokok** a főszent ereklyéi mellett Szent Paisie de la Sihăstria ereklyéinél is tiszteletüket tehették. A ProTV beszámolója szerint október 14-én több mint 32 ezren álltak sorban, hogy eljussanak az ereklyéket őrző baldachinhoz.",
+    "title_ro": "Sărbătoarea Sfintei Parascheva: liturghie în aer liber la Iași",
+    "lead_ro": "Sărbătoarea Sfintei Parascheva a fost marcată pe 14 octombrie printr-un pelerinaj amplu și o liturghie la Iași. Din cauza numărului mare de credincioși, slujba principală a fost oficiată în aer liber, lângă Catedrala Mitropolitană, iar pelerinii s-au putut închina și la moaștele Sfântului Paisie.",
+    "content_ro": "• **14 octombrie** este ziua sărbătorii Sfintei Parascheva și un prilej de a le transmite urări celor care își serbează onomastica; Digi24 a publicat o selecție de mesaje potrivite pentru această ocazie.\n\n• **Sfânta Liturghie de la Iași** a început la ora 09:00 și era programată să se încheie în jurul orei 12:30. Slujbele de dimineață s-au desfășurat între 07:00 și 09:00 în Catedrala Mitropolitană, iar liturghia principală a fost oficiată în aer liber, pe un podium amenajat lângă catedrală și Pietonalul Ștefan cel Mare și Sfânt.\n\n• **Pelerinii** s-au putut închina atât la moaștele Sfintei Parascheva, cât și la cele ale Sfântului Paisie de la Sihăstria. Potrivit ProTV, peste 32.000 de oameni au stat la rând pe 14 octombrie pentru a ajunge la baldachinul cu moaște."
   },
   {
     "group_id": "group_9bd3378100",
@@ -2016,39 +2649,6 @@
     "title_ro": "Folytatja turnéját a Hargita Székely Néptáncszínház a Kárpát-medencében",
     "lead_ro": "Vajdaságban, a Felvidéken, Magyarországon és Partiumban is bemutatja Szomszédolás című előadását a csíkszeredai Hargita Székely Néptáncszínház.",
     "content_ro": "Vajdaságban, a Felvidéken, Magyarországon és Partiumban is bemutatja Szomszédolás című előadását a csíkszeredai Hargita Székely Néptáncszínház."
-  },
-  {
-    "group_id": "group_5a78f0302b",
-    "fingerprint": "b783516516a1be582cf7dcde93084855",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/china-sua-taxe-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "China se îndreaptă spre un nou record mondial. Exporturile au explodat, iar excedentul comercial a ajuns la 938 de miliarde de dolari",
-        "link": "https://www.mediafax.ro/economic/china-se-indreapta-spre-un-nou-record-mondial-exporturile-au-explodat-iar-excedentul-comercial-a-ajuns-la-938-de-miliarde-de-dolari-23824982"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "China accelerează puternic: exporturile au crescut cu peste 36% în septembrie, cel mai mare avans din ultimii cinci ani. Inteligenţa artificială şi electronicele susţin ofensiva comercială a Beijingului",
-        "link": "https://www.zf.ro/business-international/china-accelereaza-puternic-exporturile-au-crescut-cu-peste-36-in-septembrie-cel-mai-mare-avans-din-ultimii-cinci-ani-inteligenta-artificiala-si-electronicele-sustin-ofensiva-comerciala-a-beijingului-23259814"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Exporturile Chinei au explodat în luna septembrie. Se apropie de un record în acest an",
-        "link": "https://stirileprotv.ro/stiri/financiar/exporturile-chinei-au-explodat-in-luna-septembrie-va-atinge-un-nou-record-anual-in-2026.html"
-      }
-    ],
-    "published_at": 1791963223,
-    "title_hu": "Rekordközeli kínai export: szeptemberben 36,3 százalékos növekedés",
-    "lead_hu": "Kína exportja szeptemberben 36,3 százalékkal nőtt az egy évvel korábbihoz képest, ami több mint öt éve nem látott ütem, és meghaladta az elemzői várakozásokat. Az első kilenc hónap kereskedelmi többlete 938 milliárd dollárra emelkedett; a technológiai termékek mellett az autóexport is jelentősen bővült. A külkereskedelmi többlet növekedése ugyanakkor fokozza a nyugati partnerek aggodalmait.",
-    "content_hu": "• **Szeptemberben** a kínai export értéke 36,3 százalékkal haladta meg az egy évvel korábbit. A növekedés gyorsult az augusztusi 25 százalékhoz képest, jóval meghaladta a 25,7 százalékos elemzői várakozást, és 2021 eleje óta nem látott ütemet jelentett.\n\n• **A technológiai termékek** a kivitel meghatározó hajtóerői voltak: a félvezető-export az év első kilenc hónapjában 108,1 százalékkal, az adatfeldolgozó berendezéseké és alkatrészeiké 54,6 százalékkal nőtt. A chipek, az adatfeldolgozó berendezések és alkatrészeik szeptemberben az export 17,9 százalékát tették ki, és az éves növekedésből 13 százalékponttal részesedtek.\n\n• **Az autóexport** 54,3 százalékkal emelkedett; a növekedést a Kínában gyártott elektromos és hibrid autók iránti nemzetközi kereslet támogatta.\n\n• **A kereskedelmi többlet** szeptemberben 133,5 milliárd dollár volt, az augusztusi 119,1 milliárd után. Január és szeptember között 938 milliárd dollárra nőtt, szemben az előző év azonos időszakának 875 milliárdjával; a trend folytatódása esetén Kína túlszárnyalhatja a 2025-ös, mintegy 1,2 billió dolláros éves rekordot.\n\n• **Az import** szeptemberben 31 százalékkal bővült éves összevetésben, az augusztusi 28,2 százalék után, felülmúlva az elemzői várakozásokat. Az importszámla növekedéséhez az olajárak emelkedése is hozzájárult.\n\n• **A kínai kivitel célpiacai** közül szeptemberben az Egyesült Államokba irányuló export 39,6, az Európai Unióba irányuló pedig 25,3 százalékkal nőtt. Az amerikai adatot részben az előző évi kereskedelmi visszaesésből adódó kedvező bázishatás magyarázza; az EU-ból származó kínai import eközben stagnált.\n\n• **Az Európai Unió** kereskedelmi deficitje Kínával meghaladja a napi egymilliárd eurót, és Brüsszel fenntarthatatlannak tartja az egyensúlytalanságot. A kínai export erősödése növeli az európai iparágakra nehezedő versenynyomást; a források szerint Peking és az EU átmeneti megállapodást kötött, amely a következő években felére csökkentené a kínai hibrid autók uniós importját.\n\n• **A kínai gazdaság** a gyenge belső kereslet és az ingatlanpiaci problémák közepette támaszkodik az exportra. A kormány 2026-ra 4,5–5 százalékos növekedési célt tűzött ki, az IMF viszont 4,5 százalékra csökkentette előrejelzését; a külkereskedelmi teljesítmény önmagában nem ellensúlyozza a belső gazdaság gyengeségeit.",
-    "title_ro": "Exporturile Chinei, aproape de un nou record: creștere de 36,3% în septembrie",
-    "lead_ro": "Exporturile Chinei au crescut cu 36,3% în septembrie față de aceeași perioadă a anului trecut, cel mai rapid ritm din ultimii ani și peste așteptările analiștilor. Excedentul comercial cumulat în primele nouă luni a ajuns la 938 de miliarde de dolari, iar exporturile de produse tehnologice și automobile au avansat puternic. Creșterea dezechilibrului comercial amplifică îngrijorările partenerilor occidentali.",
-    "content_ro": "• **În septembrie**, exporturile Chinei au crescut cu 36,3% față de aceeași lună din anul precedent. Avansul s-a accelerat față de 25% în august, a depășit estimarea analiștilor de 25,7% și a fost cel mai ridicat din 2021 încoace.\n\n• **Produsele tehnologice** au fost un motor important al exporturilor: livrările de semiconductori au crescut cu 108,1% în primele nouă luni, iar cele de echipamente pentru procesarea datelor și componente aferente cu 54,6%. Cipurile, echipamentele de procesare automată a datelor și componentele acestora au reprezentat 17,9% din exporturile din septembrie și au contribuit cu 13 puncte procentuale la creșterea anuală.\n\n• **Exporturile de automobile** au crescut cu 54,3%, susținute de cererea internațională pentru vehicule electrice și hibride fabricate în China.\n\n• **Excedentul comercial** a fost de 133,5 miliarde de dolari în septembrie, față de 119,1 miliarde în august. În perioada ianuarie-septembrie a ajuns la 938 de miliarde de dolari, comparativ cu 875 de miliarde în aceeași perioadă a anului trecut; dacă tendința continuă, China ar putea depăși recordul anual de aproximativ 1.200 de miliarde de dolari stabilit în 2025.\n\n• **Importurile** au crescut cu 31% în septembrie față de aceeași lună din anul precedent, după un avans de 28,2% în august, depășind estimările. Majorarea prețurilor petrolului a contribuit la creșterea facturii de import.\n\n• **Destinațiile exporturilor chinezești** au înregistrat creșteri importante în septembrie: livrările către Statele Unite au avansat cu 39,6%, iar cele către Uniunea Europeană cu 25,3%. Creșterea exporturilor către SUA a fost favorizată parțial de efectul de bază, după scăderea comerțului din anul precedent; importurile Chinei din UE au rămas stabile.\n\n• **Uniunea Europeană** are un deficit comercial cu China de peste un miliard de euro pe zi și consideră dezechilibrul nesustenabil. Creșterea exporturilor chineze intensifică presiunea concurențială asupra industriei europene; potrivit surselor, Beijingul și UE au ajuns la un acord interimar care ar reduce la jumătate, în următorii ani, importurile europene de automobile hibride chinezești.\n\n• **Economia Chinei** se bazează pe exporturi în contextul cererii interne slabe și al problemelor persistente din sectorul imobiliar. Guvernul a stabilit pentru 2026 o țintă de creștere de 4,5–5%, în timp ce FMI și-a redus prognoza la 4,5%; performanța comerțului exterior nu poate compensa singură slăbiciunile interne."
   },
   {
     "group_id": "group_564cce3290",
@@ -3304,64 +3904,6 @@
     "content_ro": "Ivan Leko este antrenorul care a oferit surpriza zilei de marți din Champions League. Echipa sa, Club Brugge, a învins-o pe Inter chiar la Milano (4-3). După ce l-a învins pe Cristian Chivu, croatul a oferit declarația zilei: „nu am fost mai buni”. „Inter, ce dezastru!” – Gazzetta dello Sport după ce echipa lui Chivu […] © G4Media.ro."
   },
   {
-    "group_id": "group_746ea01c03",
-    "fingerprint": "be5f8383903cad8c3c0a01965f1962b8",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Surse: PSD intră la guvernare alături de miniștri tehnocrați propuși de Nicușor Dan. PNL și UDMR ar urma să voteze Guvernul Niculescu",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/negocieri-contracronometru-cum-va-arata-guvernul-niculescu-surse-psd-isi-poate-asuma-guvernarea-cu-voturile-pnl-si-udmr-3989715"
-      },
-      {
-        "source": "Adevărul",
-        "title": "SURSE PSD e gata să intre la guvernare într-un Cabinet hibrid",
-        "link": "https://adevarul.ro/politica/surse-psd-e-gata-sa-intre-la-guvernare-intr-un-2563710.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "SURSE: Se conturează un Guvern PSD–Niculescu, cu trei ministere pentru oamenii lui Nicușor Dan. Pact cu Bolojan și UDMR pentru supraviețuirea Cabinetului până în aprilie. Decizia, la PSD",
-        "link": "https://www.mediafax.ro/politic/surse-se-contureaza-un-guvern-psd-niculescu-cu-trei-ministere-pentru-oamenii-lui-nicusor-dan-pact-cu-bolojan-si-udmr-pentru-supravietuirea-cabinetului-pana-in-aprilie-decizia-la-psd-23824658"
-      },
-      {
-        "source": "Maszol",
-        "title": "Sajtóforrás: kormányra léphet a PSD",
-        "link": "https://maszol.ro/belfold/Sajtoforras-kormanyra-lephet-a-PSD"
-      },
-      {
-        "source": "G4Media",
-        "title": "SURSE: Lideri din PSD iau în calcul să ceară intrarea partidului în guvernul Luca Niculescu cu 9 miniștri la ministerele cu bugete mari și la Justiție / Sorin Grindeanu vrea să evite intrarea în guvern",
-        "link": "https://www.g4media.ro/surse-lideri-din-psd-iau-in-calcul-sa-ceara-intrarea-partidului-in-guvernul-luca-niculescu-cu-9-ministri-la-ministerele-cu-bugete-mari-si-la-justitie-sorin-grindeanu-vrea-sa-evite-intrarea-in-guver.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Culisele social-democrate: PSD e împărțit în două. Fiecare tabără vrea să voteze un guvern: frica de răspundere și dorința de putere",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/surpriza-in-negocierile-pentru-noul-guvern-psd-ar-accepta-ministri-tehnocrati-iar-pnl-si-udmr-ar-urma-sa-voteze-cabinetul-3990801"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cele trei opțiuni pentru PSD, care decide azi dacă intră la guvernare: Vot contra guvernului Luca Niculescu, vot pentru guvern tehnocrat fără PSD sau vot pentru guvern cu miniștri PSD",
-        "link": "https://www.g4media.ro/cele-trei-optiuni-pentru-psd-care-decide-azi-daca-intra-la-guvernare-vot-contra-guvernului-luca-niculescu-vot-pentru-guvern-tehnocrat-fara-psd-sau-vot-pentru-guvern-cu-ministri-psd.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Surse: Primele nume vehiculate pentru Guvernul Niculescu. PSD ar putea prelua portofolii mari, un minister ar urma să dispară",
-        "link": "https://stirileprotv.ro/stiri/politic/surse-primele-nume-vehiculate-pentru-guvernul-niculescu-psd-ar-putea-prelua-portofolii-mari-un-minister-ar-urma-sa-dispara.html"
-      }
-    ],
-    "published_at": 1791960675,
-    "title_hu": "A PSD a kormányra lépés felé hajlik, de a végső döntés még hátravan",
-    "lead_hu": "Sajtóértesülések szerint a PSD politikusokból és technokratákból álló, hibrid kormányban vállalhat szerepet, miközben a párt vezetésén belül vita van a kormányzás politikai kockázatairól. A PNL és az RMDSZ parlamenti támogatást ígér, de ellenzékben maradna; a PSD vezetése szerdán, 16 órakor dönt a részvétel formájáról.",
-    "content_hu": "• **A PSD szerdai, 16 órás döntése** három lehetőségről szól: a párt a kormány ellen szavaz és nem lép be, támogat egy PSD-miniszterek nélküli technokrata kabinetet, vagy politikusokkal együtt kormányra lép. Sorin Grindeanu a technokrata változatot gyengének nevezte, és több párt részvételével létrejövő, átlátható többséget szeretne.\n\n• **A hibrid kormány tűnik a legvalószínűbb forgatókönyvnek**, de erről még nincs végleges döntés: sajtóforrások szerint PSD-s politikusok mellett Nicușor Dan államfő és Luca Niculescu kijelölt miniszterelnök által támogatott technokraták is lennének a kabinetben. Egyes értesülések szerint a PSD lenne az egyetlen párt, amely minisztereket ad.\n\n• **A PSD vezetésén belül két tábor van**, és mindkettő támogatna valamilyen kormányt. Grindeanu köre inkább technokrata kabinetet szeretne, hogy a párt elkerülje a költségvetési kiigazítás és a költségvetés terheit; a területi vezetők jelentős része politikusokat is felvonultató kormányt és miniszteri posztokat akar.\n\n• **Kilenc miniszteri posztot is kérhet a PSD:** a G4Media szerint egyes vezetők a nagy költségvetésű tárcákat – köztük a közlekedési, mezőgazdasági, egészségügyi és környezetvédelmi minisztériumot – valamint az igazságügyi tárcát céloznák meg. Ez párton belüli igény, nem végleges megállapodás.\n\n• **Három stratégiai tárcára technokratákat választhat Nicușor Dan:** a pénzügy, a védelem és a külügy vezetőit az államfő jelölheti ki. A Mediafax szerint a pénzügyi tárca helyett az uniós beruházásokért felelős minisztérium is szóba kerülhet; a ProTV által említett, nem végleges névsorban Alexandru Nazare, Dan Neculăescu, Vlad Ionescu és Sorin Costreie neve szerepel, az energiaügyi tárca pedig PSD-s politikushoz kerülhet.\n\n• **A beruházási minisztérium megszűnése is felmerült:** a ProTV értesülése szerint a tárca kikerülhet az új kormány szerkezetéből. A miniszteri névsor és a tárcák felosztása egyelőre csak sajtóforrások által említett változat.\n\n• **A PSD a kormányzás politikai árától tart:** ha a párt adja a kabinet minisztereinek többségét, a népszerűtlen gazdasági és költségvetési döntések felelőssége is nagyrészt rá hárulhat, miközben a parlamenti támogató pártok megőrizhetik kritikai mozgásterüket. Ha a PSD belép a kormányba, Grindeanu azt kérné, hogy a miniszterelnök két héten belül ismertesse a parlamentben az ország aktuális pénzügyi helyzetét.\n\n• **A PNL és az RMDSZ támogatná a beiktatást, de ellenzékben maradna:** Ilie Bolojan külön megállapodást kötne Luca Niculescuval, nem pedig hárompárti koalíciós egyezséget. A PNL azt vállalná, hogy hat hónapig nem kezdeményez és nem támogat bizalmatlansági indítványt, ha a kormány betartja a megállapodást; Kelemen Hunor szerint az RMDSZ technokrata vagy PSD-központú kormányt is megszavazna, de nem adna minisztereket.\n\n• **A Bolojan-ellenes liberálisok bevonása vitás:** a PSD megpróbálhatja őket tisztségekkel maga mellé állítani, de a kabinetből kimaradhatnak, hogy biztosítsák a PNL vezetésének támogatását. Bolojan jelezte, hogy a pártja visszavonhatja támogatását, ha a vezetését bíráló liberálisok miniszteri posztot kapnak; az RMDSZ a sajtóértesülések szerint megtartaná prefektusi és államtitkári tisztségeit.\n\n• **Az USR nem szavazna meg PSD-minisztereket tartalmazó kormányt:** Dominic Fritz szerint a párt nem támogat olyan kabinetet sem, amelynek parlamenti többsége nem világos. A nemzeti kisebbségek frakciója korábban a beiktatás támogatását jelezte.\n\n• **Csütörtökön Luca Niculescu benyújtja a kormányprogramot és a miniszterjelöltek listáját**, a parlamenti szavazás pedig várhatóan a következő héten lesz. Niculescu mindhárom kormányzati változatot nyitva hagyta, és a kabinet túlélését segítő, hat hónapos politikai megnemtámadási megállapodást is szeretne.\n\n• **Nicușor Dan előrehozott választásokat helyezett kilátásba:** a Digi24 értesülése szerint az államfő pénteken kezdeményezné a parlament feloszlatását, ha csütörtökig nem születik átlátható megállapodás a Niculescu-kormány támogatásáról.",
-    "title_ro": "PSD este aproape să intre la guvernare, dar decizia finală încă nu a fost luată",
-    "lead_ro": "Potrivit informațiilor de presă, PSD ar putea participa la un guvern hibrid, cu miniștri politici și tehnocrați, însă în partid există încă divergențe privind riscurile asumării guvernării. PNL și UDMR ar urma să susțină învestirea, dar să rămână în opoziție; conducerea PSD decide miercuri, la ora 16:00, formula de participare.",
-    "content_ro": "• **Decizia PSD de miercuri, de la ora 16:00**, vizează trei variante: partidul votează împotriva Guvernului și nu intră la guvernare, susține un cabinet tehnocrat fără miniștri PSD sau intră la guvernare cu reprezentanți politici. Sorin Grindeanu a numit slabă varianta tehnocrată și a cerut o majoritate transparentă, formată din mai multe partide.\n\n• **Guvernul hibrid pare scenariul cel mai probabil**, dar nu există încă o decizie finală: potrivit surselor de presă, cabinetul ar urma să includă politicieni PSD și tehnocrați susținuți de președintele Nicușor Dan și de premierul desemnat Luca Niculescu. Unele informații indică faptul că PSD ar fi singurul partid care ar avea miniștri.\n\n• **În conducerea PSD există două tabere**, iar ambele ar susține votarea unui guvern într-o formă sau alta. Gruparea lui Grindeanu ar prefera un cabinet tehnocrat, pentru ca partidul să evite responsabilitatea rectificării bugetare și a bugetului; numeroși lideri din teritoriu vor un guvern cu politicieni și portofolii ministeriale pentru PSD.\n\n• **PSD ar putea cere nouă portofolii ministeriale:** potrivit G4Media, unii lideri vizează ministerele cu bugete mari – Transporturi, Agricultură, Sănătate și Mediu – precum și Justiția. Este o solicitare din interiorul partidului, nu un acord final.\n\n• **Nicușor Dan ar putea desemna tehnocrați la trei ministere strategice:** Finanțe, Apărare și Externe. Mediafax menționează că, în locul Finanțelor, ar putea fi vizat Ministerul Investițiilor și Proiectelor Europene; într-o listă nefinală prezentată de ProTV apar numele lui Alexandru Nazare, Dan Neculăescu, Vlad Ionescu și Sorin Costreie, iar portofoliul Energiei ar putea reveni PSD.\n\n• **Este luată în calcul și desființarea Ministerului Investițiilor:** potrivit informațiilor ProTV, ministerul ar putea dispărea din structura viitorului Guvern. Lista miniștrilor și împărțirea portofoliilor rămân, deocamdată, variante vehiculate de surse de presă.\n\n• **PSD se teme de costul politic al guvernării:** dacă partidul va da majoritatea miniștrilor, responsabilitatea pentru măsurile economice și bugetare nepopulare i-ar putea reveni în principal, în timp ce partidele care susțin Guvernul în Parlament și-ar păstra libertatea de a-l critica. Dacă PSD intră la guvernare, Grindeanu ar cere premierului să prezinte Parlamentului, în două săptămâni, situația financiară actuală a țării.\n\n• **PNL și UDMR ar susține învestirea, dar ar rămâne în opoziție:** Ilie Bolojan ar prefera un acord separat cu Luca Niculescu, nu o înțelegere de coaliție în trei. PNL s-ar angaja să nu inițieze și să nu voteze moțiuni de cenzură timp de șase luni, dacă Guvernul respectă acordul; Kelemen Hunor a spus că UDMR ar vota atât un guvern tehnocrat, cât și unul format în jurul PSD, fără să dea miniștri.\n\n• **Cooptarea liberalilor care se opun lui Bolojan este controversată:** PSD ar putea încerca să-i atragă oferindu-le funcții, însă aceștia ar putea fi excluși din Guvern pentru a asigura sprijinul conducerii PNL. Bolojan a avertizat că partidul și-ar putea retrage susținerea dacă liberali care îi contestă conducerea primesc posturi de ministru; potrivit presei, UDMR și-ar păstra prefecții și secretarii de stat.\n\n• **USR nu ar vota un Guvern cu miniștri PSD:** Dominic Fritz a declarat că partidul nu susține nici un cabinet fără o majoritate parlamentară clară. Fracțiunea minorităților naționale anunțase anterior că va susține învestirea.\n\n• **Joi, Luca Niculescu va depune programul de guvernare și lista miniștrilor**, iar votul Parlamentului este așteptat, cel mai probabil, săptămâna viitoare. Niculescu a păstrat pe masă toate cele trei formule de guvernare și dorește un pact de neagresiune politică pentru șase luni, care să ajute la menținerea Cabinetului.\n\n• **Nicușor Dan a evocat alegeri anticipate:** potrivit Digi24, președintele ar urma să inițieze vineri dizolvarea Parlamentului dacă până joi nu se ajunge la un acord transparent privind susținerea Guvernului Niculescu."
-  },
-  {
     "group_id": "group_d71897937d",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/e1c43189-083f-4508-9159-78c8f3f7e27d.jpg?width=290&height=208",
@@ -3793,34 +4335,6 @@
     "content_ro": "• **Aproximativ zece, iar potrivit unor relatări circa 12 dispozitive explozive artizanale** au fost găsite de autoritățile poloneze în apartamentul lui Krzysztof N., în vârstă de 66 de ani. Bărbatul este suspectat că pregătea un atentat împotriva premierului Donald Tusk și a ministrului Apărării, Władysław Kosiniak-Kamysz.\n\n• **Unul dintre dispozitive** era o grenadă acustică umplută cu bile metalice, care, potrivit purtătorului de cuvânt al Parchetului, ar fi putut avea un efect asemănător grenadelor cu fragmentare.\n\n• **Krzysztof N. a fost inculpat pentru nouă infracțiuni**, printre care tentativă de răsturnare prin forță a autorităților statului. Autoritățile suspectează că ar fi recrutat posesori de arme pentru atacul planificat; bărbatul nu și-a recunoscut faptele și nu a oferit explicații.\n\n• **Un alt bărbat, în vârstă de 46 de ani, a fost reținut luni.** Este suspectat că a îndemnat public, pe internet, la asasinarea lui Tusk și a altor politicieni polonezi de rang înalt, printre care Włodzimierz Czarzasty.\n\n• **Krzysztof N. a fost arestat duminică**, după ce Tusk a spus că primise amenințări cu moartea prin e-mail. Suspectul urma să se prezinte miercuri în fața instanței, la audierea privind arestarea preventivă. Dacă va fi găsit vinovat, riscă între doi și 15 ani de închisoare.\n\n• **Un înalt oficial din domeniul securității a declarat la sfârșitul săptămânii trecute** că exista o probabilitate ridicată ca amenințările la adresa lui Tusk și a ministrului Apărării să fie puse în practică."
   },
   {
-    "group_id": "group_d0251314fc",
-    "fingerprint": "d5b2737c7a8ef8272bd3ad382b3cc344",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/c73630d7-0143-4ce1-81e7-f31019c76db3.jpg?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Manchester City – PSG în Liga Campionilor: vedetele și duelurile tactice care pot decide meciul",
-        "link": "https://www.gsp.ro/comercial/advertorial/manchester-city-psg-in-liga-campionilor-vedetele-si-duelurile-tactice-care-pot-decide-meciul-987536.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Dueluri atractive miercuri în Champions League: City – PSG, capul de afiș – Programul televizărilor",
-        "link": "https://www.g4media.ro/dueluri-atractive-miercuri-in-champions-league-city-psg-capul-de-afis-programul-televizarilor.html"
-      }
-    ],
-    "published_at": 1791959911,
-    "title_hu": "Manchester City–PSG: a BL-szakasz második fordulójának kiemelt mérkőzése",
-    "lead_hu": "A Manchester City október 14-én, szerdán 22 órakor fogadja a PSG-t az Etihad Stadionban, a Bajnokok Ligája alapszakaszának második fordulójában. Mindkét csapat győzelemmel kezdte a sorozatot, a mérkőzést a Digi 1 és a Prima 1 közvetíti.",
-    "content_hu": "• **Október 14-én, szerdán 22 órakor** rendezik a Manchester City–PSG mérkőzést az Etihad Stadionban; ez a Bajnokok Ligája alapszakaszának második fordulójához tartozik.\n\n• **A City és a PSG is győzelemmel rajtolt**: az angol csapat 2–0-ra verte a Portót, míg a PSG 6–1-re győzött a Slovan Bratislava ellen.\n\n• **A csapatok hétvégi mérlege is pozitív volt**: a City 3–0-ra nyert a Liverpool vendégeként, a PSG pedig 3–1-re győzte le a Le Manst.\n\n• **A mérkőzést a Digi 1 és a Prima 1 közvetíti**; ugyanebben az időpontban az AS Roma–Real Madrid találkozót is játsszák.",
-    "title_ro": "Manchester City–PSG, capul de afiș al etapei a doua din Liga Campionilor",
-    "lead_ro": "Manchester City o primește pe PSG miercuri, 14 octombrie, de la ora 22:00, pe stadionul Etihad, în etapa a doua a fazei principale a Ligii Campionilor. Ambele echipe au început competiția cu victorii, iar partida va fi transmisă de Digi 1 și Prima 1.",
-    "content_ro": "• **Miercuri, 14 octombrie, de la ora 22:00**, Manchester City și PSG se întâlnesc pe stadionul Etihad, în etapa a doua a fazei principale a Ligii Campionilor.\n\n• **Ambele echipe au debutat cu victorii**: City a învins-o pe FC Porto cu 2–0, iar PSG a câștigat cu 6–1 în fața lui Slovan Bratislava.\n\n• **Cele două formații au obținut victorii și în weekend**: City s-a impus cu 3–0 pe terenul lui Liverpool, iar PSG a învins-o pe Le Mans cu 3–1.\n\n• **Partida va fi transmisă de Digi 1 și Prima 1**; la aceeași oră este programat și meciul AS Roma–Real Madrid."
-  },
-  {
     "group_id": "group_2835de42b7",
     "category": "Gazdaság",
     "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-09.33.40-1024x755.png",
@@ -4174,27 +4688,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Fotbal: Internaționalul belgian Saelemaekers (AC Milan), operat la glezna dreaptă, va lipsi de pe teren până în 2027",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_32843e7557",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Iași: Prezență numeroasă la slujba de hramul Sfintei Parascheva; oficiază 28 de ierarhi din mai multe țări",
-        "link": "https://agerpres.ro/social/2026/10/14/iasi-prezenta-numeroasa-la-slujba-de-hramul-sfintei-parascheva-oficiaza-28-de-ierarhi-din-mai-multe---1602714"
-      }
-    ],
-    "published_at": 1791958848,
-    "title_hu": "Iași: Prezență numeroasă la slujba de hramul Sfintei Parascheva; oficiază 28 de ierarhi din mai multe țări",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Iași: Prezență numeroasă la slujba de hramul Sfintei Parascheva; oficiază 28 de ierarhi din mai multe țări",
     "lead_ro": "",
     "content_ro": ""
   },
@@ -4837,34 +5330,6 @@
     "content_ro": "Yann Bisseck, 25 de ani, fundașul central al lui Inter, om de bază în angrenajul lui Chviu, a fost extrem de iritat după înfrângerea suferită pe teren propriu în fața celor de la Club Brugge, scor 3-4, în Liga Campionilor. Internaționalul german părea că nici nu-și dorește să se prezinte la interviurile de după meci, însă a acceptat, vizibil dezamăgit, în cele din urmă să vorbească succint în fața camerelor de la canalul oficial al clubului. ..."
   },
   {
-    "group_id": "group_4b62a24524",
-    "fingerprint": "c20613318c13bc66c60a3488cb03ebda",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjAxJTJGMjk4Mzk0OV8yOTgz/OTQ5X3NhbGEtZ3V2ZXJudWwtcm9tYW5p/ZWktaW5xdWFtLW9jdGF2LWdhbmVhLmpw/ZyZoYXNoPTk5NjAxN2I3ZDU1NzY0OTFiYjNlZTNkNDE3NWU1OGU3.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Guvernul hibrid al lui Luca Niculescu: ce nume ar putea face parte din cabinetul tehno-PSD (surse)",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-hibrid-al-lui-luca-niculescu-ce-nume-ar-putea-face-parte-din-cabinetul-tehno-psd-surse-3990837"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Primele nume de miniștri din Guvernul Luca Niculescu SURSE",
-        "link": "https://adevarul.ro/politica/primele-nume-de-ministri-din-guvernul-luca-2563854.html"
-      }
-    ],
-    "published_at": 1791957554,
-    "title_hu": "Hibrid kormányt tervez Luca Niculescu, a miniszternevekről még tárgyalnak",
-    "lead_hu": "A Digi24 és az Adevărul értesülései szerint Luca Niculescu kijelölt miniszterelnök lehetséges kabinetje PSD-s politikusokat és technokratákat, illetve Nicușor Dan elnökhöz közel álló jelölteket vegyítene. A tárcák elosztása és a nevek egyelőre nem véglegesek; a PSD szerdán dönt arról, hogy kormányra lép-e, vagy csak parlamenti támogatást ad.",
-    "content_hu": "• **Luca Niculescu lehetséges kormánya** hibrid összetételű lenne: a sajtóértesülések PSD-s minisztereket, technokratákat és Nicușor Dan elnökhöz közel álló jelölteket említenek.\n\n• **A miniszterjelöltek névsora nem hivatalos.** A Digi24 szerint a tárcák elosztásáról még egyeztetnek, és a pénzügyminiszteri poszt különösen vitatott; az Adevărul egyes PSD-s politikusok visszatérését biztosabbnak nevezi, de mindkét cikk politikai forrásokra támaszkodik.\n\n• **Dan Neculăescu és Sorin Costreie** neve a külügyi, illetve az oktatási tárca lehetséges vezetőjeként merült fel. A Digi24 Alexandru Nazare-t is említi a pénzügyminiszteri posztra, miközben azt írja, hogy a PSD saját jelöltet szeretne erre a tárcára.\n\n• **A PSD-hez kötődő lehetséges jelöltek között** szerepel Marian Neacșu, Alexandru Rogobete, Radu Marinescu és Petre-Florin Manole; Bogdan Ivant az energiaügyi tárcával kapcsolatban említi a Digi24. A névsor és a tárcák kiosztása változhat.\n\n• **A PSD szerdán dönt** arról, hogy részt vesz-e a kormányban, vagy csupán parlamenti támogatást nyújt. A kijelölt miniszterelnök a cikkek szerint csütörtökön terjeszti be a kormányprogramot és a miniszterek listáját a parlamentnek.\n\n• **A PNL ellenzékben maradna**, de egy politikai megállapodás lehetőségét mérlegeli. Az UDMR jelezte, hogy támogatná a kormányt és a programját; a Digi24 szerint az USR kizárta egy PSD-s minisztereket is tartalmazó kormány támogatását.",
-    "title_ro": "Luca Niculescu pregătește un guvern hibrid, iar negocierile pentru ministere continuă",
-    "lead_ro": "Potrivit Digi24 și Adevărul, cabinetul posibil al premierului desemnat Luca Niculescu ar combina miniștri PSD cu tehnocrați și persoane apropiate președintelui Nicușor Dan. Repartizarea portofoliilor și numele vehiculate nu sunt definitive, iar PSD urma să decidă miercuri dacă intră la guvernare sau oferă doar sprijin parlamentar.",
-    "content_ro": "• **Posibilul guvern al lui Luca Niculescu** ar avea o componență hibridă: sursele de presă menționează miniștri PSD, tehnocrați și persoane apropiate președintelui Nicușor Dan.\n\n• **Lista miniștrilor nu este oficială.** Digi24 relatează că negocierile pentru portofolii continuă și că Ministerul Finanțelor este un punct important de dispută; Adevărul prezintă revenirea unor politicieni PSD în Executiv drept mai sigură, însă ambele articole citează surse politice.\n\n• **Dan Neculăescu și Sorin Costreie** sunt vehiculați pentru Externe, respectiv Educație. Digi24 îl menționează și pe Alexandru Nazare pentru Finanțe, precizând că PSD ar dori să obțină acest portofoliu pentru un reprezentant propriu.\n\n• **Printre posibilii candidați PSD** se numără Marian Neacșu, Alexandru Rogobete, Radu Marinescu și Petre-Florin Manole; Digi24 îl menționează pe Bogdan Ivan pentru Energie. Lista și împărțirea ministerelor se pot schimba.\n\n• **PSD urma să decidă miercuri** dacă participă la guvernare sau oferă doar sprijin parlamentar. Potrivit articolelor, premierul desemnat urma să depună joi în Parlament programul de guvernare și lista miniștrilor.\n\n• **PNL ar urma să rămână în opoziție**, dar analizează posibilitatea unui acord politic. UDMR a anunțat că va susține guvernul și programul său; potrivit Digi24, USR a exclus sprijinirea unui cabinet care include miniștri PSD."
-  },
-  {
     "group_id": "group_4094bd4ccd",
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-5/584ba181-67d1-4378-9d73-07c70a6cdbe3/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -4905,27 +5370,6 @@
     "title_ro": "Régi mesék hősei elevenednek meg a Csíki Moziban",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_36ed859f4d",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/01/8099672-hepta_mediafax_foto-abacapress_hepta-1024x768.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "O femeie din Iran, condamnată la pedeapsa cu moartea, după ce a postat pe rețelele de socializare. Statul o acuză de blasfemie",
-        "link": "https://www.mediafax.ro/externe/o-femeie-din-iran-condamnata-la-pedeapsa-cu-moartea-dupa-ce-a-postat-pe-retelele-de-socializare-statul-o-acuza-de-blasfemie-23824965"
-      }
-    ],
-    "published_at": 1791957316,
-    "title_hu": "O femeie din Iran, condamnată la pedeapsa cu moartea, după ce a postat pe rețelele de socializare. Statul o acuză de blasfemie",
-    "lead_hu": "O femeie de 23 de ani din Iran a fost condamnată la pedeapsă cu moartea. În urma unor postări făcute de aceasta pe rețelele de socializare, statul a acuzat-o de blasfemie.",
-    "content_hu": "O femeie de 23 de ani din Iran a fost condamnată la pedeapsă cu moartea. În urma unor postări făcute de aceasta pe rețelele de socializare, statul a acuzat-o de blasfemie.",
-    "title_ro": "O femeie din Iran, condamnată la pedeapsa cu moartea, după ce a postat pe rețelele de socializare. Statul o acuză de blasfemie",
-    "lead_ro": "O femeie de 23 de ani din Iran a fost condamnată la pedeapsă cu moartea. În urma unor postări făcute de aceasta pe rețelele de socializare, statul a acuzat-o de blasfemie.",
-    "content_ro": "O femeie de 23 de ani din Iran a fost condamnată la pedeapsă cu moartea. În urma unor postări făcute de aceasta pe rețelele de socializare, statul a acuzat-o de blasfemie."
   },
   {
     "group_id": "group_6263798042",
@@ -7652,27 +8096,6 @@
     "content_ro": "Celebrul Fabio Capello a analizat prestația lui Inter din meciul pierdut dramatic cu Club Brugge, 3-4. După înfrângerea cu Real Madrid, Interul lui Cristi Chivu a pierdut și cu Club Brugge, 3-4, la capătul unui meci extrem de spectaculos. La final, în presa din Italia, fostul mare antrenor Fabio Capello a făcut analiza meciului. ..."
   },
   {
-    "group_id": "group_55a4a187ae",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Scandal în direct între Victor Ponta și Radu Miruță, după vânzarea șantierului naval Damen din Mangalia: „Îmi vine să vomit când te ascult” / „Un președinte v-a numit Pinocchio”",
-        "link": "https://hotnews.ro/scandal-in-direct-intre-victor-ponta-si-radu-miruta-dupa-vanzarea-santierului-naval-damen-din-mangalia-imi-vine-sa-vomit-cand-te-ascult-un-presedinte-v-a-numit-pinocchio-2375236"
-      }
-    ],
-    "published_at": 1791926444,
-    "title_hu": "Scandal în direct între Victor Ponta și Radu Miruță, după vânzarea șantierului naval Damen din Mangalia: „Îmi vine să vomit când te ascult” / „Un președinte v-a numit Pinocchio”",
-    "lead_hu": "Șantierul naval din Mangalia a fost subiectul unui schimb de replici între fostul premier Victor Ponta și ministrul interimar al Economiei, Radu Miruță, după acuzațiile lansate de politicianul USR cu …",
-    "content_hu": "Șantierul naval din Mangalia a fost subiectul unui schimb de replici între fostul premier Victor Ponta și ministrul interimar al Economiei, Radu Miruță, după acuzațiile lansate de politicianul USR cu privire la modul în care a gestionat PSD situația șantierului de-a lungul timpului. Rheinmetall Real Estate România SRL a câștigat licitația pentru Damen Shipyards Mangalia, …",
-    "title_ro": "Scandal în direct între Victor Ponta și Radu Miruță, după vânzarea șantierului naval Damen din Mangalia: „Îmi vine să vomit când te ascult” / „Un președinte v-a numit Pinocchio”",
-    "lead_ro": "Șantierul naval din Mangalia a fost subiectul unui schimb de replici între fostul premier Victor Ponta și ministrul interimar al Economiei, Radu Miruță, după acuzațiile lansate de politicianul USR cu …",
-    "content_ro": "Șantierul naval din Mangalia a fost subiectul unui schimb de replici între fostul premier Victor Ponta și ministrul interimar al Economiei, Radu Miruță, după acuzațiile lansate de politicianul USR cu privire la modul în care a gestionat PSD situația șantierului de-a lungul timpului. Rheinmetall Real Estate România SRL a câștigat licitația pentru Damen Shipyards Mangalia, …"
-  },
-  {
     "group_id": "group_3085ed2bf6",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/1f78e72e-6fb1-42c1-b837-6618391c043a.jpg?width=290&height=208",
@@ -8598,96 +9021,5 @@
     "title_ro": "Lagos utcáit használta kifutónak, aztán a Chanel bemutatóján találta magát",
     "lead_ro": "Rachel Ojuromi dizájnerruhák helyett turizott és a barátnője által tervezett ruhákban vonult fel szülővárosában. A videók virálisak lettek, és azt bizonyítják, hogy néha pont az erőforráshiányból szül…",
     "content_ro": "Rachel Ojuromi dizájnerruhák helyett turizott és a barátnője által tervezett ruhákban vonult fel szülővárosában. A videók virálisak lettek, és azt bizonyítják, hogy néha pont az erőforráshiányból születnek az igazán kreatív megoldások."
-  },
-  {
-    "group_id": "group_4513ecd436",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/7109b163-2ae2-4072-b3ac-50e804d385fd.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Înfrângeri în European League pentru CSM București și HC Buzău",
-        "link": "https://www.gsp.ro/sporturi/handbal/infrangeri-european-league-csm-bucuresti-si-hc-buzau-987792.html"
-      }
-    ],
-    "published_at": 1791924095,
-    "title_hu": "Înfrângeri în European League pentru CSM București și HC Buzău",
-    "lead_hu": "CSM București și HC Buzău au pierdut meciurile disputate marți seară în EHF European League. Bucureștenii au cedat în fața bosniacilor de la Izvidac, scor 24-25, în timp ce buzoienii s-au înclinat în …",
-    "content_hu": "CSM București și HC Buzău au pierdut meciurile disputate marți seară în EHF European League. Bucureștenii au cedat în fața bosniacilor de la Izvidac, scor 24-25, în timp ce buzoienii s-au înclinat în deplasarea cu Flensburg, scor 26-37. CSM București pornea favorită astăzi, în polivalenta de acasă, contra campioanei Bosniei, Izvidac. Elevii lui Eliodor Voica au dezamăgit în prima repriză. ...",
-    "title_ro": "Înfrângeri în European League pentru CSM București și HC Buzău",
-    "lead_ro": "CSM București și HC Buzău au pierdut meciurile disputate marți seară în EHF European League. Bucureștenii au cedat în fața bosniacilor de la Izvidac, scor 24-25, în timp ce buzoienii s-au înclinat în …",
-    "content_ro": "CSM București și HC Buzău au pierdut meciurile disputate marți seară în EHF European League. Bucureștenii au cedat în fața bosniacilor de la Izvidac, scor 24-25, în timp ce buzoienii s-au înclinat în deplasarea cu Flensburg, scor 26-37. CSM București pornea favorită astăzi, în polivalenta de acasă, contra campioanei Bosniei, Izvidac. Elevii lui Eliodor Voica au dezamăgit în prima repriză. ..."
-  },
-  {
-    "group_id": "group_91336621cb",
-    "fingerprint": "bbf3eafbc882b8c6d1515ca723a774f6",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/proteste-arestul-central-1024x568.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Aproximativ 200 de susținători ai lui Călin Georgescu, din nou la Arestul Central. „Căline, Căline, Iisus este cu tine”",
-        "link": "https://www.mediafax.ro/social/aproximativ-200-de-sustinatori-ai-lui-calin-georgescu-din-nou-la-arestul-central-caline-caline-iisus-este-cu-tine-23824833"
-      },
-      {
-        "source": "G4Media",
-        "title": "Aproximativ 200 de susținători ai lui Călin Georgescu, manifestează în fața Arestului Central: „Căline, Căline, Iisus este cu tine”",
-        "link": "https://www.g4media.ro/aproximativ-200-de-sustinatori-ai-lui-calin-georgescu-din-nou-la-arestul-central-caline-caline-iisus-este-cu-tine.html"
-      }
-    ],
-    "published_at": 1791923760,
-    "title_hu": "Mintegy 200 Georgescu-párti tüntetett a bukaresti fogda előtt",
-    "lead_hu": "Körülbelül 200 támogató gyűlt össze kedd este a bukaresti Központi Fogda előtt, ahol Călin Georgescu továbbra is őrizetben van. A bíróság házi őrizetre változtatta az előzetes letartóztatást, de a döntés csak jogerőre emelkedése után lép hatályba.",
-    "content_hu": "• **Mintegy 200 támogató** tüntetett kedd este Călin Georgescu volt elnökjelölt mellett a bukaresti Központi Fogda előtt; a demonstrálók 12 sátrat állítottak fel a létesítmény előtti zöldterületen.\n\n• **A tüntetők** Georgescu ártatlanságát hangoztató, illetve őt támogató jelszavakat skandáltak, köztük azt, hogy „Căline, Căline, Jézus veled van” és „Koholt ügy, Călin ártatlan”.\n\n• **A bukaresti törvényszék** október 13-án 30 napos házi őrizetre változtatta Georgescu előzetes letartóztatását, de az intézkedés csak akkor lép hatályba, ha a végzés jogerőre emelkedik.\n\n• **A DIICOT ügyészeinek** 48 órájuk van fellebbezni a döntés ellen a bukaresti ítélőtáblánál, ezért Georgescu egyelőre a fogdában marad.\n\n• **A tiltakozások** Georgescu szeptember 29-i előzetes letartóztatása után kezdődtek; támogatói azóta visszatérően gyülekeznek a fogda előtt.",
-    "title_ro": "Aproximativ 200 de susținători ai lui Georgescu au protestat în fața Arestului Central",
-    "lead_ro": "Aproximativ 200 de susținători s-au adunat marți seară în fața Arestului Central din București, unde Călin Georgescu se află în continuare în arest. Tribunalul a dispus înlocuirea arestului preventiv cu arestul la domiciliu, însă măsura va intra în vigoare doar după ce hotărârea rămâne definitivă.",
-    "content_ro": "• **Aproximativ 200 de susținători** au protestat marți seară în fața Arestului Central din București, în sprijinul fostului candidat la Președinție Călin Georgescu; manifestanții au instalat 12 corturi pe spațiul verde din fața centrului.\n\n• **Manifestanții** au scandat mesaje de susținere și au contestat acuzațiile aduse lui Georgescu, inclusiv „Căline, Căline, Iisus este cu tine” și „Dosar fabricat, Călin nevinovat”.\n\n• **Tribunalul București** a decis pe 13 octombrie înlocuirea arestului preventiv cu arestul la domiciliu pentru 30 de zile, dar măsura va intra în vigoare numai dacă încheierea rămâne definitivă.\n\n• **Procurorii DIICOT** au la dispoziție 48 de ore pentru a contesta hotărârea la Curtea de Apel București, astfel că Georgescu rămâne deocamdată în Arestul Central.\n\n• **Protestele** au început după arestarea preventivă a lui Georgescu, dispusă pe 29 septembrie, iar susținătorii săi s-au adunat în mod repetat în fața centrului de detenție."
-  },
-  {
-    "group_id": "group_de365476ca",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/huialt0w4aaq7bx-1024x682.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Amendă istorică pentru una dintre cele mai mari bănci din SUA. Tranzacții suspecte de miliarde de dolari",
-        "link": "https://www.mediafax.ro/externe/amenda-istorica-pentru-una-dintre-cele-mai-mari-banci-din-sua-tranzactii-suspecte-de-miliarde-de-dolari-23824863"
-      }
-    ],
-    "published_at": 1791923679,
-    "title_hu": "Amendă istorică pentru una dintre cele mai mari bănci din SUA. Tranzacții suspecte de miliarde de dolari",
-    "lead_hu": "Una dintre cele mai mari bănci din Statele Unite a fost sancționată cu o amendă istorică de 1,2 miliarde de dolari, după ce autoritățile au descoperit încălcări ale legislației privind combaterea spăl…",
-    "content_hu": "Una dintre cele mai mari bănci din Statele Unite a fost sancționată cu o amendă istorică de 1,2 miliarde de dolari, după ce autoritățile au descoperit încălcări ale legislației privind combaterea spălării banilor și nerespectarea sancțiunilor internaționale.",
-    "title_ro": "Amendă istorică pentru una dintre cele mai mari bănci din SUA. Tranzacții suspecte de miliarde de dolari",
-    "lead_ro": "Una dintre cele mai mari bănci din Statele Unite a fost sancționată cu o amendă istorică de 1,2 miliarde de dolari, după ce autoritățile au descoperit încălcări ale legislației privind combaterea spăl…",
-    "content_ro": "Una dintre cele mai mari bănci din Statele Unite a fost sancționată cu o amendă istorică de 1,2 miliarde de dolari, după ce autoritățile au descoperit încălcări ale legislației privind combaterea spălării banilor și nerespectarea sancțiunilor internaționale."
-  },
-  {
-    "group_id": "group_08ddac79bc",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/271b75bf-a8ea-4c24-853d-9ccb028f0d0e.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Antrenorul lui Liverpool îi apără după criticile primite: „Am încredere 100% în acești doi jucători”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/andoni-iraola-liverpool-wirtz-barcola-lask-987688.html"
-      }
-    ],
-    "published_at": 1791923677,
-    "title_hu": "Antrenorul lui Liverpool îi apără după criticile primite: „Am încredere 100% în acești doi jucători”",
-    "lead_hu": "Andoni Iraola, antrenorul lui Liverpool, a susținut conferința de presă premergătoare duelului din deplasare cu LASK Linz, din Liga Campionilor, și a sărit în apărarea lui Florian Wirtz și Bradley Bar…",
-    "content_hu": "Andoni Iraola, antrenorul lui Liverpool, a susținut conferința de presă premergătoare duelului din deplasare cu LASK Linz, din Liga Campionilor, și a sărit în apărarea lui Florian Wirtz și Bradley Barcola, doi dintre cei mai importanți fotbaliști din lotul „cormoranilor”, după criticile primite în urma evoluțiilor din ultima perioadă. ...",
-    "title_ro": "Antrenorul lui Liverpool îi apără după criticile primite: „Am încredere 100% în acești doi jucători”",
-    "lead_ro": "Andoni Iraola, antrenorul lui Liverpool, a susținut conferința de presă premergătoare duelului din deplasare cu LASK Linz, din Liga Campionilor, și a sărit în apărarea lui Florian Wirtz și Bradley Bar…",
-    "content_ro": "Andoni Iraola, antrenorul lui Liverpool, a susținut conferința de presă premergătoare duelului din deplasare cu LASK Linz, din Liga Campionilor, și a sărit în apărarea lui Florian Wirtz și Bradley Barcola, doi dintre cei mai importanți fotbaliști din lotul „cormoranilor”, după criticile primite în urma evoluțiilor din ultima perioadă. ..."
   }
 ]
