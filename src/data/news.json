@@ -1,5 +1,555 @@
 [
   {
+    "group_id": "group_a95880a8dd",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Comunicat finalizare proiect AGRIVITA PROD SRL",
+        "link": "https://www.ebihoreanul.ro/stiri/comunicat-finalizare-proiect-agrivita-prod-srl-205834.html"
+      }
+    ],
+    "published_at": 1792061217,
+    "title_hu": "Comunicat finalizare proiect AGRIVITA PROD SRL",
+    "lead_hu": "Beneficiarul AGRIVITA PROD SRL a finalizat implementarea proiectului cu titlul „ACHIZIȚIE ȘI INSTALARE SISTEM FOTOVOLTAIC LA AGRIVITA PROD S.R.L.”, cod proiect CFMSES011011460500829, în perioada 31/10…",
+    "content_hu": "Beneficiarul AGRIVITA PROD SRL a finalizat implementarea proiectului cu titlul „ACHIZIȚIE ȘI INSTALARE SISTEM FOTOVOLTAIC LA AGRIVITA PROD S.R.L.”, cod proiect CFMSES011011460500829, în perioada 31/10/2025 – 15/10/2026, finanțat prin FONDUL PENTRU MODERNIZARE – Tranziția către neutralitate climatică, Schema de ajutor privind sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsumul întreprinderilor din cadrul sectorului agricol și industriei alimentare.",
+    "title_ro": "Comunicat finalizare proiect AGRIVITA PROD SRL",
+    "lead_ro": "Beneficiarul AGRIVITA PROD SRL a finalizat implementarea proiectului cu titlul „ACHIZIȚIE ȘI INSTALARE SISTEM FOTOVOLTAIC LA AGRIVITA PROD S.R.L.”, cod proiect CFMSES011011460500829, în perioada 31/10…",
+    "content_ro": "Beneficiarul AGRIVITA PROD SRL a finalizat implementarea proiectului cu titlul „ACHIZIȚIE ȘI INSTALARE SISTEM FOTOVOLTAIC LA AGRIVITA PROD S.R.L.”, cod proiect CFMSES011011460500829, în perioada 31/10/2025 – 15/10/2026, finanțat prin FONDUL PENTRU MODERNIZARE – Tranziția către neutralitate climatică, Schema de ajutor privind sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsumul întreprinderilor din cadrul sectorului agricol și industriei alimentare."
+  },
+  {
+    "group_id": "group_46d68db1fd",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/07/pnl-usr.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "USR și PNL cer înființarea unei comisii parlamentare pentru reforma administrativ-teritorială / Va avea rolul de a elabora cadrul legislativ pentru ca reforma să poată fi aplicată începând din 2032",
+        "link": "https://www.g4media.ro/usr-si-pnl-cer-infiintarea-unei-comisii-parlamentare-pentru-reforma-administrativ-teritoriala-va-avea-rolul-de-a-elabora-cadrul-legislativ-pentru-ca-reforma-sa-poata-fi-aplicata-incepand-din-2032.html"
+      }
+    ],
+    "published_at": 1792061177,
+    "title_hu": "USR și PNL cer înființarea unei comisii parlamentare pentru reforma administrativ-teritorială / Va avea rolul de a elabora cadrul legislativ pentru ca reforma să poată fi aplicată începând din 2032",
+    "lead_hu": "Liderii grupurilor parlamentare USR și PNL au trimis joi o adresă către Birourile Permanente ale Camerei Deputaților și Senatului prin care solicită înființarea unei comisii pentru reforma administrat…",
+    "content_hu": "Liderii grupurilor parlamentare USR și PNL au trimis joi o adresă către Birourile Permanente ale Camerei Deputaților și Senatului prin care solicită înființarea unei comisii pentru reforma administrativ-teritorială. Comisia va avea rolul de a elabora cadrul legislativ necesar acestei reforme, astfel încât ea să poată fi aplicată începând din 2032. Demersul reprezintă un prim pas […] © G4Media.ro.",
+    "title_ro": "USR și PNL cer înființarea unei comisii parlamentare pentru reforma administrativ-teritorială / Va avea rolul de a elabora cadrul legislativ pentru ca reforma să poată fi aplicată începând din 2032",
+    "lead_ro": "Liderii grupurilor parlamentare USR și PNL au trimis joi o adresă către Birourile Permanente ale Camerei Deputaților și Senatului prin care solicită înființarea unei comisii pentru reforma administrat…",
+    "content_ro": "Liderii grupurilor parlamentare USR și PNL au trimis joi o adresă către Birourile Permanente ale Camerei Deputaților și Senatului prin care solicită înființarea unei comisii pentru reforma administrativ-teritorială. Comisia va avea rolul de a elabora cadrul legislativ necesar acestei reforme, astfel încât ea să poată fi aplicată începând din 2032. Demersul reprezintă un prim pas […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_db53e3b17c",
+    "fingerprint": "1e277ffedf845bd28a817c5f09408a6b",
+    "category": "Politika",
+    "image": "https://stirileprotv.ro/img/2026/09/16/181105/agerpres-victor-ponta.jpeg?fm=jpg&q=80&fit=crop&crop=3381%2C2254%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Victor Ponta: Cred că e cam ultima şansă cu Luca Niculescu, înainte de a ne sinucide în grup. Bolojan are o poziţie raţională",
+        "link": "https://stirileprotv.ro/stiri/politic/ponta-cred-ca-e-cam-ultima-sansa-luca-niculescu-inainte-de-a-ne-sinucide-in-grup-ca-ara-ca-si-clasa-politica.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Decizia lui Ponta privind votul pentru Cabinetul Niculescu: de ce nu face parte din Guvern",
+        "link": "https://adevarul.ro/politica/decizia-lui-ponta-privind-votul-pentru-cabinetul-2564026.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Victor Ponta: Acordurile între partide și Luca Niculescu nu au nicio valoare. Ilie Bolojan are de dat explicații",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/victor-ponta-acordurile-intre-partide-si-luca-niculescu-nu-au-nicio-valoare-ilie-bolojan-are-de-dat-explicatii-3993463"
+      }
+    ],
+    "published_at": 1792061038,
+    "title_hu": "Ponta támogatja a Niculescu-kormány beiktatását, de bírálja a politikai alkukat",
+    "lead_hu": "Victor Ponta szerint Romániának teljes jogkörű kormányra van szüksége, ezért a Uniți pentru România parlamenti csoport megszavazza Luca Niculescu kabinetjét, noha nem kerül be a kormánykoalícióba. Ponta a politikai megállapodások értékét is kétségbe vonta, és Ilie Bolojantól magyarázatot vár a PNL döntésére.",
+    "content_hu": "• **A Niculescu-kormány beiktatását** Victor Ponta és a Uniți pentru România (UPR) parlamenti csoport támogatja; Ponta szerint az országnak teljes jogkörű kabinetre van szüksége, a kormány megbukása pedig súlyos politikai és gazdasági következményekkel járhat.\n\n• **Az UPR kormányzati szerepéről** eltérő időpontokban eltérő nyilatkozatok jelentek meg: a Niculescuval folytatott hétfői egyeztetés után Ponta azt mondta, csoportja kész részt venni a kormányzásban, és nem köti a beiktatási szavazatot tisztségekhez. Később arról beszélt, hogy az UPR nem került be a koalícióba, ezért a kabinet megszavazása után ellenzékben marad; miniszteri posztot sem vállal.\n\n• **Ponta gazdaságpolitikája** szerint nem újabb adóemelésekre, hanem a gazdaság élénkítésére van szükség. Úgy vélte, a vállalkozásokra és a lakosságra nehezedő adóteher már elérte a tűréshatárt, és a további emelések növelnék az eladósodást.\n\n• **A Niculescu körüli pártközi megállapodásokról** Ponta azt mondta, azoknak nincs valódi értékük, és szerinte a következő hat hónapban egyik szereplőnek sem áll érdekében megbuktatni a kormányt. Azt is állította, hogy Sorin Grindeanunak a parlamenti támogatás biztosításához több párttal kell majd tárgyalnia.\n\n• **Ilie Bolojan döntéséről** Ponta úgy vélekedett, hogy a PNL elnökének meg kell indokolnia pártja és választói előtt, miért támogatja a PSD által is támogatott kormányt. A döntést racionálisnak, ugyanakkor népszerűtlennek nevezte.",
+    "title_ro": "Ponta susține învestirea Guvernului Niculescu, dar critică acordurile politice",
+    "lead_ro": "Victor Ponta consideră că România are nevoie de un guvern cu puteri depline, motiv pentru care grupul parlamentar Uniți pentru România va vota învestirea Cabinetului Luca Niculescu, deși nu va face parte din coaliție. Ponta a pus sub semnul întrebării valoarea acordurilor politice și a spus că Ilie Bolojan trebuie să explice decizia PNL.",
+    "content_ro": "• **Învestirea Guvernului Niculescu** este susținută de Victor Ponta și de grupul parlamentar Uniți pentru România (UPR); Ponta afirmă că țara are nevoie de un Executiv cu puteri depline și avertizează că o eventuală cădere a guvernului ar putea avea consecințe politice și economice grave.\n\n• **Participarea UPR la guvernare** a fost descrisă diferit în declarații făcute în momente distincte: după consultările de luni cu Luca Niculescu, Ponta a spus că grupul său este dispus să intre la guvernare și că nu condiționează votul de învestitură de obținerea unor funcții. Ulterior, el a declarat că UPR nu a fost inclus în coaliție și că, după ce va vota guvernul, va rămâne în opoziție; a exclus și ocuparea unui portofoliu ministerial.\n\n• **Politica economică susținută de Ponta** ar trebui să se concentreze pe stimularea economiei, nu pe noi majorări de taxe. În opinia sa, povara fiscală asupra firmelor și populației a ajuns la limita suportabilului, iar alte creșteri ar adânci îndatorarea.\n\n• **Acordurile dintre partide și Luca Niculescu**, a spus Ponta, nu au valoare reală; el consideră că, în următoarele șase luni, niciun actor politic nu are interesul să răstoarne guvernul. Ponta a adăugat că Sorin Grindeanu va trebui să negocieze cu mai multe partide pentru a obține sprijin parlamentar.\n\n• **Decizia lui Ilie Bolojan** trebuie explicată partidului și alegătorilor PNL, a afirmat Ponta, referindu-se la susținerea unui guvern sprijinit și de PSD. El a descris decizia drept rațională, dar nepopulară."
+  },
+  {
+    "group_id": "group_f299bf75a0",
+    "fingerprint": "43970dee9253bfbcfbe3818a9f9e7c5a",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/hepta_9025979-1024x682.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan, întrebat dacă România va invoca Articolul 4 al NATO după incidentul din Marea Neagră: „O să existe o reacție”",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-intrebat-daca-romania-va-invoca-articolul-4-al-nato-dupa-incidentul-din-marea-neagra-o-sa-existe-o-reactie-23825862"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan, despre atacurile navelor din Marea Neagră: O să existe o reacție a statului român",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-atacurile-navelor-din-marea-neagra-o-sa-existe-o-reactie-a-statului-roman-3993557"
+      }
+    ],
+    "published_at": 1792061015,
+    "title_hu": "Nicușor Dan: Románia reagál a Fekete-tengeri hajótámadásokra",
+    "lead_hu": "Nicușor Dan román elnök azt mondta, Románia reagálni fog a Fekete-tengeren történt, kereskedelmi hajókat érintő támadásokra, de előbb tisztázni akarja a történteket. Bukarest bolgár partnereivel egyeztet a NATO-val, miközben egyelőre nem döntött arról, hogy kezdeményezi-e a NATO-szerződés 4. cikke szerinti konzultációt.",
+    "content_hu": "• **A Fekete-tengeri támadások után** Nicușor Dan szerint a román állam reagálni fog, de a válasz előtt megvárják, amíg pontosan tisztázódnak a történtek.\n\n• **A támadások hátteréről** az elnök nem nevezett meg felelőst, és azt mondta, hamarosan végleges információkat közölhetnek. A sajtó a NATO-szerződés 4. cikkének esetleges kezdeményezéséről is kérdezte, de Dan erre nem adott egyértelmű választ.\n\n• **A bolgár miniszterelnökkel folytatott egyeztetés után** Dan és bolgár partnere a NATO főtitkárával is találkozik, hogy összehangolják a választ a Fekete-tenger térségében gyakoribbá váló biztonsági kihívásokra.\n\n• **A bolgár partoknál történt incidensekben** drónok támadtak meg két kereskedelmi hajót, amelyek közül az egyik elsüllyedt. Románia azt szeretné, hogy az uniós egyeztetések foglalkozzanak a térség biztonságával, és az EU támogassa a Bulgáriával közösen tervezett fekete-tengeri polgári biztonsági központot.",
+    "title_ro": "Nicușor Dan: România va reacționa după atacurile asupra navelor din Marea Neagră",
+    "lead_ro": "Președintele român Nicușor Dan a declarat că România va reacționa în urma atacurilor asupra unor nave comerciale din Marea Neagră, dar așteaptă mai întâi clarificarea faptelor. Bucureștiul se coordonează cu Bulgaria și cu NATO, fără să fi anunțat deocamdată dacă va solicita consultări în baza articolului 4 al Tratatului NATO.",
+    "content_ro": "• **După atacurile din Marea Neagră**, Nicușor Dan a spus că statul român va reacționa, însă înainte de stabilirea răspunsului dorește să afle exact ce s-a întâmplat.\n\n• **În privința autorilor atacurilor**, președintele nu a indicat un responsabil și a afirmat că în curând vor putea fi prezentate informații definitive. Întrebat dacă România va invoca articolul 4 al Tratatului NATO, Dan nu a oferit un răspuns categoric.\n\n• **După discuția cu premierul Bulgariei**, Nicușor Dan urmează să se întâlnească împreună cu acesta cu secretarul general al NATO, pentru a coordona răspunsul la provocările de securitate tot mai frecvente din regiunea Mării Negre.\n\n• **În incidentele din largul Bulgariei**, dronele au atacat două nave comerciale, dintre care una s-a scufundat. România dorește ca securitatea regiunii să fie discutată la nivelul Uniunii Europene și ca UE să sprijine centrul de securitate civilă la Marea Neagră pe care Bucureștiul intenționează să-l construiască împreună cu Sofia."
+  },
+  {
+    "group_id": "group_50ebc5ea01",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/c1c67924-13dd-455e-a371-3e17bf1f675d.png?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cătălin Cîrjan: „ Nu ne uităm foarte mult la adversare, dar cu siguranță ne privesc cu mai mult respect. FCSB - Rapid nu e un meci interesant pentru mine”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/catalin-cirjan-conferinta-de-presa-dinamo-fc-botosani-988359.html"
+      }
+    ],
+    "published_at": 1792060937,
+    "title_hu": "Cătălin Cîrjan: „ Nu ne uităm foarte mult la adversare, dar cu siguranță ne privesc cu mai mult respect. FCSB - Rapid nu e un meci interesant pentru mine”",
+    "lead_hu": "Cătălin Cîrjan, căpitanul celor de la Dinamo, a vorbit la conferința de presă premergătoare partidei cu FC Botoșani din etapa #12 din Superligă, meci programat vineri, 16 octombrie, de la ora 21:00 pe…",
+    "content_hu": "Cătălin Cîrjan, căpitanul celor de la Dinamo, a vorbit la conferința de presă premergătoare partidei cu FC Botoșani din etapa #12 din Superligă, meci programat vineri, 16 octombrie, de la ora 21:00 pe Arena Națională. Fotbalistul „câinilor” a vorbit despre partida cu moldovenii, despre lupta la titlu și echipele implicate în lupta din vârful clasamentului, dar și despre colegul său, fundașul marcator Martin Pascual. ...",
+    "title_ro": "Cătălin Cîrjan: „ Nu ne uităm foarte mult la adversare, dar cu siguranță ne privesc cu mai mult respect. FCSB - Rapid nu e un meci interesant pentru mine”",
+    "lead_ro": "Cătălin Cîrjan, căpitanul celor de la Dinamo, a vorbit la conferința de presă premergătoare partidei cu FC Botoșani din etapa #12 din Superligă, meci programat vineri, 16 octombrie, de la ora 21:00 pe…",
+    "content_ro": "Cătălin Cîrjan, căpitanul celor de la Dinamo, a vorbit la conferința de presă premergătoare partidei cu FC Botoșani din etapa #12 din Superligă, meci programat vineri, 16 octombrie, de la ora 21:00 pe Arena Națională. Fotbalistul „câinilor” a vorbit despre partida cu moldovenii, despre lupta la titlu și echipele implicate în lupta din vârful clasamentului, dar și despre colegul său, fundașul marcator Martin Pascual. ..."
+  },
+  {
+    "group_id": "group_a2e278f8ea",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/958b4950-4837-40ce-af9c-cc354535fcd7.jpeg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ce au găsit cei de la Getafe în Bănie: „Craiova și farmecul său”",
+        "link": "https://www.gsp.ro/international/conference-league/cei-de-la-getafe-impresionati-craiova-si-farmecul-sau-988363.html"
+      }
+    ],
+    "published_at": 1792060841,
+    "title_hu": "Ce au găsit cei de la Getafe în Bănie: „Craiova și farmecul său”",
+    "lead_hu": "Adversara oltenilor de diseară, Getafe, a publicat mai multe materiale pe paginile clubului din social media, în care a prezentat fanilor spanioli imagini din orașul unde ibericii vor evolua la debutu…",
+    "content_hu": "Adversara oltenilor de diseară, Getafe, a publicat mai multe materiale pe paginile clubului din social media, în care a prezentat fanilor spanioli imagini din orașul unde ibericii vor evolua la debutul în grupa XXL a Conference League Universitatea Craiova - Getafe este diseară, de la ora 19:45, pe stadionul \"Ion Oblemenco\" din Bănie. Un duel aprig între campioana en titre, ocupanta locului 3 din Superliga, și formația clasată pe poziția a 14-a în LaLiga. ...",
+    "title_ro": "Ce au găsit cei de la Getafe în Bănie: „Craiova și farmecul său”",
+    "lead_ro": "Adversara oltenilor de diseară, Getafe, a publicat mai multe materiale pe paginile clubului din social media, în care a prezentat fanilor spanioli imagini din orașul unde ibericii vor evolua la debutu…",
+    "content_ro": "Adversara oltenilor de diseară, Getafe, a publicat mai multe materiale pe paginile clubului din social media, în care a prezentat fanilor spanioli imagini din orașul unde ibericii vor evolua la debutul în grupa XXL a Conference League Universitatea Craiova - Getafe este diseară, de la ora 19:45, pe stadionul \"Ion Oblemenco\" din Bănie. Un duel aprig între campioana en titre, ocupanta locului 3 din Superliga, și formația clasată pe poziția a 14-a în LaLiga. ..."
+  },
+  {
+    "group_id": "group_fce90cac03",
+    "fingerprint": "d103b828b80a78ab3ee8d47813214f30",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cine este Sorin Costreie, propus pentru funcția de ministru al Educației în Guvernul Luca Niculescu. Tehnocratul din spatele a trei premieri",
+        "link": "https://hotnews.ro/cine-este-sorin-costreie-propus-pentru-functia-de-ministru-al-educatiei-in-guvernul-luca-niculescu-tehnocratul-din-spatele-a-trei-premieri-2375576"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cine este Sorin Costreie, propunerea pentru Ministerul Educaţiei în guvernul Luca Niculescu",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/cine-este-sorin-costreie-propunerea-pentru-ministerul-educatiei-in-guvernul-luca-niculescu-3993571"
+      }
+    ],
+    "published_at": 1792060754,
+    "title_hu": "Sorin Costreie lehet a Luca Niculescu vezette kormány oktatási minisztere",
+    "lead_hu": "Sorin Costreie oktatási és kutatási elnöki tanácsadót javasolták az oktatási tárca élére a Luca Niculescu vezette leendő kormányban. Az egyetemi oktató korábban egyetemi vezetőként és a központi közigazgatásban is dolgozott.",
+    "content_hu": "• **Sorin Costreie-t** javasolták az oktatási miniszteri posztra a Luca Niculescu vezette leendő kormányban. Korábban egy, Eugen Tomac által javasolt kabinetben is elfogadta az oktatási miniszteri és miniszterelnök-helyettesi tisztséget, de az a kormány nem jutott el a beiktatási szavazásig.\n\n• **Costreie** a Bukaresti Egyetem filozófiaprofesszora, szakterülete többek között a matematika, a nyelv és a logika filozófiája. Doktori fokozatát 2007-ben szerezte, és Kanadában, valamint több más országban is folytatott tanulmányokat.\n\n• **Közigazgatási tapasztalata** az oktatási minisztériumi államtitkári és tanácsadói munkára, valamint kormányzati tisztségekre terjed ki. 2020-tól államtanácsosként Florin Cîțu, Nicolae Ciucă és Marcel Ciolacu miniszterelnökök mellett dolgozott; 2025 novemberében Nicușor Dan elnök oktatási és kutatási tanácsadójává nevezték ki.\n\n• **Egyetemi vezetőként** rektorhelyettesi és dékánhelyettesi feladatokat is ellátott, 2023-tól pedig az európai fővárosok egyetemeit tömörítő UNICA-hálózat elnöke. Tudományos munkái nemzetközi és romániai kiadóknál jelentek meg.",
+    "title_ro": "Sorin Costreie, propus pentru funcția de ministru al Educației în guvernul condus de Luca Niculescu",
+    "lead_ro": "Sorin Costreie, consilier prezidențial pentru educație și cercetare, a fost propus pentru conducerea Ministerului Educației în viitorul guvern condus de Luca Niculescu. Profesor universitar, acesta are experiență atât în mediul academic, cât și în administrația publică.",
+    "content_ro": "• **Sorin Costreie** a fost propus pentru funcția de ministru al Educației în viitorul guvern condus de Luca Niculescu. El acceptase anterior funcțiile de ministru al Educației și vicepremier într-un cabinet propus de Eugen Tomac, care nu a ajuns însă la votul de învestitură.\n\n• **Costreie** este profesor la Facultatea de Filosofie a Universității din București, cu specializări precum filosofia matematicii, a limbajului și a logicii. Și-a obținut doctoratul în 2007 și a urmat studii în Canada și în alte țări.\n\n• **Experiența sa în administrația publică** include funcții de consilier și secretar de stat în domeniul educației, precum și activitate guvernamentală. Din 2020 a fost consilier de stat în timpul guvernelor conduse de Florin Cîțu, Nicolae Ciucă și Marcel Ciolacu; în noiembrie 2025, președintele Nicușor Dan l-a numit consilier prezidențial pentru educație și cercetare.\n\n• **În mediul universitar**, Costreie a fost prorector și prodecan, iar din 2023 este președintele rețelei UNICA, care reunește universități din capitalele Europei. Lucrările sale academice au fost publicate de edituri internaționale și din România."
+  },
+  {
+    "group_id": "group_4e4ec43e5d",
+    "fingerprint": "957b91074ec371747e0a3c19b01a33c8",
+    "category": "Erdély",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDA3NF8zMDE0/MDc0X2FjY2lkZW50LmpwZyZoYXNoPTIz/OTAzZjJkNjNiM2U2MmM4ODY2M2M5NDQyOTBjN2Rm.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "O doctoriță băută a provocat un accident rutier în drum spre spital, unde urma să intre de gardă",
+        "link": "https://www.digi24.ro/stiri/o-doctorita-bauta-a-provocat-un-accident-rutier-in-drum-spre-spital-unde-urma-sa-intre-de-garda-3993033"
+      },
+      {
+        "source": "Maszol",
+        "title": "Részeg orvosnő okozott autóbalesetet úton a munkahelyére",
+        "link": "https://maszol.ro/belfold/Reszeg-orvosno-okozott-autobalesetet-uton-a-munkahelyere"
+      },
+      {
+        "source": "Adevărul",
+        "title": "O doctoriță de la Spitalul Alexandria, prinsă băută la volan înainte de gardă la UPU. Soțul, care nu era în mașină, a încercat să ia vina asupra lui",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/o-doctorita-de-la-spitalul-alexandria-prinsa-2564207.html"
+      }
+    ],
+    "published_at": 1792060754,
+    "title_hu": "Ittasan okozott balesetet egy alexandriai orvosnő, aki ügyeletbe tartott",
+    "lead_hu": "Egy alexandriai sürgősségi orvosnő ittasan vezetve balesetet okozott, miközben a kórházba tartott ügyeletbe. A STOP-táblánál nem adott elsőbbséget, és összeütközött egy kisteherautóval; a balesetben senki sem sérült meg. Az ügyben büntetőeljárás indult.",
+    "content_hu": "• **Az alexandriai orvosnő, Mirela Mirea** a megyei kórház sürgősségi betegellátó osztályára tartott, ahol ügyeletbe kellett volna lépnie, amikor ittasan vezetve balesetet okozott.\n\n• **A baleset** az 1 Mai és az Alexandru Ghica utca kereszteződésében történt: az orvosnő a STOP-táblánál nem adott elsőbbséget, és összeütközött egy kisteherautóval. Senki sem sérült meg.\n\n• **A rendőrségi alkoholszonda** az orvosnőnél 0,71 mg/l alkoholt jelzett a kilélegzett levegőben, míg a kisteherautó vezetőjénél negatív lett az eredmény. Az orvosnőt kórházba vitték biológiai mintavételre a véralkoholszint megállapításához.\n\n• **Az orvosnő férje** a baleset után a helyszínre érkezett, de nem ült az autóban. A beszámolók szerint megpróbálta magára vállalni a felelősséget, és azzal magyarázta a sietséget, hogy feleségének ügyeletbe kellett érnie; a szemtanúk megerősítették, hogy az orvosnő vezetett.\n\n• **A hatóságok** büntetőeljárást indítottak, és vizsgálják a baleset pontos körülményeit.",
+    "title_ro": "O doctoriță din Alexandria a provocat un accident băută, în drum spre gardă",
+    "lead_ro": "O doctoriță de la Unitatea de Primiri Urgențe din Alexandria a provocat un accident în timp ce conducea băută spre spital, unde urma să intre de gardă. Nu a acordat prioritate la indicatorul STOP și a intrat în coliziune cu o autoutilitară; nimeni nu a fost rănit. Poliția a deschis un dosar penal.",
+    "content_ro": "• **Medicul Mirela Mirea** se îndrepta spre Unitatea de Primiri Urgențe a Spitalului Județean din Alexandria, unde urma să intre de gardă, când a provocat accidentul conducând băută.\n\n• **Accidentul** s-a produs la intersecția străzilor 1 Mai și Alexandru Ghica: doctorița nu a acordat prioritate la indicatorul STOP și a intrat în coliziune cu o autoutilitară. Nimeni nu a fost rănit.\n\n• **Testarea cu etilotestul** a indicat 0,71 mg/l alcool pur în aerul expirat în cazul doctoriței, în timp ce rezultatul pentru șoferul autoutilitarei a fost negativ. Medicul a fost dus la spital pentru recoltarea probelor biologice necesare stabilirii alcoolemiei.\n\n• **Soțul doctoriței** a ajuns la locul accidentului, dar nu se afla în mașină. Potrivit relatărilor, el ar fi încercat să își asume vina și a spus că soția se grăbea să ajungă la gardă; martorii au confirmat că doctorița era la volan.\n\n• **Autoritățile** au deschis un dosar penal și continuă cercetările pentru stabilirea împrejurărilor exacte ale accidentului."
+  },
+  {
+    "group_id": "group_c0741b56c8",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Startup co-fondat de românii Raluca Ada Popa și Ion Stoica, vândut colosului AI Anthropic (Claude)",
+        "link": "https://hotnews.ro/startup-co-fondat-de-romanii-raluca-ada-popa-si-ion-stoica-vandut-colosului-ai-anthropic-claude-2376894"
+      }
+    ],
+    "published_at": 1792060713,
+    "title_hu": "Startup co-fondat de românii Raluca Ada Popa și Ion Stoica, vândut colosului AI Anthropic (Claude)",
+    "lead_hu": "Anthropic a încheiat un acord prin care cumpără startup-ul Opaque Systems, co-fondat și de Ion Stoica, profesor universitar în SUA și antreprenor în serie, și de cercetătoarea Raluca Ada Popa. Citește…",
+    "content_hu": "Anthropic a încheiat un acord prin care cumpără startup-ul Opaque Systems, co-fondat și de Ion Stoica, profesor universitar în SUA și antreprenor în serie, și de cercetătoarea Raluca Ada Popa. Citește mai departe pe StartupCafe…",
+    "title_ro": "Startup co-fondat de românii Raluca Ada Popa și Ion Stoica, vândut colosului AI Anthropic (Claude)",
+    "lead_ro": "Anthropic a încheiat un acord prin care cumpără startup-ul Opaque Systems, co-fondat și de Ion Stoica, profesor universitar în SUA și antreprenor în serie, și de cercetătoarea Raluca Ada Popa. Citește…",
+    "content_ro": "Anthropic a încheiat un acord prin care cumpără startup-ul Opaque Systems, co-fondat și de Ion Stoica, profesor universitar în SUA și antreprenor în serie, și de cercetătoarea Raluca Ada Popa. Citește mai departe pe StartupCafe…"
+  },
+  {
+    "group_id": "group_aa536127dc",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/03/FotoJet-13.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Al şaselea distrugător american a sosit în Spania pentru a completa scutul antirachetă al NATO",
+        "link": "https://www.g4media.ro/al-saselea-distrugator-american-a-sosit-in-spania-pentru-a-completa-scutul-antiracheta-al-nato.html"
+      }
+    ],
+    "published_at": 1792060698,
+    "title_hu": "Al şaselea distrugător american a sosit în Spania pentru a completa scutul antirachetă al NATO",
+    "lead_hu": "USS John Basilone (DDG 122), un distrugător cu rachete ghidate din clasa Arleigh Burke, a sosit miercuri în noul său port de origine din Rota, în sud-vestul Spaniei, unde se va alătura forţelor navale…",
+    "content_hu": "USS John Basilone (DDG 122), un distrugător cu rachete ghidate din clasa Arleigh Burke, a sosit miercuri în noul său port de origine din Rota, în sud-vestul Spaniei, unde se va alătura forţelor navale americane care operează în Europa, informează agenția de știri EFE, citată de Agerpres. Este al şaselea distrugător american care ajunge la […] © G4Media.ro.",
+    "title_ro": "Al şaselea distrugător american a sosit în Spania pentru a completa scutul antirachetă al NATO",
+    "lead_ro": "USS John Basilone (DDG 122), un distrugător cu rachete ghidate din clasa Arleigh Burke, a sosit miercuri în noul său port de origine din Rota, în sud-vestul Spaniei, unde se va alătura forţelor navale…",
+    "content_ro": "USS John Basilone (DDG 122), un distrugător cu rachete ghidate din clasa Arleigh Burke, a sosit miercuri în noul său port de origine din Rota, în sud-vestul Spaniei, unde se va alătura forţelor navale americane care operează în Europa, informează agenția de știri EFE, citată de Agerpres. Este al şaselea distrugător american care ajunge la […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_4422d9402a",
+    "fingerprint": "16ee3e3631ca9de7a56d1f827626a262",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Nicusor-Dan-Luca-Niculescu-2-1024x768.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Nicușor Dan, mesaj către investitorii străini: Este o probabilitate foarte mare ca marți să avem un guvern",
+        "link": "https://economedia.ro/nicusor-dan-mesaj-catre-investitorii-straini-este-o-probabilitate-foarte-mare-ca-marti-sa-avem-un-guvern.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Președintele Dan: Există o probabilitate foarte mare ca marți să avem un Guvern",
+        "link": "https://www.g4media.ro/presedintele-dan-exista-o-probabilitate-foarte-mare-ca-marti-sa-avem-un-guvern.html"
+      }
+    ],
+    "published_at": 1792060694,
+    "title_hu": "Nicușor Dan szerint nagy eséllyel kedden megalakulhat az új román kormány",
+    "lead_hu": "Nicușor Dan államfő szerint nagy a valószínűsége annak, hogy kedden új kormánya lesz Romániának, mivel a kijelölt miniszterelnök megállapodásokat írt alá a parlamenti támogatást ígérő pártokkal. Az államfő a nyugati irányvonal, a pénzügyi vállalások és az uniós források ügyében is pártok közötti egyetértésről beszélt, miközben egy másik beszámoló szerint nem világos, pontosan mely megállapodásokra utalt.",
+    "content_hu": "• **Nicușor Dan államfő** csütörtökön Brüsszelben azt mondta, nagy a valószínűsége annak, hogy kedden megalakul az új román kormány.\n\n• **A kormányalakításról szóló megállapodások** a kijelölt miniszterelnök és a parlamentben a kabinetet támogató pártok között születtek; Dan szerint a tárgyalások előrehaladott szakaszban vannak. A G4Media ugyanakkor azt írta, nem világos, pontosan mely megállapodásokra utalt az államfő.\n\n• **A kijelölt miniszterelnök, Luca Niculescu** a beszámoló szerint aznap nyújthatja be a parlamentnek a miniszterjelöltek névsorát és a kormányprogramot. A kabinetben a PSD is részt vesz, amely 11 minisztert javasolt.\n\n• **A kormány fő céljai között** Dan a helyreállítási terv (PNRR) lezárását, az európai források lehívását és a SAFE programban elért előrelépést említette. Közlése szerint a nyugatbarát pártok egyetértenek Románia nyugati irányvonalának, stabilitásának és pénzügyi kötelezettségeinek megőrzésében.",
+    "title_ro": "Nicușor Dan: România ar putea avea un nou guvern marți",
+    "lead_ro": "Președintele Nicușor Dan a declarat că există o probabilitate mare ca România să aibă un nou guvern marți, după ce premierul desemnat a semnat acorduri cu partidele care ar urma să susțină Executivul. El a invocat consensul privind direcția occidentală, angajamentele financiare și fondurile europene, însă o altă relatare notează că nu este clar la ce acorduri s-a referit.",
+    "content_ro": "• **Președintele Nicușor Dan** a declarat joi, la Bruxelles, că există o probabilitate foarte mare ca România să aibă un nou guvern marți.\n\n• **Acordurile pentru formarea guvernului** ar fi fost semnate între premierul desemnat și partidele care urmează să susțină Executivul în Parlament. Dan a spus că negocierile sunt într-o etapă avansată, însă G4Media a precizat că nu este clar la ce acorduri s-a referit președintele.\n\n• **Premierul desemnat, Luca Niculescu**, era așteptat să depună în Parlament, în aceeași zi, lista miniștrilor și programul de guvernare. PSD va face parte din guvern și a propus 11 miniștri, potrivit relatării G4Media.\n\n• **Printre obiectivele guvernului** menționate de Dan se numără finalizarea PNRR, atragerea fondurilor europene și progresul în programul SAFE. Președintele a afirmat că partidele pro-occidentale sunt de acord cu menținerea direcției occidentale a României, a stabilității și a angajamentelor financiare asumate."
+  },
+  {
+    "group_id": "group_c36027e32f",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2022/07/32EZ677-highres-e1658734153439-1024x689.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Livrările de gaze către Republica Moldova s-au oprit",
+        "link": "https://economedia.ro/livrarile-de-gaze-catre-republica-moldova-s-au-oprit.html"
+      }
+    ],
+    "published_at": 1792060645,
+    "title_hu": "Livrările de gaze către Republica Moldova s-au oprit",
+    "lead_hu": "Nu mai apar în Sistemul Naţional de Transport livrări de gaze către Republica Moldova, prin gazoductul Iaşi-Ungheni. În fiecare zi, până azi, ieşeau pe sub Prut 3-4 milioane de mc, din care circa 1,5 …",
+    "content_hu": "Nu mai apar în Sistemul Naţional de Transport livrări de gaze către Republica Moldova, prin gazoductul Iaşi-Ungheni. În fiecare zi, până azi, ieşeau pe sub Prut 3-4 milioane de mc, din care circa 1,5 milioane mc reprezentau un tranzit asigurat de Transgaz, iar restul fiind export direct de la noi către moldoveni. Vecinii depind aproape […]",
+    "title_ro": "Livrările de gaze către Republica Moldova s-au oprit",
+    "lead_ro": "Nu mai apar în Sistemul Naţional de Transport livrări de gaze către Republica Moldova, prin gazoductul Iaşi-Ungheni. În fiecare zi, până azi, ieşeau pe sub Prut 3-4 milioane de mc, din care circa 1,5 …",
+    "content_ro": "Nu mai apar în Sistemul Naţional de Transport livrări de gaze către Republica Moldova, prin gazoductul Iaşi-Ungheni. În fiecare zi, până azi, ieşeau pe sub Prut 3-4 milioane de mc, din care circa 1,5 milioane mc reprezentau un tranzit asigurat de Transgaz, iar restul fiind export direct de la noi către moldoveni. Vecinii depind aproape […]"
+  },
+  {
+    "group_id": "group_1a5007f163",
+    "fingerprint": "04a49fc58d1f4fbc87c69639ee811c22",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwOSUyRjE0JTJGMTU4MjUyOV8xNTgy/NTI5X3VlLWVuZXJnaWUtY29udG9yLWV1/cm8tMS5qcGcmaGFzaD0yZjJlYzAwYWJlOWQ5MjUwNThiYzA2ZDM4Y2MyNTgzNg==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Șocul energetic provocat de războiul din Iran pune UE în dificultate. Ce opțiuni au liderii europeni",
+        "link": "https://www.digi24.ro/stiri/economie/socul-energetic-provocat-de-razboiul-din-iran-pune-ue-in-dificultate-ce-optiuni-au-liderii-europeni-3993389"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Liderii UE dispun de puține instrumente pentru a atenua șocul energetic provocat de războiul din Iran",
+        "link": "https://stirileprotv.ro/stiri/financiar/socul-energetic-provocat-de-razboiul-din-iran-greu-de-atenuat-liderii-ue-dispun-de-putine-instrumente.html"
+      }
+    ],
+    "published_at": 1792060576,
+    "title_hu": "Kevés eszköze van az EU-nak az iráni háború okozta energiadrágulás mérséklésére",
+    "lead_hu": "Az iráni háború több mint 100 milliárd euróval növelte Európa fosszilisenergia-importjának költségeit, miközben a gáztartalékok történelmi mélypontra süllyedtek a tél közeledtével. Az uniós vezetők a brüsszeli csúcstalálkozón keresik a válaszokat, de a gyors beavatkozási lehetőségek korlátozottak.",
+    "content_hu": "• **Az iráni háború** több mint 100 milliárd euróval növelte Európa fosszilis tüzelőanyagok importjára fordított kiadásait, és történelmi mélypontra vitte a régió gáztartalékait a téli időszak előtt.\n\n• **Az uniós vezetők brüsszeli tanácskozásán** az energiaárak emelkedése és az európai versenyképesség kerül napirendre. Az Európai Bizottság szerint nincs gyors, minden problémát megoldó intézkedés.\n\n• **A tagállamok mozgásterét** szűkíti, hogy az árplafonok és az adócsökkentések jelentős költségvetési terhet jelentenének, miközben a kormányzati büdzsék feszültek és a hitelköltségek magasak.\n\n• **Az Európai Bizottság** a közös energiabeszerzés kiterjesztését, a metánkibocsátási szabályok halasztását és az érintett iparágak állami támogatásának meghosszabbítását mérlegeli. Ezek azonban rövid távon nem feltétlenül csökkentik az árakat, és az EU továbbra is függ az olaj- és gázimporttól.\n\n• **Az energiavállalatok rendkívüli nyereségének megadóztatása** szintén felmerült, de az elképzelés ellenállásba ütközhet. A profitkorlátozás visszafoghatja a finomítókba irányuló, az ellátásbiztonsághoz szükséges beruházásokat.\n\n• **Simone Tagliapietra, a Bruegel elemzőközpont igazgatóhelyettese** szerint a tartósan alacsonyabb áramárakhoz hosszabb távú, strukturális megoldásokra, köztük az európai villamosenergia-rendszer szorosabb integrációjára van szükség.",
+    "title_ro": "UE are puține instrumente pentru a tempera scumpirea energiei provocată de războiul din Iran",
+    "lead_ro": "Războiul din Iran a adăugat peste 100 de miliarde de euro la costurile Europei pentru importurile de combustibili fosili, iar rezervele de gaze au ajuns la un minim istoric înaintea iernii. Liderii UE caută soluții la reuniunea de la Bruxelles, însă opțiunile de intervenție rapidă sunt limitate.",
+    "content_ro": "• **Războiul din Iran** a majorat cu peste 100 de miliarde de euro cheltuielile Europei pentru importurile de combustibili fosili și a adus rezervele de gaze ale regiunii la un minim istoric înaintea sezonului rece.\n\n• **Reuniunea liderilor UE de la Bruxelles** va aborda creșterea prețurilor la energie și competitivitatea europeană. Comisia Europeană le va transmite liderilor că nu există o soluție rapidă care să rezolve toate problemele.\n\n• **Marja de acțiune a statelor membre** este limitată, deoarece plafonarea prețurilor și reducerile de taxe ar presupune costuri bugetare ridicate, într-un context al bugetelor tensionate și al dobânzilor mari.\n\n• **Comisia Europeană** analizează extinderea achizițiilor comune de energie, amânarea normelor privind emisiile de metan și prelungirea ajutoarelor de stat pentru industriile afectate. Aceste măsuri nu ar reduce neapărat prețurile pe termen scurt, iar UE ar rămâne dependentă de importurile de petrol și gaze.\n\n• **Impozitarea profiturilor excepționale ale companiilor energetice** este, de asemenea, luată în calcul, însă propunerea s-ar putea confrunta cu opoziția unor state. Limitarea profiturilor ar putea descuraja investițiile în rafinării, necesare pentru securitatea aprovizionării.\n\n• **Simone Tagliapietra, director adjunct al think-tank-ului Bruegel**, afirmă că reducerea durabilă a prețurilor la electricitate necesită soluții structurale pe termen lung, inclusiv o integrare mai profundă a sistemului european de energie electrică."
+  },
+  {
+    "group_id": "group_578d35b706",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA1JTJGMjk5NzgxNl8yOTk3/ODE2X3h4LmpwZyZoYXNoPWI1ZjFmOWJkOWU1MGY2MTVhNWVhMmU2NmFjOWJlZGM2.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Nicuşor Dan: Ne îndreptăm către votarea de către Parlament a unui guvern",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-ne-indreptam-catre-votarea-de-catre-parlament-a-unui-guvern-3993565"
+      }
+    ],
+    "published_at": 1792060569,
+    "title_hu": "Nicuşor Dan: Ne îndreptăm către votarea de către Parlament a unui guvern",
+    "lead_hu": "Preşedintele Nicuşor Dan a declarat, joi, înainte de Consiliul European, la Bruxelles, că „ne îndreptăm către votarea de către Parlament a unui guvern”, făcând referire la cabinetul condus de Luca Nic…",
+    "content_hu": "Preşedintele Nicuşor Dan a declarat, joi, înainte de Consiliul European, la Bruxelles, că „ne îndreptăm către votarea de către Parlament a unui guvern”, făcând referire la cabinetul condus de Luca Niculescu.",
+    "title_ro": "Nicuşor Dan: Ne îndreptăm către votarea de către Parlament a unui guvern",
+    "lead_ro": "Preşedintele Nicuşor Dan a declarat, joi, înainte de Consiliul European, la Bruxelles, că „ne îndreptăm către votarea de către Parlament a unui guvern”, făcând referire la cabinetul condus de Luca Nic…",
+    "content_ro": "Preşedintele Nicuşor Dan a declarat, joi, înainte de Consiliul European, la Bruxelles, că „ne îndreptăm către votarea de către Parlament a unui guvern”, făcând referire la cabinetul condus de Luca Niculescu."
+  },
+  {
+    "group_id": "group_08fe744d50",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/98e520d6-2ef1-4c27-858f-b3d3058a64d2.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Retragerea discretă a lui Gael Monfils provoacă reacții » Daniil Medvedev: „O poveste ciudată, sper să fie totul bine”",
+        "link": "https://www.gsp.ro/sporturi/tenis/retragerea-discreta-a-lui-gael-monfils-provoaca-reactii-daniil-medvedev-o-poveste-ciudata-sper-sa-fie-totul-bine-988361.html"
+      }
+    ],
+    "published_at": 1792060559,
+    "title_hu": "Retragerea discretă a lui Gael Monfils provoacă reacții » Daniil Medvedev: „O poveste ciudată, sper să fie totul bine”",
+    "lead_hu": "Gael Monfils (40 de ani) nu va mai juca pe finalul sezonului 2026, cum anunțase, el fiind deja înregistrat de ITIA (Agenția Internațională pentru Integritate în Tenis), pe lista celor retrași. Daniil …",
+    "content_hu": "Gael Monfils (40 de ani) nu va mai juca pe finalul sezonului 2026, cum anunțase, el fiind deja înregistrat de ITIA (Agenția Internațională pentru Integritate în Tenis), pe lista celor retrași. Daniil Medvedev a comentat situația, spunând că francezul este unul dintre jucătorii despre care nu se poate spune nimic rău. ...",
+    "title_ro": "Retragerea discretă a lui Gael Monfils provoacă reacții » Daniil Medvedev: „O poveste ciudată, sper să fie totul bine”",
+    "lead_ro": "Gael Monfils (40 de ani) nu va mai juca pe finalul sezonului 2026, cum anunțase, el fiind deja înregistrat de ITIA (Agenția Internațională pentru Integritate în Tenis), pe lista celor retrași. Daniil …",
+    "content_ro": "Gael Monfils (40 de ani) nu va mai juca pe finalul sezonului 2026, cum anunțase, el fiind deja înregistrat de ITIA (Agenția Internațională pentru Integritate în Tenis), pe lista celor retrași. Daniil Medvedev a comentat situația, spunând că francezul este unul dintre jucătorii despre care nu se poate spune nimic rău. ..."
+  },
+  {
+    "group_id": "group_49c5a9dfcd",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/8133217-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Răspunsul lui Nicușor Dan la întrebarea dacă se simte în siguranță în România ca urmare a incidentelor cu drone",
+        "link": "https://www.mediafax.ro/politic/raspunsul-lui-nicusor-dan-la-intrebarea-daca-se-simte-in-siguranta-in-romania-ca-urmare-a-incidentelor-cu-drone-23825883"
+      }
+    ],
+    "published_at": 1792060536,
+    "title_hu": "Răspunsul lui Nicușor Dan la întrebarea dacă se simte în siguranță în România ca urmare a incidentelor cu drone",
+    "lead_hu": "Președintele Nicușor Dan a fost întrebat dacă se simte în siguranță în România și în Republica Moldova ca urmare a incidentelor cu drone. Progresăm, învățăm, nu suntem perfecți, a spus Nicușor Dan.",
+    "content_hu": "Președintele Nicușor Dan a fost întrebat dacă se simte în siguranță în România și în Republica Moldova ca urmare a incidentelor cu drone. Progresăm, învățăm, nu suntem perfecți, a spus Nicușor Dan.",
+    "title_ro": "Răspunsul lui Nicușor Dan la întrebarea dacă se simte în siguranță în România ca urmare a incidentelor cu drone",
+    "lead_ro": "Președintele Nicușor Dan a fost întrebat dacă se simte în siguranță în România și în Republica Moldova ca urmare a incidentelor cu drone. Progresăm, învățăm, nu suntem perfecți, a spus Nicușor Dan.",
+    "content_ro": "Președintele Nicușor Dan a fost întrebat dacă se simte în siguranță în România și în Republica Moldova ca urmare a incidentelor cu drone. Progresăm, învățăm, nu suntem perfecți, a spus Nicușor Dan."
+  },
+  {
+    "group_id": "group_7fa640c6c1",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Tesla prezintă joi, după o mare întârziere, mașina sa de 200.000 de dolari",
+        "link": "https://hotnews.ro/tesla-prezinta-joi-dupa-o-mare-intarziere-prototipul-masinii-sale-de-200-000-de-dolari-2376818"
+      }
+    ],
+    "published_at": 1792060516,
+    "title_hu": "Tesla prezintă joi, după o mare întârziere, mașina sa de 200.000 de dolari",
+    "lead_hu": "Tesla urmează să-și prezinte joi modelul Roadster reproiectat, la aproape nouă ani de când a prezentat pentru prima dată o versiune de nouă generație a mașinii sale sport electrice, transmite Reuters.…",
+    "content_hu": "Tesla urmează să-și prezinte joi modelul Roadster reproiectat, la aproape nouă ani de când a prezentat pentru prima dată o versiune de nouă generație a mașinii sale sport electrice, transmite Reuters. Tesla a dezvăluit un prototip al mașinii în valoare de 200.000 de dolari în 2017 și a anunțat că livrările vor începe în 2020. …",
+    "title_ro": "Tesla prezintă joi, după o mare întârziere, mașina sa de 200.000 de dolari",
+    "lead_ro": "Tesla urmează să-și prezinte joi modelul Roadster reproiectat, la aproape nouă ani de când a prezentat pentru prima dată o versiune de nouă generație a mașinii sale sport electrice, transmite Reuters.…",
+    "content_ro": "Tesla urmează să-și prezinte joi modelul Roadster reproiectat, la aproape nouă ani de când a prezentat pentru prima dată o versiune de nouă generație a mașinii sale sport electrice, transmite Reuters. Tesla a dezvăluit un prototip al mașinii în valoare de 200.000 de dolari în 2017 și a anunțat că livrările vor începe în 2020. …"
+  },
+  {
+    "group_id": "group_f48f1bc641",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-f/f5ab6c2f-6b77-4f59-99a0-16231fd1baf9/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Harta riscului financiar se schimbă în Europa: Franța se împrumută mai scump decât Italia. Unde se situează România",
+        "link": "https://adevarul.ro/economie/harta-riscului-financiar-se-schimba-in-europa-2564198.html"
+      }
+    ],
+    "published_at": 1792060500,
+    "title_hu": "Harta riscului financiar se schimbă în Europa: Franța se împrumută mai scump decât Italia. Unde se situează România",
+    "lead_hu": "Harta riscului financiar din Europa se schimbă: Belgia se împrumută la costuri comparabile cu Grecia, iar Franța plătește mai mult decât Italia. România nu este singura țară vulnerabilă la presiunile …",
+    "content_hu": "Harta riscului financiar din Europa se schimbă: Belgia se împrumută la costuri comparabile cu Grecia, iar Franța plătește mai mult decât Italia. România nu este singura țară vulnerabilă la presiunile datoriei publice.",
+    "title_ro": "Harta riscului financiar se schimbă în Europa: Franța se împrumută mai scump decât Italia. Unde se situează România",
+    "lead_ro": "Harta riscului financiar din Europa se schimbă: Belgia se împrumută la costuri comparabile cu Grecia, iar Franța plătește mai mult decât Italia. România nu este singura țară vulnerabilă la presiunile …",
+    "content_ro": "Harta riscului financiar din Europa se schimbă: Belgia se împrumută la costuri comparabile cu Grecia, iar Franța plătește mai mult decât Italia. România nu este singura țară vulnerabilă la presiunile datoriei publice."
+  },
+  {
+    "group_id": "group_42d49e0ab4",
+    "fingerprint": "7f03949511e6c1df6fb2b8e47ac99c30",
+    "category": "Gazdaság",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/istockphoto-909046092-612x612-1.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Horoscop 14 octombrie 2026. Se deschid uși exact când unele zodii se așteaptă mai puțin. Bani, vești bune și un ajutor venit din umbră",
+        "link": "https://www.mediafax.ro/horoscop/horoscop-14-octombrie-2026-se-deschid-usi-exact-cand-unele-zodii-se-asteapta-mai-putin-bani-vesti-bune-si-un-ajutor-venit-din-umbra-23824813"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Horoscop 14 octombrie 2026, cu Neti Sandu. Zodia pentru care se înmulțesc banii în cont",
+        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-14-octombrie-2026-cu-neti-sandu-zodia-pentru-care-se-inmultesc-banii-in-cont.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Horoscop carieră azi, 14 octombrie 2026. Banii și succesul sunt în joc! O zodie poate avea rezultate peste toate așteptările",
+        "link": "https://www.cancan.ro/horoscop-cariera-azi-14-octombrie-2026-banii-si-succesul-sunt-in-joc-o-zodie-poate-avea-rezultate-peste-toate-asteptarile-21529651"
+      }
+    ],
+    "published_at": 1792060458,
+    "title_hu": "Október 14-i horoszkópok: szakmai lehetőségeket és pénzügyi ügyeket emelnek ki",
+    "lead_hu": "A három, 2026. október 14-re szóló horoszkóp társas és szakmai együttműködéseket, valamint új lehetőségeket helyez előtérbe. A pénzügyi előrejelzések között bevételnövelő ötletek és partnerségek is szerepelnek, miközben az egyik cikk óvatosságra int a túl sok feladat és az elhamarkodott döntések kapcsán.",
+    "content_hu": "• **2026. október 14-re** a horoszkópok több jegy számára kedvező szakmai fejleményeket, együttműködéseket és előrelépési lehetőségeket jeleznek. A vezetői kezdeményezés, a kitartás és a kollégákkal, illetve felettesekkel való jó kapcsolat segítheti a munkát.\n\n• **A pénzügyek terén** új bevételi ötlet, üzleti lehetőség, partnerség vagy korábban megkezdett projekt kerülhet előtérbe. A ProTV előrejelzése pénz visszaszerzését és jövedelmet növelő kezdeményezéseket is említ; a karrierhoroszkóp ugyanakkor megfontolt befektetést és az ajánlatok ellenőrzését javasolja.\n\n• **A kapcsolatokban és az együttműködésekben** a nyitottság, a kommunikáció és a kölcsönös támogatás kaphat hangsúlyt. A horoszkópok szerint ezek személyes és szakmai lehetőségekhez egyaránt hozzájárulhatnak.\n\n• **Az óvatosságra vonatkozó tanácsok** között szerepel, hogy ne vállaljanak többet a kezelhetőnél, tartsák be a munkahelyi szabályokat, és ne hozzanak sietős pénzügyi döntéseket.",
+    "title_ro": "Horoscoapele pentru 14 octombrie evidențiază oportunități profesionale și financiare",
+    "lead_ro": "Cele trei horoscoape pentru 14 octombrie 2026 pun accentul pe colaborări sociale și profesionale, precum și pe noi oportunități. Previziunile financiare menționează idei pentru creșterea veniturilor și parteneriate, iar unul dintre articole recomandă prudență în privința volumului de muncă și a deciziilor pripite.",
+    "content_ro": "• **Pentru 14 octombrie 2026**, horoscoapele indică posibile evoluții profesionale favorabile, colaborări și oportunități de avansare pentru mai multe zodii. Inițiativa, perseverența și relațiile bune cu colegii și superiorii ar putea sprijini activitatea profesională.\n\n• **În plan financiar**, ar putea apărea o idee de venit suplimentar, o oportunitate de afaceri, un parteneriat sau reluarea unui proiect mai vechi. Previziunea ProTV menționează recuperarea unor bani și inițiative care pot spori veniturile; horoscopul de carieră recomandă însă prudență în investiții și verificarea ofertelor.\n\n• **În relații și colaborări**, sunt evidențiate deschiderea, comunicarea și sprijinul reciproc. Potrivit horoscoapelor, acestea ar putea contribui atât la oportunități personale, cât și profesionale.\n\n• **Printre recomandările de prudență** se numără să nu fie asumate mai multe sarcini decât pot fi gestionate, să fie respectate regulile de la locul de muncă și să fie evitate deciziile financiare luate în grabă."
+  },
+  {
+    "group_id": "group_672501147e",
+    "fingerprint": "8509df29d2e041701cfc19350d421f44",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_8468696-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Explozii și incendii în Rusia. Un atac cu drone ar fi vizat zona unei mari uzine metalurgice",
+        "link": "https://www.mediafax.ro/externe/explozii-si-incendii-in-rusia-un-atac-cu-drone-ar-fi-vizat-zona-unei-mari-uzine-metalurgice-23824940"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ucraina a aruncat în aer cel mai mare centru de date din Rusia. Drone au fost trimise și către Moscova",
+        "link": "https://www.digi24.ro/stiri/externe/ue/ucraina-a-aruncat-in-aer-cel-mai-mare-centru-de-date-din-rusia-drone-au-fost-trimise-si-catre-moscova-3991205"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ucraina a atacat cu drone cel mai mare centru de date din Rusia, deținut de Sberbank",
+        "link": "https://www.mediafax.ro/externe/ucraina-a-atacat-cu-drone-cel-mai-mare-centru-de-date-din-rusia-detinut-de-sberbank-23825088"
+      },
+      {
+        "source": "G4Media",
+        "title": "Drone ucrainene au lovit cel mai mare centru de date din Rusia, deținut de Sberbank",
+        "link": "https://www.g4media.ro/drone-ucrainene-au-lovit-cel-mai-mare-centru-de-date-din-rusia-detinut-de-sberbank.html"
+      }
+    ],
+    "published_at": 1792060426,
+    "title_hu": "Ukrán drónok támadhatták meg a Sberbank épülő adatközpontját Balakovóban",
+    "lead_hu": "Október 14-én éjjel dróntámadás érte az oroszországi Szaratovi területen fekvő Balakovót; a beszámolók szerint a Sberbank épülő adatközpontja és egy kohászati üzem is a lehetséges célpontok között volt. A bank megerősítette, hogy adatközpontját támadás érte, de közölte: rendszerei és szolgáltatásai fennakadás nélkül működnek. A károk pontos mértéke, illetve az adatközpont berendezéseinek sérülése nem ismert.",
+    "content_hu": "• **Október 14-én éjjel** drónok támadták Balakovót, a Volga menti oroszországi várost. A regionális kormányzó több épület megrongálódásáról és egy halálos áldozatról számolt be.\n\n• **A Sberbank adatközpontját** a bank első alelnöke, Alekszandr Vedjahin szerint találat érte. A vállalat közlése szerint rendszerei és szolgáltatásai megszakítás nélkül működnek.\n\n• **A lehetséges célpontok között** az Exilenova+ ukrán megfigyelőcsatorna a Sberbank adatközpontját és a Balakovo kohászati üzemet nevezte meg. Műholdas tűzmegfigyelő adatok és közzétett felvételek alapján a város ipari övezetében több tüzet észleltek, de az üzemek kárait függetlenül nem erősítették meg.\n\n• **Az adatközpont** még építés alatt áll, de részben már működik. A mintegy 55 ezer négyzetméteres létesítmény a tervek szerint 2027-re készül el, költségét 122,2 milliárd rubelre becsülik; a tervek szerint az orosz GosTech digitális platform szolgáltatásait is kiszolgálja, és egy nagy teljesítményű szuperszámítógépnek ad otthont.\n\n• **A károk mértéke** nem ismert: a Sberbank nem közölte, hogy megsérültek-e az adatközpont berendezései vagy a tervezett szuperszámítógép. A város kormányzója azt mondta, hogy a helyi infrastrukturális létesítmények rendben működnek.\n\n• **A támadás tágabb előzménye**, hogy a megelőző héten három támadás érte a Yandex adatközpontjait. Ukrajna a jelentések szerint az orosz támadásokra adott válaszként indokolta az orosz technológiai infrastruktúra elleni műveleteket; a Sberbank és a Yandex az orosz mesterségesintelligencia-fejlesztés meghatározó szereplői.",
+    "title_ro": "Drone ucrainene ar fi vizat centrul de date Sberbank aflat în construcție la Balakovo",
+    "lead_ro": "În noaptea de 14 octombrie, orașul Balakovo din regiunea rusă Saratov a fost vizat de un atac cu drone; printre posibilele ținte s-ar fi numărat centrul de date Sberbank aflat în construcție și o uzină metalurgică. Banca a confirmat că centrul său de date a fost atacat, dar a precizat că sistemele și serviciile sale funcționează fără întreruperi. Amploarea pagubelor și eventualele avarii ale echipamentelor centrului nu sunt cunoscute.",
+    "content_ro": "• **În noaptea de 14 octombrie**, dronele au atacat orașul Balakovo, situat pe Volga, în Rusia. Guvernatorul regiunii a anunțat avarierea mai multor clădiri și moartea unei persoane.\n\n• **Centrul de date Sberbank** a fost lovit, potrivit prim-vicepreședintelui băncii, Aleksandr Vedyahin. Compania a transmis că sistemele și serviciile sale funcționează normal, fără întreruperi.\n\n• **Printre posibilele ținte** se numără, potrivit canalului ucrainean de monitorizare Exilenova+, centrul de date Sberbank și uzina metalurgică Balakovo. Imagini publicate și date satelitare de monitorizare a incendiilor au indicat mai multe focare în zona industrială a orașului, însă pagubele suferite de instalații nu au fost confirmate independent.\n\n• **Centrul de date** este încă în construcție, dar funcționează deja parțial. Complexul, cu o suprafață de aproximativ 55.000 de metri pătrați, ar urma să fie finalizat în 2027, iar costul proiectului este estimat la 122,2 miliarde de ruble. Acesta ar urma să găzduiască un supercomputer de mare putere și să susțină serviciile platformei digitale de stat GosTech.\n\n• **Amploarea pagubelor** nu este cunoscută: Sberbank nu a precizat dacă echipamentele centrului sau supercomputerul planificat au fost avariate. Guvernatorul orașului a declarat că obiectivele de infrastructură locale funcționează normal.\n\n• **Contextul atacului** include trei atacuri asupra unor centre de date Yandex în săptămâna precedentă. Potrivit relatărilor, Ucraina a prezentat operațiunile împotriva infrastructurii tehnologice rusești drept răspuns la atacurile Rusiei asupra centrelor de date ucrainene. Sberbank și Yandex sunt actori importanți în dezvoltarea inteligenței artificiale în Rusia."
+  },
+  {
+    "group_id": "group_10105303c5",
+    "fingerprint": "a895e0afb236d67feb47ecc7e33712dc",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/Nicusor-Dan-drapelul-steagul-tricolorul-Romaniei-scaled.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "VIDEO Nicușor Dan explică de ce statul nu are nici o reacție față de atacurile asupra navelor comerciale din apele teritoriale: Au trecut relativ puține ore și vrem să avem toate datele. O să existe o reacție de statului român",
+        "link": "https://www.g4media.ro/video-nicusor-dan-explica-de-ce-statul-nu-are-nici-o-reactie-fata-de-atacurile-asupra-navelor-comerciale-din-apele-teritoriale-au-trecut-relativ-putine-ore-si-vrem-sa-avem-toate-datele-o-sa-existe-o.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "De ce n-a avut încă România o reacție după ce o navă a fost lovită în apropiere de Sulina. Nicușor Dan: „Au trecut puține ore”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/de-ce-n-a-avut-inca-romania-o-reactie-dupa-ce-o-2564208.html"
+      }
+    ],
+    "published_at": 1792060418,
+    "title_hu": "Nicușor Dan: Románia reagálni fog a Sulina közelében megtámadott hajók ügyében",
+    "lead_hu": "Két kereskedelmi hajót ért támadás Sulina közelében szerda este, illetve csütörtök reggel; az egyik hajón tűz ütött ki, nyolc tengerészt eltűntként tartanak nyilván. Nicușor Dan elnök Brüsszelben azt mondta, Románia reagálni fog, de előbb minden részletet meg akarnak ismerni, és a bolgár miniszterelnökkel együtt egyeztetnek a NATO főtitkárával.",
+    "content_hu": "• **Szerda este és csütörtök reggel** két kereskedelmi hajót ért támadás Sulina közelében. Az egyik hajó a román partoktól 14 tengeri mérföldre kért segítséget, fedélzetén tűz ütött ki, nyolc tengerészt pedig eltűntként tartanak nyilván.\n\n• **Nicușor Dan csütörtökön Brüsszelben** azt mondta, hogy a két hajót légi drónok támadták meg. Az elnök nem közölt részleteket a drónok eredetéről.\n\n• **Románia később reagál az incidensekre** – közölte az államfő, hozzátéve, hogy előbb minden rendelkezésre álló adatot meg akarnak ismerni. Arra nem adott egyértelmű választ, hogy Bukarest kezdeményez-e NATO-konzultációt a szerződés 4. cikke alapján.\n\n• **A bolgár miniszterelnökkel és a NATO főtitkárával is egyeztetnek** a fekete-tengeri biztonsági helyzetről. Dan szerint a román és a bolgár fél Mark Ruttéval arról tárgyal, miként hangolhatják össze a válaszlépéseket a térségben egyre gyakoribb biztonsági kihívásokra.",
+    "title_ro": "Nicușor Dan: România va reacționa după atacurile asupra navelor din apropiere de Sulina",
+    "lead_ro": "Două nave comerciale au fost atacate în apropiere de Sulina miercuri seara și joi dimineața; una dintre ele a luat foc, iar opt marinari sunt dați dispăruți. Președintele Nicușor Dan a declarat la Bruxelles că România va reacționa după ce va clarifica toate detaliile și că va discuta situația, alături de premierul Bulgariei, cu secretarul general al NATO.",
+    "content_ro": "• **Miercuri seara și joi dimineața**, două nave comerciale au fost atacate în apropiere de Sulina. Una dintre ele a cerut ajutor la 14 mile marine de litoralul românesc, la bord a izbucnit un incendiu, iar opt marinari sunt dați dispăruți.\n\n• **Nicușor Dan a declarat joi, la Bruxelles,** că cele două nave au fost atacate de drone aeriene. Președintele nu a oferit detalii despre proveniența dronelor.\n\n• **România va avea o reacție după clarificarea incidentelor**, a spus șeful statului, precizând că autoritățile vor să obțină toate datele disponibile. El nu a răspuns clar dacă Bucureștiul va solicita consultări NATO în baza Articolului 4.\n\n• **Situația de securitate din Marea Neagră va fi discutată cu premierul Bulgariei și cu secretarul general al NATO.** Potrivit lui Dan, discuțiile cu Mark Rutte vor urmări coordonarea răspunsului la provocările de securitate tot mai frecvente din regiune."
+  },
+  {
+    "group_id": "group_46e8dc3b1b",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Zonait.ro",
+        "title": "Routerul ASUS ROG Rapture GT-BN98 cu WiFi 8 este disponibil în România",
+        "link": "https://zonait.ro/asus-rog-rapture-gt-bn98/"
+      }
+    ],
+    "published_at": 1792060394,
+    "title_hu": "Routerul ASUS ROG Rapture GT-BN98 cu WiFi 8 este disponibil în România",
+    "lead_hu": "Publicat pe Zona IT de catre Aurelian Mihai: Routerul ROG Rapture GT-BN98 a ajuns pe piața românească. Noua generație WiFi 8 oferă fiabilitate îmbunătățită, viteze de transfer sporite la distanțe medi…",
+    "content_hu": "Publicat pe Zona IT de catre Aurelian Mihai: Routerul ROG Rapture GT-BN98 a ajuns pe piața românească. Noua generație WiFi 8 oferă fiabilitate îmbunătățită, viteze de transfer sporite la distanțe medii și mari și o acoperire mai extinsă pentru dispozitivele IoT. ASUS Republic of Gamers (ROG) anunță disponibilitatea pe piața românească a routerului de gaming ROG Rapture GT-BN98 cu WiFi 8 și patru … Citeste mai mult: Routerul ASUS ROG Rapture GT-BN98 cu WiFi 8 este disponibil în România - Zona IT.",
+    "title_ro": "Routerul ASUS ROG Rapture GT-BN98 cu WiFi 8 este disponibil în România",
+    "lead_ro": "Publicat pe Zona IT de catre Aurelian Mihai: Routerul ROG Rapture GT-BN98 a ajuns pe piața românească. Noua generație WiFi 8 oferă fiabilitate îmbunătățită, viteze de transfer sporite la distanțe medi…",
+    "content_ro": "Publicat pe Zona IT de catre Aurelian Mihai: Routerul ROG Rapture GT-BN98 a ajuns pe piața românească. Noua generație WiFi 8 oferă fiabilitate îmbunătățită, viteze de transfer sporite la distanțe medii și mari și o acoperire mai extinsă pentru dispozitivele IoT. ASUS Republic of Gamers (ROG) anunță disponibilitatea pe piața românească a routerului de gaming ROG Rapture GT-BN98 cu WiFi 8 și patru … Citeste mai mult: Routerul ASUS ROG Rapture GT-BN98 cu WiFi 8 este disponibil în România - Zona IT."
+  },
+  {
     "group_id": "group_fec64987d6",
     "category": "Erdély",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -128,25 +678,25 @@
     "content_ro": "• **Alina Gorghiu a criticat miercuri** conducerea PNL, după ce grupurile parlamentare liberale au anunțat că iau în calcul un vot favorabil învestirii Guvernului Luca Niculescu. Deputata a întrebat cine a greșit și dacă cineva ar trebui să-și ceară scuze.\n\n• **Gorghiu consideră că poziția partidului este contradictorie:** ea și alți liberali au fost aproape excluși pentru că au susținut un guvern condus de Adrian Veștea, cu miniștri liberali și participarea PSD, în timp ce acum PNL ar urma să contribuie la învestirea unui guvern cu premier tehnocrat și miniștri PSD. Aplicarea hotărârilor partidului care îi vizau pe susținătorii formulei Veștea a fost suspendată temporar printr-o decizie judecătorească.\n\n• **Decizia grupurilor parlamentare PNL este consultativă:** acestea au votat în favoarea instalării Guvernului Niculescu, pentru ca partidul să rămână în opoziție și să poată încheia un acord separat cu premierul desemnat. Poziția finală urmează să fie stabilită de Biroul Politic Național al PNL.\n\n• **PSD a anunțat că va participa la guvernare:** partidul va avea 11 miniștri în Cabinetul Niculescu. Ștefan-Radu Oprea a spus că în PSD s-a stabilit că miniștrii care nu performează nu vor primi un avertisment, ci „direct cartonaș roșu”.\n\n• **Siegfried Mureșan a respins susținerea necondiționată a miniștrilor PSD:** europarlamentarul a spus că PNL nu va da „un cec în alb” niciunei propuneri de ministru social-democrat și că liberalii vor fi în totală opoziție față de PSD în următorii ani. El a adăugat că PNL îi va urmări atent pe miniștri.\n\n• **Alexandru Muraru susține că PSD urmărește înlăturarea lui Ilie Bolojan și schimbarea direcției PNL:** vicepreședintele liberal a afirmat că social-democrații ar încerca să divizeze partidul și să-l influențeze ocolind conducerea, în perspectiva alegerilor din 2028. Muraru a mai spus că cine dă jos un guvern trebuie să-și asume responsabilitatea guvernării."
   },
   {
-    "group_id": "group_4422d9402a",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Nicusor-Dan-Luca-Niculescu-2-1024x768.jpeg",
+    "group_id": "group_bdf18bae6c",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/090062ec-d8fc-4143-8482-05d119151197.jpg?width=290&height=208",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
-        "source": "Economedia",
-        "title": "Nicușor Dan, mesaj către investitorii străini: Este o probabilitate foarte mare ca marți să avem un guvern",
-        "link": "https://economedia.ro/nicusor-dan-mesaj-catre-investitorii-straini-este-o-probabilitate-foarte-mare-ca-marti-sa-avem-un-guvern.html"
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Nuno Campos, anunț despre accidentările lui Musi și Pușcaș » Detaliul remarcat la FC Botoșani",
+        "link": "https://www.gsp.ro/fotbal/liga-1/nuno-campos-conferinta-dinamo-fc-botosani-988348.html"
       }
     ],
-    "published_at": 1792060286,
-    "title_hu": "Nicușor Dan, mesaj către investitorii străini: Este o probabilitate foarte mare ca marți să avem un guvern",
-    "lead_hu": "Președintele Nicușor Dan transmite un mesaj de stabilitate investitorilor străini, afirmând că există o probabilitate foarte mare ca România să aibă un nou guvern marți, în condițiile în care premieru…",
-    "content_hu": "Președintele Nicușor Dan transmite un mesaj de stabilitate investitorilor străini, afirmând că există o probabilitate foarte mare ca România să aibă un nou guvern marți, în condițiile în care premierul desemnat a semnat deja acorduri cu partidele care urmează să susțină Executivul în Parlament. Șeful statului susține că partidele pro-occidentale au menținut un acord asupra […]",
-    "title_ro": "Nicușor Dan, mesaj către investitorii străini: Este o probabilitate foarte mare ca marți să avem un guvern",
-    "lead_ro": "Președintele Nicușor Dan transmite un mesaj de stabilitate investitorilor străini, afirmând că există o probabilitate foarte mare ca România să aibă un nou guvern marți, în condițiile în care premieru…",
-    "content_ro": "Președintele Nicușor Dan transmite un mesaj de stabilitate investitorilor străini, afirmând că există o probabilitate foarte mare ca România să aibă un nou guvern marți, în condițiile în care premierul desemnat a semnat deja acorduri cu partidele care urmează să susțină Executivul în Parlament. Șeful statului susține că partidele pro-occidentale au menținut un acord asupra […]"
+    "published_at": 1792060307,
+    "title_hu": "Nuno Campos, anunț despre accidentările lui Musi și Pușcaș » Detaliul remarcat la FC Botoșani",
+    "lead_hu": "Nuno Campos (51 de ani), antrenorul lui Dinamo, a susținut conferința de presă premergătoare partidei cu FC Botoșani, programată vineri, 16 octombrie, de la ora 21:00, pe Arena Națională, în etapa a 1…",
+    "content_hu": "Nuno Campos (51 de ani), antrenorul lui Dinamo, a susținut conferința de presă premergătoare partidei cu FC Botoșani, programată vineri, 16 octombrie, de la ora 21:00, pe Arena Națională, în etapa a 12-a din Superliga. Tehnicianul portughez a analizat viitoarea adversară, a oferit detalii despre recuperarea lui Alexandru Musi și George Pușcaș și a vorbit despre evoluțiile lui Martin Pascual și Danny Armstrong. ...",
+    "title_ro": "Nuno Campos, anunț despre accidentările lui Musi și Pușcaș » Detaliul remarcat la FC Botoșani",
+    "lead_ro": "Nuno Campos (51 de ani), antrenorul lui Dinamo, a susținut conferința de presă premergătoare partidei cu FC Botoșani, programată vineri, 16 octombrie, de la ora 21:00, pe Arena Națională, în etapa a 1…",
+    "content_ro": "Nuno Campos (51 de ani), antrenorul lui Dinamo, a susținut conferința de presă premergătoare partidei cu FC Botoșani, programată vineri, 16 octombrie, de la ora 21:00, pe Arena Națională, în etapa a 12-a din Superliga. Tehnicianul portughez a analizat viitoarea adversară, a oferit detalii despre recuperarea lui Alexandru Musi și George Pușcaș și a vorbit despre evoluțiile lui Martin Pascual și Danny Armstrong. ..."
   },
   {
     "group_id": "group_4107a31400",
@@ -175,6 +725,27 @@
     "title_ro": "DIICOT anchetează trei minori pentru propagandă teroristă",
     "lead_ro": "DIICOT cercetează trei adolescenți, de 16 și 17 ani, pentru accesarea repetată și deținerea unor materiale de propagandă teroristă. Potrivit anchetatorilor, unul dintre ei ar fi redactat ghiduri pentru susținătorii unei organizații teroriste, iar percheziții au avut loc în patru județe.",
     "content_ro": "• **Trei minori** – doi de 16 ani și unul de 17 ani – sunt cercetați penal de DIICOT pentru accesarea și deținerea de materiale de propagandă teroristă.\n\n• **Potrivit anchetatorilor, în cursul anului 2026** adolescenții ar fi accesat în mod repetat materiale de propagandă în favoarea unor organizații teroriste și le-ar fi deținut pentru a-și însuși ideologia extremistă de factură islamică.\n\n• **Unul dintre suspecți** ar fi redactat ghiduri cu reguli de conduită pentru susținătorii sau luptătorii unei organizații teroriste. Conform DIICOT, acestea includeau informații despre conspirarea apartenenței, interacțiunea cu autoritățile și disimularea intențiilor ostile.\n\n• **Pe 15 octombrie**, anchetatorii au efectuat percheziții la locuințele și reședințele suspecților din județele Constanța, Galați, Alba și Iași și au ridicat mijloace de probă.\n\n• **Cercetările** sunt desfășurate de DIICOT și Direcția de Combatere a Criminalității Organizate, cu sprijinul informativ al Serviciului Român de Informații. DIICOT a avertizat, totodată, că tinerii sunt deosebit de vulnerabili la radicalizarea online."
+  },
+  {
+    "group_id": "group_108c7772b8",
+    "category": "Erdély",
+    "image": "https://www.presasm.ro/uploads/2026/10/politia-animalelor.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Controale la adăpostul de câini din Carei. Polițiștii, cu ochii și pe proprietarii de patrupede. Se anunță verificări",
+        "link": "https://www.presasm.ro/foto-controale-la-adapostul-de-caini-din-carei-politistii-cu-ochii-si-pe-proprietarii-de-patrupede/53799"
+      }
+    ],
+    "published_at": 1792060200,
+    "title_hu": "FOTO. Controale la adăpostul de câini din Carei. Polițiștii, cu ochii și pe proprietarii de patrupede. Se anunță verificări",
+    "lead_hu": "Polițiștii din cadrul Biroului pentru Protecția Animalelor Satu Mare, împreună cu reprezentanții DSVSA, au efectuat controale la adăpostul public pentru câinii fără stăpân din Carei, pentru a verifica…",
+    "content_hu": "Polițiștii din cadrul Biroului pentru Protecția Animalelor Satu Mare, împreună cu reprezentanții DSVSA, au efectuat controale la adăpostul public pentru câinii fără stăpân din Carei, pentru a verifica modul în care sunt respectate obligațiile legale privind în…",
+    "title_ro": "FOTO. Controale la adăpostul de câini din Carei. Polițiștii, cu ochii și pe proprietarii de patrupede. Se anunță verificări",
+    "lead_ro": "Polițiștii din cadrul Biroului pentru Protecția Animalelor Satu Mare, împreună cu reprezentanții DSVSA, au efectuat controale la adăpostul public pentru câinii fără stăpân din Carei, pentru a verifica…",
+    "content_ro": "Polițiștii din cadrul Biroului pentru Protecția Animalelor Satu Mare, împreună cu reprezentanții DSVSA, au efectuat controale la adăpostul public pentru câinii fără stăpân din Carei, pentru a verifica modul în care sunt respectate obligațiile legale privind în…"
   },
   {
     "group_id": "group_131bf2a5ca",
@@ -217,6 +788,27 @@
     "title_ro": "Szilágycseh, Kolozsvár, Hargita: újabb erdélyi látogatásra érkezik Tarr Zoltán miniszter",
     "lead_ro": "Szilágycsehben a februárban leomlott templomtorony felújításának támogatását jelenti be, Kolozsváron pedig nyilvános pódiumbeszélgetést tart a miniszter.",
     "content_ro": "Szilágycsehben a februárban leomlott templomtorony felújításának támogatását jelenti be, Kolozsváron pedig nyilvános pódiumbeszélgetést tart a miniszter."
+  },
+  {
+    "group_id": "group_cc1aff761e",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-a/aaa78187-4fc7-4c3b-8b8b-8657205c1dcd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cazul tinerei care a atacat oameni la întâmplare în Constanța. De ce medicii nu o pot reține pe agresoare",
+        "link": "https://adevarul.ro/stiri-locale/constanta/cazul-tinerei-care-a-atacat-oameni-la-intamplare-2564183.html"
+      }
+    ],
+    "published_at": 1792060119,
+    "title_hu": "Cazul tinerei care a atacat oameni la întâmplare în Constanța. De ce medicii nu o pot reține pe agresoare",
+    "lead_hu": "Conducerea Spitalului Clinic Județean de Urgență Constanța a precizat că pacienții majori pot refuza tratamentul sau internarea, iar personalul medical nu îi poate priva de libertate împotriva voinței…",
+    "content_hu": "Conducerea Spitalului Clinic Județean de Urgență Constanța a precizat că pacienții majori pot refuza tratamentul sau internarea, iar personalul medical nu îi poate priva de libertate împotriva voinței lor. Precizările vin în contextul cazului tinerei de 20 de ani care provoacă incidente pe străzi",
+    "title_ro": "Cazul tinerei care a atacat oameni la întâmplare în Constanța. De ce medicii nu o pot reține pe agresoare",
+    "lead_ro": "Conducerea Spitalului Clinic Județean de Urgență Constanța a precizat că pacienții majori pot refuza tratamentul sau internarea, iar personalul medical nu îi poate priva de libertate împotriva voinței…",
+    "content_ro": "Conducerea Spitalului Clinic Județean de Urgență Constanța a precizat că pacienții majori pot refuza tratamentul sau internarea, iar personalul medical nu îi poate priva de libertate împotriva voinței lor. Precizările vin în contextul cazului tinerei de 20 de ani care provoacă incidente pe străzi"
   },
   {
     "group_id": "group_7302d2330c",
@@ -876,27 +1468,6 @@
     "content_ro": "Lucrările de pe Pasajul Basarab se desfășoară în două ture, de luni până sâmbătă, iar echipa de noapte lucrează, începând din această săptămână, în zona CFR, deasupra liniilor de cale ferată, au transmis reprezentanții Primăriei Municipiului București. Intervențiile au loc cu aprobarea CFR, între orele 1:30 și 3:30, întrucât zona este greu accesibilă și necesită […]"
   },
   {
-    "group_id": "group_f299bf75a0",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/hepta_9025979-1024x682.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Nicușor Dan, întrebat dacă România va invoca Articolul 4 al NATO după incidentul din Marea Neagră: „O să existe o reacție”",
-        "link": "https://www.mediafax.ro/politic/nicusor-dan-intrebat-daca-romania-va-invoca-articolul-4-al-nato-dupa-incidentul-din-marea-neagra-o-sa-existe-o-reactie-23825862"
-      }
-    ],
-    "published_at": 1792059183,
-    "title_hu": "Nicușor Dan, întrebat dacă România va invoca Articolul 4 al NATO după incidentul din Marea Neagră: „O să existe o reacție”",
-    "lead_hu": "Președintele Nicușor Dan a anunțat joi, la Bruxelles, că statul român va avea o reacție în urma incidentelor de securitate din Marea Neagră, dar a evitat să precizeze dacă România intenționează să inv…",
-    "content_hu": "Președintele Nicușor Dan a anunțat joi, la Bruxelles, că statul român va avea o reacție în urma incidentelor de securitate din Marea Neagră, dar a evitat să precizeze dacă România intenționează să invoce Articolul 4 al Tratatului NATO. Șeful statului a explicat că autoritățile încă strâng informații despre circumstanțele incidentului și a anunțat o întâlnire, în cursul după-amiezii, cu secretarul general al NATO, Mark Rutte, alături de premierul Bulgariei.",
-    "title_ro": "Nicușor Dan, întrebat dacă România va invoca Articolul 4 al NATO după incidentul din Marea Neagră: „O să existe o reacție”",
-    "lead_ro": "Președintele Nicușor Dan a anunțat joi, la Bruxelles, că statul român va avea o reacție în urma incidentelor de securitate din Marea Neagră, dar a evitat să precizeze dacă România intenționează să inv…",
-    "content_ro": "Președintele Nicușor Dan a anunțat joi, la Bruxelles, că statul român va avea o reacție în urma incidentelor de securitate din Marea Neagră, dar a evitat să precizeze dacă România intenționează să invoce Articolul 4 al Tratatului NATO. Șeful statului a explicat că autoritățile încă strâng informații despre circumstanțele incidentului și a anunțat o întâlnire, în cursul după-amiezii, cu secretarul general al NATO, Mark Rutte, alături de premierul Bulgariei."
-  },
-  {
     "group_id": "group_fff658c6c6",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/8021724-hepta_mediafax_foto-zuma_press_hepta-1024x696.jpg",
@@ -1049,27 +1620,6 @@
     "title_ro": "Croația pune condiții pentru aderarea Muntenegrului la UE. Dispute vechi de peste 30 de ani",
     "lead_ro": "Croația pune presiune pe Muntenegru în negocierile de aderare la Uniunea Europeană, cerând rezolvarea mai multor dispute istorice dintre cele două țări.",
     "content_ro": "Croația pune presiune pe Muntenegru în negocierile de aderare la Uniunea Europeană, cerând rezolvarea mai multor dispute istorice dintre cele două țări."
-  },
-  {
-    "group_id": "group_10105303c5",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/Nicusor-Dan-drapelul-steagul-tricolorul-Romaniei-scaled.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "VIDEO Nicușor Dan explică de ce statul nu are nici o reacție față de atacurile asupra navelor comerciale din apele teritoriale: Au trecut relativ puține ore și vrem să avem toate datele. O să existe o reacție de statului român",
-        "link": "https://www.g4media.ro/video-nicusor-dan-explica-de-ce-statul-nu-are-nici-o-reactie-fata-de-atacurile-asupra-navelor-comerciale-din-apele-teritoriale-au-trecut-relativ-putine-ore-si-vrem-sa-avem-toate-datele-o-sa-existe-o.html"
-      }
-    ],
-    "published_at": 1792058920,
-    "title_hu": "VIDEO Nicușor Dan explică de ce statul nu are nici o reacție față de atacurile asupra navelor comerciale din apele teritoriale: Au trecut relativ puține ore și vrem să avem toate datele. O să existe o reacție de statului român",
-    "lead_hu": "Președintele Nicușor Dan, declarații LIVE la Bruxelles: Am avut o scurtă discuție cu premierul bulgar și o să avem o întâlnire cu secretarul general NATO ca să vedem cum putem să ne acordăm mai bine p…",
-    "content_hu": "Președintele Nicușor Dan, declarații LIVE la Bruxelles: Am avut o scurtă discuție cu premierul bulgar și o să avem o întâlnire cu secretarul general NATO ca să vedem cum putem să ne acordăm mai bine pentru a răspunde provocărilor de securitate tot mai frecvente la Marea Neagră? E un atac direct asupra navelor din apele […] © G4Media.ro.",
-    "title_ro": "VIDEO Nicușor Dan explică de ce statul nu are nici o reacție față de atacurile asupra navelor comerciale din apele teritoriale: Au trecut relativ puține ore și vrem să avem toate datele. O să existe o reacție de statului român",
-    "lead_ro": "Președintele Nicușor Dan, declarații LIVE la Bruxelles: Am avut o scurtă discuție cu premierul bulgar și o să avem o întâlnire cu secretarul general NATO ca să vedem cum putem să ne acordăm mai bine p…",
-    "content_ro": "Președintele Nicușor Dan, declarații LIVE la Bruxelles: Am avut o scurtă discuție cu premierul bulgar și o să avem o întâlnire cu secretarul general NATO ca să vedem cum putem să ne acordăm mai bine pentru a răspunde provocărilor de securitate tot mai frecvente la Marea Neagră? E un atac direct asupra navelor din apele […] © G4Media.ro."
   },
   {
     "group_id": "group_efc421c723",
@@ -2080,27 +2630,6 @@
     "title_ro": "Rusia a lovit infrastructura energetică din Kiev, fără avertisment prealabil din partea aliaților",
     "lead_ro": "În noaptea de 13 spre 14 octombrie, Rusia a atacat Kievul cu rachete balistice, lovind instalații energetice și o clădire rezidențială și provocând întreruperi de curent. Volodimir Zelenski a declarat că Ucraina nu a primit din nou avertismente prealabile de la partenerii occidentali; bilanțurile privind victimele din capitală au variat în relatări.",
     "content_ro": "• **În noaptea de 13 spre 14 octombrie**, Rusia a atacat Kievul și alte regiuni ale Ucrainei cu rachete balistice. Autoritățile din capitală au anunțat că au fost avariate mai multe instalații energetice, inclusiv centrala termică numărul 4.\n\n• **În districtul Desnianski**, o rachetă a lovit un bloc de locuințe cu nouă etaje, provocând un incendiu; au fost raportate pagube și în alte cartiere. Atacurile au dus la întreruperi ale alimentării cu energie electrică în mai multe zone ale Kievului.\n\n• **Bilanțurile victimelor** s-au modificat pe măsură ce au fost actualizate: relatări ulterioare au indicat patru morți și 25 de răniți în capitală. Potrivit unei relatări, atacurile din țară au avariat aproximativ 30 de instalații energetice și au lăsat circa 600.000 de persoane fără electricitate.\n\n• **Volodimir Zelenski** a declarat că Ucraina nu a primit avertismente prealabile despre lansarea rachetelor, iar Forțele Aeriene ucrainene au confirmat că nu au primit astfel de informații de la parteneri. Oficialii ucraineni au menționat că rachetele ar fi putut fi greu de detectat sau că ar fi putut exista probleme tehnice; cauza exactă a lipsei avertismentelor nu era clară.\n\n• **Atacul a avut loc după anunțul unui armistițiu privind infrastructura energetică.** Pe 11 octombrie, Donald Trump a afirmat că Rusia și Ucraina au convenit să oprească atacurile asupra instalațiilor energetice, însă niciuna dintre cele două capitale nu a confirmat acordul."
-  },
-  {
-    "group_id": "group_1a5007f163",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwOSUyRjE0JTJGMTU4MjUyOV8xNTgy/NTI5X3VlLWVuZXJnaWUtY29udG9yLWV1/cm8tMS5qcGcmaGFzaD0yZjJlYzAwYWJlOWQ5MjUwNThiYzA2ZDM4Y2MyNTgzNg==.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Șocul energetic provocat de războiul din Iran pune UE în dificultate. Ce opțiuni au liderii europeni",
-        "link": "https://www.digi24.ro/stiri/economie/socul-energetic-provocat-de-razboiul-din-iran-pune-ue-in-dificultate-ce-optiuni-au-liderii-europeni-3993389"
-      }
-    ],
-    "published_at": 1792056044,
-    "title_hu": "Șocul energetic provocat de războiul din Iran pune UE în dificultate. Ce opțiuni au liderii europeni",
-    "lead_hu": "Şefii de stat şi de guvern din statele membre UE caută modalităţi prin care să atenueze creşterea vertiginoasă a preţurilor la energie, însă războiul declanşat de preşedintele SUA, Donald Trump, împot…",
-    "content_hu": "Şefii de stat şi de guvern din statele membre UE caută modalităţi prin care să atenueze creşterea vertiginoasă a preţurilor la energie, însă războiul declanşat de preşedintele SUA, Donald Trump, împotriva Iranului le-a lăsat la dispoziţie prea puţine opţiuni accesibile, transmite Bloomberg, citat de Agerpres.",
-    "title_ro": "Șocul energetic provocat de războiul din Iran pune UE în dificultate. Ce opțiuni au liderii europeni",
-    "lead_ro": "Şefii de stat şi de guvern din statele membre UE caută modalităţi prin care să atenueze creşterea vertiginoasă a preţurilor la energie, însă războiul declanşat de preşedintele SUA, Donald Trump, împot…",
-    "content_ro": "Şefii de stat şi de guvern din statele membre UE caută modalităţi prin care să atenueze creşterea vertiginoasă a preţurilor la energie, însă războiul declanşat de preşedintele SUA, Donald Trump, împotriva Iranului le-a lăsat la dispoziţie prea puţine opţiuni accesibile, transmite Bloomberg, citat de Agerpres."
   },
   {
     "group_id": "group_dd3ffcaf92",
@@ -4079,44 +4608,6 @@
     "title_ro": "Politehnica București: A treia ediție a POLISPORT; sâmbătă - în Capitală, pe 24 octombrie - la Pitești",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_672501147e",
-    "fingerprint": "b7b1f94fccce06f99ebf00e9e691d5a6",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_8468696-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Explozii și incendii în Rusia. Un atac cu drone ar fi vizat zona unei mari uzine metalurgice",
-        "link": "https://www.mediafax.ro/externe/explozii-si-incendii-in-rusia-un-atac-cu-drone-ar-fi-vizat-zona-unei-mari-uzine-metalurgice-23824940"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ucraina a aruncat în aer cel mai mare centru de date din Rusia. Drone au fost trimise și către Moscova",
-        "link": "https://www.digi24.ro/stiri/externe/ue/ucraina-a-aruncat-in-aer-cel-mai-mare-centru-de-date-din-rusia-drone-au-fost-trimise-si-catre-moscova-3991205"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ucraina a atacat cu drone cel mai mare centru de date din Rusia, deținut de Sberbank",
-        "link": "https://www.mediafax.ro/externe/ucraina-a-atacat-cu-drone-cel-mai-mare-centru-de-date-din-rusia-detinut-de-sberbank-23825088"
-      },
-      {
-        "source": "G4Media",
-        "title": "Drone ucrainene au lovit cel mai mare centru de date din Rusia, deținut de Sberbank",
-        "link": "https://www.g4media.ro/drone-ucrainene-au-lovit-cel-mai-mare-centru-de-date-din-rusia-detinut-de-sberbank.html"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Ukrán drónok támadhatták meg a Sberbank adatközpontját Balakovóban",
-    "lead_hu": "Október 14-én dróntámadás érte az oroszországi Szaratovi területen fekvő Balakovót; a jelentések szerint a Sberbank épülő adatközpontja és egy kohászati üzem is a lehetséges célpontok között volt. A bank megerősítette, hogy adatközpontját támadás érte, de közölte: rendszerei és szolgáltatásai zavartalanul működnek.",
-    "content_hu": "• **Október 14-én éjjel** drónok támadták Balakovót, a Volga menti oroszországi várost. A regionális kormányzó több épület megrongálódásáról és egy halálos áldozatról számolt be.\n\n• **A Sberbank adatközpontját** a bank képviselője szerint találat érte. Azt közölte, hogy a vállalat rendszerei és szolgáltatásai ennek ellenére megszakítás nélkül működnek.\n\n• **A támadás lehetséges célpontjai között** az Exilenova+ ukrán megfigyelőcsatorna a Sberbank adatközpontját és a Balakovo kohászati üzemet nevezte meg. A környéken tüzeket észleltek, de az üzemekben keletkezett károk mértékét nem erősítették meg függetlenül.\n\n• **Az adatközpont** még építés alatt áll, de részben már működik; a tervek szerint Oroszország egyik legnagyobb adatfeldolgozó központjává válik. A beszámolók szerint egy nagy teljesítményű szuperszámítógépnek is helyet adna.\n\n• **A Sberbank közlése** szerint az incidens nem okozott fennakadást a szolgáltatásaiban. A vállalat nem részletezte, hogy az adatközpont berendezései vagy a tervezett szuperszámítógép megsérült-e.",
-    "title_ro": "Drone ucrainene ar fi lovit centrul de date al Sberbank din Balakovo",
-    "lead_ro": "În noaptea de 14 octombrie, Balakovo, oraș din regiunea rusă Saratov, a fost vizat de un atac cu drone; printre posibilele ținte s-ar fi numărat centrul de date al Sberbank și o uzină metalurgică. Banca a confirmat că centrul său de procesare a datelor a fost atacat, dar a precizat că sistemele și serviciile sale funcționează fără întreruperi.",
-    "content_ro": "• **În noaptea de 14 octombrie**, dronele au atacat orașul Balakovo, situat pe Volga, în regiunea rusă Saratov. Guvernatorul regional a anunțat avarierea mai multor clădiri și moartea unei persoane.\n\n• **Centrul de date al Sberbank** a fost lovit, potrivit unui reprezentant al băncii, care a confirmat atacul. Acesta a declarat că sistemele și serviciile companiei funcționează în continuare fără întreruperi.\n\n• **Printre posibilele ținte ale atacului**, canalul ucrainean de monitorizare Exilenova+ a indicat centrul de date al Sberbank și uzina metalurgică Balakovo. În zonă au fost observate incendii, însă amploarea pagubelor la cele două obiective nu a fost confirmată independent.\n\n• **Centrul de date** este încă în construcție, dar funcționează parțial; proiectul ar urma să devină unul dintre cele mai mari centre de procesare a datelor din Rusia. Potrivit relatărilor, acolo ar urma să fie instalat și un supercomputer de mare putere.\n\n• **Sberbank a precizat** că incidentul nu a perturbat serviciile companiei. Banca nu a oferit detalii despre eventualele pagube produse echipamentelor centrului sau supercomputerului planificat."
   },
   {
     "group_id": "group_97a930a5b6",
@@ -6386,34 +6877,6 @@
     "title_ro": "Nő a gócpontok száma",
     "lead_ro": "Egyre több veszettséggócpontot tart nyilván Felcsíkon a Hargita Megyei Állategészségügyi és Élelmiszer-biztonsági Igazgatóság (DSVSA). A fertőzött állatok többsége szarvasmarha, de kutya és macska is …",
     "content_ro": "Egyre több veszettséggócpontot tart nyilván Felcsíkon a Hargita Megyei Állategészségügyi és Élelmiszer-biztonsági Igazgatóság (DSVSA). A fertőzött állatok többsége szarvasmarha, de kutya és macska is akad a betegséget hordozók között. Madéfalván nemrég veszett rókát azonosítottak, Csíkszeredában kedden egy kóbor róka borzolta a kedélyeket."
-  },
-  {
-    "group_id": "group_4e4ec43e5d",
-    "fingerprint": "2d829654fe16cdeef3ff44998eb537af",
-    "category": "Erdély",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDA3NF8zMDE0/MDc0X2FjY2lkZW50LmpwZyZoYXNoPTIz/OTAzZjJkNjNiM2U2MmM4ODY2M2M5NDQyOTBjN2Rm.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "O doctoriță băută a provocat un accident rutier în drum spre spital, unde urma să intre de gardă",
-        "link": "https://www.digi24.ro/stiri/o-doctorita-bauta-a-provocat-un-accident-rutier-in-drum-spre-spital-unde-urma-sa-intre-de-garda-3993033"
-      },
-      {
-        "source": "Maszol",
-        "title": "Részeg orvosnő okozott autóbalesetet úton a munkahelyére",
-        "link": "https://maszol.ro/belfold/Reszeg-orvosno-okozott-autobalesetet-uton-a-munkahelyere"
-      }
-    ],
-    "published_at": 1792046700,
-    "title_hu": "Ittasan okozott balesetet egy alexandriai orvosnő, aki ügyeletbe tartott",
-    "lead_hu": "Egy alexandriai sürgősségi orvosnő ittasan vezetve balesetet okozott, miközben a kórházba tartott ügyeletbe. A STOP-táblánál nem adott elsőbbséget, majd összeütközött egy kisteherautóval; az ügyben büntetőeljárás indult.",
-    "content_hu": "• **Az alexandriai orvosnő** a kórházba tartott, ahol ügyeletbe kellett volna lépnie, amikor ittasan vezetve balesetet okozott.\n\n• **A STOP-táblánál** nem adott elsőbbséget egy másik járműnek, és összeütközött egy kisteherautóval.\n\n• **A rendőrségi alkoholszonda** alkoholfogyasztást mutatott ki nála. A Maszol beszámolója szerint a szonda 0,71 mg/l értéket jelzett; a nőt vérvizsgálatra is kórházba vitték.\n\n• **A hatóságok** büntetőeljárást indítottak, és vizsgálják a baleset körülményeit. A nő férje azt mondta, hogy az ügyelet miatt sietett.",
-    "title_ro": "O doctoriță din Alexandria a provocat băută un accident în drum spre gardă",
-    "lead_ro": "O doctoriță de la urgențe din Alexandria a provocat un accident în timp ce conducea sub influența alcoolului spre spital, unde urma să intre de gardă. Nu a acordat prioritate la indicatorul STOP și a intrat în coliziune cu o autoutilitară; poliția a deschis un dosar penal.",
-    "content_ro": "• **Doctorița din Alexandria** se îndrepta spre spital, unde urma să intre de gardă, când a provocat un accident conducând sub influența alcoolului.\n\n• **La indicatorul STOP**, nu a acordat prioritate unui alt vehicul și a intrat în coliziune cu o autoutilitară.\n\n• **Testul poliției** a indicat că doctorița consumase alcool. Potrivit relatării Maszol, etilotestul a indicat 0,71 mg/l; femeia a fost dusă la spital și pentru recoltarea probelor biologice.\n\n• **Autoritățile** au deschis un dosar penal și cercetează împrejurările accidentului. Soțul femeii a declarat că aceasta se grăbea din cauza serviciului de gardă."
   },
   {
     "group_id": "group_35c469a148",
