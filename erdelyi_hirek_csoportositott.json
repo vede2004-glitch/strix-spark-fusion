@@ -52992,12 +52992,21 @@
   {
     "group_id": "group_1e3b10c117",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
         "title": "Atac armat într-o școală primară din SUA. Copii printre victime, atacatorul a fost ucis",
         "link": "https://www.mediafax.ro/externe/atac-armat-intr-o-scoala-primara-din-sua-copii-printre-victime-atacatorul-a-fost-ucis-23826321",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fara-titlu-3-1024x607.jpg",
+        "summary": "Cel puțin două persoane au fost spitalizate în urma unui atac armat produs joi într-o școală primară din statul american Oregon. Poliția a confirmat că printre victime se numără și copii, iar atacatorul a fost împușcat mortal.",
+        "category": "Általános",
+        "published_at": 1792103087
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac armat într-o școală primară din SUA. Cel puțin cinci morți, atacatorul a fost ucis",
+        "link": "https://www.mediafax.ro/externe/atac-armat-intr-o-scoala-primara-din-sua-cel-putin-cinci-morti-atacatorul-a-fost-ucis-23826321",
         "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fara-titlu-3-1024x607.jpg",
         "summary": "Cel puțin două persoane au fost spitalizate în urma unui atac armat produs joi într-o școală primară din statul american Oregon. Poliția a confirmat că printre victime se numără și copii, iar atacatorul a fost împușcat mortal.",
         "category": "Általános",
@@ -53034,6 +53043,22 @@
         "summary": "Elon Musk a ajuns la o înțelegere pentru soluționarea a două procese legate de o loterie controversată, organizată înaintea alegerilor prezidențiale din SUA din 2024. Miliardarul fusese acuzat că a indus în eroare alegători prin promisiunea unor premii zilnice de un milion de dolari.",
         "category": "Általános",
         "published_at": 1792104686
+      }
+    ]
+  },
+  {
+    "group_id": "group_9f63510e47",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Lecția Poloniei pentru România. Cum a ajuns dintr-o țară comunistă în top 20 economii ale lumii",
+        "link": "https://adevarul.ro/economie/lectia-poloniei-pentru-romania-cum-a-ajuns-2564298.html",
+        "image": "https://cdn.adh.reperio.news/image-5/58a442a1-f41d-4910-b08a-a7bd2f71f324/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "De la cenușiul perioadei comuniste la orașe moderne și o economie în plină dezvoltare, care o plasează în top 20 la nivel mondial, Polonia și-a schimbat radical înfățișarea în doar câteva decenii, devenind una dintre cele mai dinamice economii europene.",
+        "category": "Gazdaság",
+        "published_at": 1792105465
       }
     ]
   }
