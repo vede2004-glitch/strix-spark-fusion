@@ -1,5 +1,783 @@
 [
   {
+    "group_id": "group_4ef51a7551",
+    "fingerprint": "76731a2614b926272efe0b08f0860fb1",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2025/07/dreamstime_xl_65659380-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "DOCUMENT | Programul de guvernare Luca Niculescu: Proiecte de parteneriat public-privat, România va avea portofoliu național / 25 milioane de euro pentru studii de fezabilitate",
+        "link": "https://economedia.ro/document-programul-de-guvernare-luca-niculescu-proiecte-de-parteneriat-public-privat-romania-va-avea-portofoliu-national-25-milioane-de-euro-pentru-studii-de-fezabilitate.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/România pregătește un plan de investiții pentru o alocare estimată la peste 60 de miliarde de euro",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-romania-pregateste-un-plan-de-investitii-pentru-o-alocare-estimata-la-peste-60---1603553"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/România mai are de solicitat 22 de miliarde de euro din fondurile de coeziune",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-romania-mai-are-de-solicitat-22-de-miliarde-de-euro-din-fondurile-de-coeziune--1603544"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "A Niculescu-kormány programja: több mint 60 milliárd eurós beruházási terv és gyorsított forráslehívás",
+    "lead_hu": "Luca Niculescu kijelölt miniszterelnök kormányprogramja 2028–2034-re több mint 60 milliárd eurós uniós forráskerettel számoló nemzeti beruházási tervet irányoz elő. A program a közberuházások összehangolása mellett a kohéziós források gyorsabb lehívását és a köz- és magánszféra partnerségének bevezetését is célul tűzi ki.",
+    "content_hu": "• **Luca Niculescu kormányprogramja** szerint Románia 2028–2034-re több mint 60 milliárd eurós becsült uniós kerethez készít egységes nemzeti beruházási tervet, a regionális programok decentralizált működésének fenntartásával.\n\n• **A beruházási terv menetrendje** szerint a dokumentumot nyilvános konzultáció után 2027. december 31-ig informálisan továbbítanák az Európai Bizottságnak, elfogadása pedig 2028 júliusáig várható.\n\n• **A köz- és magánszféra partnersége** is szerepel a programban: a kormány ilyen konstrukciók bevezetését tervezi, nemzeti portfólió létrehozásával és 25 millió euró elkülönítésével a megvalósíthatósági tanulmányokra.\n\n• **A 2021–2027-es kohéziós keretből** Romániának még mintegy 22 milliárd eurót kell lehívnia 2029 végéig; ez az uniós keret több mint 70 százaléka. A jelenlegi abszorpciós ráta 2026. szeptember 30-án 28,5 százalék volt.\n\n• **A forráslehívás felgyorsítására** a program heti szintű nyomon követést, a késedelmes projektek korai azonosítását és a veszélybe kerülő összegek időbeni átcsoportosítását javasolja.",
+    "title_ro": "Programul guvernării Niculescu: plan de investiții de peste 60 de miliarde de euro și accelerarea absorbției fondurilor",
+    "lead_ro": "Programul de guvernare al premierului desemnat Luca Niculescu prevede un plan național de investiții pentru 2028–2034, în perspectiva unor fonduri europene estimate la peste 60 de miliarde de euro. Documentul urmărește coordonarea investițiilor publice, accelerarea absorbției fondurilor de coeziune și introducerea parteneriatelor public-private.",
+    "content_ro": "• **Programul de guvernare al lui Luca Niculescu** prevede pregătirea unui plan unitar de investiții pentru perioada 2028–2034, în perspectiva unei alocări europene estimate la peste 60 de miliarde de euro, cu menținerea descentralizării prin programele regionale.\n\n• **Calendarul planului de investiții** prevede transmiterea informală a documentului către Comisia Europeană până la 31 decembrie 2027, după consultare publică, și adoptarea acestuia până în iulie 2028.\n\n• **Parteneriatele public-private** sunt incluse în program: Guvernul intenționează să le implementeze, să creeze un portofoliu național și să aloce 25 de milioane de euro pentru studii de fezabilitate.\n\n• **Din alocarea pentru politica de coeziune 2021–2027**, România mai trebuie să solicite aproximativ 22 de miliarde de euro până la sfârșitul lui 2029, adică peste 70% din totalul fondurilor europene alocate. Rata curentă de absorbție era de 28,5% la 30 septembrie 2026.\n\n• **Pentru accelerarea absorbției**, programul propune monitorizarea săptămânală a programelor, identificarea timpurie a proiectelor întârziate și realocarea la timp a sumelor aflate în pericol de a nu fi utilizate."
+  },
+  {
+    "group_id": "group_0e97b6d041",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Primul pachet de simplificare a accesării fondurilor europene, în primele 100 de zile",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-primul-pachet-de-simplificare-a-accesarii-fondurilor-europene-in-primele-100-de--1603559"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/Primul pachet de simplificare a accesării fondurilor europene, în primele 100 de zile",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/Primul pachet de simplificare a accesării fondurilor europene, în primele 100 de zile",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_88f7e49842",
+    "fingerprint": "355c3e85f0b6ee20eb4c3108754dba11",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mexic: Amiba 'mâncătoare de creier' a fost detectată în Yucatan, șase lacuri au fost închise",
+        "link": "https://agerpres.ro/social-extern/2026/10/15/mexic-amiba-mancatoare-de-creier-a-fost-detectata-in-yucatan-sase-lacuri-au-fost-inchise--1603560"
+      },
+      {
+        "source": "G4Media",
+        "title": "Amiba „mâncătoare de creier” a fost detectată în Yucatan / Șase lacuri au fost închise în Mexic / „Infectarea se produce atunci când apa contaminată pătrunde prin nas”",
+        "link": "https://www.g4media.ro/amiba-mancatoare-de-creier-a-fost-detectata-in-yucatan-sase-lacuri-au-fost-inchise-in-mexic-infectarea-se-produce-atunci-cand-apa-contaminata-patrunde-prin-nas.html"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Agyfaló amőbát mutattak ki hat mexikói tóban, lezárták a helyszíneket",
+    "lead_hu": "A mexikói Yucatán állam hat mesterséges tavában mutatták ki a Naegleria fowleri nevű amőbát, ezért a tavakat lezárták. A vizsgálatot egy vízisíoktató tavaly szeptemberi halála után indították; a hatóságok szerint a kimutatás önmagában nem jelent járványt.",
+    "content_hu": "• **Hat mesterséges tóban** mutatták ki a Naegleria fowleri nevű, köznyelvben „agyfaló amőbaként” ismert kórokozót a mexikói Yucatán államban. A kilenc tóból hat vízmintáját vizsgálták meg, a fertőzésveszély miatt ezeket a helyszíneket lezárták.\n\n• **A vizsgálatot egy vízisíoktató halála után indították el.** A férfi tavaly szeptemberben fertőződött meg, majd primer amőbás meningoencephalitisben meghalt; ez volt az első ilyen haláleset Yucatán államban.\n\n• **A fertőzés akkor következhet be, ha szennyezett víz jut az orrba.** Az amőba elsősorban meleg, álló édesvizekben szaporodik. Az általa okozott agyi fertőzés ritka, de csaknem mindig halálos.\n\n• **A kimutatás nem jelenti azt, hogy járvány van.** Yucatán egészségügyi vezetője azt javasolta, hogy aki kapcsolatba kerülhetett szennyezett vízzel, mielőbb forduljon orvoshoz; a hatóságok a természetes édesvízi fürdőhelyek egészségügyi ellenőrzését is szigorítják.\n\n• **Vizsgálat indult az érintett tó üzemeltetői ellen.** A hatóságok azt ellenőrzik, hogy a víz karbantartásáért és minőségéért felelős vállalatok megfelelően jártak-e el.",
+    "title_ro": "Amiba „mâncătoare de creier” depistată în șase lacuri din Mexic, care au fost închise",
+    "lead_ro": "Amiba Naegleria fowleri a fost depistată în șase lacuri artificiale din statul mexican Yucatán, iar accesul în aceste locuri a fost restricționat. Testarea a avut loc după moartea unui instructor de schi nautic, în septembrie anul trecut; autoritățile precizează că depistarea amibei nu înseamnă că există o epidemie.",
+    "content_ro": "• **Șase lacuri artificiale** din statul mexican Yucatán au fost testate pozitiv pentru Naegleria fowleri, cunoscută drept amiba „mâncătoare de creier”. Autoritățile au analizat apa din șase dintre cele nouă lacuri și au închis locurile afectate.\n\n• **Testarea a fost declanșată de moartea unui instructor de schi nautic.** Bărbatul s-a infectat în septembrie anul trecut și a murit de meningo-encefalită amibiană primară; acesta a fost primul deces de acest fel înregistrat în statul Yucatán.\n\n• **Infectarea se poate produce când apa contaminată pătrunde prin nas.** Amiba se dezvoltă mai ales în ape dulci, stătătoare și calde. Infecțiile cerebrale provocate de aceasta sunt rare, dar aproape întotdeauna mortale.\n\n• **Depistarea amibei nu înseamnă că există o epidemie.** Secretarul pentru Sănătate din Yucatán le-a recomandat persoanelor care ar fi putut intra în contact cu apă contaminată să consulte cât mai repede un medic; autoritățile vor consolida și supravegherea sanitară a apelor dulci naturale.\n\n• **Autoritățile au deschis o anchetă privind lacul în care amiba a fost identificată inițial.** Investigația vizează companiile responsabile de întreținerea și calitatea apei."
+  },
+  {
+    "group_id": "group_42a9a23d23",
+    "fingerprint": "988309eb7f51513a289db34eca0165c3",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI4JTJGMjc1MTM5OV8yNzUx/Mzk5X3Byb2ZpbWVkaWEtMDgyNTg3Nzc4/OC5qcGcmaGFzaD1lNmRiNjNiNjE5ZDAyYmUwN2I3MjAyYmY4YWRhZTRmMw==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Înființarea Autorității Naționale pentru Industria de Apărare, digitalizarea Armatei și sistemele antidronă, în Guvernul Niculescu",
+        "link": "https://www.mediafax.ro/stirile-zilei/infiintarea-autoritatii-nationale-pentru-industria-de-aparare-digitalizarea-armatei-si-sistemele-antidrona-in-guvernul-niculescu-23826215"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Executivul intenționează adoptarea cadrului legislativ pentru Autoritatea Națională pentru Industria de Apărare",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-executivul-intentioneaza-adoptarea-cadrului-legislativ-pentru-autoritatea-natio--1603550"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "A Niculescu-kormány védelmi tervei: új ipari hatóság, 5 százalékos GDP-arányos kiadás és hazai drónprogram",
+    "lead_hu": "Luca Niculescu kijelölt miniszterelnök programja új, a kormányfő alá rendelt hatóságot hozna létre a védelmi ipar koordinálására, és fokozatosan a GDP 5 százalékára emelné a védelmi kiadásokat. A tervek a hazai hadiipar fejlesztése, a hadsereg modernizálása és a beszerzések reformja mellett drón- és elfogórendszerek gyártását, valamint egy közös irányítású nemzeti repülőipari csoport létrehozását is előirányozzák.",
+    "content_hu": "• **A védelmi kiadások** fokozatosan a GDP 5 százalékára emelkednének: ebből 3,5 százalék jutna az alapvető védelmi kiadásokra, 1,5 százalék pedig a kapcsolódó beruházásokra és költségekre. Az ütemezés a biztonsági helyzettől, a védelmi szükségletektől és Románia nemzetközi vállalásaitól függne.\n\n• **Az új Nemzeti Védelmi Ipari Hatóság (ANIA)** a miniszterelnök alá tartozna, és a meglévő struktúrákra épülne, átvett személyzettel és költségvetéssel. A köz- és magánvállalatok koordinációja mellett iparpolitikát alakítana ki, engedélyezné és ellenőrizné a katonai, illetve kettős felhasználású termékeket, támogatná a technológiatranszfert és az uniós forrásokhoz való hozzáférést; a kutatás-fejlesztést a haderő beszerzési igényeihez igazítanák.\n\n• **A SAFE-programok hazai hasznosítása** kiemelt cél: a szerződések értékének legalább 60 százalékát romániai gyártásban, karbantartásban, beszállítófejlesztésben vagy technológiatranszferben kellene érvényesíteni, szerződésenkénti ellenőrzés mellett. Az első száz napra előírják a SAFE-projektek portfóliójának közzétételét és az ipari együttműködés auditálására szolgáló egység létrehozását.\n\n• **A védelmi ipar átszervezése** keretében a ROMARM egységes nemzeti integrátorrá válna: leányvállalatait összeolvasztanák, majd öt tevékenységi terület szerinti fiókba szerveznék. Az IAR, az IOR, az Avioane Craiova és a Romaero fokozatos átalakítása mellett a gazdasági minisztérium portfóliójába tartozó állami vállalatok teljesítménymutatókat és egyértelmű szankciókat tartalmazó, az OECD-standardokhoz igazodó vezetői szerződéseket kapnának.\n\n• **A drón- és elfogórendszerek országos programja** felmérné az ipari és kutatási kapacitásokat, és NATO-kompatibilis, moduláris prototípusok fejlesztésére nyitna versenyt romániai cégek, egyetemek és kutatóintézetek konzorciumai előtt. A tervek között szerepel egy ipari konzorcium létrehozása a drónok, kritikus alkatrészeik és irányítószoftvereik hazai tervezésére és gyártására, valamint közös tesztelő-, tanúsító- és kiképzőközpont kialakítása. A román termékek többéves, sorozatgyártást lehetővé tevő szerződésekhez juthatnának; a 2026/8-as sürgősségi kormányrendelet védelmi ipari, 200 millió eurós kerete elsőbbséget adna a drónok és elfogórendszerek alkatrészeinek.\n\n• **A katonai fejlesztések** között szerepel a lég- és rakétavédelem, a haditengerészeti képességek és a szárazföldi erők modernizálása, a lőszerkészletek biztosítása, valamint a drónok és elfogórendszerek hazai gyártásának fejlesztése. A finanszírozás az eszközök beszerzése mellett az üzemeltetést, a karbantartást és a kiképzést is fedezné. Külön figyelmet fordítanának a drónok felderítésére és elhárítására a Duna térségében, a Fekete-tenger partvidékén és a kritikus infrastruktúra védelmében.\n\n• **A katonai infrastruktúra és a hadsereg modernizálása** részeként korszerűsítenék a Mihail Kogălniceanu, Câmpia Turzii és Fetești bázisokat, valamint a cincui kiképzőközpontot; Fetești-ben regionális F–16-os pilótaképző központot fejlesztenének a NATO-tagállamok és partnereik pilótái számára. A tervek a kiber- és hibrid fenyegetésekkel szembeni ellenálló képesség erősítését, a digitalizációt, a parancsnoki és harcoló struktúrák optimalizálását, az Armata României 2040 program frissítését, valamint a katonák toborzását és megtartását is célozzák.\n\n• **A védelmi beszerzések reformja** egyszerűsítené a jogszabályokat és a döntéshozatalt, tisztázná az intézményi felelősségeket, és csökkentené a késedelmeket, illetve a megismételt pályázatok számát. A 100 millió eurónál nagyobb beszerzési szerződésekhez külön jogi támogatást biztosítanának, emellett központi szolgáltatásbeszerzési rendszert és szerződéskövetést alakítanának ki, átláthatósági és ellenőrzési garanciákkal. Sürgős igényeknél a gyors szállítás élvezne elsőbbséget, a többéves programokban viszont alapvető szemponttá válna a romániai gyártás.\n\n• **A román és európai hadiipari együttműködés** a hazai vállalatok gyártási, integrációs, karbantartási és szolgáltatási részvételére épülne. A kormány uniós finanszírozási eszközöket – köztük a Readiness 2030-at és a SAFE-et –, közös beszerzéseket, regionális karbantartási szerepet, valamint védelmi kutatási és innovációs beruházásokat támogatna, többek között a mesterséges intelligencia területén.\n\n• **A nemzeti repülőipari csoport** közös irányítás alá vonná a TAROM Tehnicet, a ROMAERO-t, az IAR Ghimbavot és az Avioane Craiovát. A ROMARM mintájára létrejövő csoport polgári és katonai karbantartási, illetve gyártási munkákat végezne a nemzetközi piacon.\n\n• **Románia szövetségi és regionális szerepvállalása** kiterjedne a NATO keleti szárnyának elrettentésére és védelmére, valamint Moldova, Ukrajna és a nyugat-balkáni államok biztonságának támogatására. Bukarest az EU-ban előmozdítaná az Eastern Flank Watch kezdeményezést, frissítené az Egyesült Államokkal kötött, 2020–2030-as védelmi ütemtervet, támogatná az amerikai katonai jelenlét erősítését és az FMF Loan eszköz bevonását. A Fekete-tenger térségében bővítené együttműködését több szövetségessel, folytatná a Románia, Törökország és Bulgária által 2024-ben létrehozott aknamentesítési munkacsoportban való részvételt, és regionális tengeri biztonsági központ létrehozását szorgalmazná.",
+    "title_ro": "Planurile de apărare ale guvernului Niculescu: o nouă autoritate industrială, cheltuieli de 5% din PIB și un program național pentru drone",
+    "lead_ro": "Programul premierului desemnat Luca Niculescu propune o autoritate aflată în subordinea prim-ministrului pentru coordonarea industriei de apărare și creșterea treptată a cheltuielilor militare la 5% din PIB. Planurile vizează dezvoltarea industriei naționale, modernizarea armatei și reforma achizițiilor, precum și producția de drone și sisteme de interceptare și înființarea unui grup aeronautic național cu guvernanță comună.",
+    "content_ro": "• **Cheltuielile pentru apărare** ar urma să crească treptat până la 5% din PIB: 3,5% pentru cheltuielile de bază, iar 1,5% pentru investiții și costuri conexe. Ritmul ar depinde de evoluția mediului de securitate, de necesitățile apărării și de angajamentele internaționale ale României.\n\n• **Noua Autoritate Națională pentru Industria de Apărare (ANIA)** ar urma să fie subordonată prim-ministrului și construită pe structurile existente, cu personal și buget preluate prin transfer. Pe lângă coordonarea operatorilor publici și privați, ar elabora politica industrială, ar autoriza și controla produsele militare și cu dublă utilizare, ar sprijini transferul tehnologic și accesarea fondurilor europene, iar cercetarea-dezvoltarea ar fi corelată cu nevoile de înzestrare.\n\n• **Valorificarea în România a programelor SAFE** este un obiectiv prioritar: cel puțin 60% din valoarea contractelor ar trebui să se reflecte în producție, mentenanță, dezvoltarea furnizorilor sau transfer tehnologic în România, cu verificarea fiecărui contract. În primele 100 de zile sunt prevăzute publicarea portofoliului proiectelor SAFE și înființarea unei unități de audit al cooperării industriale.\n\n• **Reorganizarea industriei de apărare** ar transforma ROMARM într-un integrator național unic: filialele ar fuziona prin absorbție, iar compania ar fi reorganizată în cinci sucursale pe domenii de activitate. IAR, IOR, Avioane Craiova și Romaero ar urma să fie restructurate etapizat, iar companiile de stat din portofoliul Ministerului Economiei ar primi contracte de mandat cu indicatori de performanță și penalizări clare, conform standardelor OCDE.\n\n• **Programul național pentru drone și sisteme de interceptare** ar inventaria capacitățile industriale și de cercetare și ar lansa o competiție pentru prototipuri modulare, compatibile cu NATO, la care să participe consorții de companii românești, universități și institute de cercetare. Planul prevede un consorțiu industrial pentru proiectarea și producția în România a dronelor, componentelor critice și software-ului de comandă, precum și un poligon și un centru comun de testare, certificare și instruire. Produsele românești ar putea primi contracte multianuale pentru producția de serie; linia de 200 de milioane de euro pentru industria de apărare, prevăzută de OUG 8/2026, ar prioritiza piesele și componentele pentru drone și sisteme de interceptare.\n\n• **Prioritățile de dezvoltare militară** includ apărarea antiaeriană și antirachetă, modernizarea capabilităților navale și a forțelor terestre, asigurarea stocurilor de muniție și dezvoltarea producției interne de drone și interceptoare. Finanțarea ar acoperi nu doar achiziția echipamentelor, ci și operarea, mentenanța și instruirea. Detectarea și combaterea dronelor ar fi prioritizate în zona Dunării, pe litoralul Mării Negre și pentru protejarea infrastructurii critice.\n\n• **Modernizarea infrastructurii și a armatei** ar include bazele Mihail Kogălniceanu, Câmpia Turzii și Fetești, precum și Centrul de Instruire Întrunită Cincu. La Fetești ar urma să fie dezvoltat un centru regional de pregătire a piloților F–16 din state NATO și partenere. Programul mai vizează reziliența la amenințări cibernetice și hibride, digitalizarea, optimizarea structurilor de comandă și de luptă, actualizarea programului „Armata României 2040” și îmbunătățirea recrutării și retenției militarilor.\n\n• **Reforma achizițiilor pentru apărare** ar simplifica legislația și procedurile decizionale, ar clarifica responsabilitățile instituționale și ar reduce întârzierile și reluarea licitațiilor. Contractele de înzestrare de peste 100 de milioane de euro ar beneficia de asistență juridică specializată; sunt prevăzute și un sistem centralizat de achiziții de servicii și monitorizarea contractelor, cu garanții de transparență și control. Pentru nevoile urgente ar conta prioritar termenele de livrare, iar producția în România ar deveni un criteriu de bază pentru programele multianuale.\n\n• **Cooperarea industrială românească și europeană** s-ar baza pe participarea companiilor naționale la producție, integrare, mentenanță și furnizarea de servicii. Guvernul ar susține instrumentele europene de finanțare, inclusiv Readiness 2030 și SAFE, achizițiile comune, rolul României ca centru regional de mentenanță și investițiile în cercetare și inovare în domeniul apărării, inclusiv în inteligența artificială.\n\n• **Grupul Aeronautic Național** ar reuni sub o guvernanță comună TAROM Tehnic, ROMAERO, IAR Ghimbav și Avioane Craiova. Creat după modelul ROMARM, grupul ar desfășura lucrări civile și militare de mentenanță și producție pentru piața internațională.\n\n• **Rolul regional și aliat al României** ar include descurajarea și apărarea Flancului Estic al NATO, precum și sprijinirea securității Republicii Moldova, Ucrainei și statelor din Balcanii de Vest. Bucureștiul ar promova inițiativa Eastern Flank Watch în UE, ar actualiza Foaia de parcurs în domeniul apărării pentru perioada 2020–2030 în relația cu Statele Unite, ar susține consolidarea prezenței militare americane și cooperarea prin instrumentul FMF Loan. În regiunea Mării Negre ar extinde cooperarea cu aliații, ar continua participarea la grupul de combatere a minelor marine înființat de România, Turcia și Bulgaria în 2024 și ar susține crearea unui centru regional pentru securitate maritimă."
+  },
+  {
+    "group_id": "group_7cd068d9ba",
+    "fingerprint": "34aed24d42624e3074329e1f12969c00",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/4b1c42fa-d493-4caf-a98d-05d351872cd2.jfif?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Elizabeta Samara și Bernadette Szocs s-au calificat în sferturile de finală ale Campionatului European",
+        "link": "https://adevarul.ro/sport/elizabeta-samara-si-bernadette-szocs-s-au-2563936.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Eduard Ionescu, prima medalie pentru România la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-eduard-ionescu-prima-medalie-pentru-romania-la-campionatele-europene-de-la-ljubljana-987990.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis de masă: Eduard Ionescu și Bernadette Szocs și-au asigurat o medalie la Europene în proba de dublu mixt",
+        "link": "https://agerpres.ro/sport-extern/2026/10/14/tenis-de-masa-eduard-ionescu-si-bernadette-szocs-si-au-asigurat-o-medalie-la-europene-in-proba-de-du--1603086"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Bernadette Szocs și Eduard Ionescu au luat medalie la CE de tenis de masă",
+        "link": "https://adevarul.ro/sport/bernadette-szocs-si-eduard-ionescu-au-luat-medalie-2564160.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Încă o medalie pentru România la CE de tenis de masă: Samara și Szocs, în semifinale",
+        "link": "https://www.g4media.ro/inca-o-medalie-pentru-romania-la-ce-de-tenis-de-masa-samara-si-szocs-in-semifinale.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Elizabeta Samara, medalie asigurată la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-elizabeta-samara-medalie-asigurata-la-campionatele-europene-de-la-ljubljana-988338.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bernadette Szocs și Eduard Ionescu rămân cu medalia de bronz la Campionatele Europene de la Ljubljana",
+        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-eduard-ionescu-raman-cu-medalia-de-bronz-la-campionatele-europene-de-la-ljubljana-988389.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis de masă: Eduard Ionescu și Bernadette Szocs, medaliați cu bronz la Europene în proba de dublu mixt",
+        "link": "https://agerpres.ro/sport/2026/10/15/tenis-de-masa-eduard-ionescu-si-bernadette-szocs-medaliati-cu-bronz-la-europene-in-proba-de-dublu-mi--1603556"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Szocsék újabb érmet biztosítottak Romániának, a vegyes páros bronzérmes lett",
+    "lead_hu": "Bernadette Szocs és Elizabeta Samara bejutott a női páros elődöntőjébe, így Románia újabb érmet biztosított a ljubljanai asztalitenisz-Eb-n. Szocs és Eduard Ionescu vegyes párosban bronzérmet szerzett: az elődöntőben 3–0-ra kikaptak a németektől. A románok női egyesben négyen, férfi egyesben ketten jutottak tovább az első főtáblás fordulóból.",
+    "content_hu": "• **Női párosban is biztos az érem**: Bernadette Szocs és Elizabeta Samara 3–1-re (11–9, 12–10, 7–11, 11–4) legyőzte a német Ying Han–Sabine Winter kettőst a negyeddöntőben, és bejutott az elődöntőbe. Ezzel Románia második érmét biztosította a ljubljanai Eb-n.\n\n• **Szocs és Samara döntőbe jutásért játszik**: a román kettős ellenfele a szlovák Tatiana Kukulkova és a lengyel Natalia Bajor lesz. Szocs és Samara korábban 3–0-ra verte a horvát Lea Rakovac–Hana Arapovic párost, a 16 közé jutásért pedig 3–1-re győzte le a szlovák Dominika Wiltschkova–Ema Labosova kettőst.\n\n• **Dragoman és Diaconu búcsúzott női párosban**: a románok a nyolcaddöntőben 0–3-ra (12–14, 5–11, 7–11) kaptak ki a francia Prithika Pavade–Charlotte Lutz kettőstől. Korábban 3–1-re győzték le a moldovai Alexandra Chiriacova és a spanyol Maria Berzosa párosát.\n\n• **Szocs és Ionescu vegyes párosban bronzérmes**: a román kettős a negyeddöntőben 3–2-re (9–11, 13–11, 12–10, 6–11, 11–9) verte a francia Thibault Poret–Prithika Pavade párost, ezzel biztosította az érmet. A német Benedikt Duda–Nina Mittelham elleni elődöntőt 0–3-ra veszítette el; a játszmák 8–11, 4–11, 12–14-re végződtek.\n\n• **Szocs és Ionescu útja az elődöntőig**: a franciák elleni negyeddöntős győzelem előtt 3–1-re verte a cseh Jiri Martinko–Veronika Polakova, majd 3–1-re a dán Anders Lind–Anna Hursey párost. A vegyes párosban induló Darius Movileanu és Andreea Dragoman a Lind–Hursey kettőstől 0–3-ra kapott ki.\n\n• **Szocs és Ionescu érmei**: Szocs számára ez a 14. Eb-érem, vegyes párosban pedig a negyedik. Ionescu a második Eb-medálját szerezte meg, a tavalyi csapatban nyert ezüst után.\n\n• **Szocs a vegyes páros sikeréről**: boldognak és meghatottnak mondta magát, a győzelem kulcsának pedig azt nevezte, hogy jól kiegészítik egymást, és nehéz helyzetekben is biztatják a másikat. Azt is kiemelte, hogy a pályán kívüli barátságuk segíti az összhangot.\n\n• **Női egyesben négy román jutott tovább**: Bernadette Szocs 4–1-re verte Sofia-Xuan Zhangot, Andreea Dragoman 4–0-ra Nina Skerbinzet, Adina Diaconu 4–3-ra Christina Kallberget, Elena Zaharia pedig 4–3-ra Tin-Tin Hót, 1–3-as szetthátrányból fordítva. Következő ellenfeleik Alexia Nodin, Sara Tokic, Prithika Pavade, illetve Shuohan Men.\n\n• **Samara és Sîngeorzan kiesett női egyesben**: Elizabeta Samara 3–1-es vezetésről kapott ki 3–4-re Ece Haractól, Ioana Sîngeorzan pedig 0–4-re maradt alul Margarita Pesoțkával szemben.\n\n• **Férfi egyesben két román jutott tovább**: Eduard Ionescu 4–2-re győzte le Adam Szudit, Iulian Chirița pedig 4–1-re Ricardo Walthert. Következő ellenfelük a finn Benedek Olah, illetve a svéd Anton Kallberg. Ovidiu Ionescu és Andrei Istrate 0–4-es vereséggel búcsúzott.\n\n• **Férfi párosban nincs már román versenyben**: Darius Movileanu és Eduard Ionescu 2–3-ra kapott ki a finn Benedek Olah–Alex Naumi kettőstől, Iulian Chirița és Andrei Istrate pedig 0–3-ra veszített a svéd Truls Moregard–Elias Ranefur páros ellen.\n\n• **Tíz román szerepelt az egyes főtábláján**: hat nő és négy férfi. A selejtezőből Adina Diaconu, Elena Zaharia, Ioana Sîngeorzan, Ovidiu Ionescu és Andrei Istrate jutott tovább; Bianca Mei-Roșu és Darius Movileanu nem kvalifikált. A csoportkörben Zaharia, Diaconu és Sîngeorzan 3–0-ra, illetve 3–0-ra és 3–1-re nyert; a férfiaknál Ovidiu Ionescu 3–0-ra, Istrate 3–1-re győzött.",
+    "title_ro": "Szocs și Samara au asigurat încă o medalie României, iar dublul mixt a încheiat cu bronz",
+    "lead_ro": "Bernadette Szocs și Elizabeta Samara s-au calificat în semifinalele probei de dublu feminin, asigurând României încă o medalie la Europenele de tenis de masă de la Ljubljana. Szocs și Eduard Ionescu au obținut bronzul la dublu mixt, după ce au pierdut cu 3-0 în fața germanilor în semifinale. România a avut patru jucătoare calificate mai departe la simplu feminin și doi jucători la simplu masculin.",
+    "content_ro": "• **Medalie asigurată și la dublu feminin**: Bernadette Szocs și Elizabeta Samara au învins perechea germană Ying Han–Sabine Winter cu 3-1 (11-9, 12-10, 7-11, 11-4) în sferturi și s-au calificat în semifinale. România și-a asigurat astfel a doua medalie la Europenele de la Ljubljana.\n\n• **Szocs și Samara joacă pentru un loc în finală**: adversarele româncelor vor fi Tatiana Kukulkova (Slovacia) și Natalia Bajor (Polonia). Înainte, Szocs și Samara au învins cu 3-0 perechea croată Lea Rakovac–Hana Arapovic, iar pentru accederea în optimi au trecut cu 3-1 de slovacele Dominika Wiltschkowa–Ema Labosova.\n\n• **Dragoman și Diaconu, eliminate la dublu feminin**: româncele au pierdut în optimi cu 0-3 (12-14, 5-11, 7-11) în fața franțuzoaicelor Prithika Pavade–Charlotte Lutz. Anterior, le învinseseră cu 3-1 pe Alexandra Chiriacova (Republica Moldova) și Maria Berzosa (Spania).\n\n• **Bronz la dublu mixt pentru Szocs și Ionescu**: în sferturi, perechea română a învins cu 3-2 (9-11, 13-11, 12-10, 6-11, 11-9) cuplul francez Thibault Poret–Prithika Pavade, asigurându-și medalia. În semifinale, a pierdut cu 0-3 în fața germanilor Benedikt Duda–Nina Mittelham; seturile s-au încheiat 8-11, 4-11, 12-14.\n\n• **Drumul lui Szocs și Ionescu spre semifinale**: înaintea victoriei din sferturi, au câștigat cu 3-1 în fața cehilor Jiri Martinko–Veronika Polakova și tot cu 3-1 împotriva danezului Anders Lind și galezei Anna Hursey. La dublu mixt, Darius Movileanu și Andreea Dragoman au fost învinși cu 0-3 de Lind și Hursey.\n\n• **Medaliile lui Szocs și Ionescu**: pentru Szocs, aceasta este a 14-a medalie europeană și a patra la dublu mixt. Ionescu a obținut a doua sa medalie europeană, după argintul câștigat anul trecut cu echipa.\n\n• **Szocs, despre succesul la dublu mixt**: sportiva s-a declarat fericită și emoționată și a spus că secretul victoriei a fost faptul că ea și Ionescu se completează bine și se încurajează în momentele dificile. A subliniat și că prietenia lor din afara mesei contribuie la buna lor coordonare.\n\n• **Patru românce au avansat la simplu feminin**: Bernadette Szocs a învins-o cu 4-1 pe Sofia-Xuan Zhang, Andreea Dragoman a trecut cu 4-0 de Nina Skerbinz, Adina Diaconu a învins-o cu 4-3 pe Christina Kallberg, iar Elena Zaharia a câștigat cu 4-3 în fața lui Tin-Tin Ho, după ce fusese condusă cu 1-3 la seturi. Următoarele adversare sunt Alexia Nodin, Sara Tokic, Prithika Pavade și, respectiv, Shuohan Men.\n\n• **Samara și Sîngeorzan, eliminate la simplu feminin**: Elizabeta Samara a pierdut cu 3-4 în fața lui Ece Harac, după ce condusese cu 3-1 la seturi, iar Ioana Sîngeorzan a fost învinsă cu 0-4 de Margarita Pesoțka.\n\n• **Doi români au avansat la simplu masculin**: Eduard Ionescu l-a învins cu 4-2 pe Adam Szudi, iar Iulian Chirița a trecut cu 4-1 de Ricardo Walther. Următorii lor adversari sunt finlandezul Benedek Olah și suedezul Anton Kallberg. Ovidiu Ionescu și Andrei Istrate au fost eliminați după înfrângeri cu 0-4.\n\n• **România nu mai are reprezentanți la dublu masculin**: Darius Movileanu și Eduard Ionescu au pierdut cu 2-3 în fața finlandezilor Benedek Olah–Alex Naumi, iar Iulian Chirița și Andrei Istrate au cedat cu 0-3 în fața suedezilor Truls Moregard–Elias Ranefur.\n\n• **Zece români au intrat pe tablourile principale de simplu**: șase la feminin și patru la masculin. Din calificări au avansat Adina Diaconu, Elena Zaharia, Ioana Sîngeorzan, Ovidiu Ionescu și Andrei Istrate; Bianca Mei-Roșu și Darius Movileanu nu s-au calificat. În grupe, Zaharia, Diaconu și Sîngeorzan au câștigat cu 3-0, 3-0 și, respectiv, 3-1; la masculin, Ovidiu Ionescu a câștigat cu 3-0, iar Istrate cu 3-1."
+  },
+  {
+    "group_id": "group_3c09065b36",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Operatorii aeronautici TAROM Tehnic, ROMAERO, IAR Ghimbav și Avioane Craiova vor forma Grupul Aeronautic Național",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-operatorii-aeronautici-tarom-tehnic-romaero-iar-ghimbav-si-avioane-craiova-vor---1603558"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/Operatorii aeronautici TAROM Tehnic, ROMAERO, IAR Ghimbav și Avioane Craiova vor forma Grupul Aeronautic Național",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/Operatorii aeronautici TAROM Tehnic, ROMAERO, IAR Ghimbav și Avioane Craiova vor forma Grupul Aeronautic Național",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_57b6d9629b",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Haltere: Anca Grosu a cucerit două medalii de bronz la Europenele Under-23",
+        "link": "https://agerpres.ro/sport/2026/10/15/haltere-anca-grosu-a-cucerit-doua-medalii-de-bronz-la-europenele-under-23--1603555"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Haltere: Anca Grosu a cucerit două medalii de bronz la Europenele Under-23",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Haltere: Anca Grosu a cucerit două medalii de bronz la Europenele Under-23",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_3164175f63",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tunel sub Canalul Mânecii: Un microbuz lovește un tren, cel puțin 19 răniți",
+        "link": "https://agerpres.ro/social-extern/2026/10/15/tunel-sub-canalul-manecii-un-microbuz-loveste-un-tren-cel-putin-19-raniti--1603557"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Tunel sub Canalul Mânecii: Un microbuz lovește un tren, cel puțin 19 răniți",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tunel sub Canalul Mânecii: Un microbuz lovește un tren, cel puțin 19 răniți",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_2db40907f3",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Filipe Coelho (U Craiova) - Ne-am fi dorit victoria, dar e primul punct și vom continua să muncim",
+        "link": "https://agerpres.ro/sport/2026/10/15/fotbal-filipe-coelho-u-craiova---ne-am-fi-dorit-victoria-dar-e-primul-punct-si-vom-continua-sa-munci--1603554"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Fotbal: Filipe Coelho (U Craiova) - Ne-am fi dorit victoria, dar e primul punct și vom continua să muncim",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Filipe Coelho (U Craiova) - Ne-am fi dorit victoria, dar e primul punct și vom continua să muncim",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_a7c0205b6b",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Plan de accelerare a investițiilor în șase județe prin Fondul pentru Tranziție Justă",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-plan-de-accelerare-a-investitiilor-in-sase-judete-prin-fondul-pentru-tranzitie---1603549"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/Plan de accelerare a investițiilor în șase județe prin Fondul pentru Tranziție Justă",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/Plan de accelerare a investițiilor în șase județe prin Fondul pentru Tranziție Justă",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_e73cb42980",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Minimum 10.000 de IMM-uri ar urma să beneficieze de sprijin prin fonduri europene",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-minimum-10-000-de-imm-uri-ar-urma-sa-beneficieze-de-sprijin-prin-fonduri-europe--1603548"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/Minimum 10.000 de IMM-uri ar urma să beneficieze de sprijin prin fonduri europene",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/Minimum 10.000 de IMM-uri ar urma să beneficieze de sprijin prin fonduri europene",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_e4d32df211",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Facilitățile de călătorie pentru elevi, studenți și pensionari se mențin și vor trece pe un sistem electronic unic",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-facilitatile-de-calatorie-pentru-elevi-studenti-si-pensionari-se-mentin-si-vor---1603546"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/Facilitățile de călătorie pentru elevi, studenți și pensionari se mențin și vor trece pe un sistem electronic unic",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/Facilitățile de călătorie pentru elevi, studenți și pensionari se mențin și vor trece pe un sistem electronic unic",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_9f30c8c5dc",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Baschet feminin: Universitatea Cluj, surclasată de Umana Reyer Venezia în EuroCup",
+        "link": "https://agerpres.ro/sport-extern/2026/10/15/baschet-feminin-universitatea-cluj-surclasata-de-umana-reyer-venezia-in-eurocup--1603547"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Baschet feminin: Universitatea Cluj, surclasată de Umana Reyer Venezia în EuroCup",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Baschet feminin: Universitatea Cluj, surclasată de Umana Reyer Venezia în EuroCup",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_117f3849ad",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Assad Al Hamlawi (U Craiova), după remiza cu Getafe - Azi am fost echipa mai bună",
+        "link": "https://agerpres.ro/sport/2026/10/15/fotbal-assad-al-hamlawi-u-craiova-dupa-remiza-cu-getafe---azi-am-fost-echipa-mai-buna--1603545"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Fotbal: Assad Al Hamlawi (U Craiova), după remiza cu Getafe - Azi am fost echipa mai bună",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Assad Al Hamlawi (U Craiova), după remiza cu Getafe - Azi am fost echipa mai bună",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_6291a1f4f0",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Necesarul de carne de porc ar urma să fie acoperit integral din producția internă până în 2028",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-necesarul-de-carne-de-porc-ar-urma-sa-fie-acoperit-integral-din-productia-inter--1603543"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/Necesarul de carne de porc ar urma să fie acoperit integral din producția internă până în 2028",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/Necesarul de carne de porc ar urma să fie acoperit integral din producția internă până în 2028",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_906db9a475",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Handbal feminin: CSM București, ținută în șah de Minaur Baia Mare, în campionat",
+        "link": "https://agerpres.ro/sport/2026/10/15/handbal-feminin-csm-bucuresti-tinuta-in-sah-de-minaur-baia-mare-in-campionat--1603542"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Handbal feminin: CSM București, ținută în șah de Minaur Baia Mare, în campionat",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Handbal feminin: CSM București, ținută în șah de Minaur Baia Mare, în campionat",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_847ea5819d",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/Trecere de la bugete anuale fragmentate la un program multianual de promovare a turismului",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-trecere-de-la-bugete-anuale-fragmentate-la-un-program-multianual-de-promovare-a--1603538"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/Trecere de la bugete anuale fragmentate la un program multianual de promovare a turismului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/Trecere de la bugete anuale fragmentate la un program multianual de promovare a turismului",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_617e1b4e19",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Alexandru Cicâldău (Universitatea Craiova) - Avem un gust amar pentru că puteam câștiga cu Getafe",
+        "link": "https://agerpres.ro/sport/2026/10/15/fotbal-alexandru-cicaldau-universitatea-craiova---avem-un-gust-amar-pentru-ca-puteam-castiga-cu-geta--1603540"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Fotbal: Alexandru Cicâldău (Universitatea Craiova) - Avem un gust amar pentru că puteam câștiga cu Getafe",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Alexandru Cicâldău (Universitatea Craiova) - Avem un gust amar pentru că puteam câștiga cu Getafe",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4eb2264f34",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Program de guvernare/România riscă să piardă 970 de milioane de euro din PNRR; măsuri pentru recuperarea întârzierilor",
+        "link": "https://agerpres.ro/economic/2026/10/15/program-de-guvernare-romania-risca-sa-piarda-970-de-milioane-de-euro-din-pnrr-masuri-pentru-recupera--1603539"
+      }
+    ],
+    "published_at": 1792095468,
+    "title_hu": "Program de guvernare/România riscă să piardă 970 de milioane de euro din PNRR; măsuri pentru recuperarea întârzierilor",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Program de guvernare/România riscă să piardă 970 de milioane de euro din PNRR; măsuri pentru recuperarea întârzierilor",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_2c8bac8a59",
+    "category": "Erdély",
+    "image": "https://hargitanepe.ro//images/data/423x222/1727706090_rendorsegillusztracio24_hi05web.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hargita Népe",
+        "title": "Két 46 éves férfi ellen indult eljárás",
+        "link": "https://hargitanepe.ro/ket-46-eves-ferfi-ellen-indult-eljaras"
+      }
+    ],
+    "published_at": 1792095462,
+    "title_hu": "Két 46 éves férfi ellen indult eljárás",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Két 46 éves férfi ellen indult eljárás",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_1ccd6c6267",
+    "category": "Erdély",
+    "image": "https://hargitanepe.ro//images/data/423x222/1792094393_0_veszettseg_vn_web.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hargita Népe",
+        "title": "Sebzéstől az elhullásig – amit a veszettségről tudni kell",
+        "link": "https://hargitanepe.ro/sebzestol-az-elhullasig-amit-a-veszettsegrol-tudni-kell"
+      }
+    ],
+    "published_at": 1792095462,
+    "title_hu": "Sebzéstől az elhullásig – amit a veszettségről tudni kell",
+    "lead_hu": "Az első gócpont azonosítása óta már hat csíkszéki településen regisztráltak veszettséggel fertőzött háziállatokat. Az egyre nagyobb területen terjedő vírus az emberekre is veszélyes: fertőzés esetén, …",
+    "content_hu": "Az első gócpont azonosítása óta már hat csíkszéki településen regisztráltak veszettséggel fertőzött háziállatokat. Az egyre nagyobb területen terjedő vírus az emberekre is veszélyes: fertőzés esetén, védőoltás és kezelés nélkül halálos. A veszettség tüneteiről, emberi szervezetre gyakorolt hatásairól és az állatharapások kezeléséről dr. Dimény Ottiliát, a megyei kórház infektológus főorvosát kérdeztük.",
+    "title_ro": "Sebzéstől az elhullásig – amit a veszettségről tudni kell",
+    "lead_ro": "Az első gócpont azonosítása óta már hat csíkszéki településen regisztráltak veszettséggel fertőzött háziállatokat. Az egyre nagyobb területen terjedő vírus az emberekre is veszélyes: fertőzés esetén, …",
+    "content_ro": "Az első gócpont azonosítása óta már hat csíkszéki településen regisztráltak veszettséggel fertőzött háziállatokat. Az egyre nagyobb területen terjedő vírus az emberekre is veszélyes: fertőzés esetén, védőoltás és kezelés nélkül halálos. A veszettség tüneteiről, emberi szervezetre gyakorolt hatásairól és az állatharapások kezeléséről dr. Dimény Ottiliát, a megyei kórház infektológus főorvosát kérdeztük."
+  },
+  {
+    "group_id": "group_5885390a90",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "CSM Oradea, a cincea victorie consecutivă în Divizia A. Cosmin Liberț: „Cheia succesului a fost munca de echipă”",
+        "link": "https://www.ebihoreanul.ro/stiri/csm-oradea-a-cincea-victorie-consecutiva-in-divizia-a-cosmin-libert-cheia-succesului-a-fost-munca-de-echipa-205856.html"
+      }
+    ],
+    "published_at": 1792095462,
+    "title_hu": "CSM Oradea, a cincea victorie consecutivă în Divizia A. Cosmin Liberț: „Cheia succesului a fost munca de echipă”",
+    "lead_hu": "CSM Oradea a bifat a cincea victorie consecutivă în Divizia A la handbal masculin, după ce s-a impus joi seara, la Arena Antonio Alexe, cu scorul de 45-40 în fața formației Potaissa Turda II. Echipa p…",
+    "content_hu": "CSM Oradea a bifat a cincea victorie consecutivă în Divizia A la handbal masculin, după ce s-a impus joi seara, la Arena Antonio Alexe, cu scorul de 45-40 în fața formației Potaissa Turda II. Echipa pregătită de Cosmin Liberț și Dan Pițigoi își păstrează punctajul maxim și poziția de lider în Seria C, însă antrenorul principal atrage atenția că jocul defensiv și greșelile tehnice rămân aspecte de îmbunătățit.",
+    "title_ro": "CSM Oradea, a cincea victorie consecutivă în Divizia A. Cosmin Liberț: „Cheia succesului a fost munca de echipă”",
+    "lead_ro": "CSM Oradea a bifat a cincea victorie consecutivă în Divizia A la handbal masculin, după ce s-a impus joi seara, la Arena Antonio Alexe, cu scorul de 45-40 în fața formației Potaissa Turda II. Echipa p…",
+    "content_ro": "CSM Oradea a bifat a cincea victorie consecutivă în Divizia A la handbal masculin, după ce s-a impus joi seara, la Arena Antonio Alexe, cu scorul de 45-40 în fața formației Potaissa Turda II. Echipa pregătită de Cosmin Liberț și Dan Pițigoi își păstrează punctajul maxim și poziția de lider în Seria C, însă antrenorul principal atrage atenția că jocul defensiv și greșelile tehnice rămân aspecte de îmbunătățit."
+  },
+  {
+    "group_id": "group_485fbd09bf",
+    "fingerprint": "2ceb230bdce13664f819b47c2f24068f",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAwOTUxM18zMDA5/NTEzX3Byb2ZpbWVkaWEtMTAyODA4NDQ1/Mi5qcGcmaGFzaD1hYzdkODkwNjhlOTdjNGMwZmFmZDU3ODdlOGZkZDI4Yw==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Atac cibernetic în sute de supermarketuri din Franța. Hackerii au încins frigiderele, iar alimentele au ajuns la gunoi",
+        "link": "https://www.digi24.ro/stiri/externe/ue/atac-cibernetic-in-sute-de-supermarketuri-din-franta-hackerii-au-incins-frigiderele-iar-alimentele-au-ajuns-la-gunoi-3989667"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Atac cibernetic fără precedent asupra supermarketurilor din Europa: hackerii au crescut temperatura frigiderelor la 50 de grade",
+        "link": "https://adevarul.ro/stiri-externe/europa/atac-cibernetic-fara-precedent-asupra-2563659.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Példátlan kibertámadás Franciaországban: több száz szupermarket hűtőjét kapcsolták le hackerek (VIDEÓ)",
+        "link": "https://maszol.ro/kulfold/Peldatlan-kibertamadas-Franciaorszagban-tobb-szaz-szupermarket-hutojet-kapcsoltak-le-hackerek-VIDEO"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Parola era data zilei. Cum au putut hackerii să încălzească frigiderele a sute de supermarketuri din Franța",
+        "link": "https://www.mediafax.ro/tehnologie/parola-era-data-zilei-cum-au-putut-hackerii-sa-incalzeasca-frigiderele-a-sute-de-supermarketuri-din-franta-23825446"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Parola care ar fi permis hackerilor să saboteze frigiderele din supermarketurile din Franța. Ce a descoperit un expert",
+        "link": "https://stirileprotv.ro/stiri/international/parola-care-ar-fi-permis-hackerilor-sa-saboteze-frigiderele-din-supermarketurile-din-franta-ce-a-descoperit-un-expert.html"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Atacul asupra frigiderelor supermarketurilor din Franța, simplu ca „bună-ziua”",
+        "link": "https://www.go4it.ro/securitate-informatica/atacul-asupra-frigiderelor-supermarketurilor-din-franta-simplu-ca-buna-ziua-19287836/"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "După noaptea în care hackerii s-au jucat cu temperatura din frigiderele lor, supermarketurile din Franța se confruntă acum cu o nouă problemă",
+        "link": "https://hotnews.ro/dupa-noaptea-in-care-hackerii-s-au-jucat-cu-temperatura-din-frigiderele-lor-supermarketurile-din-franta-se-confrunta-acum-cu-o-noua-problema-2377516"
+      }
+    ],
+    "published_at": 1792095388,
+    "title_hu": "Kibertámadás bénította meg több száz francia szupermarket hűtőrendszerét",
+    "lead_hu": "Hackerek távolról megváltoztatták több száz francia szupermarket hűtőrendszerének beállításait, egyes berendezésekben 50 Celsius-fokig emelve a hőmérsékletet. Az üzletek nagy mennyiségű élelmiszert semmisítettek meg; a támadás ügyében nyomozás indult, miközben a károkért viselt felelősség és a biztosítási fedezet is kérdéses.",
+    "content_hu": "• **A támadás** a franciaországi szupermarketek hűtő- és fagyasztórendszereit érintette: a hackerek távolról indítottak leolvasztási ciklusokat, egyes berendezések hőmérsékletét 50 Celsius-fokig emelve. A beszámolók a támadást október 11-ről 12-re virradó éjszakára teszik.\n\n• **Az érintett üzletek száma** a források becslései szerint több száz: a közlések nagyjából 350–400 francia üzletről számolnak be. Az Intermarché tulajdonosa körülbelül 150 érintett üzletet jelzett, a Carrefour 80-at, a Coopérative U pedig legalább száz bolt érintettségéről számolt be.\n\n• **Az élelmiszer-veszteség** jelentős volt: az üzletek kidobták azokat a friss és fagyasztott termékeket, amelyek biztonságát a hűtési lánc megszakadása után nem tudták garantálni. Egyes üzletekben tüzeket is jelentettek. Az Intermarché vezetője országosan több tízmillió euróra becsülte a károkat.\n\n• **A feltételezett biztonsági hiányosságok** között régi vagy nem frissített szoftverek, internetnek kitett ipari rendszerek, valamint könnyen kitalálható vagy alapértelmezett belépési adatok szerepelnek. Iván Pérez szakértő az „admin” felhasználónév és a napi dátum lehetséges használatáról beszélt, de nem erősítették meg, hogy a támadók valóban így jutottak be. A Claroty augusztusi vizsgálata 2765, internet felől elérhető Danfoss AK-SM 800A vezérlőfelületet azonosított.\n\n• **A hatósági vizsgálat** ügyében a párizsi ügyészség nyomozást indított, Sébastien Lecornu miniszterelnök pedig felkérte a francia kiberbiztonsági ügynökséget, az ANSSI-t az eset kivizsgálására. A boltok biztosításai jellemzően nem fedezik automatikusan a kibertámadás okozta fizikai veszteségeket; a kártérítés a szerződések feltételeitől és a felelősség megállapításától függhet.",
+    "title_ro": "Atac cibernetic asupra sistemelor frigorifice din sute de supermarketuri franceze",
+    "lead_ro": "Hackerii au modificat de la distanță setările sistemelor frigorifice din sute de supermarketuri din Franța, ridicând temperatura unor echipamente până la 50 de grade Celsius. Magazinele au distrus cantități mari de alimente, iar autoritățile investighează atacul; rămân neclare atât răspunderea pentru pagube, cât și acoperirea lor prin asigurări.",
+    "content_ro": "• **Atacul** a vizat sistemele de refrigerare și congelare ale supermarketurilor din Franța: hackerii au declanșat de la distanță cicluri de dezghețare, ridicând temperatura unor echipamente până la 50 de grade Celsius. Potrivit relatărilor, atacul a avut loc în noaptea de 11 spre 12 octombrie.\n\n• **Numărul magazinelor afectate** este estimat la câteva sute: sursele indică aproximativ 350–400 de magazine din Franța. Proprietarul Intermarché a raportat circa 150 de magazine afectate, Carrefour a anunțat 80, iar Coopérative U a confirmat incidente în cel puțin o sută de unități.\n\n• **Pierderile de alimente** au fost importante: magazinele au aruncat produsele proaspete și congelate a căror siguranță nu mai putea fi garantată după întreruperea lanțului frigorific. Au fost semnalate și incendii în unele magazine. Conducerea Intermarché a estimat pagubele la nivel național la zeci de milioane de euro.\n\n• **Printre vulnerabilitățile posibile** se numără software-ul vechi sau neactualizat, sistemele industriale expuse la internet și datele de autentificare implicite ori ușor de ghicit. Expertul Iván Pérez a menționat posibila folosire a numelui de utilizator „admin” și a datei zilei drept parolă, dar nu s-a confirmat că atacatorii au accesat sistemele astfel. O analiză Claroty din august a identificat 2.765 de interfețe Danfoss AK-SM 800A accesibile de pe internet.\n\n• **Investigația autorităților** a fost deschisă de Parchetul din Paris, iar premierul Sébastien Lecornu a cerut Agenției naționale pentru securitate cibernetică, ANSSI, să investigheze cazul. Asigurările supermarketurilor nu acoperă, de regulă, automat pierderile materiale provocate de atacuri cibernetice; despăgubirile pot depinde de condițiile contractelor și de stabilirea răspunderii."
+  },
+  {
+    "group_id": "group_b06df31304",
+    "fingerprint": "d5eb2c7d2d48366fa4cf57e00022984c",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bolojan - întrevedere cu ambasadorii statelor membre ale UE și cu reprezentantul Comisiei Europene acreditat la București",
+        "link": "https://agerpres.ro/politic/2026/10/14/bolojan---intrevedere-cu-ambasadorii-statelor-membre-ale-ue-si-cu-reprezentantul-comisiei-europene-a--1602844"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ilie Bolojan, discuții cu ambasadorii UE la București. Măsurile bugetare, politicile de securitate și amenințările hibride, pe agenda întâlnirii",
+        "link": "https://www.mediafax.ro/stirile-zilei/ilie-bolojan-discutii-cu-ambasadorii-ue-la-bucuresti-masurile-bugetare-politicile-de-securitate-si-amenintarile-hibride-pe-agenda-intalnirii-23825211"
+      },
+      {
+        "source": "Digi24",
+        "title": "Bolojan, discuții cu liderii europeni, la summitul PPE, despre energia scumpă și securitatea regională. Ce propune România",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-discutii-cu-liderii-europeni-la-summitul-ppe-despre-energia-scumpa-si-securitatea-regionala-ce-propune-romania-3993785"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bolojan a prezentat la Summitul PPE de la Bruxelles prioritățile României - continuarea reformelor și utilizarea eficientă a resurselor publice",
+        "link": "https://agerpres.ro/politic/2026/10/15/bolojan-a-prezentat-la-summitul-ppe-de-la-bruxelles-prioritatile-romaniei---continuarea-reformelor-s--1603359"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ilie Bolojan, după discuțiile cu liderii PPE de la Bruxelles: „Din 2027, România va deveni cel mai mare producător de gaze naturale din UE”",
+        "link": "https://adevarul.ro/politica/ilie-bolojan-dupa-discutiile-cu-liderii-ppe-de-la-2564346.html"
+      }
+    ],
+    "published_at": 1792095274,
+    "title_hu": "Bolojan az uniós nagykövetekkel és a PPE vezetőivel tárgyalt a költségvetésről, az energiáról és a fekete-tengeri biztonságról",
+    "lead_hu": "Ilie Bolojan ügyvezető miniszterelnök szerdán Bukarestben az EU-tagállamok nagyköveteivel és az Európai Bizottság képviselőjével, csütörtökön pedig Brüsszelben az Európai Néppárt (PPE) vezetőivel egyeztetett. A megbeszéléseken a költségvetési reformok, a következő uniós büdzsé, az energiaárak és -biztonság, valamint a Fekete-tenger romló biztonsági helyzete került szóba. Bolojan a román belpolitikai helyzetről is beszélt, és közölte: a PNL ellenzékben marad.",
+    "content_hu": "• **A szerdai bukaresti találkozón** Bolojan megköszönte az uniós nagyköveteknek és az Európai Bizottság képviselőjének a román kormánynak nyújtott együttműködést és támogatást, valamint méltatta az EU Tanácsának ír elnökségét. Románia uniós tagságát az elmúlt 35 év egyik legfontosabb eredményének nevezte.\n\n• **A költségvetés és a gazdaság** kapcsán ismertette a költségvetési helyzet kiegyensúlyozására és a strukturális hiányosságok kezelésére hozott intézkedéseket. A reformok folytatását, a gazdaság megerősítését, az üzleti bizalom növelését és a közpénzek felelős, hatékony felhasználását sürgette.\n\n• **Az energiabiztonság és az energiaárak** mindkét találkozón fontos témát jelentettek. Bolojan rövid távon a fogyasztók és a gazdaság védelmét, hosszabb távon a hazai termelés növelését, az összeköttetések fejlesztését és a beszerzési források diverzifikálását hangsúlyozta.\n\n• **A Fekete-tenger biztonsága** a felek szerint folyamatosan romlik. Bolojan szorosabb román–bolgár–török együttműködést szorgalmazott a hajózás biztonságáért, a kereskedelmi hajók elleni támadások miatt pedig a megfigyelési és védelmi képességek erősítését, valamint az európai együttműködés bővítését sürgette.\n\n• **A hibrid fenyegetések és a dezinformáció** szintén napirendre kerültek az uniós nagykövetekkel folytatott megbeszélésen. Bolojan megköszönte a szövetségesek romániai katonai jelenlétét, amely hozzájárul a NATO keleti szárnyának és a Fekete-tenger térségének biztonságához.\n\n• **A hajók elleni támadások** kapcsán a Mediafax arról számolt be, hogy október 5-én a Royad Mammadov kereskedelmi hajó Románia partjainál elsüllyedt; az ukrán hatóságok dróntámadásnak tulajdonították a tüzet. A legénység két tagja meghalt, 11-et kimentettek. Október 6-án és 13-án további négy kereskedelmi hajót ért dróntámadás Bulgária partjainál, közülük kettő elsüllyedt.\n\n• **A csütörtöki brüsszeli PPE-csúcstalálkozón** Bolojan Manfred Weberrel, Ursula von der Leyennel és más európai vezetőkkel egyeztetett. Románia a kohéziós politika és a közös agrárpolitika megfelelő finanszírozását, valamint a közlekedési infrastruktúrába, az energiahálózatokba és a katonai mobilitásba irányuló beruházásokat támogatja. A költségvetésről egyelőre nem született konszenzus.\n\n• **A kohéziós politika, a mezőgazdaság és a PNRR** szintén szerepelt a csúcstalálkozó témái között: Románia a versenyképességet növelő és a szükséges reformokat támogató kohéziós politikát, valamint az ágazat új kihívásaihoz igazított mezőgazdasági intézkedéseket szorgalmazott. Napirenden volt a román helyreállítási terv aktuális helyzete is.\n\n• **Románia energiatermelési szerepéről** Bolojan azt mondta, hogy az ország 2027-től az EU legnagyobb földgáztermelőjévé válhat; a kormány közlése ezt előrejelzésként fogalmazta meg. A fekete-tengeri gázkészletek kiaknázása, az atomenergia fejlesztése és az energetikai infrastruktúra korszerűsítése csökkentheti a külső függőséget és javíthatja a versenyképességet.\n\n• **A regionális biztonság és az EU bővítése** kapcsán Románia a NATO keleti szárnyának megerősítését, Ukrajna és Moldova támogatásának folytatását, valamint Moldova, Ukrajna és a nyugat-balkáni országok európai integrációjának előmozdítását szorgalmazta. A Bolojan által említett, román partok közelében – a parti vizeket is beleértve – végrehajtott dróntámadások a megfigyelési és védelmi képességek erősítésének szükségességét is alátámasztják.\n\n• **A román belpolitikai helyzetről** Bolojan azt mondta, hogy a költségvetési, közkiadási és beruházási ügyek nem rekedhetnek meg a politikai válság miatt. Közölte, hogy a PNL ellenzékben marad, a következő kormányt intézkedései és eredményei alapján értékeli, a Románia számára kedvező lépéseket támogatja, az vállalásokkal ellentéteseket pedig ellenzi.",
+    "title_ro": "Bolojan a discutat cu ambasadorii UE și liderii PPE despre buget, energie și securitatea Mării Negre",
+    "lead_ro": "Premierul interimar Ilie Bolojan s-a întâlnit miercuri, la București, cu ambasadorii statelor membre ale UE și cu reprezentantul Comisiei Europene, iar joi, la Bruxelles, cu liderii Partidului Popular European. Discuțiile au vizat reformele bugetare, viitorul buget al UE, prețurile și securitatea energetică, precum și deteriorarea situației de securitate la Marea Neagră. Bolojan a abordat și situația politică internă, afirmând că PNL va rămâne în opoziție.",
+    "content_ro": "• **Întâlnirea de miercuri, de la București**: Bolojan le-a mulțumit ambasadorilor UE și reprezentantului Comisiei Europene pentru colaborarea și sprijinul acordat Guvernului României și a salutat Președinția irlandeză a Consiliului UE. El a numit apartenența României la Uniune una dintre cele mai importante realizări din ultimii 35 de ani.\n\n• **Bugetul și economia**: Bolojan a prezentat măsurile adoptate pentru echilibrarea situației bugetare și corectarea deficiențelor structurale. A cerut continuarea reformelor, consolidarea economiei, creșterea încrederii mediului de afaceri și utilizarea responsabilă și eficientă a resurselor publice.\n\n• **Securitatea energetică și prețurile la energie** au fost teme importante la ambele întâlniri. Bolojan a evidențiat necesitatea protejării pe termen scurt a consumatorilor și a economiei, precum și, pe termen lung, a creșterii producției interne, dezvoltării interconectărilor și diversificării surselor de aprovizionare.\n\n• **Securitatea Mării Negre** este, potrivit participanților, într-o continuă degradare. Bolojan a susținut o cooperare mai strânsă între România, Bulgaria și Turcia pentru siguranța navigației și, în urma atacurilor asupra navelor comerciale, consolidarea capacităților de supraveghere și apărare, precum și extinderea cooperării europene.\n\n• **Amenințările hibride și campaniile de dezinformare** au fost abordate la întâlnirea cu ambasadorii UE. Bolojan le-a mulțumit aliaților pentru prezența militară în România, care contribuie la securitatea flancului estic al NATO și a regiunii Mării Negre.\n\n• **Atacurile asupra navelor comerciale**: potrivit Mediafax, pe 5 octombrie, nava Royad Mammadov s-a scufundat în apropierea coastelor României, după un incendiu pe care autoritățile ucrainene l-au atribuit unui atac cu drone. Doi membri ai echipajului au murit, iar alți 11 au fost salvați. Pe 6 și 13 octombrie, alte patru nave comerciale au fost lovite de drone în largul coastelor Bulgariei, iar două s-au scufundat.\n\n• **Summitul PPE de joi, de la Bruxelles**: Bolojan a discutat cu Manfred Weber, Ursula von der Leyen și alți lideri europeni. România susține finanțarea adecvată a politicii de coeziune și a Politicii Agricole Comune, precum și investiții în infrastructura de transport, rețele energetice și mobilitate militară. Deocamdată, nu s-a ajuns la un consens privind bugetul UE.\n\n• **Politica de coeziune, agricultura și PNRR** s-au aflat, de asemenea, pe agenda summitului: România susține o politică de coeziune care să crească competitivitatea și să sprijine reformele necesare, precum și măsuri agricole adaptate noilor provocări ale sectorului. A fost prevăzută și discutarea situației la zi a planului național de redresare.\n\n• **Rolul României în producția de energie**: Bolojan a afirmat că țara ar putea deveni, din 2027, cel mai mare producător de gaze naturale din UE; comunicatul Guvernului a prezentat acest lucru ca estimare. Exploatarea gazelor din Marea Neagră, dezvoltarea energiei nucleare și modernizarea infrastructurii energetice ar putea reduce dependențele externe și consolida competitivitatea.\n\n• **Securitatea regională și extinderea UE**: România susține întărirea Flancului Estic, continuarea sprijinului pentru Ucraina și Republica Moldova, precum și avansarea integrării europene a Republicii Moldova, Ucrainei și statelor din Balcanii de Vest. Atacurile cu drone asupra navelor comerciale din apropierea coastelor României, inclusiv în apele teritoriale, evidențiază nevoia consolidării capacităților de supraveghere și apărare.\n\n• **Situația politică internă**: Bolojan a declarat că problemele legate de buget, cheltuieli publice și investiții nu pot rămâne blocate din cauza crizei politice. El a spus că PNL va rămâne în opoziție, va evalua viitorul guvern în funcție de măsuri și rezultate, va susține deciziile bune pentru România și se va opune celor care încalcă angajamentele asumate."
+  },
+  {
+    "group_id": "group_cf4d470f65",
+    "category": "Gazdaság",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA5JTJGMjg0MDkyNl8yODQw/OTI2X1VudGl0bGVkLWRlc2lnbi0yMC5w/bmcmaGFzaD02YzhmNDlkZWE0MDExOWZiYzRkMDVmNjViMDNlOGQ2OQ==.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Rusia a găsit o breșă în legislația UE pentru a debloca miliarde de dolari. Mecanismul care ar putea ajuta oligarhii sancționați",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/rusia-a-gasit-o-bresa-in-legislatia-ue-pentru-a-debloca-miliarde-de-dolari-mecanismul-care-ar-putea-ajuta-oligarhii-sanctionati-3994503"
+      }
+    ],
+    "published_at": 1792095108,
+    "title_hu": "Rusia a găsit o breșă în legislația UE pentru a debloca miliarde de dolari. Mecanismul care ar putea ajuta oligarhii sancționați",
+    "lead_hu": "Rusia a exploatat o prevedere din legislația Uniunii Europene privind sancțiunile pentru a facilita deblocarea unor active în valoare de trei miliarde de dolari, administrate de instituția financiară …",
+    "content_hu": "Rusia a exploatat o prevedere din legislația Uniunii Europene privind sancțiunile pentru a facilita deblocarea unor active în valoare de trei miliarde de dolari, administrate de instituția financiară Euroclear, potrivit unei investigații publicate de presa belgiană. Un mecanism similar ar putea fi folosit în Austria de Raiffeisen Bank, pentru recuperarea unor pierderi prin intermediul activelor înghețate ale unei companii cu legături cu oligarhul rus Oleg Deripaska, relatează The Kyiv Independent.",
+    "title_ro": "Rusia a găsit o breșă în legislația UE pentru a debloca miliarde de dolari. Mecanismul care ar putea ajuta oligarhii sancționați",
+    "lead_ro": "Rusia a exploatat o prevedere din legislația Uniunii Europene privind sancțiunile pentru a facilita deblocarea unor active în valoare de trei miliarde de dolari, administrate de instituția financiară …",
+    "content_ro": "Rusia a exploatat o prevedere din legislația Uniunii Europene privind sancțiunile pentru a facilita deblocarea unor active în valoare de trei miliarde de dolari, administrate de instituția financiară Euroclear, potrivit unei investigații publicate de presa belgiană. Un mecanism similar ar putea fi folosit în Austria de Raiffeisen Bank, pentru recuperarea unor pierderi prin intermediul activelor înghețate ale unei companii cu legături cu oligarhul rus Oleg Deripaska, relatează The Kyiv Independent."
+  },
+  {
+    "group_id": "group_ecaddfaba1",
+    "fingerprint": "190ae36306c0156a5f6e4457ed1cc7bd",
+    "category": "Gazdaság",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_vasarlas_uzlet_elemiszer_unsplash.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Havi 3000 lej: ennyibe kerül, ha egy négytagú család többnyire otthon főz",
+        "link": "https://maszol.ro/gazdasag/Havi-3000-lej-ennyibe-kerul-ha-egy-negytagu-csalad-tobbnyire-otthon-foz"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Havi 3000 lejbe kerülhet az élelmiszer egy négytagú családnak",
+        "link": "https://www.mediatica.ro/hirek/gazdasag/havi-3000-lejbe-kerulhet-az-elelmiszer-egy-negytagu-csaladnak"
+      }
+    ],
+    "published_at": 1792095094,
+    "title_hu": "Havi 3000 lej lehet egy négytagú család élelmiszerköltsége",
+    "lead_hu": "Egy négytagú család havonta mintegy 3000 lejt költhet élelmiszerre, ha többnyire otthon főz. Ez becslés, nem egy konkrét élelmiszerkosár árának felmérése.",
+    "content_hu": "• **Havonta mintegy 3000 lej** lehet egy két felnőttből és két gyermekből álló család élelmiszerköltsége, ha többnyire otthon készítik az ételeket.\n\n• **Napi körülbelül 100 lej** jut így a mindennapi étkezésekre, az iskolai uzsonnákra, valamint a gyümölcsök, zöldségek, tejtermékek és húsfélék beszerzésére.\n\n• **Az összeg becslés**, nem pedig egy konkrét élelmiszerkosár árának felmérése; a kiadások a vásárlási szokásoktól és a választott termékektől is függnek.\n\n• **Gyakori ételrendelés vagy éttermi étkezés** esetén a havi költség magasabb lehet.",
+    "title_ro": "Alimentele pot costa 3.000 de lei pe lună pentru o familie de patru persoane",
+    "lead_ro": "O familie de patru persoane poate cheltui aproximativ 3.000 de lei pe lună pentru alimente dacă gătește în principal acasă. Suma este o estimare, nu rezultatul verificării prețului unui coș alimentar concret.",
+    "content_ro": "• **Aproximativ 3.000 de lei pe lună** poate ajunge costul alimentelor pentru o familie cu doi adulți și doi copii, dacă mesele sunt pregătite în principal acasă.\n\n• **Circa 100 de lei pe zi** acoperă mesele zilnice, pachetele pentru școală și cumpărarea fructelor, legumelor, produselor lactate și cărnii.\n\n• **Suma este o estimare**, nu rezultatul unei evaluări a prețului unui coș alimentar concret; cheltuielile depind și de obiceiurile de cumpărare și de produsele alese.\n\n• **Comenzile frecvente de mâncare sau mesele la restaurant** pot duce la costuri lunare mai mari."
+  },
+  {
+    "group_id": "group_041ecf2a49",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/barack-obama-scaled-e1792094719713-1024x627.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Obama critică Israelul: „A luat pământurile palestinienilor și a mers prea departe”",
+        "link": "https://www.mediafax.ro/externe/obama-critica-israelul-a-luat-pamanturile-palestinienilor-si-a-mers-prea-departe-23826302"
+      }
+    ],
+    "published_at": 1792095068,
+    "title_hu": "Obama critică Israelul: „A luat pământurile palestinienilor și a mers prea departe”",
+    "lead_hu": "Fostul președinte american Barack Obama critică modul în care Israelul i-a tratat pe palestinieni de-a lungul istoriei. El avertizează că forța militară nu poate garanta securitatea statului israelian…",
+    "content_hu": "Fostul președinte american Barack Obama critică modul în care Israelul i-a tratat pe palestinieni de-a lungul istoriei. El avertizează că forța militară nu poate garanta securitatea statului israelian pe termen lung și cere încetarea ostilităților pentru găsirea unei soluții la conflictul cu palestinienii.",
+    "title_ro": "Obama critică Israelul: „A luat pământurile palestinienilor și a mers prea departe”",
+    "lead_ro": "Fostul președinte american Barack Obama critică modul în care Israelul i-a tratat pe palestinieni de-a lungul istoriei. El avertizează că forța militară nu poate garanta securitatea statului israelian…",
+    "content_ro": "Fostul președinte american Barack Obama critică modul în care Israelul i-a tratat pe palestinieni de-a lungul istoriei. El avertizează că forța militară nu poate garanta securitatea statului israelian pe termen lung și cere încetarea ostilităților pentru găsirea unei soluții la conflictul cu palestinienii."
+  },
+  {
+    "group_id": "group_b83d5d4452",
+    "fingerprint": "2de7224cb377b5e0caecfae4ddf0905b",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/catalina-poiana-1024x768.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Colegiul Medicilor îi cere reforme de urgență premierului desemnat Luca Niculescu",
+        "link": "https://www.mediafax.ro/social/colegiul-medicilor-ii-cere-reforme-de-urgenta-premierului-desemnat-luca-niculescu-23825305"
+      },
+      {
+        "source": "Digi24",
+        "title": "Colegiul Medicilor cere reforme viitorului guvern. Lipsuri elementare în spitale și gărzi plătite la nivelul din 2017",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/colegiul-medicilor-cere-reforme-viitorului-guvern-lipsuri-elementare-in-spitale-si-garzi-platite-la-nivelul-din-2017-3992413"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ce schimbări va aduce Guvernul Luca Niculescu în sănătate. Spitale noi și o nouă lege a malpraxisului",
+        "link": "https://www.mediafax.ro/stirile-zilei/ce-schimbari-va-aduce-guvernul-luca-niculescu-in-sanatate-spitale-noi-si-o-noua-lege-a-malpraxisului-23826183"
+      },
+      {
+        "source": "G4Media",
+        "title": "Programul de guvernare: Ținem sub control infecțiile nosocomiale și adoptăm o legislație nouă privind malpraxisul, pentru a acoperi un vid legislativ important / Ce promite în sănătate Guvernul PSD – Luca Niculescu",
+        "link": "https://www.g4media.ro/programul-de-guvernare-tinem-sub-control-infectiile-nosocomiale-si-adoptam-o-legislatie-noua-privind-malpraxisul-pentru-a-acoperi-un-vid-legislativ-important-ce-promite-in-sanatate-guvernul-psd.html"
+      }
+    ],
+    "published_at": 1792095017,
+    "title_hu": "Az Orvosi Kamara reformokat sürget, a Niculescu-kormány programja új egészségügyi vállalásokat tartalmaz",
+    "lead_hu": "A Romániai Orvosi Kamara (CMR) a kijelölt miniszterelnöktől az ügyeleti díjak rendezését, az orvoshiányos térségek támogatását és a kórházi munkakörülmények javítását kéri. A parlament elé terjesztett kormányprogram többek között a regionális kórházak és égési központok befejezését, a szűrések bővítését, az új malpraktisz-szabályozást és az ügyeleti díjak fokozatos emelését ígéri.",
+    "content_hu": "• **A Romániai Orvosi Kamara (CMR)** nyilvános levélben kérte Luca Niculescu kijelölt miniszterelnököt és a politikai pártok képviselőit, hogy konkrét egészségügyi reformok kerüljenek a kormányprogramba. A szervezet szerint a betegbiztonságot, az orvosi hivatás méltóságát és a megfelelő munkakörülményeket kell a szakpolitikák középpontjába állítani.\n\n• **Az ügyeleti díjak rendezése** a CMR egyik fő követelése: a rendes munkaidőn kívüli ügyeleteket a jelenlegi, ne a 2017-es alapbér alapján fizessék. A kamara szerint a részmunkaidős ügyeleti szerződések korlátozhatják a tényleges túlmunka díjazását; az uniós munkaidő-irányelvre és a román munkajogi szabályokra hivatkozva a munkaidőkorlátok és az ügyelet utáni pihenőidő betartását is kéri.\n\n• **Az orvoshiányos térségek támogatására** a CMR országos stratégiát, kiszámítható ösztönzőket és a rezidensképzési helyek, illetve állások szükségletekhez igazítását javasolja. A 2026-os felmérésben a rezidensek 93,7 százaléka nyitottnak mondta magát arra, hogy kevésbé vonzó vagy ellátási szempontból hátrányos térségben dolgozzon; 33,5 százalékuk határozott idejű szerződést is elfogadna későbbi áthelyezés lehetőségével. A javasolt ösztönzők között megfelelő felszerelés, szolgálati lakás vagy lakhatási támogatás, felkészült csapat és a nehézségekhez igazodó bérezés szerepel.\n\n• **A kórházi munkakörülményekről szóló felmérés** szerint a rezidensek több mint kétharmada túlterheltséget, erőforráshiányt és strukturális problémákat tapasztal. A válaszadók 96,8 százaléka működő, naprakész szoftverű számítógépet, 96 százaléka megfelelő mosdót, 95,1 százaléka folyamatos hozzáférést higiéniai eszközökhöz, 92,6 százaléka alapvető diagnosztikai eszközöket, 91,9 százaléka pedig pihenő- és étkezőhelyiséget tart szükségesnek.\n\n• **A finanszírozás és a betegellátás fejlesztésére** a CMR átlátható módszertant és ütemezett felülvizsgálatot kér a szolgáltatások valós költségeinek, valamint a finanszírozásnak és térítéseknek a meghatározásához. A háziorvosi ellátás, a megelőzés, a szakrendelők és a közösségi ellátás megerősítését, az elkerülhető kórházi felvételek csökkentését és a betegek ellátási útjainak összehangolását is szorgalmazza.\n\n• **A gyógyszerhiányok jelzésére** a CMR országosan összehangolt, digitális riasztórendszert javasol, amely korán felismeri az ellátási kockázatokat, kijelöli a felelős intézményt és követi az intézkedéseket. A jelzést tevő egészségügyi dolgozóknak információt kellene kapniuk a gyógyszer várható elérhetőségéről vagy az alternatívákról.\n\n• **Új egészségügyi és orvosi hivatásról szóló törvényt** kezdeményez a CMR, nyilvános előkészítési ütemtervvel, szakmai és betegszervezeti egyeztetéssel, valamint orvosi, adminisztratív és költségvetési hatásvizsgálattal. A kamara az ügyeletek túlmunka-jellegének és a pihenőidőnek a szabályozását, továbbá az orvosi felelősség világosabb kereteit is felveti.\n\n• **A kormányprogram vállalásai között** szerepel a Iași, Kolozsvár és Craiova területén épülő regionális kórházak folytatása, valamint a temesvári, marosvásárhelyi és bukaresti súlyoségési központok befejezése. A program új malpraktisz-törvényt és a kórházi fertőzések visszaszorítását is ígéri; utóbbihoz laborfejlesztést, korszerű megfigyelési és jelentési protokollokat, valamint a kritikus részlegek dolgozóinak kétévenkénti továbbképzését és vizsgáztatását kapcsolná.\n\n• **A megelőzés és a szűrés bővítését** a kormányprogram az újszülöttkori szűrés 22 biomarkerre való kiterjesztésével tervezi, mintegy évi 140 ezer újszülött bevonásával és 2027-re országos lefedettséggel. Felgyorsítaná az emlő-, vastagbél-, méhnyak- és prosztatarák szűrését, 2027–2028-ban pedig bővítené a támogatott és ingyenes oltások körét; a háziorvosi és járóbeteg-ellátásnak nagyobb szerepet szánna.\n\n• **Az ügyeleti díjak és az egészségügyi munkaerő ügyében** a kormányprogram az ügyeleti rendszer átalakítását, a díjak fokozatos, a jelenlegi jövedelmekhez igazodó emelését és a rezidensek ügyeleti díjazását is kilátásba helyezi. A díjazás a tervek szerint az ügyeletek számától is függhet, az emeléseket pedig a rendelkezésre álló forrásokhoz és a költségvetési kerethez kötnék.\n\n• **A gyógyszerellátás és az átláthatóság terén** a program mérsékelné a gyógyszer-kereskedelmi árréseket, ösztönözné a generikus és biohasonló készítmények árversenyét, és új gyógyszerár- és támogatás-értékelési rendszert vezetne be. Országos beteg-visszajelzési platformot hozna létre negyedévente közzétett eredményekkel, a kórházaknak pedig nyilvánosságra kellene hozniuk teljesítménymutatóikat; 2027-től a betegek online is megtekinthetnék a nevükben elszámolt szolgáltatásokat.",
+    "title_ro": "Colegiul Medicilor cere reforme, iar programul Guvernului Niculescu anunță noi măsuri în sănătate",
+    "lead_ro": "Colegiul Medicilor din România (CMR) îi cere premierului desemnat Luca Niculescu plata corectă a gărzilor, sprijin pentru zonele cu deficit de medici și condiții mai bune în spitale. Programul de guvernare depus în Parlament promite, între altele, finalizarea spitalelor regionale și a centrelor pentru arși, extinderea screeningului, o nouă legislație privind malpraxisul și majorarea treptată a tarifelor pentru gărzi.",
+    "content_ro": "• **Colegiul Medicilor din România (CMR)** i-a solicitat, printr-o scrisoare publică, premierului desemnat Luca Niculescu și reprezentanților clasei politice să includă reforme concrete în programul de guvernare. Organizația susține că siguranța pacienților, demnitatea profesiei și condițiile de muncă trebuie să stea la baza politicilor de sănătate.\n\n• **Plata gărzilor** este una dintre principalele cerințe ale CMR: activitatea efectuată în afara programului normal ar trebui remunerată în raport cu salariul de bază actual, nu cu cel din 2017. Colegiul afirmă că mecanismul contractelor individuale cu timp parțial poate limita plata muncii suplimentare și invocă directiva europeană privind timpul de lucru și legislația muncii; solicită, de asemenea, respectarea limitelor de muncă și a repausului după gardă.\n\n• **Sprijinirea zonelor cu deficit de medici** ar trebui să includă, potrivit CMR, o strategie națională, stimulente predictibile și corelarea locurilor și posturilor de rezidențiat cu nevoile reale. În studiul CMR din 2026, 93,7% dintre rezidenți s-au declarat deschiși să lucreze în zone mai puțin atractive sau defavorizate medical; 33,5% ar accepta contracte pe durată determinată, cu posibilitatea unei relocări ulterioare. Printre stimulentele propuse se numără dotări adecvate, locuințe de serviciu sau sprijin pentru chirie, echipe pregătite și salarii adaptate dificultăților.\n\n• **Condițiile de muncă din spitale**, potrivit studiului, sunt afectate de suprasolicitare, lipsă de resurse și probleme structurale pentru peste două treimi dintre rezidenți. 96,8% dintre respondenți cer calculatoare funcționale și cu software actualizat, 96% grupuri sanitare corespunzătoare, 95,1% acces constant la materiale de igienă, 92,6% dispozitive esențiale de diagnostic, iar 91,9% spații pentru odihnă și masă.\n\n• **Finanțarea și coordonarea îngrijirii** ar trebui să se bazeze, în viziunea CMR, pe o metodologie transparentă de calculare a costurilor reale și pe un calendar de revizuire a finanțării și decontărilor. Colegiul cere consolidarea medicinei de familie, a prevenției, a ambulatoriilor și a asistenței comunitare, reducerea internărilor evitabile și trasee mai bine coordonate pentru pacienți.\n\n• **Lipsa medicamentelor** ar urma să fie semnalată printr-un sistem național integrat și digitalizat, propus de CMR, care să identifice din timp riscurile de aprovizionare, să stabilească instituția responsabilă și să urmărească intervențiile. Profesionistul care raportează problema ar trebui informat despre disponibilitatea estimată a medicamentului sau despre alternative.\n\n• **O nouă Lege a Sănătății și o Lege a Profesiei Medicale** sunt propuse de CMR, cu un calendar public de elaborare, consultarea organizațiilor profesionale și a asociațiilor de pacienți și evaluarea impactului medical, administrativ și bugetar. Colegiul solicită clarificarea regimului gărzilor ca muncă suplimentară, a repausului obligatoriu și a răspunderii medicale.\n\n• **Programul de guvernare** promite continuarea spitalelor regionale din Iași, Cluj-Napoca și Craiova și finalizarea centrelor pentru mari arși din Timișoara, Târgu Mureș și București. Documentul anunță o nouă lege a malpraxisului și măsuri de control al infecțiilor nosocomiale, inclusiv investiții în laboratoare, protocoale de monitorizare și raportare și instruire cu testare la fiecare doi ani pentru personalul din zonele critice.\n\n• **Prevenția și screeningul** ar urma să fie extinse prin screening neonatal pentru 22 de biomarkeri, destinat aproximativ 140.000 de nou-născuți anual, cu acoperire națională în 2027. Programul promite accelerarea screeningului pentru cancerul de sân, colon, col uterin și prostată, extinderea listei vaccinurilor compensate și gratuite în 2027–2028 și un rol mai mare pentru medicina de familie și ambulatoriu.\n\n• **Gărzile și personalul medical** sunt vizate de promisiunea reorganizării sistemului de gărzi și a actualizării treptate a tarifelor la nivelul veniturilor aflate în plată. Programul prevede tarife progresive în funcție de numărul de gărzi, plata gărzilor rezidenților și condiționarea creșterilor de resursele disponibile și de cadrul bugetar.\n\n• **Accesul la medicamente și transparența** ar urma să fie îmbunătățite prin reducerea adaosurilor comerciale pe lanțul medicamentului, stimularea concurenței pentru generice și biosimilare și un nou mecanism de evaluare a prețurilor și rambursării. Programul mai prevede o platformă națională de feedback al pacienților, cu rezultate publicate trimestrial, publicarea indicatorilor de performanță pentru spitale și acces online, din 2027, la serviciile decontate în numele fiecărui pacient."
+  },
+  {
+    "group_id": "group_3155268fd7",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/09/TAROM-aeronava-Boeing-737-8-Ivan-Patzaichin-2-e1791301545186-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "DOCUMENT | Programul de guvernare Luca Niculescu: Investitor strategic la Tarom, parteneriat public-privat sau concesiune pentru Terminalul 2 Otopeni",
+        "link": "https://economedia.ro/document-programul-de-guvernare-luca-niculescu-investitor-strategic-la-tarom-parteneriat-public-privat-sau-concesiune-pentru-terminalul-2-otopeni.html"
+      }
+    ],
+    "published_at": 1792094872,
+    "title_hu": "DOCUMENT | Programul de guvernare Luca Niculescu: Investitor strategic la Tarom, parteneriat public-privat sau concesiune pentru Terminalul 2 Otopeni",
+    "lead_hu": "Premierul desemnat Luca Niculescu anunță prin programul de guvernare că dorește un investitor strategic la TAROM, dar și implicare privată pentru Terminalul 2 de la Aeroportul Otopeni. Program de guve…",
+    "content_hu": "Premierul desemnat Luca Niculescu anunță prin programul de guvernare că dorește un investitor strategic la TAROM, dar și implicare privată pentru Terminalul 2 de la Aeroportul Otopeni. Program de guvernare – Guvern Luca Niculescu Investitor strategic la TAROM Guvernul Niculescu va susține în fața Comisiei Europene planul de afaceri revizuit pe doi ani, care trebuie […]",
+    "title_ro": "DOCUMENT | Programul de guvernare Luca Niculescu: Investitor strategic la Tarom, parteneriat public-privat sau concesiune pentru Terminalul 2 Otopeni",
+    "lead_ro": "Premierul desemnat Luca Niculescu anunță prin programul de guvernare că dorește un investitor strategic la TAROM, dar și implicare privată pentru Terminalul 2 de la Aeroportul Otopeni. Program de guve…",
+    "content_ro": "Premierul desemnat Luca Niculescu anunță prin programul de guvernare că dorește un investitor strategic la TAROM, dar și implicare privată pentru Terminalul 2 de la Aeroportul Otopeni. Program de guvernare – Guvern Luca Niculescu Investitor strategic la TAROM Guvernul Niculescu va susține în fața Comisiei Europene planul de afaceri revizuit pe doi ani, care trebuie […]"
+  },
+  {
+    "group_id": "group_aa5c65ffa4",
+    "fingerprint": "18fbcef9af61e697492023fb0b970f44",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/02/06/155634/fotojet-2026-02-06t175621258.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C576%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Instanța Supremă, către politicieni: obligațiile stabilite prin hotărâri judecătorești trebuie achitate imediat. 4,8 miliarde de lei, drepturi restante",
+        "link": "https://stirileprotv.ro/stiri/actualitate/instanta-suprema-catre-politicieni-obligatiile-stabilite-prin-hotarari-judecatoresti-trebuie-achitate-imediat-4-8-miliarde-de-lei-drepturi-restante.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Datoria de 5 miliarde de lei către magistrați, între presiunea bugetară și revolta socială. „Este o povară intergenerațională crasă”",
+        "link": "https://adevarul.ro/economie/datoria-de-5-miliarde-de-lei-catre-magistrati-2564301.html"
+      }
+    ],
+    "published_at": 1792094845,
+    "title_hu": "Véglegessé vált: az államnak 4,8 milliárd lejt kell fizetnie a bírák elmaradt járandóságaira",
+    "lead_hu": "A román legfelsőbb bíróság elutasította a kormány fellebbezését, így véglegessé vált a bírák bíróságon elismert elmaradt béreinek kifizetésére vonatkozó kötelezettség. A mintegy 4,8 milliárd lejes tartozás jelentős költségvetési és társadalmi vitát váltott ki; a késedelem tovább növelheti az összeget.",
+    "content_hu": "• **A román legfelsőbb bíróság végleges döntése** nyomán a kormánynak és a pénzügyminisztériumnak biztosítania kell a bírák elmaradt járandóságainak kifizetéséhez szükséges forrásokat. A tartozást mintegy 4,8 milliárd lejre becsülik; a bíróság fenntartotta a bukaresti ítélőtábla korábbi határozatát.\n\n• **A végrehajtás határideje és a késedelem költsége** különösen nagy nyomást jelenthet a költségvetésnek: az ítélet tíznapos teljesítési határidőt és késedelmi szankciókat ír elő. A legfelsőbb bíróság szerint a kamatokkal és büntetésekkel növelt tartozás minden további évben több mint 21 százalékkal emelkedhet, miközben az államadósság átlagos kamata 7,4 százalék.\n\n• **A legfelsőbb bíróság álláspontja szerint** a költségvetési fegyelem és a forráshiány nem mentesíti az államot a jogerős bírósági döntések végrehajtása alól. Az intézmény azt is hangsúlyozta, hogy a vita nem pusztán a bírák „kiváltságairól” szól: közlése szerint több mint 400 ezer, különböző foglalkozási csoporthoz tartozó ember kért bírósági úton elismert bérjogokat.\n\n• **Adrian Negrescu gazdasági elemző** szerint a közel 5 milliárd lej előteremtése nehéz helyzetben találja a kormányt, amelynek más fizetési kötelezettségekre és a költségvetési hiány kezelésére is forrást kell találnia. Felvetette a kifizetés ütemezéséről szóló tárgyalás lehetőségét, ugyanakkor az ütemezés önmagában nem szüntetné meg a tartozást vagy a késedelem költségeit.\n\n• **Robert Sânta társadalomkutató** arra figyelmeztetett, hogy a jelentős kifizetés igazságossági és generációk közötti feszültségeket erősíthet, különösen a gyermekszegénység és más állami tartozások mellett. A társadalmi viták azonban nem változtatnak azon, hogy a jogerős ítéleteket végre kell hajtani; a kormánynak olyan megoldást kell találnia, amely a döntésnek is megfelel, és a költségvetési terheket is kezeli.",
+    "title_ro": "Decizie definitivă: statul trebuie să plătească 4,8 miliarde de lei pentru restanțele salariale ale magistraților",
+    "lead_ro": "Înalta Curte de Casație și Justiție a respins recursul Guvernului, devenind definitivă obligația de a plăti drepturile salariale restante ale magistraților, recunoscute în instanță. Datoria, estimată la aproximativ 4,8 miliarde de lei, pune presiune asupra bugetului și alimentează dezbaterea socială, iar amânarea poate majora suma.",
+    "content_ro": "• **Decizia definitivă a Înaltei Curți de Casație și Justiție** obligă Guvernul și Ministerul Finanțelor să asigure fondurile necesare pentru plata drepturilor salariale restante ale magistraților. Datoria este estimată la aproximativ 4,8 miliarde de lei, iar instanța supremă a menținut hotărârea anterioară a Curții de Apel București.\n\n• **Termenul de executare și costul întârzierii** pot pune o presiune suplimentară asupra bugetului: hotărârea prevede un termen de zece zile și penalități pentru întârziere. Potrivit ÎCCJ, dobânzile și penalitățile pot majora datoria cu peste 21% pentru fiecare an de amânare, în timp ce dobânda medie a datoriei publice este de 7,4%.\n\n• **Poziția ÎCCJ** este că disciplina bugetară și lipsa fondurilor nu scutesc statul de executarea hotărârilor judecătorești definitive. Instanța a subliniat și că disputa nu privește doar „privilegiile” magistraților: potrivit comunicatului său, peste 400.000 de persoane din diferite familii ocupaționale au cerut în instanță recunoașterea unor drepturi salariale.\n\n• **Analistul economic Adrian Negrescu** consideră că găsirea a aproape 5 miliarde de lei este dificilă, în condițiile în care Guvernul trebuie să acopere și alte obligații de plată și să gestioneze deficitul bugetar. El a propus negocierea unei plăți eșalonate, dar o astfel de soluție nu ar elimina datoria și nici costurile întârzierii.\n\n• **Cercetătorul Robert Sânta** a avertizat că plata unei sume atât de mari poate amplifica tensiunile privind echitatea și distribuirea resurselor între generații, mai ales în contextul sărăciei în rândul copiilor și al altor datorii ale statului. Dezbaterea socială nu schimbă însă obligația de a executa hotărârile definitive; Guvernul trebuie să găsească o soluție care să respecte decizia și să gestioneze presiunea bugetară."
+  },
+  {
     "group_id": "group_ec2706af11",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-3-alexia-eram-1-1200x675.jpg",
@@ -61,39 +839,6 @@
     "title_ro": "Caz dubios în Statele Unite. Mai multe scrisori cu „substanțe suspecte” au fost trimise birourilor electorale",
     "lead_ro": "Autoritățile federale din Statele Unite investighează mai multe scrisori „potențial periculoase”, care conțin „substanțe suspecte” trimise birourilor electorale ale Congresului și statelor din SUA.",
     "content_ro": "Autoritățile federale din Statele Unite investighează mai multe scrisori „potențial periculoase”, care conțin „substanțe suspecte” trimise birourilor electorale ale Congresului și statelor din SUA."
-  },
-  {
-    "group_id": "group_42a9a23d23",
-    "fingerprint": "2b34063b6d443beec5727cff966505a3",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjI4JTJGMjc1MTM5OV8yNzUx/Mzk5X3Byb2ZpbWVkaWEtMDgyNTg3Nzc4/OC5qcGcmaGFzaD1lNmRiNjNiNjE5ZDAyYmUwN2I3MjAyYmY4YWRhZTRmMw==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Programul de guvernare: Apare Autoritatea Națională pentru Industria de Apărare, cu rol de coordonare, autorizare și control în domeniu",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/programul-de-guvernare-apare-autoritatea-nationala-pentru-industria-de-aparare-cu-rol-de-coordonare-autorizare-si-control-in-domeniu-3994407"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Înființarea Autorității Naționale pentru Industria de Apărare, digitalizarea Armatei și sistemele antidronă, în Guvernul Niculescu",
-        "link": "https://www.mediafax.ro/stirile-zilei/infiintarea-autoritatii-nationale-pentru-industria-de-aparare-digitalizarea-armatei-si-sistemele-antidrona-in-guvernul-niculescu-23826215"
-      },
-      {
-        "source": "Economedia",
-        "title": "DOCUMENT | Programul de guvernare Luca Niculescu: Se creează o nouă instituție. ANIA va reuni industria de apărare",
-        "link": "https://economedia.ro/document-programul-de-guvernare-luca-niculescu-se-creeaza-o-noua-institutie-ania-va-reuni-industria-de-aparare.html"
-      }
-    ],
-    "published_at": 1792093911,
-    "title_hu": "A Niculescu-kormány védelmi tervei: új ipari hatóság, 5 százalékos GDP-arányos kiadás és regionális szerepvállalás",
-    "lead_hu": "Luca Niculescu kijelölt miniszterelnök programja új, a kormányfő alá rendelt hatóságot hozna létre a védelmi ipar koordinálására, és fokozatosan a GDP 5 százalékára emelné a védelmi kiadásokat. A tervek a hadiipar hazai fejlesztése, a hadsereg modernizálása és a beszerzések reformja mellett új vállalatirányítási szabályokat, valamint erősebb regionális és szövetségi együttműködést is előirányoznak.",
-    "content_hu": "• **A védelmi kiadások** fokozatosan a GDP 5 százalékára emelkednének: ebből 3,5 százalék jutna az alapvető védelmi kiadásokra, 1,5 százalék pedig a kapcsolódó beruházásokra és költségekre. Az ütemezés a biztonsági helyzettől, a védelmi szükségletektől és Románia nemzetközi vállalásaitól függne.\n\n• **Az új Nemzeti Védelmi Ipari Hatóság (ANIA)** a miniszterelnök alá tartozna, és a meglévő struktúrákra épülne, átvett személyzettel és költségvetéssel. A köz- és magánvállalatok koordinációja mellett iparpolitikát alakítana ki, engedélyezné és ellenőrizné a katonai, illetve kettős felhasználású termékeket, támogatná a technológiatranszfert és az uniós forrásokhoz való hozzáférést; a kutatás-fejlesztést a haderő beszerzési igényeihez igazítanák.\n\n• **A SAFE-programok hazai hasznosítása** kiemelt cél: a szerződések értékének legalább 60 százalékát romániai gyártásban, karbantartásban, beszállítófejlesztésben vagy technológiatranszferben kellene érvényesíteni, szerződésenkénti ellenőrzés mellett. Az első száz napra előírják a SAFE-projektek portfóliójának közzétételét és az ipari együttműködés auditálására szolgáló egység létrehozását.\n\n• **A védelmi ipar átszervezése** keretében a ROMARM egységes nemzeti integrátorrá válna: leányvállalatait összeolvasztanák, majd öt tevékenységi terület szerinti fiókba szerveznék. Az IAR, az IOR, az Avioane Craiova és a Romaero fokozatos átalakítása mellett a gazdasági minisztérium portfóliójába tartozó állami vállalatok teljesítménymutatókat és egyértelmű szankciókat tartalmazó, az OECD-standardokhoz igazodó vezetői szerződéseket kapnának.\n\n• **A katonai fejlesztések** között szerepel a lég- és rakétavédelem, a haditengerészeti képességek és a szárazföldi erők modernizálása, a lőszerkészletek biztosítása, valamint a drónok és elfogórendszerek hazai gyártásának fejlesztése. A finanszírozás az eszközök beszerzése mellett az üzemeltetést, a karbantartást és a kiképzést is fedezné. Külön figyelmet fordítanának a drónok felderítésére és elhárítására a Duna térségében, a Fekete-tenger partvidékén és a kritikus infrastruktúra védelmében.\n\n• **A katonai infrastruktúra és a hadsereg modernizálása** részeként korszerűsítenék a Mihail Kogălniceanu, Câmpia Turzii és Fetești bázisokat, valamint a cincui kiképzőközpontot; Fetești-ben regionális F–16-os pilótaképző központot fejlesztenének a NATO-tagállamok és partnereik pilótái számára. A tervek a kiber- és hibrid fenyegetésekkel szembeni ellenálló képesség erősítését, a digitalizációt, a parancsnoki és harcoló struktúrák optimalizálását, valamint a katonák toborzását és megtartását is célozzák.\n\n• **A védelmi beszerzések reformja** egyszerűsítené a jogszabályokat és a döntéshozatalt, tisztázná az intézményi felelősségeket, és csökkentené a késedelmeket, illetve a megismételt pályázatok számát. A 100 millió eurónál nagyobb beszerzési szerződésekhez külön jogi támogatást biztosítanának, emellett központi szolgáltatásbeszerzési rendszert és szerződéskövetést alakítanának ki, átláthatósági és ellenőrzési garanciákkal. Sürgős igényeknél a gyors szállítás élvezne elsőbbséget, a többéves programokban viszont alapvető szemponttá válna a romániai gyártás.\n\n• **A román és európai hadiipari együttműködés** a hazai vállalatok gyártási, integrációs, karbantartási és szolgáltatási részvételére épülne. A kormány uniós finanszírozási eszközöket – köztük a Readiness 2030-at és a SAFE-et –, közös beszerzéseket, regionális karbantartási szerepet, valamint védelmi kutatási és innovációs beruházásokat támogatna, többek között a mesterséges intelligencia területén.\n\n• **Románia szövetségi és regionális szerepvállalása** kiterjedne a NATO keleti szárnyának elrettentésére és védelmére, valamint Moldova, Ukrajna és a nyugat-balkáni államok biztonságának támogatására. Bukarest az EU-ban előmozdítaná az Eastern Flank Watch kezdeményezést, frissítené az Egyesült Államokkal kötött, 2020–2030-as védelmi ütemtervet, támogatná az amerikai katonai jelenlét erősítését és az FMF Loan eszköz bevonását. A Fekete-tenger térségében bővítené együttműködését több szövetségessel, folytatná a Románia, Törökország és Bulgária által 2024-ben létrehozott aknamentesítési munkacsoportban való részvételt, és regionális tengeri biztonsági központ létrehozását szorgalmazná.",
-    "title_ro": "Planurile de apărare ale Guvernului Niculescu: o nouă autoritate industrială, cheltuieli de 5% din PIB și un rol regional extins",
-    "lead_ro": "Programul premierului desemnat Luca Niculescu prevede înființarea unei autorități aflate în subordinea prim-ministrului pentru coordonarea industriei de apărare și creșterea treptată a cheltuielilor de apărare la 5% din PIB. Pe lângă dezvoltarea industriei naționale, modernizarea Armatei și reforma achizițiilor, planurile includ reguli noi de guvernanță pentru companiile de stat și o cooperare regională și aliată mai amplă.",
-    "content_ro": "• **Cheltuielile de apărare** ar urma să crească treptat la 5% din PIB: 3,5% ar fi alocat cheltuielilor de bază, iar 1,5% investițiilor și cheltuielilor conexe. Calendarul ar depinde de evoluția mediului de securitate, de necesitățile apărării și de angajamentele internaționale ale României.\n\n• **Noua Autoritate Națională pentru Industria de Apărare (ANIA)** ar funcționa în subordinea prim-ministrului și ar fi construită pe structurile existente, cu personal și buget preluate prin transfer. Pe lângă coordonarea companiilor publice și private, ar elabora politica industrială, ar autoriza și controla produsele militare și cu dublă utilizare și ar sprijini transferul tehnologic și accesul la fonduri europene; cercetarea-dezvoltarea ar fi corelată cu necesitățile de înzestrare.\n\n• **Valorificarea internă a programelor SAFE** este un obiectiv prioritar: cel puțin 60% din valoarea contractelor ar trebui să se reflecte în producție, mentenanță, dezvoltarea furnizorilor sau transfer tehnologic în România, cu verificarea fiecărui contract. În primele 100 de zile sunt prevăzute publicarea portofoliului proiectelor SAFE și înființarea unei unități de audit al cooperării industriale.\n\n• **Reorganizarea industriei de apărare** ar transforma ROMARM într-un integrator național unic, prin fuziunea prin absorbție a filialelor și reorganizarea în cinci sucursale pe domenii de activitate. IAR, IOR, Avioane Craiova și Romaero ar urma să fie restructurate etapizat. Companiile de stat din portofoliul Ministerului Economiei ar primi contracte de mandat cu indicatori de performanță și penalizări clare, în conformitate cu standardele OCDE.\n\n• **Dezvoltarea capabilităților militare** include apărarea antiaeriană și antirachetă, modernizarea capabilităților navale și terestre, asigurarea stocurilor de muniție și dezvoltarea producției interne de drone și sisteme de interceptare. Finanțarea ar acoperi achiziția echipamentelor, precum și operarea, mentenanța și instruirea personalului. Detectarea și combaterea dronelor ar fi prioritare în zona Dunării, pe litoralul Mării Negre și în protejarea infrastructurii critice.\n\n• **Modernizarea infrastructurii și a Armatei** ar viza bazele Mihail Kogălniceanu, Câmpia Turzii și Fetești, precum și Centrul de Instruire Întrunită Cincu. Centrul F-16 de la Fetești ar deveni un centru regional de pregătire pentru piloți din state NATO și partenere. Planurile includ consolidarea rezilienței la amenințări cibernetice și hibride, digitalizarea, optimizarea structurilor de comandă și de luptă și măsuri pentru recrutarea și păstrarea militarilor.\n\n• **Reforma achizițiilor pentru apărare** ar simplifica legislația și procedurile decizionale, ar clarifica responsabilitățile instituționale și ar reduce întârzierile și reluarea licitațiilor. Contractele de înzestrare mai mari de 100 de milioane de euro ar beneficia de asistență juridică specializată. Sunt prevăzute și achiziții centralizate de servicii și monitorizarea contractelor, cu respectarea cerințelor de transparență și control. Pentru capabilitățile urgente ar conta în primul rând termenele de livrare, iar în programele multianuale producția în România ar deveni un criteriu de bază.\n\n• **Cooperarea industrială românească și europeană** ar implica firmele naționale în producție, integrarea echipamentelor, mentenanță și furnizarea de servicii. Guvernul ar susține instrumentele europene de finanțare, inclusiv Readiness 2030 și SAFE, achizițiile comune, rolul României de centru regional de mentenanță și investițiile în cercetarea și inovarea din domeniul apărării, inclusiv în inteligența artificială.\n\n• **Rolul aliat și regional al României** ar include contribuția la descurajarea și apărarea Flancului Estic al NATO și sprijinirea securității Republicii Moldova, Ucrainei și statelor din Balcanii de Vest. Bucureștiul ar promova inițiativa Eastern Flank Watch la nivelul UE, ar actualiza Foaia de parcurs în domeniul apărării cu Statele Unite pentru perioada 2020–2030, ar susține consolidarea prezenței militare americane și cooperarea prin instrumentul FMF Loan. La Marea Neagră, România ar extinde cooperarea cu aliații, ar continua participarea la grupul operativ pentru combaterea minelor marine înființat de România, Turcia și Bulgaria în 2024 și ar susține crearea unui centru regional pentru securitate maritimă."
   },
   {
     "group_id": "group_85a94a91ad",
@@ -2044,27 +2789,6 @@
     "content_ro": "• **Pe 15 octombrie 2026, în jurul orei 17:00**, a avut loc un accident pe Bulevardul Octavian Goga din București, în zona Pasajului Mărășești. Mihai Stoica, președintele Consiliului de Administrație al FCSB, a intrat în coliziune cu un Audi.\n\n• **Circumstanțele accidentului**: Stoica ar fi intenționat să vireze la stânga, într-o intersecție, pentru a intra într-o parcare. Oficialul FCSB conducea un SUV MG, marcă parteneră de mobilitate a clubului.\n\n• **Stoica nu a fost rănit**, însă autoturismul său a fost grav avariat. Potrivit relatărilor, au fost afectate partea dreaptă, partea din față și zona roții; Stoica a descris mașina drept daună totală.\n\n• **În privința responsabilității, Stoica a afirmat** că celălalt șofer a intrat în mașina sa și că el este nevinovat. Responsabilitatea pentru accident nu a fost stabilită independent.\n\n• **Sursele au relatat și despre accidente anterioare:** potrivit Mediafax, la sfârșitul lui 2007, Stoica a fost implicat într-un accident în Austria, în drum spre o stațiune de schi, iar în 2009 a intrat în coliziune cu un alt vehicul pe Bulevardul Mihai Eminescu din București. Stoica a povestit anterior și despre un accident în care, pe un drum cu polei, a intrat cu mașina într-un copac, pe vremea când activa la Oțelul Galați."
   },
   {
-    "group_id": "group_4ef51a7551",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2025/07/dreamstime_xl_65659380-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "DOCUMENT | Programul de guvernare Luca Niculescu: Proiecte de parteneriat public-privat, România va avea portofoliu național / 25 milioane de euro pentru studii de fezabilitate",
-        "link": "https://economedia.ro/document-programul-de-guvernare-luca-niculescu-proiecte-de-parteneriat-public-privat-romania-va-avea-portofoliu-national-25-milioane-de-euro-pentru-studii-de-fezabilitate.html"
-      }
-    ],
-    "published_at": 1792088773,
-    "title_hu": "DOCUMENT | Programul de guvernare Luca Niculescu: Proiecte de parteneriat public-privat, România va avea portofoliu național / 25 milioane de euro pentru studii de fezabilitate",
-    "lead_hu": "Premierul desemnat Luca Niculescu a inclus în programul de guvernare măsuri prin care România va începe să implementeze parteneriate public-private. Program de guvernare – Guvern Luca Niculescu Parten…",
-    "content_hu": "Premierul desemnat Luca Niculescu a inclus în programul de guvernare măsuri prin care România va începe să implementeze parteneriate public-private. Program de guvernare – Guvern Luca Niculescu Parteneriate public-private Facilitatea de pregătire a proiectelor PPP: 25 mil. euro în trei ani pentru studii de fezabilitate, analize cost-beneficiu, evaluări de bancabilitate, structurare financiară și documentații de […]",
-    "title_ro": "DOCUMENT | Programul de guvernare Luca Niculescu: Proiecte de parteneriat public-privat, România va avea portofoliu național / 25 milioane de euro pentru studii de fezabilitate",
-    "lead_ro": "Premierul desemnat Luca Niculescu a inclus în programul de guvernare măsuri prin care România va începe să implementeze parteneriate public-private. Program de guvernare – Guvern Luca Niculescu Parten…",
-    "content_ro": "Premierul desemnat Luca Niculescu a inclus în programul de guvernare măsuri prin care România va începe să implementeze parteneriate public-private. Program de guvernare – Guvern Luca Niculescu Parteneriate public-private Facilitatea de pregătire a proiectelor PPP: 25 mil. euro în trei ani pentru studii de fezabilitate, analize cost-beneficiu, evaluări de bancabilitate, structurare financiară și documentații de […]"
-  },
-  {
     "group_id": "group_515159fbc8",
     "fingerprint": "e5376990680a15b28f170e5db9a81198",
     "category": "Gazdaság",
@@ -3528,34 +4252,6 @@
     "title_ro": "Guvernul Niculescu își propune îmbunătățirea criteriilor obiective de meritocrație și experiență pentru accesul magistraților în funcții de conducere – Programul de guvernare (surse)",
     "lead_ro": "Una dintre măsurile prevăzute în domeniul Justiției, în Programul de guvernare al Cabinetului Luca Niculescu, consultat de G4Media, prevede „sprijinirea, în cadrul cooperării instituționale, a îmbunăt…",
     "content_ro": "Una dintre măsurile prevăzute în domeniul Justiției, în Programul de guvernare al Cabinetului Luca Niculescu, consultat de G4Media, prevede „sprijinirea, în cadrul cooperării instituționale, a îmbunătățirii criteriilor obiective de meritocrație și experiență pentru accesul magistraților la grade profesionale superioare și la funcții de conducere”. Guvernul condus de Luca Niculescu promite și colaborare loială şi eficientă […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_b83d5d4452",
-    "fingerprint": "8291ca6df119ba465a82e5c2499dc497",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/catalina-poiana-1024x768.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Colegiul Medicilor îi cere reforme de urgență premierului desemnat Luca Niculescu",
-        "link": "https://www.mediafax.ro/social/colegiul-medicilor-ii-cere-reforme-de-urgenta-premierului-desemnat-luca-niculescu-23825305"
-      },
-      {
-        "source": "Digi24",
-        "title": "Colegiul Medicilor cere reforme viitorului guvern. Lipsuri elementare în spitale și gărzi plătite la nivelul din 2017",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/colegiul-medicilor-cere-reforme-viitorului-guvern-lipsuri-elementare-in-spitale-si-garzi-platite-la-nivelul-din-2017-3992413"
-      }
-    ],
-    "published_at": 1792084299,
-    "title_hu": "Az Orvosi Kamara átfogó egészségügyi reformokat sürget a kijelölt miniszterelnöktől",
-    "lead_hu": "A Romániai Orvosi Kamara (CMR) azt kéri Luca Niculescu kijelölt miniszterelnöktől, hogy a kormányprogramba kerüljön be többek között az ügyeleti díjak aktualizálása, az orvoshiányos térségek támogatása és a biztonságosabb kórházi munkakörnyezet megteremtése. A szervezet új egészségügyi és orvosi hivatásról szóló törvény előkészítését, valamint a finanszírozás és a betegellátás fejlesztését is szorgalmazza.",
-    "content_hu": "• **A Romániai Orvosi Kamara (CMR)** nyilvános levélben kérte Luca Niculescu kijelölt miniszterelnököt és a politikai pártok képviselőit, hogy a következő kormány programjában szerepeljenek konkrét egészségügyi reformok.\n\n• **Az ügyeleti díjak aktualizálása** a kamara egyik fő követelése: azt szeretnék, hogy a rendes munkaidőn kívüli ügyeleteket a jelenlegi, ne a 2017-es alapbér alapján fizessék. A CMR emellett a munkaidőre vonatkozó korlátok és az ügyelet utáni pihenőidő betartását, valamint az ügyeletet végző orvosok túlterhelésének megelőzését kéri.\n\n• **Az orvoshiányos térségek támogatására** a CMR országos stratégiát és kiszámítható ösztönzőket javasol, például megfelelő felszerelést, szolgálati lakást vagy lakhatási támogatást, felkészült munkatársakat és a nehézségekhez igazodó bérezést. A kamara 2026-os rezidensorvosi felmérésében a válaszadók 93,7 százaléka nyitottnak mondta magát arra, hogy kevésbé vonzó vagy ellátási szempontból hátrányos térségben dolgozzon.\n\n• **A kórházi munkakörülmények javítása** érdekében a szervezet megfelelő alapfelszerelést, működő számítógépeket, higiéniai eszközöket, mosdókat, pihenő- és étkezőhelyiségeket, valamint a személyzet létszámához és a betegellátási igényekhez igazított munkaszervezést sürget. A CMR által idézett felmérés szerint a rezidensek több mint kétharmada túlterheltségről, erőforráshiányról és strukturális munkahelyi problémákról számolt be.\n\n• **A finanszírozás és az ellátás összehangolása** terén a kamara átlátható módszertant kér a szolgáltatások valós költségeinek meghatározására, valamint a finanszírozás és a térítések rendszeres felülvizsgálatára. Emellett a háziorvosi ellátás és a szakrendelők megerősítését, a megelőzés fejlesztését, az elkerülhető kórházi felvételek csökkentését és a gyógyszerhiányok gyors jelzésére alkalmas, országosan összehangolt rendszert szorgalmaz.\n\n• **Új egészségügyi és orvosi hivatásról szóló törvényt** is kezdeményezne a CMR, nyilvános előkészítési ütemtervvel és az orvosi szakmai szervezetek, egyetemek, szolgáltatók, valamint betegszervezetek bevonásával. A javaslatok kidolgozásakor a szervezet orvosi, adminisztratív és költségvetési hatásvizsgálatot kér.",
-    "title_ro": "Colegiul Medicilor cere reforme ample în sănătate de la premierul desemnat",
-    "lead_ro": "Colegiul Medicilor din România (CMR) îi solicită premierului desemnat Luca Niculescu să includă în programul de guvernare actualizarea plății gărzilor, sprijinirea zonelor cu deficit de medici și îmbunătățirea siguranței la locul de muncă în spitale. Organizația cere și pregătirea unor noi legi privind sănătatea și profesia medicală, precum și măsuri pentru finanțarea și coordonarea serviciilor medicale.",
-    "content_ro": "• **Colegiul Medicilor din România (CMR)** a transmis o scrisoare publică premierului desemnat Luca Niculescu și reprezentanților clasei politice, solicitând includerea unor reforme concrete în programul viitorului guvern.\n\n• **Actualizarea plății gărzilor** este una dintre principalele cereri ale organizației: gărzile efectuate în afara programului normal ar trebui remunerate în raport cu salariul de bază actual, nu cu cel din 2017. CMR cere și respectarea limitelor timpului de muncă și a perioadelor legale de repaus după gardă, precum și măsuri pentru prevenirea suprasolicitării medicilor.\n\n• **Sprijinirea zonelor cu deficit de medici** ar urma să se bazeze pe o strategie națională și stimulente previzibile, inclusiv dotări adecvate, locuințe de serviciu sau sprijin pentru chirie, echipe pregătite și salarii adaptate dificultăților postului. Într-un studiu CMR realizat în 2026, 93,7% dintre medicii rezidenți respondenți s-au declarat deschiși să lucreze în zone mai puțin atractive sau defavorizate medical.\n\n• **Îmbunătățirea condițiilor de muncă din spitale** ar presupune echipamente de bază, calculatoare funcționale, materiale de igienă, grupuri sanitare și spații pentru odihnă și masă, precum și o organizare a activității adaptată personalului și nevoilor de îngrijire. Potrivit studiului citat de CMR, peste două treimi dintre rezidenți reclamă suprasolicitare, lipsă de resurse și vulnerabilități structurale la locul de muncă.\n\n• **Finanțarea și coordonarea serviciilor medicale** ar trebui îmbunătățite printr-o metodologie transparentă de calculare a costurilor reale și revizuirea periodică a finanțării și decontărilor. CMR mai propune consolidarea medicinei de familie și a ambulatoriilor, dezvoltarea prevenției, reducerea internărilor evitabile și crearea unui sistem național coordonat pentru semnalarea rapidă a lipsei medicamentelor.\n\n• **O nouă Lege a Sănătății și o Lege a Profesiei Medicale** sunt alte solicitări ale CMR. Organizația cere un calendar public de elaborare și consultarea organizațiilor profesionale, a universităților, furnizorilor de servicii și asociațiilor de pacienți, precum și evaluarea impactului medical, administrativ și bugetar al propunerilor."
   },
   {
     "group_id": "group_791f098e5c",
@@ -8760,27 +9456,6 @@
     "content_ro": "• **Potrivit informațiilor apărute în presă, Nicușor Dan** ar putea prezenta vineri, 16 octombrie, decretul de dizolvare a Parlamentului dacă până joi nu se ajunge la un acord transparent privind susținerea Guvernului desemnat condus de Luca Niculescu.\n\n• **Relatările indică faptul că nu ar urma o nouă desemnare de premier**: dacă nu obține o majoritate parlamentară, Niculescu și-ar putea depune mandatul. Informațiile se bazează pe surse anonime apropiate de Administrația Prezidențială; articolele nu menționează un anunț oficial al președintelui.\n\n• **Csoma Botond, liderul deputaților UDMR**, a numit informația despre dizolvarea Parlamentului „o cacealma” și o speculație. În opinia sa, apariția ei ar putea urmări să crească șansele învestirii Guvernului.\n\n• **Sorin Grindeanu, președintele PSD**, a declarat că nu a văzut un comunicat oficial al Președinției și că alegerile anticipate nu sunt o soluție potrivită. El a adăugat că PSD a început pregătirile interne pentru posibilitatea organizării lor.\n\n• **Dizolvarea Parlamentului este reglementată de Constituție**: între condițiile menționate în relatări se numără neacordarea votului de încredere în termen de 60 de zile de la prima solicitare de învestitură și respingerea a cel puțin două solicitări. Chiar dacă aceste condiții sunt îndeplinite, dizolvarea nu este automată."
   },
   {
-    "group_id": "group_aa5c65ffa4",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/02/06/155634/fotojet-2026-02-06t175621258.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C576%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Instanța Supremă, către politicieni: obligațiile stabilite prin hotărâri judecătorești trebuie achitate imediat. 4,8 miliarde de lei, drepturi restante",
-        "link": "https://stirileprotv.ro/stiri/actualitate/instanta-suprema-catre-politicieni-obligatiile-stabilite-prin-hotarari-judecatoresti-trebuie-achitate-imediat-4-8-miliarde-de-lei-drepturi-restante.html"
-      }
-    ],
-    "published_at": 1792071330,
-    "title_hu": "Instanța Supremă, către politicieni: obligațiile stabilite prin hotărâri judecătorești trebuie achitate imediat. 4,8 miliarde de lei, drepturi restante",
-    "lead_hu": "ICCJ lovește dur Guvernul în cazul restanțelor salariale: „Disciplina bugetară nu poate justifica nerespectarea legii”. Statul, obligat să plătească cele 4,8 miliarde de lei",
-    "content_hu": "ICCJ lovește dur Guvernul în cazul restanțelor salariale: „Disciplina bugetară nu poate justifica nerespectarea legii”. Statul, obligat să plătească cele 4,8 miliarde de lei",
-    "title_ro": "Instanța Supremă, către politicieni: obligațiile stabilite prin hotărâri judecătorești trebuie achitate imediat. 4,8 miliarde de lei, drepturi restante",
-    "lead_ro": "ICCJ lovește dur Guvernul în cazul restanțelor salariale: „Disciplina bugetară nu poate justifica nerespectarea legii”. Statul, obligat să plătească cele 4,8 miliarde de lei",
-    "content_ro": "ICCJ lovește dur Guvernul în cazul restanțelor salariale: „Disciplina bugetară nu poate justifica nerespectarea legii”. Statul, obligat să plătească cele 4,8 miliarde de lei"
-  },
-  {
     "group_id": "group_7c7222cc12",
     "category": "Politika",
     "image": "https://www.g4media.ro//wp-content/uploads/2026/03/original_03-1-e1792071192757.jpg",
@@ -10176,64 +10851,6 @@
     "title_ro": "Nicușor Dan: Parlamentul ar putea vota noul Guvern săptămâna viitoare",
     "lead_ro": "Președintele Nicușor Dan a declarat la Bruxelles că este încrezător că Parlamentul va vota săptămâna viitoare Guvernul condus de Luca Niculescu. El a afirmat că partidele tratează serios formarea Executivului, iar alegerile anticipate sunt, în acest moment, doar o ipoteză teoretică.",
     "content_ro": "• **Nicușor Dan a declarat joi, înaintea reuniunii Consiliului European de la Bruxelles,** că România se îndreaptă către votarea în Parlament a Guvernului condus de Luca Niculescu.\n\n• **Potrivit calendarului formării Guvernului,** Niculescu urma să depună joi la Parlament programul de guvernare și lista miniștrilor propuși; audierile sunt prevăzute pentru luni, iar votul în plen pentru marți.\n\n• **Președintele a spus că** premierul desemnat a semnat deja acorduri cu partidele care vor susține Executivul și că există o probabilitate mare ca Guvernul să fie votat marți. El a descris alegerile anticipate drept o discuție teoretică în etapa actuală.\n\n• **Întâlnirea cu premierul interimar Ilie Bolojan** a avut loc miercuri, la Bruxelles. Nicușor Dan a descris-o ca fiind cordială și relaxată, precizând că subiectele au fost abordate, dar nu negociate și nici tranzacționate."
-  },
-  {
-    "group_id": "group_b06df31304",
-    "fingerprint": "f5d9fde385b7849b03d586ea7b16b1ed",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bolojan - întrevedere cu ambasadorii statelor membre ale UE și cu reprezentantul Comisiei Europene acreditat la București",
-        "link": "https://agerpres.ro/politic/2026/10/14/bolojan---intrevedere-cu-ambasadorii-statelor-membre-ale-ue-si-cu-reprezentantul-comisiei-europene-a--1602844"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ilie Bolojan, discuții cu ambasadorii UE la București. Măsurile bugetare, politicile de securitate și amenințările hibride, pe agenda întâlnirii",
-        "link": "https://www.mediafax.ro/stirile-zilei/ilie-bolojan-discutii-cu-ambasadorii-ue-la-bucuresti-masurile-bugetare-politicile-de-securitate-si-amenintarile-hibride-pe-agenda-intalnirii-23825211"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ilie Bolojan a discutat cu ambasadorii UE despre securitatea la Marea Neagră. Atacurile asupra navelor comerciale, pe agendă",
-        "link": "https://www.digi24.ro/stiri/actualitate/ilie-bolojan-a-discutat-cu-ambasadorii-ue-despre-securitatea-la-marea-neagra-atacurile-asupra-navelor-comerciale-pe-agenda-3991865"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ilie Bolojan participă joi la Summitul popularilor europeni (PPE) de la Bruxelles: bugetul UE și PNRR, pe agendă",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-participa-joi-la-summitul-popularilor-europeni-ppe-de-la-bruxelles-bugetul-ue-si-pnrr-pe-agenda-3992389"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bolojan participă la Summitul PPE de la Bruxelles; viitorul buget al UE și PNRR, teme de discuție",
-        "link": "https://agerpres.ro/politic/2026/10/15/bolojan-participa-la-summitul-ppe-de-la-bruxelles-viitorul-buget-al-ue-si-pnrr-teme-de-discutie--1603105"
-      },
-      {
-        "source": "Digi24",
-        "title": "Bolojan, discuții cu liderii europeni, la summitul PPE, despre energia scumpă și securitatea regională. Ce propune România",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-discutii-cu-liderii-europeni-la-summitul-ppe-despre-energia-scumpa-si-securitatea-regionala-ce-propune-romania-3993785"
-      },
-      {
-        "source": "G4Media",
-        "title": "Bolojan a prezentat la summitul Partidului Popular European de la Bruxelles priorităţile României: continuarea reformelor şi utilizarea eficientă a resurselor publice",
-        "link": "https://www.g4media.ro/bolojan-a-prezentat-la-summitul-partidului-popular-european-de-la-bruxelles-prioritatile-romaniei-continuarea-reformelor-si-utilizarea-eficienta-a-resurselor-publice.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bolojan a prezentat la Summitul PPE de la Bruxelles prioritățile României - continuarea reformelor și utilizarea eficientă a resurselor publice",
-        "link": "https://agerpres.ro/politic/2026/10/15/bolojan-a-prezentat-la-summitul-ppe-de-la-bruxelles-prioritatile-romaniei---continuarea-reformelor-s--1603359"
-      }
-    ],
-    "published_at": 1792068440,
-    "title_hu": "Bolojan az uniós nagykövetekkel és a PPE vezetőivel tárgyalt a költségvetésről, az energiáról és a fekete-tengeri biztonságról",
-    "lead_hu": "Ilie Bolojan ügyvezető miniszterelnök szerdán Bukarestben az EU-tagállamok nagyköveteivel és az Európai Bizottság képviselőjével, csütörtökön pedig Brüsszelben az Európai Néppárt (PPE) vezetőivel egyeztetett. A megbeszéléseken a költségvetési reformok, a következő uniós büdzsé és a helyreállítási terv, az energiabiztonság, valamint a Fekete-tenger romló biztonsági helyzete is napirendre került.",
-    "content_hu": "• **Az uniós nagykövetekkel tartott szerdai találkozón** Bolojan megköszönte a román kormánynak nyújtott folyamatos együttműködést és támogatást, valamint méltatta az EU Tanácsának ír elnökségét. Románia uniós tagságát az elmúlt 35 év egyik legfontosabb eredményének nevezte.\n\n• **A költségvetés és a gazdaság** kapcsán Bolojan ismertette a költségvetési helyzet kiegyensúlyozására és a strukturális hiányosságok kezelésére hozott intézkedéseket. Sürgette a reformok folytatását, a gazdaság megerősítését, az üzleti bizalom növelését és a közpénzek hatékony felhasználását.\n\n• **Az energiabiztonság és az energiaárak** szintén fontos témát jelentettek: rövid távon a fogyasztók és a gazdaság védelmét, hosszabb távon a hazai termelés növelését, az összeköttetések fejlesztését és a beszerzési források diverzifikálását hangsúlyozta.\n\n• **A Fekete-tenger biztonsága** a felek szerint folyamatosan romlik. Bolojan szorosabb román–bolgár–török együttműködést szorgalmazott a hajózás biztonságáért, a kereskedelmi hajók elleni támadások miatt pedig a megfigyelési és védelmi képességek erősítését, valamint az európai együttműködés bővítését sürgette.\n\n• **A hibrid fenyegetések és a dezinformáció** szintén napirendre kerültek az uniós nagykövetekkel folytatott megbeszélésen. Bolojan megköszönte a szövetségesek romániai katonai jelenlétét, amely hozzájárul a NATO keleti szárnyának és a Fekete-tenger térségének biztonságához.\n\n• **A hajók elleni támadások** kapcsán a Mediafax arról számolt be, hogy október 5-én a Royad Mammadov kereskedelmi hajó Románia partjainál elsüllyedt; az ukrán hatóságok dróntámadásnak tulajdonították a tüzet. A legénység két tagja meghalt, 11-et kimentettek. Október 6-án és 13-án további négy kereskedelmi hajót ért dróntámadás Bulgária partjainál, közülük kettő elsüllyedt.\n\n• **A PPE csütörtöki brüsszeli csúcstalálkozóján** Bolojan Manfred Weberrel, Ursula von der Leyennel és más európai vezetőkkel egyeztetett. Románia a kohéziós politika és a közös agrárpolitika megfelelő finanszírozását, valamint a közlekedési infrastruktúrába, az energiahálózatokba és a katonai mobilitásba irányuló beruházásokat támogatja. A kohéziós politikát a versenyképesség növelésével és a reformok támogatásával kapcsolná össze.\n\n• **A csúcstalálkozó előzetes napirendjén** a jövőbeli uniós költségvetés mellett a mezőgazdasági politikák, az ágazat új kihívásaihoz igazodó intézkedések és a román helyreállítási terv (PNRR) aktuális helyzete is szerepelt.\n\n• **Románia energiatermelési szerepe** is szóba került: a kormány közlése szerint az ország 2027-től az EU legnagyobb földgáztermelőjévé válhat. A fekete-tengeri gázkészletek kiaknázása, az atomenergia fejlesztése és az energetikai infrastruktúra korszerűsítése csökkentheti a külső függőséget.\n\n• **A regionális biztonság és az EU bővítése** kapcsán Románia a NATO keleti szárnyának megerősítését, Ukrajna és Moldova további támogatását, valamint Moldova, Ukrajna és a nyugat-balkáni országok európai integrációjának előmozdítását szorgalmazta.",
-    "title_ro": "Bolojan a discutat cu ambasadorii UE și liderii PPE despre buget, energie și securitatea la Marea Neagră",
-    "lead_ro": "Premierul interimar Ilie Bolojan s-a întâlnit miercuri, la București, cu ambasadorii statelor membre UE și cu reprezentantul Comisiei Europene, iar joi, la Bruxelles, cu liderii Partidului Popular European (PPE). Discuțiile au vizat reformele bugetare, viitorul buget al UE și PNRR, securitatea energetică și deteriorarea situației de securitate la Marea Neagră.",
-    "content_ro": "• **Întâlnirea de miercuri cu ambasadorii UE** a fost prilejul pentru Bolojan să le mulțumească pentru colaborarea și sprijinul constant acordat Guvernului României și să felicite Președinția irlandeză a Consiliului UE. El a numit apartenența României la Uniune una dintre cele mai importante realizări din ultimii 35 de ani.\n\n• **Bugetul și economia** au fost discutate în contextul măsurilor adoptate pentru echilibrarea situației bugetare și corectarea deficiențelor structurale. Bolojan a subliniat necesitatea continuării reformelor, consolidării economiei, creșterii încrederii mediului de afaceri și utilizării eficiente a resurselor publice.\n\n• **Securitatea energetică și prețurile la energie** au fost, de asemenea, teme importante. Bolojan a susținut măsuri pe termen scurt pentru protejarea consumatorilor și a economiei, iar pe termen lung creșterea producției interne, dezvoltarea interconectărilor și diversificarea surselor de aprovizionare.\n\n• **Securitatea la Marea Neagră** este, potrivit participanților, în continuă degradare. Bolojan a susținut o cooperare mai strânsă între România, Bulgaria și Turcia pentru siguranța navigației, precum și consolidarea capacităților de supraveghere și apărare și extinderea cooperării europene, în contextul atacurilor asupra navelor comerciale.\n\n• **Amenințările hibride și campaniile de dezinformare** au fost abordate în discuțiile cu ambasadorii UE. Bolojan le-a mulțumit partenerilor aliați pentru prezența militară în România, care contribuie la securitatea flancului estic al NATO și a regiunii Mării Negre.\n\n• **Atacurile asupra navelor comerciale** au inclus scufundarea, pe 5 octombrie, a navei Royad Mammadov, în apropierea coastelor României; autoritățile ucrainene au atribuit incendiul unui atac cu drone. Doi membri ai echipajului au murit, iar 11 au fost salvați. Pe 6 și 13 octombrie, alte patru nave comerciale au fost lovite de drone în largul coastelor Bulgariei, iar două s-au scufundat.\n\n• **La summitul PPE de joi, de la Bruxelles**, Bolojan a discutat cu Manfred Weber, Ursula von der Leyen și alți lideri europeni. România susține finanțarea adecvată a politicii de coeziune și a Politicii Agricole Comune, precum și investiții în infrastructura de transport, rețele energetice și mobilitate militară. Bucureștiul dorește ca politica de coeziune să sprijine competitivitatea și reformele.\n\n• **Agenda anunțată pentru summit** a inclus viitorul buget al UE, politicile agricole și măsuri adaptate noilor provocări ale sectorului, precum și situația la zi a Planului Național de Redresare și Reziliență (PNRR).\n\n• **Rolul energetic al României** a fost evidențiat de Guvern, care estimează că țara ar putea deveni, din 2027, cel mai mare producător de gaze naturale din UE. Exploatarea resurselor din Marea Neagră, dezvoltarea energiei nucleare și modernizarea infrastructurii energetice pot reduce dependențele externe.\n\n• **Securitatea regională și extinderea UE** au fost, de asemenea, pe agenda discuțiilor. România susține întărirea flancului estic al NATO, continuarea sprijinului pentru Ucraina și Republica Moldova, precum și integrarea europeană a Republicii Moldova, Ucrainei și statelor din Balcanii de Vest."
   },
   {
     "group_id": "group_aa58228ee5",
@@ -12221,49 +12838,6 @@
     "title_ro": "Cum pot companiile să construiască echipe reziliente fără să crească nivelul de stres al angajaților",
     "lead_ro": "Organizarea volumului de muncă, stabilirea unor priorități clare și posibilitatea angajaților de a semnala problemele din timp sunt câteva dintre elementele care contribuie la reziliența echipelor. Po…",
     "content_ro": "Organizarea volumului de muncă, stabilirea unor priorități clare și posibilitatea angajaților de a semnala problemele din timp sunt câteva dintre elementele care contribuie la reziliența echipelor. Potrivit lui Constantin Măgdălina, Expert Tendințe și Tehnologii Emergente, performanța sustenabilă depinde nu doar de capacitatea oamenilor de a gestiona presiunea, ci și de modul în care companiile organizează […]"
-  },
-  {
-    "group_id": "group_7cd068d9ba",
-    "fingerprint": "6ec94ea2a745429b9827333cfb198714",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/4b1c42fa-d493-4caf-a98d-05d351872cd2.jfif?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs și Eduard Ionescu, prima medalie pentru România la Campionatele Europene de la Ljubljana",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-eduard-ionescu-prima-medalie-pentru-romania-la-campionatele-europene-de-la-ljubljana-987990.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs, după ce și-a asigurat a 14-a medalie europeană din carieră: „Sunt fericită și emoționată”",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-reactie-dupa-ce-si-a-asigurat-a-14-a-medalie-europeana-din-cariera-988036.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Încă o medalie pentru România la CE de tenis de masă: Samara și Szocs, în semifinale",
-        "link": "https://www.g4media.ro/inca-o-medalie-pentru-romania-la-ce-de-tenis-de-masa-samara-si-szocs-in-semifinale.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs și Elizabeta Samara, medalie asigurată la Campionatele Europene de la Ljubljana",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-elizabeta-samara-medalie-asigurata-la-campionatele-europene-de-la-ljubljana-988338.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Bernadette Szocs și Eduard Ionescu rămân cu medalia de bronz la Campionatele Europene de la Ljubljana",
-        "link": "https://www.gsp.ro/sporturi/altele/bernadette-szocs-si-eduard-ionescu-raman-cu-medalia-de-bronz-la-campionatele-europene-de-la-ljubljana-988389.html"
-      }
-    ],
-    "published_at": 1792064279,
-    "title_hu": "Szocsék újabb érmet biztosítottak Romániának, vegyes párosban bronzérmesek",
-    "lead_hu": "Bernadette Szocs és Elizabeta Samara csütörtökön legyőzte a német Ying Han–Sabine Winter kettőst, így női párosban is biztosította Románia érmét a ljubljanai asztalitenisz-Eb-n. Szocs és Eduard Ionescu vegyes párosban bronzérmet szerzett, miután az elődöntőben kikapott a németektől.",
-    "content_hu": "• **Női párosban is biztos az érem**: Bernadette Szocs és Elizabeta Samara 3–1-re (11–9, 12–10, 7–11, 11–4) legyőzte a német Ying Han–Sabine Winter kettőst a negyeddöntőben, és bejutott az elődöntőbe. Ezzel Románia második érmét biztosította a ljubljanai Eb-n.\n\n• **Szocsék következő ellenfele**: a román kettős a döntőbe jutásért a szlovák Tatiana Kukulkova és a lengyel Natalia Bajor párosával mérkőzik. Szocs és Samara a nyolcaddöntőben 3–0-ra verte a horvát Lea Rakovac–Hana Arapovic kettőst; a 16 közé jutásért a szlovák Dominika Wiltschkova–Ema Labosova párost győzte le 3–1-re.\n\n• **Dragoman és Diaconu kiestek női párosban**: a románok a nyolcaddöntőben 0–3-ra (12–14, 5–11, 7–11) kaptak ki a francia Prithika Pavade–Charlotte Lutz kettőstől. Korábban 3–1-re győzték le a moldovai Alexandra Chiriacova és a spanyol Maria Berzosa párosát.\n\n• **Vegyes párosban bronzérmes Szocs és Ionescu**: a román kettős a negyeddöntőben 3–2-re (9–11, 13–11, 12–10, 6–11, 11–9) verte a francia Thibault Poret–Prithika Pavade párost, ezzel biztosította az érmet. A német Benedikt Duda–Nina Mittelham elleni elődöntőben 0–3-ra (8–11, 4–11, 10–12) kapott ki, így bronzérmesként zárta a versenyt.\n\n• **Szocs és Ionescu elődöntős útja**: a franciák elleni negyeddöntős győzelem előtt 3–1-re verte a cseh Jiri Martinko–Veronika Polakova, majd a dán Anders Lind–Anna Hursey párost. Szocs számára ez a 14. Eb-érem, vegyes párosban pedig a negyedik; Ionescu a második Eb-medálját szerezte meg, a tavalyi csapatban nyert ezüst után.\n\n• **Szocs a vegyes páros sikeréről**: boldognak és meghatottnak mondta magát, és a győzelem kulcsának azt nevezte, hogy jól kiegészítik egymást, nehéz helyzetekben is biztatják a másikat. Azt is kiemelte, hogy a pályán kívüli barátságuk segíti az összhangot.\n\n• **Női egyesben négy román jutott tovább**: Bernadette Szocs 4–1-re verte Sofia-Xuan Zhangot, Andreea Dragoman 4–0-ra Nina Skerbinzet, Adina Diaconu 4–3-ra Christina Kallberget, Elena Zaharia pedig 4–3-ra Tin-Tin Hót, 1–3-as szetthátrányból fordítva. Következő ellenfeleik Alexia Nodin, Sara Tokic, Prithika Pavade, illetve Shuohan Men.\n\n• **Samara és Sîngeorzan kiesett női egyesben**: Elizabeta Samara 3–1-es vezetésről kapott ki 3–4-re Ece Haractól, Ioana Sîngeorzan pedig 0–4-re maradt alul Margarita Pesoțkával szemben.\n\n• **Férfi egyesben két román jutott tovább**: Eduard Ionescu 4–2-re győzte le Adam Szudit, Iulian Chirița pedig 4–1-re Ricardo Walthert. Következő ellenfelük a finn Benedek Olah, illetve a svéd Anton Kallberg. Ovidiu Ionescu és Andrei Istrate 0–4-es vereséggel búcsúzott.\n\n• **Férfi párosban nincs már román versenyben**: Darius Movileanu és Eduard Ionescu 2–3-ra kapott ki a finn Benedek Olah–Alex Naumi kettőstől, Iulian Chirița és Andrei Istrate pedig 0–3-ra veszített a svéd Truls Moregard–Elias Ranefur páros ellen.\n\n• **Tíz román szerepelt az egyes főtábláján**: hat nő és négy férfi. A selejtezőből Adina Diaconu, Elena Zaharia, Ioana Sîngeorzan, Ovidiu Ionescu és Andrei Istrate jutott tovább; Bianca Mei-Roșu és Darius Movileanu nem kvalifikált. Elizabeta Samarának öt arany-, három ezüst- és hat bronzérme van az Európa-bajnokságokról.",
-    "title_ro": "Szocs și Samara au asigurat încă o medalie pentru România, Szocs și Ionescu au luat bronzul la dublu mixt",
-    "lead_ro": "Bernadette Szocs și Elizabeta Samara au învins joi perechea germană Ying Han–Sabine Winter și au asigurat României o medalie și la dublu feminin, la Campionatele Europene de tenis de masă de la Ljubljana. Szocs și Eduard Ionescu au câștigat bronzul la dublu mixt, după ce au pierdut semifinala cu germanii.",
-    "content_ro": "• **România și-a asigurat o medalie și la dublu feminin**: Bernadette Szocs și Elizabeta Samara au învins cu 3-1 (11-9, 12-10, 7-11, 11-4) perechea germană Ying Han–Sabine Winter în sferturi și s-au calificat în semifinale. Este a doua medalie asigurată de România la Europenele de la Ljubljana.\n\n• **Următoarele adversare ale româncelor**: pentru un loc în finală, Szocs și Samara vor juca împotriva slovacei Tatiana Kukulkova și polonezei Natalia Bajor. În optimi, româncele au trecut cu 3-0 de croatele Lea Rakovac–Hana Arapovic, iar în turul anterior au învins cu 3-1 perechea slovacă Dominika Wiltschkova–Ema Labosova.\n\n• **Dragoman și Diaconu au fost eliminate la dublu feminin**: româncele au pierdut în optimi cu 0-3 (12-14, 5-11, 7-11) în fața franțuzoaicelor Prithika Pavade–Charlotte Lutz. Anterior, le învinseseră cu 3-1 pe Alexandra Chiriacova din Republica Moldova și Maria Berzosa din Spania.\n\n• **Szocs și Ionescu au câștigat bronzul la dublu mixt**: în sferturi, perechea română a trecut cu 3-2 (9-11, 13-11, 12-10, 6-11, 11-9) de francezii Thibault Poret–Prithika Pavade, asigurându-și o medalie. În semifinala cu germanii Benedikt Duda–Nina Mittelham, românii au pierdut cu 0-3 (8-11, 4-11, 10-12) și au încheiat competiția cu bronz.\n\n• **Drumul lui Szocs și Ionescu spre semifinală**: înaintea victoriei din sferturi, românii au învins cu 3-1 perechea cehă Jiri Martinko–Veronika Polakova și perechea danezo-galeză Anders Lind–Anna Hursey. Pentru Szocs este a 14-a medalie europeană și a patra la dublu mixt; Ionescu a câștigat a doua sa medalie europeană, după argintul cu echipa de anul trecut.\n\n• **Szocs, despre succesul la dublu mixt**: sportiva s-a declarat fericită și emoționată și a spus că cheia victoriei a fost faptul că cei doi se completează bine și se încurajează în momentele dificile. Ea a adăugat că prietenia lor din afara mesei contribuie la buna coordonare.\n\n• **Patru românce au trecut de primul tur la simplu**: Bernadette Szocs a învins-o cu 4-1 pe Sofia-Xuan Zhang, Andreea Dragoman a trecut cu 4-0 de Nina Skerbinz, Adina Diaconu a învins-o cu 4-3 pe Christina Kallberg, iar Elena Zaharia a câștigat cu 4-3 în fața lui Tin-Tin Ho, revenind de la 1-3 la seturi. Următoarele lor adversare sunt Alexia Nodin, Sara Tokic, Prithika Pavade și Shuohan Men.\n\n• **Samara și Sîngeorzan au fost eliminate la simplu feminin**: Elizabeta Samara a pierdut cu 3-4 în fața lui Ece Harac, după ce a condus cu 3-1 la seturi, iar Ioana Sîngeorzan a fost învinsă cu 0-4 de Margarita Pesoțka.\n\n• **Doi români au avansat la simplu masculin**: Eduard Ionescu l-a învins cu 4-2 pe Adam Szudi, iar Iulian Chirița a trecut cu 4-1 de Ricardo Walther. Următorii lor adversari sunt finlandezul Benedek Olah, respectiv suedezul Anton Kallberg. Ovidiu Ionescu și Andrei Istrate au fost eliminați după înfrângeri cu 0-4.\n\n• **România nu mai are reprezentanți la dublu masculin**: Darius Movileanu și Eduard Ionescu au pierdut cu 2-3 în fața finlandezilor Benedek Olah–Alex Naumi, iar Iulian Chirița și Andrei Istrate au cedat cu 0-3 în fața suedezilor Truls Moregard–Elias Ranefur.\n\n• **Zece români au evoluat pe tablourile principale de simplu**: șase la feminin și patru la masculin. Adina Diaconu, Elena Zaharia, Ioana Sîngeorzan, Ovidiu Ionescu și Andrei Istrate au venit din calificări; Bianca Mei-Roșu și Darius Movileanu nu s-au calificat. Elizabeta Samara are în palmaresul european cinci medalii de aur, trei de argint și șase de bronz."
   },
   {
     "group_id": "group_2c2d956ac4",
@@ -17048,554 +17622,5 @@
     "title_ro": "Mai multe trenuri din Ungaria care străbat România își vor modifica temporar programul",
     "lead_ro": "Joi, CFR anunță că mai multe trenuri din Ungaria care circulă în România își vor modifica programul, pe fondul unor lucrări desfășurate de autoritățile maghiare la infrastructura feroviară. Perioada p…",
     "content_ro": "Joi, CFR anunță că mai multe trenuri din Ungaria care circulă în România își vor modifica programul, pe fondul unor lucrări desfășurate de autoritățile maghiare la infrastructura feroviară. Perioada prevăzută este 7-8 noiembrie."
-  },
-  {
-    "group_id": "group_ca17179e7c",
-    "category": "Sport",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Pedepse cu închisoarea pentru aproape întreaga echipă medicală, solicitate în procesul Maradona",
-        "link": "https://agerpres.ro/sport-extern/2026/10/15/fotbal-pedepse-cu-inchisoarea-pentru-aproape-intreaga-echipa-medicala-solicitate-in-procesul-maradon--1603195"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Fotbal: Pedepse cu închisoarea pentru aproape întreaga echipă medicală, solicitate în procesul Maradona",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Fotbal: Pedepse cu închisoarea pentru aproape întreaga echipă medicală, solicitate în procesul Maradona",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_1a94210a2b",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Politehnica București: A treia ediție a POLISPORT; sâmbătă - în Capitală, pe 24 octombrie - la Pitești",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/10/15/politehnica-bucuresti-a-treia-editie-a-polisport-sambata---in-capitala-pe-24-octombrie---la-pitesti--1603191"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Politehnica București: A treia ediție a POLISPORT; sâmbătă - în Capitală, pe 24 octombrie - la Pitești",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Politehnica București: A treia ediție a POLISPORT; sâmbătă - în Capitală, pe 24 octombrie - la Pitești",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_cb83b36f1f",
-    "fingerprint": "b438871f524a101bad67622250af8282",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/52eaf52d-8749-462f-b619-2c98711992b2.jpg?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Jose Mourinho, din nou contra unei foste echipe: „În astfel de momente, afecțiunea se uită”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/as-roma-jose-mourinho-liga-campionilor-real-madrid-987743.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Mourinho (Real Madrid) - Am schimbat situația cu mult curaj, demonstrat din plin de jucători",
-        "link": "https://agerpres.ro/sport-extern/2026/10/15/fotbal-mourinho-real-madrid---am-schimbat-situatia-cu-mult-curaj-demonstrat-din-plin-de-jucatori--1603187"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "A Real Madrid 4–3-ra fordított az AS Roma ellen",
-    "lead_hu": "A Real Madrid háromgólos hajrával 4–3-ra győzte le az AS Romát a Bajnokok Ligája második fordulójában. José Mourinho a mérkőzés előtt a korábbi csapata iránti kötődéséről, a lefújás után pedig a fordítás bátorságáról és taktikai hátteréről beszélt.",
-    "content_hu": "• **4–3-as Real Madrid-győzelem:** A madridi csapat az AS Roma ellen a 82. percben még 1–3-as hátrányban volt, majd a hajrában három gólt szerezve megfordította a mérkőzést.\n\n• **Mourinho a fordításról:** A Real Madrid edzője szervezettnek és érzelmekkel telinek nevezte a visszakapaszkodást, és kiemelte játékosai bátorságát. Szerinte a Roma támadó megközelítése taktikai meglepetést okozott, de az ellenfél nehezen tarthatta fenn a magas intenzitást a teljes mérkőzésen.\n\n• **A találkozó előtt:** Mourinho felidézte a Roma vezetőedzőjeként eltöltött időszakát, de hangsúlyozta, hogy a pályán a győzelemre összpontosít. Azt mondta, a klub és a szurkolók érdekei fontosabbak a személyes érzéseinél.",
-    "title_ro": "Real Madrid a întors scorul și a învins AS Roma cu 4-3",
-    "lead_ro": "Real Madrid a învins-o cu 4-3 pe AS Roma, în etapa a doua a Ligii Campionilor, după ce a marcat de trei ori pe final. Înaintea partidei, José Mourinho a vorbit despre legătura cu fosta sa echipă, iar după meci a lăudat curajul jucătorilor și organizarea revenirii.",
-    "content_ro": "• **Victorie cu 4-3 pentru Real Madrid:** În minutul 82, madrilenii erau conduși cu 1-3 de AS Roma, dar au marcat de trei ori în final și au întors rezultatul.\n\n• **Mourinho despre revenire:** Antrenorul lui Real Madrid a descris revenirea drept organizată și emoționantă și a evidențiat curajul jucătorilor. El a spus că abordarea ofensivă a Romei l-a surprins din punct de vedere tactic, dar că adversarului i-a fost greu să mențină intensitatea timp de 90 de minute.\n\n• **Înaintea meciului:** Mourinho și-a amintit perioada în care a antrenat-o pe Roma, dar a subliniat că pe teren se va concentra pe victorie. El a afirmat că interesele clubului și ale suporterilor sunt mai presus de sentimentele personale."
-  },
-  {
-    "group_id": "group_8373101697",
-    "fingerprint": "8e42ce59e625526ee1a015bcaa22dd71",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/8dcfd245-bfa2-476e-9a54-a9ba4f50a988.jpg?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Kylian Mbappe l-a depășit pe Lionel Messi! Două borne de impact atinse de starul lui Real Madrid",
-        "link": "https://www.gsp.ro/international/liga-campionilor/kylian-mbappe-record-lionel-messi-liga-campionilor-988165.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Kylian Mbappe, cel mai tânăr jucător din istorie ajuns la 100 de meciuri în Liga Campionilor",
-        "link": "https://agerpres.ro/sport-extern/2026/10/15/fotbal-kylian-mbappe-cel-mai-tanar-jucator-din-istorie-ajuns-la-100-de-meciuri-in-liga-campionilor--1603185"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Mbappé lett a Bajnokok Ligája történetének legfiatalabb százszoros szereplője",
-    "lead_hu": "Kylian Mbappé 27 évesen és 298 naposan elérte a 100 mérkőzéses mérföldkövet a Bajnokok Ligájában. Ezzel megdöntötte Lionel Messi korábbi rekordját; a francia játékos az AS Roma elleni mérkőzésen érte el a csúcsot.",
-    "content_hu": "• **Kylian Mbappé 27 évesen és 298 naposan** lett a Bajnokok Ligája történetének legfiatalabb játékosa, aki eljutott 100 szereplésig. A mérföldkövet a Real Madrid AS Roma elleni mérkőzésén érte el.\n\n• **Lionel Messi korábbi rekordját** döntötte meg: az argentin 28 évesen és 84 naposan játszotta a századik BL-meccsét.\n\n• **Mbappé a Monacóban, a Paris Saint-Germainnél és a Real Madridnál** szerepelve gyűjtötte össze a száz mérkőzést. A Bajnokok Ligájában 2016-ban, a Monaco játékosaként mutatkozott be.\n\n• **A száz mérkőzéses határt Mbappéval együtt 64 játékos** érte el a sorozat történetében. A szereplési csúcsot Cristiano Ronaldo tartja 187 mérkőzéssel, Iker Casillas 181, Thomas Müller pedig 165 találkozóval követi.",
-    "title_ro": "Mbappé a devenit cel mai tânăr jucător cu 100 de apariții în Liga Campionilor",
-    "lead_ro": "Kylian Mbappé a atins borna de 100 de meciuri în Liga Campionilor la 27 de ani și 298 de zile. Astfel, a doborât recordul anterior al lui Lionel Messi, reușind performanța în partida lui Real Madrid cu AS Roma.",
-    "content_ro": "• **Kylian Mbappé, la 27 de ani și 298 de zile,** a devenit cel mai tânăr jucător din istoria Ligii Campionilor care a ajuns la 100 de apariții. A atins borna în meciul dintre Real Madrid și AS Roma.\n\n• **Mbappé a depășit recordul anterior al lui Lionel Messi:** argentinianul a disputat al 100-lea meci în competiție la 28 de ani și 84 de zile.\n\n• **Mbappé a adunat cele 100 de meciuri** jucând pentru Monaco, Paris Saint-Germain și Real Madrid. El a debutat în Liga Campionilor în 2016, pe când evolua la Monaco.\n\n• **Împreună cu Mbappé, 64 de jucători** au atins pragul de 100 de meciuri în competiție. Cristiano Ronaldo deține recordul de apariții, cu 187, urmat de Iker Casillas, cu 181, și Thomas Müller, cu 165."
-  },
-  {
-    "group_id": "group_b60fcc5687",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bihor: Festivalul 'D'ale porcului' se extinde la trei zile, cu propunerea a două recorduri mondiale",
-        "link": "https://agerpres.ro/social/2026/10/15/bihor-festivalul-d-ale-porcului-se-extinde-la-trei-zile-cu-propunerea-a-doua-recorduri-mondiale--1603196"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Bihor: Festivalul 'D'ale porcului' se extinde la trei zile, cu propunerea a două recorduri mondiale",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Bihor: Festivalul 'D'ale porcului' se extinde la trei zile, cu propunerea a două recorduri mondiale",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_2498870c84",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "15 octombrie - Ziua națională a comerțului electronic",
-        "link": "https://agerpres.ro/documentare/2026/10/15/15-octombrie---ziua-nationala-a-comertului-electronic--1603080"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "15 octombrie - Ziua națională a comerțului electronic",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "15 octombrie - Ziua națională a comerțului electronic",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_7080c3c697",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sondaj lansat de PMB: 'Lăsăm frunzele în parcuri sau le strângem?'",
-        "link": "https://agerpres.ro/administratie/2026/10/15/sondaj-lansat-de-pmb-lasam-frunzele-in-parcuri-sau-le-strangem--1603173"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Sondaj lansat de PMB: 'Lăsăm frunzele în parcuri sau le strângem?'",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Sondaj lansat de PMB: 'Lăsăm frunzele în parcuri sau le strângem?'",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_487afcb6df",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Un tablou de Kandinski furat de naziști, vândut la licitație în Londra cu 27 de milioane de lire sterline",
-        "link": "https://agerpres.ro/cultura/2026/10/15/un-tablou-de-kandinski-furat-de-nazisti-vandut-la-licitatie-in-londra-cu-27-de-milioane-de-lire-ster--1603174"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Un tablou de Kandinski furat de naziști, vândut la licitație în Londra cu 27 de milioane de lire sterline",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Un tablou de Kandinski furat de naziști, vândut la licitație în Londra cu 27 de milioane de lire sterline",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_d66802042a",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Barna: PE introduce pe agendă o dezbatere privind atacurile Rusiei asupra navelor comerciale din Marea Neagră",
-        "link": "https://agerpres.ro/romania-in-lume/2026/10/15/barna-pe-introduce-pe-agenda-o-dezbatere-privind-atacurile-rusiei-asupra-navelor-comerciale-din-mare--1603167"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Barna: PE introduce pe agendă o dezbatere privind atacurile Rusiei asupra navelor comerciale din Marea Neagră",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Barna: PE introduce pe agendă o dezbatere privind atacurile Rusiei asupra navelor comerciale din Marea Neagră",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_7beb8ecff0",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "15 octombrie - Ziua Părinților de Îngeri",
-        "link": "https://agerpres.ro/documentare/2026/10/15/15-octombrie---ziua-parintilor-de-ingeri--1603073"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "15 octombrie - Ziua Părinților de Îngeri",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "15 octombrie - Ziua Părinților de Îngeri",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_80564c35e1",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Expoziție dedicată Sfântului Francisc - de săptămâna viitoare, la Muzeul Literaturii Române",
-        "link": "https://agerpres.ro/cultura-media/2026/10/15/expozitie-dedicata-sfantului-francisc---de-saptamana-viitoare-la-muzeul-literaturii-romane--1603168"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Expoziție dedicată Sfântului Francisc - de săptămâna viitoare, la Muzeul Literaturii Române",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Expoziție dedicată Sfântului Francisc - de săptămâna viitoare, la Muzeul Literaturii Române",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_96a4eac2d1",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21328/23260659/1/victor-cosconel-colliers-002.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Piaţa logistică, „lovită” de consumul slab şi de investitorii prudenţi: 450.000 mp închiriaţi în nouă luni, cu 30% mai puţin decât anul trecut. Retailerii care au pariat pe revenirea consumului încearcă acum să subînchirieze spaţiile goale",
-        "link": "https://www.zf.ro/zf-24/piata-logistica-lovita-consumul-slab-investitorii-prudenti-450-000-inchiriati-luni-30-putin-anul-trecut-retailerii-au-pariat-revenirea-consumului-incearca-acum-subinchirieze-spatiile-goale-23260659"
-      }
-    ],
-    "published_at": 1792052179,
-    "title_hu": "Piaţa logistică, „lovită” de consumul slab şi de investitorii prudenţi: 450.000 mp închiriaţi în nouă luni, cu 30% mai puţin decât anul trecut. Retailerii care au pariat pe revenirea consumului încearcă acum să subînchirieze spaţiile goale",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Piaţa logistică, „lovită” de consumul slab şi de investitorii prudenţi: 450.000 mp închiriaţi în nouă luni, cu 30% mai puţin decât anul trecut. Retailerii care au pariat pe revenirea consumului încearcă acum să subînchirieze spaţiile goale",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_c9439231f6",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/02/joburi-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Piața muncii: 65 de candidați pe un job / Aplicările au crescut, dar angajatorii recrutează mai prudent",
-        "link": "https://www.mediafax.ro/social/piata-muncii-65-de-candidati-pe-un-job-aplicarile-au-crescut-dar-angajatorii-recruteaza-mai-prudent-23825758"
-      }
-    ],
-    "published_at": 1792052093,
-    "title_hu": "Piața muncii: 65 de candidați pe un job / Aplicările au crescut, dar angajatorii recrutează mai prudent",
-    "lead_hu": "Piața muncii din România a înregistrat 160.000 de locuri de muncă noi pe eJobs.ro în primele nouă luni din 2026. Numărul aplicărilor a ajuns la 10,4 milioane. Este cel mai ridicat nivel din ultimii ze…",
-    "content_hu": "Piața muncii din România a înregistrat 160.000 de locuri de muncă noi pe eJobs.ro în primele nouă luni din 2026. Numărul aplicărilor a ajuns la 10,4 milioane. Este cel mai ridicat nivel din ultimii zece ani, potrivit datelor platformei de recrutare.",
-    "title_ro": "Piața muncii: 65 de candidați pe un job / Aplicările au crescut, dar angajatorii recrutează mai prudent",
-    "lead_ro": "Piața muncii din România a înregistrat 160.000 de locuri de muncă noi pe eJobs.ro în primele nouă luni din 2026. Numărul aplicărilor a ajuns la 10,4 milioane. Este cel mai ridicat nivel din ultimii ze…",
-    "content_ro": "Piața muncii din România a înregistrat 160.000 de locuri de muncă noi pe eJobs.ro în primele nouă luni din 2026. Numărul aplicărilor a ajuns la 10,4 milioane. Este cel mai ridicat nivel din ultimii zece ani, potrivit datelor platformei de recrutare."
-  },
-  {
-    "group_id": "group_459f687c79",
-    "fingerprint": "0a0cd76687af898e3429df97ffad4cc8",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2022/09/lights-g6277ccb6c_1280-1024x769.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Consumul de energie electrică al populației a scăzut cu 11% în primele opt luni ale anului față de aceeași perioadă a anului trecut.",
-        "link": "https://economedia.ro/consumul-de-energie-electrica-al-populatiei-a-scazut-cu-11-in-primele-opt-luni-ale-anului-fata-de-aceeasi-perioada-a-anului-trecut.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Românii sting lumina. INS anunță o scădere semnificativă a consumului de energie electrică al populației",
-        "link": "https://stirileprotv.ro/stiri/social/romanii-sting-lumina-ins-anunta-o-scadere-semnificativa-a-consumului-de-energie-electrica-al-populatiei.html"
-      }
-    ],
-    "published_at": 1792052084,
-    "title_hu": "11,3%-kal csökkent a lakossági áramfogyasztás Romániában",
-    "lead_hu": "Romániában 2026 első nyolc hónapjában 11,3%-kal mérséklődött a lakosság villamosenergia-fogyasztása az előző év azonos időszakához képest. A teljes végső áramfogyasztás 4%-kal, az elsődleges energiaforrások mennyisége pedig 6,3%-kal csökkent.",
-    "content_hu": "• **2026. január és augusztus között** a romániai végső villamosenergia-fogyasztás 32,023 milliárd kWh volt, 4%-kal kevesebb, mint 2025 azonos időszakában. A háztartások fogyasztása 11,3%-kal, a gazdaságé 1,6%-kal, a közvilágításé pedig 14,2%-kal esett vissza.\n\n• **Az elsődleges energiaforrások mennyisége** 6,3%-kal, 20,938 millió tonna olajegyenértékre csökkent. A belföldi termelés 4,2%-kal, az import 8,4%-kal maradt el az egy évvel korábbitól.\n\n• **A villamosenergia-források** összesen 46,164 milliárd kWh-t tettek ki, 0,5%-kal többet, mint 2025 első nyolc hónapjában. A teljes villamosenergia-termelés 34,342 milliárd kWh-ra nőtt.\n\n• **A termelési adatok** vegyesen alakultak: a vízerőművek kibocsátása 13,5%-kal, a szélerőműveké és a naperőműveké is emelkedett, míg a hőerőműveké 5,1%-kal, az atomerőműveké pedig 21,5%-kal csökkent.\n\n• **A villamosenergia-export** 10,514 milliárd kWh volt, 1,161 milliárd kWh-val több az előző év azonos időszakához képest.",
-    "title_ro": "Consumul de energie electrică al populației din România a scăzut cu 11,3%",
-    "lead_ro": "În primele opt luni din 2026, consumul de energie electrică al populației din România a scăzut cu 11,3% față de perioada similară din anul precedent. Consumul final total de electricitate s-a redus cu 4%, iar resursele de energie primară au coborât cu 6,3%.",
-    "content_ro": "• **În perioada ianuarie–august 2026**, consumul final de energie electrică din România a fost de 32,023 miliarde kWh, cu 4% mai mic decât în aceeași perioadă din 2025. Consumul populației a scăzut cu 11,3%, cel al economiei cu 1,6%, iar iluminatul public cu 14,2%.\n\n• **Resursele de energie primară** au scăzut cu 6,3%, la 20,938 milioane de tone echivalent petrol. Producția internă a fost cu 4,2% mai mică, iar importurile cu 8,4% mai mici decât în primele opt luni ale anului precedent.\n\n• **Resursele de energie electrică** au însumat 46,164 miliarde kWh, în creștere cu 0,5% față de primele opt luni din 2025. Producția totală de electricitate a ajuns la 34,342 miliarde kWh.\n\n• **Producția pe surse** a avut evoluții diferite: cea a hidrocentralelor a crescut cu 13,5%, iar producția eoliană și solară a fost, de asemenea, mai mare. Producția termocentralelor a scăzut cu 5,1%, iar cea a centralelor nucleare cu 21,5%.\n\n• **Exporturile de energie electrică** au ajuns la 10,514 miliarde kWh, cu 1,161 miliarde kWh peste nivelul din aceeași perioadă a anului trecut."
-  },
-  {
-    "group_id": "group_7626806b4f",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/09102026/a5a7f3aa-c10d-4ad4-823b-c5151b84c07a.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Este pregătită Dinamo pentru Europa? » Oficialul „câinilor”: „Trebuie să ne alegem foarte bine abordarea”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/cosmin-mihalescu-dinamo-cupele-europene-988309.html"
-      }
-    ],
-    "published_at": 1792051978,
-    "title_hu": "Este pregătită Dinamo pentru Europa? » Oficialul „câinilor”: „Trebuie să ne alegem foarte bine abordarea”",
-    "lead_hu": "Cosmin Mihalescu, directorul sportiv al celor de la Dinamo, a vorbit despre forma echipei și despre ce își dorește clubul de la o eventuală participare în cupele europene. Dinamo este lider în campion…",
-    "content_hu": "Cosmin Mihalescu, directorul sportiv al celor de la Dinamo, a vorbit despre forma echipei și despre ce își dorește clubul de la o eventuală participare în cupele europene. Dinamo este lider în campionat după 11 etape, la 2 puncte distanță de ocupanta locului secund Rapid. ...",
-    "title_ro": "Este pregătită Dinamo pentru Europa? » Oficialul „câinilor”: „Trebuie să ne alegem foarte bine abordarea”",
-    "lead_ro": "Cosmin Mihalescu, directorul sportiv al celor de la Dinamo, a vorbit despre forma echipei și despre ce își dorește clubul de la o eventuală participare în cupele europene. Dinamo este lider în campion…",
-    "content_ro": "Cosmin Mihalescu, directorul sportiv al celor de la Dinamo, a vorbit despre forma echipei și despre ce își dorește clubul de la o eventuală participare în cupele europene. Dinamo este lider în campionat după 11 etape, la 2 puncte distanță de ocupanta locului secund Rapid. ..."
-  },
-  {
-    "group_id": "group_2f4851826a",
-    "fingerprint": "218b7bd28346095c891dbbf82d1b591e",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDI1M18zMDE0/MjUzX2ZydW56ZS0xLmpwZyZoYXNoPWU2/YThjNThkZDc2MGMwYmQyZjhmZWUzMjIwNzcxYjE5.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "„Le lăsăm sau le strângem?” Primăria Capitalei vrea să afle de la bucureșteni ce face cu frunzele căzute din copaci",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/le-lasam-sau-le-strangem-primaria-capitalei-vrea-sa-afle-de-la-bucuresteni-ce-face-cu-frunzele-cazute-din-copaci-3993183"
-      },
-      {
-        "source": "Adevărul",
-        "title": "De ce nu trebuie strânse toate frunzele din parcuri. Explicațiile Primăriei Capitalei",
-        "link": "https://adevarul.ro/stiri-locale/bucuresti/de-ce-nu-trebuie-stranse-toate-frunzele-din-2564141.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "„Othagyjuk vagy összegereblyézzük?” – A lakosság véleményét kérik a lehullott falevelek ügyében",
-        "link": "https://maszol.ro/belfold/Othagyjuk-vagy-osszegereblyezzuk-A-lakossag-velemenyet-kerik-a-lehullott-falevelek-ugyeben"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Sondaj făcut de Primăria Capitalei: „E una din dezbaterile care revine în fiecare toamnă”",
-        "link": "https://hotnews.ro/sondaj-facut-de-primaria-capitalei-e-una-din-dezbaterile-care-revine-in-fiecare-toamna-2376656"
-      }
-    ],
-    "published_at": 1792051940,
-    "title_hu": "A bukaresti önkormányzat a lehullott levelek kezeléséről kérdezi a lakosokat",
-    "lead_hu": "Bukarest főpolgármesteri hivatala felmérésben kérdezi a lakosokat arról, hogy a parkokban hol érdemes összegyűjteni az őszi leveleket, és hol célszerű az avart a talajon hagyni. Az önkormányzat szerint a levelek hasznosak lehetnek, de elhelyezkedésüktől és állapotuktól függően biztonsági, fenntartási vagy környezetvédelmi kockázatot is jelenthetnek.",
-    "content_hu": "• **Felmérést indított a bukaresti önkormányzat** arról, hogy a parkokban hagyják-e a lehullott leveleket, vagy gyűjtsék össze őket; a lakosokat arra kéri, mondják el véleményüket.\n\n• **A lehullott levelek hasznosak lehetnek:** védik a talajt és a növények gyökereit a hőmérséklet-ingadozástól, segítenek megőrizni a nedvességet, és korlátozzák egyes gyomok terjedését. Menedéket nyújtanak hasznos rovaroknak, földigilisztáknak és más élőlényeknek, lebomlásuk pedig tápanyagokkal gazdagítja a talajt és hozzájárul a humuszképződéshez.\n\n• **Az egészséges avar bizonyos helyeken a talajon maradhat:** például a fák és cserjék alatt segíthet védeni a talajt és fenntartani a biológiai sokféleséget. A levél nem tekintendő automatikusan hulladéknak; a kezeléséről a helye, állapota és a meghagyásának várható hatásai alapján érdemes dönteni.\n\n• **A levelek eltávolítása a balesetveszélyes és érzékeny területeken indokolt:** a nedves avar csúszóssá teheti a sétányokat és a játszóterek környékét, a vastag réteg pedig elzárhatja a fényt a gyep elől, és károsíthatja a füvet.\n\n• **A felhalmozódott levelek a vízelvezetést és a vízminőséget is veszélyeztethetik:** eltömíthetik az árkokat, a tavakba kerülő nagy mennyiségű avar lebomlása pedig elősegítheti az algák túlzott elszaporodását és ronthatja a víz minőségét. A forgalmas utak közelében por és közlekedési szennyezőanyagok gyűlhetnek össze rajtuk, a beteg növények alól származó levelek pedig kórokozókat őrizhetnek meg tavaszig.\n\n• **Az összegyűjtött leveleket engedélyezett komposztálóállomásra szállítják:** a fővárosi önkormányzat szerint így hasznosítják őket, nem pedig hulladéklerakóba viszik. Az ADP București csapatai azokon a területeken avatkoznak be, ahol a levelek felhalmozódása problémát okozhat.",
-    "title_ro": "Primăria Capitalei îi întreabă pe locuitori cum să gestioneze frunzele căzute",
-    "lead_ro": "Primăria Capitalei îi consultă pe bucureșteni cu privire la zonele în care frunzele căzute toamna ar trebui strânse și la cele în care pot fi lăsate pe sol. Potrivit municipalității, frunzele pot fi utile, dar, în funcție de locul și starea lor, pot crea și riscuri pentru siguranță, întreținere sau mediu.",
-    "content_ro": "• **Primăria Capitalei a lansat un sondaj** pentru a afla dacă frunzele căzute în parcuri ar trebui lăsate pe loc sau strânse și îi invită pe bucureșteni să își exprime opinia.\n\n• **Frunzele căzute pot fi utile:** protejează solul și rădăcinile plantelor de variațiile de temperatură, contribuie la păstrarea umidității și limitează dezvoltarea unor buruieni. Oferă adăpost insectelor benefice, râmelor și altor organisme, iar prin descompunere eliberează substanțe nutritive și contribuie la formarea humusului.\n\n• **Frunzele sănătoase pot fi păstrate în anumite zone:** de exemplu, sub arbori și arbuști, unde pot proteja solul și susține biodiversitatea. O frunză căzută nu este automat un deșeu; decizia privind gestionarea ei depinde de locul în care se află, de starea acesteia și de efectele păstrării ei.\n\n• **Strângerea frunzelor este necesară în zonele cu risc pentru siguranță sau pentru spațiile verzi:** frunzele umede pot face aleile și zonele din apropierea locurilor de joacă alunecoase, iar un strat gros poate bloca lumina și deteriora gazonul.\n\n• **Frunzele acumulate pot afecta scurgerea apei și calitatea acesteia:** pot bloca rigolele, iar descompunerea unor cantități mari ajunse în lacuri poate favoriza dezvoltarea excesivă a algelor și afecta calitatea apei. În apropierea arterelor intens circulate, frunzele pot acumula praf și poluanți din trafic, iar cele provenite de la plante bolnave pot păstra agenți patogeni până în primăvară.\n\n• **Frunzele colectate sunt transportate la o stație de compostare autorizată:** municipalitatea afirmă că astfel sunt valorificate, în loc să ajungă la groapa de gunoi. Echipele ADP București intervin în zonele în care acumularea frunzelor poate crea probleme."
-  },
-  {
-    "group_id": "group_7cf15c90b5",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/ab48fdda-8cdc-4f09-923c-ed855210c902-1024x660.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "O mașină a intrat într-un gard, după care a luat foc. Șoferul avea 18 ani",
-        "link": "https://www.mediafax.ro/social/o-masina-a-intrat-intr-un-gard-dupa-care-a-luat-foc-soferul-avea-18-ani-23825746"
-      }
-    ],
-    "published_at": 1792051908,
-    "title_hu": "O mașină a intrat într-un gard, după care a luat foc. Șoferul avea 18 ani",
-    "lead_hu": "O mașină s-a izbit de un copac și de un gard, după care a luat foc. Incidentul s-a produs în județul Suceava. La volanul autovehiculului era un începător, în vârstă de 18 ani.",
-    "content_hu": "O mașină s-a izbit de un copac și de un gard, după care a luat foc. Incidentul s-a produs în județul Suceava. La volanul autovehiculului era un începător, în vârstă de 18 ani.",
-    "title_ro": "O mașină a intrat într-un gard, după care a luat foc. Șoferul avea 18 ani",
-    "lead_ro": "O mașină s-a izbit de un copac și de un gard, după care a luat foc. Incidentul s-a produs în județul Suceava. La volanul autovehiculului era un începător, în vârstă de 18 ani.",
-    "content_ro": "O mașină s-a izbit de un copac și de un gard, după care a luat foc. Incidentul s-a produs în județul Suceava. La volanul autovehiculului era un începător, în vârstă de 18 ani."
-  },
-  {
-    "group_id": "group_a7c416644c",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/ffa48c5f-b255-4e99-8770-af7251ab667d.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Antrenorul din Superligă nu s-a mai abținut: „Este inuman. A fost un dezastru”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/este-inuman-un-dezastru-antrenor-superliga-adrian-mihalcea-988307.html"
-      }
-    ],
-    "published_at": 1792051898,
-    "title_hu": "Antrenorul din Superligă nu s-a mai abținut: „Este inuman. A fost un dezastru”",
-    "lead_hu": "Adrian Mihalcea (50 de ani), antrenorul lui UTA Arad, a vorbit despre modul în care lotul echipei sale a fost afectat de pauza competițională de trei săptămâni dedicată meciurilor echipelor naționale.…",
-    "content_hu": "Adrian Mihalcea (50 de ani), antrenorul lui UTA Arad, a vorbit despre modul în care lotul echipei sale a fost afectat de pauza competițională de trei săptămâni dedicată meciurilor echipelor naționale. Acesta a declarat că pauza competițională a fost un adevărat dezastru. ...",
-    "title_ro": "Antrenorul din Superligă nu s-a mai abținut: „Este inuman. A fost un dezastru”",
-    "lead_ro": "Adrian Mihalcea (50 de ani), antrenorul lui UTA Arad, a vorbit despre modul în care lotul echipei sale a fost afectat de pauza competițională de trei săptămâni dedicată meciurilor echipelor naționale.…",
-    "content_ro": "Adrian Mihalcea (50 de ani), antrenorul lui UTA Arad, a vorbit despre modul în care lotul echipei sale a fost afectat de pauza competițională de trei săptămâni dedicată meciurilor echipelor naționale. Acesta a declarat că pauza competițională a fost un adevărat dezastru. ..."
-  },
-  {
-    "group_id": "group_85f7fd34cd",
-    "category": "Erdély",
-    "image": "https://www.presasm.ro/uploads/2026/10/accident-centura-satu-mare.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "FOTO/VIDEO. Șofer beat criță, accident în Satu Mare! A intrat cu mașina într-un indicator rutier, apoi a izbit un stâlp de iluminat pe centură",
-        "link": "https://www.presasm.ro/foto-video-sofer-beat-crita-accident-in-satu-mare-a-intrat-cu-masina-intr-un-indicator-rutier-apoi/53794"
-      }
-    ],
-    "published_at": 1792051860,
-    "title_hu": "FOTO/VIDEO. Șofer beat criță, accident în Satu Mare! A intrat cu mașina într-un indicator rutier, apoi a izbit un stâlp de iluminat pe centură",
-    "lead_hu": "Un accident rutier s-a produs joi dimineața, 15 octombrie 2026, în municipiul Satu Mare, la intersecția Variantei de Ocolire DN19H cu strada Careiului. Un șofer în vârstă de 31 de ani, din Dorolț, a p…",
-    "content_hu": "Un accident rutier s-a produs joi dimineața, 15 octombrie 2026, în municipiul Satu Mare, la intersecția Variantei de Ocolire DN19H cu strada Careiului. Un șofer în vârstă de 31 de ani, din Dorolț, a pierdut controlul volanului și a intrat cu autoturismul într-…",
-    "title_ro": "FOTO/VIDEO. Șofer beat criță, accident în Satu Mare! A intrat cu mașina într-un indicator rutier, apoi a izbit un stâlp de iluminat pe centură",
-    "lead_ro": "Un accident rutier s-a produs joi dimineața, 15 octombrie 2026, în municipiul Satu Mare, la intersecția Variantei de Ocolire DN19H cu strada Careiului. Un șofer în vârstă de 31 de ani, din Dorolț, a p…",
-    "content_ro": "Un accident rutier s-a produs joi dimineața, 15 octombrie 2026, în municipiul Satu Mare, la intersecția Variantei de Ocolire DN19H cu strada Careiului. Un șofer în vârstă de 31 de ani, din Dorolț, a pierdut controlul volanului și a intrat cu autoturismul într-…"
-  },
-  {
-    "group_id": "group_2b21edf098",
-    "category": "Erdély",
-    "image": "https://www.presasm.ro/uploads/2025/06//1751014363_df695d2281d7b5e7140f3abe89ef2269.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Bani „ușor și rapid”, dar ani grei de închisoare. Doi traficanți din Carei, ”pensionați anticipat”",
-        "link": "https://www.presasm.ro/bani-usor-si-rapid-dar-ani-grei-de-inchisoare-doi-traficanti-din-carei-pensionati-anticipat/53592"
-      }
-    ],
-    "published_at": 1792051680,
-    "title_hu": "Bani „ușor și rapid”, dar ani grei de închisoare. Doi traficanți din Carei, ”pensionați anticipat”",
-    "lead_hu": "Doi bărbați din Carei au fost condamnați de Tribunalul Satu Mare la pedepse cu închisoarea pentru trafic de droguri de mare risc, după ce au vândut în repetate rânduri substanțe interzise unui colabor…",
-    "content_hu": "Doi bărbați din Carei au fost condamnați de Tribunalul Satu Mare la pedepse cu închisoarea pentru trafic de droguri de mare risc, după ce au vândut în repetate rânduri substanțe interzise unui colaborator autorizat al anchetatorilor. Unul dintre inculpați, rec…",
-    "title_ro": "Bani „ușor și rapid”, dar ani grei de închisoare. Doi traficanți din Carei, ”pensionați anticipat”",
-    "lead_ro": "Doi bărbați din Carei au fost condamnați de Tribunalul Satu Mare la pedepse cu închisoarea pentru trafic de droguri de mare risc, după ce au vândut în repetate rânduri substanțe interzise unui colabor…",
-    "content_ro": "Doi bărbați din Carei au fost condamnați de Tribunalul Satu Mare la pedepse cu închisoarea pentru trafic de droguri de mare risc, după ce au vândut în repetate rânduri substanțe interzise unui colaborator autorizat al anchetatorilor. Unul dintre inculpați, rec…"
-  },
-  {
-    "group_id": "group_b83eb628d0",
-    "fingerprint": "b26bc46560eceeb48f281e84d9d3f378",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2022/11/curtea-de-conturi.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Curtea de Conturi și Autoritatea de Audit nu mai au conducere / 14 octombrie a fost ultima zi a mandatului de 9 ani al președintelui Curții, al unui consilier de conturi, al președintelui și al unuia dintre vicepreședinții Autorității de Audit",
-        "link": "https://www.g4media.ro/curtea-de-conturi-si-autoritatea-de-audit-nu-mai-au-conducere-14-octombrie-a-fost-ultima-zi-a-mandatului-de-9-ani-al-presedintelui-curtii-al-unui-consilier-de-conturi-al-presedintelui-si-al-unuia.html"
-      },
-      {
-        "source": "Economedia",
-        "title": "Curtea de Conturi și Autoritatea de Audit au rămas fără conducere după expirarea unor mandate. Activitatea ar putea fi blocată",
-        "link": "https://economedia.ro/curtea-de-conturi-si-autoritatea-de-audit-au-ramas-fara-conducere-dupa-expirarea-unor-mandate-activitatea-ar-putea-fi-blocata.html"
-      }
-    ],
-    "published_at": 1792051651,
-    "title_hu": "Lejárt mandátumok után bizonytalanná vált a román Számvevőszék és az Audit Hatóság működése",
-    "lead_hu": "Marius Vasiliu volt államtitkár szerint október 14-én több vezetői és tanácsosi mandátum lejárt a román Számvevőszéknél és az Audit Hatóságnál, de a parlament nem nevezett ki időben utódokat. Az ebből fakadó jogi bizonytalanság akadályozhatja a testületi döntéshozatalt, az Audit Hatóság működését pedig különösen érintheti.",
-    "content_hu": "• **Október 14-én** lejárt több, kilenc évre szóló mandátum a román Számvevőszéknél és az Audit Hatóságnál. Marius Vasiliu volt államtitkár szerint a parlament nem nevezte ki időben a megüresedő tisztségek betöltőit.\n\n• **Az érintettek között** volt Dan Lucian Vlădescu, az Audit Hatóság elnöke, Florin Tunaru alelnök és Aurel Dumitru számvevőszéki tanácsos. Mihai Busuioc, a Számvevőszék korábbi elnöke időközben az Alkotmánybíróság bírája lett; az intézményt Mihaela Călugăreanu vezette átmenetileg.\n\n• **A Számvevőszék működésével kapcsolatban** Vasiliu úgy véli, hogy a részlegek legalább részben folytathatják a munkát, de bizonytalan, hogy összehívható-e a plenáris ülés és elfogadhatók-e a testületi határozatok. Szerinte a helyettesítésre vonatkozó szabály az elnök távollétére, nem pedig a tisztség megüresedésére vonatkozik.\n\n• **Az Audit Hatóságnál** a volt államtitkár szerint a vezetési jogkörök gyakorlása is problémássá válhat: állítása szerint a megmaradt alelnök, Camelia Pricopie nem rendelkezik olyan, az elnök által ráruházott feladatokkal, amelyeket a mandátum lejárta után is elláthatna.\n\n• **A lehetséges következményekről** szóló megállapítások Vasiliu jogértelmezésén alapulnak; a két intézmény működésének tényleges akadályozottságáról a közlések nem számolnak be végleges döntésként. A tisztségek betöltéséhez parlamenti kinevezésekre van szükség.",
-    "title_ro": "Mandate expirate, incertitudine privind funcționarea Curții de Conturi și a Autorității de Audit",
-    "lead_ro": "Fostul secretar de stat Marius Vasiliu afirmă că, pe 14 octombrie, au expirat mai multe mandate de conducere și de consilier la Curtea de Conturi și la Autoritatea de Audit, fără ca Parlamentul să numească la timp înlocuitori. Incertitudinea juridică ar putea afecta adoptarea deciziilor în plen, iar funcționarea Autorității de Audit ar putea fi deosebit de dificilă.",
-    "content_ro": "• **Pe 14 octombrie** au expirat mai multe mandate de nouă ani la Curtea de Conturi și la Autoritatea de Audit. Potrivit fostului secretar de stat Marius Vasiliu, Parlamentul nu a numit la timp persoane care să ocupe funcțiile rămase vacante.\n\n• **Printre cei vizați** s-au numărat Dan Lucian Vlădescu, președintele Autorității de Audit, vicepreședintele Florin Tunaru și consilierul de conturi Aurel Dumitru. Mihai Busuioc, fostul președinte al Curții de Conturi, a devenit între timp judecător al Curții Constituționale, iar instituția a fost condusă interimar de Mihaela Călugăreanu.\n\n• **În privința Curții de Conturi**, Vasiliu consideră că departamentele ar putea continua să funcționeze cel puțin parțial, însă există incertitudini privind convocarea plenului și adoptarea hotărârilor. În opinia sa, prevederea referitoare la înlocuirea președintelui se aplică atunci când acesta lipsește, nu când funcția este vacantă.\n\n• **La Autoritatea de Audit**, fostul secretar de stat avertizează că exercitarea atribuțiilor de conducere ar putea deveni problematică. El susține că vicepreședinta rămasă, Camelia Pricopie, nu ar mai avea atribuțiile delegate de președinte după expirarea mandatului acestuia.\n\n• **Posibilele consecințe** prezentate se bazează pe interpretarea juridică a lui Vasiliu; relatările nu descriu blocarea efectivă a activității celor două instituții drept o decizie definitivă. Numirile în funcțiile vacante trebuie făcute de Parlament."
-  },
-  {
-    "group_id": "group_c0a6591ba5",
-    "category": "Általános",
-    "image": "https://assets.telex.hu/images/20261015/1792051215-temp-vl3fj44e34sc4pmdkcd_cimlap-normal.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Az energiapiac visszásságait rendszeresen bíráló szakértő lehet Románia új energiaügyi minisztere",
-        "link": "https://transtelex.ro/kozelet/2026/10/15/dumitru-chisalita-energiaugy-miniszter-luca-niculescu"
-      }
-    ],
-    "published_at": 1792051541,
-    "title_hu": "Az energiapiac visszásságait rendszeresen bíráló szakértő lehet Románia új energiaügyi minisztere",
-    "lead_hu": "Dumitru Chisăliță neve az utolsó pillanatban vált a legesélyesebbé.",
-    "content_hu": "Dumitru Chisăliță neve az utolsó pillanatban vált a legesélyesebbé.",
-    "title_ro": "Az energiapiac visszásságait rendszeresen bíráló szakértő lehet Románia új energiaügyi minisztere",
-    "lead_ro": "Dumitru Chisăliță neve az utolsó pillanatban vált a legesélyesebbé.",
-    "content_ro": "Dumitru Chisăliță neve az utolsó pillanatban vált a legesélyesebbé."
-  },
-  {
-    "group_id": "group_80d17213bb",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/849509130_1651375663013663_246116595676801379_n-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Primul parc public din zona Pallady din București va avea peste 1,7 hectare",
-        "link": "https://economedia.ro/primul-parc-public-din-zona-pallady-din-bucuresti-va-avea-peste-17-hectare.html"
-      }
-    ],
-    "published_at": 1792051505,
-    "title_hu": "Primul parc public din zona Pallady din București va avea peste 1,7 hectare",
-    "lead_hu": "Parcul Pallady va fi amenajat cu circa 56 de milioane de lei. Un parc public de peste 1,7 hectare, primul parc de proximitate din zona Drumul Gura Crivățului – Theodor Pallady. Proiectul este intitula…",
-    "content_hu": "Parcul Pallady va fi amenajat cu circa 56 de milioane de lei. Un parc public de peste 1,7 hectare, primul parc de proximitate din zona Drumul Gura Crivățului – Theodor Pallady. Proiectul este intitulat ‘Amenajare parc Pallady – parc public cu acces nelimitat, spaţiu verde public şi funcţiuni mixte aferente – din zona Drumul Gura […]",
-    "title_ro": "Primul parc public din zona Pallady din București va avea peste 1,7 hectare",
-    "lead_ro": "Parcul Pallady va fi amenajat cu circa 56 de milioane de lei. Un parc public de peste 1,7 hectare, primul parc de proximitate din zona Drumul Gura Crivățului – Theodor Pallady. Proiectul este intitula…",
-    "content_ro": "Parcul Pallady va fi amenajat cu circa 56 de milioane de lei. Un parc public de peste 1,7 hectare, primul parc de proximitate din zona Drumul Gura Crivățului – Theodor Pallady. Proiectul este intitulat ‘Amenajare parc Pallady – parc public cu acces nelimitat, spaţiu verde public şi funcţiuni mixte aferente – din zona Drumul Gura […]"
-  },
-  {
-    "group_id": "group_22240f408b",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/10/profimedia-1028956324.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Parc fotovoltaic de peste 500 de milioane de euro, în județul Arad / ”E cea mai mare investiție privată făcută în comuna noastră”",
-        "link": "https://www.g4media.ro/parc-fotovoltaic-de-peste-500-de-milioane-de-euro-in-judetul-arad-e-cea-mai-mare-investitie-privata-facuta-in-comuna-noastra.html"
-      }
-    ],
-    "published_at": 1792051491,
-    "title_hu": "Parc fotovoltaic de peste 500 de milioane de euro, în județul Arad / ”E cea mai mare investiție privată făcută în comuna noastră”",
-    "lead_hu": "Un parc fotovoltaic cu o capacitate de 365 MWp se construiește în localitatea Horia, din județul Arad. Investiția depășește 500 de milioane de euro, va include baterii de stocare și ar urma să fie pus…",
-    "content_hu": "Un parc fotovoltaic cu o capacitate de 365 MWp se construiește în localitatea Horia, din județul Arad. Investiția depășește 500 de milioane de euro, va include baterii de stocare și ar urma să fie pusă în funcțiune la începutul anului 2028, relatează Agenția de presă Rador, care citează Radio Timișoara. Parcul fotovoltaic este dezvoltat pe […] © G4Media.ro.",
-    "title_ro": "Parc fotovoltaic de peste 500 de milioane de euro, în județul Arad / ”E cea mai mare investiție privată făcută în comuna noastră”",
-    "lead_ro": "Un parc fotovoltaic cu o capacitate de 365 MWp se construiește în localitatea Horia, din județul Arad. Investiția depășește 500 de milioane de euro, va include baterii de stocare și ar urma să fie pus…",
-    "content_ro": "Un parc fotovoltaic cu o capacitate de 365 MWp se construiește în localitatea Horia, din județul Arad. Investiția depășește 500 de milioane de euro, va include baterii de stocare și ar urma să fie pusă în funcțiune la începutul anului 2028, relatează Agenția de presă Rador, care citează Radio Timișoara. Parcul fotovoltaic este dezvoltat pe […] © G4Media.ro."
   }
 ]
