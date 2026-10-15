@@ -1,5 +1,611 @@
 [
   {
+    "group_id": "group_7950e35f47",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: ''Am meritat să pierdem meciul'', a spus antrenorul Borussiei Dortmund, după eșecul cu Bodo/Glimt",
+        "link": "https://agerpres.ro/sport-extern/2026/10/15/fotbal-am-meritat-sa-pierdem-meciul-a-spus-antrenorul-borussiei-dortmund-dupa-esecul-cu-bodo-glimt--1603461"
+      }
+    ],
+    "published_at": 1792078357,
+    "title_hu": "Fotbal: ''Am meritat să pierdem meciul'', a spus antrenorul Borussiei Dortmund, după eșecul cu Bodo/Glimt",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: ''Am meritat să pierdem meciul'', a spus antrenorul Borussiei Dortmund, după eșecul cu Bodo/Glimt",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c9d1f0eae2",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Președintele retrimite în Parlament legea care incriminează căsătoria și conviețuirea forțate",
+        "link": "https://agerpres.ro/politic/2026/10/15/presedintele-retrimite-in-parlament-legea-care-incrimineaza-casatoria-si-convietuirea-fortate--1603456"
+      }
+    ],
+    "published_at": 1792078357,
+    "title_hu": "Președintele retrimite în Parlament legea care incriminează căsătoria și conviețuirea forțate",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Președintele retrimite în Parlament legea care incriminează căsătoria și conviețuirea forțate",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_78517dfe4c",
+    "fingerprint": "9949a05e440e08deef8dc41c5171b474",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Infantino și-a cerut scuze în fața Consiliului FIFA; i s-a transmis că nu e apt să conducă organizația",
+        "link": "https://agerpres.ro/sport-extern/2026/10/15/fotbal-infantino-si-a-cerut-scuze-in-fata-consiliului-fifa-i-s-a-transmis-ca-nu-e-apt-sa-conduca-org--1603460"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Continuă scandalul la FIFA. Ce le-a spus Gianni Infantino președinților de federații. „Nu este apt să fie preşedinte”",
+        "link": "https://stirileprotv.ro/stiri/sport/continua-scandalul-la-fifa-ce-le-a-spus-gianni-infantino-presedintilor-de-federatii-nu-este-apt-sa-fie-presedinte.html"
+      }
+    ],
+    "published_at": 1792078357,
+    "title_hu": "Infantino bocsánatot kért a FIFA-tanácstól, de válaszokat és dokumentumokat követelnek",
+    "lead_hu": "Gianni Infantino bocsánatot kért a FIFA Tanácsa előtt, miután nyilvánosságra került a FIFA Forward Enterprise nevű, később elvetett terve. Debbie Hewitt, az angol szövetség elnöke szerint a lényegi kérdések és a kért dokumentumok továbbra is megválaszolatlanok.",
+    "content_hu": "• **A FIFA Tanácsának zürichi ülésén** Infantino bocsánatot kért a FIFA Forward Enterprise (FFE) terv miatt, amely a szervezet kereskedelmi jogainak egy részét egy magánbefektetési céghez juttatta volna; a javaslatot később elvetették.\n\n• **Debbie Hewitt, az Angol Labdarúgó-szövetség elnöke** azt mondta, hogy a három és fél órás ülésen több fontos kérdésre nem kaptak választ, és nem adták át nekik az FFE-hez kapcsolódó dokumentumokat.\n\n• **Hewitt szerint Infantino nem alkalmas a FIFA vezetésére**, ha nem hozza nyilvánosságra a kért dokumentumokat, és nem válaszol a lényegi kérdésekre. Azt is kifogásolta, hogy az elnök a tervet korábban nem terjesztette a Tanács elé.\n\n• **Hewitt álláspontja nem változott** Infantino bocsánatkérése után sem; elmondása szerint nem kapott olyan új információt, amely módosítaná a véleményét.",
+    "title_ro": "Infantino și-a cerut scuze în fața Consiliului FIFA, dar i se cer răspunsuri și documente",
+    "lead_ro": "Gianni Infantino și-a cerut scuze în fața Consiliului FIFA după ce a ieșit la iveală planul FIFA Forward Enterprise, abandonat ulterior. Debbie Hewitt, președinta Federației Engleze de Fotbal, a spus că întrebările esențiale și documentele solicitate au rămas fără răspuns.",
+    "content_ro": "• **La reuniunea Consiliului FIFA de la Zurich**, Infantino și-a cerut scuze pentru planul FIFA Forward Enterprise (FFE), care ar fi transferat o parte din drepturile comerciale ale organizației către o firmă privată de investiții; propunerea a fost ulterior abandonată.\n\n• **Debbie Hewitt, președinta Federației Engleze de Fotbal**, a declarat că, în timpul ședinței de trei ore și jumătate, mai multe întrebări importante au rămas fără răspuns și că nu au fost furnizate documentele solicitate despre FFE.\n\n• **Potrivit lui Hewitt, Infantino nu este apt să conducă FIFA** dacă nu publică documentele cerute și nu răspunde la întrebările esențiale. Ea a criticat și faptul că președintele nu prezentase anterior planul Consiliului.\n\n• **Poziția lui Hewitt nu s-a schimbat** după scuzele lui Infantino; ea a spus că nu a primit informații noi care să-i modifice opinia."
+  },
+  {
+    "group_id": "group_a4af70bb1f",
+    "fingerprint": "c31987613986c58ab81d69c270dbdbf2",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/08/dreamstime_l_152921791.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Ministrul Finanțelor anunță „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni” / Cerere a investitorilor de cinci ori mai mare decât suma oferită",
+        "link": "https://www.g4media.ro/ministrul-finantelor-anunta-una-dintre-cele-mai-puternice-suprasubscrieri-pentru-o-emisiune-in-lei-din-ultimele-luni-cerere-a-investitorilor-de-cinci-ori-mai-mare-decat-suma-oferit.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Îşi recapătă investitorii încrederea în România? O licitaţie de titluri de stat a atras o cerere de cinci ori mai mare decât suma oferită de stat. Ministrul Finanţelor, Alexandru Nazare: „Este una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni”",
+        "link": "https://www.zf.ro/eveniment/isi-recapata-investitorii-increderea-romania-licitatie-titluri-stat-atras-cerere-cinci-ori-mare-suma-oferita-stat-ministrul-finantelor-alexandru-nazare-una-dintre-cele-puternice-suprasubscrieri-23260888"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alexandru Nazare: Cererea investitorilor pentru titlurile de stat a fost de cinci ori peste suma oferită",
+        "link": "https://agerpres.ro/economic/2026/10/15/alexandru-nazare-cererea-investitorilor-pentru-titlurile-de-stat-a-fost-de-cinci-ori-peste-suma-ofer--1603462"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alexandru Nazare: Cererea investitorilor pentru titlurile de stat a fost de cinci ori peste suma oferită",
+        "link": "https://www.digi24.ro/stiri/economie/finante-economie/alexandru-nazare-cererea-investitorilor-pentru-titlurile-de-stat-a-fost-de-cinci-ori-peste-suma-oferita-3994149"
+      }
+    ],
+    "published_at": 1792078357,
+    "title_hu": "Ötszörös kereslet övezte a román államkötvény-aukciót",
+    "lead_hu": "A hároméves román államkötvények aukcióján a befektetők mintegy 2,5 milliárd lej értékben nyújtottak be ajánlatot, ötször akkora összegben, mint a meghirdetett mennyiség. A pénzügyminisztérium körülbelül egymilliárd lejt fogadott el, 6,81 százalékos átlaghozam mellett. Októberben a tárca 5,8 milliárd lej hitelfelvételt tervez a kereskedelmi bankoktól, 1,4 milliárddal kevesebbet a szeptemberi tervnél.",
+    "content_hu": "• **Az aukción** a hároméves államkötvény-sorozat 500 millió lejes meghirdetett mennyiségére mintegy 2,5 milliárd lej értékű befektetői kereslet érkezett.\n\n• **A pénzügyminisztérium** körülbelül egymilliárd lej értékben fogadott el ajánlatokat, 6,81 százalékos átlaghozam mellett; ez a másodpiaci szint alatt volt.\n\n• **Alexandru Nazare pénzügyminiszter** az elmúlt hónapok egyik legerősebb lejben kibocsátott államkötvény-aukciós túljegyzésének nevezte az eredményt. Hozzátette: az év eleje óta, a februári geopolitikai helyzetromlás előtt nem volt hasonló mértékű kereslet.\n\n• **Az állampapírhozamok** a közlés szerint a releváns piacokon is csökkentek: lejben hozzávetőleg 10–15, euróban és dollárban pedig 5–15 bázisponttal, futamidőtől függően.\n\n• **Nazare** pozitív jelzésnek nevezte a fejleményeket, ugyanakkor hangsúlyozta, hogy a finanszírozási költségeket a befektetők stabilitásról, kiszámíthatóságról és a költségvetési politika hitelességéről alkotott képe is befolyásolja.\n\n• **Az októberi hitelfelvételi terv** szerint a pénzügyminisztérium 5,8 milliárd lej kölcsönt venne fel kereskedelmi bankoktól; ez 1,4 milliárd lejjel kevesebb a szeptemberre tervezett 7,2 milliárdnál. A benchmark állampapír-aukciók után további, az elfogadott névérték 15 százalékáig terjedő ajánlatokat is fogadhatnak.\n\n• **A tervezett források** az államadósság refinanszírozását és előtörlesztését, valamint a költségvetési hiány finanszírozását szolgálják.",
+    "title_ro": "Cererea la licitația de titluri de stat din România a fost de cinci ori peste suma oferită",
+    "lead_ro": "La licitația pentru titlurile de stat românești cu scadența la trei ani, investitorii au depus oferte de aproximativ 2,5 miliarde de lei, de cinci ori peste volumul anunțat. Ministerul Finanțelor a adjudecat circa un miliard de lei, la un randament mediu de 6,81%. Pentru octombrie, ministerul a planificat împrumuturi de 5,8 miliarde de lei de la băncile comerciale, cu 1,4 miliarde mai puțin decât în planul pentru septembrie.",
+    "content_ro": "• **La licitație**, emisiunea de titluri de stat cu scadența la trei ani și un volum anunțat de 500 de milioane de lei a atras cereri de aproximativ 2,5 miliarde de lei.\n\n• **Ministerul Finanțelor** a adjudecat aproximativ un miliard de lei, la un randament mediu de 6,81%, sub nivelul pieței secundare.\n\n• **Alexandru Nazare, ministrul Finanțelor**, a descris rezultatul drept una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni. El a adăugat că o cerere comparabilă nu a mai fost înregistrată de la începutul anului, înainte de deteriorarea contextului geopolitic din februarie.\n\n• **Randamentele titlurilor de stat** au scăzut, potrivit ministrului, pe toate piețele relevante: cu aproximativ 10–15 puncte de bază pentru emisiunile în lei și cu 5–15 puncte de bază pentru finanțările în euro și dolari, în funcție de maturitate.\n\n• **Nazare** a numit evoluțiile un semnal pozitiv, dar a subliniat că percepția investitorilor asupra stabilității, predictibilității și credibilității politicii fiscal-bugetare influențează costurile de finanțare.\n\n• **Planul de împrumuturi pentru octombrie** prevede atragerea a 5,8 miliarde de lei de la băncile comerciale, cu 1,4 miliarde mai puțin decât suma de 7,2 miliarde programată pentru septembrie. După licitațiile de referință pentru instrumente benchmark pot fi organizate sesiuni suplimentare de oferte necompetitive, de până la 15% din valoarea nominală adjudecată.\n\n• **Fondurile planificate** sunt destinate refinanțării și rambursării anticipate a datoriei publice, precum și finanțării deficitului bugetului de stat."
+  },
+  {
+    "group_id": "group_2344777086",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Ministerul Culturii a pus în consultare publică proiectul Strategiei Naționale a Culturii pentru perioada 2027 - 2034",
+        "link": "https://agerpres.ro/cultura-media/2026/10/15/ministerul-culturii-a-pus-in-consultare-publica-proiectul-strategiei-nationale-a-culturii-pentru-per--1603459"
+      }
+    ],
+    "published_at": 1792078357,
+    "title_hu": "Ministerul Culturii a pus în consultare publică proiectul Strategiei Naționale a Culturii pentru perioada 2027 - 2034",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Ministerul Culturii a pus în consultare publică proiectul Strategiei Naționale a Culturii pentru perioada 2027 - 2034",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_302f23a601",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Norvegia raportează un excedent comercial de 11 miliarde de dolari, în urma majorării exporturilor de gaze",
+        "link": "https://agerpres.ro/economic-extern/2026/10/15/norvegia-raporteaza-un-excedent-comercial-de-11-miliarde-de-dolari-in-urma-majorarii-exporturilor-de--1603455"
+      }
+    ],
+    "published_at": 1792078357,
+    "title_hu": "Norvegia raportează un excedent comercial de 11 miliarde de dolari, în urma majorării exporturilor de gaze",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Norvegia raportează un excedent comercial de 11 miliarde de dolari, în urma majorării exporturilor de gaze",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_a66b123930",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Schi alpin: Norvegianul Aleksander Aamodt Kilde a suferit o ruptură a tendonului lui Ahile",
+        "link": "https://agerpres.ro/sport-extern/2026/10/15/schi-alpin-norvegianul-aleksander-aamodt-kilde-a-suferit-o-ruptura-a-tendonului-lui-ahile--1603458"
+      }
+    ],
+    "published_at": 1792078357,
+    "title_hu": "Schi alpin: Norvegianul Aleksander Aamodt Kilde a suferit o ruptură a tendonului lui Ahile",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Schi alpin: Norvegianul Aleksander Aamodt Kilde a suferit o ruptură a tendonului lui Ahile",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_30db8ab5ee",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "„Facem politică în școli? E etic? E periculos?”: „Cancel_arie”, o nouă premieră a Teatrului Regina Maria din Oradea",
+        "link": "https://www.ebihoreanul.ro/stiri/facem-politica-in-scoli-e-etic-e-periculos-cancel_arie-o-noua-premiera-a-teatrului-regina-maria-din-oradea-205845.html"
+      }
+    ],
+    "published_at": 1792078354,
+    "title_hu": "„Facem politică în școli? E etic? E periculos?”: „Cancel_arie”, o nouă premieră a Teatrului Regina Maria din Oradea",
+    "lead_hu": "Ideile împărțite din jurul alegerilor prezidențiale ajung din spațiul public în cancelarie și în sălile de clasă, într-un spectacol care pune față în față profesorii, părinții și elevii. „Cancel_arie”…",
+    "content_hu": "Ideile împărțite din jurul alegerilor prezidențiale ajung din spațiul public în cancelarie și în sălile de clasă, într-un spectacol care pune față în față profesorii, părinții și elevii. „Cancel_arie”, noua premieră a Trupei Iosif Vulcan, scrisă de Mihaela Michailov și regizată de masteranzii Renata Teodora Cule și Ștefan Dogaru, va fi prezentată sâmbătă, 17 octombrie, de la ora 19, la Sala Transilvania.",
+    "title_ro": "„Facem politică în școli? E etic? E periculos?”: „Cancel_arie”, o nouă premieră a Teatrului Regina Maria din Oradea",
+    "lead_ro": "Ideile împărțite din jurul alegerilor prezidențiale ajung din spațiul public în cancelarie și în sălile de clasă, într-un spectacol care pune față în față profesorii, părinții și elevii. „Cancel_arie”…",
+    "content_ro": "Ideile împărțite din jurul alegerilor prezidențiale ajung din spațiul public în cancelarie și în sălile de clasă, într-un spectacol care pune față în față profesorii, părinții și elevii. „Cancel_arie”, noua premieră a Trupei Iosif Vulcan, scrisă de Mihaela Michailov și regizată de masteranzii Renata Teodora Cule și Ștefan Dogaru, va fi prezentată sâmbătă, 17 octombrie, de la ora 19, la Sala Transilvania."
+  },
+  {
+    "group_id": "group_c1f072ad63",
+    "fingerprint": "8ab4badcb50d39d1536bff7eef1925de",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
+        "link": "https://agerpres.ro/justitie/2026/10/15/inalta-curte-s-ar-putea-pronunta-in-procesul-cu-guvernul-privind-restantele-salariale-ale-magistrati--1603107"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Înalta Curte ar putea da verdictul în procesul cu Guvernul privind restanțele magistraților. Miza este de 5 miliarde de lei",
+        "link": "https://stirileprotv.ro/justitie/inalta-curte-ar-putea-da-verdictul-in-procesul-cu-guvernul-privind-restantele-magistratilor-miza-este-de-5-miliarde-de-lei.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Verdict așteptat azi în procesul Înalta Curte-Guvern pentru restanțele salariale de 1 miliard de euro ale magistraților",
+        "link": "https://hotnews.ro/verdict-asteptat-azi-in-procesul-inalta-curte-guvern-pentru-restantele-salariale-de-1-miliard-de-euro-ale-magistratilor-2376503"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Decizie crucială la Înalta Curte: Magistrații își cer restanțele salariale de la Guvern",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/decizie-cruciala-la-inalta-curte-magistratii-isi-2564105.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING | Verdict previzibil: Înalta Curte a respins recursul Guvernului în procesul privind restanțele salariale ale magistraților. Nota de plată: un miliard de euro",
+        "link": "https://www.g4media.ro/breaking-verdict-previzibil-inalta-curte-a-respins-recursul-guvernului-in-procesul-privind-restantele-salariale-ale-magistratilor.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Înalta Curte a câștigat definitiv procesul de un miliard de euro pentru salariile magistraților. Guvernul are 10 zile să dea banii",
+        "link": "https://www.mediafax.ro/stirile-zilei/inalta-curte-a-castigat-definitiv-procesul-de-un-miliard-de-euro-pentru-salariile-magistratilor-guvernul-are-10-zile-sa-dea-banii-23825924"
+      },
+      {
+        "source": "Economedia",
+        "title": "Înalta Curte a respins recursul Guvernului în procesul privind restanțele salariale ale magistraților. Nota de plată: un miliard de euro",
+        "link": "https://economedia.ro/inalta-curte-a-respins-recursul-guvernului-in-procesul-privind-restantele-salariale-ale-magistratilor-nota-de-plata-un-miliard-de-euro.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Pert nyertek a bírák a kormány ellen: tíz napon belül kell utalni az ötmilliárd lejt",
+        "link": "https://maszol.ro/belfold/Pert-nyertek-a-birak-a-kormany-ellen-tiz-napon-belul-kell-utalni-az-otmilliard-lejt"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Guvernul trebuie să găsească în 10 zile un miliard de euro pentru restanțele salariale ale magistraților. De unde poate lua banii",
+        "link": "https://hotnews.ro/guvernul-trebuie-sa-gaseasca-in-10-zile-un-miliard-de-euro-pentru-restantele-salariale-ale-magistratilor-de-unde-poate-lua-banii-2377268"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Soluțiile propuse de ÎCCJ pentru plata restanței de 1 miliard de euro către magistrați. Vor exista penalități pentru fiecare zi de întârziere",
+        "link": "https://stirileprotv.ro/justitie/solutiile-propuse-de-iccj-pentru-plata-restantei-de-1-miliard-de-euro-catre-magistrati-vor-exista-penalitati-pentru-fiecare-zi-de-intarziere.html"
+      }
+    ],
+    "published_at": 1792078258,
+    "title_hu": "Jogerősen elutasította a kormány fellebbezését a legfelsőbb bíróság a bírák bérhátralékáról szóló perben",
+    "lead_hu": "A román legfelsőbb bíróság október 15-én jogerősen elutasította a kormány és a pénzügyminisztérium fellebbezését a mintegy 5 milliárd lejes, körülbelül 1 milliárd eurós bértartozás ügyében. Az államnak tíz napon belül meg kell kezdenie a teljesítéshez szükséges eljárásokat; a kifizetés történhet közvetlenül vagy értékpapírok kibocsátásával is. A költségvetési források előteremtése az ügyvivő kormány számára akadályokba ütközhet, miközben a késedelem napi szankciókat vonhat maga után.",
+    "content_hu": "• **Október 15-én a legfelsőbb bíróság jogerősen elutasította a kormány és a pénzügyminisztérium fellebbezését.** Helybenhagyta a bukaresti ítélőtábla május 5-i döntését, amely arra kötelezte az államot, hogy – szükség esetén költségvetési kiigazítással – biztosítsa a magisztrátusok elmaradt béreinek kifizetését.\n\n• **A bíróság a kormány EU Bíróságához fordulásra irányuló kérelmét is elfogadhatatlannak minősítette.** A döntés végleges és végrehajtható; a legfelsőbb bíróság hétszer halasztotta el a kihirdetését.\n\n• **A mintegy 5–5,2 milliárd lejes tartozás körülbelül 1 milliárd euró.** A legfelsőbb bíróság szóvivője szerint az állam közvetlen kifizetéssel vagy értékpapírok kibocsátásával is rendezheti a követelést; a teljesítés módjáról a végrehajtó hatalom dönt.\n\n• **A határozat jogerőre emelkedésétől számított tíz napon belül meg kell kezdeni a teljesítéshez szükséges eljárásokat.** A legfelsőbb bíróság szóvivője ezt a tartozás rendezésére irányuló, önkéntes megfelelési és forrásallokációs lépések megkezdéseként értelmezte; a bukaresti ítélőtábla ítélete ugyanakkor a kifizetés végrehajtására szabott határidőt.\n\n• **Késedelem esetére napi 1 százalékos szankciót és a bruttó minimálbér 20 százalékának megfelelő napi bírságot írtak elő.** Az 5 milliárd lejes tartozás 1 százaléka elméletben napi 50 millió lej; a tényleges számítás alapját és alkalmazását az ítélet, illetve a végrehajtási eljárás határozza meg. A 4325 lejes minimálbér alapján a napi bírság 865 lej.\n\n• **Az ügyvivő kormány közlése szerint a kabinet nem hajthat végre költségvetési kiigazítást.** A kormányszóvivő szerint a forrásallokációs eljárások a következő kormány beiktatása előtt nem kezdhetők meg; a jogerős ítélet végrehajtásának ezért az új kabinetre is közvetlen pénzügyi következményei lehetnek.\n\n• **A kormányzati tartalékalap lehetséges forrás, de felhasználása jogi és költségvetési feltételekhez kötött.** A HotNews szerint a tartalékalapból kormányhatározattal lehet sürgős vagy előre nem látott kiadást finanszírozni, ám a bértartozások régóta ismertek, a tartalék pedig nem új bevétel, hanem már költségvetésbe állított források átcsoportosítására szolgál.\n\n• **Az uniós Szolidaritási Alap nem használható a bérhátralékok kifizetésére.** A forrás katasztrófákhoz és a szabályokban meghatározott közegészségügyi vészhelyzetekhez kapcsolódó beavatkozásokat finanszíroz, nem pedig bírósági perekből eredő bérköveteléseket. További lehetőség lehet más kiadások átcsoportosítása, intézményi megtakarítás vagy – ha szükséges – hitelfelvétel.\n\n• **A legfelsőbb bíróság szerint a halasztás évente több mint 21 százalékkal növelheti a tartozást, szemben az államadósság 7,4 százalékos átlagos kamatával.** A szóvivő azt is közölte, hogy az ötéves tartozási részlet járulékai már csaknem 68 százalékot tesznek ki az alaptartozáshoz képest; a bíróság szerint a ki nem fizetett bérkülönbözetek 41,5 százaléka adóként és járulékként visszakerül az államhoz.\n\n• **A legfelsőbb bíróság szerint több mint 400 ezer közalkalmazott fordult bírósághoz bérezési igényekkel.** A bíróság közlése szerint közülük 6817 bíró vagy ügyész, ezért a bérperek nem kizárólag az igazságszolgáltatást érintik.\n\n• **A legfelsőbb bíróság szerint nem kiváltságokról, hanem jogerősen elismert jogok végrehajtásáról van szó.** Közleményében azt állította, hogy a kormány jogszabályokban is elismerte a tartozásokat, de nem biztosította a kifizetésükhöz szükséges forrásokat; szerinte a költségvetési mérlegelés nem igazolhatja a jogerős ítéletek végrehajtásának elmaradását.\n\n• **A hátralékok a bírák és ügyészek 2018-tól visszamenőleg alkalmazott 25 százalékos béremeléséből erednek.** A legfelsőbb bíróság és a főügyészség 2023-ban döntött az emelésről, bírósági határozatokhoz igazodva; a kormány a kifizetések egy részét elhalasztotta, a forrásokat pedig egy 1,1 milliárd lejes, a PSD által támogatott szociális segélycsomagra irányította át.\n\n• **A 2026-os költségvetés tervezete közel 5 milliárd lejt irányzott elő a legfelsőbb bíróságnak.** Ez mintegy 50 százalékkal több az előző évinél, és részben a bérhátralékok rendezésére szánták.\n\n• **A kötelezettség tovább szűkítheti a költségvetési mozgásteret.** Románia 2026-os deficitcélja a GDP 6,2 százaléka, a következő évre kitűzött plafon pedig 5,1 százalék; a tényleges hatás a kifizetések ütemezésétől, a már betervezett forrásoktól és a deficit elszámolásától is függ.\n\n• **A kormány azzal érvelt, hogy a bíróság nem szabhatja meg a költségvetési források elosztását.** Ilie Bolojan július 2-án alkotmányos jogi konfliktus megállapítását kezdeményezte, az alkotmánybíróság azonban október 7-én elfogadhatatlannak minősítette a beadványt, és kimondta, hogy nem állt fenn ilyen konfliktus.\n\n• **A fellebbezést július eleje óta háromtagú tanács tárgyalta.** A közigazgatási és adóügyi kollégium bírái Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon és Emilian-Constantin Meiu voltak.",
+    "title_ro": "Înalta Curte a respins definitiv recursul Guvernului în procesul privind restanțele salariale ale magistraților",
+    "lead_ro": "Pe 15 octombrie, Înalta Curte a respins definitiv recursul Guvernului și al Ministerului Finanțelor în dosarul privind restanțe salariale de aproximativ 5 miliarde de lei, echivalentul a circa un miliard de euro. Statul trebuie să înceapă în zece zile demersurile necesare pentru executarea hotărârii; plata se poate face direct sau prin emiterea unor titluri de valoare. Găsirea fondurilor poate fi dificilă pentru Guvernul interimar, iar întârzierea atrage sancțiuni zilnice.",
+    "content_ro": "• **La 15 octombrie, Înalta Curte a respins definitiv recursul Guvernului și al Ministerului Finanțelor.** Instanța a menținut hotărârea Curții de Apel București din 5 mai, care obligă statul să asigure plata restanțelor salariale ale magistraților, inclusiv prin rectificare bugetară, dacă este necesar.\n\n• **Înalta Curte a respins ca inadmisibilă și cererea Guvernului de sesizare a Curții de Justiție a Uniunii Europene.** Decizia este definitivă și executorie; instanța supremă amânase de șapte ori pronunțarea.\n\n• **Datoria, estimată la 5–5,2 miliarde de lei, echivalează cu aproximativ un miliard de euro.** Potrivit purtătorului de cuvânt al Înaltei Curți, statul o poate stinge prin plată efectivă sau prin emiterea unor titluri de valoare; Executivul decide modalitatea de plată.\n\n• **Demersurile necesare executării trebuie începute în termen de zece zile de la rămânerea definitivă a hotărârii.** Purtătorul de cuvânt al Înaltei Curți a descris acest termen ca obligația de a începe procedura de conformare voluntară și alocare a fondurilor; hotărârea Curții de Apel prevede însă termenul de executare a plății.\n\n• **Pentru întârziere sunt prevăzute penalități de 1% pe zi și o amendă zilnică de 20% din salariul minim brut.** Raportat la o datorie de 5 miliarde de lei, 1% ar însemna teoretic 50 de milioane de lei pe zi; baza de calcul și aplicarea efectivă depind de hotărâre și de procedura de executare. La salariul minim de 4.325 de lei, amenda zilnică este de 865 de lei.\n\n• **Guvernul interimar a declarat că nu poate face o rectificare bugetară.** Purtătoarea de cuvânt a Guvernului a spus că procedurile de alocare a fondurilor nu pot începe înaintea instalării noului Executiv; hotărârea va avea, așadar, consecințe financiare imediate și pentru viitorul Guvern.\n\n• **Fondul de rezervă bugetară este o posibilă sursă, dar utilizarea lui este condiționată juridic și bugetar.** Potrivit HotNews, fondul poate finanța prin hotărâre de Guvern cheltuieli urgente sau neprevăzute, însă restanțele sunt cunoscute de mult timp, iar fondul nu reprezintă venituri noi, ci permite redistribuirea unor sume deja prevăzute în buget.\n\n• **Fondul de Solidaritate al Uniunii Europene nu poate fi folosit pentru plata restanțelor salariale.** Acesta finanțează intervenții legate de dezastre și de urgențe de sănătate publică prevăzute de regulile sale, nu obligații salariale rezultate din litigii. Alte opțiuni pot include redistribuirea cheltuielilor, economii în bugetele instituțiilor sau, dacă este necesar, împrumuturi.\n\n• **Potrivit Înaltei Curți, amânarea poate majora datoria cu peste 21% pe an, față de dobânda medie de 7,4% a datoriei publice.** Purtătorul de cuvânt a mai spus că accesoriile aferente ultimei tranșe de datorie, eșalonată pe cinci ani, se apropie de 68% din debitul principal; instanța susține că 41,5% din diferențele salariale neplătite se întorc la stat sub formă de impozite și contribuții.\n\n• **Peste 400.000 de angajați din sectorul public au cerut în instanță recunoașterea unor drepturi salariale.** Potrivit Înaltei Curți, 6.817 dintre aceștia sunt judecători sau procurori, astfel că litigiile salariale nu privesc exclusiv sistemul judiciar.\n\n• **Înalta Curte susține că nu este vorba despre privilegii, ci despre executarea unor drepturi recunoscute definitiv.** În comunicatul său, instanța a afirmat că Guvernul a recunoscut datoriile prin acte normative, dar nu a asigurat fondurile necesare; în opinia sa, considerentele bugetare nu justifică neexecutarea hotărârilor definitive.\n\n• **Restanțele provin din majorarea cu 25% a salariilor judecătorilor și procurorilor, aplicată retroactiv din 2018.** Înalta Curte și Parchetul General au decis majorarea în 2023, în acord cu hotărâri judecătorești; Guvernul a amânat o parte dintre plăți și a redirecționat fonduri către un pachet de ajutoare sociale de 1,1 miliarde de lei, promovat de PSD.\n\n• **Proiectul bugetului pentru 2026 prevedea aproape 5 miliarde de lei pentru Înalta Curte.** Suma era cu aproximativ 50% mai mare decât în anul precedent și urma să fie folosită, în parte, pentru plata restanțelor salariale.\n\n• **Obligația poate restrânge și mai mult spațiul bugetar.** Ținta de deficit a României pentru 2026 este de 6,2% din PIB, iar plafonul stabilit pentru anul următor este de 5,1%; efectul depinde de calendarul plăților, fondurile deja bugetate și modul de înregistrare a cheltuielilor în deficit.\n\n• **Guvernul a susținut că instanța nu poate decide alocarea resurselor bugetare.** Pe 2 iulie, Ilie Bolojan a sesizat Curtea Constituțională cu privire la un presupus conflict juridic de natură constituțională; pe 7 octombrie, CCR a respins sesizarea ca inadmisibilă și a stabilit că un asemenea conflict nu a existat.\n\n• **Recursul a fost judecat de la începutul lunii iulie de un complet format din trei judecători.** Completul Secției de Contencios Administrativ și Fiscal a fost alcătuit din Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon și Emilian-Constantin Meiu."
+  },
+  {
+    "group_id": "group_434d560263",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNTY5N18zMDE1/Njk3X3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjYtMTAtMTVUMTgyOTEzXzY0OC5wbmcm/aGFzaD0wZTZkMDhiN2IwNTY4OGE0ODNiZGNjYmQwODk0MTY2Zg==.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Primarul din Slatina acuză Poliția că i-a cerut să arunce o probă din cimitir: „Dragi organe de cercetare penală, faceți-vă treaba!”",
+        "link": "https://www.digi24.ro/stiri/primarul-din-slatina-acuza-politia-ca-i-a-cerut-sa-arunce-o-proba-din-cimitir-dragi-organe-de-cercetare-penala-faceti-va-treaba-3994137"
+      }
+    ],
+    "published_at": 1792078239,
+    "title_hu": "Primarul din Slatina acuză Poliția că i-a cerut să arunce o probă din cimitir: „Dragi organe de cercetare penală, faceți-vă treaba!”",
+    "lead_hu": "Primarul municipiului Slatina, Mario De Mezzo, a prezentat imagini cu capacul unui sicriu din metal, despre care spune că a fost găsit deasupra oaselor înhumate într-una dintre gropile comune din cimi…",
+    "content_hu": "Primarul municipiului Slatina, Mario De Mezzo, a prezentat imagini cu capacul unui sicriu din metal, despre care spune că a fost găsit deasupra oaselor înhumate într-una dintre gropile comune din cimitirul Strehareț. Capacul are atașată o notă care arată că persoana a decedat în 2022, deci nu ar fi vorba despre oase vechi, așa cum susține administratorul privat al cimitirului, acuzat că a dezgropat morți fără știrea familiilor și a înhumat rămășițele în gropi comune. Edilul cere Poliției și Parchetului să nu arunce probe importante pentru investigație. „Măi, dragi organe de cercetare penală, vă rog doar să vă faceți treaba!”, afirmă primarul.",
+    "title_ro": "Primarul din Slatina acuză Poliția că i-a cerut să arunce o probă din cimitir: „Dragi organe de cercetare penală, faceți-vă treaba!”",
+    "lead_ro": "Primarul municipiului Slatina, Mario De Mezzo, a prezentat imagini cu capacul unui sicriu din metal, despre care spune că a fost găsit deasupra oaselor înhumate într-una dintre gropile comune din cimi…",
+    "content_ro": "Primarul municipiului Slatina, Mario De Mezzo, a prezentat imagini cu capacul unui sicriu din metal, despre care spune că a fost găsit deasupra oaselor înhumate într-una dintre gropile comune din cimitirul Strehareț. Capacul are atașată o notă care arată că persoana a decedat în 2022, deci nu ar fi vorba despre oase vechi, așa cum susține administratorul privat al cimitirului, acuzat că a dezgropat morți fără știrea familiilor și a înhumat rămășițele în gropi comune. Edilul cere Poliției și Parchetului să nu arunce probe importante pentru investigație. „Măi, dragi organe de cercetare penală, vă rog doar să vă faceți treaba!”, afirmă primarul."
+  },
+  {
+    "group_id": "group_789f5c8001",
+    "fingerprint": "142475ee78924ed61332d56f8ac3762f",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-d/df84d29d-0e67-400a-b64e-cdeb2fd70d09/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Trump renunță la transmiterea în direct a execuției lui Nidal Hasan, autorul atacului de la Fort Hood",
+        "link": "https://adevarul.ro/stiri-externe/sua/trump-renunta-la-transmiterea-in-direct-a-2564291.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Trump renunţă la transmiterea în direct a execuţiei fostului psihiatru militar Nidal Hasan, programată pentru 3 decembrie",
+        "link": "https://www.g4media.ro/trump-renunta-la-transmiterea-in-direct-a-executiei-fostului-psihiatru-militar-nidal-hasan-programata-pentru-3-decembrie.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trump s-a răzgândit: Execuția lui Nidal Malik Hasan nu va fi difuzată în direct. Ce l-a făcut pe președinte să dea înapoi",
+        "link": "https://www.digi24.ro/stiri/actualitate/trump-s-a-razgandit-executia-lui-nidal-malik-hasan-nu-va-fi-difuzata-in-direct-ce-l-a-facut-pe-presedinte-sa-dea-inapoi-3994147"
+      }
+    ],
+    "published_at": 1792078105,
+    "title_hu": "Trump visszavonta Nidal Hasan kivégzésének élő közvetítését",
+    "lead_hu": "Donald Trump bejelentette, hogy nem közvetítik élőben Nidal Hasan december 3-ra tervezett kivégzését, amelyet lövéssel hajtanak végre. Trump korábban még támogatta a közvetítést; az élő adás terve az Egyesült Államokban és külföldön is komoly bírálatokat váltott ki.",
+    "content_hu": "• **Donald Trump** csütörtökön közölte, hogy Nidal Hasan kivégzését nem közvetítik élőben. A döntés visszavonja Pete Hegseth védelmi miniszter korábbi tervét, de a kivégzés módja nem változik.\n\n• **December 3-án, helyi idő szerint 13 órakor** tervezik végrehajtani Hasan kivégzését a Fort Hood-i katonai bázison, lövéssel. Az áldozatok közeli hozzátartozói személyesen is jelen lehetnek, ha ezt szeretnék.\n\n• **Trump korábbi álláspontja** eltért a mostanitól: október 9-én még „fenntartások nélkül” támogatta az élő közvetítés tervét. A Pentagon október 5-én jelentette be a kivégzés jóváhagyását, Hegseth pedig október 8-án nyilvános eseményként beszélt róla.\n\n• **A közvetítési terv** az Egyesült Államokban és külföldön is bírálatokat váltott ki; a tiltakozók között republikánusok és vallási vezetők is voltak. JD Vance alelnök elhatárolódott a kezdeményezéstől, egy friss közvélemény-kutatás szerint pedig az amerikaiak többsége ellenzi a kivégzés élő közvetítését. A tervet egyesek Irán és Afganisztán diktatórikus rendszereinek gyakorlatához hasonlították.\n\n• **Trump indoklása** szerint az élő közvetítésnek elrettentő hatása lehetett volna, de elismerte, hogy sokan nem szeretnék látni Hasan halálát.\n\n• **Nidal Hasan** volt katonai pszichiáter 2009-ben a texasi Fort Hood bázison 13 embert ölt meg és 32-t megsebesített. A rendőrökkel folytatott tűzharcban megsérült, és részlegesen lebénult; a támadásban 12 katona halt meg. A katonai esküdtszék 2013-ban halálra ítélte, azóta a kansasi Fort Leavenworth börtönben tartják fogva.\n\n• **Az amerikai hadsereg** 1961 óta nem hajtott végre kivégzést, és a második világháború óta nem végzett ki katonát kivégzőosztaggal.",
+    "title_ro": "Trump renunță la transmiterea în direct a execuției lui Nidal Hasan",
+    "lead_ro": "Donald Trump a anunțat că execuția lui Nidal Hasan, programată pentru 3 decembrie, nu va fi transmisă în direct și va avea loc prin împușcare. Președintele susținuse inițial transmisiunea, însă planul a fost criticat în Statele Unite și în străinătate.",
+    "content_ro": "• **Donald Trump** a anunțat joi că execuția lui Nidal Hasan nu va fi transmisă în direct. Decizia revine asupra planului anunțat anterior de secretarul Apărării, Pete Hegseth, fără să schimbe metoda execuției.\n\n• **Pe 3 decembrie, la ora locală 13:00**, execuția urmează să aibă loc prin împușcare, la baza militară Fort Hood. Rudele apropiate ale victimelor vor putea asista în persoană, dacă doresc.\n\n• **Poziția anterioară a lui Trump** era diferită: pe 9 octombrie, el susținuse „fără rezerve” planul transmisiunii în direct. Pentagonul anunțase aprobarea execuției pe 5 octombrie, iar Hegseth vorbise pe 8 octombrie despre un eveniment public.\n\n• **Planul transmisiunii** a stârnit critici în Statele Unite și în străinătate, inclusiv din partea unor republicani și lideri religioși. Vicepreședintele JD Vance s-a distanțat de inițiativă, iar un sondaj recent arată că majoritatea americanilor se opun transmiterii în direct a execuției. Unii au comparat planul cu practicile regimurilor dictatoriale din Iran și Afganistan.\n\n• **Argumentul lui Trump** a fost că transmisiunea ar fi putut avea un efect de descurajare, însă a recunoscut că multe persoane nu ar dori să-l vadă pe Hasan murind.\n\n• **Nidal Hasan**, fost psihiatru militar, a ucis 13 persoane și a rănit alte 32 la baza Fort Hood din Texas, în 2009. A fost rănit în schimbul de focuri cu poliția și a rămas parțial paralizat; 12 dintre victime erau militari. Un juriu militar l-a condamnat la moarte în 2013, iar de atunci este deținut la Fort Leavenworth, în Kansas.\n\n• **Armata americană** nu a mai efectuat nicio execuție din 1961 și nu a mai executat un militar prin pluton de execuție de la Al Doilea Război Mondial."
+  },
+  {
+    "group_id": "group_e06e7b1480",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260927/1/profimedia-0770525701.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Infinity Capital Investments, acţionar cu 15% la Longshield, cere convocarea AGA pentru alegerea unui nou administrator al fondului, după ce SAI Muntenia Invest a câştigat mandatul Fondului Proprietatea",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/infinity-capital-investments-actionar-cu-15-la-longshield-cere-convocarea-aga-pentru-alegerea-unui-nou-administrator-al-fondului-dupa-ce-sai-muntenia-invest-a-castigat-mandatul-fondului-proprietatea-23260927"
+      }
+    ],
+    "published_at": 1792078084,
+    "title_hu": "Infinity Capital Investments, acţionar cu 15% la Longshield, cere convocarea AGA pentru alegerea unui nou administrator al fondului, după ce SAI Muntenia Invest a câştigat mandatul Fondului Proprietatea",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Infinity Capital Investments, acţionar cu 15% la Longshield, cere convocarea AGA pentru alegerea unui nou administrator al fondului, după ce SAI Muntenia Invest a câştigat mandatul Fondului Proprietatea",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_7e7efe64b1",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Flanco_Smart_Discounter-1024x646.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Flanco redeschide magazinul din Deva într-un spațiu de două ori mai mare",
+        "link": "https://economedia.ro/flanco-redeschide-magazinul-din-deva-intr-un-spatiu-de-doua-ori-mai-mare.html"
+      }
+    ],
+    "published_at": 1792078027,
+    "title_hu": "Flanco redeschide magazinul din Deva într-un spațiu de două ori mai mare",
+    "lead_hu": "Flanco, primul Smart Discounter electro-IT din România, și-a redeschis joi, 15 octombrie, magazinul din oraș, după relocarea într-un spațiu cu o suprafață dublă față de cea anterioară, aflat în comple…",
+    "content_hu": "Flanco, primul Smart Discounter electro-IT din România, și-a redeschis joi, 15 octombrie, magazinul din oraș, după relocarea într-un spațiu cu o suprafață dublă față de cea anterioară, aflat în complexul comercial Shopping City Deva. „Relocarea într-un spațiu de două ori mai mare ne permite să avem în magazin mult mai multe produse pe stoc”, spune […]",
+    "title_ro": "Flanco redeschide magazinul din Deva într-un spațiu de două ori mai mare",
+    "lead_ro": "Flanco, primul Smart Discounter electro-IT din România, și-a redeschis joi, 15 octombrie, magazinul din oraș, după relocarea într-un spațiu cu o suprafață dublă față de cea anterioară, aflat în comple…",
+    "content_ro": "Flanco, primul Smart Discounter electro-IT din România, și-a redeschis joi, 15 octombrie, magazinul din oraș, după relocarea într-un spațiu cu o suprafață dublă față de cea anterioară, aflat în complexul comercial Shopping City Deva. „Relocarea într-un spațiu de două ori mai mare ne permite să avem în magazin mult mai multe produse pe stoc”, spune […]"
+  },
+  {
+    "group_id": "group_dcc643378d",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/09/ID288722-INQUAM-PHOTOS-GEORGE-CALIN.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Diana Buzoianu: Grindeanu zis și domnul ,,Nordis” sau ,,ceas scump ascuns la conferințe de presă” minte ridicol că sunt niște autorizații care ,,stau la semnat din luna august la mediu” pentru Autostrada Sibiu-Pitești",
+        "link": "https://www.g4media.ro/diana-buzoianu-grindeanu-zis-si-domnul-nordis-sau-ceas-scump-ascuns-la-conferinte-de-presa-minte-ridicol-ca-sunt-niste-autorizatii-care-stau-la-semnat-din-luna-august-la-mediu.html"
+      }
+    ],
+    "published_at": 1792078026,
+    "title_hu": "Diana Buzoianu: Grindeanu zis și domnul ,,Nordis” sau ,,ceas scump ascuns la conferințe de presă” minte ridicol că sunt niște autorizații care ,,stau la semnat din luna august la mediu” pentru Autostrada Sibiu-Pitești",
+    "lead_hu": "Ministra Mediului, Diana Buzoianu, îl acuză pe liderul PSD, Sorin Grindeanu, că minte atunci când afirmă că sunt niște autorizații care ,,stau la semnat din luna august la mediu” pentru Autostrada Sib…",
+    "content_hu": "Ministra Mediului, Diana Buzoianu, îl acuză pe liderul PSD, Sorin Grindeanu, că minte atunci când afirmă că sunt niște autorizații care ,,stau la semnat din luna august la mediu” pentru Autostrada Sibiu-Pitești. Diana Buzoianu spune că traseul autostrăzii a fost modificat, astfel că este necesară obținerea unui nou acord de mediu, iar în acest moment […] © G4Media.ro.",
+    "title_ro": "Diana Buzoianu: Grindeanu zis și domnul ,,Nordis” sau ,,ceas scump ascuns la conferințe de presă” minte ridicol că sunt niște autorizații care ,,stau la semnat din luna august la mediu” pentru Autostrada Sibiu-Pitești",
+    "lead_ro": "Ministra Mediului, Diana Buzoianu, îl acuză pe liderul PSD, Sorin Grindeanu, că minte atunci când afirmă că sunt niște autorizații care ,,stau la semnat din luna august la mediu” pentru Autostrada Sib…",
+    "content_ro": "Ministra Mediului, Diana Buzoianu, îl acuză pe liderul PSD, Sorin Grindeanu, că minte atunci când afirmă că sunt niște autorizații care ,,stau la semnat din luna august la mediu” pentru Autostrada Sibiu-Pitești. Diana Buzoianu spune că traseul autostrăzii a fost modificat, astfel că este necesară obținerea unui nou acord de mediu, iar în acest moment […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_f12eff394a",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/poza-24-1200x780.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Cine este Abigail Moldovan, tânăra de 18 ani care a murit în urma unui accident rutier. Visa la o carieră în muzică",
+        "link": "https://www.cancan.ro/cine-este-abigail-moldovan-tanara-de-18-ani-care-a-murit-in-urma-unui-accident-rutier-visa-la-o-cariera-in-muzica-21530695"
+      }
+    ],
+    "published_at": 1792078023,
+    "title_hu": "Cine este Abigail Moldovan, tânăra de 18 ani care a murit în urma unui accident rutier. Visa la o carieră în muzică",
+    "lead_hu": "Abigail Moldovan, o tânără de numai 18 ani, s-a stins din viață după ce a fost implicată într-un accident rutier grav, produs pe DN 17, în apropiere de Șieu Măgheruș. Familia, prietenii și profesorii …",
+    "content_hu": "Abigail Moldovan, o tânără de numai 18 ani, s-a stins din viață după ce a fost implicată într-un accident rutier grav, produs pe DN 17, în apropiere de Șieu Măgheruș. Familia, prietenii și profesorii sunt copleșiți de durere, după ce au sperat zile întregi că fata își va reveni. Abigail era elevă în clasa a […]",
+    "title_ro": "Cine este Abigail Moldovan, tânăra de 18 ani care a murit în urma unui accident rutier. Visa la o carieră în muzică",
+    "lead_ro": "Abigail Moldovan, o tânără de numai 18 ani, s-a stins din viață după ce a fost implicată într-un accident rutier grav, produs pe DN 17, în apropiere de Șieu Măgheruș. Familia, prietenii și profesorii …",
+    "content_ro": "Abigail Moldovan, o tânără de numai 18 ani, s-a stins din viață după ce a fost implicată într-un accident rutier grav, produs pe DN 17, în apropiere de Șieu Măgheruș. Familia, prietenii și profesorii sunt copleșiți de durere, după ce au sperat zile întregi că fata își va reveni. Abigail era elevă în clasa a […]"
+  },
+  {
+    "group_id": "group_5f601ee05a",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-17.59.26.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "(P) De la destinații exotice la estetica vintage: temele care schimbă personalitatea jocurilor de casino",
+        "link": "https://www.cancan.ro/p-de-la-destinatii-exotice-la-estetica-vintage-temele-care-schimba-personalitatea-jocurilor-de-casino-21530716"
+      }
+    ],
+    "published_at": 1792077965,
+    "title_hu": "(P) De la destinații exotice la estetica vintage: temele care schimbă personalitatea jocurilor de casino",
+    "lead_hu": "Atunci când au fost create, sloturile erau niște jocuri simple. Unii ar spune chiar rudimentare, ținând cont că erau niște aparate mai mari decât cele din ziua de azi, mecanice și care scoteau niște s…",
+    "content_hu": "Atunci când au fost create, sloturile erau niște jocuri simple. Unii ar spune chiar rudimentare, ținând cont că erau niște aparate mai mari decât cele din ziua de azi, mecanice și care scoteau niște sunete puternice când rolele se învârteau. Pe atunci, simbolurile erau unele simple. Anii au trecut, iar sloturile au evoluat enorm. Temele […]",
+    "title_ro": "(P) De la destinații exotice la estetica vintage: temele care schimbă personalitatea jocurilor de casino",
+    "lead_ro": "Atunci când au fost create, sloturile erau niște jocuri simple. Unii ar spune chiar rudimentare, ținând cont că erau niște aparate mai mari decât cele din ziua de azi, mecanice și care scoteau niște s…",
+    "content_ro": "Atunci când au fost create, sloturile erau niște jocuri simple. Unii ar spune chiar rudimentare, ținând cont că erau niște aparate mai mari decât cele din ziua de azi, mecanice și care scoteau niște sunete puternice când rolele se învârteau. Pe atunci, simbolurile erau unele simple. Anii au trecut, iar sloturile au evoluat enorm. Temele […]"
+  },
+  {
+    "group_id": "group_938d4e19e7",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10366/23260923/2/fonduri-mutuale.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Un guvern funcţional, semnalul pe care îl aştepta Bursa de la Bucureşti: Indicele BET câştigă 2% joi, cu tranzacţii peste media ultimelor săptămâni. Creşteri de peste 3% pentru Nuclearelectrica, Petrom, Transgaz şi MedLife",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/guvern-functional-semnalul-il-astepta-bursa-bucuresti-indicele-bet-castiga-2-joi-tranzactii-peste-media-ultimelor-saptamani-cresteri-peste-3-nuclearelectrica-petrom-transgaz-medlife-23260923"
+      }
+    ],
+    "published_at": 1792077900,
+    "title_hu": "Un guvern funcţional, semnalul pe care îl aştepta Bursa de la Bucureşti: Indicele BET câştigă 2% joi, cu tranzacţii peste media ultimelor săptămâni. Creşteri de peste 3% pentru Nuclearelectrica, Petrom, Transgaz şi MedLife",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Un guvern funcţional, semnalul pe care îl aştepta Bursa de la Bucureşti: Indicele BET câştigă 2% joi, cu tranzacţii peste media ultimelor săptămâni. Creşteri de peste 3% pentru Nuclearelectrica, Petrom, Transgaz şi MedLife",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_8b48dee08f",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260924/1/energie-verde.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Simtel Team, companie de inginerie listată la BVB, a semnat un contract EPC de 17,5 mil. euro cu o subsidiară a grupului austriac Wien Energie pentru un parc fotovoltaic lângă Alba Iulia",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/simtel-team-companie-de-inginerie-listata-la-bvb-a-semnat-un-contract-epc-de-17-5-mil-euro-cu-o-subsidiara-a-grupului-austriac-wien-energie-pentru-un-parc-fotovoltaic-langa-alba-iulia-23260924"
+      }
+    ],
+    "published_at": 1792077878,
+    "title_hu": "Simtel Team, companie de inginerie listată la BVB, a semnat un contract EPC de 17,5 mil. euro cu o subsidiară a grupului austriac Wien Energie pentru un parc fotovoltaic lângă Alba Iulia",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Simtel Team, companie de inginerie listată la BVB, a semnat un contract EPC de 17,5 mil. euro cu o subsidiară a grupului austriac Wien Energie pentru un parc fotovoltaic lângă Alba Iulia",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4b6ddbda2e",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10377/23260920/1/2852126-publimedia-shutterstock-copy-copy.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Primăria oraşului Victoria, judeţul Braşov, a accesat un proiect european de 12,7 mil. lei pentru amenajarea unui parc public în zona Lacuri",
+        "link": "https://www.zf.ro/zf-transilvania/primaria-orasului-victoria-judetul-brasov-a-accesat-un-proiect-european-de-12-7-mil-lei-pentru-amenajarea-unui-parc-public-in-zona-lacuri-23260920"
+      }
+    ],
+    "published_at": 1792077726,
+    "title_hu": "Primăria oraşului Victoria, judeţul Braşov, a accesat un proiect european de 12,7 mil. lei pentru amenajarea unui parc public în zona Lacuri",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Primăria oraşului Victoria, judeţul Braşov, a accesat un proiect european de 12,7 mil. lei pentru amenajarea unui parc public în zona Lacuri",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_fd60bfe4e2",
+    "fingerprint": "3cddef242921487f83491b54c6869de6",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjIyJTJGMjY5NDk3M18yNjk0/OTczX0xPVE8uanBnJmhhc2g9OTRhNDM5/YjJiMDVkOGNjYWU3NjQzOGQ4MWQwZGE2OGE=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Rezultate LOTO - Joi, 15 octombrie 2026: Sume substanțiale în joc la 6/49 și Joker",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-joi-15-octombrie-2026-sume-substantiale-in-joc-la-6-49-si-joker-3992623"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Extrageri LOTO 6/49, 5/40 și Joker, joi, 15 octombrie. Premiile uriașe puse în joc",
+        "link": "https://stirileprotv.ro/stiri/loto-649/extrageri-loto-6-49-5-40-si-joker-joi-15-octombrie-premiile-uriase-puse-in-joc.html"
+      }
+    ],
+    "published_at": 1792077726,
+    "title_hu": "Lottóhúzások október 15-én: 2,74 millió euró a 6/49 főnyereménye",
+    "lead_hu": "2026. október 15-én újabb Loto 6/49-, Joker- és további sorsolásokat tartanak Romániában. A 6/49 első kategóriájában több mint 14,68 millió lej, a Joker fődíjánál pedig több mint 9,31 millió lej a felhalmozott nyeremény. Az október 11-i 5/40-es sorsoláson az első két kategóriában is született nyertes.",
+    "content_hu": "• **Október 15-én, csütörtökön** Loto 6/49, Noroc, Joker, Noroc Plus, Loto 5/40 és Super Noroc sorsolást tartanak; a számokat 18:35-től húzzák ki.\n\n• **A Loto 6/49 első kategóriájában** több mint 14,68 millió lej, vagyis több mint 2,74 millió euró a felhalmozott nyeremény. A Noroc játékban az összesített halmozódás meghaladja a 2,60 millió lejt.\n\n• **A Joker fődíja** több mint 9,31 millió lejre, azaz több mint 1,74 millió euróra nőtt. A második kategóriában több mint 116 700 lej, a harmadikban több mint 67 200 lej a halmozódás.\n\n• **A többi játékban** a Noroc Plus első kategóriájában több mint 169 900 lej, a Super Noroc első kategóriájában pedig több mint 481 500 lej vár gazdára.\n\n• **Az október 11-i sorsolásokon** a Román Lottótársaság több mint 27 ezer nyereményt fizetett ki, összesen több mint 4,82 millió lej értékben.\n\n• **A Loto 5/40 október 11-i húzásán** az első kategóriában 2 456 420 lejes, a másodikban 70 729 lejes nyereményt értek el. A nyertes szelvényeket a joaca.loto.ro oldalon és az AmParcat.ro-n játszották meg.",
+    "title_ro": "Trageri Loto pe 15 octombrie: 2,74 milioane de euro la categoria I Loto 6/49",
+    "lead_ro": "Joi, 15 octombrie 2026, au loc noi trageri Loto 6/49, Joker și la alte jocuri din România. Reportul la categoria I Loto 6/49 depășește 14,68 milioane de lei, iar la categoria I Joker este de peste 9,31 milioane de lei. La tragerea Loto 5/40 din 11 octombrie s-au acordat premii la primele două categorii.",
+    "content_ro": "• **Joi, 15 octombrie**, au loc trageri Loto 6/49, Noroc, Joker, Noroc Plus, Loto 5/40 și Super Noroc; numerele sunt extrase începând cu ora 18:35.\n\n• **La categoria I Loto 6/49** se înregistrează un report de peste 14,68 milioane de lei, echivalentul a peste 2,74 milioane de euro. La Noroc, reportul cumulat depășește 2,60 milioane de lei.\n\n• **Premiul principal la Joker** a ajuns la peste 9,31 milioane de lei, adică peste 1,74 milioane de euro. La categoria a II-a reportul depășește 116.700 de lei, iar la categoria a III-a este de peste 67.200 de lei.\n\n• **La celelalte jocuri**, reportul la categoria I Noroc Plus depășește 169.900 de lei, iar la categoria I Super Noroc este de peste 481.500 de lei.\n\n• **La tragerile din 11 octombrie**, Loteria Română a acordat peste 27.000 de câștiguri, în valoare totală de peste 4,82 milioane de lei.\n\n• **La tragerea Loto 5/40 din 11 octombrie**, s-a câștigat un premiu de 2.456.420 de lei la categoria I și unul de 70.729 de lei la categoria a II-a. Biletele câștigătoare au fost jucate pe joaca.loto.ro și pe AmParcat.ro."
+  },
+  {
+    "group_id": "group_dc066ac70f",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-madalina-apostol-mesaj.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "„Ai grijă de fata mea. Adio!” Mădălina Apostol s-a filmat înainte de a-și pune capăt zilelor și i-a trimis mesajul unei prietene din Mexic",
+        "link": "https://www.cancan.ro/ai-grija-de-fata-mea-adio-madalina-apostol-s-a-filmat-inainte-de-a-si-pune-capat-zilelor-si-i-a-trimis-mesajul-unei-prietene-din-mexic-21530674"
+      }
+    ],
+    "published_at": 1792077538,
+    "title_hu": "„Ai grijă de fata mea. Adio!” Mădălina Apostol s-a filmat înainte de a-și pune capăt zilelor și i-a trimis mesajul unei prietene din Mexic",
+    "lead_hu": "„Ai grijă de fata mea. Adio!” Acesta este mesajul tulburător pe care Mădălina Apostol i l-a trimis prietenei sale din Mexic, Vanessa, înainte de moarte. CANCAN.RO vă prezintă, în exclusivitate, detali…",
+    "content_hu": "„Ai grijă de fata mea. Adio!” Acesta este mesajul tulburător pe care Mădălina Apostol i l-a trimis prietenei sale din Mexic, Vanessa, înainte de moarte. CANCAN.RO vă prezintă, în exclusivitate, detalii despre ultimele momente din viața femeii și despre înregistrarea video care ridică numeroase semne de întrebare. În noaptea de 12 spre 13 septembrie 2026, […]",
+    "title_ro": "„Ai grijă de fata mea. Adio!” Mădălina Apostol s-a filmat înainte de a-și pune capăt zilelor și i-a trimis mesajul unei prietene din Mexic",
+    "lead_ro": "„Ai grijă de fata mea. Adio!” Acesta este mesajul tulburător pe care Mădălina Apostol i l-a trimis prietenei sale din Mexic, Vanessa, înainte de moarte. CANCAN.RO vă prezintă, în exclusivitate, detali…",
+    "content_ro": "„Ai grijă de fata mea. Adio!” Acesta este mesajul tulburător pe care Mădălina Apostol i l-a trimis prietenei sale din Mexic, Vanessa, înainte de moarte. CANCAN.RO vă prezintă, în exclusivitate, detalii despre ultimele momente din viața femeii și despre înregistrarea video care ridică numeroase semne de întrebare. În noaptea de 12 spre 13 septembrie 2026, […]"
+  },
+  {
+    "group_id": "group_3d336dd656",
+    "fingerprint": "c05b6c2fd1235b656325742a521d233b",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/davidclode-rough-scaled-python-9669996_1920.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Vameşii germani au descoperit 92 de reptile, prin care vipere, şerpi cu clopoţei, iguane și salamandre, în valiza unui turist mexican",
+        "link": "https://www.g4media.ro/vamesii-germani-au-descoperit-92-de-reptile-prin-care-vipere-serpi-cu-clopotei-iguane-si-salamandre-in-valiza-unui-turist-mexican.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Descoperirea neobișnuită făcută de vameșii germani când au deschis valiza unui turist mexican",
+        "link": "https://stirileprotv.ro/stiri/international/descoperirea-neobisnuita-facuta-de-vamesii-germani-cand-au-deschis-valiza-unui-turist-mexican.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Aproape 100 de reptile înghesuite într-o singură valiză. Vameșii germani au găsit mai mulți șerpi veninoși în bagajul unui mexican",
+        "link": "https://hotnews.ro/aproape-100-de-reptile-inghesuite-intr-o-singura-valiza-vamesii-germani-au-gasit-mai-multi-serpi-veninosi-in-bagajul-unui-mexican-2377290"
+      }
+    ],
+    "published_at": 1792077473,
+    "title_hu": "92 élő állatot találtak egy mexikói utas bőröndjében Kölnben",
+    "lead_hu": "A kölni repülőtér vámosai 37 mérges kígyót és 55 gyíkot találtak egy Mexikóból érkező, 45 éves utas poggyászában. Az állatokat szűk, nem megfelelő körülmények között szállították, közülük mintegy harminc nem élte túl az utat.",
+    "content_hu": "• **A kölni repülőtér vámosai** 92 élő állatot találtak egy Ciudad de Méxicóból érkező, 45 éves utas bőröndjében: 37 mérges kígyót és 55 gyíkot. Az állatokat samponos és arckrémes flakonokban, műanyag dobozokban, illetve zoknik közé rejtette.\n\n• **A férfi viselkedése** keltette fel a vámosok figyelmét; a drogtesztje kokainra pozitív lett, de a poggyászban kábítószert nem találtak. A férfi azt mondta a hatóságoknak, hogy az állatokat egy brazíliai ismerősének szánja.\n\n• **Az állatok szállítása** sértette az állatvédelmi előírásokat, és mintegy harminc példány elpusztult, mert nem jutottak élelemhez és vízhez. Egy kölni állatorvos ellátta a túlélőket, majd egy Braunschweig melletti hüllőközpontba szállították őket.\n\n• **A lefoglalt állatok között** viperák, csörgőkígyók, leguánok, különféle fán élő kígyók és gyíkok, valamint szalamandrák voltak; a szalamandrák kétéltűek, nem hüllők.\n\n• **A német vámhatóság szóvivője** kivételesnek nevezte a lefoglalást, és elítélte, hogy egyesek a haszonszerzés érdekében ilyen szenvedésnek teszik ki az állatokat. A rendőrség közveszélyesnek minősítette az utast, megtiltotta a belépését, és másnap visszaküldte Isztambulba.",
+    "title_ro": "92 de animale vii, găsite în valiza unui turist mexican la Köln",
+    "lead_ro": "Vameșii de la aeroportul din Köln au găsit 37 de șerpi veninoși și 55 de șopârle în bagajul unui turist de 45 de ani sosit din Mexic. Animalele au fost transportate în condiții improprii, iar aproximativ treizeci nu au supraviețuit călătoriei.",
+    "content_ro": "• **Vameșii de la aeroportul din Köln** au găsit 92 de animale vii în valiza unui bărbat de 45 de ani sosit din Ciudad de Mexico: 37 de șerpi veninoși și 55 de șopârle. Animalele erau ascunse în recipiente de șampon și creme faciale, în cutii de plastic și printre șosete.\n\n• **Comportamentul bărbatului** le-a atras atenția vameșilor; testul antidrog a ieșit pozitiv la cocaină, însă în bagaje nu au fost găsite droguri. El le-a spus autorităților că animalele erau destinate unei cunoștințe din Brazilia.\n\n• **Transportul animalelor** a încălcat reglementările privind protecția acestora, iar aproximativ treizeci au murit din cauza lipsei de hrană și apă. Un veterinar din Köln a îngrijit exemplarele supraviețuitoare, care au fost apoi duse la un centru pentru reptile de lângă Braunschweig.\n\n• **Printre animalele confiscate** se aflau vipere, șerpi cu clopoței, iguane, diverse specii de șerpi arboricoli și șopârle, precum și salamandre; salamandrele sunt amfibieni, nu reptile.\n\n• **Purtătorul de cuvânt al vămii germane** a numit confiscarea excepțională și a condamnat faptul că unii oameni supun animalele unor asemenea suferințe pentru a obține profit. Poliția l-a considerat pe turist un pericol public, i-a interzis intrarea în țară și l-a trimis înapoi la Istanbul a doua zi."
+  },
+  {
+    "group_id": "group_c3495e8fda",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10377/23260918/1/hepta-209888.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Proiect european de 12,2 mil. lei pentru modernizarea Grădinii Csíky din municipiul Gheorgheni",
+        "link": "https://www.zf.ro/zf-transilvania/proiect-european-de-12-2-mil-lei-pentru-modernizarea-gradinii-csiky-din-municipiul-gheorgheni-23260918"
+      }
+    ],
+    "published_at": 1792077458,
+    "title_hu": "Proiect european de 12,2 mil. lei pentru modernizarea Grădinii Csíky din municipiul Gheorgheni",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Proiect european de 12,2 mil. lei pentru modernizarea Grădinii Csíky din municipiul Gheorgheni",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_52df82bcfa",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Trump intervine peste Hegseth, după ce șeful Pentagonului a anunțat o decizie nemaiîntâlnită în nicio țară din lume",
+        "link": "https://hotnews.ro/donald-trump-anuleaza-difuzarea-in-direct-a-executiei-de-catre-armata-sua-a-lui-nidal-hasan-autorul-unui-atac-armat-in-masa-2377300"
+      }
+    ],
+    "published_at": 1792077448,
+    "title_hu": "Trump intervine peste Hegseth, după ce șeful Pentagonului a anunțat o decizie nemaiîntâlnită în nicio țară din lume",
+    "lead_hu": "Președintele american Donald Trump a anulat transmisiunea în direct prevăzută a execuției unui fost maior al Armatei SUA care a ucis 13 persoane la Fort Hood, declarând joi că a trecut peste decizia ș…",
+    "content_hu": "Președintele american Donald Trump a anulat transmisiunea în direct prevăzută a execuției unui fost maior al Armatei SUA care a ucis 13 persoane la Fort Hood, declarând joi că a trecut peste decizia șefului Pentagonului, care intenționa să transforme evenimentul într-un spectacol public, scrie Reuters. Secretarul Apărării, Pete Hegseth, anunțase la începutul acestei luni că …",
+    "title_ro": "Trump intervine peste Hegseth, după ce șeful Pentagonului a anunțat o decizie nemaiîntâlnită în nicio țară din lume",
+    "lead_ro": "Președintele american Donald Trump a anulat transmisiunea în direct prevăzută a execuției unui fost maior al Armatei SUA care a ucis 13 persoane la Fort Hood, declarând joi că a trecut peste decizia ș…",
+    "content_ro": "Președintele american Donald Trump a anulat transmisiunea în direct prevăzută a execuției unui fost maior al Armatei SUA care a ucis 13 persoane la Fort Hood, declarând joi că a trecut peste decizia șefului Pentagonului, care intenționa să transforme evenimentul într-un spectacol public, scrie Reuters. Secretarul Apărării, Pete Hegseth, anunțase la începutul acestei luni că …"
+  },
+  {
     "group_id": "group_5b1cf7f18d",
     "category": "Általános",
     "image": "https://assets.telex.hu/images/20261009/1791547473-temp-6l5443j9jhp63elfgbf_cimlap-normal.jpg",
@@ -171,34 +777,6 @@
     "title_ro": "Noi oferte la energie electrică și gaze de la MVM Energie România. Ce prețuri fixe propune",
     "lead_ro": "MVM Energie România lansează trei noi oferte de furnizare a energiei electrice și gazelor naturale, ce includ tarife fixe fie până la finalul anului 2028, fie până în martie 2027, transmite compania j…",
     "content_ro": "MVM Energie România lansează trei noi oferte de furnizare a energiei electrice și gazelor naturale, ce includ tarife fixe fie până la finalul anului 2028, fie până în martie 2027, transmite compania joi, 15 octombrie, într-un comunicat de presă. Pentru clienții casnici, MVM Energie România oferă un preț fix al energiei electrice active de 0,685 […]"
-  },
-  {
-    "group_id": "group_789f5c8001",
-    "fingerprint": "5a149935baef8beab903f7ccd2aeff86",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-d/df84d29d-0e67-400a-b64e-cdeb2fd70d09/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Trump renunță la transmiterea în direct a execuției lui Nidal Hasan, autorul atacului de la Fort Hood",
-        "link": "https://adevarul.ro/stiri-externe/sua/trump-renunta-la-transmiterea-in-direct-a-2564291.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Trump renunţă la transmiterea în direct a execuţiei fostului psihiatru militar Nidal Hasan, programată pentru 3 decembrie",
-        "link": "https://www.g4media.ro/trump-renunta-la-transmiterea-in-direct-a-executiei-fostului-psihiatru-militar-nidal-hasan-programata-pentru-3-decembrie.html"
-      }
-    ],
-    "published_at": 1792076640,
-    "title_hu": "Trump lemondott Nidal Hasan kivégzésének élő közvetítéséről",
-    "lead_hu": "Donald Trump bejelentette, hogy nem közvetítik élőben Nidal Hasan kivégzését, amelyet december 3-ra terveztek. A kivégzést az eredeti terv szerint lövéssel hajtják végre, és az áldozatok közeli hozzátartozói személyesen jelen lehetnek.",
-    "content_hu": "• **Donald Trump** csütörtökön közölte, hogy Nidal Hasan kivégzését nem közvetítik élőben. A döntés visszavonja Pete Hegseth védelmi miniszter korábbi tervét, de a kivégzés módja nem változik.\n\n• **December 3-án** tervezik végrehajtani Hasan kivégzését a Fort Hood-i katonai bázison, lövéssel. Az áldozatok közeli hozzátartozói személyesen is jelen lehetnek, ha ezt szeretnék.\n\n• **A közvetítési terv** az Egyesült Államokban és külföldön is bírálatokat váltott ki; a tiltakozók között republikánusok és vallási vezetők is voltak. Trump szerint a nyilvános közvetítésnek lehetett volna elrettentő hatása, de elismerte, hogy sokan nem szeretnék látni a kivégzést.\n\n• **Nidal Hasan** volt katonai pszichiáter 2009-ben a texasi Fort Hood bázison 13 embert ölt meg, és 32-t megsebesített. Egy katonai esküdtszék 2013-ban halálra ítélte.",
-    "title_ro": "Trump renunță la transmiterea în direct a execuției lui Nidal Hasan",
-    "lead_ro": "Donald Trump a anunțat că execuția lui Nidal Hasan, programată pentru 3 decembrie, nu va fi transmisă în direct. Sentința va fi pusă în aplicare prin împușcare, iar rudele apropiate ale victimelor vor putea asista în persoană.",
-    "content_ro": "• **Donald Trump** a anunțat joi că execuția lui Nidal Hasan nu va fi transmisă în direct. Decizia anulează planul anunțat anterior de secretarul apărării, Pete Hegseth, fără să schimbe metoda execuției.\n\n• **Pe 3 decembrie** este programată executarea lui Hasan, prin împușcare, la baza militară Fort Hood. Rudele apropiate ale victimelor vor putea asista în persoană, dacă doresc.\n\n• **Planul de transmitere în direct** a fost criticat în Statele Unite și în străinătate, inclusiv de republicani și lideri religioși. Trump a susținut că o difuzare ar fi putut avea un efect de descurajare, dar a recunoscut că mulți oameni nu ar dori să urmărească execuția.\n\n• **Nidal Hasan**, fost psihiatru al armatei americane, a ucis 13 persoane și a rănit alte 32 în atacul comis în 2009 la Fort Hood, în Texas. Un juriu militar l-a condamnat la moarte în 2013."
   },
   {
     "group_id": "group_30c715ffc3",
@@ -1248,34 +1826,6 @@
     "content_ro": "Peste 1 trilion de dolari au fost șterși din valoarea a 20 dintre cele mai mari acțiuni din industria inteligenței artificiale și a semiconductorilor de la începutul săptămânii . Și de data aceasta, investitorii care de obicei se grăbeau să cumpere în perioadele de scădere par mult mai ezitanți. Vânzările s-au extins din Asia în …"
   },
   {
-    "group_id": "group_fd60bfe4e2",
-    "fingerprint": "da37106d7f3e90536d6d75b63e0b1409",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjIyJTJGMjY5NDk3M18yNjk0/OTczX0xPVE8uanBnJmhhc2g9OTRhNDM5/YjJiMDVkOGNjYWU3NjQzOGQ4MWQwZGE2OGE=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Rezultate LOTO - Joi, 15 octombrie 2026: Sume substanțiale în joc la 6/49 și Joker",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-joi-15-octombrie-2026-sume-substantiale-in-joc-la-6-49-si-joker-3992623"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Extrageri LOTO 6/49, 5/40 și Joker, joi, 15 octombrie. Premiile uriașe puse în joc",
-        "link": "https://stirileprotv.ro/stiri/loto-649/extrageri-loto-6-49-5-40-si-joker-joi-15-octombrie-premiile-uriase-puse-in-joc.html"
-      }
-    ],
-    "published_at": 1792075255,
-    "title_hu": "Lottóhúzások október 15-én: 2,74 millió euró a 6/49 főnyereménye",
-    "lead_hu": "2026. október 15-én újabb Loto 6/49-, Joker- és további sorsolásokat tartanak Romániában. A 6/49 első kategóriájában több mint 14,68 millió lej, a Joker fődíjánál pedig több mint 9,31 millió lej a felhalmozott nyeremény.",
-    "content_hu": "• **Október 15-én, csütörtökön** Loto 6/49, Noroc, Joker, Noroc Plus, Loto 5/40 és Super Noroc sorsolást tartanak; a számokat 18:35-től húzzák ki.\n\n• **A Loto 6/49 első kategóriájában** több mint 14,68 millió lej, vagyis több mint 2,74 millió euró a felhalmozott nyeremény. A Noroc játékban az összesített halmozódás meghaladja a 2,60 millió lejt.\n\n• **A Joker fődíja** több mint 9,31 millió lejre, azaz több mint 1,74 millió euróra nőtt. A második kategóriában több mint 116 700 lej, a harmadikban több mint 67 200 lej a halmozódás.\n\n• **A többi játékban** a Noroc Plus első kategóriájában több mint 169 900 lej, a Super Noroc első kategóriájában pedig több mint 481 500 lej vár gazdára.\n\n• **Az október 11-i sorsolásokon** a Román Lottótársaság több mint 27 ezer nyereményt fizetett ki, összesen több mint 4,82 millió lej értékben.",
-    "title_ro": "Trageri loto pe 15 octombrie: report de 2,74 milioane de euro la 6/49",
-    "lead_ro": "Joi, 15 octombrie 2026, au loc noi trageri Loto 6/49, Joker și la celelalte jocuri ale Loteriei Române. Reportul la categoria I a jocului 6/49 depășește 14,68 milioane de lei, iar cel de la categoria I Joker este de peste 9,31 milioane de lei.",
-    "content_ro": "• **Joi, 15 octombrie**, sunt programate trageri la Loto 6/49, Noroc, Joker, Noroc Plus, Loto 5/40 și Super Noroc; numerele urmează să fie extrase începând cu ora 18:35.\n\n• **La categoria I Loto 6/49**, reportul depășește 14,68 milioane de lei, echivalentul a peste 2,74 milioane de euro. La Noroc, reportul cumulat este de peste 2,60 milioane de lei.\n\n• **La Joker**, reportul de la categoria I este de peste 9,31 milioane de lei, adică peste 1,74 milioane de euro. La categoria a II-a sunt în joc peste 116.700 de lei, iar la categoria a III-a, peste 67.200 de lei.\n\n• **La celelalte jocuri**, reportul de la categoria I este de peste 169.900 de lei la Noroc Plus și de peste 481.500 de lei la Super Noroc.\n\n• **La tragerile din 11 octombrie**, Loteria Română a acordat peste 27.000 de câștiguri, în valoare totală de peste 4,82 milioane de lei."
-  },
-  {
     "group_id": "group_c34ec2cd09",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/15/143132/vlcsnap-2026-10-15-17h30m45s494.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
@@ -1533,34 +2083,6 @@
     "content_ro": "• **Volodimir Zelenski** a declarat marți că Ucraina nu a primit avertizări prealabile din partea partenerilor occidentali înaintea atacului rusesc cu rachete balistice asupra Kievului.\n\n• **Cinci rachete** au lovit infrastructura civilă în atacul din noaptea de luni spre marți. Alerta aeriană a fost declanșată abia după ce se auziseră deja explozii în oraș.\n\n• **Forțele aeriene ucrainene** au confirmat că nu au primit avertizările obișnuite și au anunțat că investighează circumstanțele. Zelenski nu a legat direct lipsa avertizării de presiunile exercitate de Statele Unite asupra Kievului.\n\n• **Andrii Sîbiha, ministrul ucrainean de Externe,** a afirmat că Ucraina continuă să primească informații militare americane și că întârzierea ar fi putut avea legătură cu particularitățile armamentului folosit de Rusia. Zelenski a spus că informațiile despre lansările de rachete sunt esențiale pentru salvarea de vieți.\n\n• **Statele Unite fac presiuni asupra Kievului** pentru a opri atacurile asupra rafinăriilor rusești; potrivit relatărilor din presă, oficiali americani au amenințat inclusiv cu întreruperea schimbului de informații și a vânzărilor de arme. Zelenski a declarat că Ucraina nu a mai atacat rafinării rusești după anunțul lui Donald Trump privind un „armistițiu energetic”.\n\n• **Rusia nu a atacat ținte energetice ucrainene în timpul nopții**, dar a lovit infrastructura de transport și logistică folosind rachete balistice și drone. Nu este clar dacă Moscova a evitat intenționat obiectivele energetice; luni, șase astfel de obiective fuseseră atacate.\n\n• **Fabian Hoffmann, expert în rachete,** a declarat că aliații europeni au capacități limitate de a înlocui sistemele americane de avertizare timpurie, care folosesc senzori spațiali în infraroșu pentru detectarea lansărilor de rachete.\n\n• **Atacurile rusești asupra Harkivului** au ucis patru persoane, iar zeci de oameni au fost răniți în diferite regiuni ale țării, potrivit oficialilor ucraineni. Zelenski a spus că Ucraina este pregătită să adopte măsuri reciproce pentru reducerea tensiunilor și le-a cerut partenerilor să intensifice presiunile asupra Rusiei."
   },
   {
-    "group_id": "group_3d336dd656",
-    "fingerprint": "02af5b09dffc6308dea4945ab53102de",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/davidclode-rough-scaled-python-9669996_1920.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Vameşii germani au descoperit 92 de reptile, prin care vipere, şerpi cu clopoţei, iguane și salamandre, în valiza unui turist mexican",
-        "link": "https://www.g4media.ro/vamesii-germani-au-descoperit-92-de-reptile-prin-care-vipere-serpi-cu-clopotei-iguane-si-salamandre-in-valiza-unui-turist-mexican.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Descoperirea neobișnuită făcută de vameșii germani când au deschis valiza unui turist mexican",
-        "link": "https://stirileprotv.ro/stiri/international/descoperirea-neobisnuita-facuta-de-vamesii-germani-cand-au-deschis-valiza-unui-turist-mexican.html"
-      }
-    ],
-    "published_at": 1792074618,
-    "title_hu": "92 élő állatot találtak egy mexikói utas bőröndjében Kölnben",
-    "lead_hu": "A kölni repülőtér vámosai 37 mérges kígyót és 55 gyíkot találtak egy Mexikóból érkező, 45 éves utas poggyászában. Az állatokat szűk, nem megfelelő körülmények között szállították, közülük mintegy harminc nem élte túl az utat.",
-    "content_hu": "• **A kölni repülőtér vámosai** 92 élő állatot találtak egy Ciudad de Méxicóból érkező, 45 éves utas bőröndjében: 37 mérges kígyót és 55 gyíkot. Az állatokat samponos és arckrémes flakonokban, műanyag dobozokban, illetve zoknik közé rejtette.\n\n• **A férfi viselkedése** keltette fel a vámosok figyelmét; a drogtesztje kokainra pozitív lett, de a poggyászban kábítószert nem találtak. A férfi azt mondta a hatóságoknak, hogy az állatok egy brazíliai ismerősének szánt ajándékok.\n\n• **Az állatok szállítása** sértette az állatvédelmi előírásokat, és mintegy harminc példány elpusztult, mert nem jutottak élelemhez és vízhez. Egy kölni állatorvos ellátta a túlélőket, majd egy Braunschweig környéki hüllőközpontba szállították őket.\n\n• **A lefoglalt állatok között** viperák, csörgőkígyók, leguánok, szalamandrák, valamint különféle fán élő kígyók és gyíkok voltak. A német rendőrség közveszélyesnek minősítette az utast, megtiltotta a belépését, és másnap visszaküldte Isztambulba.",
-    "title_ro": "92 de animale vii, descoperite în valiza unui turist mexican la Köln",
-    "lead_ro": "Vameșii de pe aeroportul din Köln au găsit 37 de șerpi veninoși și 55 de șopârle în bagajul unui bărbat de 45 de ani sosit din Ciudad de Mexico. Animalele erau transportate în condiții improprii, iar aproximativ 30 dintre ele nu au supraviețuit călătoriei.",
-    "content_ro": "• **Vameșii de pe aeroportul din Köln** au descoperit 92 de animale vii în valiza unui turist de 45 de ani sosit din Ciudad de Mexico: 37 de șerpi veninoși și 55 de șopârle. Animalele erau ascunse în recipiente de șampon și creme faciale, în cutii de plastic și printre șosete.\n\n• **Comportamentul bărbatului** le-a atras atenția vameșilor; testul antidrog a ieșit pozitiv la cocaină, însă în bagaj nu au fost găsite droguri. El le-a spus autorităților că animalele erau destinate unei cunoștințe din Brazilia.\n\n• **Transportul animalelor** încălca normele de protecție a acestora, iar aproximativ 30 au murit din cauza lipsei de hrană și apă. Un veterinar din Köln le-a acordat îngrijiri celor rămase în viață, care au fost apoi duse la un centru pentru reptile din apropiere de Braunschweig.\n\n• **Printre animalele confiscate** se aflau vipere, șerpi cu clopoței, iguane, salamandre și diverse specii de șerpi arboricoli și șopârle. Poliția germană l-a considerat pe turist un pericol public, i-a interzis intrarea în țară și l-a trimis înapoi la Istanbul a doua zi."
-  },
-  {
     "group_id": "group_045e05c221",
     "fingerprint": "3f52a3897616932a046b0419c22e99ae",
     "category": "Általános",
@@ -1671,34 +2193,6 @@
     "title_ro": "Un bărbat care a vrut să mute o piatră neobișnuită de pe câmp a avut parte de surpriza vieții în Egipt",
     "lead_ro": "Un bărbat din Egipt care lucra pe un teren din apropierea locuinței sale a dat întâmplător peste o piatră neobișnuită, declanșând o campanie de săpături arheologice care a scos la iveală rămășițele un…",
     "content_ro": "Un bărbat din Egipt care lucra pe un teren din apropierea locuinței sale a dat întâmplător peste o piatră neobișnuită, declanșând o campanie de săpături arheologice care a scos la iveală rămășițele unei statui despre care se crede că avea cândva o înălțime de aproape 8,5 metri, relatează revista People. Descoperirea a avut loc în …"
-  },
-  {
-    "group_id": "group_a4af70bb1f",
-    "fingerprint": "966de87d814e97dce376200a583b7bee",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/08/dreamstime_l_152921791.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Ministrul Finanțelor anunță „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni” / Cerere a investitorilor de cinci ori mai mare decât suma oferită",
-        "link": "https://www.g4media.ro/ministrul-finantelor-anunta-una-dintre-cele-mai-puternice-suprasubscrieri-pentru-o-emisiune-in-lei-din-ultimele-luni-cerere-a-investitorilor-de-cinci-ori-mai-mare-decat-suma-oferit.html"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Îşi recapătă investitorii încrederea în România? O licitaţie de titluri de stat a atras o cerere de cinci ori mai mare decât suma oferită de stat. Ministrul Finanţelor, Alexandru Nazare: „Este una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni”",
-        "link": "https://www.zf.ro/eveniment/isi-recapata-investitorii-increderea-romania-licitatie-titluri-stat-atras-cerere-cinci-ori-mare-suma-oferita-stat-ministrul-finantelor-alexandru-nazare-una-dintre-cele-puternice-suprasubscrieri-23260888"
-      }
-    ],
-    "published_at": 1792074418,
-    "title_hu": "Ötszörös kereslet övezte a román államkötvény-aukciót",
-    "lead_hu": "A hároméves román államkötvények aukcióján a befektetők mintegy 2,5 milliárd lej értékben nyújtottak be ajánlatot, ötször akkora összegben, mint a meghirdetett mennyiség. A pénzügyminisztérium körülbelül egymilliárd lejt fogadott el, 6,81 százalékos átlaghozam mellett.",
-    "content_hu": "• **Az aukción** a hároméves államkötvény-sorozat 500 millió lejes meghirdetett mennyiségére mintegy 2,5 milliárd lej értékű befektetői kereslet érkezett.\n\n• **A pénzügyminisztérium** körülbelül egymilliárd lej értékben fogadott el ajánlatokat, 6,81 százalékos átlaghozam mellett; ez a másodpiaci szint alatt volt.\n\n• **Alexandru Nazare pénzügyminiszter** az elmúlt hónapok egyik legerősebb lejben kibocsátott államkötvény-aukciós túljegyzésének nevezte az eredményt.\n\n• **Az állampapírhozamok** a közlés szerint a releváns piacokon is csökkentek: lejben hozzávetőleg 10–15, euróban és dollárban pedig 5–15 bázisponttal, futamidőtől függően.\n\n• **Nazare** pozitív jelzésnek nevezte a fejleményeket, ugyanakkor hangsúlyozta, hogy a finanszírozási költségeket a befektetők stabilitásról, kiszámíthatóságról és a költségvetési politika hitelességéről alkotott képe is befolyásolja.",
-    "title_ro": "Cererea pentru titlurile de stat românești a fost de cinci ori peste oferta scoasă la licitație",
-    "lead_ro": "La licitația pentru titluri de stat românești cu maturitatea de trei ani, investitorii au depus cereri de aproximativ 2,5 miliarde de lei, de cinci ori mai mult decât volumul anunțat. Ministerul Finanțelor a adjudecat circa un miliard de lei, la un randament mediu de 6,81%.",
-    "content_ro": "• **La licitație**, cererea investitorilor pentru emisiunea de titluri de stat cu maturitatea de trei ani a ajuns la aproximativ 2,5 miliarde de lei, față de un volum anunțat de 500 de milioane de lei.\n\n• **Ministerul Finanțelor** a adjudecat aproximativ un miliard de lei, la un randament mediu de 6,81%, sub nivelul pieței secundare.\n\n• **Alexandru Nazare, ministrul Finanțelor**, a descris rezultatul drept una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni.\n\n• **Randamentele titlurilor de stat** au scăzut, potrivit anunțului, pe piețele relevante: cu aproximativ 10–15 puncte de bază în lei și cu 5–15 puncte de bază pentru finanțările în euro și dolari, în funcție de maturitate.\n\n• **Nazare** a numit evoluțiile un semnal pozitiv, dar a subliniat că percepția investitorilor asupra stabilității, predictibilității și credibilității politicii fiscal-bugetare influențează costurile de finanțare."
   },
   {
     "group_id": "group_3b4ff2bc2f",
@@ -5877,49 +6371,6 @@
     "title_ro": "Autostrada A7, lot 2 Trifești – Gherăiești: 500 de muncitori și 300 de utilaje",
     "lead_ro": "Pe lotul 2 (Trifești – Gherăești) al autostrăzii A7 Bacău – Pașcani, stadiul fizic al lucrărilor a ajuns la 60%, potrivit lui Cristian Pistol, directorul general al CNAIR. Constructorul român UMB este…",
     "content_ro": "Pe lotul 2 (Trifești – Gherăești) al autostrăzii A7 Bacău – Pașcani, stadiul fizic al lucrărilor a ajuns la 60%, potrivit lui Cristian Pistol, directorul general al CNAIR. Constructorul român UMB este mobilizat în șantier cu 500 de muncitori și 300 de utilaje pentru a finaliza anul acesta lucrările pe cei 18,99 km dintre Trifești […]"
-  },
-  {
-    "group_id": "group_c1f072ad63",
-    "fingerprint": "519eabd59a1daa518fa538cebd010f81",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Verdict așteptat azi în procesul Înalta Curte-Guvern pentru restanțele salariale de 1 miliard de euro ale magistraților",
-        "link": "https://hotnews.ro/verdict-asteptat-azi-in-procesul-inalta-curte-guvern-pentru-restantele-salariale-de-1-miliard-de-euro-ale-magistratilor-2376503"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Decizie crucială la Înalta Curte: Magistrații își cer restanțele salariale de la Guvern",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/decizie-cruciala-la-inalta-curte-magistratii-isi-2564105.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING | Verdict previzibil: Înalta Curte a respins recursul Guvernului în procesul privind restanțele salariale ale magistraților. Nota de plată: un miliard de euro",
-        "link": "https://www.g4media.ro/breaking-verdict-previzibil-inalta-curte-a-respins-recursul-guvernului-in-procesul-privind-restantele-salariale-ale-magistratilor.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Înalta Curte a câștigat definitiv procesul de un miliard de euro pentru salariile magistraților. Guvernul are 10 zile să dea banii",
-        "link": "https://www.mediafax.ro/stirile-zilei/inalta-curte-a-castigat-definitiv-procesul-de-un-miliard-de-euro-pentru-salariile-magistratilor-guvernul-are-10-zile-sa-dea-banii-23825924"
-      },
-      {
-        "source": "Economedia",
-        "title": "Înalta Curte a respins recursul Guvernului în procesul privind restanțele salariale ale magistraților. Nota de plată: un miliard de euro",
-        "link": "https://economedia.ro/inalta-curte-a-respins-recursul-guvernului-in-procesul-privind-restantele-salariale-ale-magistratilor-nota-de-plata-un-miliard-de-euro.html"
-      }
-    ],
-    "published_at": 1792066579,
-    "title_hu": "Jogerősen elutasította a kormány fellebbezését a legfelsőbb bíróság a bírák bérhátralékáról szóló perben",
-    "lead_hu": "A román legfelsőbb bíróság október 15-én jogerősen elutasította a kormány és a pénzügyminisztérium fellebbezését, így az államnak mintegy 5 milliárd lejes, körülbelül 1 milliárd eurós hátralék kifizetéséhez kell forrást biztosítania. Az ítélet végrehajtására tíz nap áll rendelkezésre; késedelem esetén napi 1 százalékos büntetés és a bruttó minimálbér 20 százalékának megfelelő napi bírság szerepel a határozatban. A döntés a költségvetési mozgásteret is szűkítheti, miközben a bérperek a közszféra szélesebb körét érintik.",
-    "content_hu": "• **Október 15-én a legfelsőbb bíróság jogerősen elutasította a kormány és a pénzügyminisztérium fellebbezését.** Helybenhagyta a bukaresti ítélőtábla május 5-i döntését, amely arra kötelezte az államot, hogy – szükség esetén költségvetési kiigazítással – biztosítsa a magisztrátusok elmaradt béreinek kifizetését.\n\n• **A legfelsőbb bíróság az Európai Unió Bíróságához fordulásra irányuló kormányzati kérelmet is elfogadhatatlannak minősítette.** A rendelkező rész a kormány és a pénzügyminisztérium fő fellebbezéseit, valamint két beavatkozó fellebbezését is megalapozatlanként utasította el; a döntés végleges és végrehajtható.\n\n• **A kifizetésre az ítélet jogerőre emelkedésétől számított tíz nap áll rendelkezésre.** Késedelem esetére napi 1 százalékos büntetést, valamint a bruttó minimálbér 20 százalékának megfelelő napi bírságot írtak elő; a tényleges alkalmazás a jogerős ítélet rendelkezéseitől és a végrehajtási eljárástól függ.\n\n• **A mintegy 5–5,2 milliárd lejes, körülbelül 1 milliárd eurós tétel napi 1 százalékos büntetése elméletben 50 millió lejt jelenthet.** A számítás tájékoztató jellegű, a büntetés tényleges alapját az ítélet és a végrehajtási szabályok határozzák meg.\n\n• **A tartozás nagysága a 2026 júliusától érvényes 4325 lejes bruttó minimálbér több mint 1,15 millió havi összegének felel meg.** A Mediafax összehasonlítása szerint az összeg több mint négyhavi, országosan folyósított gyermekpótléknak felel meg, és meghaladja a három regionális sürgősségi kórházhoz felvett európai beruházási banki kölcsönök együttes, 923 millió eurós értékét.\n\n• **A legfelsőbb bíróság szerint a késedelmes fizetések és a büntetőkamatok tovább növelték az állam tartozását.** Közlése szerint a felhalmozódó kamatok és bírságok évente több mint 21 százalékkal emelhetik az adósságot, szemben az államadósság 7,4 százalékos átlagos kamatával; ezt a fizetések elhalasztásával és az adósságok átütemezésével magyarázta.\n\n• **A legfelsőbb bíróság a közszférát érintő szélesebb problémának nevezte a bérperek ügyét.** Állítása szerint több mint 400 ezer, különböző foglalkozási csoportokhoz tartozó közalkalmazott kért bíróságon bérezési jogokat, ezért a jelenség nem kizárólag az igazságszolgáltatásra korlátozódik.\n\n• **A bíróság szerint nem kiváltságokról, hanem jogerősen elismert jogok végrehajtásáról van szó.** Közleményében azt állította, hogy a kormány saját jogszabályaiban is elismerte a tartozásokat, mégsem biztosította a kifizetésükhöz szükséges forrásokat; szerinte a költségvetési mérlegelés nem igazolhatja a jogerős ítéletek végrehajtásának elmaradását.\n\n• **A legfelsőbb bíróság a kormány jelenlegi magatartását is bírálta.** Közleménye szerint a szükséges forrásokat a fő költségvetési előirányzatot kezelő szerv kérte, de a pénzügyi szabályokból és az adósságok ütemezéséről szóló jogszabályokból eredő kötelezettségeket nem teljesítették; a bíróság ezt a magatartást a jelenlegi kormány alatt is folytatódónak nevezte.\n\n• **A döntés az alakuló Luca Niculescu-kormányra is pénzügyi kötelezettséget róhat.** A kabinetnek – ha megkapja a parlamenti bizalmat – biztosítania kell a kifizetéshez szükséges forrásokat; a beiktatásról szóló szavazást október 16-ra tervezték.\n\n• **A hátralékok a bírák és ügyészek 2018-tól visszamenőleg alkalmazott 25 százalékos béremeléséből erednek.** A legfelsőbb bíróság és a főügyészség 2023-ban döntött az emelésről, bírósági határozatokhoz igazodva; a kormány a kifizetések egy részét elhalasztotta, a forrásokat pedig egy 1,1 milliárd lejes, a PSD által támogatott szociális segélycsomagra irányította át.\n\n• **A kifizetést szükség esetén költségvetési kiigazítással kell biztosítani.** A pénzügyminisztérium márciusban továbbított 2026-os költségvetési tervezete közel 5 milliárd lejt irányzott elő a legfelsőbb bíróságnak, mintegy 50 százalékkal többet az előző évinél; az összeget részben a hátralékokra szánták.\n\n• **A kötelezettség tovább szűkítheti a költségvetési mozgásteret.** A Mediafax szerint Románia 2026-os deficitcélja a GDP 6,2 százaléka, a következő évre kitűzött plafon pedig 5,1 százalék; a hatás a kifizetések ütemezésétől, a már betervezett forrásoktól és a deficit elszámolásától is függ.\n\n• **A fellebbezést július eleje óta háromtagú tanács tárgyalta.** A közigazgatási és adóügyi kollégium bírái Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon és Emilian-Constantin Meiu voltak; a legfelsőbb bíróság hétszer halasztotta el a döntést.\n\n• **A legfelsőbb bíróság szerint a tartozás a bírák tulajdonhoz való jogát érinti.** Keresetében arra hivatkozott, hogy több mint tíz éve végrehajtatlan végrehajtható okiratok vannak, és azt állította, hogy a kormány sérti a hatalmi ágak szétválasztását, valamint aláássa az igazságszolgáltatás legitimitását.\n\n• **A kormány vitatta a bíróság költségvetési hatáskörét.** Alkotmányossági kifogást kért annak tisztázására, kötelezheti-e a bíróság a kormányt többletforrás biztosítására, és az Európai Unió Bíróságához is előzetes döntéshozatali kérdést intézett volna, az eljárás felfüggesztését kérve. Ilie Bolojan július 2-án alkotmányos jogi konfliktus megállapítását kezdeményezte a legfelsőbb bírósággal szemben.\n\n• **Az alkotmánybíróság október 7-én elfogadhatatlannak minősítette Bolojan beadványát.** Kimondta, hogy nem állt fenn alkotmányos jogi konfliktus, és nem feladata bírói ítéletek felülvizsgálata vagy módosítása; az ilyen kifogásokat rendes jogorvoslati úton kell rendezni.",
-    "title_ro": "Înalta Curte a respins definitiv recursul Guvernului în procesul privind restanțele salariale ale magistraților",
-    "lead_ro": "Pe 15 octombrie, Înalta Curte de Casație și Justiție a respins definitiv recursurile Guvernului și Ministerului Finanțelor, obligând statul să asigure fondurile pentru plata unor restanțe de aproximativ 5 miliarde de lei, echivalentul a circa un miliard de euro. Hotărârea trebuie pusă în executare în zece zile; pentru întârziere sunt prevăzute penalități de 1% pe zi și o amendă zilnică de 20% din salariul minim brut. Decizia poate restrânge spațiul bugetar, iar litigiile salariale privesc și alte categorii din sectorul public.",
-    "content_ro": "• **Pe 15 octombrie, Înalta Curte a respins definitiv recursurile Guvernului și Ministerului Finanțelor.** Instanța a menținut hotărârea Curții de Apel București din 5 mai, care obligă statul să asigure, inclusiv prin rectificare bugetară dacă este necesar, fondurile pentru plata restanțelor salariale ale magistraților.\n\n• **Înalta Curte a respins ca inadmisibilă și cererea Guvernului de sesizare a Curții de Justiție a Uniunii Europene.** Dispozitivul a respins ca nefondate recursurile principale ale Guvernului și Ministerului Finanțelor, precum și două recursuri ale intervenienților; decizia este definitivă și executorie.\n\n• **Guvernul și Ministerul Finanțelor au la dispoziție zece zile de la rămânerea definitivă a hotărârii pentru a o executa.** Pentru întârziere sunt prevăzute penalități de 1% pe zi și o amendă zilnică echivalentă cu 20% din salariul minim brut; aplicarea efectivă depinde de dispozitivul hotărârii definitive și de procedura de executare.\n\n• **La o datorie de aproximativ 5–5,2 miliarde de lei, penalitatea zilnică de 1% ar însemna teoretic 50 de milioane de lei.** Calculul este orientativ, iar baza efectivă de calcul este stabilită de hotărâre și de regulile de executare.\n\n• **Suma reprezintă peste 1,15 milioane de salarii minime brute lunare**, calculate la valoarea de 4.325 de lei, în vigoare din iulie 2026. Potrivit comparațiilor publicate de Mediafax, ea depășește patru luni de alocații pentru toți copiii și valoarea cumulată a împrumuturilor BEI, de 923 de milioane de euro, pentru cele trei spitale regionale de urgență.\n\n• **Potrivit Înaltei Curți, întârzierile la plată și dobânzile penalizatoare au mărit datoria statului.** Instanța a afirmat că dobânzile și penalitățile acumulate pot majora datoria cu peste 21% pe an, față de dobânda medie de 7,4% a datoriei publice, explicând diferența prin amânarea plăților și reeșalonarea datoriilor.\n\n• **Înalta Curte a descris litigiile salariale drept o problemă mai largă a sectorului public.** Potrivit instanței, peste 400.000 de persoane din diverse familii ocupaționale au cerut în instanță recunoașterea unor drepturi salariale, astfel că fenomenul nu se limitează la sistemul judiciar.\n\n• **Instanța susține că nu este vorba despre privilegii, ci despre executarea unor drepturi recunoscute definitiv.** În comunicatul său, Înalta Curte a afirmat că Guvernul a recunoscut datoriile prin propriile acte normative, dar nu a asigurat fondurile necesare; în opinia instanței, considerentele bugetare nu justifică neexecutarea hotărârilor definitive.\n\n• **Înalta Curte a criticat și conduita actualului Guvern.** Instanța a spus că ordonatorul principal de credite a solicitat fondurile necesare, dar autoritățile executive nu și-au îndeplinit obligațiile prevăzute de legislația finanțelor publice și de actele privind eșalonarea datoriilor; potrivit comunicatului, această conduită a continuat și sub actualul Guvern.\n\n• **Decizia poate impune obligații financiare viitorului Guvern condus de Luca Niculescu.** Dacă va primi votul de încredere al Parlamentului, noul cabinet va trebui să asigure fondurile necesare; votul de învestitură era programat pentru 16 octombrie.\n\n• **Restanțele provin din majorarea cu 25% a salariilor judecătorilor și procurorilor, aplicată retroactiv din 2018.** Înalta Curte și Parchetul General au decis majorarea în 2023, în acord cu hotărâri judecătorești; Guvernul a amânat o parte din plăți și a redirecționat fonduri către un pachet de ajutoare sociale de 1,1 miliarde de lei, susținut de PSD.\n\n• **Fondurile necesare trebuie asigurate, la nevoie, prin rectificare bugetară.** Proiectul bugetului pe 2026 transmis de Ministerul Finanțelor în martie prevedea aproape 5 miliarde de lei pentru Înalta Curte, cu aproximativ 50% mai mult decât în anul precedent; o parte din sumă era destinată restanțelor.\n\n• **Obligația poate reduce și mai mult spațiul bugetar disponibil.** Potrivit Mediafax, ținta de deficit a României pentru 2026 este de 6,2% din PIB, iar plafonul pentru anul următor este de 5,1%; efectul depinde de calendarul plăților, de fondurile deja prevăzute și de înregistrarea cheltuielilor în deficit.\n\n• **Recursurile au fost judecate de un complet de trei magistrați, iar pronunțarea a fost amânată de șapte ori.** Completul Secției de Contencios Administrativ și Fiscal a fost format din Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon și Emilian-Constantin Meiu.\n\n• **Înalta Curte susține că neplata afectează dreptul de proprietate al judecătorilor.** În cererea sa, instanța a invocat titluri executorii neexecutate de peste zece ani și a afirmat că Guvernul încalcă separația puterilor în stat și subminează legitimitatea instanțelor.\n\n• **Guvernul a contestat competența instanței de a impune alocări bugetare suplimentare.** A cerut sesizarea Curții Constituționale pentru clarificarea acestei chestiuni și sesizarea CJUE, cu suspendarea procesului până la pronunțarea acesteia. Pe 2 iulie, Ilie Bolojan a sesizat Curtea Constituțională pentru constatarea unui conflict juridic de natură constituțională cu Înalta Curte.\n\n• **Pe 7 octombrie, Curtea Constituțională a respins ca inadmisibilă sesizarea lui Bolojan.** Curtea a stabilit că nu exista un conflict juridic de natură constituțională și că nu îi revine competența să revizuiască sau să modifice hotărâri judecătorești; nemulțumirile trebuie soluționate prin căile obișnuite de atac."
   },
   {
     "group_id": "group_dc7fcabe9e",
@@ -17193,89 +17644,5 @@
     "title_ro": "Un bărbat a venit cu fața acoperită la proces, după ce fusese arestat pentru că purtase burqa. Ce explicație a dat judecătorilor",
     "lead_ro": "Un pensionar britanic de 76 de ani i-a surprins pe magistrații care urmau să-l judece, după ce a venit la tribunal îmbrăcat în burqa, exact veșmântul pentru a cărui purtare fusese arestat la un protes…",
     "content_ro": "Un pensionar britanic de 76 de ani i-a surprins pe magistrații care urmau să-l judece, după ce a venit la tribunal îmbrăcat în burqa, exact veșmântul pentru a cărui purtare fusese arestat la un protest împotriva migrației."
-  },
-  {
-    "group_id": "group_92b8c44e17",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "EFEMERIDE ASTRONOMICE - 15 octombrie",
-        "link": "https://agerpres.ro/documentare/2026/10/15/efemeride-astronomice---15-octombrie--1603100"
-      }
-    ],
-    "published_at": 1792035152,
-    "title_hu": "EFEMERIDE ASTRONOMICE - 15 octombrie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "EFEMERIDE ASTRONOMICE - 15 octombrie",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_b75ee7fa22",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Volum despre istoria clădirilor Bibliotecii Academiei - lansat la Banca Națională a României",
-        "link": "https://agerpres.ro/cultura-media/2026/10/15/volum-despre-istoria-cladirilor-bibliotecii-academiei---lansat-la-banca-nationala-a-romaniei--1603106"
-      }
-    ],
-    "published_at": 1792035152,
-    "title_hu": "Volum despre istoria clădirilor Bibliotecii Academiei - lansat la Banca Națională a României",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Volum despre istoria clădirilor Bibliotecii Academiei - lansat la Banca Națională a României",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_cba438339f",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Manifestări dedicate scriitorului Norman Manea, cu prilejul împlinirii vârstei de 90 de ani - joi și vineri, la București",
-        "link": "https://agerpres.ro/cultura-media/2026/10/15/manifestari-dedicate-scriitorului-norman-manea-cu-prilejul-implinirii-varstei-de-90-de-ani---joi-si---1602028"
-      }
-    ],
-    "published_at": 1792035152,
-    "title_hu": "Manifestări dedicate scriitorului Norman Manea, cu prilejul împlinirii vârstei de 90 de ani - joi și vineri, la București",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Manifestări dedicate scriitorului Norman Manea, cu prilejul împlinirii vârstei de 90 de ani - joi și vineri, la București",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_f3ce30c2ad",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Horatiu-Cosma-Harta-de-Impact-1024x576.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "VIDEO | România vrea investiții în transporturi de aproape 500 de miliarde de lei, de zece ori peste banii disponibili în următorii doi ani. Ministerul pregătește prioritizarea proiectelor",
-        "link": "https://economedia.ro/video-romania-vrea-investitii-in-transporturi-de-aproape-500-de-miliarde-de-lei-de-zece-ori-peste-banii-disponibili-in-urmatorii-doi-ani-ministerul-pregateste-prioritizarea-proiectelor.html"
-      }
-    ],
-    "published_at": 1792035057,
-    "title_hu": "VIDEO | România vrea investiții în transporturi de aproape 500 de miliarde de lei, de zece ori peste banii disponibili în următorii doi ani. Ministerul pregătește prioritizarea proiectelor",
-    "lead_hu": "România a planificat investiții în transporturi de aproape 500 de miliarde de lei, pentru următorii ani, în timp ce resursele disponibile pentru finanțarea acestora în următorii doi ani sunt de aproxi…",
-    "content_hu": "România a planificat investiții în transporturi de aproape 500 de miliarde de lei, pentru următorii ani, în timp ce resursele disponibile pentru finanțarea acestora în următorii doi ani sunt de aproximativ zece ori mai mici, a declarat Horațiu Cosma, secretar de stat în Ministerul Transporturilor, în emisiunea Harta de Impact, realizată în parteneriat de G4Media […]",
-    "title_ro": "VIDEO | România vrea investiții în transporturi de aproape 500 de miliarde de lei, de zece ori peste banii disponibili în următorii doi ani. Ministerul pregătește prioritizarea proiectelor",
-    "lead_ro": "România a planificat investiții în transporturi de aproape 500 de miliarde de lei, pentru următorii ani, în timp ce resursele disponibile pentru finanțarea acestora în următorii doi ani sunt de aproxi…",
-    "content_ro": "România a planificat investiții în transporturi de aproape 500 de miliarde de lei, pentru următorii ani, în timp ce resursele disponibile pentru finanțarea acestora în următorii doi ani sunt de aproximativ zece ori mai mici, a declarat Horațiu Cosma, secretar de stat în Ministerul Transporturilor, în emisiunea Harta de Impact, realizată în parteneriat de G4Media […]"
   }
 ]
