@@ -1,5 +1,68 @@
 [
   {
+    "group_id": "group_a923341996",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Trump îi urează însănătoșire grabnică papei Leon al XIV-lea",
+        "link": "https://agerpres.ro/politic-extern/2026/10/15/video-trump-ii-ureaza-insanatosire-grabnica-papei-leon-al-xiv-lea--1603099"
+      }
+    ],
+    "published_at": 1792023426,
+    "title_hu": "VIDEO Trump îi urează însănătoșire grabnică papei Leon al XIV-lea",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "VIDEO Trump îi urează însănătoșire grabnică papei Leon al XIV-lea",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_df02b9a960",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-f/fcfa24a2-099a-4bd3-affe-b2c8a0ee98fd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "„N-a plouat nici cât să se așeze praful”. Seceta ține pe loc semănatul în sudul țării",
+        "link": "https://adevarul.ro/stiri-locale/craiova/n-a-plouat-nici-cat-sa-se-aseze-praful-seceta-2563534.html"
+      }
+    ],
+    "published_at": 1792023085,
+    "title_hu": "„N-a plouat nici cât să se așeze praful”. Seceta ține pe loc semănatul în sudul țării",
+    "lead_hu": "Fermierii nu se mai uită pe cer, ci verifică din oră-n oră datele despre vreme pe telefon, tot sperând că ploaia va veni și la ei. Campania agricolă de toamnă s-a derulat cu rezultate nesatisfăcătoare…",
+    "content_hu": "Fermierii nu se mai uită pe cer, ci verifică din oră-n oră datele despre vreme pe telefon, tot sperând că ploaia va veni și la ei. Campania agricolă de toamnă s-a derulat cu rezultate nesatisfăcătoare în zonele afectate de secetă.",
+    "title_ro": "„N-a plouat nici cât să se așeze praful”. Seceta ține pe loc semănatul în sudul țării",
+    "lead_ro": "Fermierii nu se mai uită pe cer, ci verifică din oră-n oră datele despre vreme pe telefon, tot sperând că ploaia va veni și la ei. Campania agricolă de toamnă s-a derulat cu rezultate nesatisfăcătoare…",
+    "content_ro": "Fermierii nu se mai uită pe cer, ci verifică din oră-n oră datele despre vreme pe telefon, tot sperând că ploaia va veni și la ei. Campania agricolă de toamnă s-a derulat cu rezultate nesatisfăcătoare în zonele afectate de secetă."
+  },
+  {
+    "group_id": "group_7cd6257377",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/08/hepta_8230304-2-1024x619.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Guvernul britanic va aloca 17 milioane de lire sterline pentru reparațiile la centrala nucleară de la Cernobîl",
+        "link": "https://www.mediafax.ro/externe/guvernul-britanic-va-aloca-17-milioane-de-lire-sterline-pentru-reparatiile-la-centrala-nucleara-de-la-cernobil-23825620"
+      }
+    ],
+    "published_at": 1792022955,
+    "title_hu": "Guvernul britanic va aloca 17 milioane de lire sterline pentru reparațiile la centrala nucleară de la Cernobîl",
+    "lead_hu": "Marea Britanie va contribui cu 17 milioane de lire sterline la repararea instalațiilor de protecție ale centralei nucleare de la Cernobîl, avariate într-un atac cu dronă rusească. Autoritățile avertiz…",
+    "content_hu": "Marea Britanie va contribui cu 17 milioane de lire sterline la repararea instalațiilor de protecție ale centralei nucleare de la Cernobîl, avariate într-un atac cu dronă rusească. Autoritățile avertizează că deteriorarea acestora ar putea genera riscuri de siguranță și de mediu pe termen lung.",
+    "title_ro": "Guvernul britanic va aloca 17 milioane de lire sterline pentru reparațiile la centrala nucleară de la Cernobîl",
+    "lead_ro": "Marea Britanie va contribui cu 17 milioane de lire sterline la repararea instalațiilor de protecție ale centralei nucleare de la Cernobîl, avariate într-un atac cu dronă rusească. Autoritățile avertiz…",
+    "content_ro": "Marea Britanie va contribui cu 17 milioane de lire sterline la repararea instalațiilor de protecție ale centralei nucleare de la Cernobîl, avariate într-un atac cu dronă rusească. Autoritățile avertizează că deteriorarea acestora ar putea genera riscuri de siguranță și de mediu pe termen lung."
+  },
+  {
     "group_id": "group_b874c23f90",
     "fingerprint": "a2c3c809fac356c9b5092af1393c68cf",
     "category": "Általános",
@@ -11500,304 +11563,5 @@
     "title_ro": "În UE se pun pe piață de aproape trei ori mai multe electronice decât se colectează",
     "lead_ro": "Datele Eurostat pentru 2024 arată că în Uniunea Europeană au fost puse pe piață 32,4 kilograme de echipamente electrice și electronice noi pe locuitor, în timp ce colectarea deșeurilor de acest tip a ajuns la 12,3 kilograme. Decalajul s-a mărit considerabil în ultimul deceniu, însă aparatele necolectate nu sunt toate aruncate: multe sunt încă folosite sau păstrate în locuințe.",
     "content_ro": "• **În 2024**, în UE au fost puse pe piață, în medie, 32,4 kilograme de echipamente electrice și electronice noi pentru fiecare locuitor, iar colectarea deșeurilor similare a însumat 12,3 kilograme. Diferența a fost de 20,1 kilograme pe persoană.\n\n• **Între 2015 și 2024**, cantitatea de echipamente noi introduse pe piață a crescut cu 79%, de la 18,1 la 32,4 kilograme pe locuitor. Creșterea a fost susținută în special de echipamente mari, precum mașinile de spălat, mașinile de spălat vase și panourile fotovoltaice.\n\n• **Colectarea a avansat mai lent:** de la 7,3 kilograme pe locuitor în 2015 la 12,3 kilograme în 2024. Ultima valoare a fost cu numai 0,7 kilograme peste cea din 2023.\n\n• **Aparatele necolectate nu devin automat deșeuri:** unele continuă să fie folosite, altele sunt păstrate în locuințe, iar o parte ajunge în circuite informale de tratare, care nu sunt monitorizate oficial. Statisticile includ produse precum telefoane mobile, laptopuri, televizoare, frigidere, mașini de spălat și panouri fotovoltaice.\n\n• **Bulgaria a colectat cea mai mare cantitate de deșeuri electronice pe locuitor** în 2024, respectiv 18,9 kilograme. Cehia a înregistrat 17,8 kilograme, iar Franța 17,7; cele mai mici valori au fost raportate în Cipru (4,7 kilograme), Portugalia (6 kilograme) și Malta (6,4 kilograme).\n\n• **Austria a avut cea mai mare cantitate de echipamente noi puse pe piață**, cu 38,2 kilograme pe locuitor, urmată de Germania, cu 38, și Danemarca, cu 37 de kilograme. În Germania s-au colectat 11 kilograme de deșeuri la 38 de kilograme de echipamente noi, iar în Spania raportul a fost de 9,3 kilograme colectate la 36 de kilograme introduse pe piață.\n\n• **Eurostat avertizează că valorile ar putea fi subestimate:** comerțul online transfrontalier, vânzările nedeclarate de unii producători și deșeurile preluate de operatori informali îngreunează raportarea. Normele europene urmăresc creșterea colectării, recuperării materialelor, reciclării și reutilizării echipamentelor scoase din uz."
-  },
-  {
-    "group_id": "group_bb64aabe85",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Zonait.ro",
-        "title": "Neurony, printre cele trei companii din România cu statutul Anthropic Claude Select Partner",
-        "link": "https://zonait.ro/neurony-romania-statutul-anthropic-claude-select-partner/"
-      }
-    ],
-    "published_at": 1791980229,
-    "title_hu": "Neurony, printre cele trei companii din România cu statutul Anthropic Claude Select Partner",
-    "lead_hu": "Publicat pe Zona IT de catre Contributors: București, 13 octombrie 2026. Neurony, companie românească de dezvoltare software și inteligență artificială, se numără printre cele doar trei companii din R…",
-    "content_hu": "Publicat pe Zona IT de catre Contributors: București, 13 octombrie 2026. Neurony, companie românească de dezvoltare software și inteligență artificială, se numără printre cele doar trei companii din România care dețin în 2026 statutul Anthropic Claude Select Partner. Acest statut oferă acces la programe de pregătire tehnică, sprijin pentru implementarea soluțiilor destinate clienților și oportunități de marketing comun cu Anthropic, compania americană … Citeste mai mult: Neurony, printre cele trei companii din România cu statutul Anthropic Claude Select Partner - Zona IT.",
-    "title_ro": "Neurony, printre cele trei companii din România cu statutul Anthropic Claude Select Partner",
-    "lead_ro": "Publicat pe Zona IT de catre Contributors: București, 13 octombrie 2026. Neurony, companie românească de dezvoltare software și inteligență artificială, se numără printre cele doar trei companii din R…",
-    "content_ro": "Publicat pe Zona IT de catre Contributors: București, 13 octombrie 2026. Neurony, companie românească de dezvoltare software și inteligență artificială, se numără printre cele doar trei companii din România care dețin în 2026 statutul Anthropic Claude Select Partner. Acest statut oferă acces la programe de pregătire tehnică, sprijin pentru implementarea soluțiilor destinate clienților și oportunități de marketing comun cu Anthropic, compania americană … Citeste mai mult: Neurony, printre cele trei companii din România cu statutul Anthropic Claude Select Partner - Zona IT."
-  },
-  {
-    "group_id": "group_5c99f4e182",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23260007/1/2765126-publimedia-shutterstock.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Raiffeisen Bank simplifică accesul la creditele pentru locuinţe: simulări, comparaţii de dobândă şi preaprobare în circa 6 minute, direct din aplicaţie",
-        "link": "https://www.zf.ro/banci-si-asigurari/raiffeisen-bank-simplifica-accesul-la-creditele-pentru-locuinte-simulari-comparatii-de-dobanda-si-preaprobare-in-circa-6-minute-direct-din-aplicatie-23260007"
-      }
-    ],
-    "published_at": 1791980068,
-    "title_hu": "Raiffeisen Bank simplifică accesul la creditele pentru locuinţe: simulări, comparaţii de dobândă şi preaprobare în circa 6 minute, direct din aplicaţie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Raiffeisen Bank simplifică accesul la creditele pentru locuinţe: simulări, comparaţii de dobândă şi preaprobare în circa 6 minute, direct din aplicaţie",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_5feaa04d7d",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Captura-de-ecran-din-2026-10-14-la-15.02.58-1200x688.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "BANCUL ZILEI | Într-o zi, Făt Frumos a întrebat-o pe Ileana Cosânzeana: „Vrei să fii soția mea?”",
-        "link": "https://www.cancan.ro/bancul-zilei-intr-o-zi-fat-frumos-a-intrebat-o-pe-ileana-cosanzeana-vrei-sa-fii-sotia-mea-21530048"
-      }
-    ],
-    "published_at": 1791979892,
-    "title_hu": "BANCUL ZILEI | Într-o zi, Făt Frumos a întrebat-o pe Ileana Cosânzeana: „Vrei să fii soția mea?”",
-    "lead_hu": "Este miercuri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN îți propune un banc care te va face să zâmbești numaidecât. Într-o zi, Fă…",
-    "content_hu": "Este miercuri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN îți propune un banc care te va face să zâmbești numaidecât. Într-o zi, Făt Frumos a întrebat-o pe Ileana Cosânzeana: – Vrei să fii soţia mea? Ileana Cosânzeana s-a gândit […]",
-    "title_ro": "BANCUL ZILEI | Într-o zi, Făt Frumos a întrebat-o pe Ileana Cosânzeana: „Vrei să fii soția mea?”",
-    "lead_ro": "Este miercuri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN îți propune un banc care te va face să zâmbești numaidecât. Într-o zi, Fă…",
-    "content_ro": "Este miercuri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN îți propune un banc care te va face să zâmbești numaidecât. Într-o zi, Făt Frumos a întrebat-o pe Ileana Cosânzeana: – Vrei să fii soţia mea? Ileana Cosânzeana s-a gândit […]"
-  },
-  {
-    "group_id": "group_99f126524c",
-    "category": "Sport",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/02/profimedia-0963770183.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "VIDEO: Ostapenko, surpriza zilei la WTA Wuhan – A salvat mingi de meci și a eliminat-o pe a doua favorită",
-        "link": "https://www.g4media.ro/video-ostapenko-surpriza-zilei-la-wta-wuhan-a-salvat-mingi-de-meci-si-a-eliminat-o-pe-a-doua-favorita.html"
-      }
-    ],
-    "published_at": 1791979822,
-    "title_hu": "VIDEO: Ostapenko, surpriza zilei la WTA Wuhan – A salvat mingi de meci și a eliminat-o pe a doua favorită",
-    "lead_hu": "Jessica Pegula, a doua favorită, a fost eliminată miercuri în turul doi al turneului WTA de la Wuhan. Jelena Ostapenko a fost cea care a furnizat surpriza zilei la competiția din China. Ostapenko, vic…",
-    "content_hu": "Jessica Pegula, a doua favorită, a fost eliminată miercuri în turul doi al turneului WTA de la Wuhan. Jelena Ostapenko a fost cea care a furnizat surpriza zilei la competiția din China. Ostapenko, victorie cu Pegula după ce a salvat trei mingi de meci Ocupantă a locului 34 în ierarhia mondială de simplu, Ostapenko a […] © G4Media.ro.",
-    "title_ro": "VIDEO: Ostapenko, surpriza zilei la WTA Wuhan – A salvat mingi de meci și a eliminat-o pe a doua favorită",
-    "lead_ro": "Jessica Pegula, a doua favorită, a fost eliminată miercuri în turul doi al turneului WTA de la Wuhan. Jelena Ostapenko a fost cea care a furnizat surpriza zilei la competiția din China. Ostapenko, vic…",
-    "content_ro": "Jessica Pegula, a doua favorită, a fost eliminată miercuri în turul doi al turneului WTA de la Wuhan. Jelena Ostapenko a fost cea care a furnizat surpriza zilei la competiția din China. Ostapenko, victorie cu Pegula după ce a salvat trei mingi de meci Ocupantă a locului 34 în ierarhia mondială de simplu, Ostapenko a […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_dddf26760d",
-    "fingerprint": "278166906c6d125c965ad62b1b7f2695",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-14.57.10-e1791979416868.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Programul ANOFM – BAT România continuă să genereze oportunități de angajare în comunitățile afectate de contrabandă",
-        "link": "https://www.g4media.ro/programul-anofm-bat-romania-continua-sa-genereze-oportunitati-de-angajare-in-comunitatile-afectate-de-contrabanda.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Programul ANOFM – BAT România continuă să genereze oportunități de angajare în comunitățile afectate de contrabandă",
-        "link": "https://www.mediafax.ro/comunicate/programul-anofm-bat-romania-continua-sa-genereze-oportunitati-de-angajare-in-comunitatile-afectate-de-contrabanda-23825269"
-      }
-    ],
-    "published_at": 1791979795,
-    "title_hu": "121-en végeztek az ANOFM–BAT munkaerőpiaci programjában",
-    "lead_hu": "Az ANOFM, a pártfogó felügyelet országos igazgatósága és a BAT România közös képzési programjának legújabb, Suceava megyei csoportjában 13-an szereztek szakmai képesítést, közülük tízen pártfogó felügyelet alatt állnak. A 2025-ben indított kezdeményezésben eddig összesen 121-en végeztek.",
-    "content_hu": "• **A legújabb suceavai csoportban** 13 résztvevő végzett szakácssegéd-képzésen; közülük tízen a pártfogó felügyeleti szolgálatok nyilvántartásában szerepelnek.\n\n• **A programban eddig 121-en** szereztek országos és európai szinten elismert szakmai képesítést. A képzést az Országos Munkaerő-foglalkoztatási Ügynökség (ANOFM), a pártfogó felügyelet országos igazgatósága és a BAT România szervezi együttműködésben.\n\n• **A 2025-ben indított kezdeményezés** célja, hogy képzéssel és munkalehetőségekkel támogassa a dohánytermékek illegális kereskedelme által érintett közösségeket. Az első programok Suceava és Dolj megyében indultak; a pártfogó felügyelet országos igazgatósága 2026-ban csatlakozott partnerként.\n\n• **A szervezők szerint** a szakképzés segítheti a résztvevők társadalmi és szakmai visszailleszkedését, valamint a stabil munkahelyhez és legális jövedelemhez jutást. A BAT képviselője a legutóbbi csoport kapcsán a visszaesés megelőzését is a program lehetséges eredményei közé sorolta.\n\n• **A közleményben idézett Novel Research-adatok szerint** az illegális dohánykereskedelem az elmúlt öt év legmagasabb szintjére, a teljes piac mintegy 14 százalékára emelkedett. Az iparági adatok évi több mint 2,5 milliárd lejre teszik az ebből eredő költségvetési kiesést.",
-    "title_ro": "121 de absolvenți în programul ANOFM–BAT de formare profesională",
-    "lead_ro": "În cea mai recentă serie de cursuri din județul Suceava, organizată de ANOFM, Direcția Națională de Probațiune și BAT România, 13 persoane s-au calificat ca ajutor de bucătar, dintre care zece se află în evidența serviciilor de probațiune. În total, 121 de persoane au absolvit până acum programul lansat în 2025.",
-    "content_ro": "• **Cea mai recentă serie din Suceava** a avut 13 absolvenți ai cursului de calificare ca ajutor de bucătar; zece dintre ei se află în evidența serviciilor de probațiune.\n\n• **În program s-au calificat până acum 121 de persoane**, care au obținut certificări profesionale recunoscute la nivel național și european. Cursurile sunt organizate în parteneriat de Agenția Națională pentru Ocuparea Forței de Muncă (ANOFM), Direcția Națională de Probațiune și BAT România.\n\n• **Inițiativa lansată în 2025** urmărește să ofere formare și oportunități de angajare în comunități afectate de comerțul ilicit cu produse din tutun. Primele programe au fost derulate în județele Suceava și Dolj, iar Direcția Națională de Probațiune s-a alăturat ca partener în 2026.\n\n• **Potrivit organizatorilor**, calificarea profesională poate sprijini reintegrarea socială și profesională și accesul la locuri de muncă stabile și venituri legale. Reprezentanta BAT a menționat prevenirea recidivei printre efectele urmărite ale programului.\n\n• **Datele Novel Research citate în comunicat** indică faptul că piața produselor din tutun comercializate ilegal a ajuns la aproximativ 14% din piața totală, cel mai ridicat nivel din ultimii cinci ani. Potrivit datelor industriei, pierderile anuale la bugetul de stat depășesc 2,5 miliarde de lei."
-  },
-  {
-    "group_id": "group_45ba6ad865",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21330/23259995/1/energiaverde-ss.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Compania poloneză R.Power anunţă al doilea proiect de stocare a energiei în baterii la scară industrială din România, în judeţul Olt, care se adaugă proiectului de la Scorniceşti, aflat aproape de finalizare",
-        "link": "https://www.zf.ro/zf-24/compania-poloneza-r-power-anunta-doilea-proiect-stocare-energiei-baterii-scara-industriala-romania-judetul-olt-adauga-proiectului-scornicesti-aflat-aproape-finalizare-23259995"
-      }
-    ],
-    "published_at": 1791979653,
-    "title_hu": "Compania poloneză R.Power anunţă al doilea proiect de stocare a energiei în baterii la scară industrială din România, în judeţul Olt, care se adaugă proiectului de la Scorniceşti, aflat aproape de finalizare",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Compania poloneză R.Power anunţă al doilea proiect de stocare a energiei în baterii la scară industrială din România, în judeţul Olt, care se adaugă proiectului de la Scorniceşti, aflat aproape de finalizare",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_18172ddf49",
-    "fingerprint": "c1e5382544e10f214e207cfe293e43da",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8154027-mediafax_foto-dpa_hepta-1024x855.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Condamnare de la 40 de ani la închisoare pe viață. Cazul uciderii lui Tupac Shakur a fost închis, marele mister rămâne",
-        "link": "https://stirileprotv.ro/show-buzz/entertainment/condamnare-de-la-40-de-ani-la-inchisoare-pe-viata-cazul-uciderii-lui-tupac-shakur-a-fost-inchis-marele-mister-ramane.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Bărbatul condamnat pentru uciderea lui Tupac Shakur și-a aflat pedeapsa, la 30 de ani de la crimă. Câți ani va petrece în închisoare",
-        "link": "https://www.cancan.ro/barbatul-condamnat-pentru-uciderea-lui-tupac-shakur-si-a-aflat-pedeapsa-la-30-de-ani-de-la-crima-cati-ani-va-petrece-in-inchisoare-21529990"
-      }
-    ],
-    "published_at": 1791979648,
-    "title_hu": "Legalább 40 évre, akár életfogytiglanra ítélték Duane Davist Tupac Shakur meggyilkolásának megszervezéséért",
-    "lead_hu": "Duane „Keffe D” Davist 2026. október 13-án Las Vegasban két, egymást követően letöltendő, egyenként 20 évtől életfogytig tartó szabadságvesztésre ítélték Tupac Shakur 1996-os meggyilkolásának megszervezéséért. A 63 éves férfit augusztusban találta bűnösnek az esküdtszék; Davis fellebbezést jelentett be, miközben továbbra sem tisztázott, ki lőtte le a rappert.",
-    "content_hu": "• **A büntetés és az ítélethirdetés** Davist két, egymást követően letöltendő, egyenként 20 évtől életfogytig tartó szabadságvesztésre ítélték: egyet gyilkosságért, egyet halálos fegyver használatáért. A büntetés legalább 40 év letöltését jelenti; az ítéletet 2026. október 13-án, Las Vegasban hirdették ki, mintegy hat héttel azután, hogy az esküdtszék augusztusban bűnösnek találta elsőfokú gyilkosságban.\n\n• **Davis fellebbezése és a lefoglalt tárgyak** A 63 éves Davis közölte, hogy fellebbez az ítélet ellen; ügyvédje szintén jelezte a fellebbezést. Az ítélethirdetésen Davis azt kérte, adják vissza az otthonából lefoglalt tárgyait, és vitatta, mennyi időt számítanak be neki az előzetes fogva tartásból.\n\n• **Az 1996. szeptember 7-i támadásban** a 25 éves Tupac Shakurt négyszer lőtték meg, miközben Marion „Suge” Knight, a Death Row Records vezetője által vezetett autóban utazott; Shakur hat nappal később meghalt. Knightet csak egy golyószilánk okozta kisebb sérülés érte.\n\n• **A megtorlás indítéka** az ügyészség szerint az volt, hogy Shakur és társai a Las Vegas-i MGM Grand kaszinóban összeverekedtek Davis unokaöccsével, Orlando Andersonnal. A két, Los Angeles környéki bandához kötődő társaság Mike Tyson és Bruce Seldon bokszmeccse miatt tartózkodott a városban.\n\n• **A támadás megszervezése** az ügyészek szerint Davishez köthető: unokaöccsét és két másik férfit egy fehér Cadillacbe ültetett, majd Shakurék keresésére indult. Davis korábbi vallomása szerint fegyvert adott a hátsó ülésen ülőknek, és az autóból egyikük nyitott tüzet.\n\n• **A lövöldöző személye** nem tisztázódott véglegesen, és az ügyészek hivatalosan nem neveztek meg feltételezett elkövetőt. Davis a 2008-as rendőrségi kihallgatásán a HotNews beszámolója szerint azt mondta, hogy unokaöccse, Orlando Anderson adta le a halálos lövéseket; Anderson 1998-ban meghalt, és korábban tagadta, hogy köze lett volna a gyilkossághoz. Nevada törvénye alapján Davis akkor is felelősségre vonható gyilkosságért, ha nem ő húzta meg a ravaszt.\n\n• **A Cadillac utasai** közül Davisen kívül a másik három férfi is meghalt azóta; így Davis az egyetlen túlélője annak az autónak, amelyből a lövéseket leadták.\n\n• **Davis kijelentései** az ügy fontos bizonyítékai voltak. 2008-ban, a Christopher Wallace, vagyis Notorious B.I.G. meggyilkolásával kapcsolatos nyomozás során beszélt a rendőröknek Shakur ügyéről, egy kezdetben védelmet biztosító megállapodás keretében. Később a Compton Street Legend című, 2019-es könyvében és interjúkban is beszélt a szerepéről; ezek miatt elveszítette a megállapodás nyújtotta védelmet, és vallomásait felhasználhatták a perben.\n\n• **A tárgyalás bizonyítékai** között nem volt olyan tárgyi bizonyíték, amely Davist a lövöldözés helyszínére helyezte volna. A vád főként Davis korábbi kijelentéseire és a bizalmas nyomozati találkozókról készült felvételekre támaszkodott; az ügyészek szerint Davis éveken át nyilvánosan dicsekedett a szerepével. A védelem szerint történetei kitalációk vagy a könyveladást és pénzszerzést szolgáló hencegések voltak.\n\n• **A család vallomásai** a büntetéskiszabás előtt hangzottak el. Sekyiwa Shakur, Tupac húga arról beszélt, hogy anyjuk emberi jogi aktivizmusra nevelte a rappert, aki jobbá akarta tenni a világot; a család elvesztését hosszú időre meghatározó fájdalomként írta le. Maurice Shakur, Tupac bátyja a lehető leghosszabb büntetést kérte. Sekyiwa a tárgyaláson arról is beszélt, hogy bátyja apai szerepet töltött be az életében, és halála súlyos lelki következményekkel járt számára.\n\n• **Carli Kierny bíró** elutasította Davis érvelését, hogy megváltozott az 1990-es évek óta. Azt mondta, Davis nem vehette el Shakur életét és jövőjét, majd nem tehetett úgy, mintha semmi sem történt volna; hozzátette, hogy a világ nem felejtette el a rappert.\n\n• **Az ügy előzménye**: Davist 2023-ban tartóztatták le, miután hosszú ideig nem állt rendelkezésre elegendő bizonyíték a vádemeléshez. Elítélése az első ebben az ügyben, amely közel három évtizeden át az Egyesült Államok egyik legismertebb megoldatlan gyilkossági esete volt.\n\n• **Shakur öröksége** túlmutatott zenei pályáján: lemezeiből világszerte több mint 75 millió példány kelt el, és 2017-ben bekerült a Rock and Roll Hall of Fame-be. Halála a kilencvenes évek hiphopkultúrájának és a keleti, illetve nyugati parti rap közötti rivalizálásnak is meghatározó eseményévé vált.\n\n• **Suge Knight jelenleg** egy ettől az ügytől független emberölési ügyben kiszabott 28 éves börtönbüntetését tölti.",
-    "title_ro": "Duane Davis, condamnat la cel puțin 40 de ani de închisoare pentru organizarea uciderii lui Tupac Shakur",
-    "lead_ro": "Duane „Keffe D” Davis a fost condamnat la 13 octombrie 2026, la Las Vegas, la două pedepse consecutive, fiecare între 20 de ani și închisoare pe viață, pentru organizarea uciderii lui Tupac Shakur în 1996. Juriul l-a găsit vinovat în august; Davis a anunțat că va face apel, iar identitatea celui care a tras focurile de armă rămâne neclarificată.",
-    "content_ro": "• **Pedeapsa și pronunțarea sentinței** Davis a primit două pedepse consecutive, fiecare între 20 de ani și închisoare pe viață: una pentru omor și una pentru folosirea unei arme letale. Pedeapsa presupune executarea a cel puțin 40 de ani; sentința a fost pronunțată la Las Vegas, la 13 octombrie 2026, la aproximativ șase săptămâni după ce juriul l-a găsit vinovat de omor de gradul întâi, în august.\n\n• **Apelul lui Davis și bunurile confiscate** Davis, în vârstă de 63 de ani, a spus că va contesta sentința, iar avocatul său a anunțat, de asemenea, că va face apel. La pronunțarea sentinței, Davis a cerut să-i fie restituite bunurile confiscate din locuință și a contestat durata care îi va fi scăzută pentru perioada petrecută în arest preventiv.\n\n• **Atacul din 7 septembrie 1996** Tupac Shakur, în vârstă de 25 de ani, a fost împușcat de patru ori în timp ce se afla în mașina condusă de Marion „Suge” Knight, șeful casei de discuri Death Row Records. Shakur a murit șase zile mai târziu; Knight a suferit doar o rană minoră provocată de un fragment de glonț.\n\n• **Motivul răzbunării** ar fi fost, potrivit acuzării, o altercație izbucnită la cazinoul MGM Grand din Las Vegas între Shakur și apropiații săi, pe de o parte, și nepotul lui Davis, Orlando Anderson, pe de altă parte. Cele două grupări asociate unor bande din zona Los Angeles se aflau în oraș pentru meciul de box dintre Mike Tyson și Bruce Seldon.\n\n• **Organizarea atacului** i-ar fi aparținut lui Davis, potrivit procurorilor: acesta și-ar fi luat nepotul și alți doi bărbați într-un Cadillac alb și ar fi pornit în căutarea lui Shakur și a lui Knight. Davis a declarat anterior că le-a dat o armă celor aflați pe bancheta din spate, iar unul dintre ocupanții mașinii a deschis focul.\n\n• **Identitatea trăgătorului** nu a fost stabilită definitiv, iar procurorii nu au desemnat oficial un presupus autor al focurilor de armă. Potrivit relatării HotNews despre interogatoriul din 2008, Davis le-a spus polițiștilor că nepotul său, Orlando Anderson, a tras focurile mortale. Anderson a murit în 1998 și negase anterior orice implicare în uciderea rapperului. Legea din Nevada permite condamnarea pentru omor a unei persoane care a participat la crimă chiar dacă nu a tras.\n\n• **Ocupанții Cadillacului**: ceilalți trei bărbați aflați în mașină împreună cu Davis au murit între timp; Davis este singurul supraviețuitor dintre ocupanții Cadillacului din care au fost trase focurile.\n\n• **Declarațiile lui Davis** au reprezentat probe importante în dosar. În 2008, în cadrul anchetei privind uciderea lui Christopher Wallace, cunoscut drept Notorious B.I.G., Davis le-a vorbit polițiștilor despre cazul lui Shakur, în baza unei înțelegeri care îi oferea inițial protecție. Ulterior, a discutat despre rolul său în cartea Compton Street Legend, publicată în 2019, și în interviuri; aceste dezvăluiri au dus la pierderea protecției acordului, iar declarațiile sale au putut fi folosite în proces.\n\n• **Probele din proces** nu au inclus dovezi materiale care să îl plaseze pe Davis la locul împușcăturilor. Acuzarea s-a bazat în principal pe declarațiile sale anterioare și pe înregistrările unor întâlniri confidențiale cu anchetatorii; procurorii au susținut că Davis s-a lăudat public ani la rând cu rolul său. Apărarea a afirmat că poveștile erau inventate sau exagerate pentru a-i aduce bani din vânzarea cărții.\n\n• **Declarațiile familiei** au fost făcute înaintea pronunțării sentinței. Sekyiwa Shakur, sora rapperului, a spus că mama lor l-a crescut în spiritul activismului pentru drepturile omului și că Tupac își dorea să facă lumea mai bună; ea a descris pierderea ca pe o durere care i-a afectat profund familia. Maurice Shakur, fratele lui Tupac, a cerut pedeapsa maximă. Sekyiwa a mai spus în instanță că fratele ei a avut un rol patern în viața sa și că moartea lui a avut consecințe psihologice grave pentru ea.\n\n• **Judecătoarea Carli Kierny** a respins argumentul lui Davis potrivit căruia s-ar fi schimbat față de anii 1990. Ea a spus că Davis nu putea să-i ia lui Shakur viața și viitorul și apoi să se comporte ca și cum nimic nu s-ar fi întâmplat; a adăugat că lumea nu l-a uitat pe rapper.\n\n• **Antecedentele cazului**: Davis a fost arestat în 2023, după o perioadă îndelungată în care autoritățile nu au avut suficiente probe pentru a-l acuza. Condamnarea sa este prima în acest dosar, care a rămas aproape trei decenii unul dintre cele mai cunoscute cazuri de crimă nerezolvate din Statele Unite.\n\n• **Moștenirea lui Shakur** a depășit cariera muzicală: albumele sale s-au vândut în peste 75 de milioane de exemplare la nivel mondial, iar în 2017 a fost inclus în Rock and Roll Hall of Fame. Moartea sa a devenit un moment definitoriu pentru cultura hip-hop a anilor 1990 și pentru rivalitatea dintre scenele rap de pe Coasta de Est și Coasta de Vest.\n\n• **Suge Knight** execută în prezent o pedeapsă de 28 de ani de închisoare într-un dosar separat de omor involuntar."
-  },
-  {
-    "group_id": "group_bfd800a722",
-    "category": "Általános",
-    "image": "https://www.kolozsvariradio.ro/wp-content/uploads/2026/10/korhaz-300x169.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Kolozsvári Rádió (HU)",
-        "title": "Már az egészségügyi rendszer működését veszélyezteti a politikai válság",
-        "link": "https://www.kolozsvariradio.ro/2026/10/14/mar-az-egeszsegugyi-rendszer-mukodeset-veszelyezteti-a-politikai-valsag/"
-      }
-    ],
-    "published_at": 1791979629,
-    "title_hu": "Már az egészségügyi rendszer működését veszélyezteti a politikai válság",
-    "lead_hu": "A SANITAS szakszervezeti szövetség arra figyelmeztet, hogy egyre több kórházban és mentőszolgálatnál ürül ki a kassza: a bérek kifizetése, a gyógyszerek és az egészségügyi eszközök beszerzése, sőt egy…",
-    "content_hu": "A SANITAS szakszervezeti szövetség arra figyelmeztet, hogy egyre több kórházban és mentőszolgálatnál ürül ki a kassza: a bérek kifizetése, a gyógyszerek és az egészségügyi eszközök beszerzése, sőt egyes helyeken a mentőautók üzemanyag-ellátása is veszélybe került. A finanszírozási gondok a daganatos, szív- és érrendszeri, valamint más krónikus betegeket ellátó országos egészségügyi programokat is érintik. Emellett az […] Articolul Már az egészségügyi rendszer működését veszélyezteti a politikai válság apare prima dată în Kolozsvári Rádió Románia.",
-    "title_ro": "Már az egészségügyi rendszer működését veszélyezteti a politikai válság",
-    "lead_ro": "A SANITAS szakszervezeti szövetség arra figyelmeztet, hogy egyre több kórházban és mentőszolgálatnál ürül ki a kassza: a bérek kifizetése, a gyógyszerek és az egészségügyi eszközök beszerzése, sőt egy…",
-    "content_ro": "A SANITAS szakszervezeti szövetség arra figyelmeztet, hogy egyre több kórházban és mentőszolgálatnál ürül ki a kassza: a bérek kifizetése, a gyógyszerek és az egészségügyi eszközök beszerzése, sőt egyes helyeken a mentőautók üzemanyag-ellátása is veszélybe került. A finanszírozási gondok a daganatos, szív- és érrendszeri, valamint más krónikus betegeket ellátó országos egészségügyi programokat is érintik. Emellett az […] Articolul Már az egészségügyi rendszer működését veszélyezteti a politikai válság apare prima dată în Kolozsvári Rádió Románia."
-  },
-  {
-    "group_id": "group_c4de021a52",
-    "category": "Általános",
-    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_20240113_foto_SepsiRun_futoelmeny_ikonikus_epuletekben3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Futócipőben a kommunizmus nyomában: intézményeken át vezet a sepsiszentgyörgyi futás",
-        "link": "https://maszol.ro/belfold/Futocipoben-a-kommunizmus-nyomaban-intezmenyeken-at-vezet-a-sepsiszentgyorgyi-futas"
-      }
-    ],
-    "published_at": 1791979620,
-    "title_hu": "Futócipőben a kommunizmus nyomában: intézményeken át vezet a sepsiszentgyörgyi futás",
-    "lead_hu": "Iskolai folyosón, moziteremben és gyárcsarnokban is dobognak majd a futócipők pénteken Sepsiszentgyörgyön.",
-    "content_hu": "Iskolai folyosón, moziteremben és gyárcsarnokban is dobognak majd a futócipők pénteken Sepsiszentgyörgyön.",
-    "title_ro": "Futócipőben a kommunizmus nyomában: intézményeken át vezet a sepsiszentgyörgyi futás",
-    "lead_ro": "Iskolai folyosón, moziteremben és gyárcsarnokban is dobognak majd a futócipők pénteken Sepsiszentgyörgyön.",
-    "content_ro": "Iskolai folyosón, moziteremben és gyárcsarnokban is dobognak majd a futócipők pénteken Sepsiszentgyörgyön."
-  },
-  {
-    "group_id": "group_c7a88df006",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Zonait.ro",
-        "title": "Factura la electricitate probabil va crește și pentru tine, odată cu centrele de procesare AI",
-        "link": "https://zonait.ro/factura-la-electricitate/"
-      }
-    ],
-    "published_at": 1791979567,
-    "title_hu": "Factura la electricitate probabil va crește și pentru tine, odată cu centrele de procesare AI",
-    "lead_hu": "Publicat pe Zona IT de catre Aurelian Mihai: La fel ca în SUA, centrele de procesare Cloud instalate rapid în Europa ar putea scumpi electricitatea pentru consumatorii de rând. Problema nu ține atât d…",
-    "content_hu": "Publicat pe Zona IT de catre Aurelian Mihai: La fel ca în SUA, centrele de procesare Cloud instalate rapid în Europa ar putea scumpi electricitatea pentru consumatorii de rând. Problema nu ține atât de opțiunile furnizorilor de energie, pe cât de mediul pieței care nu face în mod automat distincție între consumatori obișnuiți și cei din categoria industriali, centrele de procesare AI reprezentând … Citeste mai mult: Factura la electricitate probabil va crește și pentru tine, odată cu centrele de procesare AI - Zona IT.",
-    "title_ro": "Factura la electricitate probabil va crește și pentru tine, odată cu centrele de procesare AI",
-    "lead_ro": "Publicat pe Zona IT de catre Aurelian Mihai: La fel ca în SUA, centrele de procesare Cloud instalate rapid în Europa ar putea scumpi electricitatea pentru consumatorii de rând. Problema nu ține atât d…",
-    "content_ro": "Publicat pe Zona IT de catre Aurelian Mihai: La fel ca în SUA, centrele de procesare Cloud instalate rapid în Europa ar putea scumpi electricitatea pentru consumatorii de rând. Problema nu ține atât de opțiunile furnizorilor de energie, pe cât de mediul pieței care nu face în mod automat distincție între consumatori obișnuiți și cei din categoria industriali, centrele de procesare AI reprezentând … Citeste mai mult: Factura la electricitate probabil va crește și pentru tine, odată cu centrele de procesare AI - Zona IT."
-  },
-  {
-    "group_id": "group_740092519b",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/06032025/66a1c818-0fc1-4db6-a817-0abc40e36b8a.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Cel mai echilibrat campionat” » Adrian Ilie a numit echipele care se vor lupta la titlu în Superliga",
-        "link": "https://www.gsp.ro/fotbal/liga-1/adrian-ilie-echipe-lupta-la-titlu-in-superliga-988010.html"
-      }
-    ],
-    "published_at": 1791979540,
-    "title_hu": "„Cel mai echilibrat campionat” » Adrian Ilie a numit echipele care se vor lupta la titlu în Superliga",
-    "lead_hu": "Adrian Ilie (52 de ani), fostul mare atacant român, a analizat începutul noului sezon din Superligă și numit echipele care se vor lupta pentru câștigarea titlului. „Cobra” consideră că trei echipe se …",
-    "content_hu": "Adrian Ilie (52 de ani), fostul mare atacant român, a analizat începutul noului sezon din Superligă și numit echipele care se vor lupta pentru câștigarea titlului. „Cobra” consideră că trei echipe se vor lupta pentru trofeul Superligii: Dinamo, Rapid și Universitatea Craiova. Evoluția lui U Cluj din partida cu Rapid, câștigată de giuleșteni cu 4-3, a fost remarcată și de fostul internațional, care a apreciat că formația ardeleană poate intra în aceeași discuție. ...",
-    "title_ro": "„Cel mai echilibrat campionat” » Adrian Ilie a numit echipele care se vor lupta la titlu în Superliga",
-    "lead_ro": "Adrian Ilie (52 de ani), fostul mare atacant român, a analizat începutul noului sezon din Superligă și numit echipele care se vor lupta pentru câștigarea titlului. „Cobra” consideră că trei echipe se …",
-    "content_ro": "Adrian Ilie (52 de ani), fostul mare atacant român, a analizat începutul noului sezon din Superligă și numit echipele care se vor lupta pentru câștigarea titlului. „Cobra” consideră că trei echipe se vor lupta pentru trofeul Superligii: Dinamo, Rapid și Universitatea Craiova. Evoluția lui U Cluj din partida cu Rapid, câștigată de giuleșteni cu 4-3, a fost remarcată și de fostul internațional, care a apreciat că formația ardeleană poate intra în aceeași discuție. ..."
-  },
-  {
-    "group_id": "group_a97a70dbb5",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/profimedia-1142221421-1200x900.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Motivul neașteptat pentru care Sylvester Stallone spune că nu se poate retrage din lumea filmului, la 80 de ani: „Vorbesc serios!”",
-        "link": "https://www.cancan.ro/motivul-neasteptat-pentru-care-sylvester-stallone-spune-ca-nu-se-poate-retrage-din-lumea-filmului-la-80-de-ani-vorbesc-serios-21530025"
-      }
-    ],
-    "published_at": 1791979483,
-    "title_hu": "Motivul neașteptat pentru care Sylvester Stallone spune că nu se poate retrage din lumea filmului, la 80 de ani: „Vorbesc serios!”",
-    "lead_hu": "Sylvester Stallone a glumit că nu își permite să se retragă din activitate, deși a împlinit 80 de ani. Actorul a explicat că trebuie să continue să muncească pentru a plăti nunta fiicei sale Sophia, c…",
-    "content_hu": "Sylvester Stallone a glumit că nu își permite să se retragă din activitate, deși a împlinit 80 de ani. Actorul a explicat că trebuie să continue să muncească pentru a plăti nunta fiicei sale Sophia, care s-a logodit recent cu Michael Sheehan. Starul din „Rocky” și „Rambo” a vorbit despre pregătirile pentru eveniment în ediția […]",
-    "title_ro": "Motivul neașteptat pentru care Sylvester Stallone spune că nu se poate retrage din lumea filmului, la 80 de ani: „Vorbesc serios!”",
-    "lead_ro": "Sylvester Stallone a glumit că nu își permite să se retragă din activitate, deși a împlinit 80 de ani. Actorul a explicat că trebuie să continue să muncească pentru a plăti nunta fiicei sale Sophia, c…",
-    "content_ro": "Sylvester Stallone a glumit că nu își permite să se retragă din activitate, deși a împlinit 80 de ani. Actorul a explicat că trebuie să continue să muncească pentru a plăti nunta fiicei sale Sophia, care s-a logodit recent cu Michael Sheehan. Starul din „Rocky” și „Rambo” a vorbit despre pregătirile pentru eveniment în ediția […]"
-  },
-  {
-    "group_id": "group_5e433a0507",
-    "fingerprint": "85fa2b78c84a7bf23f304e3efbebdf16",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2024/07/Alexandru-Petrescu_ASF_2-1024x685.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Alexandru Petrescu, ASF: Dezvoltarea unei piețe de capital mai lichide și mai accesibile, o prioritate instituțională",
-        "link": "https://economedia.ro/alexandru-petrescu-asf-dezvoltarea-unei-piete-de-capital-mai-lichide-si-mai-accesibile-o-prioritate-institutionala.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Petrescu (ASF): Dezvoltarea unei piețe de capital mai profunde, mai lichide și mai accesibile reprezintă o prioritate instituțională",
-        "link": "https://agerpres.ro/economic/2026/10/14/petrescu-asf-dezvoltarea-unei-piete-de-capital-mai-profunde-mai-lichide-si-mai-accesibile-reprezinta--1602814"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Alexandru Petrescu, Preşedinte ASF: Pentru Autoritatea de Supraveghere Financiară, dezvoltarea unei pieţe de capital mai profunde, mai lichide şi mai accesibile reprezintă o prioritate instituţională",
-        "link": "https://www.zf.ro/opinii/alexandru-petrescu-presedinte-asf-pentru-autoritatea-de-supraveghere-financiara-dezvoltarea-unei-piete-de-capital-mai-profunde-mai-lichide-si-mai-accesibile-reprezinta-o-prioritate-institutionala-23260001"
-      }
-    ],
-    "published_at": 1791979383,
-    "title_hu": "Petrescu: a tőkepiac segítheti a román vállalatok európai növekedését",
-    "lead_hu": "Alexandru Petrescu, az ASF elnöke a BVB Arena 2026-os kiadásának szerdai megnyitóján a mélyebb, likvidebb és hozzáférhetőbb román tőkepiac fejlesztését intézményi prioritásnak nevezte. Szerinte a finanszírozáshoz és befektetőkhöz való hozzáférés segíthet abban, hogy a sikeres hazai vállalatok európai léptékűvé váljanak. A kilencedik alkalommal megrendezett program idén az iparági sajátosságokat is figyelembe veszi a vállalatok kiválasztásakor.",
-    "content_hu": "• **Alexandru Petrescu, az ASF elnöke** a BVB Arena 2026-os kiadásának megnyitóján azt mondta, hogy a mélyebb, likvidebb és hozzáférhetőbb tőkepiac kialakítása az intézmény egyik prioritása.\n\n• **A tőkepiac szerepe** Petrescu szerint meghatározó lehet a román vállalatok növekedésében: a finanszírozáshoz és befektetőkhöz való hozzáférés, valamint a szilárd vállalatirányítási normák erősíthetik a cégek erőforrásait és hitelességét.\n\n• **A BVB Arena célja** a sikeres román vállalkozások támogatása és bemutatása. Petrescu szerint Romániának arra kell törekednie, hogy minél több hazai vállalat európai léptékűvé váljon; úgy véli, a programban szereplő cégek közül néhány tíz éven belül az európai gazdaság meghatározó szereplőjévé válhat.\n\n• **A 2026-os kiadásban 40 vállalatot választanak ki**, amelyek egyéni találkozókon vehetnek részt a tőkepiac szakembereivel. A közönség három „IPO Choice” vállalatot jelöl ki, a program zsűrije pedig 12 „IPO Ready” céget választ, amelyeket a BVB Arena gáláján jelentenek be.\n\n• **A program kilencedik kiadása új kiválasztási módszertant vezet be**, amely figyelembe veszi az egyes iparágak sajátosságait.\n\n• **A vállalkozói réteg fejlődése** Petrescu szerint Románia elmúlt három és fél évtizedének egyik fontos gazdasági változása: egyre több olyan vállalkozó van, aki versenyképes céget épít, újít és az országhatárokon túl is megjelenik.\n\n• **A produktív beruházások finanszírozása** érdekében olyan pénzügyi ökoszisztémára van szükség, amely támogatja a vállalkozói kezdeményezéseket és tőkét mozgósít. Petrescu szerint a román gazdaság jövője részben azon múlik, hogy a mai vállalkozói sikereket holnapi európai teljesítménnyé tudják-e alakítani.",
-    "title_ro": "Petrescu: piața de capital poate sprijini creșterea europeană a companiilor românești",
-    "lead_ro": "Alexandru Petrescu, președintele ASF, a declarat la lansarea de miercuri a ediției 2026 BVB Arena că dezvoltarea unei piețe de capital mai profunde, mai lichide și mai accesibile este o prioritate instituțională. În opinia sa, accesul la finanțare și la investitori poate ajuta companiile românești de succes să capete anvergură europeană. A noua ediție a programului va ține cont de particularitățile fiecărei industrii în procesul de selecție.",
-    "content_ro": "• **Alexandru Petrescu, președintele ASF**, a declarat la lansarea ediției 2026 BVB Arena că dezvoltarea unei piețe de capital mai profunde, mai lichide și mai accesibile reprezintă o prioritate instituțională.\n\n• **Rolul pieței de capital** poate fi decisiv în creșterea companiilor românești: accesul la finanțare și la investitori, alături de standarde solide de guvernanță, le poate oferi resursele și credibilitatea necesare pentru dezvoltare.\n\n• **Scopul BVB Arena** este să susțină și să aducă în prim-plan companiile antreprenoriale românești. Petrescu consideră că România trebuie să transforme cât mai multe companii autohtone de succes în companii cu anvergură europeană, iar unele dintre cele promovate prin program ar putea deveni nume de referință în economia europeană în următorii zece ani.\n\n• **În ediția 2026 vor fi selectate 40 de companii**, care vor participa la întâlniri individuale cu profesioniști ai pieței de capital. Publicul va desemna trei companii „IPO Choice”, iar juriul va selecta 12 companii „IPO Ready”, anunțate la gala BVB Arena.\n\n• **A noua ediție a programului introduce o metodologie nouă de selecție**, care ține cont de particularitățile fiecărei industrii.\n\n• **Dezvoltarea clasei antreprenoriale** este, potrivit lui Petrescu, una dintre transformările economice importante ale României din ultimele trei decenii și jumătate: tot mai mulți antreprenori construiesc afaceri competitive, inovează și se afirmă dincolo de granițele țării.\n\n• **Finanțarea investițiilor productive** necesită un ecosistem financiar care să susțină inițiativa antreprenorială și să mobilizeze capital. Petrescu a afirmat că viitorul economiei românești depinde, în bună măsură, de transformarea succesului antreprenorial de astăzi în performanța europeană de mâine."
   }
 ]
