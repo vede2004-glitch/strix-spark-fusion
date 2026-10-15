@@ -1,5 +1,361 @@
 [
   {
+    "group_id": "group_e815323302",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/04/carne-de-pui.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "China devine un competitor redutabil și pe piața de carne de pui / A exportat în 2025 produse din carne de pui în valoare de 2,6 miliarde de dolari, aproape dublu faţă de 2020",
+        "link": "https://www.g4media.ro/china-devine-un-competitor-redutabil-si-pe-piata-de-carne-de-pui-a-exportat-in-2025-produse-din-carne-de-pui-in-valoare-de-26-miliarde-de-dolari-aproape-dublu-fata-de-2020.html"
+      }
+    ],
+    "published_at": 1792054034,
+    "title_hu": "China devine un competitor redutabil și pe piața de carne de pui / A exportat în 2025 produse din carne de pui în valoare de 2,6 miliarde de dolari, aproape dublu faţă de 2020",
+    "lead_hu": "China a devenit anul trecut un exportator net de carne de pui, o veste bună pentru consumatorii din întreaga lume, care au acces la proteine mai ieftine, însă pentru producătorii străini, din Europa, …",
+    "content_hu": "China a devenit anul trecut un exportator net de carne de pui, o veste bună pentru consumatorii din întreaga lume, care au acces la proteine mai ieftine, însă pentru producătorii străini, din Europa, Thailanda sau Brazilia, înseamnă apariţia unor noi concurenţi, transmite agenția de știri Reuters, citată de Agerpres. Datele furnizate de Administraţia vamală chineză […] © G4Media.ro.",
+    "title_ro": "China devine un competitor redutabil și pe piața de carne de pui / A exportat în 2025 produse din carne de pui în valoare de 2,6 miliarde de dolari, aproape dublu faţă de 2020",
+    "lead_ro": "China a devenit anul trecut un exportator net de carne de pui, o veste bună pentru consumatorii din întreaga lume, care au acces la proteine mai ieftine, însă pentru producătorii străini, din Europa, …",
+    "content_ro": "China a devenit anul trecut un exportator net de carne de pui, o veste bună pentru consumatorii din întreaga lume, care au acces la proteine mai ieftine, însă pentru producătorii străini, din Europa, Thailanda sau Brazilia, înseamnă apariţia unor noi concurenţi, transmite agenția de știri Reuters, citată de Agerpres. Datele furnizate de Administraţia vamală chineză […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_bcf974d16b",
+    "category": "Erdély",
+    "image": "https://assets.telex.hu/images/20261015/1792053918-temp-stp2c6vk3dve3eblbon_cimlap-normal.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Egyre fokozódó veszettségveszélyre figyelmeztetnek Csíkszereda környékén",
+        "link": "https://transtelex.ro/kozelet/2026/10/15/veszettsegveszelyre-figyelmeztetnek-csikszereda-kornyeken"
+      }
+    ],
+    "published_at": 1792053976,
+    "title_hu": "Egyre fokozódó veszettségveszélyre figyelmeztetnek Csíkszereda környékén",
+    "lead_hu": "Múlt héten biciklist üldöző veszett macska híre járta be a helyi sajtót, most újabb rókatetemnél erősítették meg a fertőzés jelenlétét, de szarvasmarhák és kutyák is érintettek.",
+    "content_hu": "Múlt héten biciklist üldöző veszett macska híre járta be a helyi sajtót, most újabb rókatetemnél erősítették meg a fertőzés jelenlétét, de szarvasmarhák és kutyák is érintettek.",
+    "title_ro": "Egyre fokozódó veszettségveszélyre figyelmeztetnek Csíkszereda környékén",
+    "lead_ro": "Múlt héten biciklist üldöző veszett macska híre járta be a helyi sajtót, most újabb rókatetemnél erősítették meg a fertőzés jelenlétét, de szarvasmarhák és kutyák is érintettek.",
+    "content_ro": "Múlt héten biciklist üldöző veszett macska híre járta be a helyi sajtót, most újabb rókatetemnél erősítették meg a fertőzés jelenlétét, de szarvasmarhák és kutyák is érintettek."
+  },
+  {
+    "group_id": "group_7f0202fdd8",
+    "fingerprint": "89961e09e78c16383d2b3138f1c7b781",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjIxJTJGMjMzMzIyOV8yMzMz/MjI5X1VjcmFpbmEtVUUuanBnJmhhc2g9/OGFmZjI5Mzc1YWI3YTJlZjE2NTQ4MTdhM2U4MmQwNzQ=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ucraina, mai aproape de aderarea la UE după ce Ungaria a renunțat la veto. Zelenski și Magyar ar putea avea prima întâlnire",
+        "link": "https://www.digi24.ro/stiri/externe/ucraina-mai-aproape-de-aderarea-la-ue-dupa-ce-ungaria-a-renuntat-la-veto-zelenski-si-magyar-ar-putea-avea-prima-intalnire-3990893"
+      },
+      {
+        "source": "G4Media",
+        "title": "Sprijinul financiar al Germaniei pentru Ucraina vine cu aşteptări legate de reforme politice",
+        "link": "https://www.g4media.ro/sprijinul-financiar-al-germaniei-pentru-ucraina-vine-cu-asteptari-legate-de-reforme-politice.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cele două state care frânează dorința Ucrainei privind o aderare rapidă la Uniunea Europeană",
+        "link": "https://hotnews.ro/cele-doua-state-care-franeaza-dorinta-ucrainei-privind-o-aderare-rapida-la-uniunea-europeana-2376683"
+      }
+    ],
+    "published_at": 1792053884,
+    "title_hu": "Az uniós polgárok 47%-a támogatja Ukrajna gyors csatlakozását, de a folyamatot politikai viták lassíthatják",
+    "lead_hu": "A Bertelsmann Alapítvány felmérése szerint az ukránok 83%-a szeretné, ha országa a következő években csatlakozna az EU-hoz, miközben az uniós polgároknak csak 47%-a támogatja a gyors felvételt. Magyarország vétójának feloldása után már négy tárgyalási klaszter megnyitását hagyták jóvá, ám a tagállamok egy része a további bővítést sürgető megfogalmazást is enyhítené. A kisebbségi jogokról szóló megállapodás mellett a reformok és a mezőgazdaság is meghatározó kérdés marad.",
+    "content_hu": "• **A gyors csatlakozást az uniós polgárok 47%-a támogatja:** a Bertelsmann Alapítvány felmérésében 53% ellenezte, hogy Ukrajna a közeljövőben csatlakozzon az Európai Unióhoz.\n\n• **Az ukránok 83%-a támogatja a következő éveken belüli csatlakozást.** A közvélemény tehát jelentősen eltér Ukrajnában és az EU egészében.\n\n• **Romániában 40% a gyors csatlakozás támogatottsága, Németországban 41%.** A vizsgált tíz uniós ország közül Svédországban volt a legmagasabb az arány, 69%-kal.\n\n• **A támogatás az EU egészében és az egyes tagállamokban is csökkent** a Bertelsmann Alapítvány korábbi, rendszeresen végzett felméréseihez képest.\n\n• **Németországban 2022-ben még 60% támogatta a gyors csatlakozást.** Az orosz invázió kezdetén mért arány azóta 41%-ra esett.\n\n• **A felmérést júniusban végezték 16 795 ember bevonásával** az EU összes tagállamában. Az alapítvány szerint Ukrajna csatlakozása az EU hivatalos célja, stratégiai jelentőségéről pedig meggyőzőbben kell tájékoztatni a közvéleményt.\n\n• **Magyarország feloldotta vétóját, így megnyílhatott újabb két tárgyalási klaszter.** Ezzel a hatból négy klaszter megnyitását hagyták jóvá; a döntést a magyar kisebbség jogairól kötött megállapodás előzte meg.\n\n• **Az ukrán kisebbségvédelmi szabályok különleges jogállást adhatnak bizonyos iskoláknak:** azok az intézmények kaphatják meg, ahol a tanulók több mint fele egyben uniós hivatalos nyelvű kisebbségi nyelven tanul. Az ukrán továbbra is az állami oktatás nyelve, az új garanciák pedig nem terjednek ki az oroszra.\n\n• **A magyar és ukrán vezetők brüsszeli találkozóját is előkészíthetik, de még nem erősítették meg.** A diplomáciai egyeztetések a két ország kapcsolatainak fordulópontját jelenthetik.\n\n• **A klaszterek megnyitása nem garantálja Ukrajna EU-tagságát.** Kijevnek további reformokat kell végrehajtania, és minden klaszter lezárásához valamennyi tagállam egyetértése szükséges; a mezőgazdaság továbbra is vitás kérdés lehet.\n\n• **Bulgária és Magyarország a további reformcsomagok mielőbbi megnyitását sürgető fordulat törlését kezdeményezte.** Az október 14-i tervezetből kikerült a „minél hamarabb” kifejezés; a következő két reformcsomag megnyitását decemberre várják.\n\n• **A német pénzügyminiszter az Ukrajnának nyújtott támogatást politikai reformokkal kapcsolatos elvárásokhoz kötötte.** Lars Klingbeil szerint Németországban a költségvetési megszorítások közepette is meg kell indokolni a támogatás mértékét; az EU 2027-ig 45 milliárd euró támogatást ígért Ukrajnának.",
+    "title_ro": "47% dintre cetățenii UE susțin aderarea rapidă a Ucrainei, dar procesul poate fi încetinit de dispute politice",
+    "lead_ro": "Potrivit sondajului Fundației Bertelsmann, 83% dintre ucraineni doresc aderarea țării lor la UE în următorii ani, în timp ce doar 47% dintre cetățenii Uniunii susțin o aderare rapidă. După ridicarea veto-ului Ungariei, au fost aprobate deschiderea a patru clustere de negociere, însă unele state membre încearcă să elimine formulările care cer accelerarea procesului. Reformele, drepturile minorităților și agricultura rămân teme importante ale negocierilor.",
+    "content_ro": "• **47% dintre cetățenii UE susțin aderarea rapidă:** în sondajul Fundației Bertelsmann, 53% s-au opus aderării Ucrainei în viitorul apropiat.\n\n• **83% dintre ucraineni susțin aderarea în următorii ani.** Opinia publică diferă, așadar, considerabil în Ucraina și în UE în ansamblu.\n\n• **În România, sprijinul pentru aderarea rapidă este de 40%, iar în Germania de 41%.** Dintre cele zece state UE analizate, Suedia înregistrează cel mai ridicat nivel de susținere, de 69%.\n\n• **Sprijinul a scăzut atât la nivelul UE, cât și în statele membre** față de sondajele realizate anterior, în mod regulat, de Fundația Bertelsmann.\n\n• **În Germania, 60% susțineau aderarea rapidă în 2022.** Procentul înregistrat la începutul invaziei ruse a scăzut între timp la 41%.\n\n• **Sondajul a fost realizat în iunie, pe un eșantion de 16.795 de persoane** din toate statele membre ale UE. Fundația afirmă că aderarea Ucrainei rămâne un obiectiv oficial al Uniunii, iar importanța sa strategică trebuie comunicată mai convingător publicului.\n\n• **Ungaria și-a ridicat veto-ul, permițând deschiderea a încă două clustere de negociere.** Astfel, au fost aprobate patru din cele șase clustere; decizia a urmat unui acord privind drepturile minorității maghiare.\n\n• **Noile reguli ucrainene privind minoritățile pot acorda un statut juridic special anumitor școli:** cele în care peste jumătate dintre elevi învață într-o limbă minoritară oficială a UE. Ucraineana rămâne limba de predare în sistemul de stat, iar noile garanții nu se aplică limbii ruse.\n\n• **O întâlnire la Bruxelles între liderii Ungariei și Ucrainei este în pregătire, dar nu a fost confirmată.** Discuțiile diplomatice ar putea marca o schimbare importantă în relațiile dintre cele două țări.\n\n• **Deschiderea clusterelor nu garantează aderarea Ucrainei la UE.** Kievul trebuie să continue reformele, iar închiderea fiecărui cluster necesită acordul unanim al statelor membre; agricultura poate rămâne un subiect controversat.\n\n• **Bulgaria și Ungaria au cerut eliminarea formulării care solicita deschiderea cât mai rapidă a următoarelor pachete de reforme.** În proiectul din 14 octombrie a fost eliminată expresia „cât mai curând posibil”, iar deschiderea celorlalte două pachete este așteptată în decembrie.\n\n• **Ministrul german de finanțe a asociat sprijinul pentru Ucraina cu așteptări privind reformele politice.** Lars Klingbeil a spus că, în contextul reducerilor bugetare, sprijinul trebuie explicat cetățenilor germani; UE a promis Ucrainei 45 de miliarde de euro până în 2027."
+  },
+  {
+    "group_id": "group_8f31e59d3f",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-21-at-14.58.03-2-e1782043420892-1024x683.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Restricții de trafic pe Podul Prieteniei Giurgiu – Ruse, în a doua jumătate a lunii octombrie",
+        "link": "https://economedia.ro/restrictii-de-trafic-pe-podul-prieteniei-giurgiu-ruse-in-a-doua-jumatate-a-lunii-octombrie.html"
+      }
+    ],
+    "published_at": 1792053849,
+    "title_hu": "Restricții de trafic pe Podul Prieteniei Giurgiu – Ruse, în a doua jumătate a lunii octombrie",
+    "lead_hu": "Circulația pe Podul Prieteniei Giurgiu – Ruse va fi restricționată temporar în două intervale din a doua jumătate a lunii octombrie, pentru lucrări de construcție și montare a rosturilor de dilatare, …",
+    "content_hu": "Circulația pe Podul Prieteniei Giurgiu – Ruse va fi restricționată temporar în două intervale din a doua jumătate a lunii octombrie, pentru lucrări de construcție și montare a rosturilor de dilatare, anunță Inspectoratul Teritorial al Poliției de Frontieră Giurgiu. Prima etapă a restricțiilor va începe pe 19 octombrie, la ora 09:00, și se va încheia […]",
+    "title_ro": "Restricții de trafic pe Podul Prieteniei Giurgiu – Ruse, în a doua jumătate a lunii octombrie",
+    "lead_ro": "Circulația pe Podul Prieteniei Giurgiu – Ruse va fi restricționată temporar în două intervale din a doua jumătate a lunii octombrie, pentru lucrări de construcție și montare a rosturilor de dilatare, …",
+    "content_ro": "Circulația pe Podul Prieteniei Giurgiu – Ruse va fi restricționată temporar în două intervale din a doua jumătate a lunii octombrie, pentru lucrări de construcție și montare a rosturilor de dilatare, anunță Inspectoratul Teritorial al Poliției de Frontieră Giurgiu. Prima etapă a restricțiilor va începe pe 19 octombrie, la ora 09:00, și se va încheia […]"
+  },
+  {
+    "group_id": "group_07bafebff9",
+    "fingerprint": "4fc9c2c03632f968362f9c6cea7e64c3",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/elicopter.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "VIDEO Elicopterele Black Hawk ale Ministerului de Interne intervin la bordul navei comerciale lovite lângă Sulina",
+        "link": "https://www.g4media.ro/video-elicopterele-black-hawk-ale-ministerului-de-interne-intervin-la-bordul-navei-comerciale-lovite-langa-sulina.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Imagini din timpul misiunii de salvare pentru nava care a luat foc lângă Sulina. Intervine un elicopter Black Hawk",
+        "link": "https://hotnews.ro/imagini-din-timpul-misiunii-de-salvare-pentru-nava-care-a-luat-foc-langa-sulina-intervine-un-elicopter-black-hawk-2376684"
+      }
+    ],
+    "published_at": 1792053744,
+    "title_hu": "Mentőakció indult a Sulina közelében kigyulladt Wine Trader hajóért",
+    "lead_hu": "A San Marino-i zászló alatt közlekedő Wine Trader csütörtök reggel kért segítséget, miután tűz ütött ki a fedélzetén a Fekete-tengeren, Sulinától mintegy 14 tengeri mérföldre. A román hatóságok helikopterekkel és mentőhajókkal vonultak ki; a nagy hullámok miatt a mentés egyelőre nem végezhető biztonságosan.",
+    "content_hu": "• **Csütörtök reggel** tűz ütött ki a San Marino-i zászló alatt közlekedő Wine Trader kereskedelmi hajón, amely Sulinától mintegy 14 tengeri mérföldre (körülbelül 22 kilométerre) tartózkodott.\n\n• **A fedélzeten tartózkodók száma** a román tengerészeti hatóság közlése szerint 12 volt, közülük nyolcan eltűntek. A belügyminisztérium közleménye a mentőcsapatok elsődleges feladataként a fedélzeten lévő négy ember kimentését jelölte meg.\n\n• **A mentőakcióban** a román határőrség, a légi főfelügyelőség és a katasztrófavédelem vesz részt. Két Black Hawk helikoptert és két mentőhajót is bevetettek; az egyik helikopter fedélzetén egészségügyi csapat utazott.\n\n• **A mentés biztonságát** a térségben tapasztalható nagy hullámok akadályozzák, ezért a személyek kimentését egyelőre nem lehet biztonságosan végrehajtani. A határőrség hajója folyamatosan figyeli a helyzetet és támogatja a műveletet.\n\n• **A baleset lehetséges oka** a G4Media beszámolója szerint egy drón becsapódása lehetett, ezt azonban a HotNews.ro által közölt információk nem erősítették meg.",
+    "title_ro": "Operațiune de salvare pentru nava Wine Trader, cuprinsă de incendiu lângă Sulina",
+    "lead_ro": "Nava Wine Trader, sub pavilion San Marino, a cerut ajutor joi dimineață după izbucnirea unui incendiu la bord, în Marea Neagră, la aproximativ 14 mile marine de Sulina. Autoritățile române au mobilizat elicoptere și ambarcațiuni de salvare, însă valurile mari împiedică deocamdată intervenția în condiții de siguranță.",
+    "content_ro": "• **Joi dimineață**, un incendiu a izbucnit la bordul navei comerciale Wine Trader, sub pavilion San Marino, aflată la aproximativ 14 mile marine (circa 22 de kilometri) de Sulina.\n\n• **La bord se aflau**, potrivit Autorității Navale Române, 12 persoane, dintre care opt erau dispărute. Comunicatul Ministerului de Interne a indicat salvarea celor patru membri ai echipajului rămași la bord drept prioritatea echipelor de intervenție.\n\n• **La operațiunea de salvare** participă Poliția de Frontieră, Inspectoratul General de Aviație și Inspectoratul General pentru Situații de Urgență. Au fost mobilizate două elicoptere Black Hawk și două ambarcațiuni, iar unul dintre elicoptere transporta o echipă medicală.\n\n• **Intervenția în siguranță** este împiedicată de valurile foarte mari, astfel că salvarea persoanelor nu poate fi realizată deocamdată în condiții sigure. O navă a Poliției de Frontieră monitorizează permanent situația și sprijină operațiunea.\n\n• **Cauza posibilă a incidentului**, potrivit relatării G4Media, ar fi fost lovirea navei de o dronă; informațiile publicate de HotNews.ro nu au confirmat această ipoteză."
+  },
+  {
+    "group_id": "group_86431746ee",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "De la Hugging Face, n8n și OpenAI la European Space Agency și Deep Space Biology: companiile care dezvoltă și aplică AI vin la NEXXT AI Summit, în București",
+        "link": "https://hotnews.ro/de-la-hugging-face-n8n-si-openai-la-european-space-agency-si-deep-space-biology-companiile-care-dezvolta-si-aplica-ai-vin-la-nexxt-ai-summit-in-bucuresti-2376692"
+      }
+    ],
+    "published_at": 1792053733,
+    "title_hu": "De la Hugging Face, n8n și OpenAI la European Space Agency și Deep Space Biology: companiile care dezvoltă și aplică AI vin la NEXXT AI Summit, în București",
+    "lead_hu": "Pe 29 octombrie 2026, NEXXT AI Summit reunește peste 50 de speakeri internaționali și peste 2.000 de participanți pentru a explora unde aduce inteligența artificială valoare în business, ce presupune …",
+    "content_hu": "Pe 29 octombrie 2026, NEXXT AI Summit reunește peste 50 de speakeri internaționali și peste 2.000 de participanți pentru a explora unde aduce inteligența artificială valoare în business, ce presupune implementarea și cum se măsoară rezultatele. Companii care dezvoltă inteligența artificială și echipe care o folosesc deja în activitatea lor se întâlnesc la NEXXT AI …",
+    "title_ro": "De la Hugging Face, n8n și OpenAI la European Space Agency și Deep Space Biology: companiile care dezvoltă și aplică AI vin la NEXXT AI Summit, în București",
+    "lead_ro": "Pe 29 octombrie 2026, NEXXT AI Summit reunește peste 50 de speakeri internaționali și peste 2.000 de participanți pentru a explora unde aduce inteligența artificială valoare în business, ce presupune …",
+    "content_ro": "Pe 29 octombrie 2026, NEXXT AI Summit reunește peste 50 de speakeri internaționali și peste 2.000 de participanți pentru a explora unde aduce inteligența artificială valoare în business, ce presupune implementarea și cum se măsoară rezultatele. Companii care dezvoltă inteligența artificială și echipe care o folosesc deja în activitatea lor se întâlnesc la NEXXT AI …"
+  },
+  {
+    "group_id": "group_33c7570745",
+    "fingerprint": "0cfbe73bc89496059545d121cde624ef",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Atacurile din Marea Neagră arată necesitatea unui nou cadru pentru securitatea maritimă (experți turci)",
+        "link": "https://agerpres.ro/politic-extern/2026/10/15/atacurile-din-marea-neagra-arata-necesitatea-unui-nou-cadru-pentru-securitatea-maritima-experti-turc--1603194"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Turcia se teme că Marea Neagră ar putea deveni noua Strâmtoare Ormuz. De ce nu se pot aduce aici nave de război",
+        "link": "https://stirileprotv.ro/stiri/international/turcia-se-teme-ca-marea-neagra-ar-putea-deveni-noua-stramtoare-ormuz-de-ce-nu-se-pot-aduce-aici-nave-de-razboi.html"
+      }
+    ],
+    "published_at": 1792053592,
+    "title_hu": "A fekete-tengeri hajótámadások átfogóbb tengeri biztonsági megállapodást sürgetnek",
+    "lead_hu": "A fekete-tengeri kereskedelmi hajók elleni támadások egyre komolyabb kockázatot jelentenek a polgári hajózásra. Török szakértők átfogó megállapodást sürgetnek, és arra figyelmeztetnek, hogy a külső hadihajók megjelenése tovább eszkalálhatja a helyzetet.",
+    "content_hu": "• **A fekete-tengeri támadások** a polgári hajózás biztonságát fenyegetik: a bolgár hatóságok szerint kedden egy hajó elsüllyedt Krapec településtől 17 tengeri mérföldre keletre, a Chelsea 3 nevű, ukrán tulajdonú, máltai zászló alatt közlekedő hajót pedig három drón találta el Bjalától 18 tengeri mérföldre. A 15 fős legénységet biztonságban kimenekítették Várnába, közülük öten orvosi ellátást kaptak.\n\n• **A korábbi incidensek** során az előző héten három, Törökországhoz kötődő kereskedelmi hajót ért támadás Románia és Bulgária partjainál; ezek halálos áldozatokkal jártak.\n\n• **A török hajótulajdonosok adatai szerint** 2022 és 2026 között 146 kereskedelmi hajót ért találat a Fekete-tengeren, ebből 82-t 2026-ban. A tengeri incidensek 37 halálos áldozata közül 28 szintén 2026-ban vesztette életét.\n\n• **Murat Ersavci**, a TEPAV török gazdaságpolitikai kutatóalapítvány szakértője szerint a konfliktus átalakulása összetett biztonsági környezetet teremtett, amelyben a kereskedelem és a biztonság határai elmosódnak. Átfogó tengeri biztonsági megállapodást sürget, amely védené a kereskedelmi hajózást, különbséget tenne a polgári és katonai hajók között, és összehangolná a parti államok fellépését az élelmiszer- és energiaszállítások védelmében.\n\n• **Canan Tercan**, az isztambuli Aydın Egyetem külpolitikai szakértője arra figyelmeztetett, hogy a Fekete-tenger az Hormuzi-szoroshoz hasonló válságba sodródhat, ami megzavarhatja a piacokat és növelheti a biztosítási költségeket. Szerinte a térségen kívülről érkező hadihajók szélesebb konfliktust válthatnak ki; a hajózás biztonságát inkább nemzetközi megnemtámadási megállapodásokkal kellene garantálni.",
+    "title_ro": "Atacurile asupra navelor din Marea Neagră impun un cadru mai amplu de securitate maritimă",
+    "lead_ro": "Atacurile asupra navelor comerciale din Marea Neagră sporesc riscurile pentru navigația civilă. Experți turci cer un acord cuprinzător de securitate maritimă și avertizează că prezența unor nave de război din afara regiunii ar putea amplifica conflictul.",
+    "content_ro": "• **Atacurile din Marea Neagră** pun în pericol navigația civilă: autoritățile bulgare au anunțat că o navă s-a scufundat marți, la 17 mile nautice est de Krapeț, iar Chelsea 3, o navă deținută de Ucraina și sub pavilion maltez, a fost lovită de trei drone la 18 mile nautice est de Biala. Cei 15 membri ai echipajului au fost evacuați în siguranță la Varna, iar cinci au primit îngrijiri medicale.\n\n• **Incidentele din săptămâna precedentă** au vizat trei nave comerciale cu legături cu Turcia, lovite în largul coastelor României și Bulgariei; atacurile s-au soldat cu victime.\n\n• **Potrivit datelor proprietarilor turci de nave**, 146 de vase comerciale au fost lovite în Marea Neagră între 2022 și 2026, dintre care 82 în 2026. Tot în 2026 s-au înregistrat 28 dintre cele 37 de decese provocate de incidente maritime.\n\n• **Murat Ersavci**, expert al fundației turce TEPAV, afirmă că schimbarea conflictului a creat un mediu de securitate complex, în care granița dintre comerț și securitate devine neclară. El cere un acord cuprinzător care să protejeze navigația comercială, să distingă navele civile de cele militare și să coordoneze eforturile statelor riverane pentru protejarea transporturilor de alimente și energie.\n\n• **Canan Tercan**, expertă în politică externă la Universitatea Aydın din Istanbul, avertizează că Marea Neagră riscă să ajungă într-o criză similară celei din Strâmtoarea Ormuz, cu efecte asupra piețelor și costurilor de asigurare. În opinia sa, aducerea unor nave de război din afara regiunii ar putea declanșa un conflict mai amplu, iar siguranța navigației ar trebui asigurată prin acorduri internaționale de neagresiune."
+  },
+  {
+    "group_id": "group_ee6aa8bb33",
+    "fingerprint": "b04c47a9c79854df61ffffb4385db90a",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "CFR Călători: Nouă trenuri internaționale vor pleca mai devreme din Budapesta, în perioada 7 - 8 noiembrie",
+        "link": "https://agerpres.ro/economic/2026/10/15/cfr-calatori-noua-trenuri-internationale-vor-pleca-mai-devreme-din-budapesta-in-perioada-7---8-noiem--1603177"
+      },
+      {
+        "source": "Maszol",
+        "title": "Figyelmeztet a CFR: korábban indul kilenc, Budapestről Romániába közlekedő vonat",
+        "link": "https://maszol.ro/belfold/Figyelmeztet-a-CFR-korabban-indul-kilenc-Budapestrol-Romaniaba-kozlekedo-vonat"
+      }
+    ],
+    "published_at": 1792053540,
+    "title_hu": "November 7–8-án korábban indul kilenc Budapestről Romániába tartó vonat",
+    "lead_hu": "A magyarországi vasúti infrastruktúrán végzett munkálatok miatt 2026. november 7-én és 8-án kilenc Budapestről Romániába közlekedő nemzetközi vonat a menetrendhez képest 5–35 perccel korábban indul. A CFR Călători arra kéri az utasokat, hogy utazás előtt ellenőrizzék az aktuális menetrendet.",
+    "content_hu": "• **2026. november 7-én és 8-án** kilenc, Budapestről Romániába közlekedő nemzetközi vonat indul korábban a magyarországi vasúti infrastruktúrán végzett munkálatok miatt.\n\n• **A Budapest–Szolnok–Lőkösháza vonalon** végzett munkák ideiglenes menetrendváltozást okoznak. Az IR 73-as, 75-ös, 79-es, 371-es, 375-ös, 377-es, 379-es és 473-as járat öt perccel korábban indul a Keleti pályaudvarról.\n\n• **Az IR 367-es, Brassóba tartó vonat** a menetrend szerinti időpontnál 35 perccel korábban indul.\n\n• **A CFR Călători** azt javasolja az utasoknak, hogy indulás előtt ellenőrizzék a friss menetrendet; a magyarországi vasúti közlekedésről a MÁV honlapján is tájékozódhatnak.",
+    "title_ro": "Nouă trenuri din Budapesta spre România vor pleca mai devreme pe 7 și 8 noiembrie",
+    "lead_ro": "Lucrările la infrastructura feroviară din Ungaria vor modifica temporar programul a nouă trenuri internaționale care circulă din Budapesta spre România, în 7 și 8 noiembrie 2026. Trenurile vor pleca cu 5 până la 35 de minute mai devreme, iar CFR Călători le recomandă pasagerilor să verifice orarul actualizat înainte de călătorie.",
+    "content_ro": "• **În 7 și 8 noiembrie 2026**, nouă trenuri internaționale care circulă din Budapesta spre România vor pleca mai devreme din cauza lucrărilor la infrastructura feroviară din Ungaria.\n\n• **Lucrările de pe secția Budapesta–Szolnok–Lökösháza** vor determina modificări temporare ale programului. Trenurile IR 73, 75, 79, 371, 375, 377, 379 și 473 vor pleca din gara Budapesta Keleti cu cinci minute mai devreme.\n\n• **Trenul IR 367 spre Brașov** va pleca cu 35 de minute mai devreme față de ora prevăzută în mersul trenurilor.\n\n• **CFR Călători** le recomandă pasagerilor să verifice orarul actualizat înainte de plecare; informații despre circulația feroviară din Ungaria sunt disponibile și pe site-ul MAV."
+  },
+  {
+    "group_id": "group_00013a1ee0",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cristina-siscanu.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "De ce a fost dată afară Cristina Șișcanu de la Antena 1, de fapt: „Acel personaj voia să mă conducă acasă de mai multe ori”",
+        "link": "https://www.cancan.ro/de-ce-a-fost-data-afara-cristina-siscanu-de-la-antena-1-de-fapt-acel-personaj-voia-sa-ma-conduca-acasa-de-mai-multe-ori-21530413"
+      }
+    ],
+    "published_at": 1792053419,
+    "title_hu": "De ce a fost dată afară Cristina Șișcanu de la Antena 1, de fapt: „Acel personaj voia să mă conducă acasă de mai multe ori”",
+    "lead_hu": "În urmă cu ani de zile, Mădălin Ionescu și Cristina Șișcanu erau protagoniștii unui scandal de proporții. În anul 2010, aceștia au fost concediați de la Antena 1, decizia fiind motivată de controversa…",
+    "content_hu": "În urmă cu ani de zile, Mădălin Ionescu și Cristina Șișcanu erau protagoniștii unui scandal de proporții. În anul 2010, aceștia au fost concediați de la Antena 1, decizia fiind motivată de controversa care apăruse în jurul relației celor doi. Ei bine, acum, după 16 ani, Cristina Șișcanu a făcut lumină în acest caz și […]",
+    "title_ro": "De ce a fost dată afară Cristina Șișcanu de la Antena 1, de fapt: „Acel personaj voia să mă conducă acasă de mai multe ori”",
+    "lead_ro": "În urmă cu ani de zile, Mădălin Ionescu și Cristina Șișcanu erau protagoniștii unui scandal de proporții. În anul 2010, aceștia au fost concediați de la Antena 1, decizia fiind motivată de controversa…",
+    "content_ro": "În urmă cu ani de zile, Mădălin Ionescu și Cristina Șișcanu erau protagoniștii unui scandal de proporții. În anul 2010, aceștia au fost concediați de la Antena 1, decizia fiind motivată de controversa care apăruse în jurul relației celor doi. Ei bine, acum, după 16 ani, Cristina Șișcanu a făcut lumină în acest caz și […]"
+  },
+  {
+    "group_id": "group_fcfec4f2ad",
+    "fingerprint": "c1349a5eabf41bb5c8b7d5fbd4608875",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/c1ca9225-8d7a-4e47-bdf7-ab34b456b277.png?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Campioana U Craiova debutează în Conference League – Programul tv al partidei cu Gatafe",
+        "link": "https://www.g4media.ro/campioana-u-craiova-debuteaza-in-conference-league-programul-tv-al-partidei-cu-gatafe.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Schimbare! Cine transmite la TV Universitatea Craiova - Getafe, în prima etapă din Conference League",
+        "link": "https://www.gsp.ro/international/conference-league/cine-transmite-la-tv-universitatea-craiova-getafe-conference-league-987965.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Universitatea Craiova - Getafe, „leii” lui Coelho debutează în Conference League » Echipele probabile și cele mai tari cote",
+        "link": "https://www.gsp.ro/international/conference-league/live-universitatea-craiova-getafe-filipe-coelho-conference-league-988067.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Getafe e de bătut, dar Craiova are nevoie de răbdare în primul meci din Europa",
+        "link": "https://adevarul.ro/sport/getafe-e-de-batut-dar-craiova-are-nevoie-de-2564129.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Breaking Bets » Universitatea Craiova – Getafe, meciul zilei în emisiunea de la ora 13:00",
+        "link": "https://www.gsp.ro/gsp-special/pariuri-sportive/universitatea-craiova-getafe-breaking-bets-988318.html"
+      }
+    ],
+    "published_at": 1792053412,
+    "title_hu": "A Craiova a Getafe ellen kezdi a Konferencia-liga főtábláját",
+    "lead_hu": "Az Universitatea Craiova október 15-én, 19:45-kor fogadja a Getafét a Konferencia-liga főtáblájának nyitófordulójában. A hazaiak öt egymást követő győzelemmel érkeznek, bár legutóbb sok helyzetet kihagytak; a spanyolok a Barcelona elleni 0–3 után utaznak Craiovába. A mérkőzést a Digi Sport 1 és a Prima Sport 1 közvetíti, a GSP.ro pedig élő szöveges közvetítést ad.",
+    "content_hu": "• **Október 15-én, 19:45-kor** az Universitatea Craiova a Getafét fogadja az Ion Oblemenco Stadionban, a Konferencia-liga főtáblájának első fordulójában. A mérkőzést a Digi Sport 1 és a Prima Sport 1 közvetíti, a GSP.ro élő szöveges közvetítést ad.\n\n• **A két csapat** korábban még nem játszott egymással; a Getafe számára ez lesz az első mérkőzés román csapat ellen. Gheorghe Craioveanu köti össze őket: 2002 és 2006 között 82 meccsen szerepelt a madridiaknál, kilenc gólt szerzett és hat gólpasszt adott, valamint hozzájárult a Getafe 2004-es La Liga-feljutásához.\n\n• **A Craiova európai szereplése** azután folytatódik a Konferencia-ligában, hogy az Ararat-Armenia 2–1-es összesítéssel búcsúztatta az Európa-liga selejtezőjének rájátszásában. A román csapat tavaly hét ponttal zárt, és az AEK Athén elleni utolsó fordulóban maradt le a továbbjutásról; a klub több mint három évtized után nyerte meg ismét a bajnokságot.\n\n• **A Craiova formája** kiváló: legutóbb 1–0-ra nyert a Csíkszereda vendégeként, így minden sorozatot figyelembe véve öt egymást követő győzelemnél tart. A győztes gólt Elisor a 77. percben szerezte; a Craiova az első félidőben Al-Hamlawi három, Băluță és Romanchuk egy-egy helyzetét is kihagyta. A csapat a bajnokságban 11 forduló után a harmadik helyen áll 23 ponttal.\n\n• **A hazai mérleg** szerint a Craiova az idény első tíz hivatalos hazai mérkőzéséből hetet megnyert, kettőn döntetlent játszott, és egyszer kikapott. Az utolsó három hazai bajnokiján összesen 12 gólt szerzett: a Voluntari ellen 3–1-re, az U Cluj ellen 4–0-ra, az FCSB ellen 5–0-ra nyert. Az előző öt hazai meccsén veretlen maradt.\n\n• **A Getafe** a Partizan Belgrádot búcsúztatta a selejtező rájátszásában, 4–3-as összesítéssel. A spanyol együttes az előző La Liga-idényt a hetedik helyen zárta, az új szezon első nyolc fordulója után viszont nyolc ponttal a 14. helyen áll. Legutóbb 0–3-ra kapott ki a Barcelonától; az utolsó öt meccséből egyet nyert meg, az idénybeli első öt idegenbeli mérkőzését pedig elveszítette.\n\n• **A Getafe európai múltja** alapján a főtáblás rajtok jól sikerültek: mindhárom korábbi ilyen idényében győzelemmel kezdett. Három korábbi Európa-liga-szerepléséből kétszer jutott tovább a csoportkörből, 2007/08-ban és 2019/20-ban; 2019/20-ban az Inter a nyolcaddöntőben búcsúztatta. Legjobb eredménye a 2008-as UEFA-kupa-negyeddöntő volt. A spanyolok eddig 29 európai kupameccset játszottak, 15 győzelemmel, öt döntetlennel és kilenc vereséggel; a főtáblán 13 idegenbeli mérkőzésükből ötöt nyertek meg.\n\n• **A keretek becsült piaci értéke** a Getafénál 95,4–98,9 millió euró, a Craiováénál 36,8 millió euró. A spanyol keret legértékesebb játékosai között Mario Martín és Martín Satriano 10-10 millió eurós, Orel Mangala és Christantus Uche 9-9 millió eurós becsült értékkel szerepelnek.\n\n• **Dani Carvajal** a Real Madridtól való távozása után szerződött a Getaféhez, 2027 júniusáig írt alá. A 51-szeres spanyol válogatott védő azonban nincs nevezve a Konferencia-liga keretébe, így a Craiova ellen nem játszhat.\n\n• **A hiányzók** közül a Craiova Carlos Morára eltiltás, Etim Mondayra sérülés miatt nem számíthat; Pavlo Isenko és Adrian Rus hosszabb ideje sérült. Samuel Teles szereplése kérdéses, Mihnea Rădulescu pedig nincs nevezve. A Getafénál Zaid Romero is kihagyja a mérkőzést: a Barcelona ellen a bal combjában, a négyfejű combizomnál sérült meg, és a klub nem akarja kockáztatni a szerepeltetését.\n\n• **A várható kezdőcsapatok**: Craiova – L. Popescu; Romanchuk, Stevanović, Screciu; Teles, T. Băluță, Cicâldău, Bancu; D. Matei, Al Hamlawi, Baiaram. Getafe – Soria; Femenía, Djene, Gudelj, Abqar, Mojica; García, Francho, Martín, Terrats; Satriano.\n\n• **A játékvezető** a szlovén David Smajc lesz, asszisztensei Manuel Vidali és David Gabrovec, a VAR-szobában Aleksandar Matkovic és Mihael Antic dolgozik. Smajc korábban nem vezetett román klubcsapatnak mérkőzést.\n\n• **A szakértői előrejelzés** szerint a Craiova várhatóan a 21. helyen zárhatja az alapszakaszt; 65,2 százalékos esélyt kapott arra, hogy a 9–24. hely valamelyikén végezzen, és ezzel továbbjusson a rájátszásba. A legjobb nyolc közé jutására 11,3 százalékot becsültek, míg a Getafe hasonló esélyét 29 százalékra tették.\n\n• **A Konferencia-liga további menetrendje**: október 22-én a Craiova az Inter Club d’Escaldes vendége lesz, november 5-én a KF Egnatiát fogadja, november 26-án a Brightonhoz látogat, december 10-én a Kairat Almaty ellen játszik idegenben, december 17-én pedig az FC Koppenhágát fogadja.\n\n• **A szurkolók** a mérkőzés előtt több mint 20 ezer jegyet vásároltak; az Ion Oblemenco Stadion befogadóképessége 30 983 fő. A Craiova az egyetlen román csapat, amely érdekelt a jelenlegi európai kupasorozatok főtáblás szakaszában.\n\n• **Az edzők és Gică Craioveanu** nehéz mérkőzésre számítanak: Filipe Coelho szerint a Getafe a Craiova eddigi legerősebb ellenfele a sorozatban, José Bordalás pedig a hazaiak játékosait és fejlődését méltatta. Craioveanu szerint a hazaiaknak türelemre lesz szükségük, mert a Getafe fizikális, taktikai szabálytalanságokkal töri meg a játékot, és nehéz ellene helyzeteket kialakítani. Alexandru Cicâldău a csapategységet és a tavalyi eredmény felülmúlását emelte ki.",
+    "title_ro": "Universitatea Craiova debutează în Conference League contra lui Getafe",
+    "lead_ro": "Universitatea Craiova o primește pe Getafe pe 15 octombrie, de la ora 19:45, în prima etapă a fazei principale din Conference League. Oltenii vin după cinci victorii consecutive, dar au ratat numeroase ocazii în ultimul meci; spaniolii au pierdut cu 0–3 în fața Barcelonei. Partida va fi transmisă de Digi Sport 1 și Prima Sport 1, iar GSP.ro va oferi LIVE TEXT.",
+    "content_ro": "• **15 octombrie, ora 19:45**: Universitatea Craiova o întâlnește pe Getafe pe stadionul Ion Oblemenco, în prima etapă a fazei principale din Conference League. Meciul va fi transmis de Digi Sport 1 și Prima Sport 1, iar GSP.ro va oferi LIVE TEXT.\n\n• **Cele două echipe** nu s-au mai întâlnit; pentru Getafe va fi primul meci împotriva unei formații din România. Gheorghe Craioveanu le leagă: a jucat pentru clubul madrilen între 2002 și 2006, a adunat 82 de meciuri, nouă goluri și șase pase decisive și a contribuit la promovarea Getafe în La Liga, în 2004.\n\n• **Parcursul european al Craiovei** continuă în Conference League după ce Ararat-Armenia a eliminat-o în play-off-ul Europa League, cu 2–1 la general. Echipa română a încheiat ediția precedentă cu șapte puncte și a ratat calificarea în fazele eliminatorii în ultima etapă, contra lui AEK Atena; clubul a câștigat din nou campionatul după mai bine de trei decenii.\n\n• **Forma Craiovei** este foarte bună: în ultimul meci a câștigat cu 1–0 în deplasare la Csikszereda și a ajuns la cinci victorii consecutive în toate competițiile. Elisor a marcat golul victoriei în minutul 77; în prima repriză, oltenii au irosit trei ocazii ale lui Al-Hamlawi și câte una ale lui Băluță și Romanchuk. După 11 etape de campionat, Craiova ocupă locul al treilea, cu 23 de puncte.\n\n• **Bilanțul de acasă** arată că, în primele zece meciuri oficiale disputate pe teren propriu în acest sezon, Craiova a câștigat șapte, a remizat de două ori și a pierdut o dată. În ultimele trei partide de campionat de acasă a marcat 12 goluri: a învins Voluntari cu 3–1, U Cluj cu 4–0 și FCSB cu 5–0. În ultimele cinci meciuri de pe teren propriu a rămas neînvinsă.\n\n• **Getafe** s-a calificat în faza principală după ce a eliminat-o pe Partizan Belgrad în play-off, cu 4–3 la general. Spaniolii au încheiat sezonul trecut din La Liga pe locul al șaptelea, însă după primele opt etape din noua ediție au opt puncte și ocupă locul 14. Cel mai recent au pierdut cu 0–3 în fața Barcelonei; au câștigat unul dintre ultimele cinci meciuri și au pierdut primele cinci deplasări ale sezonului.\n\n• **Experiența europeană a lui Getafe** arată că debuturile în faza principală i-au fost favorabile: a câștigat în prima etapă în fiecare dintre cele trei participări anterioare. Din cele trei ediții de Europa League, a trecut de grupe de două ori, în 2007/08 și 2019/20; în 2019/20 a fost eliminată de Inter în optimi. Cel mai bun rezultat al său a fost sfertul de finală al Cupei UEFA din 2008. Getafe a disputat 29 de meciuri europene, cu 15 victorii, cinci egaluri și nouă înfrângeri; în faza principală a câștigat cinci dintre cele 13 deplasări.\n\n• **Valoarea estimată a loturilor** este de 95,4–98,9 milioane de euro pentru Getafe și de 36,8 milioane pentru Craiova. Printre cei mai valoroși jucători ai spaniolilor se numără Mario Martín și Martín Satriano, evaluați la câte 10 milioane de euro, precum și Orel Mangala și Christantus Uche, evaluați la câte 9 milioane.\n\n• **Dani Carvajal** a semnat cu Getafe după plecarea de la Real Madrid, contractul său fiind valabil până în iunie 2027. Fundașul, care a strâns 51 de selecții pentru naționala Spaniei, nu este însă inclus pe lista pentru Conference League și nu poate juca împotriva Craiovei.\n\n• **Absențele**: Craiova nu se va putea baza pe Carlos Mora, suspendat, și Etim Monday, accidentat; Pavlo Isenko și Adrian Rus sunt indisponibili de mai mult timp. Samuel Teles este incert, iar Mihnea Rădulescu nu a fost înscris în lotul competiției. De la Getafe va lipsi Zaid Romero, accidentat la coapsa stângă, la nivelul cvadricepsului, în meciul cu Barcelona; clubul nu vrea să riște folosirea lui.\n\n• **Echipele probabile**: Craiova – L. Popescu; Romanchuk, Stevanović, Screciu; Teles, T. Băluță, Cicâldău, Bancu; D. Matei, Al Hamlawi, Baiaram. Getafe – Soria; Femenía, Djene, Gudelj, Abqar, Mojica; García, Francho, Martín, Terrats; Satriano.\n\n• **Arbitrul** va fi slovenul David Smajc, ajutat de asistenții Manuel Vidali și David Gabrovec; în camera VAR vor lucra Aleksandar Matkovic și Mihael Antic. Smajc nu a mai arbitrat până acum un meci al unei echipe de club din România.\n\n• **Estimările specialiștilor** plasează Craiova pe locul 21 la finalul fazei principale și îi acordă o probabilitate de 65,2% să termine între locurile 9 și 24, care duc în play-off. Șansele de a încheia în primele opt sunt estimate la 11,3%, în timp ce Getafe este creditată cu 29%.\n\n• **Programul următoarelor meciuri din Conference League**: pe 22 octombrie, Craiova joacă în deplasare cu Inter Club d’Escaldes; pe 5 noiembrie o găzduiește pe KF Egnatia; pe 26 noiembrie merge la Brighton; pe 10 decembrie joacă în deplasare cu Kairat Almaty, iar pe 17 decembrie o primește pe FC Copenhaga.\n\n• **Suporterii** cumpăraseră peste 20.000 de bilete înaintea meciului; stadionul Ion Oblemenco are o capacitate de 30.983 de locuri. Craiova este singura echipă românească prezentă în faza principală a competițiilor europene în desfășurare.\n\n• **Antrenorii și Gică Craioveanu** anticipează un meci dificil: Filipe Coelho consideră Getafe cel mai puternic adversar întâlnit de Craiova în competiție, iar José Bordalás a lăudat jucătorii și progresul gazdelor. Craioveanu spune că oltenii vor avea nevoie de răbdare, deoarece Getafe este o echipă fizică, întrerupe jocul prin faulturi tactice și este greu de învins. Alexandru Cicâldău a subliniat importanța unității grupului și dorința de a depăși rezultatul de anul trecut."
+  },
+  {
+    "group_id": "group_d7a1d8bfb3",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Vásárhely.ma",
+        "title": "Kárnak és szemétnek nincs gazdája",
+        "link": "https://www.vasarhely.ma/karnak-es-szemetnek-nincs-gazdaja/"
+      }
+    ],
+    "published_at": 1792053268,
+    "title_hu": "Kárnak és szemétnek nincs gazdája",
+    "lead_hu": "Egyelőre nem tudni, ki fogja kifizetni a bíróság által megállapított 1,4 millió lejes pénzbírságot. Soós Zoltán polgármester helyettesét, Călin Moldovant okolja a balul elsült ügyletért. Szemét egy üg…",
+    "content_hu": "Egyelőre nem tudni, ki fogja kifizetni a bíróság által megállapított 1,4 millió lejes pénzbírságot. Soós Zoltán polgármester helyettesét, Călin Moldovant okolja a balul elsült ügyletért. Szemét egy ügy, nem tudni, ki fogja kifizetni a bíróság által jogerős döntéssel megítélt a kártérítést a felperes Sylevynek. Az igazságszolgáltatás Marosvásárhely polgármesteri hivatalát marasztalta el, Soós Zoltán polgármester azonban […]",
+    "title_ro": "Kárnak és szemétnek nincs gazdája",
+    "lead_ro": "Egyelőre nem tudni, ki fogja kifizetni a bíróság által megállapított 1,4 millió lejes pénzbírságot. Soós Zoltán polgármester helyettesét, Călin Moldovant okolja a balul elsült ügyletért. Szemét egy üg…",
+    "content_ro": "Egyelőre nem tudni, ki fogja kifizetni a bíróság által megállapított 1,4 millió lejes pénzbírságot. Soós Zoltán polgármester helyettesét, Călin Moldovant okolja a balul elsült ügyletért. Szemét egy ügy, nem tudni, ki fogja kifizetni a bíróság által jogerős döntéssel megítélt a kártérítést a felperes Sylevynek. Az igazságszolgáltatás Marosvásárhely polgármesteri hivatalát marasztalta el, Soós Zoltán polgármester azonban […]"
+  },
+  {
+    "group_id": "group_caceb393ee",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/15/cikk_halottak_napja_mindenszentek_Kolozsvar_Hazsongardi_temeto_BSz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Meghalt a kórházban a súlyos balesetet szenvedett 18 éves lány",
+        "link": "https://maszol.ro/belfold/Meghalt-a-korhazban-a-sulyos-balesetet-szenvedett-18-eves-lany"
+      }
+    ],
+    "published_at": 1792053240,
+    "title_hu": "Meghalt a kórházban a súlyos balesetet szenvedett 18 éves lány",
+    "lead_hu": "Elhunyt az a fiatal diáklány, aki egy héttel ezelőtt szenvedett súlyos autóbalesetet a 17-es országúton.",
+    "content_hu": "Elhunyt az a fiatal diáklány, aki egy héttel ezelőtt szenvedett súlyos autóbalesetet a 17-es országúton.",
+    "title_ro": "Meghalt a kórházban a súlyos balesetet szenvedett 18 éves lány",
+    "lead_ro": "Elhunyt az a fiatal diáklány, aki egy héttel ezelőtt szenvedett súlyos autóbalesetet a 17-es országúton.",
+    "content_ro": "Elhunyt az a fiatal diáklány, aki egy héttel ezelőtt szenvedett súlyos autóbalesetet a 17-es országúton."
+  },
+  {
+    "group_id": "group_a9a2999db2",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/8017127-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Suedia respinge propunerea președinției irlandeze a UE privind bugetul european pentru perioada 2028-2034",
+        "link": "https://www.mediafax.ro/externe/suedia-respinge-propunerea-presedintiei-irlandeze-a-ue-privind-bugetul-european-pentru-perioada-2028-2034-23825779"
+      }
+    ],
+    "published_at": 1792053238,
+    "title_hu": "Suedia respinge propunerea președinției irlandeze a UE privind bugetul european pentru perioada 2028-2034",
+    "lead_hu": "Premierul suedez Ulf Kristersson a anunțat joi că Suedia va respinge propunerea președinției irlandeze a Uniunii Europene privind planul bugetar al Comisiei Europene pentru perioada 2028-2034.",
+    "content_hu": "Premierul suedez Ulf Kristersson a anunțat joi că Suedia va respinge propunerea președinției irlandeze a Uniunii Europene privind planul bugetar al Comisiei Europene pentru perioada 2028-2034.",
+    "title_ro": "Suedia respinge propunerea președinției irlandeze a UE privind bugetul european pentru perioada 2028-2034",
+    "lead_ro": "Premierul suedez Ulf Kristersson a anunțat joi că Suedia va respinge propunerea președinției irlandeze a Uniunii Europene privind planul bugetar al Comisiei Europene pentru perioada 2028-2034.",
+    "content_ro": "Premierul suedez Ulf Kristersson a anunțat joi că Suedia va respinge propunerea președinției irlandeze a Uniunii Europene privind planul bugetar al Comisiei Europene pentru perioada 2028-2034."
+  },
+  {
+    "group_id": "group_d1906c4c52",
+    "fingerprint": "5df8e6a2e73ddecbb51c9347ea753304",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/8034493-mediafax_foto-anadolu_agency_hepta-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Kallas: Atacurile Ucrainei asupra rafinăriilor rusești reprezintă acte de legitimă apărare",
+        "link": "https://www.mediafax.ro/externe/kallas-atacurile-ucrainei-asupra-rafinariilor-rusesti-reprezinta-acte-de-legitima-aparare-23825744"
+      },
+      {
+        "source": "G4Media",
+        "title": "Atacurile Ucrainei asupra rafinăriilor rusești reprezintă acte de legitimă apărare, consideră șefa diplomației europene",
+        "link": "https://www.g4media.ro/atacurile-ucrainei-asupra-rafinariilor-rusesti-reprezinta-acte-de-legitima-aparare-considera-sefa-diplomatiei-europene.html"
+      }
+    ],
+    "published_at": 1792053217,
+    "title_hu": "Kallas szerint az ukrán csapások az orosz finomítók ellen jogos önvédelemnek számítanak",
+    "lead_hu": "Kaja Kallas, az EU külügyi főképviselője szerint Ukrajna jogosan támadja az orosz olajfinomítókat, mivel az olajbevételek hozzájárulnak az orosz háború finanszírozásához. Volodimir Zelenszkij azt állítja, hogy Kijev az orosz támadások folytatódása után újraindította a finomítók elleni műveleteket; az ukrán elnök amerikai nyomásgyakorlásról szóló állításait a cikk nem erősíti meg függetlenül.",
+    "content_hu": "• **Kaja Kallas álláspontja szerint** az orosz finomítók elleni ukrán támadások jogos önvédelemnek minősülnek, mert az olajbevételek a háború finanszírozását szolgálják. Az EU külügyi főképviselője úgy vélte, az energetikai infrastruktúra elleni támadások leállításának leggyorsabb módja az Oroszország által indított háború befejezése.\n\n• **Az energetikai tűzszünetről szóló bejelentés után** Zelenszkij szerint Ukrajna Washington kérésére három napra felfüggesztette az orosz energetikai létesítmények elleni támadásokat. Az ukrán elnök azt állította, hogy Oroszország eközben tovább bombázta Ukrajna infrastruktúráját, ezért Kijev újraindította a finomítók elleni műveleteket.\n\n• **Zelenszkij amerikai nyomásgyakorlásról is beszélt:** állítása szerint Washington felfüggesztette a hírszerzési információk megosztását, és korlátozta a Starlink szolgáltatását, hogy leállítsa az orosz finomítók elleni ukrán csapásokat. A cikk ezeket az állításokat nem tekinti függetlenül megerősítettnek.\n\n• **Az ukrán védelmi minisztérium adatai szerint** szeptemberben 12 jelentős orosz finomítót támadtak meg. A Nemzetközi Energiaügynökség Euronews által idézett adatai alapján augusztus végéig Oroszország 32 nagy finomítójából mindössze ötöt nem ért ukrán dróntámadás.\n\n• **Moszkva szerint az energetikai tűzszünet feltételei nem egyértelműek:** Dmitrij Peszkov, a Kreml szóvivője a megállapodás határairól és tartalmáról kérdezett, és azt mondta, hogy az erről szóló egyeztetések folytatódnak.",
+    "title_ro": "Kaja Kallas consideră atacurile Ucrainei asupra rafinăriilor rusești acte de legitimă apărare",
+    "lead_ro": "Kaja Kallas, șefa diplomației europene, afirmă că Ucraina are dreptul să lovească rafinăriile rusești, întrucât veniturile din petrol contribuie la finanțarea războiului. Volodimir Zelenski spune că Kievul a reluat atacurile după continuarea bombardamentelor rusești; afirmațiile sale privind presiunile SUA nu sunt confirmate independent în material.",
+    "content_ro": "• **Potrivit Kajei Kallas,** atacurile Ucrainei asupra rafinăriilor rusești reprezintă acte de legitimă apărare, deoarece veniturile din petrol contribuie la finanțarea războiului. Șefa diplomației europene a declarat că încheierea războiului declanșat de Rusia este cea mai rapidă cale de a opri atacurile asupra infrastructurii energetice.\n\n• **După anunțarea unui armistițiu energetic,** Ucraina ar fi suspendat timp de trei zile atacurile asupra instalațiilor energetice rusești, la solicitarea Washingtonului, potrivit lui Zelenski. Președintele ucrainean susține că Rusia a continuat să bombardeze infrastructura Ucrainei, iar Kievul a reluat operațiunile împotriva rafinăriilor.\n\n• **Zelenski a acuzat administrația americană de presiuni:** el susține că Washingtonul a suspendat schimbul de informații și a perturbat serviciile Starlink pentru a determina Ucraina să oprească atacurile. Materialul precizează că aceste afirmații nu sunt confirmate independent.\n\n• **Conform Ministerului ucrainean al Apărării,** forțele Kievului au atacat 12 rafinării importante din Rusia în septembrie. Datele Agenției Internaționale pentru Energie, citate de Euronews, arată că până la sfârșitul lunii august doar cinci dintre cele 32 de mari rafinării rusești nu fuseseră vizate de atacuri cu drone ucrainene.\n\n• **Moscova afirmă că termenii armistițiului energetic nu sunt clari:** Dmitri Peskov, purtătorul de cuvânt al Kremlinului, a întrebat care sunt limitele și condițiile acordului și a declarat că discuțiile în această direcție continuă."
+  },
+  {
     "group_id": "group_a4133ed397",
     "category": "Erdély",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -19,6 +375,27 @@
     "title_ro": "Veniți după formulare! Direcția de Asistență Socială Oradea va prelua din 2 noiembrie dosarele pentru ajutorul de încălzire",
     "lead_ro": "Orădenii cu venituri mici își pot pregăti dosarele pentru obținerea ajutorului pentru încălzire în sezonul 2026–2027, în condițiile în care termoficarea va fi reluată pe 15 octombrie. Începând din 19 …",
     "content_ro": "Orădenii cu venituri mici își pot pregăti dosarele pentru obținerea ajutorului pentru încălzire în sezonul 2026–2027, în condițiile în care termoficarea va fi reluată pe 15 octombrie. Începând din 19 octombrie, potențialii beneficiari vor putea ridica formularele necesare și, la nevoie, vor putea solicita sprijin pentru completarea lor atât la sediul Direcției de Asistență Socială Oradea, de pe strada Primăriei nr. 42, cât și la centrele multifuncționale din cartiere. Dosarele completate vor putea fi depuse începând din 2 noiembrie."
+  },
+  {
+    "group_id": "group_9ab9747e86",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/criptomonede-si-o-platforma-de-tranzactionare-a-activelor-digitale-1024x576.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cea mai mare țară din lume interzice tranzacțiile cu criptomonede",
+        "link": "https://www.mediafax.ro/economic/cea-mai-mare-tara-din-lume-interzice-tranzactiile-cu-criptomonede-23825776"
+      }
+    ],
+    "published_at": 1792053096,
+    "title_hu": "Cea mai mare țară din lume interzice tranzacțiile cu criptomonede",
+    "lead_hu": "Tranzacțiile cu criptomonede vor fi interzise în Rusia, cea mai mare țară din lume. Măsura care vizează persoanele fizice se va aplica de anul viitor.",
+    "content_hu": "Tranzacțiile cu criptomonede vor fi interzise în Rusia, cea mai mare țară din lume. Măsura care vizează persoanele fizice se va aplica de anul viitor.",
+    "title_ro": "Cea mai mare țară din lume interzice tranzacțiile cu criptomonede",
+    "lead_ro": "Tranzacțiile cu criptomonede vor fi interzise în Rusia, cea mai mare țară din lume. Măsura care vizează persoanele fizice se va aplica de anul viitor.",
+    "content_ro": "Tranzacțiile cu criptomonede vor fi interzise în Rusia, cea mai mare țară din lume. Măsura care vizează persoanele fizice se va aplica de anul viitor."
   },
   {
     "group_id": "group_539652c39c",
@@ -532,55 +909,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_7f0202fdd8",
-    "fingerprint": "600cbcaabc7e41eca3611bf3d9bebaa0",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjIxJTJGMjMzMzIyOV8yMzMz/MjI5X1VjcmFpbmEtVUUuanBnJmhhc2g9/OGFmZjI5Mzc1YWI3YTJlZjE2NTQ4MTdhM2U4MmQwNzQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Sprijinul pentru aderarea rapidă a Ucrainei, în scădere în toată UE. Românii şi germanii sunt cei mai sceptici (sondaj)",
-        "link": "https://www.digi24.ro/stiri/externe/sprijinul-pentru-aderarea-rapida-a-ucrainei-in-scadere-in-toata-ue-romanii-si-germanii-sunt-cei-mai-sceptici-sondaj-3989693"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ucraina, mai aproape de aderarea la UE după ce Ungaria a renunțat la veto. Zelenski și Magyar ar putea avea prima întâlnire",
-        "link": "https://www.digi24.ro/stiri/externe/ucraina-mai-aproape-de-aderarea-la-ue-dupa-ce-ungaria-a-renuntat-la-veto-zelenski-si-magyar-ar-putea-avea-prima-intalnire-3990893"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "A gyors ukrán EU-csatlakozást az uniós polgárok 47%-a támogatja; Romániában a legalacsonyabb az arány",
-    "lead_hu": "A Bertelsmann Alapítvány felmérése szerint az ukránok 83%-a szeretné, ha országa a következő években csatlakozna az EU-hoz, miközben az uniós polgároknak csak 47%-a támogatja a gyors csatlakozást. A támogatottság az EU egészében csökkent, de a csatlakozási tárgyalások közben előreléptek: Magyarország vétójának feloldása után már hat tárgyalási klaszterből négy megnyitását hagyták jóvá.",
-    "content_hu": "• **A gyors csatlakozást az uniós polgárok 47%-a támogatja:** a Bertelsmann Alapítvány felmérésében 53% ellenezte, hogy Ukrajna a közeljövőben csatlakozzon az Európai Unióhoz.\n\n• **Az ukránok 83%-a támogatja a következő éveken belüli csatlakozást.** A közvélemény tehát jelentősen eltér Ukrajnában és az EU egészében.\n\n• **Romániában 40% a gyors csatlakozás támogatottsága, Németországban 41%.** A vizsgált tíz uniós ország közül Svédországban volt a legmagasabb az arány, 69%-kal.\n\n• **A támogatás az EU egészében és az egyes tagállamokban is csökkent** a Bertelsmann Alapítvány korábbi, rendszeresen végzett felméréseihez képest.\n\n• **Németországban 2022-ben még 60% támogatta a gyors csatlakozást.** Az orosz invázió kezdetén mért arány azóta 41%-ra esett.\n\n• **Magyarország feloldotta vétóját, így megnyílhatott újabb két tárgyalási klaszter.** Ezzel a hatból négy klaszter megnyitását hagyták jóvá; a döntést a magyar kisebbség jogairól kötött megállapodás előzte meg.\n\n• **A klaszterek megnyitása nem garantálja Ukrajna EU-tagságát.** Kijevnek további reformokat kell végrehajtania, és minden klaszter lezárásához valamennyi tagállam egyetértése szükséges; a mezőgazdaság továbbra is vitás kérdés lehet.\n\n• **A felmérést júniusban végezték 16 795 ember bevonásával** az EU összes tagállamában. Az alapítvány szerint Ukrajna csatlakozása az EU hivatalos célja, a stratégiai jelentőségéről pedig meggyőzőbben kell tájékoztatni a közvéleményt.",
-    "title_ro": "47% dintre cetățenii UE susțin aderarea rapidă a Ucrainei; România înregistrează cel mai scăzut sprijin",
-    "lead_ro": "Potrivit unui sondaj al Fundației Bertelsmann, 83% dintre ucraineni își doresc ca țara lor să adere la UE în următorii ani, în timp ce doar 47% dintre cetățenii Uniunii susțin o aderare rapidă. Sprijinul a scăzut în întregul bloc comunitar, însă negocierile au avansat: după ridicarea veto-ului Ungariei, au fost aprobate încă două clustere de negociere, ajungându-se la patru din șase.",
-    "content_ro": "• **47% dintre cetățenii UE susțin aderarea rapidă:** în sondajul Fundației Bertelsmann, 53% s-au opus aderării Ucrainei la Uniunea Europeană în viitorul apropiat.\n\n• **83% dintre ucraineni susțin aderarea în următorii ani.** Opinia publică diferă, așadar, considerabil în Ucraina și în UE în ansamblu.\n\n• **Sprijinul pentru aderarea rapidă este de 40% în România și de 41% în Germania.** Dintre cele zece state UE analizate, Suedia a înregistrat cel mai ridicat nivel, de 69%.\n\n• **Sprijinul a scăzut atât în UE în ansamblu, cât și în statele membre**, potrivit sondajelor realizate periodic de Fundația Bertelsmann.\n\n• **În Germania, 60% susțineau aderarea rapidă în 2022.** Procentul măsurat la începutul invaziei ruse a coborât între timp la 41%.\n\n• **Ungaria și-a ridicat veto-ul, permițând deschiderea a încă două clustere de negociere.** Au fost aprobate astfel patru dintre cele șase clustere, după un acord privind drepturile minorității maghiare.\n\n• **Deschiderea clusterelor nu garantează aderarea Ucrainei la UE.** Kievul trebuie să continue reformele, iar închiderea fiecărui cluster necesită acordul tuturor statelor membre; agricultura rămâne un posibil subiect controversat.\n\n• **Sondajul a fost realizat în iunie, pe un eșantion de 16.795 de persoane** din toate statele membre ale UE. Fundația afirmă că aderarea Ucrainei este un obiectiv oficial al Uniunii și că importanța sa strategică trebuie comunicată mai convingător publicului."
-  },
-  {
-    "group_id": "group_33c7570745",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Atacurile din Marea Neagră arată necesitatea unui nou cadru pentru securitatea maritimă (experți turci)",
-        "link": "https://agerpres.ro/politic-extern/2026/10/15/atacurile-din-marea-neagra-arata-necesitatea-unui-nou-cadru-pentru-securitatea-maritima-experti-turc--1603194"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Atacurile din Marea Neagră arată necesitatea unui nou cadru pentru securitatea maritimă (experți turci)",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Atacurile din Marea Neagră arată necesitatea unui nou cadru pentru securitatea maritimă (experți turci)",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
     "group_id": "group_1a94210a2b",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -759,34 +1087,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_2a4ae616d9",
-    "fingerprint": "ef4d2db9fbf2d25ee72f2591ad466c9b",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "MApN: Dronă intrată în spațiul național la Sulina; două aeronave F-16 ridicate de la sol",
-        "link": "https://agerpres.ro/social/2026/10/14/mapn-drona-intrata-in-spatiul-national-la-sulina-doua-aeronave-f-16-ridicate-de-la-sol--1602822"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "O nouă dronă a pătruns în spațiul aerian al României. Două avioane F-16 au fost ridicate de la sol",
-        "link": "https://stirileprotv.ro/stiri/actualitate/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-doua-avioane-f-16-au-fost-ridicate-de-la-borcea.html"
-      }
-    ],
-    "published_at": 1792052237,
-    "title_hu": "Drónriasztások és légtérsértések Tulceában; hajóincidensek Sulina közelében",
-    "lead_hu": "Október 14-én több RO-Alert-riasztást kaptak Tulcea megye lakói drónveszély miatt, és légi célok többször rövid időre megsértették Románia légterét. Egy Comore-szigeteki zászló alatt közlekedő hajót is találat ért Sulina közelében; október 15-én reggel pedig egy különálló tengeri incidens miatt nyolc eltűnt személyről érkezett jelentés. A hatóságok aznap reggel újabb légi célt észleltek a Kígyó-sziget közelében, de nem jelentettek újabb légtérsértést.",
-    "content_hu": "• **Október 14-én reggel** RO-Alert-riasztást kaptak Tulcea megye északi részének lakói drónok lehetséges berepülése miatt. A hatóságok arra kérték őket, hogy húzódjanak óvóhelyre, vagy maradjanak az ablakoktól és a külső falaktól távol.\n\n• **6:39-kor adták ki az első riasztást, amely 7:58 körül ért véget.** A védelmi minisztérium radarjai három légi célt észleltek az ukrajnai Vâlkove közelében, a román határ térségében; a források drónként azonosították őket. A minisztérium szerint nem léptek be Románia légterébe.\n\n• **A román légierő két F-16-os vadászgépet és egy IAR-330 SOCAT helikoptert indított** a helyzet megfigyelésére; a vadászgépek a borceai 86-os légibázisról szálltak fel.\n\n• **Körülbelül 8:20-kor újabb RO-Alert-riasztást adtak ki** Tulcea megye északi részén, a légből lezuhanó tárgyak veszélyére is figyelmeztetve. Ez volt a nap második riasztása; a két reggeli riasztás összesen körülbelül 2 óra 21 percig tartott.\n\n• **10:19-kor újabb riasztást adtak ki** Tulcea megye északi és keleti részére, miután a radarok egy másik drónt észleltek a román határ közelében. Két F-16-os vadászgép szállt fel a borceai 86-os légibázisról.\n\n• **A 10:19-kor észlelt drón rövid időre megsértette Románia légterét** a Fekete-tenger fölött, Sulina keleti térségében, majd visszatért Ukrajna légterébe, ahol az ukrán légvédelem lelőtte. A riasztás 11:22-kor ért véget.\n\n• **Délután újabb légi célt észleltek** a Kígyó-szigettől mintegy 30 kilométerre keletre. Két F-16-os vadászgép szállt fel, és 17:39-kor RO-Alert-üzenetet küldtek Tulcea megye északi és keleti részének lakóinak.\n\n• **A délutáni légi cél 17:38-kor lépett be Románia légterébe**, Sulinától mintegy 22 kilométerre északkeletre, a román felségvizek fölött. 17:46-kor hagyta el a légteret; a riasztás 19:03-kor ért véget.\n\n• **Este 20:02-kor újabb RO-Alert-üzenetet küldtek ki** Tulcea megye északkeleti részén. Az incidens során 20:04-kor két légi cél lépett be Románia légterébe: az egyikkel a radar elvesztette a kapcsolatot a tenger fölött, a másik 20:13-kor Ukrajna felé távozott. Spanyol F-18-asokat is felszállítottak a Mihail Kogălniceanu-i 57-es légibázisról.\n\n• **A Reni felé tartó cél miatt 20:33-kor RO-Alert-üzenetet küldtek ki Galați megye keleti részére is.** Az ukrán légvédelem a célt Reni térségében megsemmisítette; a riasztás 21:14-kor ért véget.\n\n• **A ProTV a védelmi minisztériumra hivatkozva azt közölte, hogy a nap folyamán összesen három drón hatolt be Románia légterébe** a Fekete-tenger térségében. Az ISU Tulcea szerint a riasztások után nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **Az idei RO-Alert-üzenetek száma Tulcea megyében** már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.\n\n• **A Cancan által idézett hivatalos adatok szerint 2026. szeptember 27-ig** 81, a román határ közelében történt támadást, 30 jogosulatlan légtérsértést és négy lelőtt drónt tartottak nyilván.\n\n• **Október 14-én este drón találta el a Sulina előtti horgonyzóhelyen tartózkodó, Comore-szigeteki zászló alatt közlekedő hajót.** Az Adevărul szerint a hajó Törökországból indult, és az ukrajnai Izmajilba tartott rakományért; a találat román felségvizeken érte.\n\n• **Radu Miruță ügyvivő védelmi miniszter közölte, hogy a hajó Constanțába tart**, ahol műszaki vizsgálattal állapítják meg, hogy a drón okozta-e a fedélzeten keletkezett tüzet.\n\n• **Október 15-én reggelre virradó éjjel, 1:34-kor** egy drónt észleltek a román légtérben, Sulinától délkeletre, a román felségvizek fölött. A radar mintegy egy percig követte, majd a drón eltűnt a képernyőről.\n\n• **Az éjszakai művelet során két spanyol F-18-ast, majd két román F-16-ost is felszállítottak.** Az utóbbiak a fetești-i 86-os légibázisról indultak, miután újabb légi célokat észleltek a Kígyó-szigettől mintegy 77 kilométerre keletre. A védelmi minisztérium nem jelentett újabb román légtérsértést.\n\n• **4:57-kor RO-Alert-riasztást küldtek Tulcea megye északi és keleti részére.** A riasztás 5:46-kor ért véget.\n\n• **Október 15-én reggel újabb légi célt észleltek a Kígyó-sziget közelében.** Két román F-16-os szállt fel a borceai 86-os légibázisról, és 8:36-kor RO-Alert-üzenetet küldtek Tulcea megye keleti részére. A minisztérium nem jelentett légtérsértést; a riasztás 10:27-kor ért véget.\n\n• **Október 15-én reggel különálló tengeri mentési műveletről is érkezett jelentés:** a román tengeri hatóságok keresést és mentést indítottak egy Sulinától délkeletre, mintegy 13 tengeri mérföldre történt súlyos incidens után; nyolc embert eltűntként tartottak nyilván. A ProTV forrásai egy hajó elleni támadásról és fedélzeti tűzről számoltak be, de az elérhető közlések nem igazolták, hogy ennek köze volt-e drónhoz.\n\n• **Radu Miruță közös, a Fekete-tenger térségét lefedő NATO-parancsnokság létrehozását javasolta** bolgár kollégájának. A kezdeményezést támogató közös levelet terveznek küldeni a NATO vezetésének; Románia 2028-tól vállalhatná a parancsnokság vezetését.",
-    "title_ro": "Alerte cu drone și încălcări ale spațiului aerian în Tulcea; incidente maritime în apropiere de Sulina",
-    "lead_ro": "Pe 14 octombrie, locuitorii județului Tulcea au primit mai multe mesaje RO-Alert din cauza riscului de drone, iar ținte aeriene au încălcat pentru scurt timp spațiul aerian al României. O navă sub pavilionul Insulelor Comore a fost lovită în apropiere de Sulina; în dimineața de 15 octombrie a fost raportat și un incident maritim separat, în urma căruia opt persoane erau date dispărute. În aceeași dimineață, autoritățile au detectat o nouă țintă aeriană în apropierea Insulei Șerpilor, fără să raporteze o nouă încălcare a spațiului aerian.",
-    "content_ro": "• **În dimineața zilei de 14 octombrie**, locuitorii din nordul județului Tulcea au primit un mesaj RO-Alert privind posibila incursiune a unor drone. Autoritățile le-au recomandat să se adăpostească sau să rămână departe de ferestre și de pereții exteriori.\n\n• **Prima alertă a fost transmisă la ora 6:39 și a încetat în jurul orei 7:58.** Radarele Ministerului Apărării au detectat trei ținte aeriene în apropiere de Vâlkove, pe teritoriul Ucrainei, în zona frontierei cu România; sursele le-au identificat drept drone. Potrivit ministerului, acestea nu au intrat în spațiul aerian românesc.\n\n• **Forțele Aeriene Române au ridicat de la sol două aeronave F-16 și un elicopter IAR-330 SOCAT** pentru monitorizarea situației; avioanele au decolat de la Baza 86 Aeriană Borcea.\n\n• **În jurul orei 8:20 a fost transmisă o nouă alertă RO-Alert** pentru nordul județului Tulcea, care avertiza și asupra riscului căderii unor obiecte din aer. A fost a doua alertă a zilei; cele două alerte de dimineață au durat în total aproximativ 2 ore și 21 de minute.\n\n• **La ora 10:19 a fost emisă o nouă alertă** pentru nordul și estul județului Tulcea, după ce radarele au detectat o altă dronă în apropierea frontierei române. Două aeronave F-16 au decolat de la Baza 86 Aeriană Borcea.\n\n• **Drona detectată la ora 10:19 a încălcat pentru scurt timp spațiul aerian al României** deasupra Mării Negre, la est de Sulina, apoi a reintrat în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Alerta a încetat la ora 11:22.\n\n• **După-amiază a fost detectată o nouă țintă aeriană** la aproximativ 30 de kilometri est de Insula Șerpilor. Au decolat două aeronave F-16, iar la ora 17:39 locuitorii din nordul și estul județului Tulcea au primit un mesaj RO-Alert.\n\n• **Ținta aeriană a intrat în spațiul aerian al României la ora 17:38**, la aproximativ 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale românești. A ieșit din spațiul aerian la 17:46, iar alerta a încetat la 19:03.\n\n• **La ora 20:02 a fost transmis un nou mesaj RO-Alert** în nord-estul județului Tulcea. În timpul incidentului, la 20:04, două ținte aeriene au intrat în spațiul aerian românesc: contactul radar cu una dintre ele s-a pierdut deasupra mării, iar cealaltă a plecat spre Ucraina la 20:13. Au fost ridicate de la Baza 57 Aeriană Mihail Kogălniceanu și aeronave spaniole F-18.\n\n• **Din cauza țintei care se îndrepta spre Reni, la ora 20:33 a fost transmis un mesaj RO-Alert și pentru estul județului Galați.** Apărarea antiaeriană ucraineană a distrus ținta în zona Reni; alerta a încetat la 21:14.\n\n• **ProTV, citând Ministerul Apărării, a relatat că în cursul zilei au intrat în total trei drone în spațiul aerian al României** în zona Mării Negre. ISU Tulcea a precizat că după alerte nu au fost primite apeluri de urgență și nu au fost raportate incidente în zona vizată.\n\n• **Numărul mesajelor RO-Alert transmise în acest an în județul Tulcea** l-a depășit deja pe cel al alertelor extreme emise în toată România, din același motiv, în perioada 2023–2025.\n\n• **Potrivit datelor oficiale citate de Cancan, până la 27 septembrie 2026** fuseseră înregistrate 81 de atacuri în apropierea frontierei române, 30 de încălcări neautorizate ale spațiului aerian și patru drone doborâte.\n\n• **În seara de 14 octombrie, o dronă a lovit o navă sub pavilionul Insulelor Comore, aflată la rada Sulina.** Potrivit Adevărul, nava plecase din Turcia și se îndrepta spre Ismail, în Ucraina, pentru a încărca marfă; lovitura a avut loc în apele teritoriale românești.\n\n• **Ministrul interimar al Apărării, Radu Miruță, a declarat că nava se îndreaptă spre Constanța**, unde o verificare tehnică urma să stabilească dacă drona a provocat incendiul de la bord.\n\n• **La ora 1:34, în noaptea de 14 spre 15 octombrie,** o dronă a fost detectată în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale. Radarul a urmărit-o aproximativ un minut, după care a dispărut de pe ecran.\n\n• **În timpul operațiunii nocturne au decolat două aeronave spaniole F-18, apoi două aeronave românești F-16.** Acestea din urmă au plecat de la Baza 86 Aeriană Fetești, după detectarea unor noi ținte aeriene la aproximativ 77 de kilometri est de Insula Șerpilor. Ministerul Apărării nu a raportat alte încălcări ale spațiului aerian românesc.\n\n• **La ora 4:57 a fost transmis un mesaj RO-Alert** pentru nordul și estul județului Tulcea. Alerta a încetat la 5:46.\n\n• **În dimineața zilei de 15 octombrie a fost detectată o nouă țintă aeriană în apropierea Insulei Șerpilor.** Două aeronave românești F-16 au decolat de la Baza 86 Aeriană Borcea, iar la ora 8:36 a fost transmis un mesaj RO-Alert pentru estul județului Tulcea. Ministerul nu a raportat o încălcare a spațiului aerian; alerta a încetat la 10:27.\n\n• **În dimineața zilei de 15 octombrie a fost raportată și o operațiune maritimă de căutare și salvare separată:** autoritățile române au declanșat intervenția după un incident grav produs la aproximativ 13 mile marine sud-est de Sulina; opt persoane erau date dispărute. Surse citate de ProTV au relatat despre un posibil atac asupra unei nave și un incendiu la bord, însă informațiile disponibile nu confirmă dacă incidentul a avut legătură cu o dronă.\n\n• **Radu Miruță a propus omologului său bulgar crearea unui comandament NATO comun pentru zona Mării Negre.** Cele două țări intenționează să trimită conducerii NATO o scrisoare comună de susținere; România ar putea prelua conducerea comandamentului începând din 2028."
-  },
-  {
     "group_id": "group_d86895fdd3",
     "fingerprint": "34172352e801113ba155a20b9b99345e",
     "category": "Általános",
@@ -857,25 +1157,32 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_ee6aa8bb33",
+    "group_id": "group_2a4ae616d9",
+    "fingerprint": "ef4d2db9fbf2d25ee72f2591ad466c9b",
     "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
-        "title": "CFR Călători: Nouă trenuri internaționale vor pleca mai devreme din Budapesta, în perioada 7 - 8 noiembrie",
-        "link": "https://agerpres.ro/economic/2026/10/15/cfr-calatori-noua-trenuri-internationale-vor-pleca-mai-devreme-din-budapesta-in-perioada-7---8-noiem--1603177"
+        "title": "MApN: Dronă intrată în spațiul național la Sulina; două aeronave F-16 ridicate de la sol",
+        "link": "https://agerpres.ro/social/2026/10/14/mapn-drona-intrata-in-spatiul-national-la-sulina-doua-aeronave-f-16-ridicate-de-la-sol--1602822"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O nouă dronă a pătruns în spațiul aerian al României. Două avioane F-16 au fost ridicate de la sol",
+        "link": "https://stirileprotv.ro/stiri/actualitate/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-doua-avioane-f-16-au-fost-ridicate-de-la-borcea.html"
       }
     ],
     "published_at": 1792052237,
-    "title_hu": "CFR Călători: Nouă trenuri internaționale vor pleca mai devreme din Budapesta, în perioada 7 - 8 noiembrie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "CFR Călători: Nouă trenuri internaționale vor pleca mai devreme din Budapesta, în perioada 7 - 8 noiembrie",
-    "lead_ro": "",
-    "content_ro": ""
+    "title_hu": "Drónriasztások és légtérsértések Tulceában; hajóincidensek Sulina közelében",
+    "lead_hu": "Október 14-én több RO-Alert-riasztást kaptak Tulcea megye lakói drónveszély miatt, és légi célok többször rövid időre megsértették Románia légterét. Egy Comore-szigeteki zászló alatt közlekedő hajót is találat ért Sulina közelében; október 15-én reggel pedig egy különálló tengeri incidens miatt nyolc eltűnt személyről érkezett jelentés. A hatóságok aznap reggel újabb légi célt észleltek a Kígyó-sziget közelében, de nem jelentettek újabb légtérsértést.",
+    "content_hu": "• **Október 14-én reggel** RO-Alert-riasztást kaptak Tulcea megye északi részének lakói drónok lehetséges berepülése miatt. A hatóságok arra kérték őket, hogy húzódjanak óvóhelyre, vagy maradjanak az ablakoktól és a külső falaktól távol.\n\n• **6:39-kor adták ki az első riasztást, amely 7:58 körül ért véget.** A védelmi minisztérium radarjai három légi célt észleltek az ukrajnai Vâlkove közelében, a román határ térségében; a források drónként azonosították őket. A minisztérium szerint nem léptek be Románia légterébe.\n\n• **A román légierő két F-16-os vadászgépet és egy IAR-330 SOCAT helikoptert indított** a helyzet megfigyelésére; a vadászgépek a borceai 86-os légibázisról szálltak fel.\n\n• **Körülbelül 8:20-kor újabb RO-Alert-riasztást adtak ki** Tulcea megye északi részén, a légből lezuhanó tárgyak veszélyére is figyelmeztetve. Ez volt a nap második riasztása; a két reggeli riasztás összesen körülbelül 2 óra 21 percig tartott.\n\n• **10:19-kor újabb riasztást adtak ki** Tulcea megye északi és keleti részére, miután a radarok egy másik drónt észleltek a román határ közelében. Két F-16-os vadászgép szállt fel a borceai 86-os légibázisról.\n\n• **A 10:19-kor észlelt drón rövid időre megsértette Románia légterét** a Fekete-tenger fölött, Sulina keleti térségében, majd visszatért Ukrajna légterébe, ahol az ukrán légvédelem lelőtte. A riasztás 11:22-kor ért véget.\n\n• **Délután újabb légi célt észleltek** a Kígyó-szigettől mintegy 30 kilométerre keletre. Két F-16-os vadászgép szállt fel, és 17:39-kor RO-Alert-üzenetet küldtek Tulcea megye északi és keleti részének lakóinak.\n\n• **A délutáni légi cél 17:38-kor lépett be Románia légterébe**, Sulinától mintegy 22 kilométerre északkeletre, a román felségvizek fölött. 17:46-kor hagyta el a légteret; a riasztás 19:03-kor ért véget.\n\n• **Este 20:02-kor újabb RO-Alert-üzenetet küldtek ki** Tulcea megye északkeleti részén. Az incidens során 20:04-kor két légi cél lépett be Románia légterébe: az egyikkel a radar elvesztette a kapcsolatot a tenger fölött, a másik 20:13-kor Ukrajna felé távozott. Spanyol F-18-asokat is felszállítottak a Mihail Kogălniceanu-i 57-es légibázisról.\n\n• **A Reni felé tartó cél miatt 20:33-kor RO-Alert-üzenetet küldtek ki Galați megye keleti részére is.** Az ukrán légvédelem a célt Reni térségében megsemmisítette; a riasztás 21:14-kor ért véget.\n\n• **A ProTV a védelmi minisztériumra hivatkozva azt közölte, hogy a nap folyamán összesen három drón hatolt be Románia légterébe** a Fekete-tenger térségében. Az ISU Tulcea szerint a riasztások után nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **Az idei RO-Alert-üzenetek száma Tulcea megyében** már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.\n\n• **A Cancan által idézett hivatalos adatok szerint 2026. szeptember 27-ig** 81, a román határ közelében történt támadást, 30 jogosulatlan légtérsértést és négy lelőtt drónt tartottak nyilván.\n\n• **Október 14-én este drón találta el a Sulina előtti horgonyzóhelyen tartózkodó, Comore-szigeteki zászló alatt közlekedő hajót.** Az Adevărul szerint a hajó Törökországból indult, és az ukrajnai Izmajilba tartott rakományért; a találat román felségvizeken érte.\n\n• **Radu Miruță ügyvivő védelmi miniszter közölte, hogy a hajó Constanțába tart**, ahol műszaki vizsgálattal állapítják meg, hogy a drón okozta-e a fedélzeten keletkezett tüzet.\n\n• **Október 15-én reggelre virradó éjjel, 1:34-kor** egy drónt észleltek a román légtérben, Sulinától délkeletre, a román felségvizek fölött. A radar mintegy egy percig követte, majd a drón eltűnt a képernyőről.\n\n• **Az éjszakai művelet során két spanyol F-18-ast, majd két román F-16-ost is felszállítottak.** Az utóbbiak a fetești-i 86-os légibázisról indultak, miután újabb légi célokat észleltek a Kígyó-szigettől mintegy 77 kilométerre keletre. A védelmi minisztérium nem jelentett újabb román légtérsértést.\n\n• **4:57-kor RO-Alert-riasztást küldtek Tulcea megye északi és keleti részére.** A riasztás 5:46-kor ért véget.\n\n• **Október 15-én reggel újabb légi célt észleltek a Kígyó-sziget közelében.** Két román F-16-os szállt fel a borceai 86-os légibázisról, és 8:36-kor RO-Alert-üzenetet küldtek Tulcea megye keleti részére. A minisztérium nem jelentett légtérsértést; a riasztás 10:27-kor ért véget.\n\n• **Október 15-én reggel különálló tengeri mentési műveletről is érkezett jelentés:** a román tengeri hatóságok keresést és mentést indítottak egy Sulinától délkeletre, mintegy 13 tengeri mérföldre történt súlyos incidens után; nyolc embert eltűntként tartottak nyilván. A ProTV forrásai egy hajó elleni támadásról és fedélzeti tűzről számoltak be, de az elérhető közlések nem igazolták, hogy ennek köze volt-e drónhoz.\n\n• **Radu Miruță közös, a Fekete-tenger térségét lefedő NATO-parancsnokság létrehozását javasolta** bolgár kollégájának. A kezdeményezést támogató közös levelet terveznek küldeni a NATO vezetésének; Románia 2028-tól vállalhatná a parancsnokság vezetését.",
+    "title_ro": "Alerte cu drone și încălcări ale spațiului aerian în Tulcea; incidente maritime în apropiere de Sulina",
+    "lead_ro": "Pe 14 octombrie, locuitorii județului Tulcea au primit mai multe mesaje RO-Alert din cauza riscului de drone, iar ținte aeriene au încălcat pentru scurt timp spațiul aerian al României. O navă sub pavilionul Insulelor Comore a fost lovită în apropiere de Sulina; în dimineața de 15 octombrie a fost raportat și un incident maritim separat, în urma căruia opt persoane erau date dispărute. În aceeași dimineață, autoritățile au detectat o nouă țintă aeriană în apropierea Insulei Șerpilor, fără să raporteze o nouă încălcare a spațiului aerian.",
+    "content_ro": "• **În dimineața zilei de 14 octombrie**, locuitorii din nordul județului Tulcea au primit un mesaj RO-Alert privind posibila incursiune a unor drone. Autoritățile le-au recomandat să se adăpostească sau să rămână departe de ferestre și de pereții exteriori.\n\n• **Prima alertă a fost transmisă la ora 6:39 și a încetat în jurul orei 7:58.** Radarele Ministerului Apărării au detectat trei ținte aeriene în apropiere de Vâlkove, pe teritoriul Ucrainei, în zona frontierei cu România; sursele le-au identificat drept drone. Potrivit ministerului, acestea nu au intrat în spațiul aerian românesc.\n\n• **Forțele Aeriene Române au ridicat de la sol două aeronave F-16 și un elicopter IAR-330 SOCAT** pentru monitorizarea situației; avioanele au decolat de la Baza 86 Aeriană Borcea.\n\n• **În jurul orei 8:20 a fost transmisă o nouă alertă RO-Alert** pentru nordul județului Tulcea, care avertiza și asupra riscului căderii unor obiecte din aer. A fost a doua alertă a zilei; cele două alerte de dimineață au durat în total aproximativ 2 ore și 21 de minute.\n\n• **La ora 10:19 a fost emisă o nouă alertă** pentru nordul și estul județului Tulcea, după ce radarele au detectat o altă dronă în apropierea frontierei române. Două aeronave F-16 au decolat de la Baza 86 Aeriană Borcea.\n\n• **Drona detectată la ora 10:19 a încălcat pentru scurt timp spațiul aerian al României** deasupra Mării Negre, la est de Sulina, apoi a reintrat în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Alerta a încetat la ora 11:22.\n\n• **După-amiază a fost detectată o nouă țintă aeriană** la aproximativ 30 de kilometri est de Insula Șerpilor. Au decolat două aeronave F-16, iar la ora 17:39 locuitorii din nordul și estul județului Tulcea au primit un mesaj RO-Alert.\n\n• **Ținta aeriană a intrat în spațiul aerian al României la ora 17:38**, la aproximativ 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale românești. A ieșit din spațiul aerian la 17:46, iar alerta a încetat la 19:03.\n\n• **La ora 20:02 a fost transmis un nou mesaj RO-Alert** în nord-estul județului Tulcea. În timpul incidentului, la 20:04, două ținte aeriene au intrat în spațiul aerian românesc: contactul radar cu una dintre ele s-a pierdut deasupra mării, iar cealaltă a plecat spre Ucraina la 20:13. Au fost ridicate de la Baza 57 Aeriană Mihail Kogălniceanu și aeronave spaniole F-18.\n\n• **Din cauza țintei care se îndrepta spre Reni, la ora 20:33 a fost transmis un mesaj RO-Alert și pentru estul județului Galați.** Apărarea antiaeriană ucraineană a distrus ținta în zona Reni; alerta a încetat la 21:14.\n\n• **ProTV, citând Ministerul Apărării, a relatat că în cursul zilei au intrat în total trei drone în spațiul aerian al României** în zona Mării Negre. ISU Tulcea a precizat că după alerte nu au fost primite apeluri de urgență și nu au fost raportate incidente în zona vizată.\n\n• **Numărul mesajelor RO-Alert transmise în acest an în județul Tulcea** l-a depășit deja pe cel al alertelor extreme emise în toată România, din același motiv, în perioada 2023–2025.\n\n• **Potrivit datelor oficiale citate de Cancan, până la 27 septembrie 2026** fuseseră înregistrate 81 de atacuri în apropierea frontierei române, 30 de încălcări neautorizate ale spațiului aerian și patru drone doborâte.\n\n• **În seara de 14 octombrie, o dronă a lovit o navă sub pavilionul Insulelor Comore, aflată la rada Sulina.** Potrivit Adevărul, nava plecase din Turcia și se îndrepta spre Ismail, în Ucraina, pentru a încărca marfă; lovitura a avut loc în apele teritoriale românești.\n\n• **Ministrul interimar al Apărării, Radu Miruță, a declarat că nava se îndreaptă spre Constanța**, unde o verificare tehnică urma să stabilească dacă drona a provocat incendiul de la bord.\n\n• **La ora 1:34, în noaptea de 14 spre 15 octombrie,** o dronă a fost detectată în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale. Radarul a urmărit-o aproximativ un minut, după care a dispărut de pe ecran.\n\n• **În timpul operațiunii nocturne au decolat două aeronave spaniole F-18, apoi două aeronave românești F-16.** Acestea din urmă au plecat de la Baza 86 Aeriană Fetești, după detectarea unor noi ținte aeriene la aproximativ 77 de kilometri est de Insula Șerpilor. Ministerul Apărării nu a raportat alte încălcări ale spațiului aerian românesc.\n\n• **La ora 4:57 a fost transmis un mesaj RO-Alert** pentru nordul și estul județului Tulcea. Alerta a încetat la 5:46.\n\n• **În dimineața zilei de 15 octombrie a fost detectată o nouă țintă aeriană în apropierea Insulei Șerpilor.** Două aeronave românești F-16 au decolat de la Baza 86 Aeriană Borcea, iar la ora 8:36 a fost transmis un mesaj RO-Alert pentru estul județului Tulcea. Ministerul nu a raportat o încălcare a spațiului aerian; alerta a încetat la 10:27.\n\n• **În dimineața zilei de 15 octombrie a fost raportată și o operațiune maritimă de căutare și salvare separată:** autoritățile române au declanșat intervenția după un incident grav produs la aproximativ 13 mile marine sud-est de Sulina; opt persoane erau date dispărute. Surse citate de ProTV au relatat despre un posibil atac asupra unei nave și un incendiu la bord, însă informațiile disponibile nu confirmă dacă incidentul a avut legătură cu o dronă.\n\n• **Radu Miruță a propus omologului său bulgar crearea unui comandament NATO comun pentru zona Mării Negre.** Cele două țări intenționează să trimită conducerii NATO o scrisoare comună de susținere; România ar putea prelua conducerea comandamentului începând din 2028."
   },
   {
     "group_id": "group_d66802042a",
@@ -981,27 +1288,6 @@
     "title_ro": "Piaţa logistică, „lovită” de consumul slab şi de investitorii prudenţi: 450.000 mp închiriaţi în nouă luni, cu 30% mai puţin decât anul trecut. Retailerii care au pariat pe revenirea consumului încearcă acum să subînchirieze spaţiile goale",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_d1906c4c52",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/8034493-mediafax_foto-anadolu_agency_hepta-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Kallas: Atacurile Ucrainei asupra rafinăriilor rusești reprezintă acte de legitimă apărare",
-        "link": "https://www.mediafax.ro/externe/kallas-atacurile-ucrainei-asupra-rafinariilor-rusesti-reprezinta-acte-de-legitima-aparare-23825744"
-      }
-    ],
-    "published_at": 1792052111,
-    "title_hu": "Kallas: Atacurile Ucrainei asupra rafinăriilor rusești reprezintă acte de legitimă apărare",
-    "lead_hu": "Șefa diplomației europene, Kaja Kallas, consideră că atacurile Ucrainei asupra rafinăriilor din Rusia reprezintă o formă legitimă de apărare, deoarece veniturile din petrol contribuie la finanțarea ră…",
-    "content_hu": "Șefa diplomației europene, Kaja Kallas, consideră că atacurile Ucrainei asupra rafinăriilor din Rusia reprezintă o formă legitimă de apărare, deoarece veniturile din petrol contribuie la finanțarea războiului.",
-    "title_ro": "Kallas: Atacurile Ucrainei asupra rafinăriilor rusești reprezintă acte de legitimă apărare",
-    "lead_ro": "Șefa diplomației europene, Kaja Kallas, consideră că atacurile Ucrainei asupra rafinăriilor din Rusia reprezintă o formă legitimă de apărare, deoarece veniturile din petrol contribuie la finanțarea ră…",
-    "content_ro": "Șefa diplomației europene, Kaja Kallas, consideră că atacurile Ucrainei asupra rafinăriilor din Rusia reprezintă o formă legitimă de apărare, deoarece veniturile din petrol contribuie la finanțarea războiului."
   },
   {
     "group_id": "group_c9439231f6",
@@ -2002,59 +2288,6 @@
     "title_ro": "Accident în Oradea: Un tânăr motociclist a ajuns la spital după ce a fost lovit de o dubiță pe strada Transilvaniei (VIDEO)",
     "lead_ro": "Un tânăr de 17 ani a ajuns la spital joi dimineață, după ce motocicleta pe care o conducea a fost lovită de o dubiță, pe strada Transilvaniei din Oradea.",
     "content_ro": "Un tânăr de 17 ani a ajuns la spital joi dimineață, după ce motocicleta pe care o conducea a fost lovită de o dubiță, pe strada Transilvaniei din Oradea."
-  },
-  {
-    "group_id": "group_fcfec4f2ad",
-    "fingerprint": "696aedef6bc635c31442725d8999f20a",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/c1ca9225-8d7a-4e47-bdf7-ab34b456b277.png?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Universitatea Craiova – Getafe: debutul care poate seta tonul oltenilor în Conference League",
-        "link": "https://www.gsp.ro/comercial/advertorial/universitatea-craiova-getafe-debutul-care-poate-seta-tonul-oltenilor-in-conference-league-987914.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "INFOGRAFIC: Craiova vs. Getafe, duel european în premieră",
-        "link": "https://www.gsp.ro/comercial/advertorial/infografic-craiova-vs-getafe-duel-european-in-premiera-988020.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Getafe vine la Craiova » Bilanțul spaniolilor la debutul în grupele europene și în meciurile din deplasare",
-        "link": "https://www.gsp.ro/international/conference-league/getafe-craiova-conference-league-europa-league-988027.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Campioana U Craiova debutează în Conference League – Programul tv al partidei cu Gatafe",
-        "link": "https://www.g4media.ro/campioana-u-craiova-debuteaza-in-conference-league-programul-tv-al-partidei-cu-gatafe.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Schimbare! Cine transmite la TV Universitatea Craiova - Getafe, în prima etapă din Conference League",
-        "link": "https://www.gsp.ro/international/conference-league/cine-transmite-la-tv-universitatea-craiova-getafe-conference-league-987965.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Universitatea Craiova - Getafe, „leii” lui Coelho debutează în Conference League » Echipele probabile și cele mai tari cote",
-        "link": "https://www.gsp.ro/international/conference-league/live-universitatea-craiova-getafe-filipe-coelho-conference-league-988067.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Getafe e de bătut, dar Craiova are nevoie de răbdare în primul meci din Europa",
-        "link": "https://adevarul.ro/sport/getafe-e-de-batut-dar-craiova-are-nevoie-de-2564129.html"
-      }
-    ],
-    "published_at": 1792050367,
-    "title_hu": "A Craiova a Getafe ellen kezdi a Konferencia-liga főtábláját",
-    "lead_hu": "Az Universitatea Craiova október 15-én, 19:45-kor fogadja a Getafét a Konferencia-liga főtáblájának nyitófordulójában. A hazaiak öt egymást követő győzelemmel érkeznek, de legutóbbi bajnokijukon sok helyzetet kihagytak; a spanyolok a Barcelona elleni 0–3 után utaznak Craiovába. A mérkőzést a Digi Sport 1 és a Prima Sport 1 közvetíti.",
-    "content_hu": "• **Október 15-én, 19:45-kor** az Universitatea Craiova a Getafét fogadja az Ion Oblemenco Stadionban, a Konferencia-liga főtáblájának első fordulójában. A mérkőzést a Digi Sport 1 és a Prima Sport 1 közvetíti, a GSP.ro élő szöveges közvetítést ad.\n\n• **A két csapat** korábban még nem játszott egymással; a Getafe számára ez lesz az első mérkőzés román csapat ellen. A klubokat Gheorghe Craioveanu köti össze, aki 2002 és 2006 között 82 meccsen szerepelt a madridi együttesben, kilenc gólt szerzett és hat gólpasszt adott, valamint hozzájárult a Getafe 2004-es La Liga-feljutásához.\n\n• **A Craiova európai szereplése** azután folytatódik a Konferencia-ligában, hogy az Ararat-Armenia 2–1-es összesítéssel búcsúztatta az Európa-liga selejtezőjének rájátszásában. A román csapat tavaly hét ponttal zárt, és az AEK Athén elleni utolsó fordulóban maradt le a továbbjutásról; a klub több mint három évtized után nyerte meg ismét a bajnokságot.\n\n• **A Craiova formája** kiváló: legutóbb 1–0-ra nyert a Csíkszereda vendégeként, így minden sorozatot figyelembe véve öt egymást követő győzelemnél tart. A győztes gólt Elisor a 77. percben szerezte; a csapat a találkozón több nagy helyzetet is elhibázott. A bajnokságban 11 forduló után a harmadik helyen áll 23 ponttal, hazai pályán pedig az előző öt mérkőzésén veretlen maradt, négyet megnyert.\n\n• **A Getafe** a Partizan Belgrádot búcsúztatta a selejtező rájátszásában, 4–3-as összesítéssel. A spanyol együttes az előző La Liga-idényt a hetedik helyen zárta, az új szezon első nyolc fordulója után viszont nyolc ponttal a 14. helyen áll. Legutóbb 0–3-ra kapott ki a Barcelonától; az utolsó öt meccséből egyet nyert meg, az utolsó öt idegenbeli találkozóját pedig elveszítette, ezek közül négyen nem szerzett gólt.\n\n• **A Getafe európai múltja** alapján a főtáblás rajtok jól sikerültek: mindhárom korábbi ilyen idényében győzelemmel kezdett. A három korábbi Európa-liga-szerepléséből kétszer jutott tovább a csoportkörből, legjobb eredménye a 2008-as UEFA-kupa-negyeddöntő volt. A spanyolok eddig 29 európai kupameccset játszottak, 15 győzelemmel, öt döntetlennel és kilenc vereséggel; a főtáblán 13 idegenbeli mérkőzésükből ötöt nyertek meg. A Getafe 2007-ben, a Tottenham elleni 2–1-es sikerrel kezdte első főtáblás szereplését.\n\n• **A szakértői előrejelzés** szerint a Craiova 65,2 százalékos eséllyel végezhet a Konferencia-liga alapszakaszának továbbjutást érő, 9–24. helyén, míg a legjobb nyolc közé jutására 11,3 százalékot becsültek. A Getafe legjobb nyolc közé kerülésének esélyét 29 százalékra tették.\n\n• **A sorozat menetrendje** szerint a Craiova október 22-én 19:45-kor az Inter Club d’Escaldes vendége lesz, november 5-én 22:00-kor a KF Egnatiát fogadja, november 26-án 19:45-kor a Brightonhoz látogat, december 10-én 17:30-kor az Almaty ellen játszik idegenben, december 17-én pedig 22:00-kor az FC Koppenhágát fogadja.\n\n• **A szurkolók** a mérkőzés előtt több mint 20 ezer jegyet vásároltak; az Ion Oblemenco Stadion befogadóképessége 30 983 fő. A Craiova az egyetlen román csapat, amely érdekelt a jelenlegi európai kupasorozatok főtáblás szakaszában.\n\n• **A kerethelyzet** szerint a Craiova eltiltás miatt nem számíthat Carlos Morára, Etim Monday sérüléséből nem épült fel, Pavlo Isenko és Adrian Rus pedig hosszabb ideje hiányzik. Samuel Teles szereplése sérülés miatt kérdéses, Mihnea Rădulescu pedig nincs nevezve a sorozat keretébe. A Getafénál Zaid Romero sérülés miatt marad ki; Dani Carvajal nincs nevezve a Konferencia-liga keretébe. A közölt piaci értékbecslések a Getafe keretét 95,4–98,9 millió euróra, a Craiováét 36,8 millióra teszik.\n\n• **A várható kezdőcsapatok**: Craiova – L. Popescu; Romanchuk, Stevanović, Screciu; Teles, T. Băluță, Cicâldău, Bancu; D. Matei, Al Hamlawi, Baiaram. Getafe – Soria; Femenía, Djene, Gudelj, Abqar, Mojica; García, Francho, Martín, Terrats; Satriano.\n\n• **A játékvezető** a szlovén David Smajc lesz, asszisztensei Manuel Vidali és David Gabrovec, a VAR-szobában Aleksandar Matkovic és Mihael Antic dolgozik. Smajc korábban nem vezetett román klubcsapatnak mérkőzést.\n\n• **A vezetőedzők és Gică Craioveanu** nehéz mérkőzésre számítanak: Filipe Coelho szerint a Getafe a Craiova eddigi legerősebb ellenfele a sorozatban, José Bordalás pedig a hazaiak játékosait és fejlődését méltatta. A korábbi csatár úgy vélte, a Craiovának türelemre lesz szüksége, mert a Getafe fizikális, sok taktikai szabálytalansággal töri meg a játékot, és nehéz ellene helyzeteket kialakítani. Alexandru Cicâldău a csapategységre és a tavalyi eredmény felülmúlására helyezte a hangsúlyt.",
-    "title_ro": "Universitatea Craiova începe faza principală din Conference League cu Getafe",
-    "lead_ro": "Universitatea Craiova o primește pe Getafe pe 15 octombrie, de la ora 19:45, în prima etapă a fazei principale din Conference League. Oltenii vin după cinci victorii consecutive, dar au ratat multe ocazii în ultimul meci de campionat; spaniolii sosesc după înfrângerea cu 0–3 în fața Barcelonei. Partida va fi transmisă de Digi Sport 1 și Prima Sport 1.",
-    "content_ro": "• **15 octombrie, ora 19:45:** Universitatea Craiova joacă împotriva lui Getafe pe stadionul Ion Oblemenco, în prima etapă a fazei principale din Conference League. Meciul va fi transmis de Digi Sport 1 și Prima Sport 1, iar GSP.ro va oferi liveTEXT.\n\n• **Cele două echipe** nu s-au mai întâlnit; pentru Getafe va fi primul meci împotriva unei formații din România. Legătura dintre cluburi este Gheorghe Craioveanu, care a jucat pentru echipa madrilenă între 2002 și 2006, în 82 de meciuri, marcând nouă goluri și oferind șase pase decisive. El a contribuit și la promovarea lui Getafe în La Liga, în 2004.\n\n• **Parcursul european al Craiovei** continuă în Conference League după ce Ararat-Armenia a eliminat-o în play-off-ul preliminariilor Europa League, cu 2–1 la general. În sezonul trecut, formația română a acumulat șapte puncte și a ratat la limită calificarea în fazele eliminatorii, după ultima etapă cu AEK Atena. Clubul a câștigat din nou campionatul după mai bine de trei decenii.\n\n• **Forma Craiovei** este excelentă: ultima victorie a fost 1–0 în deplasare cu Csikszereda, iar echipa a ajuns la cinci succese consecutive în toate competițiile. Elisor a înscris golul victoriei în minutul 77, după ce oltenii au irosit mai multe ocazii importante. Craiova ocupă locul al treilea în campionat, cu 23 de puncte după 11 etape, și este neînvinsă în ultimele cinci meciuri de acasă, dintre care a câștigat patru.\n\n• **Getafe** s-a calificat în faza principală după ce a eliminat-o pe Partizan Belgrad cu 4–3 la general. Spaniolii au terminat sezonul trecut din La Liga pe locul al șaptelea, dar după primele opt etape ale noului sezon ocupă poziția a 14-a, cu opt puncte. Cel mai recent au pierdut cu 0–3 în fața Barcelonei; au câștigat un singur meci din ultimele cinci și au pierdut ultimele cinci deplasări, în patru dintre ele fără să înscrie.\n\n• **Experiența europeană a lui Getafe** include trei participări anterioare în Europa League, în două dintre acestea echipa ajungând în fazele eliminatorii. Cel mai bun rezultat a fost sfertul de finală al Cupei UEFA din 2008. Spaniolii au disputat 29 de meciuri europene, cu 15 victorii, cinci remize și nouă înfrângeri; în faza principală au câștigat cinci dintre cele 13 partide disputate în deplasare. Getafe și-a început prima participare în faza principală în 2007, cu o victorie, 2–1 cu Tottenham.\n\n• **Proiecțiile statistice** îi atribuie Craiovei o probabilitate de 65,2% să încheie faza principală între locurile 9 și 24, care duc în play-off-ul eliminatoriu, și de 11,3% să termine în primele opt. Șansa lui Getafe de a intra în Top 8 este estimată la 29%.\n\n• **Programul Craiovei**: pe 22 octombrie, la 19:45, în deplasare cu Inter Club d’Escaldes; pe 5 noiembrie, la 22:00, acasă cu KF Egnatia; pe 26 noiembrie, la 19:45, în deplasare cu Brighton; pe 10 decembrie, la 17:30, în deplasare cu Almaty; iar pe 17 decembrie, la 22:00, acasă cu FC Copenhaga.\n\n• **Suporterii** cumpăraseră peste 20.000 de bilete înaintea partidei, iar stadionul Ion Oblemenco are o capacitate de 30.983 de locuri. Craiova este singura echipă românească prezentă în faza principală a competițiilor europene în acest moment.\n\n• **Situația loturilor:** Craiova nu se poate baza pe Carlos Mora, suspendat, pe Etim Monday, care nu s-a refăcut după accidentare, și pe Pavlo Isenko și Adrian Rus, indisponibili de mai mult timp. Samuel Teles este incert din cauza unei accidentări, iar Mihnea Rădulescu nu este pe lista pentru competiție. La Getafe, Zaid Romero va lipsi din cauza unei accidentări, iar Dani Carvajal nu este inclus în lotul de Conference League. Estimările publicate evaluează lotul lui Getafe la 95,4–98,9 milioane de euro, iar pe cel al Craiovei la 36,8 milioane.\n\n• **Formațiile probabile:** Craiova – L. Popescu; Romanchuk, Stevanović, Screciu; Teles, T. Băluță, Cicâldău, Bancu; D. Matei, Al Hamlawi, Baiaram. Getafe – Soria; Femenía, Djene, Gudelj, Abqar, Mojica; García, Francho, Martín, Terrats; Satriano.\n\n• **Arbitrul** va fi slovenul David Smajc, asistat de Manuel Vidali și David Gabrovec; în camera VAR vor lucra Aleksandar Matkovic și Mihael Antic. Smajc nu a mai arbitrat până acum un meci al unei echipe de club din România.\n\n• **Antrenorii și Gică Craioveanu** anticipează un meci dificil: Filipe Coelho a spus că Getafe este cel mai puternic adversar întâlnit până acum de Craiova în competiție, iar José Bordalás a lăudat jucătorii și progresul echipei gazdă. Fostul atacant consideră că oltenii vor avea nevoie de răbdare, deoarece Getafe joacă fizic, întrerupe des jocul prin faulturi tactice și este greu de deschis. Alexandru Cicâldău a subliniat importanța unității echipei și obiectivul de a depăși rezultatul de anul trecut."
   },
   {
     "group_id": "group_db9122b42d",
@@ -8563,110 +8796,5 @@
     "title_ro": "15 octombrie: Ziua în care Ferdinand I și Regina Maria au fost încoronați ca suverani ai tuturor românilor la Alba Iulia",
     "lead_ro": "Pe 15 octombrie 1893 s-a născut Carol al II-lea, regele României între 1930 și 1940. În aceeași zi, în 2011, au avut loc proteste în 951 de orașe din 82 de țări, împotriva inegalităților economice și …",
     "content_ro": "Pe 15 octombrie 1893 s-a născut Carol al II-lea, regele României între 1930 și 1940. În aceeași zi, în 2011, au avut loc proteste în 951 de orașe din 82 de țări, împotriva inegalităților economice și a influenței corporațiilor asupra deciziilor politice."
-  },
-  {
-    "group_id": "group_0137759f0b",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/a7904fe1-4e5c-411a-9d4b-cd3a398f32f4.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Singurul motiv de bucurie al lui Erling Haaland într-o seară complicată pentru Manchester City",
-        "link": "https://www.gsp.ro/international/liga-campionilor/erling-haaland-record-liga-campionilor-psg-man-city-988180.html"
-      }
-    ],
-    "published_at": 1792010582,
-    "title_hu": "Singurul motiv de bucurie al lui Erling Haaland într-o seară complicată pentru Manchester City",
-    "lead_hu": "Erling Haaland (26 de ani), atacantul lui Manchester City, a stabilit două recorduri în Liga Campionilor, în timpul confruntării cu PSG, din etapa a doua a fazei principale. Norvegianul a devenit cel …",
-    "content_hu": "Erling Haaland (26 de ani), atacantul lui Manchester City, a stabilit două recorduri în Liga Campionilor, în timpul confruntării cu PSG, din etapa a doua a fazei principale. Norvegianul a devenit cel mai bun marcator din istoria clubului englez în această competiție și, în același timp, fotbalistul care a ajuns cel mai rapid la 60 de goluri în Liga Campionilor. Performanța a venit într-o seară complicată pentru Manchester City. ...",
-    "title_ro": "Singurul motiv de bucurie al lui Erling Haaland într-o seară complicată pentru Manchester City",
-    "lead_ro": "Erling Haaland (26 de ani), atacantul lui Manchester City, a stabilit două recorduri în Liga Campionilor, în timpul confruntării cu PSG, din etapa a doua a fazei principale. Norvegianul a devenit cel …",
-    "content_ro": "Erling Haaland (26 de ani), atacantul lui Manchester City, a stabilit două recorduri în Liga Campionilor, în timpul confruntării cu PSG, din etapa a doua a fazei principale. Norvegianul a devenit cel mai bun marcator din istoria clubului englez în această competiție și, în același timp, fotbalistul care a ajuns cel mai rapid la 60 de goluri în Liga Campionilor. Performanța a venit într-o seară complicată pentru Manchester City. ..."
-  },
-  {
-    "group_id": "group_2b5141486d",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNCUyRjExJTJGMjIzNTQyMV8yMjM1/NDIxX3NvbGRhdGktc3VhLWV4ZXJjaXRp/aS1taWxpdGFyZS1oYXdhaWktMi5qcGcm/aGFzaD05ODhlMTM0OWMwMzMwNDIzMTEzMWZhMWZmZDQ2MTFlZA==.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "SUA trimit sute de soldați în America Latină pentru a combate traficul de droguri. Pentagonul își extinde operațiunile",
-        "link": "https://www.digi24.ro/stiri/externe/sua/sua-trimit-sute-de-soldati-in-america-latina-pentru-a-combate-traficul-de-droguri-pentagonul-isi-extinde-operatiunile-3992871"
-      }
-    ],
-    "published_at": 1792010222,
-    "title_hu": "SUA trimit sute de soldați în America Latină pentru a combate traficul de droguri. Pentagonul își extinde operațiunile",
-    "lead_hu": "Statele Unite trimit sute de militari în America Latină, inclusiv un batalion de 600 de soldați din Divizia a 10-a de Munte, pentru a participa la exerciții și a instrui forțele locale în lupta împotr…",
-    "content_hu": "Statele Unite trimit sute de militari în America Latină, inclusiv un batalion de 600 de soldați din Divizia a 10-a de Munte, pentru a participa la exerciții și a instrui forțele locale în lupta împotriva traficului de droguri. Trupele vor ajunge în Panama, Columbia și Honduras, în cadrul unei extinderi a operațiunilor Pentagonului împotriva cartelurilor. Planurile administrației Trump stârnesc însă îngrijorări privind suveranitatea statelor din regiune, riscurile pentru populația civilă și lipsa unui obiectiv clar al campaniei militare, în condițiile în care armata americană este deja solicitată de războiul cu Iranul și de angajamentele din Europa și Asia, anunță The New York Times.",
-    "title_ro": "SUA trimit sute de soldați în America Latină pentru a combate traficul de droguri. Pentagonul își extinde operațiunile",
-    "lead_ro": "Statele Unite trimit sute de militari în America Latină, inclusiv un batalion de 600 de soldați din Divizia a 10-a de Munte, pentru a participa la exerciții și a instrui forțele locale în lupta împotr…",
-    "content_ro": "Statele Unite trimit sute de militari în America Latină, inclusiv un batalion de 600 de soldați din Divizia a 10-a de Munte, pentru a participa la exerciții și a instrui forțele locale în lupta împotriva traficului de droguri. Trupele vor ajunge în Panama, Columbia și Honduras, în cadrul unei extinderi a operațiunilor Pentagonului împotriva cartelurilor. Planurile administrației Trump stârnesc însă îngrijorări privind suveranitatea statelor din regiune, riscurile pentru populația civilă și lipsa unui obiectiv clar al campaniei militare, în condițiile în care armata americană este deja solicitată de războiul cu Iranul și de angajamentele din Europa și Asia, anunță The New York Times."
-  },
-  {
-    "group_id": "group_dfcb679e69",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "„Ba știa clar doamna Mateescu”. Diana Buzoianu susține că raportul Corpului de Control a identificat zeci de probleme „sistemice” la ANM",
-        "link": "https://hotnews.ro/ba-stia-clar-doamna-mateescu-diana-buzoianu-sustine-ca-raportul-corpului-de-control-a-identificat-zeci-de-probleme-sistemice-la-anm-2376394"
-      }
-    ],
-    "published_at": 1792010081,
-    "title_hu": "„Ba știa clar doamna Mateescu”. Diana Buzoianu susține că raportul Corpului de Control a identificat zeci de probleme „sistemice” la ANM",
-    "lead_hu": "Raportul Corpului de Control al Ministerului Mediului, finalizat în luna octombrie, a identificat zeci de probleme sistemice la Administrația Națională de Meteorologie (ANM), iar conducerea instituție…",
-    "content_hu": "Raportul Corpului de Control al Ministerului Mediului, finalizat în luna octombrie, a identificat zeci de probleme sistemice la Administrația Națională de Meteorologie (ANM), iar conducerea instituției ar fi fost informată încă din noiembrie 2025 despre posibile nereguli în achizițiile directe, susține ministrul interimar al Mediului, Diana Buzoianu, potrivit Agerpres. „Ba știa clar doamna Mateescu”, afirmă …",
-    "title_ro": "„Ba știa clar doamna Mateescu”. Diana Buzoianu susține că raportul Corpului de Control a identificat zeci de probleme „sistemice” la ANM",
-    "lead_ro": "Raportul Corpului de Control al Ministerului Mediului, finalizat în luna octombrie, a identificat zeci de probleme sistemice la Administrația Națională de Meteorologie (ANM), iar conducerea instituție…",
-    "content_ro": "Raportul Corpului de Control al Ministerului Mediului, finalizat în luna octombrie, a identificat zeci de probleme sistemice la Administrația Națională de Meteorologie (ANM), iar conducerea instituției ar fi fost informată încă din noiembrie 2025 despre posibile nereguli în achizițiile directe, susține ministrul interimar al Mediului, Diana Buzoianu, potrivit Agerpres. „Ba știa clar doamna Mateescu”, afirmă …"
-  },
-  {
-    "group_id": "group_77b53a533e",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-1/1f553f8c-44b4-4929-a27f-4a52b216eedb/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Ce faci când se strică sistemul fotovoltaic. Ce piese se pot înlocui, cât durează reparația și cine suportă costurile",
-        "link": "https://adevarul.ro/economie/ce-faci-cand-se-strica-sistemul-fotovoltaic-ce-2563897.html"
-      }
-    ],
-    "published_at": 1792010065,
-    "title_hu": "Ce faci când se strică sistemul fotovoltaic. Ce piese se pot înlocui, cât durează reparația și cine suportă costurile",
-    "lead_hu": "O scădere bruscă a producției de energie, un invertor care se oprește repetat sau o eroare apărută în aplicație pot fi primele semne că sistemul fotovoltaic are o problemă. Pentru prosumatori, o astfe…",
-    "content_hu": "O scădere bruscă a producției de energie, un invertor care se oprește repetat sau o eroare apărută în aplicație pot fi primele semne că sistemul fotovoltaic are o problemă. Pentru prosumatori, o astfel de situație poate însemna pierderi de producție și cheltuieli neprevăzute.",
-    "title_ro": "Ce faci când se strică sistemul fotovoltaic. Ce piese se pot înlocui, cât durează reparația și cine suportă costurile",
-    "lead_ro": "O scădere bruscă a producției de energie, un invertor care se oprește repetat sau o eroare apărută în aplicație pot fi primele semne că sistemul fotovoltaic are o problemă. Pentru prosumatori, o astfe…",
-    "content_ro": "O scădere bruscă a producției de energie, un invertor care se oprește repetat sau o eroare apărută în aplicație pot fi primele semne că sistemul fotovoltaic are o problemă. Pentru prosumatori, o astfel de situație poate însemna pierderi de producție și cheltuieli neprevăzute."
-  },
-  {
-    "group_id": "group_b8cd715e90",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/tolea-ciumac.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Tolea Ciumac a rupt tăcerea despre conflictul cu Danu Spartanu. De la ce a pornit totul în fața clubului",
-        "link": "https://www.cancan.ro/tolea-ciumac-a-rupt-tacerea-despre-conflictul-cu-danu-spartanu-de-la-ce-a-pornit-totul-in-fata-clubului-21530301"
-      }
-    ],
-    "published_at": 1792010052,
-    "title_hu": "Tolea Ciumac a rupt tăcerea despre conflictul cu Danu Spartanu. De la ce a pornit totul în fața clubului",
-    "lead_hu": "Tolea Ciumac a rupt tăcerea și a oferit propria sa versiune cu privire la incidentul în care a fost implicat alături de Danu Spartanu, un subiect extrem de mediatizat în mediul online și pe rețelele d…",
-    "content_hu": "Tolea Ciumac a rupt tăcerea și a oferit propria sa versiune cu privire la incidentul în care a fost implicat alături de Danu Spartanu, un subiect extrem de mediatizat în mediul online și pe rețelele de socializare. Fostul luptător a decis să lămurească detaliile serii respective prin intermediul unei transmisiuni făcute pe platforma TikTok, explicând […]",
-    "title_ro": "Tolea Ciumac a rupt tăcerea despre conflictul cu Danu Spartanu. De la ce a pornit totul în fața clubului",
-    "lead_ro": "Tolea Ciumac a rupt tăcerea și a oferit propria sa versiune cu privire la incidentul în care a fost implicat alături de Danu Spartanu, un subiect extrem de mediatizat în mediul online și pe rețelele d…",
-    "content_ro": "Tolea Ciumac a rupt tăcerea și a oferit propria sa versiune cu privire la incidentul în care a fost implicat alături de Danu Spartanu, un subiect extrem de mediatizat în mediul online și pe rețelele de socializare. Fostul luptător a decis să lămurească detaliile serii respective prin intermediul unei transmisiuni făcute pe platforma TikTok, explicând […]"
   }
 ]
