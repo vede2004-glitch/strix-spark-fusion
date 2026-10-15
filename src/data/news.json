@@ -1,5 +1,498 @@
 [
   {
+    "group_id": "group_a19c496bf5",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "De la Oradea la instanța supremă: Judecătoarea Loredana Doseanu a promovat la Înalta Curte, pe unul dintre cele patru posturi scoase la concurs",
+        "link": "https://www.ebihoreanul.ro/stiri/de-la-oradea-la-instanta-suprema-judecatoarea-loredana-doseanu-a-promovat-la-inalta-curte-pe-unul-dintre-cele-patru-posturi-scoase-la-concurs-205848.html"
+      }
+    ],
+    "published_at": 1792074746,
+    "title_hu": "De la Oradea la instanța supremă: Judecătoarea Loredana Doseanu a promovat la Înalta Curte, pe unul dintre cele patru posturi scoase la concurs",
+    "lead_hu": "Judecătoarea Loredana-Steliana Doseanu, de la Curtea de Apel Oradea, a reușit să promoveze la Înalta Curte de Casație și Justiție, cea mai înaltă instanță din România. Magistrata, soția cunoscutului a…",
+    "content_hu": "Judecătoarea Loredana-Steliana Doseanu, de la Curtea de Apel Oradea, a reușit să promoveze la Înalta Curte de Casație și Justiție, cea mai înaltă instanță din România. Magistrata, soția cunoscutului avocat orădean Răzvan Doseanu, s-a clasat pe locul al patrulea în concursul organizat pentru Secția de contencios administrativ și fiscal, obținând astfel ultimul dintre cele patru posturi disponibile.",
+    "title_ro": "De la Oradea la instanța supremă: Judecătoarea Loredana Doseanu a promovat la Înalta Curte, pe unul dintre cele patru posturi scoase la concurs",
+    "lead_ro": "Judecătoarea Loredana-Steliana Doseanu, de la Curtea de Apel Oradea, a reușit să promoveze la Înalta Curte de Casație și Justiție, cea mai înaltă instanță din România. Magistrata, soția cunoscutului a…",
+    "content_ro": "Judecătoarea Loredana-Steliana Doseanu, de la Curtea de Apel Oradea, a reușit să promoveze la Înalta Curte de Casație și Justiție, cea mai înaltă instanță din România. Magistrata, soția cunoscutului avocat orădean Răzvan Doseanu, s-a clasat pe locul al patrulea în concursul organizat pentru Secția de contencios administrativ și fiscal, obținând astfel ultimul dintre cele patru posturi disponibile."
+  },
+  {
+    "group_id": "group_bb9cd183be",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Țiriac Auto va livra SRI mașini cu zero emisii",
+        "link": "https://hotnews.ro/tiriac-auto-va-livra-sri-masini-cu-zero-emisii-2377253"
+      }
+    ],
+    "published_at": 1792074731,
+    "title_hu": "Țiriac Auto va livra SRI mașini cu zero emisii",
+    "lead_hu": "Țiriac Auto va livra Serviciului Român de Informații (SRI) 100 de autoturisme electrice pentru implementarea proiectului „Tranziția către mobilitate cu emisii zero a flotei Serviciului Român de Inform…",
+    "content_hu": "Țiriac Auto va livra Serviciului Român de Informații (SRI) 100 de autoturisme electrice pentru implementarea proiectului „Tranziția către mobilitate cu emisii zero a flotei Serviciului Român de Informații prin modernizarea parcului auto existent – eFLOT”. Estimat la 17,06 milioane de lei, fără TVA, contractul atribuit în urma unei licitații a fost semnat pentru suma de …",
+    "title_ro": "Țiriac Auto va livra SRI mașini cu zero emisii",
+    "lead_ro": "Țiriac Auto va livra Serviciului Român de Informații (SRI) 100 de autoturisme electrice pentru implementarea proiectului „Tranziția către mobilitate cu emisii zero a flotei Serviciului Român de Inform…",
+    "content_ro": "Țiriac Auto va livra Serviciului Român de Informații (SRI) 100 de autoturisme electrice pentru implementarea proiectului „Tranziția către mobilitate cu emisii zero a flotei Serviciului Român de Informații prin modernizarea parcului auto existent – eFLOT”. Estimat la 17,06 milioane de lei, fără TVA, contractul atribuit în urma unei licitații a fost semnat pentru suma de …"
+  },
+  {
+    "group_id": "group_bd5f9b9d8f",
+    "fingerprint": "1a25e305e5492b49dcfec9984af708b5",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjEyJTJGMjg0NDE5MV8yODQ0/MTkxX3ZvbG9kaW1pci16ZWxlbnNraS1n/ZXR0eWltYWdlcy5qcGcmaGFzaD1mYjc0/NTI4NWVmODMxYmI1M2U1Y2U2YmQxNGIwOGU0Nw==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Zelenski se plânge că Ucraina nu a fost avertizată de către aliați privind un atac iminent cu rachete al rușilor",
+        "link": "https://www.digi24.ro/stiri/externe/zelenski-se-plange-ca-ucraina-nu-a-fost-avertizata-de-catre-aliati-privind-un-atac-iminent-cu-rachete-al-rusilor-3990641"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Zelenski, reproș la adresa aliaților occidentali. Liderul ucrainean numește „una dintre cele mai critice probleme”",
+        "link": "https://hotnews.ro/zelenski-repros-la-adresa-aliatilor-occidentali-liderul-ucrainean-numeste-una-dintre-cele-mai-critice-probleme-2375081"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zelenski acuză lipsa avertismentelor occidentale înaintea atacului rusesc asupra Kievului. Cinci rachete au lovit infrastructura civilă",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-acuza-lipsa-avertismentelor-occidentale-2563809.html"
+      }
+    ],
+    "published_at": 1792074629,
+    "title_hu": "Zelenszkij szerint Ukrajna nem kapott előzetes figyelmeztetést a Kijev elleni rakétatámadásról",
+    "lead_hu": "Volodimir Zelenszkij ukrán elnök szerint a nyugati partnerek nem figyelmeztették előre Ukrajnát a Kijevet hétfőről keddre virradó éjjel ért orosz ballisztikusrakéta-támadásra. Öt rakéta civil infrastruktúrát talált el; az ukrán légierő vizsgálja, miért maradt el a szokásos riasztás.",
+    "content_hu": "• **Volodimir Zelenszkij** kedden azt közölte, hogy Ukrajna nem kapott előzetes figyelmeztetést nyugati partnereitől a Kijev elleni orosz ballisztikusrakéta-támadás előtt.\n\n• **Öt rakéta** csapódott civil infrastruktúrába a hétfőről keddre virradó éjszakai támadásban. A légiriadót csak azután rendelték el, hogy a városban már robbanások hallatszottak.\n\n• **Az ukrán légierő** megerősítette, hogy nem kapta meg a szokásos előzetes figyelmeztetést, és vizsgálja a történteket. Zelenszkij a figyelmeztetés elmaradását nem kapcsolta közvetlenül az Egyesült Államok Ukrajnára gyakorolt nyomásához.\n\n• **Andrij Szibiha külügyminiszter** szerint Ukrajna továbbra is kap amerikai katonai hírszerzési információkat, a késedelem pedig az orosz fegyverzet sajátosságaival függhetett össze. Zelenszkij a rakétaindításokról szóló információkat az életek megmentése szempontjából kulcsfontosságúnak nevezte.\n\n• **Az Egyesült Államok nyomást gyakorol Kijevre**, hogy állítsa le az orosz olajfinomítók elleni támadásokat; sajtóbeszámolók szerint amerikai tisztviselők a hírszerzési együttműködés és a fegyvereladások leállítását is kilátásba helyezték. Zelenszkij azt mondta, Ukrajna a Donald Trump által bejelentett „energetikai tűzszünet” óta nem támadott orosz finomítókat.\n\n• **Oroszország az éjszaka nem támadott ukrán energetikai célpontokat**, de ballisztikus rakétákkal és drónokkal közlekedési és logisztikai infrastruktúrát vett célba. Nem világos, hogy Moszkva szándékosan kerülte-e az energetikai létesítményeket; hétfőn hat ilyen célpontot ért támadás.\n\n• **Fabian Hoffmann rakétaszakértő** szerint az európai szövetségesek csak korlátozottan tudnák pótolni az amerikai korai előrejelző rendszereket, amelyek infravörös űrszenzorokkal észlelik a rakétaindításokat.\n\n• **A Harkiv elleni orosz támadásokban** négy ember meghalt, országszerte pedig több tucatnyian megsebesültek az ukrán tisztviselők beszámolói szerint. Zelenszkij kölcsönös feszültségcsökkentő lépésekre késznek mondta Ukrajnát, és arra kérte partnereit, hogy gyakoroljanak nagyobb nyomást Oroszországra.",
+    "title_ro": "Zelenski afirmă că Ucraina nu a fost avertizată înaintea atacului cu rachete asupra Kievului",
+    "lead_ro": "Președintele ucrainean Volodimir Zelenski a declarat că partenerii occidentali nu au avertizat Ucraina înaintea atacului rusesc cu rachete balistice asupra Kievului, în noaptea de luni spre marți. Cinci rachete au lovit infrastructura civilă, iar forțele aeriene ucrainene investighează lipsa avertizării obișnuite.",
+    "content_ro": "• **Volodimir Zelenski** a declarat marți că Ucraina nu a primit avertizări prealabile din partea partenerilor occidentali înaintea atacului rusesc cu rachete balistice asupra Kievului.\n\n• **Cinci rachete** au lovit infrastructura civilă în atacul din noaptea de luni spre marți. Alerta aeriană a fost declanșată abia după ce se auziseră deja explozii în oraș.\n\n• **Forțele aeriene ucrainene** au confirmat că nu au primit avertizările obișnuite și au anunțat că investighează circumstanțele. Zelenski nu a legat direct lipsa avertizării de presiunile exercitate de Statele Unite asupra Kievului.\n\n• **Andrii Sîbiha, ministrul ucrainean de Externe,** a afirmat că Ucraina continuă să primească informații militare americane și că întârzierea ar fi putut avea legătură cu particularitățile armamentului folosit de Rusia. Zelenski a spus că informațiile despre lansările de rachete sunt esențiale pentru salvarea de vieți.\n\n• **Statele Unite fac presiuni asupra Kievului** pentru a opri atacurile asupra rafinăriilor rusești; potrivit relatărilor din presă, oficiali americani au amenințat inclusiv cu întreruperea schimbului de informații și a vânzărilor de arme. Zelenski a declarat că Ucraina nu a mai atacat rafinării rusești după anunțul lui Donald Trump privind un „armistițiu energetic”.\n\n• **Rusia nu a atacat ținte energetice ucrainene în timpul nopții**, dar a lovit infrastructura de transport și logistică folosind rachete balistice și drone. Nu este clar dacă Moscova a evitat intenționat obiectivele energetice; luni, șase astfel de obiective fuseseră atacate.\n\n• **Fabian Hoffmann, expert în rachete,** a declarat că aliații europeni au capacități limitate de a înlocui sistemele americane de avertizare timpurie, care folosesc senzori spațiali în infraroșu pentru detectarea lansărilor de rachete.\n\n• **Atacurile rusești asupra Harkivului** au ucis patru persoane, iar zeci de oameni au fost răniți în diferite regiuni ale țării, potrivit oficialilor ucraineni. Zelenski a spus că Ucraina este pregătită să adopte măsuri reciproce pentru reducerea tensiunilor și le-a cerut partenerilor să intensifice presiunile asupra Rusiei."
+  },
+  {
+    "group_id": "group_cc58edca44",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "La 28 de ani, Andreea este manager de fermă bio lângă București: „Sapa este cel mai bun prieten al nostru”",
+        "link": "https://hotnews.ro/la-28-de-ani-andreea-este-manager-de-ferma-bio-langa-bucuresti-sapa-este-cel-mai-bun-prieten-al-nostru-2377230"
+      }
+    ],
+    "published_at": 1792074602,
+    "title_hu": "La 28 de ani, Andreea este manager de fermă bio lângă București: „Sapa este cel mai bun prieten al nostru”",
+    "lead_hu": "La 42 de kilometri de București, o echipă mică, de șase oameni, cultivă pe 5 hectare de teren legume bio pe care le livrează în Capitală. Buburuzele le sunt prieteni, iar fluturii albi inamici. Manage…",
+    "content_hu": "La 42 de kilometri de București, o echipă mică, de șase oameni, cultivă pe 5 hectare de teren legume bio pe care le livrează în Capitală. Buburuzele le sunt prieteni, iar fluturii albi inamici. Managerul fermei este Andreea Despa, o tânără de 28 de ani, absolventă de horticultură, a cărei poveste o puteți afla în …",
+    "title_ro": "La 28 de ani, Andreea este manager de fermă bio lângă București: „Sapa este cel mai bun prieten al nostru”",
+    "lead_ro": "La 42 de kilometri de București, o echipă mică, de șase oameni, cultivă pe 5 hectare de teren legume bio pe care le livrează în Capitală. Buburuzele le sunt prieteni, iar fluturii albi inamici. Manage…",
+    "content_ro": "La 42 de kilometri de București, o echipă mică, de șase oameni, cultivă pe 5 hectare de teren legume bio pe care le livrează în Capitală. Buburuzele le sunt prieteni, iar fluturii albi inamici. Managerul fermei este Andreea Despa, o tânără de 28 de ani, absolventă de horticultură, a cărei poveste o puteți afla în …"
+  },
+  {
+    "group_id": "group_f27ee14232",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjAyJTJGMjk0Mzc5MV8yOTQz/NzkxX2luY2VuZGl1LWtpZXYtYm9tYmFy/ZGFtZW50LXJ1c2VzYy5qcGcmaGFzaD1l/MmJhMjdhNzgwMTBkMGM5NTZiNGE2NzMwMWZjN2I5Zg==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Kremlinul crede că o lună de bombardament va reuși ceea ce patru ierni de atacuri au eșuat: doborârea sistemului energetic al Ucrainei",
+        "link": "https://www.digi24.ro/stiri/externe/kremlinul-crede-ca-o-luna-de-bombardament-va-reusi-ceea-ce-patru-ierni-de-atacuri-au-esuat-doborarea-sistemului-energetic-al-ucrainei-3993997"
+      }
+    ],
+    "published_at": 1792074554,
+    "title_hu": "Kremlinul crede că o lună de bombardament va reuși ceea ce patru ierni de atacuri au eșuat: doborârea sistemului energetic al Ucrainei",
+    "lead_hu": "Este aproape imposibil să forțezi o țară să se predea doar printr-o campanie aeriană convențională în timpul războiului, dar Rusia pare hotărâtă să încerce, scrie The New York Times într-o analiză a u…",
+    "content_hu": "Este aproape imposibil să forțezi o țară să se predea doar printr-o campanie aeriană convențională în timpul războiului, dar Rusia pare hotărâtă să încerce, scrie The New York Times într-o analiză a ultimelor evoluții privind războiul declanșat de Putin în 2022. Potrivit unui plan de luptă al rușilor, pe care Kievul l-a obținut și l-a prezentat aliaților europeni luna trecută și care a fost văzut de jurnaliștii NYT, Rusia ar avea nevoie de aproximativ 70 de rachete balistice, 720 de drone cu rază lungă de acțiune și 150 de bombe ghidate pentru a lăsa Kievul, Harkovul și Odesa de apă, căldură și curent electric.",
+    "title_ro": "Kremlinul crede că o lună de bombardament va reuși ceea ce patru ierni de atacuri au eșuat: doborârea sistemului energetic al Ucrainei",
+    "lead_ro": "Este aproape imposibil să forțezi o țară să se predea doar printr-o campanie aeriană convențională în timpul războiului, dar Rusia pare hotărâtă să încerce, scrie The New York Times într-o analiză a u…",
+    "content_ro": "Este aproape imposibil să forțezi o țară să se predea doar printr-o campanie aeriană convențională în timpul războiului, dar Rusia pare hotărâtă să încerce, scrie The New York Times într-o analiză a ultimelor evoluții privind războiul declanșat de Putin în 2022. Potrivit unui plan de luptă al rușilor, pe care Kievul l-a obținut și l-a prezentat aliaților europeni luna trecută și care a fost văzut de jurnaliștii NYT, Rusia ar avea nevoie de aproximativ 70 de rachete balistice, 720 de drone cu rază lungă de acțiune și 150 de bombe ghidate pentru a lăsa Kievul, Harkovul și Odesa de apă, căldură și curent electric."
+  },
+  {
+    "group_id": "group_351b6a0886",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un bărbat care a vrut să mute o piatră neobișnuită de pe câmp a avut parte de surpriza vieții în Egipt",
+        "link": "https://hotnews.ro/un-barbat-care-a-vrut-sa-mute-o-piatra-neobisnuita-de-pe-camp-a-avut-parte-de-surpriza-vietii-in-egipt-2377224"
+      }
+    ],
+    "published_at": 1792074500,
+    "title_hu": "Un bărbat care a vrut să mute o piatră neobișnuită de pe câmp a avut parte de surpriza vieții în Egipt",
+    "lead_hu": "Un bărbat din Egipt care lucra pe un teren din apropierea locuinței sale a dat întâmplător peste o piatră neobișnuită, declanșând o campanie de săpături arheologice care a scos la iveală rămășițele un…",
+    "content_hu": "Un bărbat din Egipt care lucra pe un teren din apropierea locuinței sale a dat întâmplător peste o piatră neobișnuită, declanșând o campanie de săpături arheologice care a scos la iveală rămășițele unei statui despre care se crede că avea cândva o înălțime de aproape 8,5 metri, relatează revista People. Descoperirea a avut loc în …",
+    "title_ro": "Un bărbat care a vrut să mute o piatră neobișnuită de pe câmp a avut parte de surpriza vieții în Egipt",
+    "lead_ro": "Un bărbat din Egipt care lucra pe un teren din apropierea locuinței sale a dat întâmplător peste o piatră neobișnuită, declanșând o campanie de săpături arheologice care a scos la iveală rămășițele un…",
+    "content_ro": "Un bărbat din Egipt care lucra pe un teren din apropierea locuinței sale a dat întâmplător peste o piatră neobișnuită, declanșând o campanie de săpături arheologice care a scos la iveală rămășițele unei statui despre care se crede că avea cândva o înălțime de aproape 8,5 metri, relatează revista People. Descoperirea a avut loc în …"
+  },
+  {
+    "group_id": "group_6263ff2a9b",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Mesajul către iranieni al președintelui Pezeshkian. „Țara nu s-a mai confruntat cu o presiune atât de intensă”",
+        "link": "https://hotnews.ro/mesajul-catre-iranieni-al-presedintelui-pezeshkian-tara-nu-s-a-mai-confruntat-cu-o-presiune-atat-de-intensa-2377232"
+      }
+    ],
+    "published_at": 1792074424,
+    "title_hu": "Mesajul către iranieni al președintelui Pezeshkian. „Țara nu s-a mai confruntat cu o presiune atât de intensă”",
+    "lead_hu": "Preşedintele iranian Masud Pezeshkian a afirmat joi că Republica Islamică nu s-a confruntat cu „o presiune şi nişte dificultăţi atât de intense” ca în prezent – din cauza războiului cu Statele Unite –…",
+    "content_hu": "Preşedintele iranian Masud Pezeshkian a afirmat joi că Republica Islamică nu s-a confruntat cu „o presiune şi nişte dificultăţi atât de intense” ca în prezent – din cauza războiului cu Statele Unite – de la înfiinţarea sa în 1979, dar, în pofida tuturor, rămâne în picioare, informează EFE, preluată de Agerpres. „În cei 48 de …",
+    "title_ro": "Mesajul către iranieni al președintelui Pezeshkian. „Țara nu s-a mai confruntat cu o presiune atât de intensă”",
+    "lead_ro": "Preşedintele iranian Masud Pezeshkian a afirmat joi că Republica Islamică nu s-a confruntat cu „o presiune şi nişte dificultăţi atât de intense” ca în prezent – din cauza războiului cu Statele Unite –…",
+    "content_ro": "Preşedintele iranian Masud Pezeshkian a afirmat joi că Republica Islamică nu s-a confruntat cu „o presiune şi nişte dificultăţi atât de intense” ca în prezent – din cauza războiului cu Statele Unite – de la înfiinţarea sa în 1979, dar, în pofida tuturor, rămâne în picioare, informează EFE, preluată de Agerpres. „În cei 48 de …"
+  },
+  {
+    "group_id": "group_a4af70bb1f",
+    "fingerprint": "966de87d814e97dce376200a583b7bee",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/08/dreamstime_l_152921791.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Ministrul Finanțelor anunță „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni” / Cerere a investitorilor de cinci ori mai mare decât suma oferită",
+        "link": "https://www.g4media.ro/ministrul-finantelor-anunta-una-dintre-cele-mai-puternice-suprasubscrieri-pentru-o-emisiune-in-lei-din-ultimele-luni-cerere-a-investitorilor-de-cinci-ori-mai-mare-decat-suma-oferit.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Îşi recapătă investitorii încrederea în România? O licitaţie de titluri de stat a atras o cerere de cinci ori mai mare decât suma oferită de stat. Ministrul Finanţelor, Alexandru Nazare: „Este una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni”",
+        "link": "https://www.zf.ro/eveniment/isi-recapata-investitorii-increderea-romania-licitatie-titluri-stat-atras-cerere-cinci-ori-mare-suma-oferita-stat-ministrul-finantelor-alexandru-nazare-una-dintre-cele-puternice-suprasubscrieri-23260888"
+      }
+    ],
+    "published_at": 1792074418,
+    "title_hu": "Ötszörös kereslet övezte a román államkötvény-aukciót",
+    "lead_hu": "A hároméves román államkötvények aukcióján a befektetők mintegy 2,5 milliárd lej értékben nyújtottak be ajánlatot, ötször akkora összegben, mint a meghirdetett mennyiség. A pénzügyminisztérium körülbelül egymilliárd lejt fogadott el, 6,81 százalékos átlaghozam mellett.",
+    "content_hu": "• **Az aukción** a hároméves államkötvény-sorozat 500 millió lejes meghirdetett mennyiségére mintegy 2,5 milliárd lej értékű befektetői kereslet érkezett.\n\n• **A pénzügyminisztérium** körülbelül egymilliárd lej értékben fogadott el ajánlatokat, 6,81 százalékos átlaghozam mellett; ez a másodpiaci szint alatt volt.\n\n• **Alexandru Nazare pénzügyminiszter** az elmúlt hónapok egyik legerősebb lejben kibocsátott államkötvény-aukciós túljegyzésének nevezte az eredményt.\n\n• **Az állampapírhozamok** a közlés szerint a releváns piacokon is csökkentek: lejben hozzávetőleg 10–15, euróban és dollárban pedig 5–15 bázisponttal, futamidőtől függően.\n\n• **Nazare** pozitív jelzésnek nevezte a fejleményeket, ugyanakkor hangsúlyozta, hogy a finanszírozási költségeket a befektetők stabilitásról, kiszámíthatóságról és a költségvetési politika hitelességéről alkotott képe is befolyásolja.",
+    "title_ro": "Cererea pentru titlurile de stat românești a fost de cinci ori peste oferta scoasă la licitație",
+    "lead_ro": "La licitația pentru titluri de stat românești cu maturitatea de trei ani, investitorii au depus cereri de aproximativ 2,5 miliarde de lei, de cinci ori mai mult decât volumul anunțat. Ministerul Finanțelor a adjudecat circa un miliard de lei, la un randament mediu de 6,81%.",
+    "content_ro": "• **La licitație**, cererea investitorilor pentru emisiunea de titluri de stat cu maturitatea de trei ani a ajuns la aproximativ 2,5 miliarde de lei, față de un volum anunțat de 500 de milioane de lei.\n\n• **Ministerul Finanțelor** a adjudecat aproximativ un miliard de lei, la un randament mediu de 6,81%, sub nivelul pieței secundare.\n\n• **Alexandru Nazare, ministrul Finanțelor**, a descris rezultatul drept una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni.\n\n• **Randamentele titlurilor de stat** au scăzut, potrivit anunțului, pe piețele relevante: cu aproximativ 10–15 puncte de bază în lei și cu 5–15 puncte de bază pentru finanțările în euro și dolari, în funcție de maturitate.\n\n• **Nazare** a numit evoluțiile un semnal pozitiv, dar a subliniat că percepția investitorilor asupra stabilității, predictibilității și credibilității politicii fiscal-bugetare influențează costurile de finanțare."
+  },
+  {
+    "group_id": "group_3b4ff2bc2f",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/10/law-gf47c55fdb_1280.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Statul de drept, lupta anticorupție și limitele intervenției instanțelor în stabilirea bugetului – teme dezbătute într-un eveniment la București la care participă președinta Comisiei de la Veneția, judecători de Curtea de Justiție a UE, CEDO, Curtea Constituțională și experți internaționali în drept",
+        "link": "https://www.g4media.ro/statul-de-drept-lupta-anticoruptie-si-limitele-interventiei-instantelor-in-stabilirea-bugetului-teme-dezbatute-intr-un-eveniment-la-bucuresti-la-care-participa-presedinta-comisiei-de-la-venetia-ju.html"
+      }
+    ],
+    "published_at": 1792074390,
+    "title_hu": "Statul de drept, lupta anticorupție și limitele intervenției instanțelor în stabilirea bugetului – teme dezbătute într-un eveniment la București la care participă președinta Comisiei de la Veneția, judecători de Curtea de Justiție a UE, CEDO, Curtea Constituțională și experți internaționali în drept",
+    "lead_hu": "Bucureștiul găzduiește cea de-a doua ediție a Forumului privind Statul de Drept în perioada 20–21 octombrie 2026. Evenimentul este dedicat provocărilor actuale privind statul de drept și aplicării pra…",
+    "content_hu": "Bucureștiul găzduiește cea de-a doua ediție a Forumului privind Statul de Drept în perioada 20–21 octombrie 2026. Evenimentul este dedicat provocărilor actuale privind statul de drept și aplicării practice a standardelor europene, potrivit unui comunicat al Fundației Konrad Adenauer, co-organizator. Momentul central al deschiderii forumului va avea loc marți, 20 octombrie 2026, în Aula Bibliotecii […] © G4Media.ro.",
+    "title_ro": "Statul de drept, lupta anticorupție și limitele intervenției instanțelor în stabilirea bugetului – teme dezbătute într-un eveniment la București la care participă președinta Comisiei de la Veneția, judecători de Curtea de Justiție a UE, CEDO, Curtea Constituțională și experți internaționali în drept",
+    "lead_ro": "Bucureștiul găzduiește cea de-a doua ediție a Forumului privind Statul de Drept în perioada 20–21 octombrie 2026. Evenimentul este dedicat provocărilor actuale privind statul de drept și aplicării pra…",
+    "content_ro": "Bucureștiul găzduiește cea de-a doua ediție a Forumului privind Statul de Drept în perioada 20–21 octombrie 2026. Evenimentul este dedicat provocărilor actuale privind statul de drept și aplicării practice a standardelor europene, potrivit unui comunicat al Fundației Konrad Adenauer, co-organizator. Momentul central al deschiderii forumului va avea loc marți, 20 octombrie 2026, în Aula Bibliotecii […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_1963ff57e0",
+    "fingerprint": "cd2dbc37e92fe351a47385b936c2193f",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-0/0d779ba6-d60b-442b-8044-edc5ca325c20/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Transelectrica a investit 260 de milioane de lei în două instalații care stabilizează rețeaua electrică. Tehnologia este o premieră în sudul Europei",
+        "link": "https://adevarul.ro/economie/transelectrica-a-investit-260-de-milioane-de-lei-2564222.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "Transelectrica a finalizat investiții de 260 de milioane de lei pentru stabilizarea rețelei electrice. Proiectul a fost terminat înainte de termen",
+        "link": "https://economedia.ro/transelectrica-a-finalizat-investitii-de-260-de-milioane-de-lei-pentru-stabilizarea-retelei-electrice-proiectul-a-fost-terminat-inainte-de-termen.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Transelectrica a finalizat o investiţie de 260 de milioane de lei pentru creşterea siguranţei Sistemului Electroenergetic Naţional, o premieră pentru sudul Europei",
+        "link": "https://www.g4media.ro/transelectrica-a-finalizat-o-investitie-de-260-de-milioane-de-lei-pentru-cresterea-sigurantei-sistemului-electroenergetic-national-o-premiera-pentru-sudul-europei.html"
+      }
+    ],
+    "published_at": 1792074339,
+    "title_hu": "260 millió lejes beruházással stabilizálja a hálózatot a Transelectrica",
+    "lead_hu": "A Transelectrica 2026 augusztusában befejezte két, egyenként ±150 MVAr teljesítményű STATCOM-berendezés telepítését a Sibiu Sud és a Bradu alállomásokon. A mintegy 260 millió lejes, nagyrészt az uniós Modernizációs Alapból finanszírozott beruházás kilenc hónappal megelőzte a szerződéses határidőt; a technológiát a vállalat a dél-európai régióban elsőként alkalmazta.",
+    "content_hu": "• **2026 augusztusában** a Transelectrica befejezte a romániai villamosenergia-átviteli hálózat stabilitását javító beruházást, mintegy kilenc hónappal a 2027 májusára kitűzött határidő előtt. A projektet 2026. október 15-én, a Sibiu Sud alállomáson tartott eseményen mutatták be a befejezés alkalmából.\n\n• **A két STATCOM-berendezést** a Sibiu Sud és a Bradu alállomásokon telepítették; mindkettő névleges teljesítménye ±150 MVAr. A Transelectrica szerint ezek az első ilyen berendezések a romániai átviteli hálózatban, és a technológiát a dél-európai régióban is elsőként alkalmazták.\n\n• **A mintegy 260 millió lej értékű projektből** 254,65 millió lejt vissza nem térítendő támogatás fedezett a Modernizációs Alapból. A tervezési és kivitelezési szerződést 2023. augusztus 16-án kötötték meg a Siemens Energy SRL és az Electromontaj SA társulásával.\n\n• **Az üzembe helyezés** a Sibiu Sud alállomáson 2025 decemberében, a Bradu alállomáson 2026 májusában történt meg; mindkét berendezés a szerződéses határidő előtt állt működésbe.\n\n• **A STATCOM-berendezések** gyorsan szabályozzák a feszültséget és kompenzálják a meddőteljesítmény változásait, mérsékelve a hálózati instabilitás kockázatát. Segíthetik a torlódások és a gyors fogyasztásváltozások kezelését, az alacsony fogyasztás melletti üzemet, valamint az ENTSO-E összekapcsolt európai rendszerében a zónák között fellépő feszültségingadozások csillapítását.\n\n• **A beruházás** a Transelectrica szerint növeli a hálózat üzembiztonságát, rugalmasságát és ellenálló képességét, valamint megkönnyíti a változó termelésű megújuló energiaforrások integrálását. A berendezések nem termelnek villamos energiát, hanem annak biztonságos szállítását segítik.",
+    "title_ro": "Transelectrica stabilizează rețeaua printr-o investiție de 260 de milioane de lei",
+    "lead_ro": "În august 2026, Transelectrica a finalizat instalarea a două echipamente STATCOM, fiecare cu o putere nominală de ±150 MVAr, în stațiile Sibiu Sud și Bradu. Investiția, în valoare de aproximativ 260 de milioane de lei și finanțată în mare parte prin Fondul pentru Modernizare, a fost încheiată cu nouă luni înainte de termenul contractual; compania afirmă că tehnologia este o premieră în sudul Europei.",
+    "content_ro": "• **În august 2026**, Transelectrica a finalizat investiția destinată creșterii stabilității rețelei electrice de transport din România, cu aproximativ nouă luni înainte de termenul prevăzut pentru mai 2027. Finalizarea proiectului a fost marcată printr-un eveniment organizat la stația Sibiu Sud pe 15 octombrie 2026.\n\n• **Cele două echipamente STATCOM** au fost instalate în stațiile Sibiu Sud și Bradu și au fiecare o putere nominală de ±150 MVAr. Potrivit Transelectrica, sunt primele de acest tip din Rețeaua Electrică de Transport din România, iar tehnologia este o premieră în sudul Europei.\n\n• **Investiția, în valoare de aproximativ 260 de milioane de lei,** a beneficiat de o finanțare nerambursabilă de 254,65 milioane de lei prin Fondul pentru Modernizare. Contractul de proiectare și execuție a fost semnat la 16 august 2023 cu asocierea Siemens Energy SRL – Electromontaj SA.\n\n• **Punerea în funcțiune** a instalației de la Sibiu Sud a avut loc în decembrie 2025, iar cea de la Bradu în mai 2026; ambele au fost energizate înainte de termenele contractuale.\n\n• **Instalațiile STATCOM** reglează rapid tensiunea și compensează variațiile de putere reactivă, reducând riscul de instabilitate a rețelei. Ele pot ajuta la gestionarea congestiilor și a variațiilor rapide ale consumului, inclusiv în perioadele cu consum redus, și la amortizarea oscilațiilor de tensiune între zonele sistemului european interconectat ENTSO-E.\n\n• **Investiția** urmărește, potrivit Transelectrica, creșterea siguranței în funcționare, a flexibilității și a rezilienței rețelei, precum și facilitarea integrării surselor regenerabile cu producție variabilă. Echipamentele nu produc energie electrică, ci ajută la transportul acesteia în condiții de siguranță."
+  },
+  {
+    "group_id": "group_77dadfae46",
+    "fingerprint": "122a89af5963bd2188c8498db5cd3ff7",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21328/23260702/1/00f60985-c354-4f00-9000-a6ec806b6f20.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Orange Romania scoate la vânzare Palatul Telefoanelor, primul „zgârie-nori\" al Bucureştiului, pe Calea Victoriei, unde Dedeman, AFI, Hagag şi One United au investit sute de milioane de euro. Clădirea Art Deco poate rămâne de birouri sau poate deveni hotel",
+        "link": "https://www.zf.ro/business-construct/orange-romania-scoate-vanzare-palatul-telefoanelor-primul-zgarie-nori-bucurestiului-calea-victoriei-unde-dedeman-afi-hagag-one-united-au-investit-sute-milioane-euro-cladirea-art-deco-ramane-birouri-23260702"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Una dintre cele mai emblematice clădiri din București a fost scoasă la vânzare. Se știe și prețul cerut",
+        "link": "https://hotnews.ro/palatul-telefoanelor-din-bucuresti-scos-la-vanzare-de-orange-2377231"
+      }
+    ],
+    "published_at": 1792074202,
+    "title_hu": "Az Orange mintegy 25,9 millió euróért eladja a bukaresti Telefonpalotát",
+    "lead_hu": "Az Orange Romania eladásra kínálja a bukaresti Calea Victoriei-n álló, műemléki védettségű Telefonpalotát. A nettó kikiáltási ár körülbelül 25,9 millió euró; az épület korszerűsítése 2024-ben fejeződött be, több mint 7 millió eurós beruházás után.",
+    "content_hu": "• **Az Orange Romania** mintegy 25,9 millió eurós nettó áron hirdette meg eladásra a Calea Victoriei 35. szám alatti Telefonpalotát. Az értékesítés zárt borítékos ajánlattételi licittel történik.\n\n• **Az 1933-ban átadott épület** Bukarest egyik jelképes, Art Deco stílusú műemléke. A palota 11 764 négyzetméter beépített területtel és összesen 2 252 négyzetméteres telekkel rendelkezik.\n\n• **A felújítás és korszerűsítés** 1995 és 2001 között jelentős megerősítési munkákkal kezdődött, majd 2018-tól folytatódott az épület korszerű biztonsági és tűzvédelmi előírásokhoz igazítása. A munkálatok 2024-ben zárultak le, a beruházások értéke meghaladta a 7 millió eurót.\n\n• **Az épület jövőbeni hasznosítása** a műemléki előírások keretei között történhet. Az ingatlan irodaként tovább működhet, de a környék adottságai miatt szállodai átalakításra is alkalmas lehet.",
+    "title_ro": "Orange scoate la vânzare Palatul Telefoanelor din București pentru circa 25,9 milioane de euro",
+    "lead_ro": "Orange România a scos la vânzare Palatul Telefoanelor, monument istoric situat pe Calea Victoriei din București. Prețul net cerut este de aproximativ 25,9 milioane de euro, iar modernizarea clădirii a fost încheiată în 2024, după investiții de peste 7 milioane de euro.",
+    "content_ro": "• **Orange România** a scos la vânzare Palatul Telefoanelor de pe Calea Victoriei nr. 35, la un preț net de aproximativ 25,9 milioane de euro. Vânzarea se face prin licitație cu ofertă în plic închis.\n\n• **Clădirea inaugurată în 1933** este un monument istoric emblematic al Bucureștiului, construit în stil Art Deco. Are o suprafață desfășurată de 11.764 de metri pătrați și un teren de 2.252 de metri pătrați.\n\n• **Lucrările de consolidare și modernizare** au inclus intervenții ample între 1995 și 2001, apoi lucrări începute în 2018 pentru adaptarea la normele actuale de rezistență și securitate la incendiu. Acestea s-au încheiat în 2024, iar investițiile au depășit 7 milioane de euro.\n\n• **Viitoarea utilizare a clădirii** va trebui să respecte statutul său de monument istoric. Palatul poate rămâne o clădire de birouri sau poate fi transformat în hotel."
+  },
+  {
+    "group_id": "group_3d0f9e6043",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/DJ-552-Craiova-Cetate.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Peste 24 de milioane de euro din fonduri europene pentru drumurile județene din Oltenia",
+        "link": "https://economedia.ro/peste-24-de-milioane-de-euro-din-fonduri-europene-pentru-drumurile-judetene-din-oltenia.html"
+      }
+    ],
+    "published_at": 1792074046,
+    "title_hu": "Peste 24 de milioane de euro din fonduri europene pentru drumurile județene din Oltenia",
+    "lead_hu": "Peste 24 de milioane de euro din fonduri europene vor fi alocate pentru construirea, reabilitarea, modernizarea și extinderea drumurilor județene din Oltenia, prin Programul Regional Sud-Vest Oltenia …",
+    "content_hu": "Peste 24 de milioane de euro din fonduri europene vor fi alocate pentru construirea, reabilitarea, modernizarea și extinderea drumurilor județene din Oltenia, prin Programul Regional Sud-Vest Oltenia 2021–2027. Agenția pentru Dezvoltare Regională (ADR) Sud-Vest Oltenia a lansat în consultare publică ghidul solicitantului pentru cel de-al doilea apel de proiecte dedicat îmbunătățirii conectivității regionale și accesului […]",
+    "title_ro": "Peste 24 de milioane de euro din fonduri europene pentru drumurile județene din Oltenia",
+    "lead_ro": "Peste 24 de milioane de euro din fonduri europene vor fi alocate pentru construirea, reabilitarea, modernizarea și extinderea drumurilor județene din Oltenia, prin Programul Regional Sud-Vest Oltenia …",
+    "content_ro": "Peste 24 de milioane de euro din fonduri europene vor fi alocate pentru construirea, reabilitarea, modernizarea și extinderea drumurilor județene din Oltenia, prin Programul Regional Sud-Vest Oltenia 2021–2027. Agenția pentru Dezvoltare Regională (ADR) Sud-Vest Oltenia a lansat în consultare publică ghidul solicitantului pentru cel de-al doilea apel de proiecte dedicat îmbunătățirii conectivității regionale și accesului […]"
+  },
+  {
+    "group_id": "group_2d0a2bed4a",
+    "fingerprint": "6e50f83993b8288dfc09fd6d4f313a0b",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-12-02-04-2-1024x768.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "O explozie a distrus complet trei case, iar o persoană a suferit arsuri pe 55% din corp. De vină ar fi fost o butelie de gaz",
+        "link": "https://www.mediafax.ro/social/o-explozie-a-distrus-complet-trei-case-iar-o-persoana-a-suferit-arsuri-pe-55-din-corp-de-vina-ar-fi-fost-o-butelie-de-gaz-23825805"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Explozie devastatoare într-un județ din țară. Două locuințe distruse în totalitate, alte șapte gospodării afectate",
+        "link": "https://www.presasm.ro/foto-explozie-devastatoare-intr-un-judet-din-tara-doua-locuinte-distruse-in-totalitate-alte-sapte/53797"
+      },
+      {
+        "source": "G4Media",
+        "title": "O explozie a distrus complet trei case și a afectat alte șapte locuințe în Vrancea / O persoană a suferit arsuri pe 55% din corp / De vină ar fi fost o butelie de gaz",
+        "link": "https://www.g4media.ro/o-explozie-a-distrus-complet-trei-case-si-a-afectat-alte-sapte-locuinte-in-vrancea-o-persoana-a-suferit-arsuri-pe-55-din-corp-de-vina-ar-fi-fost-o-butelie-de-gaz.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Felrobbant egy gázpalack – Három ház megsemmisült, hét megrongálódott, egy ember megsérült",
+        "link": "https://maszol.ro/belfold/Felrobbant-egy-gazpalack-Harom-haz-megsemmisult-het-megrongalodott-egy-ember-megserult"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cum s-a produs explozia devastatoare din Vrancea, de la un rezervor de GPL. Proprietarul locuinței a fost aruncat prin geam, în curte",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cum-s-a-produs-explozia-devastatoare-din-vrancea-de-la-un-rezervor-de-gpl-proprietarul-locuintei-a-fost-aruncat-prin-geam-in-curte.html"
+      }
+    ],
+    "published_at": 1792073965,
+    "title_hu": "Gázfelhalmozódás okozhatta a vranceai robbanást, egy férfi súlyosan megsérült",
+    "lead_hu": "Robbanás történt a romániai Vrancea megyei Sihlea településen: három épület teljesen megsemmisült, további hét háztartásban pedig károk keletkeztek. Egy 53 éves férfi testfelületének mintegy 55 százalékán szenvedett égési sérüléseket. A források eltérően írnak a robbanás napjáról és a gáztartály elhelyezéséről; a rendőrség gondatlanságból elkövetett rongálás és testi sértés miatt indított eljárást.",
+    "content_hu": "• **A robbanás Sihlea településen történt:** két egymáshoz csatlakozó lakóépület és egy állattartó épület teljesen megsemmisült, további hét háztartásban pedig ablakok, ajtók, falak és tetők rongálódtak meg.\n\n• **Egy 53 éves férfi súlyosan megsérült:** testfelületének mintegy 55 százalékán szenvedett égési sérüléseket. A ProTV beszámolója szerint a robbanás az udvarra lökte, ahol eszméletlenül találták; a kórházi szóvivő később azt közölte, hogy állapota stabil, és egy égési sérültek kezelésére szakosodott intézménybe történő átszállítását mérlegelték.\n\n• **A robbanást valószínűleg éghető gáz felhalmozódása okozta:** a hatóságok szerint a gáz a lakásban gyűlhetett össze. A tartály elhelyezéséről eltérnek a beszámolók: a Mediafax szerint bent, a PresaSM szerint kívül volt; a ProTV egy mintegy 1500 literes, kültéri GPL-tartályról ír, amelyből egy tömlőn keresztül juthatott gáz a házba. A ProTV szerint a fény felkapcsolásakor keletkezett szikra indíthatta be a robbanást; ezt a körülményt még vizsgálják.\n\n• **A robbanást nem követte tűz:** az első segélyhívás reggel 6 óra körül érkezett. A helyszínre tűzoltók, SMURD- és mentőegységek vonultak ki, a körülmények tisztázására pedig vizsgálat indult.\n\n• **A rendőrség büntetőeljárást indított:** a ProTV szerint gondatlanságból elkövetett rongálás és gondatlanságból elkövetett testi sértés gyanúja miatt nyitottak ügyet.\n\n• **A környékbeliek katonai bázisra gyanakodtak:** a robbanás hangját kezdetben a mintegy egy kilométerre lévő katonai bázisról érkező zajnak vélték.\n\n• **A beszámolók a robbanás napjáról is eltérnek:** a Mediafax, a G4Media és a Maszol szerdát, a PresaSM október 15-ét, csütörtököt jelöli meg.\n\n• **A hatóságok gázbiztonsági óvintézkedéseket javasoltak:** kizárólag engedélyezett, érvényes ISCIR műszaki ellenőrzésű berendezéseket és GPL-hez való tömlőket ajánlanak, amelyeket mindkét végükön fém bilinccsel kell rögzíteni. Gázszivárgás gyanúja esetén, ha biztonságosan megtehető, el kell zárni a palackot és a gáztűzhelyet, ki kell szellőztetni a helyiséget, és kerülni kell az elektromos kapcsolók, készülékek, gyufa vagy öngyújtó használatát; nagyobb vagy meg nem szüntethető szivárgás esetén biztonságos távolságból kell hívni a 112-t.",
+    "title_ro": "Acumularea de gaze ar fi provocat explozia din Vrancea; un bărbat a fost grav rănit",
+    "lead_ro": "O explozie s-a produs în localitatea Sihlea, județul Vrancea: trei imobile au fost distruse în totalitate, iar alte șapte gospodării au fost avariate. Un bărbat de 53 de ani a suferit arsuri pe aproximativ 55% din suprafața corpului. Relatările diferă în privința zilei exploziei și a amplasării rezervorului de gaz; poliția a deschis un dosar penal pentru distrugere și vătămare corporală din culpă.",
+    "content_ro": "• **Explozia s-a produs în localitatea Sihlea:** două locuințe alipite și un adăpost de animale au fost distruse în totalitate, iar în alte șapte gospodării au fost avariate ferestre, uși, pereți și acoperișuri.\n\n• **Un bărbat de 53 de ani a fost grav rănit:** a suferit arsuri pe aproximativ 55% din suprafața corpului. Potrivit ProTV, suflul exploziei l-a aruncat în curte, unde a fost găsit inconștient; ulterior, purtătorul de cuvânt al spitalului a declarat că starea sa era stabilă și că se lua în considerare transferul la o unitate specializată în tratarea arsurilor.\n\n• **Explozia ar fi fost provocată de acumularea de gaze combustibile:** autoritățile spun că gazul s-ar fi acumulat în locuință. Relatările diferă în privința amplasării rezervorului: Mediafax afirmă că era în interior, PresaSM că era în exterior, iar ProTV menționează un rezervor GPL exterior de aproximativ 1.500 de litri, din care gazul ar fi ajuns în casă printr-un furtun. Potrivit ProTV, o scânteie produsă la aprinderea luminii ar fi declanșat explozia; împrejurările sunt încă cercetate.\n\n• **Explozia nu a fost urmată de incendiu:** primul apel la 112 a fost primit în jurul orei 06:00. La fața locului au intervenit pompieri, echipaje SMURD și de ambulanță, iar autoritățile au început cercetările pentru stabilirea împrejurărilor exacte.\n\n• **Poliția a deschis un dosar penal:** potrivit ProTV, ancheta vizează distrugerea din culpă și vătămarea corporală din culpă.\n\n• **Localnicii au suspectat inițial o bază militară:** zgomotul exploziei a fost atribuit la început bazei militare aflate la aproximativ un kilometru distanță.\n\n• **Relatările diferă și în privința datei exploziei:** Mediafax, G4Media și Maszol indică ziua de miercuri, iar PresaSM menționează joi, 15 octombrie.\n\n• **Autoritățile recomandă măsuri de siguranță pentru instalațiile GPL:** sunt indicate echipamente omologate, rezervoare cu verificare tehnică ISCIR valabilă și racorduri speciale pentru GPL, fixate cu coliere metalice la ambele capete. Dacă se simte miros de gaz, închideți robinetul buteliei și aragazul doar dacă acest lucru se poate face în siguranță, aerisiți încăperea și nu acționați întrerupătoare, aparate electrice, chibrituri sau brichete; pentru o scurgere masivă sau care nu poate fi oprită, apelați 112 de la distanță sigură."
+  },
+  {
+    "group_id": "group_3545221cb2",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/8-main-4-1200x686.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "TEST IQ | Doar geniile pot identifica bărbatul ascuns în această imagine, în cel mult 15 secunde",
+        "link": "https://www.cancan.ro/test-iq-doar-geniile-pot-identifica-barbatul-ascuns-in-aceasta-imagine-in-cel-mult-15-secunde-21530676"
+      }
+    ],
+    "published_at": 1792073957,
+    "title_hu": "TEST IQ | Doar geniile pot identifica bărbatul ascuns în această imagine, în cel mult 15 secunde",
+    "lead_hu": "Dragă cititorule, CANCAN.RO îţi propune astăzi o provocare care vă va pune la încercare atenția și spiritul de observație. În imaginea de mai jos se ascunde un bărbat, iar misiunea ta este să îl desco…",
+    "content_hu": "Dragă cititorule, CANCAN.RO îţi propune astăzi o provocare care vă va pune la încercare atenția și spiritul de observație. În imaginea de mai jos se ascunde un bărbat, iar misiunea ta este să îl descoperi. Nu este deloc atât de simplu precum pare la prima vedere, motiv pentru care doar cei mai perspicace vor reuși […]",
+    "title_ro": "TEST IQ | Doar geniile pot identifica bărbatul ascuns în această imagine, în cel mult 15 secunde",
+    "lead_ro": "Dragă cititorule, CANCAN.RO îţi propune astăzi o provocare care vă va pune la încercare atenția și spiritul de observație. În imaginea de mai jos se ascunde un bărbat, iar misiunea ta este să îl desco…",
+    "content_ro": "Dragă cititorule, CANCAN.RO îţi propune astăzi o provocare care vă va pune la încercare atenția și spiritul de observație. În imaginea de mai jos se ascunde un bărbat, iar misiunea ta este să îl descoperi. Nu este deloc atât de simplu precum pare la prima vedere, motiv pentru care doar cei mai perspicace vor reuși […]"
+  },
+  {
+    "group_id": "group_1695217da3",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/23092026/8aa32d00-bc54-4331-b480-a36e1eafec5f.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Dinamo este lider de aproape două luni în Superligă, însă „câinii” nu se înghesuie pe stadion » Număr modest de bilete vândute pentru partida cu FC Botoșani",
+        "link": "https://www.gsp.ro/fotbal/liga-1/dinamo-numar-bilete-fc-botosani-988436.html"
+      }
+    ],
+    "published_at": 1792073949,
+    "title_hu": "Dinamo este lider de aproape două luni în Superligă, însă „câinii” nu se înghesuie pe stadion » Număr modest de bilete vândute pentru partida cu FC Botoșani",
+    "lead_hu": "Pentru meciul cu FC Botoșani din etapa a 12-a, care are loc mâine, de la ora 21:00, pe Arena Națională, Dinamo a vândut un număr modest de bilete, aproape 10.000, tichete vândute + cei 2500 de abonați…",
+    "content_hu": "Pentru meciul cu FC Botoșani din etapa a 12-a, care are loc mâine, de la ora 21:00, pe Arena Națională, Dinamo a vândut un număr modest de bilete, aproape 10.000, tichete vândute + cei 2500 de abonați, conform celor de la Radio Dinamo 1948. ...",
+    "title_ro": "Dinamo este lider de aproape două luni în Superligă, însă „câinii” nu se înghesuie pe stadion » Număr modest de bilete vândute pentru partida cu FC Botoșani",
+    "lead_ro": "Pentru meciul cu FC Botoșani din etapa a 12-a, care are loc mâine, de la ora 21:00, pe Arena Națională, Dinamo a vândut un număr modest de bilete, aproape 10.000, tichete vândute + cei 2500 de abonați…",
+    "content_ro": "Pentru meciul cu FC Botoșani din etapa a 12-a, care are loc mâine, de la ora 21:00, pe Arena Națională, Dinamo a vândut un număr modest de bilete, aproape 10.000, tichete vândute + cei 2500 de abonați, conform celor de la Radio Dinamo 1948. ..."
+  },
+  {
+    "group_id": "group_58afc596aa",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-b/b3fc22d5-7995-4d3e-ba7b-4845bc8c2836/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.029%252C1%252C0.811%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "„Cariera mea se încheie”. Decizia luată de Andreia Bodea, directoarea unui colegiu de elită din București, după ce a picat proba de competențe",
+        "link": "https://adevarul.ro/stiri-interne/educatie/cariera-mea-se-incheie-decizia-luata-de-andreia-2564271.html"
+      }
+    ],
+    "published_at": 1792073896,
+    "title_hu": "„Cariera mea se încheie”. Decizia luată de Andreia Bodea, directoarea unui colegiu de elită din București, după ce a picat proba de competențe",
+    "lead_hu": "Andreia Bodea, directoarea Colegiului Național „I.L. Caragiale” din București, a anunțat că își va încheia cariera în învățământ, după ce nu a promovat prima probă a concursului pentru ocuparea funcți...",
+    "content_hu": "Andreia Bodea, directoarea Colegiului Național „I.L. Caragiale” din București, a anunțat că își va încheia cariera în învățământ, după ce nu a promovat prima probă a concursului pentru ocuparea funcțiilor de director. Cadrul didactic susține că timpul acordat rezolvării subiectelor a fost insuficien",
+    "title_ro": "„Cariera mea se încheie”. Decizia luată de Andreia Bodea, directoarea unui colegiu de elită din București, după ce a picat proba de competențe",
+    "lead_ro": "Andreia Bodea, directoarea Colegiului Național „I.L. Caragiale” din București, a anunțat că își va încheia cariera în învățământ, după ce nu a promovat prima probă a concursului pentru ocuparea funcți...",
+    "content_ro": "Andreia Bodea, directoarea Colegiului Național „I.L. Caragiale” din București, a anunțat că își va încheia cariera în învățământ, după ce nu a promovat prima probă a concursului pentru ocuparea funcțiilor de director. Cadrul didactic susține că timpul acordat rezolvării subiectelor a fost insuficien"
+  },
+  {
+    "group_id": "group_5e85cf918c",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/15/141759/vlcsnap-2026-10-15-17h17m49s932.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Au terminat școala de șoferi, dar nu pot încă să obțină permisul. De ce trebuie să aștepte cu lunile ca să dea examenul",
+        "link": "https://stirileprotv.ro/stiri/actualitate/criza-de-examinatori-blocheaza-obtinerea-permiselor-de-conducere-in-mai-multe-judete-1-000-de-dosare-pe-luna-la-4-colegi.html"
+      }
+    ],
+    "published_at": 1792073889,
+    "title_hu": "Au terminat școala de șoferi, dar nu pot încă să obțină permisul. De ce trebuie să aștepte cu lunile ca să dea examenul",
+    "lead_hu": "Situație neplăcută în mai multe județe ale țării, unde cei care vor să obțină permisul de conducere așteaptă cu lunile să susțină proba practică a examenului. Totul, din cauza crizei de personal în ca…",
+    "content_hu": "Situație neplăcută în mai multe județe ale țării, unde cei care vor să obțină permisul de conducere așteaptă cu lunile să susțină proba practică a examenului. Totul, din cauza crizei de personal în care se află Direcțiile de permise.",
+    "title_ro": "Au terminat școala de șoferi, dar nu pot încă să obțină permisul. De ce trebuie să aștepte cu lunile ca să dea examenul",
+    "lead_ro": "Situație neplăcută în mai multe județe ale țării, unde cei care vor să obțină permisul de conducere așteaptă cu lunile să susțină proba practică a examenului. Totul, din cauza crizei de personal în ca…",
+    "content_ro": "Situație neplăcută în mai multe județe ale țării, unde cei care vor să obțină permisul de conducere așteaptă cu lunile să susțină proba practică a examenului. Totul, din cauza crizei de personal în care se află Direcțiile de permise."
+  },
+  {
+    "group_id": "group_5e29db3ea9",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/03/Haas-e1646308613859.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Haas l-a anunțat pe înlocuitorul lui Esteban Ocon din F1: brazilianul Camara, crescut la Academia Ferrari",
+        "link": "https://www.g4media.ro/haas-l-a-anuntat-pe-inlocuitorul-lui-esteban-ocon-din-f1-brazilianul-camara-crescut-la-academia-ferrari.html"
+      }
+    ],
+    "published_at": 1792073873,
+    "title_hu": "Haas l-a anunțat pe înlocuitorul lui Esteban Ocon din F1: brazilianul Camara, crescut la Academia Ferrari",
+    "lead_hu": "Haas a anunțat în cursul zilei de joi că brazilianul Rafael Camara va fi înlocuitorul lui Esteban Ocon pe grila de start din Formula 1 în sezonul 2027. Vorbim despre un contract pe mai multe sezoane, …",
+    "content_hu": "Haas a anunțat în cursul zilei de joi că brazilianul Rafael Camara va fi înlocuitorul lui Esteban Ocon pe grila de start din Formula 1 în sezonul 2027. Vorbim despre un contract pe mai multe sezoane, după cum transmite Crash.net. Lando Norris, criticat după incidentul din Singapore: „L-a făcut să se simtă ca un idiot” […] © G4Media.ro.",
+    "title_ro": "Haas l-a anunțat pe înlocuitorul lui Esteban Ocon din F1: brazilianul Camara, crescut la Academia Ferrari",
+    "lead_ro": "Haas a anunțat în cursul zilei de joi că brazilianul Rafael Camara va fi înlocuitorul lui Esteban Ocon pe grila de start din Formula 1 în sezonul 2027. Vorbim despre un contract pe mai multe sezoane, …",
+    "content_ro": "Haas a anunțat în cursul zilei de joi că brazilianul Rafael Camara va fi înlocuitorul lui Esteban Ocon pe grila de start din Formula 1 în sezonul 2027. Vorbim despre un contract pe mai multe sezoane, după cum transmite Crash.net. Lando Norris, criticat după incidentul din Singapore: „L-a făcut să se simtă ca un idiot” […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_ab7bf0d239",
+    "fingerprint": "593096788993fca6f2266dc60f9cef13",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10376/23260880/1/whatsapp-image-2026-10-15-at-16-50-08.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Grupul Iulius investeşte 1,3 miliarde de euro în proiecte sustenabile, printre care se numără RIVUS Cluj-Napoca, remodelarea Palas Iaşi şi Family Market Tomeşti",
+        "link": "https://www.zf.ro/zf-24/grupul-iulius-investeste-1-3-miliarde-de-euro-in-proiecte-sustenabile-printre-care-se-numara-rivus-cluj-napoca-remodelarea-palas-iasi-si-family-market-tomesti-23260880"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Sustenabilitatea, integrată în noua generație de proiecte IULIUS, investiții de 1,3 miliarde de euro",
+        "link": "https://adevarul.ro/stiri-locale/constanta/sustenabilitatea-integrata-in-noua-generatie-de-2564288.html"
+      }
+    ],
+    "published_at": 1792073851,
+    "title_hu": "Az IULIUS 1,3 milliárd eurót fordítana fenntartható városfejlesztési projektekre",
+    "lead_hu": "Az IULIUS 2025-ös fenntarthatósági jelentése szerint a vállalat több mint 1,3 milliárd euró értékű fejlesztést készít elő, köztük a kolozsvári RIVUS projektet és a konstancai városrehabilitációt. A cég beszámolója szerint működési kibocsátása és vízfelhasználása is csökkent 2019-hez képest.",
+    "content_hu": "• **Több mint 1,3 milliárd eurónyi fejlesztés** van előkészítés alatt: a kolozsvári RIVUS, a Palas Iași átalakítása, a Family Market Tomești és a konstancai városrehabilitáció.\n\n• **Az IULIUS 2025-ös fenntarthatósági jelentése** az ESG-szempontok erőteljesebb beépítéséről számol be a működésbe, a finanszírozásba és az új városrehabilitációs beruházásokba.\n\n• **A kibocsátás és az erőforrás-felhasználás csökkent** 2019-hez képest: a vállalat 73 százalékkal alacsonyabb abszolút működési kibocsátást, 86 százalékkal kisebb kibocsátási intenzitást és 22 százalékkal alacsonyabb abszolút vízfogyasztást közölt. A cég 2030-ig 78,9 százalékkal kívánja mérsékelni a Scope 1 és 2 kibocsátások intenzitását a 2019-es szinthez viszonyítva.\n\n• **A portfólió áramellátása teljes egészében megújuló forrásból származik**, a vállalat napelemes kapacitása pedig meghaladja az 5,5 megawattot, és az éves energiaszükséglet mintegy 10 százalékát fedezi.\n\n• **A kolozsvári RIVUS 400 millió eurós zöld szindikált finanszírozást kapott** 2025-ben. A projekt egy 14 hektáros egykori ipari terület megújítását célozza, több mint 52 ezer négyzetméternyi zöldfelülettel; a finanszírozás fenntarthatósági követelményeket és LEED Platinum, illetve EDGE Advanced minősítési célokat is tartalmaz.\n\n• **Konstancában 38 hektáron indult bioremediáció** az egykori Oil Terminal telephely északi részén. A szennyezett talaj és felszín alatti víz kezelésére több mint 29 millió eurót szánnak, a munkálatokat pedig egy 800 millió eurót meghaladó, vegyes funkciójú városfejlesztés követheti.\n\n• **Az IULIUS meglévő portfóliójában több mint 180 ezer négyzetméternyi zöldfelület található**, a vállalat pedig közlése szerint évente több mint ezer oktatási, kulturális, sport-, egészségügyi és környezetvédelmi kezdeményezésnek ad helyet.",
+    "title_ro": "IULIUS pregătește investiții de 1,3 miliarde de euro în proiecte urbane sustenabile",
+    "lead_ro": "Raportul de sustenabilitate al IULIUS pentru 2025 prezintă proiecte în dezvoltare estimate la peste 1,3 miliarde de euro, între care RIVUS Cluj-Napoca și regenerarea urbană din Constanța. Compania a raportat reduceri ale emisiilor operaționale și ale consumului de apă față de 2019.",
+    "content_ro": "• **Investițiile aflate în dezvoltare depășesc 1,3 miliarde de euro** și includ proiectul RIVUS din Cluj-Napoca, remodelarea Palas Iași, Family Market Tomești și proiectul de regenerare urbană din Constanța.\n\n• **Raportul de sustenabilitate al IULIUS pentru 2025** descrie integrarea mai amplă a criteriilor ESG în operarea portofoliului, finanțarea și dezvoltarea noilor proiecte.\n\n• **Emisiile și consumul de resurse au scăzut față de 2019**, potrivit companiei: emisiile operaționale absolute cu 73%, intensitatea emisiilor cu 86%, iar consumul absolut de apă cu 22%. IULIUS și-a stabilit pentru 2030 obiectivul de a reduce cu 78,9% intensitatea emisiilor Scope 1 și 2 față de nivelul din 2019.\n\n• **Portofoliul existent folosește energie electrică 100% din surse regenerabile**, iar capacitatea instalată în panouri fotovoltaice depășește 5,5 MW, acoperind aproximativ 10% din necesarul anual de energie.\n\n• **RIVUS Cluj-Napoca a obținut în 2025 o finanțare verde sindicalizată de 400 de milioane de euro.** Proiectul vizează regenerarea unei foste platforme industriale de 14 hectare și va include peste 52.000 mp de spații verzi; finanțarea include cerințe de sustenabilitate și obiective de certificare LEED Platinum și EDGE Advanced.\n\n• **La Constanța a început bioremedierea unei suprafețe de 38 de hectare** din fosta platformă nordică Oil Terminal. Tratarea solului contaminat și a apei subterane este estimată la peste 29 de milioane de euro și precedă un proiect mixed-use evaluat la peste 800 de milioane de euro.\n\n• **Portofoliul IULIUS include peste 180.000 mp de spații verzi**, iar compania afirmă că proiectele sale găzduiesc anual peste 1.000 de inițiative din educație, cultură, sport, sănătate și protecția mediului."
+  },
+  {
+    "group_id": "group_e6259802b0",
+    "fingerprint": "8e5e079cee1c1eb2f855933aa65b9129",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjExJTJGMjk1NDM5OV8yOTU0/Mzk5X2F1ci1pbnF1YW0tZ2VvcmdlLWNh/bGluLmpwZyZoYXNoPTY5N2IwMzMwMzk5MGFlNmIzZjAzNzI2ZDg4NDY5NWQ3.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "AUR propune reguli pentru deplasările partenerei președintelui: „Domnule Nicușor Dan, banul public trebuie respectat”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/aur-propune-reguli-pentru-deplasarile-partenerei-presedintelui-domnule-nicusor-dan-banul-public-trebuie-respectat-3993969"
+      },
+      {
+        "source": "Adevărul",
+        "title": "AUR vrea să blocheze deplasările Mirabelei Grădinaru pe bani publici și a depus în Parlament un proiect de lege: „Nu deține nicio funcție”",
+        "link": "https://adevarul.ro/politica/aur-vrea-sa-blocheze-deplasarile-mirabelei-2564276.html"
+      }
+    ],
+    "published_at": 1792073733,
+    "title_hu": "Az AUR törvényjavaslattal korlátozná az elnök kísérőinek közpénzből finanszírozott útjait",
+    "lead_hu": "Az AUR törvényjavaslatot nyújtott be, amely közpénzből csak akkor engedné finanszírozni a román elnök külföldi útjain őt kísérő személyek költségeit, ha hivatalos, törvényben elismert tisztséggel vagy jogállással rendelkeznek. A kezdeményezés közvetlenül érinti Mirabela Grădinarut, Nicușor Dan élettársát; a javaslatot jegyző Dumitrina Mitrea szerint a jelenlegi szabályozás hiányos.",
+    "content_hu": "• **Az AUR törvényjavaslata** szerint az államfőt külföldi útjain kísérő személyek utazási és egyéb költségeit csak akkor lehetne közpénzből fedezni, ha törvényben elismert hivatalos tisztséggel vagy jogállással rendelkeznek.\n\n• **Mirabela Grădinaru** közvetlenül érintett a kezdeményezésben: ő Nicușor Dan elnök élettársa, akiről az AUR képviselője, Dumitrina Mitrea azt állítja, hogy hivatalos tisztség nélkül vett részt elnöki delegációkban, és útjainak költségeit közpénzből fedezték.\n\n• **A javaslat** megtiltaná a közintézmények pénzügyi, személyi és technikai erőforrásainak felhasználását olyan kísérők javára, akiknek nincs törvényben meghatározott hivatalos státuszuk. Őket nem lehetne állami képviselőként kijelölni vagy akkreditálni, és a közlekedés, a szállás, illetve más útiköltségek sem lennének elszámolhatók közpénzből.\n\n• **Dumitrina Mitrea** azt mondta, hogy megkeresték az Elnöki Hivatalt és a külügyminisztériumot a részvétel jogalapjáról, de állítása szerint nem kaptak választ. Szerinte a jogszabályokban „súlyos szabályozási hiány” van.\n\n• **A „first lady” megnevezés** Mitrea szerint nem jelent a román jogban szabályozott közhivatalt, és az államfővel fennálló személyes kapcsolat önmagában nem biztosít állami képviseleti jogot. A javaslatot benyújtották a parlamentnek; a források nem számolnak be annak elfogadásáról.",
+    "title_ro": "AUR propune limitarea deplasărilor pe bani publici ale persoanelor care îl însoțesc pe președinte",
+    "lead_ro": "AUR a depus un proiect de lege care ar permite suportarea din fonduri publice a cheltuielilor persoanelor care îl însoțesc pe președintele României în deplasări externe numai dacă acestea au o funcție sau un statut oficial recunoscut de lege. Inițiativa o vizează direct pe Mirabela Grădinaru, partenera lui Nicușor Dan, iar deputata care a inițiat proiectul, Dumitrina Mitrea, susține că legislația actuală are lacune.",
+    "content_ro": "• **Proiectul AUR** prevede că deplasările externe ale persoanelor care îl însoțesc pe președintele României ar putea fi plătite din fonduri publice numai dacă acestea dețin o funcție sau un statut oficial recunoscut prin lege.\n\n• **Mirabela Grădinaru** este vizată direct de inițiativă: partenera președintelui Nicușor Dan ar fi participat, potrivit deputatei AUR Dumitrina Mitrea, la delegații prezidențiale fără o funcție oficială, iar cheltuielile deplasărilor sale ar fi fost suportate din bani publici.\n\n• **Inițiativa legislativă** ar interzice folosirea resurselor financiare, umane sau tehnice ale instituțiilor publice în beneficiul persoanelor care îl însoțesc pe președinte fără un statut stabilit prin lege. Acestea nu ar mai putea fi desemnate ori acreditate drept reprezentanți ai statului, iar costurile de transport, cazare și alte cheltuieli de deplasare nu ar mai putea fi decontate din fonduri publice.\n\n• **Dumitrina Mitrea** a declarat că a solicitat Administrației Prezidențiale și Ministerului Afacerilor Externe să clarifice temeiul legal al participării, dar susține că nu a primit răspuns. În opinia sa, legislația conține un „vid legislativ grav”.\n\n• **Titlul de „Primă Doamnă”**, afirmă Mitrea, nu este o funcție reglementată de legea română, iar relația personală cu șeful statului nu conferă dreptul de a reprezenta statul. Proiectul a fost depus în Parlament; sursele nu precizează că ar fi fost adoptat."
+  },
+  {
     "group_id": "group_1d211f156c",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjE2JTJGMjMwNjk3NV8yMzA2/OTc1X05vcmRpcy5qcGcmaGFzaD03NTRk/OTk0ZjRhZjBmZmZhMTBlODkzOGM3MTljNDhmYw==.jpg",
@@ -61,6 +554,27 @@
     "title_ro": "FOTO | KFC Drive Thru, deschis la Oradea, după o investiție de 1,1 milioane de euro: „Cererea tot mai mare ne-a convins”",
     "lead_ro": "Un nou restaurant KFC Drive Thru a fost deschis în Oradea de către Sphera Franchise Group, cel mai mare grup de food service din România, după o investiție de 1,1 milioane de euro, anunță compania joi…",
     "content_ro": "Un nou restaurant KFC Drive Thru a fost deschis în Oradea de către Sphera Franchise Group, cel mai mare grup de food service din România, după o investiție de 1,1 milioane de euro, anunță compania joi, 15 octombrie, într-un comunicat de presă. Noul restaurant se află în parcarea Centrului Comercial Oradea Shopping City, pe Calea […]"
+  },
+  {
+    "group_id": "group_d741341864",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/09/11/092226/ilie-bolojan-si-ioana-dogioiu-govro.jpeg?fm=jpg&q=80&fit=crop&crop=2560%2C1705%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Reacția Guvernului după decizia ÎCCJ privind cele 4,8 miliarde de lei pentru magistrați: „Nu putem aloca suma”",
+        "link": "https://stirileprotv.ro/stiri/politic/reactia-guvernului-dupa-decizia-iccj-privind-cele-4-8-miliarde-de-lei-pentru-magistrati-nu-putem-aloca-suma.html"
+      }
+    ],
+    "published_at": 1792073648,
+    "title_hu": "Reacția Guvernului după decizia ÎCCJ privind cele 4,8 miliarde de lei pentru magistrați: „Nu putem aloca suma”",
+    "lead_hu": "Guvernul a reacționat după ce ÎCCJ a stabilit că statul este obligat să asigure integral fondurile pentru plata drepturilor salariale restante ale judecătorilor, scadente în 2026, inclusiv prin rectif…",
+    "content_hu": "Guvernul a reacționat după ce ÎCCJ a stabilit că statul este obligat să asigure integral fondurile pentru plata drepturilor salariale restante ale judecătorilor, scadente în 2026, inclusiv prin rectificare bugetară.",
+    "title_ro": "Reacția Guvernului după decizia ÎCCJ privind cele 4,8 miliarde de lei pentru magistrați: „Nu putem aloca suma”",
+    "lead_ro": "Guvernul a reacționat după ce ÎCCJ a stabilit că statul este obligat să asigure integral fondurile pentru plata drepturilor salariale restante ale judecătorilor, scadente în 2026, inclusiv prin rectif…",
+    "content_ro": "Guvernul a reacționat după ce ÎCCJ a stabilit că statul este obligat să asigure integral fondurile pentru plata drepturilor salariale restante ale judecătorilor, scadente în 2026, inclusiv prin rectificare bugetară."
   },
   {
     "group_id": "group_fbc2e9395d",
@@ -157,27 +671,6 @@
     "title_ro": "Cel mai mare parc de lumini din țară se deschide pe 16 octombrie în București, la Grădina Botanică",
     "lead_ro": "Lumina Park debutează în România cu „Ocolul Pământului”, o călătorie printre povești, muzică și peste 200 de instalații luminoase",
     "content_ro": "Lumina Park debutează în România cu „Ocolul Pământului”, o călătorie printre povești, muzică și peste 200 de instalații luminoase"
-  },
-  {
-    "group_id": "group_a4af70bb1f",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/08/dreamstime_l_152921791.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Ministrul Finanțelor anunță „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni” / Cerere a investitorilor de cinci ori mai mare decât suma oferită",
-        "link": "https://www.g4media.ro/ministrul-finantelor-anunta-una-dintre-cele-mai-puternice-suprasubscrieri-pentru-o-emisiune-in-lei-din-ultimele-luni-cerere-a-investitorilor-de-cinci-ori-mai-mare-decat-suma-oferit.html"
-      }
-    ],
-    "published_at": 1792073203,
-    "title_hu": "Ministrul Finanțelor anunță „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni” / Cerere a investitorilor de cinci ori mai mare decât suma oferită",
-    "lead_hu": "Ministrul interimar al Finanțelor, Alexandru Nazare, a anunțat joi că în cadrul unei licitații pentru redeschiderea unei emisiuni de titluri de stat, cererea investitorilor a fost de cinci ori mai mar…",
-    "content_hu": "Ministrul interimar al Finanțelor, Alexandru Nazare, a anunțat joi că în cadrul unei licitații pentru redeschiderea unei emisiuni de titluri de stat, cererea investitorilor a fost de cinci ori mai mare ca suma oferită. Nazare a numit-o „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni”, transmite MEDIAFAX. „La licitația […] © G4Media.ro.",
-    "title_ro": "Ministrul Finanțelor anunță „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni” / Cerere a investitorilor de cinci ori mai mare decât suma oferită",
-    "lead_ro": "Ministrul interimar al Finanțelor, Alexandru Nazare, a anunțat joi că în cadrul unei licitații pentru redeschiderea unei emisiuni de titluri de stat, cererea investitorilor a fost de cinci ori mai mar…",
-    "content_ro": "Ministrul interimar al Finanțelor, Alexandru Nazare, a anunțat joi că în cadrul unei licitații pentru redeschiderea unei emisiuni de titluri de stat, cererea investitorilor a fost de cinci ori mai mare ca suma oferită. Nazare a numit-o „una dintre cele mai puternice suprasubscrieri pentru o emisiune în lei din ultimele luni”, transmite MEDIAFAX. „La licitația […] © G4Media.ro."
   },
   {
     "group_id": "group_eeb5ffbc98",
@@ -1009,27 +1502,6 @@
     "content_ro": "Guenther Steiner, fost director al echipei Haas, a vorbit despre incidentul pe care l-a provocat Lando Norris la cursa de Formula 1 din Singapore. Steiner l-a criticat pe Norris, cel despre care a spus că nu a avut un comportament „demn de un campion mondial”. Norris nu a avut un comportament de campion mondial În […] © G4Media.ro."
   },
   {
-    "group_id": "group_e6259802b0",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjExJTJGMjk1NDM5OV8yOTU0/Mzk5X2F1ci1pbnF1YW0tZ2VvcmdlLWNh/bGluLmpwZyZoYXNoPTY5N2IwMzMwMzk5MGFlNmIzZjAzNzI2ZDg4NDY5NWQ3.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "AUR propune reguli pentru deplasările partenerei președintelui: „Domnule Nicușor Dan, banul public trebuie respectat”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/aur-propune-reguli-pentru-deplasarile-partenerei-presedintelui-domnule-nicusor-dan-banul-public-trebuie-respectat-3993969"
-      }
-    ],
-    "published_at": 1792071970,
-    "title_hu": "AUR propune reguli pentru deplasările partenerei președintelui: „Domnule Nicușor Dan, banul public trebuie respectat”",
-    "lead_hu": "Partidul AUR a depus un proiect de lege prin care cheltuielile persoanelor care îl însoțesc pe președintele României în deplasări externe ar putea fi suportate din fonduri publice numai dacă acestea a…",
-    "content_hu": "Partidul AUR a depus un proiect de lege prin care cheltuielile persoanelor care îl însoțesc pe președintele României în deplasări externe ar putea fi suportate din fonduri publice numai dacă acestea au o funcție sau un statut oficial recunoscut de lege. Inițiativa o vizează pe Mirabela Grădinaru, partenera lui Nicușor Dan, despre care deputata AUR Dumitrina Mitrea susține că a participat la evenimente internaționale pe bani publici fără să aibă o calitate oficială.",
-    "title_ro": "AUR propune reguli pentru deplasările partenerei președintelui: „Domnule Nicușor Dan, banul public trebuie respectat”",
-    "lead_ro": "Partidul AUR a depus un proiect de lege prin care cheltuielile persoanelor care îl însoțesc pe președintele României în deplasări externe ar putea fi suportate din fonduri publice numai dacă acestea a…",
-    "content_ro": "Partidul AUR a depus un proiect de lege prin care cheltuielile persoanelor care îl însoțesc pe președintele României în deplasări externe ar putea fi suportate din fonduri publice numai dacă acestea au o funcție sau un statut oficial recunoscut de lege. Inițiativa o vizează pe Mirabela Grădinaru, partenera lui Nicușor Dan, despre care deputata AUR Dumitrina Mitrea susține că a participat la evenimente internaționale pe bani publici fără să aibă o calitate oficială."
-  },
-  {
     "group_id": "group_98f1a07dbc",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/7-main-2-1200x686.jpg",
@@ -1834,34 +2306,6 @@
     "title_ro": "Croația cere soluționarea disputelor bilaterale înainte de aderarea Muntenegrului la UE",
     "lead_ro": "Croația solicită soluționarea mai multor dispute bilaterale vechi de decenii, în timp ce Muntenegru și-a propus să adere la Uniunea Europeană până în 2028. Zagreb afirmă că susține aderarea, dar cere progrese privind inclusiv consecințele războiului și delimitarea frontierei.",
     "content_ro": "• **Muntenegru și-a propus aderarea la UE până în 2028** și a închis provizoriu 21 dintre cele 33 de capitole de negociere.\n\n• **Premierul croat Andrej Plenković** a cerut progrese în chestiuni nerezolvate de multă vreme, legate de capitolele 23 și 31 ale negocierilor. El a spus că unele probleme se află pe agenda discuțiilor de doi ani fără progrese semnificative.\n\n• **Printre solicitările Croației se numără** despăgubiri pentru croații deținuți în lagărul de la Morinj, păstrarea permanentă a plăcii comemorative și schimbarea numelui unei piscine din Kotor. Zagreb mai cere urmărirea penală a celor responsabili de crime de război și continuarea negocierilor privind delimitarea frontierei.\n\n• **Croația afirmă că susține aderarea Muntenegrului la UE** și că nu urmărește să o împiedice, dar consideră necesară soluționarea disputelor pentru încheierea negocierilor."
-  },
-  {
-    "group_id": "group_1963ff57e0",
-    "fingerprint": "988e6f8e1cca6050e4cc2cd04112626b",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-0/0d779ba6-d60b-442b-8044-edc5ca325c20/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Transelectrica a investit 260 de milioane de lei în două instalații care stabilizează rețeaua electrică. Tehnologia este o premieră în sudul Europei",
-        "link": "https://adevarul.ro/economie/transelectrica-a-investit-260-de-milioane-de-lei-2564222.html"
-      },
-      {
-        "source": "Economedia",
-        "title": "Transelectrica a finalizat investiții de 260 de milioane de lei pentru stabilizarea rețelei electrice. Proiectul a fost terminat înainte de termen",
-        "link": "https://economedia.ro/transelectrica-a-finalizat-investitii-de-260-de-milioane-de-lei-pentru-stabilizarea-retelei-electrice-proiectul-a-fost-terminat-inainte-de-termen.html"
-      }
-    ],
-    "published_at": 1792070420,
-    "title_hu": "260 millió lejes beruházással stabilizálja a hálózatot a Transelectrica",
-    "lead_hu": "A Transelectrica 2026 augusztusában befejezte két, egyenként ±150 MVAr teljesítményű STATCOM-berendezés telepítését a Sibiu Sud és a Bradu alállomásokon. A mintegy 260 millió lejbe kerülő, nagyrészt uniós Modernizációs Alapból finanszírozott projektet a szerződéses határidő előtt zárták le.",
-    "content_hu": "• **A Transelectrica 2026 augusztusában** befejezte a romániai villamosenergia-átviteli hálózat stabilitását javító beruházást, mintegy kilenc hónappal a 2027 májusára kitűzött szerződéses határidő előtt.\n\n• **A két STATCOM-berendezést** a Sibiu Sud és a Bradu alállomásokon telepítették; mindkettő névleges teljesítménye ±150 MVAr. A vállalat szerint ezek az első ilyen típusú berendezések a romániai átviteli hálózatban.\n\n• **A mintegy 260 millió lej értékű projektből** 254,65 millió lejt vissza nem térítendő támogatás fedezett a Modernizációs Alapból. A tervezési és kivitelezési szerződést 2023 augusztusában a Siemens Energy SRL és az Electromontaj SA társulásával kötötték meg.\n\n• **A berendezések** gyorsan szabályozzák a feszültséget és kompenzálják a meddőteljesítmény változásait, mérsékelve a hálózati instabilitás kockázatát. A torlódások és a gyors fogyasztásváltozások kezelését is segíthetik, különösen alacsony fogyasztás mellett.\n\n• **A beruházás** a Transelectrica szerint növeli a hálózat üzembiztonságát és rugalmasságát, valamint megkönnyíti a változó termelésű megújuló energiaforrások integrálását. A berendezések nem termelnek villamos energiát, hanem annak biztonságos szállítását segítik.",
-    "title_ro": "Transelectrica a investit 260 de milioane de lei în stabilizarea rețelei electrice",
-    "lead_ro": "Transelectrica a finalizat în august 2026 instalarea a două echipamente STATCOM, fiecare cu o putere nominală de ±150 MVAr, în stațiile Sibiu Sud și Bradu. Investiția, de aproximativ 260 de milioane de lei și finanțată în mare parte prin Fondul pentru Modernizare, a fost încheiată înaintea termenului contractual.",
-    "content_ro": "• **Transelectrica a finalizat în august 2026** proiectul destinat creșterii stabilității rețelei electrice de transport din România, cu aproximativ nouă luni înainte de termenul contractual din mai 2027.\n\n• **Cele două instalații STATCOM** au fost montate în stațiile Sibiu Sud și Bradu și au fiecare o putere nominală de ±150 MVAr. Potrivit companiei, sunt primele echipamente de acest tip din Rețeaua Electrică de Transport din România.\n\n• **Investiția, în valoare de aproximativ 260 de milioane de lei,** a beneficiat de o finanțare nerambursabilă de 254,65 milioane de lei prin Fondul pentru Modernizare. Contractul de proiectare și execuție a fost semnat în august 2023 cu asocierea Siemens Energy SRL – Electromontaj SA.\n\n• **Instalațiile** reglează rapid tensiunea și compensează variațiile de putere reactivă, reducând riscurile de instabilitate. Ele pot contribui și la gestionarea congestiilor și a variațiilor rapide de consum, inclusiv în perioadele cu un consum redus.\n\n• **Proiectul** urmărește, potrivit Transelectrica, creșterea siguranței și flexibilității rețelei și facilitarea integrării surselor regenerabile, a căror producție variază în funcție de condițiile meteo. Echipamentele nu produc energie electrică, ci ajută la transportul acesteia în condiții de siguranță."
   },
   {
     "group_id": "group_0a3f40dc05",
@@ -2907,44 +3351,6 @@
     "title_ro": "[P] Ce limită ar trebui să aibă asigurarea de călătorie pentru SUA și Canada? 30.000 EUR, cu siguranță, nu",
     "lead_ro": "Mulți cumpără asigurarea de călătorie în ultima seară dinaintea plecării și o aleg după preț. Pentru Europa, o acoperire de bază poate fi suficientă, însă nu și pentru restul lumii. Pentru SUA sau Can…",
     "content_ro": "Mulți cumpără asigurarea de călătorie în ultima seară dinaintea plecării și o aleg după preț. Pentru Europa, o acoperire de bază poate fi suficientă, însă nu și pentru restul lumii. Pentru SUA sau Canada însă, costurile medicale sunt de alt ordin: o spitalizare poate ajunge la sute de mii de euro, iar o repatriere, la …"
-  },
-  {
-    "group_id": "group_2d0a2bed4a",
-    "fingerprint": "f0a1be4cf29b6733dba8858594160eca",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-12-02-04-2-1024x768.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "O explozie a distrus complet trei case, iar o persoană a suferit arsuri pe 55% din corp. De vină ar fi fost o butelie de gaz",
-        "link": "https://www.mediafax.ro/social/o-explozie-a-distrus-complet-trei-case-iar-o-persoana-a-suferit-arsuri-pe-55-din-corp-de-vina-ar-fi-fost-o-butelie-de-gaz-23825805"
-      },
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "FOTO. Explozie devastatoare într-un județ din țară. Două locuințe distruse în totalitate, alte șapte gospodării afectate",
-        "link": "https://www.presasm.ro/foto-explozie-devastatoare-intr-un-judet-din-tara-doua-locuinte-distruse-in-totalitate-alte-sapte/53797"
-      },
-      {
-        "source": "G4Media",
-        "title": "O explozie a distrus complet trei case și a afectat alte șapte locuințe în Vrancea / O persoană a suferit arsuri pe 55% din corp / De vină ar fi fost o butelie de gaz",
-        "link": "https://www.g4media.ro/o-explozie-a-distrus-complet-trei-case-si-a-afectat-alte-sapte-locuinte-in-vrancea-o-persoana-a-suferit-arsuri-pe-55-din-corp-de-vina-ar-fi-fost-o-butelie-de-gaz.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Felrobbant egy gázpalack – Három ház megsemmisült, hét megrongálódott, egy ember megsérült",
-        "link": "https://maszol.ro/belfold/Felrobbant-egy-gazpalack-Harom-haz-megsemmisult-het-megrongalodott-egy-ember-megserult"
-      }
-    ],
-    "published_at": 1792068600,
-    "title_hu": "Gázfelhalmozódás okozhatta a vranceai robbanást, egy férfi súlyosan megsérült",
-    "lead_hu": "Robbanás történt a romániai Vrancea megyei Sihlea településen: három épület teljesen megsemmisült, további hét háztartásban pedig károk keletkeztek. Egy 53 éves férfi testfelületének mintegy 55 százalékán szenvedett égési sérüléseket; a beszámolók eltérnek a robbanás napjáról és a használt gáztartály elhelyezéséről.",
-    "content_hu": "• **A robbanás Sihlea településen történt:** három épület – két egymáshoz csatlakozó lakóépület és egy állattartó épület – teljesen megsemmisült, további hét háztartásban pedig az ablakok és ajtók rongálódtak meg.\n\n• **Egy 53 éves férfi súlyosan megsérült:** testfelületének mintegy 55 százalékán égési sérüléseket szenvedett. A helyszíni ellátás után kórházba szállították; a PresaSM szerint a focșani-i Sf. Pantelimon megyei sürgősségi kórházba került.\n\n• **A robbanást valószínűleg éghető gáz felhalmozódása okozta:** a hatóságok szerint a lakásban gyűlhetett össze a gáz. A források eltérnek abban, hogy a GPL-tartály az épületen belül vagy kívül volt.\n\n• **A robbanást nem követte tűz:** az első segélyhívás reggel 6 óra körül érkezett. A körülmények pontos tisztázására vizsgálat indult.\n\n• **A környékbeliek katonai bázisra gyanakodtak:** a robbanás hangját kezdetben a mintegy egy kilométerre lévő katonai bázisról érkező zajnak vélték.\n\n• **A beszámolók a robbanás napjáról is eltérnek:** a Mediafax és a G4Media szerdát, a PresaSM október 15-ét, csütörtököt jelöli meg.\n\n• **A hatóságok gázbiztonsági óvintézkedéseket javasoltak:** kizárólag engedélyezett, érvényes ISCIR műszaki ellenőrzésű berendezéseket és GPL-hez való tömlőket ajánlanak, amelyeket mindkét végükön fém bilinccsel kell rögzíteni. Gázszivárgás gyanúja esetén, ha biztonságosan megtehető, el kell zárni a palackot, ki kell szellőztetni a helyiséget, és kerülni kell az elektromos kapcsolók, készülékek, gyufa vagy öngyújtó használatát; nagyobb vagy meg nem szüntethető szivárgás esetén biztonságos távolságból kell hívni a 112-t.",
-    "title_ro": "Acumularea de gaze ar fi provocat explozia din Vrancea; un bărbat a fost grav rănit",
-    "lead_ro": "O explozie s-a produs în localitatea Sihlea, județul Vrancea: trei construcții au fost distruse complet, iar alte șapte gospodării au suferit pagube. Un bărbat de 53 de ani a suferit arsuri pe aproximativ 55% din suprafața corpului; relatările diferă în privința zilei exploziei și a amplasării rezervorului de gaz.",
-    "content_ro": "• **Explozia s-a produs în localitatea Sihlea:** trei construcții – două locuințe alipite și un adăpost de animale – au fost distruse complet, iar alte șapte gospodării au avut ferestre și uși avariate.\n\n• **Un bărbat de 53 de ani a fost grav rănit:** acesta a suferit arsuri pe aproximativ 55% din suprafața corpului. După ce a primit îngrijiri la fața locului, a fost transportat la spital; potrivit PresaSM, a ajuns la Unitatea de Primiri Urgențe a Spitalului Județean de Urgență „Sf. Pantelimon” din Focșani.\n\n• **Explozia ar fi fost provocată de acumularea de gaze combustibile:** autoritățile spun că gazul s-ar fi acumulat în locuință. Relatările diferă în privința amplasării rezervorului GPL, în interiorul sau în exteriorul clădirii.\n\n• **Explozia nu a fost urmată de incendiu:** primul apel la 112 a fost dat în jurul orei 06:00. A fost deschisă o anchetă pentru stabilirea cauzei și a împrejurărilor exacte.\n\n• **Localnicii au crezut inițial că zgomotul venea de la o bază militară:** aceasta se afla la aproximativ un kilometru de locul exploziei.\n\n• **Relatările diferă în privința zilei exploziei:** Mediafax și G4Media indică ziua de miercuri, iar PresaSM menționează joi, 15 octombrie.\n\n• **Autoritățile au recomandat măsuri de siguranță în cazul utilizării gazului:** acestea recomandă folosirea exclusivă a echipamentelor omologate, cu verificare tehnică ISCIR valabilă, și a racordurilor speciale pentru GPL, fixate cu coliere metalice la ambele capete. Dacă se suspectează o scurgere, închideți robinetul buteliei numai dacă este sigur, aerisiți încăperea și nu acționați întrerupătoare sau aparate electrice și nu folosiți chibrituri ori brichete; în cazul unei scurgeri masive sau imposibil de oprit, sunați la 112 de la o distanță sigură."
   },
   {
     "group_id": "group_0023381096",
@@ -8280,27 +8686,6 @@
     "title_ro": "Incendii la două nave în apropiere de Sulina; șapte marinari de pe Wine Trader sunt dați dispăruți, iar cazul Yara J este investigat",
     "lead_ro": "Miercuri seară, un incendiu a izbucnit la bordul navei Yara J, în apropiere de Sulina, în apele teritoriale românești; autoritățile nu au confirmat că ar fi fost provocat de o dronă. Joi dimineață, un incendiu a fost raportat și la bordul navei Wine Trader: actualizările ulterioare au indicat că cinci marinari au fost salvați, iar șapte erau în continuare dați dispăruți. Nu a fost stabilită o legătură între cele două incidente și detectările de drone.",
     "content_ro": "• **În seara de 14 octombrie 2026**, a izbucnit un incendiu la bordul navei comerciale Yara J, sub pavilionul Insulelor Comore, la aproximativ 8–10 mile marine sud-est de Sulina, în apele teritoriale românești. Nava avea numărul IMO 9221803; era în balast, ancorată și, potrivit relatărilor, aștepta de câteva zile în zonă.\n\n• **Echipajul navei Yara J era în siguranță, iar incendiul a fost stins.** Nava a raportat focul prin radio; intervenția de salvare a fost solicitată la 20:25, iar nava SAR APOLLO a plecat spre zonă la 20:31. Ulterior, echipajul a anunțat că a stins incendiul, că nu mai are nevoie de ajutor și că nimeni nu este în pericol. La bord se aflau 17 marinari și nu au fost raportate persoane rănite. Unele relatări au menționat evacuarea, în timp ce Garda de Coastă a spus că toți erau în siguranță; relatările nu sunt concordante în privința părăsirii navei de către echipaj.\n\n• **Nu s-a confirmat că nava Yara J a fost lovită de o dronă.** Ministrul interimar al Apărării, Radu Miruță, a declarat că radarele ministerului și ale Gărzii de Coastă nu au detectat o dronă îndreptându-se spre navă. Yara J se îndreaptă spre portul Constanța, unde o expertiză tehnică urmează să stabilească atât cauza incendiului, cât și dacă nava a fost lovită de o dronă. Potrivit lui Miruță, incendiul a fost semnalat prin radio la 20:23; nava era goală și aștepta de câteva zile în zonă.\n\n• **Au apărut informații diferite despre ruta și încărcătura navei Yara J.** Unele relatări au spus că nava venise din Yalova, Turcia, și se îndrepta spre Ismail, unde urma să încarce petrol; altele au menționat un port de pe Dunăre sau Ucraina ca destinație. Nava a fost descrisă atât ca fiind goală, în balast, cât și ca o navă capabilă să transporte produse petroliere sau chimice. Autoritățile nu au confirmat aceste detalii.\n\n• **Liderul sindicatului navigatorilor a vorbit despre un atac.** Adrian Mihălcioiu a spus că nava a fost atacată în rada Sulina și că ar putea fi primul incident de acest fel în apele teritoriale ale României. El a descris echipajul ca fiind format din zece marinari indieni, șase sirieni și un comandant irakian; au apărut și informații diferite despre componența echipajului.\n\n• **Joi dimineață, 15 octombrie, a fost raportat un incendiu și la bordul navei Wine Trader.** Nava comercială, sub pavilion San Marino, se afla la aproximativ 13–14 mile marine sud-est de Sulina; incendiul a fost observat la suprastructură, în zona punții de comandă. Potrivit ARSVOM, MRCC a solicitat intervenția la 06:58, iar nava SAR APOLLO a plecat spre zonă la 07:10. Nava are numărul IMO 8808707 și a fost descrisă ca transportator de produse chimice, dar conținutul exact al încărcăturii nu este cunoscut. Unele relatări au numit-o Wide Trader, în timp ce ARSVOM s-a referit la ea ca Wine Trader.\n\n• **Potrivit actualizărilor ulterioare, cinci dintre cei 12 membri ai echipajului navei Wine Trader au fost salvați, iar șapte erau încă dați dispăruți.** Primele comunicări ale autorităților menționau patru marinari în siguranță și opt dispăruți; cifrele s-au schimbat pe măsură ce operațiunea a avansat. O actualizare Digi24 a relatat că trei dintre cei patru marinari găsiți inițial au fost transportați cu elicopterul la Constanța, de unde urmau să fie duși la spital.\n\n• **Valurile de 4–5 metri au îngreunat operațiunea de salvare.** Au fost mobilizate două elicoptere Black Hawk — unul cu echipă medicală și ambele echipate pentru salvare prin troliere —, nava SAR APOLLO, nava de intervenție Fifi, alte ambarcațiuni și echipe ale Poliției de Frontieră, IGSU și Inspectoratului General de Aviație. Unele relatări au precizat că nava plecase din Sfax, Tunisia, pe 5 octombrie și era așteptată la Sulina pe 11 octombrie.\n\n• **Nu a fost confirmat că nava Wine Trader a fost lovită de drone.** Marinarii de pe navele din apropiere au relatat că ar fi văzut două drone lovind nava, însă autoritățile nu au confirmat informația. Cauza izbucnirii incendiului este în curs de investigare.\n\n• **În seara de 14 octombrie, două ținte aeriene au intrat în spațiul aerian românesc.** Potrivit Ministerului român al Apărării, acestea au fost detectate la 20:04; contactul radar cu una s-a pierdut deasupra mării, iar cealaltă a părăsit spațiul aerian național la 20:13, apoi a fost distrusă de apărarea antiaeriană ucraineană în zona Reni. Din cauza traiectoriei potențiale spre Galați, la 20:33 a fost transmis un mesaj RO-Alert pentru estul județului Galați; alerta aeriană a încetat la 21:14. Au fost ridicate și avioane F-18 spaniole. Alte relatări au menționat trei drone intrate în spațiul aerian românesc în acea zi și un al patrulea mesaj RO-Alert pentru nordul județului Tulcea.\n\n• **În zorii zilei de 15 octombrie a fost raportată o nouă detectare de dronă.** Radarele Ministerului Apărării au detectat la 01:34, timp de aproximativ un minut, o dronă în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale; apoi ținta a dispărut de pe radar. Au fost trimise în zonă avioane F-18 spaniole, iar după detectarea altor ținte în apropierea Insulei Șerpilor au decolat și avioane F-16 românești. La 04:57 a fost transmis un mesaj RO-Alert pentru nordul și estul județului Tulcea; alerta a încetat la 05:46.\n\n• **Joi dimineață a fost emisă și o alertă privind dronele în județul Brăila.** Potrivit unei relatări ProTV, alerta de posibilă incursiune a fost transmisă la 08:37 și a încetat la 10:27.\n\n• **Legătura dintre cele două incidente maritime și detectările de drone nu este cunoscută.** Nu s-a confirmat că o dronă a provocat incendiul de pe Yara J, iar autoritățile nu au confirmat relatările martorilor despre drone în cazul navei Wine Trader.\n\n• **Miruță a spus că România trebuie să protesteze diplomatic față de incursiunile dronelor.** Ministrul a calificat drept gravă pătrunderea dronelor în spațiul aerian românesc, dar a spus că nu s-a demonstrat că o dronă a provocat incendiul de pe Yara J. Marea Neagră are o suprafață de două ori mai mare decât România, astfel că este nerealist ca fiecare țintă aeriană să fie detectată și interceptată, a afirmat el; în opinia sa, este necesară o prezență mai mare a aliaților NATO. El a adăugat că între un incident grav și declararea războiului sunt mulți pași.\n\n• **Miniștrii apărării din România și Bulgaria au discutat despre o scrisoare comună către NATO.** Miruță a spus că omologul bulgar a acceptat propunerea ca cele două țări să acționeze împreună și să semneze scrisoarea adresată NATO.\n\n• **La 13 octombrie, două nave de marfă au fost lovite de drone în apropierea coastelor Bulgariei.** Nava HS Dignity s-a scufundat, iar 11 marinari au fost dați dispăruți; Bulgaria a reluat miercuri căutările, după ce vremea rea și întunericul le-au întrerupt în seara precedentă. Sofia l-a convocat pe ambasadorul rus. Potrivit unei relatări ulterioare, premierul bulgar Rumen Radev a afirmat că logica atacurilor duce spre Rusia, deoarece Moscova beneficiază de pe urma lor; anterior, guvernul bulgar nu acuzase explicit Rusia. La 6 octombrie, alte două nave de marfă au fost atacate cu drone în aceeași zonă.\n\n• **Ministerul român de Externe așteaptă rezultatele anchetei.** Instituția a spus că este în legătură cu autoritățile competente încă de la prima alertă și că, după clarificarea circumstanțelor, este pregătită să informeze partenerii internaționali și să reacționeze public. O eventuală aplicare a articolului 4 al Tratatului NATO va fi comentată după încheierea verificărilor.\n\n• **Războiul din Ucraina afectează și transportul comercial din regiunea Mării Negre.** Potrivit relatărilor, atacurile rusești au făcut ca Ucraina să se bazeze tot mai mult pe porturile dunărene și pe rutele maritime din apropierea coastelor României și Bulgariei, state membre NATO. În același timp, Ucraina a vizat nave care transportă cereale rusești în alte zone ale Mării Negre și în Marea Azov."
-  },
-  {
-    "group_id": "group_77dadfae46",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21328/23260702/1/00f60985-c354-4f00-9000-a6ec806b6f20.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Orange Romania scoate la vânzare Palatul Telefoanelor, primul „zgârie-nori\" al Bucureştiului, pe Calea Victoriei, unde Dedeman, AFI, Hagag şi One United au investit sute de milioane de euro. Clădirea Art Deco poate rămâne de birouri sau poate deveni hotel",
-        "link": "https://www.zf.ro/business-construct/orange-romania-scoate-vanzare-palatul-telefoanelor-primul-zgarie-nori-bucurestiului-calea-victoriei-unde-dedeman-afi-hagag-one-united-au-investit-sute-milioane-euro-cladirea-art-deco-ramane-birouri-23260702"
-      }
-    ],
-    "published_at": 1792059479,
-    "title_hu": "Orange Romania scoate la vânzare Palatul Telefoanelor, primul „zgârie-nori\" al Bucureştiului, pe Calea Victoriei, unde Dedeman, AFI, Hagag şi One United au investit sute de milioane de euro. Clădirea Art Deco poate rămâne de birouri sau poate deveni hotel",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Orange Romania scoate la vânzare Palatul Telefoanelor, primul „zgârie-nori\" al Bucureştiului, pe Calea Victoriei, unde Dedeman, AFI, Hagag şi One United au investit sute de milioane de euro. Clădirea Art Deco poate rămâne de birouri sau poate deveni hotel",
-    "lead_ro": "",
-    "content_ro": ""
   },
   {
     "group_id": "group_521fba8805",
