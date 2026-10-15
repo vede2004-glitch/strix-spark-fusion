@@ -1,5 +1,836 @@
 [
   {
+    "group_id": "group_dd50bef97d",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "ÎCCJ câștigă definitiv procesul cu Guvernul privind restanțele salariale ale magistraților; miza - 5 miliarde de lei",
+        "link": "https://agerpres.ro/justitie/2026/10/15/iccj-castiga-definitiv-procesul-cu-guvernul-privind-restantele-salariale-ale-magistratilor-miza---5---1603308"
+      }
+    ],
+    "published_at": 1792063944,
+    "title_hu": "ÎCCJ câștigă definitiv procesul cu Guvernul privind restanțele salariale ale magistraților; miza - 5 miliarde de lei",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "ÎCCJ câștigă definitiv procesul cu Guvernul privind restanțele salariale ale magistraților; miza - 5 miliarde de lei",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_7dd700cf85",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Abrudean, la Conferința Europeană a Președinților de Parlamente: România rămâne angajată față de o Europă unită, sigură și liberă",
+        "link": "https://agerpres.ro/politic/2026/10/15/abrudean-la-conferinta-europeana-a-presedintilor-de-parlamente-romania-ramane-angajata-fata-de-o-eur--1603312"
+      }
+    ],
+    "published_at": 1792063944,
+    "title_hu": "Abrudean, la Conferința Europeană a Președinților de Parlamente: România rămâne angajată față de o Europă unită, sigură și liberă",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Abrudean, la Conferința Europeană a Președinților de Parlamente: România rămâne angajată față de o Europă unită, sigură și liberă",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_0ef30d48f5",
+    "fingerprint": "43209a0af007ea996b69fcbd6b9652b2",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Ministerul Finanțelor: Acciza la motorină se menține la nivelul redus de 25% și în a doua jumătate a lunii octombrie 2026",
+        "link": "https://agerpres.ro/economic/2026/10/15/ministerul-finantelor-acciza-la-motorina-se-mentine-la-nivelul-redus-de-25-si-in-a-doua-jumatate-a-l--1603310"
+      },
+      {
+        "source": "Economedia",
+        "title": "Acciza la motorină va continua să fie redusă cu 25%, și până la finalul lui octombrie",
+        "link": "https://economedia.ro/acciza-la-motorina-va-continua-sa-fie-redusa-cu-25-si-pana-la-finalul-lui-octombrie.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Acciza la motorina standard rămâne redusă cu 25% până la finalul lunii octombrie",
+        "link": "https://www.digi24.ro/stiri/economie/acciza-la-motorina-standard-ramane-redusa-cu-25-pana-la-finalul-lunii-octombrie-3993651"
+      }
+    ],
+    "published_at": 1792063944,
+    "title_hu": "Október második felében is 25 százalékkal csökkentik a gázolaj jövedéki adóját",
+    "lead_hu": "A román pénzügyminisztérium október 16–31. között is fenntartja a standard gázolaj jövedéki adójának 25 százalékos csökkentését. A döntés a kéthetenkénti felülvizsgálat után született; a kedvezmény célja az üzemanyagköltségek gazdaságra és fogyasztói árakra gyakorolt hatásának mérséklése.",
+    "content_hu": "• **Október 16–31. között** a standard gázolaj jövedéki adója továbbra is 25 százalékkal lesz alacsonyabb Romániában.\n\n• **Az adó tényleges mértéke** 2103,22 lej marad 1000 literenként, ami 701,07 lejes csökkentést jelent 1000 literre, illetve 829,69 lejt tonnánként.\n\n• **A kéthetenkénti felülvizsgálat adatai szerint** a gázolaj Platts-jegyzései 47,78 százalékkal, a standard gázolaj átlagos kútára pedig 35,60 százalékkal változott.\n\n• **A pénzügyminisztérium szerint** a törvényben rögzített mechanizmus két hetente értékeli újra a piaci mutatókat. A csökkentés célja, hogy mérsékelje az üzemanyagköltségek tovagyűrűzését a szállításban és a logisztikában, valamint az áruk fogyasztói árának alakulására gyakorolt hatását.",
+    "title_ro": "Acciza la motorină rămâne redusă cu 25% în a doua jumătate a lunii octombrie",
+    "lead_ro": "Ministerul Finanțelor din România menține reducerea de 25% a accizei la motorina standard în perioada 16–31 octombrie. Decizia a fost luată după reevaluarea bilunară a indicatorilor și urmărește să limiteze efectele costurilor cu carburanții asupra economiei și prețurilor de consum.",
+    "content_ro": "• **În perioada 16–31 octombrie**, acciza la motorina standard din România va rămâne redusă cu 25%.\n\n• **Nivelul efectiv al accizei** va fi de 2.103,22 lei pentru 1.000 de litri. Reducerea echivalează cu 701,07 lei la 1.000 de litri, respectiv 829,69 de lei pe tonă.\n\n• **Datele reevaluării bilunare** indică o variație de +47,78% a cotațiilor Platts la motorină și de +35,60% a prețului mediu la pompă pentru motorina standard.\n\n• **Potrivit Ministerului Finanțelor**, mecanismul prevăzut de lege reevaluează indicatorii pieței la fiecare două săptămâni. Măsura urmărește să limiteze propagarea costurilor cu carburanții în transport și logistică și efectul acestora asupra prețurilor bunurilor de consum."
+  },
+  {
+    "group_id": "group_46d68db1fd",
+    "fingerprint": "486321ab9f89e9d55c489990186785ef",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/07/pnl-usr.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "USR și PNL cer înființarea unei comisii parlamentare pentru reforma administrativ-teritorială / Va avea rolul de a elabora cadrul legislativ pentru ca reforma să poată fi aplicată începând din 2032",
+        "link": "https://www.g4media.ro/usr-si-pnl-cer-infiintarea-unei-comisii-parlamentare-pentru-reforma-administrativ-teritoriala-va-avea-rolul-de-a-elabora-cadrul-legislativ-pentru-ca-reforma-sa-poata-fi-aplicata-incepand-din-2032.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "USR și PNL cer înființarea unei comisii pentru reforma administrativ-teritorială: „Să vedem ce alege PSD între vorbe și fapte”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/usr-si-pnl-cer-infiintarea-unei-comisii-pentru-reforma-administrativ-teritoriala-sa-vedem-ce-alege-psd-intre-vorbe-si-fapte-3993623"
+      }
+    ],
+    "published_at": 1792063944,
+    "title_hu": "Az USR és a PNL parlamenti bizottságot kér az adminisztratív-területi reform előkészítésére",
+    "lead_hu": "Az USR és a PNL frakcióvezetői csütörtökön kérték a Parlament állandó bizottságaitól egy, az adminisztratív-területi reform jogszabályi kereteit előkészítő bizottság létrehozását. A kezdeményezők szerint a reformot úgy kell előkészíteni, hogy 2032-től alkalmazható legyen.",
+    "content_hu": "• **Az USR és a PNL frakcióvezetői** csütörtökön beadványban fordultak a Képviselőház és a Szenátus állandó bizottságaihoz, kérve egy, az adminisztratív-területi reform előkészítésével foglalkozó parlamenti bizottság létrehozását.\n\n• **A bizottság feladata** a reform alkalmazásához szükséges jogszabályi keret kidolgozása lenne; a kezdeményezők szerint az átszervezést 2032-től lehetne bevezetni.\n\n• **A kezdeményezés háttere** az USR és a PNL között aláírt parlamenti együttműködési megállapodás; a két párt ezt a régóta halogatott reform előmozdításának első konkrét lépéseként mutatja be.\n\n• **A reform előkészítésének** pénzügyi és demográfiai adatokra kellene épülnie, hogy a helyi közigazgatások jobb közszolgáltatásokat nyújthassanak és hatékonyabban gazdálkodhassanak a közpénzekkel.\n\n• **Az USR a PSD támogatását is kéri**, arra hivatkozva, hogy Sorin Grindeanu a reformot a szociáldemokraták tíz prioritása közé sorolta. Diana Stoica, az USR képviselőházi frakcióvezetője szerint a Parlamentnek lehetősége van a politikai nyilatkozatokat konkrét tettekre váltani.\n\n• **A jogalkotási előkészítéshez** világos szabályokra, következetes jogszabályi keretre, reális ütemtervre és valamennyi párt politikai akaratára van szükség; az időt a helyi hatóságok alkalmazkodására is biztosítani kell.",
+    "title_ro": "USR și PNL cer o comisie parlamentară pentru pregătirea reformei administrativ-teritoriale",
+    "lead_ro": "Liderii grupurilor parlamentare USR și PNL au solicitat joi Birourilor Permanente ale Camerei Deputaților și Senatului înființarea unei comisii care să pregătească cadrul legislativ al reformei administrativ-teritoriale. Inițiatorii spun că reforma ar trebui pregătită pentru a putea fi aplicată începând din 2032.",
+    "content_ro": "• **Liderii grupurilor parlamentare USR și PNL** au trimis joi o adresă Birourilor Permanente ale Camerei Deputaților și Senatului, solicitând înființarea unei comisii parlamentare pentru pregătirea reformei administrativ-teritoriale.\n\n• **Rolul comisiei** ar fi elaborarea cadrului legislativ necesar aplicării reformei; potrivit inițiatorilor, reorganizarea ar putea fi pusă în practică începând din 2032.\n\n• **Demersul** se bazează pe acordul de colaborare parlamentară semnat de USR și PNL și este prezentat de cele două partide drept un prim pas concret pentru deblocarea unei reforme amânate de mult timp.\n\n• **Pregătirea reformei** ar trebui să se bazeze pe date financiare și demografice, astfel încât administrațiile locale să poată oferi servicii publice mai bune și să gestioneze mai eficient banii publici.\n\n• **USR cere și sprijinul PSD**, invocând faptul că Sorin Grindeanu a inclus reforma între cele zece priorități ale social-democraților. Diana Stoica, lidera deputaților USR, a spus că Parlamentul are ocazia să transforme declarațiile politice în acțiuni concrete.\n\n• **Pregătirea legislativă** necesită reguli clare, coerență legislativă, un calendar realist și voința politică a tuturor partidelor; autoritățile locale trebuie să aibă timp să se adapteze."
+  },
+  {
+    "group_id": "group_801af5b99a",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Premierul albanez Edi Rama susține că nu va demisiona din funcție în pofida protestelor violente ale studenților",
+        "link": "https://agerpres.ro/politic-extern/2026/10/15/premierul-albanez-edi-rama-sustine-ca-nu-va-demisiona-din-functie-in-pofida-protestelor-violente-ale--1603314"
+      }
+    ],
+    "published_at": 1792063944,
+    "title_hu": "Premierul albanez Edi Rama susține că nu va demisiona din funcție în pofida protestelor violente ale studenților",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Premierul albanez Edi Rama susține că nu va demisiona din funcție în pofida protestelor violente ale studenților",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_83dbabebb9",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bugetul UE: A condiționa sprijinul pentru solicitările statelor-membre de participarea lor la împrumutul destinat Ucrainei ar fi 'periculos'(Fico)",
+        "link": "https://agerpres.ro/politic-extern/2026/10/15/bugetul-ue-a-conditiona-sprijinul-pentru-solicitarile-statelor-membre-de-participarea-lor-la-imprumu--1603311"
+      }
+    ],
+    "published_at": 1792063944,
+    "title_hu": "Bugetul UE: A condiționa sprijinul pentru solicitările statelor-membre de participarea lor la împrumutul destinat Ucrainei ar fi 'periculos'(Fico)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Bugetul UE: A condiționa sprijinul pentru solicitările statelor-membre de participarea lor la împrumutul destinat Ucrainei ar fi 'periculos'(Fico)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f52b1d2f19",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Brăila: Salonul Internațional de Caricatură, cu peste 300 de participanți din 57 de țări, își premiază câștigătorii",
+        "link": "https://agerpres.ro/cultura-media/2026/10/15/braila-salonul-international-de-caricatura-cu-peste-300-de-participanti-din-57-de-tari-isi-premiaza---1603307"
+      }
+    ],
+    "published_at": 1792063944,
+    "title_hu": "Brăila: Salonul Internațional de Caricatură, cu peste 300 de participanți din 57 de țări, își premiază câștigătorii",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Brăila: Salonul Internațional de Caricatură, cu peste 300 de participanți din 57 de țări, își premiază câștigătorii",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_58e5cc136b",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Încep incendiile de la coșurile de fum! O casă din Bihor a fost mistuită de flăcări",
+        "link": "https://www.ebihoreanul.ro/stiri/incep-incendiile-de-la-cosurile-de-fum-o-casa-din-bihor-a-fost-mistuita-de-flacari-205832.html"
+      }
+    ],
+    "published_at": 1792063938,
+    "title_hu": "Încep incendiile de la coșurile de fum! O casă din Bihor a fost mistuită de flăcări",
+    "lead_hu": "O casă din Valea Mare de Criș, comuna Borod, a fost mistuită de flăcări joi dimineață din cauza unui coș de fum neizolat corespunzător, iar pompierii avertizează că astfel de incendii se înmulțesc oda…",
+    "content_hu": "O casă din Valea Mare de Criș, comuna Borod, a fost mistuită de flăcări joi dimineață din cauza unui coș de fum neizolat corespunzător, iar pompierii avertizează că astfel de incendii se înmulțesc odată cu scăderea temperaturilor. Proprietarul a încercat să stingă singur focul, fără să ceară imediat ajutor...",
+    "title_ro": "Încep incendiile de la coșurile de fum! O casă din Bihor a fost mistuită de flăcări",
+    "lead_ro": "O casă din Valea Mare de Criș, comuna Borod, a fost mistuită de flăcări joi dimineață din cauza unui coș de fum neizolat corespunzător, iar pompierii avertizează că astfel de incendii se înmulțesc oda…",
+    "content_ro": "O casă din Valea Mare de Criș, comuna Borod, a fost mistuită de flăcări joi dimineață din cauza unui coș de fum neizolat corespunzător, iar pompierii avertizează că astfel de incendii se înmulțesc odată cu scăderea temperaturilor. Proprietarul a încercat să stingă singur focul, fără să ceară imediat ajutor..."
+  },
+  {
+    "group_id": "group_fb517285a4",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un cofetar apreciat te învață: Cum faci un cheesecake perfect",
+        "link": "https://hotnews.ro/un-cofetar-apreciat-te-invata-cum-faci-un-cheesecake-perfect-2376926"
+      }
+    ],
+    "published_at": 1792063896,
+    "title_hu": "Un cofetar apreciat te învață: Cum faci un cheesecake perfect",
+    "lead_hu": "Alina Muntele, cunoscută iubitorilor de dulciuri drept Ciocolată și vanilie, după blogul cu rețete de desert pe care îl are de mai bine de 10 ani, scrie pentru HotNews Food o serie de articole explica…",
+    "content_hu": "Alina Muntele, cunoscută iubitorilor de dulciuri drept Ciocolată și vanilie, după blogul cu rețete de desert pe care îl are de mai bine de 10 ani, scrie pentru HotNews Food o serie de articole explicative despre cele mai importante deserturi și feluri de mâncare clasice. Fiecare articol va fi un scurt și eficient curs de …",
+    "title_ro": "Un cofetar apreciat te învață: Cum faci un cheesecake perfect",
+    "lead_ro": "Alina Muntele, cunoscută iubitorilor de dulciuri drept Ciocolată și vanilie, după blogul cu rețete de desert pe care îl are de mai bine de 10 ani, scrie pentru HotNews Food o serie de articole explica…",
+    "content_ro": "Alina Muntele, cunoscută iubitorilor de dulciuri drept Ciocolată și vanilie, după blogul cu rețete de desert pe care îl are de mai bine de 10 ani, scrie pentru HotNews Food o serie de articole explicative despre cele mai importante deserturi și feluri de mâncare clasice. Fiecare articol va fi un scurt și eficient curs de …"
+  },
+  {
+    "group_id": "group_1ff7fe1dc9",
+    "fingerprint": "436bf40fa79f42bda2ffed02142433a0",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDQxNl8zMDE0/NDE2X0hhb3MtaW4tSXN0YW5idWwtcHJv/dm9jYXQtZGUtaW51bmRhdGlpXy1Gb3Rv/LVByb2ZpbWVkaWEuanBnJmhhc2g9Yzcx/MzgwODU5YmU2NWI4N2NhZDVkN2Q5YmM2OTlmOTA=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Cel puțin două persoane au murit după ce ploile torențiale și inundațiile de proporții au paralizat Istanbulul",
+        "link": "https://www.digi24.ro/stiri/externe/cel-putin-doua-persoane-au-murit-dupa-ce-ploile-torentiale-si-inundatiile-de-proportii-au-paralizat-istanbulul-3993303"
+      },
+      {
+        "source": "G4Media",
+        "title": "VIDEO Inundații devastoare în Istanbul soldate cu doi morți",
+        "link": "https://www.g4media.ro/video-inundatii-devastoare-in-istanbul-soldate-cu-doi-morti.html"
+      }
+    ],
+    "published_at": 1792063883,
+    "title_hu": "Két halálos áldozatot követelt az isztambuli árvíz",
+    "lead_hu": "A heves esőzések elárasztották Isztambul lakóházait, útjait és aluljáróit, két ember halálát okozva. A hatóságok több mint 2700 embert evakuáltak, és kiterjedt mentési munkálatokat végeztek.",
+    "content_hu": "• **A heves esőzés és az áradás** lakóházakat, üzleti épületeket, utakat és aluljárókat öntött el Isztambulban, megbénítva a közlekedést.\n\n• **Két ember meghalt:** egy 14 éves fiú áramütés következtében vesztette életét, egy 34 éves nő pedig a kórházban halt meg.\n\n• **A hatóságok 2727 embert evakuáltak.** A mentésben több mint 46 ezer beavatkozó, 2288 jármű és 14 hajó vett részt; a hatóságok közel 10 ezer bejelentést és segélyhívást kaptak.\n\n• **A csapadék mennyisége egyes városrészekben 1985 óta a legmagasabb volt.** Isztambulban és több nyugat-törökországi városban felfüggesztették az iskolai oktatást.\n\n• **A viharkár a közlekedést is érintette:** 51, az isztambuli repülőtérre tartó járatot más városokba irányítottak át, 19-et pedig töröltek. Egyes utakat lezártak, a metró- és villamosforgalom pedig átmenetileg részben szünetelt.",
+    "title_ro": "Inundațiile din Istanbul au provocat două decese",
+    "lead_ro": "Ploile torențiale au inundat locuințe, drumuri și pasaje subterane din Istanbul și au provocat moartea a două persoane. Autoritățile au evacuat peste 2.700 de oameni și au desfășurat ample operațiuni de salvare.",
+    "content_ro": "• **Ploile torențiale și inundațiile** au afectat locuințe, sedii de firme, drumuri și pasaje subterane din Istanbul, paralizând traficul.\n\n• **Două persoane au murit:** un adolescent de 14 ani a fost electrocutat, iar o femeie de 34 de ani a decedat la spital.\n\n• **Autoritățile au evacuat 2.727 de persoane.** La operațiunile de salvare au participat peste 46.000 de salvatori, 2.288 de vehicule și 14 bărci; autoritățile au primit aproape 10.000 de sesizări și apeluri.\n\n• **În unele zone, cantitatea de precipitații a fost cea mai mare din 1985 încoace.** Cursurile școlare au fost suspendate în Istanbul și în mai multe orașe din vestul Turciei.\n\n• **Furtuna a perturbat și transporturile:** 51 de zboruri către Aeroportul din Istanbul au fost redirecționate către alte orașe, iar 19 au fost anulate. Unele drumuri au fost închise, iar serviciile de metrou și tramvai au fost parțial suspendate temporar."
+  },
+  {
+    "group_id": "group_2f8fcfb291",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/aegean-1024x443.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "AnimaWings le transmite angajaților cu salarii restante o propunere de colaborare cu Aegean, fostul acționar majoritar al companiei",
+        "link": "https://economedia.ro/animawings-le-transmite-angajatilor-cu-salarii-restante-o-propunere-de-colaborare-cu-aegean-fostul-actionar-majoritar-al-companiei.html"
+      }
+    ],
+    "published_at": 1792063845,
+    "title_hu": "AnimaWings le transmite angajaților cu salarii restante o propunere de colaborare cu Aegean, fostul acționar majoritar al companiei",
+    "lead_hu": "Angajații AnimaWings au primit, joi, din partea reprezentanților companiei propuneri de colaborare cu un alt operator: Aegean Airlines, conform informațiilor Economedia. Compania greacă a transmis că …",
+    "content_hu": "Angajații AnimaWings au primit, joi, din partea reprezentanților companiei propuneri de colaborare cu un alt operator: Aegean Airlines, conform informațiilor Economedia. Compania greacă a transmis că ar avea un necesar de 10-20 de membri pentru echipajul de cabină. Procesul de selecție ar urma să aibă loc la București. Propunerea vine în condițiile în care angajații […]",
+    "title_ro": "AnimaWings le transmite angajaților cu salarii restante o propunere de colaborare cu Aegean, fostul acționar majoritar al companiei",
+    "lead_ro": "Angajații AnimaWings au primit, joi, din partea reprezentanților companiei propuneri de colaborare cu un alt operator: Aegean Airlines, conform informațiilor Economedia. Compania greacă a transmis că …",
+    "content_ro": "Angajații AnimaWings au primit, joi, din partea reprezentanților companiei propuneri de colaborare cu un alt operator: Aegean Airlines, conform informațiilor Economedia. Compania greacă a transmis că ar avea un necesar de 10-20 de membri pentru echipajul de cabină. Procesul de selecție ar urma să aibă loc la București. Propunerea vine în condițiile în care angajații […]"
+  },
+  {
+    "group_id": "group_4083fa2153",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA4JTJGMzAwMzQ0N18zMDAz/NDQ3X0lEMjYyMDI4LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTI5Yjk2NTZhMDAyZDU0ZjU1ZmJiN2YzNzExOGFlMTU3.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "ÎCCJ a dat decizia în procesul privind plata salariilor restante ale magistraților. Guvernul este obligat să le achite",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/iccj-a-dat-decizia-in-procesul-privind-plata-salariilor-restante-ale-magistratilor-guvernul-este-obligat-sa-le-achite-3993667"
+      }
+    ],
+    "published_at": 1792063845,
+    "title_hu": "ÎCCJ a dat decizia în procesul privind plata salariilor restante ale magistraților. Guvernul este obligat să le achite",
+    "lead_hu": "Înalta Curte de Casație și Justiție (ÎCCJ) a anunțat că a menținut decizia Curții de Apel București în procesul deschis împotriva Guvernului pentru plata salariilor restante ale judecătorilor. Astfel,…",
+    "content_hu": "Înalta Curte de Casație și Justiție (ÎCCJ) a anunțat că a menținut decizia Curții de Apel București în procesul deschis împotriva Guvernului pentru plata salariilor restante ale judecătorilor. Astfel, Guvernul va fi obligat să achite aproximativ 1 milion de euro.",
+    "title_ro": "ÎCCJ a dat decizia în procesul privind plata salariilor restante ale magistraților. Guvernul este obligat să le achite",
+    "lead_ro": "Înalta Curte de Casație și Justiție (ÎCCJ) a anunțat că a menținut decizia Curții de Apel București în procesul deschis împotriva Guvernului pentru plata salariilor restante ale judecătorilor. Astfel,…",
+    "content_ro": "Înalta Curte de Casație și Justiție (ÎCCJ) a anunțat că a menținut decizia Curții de Apel București în procesul deschis împotriva Guvernului pentru plata salariilor restante ale judecătorilor. Astfel, Guvernul va fi obligat să achite aproximativ 1 milion de euro."
+  },
+  {
+    "group_id": "group_4dcffba3e8",
+    "fingerprint": "75b4274830d9d6b857eab96ec868c0ba",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal - Conference League: Meciul Egnatia - Midtjylland, mutat la Elbasan, în urma demonstrațiilor din capitala Albaniei",
+        "link": "https://agerpres.ro/sport-extern/2026/10/15/fotbal---conference-league-meciul-egnatia---midtjylland-mutat-la-elbasan-in-urma-demonstratiilor-din--1603297"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Protestele din capitală au dat peste cap planurile UEFA: meciul din Conference League a fost mutat de urgență",
+        "link": "https://www.gsp.ro/international/conference-league/protestele-din-capitala-meci-conference-league-mutat-988370.html"
+      }
+    ],
+    "published_at": 1792063816,
+    "title_hu": "A tiranai tüntetések miatt Elbasanba költöztették az Egnatia–Midtjylland-meccset",
+    "lead_hu": "Az UEFA a helyi hatóságokkal egyeztetve Elbasanba helyezte át az Egnatia és a Midtjylland Conference League-mérkőzését a tiranai diáktüntetések miatt. A csütörtöki találkozó kezdési időpontja nem változott.",
+    "content_hu": "• **A mérkőzést Elbasanban rendezik:** az Egnatia és a Midtjylland csütörtöki Conference League-találkozóját a tiranai Arena Kombetare helyett az Elbasan Arenában játsszák.\n\n• **Az UEFA a helyi hatóságokkal egyeztetett** a helyszínváltásról, amelyre a Tirana fővárosában zajló diáktüntetések miatt került sor.\n\n• **A tüntető diákok jobb egyetemi körülményeket és munkalehetőségeket követelnek.** Az esemény kezdési időpontja változatlan maradt: a mérkőzés 19:45-kor kezdődik.\n\n• **Az Elbasan Arena 12 ezer néző befogadására alkalmas,** mintegy 10 ezerrel kevesebb férőhellyel rendelkezik, mint a tiranai stadion. Az Egnatia közlése szerint a mérkőzés megrendezése nincs veszélyben; a Midtjylland a kiutazó szurkolóknak e-mailben küld tájékoztatást.",
+    "title_ro": "Meciul Egnatia–Midtjylland a fost mutat la Elbasan din cauza protestelor din Tirana",
+    "lead_ro": "UEFA a mutat la Elbasan partida dintre Egnatia și Midtjylland din Conference League, după consultări cu autoritățile locale, pe fondul protestelor studențești din Tirana. Ora de începere a meciului de joi a rămas neschimbată.",
+    "content_ro": "• **Meciul se va disputa la Elbasan:** partida de joi din Conference League dintre Egnatia și Midtjylland a fost mutată de pe Arena Kombetare din Tirana pe Elbasan Arena.\n\n• **UEFA a decis schimbarea locului după consultări cu autoritățile locale,** în contextul protestelor studențești din capitala Albaniei.\n\n• **Studenții protestează pentru condiții universitare mai bune și perspective de angajare.** Ora de începere a partidei a rămas aceeași: 19:45.\n\n• **Elbasan Arena are o capacitate de 12.000 de locuri,** cu aproximativ 10.000 mai puține decât stadionul din Tirana. Egnatia a transmis că desfășurarea meciului nu este pusă în pericol, iar Midtjylland le va trimite prin e-mail informații practice suporterilor veniți în Albania."
+  },
+  {
+    "group_id": "group_19bb7c4bdf",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Presedintele-ASF-Alexandru-Petrescu-si-ambasadorul-Statelor-Unite-ale-Americii-in-Romania-Darryl-Nirenberg-1024x682.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "ASF discută cu ambasadorul SUA cooperarea cu autoritățile americane, reglementarea activelor digitale și listările la bursă",
+        "link": "https://economedia.ro/asf-discuta-cu-ambasadorul-sua-cooperarea-cu-autoritatile-americane-reglementarea-activelor-digitale-si-listarile-la-bursa.html"
+      }
+    ],
+    "published_at": 1792063779,
+    "title_hu": "ASF discută cu ambasadorul SUA cooperarea cu autoritățile americane, reglementarea activelor digitale și listările la bursă",
+    "lead_hu": "Președintele Autorității de Supraveghere Financiară (ASF), Alexandru Petrescu, s-a întâlnit joi cu ambasadorul Statelor Unite ale Americii în România, Darryl Nirenberg, pentru discuții privind coopera…",
+    "content_hu": "Președintele Autorității de Supraveghere Financiară (ASF), Alexandru Petrescu, s-a întâlnit joi cu ambasadorul Statelor Unite ale Americii în România, Darryl Nirenberg, pentru discuții privind cooperarea cu instituțiile americane, atragerea investițiilor și dezvoltarea pieței financiare din România. Potrivit lui Alexandru Petrescu, în cadrul întâlnirii desfășurate la sediul ASF au fost abordate colaborarea cu autoritățile americane de […]",
+    "title_ro": "ASF discută cu ambasadorul SUA cooperarea cu autoritățile americane, reglementarea activelor digitale și listările la bursă",
+    "lead_ro": "Președintele Autorității de Supraveghere Financiară (ASF), Alexandru Petrescu, s-a întâlnit joi cu ambasadorul Statelor Unite ale Americii în România, Darryl Nirenberg, pentru discuții privind coopera…",
+    "content_ro": "Președintele Autorității de Supraveghere Financiară (ASF), Alexandru Petrescu, s-a întâlnit joi cu ambasadorul Statelor Unite ale Americii în România, Darryl Nirenberg, pentru discuții privind cooperarea cu instituțiile americane, atragerea investițiilor și dezvoltarea pieței financiare din România. Potrivit lui Alexandru Petrescu, în cadrul întâlnirii desfășurate la sediul ASF au fost abordate colaborarea cu autoritățile americane de […]"
+  },
+  {
+    "group_id": "group_3c2cd5eb56",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/15/cikk_WhatsApp_Image_2026-10-15_at_14-21-40.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Meztelenül futott végig az utcán egy férfi Kolozsváron, pszichiátriára vitték",
+        "link": "https://maszol.ro/belfold/Meztelenul-futott-vegig-egy-utcan-egy-ferfi-Kolozsvaron-pszichiatriara-vittek"
+      }
+    ],
+    "published_at": 1792063770,
+    "title_hu": "Meztelenül futott végig az utcán egy férfi Kolozsváron, pszichiátriára vitték",
+    "lead_hu": "A rendőrök rendkívül zaklatott állapotban találtak rá, majd pszichiátriára szállították, ahol sürgős orvosi kivizsgálásra akarata ellenére beutalták.",
+    "content_hu": "A rendőrök rendkívül zaklatott állapotban találtak rá, majd pszichiátriára szállították, ahol sürgős orvosi kivizsgálásra akarata ellenére beutalták.",
+    "title_ro": "Meztelenül futott végig az utcán egy férfi Kolozsváron, pszichiátriára vitték",
+    "lead_ro": "A rendőrök rendkívül zaklatott állapotban találtak rá, majd pszichiátriára szállították, ahol sürgős orvosi kivizsgálásra akarata ellenére beutalták.",
+    "content_ro": "A rendőrök rendkívül zaklatott állapotban találtak rá, majd pszichiátriára szállították, ahol sürgős orvosi kivizsgálásra akarata ellenére beutalták."
+  },
+  {
+    "group_id": "group_ff863419cd",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "O rețea globală de spionaj prin reclame online, desfășurată din Israel, a țintit oficiali ai Pentagonului, UE, ONU și mari companii americane: „Este foarte probabil ca sute de milioane de oameni să fi fost vizați”",
+        "link": "https://hotnews.ro/o-retea-globala-de-spionaj-prin-reclame-online-desfasurata-din-israel-a-tintit-oficiali-ai-pentagonului-ue-onu-si-mari-companii-americane-este-foarte-probabil-ca-sute-de-milioane-de-oame-2376862"
+      }
+    ],
+    "published_at": 1792063631,
+    "title_hu": "O rețea globală de spionaj prin reclame online, desfășurată din Israel, a țintit oficiali ai Pentagonului, UE, ONU și mari companii americane: „Este foarte probabil ca sute de milioane de oameni să fi fost vizați”",
+    "lead_hu": "Agenția israeliană de publicitate digitală Discover-Tech a spionat utilizatorii internetului prin intermediul unei vaste rețele de reclame online, pe care a folosit-o pentru a urmări țintele și a faci…",
+    "content_hu": "Agenția israeliană de publicitate digitală Discover-Tech a spionat utilizatorii internetului prin intermediul unei vaste rețele de reclame online, pe care a folosit-o pentru a urmări țintele și a facilita piratarea dispozitivelor acestora, au declarat joi două grupuri de cercetare. Reuters relatează că serviciile Discover-Tech au oferit companiei israeliene Candiru – o firmă specializată în spyware, …",
+    "title_ro": "O rețea globală de spionaj prin reclame online, desfășurată din Israel, a țintit oficiali ai Pentagonului, UE, ONU și mari companii americane: „Este foarte probabil ca sute de milioane de oameni să fi fost vizați”",
+    "lead_ro": "Agenția israeliană de publicitate digitală Discover-Tech a spionat utilizatorii internetului prin intermediul unei vaste rețele de reclame online, pe care a folosit-o pentru a urmări țintele și a faci…",
+    "content_ro": "Agenția israeliană de publicitate digitală Discover-Tech a spionat utilizatorii internetului prin intermediul unei vaste rețele de reclame online, pe care a folosit-o pentru a urmări țintele și a facilita piratarea dispozitivelor acestora, au declarat joi două grupuri de cercetare. Reuters relatează că serviciile Discover-Tech au oferit companiei israeliene Candiru – o firmă specializată în spyware, …"
+  },
+  {
+    "group_id": "group_07de9dcdc4",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2012/08/25/210000/60606081.jpg?fm=jpg&q=80&fit=crop&crop=403%2C300%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Curtea Supremă a câștigat definitiv procesul prin care obligă statul să achite integral magistraților 1 miliard de euro",
+        "link": "https://stirileprotv.ro/stiri/actualitate/curtea-suprema-a-castigat-definitiv-procesul-prin-care-obliga-statul-sa-achite-integral-magistratilor-1-miliard-de-euro.html"
+      }
+    ],
+    "published_at": 1792063552,
+    "title_hu": "Curtea Supremă a câștigat definitiv procesul prin care obligă statul să achite integral magistraților 1 miliard de euro",
+    "lead_hu": "Înalta Curte de Casaţie şi Justiţie a câştigat definitiv procesul pe care l-a deschis împotriva Guvernului şi Ministerului Finanţelor privind plata unor drepturi salariale restante către magistraţi.",
+    "content_hu": "Înalta Curte de Casaţie şi Justiţie a câştigat definitiv procesul pe care l-a deschis împotriva Guvernului şi Ministerului Finanţelor privind plata unor drepturi salariale restante către magistraţi.",
+    "title_ro": "Curtea Supremă a câștigat definitiv procesul prin care obligă statul să achite integral magistraților 1 miliard de euro",
+    "lead_ro": "Înalta Curte de Casaţie şi Justiţie a câştigat definitiv procesul pe care l-a deschis împotriva Guvernului şi Ministerului Finanţelor privind plata unor drepturi salariale restante către magistraţi.",
+    "content_ro": "Înalta Curte de Casaţie şi Justiţie a câştigat definitiv procesul pe care l-a deschis împotriva Guvernului şi Ministerului Finanţelor privind plata unor drepturi salariale restante către magistraţi."
+  },
+  {
+    "group_id": "group_ba1a332f1d",
+    "fingerprint": "4c07407e851c3dbe6c91d0436047aebd",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/4531ff64-e8f6-4e93-86d0-377858822e1f.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Wolt anunță un parteneriat cu DGASPC Sector 3, dedicat seniorilor din comunitate",
+        "link": "https://www.gsp.ro/comercial/comunicat/wolt-anunta-un-parteneriat-cu-dgaspc-sector-3-dedicat-seniorilor-din-comunitate-988331.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Wolt anunță un parteneriat cu DGASPC Sector 3, dedicat seniorilor din comunitate",
+        "link": "https://www.g4media.ro/wolt-anunta-un-parteneriat-cu-dgaspc-sector-3-dedicat-seniorilor-din-comunitate.html"
+      }
+    ],
+    "published_at": 1792063543,
+    "title_hu": "A Wolt a DGASPC Sector 3-mal együtt támogatja a helyi időseket",
+    "lead_hu": "A Wolt România partnerséget jelentett be a DGASPC Sector 3-mal, hogy támogassa a helyi közösségnek, különösen az időseknek szóló programokat. Az együttműködés első rendezvényét szeptember 2-án tartották a Râmnicu Sărat Idősek Klubjában, 25 idős ember és 25 fiatal részvételével.",
+    "content_hu": "• **A Wolt România és a DGASPC Sector 3 partnersége** a helyi közösségnek szóló tevékenységeket, köztük a Râmnicu Sărat Idősek Klubjának programjait támogatja.\n\n• **Szeptember 2-án** tartották az együttműködés első rendezvényét: a klub 25 tagjához 25 fiatal csatlakozott a PATROCLE nappali központból és a PINOCCHIO szolgáltatóközpontból, a DGASPC munkatársai és a Wolt önkéntesei mellett.\n\n• **A „Generații împreună. Bucuria se împarte” kezdeményezés** keretében a résztvevők közösen töltötték a napot, új ételeket kóstoltak, beszélgettek, majd zenével és tortával ünnepséget rendeztek. Az idősek aktívan részt vettek a program alakításában és a helyszín előkészítésében.\n\n• **A Wolt támogatja a klub időseknek szóló tevékenységeit**, amelyeket a DGASPC csapatával együttműködve alakítanak ki. A partnerség célja az is, hogy felhívja a figyelmet az intézmény közösségi munkájára és a klub találkozási, társasági szerepére.",
+    "title_ro": "Wolt și DGASPC Sector 3 susțin activitățile dedicate seniorilor",
+    "lead_ro": "Wolt România a anunțat un parteneriat cu DGASPC Sector 3 pentru a sprijini activitățile dedicate comunității locale, în special persoanelor vârstnice. Prima întâlnire a avut loc pe 2 septembrie la Clubul Seniorilor „Râmnicu Sărat”, cu participarea a 25 de seniori și 25 de tineri.",
+    "content_ro": "• **Parteneriatul dintre Wolt România și DGASPC Sector 3** susține activitățile pentru comunitatea locală, inclusiv programele Clubului Seniorilor „Râmnicu Sărat”.\n\n• **Pe 2 septembrie** a avut loc prima activitate din cadrul colaborării. La cei 25 de seniori s-au alăturat 25 de tineri de la Centrul de Zi PATROCLE și Complexul de Servicii PINOCCHIO, alături de angajați ai DGASPC și voluntari Wolt.\n\n• **Inițiativa „Generații împreună. Bucuria se împarte”** le-a oferit participanților ocazia să petreacă timp împreună, să deguste preparate noi și să stea de vorbă, apoi să organizeze o petrecere cu muzică și tort. Seniorii au participat activ la pregătirea spațiului și la desfășurarea întâlnirii.\n\n• **Wolt sprijină activitățile clubului dedicate seniorilor**, dezvoltate împreună cu echipa DGASPC. Parteneriatul urmărește și să facă mai cunoscută activitatea instituției în comunitate și rolul clubului ca spațiu de întâlnire și socializare."
+  },
+  {
+    "group_id": "group_b4f208ed1b",
+    "fingerprint": "a84942a0a15ddc037cc91cb49aa7712d",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21330/23260598/1/ogn3040-2.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Ştirea dată de ZF în ianuarie se confirmă. Iulian Staciu, omul care a fondat eMAG, cumpără NIS Petrol alături de un partener. NIS deţine brandul de benzinării Gazprom în România",
+        "link": "https://www.zf.ro/zf-24/stirea-data-de-zf-in-ianuarie-se-confirma-iulian-staciu-omul-care-a-fondat-emag-cumpara-nis-petrol-alaturi-de-un-partener-nis-detine-brandul-de-benzinarii-gazprom-in-romania-23260598"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Doi antreprenori români preiau benzinăriile Gazprom; operațiunea, aprobată de Consiliul Concurenței",
+        "link": "https://agerpres.ro/economic/2026/10/15/doi-antreprenori-romani-preiau-benzinariile-gazprom-operatiunea-aprobata-de-consiliul-concurentei--1603268"
+      }
+    ],
+    "published_at": 1792063542,
+    "title_hu": "Iulian Stanciu és Adrian Crețoiu közvetve megszerezte a NIS Petrol feletti közös irányítást",
+    "lead_hu": "Iulian Stanciu, az eMAG alapítója és Adrian Crețoiu az Argenta SRL-n keresztül közösen veszi át a NIS Petrol irányítását; a társaság működteti a romániai Gazprom-márkájú benzinkutakat. A román versenyhivatal a 211/2026-os határozatával jóváhagyta az ügyletet, amely a NIS Petrol teljes tulajdonrészének megvásárlására irányul.",
+    "content_hu": "• **Iulian Stanciu és Adrian Crețoiu** közvetve közös irányítást szerez a NIS Petrol felett; a társaság kezeli a romániai Gazprom-benzinkutakat.\n\n• **Az Argenta SRL-n keresztül** valósul meg az ügylet. A fémipari építőipari vállalatban Crețoiué a 60, Stanciué a 40 százalékos részesedés.\n\n• **A NIS Petrol teljes tulajdonrészét vásárolják meg:** az Argenta a szerb NIS a.d. Novi Sadtól veszi át a társaság részvényeinek és szavazati jogainak 100 százalékát.\n\n• **A román versenyhivatal a 211/2026-os határozatával jóváhagyta a tranzakciót.** A bejelentést 2026. május 4-én nyújtották be, és augusztus 12-én vált teljessé, miután a hatóság megkapta az összes szükséges információt.\n\n• **A hatóság szerint az ügylet nem vet fel komoly versenyjogi aggályokat:** az érintett piacokon a felek részesedése 30 százalék alatt van, és a tranzakció nem hoz létre érintett piacot. A hatóság ugyanakkor vertikális integrációként jellemezte az ügyletet, horizontális átfedést nem állapított meg.\n\n• **A hálózat 19 benzinkútból áll**, ezeket a NIS Petrol üzemelteti. A Gazprom első romániai kútja 2012-ben, Nagyszeben közelében nyílt meg. A NIS Petrol 2024 óta megelőző fizetésképtelenségi eljárásban van, és hat kőolaj-kitermelési megállapodással is rendelkezik.\n\n• **Az Argenta tulajdonosi háttere 2024 júniusáig nyúlik vissza:** Stanciu és Crețoiu ekkor vette át közösen a navodari-i vállalatot.\n\n• **Stanciu és Crețoiu olajipari érdekeltségekben is érintett:** Stanciu 2024 végén 33 százalékos részesedést szerzett a Foraj Sonde Videle vállalatban; 2025 nyarán Adrian Crețoiu 45 millió lejért vásárolta meg Sever Raicu részesedését, amivel közvetett tulajdonrésze 45 százalékra nőtt.\n\n• **A NIS a.d. Novi Sad tulajdonosi szerkezete 2025. december 31-én:** a Gazprom Neft 44,85, a Szerb Köztársaság 29,87 százalékos részesedéssel rendelkezett, a fennmaradó rész pedig a JSC Intelligence tulajdonában volt. A NIS a.d. a belgrádi tőzsdén jegyzett társaság.\n\n• **Az engedélyezési díjat 30 napon belül kell megfizetniük** a vevőknek; az összeg a bejelentő felek közölt árbevételétől függ.\n\n• **A NIS Petrol az amerikai szankciós listán is szerepel** orosz tulajdonosi kapcsolatai miatt – írta a HotNews.",
+    "title_ro": "Iulian Stanciu și Adrian Crețoiu preiau indirect controlul comun asupra NIS Petrol",
+    "lead_ro": "Iulian Stanciu, fondatorul eMAG, și Adrian Crețoiu preiau împreună, prin Argenta SRL, controlul asupra NIS Petrol, compania care administrează benzinăriile Gazprom din România. Consiliul Concurenței a aprobat tranzacția prin decizia nr. 211/2026, care vizează preluarea integrală a NIS Petrol.",
+    "content_ro": "• **Iulian Stanciu și Adrian Crețoiu** dobândesc indirect controlul comun asupra NIS Petrol, compania care administrează benzinăriile Gazprom din România.\n\n• **Tranzacția se realizează prin Argenta SRL.** Crețoiu deține 60% din compania de construcții metalice, iar Stanciu 40%.\n\n• **Argenta cumpără integral NIS Petrol:** preia de la compania sârbă NIS a.d. Novi Sad 100% din capitalul social și din drepturile de vot.\n\n• **Consiliul Concurenței a aprobat tranzacția prin decizia nr. 211/2026.** Notificarea a fost depusă la 4 mai 2026 și a devenit efectivă la 12 august, după ce autoritatea a primit toate informațiile necesare.\n\n• **Autoritatea nu a identificat probleme serioase de concurență:** cotele părților sunt sub 30% pe piețele relevante, iar tranzacția nu generează piețe afectate. Consiliul a descris operațiunea ca integrare verticală și nu a constatat suprapuneri orizontale.\n\n• **Rețeaua are 19 benzinării**, operate de NIS Petrol. Prima benzinărie Gazprom din România s-a deschis în 2012, în apropiere de Sibiu. NIS Petrol se află din 2024 în concordat preventiv și deține și șase acorduri petroliere.\n\n• **Argenta a fost preluată în comun de cei doi antreprenori în iunie 2024**, potrivit Ziarul Financiar.\n\n• **Stanciu și Crețoiu au și interese în sectorul petrolier:** la sfârșitul lui 2024, Stanciu a cumpărat 33% din Foraj Sonde Videle; în vara lui 2025, Adrian Crețoiu a achiziționat participația lui Sever Raicu pentru 45 de milioane de lei, ajungând la o participație indirectă de 45%.\n\n• **Structura acționariatului NIS a.d. Novi Sad la 31 decembrie 2025:** Gazprom Neft deținea 44,85%, Republica Serbia 29,87%, iar restul revenea JSC Intelligence. NIS a.d. este listată la Bursa de Valori din Belgrad.\n\n• **Cumpărătorii trebuie să plătească taxa de autorizare în 30 de zile;** valoarea acesteia se calculează în funcție de cifra de afaceri comunicată de părțile notificatoare.\n\n• **NIS Petrol figurează și pe lista sancțiunilor americane**, din cauza legăturilor sale cu acționari ruși, potrivit HotNews."
+  },
+  {
+    "group_id": "group_8b5da53912",
+    "fingerprint": "327d51acc35c999d8be9e8ea8a058241",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/73d36bd7-a853-49d2-ac78-7eef5e112681.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cristi Chivu, descumpănit după eșecul cu Brugge: „Acest meci nu reprezintă o echipă puternică și ambițioasă”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/cristi-chivu-reactie-esec-inter-club-brugge-liga-campionilor-987842.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivitrivit”",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivitrivit-23824941"
+      },
+      {
+        "source": "G4Media",
+        "title": "”Atacam și uitam să ne mai întoarcem în apărare” / Cristi Chivu, după eșecul lui Inter în Champions League, 3-4 cu Club Brugge, la Milano / „Au fost câteva episoade nefavorabile”",
+        "link": "https://www.g4media.ro/atacam-si-uitam-sa-ne-mai-intoarcem-in-aparare-cristi-chivu-dupa-esecul-lui-inter-in-champions-league-3-4-cu-club-brugge-la-milano-au-fost-cateva-episoade-nefavorabil.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cristi Chivu, după înfrângerea Inter Milano: „Nu reuşesc să găsesc echilibrul potrivit între meciuri”",
+        "link": "https://stirileprotv.ro/stiri/sport/chivu-dupa-infrangerea-inter-milano-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-intre-meciuri.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Echipa lui Cristi Chivu a pierdut cu Bruges, Dennis Man n-a jucat pentru Eindhoven",
+        "link": "https://adevarul.ro/sport/echipa-lui-cristi-chivu-a-pierdut-cu-bruges-2563857.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivit”",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-23824941"
+      }
+    ],
+    "published_at": 1792063535,
+    "title_hu": "Az Inter 4–3-ra kikapott a Club Brugge-től, Chivu vállalta a felelősséget",
+    "lead_hu": "Az Inter hazai pályán 4–3-as vereséget szenvedett a Club Brugge-től a Bajnokok Ligája második fordulójában, így két mérkőzés után pont nélkül áll. Cristi Chivu elismerte, hogy csapata elvesztette a védekezési egyensúlyát és a mérkőzés feletti kontrollt, a felelősséget pedig magára is vállalta.",
+    "content_hu": "• **Október 13-án, Milánóban** az Inter 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája második fordulójában. A milánóiak két vereséggel, pont nélkül állnak a sorozatban.\n\n• **Nicolo Tresoldi** három gólt szerzett a Brugge-nek, Romeo Vermant pedig a hajrában talált be. Az Inter góljait Lautaro Martínez két találata és Ange-Yoan Bonny 90+3. percben szerzett gólja adta.\n\n• **Cristi Chivu** szerint csapata több alkalommal is elvesztette az egyensúlyát: a frusztráció és a türelmetlenség miatt a játékosok támadás közben nem rendeződtek vissza védekezni, a Bajnokok Ligájában pedig az ilyen hibákért súlyos árat kell fizetni.\n\n• **A 2–1-es állás után** az Inter elvesztette a tisztánlátását és nem tartotta be megfelelően a taktikai tervet. Chivu elismerte a Brugge technikai tudását és intenzitását, valamint azt mondta, hogy csapatának javítania kell a védekezés szervezettségén és a játékosok közötti távolságokon.\n\n• **Chivu vállalta a felelősséget** az eredményért, és úgy vélte, a szünetben nyugodtabban is szólhatott volna a játékosokhoz. Hangsúlyozta, hogy a csapatnak taktikailag és mentálisan is fejlődnie kell, miközben a ligaszakaszban még hat mérkőzése van hátra.",
+    "title_ro": "Inter a pierdut cu 4-3 în fața lui Club Brugge, iar Chivu și-a asumat responsabilitatea",
+    "lead_ro": "Inter a fost învinsă pe teren propriu de Club Brugge, scor 4-3, în etapa a doua a Ligii Campionilor și rămâne fără punct după primele două partide. Cristian Chivu a spus că echipa și-a pierdut echilibrul defensiv și controlul jocului și a afirmat că își asumă responsabilitatea.",
+    "content_ro": "• **Pe 13 octombrie, la Milano**, Inter a pierdut cu 4-3 în fața lui Club Brugge, în etapa a doua a Ligii Campionilor. După două înfrângeri, echipa italiană nu are niciun punct în competiție.\n\n• **Nicolo Tresoldi** a marcat de trei ori pentru Brugge, iar Romeo Vermant a înscris spre finalul partidei. Pentru Inter au punctat de două ori Lautaro Martínez și o dată Ange-Yoan Bonny, în minutul 90+3.\n\n• **Cristi Chivu** a declarat că Inter și-a pierdut echilibrul în mai multe momente. Frustrarea și nerăbdarea au făcut ca jucătorii să nu se replieze la timp după atacuri, iar în Liga Campionilor astfel de greșeli sunt sancționate.\n\n• **După ce scorul a devenit 2-1**, Inter și-a pierdut luciditatea și nu a mai respectat planul tactic. Chivu a recunoscut calitatea tehnică și intensitatea adversarilor și a spus că echipa trebuie să-și îmbunătățească organizarea defensivă și distanțele dintre jucători.\n\n• **Chivu și-a asumat responsabilitatea** pentru rezultat și a admis că ar fi putut să le transmită mai multă liniște jucătorilor la pauză. El a subliniat că Inter trebuie să progreseze atât tactic, cât și mental, având încă șase meciuri de disputat în faza ligii."
+  },
+  {
+    "group_id": "group_0aa98d0bd2",
+    "fingerprint": "c4527bdd2b34692e3f64a333a1d69393",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/15/053049/vlcsnap-2026-10-15-08h30m05s856.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Concordia și-a deschis primul birou la Bruxelles. Patronatele vor să influențeze deciziile și fondurile europene",
+        "link": "https://stirileprotv.ro/stiri/financiar/concordia-si-a-deschis-primul-birou-la-bruxelles-patronatele-vor-sa-influenteze-deciziile-si-fondurile-europene.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "Businessul românesc, la masa negocierilor europene. Confederația Patronală Concordia își deschide birou permanent la Bruxelles",
+        "link": "https://economedia.ro/businessul-romanesc-la-masa-negocierilor-europene-confederatia-patronala-concordia-isi-deschide-birou-permanent-la-bruxelles.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Concordia duce firmele românești la masa deciziilor europene și își deschide un birou la Bruxelles",
+        "link": "https://hotnews.ro/concordia-duce-firmele-romanesti-la-masa-deciziilor-europene-si-isi-deschide-un-birou-la-bruxelles-2376952"
+      }
+    ],
+    "published_at": 1792063455,
+    "title_hu": "Állandó brüsszeli irodát nyitott a Concordia a román üzleti érdekek képviseletére",
+    "lead_hu": "A román Concordia munkáltatói szövetség állandó irodát nyitott Brüsszelben, hogy a romániai vállalatok szempontjait már az uniós döntések előkészítésekor képviselje. A szervezet kiemelt ügyként kezeli a 2028–2034-es uniós költségvetést, a kohéziós finanszírozást és az európai versenyképességet.",
+    "content_hu": "• **A Concordia brüsszeli irodája** a romániai üzleti szféra állandó képviseleti és kapcsolattartási pontjaként működik az uniós döntéshozatal központjában. A szövetség több mint 4000 vállalatot képvisel.\n\n• **Dan Șucu, a Concordia elnöke** szerint a brüsszeli döntések közvetlenül érintik a vállalatok energia-költségeit, tőkéhez jutását, munkaerő-felvételét és növekedési lehetőségeit; ezért fontos, hogy tapasztalataik a szabályok elfogadása előtt eljussanak az uniós döntéshozókhoz.\n\n• **Az új iroda vezetője Adelina Dabu**, a szövetség európai és nemzetközi ügyekért felelős igazgatója. A képviselet az uniós intézményekkel, a BusinessEurope-pal, más tagállamok munkáltatói szervezeteivel, valamint a Gazdasági és Szociális Bizottsággal tart kapcsolatot.\n\n• **A Concordia egyik fő célja** a 2028–2034-es uniós költségvetésben a kohéziós politika és a romániai beruházásokat támogató források megőrzése, továbbá az, hogy az Európai Versenyképességi Alap a tagállamok vállalatai számára is hozzáférhető maradjon. A szervezet emellett az egyszerűbb szabályozást, az energia megfizethetőségét, a munkaerőpiaci párbeszédet és Románia OECD-csatlakozásának támogatását is napirendre tűzi.\n\n• **A szövetség a romániai vállalatok tapasztalatait** kívánja uniós szakpolitikai javaslatokká alakítani, és időben tájékoztatni a cégeket a készülő szabályokról. Dan Șucu a kohéziós beruházásokat és a versenyképességet erősítő finanszírozást egymást kiegészítő eszközöknek nevezte.",
+    "title_ro": "Concordia deschide un birou permanent la Bruxelles pentru reprezentarea companiilor românești",
+    "lead_ro": "Confederația Patronală Concordia și-a deschis un birou permanent la Bruxelles pentru a reprezenta interesele companiilor din România încă din etapa pregătirii deciziilor europene. Printre prioritățile organizației se numără bugetul UE pentru 2028–2034, politica de coeziune și competitivitatea europeană.",
+    "content_ro": "• **Biroul Concordia de la Bruxelles** va funcționa ca punct permanent de reprezentare și dialog al mediului de afaceri românesc în centrul decizional al Uniunii Europene. Confederația reunește peste 4.000 de companii.\n\n• **Dan Șucu, președintele Concordia**, a declarat că deciziile luate la Bruxelles influențează direct costurile energiei, accesul la capital, angajările și perspectivele de creștere ale firmelor. De aceea, experiența companiilor trebuie transmisă decidenților europeni înainte de adoptarea regulilor.\n\n• **Adelina Dabu**, director pentru Afaceri Europene și Internaționale al Concordia, va conduce noua structură. Biroul va menține legătura cu instituțiile UE, BusinessEurope, organizațiile patronale din celelalte state membre și Comitetul Economic și Social European.\n\n• **Una dintre prioritățile Concordia** este menținerea unei politici de coeziune solide în bugetul UE pentru 2028–2034, care să susțină investițiile din România, precum și păstrarea accesului companiilor din statele membre la Fondul European de Competitivitate. Organizația va promova, de asemenea, simplificarea regulilor, energie la prețuri accesibile, dialog social pe piața muncii și sprijinirea aderării României la OCDE.\n\n• **Concordia urmărește să transforme experiența companiilor românești** în propuneri de politici europene și să le informeze din timp despre regulile aflate în pregătire. Dan Șucu a prezentat investițiile de coeziune și finanțarea competitivității drept instrumente complementare."
+  },
+  {
+    "group_id": "group_d6940a3146",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Marian Neacșu nu e singurul condamnat penal care devine ministru de Interne. S-a întâmplat în Israel, dar acolo a intervenit decisiv Curtea Supremă",
+        "link": "https://hotnews.ro/marian-neacsu-nu-e-singurul-condamnat-penal-care-devine-ministru-de-interne-s-a-intamplat-in-israel-dar-acolo-a-intervenit-decisiv-curtea-suprema-2376958"
+      }
+    ],
+    "published_at": 1792063363,
+    "title_hu": "Marian Neacșu nu e singurul condamnat penal care devine ministru de Interne. S-a întâmplat în Israel, dar acolo a intervenit decisiv Curtea Supremă",
+    "lead_hu": "PSD l-a propus pe Marian Neacșu, fost secretar general al partidului, pentru funcțiile de vicepremier și ministru al Afacerilor Interne în guvernul Luca Niculescu. În 2016, el a fost condamnat definit…",
+    "content_hu": "PSD l-a propus pe Marian Neacșu, fost secretar general al partidului, pentru funcțiile de vicepremier și ministru al Afacerilor Interne în guvernul Luca Niculescu. În 2016, el a fost condamnat definitiv la șase luni de închisoare cu suspendare pentru că și-a angajat fiica la cabinetul lui parlamentar. Israel a avut un caz comparabil: Aryeh Deri, …",
+    "title_ro": "Marian Neacșu nu e singurul condamnat penal care devine ministru de Interne. S-a întâmplat în Israel, dar acolo a intervenit decisiv Curtea Supremă",
+    "lead_ro": "PSD l-a propus pe Marian Neacșu, fost secretar general al partidului, pentru funcțiile de vicepremier și ministru al Afacerilor Interne în guvernul Luca Niculescu. În 2016, el a fost condamnat definit…",
+    "content_ro": "PSD l-a propus pe Marian Neacșu, fost secretar general al partidului, pentru funcțiile de vicepremier și ministru al Afacerilor Interne în guvernul Luca Niculescu. În 2016, el a fost condamnat definitiv la șase luni de închisoare cu suspendare pentru că și-a angajat fiica la cabinetul lui parlamentar. Israel a avut un caz comparabil: Aryeh Deri, …"
+  },
+  {
+    "group_id": "group_99eec4c4b4",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Az EJEB jogsértőnek mondta a pedagógusok sztrájkjogának korlátozását",
+        "link": "https://a24.hu/az-ejeb-jogsertonek-mondta-a-pedagogusok-sztrajkjoganak-korlatozasat/"
+      }
+    ],
+    "published_at": 1792063349,
+    "title_hu": "Az EJEB jogsértőnek mondta a pedagógusok sztrájkjogának korlátozását",
+    "lead_hu": "Jogsértően korlátozta a pedagógusok sztrájkjogát az Orbán-kormány, ezt mondta ki szerdán az Emberi Jogok Európai Bírósága Strasbourgban. Az ítéletet a Pedagógusok Szakszervezete és a Pedagógusok Demok…",
+    "content_hu": "Jogsértően korlátozta a pedagógusok sztrájkjogát az Orbán-kormány, ezt mondta ki szerdán az Emberi Jogok Európai Bírósága Strasbourgban. Az ítéletet a Pedagógusok Szakszervezete és a Pedagógusok Demokratikus Szakszervezete érte el, a testület egyelőre nem jogerős döntést hozott. A két szakszervezet 2022-ben fordult a bírósághoz, és a Magyar Helsinki Bizottság, valamint a Társaság a Szabadságjogokért képviselte őket. […]",
+    "title_ro": "Az EJEB jogsértőnek mondta a pedagógusok sztrájkjogának korlátozását",
+    "lead_ro": "Jogsértően korlátozta a pedagógusok sztrájkjogát az Orbán-kormány, ezt mondta ki szerdán az Emberi Jogok Európai Bírósága Strasbourgban. Az ítéletet a Pedagógusok Szakszervezete és a Pedagógusok Demok…",
+    "content_ro": "Jogsértően korlátozta a pedagógusok sztrájkjogát az Orbán-kormány, ezt mondta ki szerdán az Emberi Jogok Európai Bírósága Strasbourgban. Az ítéletet a Pedagógusok Szakszervezete és a Pedagógusok Demokratikus Szakszervezete érte el, a testület egyelőre nem jogerős döntést hozott. A két szakszervezet 2022-ben fordult a bírósághoz, és a Magyar Helsinki Bizottság, valamint a Társaság a Szabadságjogokért képviselte őket. […]"
+  },
+  {
+    "group_id": "group_13b0ec9d62",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-7/7c2caa3f-1835-4af3-8d5a-f4c86d4c61c6/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Delincvența juvenilă nu este stigmatizare pe viață",
+        "link": "https://adevarul.ro/adevarul-juridic/delincventa-juvenila-nu-este-stigmatizare-pe-viata-2564091.html"
+      }
+    ],
+    "published_at": 1792063346,
+    "title_hu": "Delincvența juvenilă nu este stigmatizare pe viață",
+    "lead_hu": "A spune că un copil „știa că nu este bine” nu este niciodată suficient.",
+    "content_hu": "A spune că un copil „știa că nu este bine” nu este niciodată suficient.",
+    "title_ro": "Delincvența juvenilă nu este stigmatizare pe viață",
+    "lead_ro": "A spune că un copil „știa că nu este bine” nu este niciodată suficient.",
+    "content_ro": "A spune că un copil „știa că nu este bine” nu este niciodată suficient."
+  },
+  {
+    "group_id": "group_e9af1b0a5d",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/01/05/220000/62603985.jpg?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Sindicatele din Educație cer schimbarea regulilor pentru bursele sociale. Profesorii reclamă riscuri legate de datele personale",
+        "link": "https://stirileprotv.ro/educatie/sindicatele-din-educatie-cer-schimbarea-regulilor-pentru-bursele-sociale-profesorii-reclama-riscuri-legate-de-datele-personale.html"
+      }
+    ],
+    "published_at": 1792063278,
+    "title_hu": "Sindicatele din Educație cer schimbarea regulilor pentru bursele sociale. Profesorii reclamă riscuri legate de datele personale",
+    "lead_hu": "FSLI și Federația „Spiru Haret” cer Ministerului Educației modificarea urgentă a legislației, astfel încât evaluarea dosarelor pentru bursele sociale să fie transferată de la școli către autoritățile …",
+    "content_hu": "FSLI și Federația „Spiru Haret” cer Ministerului Educației modificarea urgentă a legislației, astfel încât evaluarea dosarelor pentru bursele sociale să fie transferată de la școli către autoritățile locale.",
+    "title_ro": "Sindicatele din Educație cer schimbarea regulilor pentru bursele sociale. Profesorii reclamă riscuri legate de datele personale",
+    "lead_ro": "FSLI și Federația „Spiru Haret” cer Ministerului Educației modificarea urgentă a legislației, astfel încât evaluarea dosarelor pentru bursele sociale să fie transferată de la școli către autoritățile …",
+    "content_ro": "FSLI și Federația „Spiru Haret” cer Ministerului Educației modificarea urgentă a legislației, astfel încât evaluarea dosarelor pentru bursele sociale să fie transferată de la școli către autoritățile locale."
+  },
+  {
+    "group_id": "group_5fd2c0f0aa",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2022/12/online-shopping-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Sectorul de comerț electronic din România ajunge la 13,5 miliarde de euro în 2026",
+        "link": "https://economedia.ro/sectorul-de-comert-electronic-din-romania-ajunge-la-135-miliarde-de-euro-in-2026.html"
+      }
+    ],
+    "published_at": 1792063264,
+    "title_hu": "Sectorul de comerț electronic din România ajunge la 13,5 miliarde de euro în 2026",
+    "lead_hu": "Sectorul de comerț electronic din România este estimat să ajungă la o valoare de 13,5 miliarde de euro în 2026, după ce valoarea cumpărăturilor online de bunuri și servicii a atins 12,9 miliarde de eu…",
+    "content_hu": "Sectorul de comerț electronic din România este estimat să ajungă la o valoare de 13,5 miliarde de euro în 2026, după ce valoarea cumpărăturilor online de bunuri și servicii a atins 12,9 miliarde de euro în 2025, în creștere cu 10% față de anul precedent, arată datele transmise de Asociația Română a Magazinelor Online (ARMO), […]",
+    "title_ro": "Sectorul de comerț electronic din România ajunge la 13,5 miliarde de euro în 2026",
+    "lead_ro": "Sectorul de comerț electronic din România este estimat să ajungă la o valoare de 13,5 miliarde de euro în 2026, după ce valoarea cumpărăturilor online de bunuri și servicii a atins 12,9 miliarde de eu…",
+    "content_ro": "Sectorul de comerț electronic din România este estimat să ajungă la o valoare de 13,5 miliarde de euro în 2026, după ce valoarea cumpărăturilor online de bunuri și servicii a atins 12,9 miliarde de euro în 2025, în creștere cu 10% față de anul precedent, arată datele transmise de Asociația Română a Magazinelor Online (ARMO), […]"
+  },
+  {
+    "group_id": "group_886f6f94f6",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260740/1/99a7ea58-12d3-48e7-af20-80273ce9294b.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Olandezii de la ING pun Bursa de la Bucureşti pe aceeaşi platformă de investiţii cu marile burse europene: acţiuni precum Banca Transilvania, OMV Petrom sau Hidroelectrica pot fi cumpărate din octombrie de clienţii băncii. În România, peste 15.000 de conturi deschise",
+        "link": "https://www.zf.ro/zf-24/olandezii-ing-pun-bursa-bucuresti-aceeasi-platforma-investitii-marile-burse-europene-actiuni-precum-banca-transilvania-omv-petrom-hidroelectrica-pot-cumparate-octombrie-clientii-bancii-romania-peste-23260740"
+      }
+    ],
+    "published_at": 1792063262,
+    "title_hu": "Olandezii de la ING pun Bursa de la Bucureşti pe aceeaşi platformă de investiţii cu marile burse europene: acţiuni precum Banca Transilvania, OMV Petrom sau Hidroelectrica pot fi cumpărate din octombrie de clienţii băncii. În România, peste 15.000 de conturi deschise",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Olandezii de la ING pun Bursa de la Bucureşti pe aceeaşi platformă de investiţii cu marile burse europene: acţiuni precum Banca Transilvania, OMV Petrom sau Hidroelectrica pot fi cumpărate din octombrie de clienţii băncii. În România, peste 15.000 de conturi deschise",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c1f072ad63",
+    "fingerprint": "7e3acbc0de5381bd919e7ea265ddd6e6",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
+        "link": "https://agerpres.ro/justitie/2026/10/15/inalta-curte-s-ar-putea-pronunta-in-procesul-cu-guvernul-privind-restantele-salariale-ale-magistrati--1603107"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Verdict așteptat azi în procesul Înalta Curte-Guvern pentru restanțele salariale de 1 miliard de euro ale magistraților",
+        "link": "https://hotnews.ro/verdict-asteptat-azi-in-procesul-inalta-curte-guvern-pentru-restantele-salariale-de-1-miliard-de-euro-ale-magistratilor-2376503"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Decizie crucială la Înalta Curte: Magistrații își cer restanțele salariale de la Guvern",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/decizie-cruciala-la-inalta-curte-magistratii-isi-2564105.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING | Verdict previzibil: Înalta Curte a respins recursul Guvernului în procesul privind restanțele salariale ale magistraților. Nota de plată: un miliard de euro",
+        "link": "https://www.g4media.ro/breaking-verdict-previzibil-inalta-curte-a-respins-recursul-guvernului-in-procesul-privind-restantele-salariale-ale-magistratilor.html"
+      }
+    ],
+    "published_at": 1792063180,
+    "title_hu": "Jogerősen elutasította a kormány fellebbezését a legfelsőbb bíróság a bírák bérhátralékáról szóló perben",
+    "lead_hu": "A román legfelsőbb bíróság csütörtökön elutasította a kormány és a pénzügyminisztérium fellebbezését, így jogerőre emelkedett az elsőfokú ítélet a magisztrátusok visszamenőleges béremeléseiből eredő hátralékairól. A mintegy 5–5,2 milliárd lejes, körülbelül 1 milliárd eurós ügyben a kifizetést tíz napon belül kell teljesíteni; késedelem esetére kötbért és napi bírságot állapítottak meg.",
+    "content_hu": "• **A legfelsőbb bíróság csütörtökön jogerősen elutasította a kormány és a pénzügyminisztérium fellebbezését.** Ezzel helybenhagyta a bukaresti ítélőtábla május 5-i ítéletét, amely a magisztrátusok elmaradt béreinek kifizetésére kötelezte az államot.\n\n• **A kifizetésre tíz nap áll rendelkezésre az ítélet jogerőre emelkedésétől.** A bukaresti ítélőtábla késedelem esetére napi 1 százalékos kötbért és a bruttó minimálbér 20 százalékának megfelelő napi bírságot szabott ki; ezek az előírások a jogerős döntés után is érvényben maradnak.\n\n• **A per tétje mintegy 5–5,2 milliárd lej, körülbelül 1 milliárd euró.** Az ügyben a legfelsőbb bíróság már hétszer elhalasztotta a döntéshozatalt; a kifizetést szükség esetén költségvetési kiigazítással kell biztosítani.\n\n• **A fellebbezést július eleje óta egy háromtagú tanács tárgyalta.** A közigazgatási és adóügyi kollégium bírái Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon és Emilian-Constantin Meiu.\n\n• **A legfelsőbb bíróság szerint a tartozás a bírák tulajdonhoz való jogát érinti.** A keresetben arra hivatkozott, hogy a bíráknak több mint tíz éve végrehajtatlan végrehajtható okirataik vannak; a bíróság szerint a kormány a hatalmi ágak szétválasztását is sérti, és aláássa az igazságszolgáltatás legitimitását.\n\n• **Az alkotmánybíróság október 7-én elutasította Ilie Bolojan beadványát.** A testület a kormány és a legfelsőbb bíróság közötti alkotmányos jogi konfliktus megállapítására irányuló beadványt elfogadhatatlannak minősítette, és kimondta, hogy nem volt ilyen konfliktus. Indoklása szerint nem feladata a bírói ítéletek felülvizsgálata vagy módosítása; az ilyen kifogásokat rendes jogorvoslati úton kell rendezni.\n\n• **A kormány vitatta a bíróság költségvetési hatáskörét.** A perben alkotmányossági kifogás benyújtását kérte annak tisztázására, kötelezheti-e a bíróság a kormányt többletforrások biztosítására, illetve előírhat-e a törvényben meghatározott költségvetési kereten felüli juttatásokat. Az Európai Unió Bíróságához is előzetes döntéshozatali kérdést intézett volna, és az eljárás felfüggesztését kérte. Bolojan július 2-án alkotmányos jogi konfliktus megállapítását kezdeményezte a legfelsőbb bírósággal szemben.\n\n• **A 2026-os költségvetési tervezet közel 5 milliárd lejt irányzott elő a legfelsőbb bíróságnak.** A pénzügyminisztérium márciusban továbbított tervezete mintegy 50 százalékkal nagyobb összeget tartalmazott az előző évinél; a többletforrást a visszamenőleges béremelésekből eredő hátralékokra szánták.\n\n• **A hátralékok a 2018-tól visszamenőleg alkalmazott 25 százalékos béremelésből erednek.** A legfelsőbb bíróság és a főügyészség 2023-ban döntött a bírák és ügyészek fizetésének emeléséről, bírósági határozatokhoz igazodva. A kormány a kifizetések egy részét elhalasztotta, a forrásokat pedig egy 1,1 milliárd lejes, a PSD által támogatott szociális segélycsomagra irányította át.",
+    "title_ro": "Înalta Curte a respins definitiv recursul Guvernului în procesul privind restanțele salariale ale magistraților",
+    "lead_ro": "Înalta Curte de Casație și Justiție a respins joi recursul Guvernului și al Ministerului Finanțelor, menținând definitiv hotărârea de fond privind plata restanțelor salariale ale magistraților. Miza este de aproximativ 5–5,2 miliarde de lei, circa un miliard de euro, iar plata trebuie făcută în zece zile; pentru întârziere au fost stabilite penalități și o amendă zilnică.",
+    "content_ro": "• **Înalta Curte a respins joi, definitiv, recursul Guvernului și al Ministerului Finanțelor.** Instanța supremă a menținut hotărârea Curții de Apel București din 5 mai, care obligă statul să plătească drepturile salariale restante ale magistraților.\n\n• **Plata trebuie făcută în termen de zece zile de la rămânerea definitivă a hotărârii.** Curtea de Apel a stabilit penalități de 1% pentru fiecare zi de întârziere și o amendă zilnică de 20% din salariul minim brut; aceste prevederi rămân în vigoare după decizia definitivă.\n\n• **Miza procesului este de aproximativ 5–5,2 miliarde de lei, echivalentul a circa un miliard de euro.** Înalta Curte amânase de șapte ori pronunțarea soluției; plata trebuie asigurată, la nevoie, inclusiv prin rectificare bugetară.\n\n• **Recursul a fost judecat de la începutul lunii iulie de un complet format din trei magistrați.** Din Secția de Contencios Administrativ și Fiscal au făcut parte Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon și Emilian-Constantin Meiu.\n\n• **Înalta Curte susține că neplata afectează dreptul de proprietate al judecătorilor.** Potrivit cererii, aceștia dețin titluri executorii neexecutate de peste zece ani; instanța a mai acuzat Guvernul că încalcă separația puterilor și subminează legitimitatea justiției.\n\n• **Curtea Constituțională a respins sesizarea lui Ilie Bolojan la 7 octombrie.** CCR a declarat inadmisibilă sesizarea privind un presupus conflict juridic de natură constituțională între Guvern și Înalta Curte și a stabilit că un asemenea conflict nu a existat. Curtea a explicat că nu îi revine să revizuiască sau să modifice hotărârile judecătorești, iar nemulțumirile trebuie soluționate prin căile obișnuite de atac.\n\n• **Guvernul a contestat competența instanței de a impune alocări bugetare.** În proces, a cerut sesizarea CCR pentru a clarifica dacă instanțele pot obliga Guvernul să aloce fonduri suplimentare sau pot stabili drepturi peste plafoanele bugetare prevăzute de lege. A solicitat și sesizarea Curții de Justiție a Uniunii Europene, precum și suspendarea procesului. La 2 iulie, Bolojan a anunțat sesizarea CCR privind un conflict juridic cu Înalta Curte.\n\n• **Proiectul bugetului pentru 2026 prevedea aproape 5 miliarde de lei pentru Înalta Curte.** Proiectul transmis Parlamentului în martie includea o sumă cu aproximativ 50% mai mare decât cea din anul precedent, destinată achitării restanțelor salariale rezultate din majorări retroactive.\n\n• **Restanțele provin din majorarea cu 25% a salariilor, aplicată retroactiv din 2018.** În 2023, Înalta Curte și Parchetul General au decis majorarea salariilor judecătorilor și procurorilor, în linie cu hotărâri judecătorești. Guvernul a amânat o parte din plăți și a redirecționat fondurile către un pachet de ajutoare sociale de 1,1 miliarde de lei, susținut de PSD."
+  },
+  {
+    "group_id": "group_c1ab6fb924",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/valerie-lungu.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Valerie Lungu și Alex Gîlcă au plecat în luna de miere! Concurenții Asia Express nu s-au uitat la bani",
+        "link": "https://www.cancan.ro/valerie-lungu-si-alex-gilca-au-plecat-in-luna-de-miere-concurentii-asia-express-nu-s-au-uitat-la-bani-21530529"
+      }
+    ],
+    "published_at": 1792063140,
+    "title_hu": "Valerie Lungu și Alex Gîlcă au plecat în luna de miere! Concurenții Asia Express nu s-au uitat la bani",
+    "lead_hu": "Nici bine nu s-a uscat cerneala pe actul de căsătorie, că Valerie Lungu și Alex Gîlcă au și zburat în luna de miere. Proaspăt căsătoriții au început o aventură de proporții, un adevărat maraton turist…",
+    "content_hu": "Nici bine nu s-a uscat cerneala pe actul de căsătorie, că Valerie Lungu și Alex Gîlcă au și zburat în luna de miere. Proaspăt căsătoriții au început o aventură de proporții, un adevărat maraton turistic întins pe două continente. Valerie Lungu și Alex Gîlcă, lună de miere pe două continente După o poveste de dragoste […]",
+    "title_ro": "Valerie Lungu și Alex Gîlcă au plecat în luna de miere! Concurenții Asia Express nu s-au uitat la bani",
+    "lead_ro": "Nici bine nu s-a uscat cerneala pe actul de căsătorie, că Valerie Lungu și Alex Gîlcă au și zburat în luna de miere. Proaspăt căsătoriții au început o aventură de proporții, un adevărat maraton turist…",
+    "content_ro": "Nici bine nu s-a uscat cerneala pe actul de căsătorie, că Valerie Lungu și Alex Gîlcă au și zburat în luna de miere. Proaspăt căsătoriții au început o aventură de proporții, un adevărat maraton turistic întins pe două continente. Valerie Lungu și Alex Gîlcă, lună de miere pe două continente După o poveste de dragoste […]"
+  },
+  {
+    "group_id": "group_fb60662aa6",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-8/8452ec59-840d-43ab-81cb-61d0f72873cb/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Mama care și-a lăsat copilul de 2 ani și 9 luni să moară, trimisă în judecată. Tatăl, acuzat că i-a pus în pericol pe ceilalți doi copii",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/mama-care-si-a-lasat-copilul-de-2-ani-si-9-luni-sa-2564218.html"
+      }
+    ],
+    "published_at": 1792063121,
+    "title_hu": "Mama care și-a lăsat copilul de 2 ani și 9 luni să moară, trimisă în judecată. Tatăl, acuzat că i-a pus în pericol pe ceilalți doi copii",
+    "lead_hu": "Un copil de 2 ani și 9 luni a murit, iar fratele și sora lui au fost puși în pericol din cauza lipsei hranei și a îngrijirilor medicale. Mama celor trei minori, din Galați, a fost trimisă în judecată …",
+    "content_hu": "Un copil de 2 ani și 9 luni a murit, iar fratele și sora lui au fost puși în pericol din cauza lipsei hranei și a îngrijirilor medicale. Mama celor trei minori, din Galați, a fost trimisă în judecată pentru omor asupra unui membru de familie și rele tratamente aplicate minorului.",
+    "title_ro": "Mama care și-a lăsat copilul de 2 ani și 9 luni să moară, trimisă în judecată. Tatăl, acuzat că i-a pus în pericol pe ceilalți doi copii",
+    "lead_ro": "Un copil de 2 ani și 9 luni a murit, iar fratele și sora lui au fost puși în pericol din cauza lipsei hranei și a îngrijirilor medicale. Mama celor trei minori, din Galați, a fost trimisă în judecată …",
+    "content_ro": "Un copil de 2 ani și 9 luni a murit, iar fratele și sora lui au fost puși în pericol din cauza lipsei hranei și a îngrijirilor medicale. Mama celor trei minori, din Galați, a fost trimisă în judecată pentru omor asupra unui membru de familie și rele tratamente aplicate minorului."
+  },
+  {
+    "group_id": "group_1509bc2c09",
+    "fingerprint": "92a895dd0dc95b6c4d1398e04e5d5b7a",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Camera Deputaților/Fotbaliștii de la Steaua 1986 câștigători ai Cupei Campionilor Europeni beneficiază de indemnizație de merit",
+        "link": "https://agerpres.ro/social/2026/10/14/camera-deputatilor-fotbalistii-de-la-steaua-1986-castigatori-ai-cupei-campionilor-europeni-beneficia--1602857"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Indemnizații de merit pentru Steaua 1986, dar și pentru campioni europeni din handbal, rugby și volei",
+        "link": "https://adevarul.ro/sport/indemnizatii-de-merit-pentru-steaua-1986-dar-si-2564225.html"
+      }
+    ],
+    "published_at": 1792063114,
+    "title_hu": "Érdemjuttatásra jogosultak lehetnek a Steaua 1986-os BEK-győztesei és más román klubcsapatok bajnokai",
+    "lead_hu": "A román képviselőház elfogadta az érdemjuttatásokról szóló törvénymódosítást, amely a Steaua București 1986-os BEK-győztes csapatának tagjai mellett más európai klubtrófeákat nyerő román sportolókat is jogosulttá tehet. A jogszabály a kihirdetésre vár; a jelöléseket évente több intézmény terjesztheti a nemzeti bizottság elé.",
+    "content_hu": "• **A román képviselőház** elfogadta az érdemjuttatásokról szóló törvénymódosítást, amely a Steaua București 1986-os BEK-győztes csapatának tagjait is a jogosultak közé sorolja.\n\n• **A szavazáson** 253 képviselő támogatta a javaslatot, egy képviselő nem szavazott. A képviselőház döntő házként járt el, így a jogszabály kihirdetésre vár.\n\n• **A jogosultság szabálya** a román klubcsapatok azon román állampolgárságú sportolóira terjed ki, akik hozzájárultak az európai BEK, Bajnokok Ligája vagy Szuperkupa megnyeréséhez; a teljesítmény éve nem korlátozó tényező. A csapattagságot és az eredményt az illetékes országos sportszövetség igazolja.\n\n• **Az érdemjuttatási bizottság** jelöléseit évente a Román Akadémia, a Kulturális Minisztérium, az Oktatási és Kutatási Minisztérium, valamint az Országos Sportügynökség terjesztheti elő. A bizottságban többek között parlamenti bizottsági elnökök, miniszterek, az Akadémia és az Országos Sportügynökség vezetője, valamint alkotói szövetségek elnökei kapnak helyet.\n\n• **A jogosulti kör** a törvénymódosítás alapján nemcsak a Steaua futballistáira terjedhet ki: példaként említik a román BEK-győztes kézilabda-, rögbi- és röplabdacsapatokat is, köztük a Dinamót, a Rapidot, a Grivița Roșie-t és a CSM Bucureștit.\n\n• **Elisabeta Lipă** üdvözölte a döntést, és úgy fogalmazott, hogy az a sportolók teljesítményének elismerése, valamint a korábbi egyenlőtlenség korrigálása lehet.",
+    "title_ro": "Indemnizații de merit pentru componenții Stelei ’86 și pentru sportivi din alte cluburi românești",
+    "lead_ro": "Camera Deputaților a adoptat modificarea legii privind indemnizațiile de merit, care îi poate include atât pe componenții Stelei București, câștigătoare a Cupei Campionilor Europeni în 1986, cât și pe sportivi români care au contribuit la câștigarea altor trofee europene de club. Legea urmează să fie promulgată, iar propunerile vor putea fi înaintate anual unei comisii naționale.",
+    "content_ro": "• **Camera Deputaților** a adoptat modificarea legii privind indemnizațiile de merit, care îi include printre beneficiari pe componenții echipei Steaua București, câștigătoare a Cupei Campionilor Europeni în 1986.\n\n• **La vot** s-au înregistrat 253 de voturi „pentru”, iar un deputat nu a votat. Camera Deputaților a fost for decizional, iar legea urmează să fie promulgată.\n\n• **Regula de eligibilitate** se aplică sportivilor cetățeni români care, ca membri ai unor echipe de club din România, au contribuit la câștigarea Cupei Campionilor Europeni, Ligii Campionilor sau Supercupei Europei; anul performanței nu este o limită. Apartenența la echipa câștigătoare și performanța sunt atestate de federația sportivă națională de specialitate.\n\n• **Comisia națională pentru acordarea indemnizației de merit** va primi anual propuneri de la Academia Română, Ministerul Culturii, Ministerul Educației și Cercetării și Agenția Națională pentru Sport. Din comisie vor face parte, între alții, președinți ai comisiilor parlamentare, miniștri, conducătorii Academiei Române și Agenției Naționale pentru Sport, precum și președinți ai uniunilor de creatori.\n\n• **Categoriile de beneficiari** nu se limitează la fotbaliștii Stelei: modificarea poate viza și sportivi din echipe românești de handbal, rugby și volei care au câștigat trofee europene. Printre exemplele menționate se numără Dinamo, Rapid, Grivița Roșie și CSM București.\n\n• **Elisabeta Lipă** a salutat decizia, afirmând că aceasta recunoaște performanțele sportivilor și poate corecta o inechitate care îi privea pe campionii din mai multe sporturi de echipă."
+  },
+  {
+    "group_id": "group_f470fe9876",
+    "fingerprint": "3c6fd9a4da2ae6f430ccdcaa53acd5a2",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "APIA: Plățile în avans către fermieri încep pe 16 octombrie; ajutoarele excepționale, achitate până la sfârșitul anului",
+        "link": "https://agerpres.ro/economic/2026/10/15/apia-platile-in-avans-catre-fermieri-incep-pe-16-octombrie-ajutoarele-exceptionale-achitate-pana-la---1603266"
+      },
+      {
+        "source": "Maszol",
+        "title": "Kezdődik az APIA-támogatások előlegeinek kifizetése",
+        "link": "https://maszol.ro/belfold/Kezdodik-az-APIA-tamogatasok-elolegeinek-kifizetese"
+      }
+    ],
+    "published_at": 1792063080,
+    "title_hu": "Október 16-án indulnak az APIA 2026-os előlegfizetései",
+    "lead_hu": "Az APIA október 16-án kezdi meg a 2026-os kampányhoz kapcsolódó agrártámogatási előlegek folyósítását. A 2025-ös aszály által sújtott gazdák, valamint a közel-keleti válság következményei miatt nehéz helyzetbe került sertés- és szarvasmarhatartók rendkívüli támogatásait az ütemterv szerint 2026. december 31-ig fizetik ki.",
+    "content_hu": "• **Október 16-án** kezdi meg az APIA a 2026-os kampányhoz tartozó agrártámogatási előlegek folyósítását; az előlegek a gazdaságok működéséhez szükséges pénzügyi forrásokat biztosítják.\n\n• **A rendkívüli támogatások** a 2025-ös talajszárazság miatt károkat szenvedett gazdáknak, valamint a közel-keleti válság következményei által érintett sertés- és szarvasmarhatartóknak szólnak. Kifizetésük a meghatározott ütemterv szerint 2026. december 31-ig várható.\n\n• **A támogatási összegek** a sertéságazatban férőhelyenként 11,9, illetve 13,7 eurót, a szarvasmarha-ágazatban állatonként 68 eurót tesznek ki.\n\n• **Constantin Bîrcă**, az APIA vezérigazgató-helyettese szerint az intézmény munkatársai azon dolgoznak, hogy a támogatások minél hamarabb megérkezzenek a kedvezményezettek számlájára, és segítsék a mezőgazdasági tevékenység folytatását.",
+    "title_ro": "APIA începe pe 16 octombrie plata avansurilor pentru campania agricolă din 2026",
+    "lead_ro": "APIA va începe pe 16 octombrie plata avansurilor aferente Campaniei 2026. Ajutoarele excepționale pentru fermierii afectați de seceta din 2025 și pentru crescătorii de porcine și bovine afectați de consecințele crizei din Orientul Mijlociu urmează să fie achitate până la 31 decembrie 2026.",
+    "content_ro": "• **Pe 16 octombrie** APIA începe plata avansurilor pentru Campania 2026, menite să asigure fermierilor resursele financiare necesare continuării activității agricole.\n\n• **Ajutoarele excepționale** sunt destinate fermierilor afectați de seceta pedologică din 2025 și crescătorilor de porcine și bovine afectați de consecințele crizei din Orientul Mijlociu. Plățile sunt programate să fie efectuate până la 31 decembrie 2026.\n\n• **Cuantumurile ajutoarelor** sunt de 11,9, respectiv 13,7 euro pe loc de cazare în sectorul porcin și de 68 de euro pe animal în sectorul bovin.\n\n• **Constantin Bîrcă**, directorul general adjunct al APIA, a declarat că angajații instituției lucrează pentru ca sprijinul să ajungă cât mai repede în conturile beneficiarilor și să contribuie la continuarea activităților agricole."
+  },
+  {
+    "group_id": "group_fe9c3bce6d",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-3/394a4fbe-8069-41fb-9dbf-46d13cc31086/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Jobul neobișnuit plătit cu 2.500 de euro pe lună. Ce trebuie să faci timp de șase luni printre pinguini, la capătul lumii",
+        "link": "https://adevarul.ro/stiri-externe/europa/jobul-neobisnuit-platit-cu-2500-de-euro-pe-luna-2564215.html"
+      }
+    ],
+    "published_at": 1792063052,
+    "title_hu": "Jobul neobișnuit plătit cu 2.500 de euro pe lună. Ce trebuie să faci timp de șase luni printre pinguini, la capătul lumii",
+    "lead_hu": "O fundație britanică oferă până la 2.500 de euro pe lună pentru un loc de muncă într-unul dintre cele mai izolate locuri de pe planetă. Contractul presupune șase luni în condiții extreme, iar printre …",
+    "content_hu": "O fundație britanică oferă până la 2.500 de euro pe lună pentru un loc de muncă într-unul dintre cele mai izolate locuri de pe planetă. Contractul presupune șase luni în condiții extreme, iar printre responsabilitățile angajaților se numără și monitorizarea pinguinilor.",
+    "title_ro": "Jobul neobișnuit plătit cu 2.500 de euro pe lună. Ce trebuie să faci timp de șase luni printre pinguini, la capătul lumii",
+    "lead_ro": "O fundație britanică oferă până la 2.500 de euro pe lună pentru un loc de muncă într-unul dintre cele mai izolate locuri de pe planetă. Contractul presupune șase luni în condiții extreme, iar printre …",
+    "content_ro": "O fundație britanică oferă până la 2.500 de euro pe lună pentru un loc de muncă într-unul dintre cele mai izolate locuri de pe planetă. Contractul presupune șase luni în condiții extreme, iar printre responsabilitățile angajaților se numără și monitorizarea pinguinilor."
+  },
+  {
+    "group_id": "group_d56573a8a5",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_8177939-1024x732.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Roy Keane critică dur situația de la Manchester United: „Este haos, este ca un circ”",
+        "link": "https://www.mediafax.ro/sport/roy-keane-critica-dur-situatia-de-la-manchester-united-este-haos-este-ca-un-circ-23825905"
+      }
+    ],
+    "published_at": 1792063037,
+    "title_hu": "Roy Keane critică dur situația de la Manchester United: „Este haos, este ca un circ”",
+    "lead_hu": "Fostul căpitan al lui Manchester United, Roy Keane, a criticat dur situația de la club, pe care l-a comparat cu „un circ”, după declarațiile făcute de Lisandro Martinez la adresa conducerii clubului.",
+    "content_hu": "Fostul căpitan al lui Manchester United, Roy Keane, a criticat dur situația de la club, pe care l-a comparat cu „un circ”, după declarațiile făcute de Lisandro Martinez la adresa conducerii clubului.",
+    "title_ro": "Roy Keane critică dur situația de la Manchester United: „Este haos, este ca un circ”",
+    "lead_ro": "Fostul căpitan al lui Manchester United, Roy Keane, a criticat dur situația de la club, pe care l-a comparat cu „un circ”, după declarațiile făcute de Lisandro Martinez la adresa conducerii clubului.",
+    "content_ro": "Fostul căpitan al lui Manchester United, Roy Keane, a criticat dur situația de la club, pe care l-a comparat cu „un circ”, după declarațiile făcute de Lisandro Martinez la adresa conducerii clubului."
+  },
+  {
     "group_id": "group_cef9d0b594",
     "category": "Erdély",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -19,6 +850,55 @@
     "title_ro": "Construcția noului Spital de Infecțioase din Oradea a trecut de jumătate. Ce se întâmplă acum pe șantier (FOTO)",
     "lead_ro": "La doi ani de la deschiderea șantierului, noul Spital de Boli Infecțioase și Pneumologie din Oradea este realizat în proporție de 55%, constructorii lucrând în prezent la compartimentările interioare,…",
     "content_ro": "La doi ani de la deschiderea șantierului, noul Spital de Boli Infecțioase și Pneumologie din Oradea este realizat în proporție de 55%, constructorii lucrând în prezent la compartimentările interioare, instalațiile electrice, sanitare și de ventilație de sute de kilometri lungime, precum și la izolarea și finisarea celor patru corpuri de clădiri care, desfășurate, ocupă echivalentul a 5 hectare. Proiectul este singurul de acest fel din România și totodată cea mai mare investiție de după 1989 în Oradea, de peste 135 milioane euro."
+  },
+  {
+    "group_id": "group_c51148329f",
+    "category": "Sport",
+    "image": "https://stirileprotv.ro/img/2026/10/15/111252/imago0002875347h.jpg?fm=jpg&q=80&fit=crop&crop=3255%2C2265%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Balonul de Aur 2026. Tot ce trebuie să știi despre visul oricărui fotbalist. Lista câștigătorilor și românii nominalizați",
+        "link": "https://stirileprotv.ro/stiri/sport/balonul-de-aur-2026-tot-ce-trebuie-sa-stii-despre-visul-oricarui-fotbalist-lista-castigatorilor-si-romanii-nominalizati.html"
+      }
+    ],
+    "published_at": 1792063018,
+    "title_hu": "Balonul de Aur 2026. Tot ce trebuie să știi despre visul oricărui fotbalist. Lista câștigătorilor și românii nominalizați",
+    "lead_hu": "Balonul de Aur este visul oricărui fotbalist, trofeul suprem oferit an de an celui mai bun jucător de fotbal de pe Pământ. În 2026, principalii favoriți pentru câștigarea Balonului de Aur sunt Lamine …",
+    "content_hu": "Balonul de Aur este visul oricărui fotbalist, trofeul suprem oferit an de an celui mai bun jucător de fotbal de pe Pământ. În 2026, principalii favoriți pentru câștigarea Balonului de Aur sunt Lamine Yamal, Harry Kane și Kylian Mbappe.",
+    "title_ro": "Balonul de Aur 2026. Tot ce trebuie să știi despre visul oricărui fotbalist. Lista câștigătorilor și românii nominalizați",
+    "lead_ro": "Balonul de Aur este visul oricărui fotbalist, trofeul suprem oferit an de an celui mai bun jucător de fotbal de pe Pământ. În 2026, principalii favoriți pentru câștigarea Balonului de Aur sunt Lamine …",
+    "content_ro": "Balonul de Aur este visul oricărui fotbalist, trofeul suprem oferit an de an celui mai bun jucător de fotbal de pe Pământ. În 2026, principalii favoriți pentru câștigarea Balonului de Aur sunt Lamine Yamal, Harry Kane și Kylian Mbappe."
+  },
+  {
+    "group_id": "group_02bc8c9a66",
+    "fingerprint": "c40536ccd4d942cd373f149b0df57333",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-4/47d3e1e2-af46-4e65-b02e-6d99771b9f03/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "O donație banală s-a transformat într-o comoară de 85.000 de lire. Ce au găsit voluntarii în câteva albume",
+        "link": "https://adevarul.ro/stiri-externe/europa/o-donatie-banala-s-a-transformat-intr-o-comoara-de-2564058.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O donație făcută unui magazin caritabil a devenit o adevărată comoară. Bancnotele rare, vândute cu 101.000 de euro",
+        "link": "https://stirileprotv.ro/stiri/international/o-donatie-facuta-unui-magazin-caritabil-a-devenit-o-adevarata-comoara-bancnotele-rare-vandute-cu-101-000-de-euro.html"
+      }
+    ],
+    "published_at": 1792062888,
+    "title_hu": "Ritka bankjegygyűjtemény hozott 85 860 fontot egy edinburghi jótékonysági szervezetnek",
+    "lead_hu": "Egy edinburghi jótékonysági boltba adományozott, csaknem 160 ritka bankjegyből álló gyűjtemény 85 860 fontért kelt el árverésen. A bevétellel a British Heart Foundation szív- és érrendszeri betegségekkel kapcsolatos kutatásait támogatják.",
+    "content_hu": "• **A gyűjtemény** csaknem 160, különböző országokból származó bankjegyből állt, amelyeket albumokban adományoztak egy edinburghi jótékonysági üzletnek. A bolti önkéntesek felismerték, hogy egyes darabok értékesek lehetnek, ezért szakértői vizsgálatra küldték őket.\n\n• **Az árverésen** 85 860 fontért értékesítették a bankjegyeket. A bevétel a British Heart Foundation szív- és keringési betegségek megelőzését és kezelését célzó kutatásait támogatja.\n\n• **A ritka darabok között** mintabankjegyek és kísérleti példányok is voltak, köztük egy forgalomba nem került bankjegy II. Erzsébet fiatal kori portréjával, egy különösen ritka, 1947-es iraki 10 dináros, valamint egy 1961-ben kibocsátott szaúdi 100 riálos mintabankjegy.\n\n• **A Noonans aukciósház** a jótékonysági célra tekintettel elengedte az eladótól szokásosan felszámított jutalékot. A bankjegyek minősége és ritkasága nemzetközi gyűjtői érdeklődést váltott ki.",
+    "title_ro": "O colecție de bancnote rare a adus 85.860 de lire unei organizații caritabile din Edinburgh",
+    "lead_ro": "O colecție de aproape 160 de bancnote rare, donată unui magazin caritabil din Edinburgh, a fost vândută la licitație pentru 85.860 de lire sterline. Suma va sprijini cercetarea bolilor cardiovasculare desfășurată de British Heart Foundation.",
+    "content_ro": "• **Colecția** cuprindea aproape 160 de bancnote din mai multe țări, donate în albume unui magazin caritabil din Edinburgh. Voluntarii au observat că unele exemplare ar putea avea valoare și le-au trimis spre evaluare de specialitate.\n\n• **Licitația** a adus 85.860 de lire sterline. Banii vor contribui la cercetările British Heart Foundation privind prevenirea și tratarea bolilor de inimă și ale sistemului circulator.\n\n• **Printre piesele rare** s-au numărat bancnote-etalon și exemplare experimentale, inclusiv o bancnotă nepusă în circulație cu portretul tinerei regine Elisabeta a II-a, o bancnotă irakiană de 10 dinari din 1947, într-o variantă extrem de rară, și una-etalon de 100 de riali saudiți, emisă în 1961.\n\n• **Casa de licitații Noonans** a renunțat la comisionul perceput în mod obișnuit vânzătorului, în sprijinul cauzei caritabile. Calitatea și raritatea bancnotelor au atras interesul colecționarilor din întreaga lume."
   },
   {
     "group_id": "group_190df59216",
@@ -230,34 +1110,6 @@
     "content_ro": "În urmă cu patru decenii, polonezii stăteau ore întregi la coadă pentru unt și carne. Astăzi, țara lor a depășit pragul de 1.000 de miliarde de dolari ca dimensiune a economiei, iar tot mai mulți cetățeni se întorc din Occident. Transformarea Poloniei ridică întrebări relevante și pentru România."
   },
   {
-    "group_id": "group_46d68db1fd",
-    "fingerprint": "c5073cdcdae1e843334a2c4921c1e305",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/07/pnl-usr.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "USR și PNL cer înființarea unei comisii parlamentare pentru reforma administrativ-teritorială / Va avea rolul de a elabora cadrul legislativ pentru ca reforma să poată fi aplicată începând din 2032",
-        "link": "https://www.g4media.ro/usr-si-pnl-cer-infiintarea-unei-comisii-parlamentare-pentru-reforma-administrativ-teritoriala-va-avea-rolul-de-a-elabora-cadrul-legislativ-pentru-ca-reforma-sa-poata-fi-aplicata-incepand-din-2032.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "USR și PNL cer înființarea unei comisii pentru reforma administrativ-teritorială: „Să vedem ce alege PSD între vorbe și fapte”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/usr-si-pnl-cer-infiintarea-unei-comisii-pentru-reforma-administrativ-teritoriala-sa-vedem-ce-alege-psd-intre-vorbe-si-fapte-3993623"
-      }
-    ],
-    "published_at": 1792062308,
-    "title_hu": "Az USR és a PNL parlamenti bizottságot kér az adminisztratív-területi reform előkészítésére",
-    "lead_hu": "Az USR és a PNL parlamenti frakcióvezetői azt kérik a Parlament állandó bizottságaitól, hogy hozzanak létre egy, az adminisztratív-területi reform jogszabályi kereteit előkészítő bizottságot. A kezdeményezők szerint a reformot úgy kell előkészíteni, hogy 2032-től alkalmazható legyen.",
-    "content_hu": "• **Az USR és a PNL** parlamenti frakcióvezetői a Parlament állandó bizottságaihoz fordultak, hogy hozzanak létre egy, az adminisztratív-területi reform előkészítésével foglalkozó bizottságot.\n\n• **A bizottság feladata** a reform alkalmazásához szükséges jogszabályi keret kidolgozása lenne; a kezdeményezők szerint az átszervezést 2032-től lehetne bevezetni.\n\n• **A reform előkészítésének** pénzügyi és demográfiai adatokra kellene épülnie, hogy a helyi közigazgatások jobb közszolgáltatásokat nyújthassanak és hatékonyabban gazdálkodhassanak.\n\n• **Az USR a PSD támogatását is kéri**, arra hivatkozva, hogy Sorin Grindeanu a reformot a szociáldemokraták tíz prioritása közé sorolta. A kezdeményezők szerint a jogalkotási előkészítéshez világos szabályokra, reális ütemtervre és valamennyi párt politikai akaratára van szükség.",
-    "title_ro": "USR și PNL cer o comisie parlamentară pentru pregătirea reformei administrativ-teritoriale",
-    "lead_ro": "Liderii grupurilor parlamentare USR și PNL au solicitat înființarea unei comisii care să pregătească cadrul legislativ pentru reforma administrativ-teritorială. Inițiatorii spun că reforma trebuie pregătită astfel încât să poată fi aplicată începând din 2032.",
-    "content_ro": "• **USR și PNL** au cerut Birourilor Permanente ale Parlamentului să înființeze o comisie pentru pregătirea reformei administrativ-teritoriale.\n\n• **Comisia ar urma să elaboreze** cadrul legislativ necesar aplicării reformei, iar reorganizarea ar putea fi pusă în practică începând din 2032.\n\n• **Pregătirea reformei** ar trebui să se bazeze pe date financiare și demografice, pentru ca administrațiile locale să ofere servicii publice mai bune și să gestioneze mai eficient fondurile.\n\n• **USR le cere social-democraților să susțină inițiativa**, după ce Sorin Grindeanu a inclus reforma între cele zece priorități prezentate de PSD. Inițiatorii susțin că pregătirea legislativă necesită reguli clare, un calendar realist și voința politică a tuturor partidelor."
-  },
-  {
     "group_id": "group_0023381096",
     "fingerprint": "a823787f8f94f3c1c0852971b4b1ec63",
     "category": "Általános",
@@ -344,7 +1196,7 @@
   },
   {
     "group_id": "group_d287766eb0",
-    "fingerprint": "03170943acf8ef1ede2097565bd5b105",
+    "fingerprint": "3bd8cc7ab57244f3e2d00605337bb3ab",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
     "is_synthesized": true,
@@ -357,18 +1209,18 @@
         "link": "https://hotnews.ro/imaginile-din-satelit-arata-ca-rusia-a-reusit-sa-construiasca-in-doar-6-saptamani-o-noua-baza-de-atac-pentru-drone-2376794"
       },
       {
-        "source": "Agerpres (HU)",
+        "source": "G4Media",
         "title": "Rusia a construit în doar 6 săptămâni o bază majoră pentru drone de atac, potrivit imaginilor din satelit",
-        "link": "https://agerpres.ro/politic-extern/2026/10/15/rusia-a-construit-in-doar-6-saptamani-o-baza-majora-pentru-drone-de-atac-potrivit-imaginilor-din-sat--1603283"
+        "link": "https://www.g4media.ro/rusia-a-construit-in-doar-6-saptamani-o-baza-majora-pentru-drone-de-atac-potrivit-imaginilor-din-satelit.html"
       }
     ],
-    "published_at": 1792062151,
+    "published_at": 1792062228,
     "title_hu": "Oroszország hat hét alatt új drónindító bázist épített a Rosztovi területen",
-    "lead_hu": "Műholdképek és védelmi szakértők elemzése szerint Oroszország közel befejezte egy új, sugárhajtású támadódrónok indítására szolgáló bázis építését a délnyugat-oroszországi Rosztovi területen. A létesítmény a Millerovo légibázis közelében van, és tovább bővítheti az Ukrajna elleni dróntámadások indítási kapacitását.",
-    "content_hu": "• **Hat hét alatt** egy üres területből jelentős katonai komplexum épült a Rosztovi területen; a műholdfelvételeket a Planet Labs és az Airbus készítette, az elemzést a Reuters által megkérdezett szakértők végezték.\n\n• **A bázis** mintegy 0,9 négyzetkilométeres, és körülbelül 3,5 kilométerre található a Millerovo légibázistól. A komplexum nyugati részén nyolc, indítósínekkel ellátott platform látható.\n\n• **A lehetséges felhasználás** a Geran–4 és Geran–5 típusú, sugárhajtású orosz drónok indítása lehet. A DroneSec vezetője szerint a bázis akár napi száz vagy több drón indítására is alkalmas lehet, de a tényleges kapacitás az ellátástól és a katonai céloktól függ.\n\n• **A várható üzembe helyezés** már csak heteket vehet igénybe, ha a létesítmény a szakértői becsléseknek megfelelően közel van a befejezéshez. A bázist a közeli légibázis légvédelme is védheti, ami megnehezítheti az ukrán támadást.\n\n• **A drónfenyegetés** növekedése közben Oroszország egyre gyakrabban alkalmaz sugárhajtású támadódrónokat, amelyek a korábbi, lassabb típusoknál gyorsabbak, ezért nehezebb őket elfogni. Ukrán katonai adatok szerint a nyári három hónap alatt körülbelül hatszorosára nőtt az ilyen drónok oroszországi alkalmazása.",
-    "title_ro": "Rusia a construit în șase săptămâni o nouă bază pentru drone în regiunea Rostov",
-    "lead_ro": "Imagini din satelit și evaluări ale unor experți în apărare indică faptul că Rusia este aproape de finalizarea unei noi baze pentru lansarea dronelor de atac cu reacție, în regiunea Rostov din sud-vestul țării. Amplasamentul se află în apropierea bazei aeriene Millerovo și ar putea extinde capacitatea Rusiei de a lansa atacuri cu drone împotriva Ucrainei.",
-    "content_ro": "• **În șase săptămâni**, un teren viran din regiunea Rostov a fost transformat într-un complex militar important, potrivit imaginilor furnizate de Planet Labs și Airbus și analizate de experți consultați de Reuters.\n\n• **Noua bază** are aproximativ 0,9 kilometri pătrați și se află la circa 3,5 kilometri de baza aeriană Millerovo. În partea de vest a complexului sunt vizibile opt platforme prevăzute cu șine de lansare.\n\n• **Posibila utilizare** a amplasamentului este lansarea dronelor rusești cu reacție Geran-4 și Geran-5. Potrivit directorului DroneSec, baza ar putea permite lansarea a cel puțin 100 de drone în 24 de ore, însă capacitatea efectivă depinde de aprovizionare și de obiectivele militare.\n\n• **Intrarea în funcțiune** ar putea avea loc în doar câteva săptămâni, dacă lucrările sunt într-adevăr aproape de finalizare, așa cum estimează experții. Apărarea antiaeriană a bazei aeriene din apropiere ar putea îngreuna un atac ucrainean asupra complexului.\n\n• **Amenințarea dronelor** crește pe măsură ce Rusia folosește tot mai des aparate de atac cu reacție, mai rapide și mai greu de interceptat decât modelele anterioare. Date militare ucrainene indică o creștere de aproximativ șase ori a utilizării acestor drone de către Rusia pe parcursul celor trei luni de vară."
+    "lead_hu": "Műholdképek és védelmi szakértők elemzése szerint Oroszország közel befejezte egy új, sugárhajtású támadódrónok indítására szolgáló bázis építését a Rosztovi területen. A Millerovo légibázis közelében, mindössze hat hét alatt felépült komplexum tovább bővítheti az Ukrajna elleni dróntámadások indítási kapacitását.",
+    "content_hu": "• **Hat hét alatt** egy üres területből jelentős katonai komplexum épült a Rosztovi területen. A Planet Labs és az Airbus műholdképei szerint augusztus 31-én még nem folyt építkezés, másnapra viszont megkezdődtek a munkálatok; a terület szerdára mintegy 126 futballpályányi komplexummá alakult.\n\n• **A bázis** mintegy 0,9 négyzetkilométeres, és körülbelül 3,5 kilométerre található a Millerovo légibázistól, ahol a 31. gárda vadászrepülő-ezred állomásozik.\n\n• **A kilövőállások** a komplexum nyugati részén találhatók: összesen nyolc platformot azonosítottak. A képeken kettőn már sínek voltak, további kettőn pedig éppen síneket szereltek fel.\n\n• **A lehetséges felhasználás** a Geran–4 és Geran–5 típusú, sugárhajtású orosz drónok indítása lehet. Rob Jordan, a londoni RUSI kutatóintézet programigazgatója szerint a betonplatformok és a képeken látható lehetséges indítósínek megfelelnek a Geran drónok indítóhelyeinek.\n\n• **A kapacitás** a DroneSec vezetője, Mike Monnik szerint akár napi száz vagy több drón indítására is elegendő lehet, de a tényleges teljesítmény az ellátástól és a katonai céloktól függ. Oroszország a drónokat jellemzően kisebb csoportokban, a nap folyamán elosztva indítja.\n\n• **A várható üzembe helyezés** már csak heteket vehet igénybe, ha a létesítmény a szakértői becsléseknek megfelelően közel van a befejezéshez. A bázist a közeli Millerovo légibázis légvédelmi rendszerei is védhetik, ami megnehezítheti az ukrán támadást.\n\n• **A drónhálózat** legalább 11, Ukrajna elleni támadásokra használt állandó orosz indítóhelyből áll; az új komplexum ehhez a hálózathoz adódhat hozzá.\n\n• **A drónfenyegetés** növekedése közben Oroszország egyre gyakrabban alkalmaz sugárhajtású támadódrónokat, amelyek akár óránkénti 600 kilométeres sebességre is képesek, ezért nehezebb őket elfogni. Ukrán katonai adatok szerint a nyári három hónap alatt körülbelül hatszorosára nőtt az ilyen drónok oroszországi alkalmazása; Kijev arra számít, hogy télen tovább fokozódhatnak a drón- és rakétatámadások.",
+    "title_ro": "Rusia a construit în șase săptămâni o nouă bază de lansare a dronelor în regiunea Rostov",
+    "lead_ro": "Imaginile din satelit și analiza experților în apărare arată că Rusia este aproape de finalizarea unei noi baze pentru lansarea dronelor de atac cu reacție, în regiunea Rostov. Complexul, construit în doar șase săptămâni în apropierea bazei aeriene Millerovo, ar putea extinde capacitatea de lansare a atacurilor cu drone împotriva Ucrainei.",
+    "content_ro": "• **În doar șase săptămâni**, un teren viran din regiunea Rostov s-a transformat într-un complex militar important. Imaginile Planet Labs și Airbus arată că la 31 august nu începuseră lucrările, dar acestea au demarat a doua zi, iar până miercuri situl ajunsese la o suprafață echivalentă cu aproximativ 126 de terenuri de fotbal.\n\n• **Baza** ocupă aproximativ 0,9 kilometri pătrați și se află la circa 3,5 kilometri de baza aeriană Millerovo, unde este dislocat Regimentul 31 Gardă de Aviație de Vânătoare.\n\n• **Platformele de lansare** sunt amplasate în partea de vest a complexului: au fost identificate opt în total. Imaginile arată șine montate pe două dintre ele, iar pe alte două erau în curs lucrări de instalare.\n\n• **Utilizarea posibilă** a bazei este lansarea dronelor rusești cu reacție Geran-4 și Geran-5. Rob Jordan, director de program la institutul de cercetare RUSI din Londra, a spus că platformele de beton și posibilele șine de lansare observate par să corespundă rampelor folosite pentru dronele Geran.\n\n• **Capacitatea** ar putea ajunge la 100 sau mai multe drone lansate în 24 de ore, potrivit lui Mike Monnik, directorul DroneSec, însă volumul efectiv depinde de provizii și de obiectivele militare. Rusia lansează de obicei dronele în număr mic, pe parcursul zilei.\n\n• **Operaționalizarea** ar putea avea loc în câteva săptămâni, dacă estimarea experților privind stadiul avansat al lucrărilor este corectă. Sistemele de apărare antiaeriană de la baza Millerovo ar putea proteja și noul complex, îngreunând un atac ucrainean.\n\n• **Rețeaua de lansare** a Rusiei include cel puțin 11 amplasamente fixe folosite pentru atacuri cu drone asupra Ucrainei; noul complex s-ar adăuga acesteia.\n\n• **Amenințarea dronelor** crește pe măsură ce Rusia folosește tot mai des modele de atac cu reacție, care pot atinge viteze de până la 600 km/h și sunt mai greu de interceptat. Potrivit datelor armatei ucrainene, utilizarea acestor drone de către Rusia a crescut de aproximativ șase ori în cele trei luni de vară; Kievul se așteaptă la intensificarea atacurilor cu drone și rachete în această iarnă."
   },
   {
     "group_id": "group_2604a09f4f",
@@ -481,60 +1333,6 @@
     "content_ro": "• **Trei minori** – doi în vârstă de 16 ani și unul de 17 ani – sunt cercetați penal de DIICOT pentru accesarea repetată și deținerea de materiale de propagandă teroristă.\n\n• **Potrivit anchetatorilor, în cursul anului 2026**, adolescenții au accesat în mod repetat, prin sisteme informatice, materiale de propagandă în favoarea unor organizații teroriste și au deținut astfel de materiale pentru însușirea ideologiei teroriste de factură islamică, în cadrul unui proces de radicalizare.\n\n• **Unul dintre suspecți** a redactat un ghid cu reguli de conduită pentru susținătorii sau luptătorii organizației. Acesta aborda ascunderea apartenenței la organizație, metodele serviciilor de informații, interacțiunea cu autoritățile și disimularea intențiilor ostile.\n\n• **Sursa ghidului**, potrivit DIICOT, a fost o platformă online de propagandă aparținând unei organizații teroriste, unde sunt publicate comunicate oficiale și materiale media de propagandă ideologică.\n\n• **La 15 octombrie**, anchetatorii au făcut percheziții la locuințele suspecților din județele Constanța, Galați, Alba și Iași și au ridicat probe.\n\n• **În anchetă** sunt implicate structura centrală a DIICOT și Direcția de Combatere a Criminalității Organizate, cu sprijinul informativ al Serviciului Român de Informații.\n\n• **Potrivit avertismentului DIICOT**, radicalizarea este tot mai prezentă în rândul copiilor și tinerilor din România, iar adolescenții sunt deosebit de vulnerabili. Internetul facilitează conectarea rapidă și schimbul de idei, contribuind astfel și la răspândirea ideologiilor extremiste.\n\n• **Unul dintre motivele vulnerabilității tinerilor** este că, la această vârstă, ei caută idealuri și modele cu care să se identifice. DIICOT a avertizat că lipsa îndrumării bazate pe valori familiale, civice și culturale, precum și a sprijinului acordat la timp, îi poate face mai vulnerabili la radicalizare.\n\n• **Prevenirea radicalizării** presupune identificarea timpurie a vulnerabilităților la propaganda extremistă, inclusiv în mediul online, dezvoltarea gândirii critice și conștientizarea riscurilor asociate expunerii la astfel de materiale. Autoritățile consideră importantă și colaborarea dintre familie, școală și instituțiile competente."
   },
   {
-    "group_id": "group_b4f208ed1b",
-    "fingerprint": "fed259b174f691b800e7f280a5631a1d",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21330/23260598/1/ogn3040-2.jpg?width=700",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Ştirea dată de ZF în ianuarie se confirmă. Iulian Staciu, omul care a fondat eMAG, cumpără NIS Petrol alături de un partener. NIS deţine brandul de benzinării Gazprom în România",
-        "link": "https://www.zf.ro/zf-24/stirea-data-de-zf-in-ianuarie-se-confirma-iulian-staciu-omul-care-a-fondat-emag-cumpara-nis-petrol-alaturi-de-un-partener-nis-detine-brandul-de-benzinarii-gazprom-in-romania-23260598"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Fostul șef al eMAG a cumpărat benzinăriile Gazprom din România",
-        "link": "https://hotnews.ro/fostul-sef-al-emag-a-cumparat-benzinariile-gazprom-din-romania-2376651"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Doi antreprenori români preiau benzinăriile Gazprom; operațiunea, aprobată de Consiliul Concurenței",
-        "link": "https://agerpres.ro/economic/2026/10/15/doi-antreprenori-romani-preiau-benzinariile-gazprom-operatiunea-aprobata-de-consiliul-concurentei--1603268"
-      }
-    ],
-    "published_at": 1792062151,
-    "title_hu": "Iulian Stanciu és Adrian Crețoiu közvetve megszerezte a NIS Petrol feletti közös irányítást",
-    "lead_hu": "Iulian Stanciu, az eMAG alapítója és Adrian Crețoiu az Argenta SRL-n keresztül közösen veszi át a NIS Petrol irányítását; a társaság működteti a romániai Gazprom-márkájú benzinkutakat. A román versenyhivatal a 211/2026-os határozatával jóváhagyta az ügyletet, amely a NIS Petrol teljes tulajdonrészének megvásárlására irányul.",
-    "content_hu": "• **Iulian Stanciu és Adrian Crețoiu** közvetve közös irányítást szerez a NIS Petrol felett; a társaság kezeli a romániai Gazprom-benzinkutakat.\n\n• **Az Argenta SRL-n keresztül** valósul meg az ügylet. A fémipari építőipari vállalatban Crețoiué a 60, Stanciué a 40 százalékos részesedés.\n\n• **A NIS Petrol teljes tulajdonrészét vásárolják meg:** az Argenta a szerb NIS a.d. Novi Sadtól veszi át a társaság részvényeinek és szavazati jogainak 100 százalékát.\n\n• **A román versenyhivatal a 211/2026-os határozatával jóváhagyta a tranzakciót.** A bejelentést 2026. május 4-én nyújtották be, és augusztus 12-én vált teljessé, miután a hatóság megkapta az összes szükséges információt.\n\n• **A hatóság szerint az ügylet nem vet fel komoly versenyjogi aggályokat:** az érintett piacokon a felek részesedése 30 százalék alatt van, és a tranzakció nem hoz létre érintett piacot. A hatóság ugyanakkor vertikális integrációként jellemezte az ügyletet.\n\n• **A hálózat 19 benzinkútból áll**, ezeket a NIS Petrol üzemelteti. A társaság 2024 óta megelőző fizetésképtelenségi eljárásban van, és hat kőolaj-kitermelési megállapodással is rendelkezik.\n\n• **A NIS Petrol az amerikai szankciós listán is szerepel** orosz tulajdonosi kapcsolatai miatt – írta a HotNews.",
-    "title_ro": "Iulian Stanciu și Adrian Crețoiu preiau indirect controlul comun asupra NIS Petrol",
-    "lead_ro": "Iulian Stanciu, fondatorul eMAG, și Adrian Crețoiu preiau controlul asupra NIS Petrol prin intermediul Argenta SRL, compania care administrează benzinăriile Gazprom din România. Consiliul Concurenței a aprobat tranzacția prin decizia nr. 211/2026; aceasta vizează preluarea integrală a NIS Petrol.",
-    "content_ro": "• **Iulian Stanciu și Adrian Crețoiu** dobândesc indirect controlul comun asupra NIS Petrol, compania care administrează benzinăriile Gazprom din România.\n\n• **Tranzacția se realizează prin Argenta SRL**, companie de construcții metalice deținută în proporție de 60% de Crețoiu și 40% de Stanciu.\n\n• **Argenta cumpără întregul capital al NIS Petrol:** contractul încheiat cu compania sârbă NIS a.d. Novi Sad prevede transferul a 100% din capitalul social și din drepturile de vot.\n\n• **Consiliul Concurenței a aprobat operațiunea prin decizia nr. 211/2026.** Notificarea a fost depusă la 4 mai 2026 și a devenit efectivă la 12 august, după ce autoritatea a primit toate informațiile necesare.\n\n• **Autoritatea de concurență nu a identificat motive serioase de îngrijorare:** cotele de piață ale părților sunt sub pragul de 30%, iar tranzacția nu generează piețe afectate. Consiliul a descris totuși operațiunea ca având caracterul unei integrări verticale.\n\n• **Rețeaua cuprinde 19 benzinării**, operate de NIS Petrol. Compania se află din 2024 în procedură de concordat preventiv și deține, de asemenea, șase acorduri petroliere.\n\n• **NIS Petrol se află și pe lista sancțiunilor americane**, din cauza legăturilor cu acționari ruși, a relatat HotNews."
-  },
-  {
-    "group_id": "group_4dcffba3e8",
-    "category": "Sport",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal - Conference League: Meciul Egnatia - Midtjylland, mutat la Elbasan, în urma demonstrațiilor din capitala Albaniei",
-        "link": "https://agerpres.ro/sport-extern/2026/10/15/fotbal---conference-league-meciul-egnatia---midtjylland-mutat-la-elbasan-in-urma-demonstratiilor-din--1603297"
-      }
-    ],
-    "published_at": 1792062151,
-    "title_hu": "Fotbal - Conference League: Meciul Egnatia - Midtjylland, mutat la Elbasan, în urma demonstrațiilor din capitala Albaniei",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Fotbal - Conference League: Meciul Egnatia - Midtjylland, mutat la Elbasan, în urma demonstrațiilor din capitala Albaniei",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
     "group_id": "group_b05fb242a4",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -601,27 +1399,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Guvernul portughez vrea sprijinul opoziției pentru vânzarea restului acțiunilor la compania aeriană TAP",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_f470fe9876",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "APIA: Plățile în avans către fermieri încep pe 16 octombrie; ajutoarele excepționale, achitate până la sfârșitul anului",
-        "link": "https://agerpres.ro/economic/2026/10/15/apia-platile-in-avans-catre-fermieri-incep-pe-16-octombrie-ajutoarele-exceptionale-achitate-pana-la---1603266"
-      }
-    ],
-    "published_at": 1792062151,
-    "title_hu": "APIA: Plățile în avans către fermieri încep pe 16 octombrie; ajutoarele excepționale, achitate până la sfârșitul anului",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "APIA: Plățile în avans către fermieri încep pe 16 octombrie; ajutoarele excepționale, achitate până la sfârșitul anului",
     "lead_ro": "",
     "content_ro": ""
   },
@@ -876,6 +1653,27 @@
     "title_ro": "Transelectrica a investit 260 de milioane de lei în două instalații care stabilizează rețeaua electrică. Tehnologia este o premieră în sudul Europei",
     "lead_ro": "Transelectrica a finalizat o investiție de aproximativ 260 de milioane de lei pentru creșterea siguranței rețelei electrice din România. Două instalații moderne, amplasate la Sibiu Sud și Bradu, pot r…",
     "content_ro": "Transelectrica a finalizat o investiție de aproximativ 260 de milioane de lei pentru creșterea siguranței rețelei electrice din România. Două instalații moderne, amplasate la Sibiu Sud și Bradu, pot regla rapid tensiunea și pot contribui la integrarea energiei regenerabile."
+  },
+  {
+    "group_id": "group_04a3c6152f",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/femeie.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Membră a familiei regale din Abu Dhabi, condamnată la Londra! Femeia a fost găsită inconștientă pe stradă, sub influența substanțelor interzise",
+        "link": "https://www.cancan.ro/membra-a-familiei-regale-din-abu-dhabi-condamnata-la-londra-femeia-a-fost-gasita-inconstienta-pe-strada-sub-influenta-substantelor-interzise-21530524"
+      }
+    ],
+    "published_at": 1792062132,
+    "title_hu": "Membră a familiei regale din Abu Dhabi, condamnată la Londra! Femeia a fost găsită inconștientă pe stradă, sub influența substanțelor interzise",
+    "lead_hu": "Un caz șocant a ajuns în atenția justiției britanice, după ce o femeie în vârstă de 32 de ani, asociată prin căsătorie cu familia regală din Abu Dhabi, a fost găsită inconștientă pe o stradă din vestu…",
+    "content_hu": "Un caz șocant a ajuns în atenția justiției britanice, după ce o femeie în vârstă de 32 de ani, asociată prin căsătorie cu familia regală din Abu Dhabi, a fost găsită inconștientă pe o stradă din vestul Londrei, în urma consumului de substanțe. În apropierea sa se afla un bărbat care, de asemenea, își pierduse […]",
+    "title_ro": "Membră a familiei regale din Abu Dhabi, condamnată la Londra! Femeia a fost găsită inconștientă pe stradă, sub influența substanțelor interzise",
+    "lead_ro": "Un caz șocant a ajuns în atenția justiției britanice, după ce o femeie în vârstă de 32 de ani, asociată prin căsătorie cu familia regală din Abu Dhabi, a fost găsită inconștientă pe o stradă din vestu…",
+    "content_ro": "Un caz șocant a ajuns în atenția justiției britanice, după ce o femeie în vârstă de 32 de ani, asociată prin căsătorie cu familia regală din Abu Dhabi, a fost găsită inconștientă pe o stradă din vestul Londrei, în urma consumului de substanțe. În apropierea sa se afla un bărbat care, de asemenea, își pierduse […]"
   },
   {
     "group_id": "group_a56a3de762",
@@ -4106,27 +4904,6 @@
     "content_ro": "• **Consiliul Patronatelor Bancare din România (CPBR)** contestă argumentele prezentate de președintele Consiliului Concurenței, Bogdan Chirițoiu, în dosarul ROBOR și susține că temeinicia amenzilor trebuie analizată cu prioritate în instanță.\n\n• **Potrivit CPBR**, observarea sau schimbul de informații privind cotațiile băncilor nu demonstrează automat că instituțiile au încheiat o înțelegere anticoncurențială. Organizația afirmă că trebuie dovedită concret conduita ilegală imputată băncilor.\n\n• **Reprezentanții patronatelor bancare susțin** că regulile de stabilire a ROBOR și transparența cotațiilor nu constituie, prin ele însele, dovezi ale unei coordonări. CPBR mai arată că interesele economice ale băncilor nu sunt neapărat identice și că un ROBOR mai ridicat nu aduce automat beneficii fiecărei instituții.\n\n• **Consiliul Concurenței** a aplicat amenzi totale de aproximativ 3,73 miliarde de lei, echivalentul a circa 710 milioane de euro, pentru 10 bănci. Autoritatea afirmă că instituțiile au făcut schimb de informații confidențiale și strategice în timpul procedurii de stabilire a cotațiilor ROBOR și și-au coordonat comportamentul.\n\n• **În privința sancțiunilor**, mai multe bănci au anunțat că le vor contesta pe căi legale. CPBR consideră că dezbaterea publică trebuie să respecte dreptul băncilor la apărare și independența justiției; poziția organizației nu anulează însă concluziile autorității de concurență."
   },
   {
-    "group_id": "group_ba1a332f1d",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/4531ff64-e8f6-4e93-86d0-377858822e1f.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Wolt anunță un parteneriat cu DGASPC Sector 3, dedicat seniorilor din comunitate",
-        "link": "https://www.gsp.ro/comercial/comunicat/wolt-anunta-un-parteneriat-cu-dgaspc-sector-3-dedicat-seniorilor-din-comunitate-988331.html"
-      }
-    ],
-    "published_at": 1792055389,
-    "title_hu": "Wolt anunță un parteneriat cu DGASPC Sector 3, dedicat seniorilor din comunitate",
-    "lead_hu": "Wolt România anunță un parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Sector 3, prin care susține activitățile instituției dedicate comunității locale. Colaborarea a înce…",
-    "content_hu": "Wolt România anunță un parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Sector 3, prin care susține activitățile instituției dedicate comunității locale. Colaborarea a început cu o inițiativă pentru membrii Clubului Seniorilor „Râmnicu Sărat” și face parte din direcția Wolt de implicare în comunitățile în care este prezentă. ...",
-    "title_ro": "Wolt anunță un parteneriat cu DGASPC Sector 3, dedicat seniorilor din comunitate",
-    "lead_ro": "Wolt România anunță un parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Sector 3, prin care susține activitățile instituției dedicate comunității locale. Colaborarea a înce…",
-    "content_ro": "Wolt România anunță un parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Sector 3, prin care susține activitățile instituției dedicate comunității locale. Colaborarea a început cu o inițiativă pentru membrii Clubului Seniorilor „Râmnicu Sărat” și face parte din direcția Wolt de implicare în comunitățile în care este prezentă. ..."
-  },
-  {
     "group_id": "group_045e05c221",
     "category": "Általános",
     "image": "https://maszol.ro/resized/2026_oktober/14/cikk_szirena_rendorseg_politie_pexels_(1)_(1).jpg",
@@ -4169,34 +4946,6 @@
     "content_ro": "Dan Alexa (46 de ani), fostul internațional român și actualul antrenor al Politehnicii Timișoara, s-a aflat în centrul unui scandal monden în luna martie, după ce numele său a fost asociat cu despărțirea dintre Andreea Popescu și Rareș Cojoc, campion mondial la dans sportiv. Andreea Popescu și Rareș Cojoc au format un cuplu timp de aproximativ zece ani și au împreună trei copii. ..."
   },
   {
-    "group_id": "group_1509bc2c09",
-    "fingerprint": "ecf41bbf4b58a4688e1cfb67d32e2cb6",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Camera Deputaților/Fotbaliștii de la Steaua 1986 câștigători ai Cupei Campionilor Europeni beneficiază de indemnizație de merit",
-        "link": "https://agerpres.ro/social/2026/10/14/camera-deputatilor-fotbalistii-de-la-steaua-1986-castigatori-ai-cupei-campionilor-europeni-beneficia--1602857"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Componenții echipei Steaua câștigătoare a Cupei Campionilor Europeni în 1986 primesc indemnizații de merit",
-        "link": "https://stirileprotv.ro/stiri/sport/componentii-echipei-steaua-castigatoare-a-cupei-campionilor-europeni-in-1986-primesc-indemnizatii-de-merit.html"
-      }
-    ],
-    "published_at": 1792055222,
-    "title_hu": "A Steaua 1986-os BEK-győztes játékosai érdemjuttatást kaphatnak",
-    "lead_hu": "A román képviselőház elfogadta azt a törvényjavaslatot, amely érdemjuttatásra jogosítja az 1986-ban BEK-et nyerő Steaua București csapatának tagjait. A döntő házként eljáró képviselőház szavazása után a jogszabály kihirdetésre vár.",
-    "content_hu": "• **A román képviselőház** elfogadta az érdemjuttatásokról szóló törvénymódosítást, amely a Steaua București 1986-os BEK-győztes csapatának tagjait is a jogosultak közé sorolja.\n\n• **A szavazáson** 253 képviselő támogatta a javaslatot; egy képviselő nem szavazott. A képviselőház döntő házként járt el, így a jogszabály kihirdetésre kerül.\n\n• **A jogosultság szabálya** a román klubcsapatok azon sportolóira terjed ki, akik hozzájárultak az európai BEK, Bajnokok Ligája vagy Szuperkupa megnyeréséhez; a teljesítmény éve nem korlátozó tényező. A csapattagságot és az eredményt az illetékes országos sportszövetség igazolja.",
-    "title_ro": "Jucătorii Stelei, câștigători ai Cupei Campionilor Europeni în 1986, pot primi indemnizație de merit",
-    "lead_ro": "Camera Deputaților din România a adoptat proiectul de lege care include între beneficiarii indemnizației de merit componenții echipei Steaua București, câștigătoare a Cupei Campionilor Europeni în 1986. După votul Camerei, care a fost for decizional, legea urmează să fie promulgată.",
-    "content_ro": "• **Camera Deputaților din România** a adoptat modificarea legislativă privind indemnizațiile de merit, care îi include între beneficiari pe componenții echipei Steaua București, câștigătoare a Cupei Campionilor Europeni în 1986.\n\n• **La vot** s-au înregistrat 253 de voturi pentru, iar un deputat nu a votat. Camera Deputaților a fost for decizional, astfel că legea urmează să fie promulgată.\n\n• **Criteriul de eligibilitate** se aplică sportivilor români care au făcut parte din echipe de club din România și au contribuit la câștigarea Cupei Campionilor Europeni, a Ligii Campionilor sau a Supercupei Europei, indiferent de anul performanței. Apartenența la echipă și rezultatul sunt certificate de federația sportivă națională de specialitate."
-  },
-  {
     "group_id": "group_2e8d6e067e",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8074947-mediafax_foto-dpa_hepta-1024x683.jpg",
@@ -4216,27 +4965,6 @@
     "title_ro": "SUA ia în considerare relaxarea sancțiunilor impuse „Flotei fantomă” a Rusiei",
     "lead_ro": "Administrația Trump ia în considerare relaxarea restricțiilor impuse petrolierelor legate de Rusia, Iran și Venezuela, în încercarea de a reduce costurile de transport maritim, care au atins niveluri …",
     "content_ro": "Administrația Trump ia în considerare relaxarea restricțiilor impuse petrolierelor legate de Rusia, Iran și Venezuela, în încercarea de a reduce costurile de transport maritim, care au atins niveluri record și au perturbat comerțul mondial cu energie, potrivit unui oficial american citat de Reuters."
-  },
-  {
-    "group_id": "group_1ff7fe1dc9",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDQxNl8zMDE0/NDE2X0hhb3MtaW4tSXN0YW5idWwtcHJv/dm9jYXQtZGUtaW51bmRhdGlpXy1Gb3Rv/LVByb2ZpbWVkaWEuanBnJmhhc2g9Yzcx/MzgwODU5YmU2NWI4N2NhZDVkN2Q5YmM2OTlmOTA=.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Cel puțin două persoane au murit după ce ploile torențiale și inundațiile de proporții au paralizat Istanbulul",
-        "link": "https://www.digi24.ro/stiri/externe/cel-putin-doua-persoane-au-murit-dupa-ce-ploile-torentiale-si-inundatiile-de-proportii-au-paralizat-istanbulul-3993303"
-      }
-    ],
-    "published_at": 1792055073,
-    "title_hu": "Cel puțin două persoane au murit după ce ploile torențiale și inundațiile de proporții au paralizat Istanbulul",
-    "lead_hu": "O ploaie torențială a paralizat o mare parte din Istanbul, inundând locuințe și drumuri și provocând moartea a cel puțin două persoane. Primăria Metropolitană din Istanbul a declarat că în unele zone …",
-    "content_hu": "O ploaie torențială a paralizat o mare parte din Istanbul, inundând locuințe și drumuri și provocând moartea a cel puțin două persoane. Primăria Metropolitană din Istanbul a declarat că în unele zone s-au înregistrat cele mai mari cantități de precipitații din 1985 încoace, relatează Euronews.",
-    "title_ro": "Cel puțin două persoane au murit după ce ploile torențiale și inundațiile de proporții au paralizat Istanbulul",
-    "lead_ro": "O ploaie torențială a paralizat o mare parte din Istanbul, inundând locuințe și drumuri și provocând moartea a cel puțin două persoane. Primăria Metropolitană din Istanbul a declarat că în unele zone …",
-    "content_ro": "O ploaie torențială a paralizat o mare parte din Istanbul, inundând locuințe și drumuri și provocând moartea a cel puțin două persoane. Primăria Metropolitană din Istanbul a declarat că în unele zone s-au înregistrat cele mai mari cantități de precipitații din 1985 încoace, relatează Euronews."
   },
   {
     "group_id": "group_8351082633",
@@ -7331,12 +8059,12 @@
   },
   {
     "group_id": "group_1233b0de03",
-    "fingerprint": "75cb8ccc60e0649403b6f25ae5427fc0",
+    "fingerprint": "911c996d14f2dc7d4592c5d5ad795913",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2025/07/dedeman-foto.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 3,
     "sources": [
       {
         "source": "G4Media",
@@ -7349,28 +8077,18 @@
         "link": "https://hotnews.ro/dupa-35-de-ani-de-prezenta-in-grecia-magazinele-praktiker-sunt-redenumite-dedeman-2376489"
       },
       {
-        "source": "Economedia",
-        "title": "Dedeman își pune numele pe magazinele Praktiker din Grecia, după ce compania fraților Pavăl a preluat lanțul elen",
-        "link": "https://economedia.ro/dedeman-isi-pune-numele-pe-magazinele-praktiker-din-grecia-dupa-ce-compania-fratilor-paval-a-preluat-lantul-elen.html"
-      },
-      {
-        "source": "Economedia",
-        "title": "Magazinele Praktiker din Grecia sunt redenumite Dedeman / Presa greacă: Sunt aduse mărfuri fabricate în uzinele din România",
-        "link": "https://economedia.ro/magazinele-praktiker-din-grecia-sunt-redenumite-dedeman-presa-greaca-sunt-aduse-marfuri-fabricate-in-uzinele-din-romania.html"
-      },
-      {
         "source": "Ziarul Financiar",
         "title": "Fraţii Pavăl duc brandul Dedeman în Grecia, prin rebranduirea magazinelor Praktiker, preluate în 2025. Planul include şi introducerea în magazinele din Grecia a produselor sub marcă proprie, fabricate în România",
         "link": "https://www.zf.ro/zf-24/fratii-paval-duc-brandul-dedeman-grecia-rebranduirea-magazinelor-praktiker-preluate-2025-planul-include-introducerea-magazinele-grecia-produselor-marca-proprie-fabricate-romania-23260614"
       }
     ],
     "published_at": 1792048680,
-    "title_hu": "A görög Praktiker üzletek Dedemanra váltanak; az első görög üzlet Ellinikóban nyílt",
-    "lead_hu": "A Dedeman görögországi hálózatának átalakítása a tavroszi zászlóshajó üzlet felújításával és átnevezésével kezdődött, a folyamat a lánc további 16 üzletére is kiterjed. A Praktiker Hellas 2025 nyarán került a Dedemant tulajdonló Paval Holding irányítása alá; a vállalat átszervezést, romániai gyártású saját márkás termékek bevezetését és a nyereségesség helyreállítását tervezi.",
-    "content_hu": "• **Megkezdődött a Praktiker Hellas átnevezése:** a görögországi barkácsáruházlánc üzletei fokozatosan a Dedeman nevet veszik fel, a márkaváltást jelentős felújítás kíséri.\n\n• **A tavroszi üzletben indult el az átalakítás:** az Athén peremén található zászlóshajó üzlet után a hálózat további 16 egységében is sorra végzik el a névváltást és a felújítást.\n\n• **A Praktiker Hellas 2025 nyarán került a Paval Holding irányítása alá:** a román befektetési csoport tulajdonában van a romániai Dedeman barkácsáruházlánc is, amely piacvezető Romániában.\n\n• **Az átnevezés előkészítése 2025 februárjában kezdődött:** az eredeti tervek szerint a feliratok cseréjére később, 2027-től került volna sor.\n\n• **A Praktiker márka 1991 novemberében jelent meg Görögországban:** az első üzlet Ellinikóban nyílt meg a német Praktiker AG leányvállalataként; az anyavállalat 2013-as csődje után a görög egység a Fairfax tulajdonába került, de a neve változatlan maradt.\n\n• **A Dedeman saját márkás termékeket is bevezetne Görögországban:** a tervek szerint ezek a romániai Dedeman-gyárakban készülnek majd.\n\n• **A beszerzési és hálózatirányítási rendszert is átalakítják:** a cél a hatékonyság növelése és a működési költségek csökkentése; a Paval Holding romániai Dedemannál alkalmazott gyakorlatait a görög piaci viszonyokhoz igazítják.\n\n• **A cég 39 millió euróval növelte tőkéjét 2025 februárjában és márciusában:** a nyár folyamán befejezte az Adam Logistics, valamint az ingatlankezeléssel foglalkozó Petral – korábban Southrock – leányvállalatok beolvasztását is.\n\n• **A Praktiker Hellas 2024-es árbevétele 186,21 millió euró volt:** ez 0,7 százalékkal maradt el a 2023-as értéktől, miközben a veszteség 1,76 millió euróra nőtt az előző évi 1,40 millió euróról.\n\n• **A Dedeman egyik fő célja a nyereségesség helyreállítása:** a vállalat a 2025-ös pénzügyi év mérlegét még nem tette közzé.",
-    "title_ro": "Magazinele Praktiker din Grecia devin Dedeman; primul magazin s-a deschis la Elliniko",
-    "lead_ro": "Transformarea rețelei Dedeman din Grecia a început cu renovarea și redenumirea magazinului-fanion din Tavros, proces care va cuprinde și celelalte 16 magazine ale lanțului. Praktiker Hellas a trecut în vara anului 2025 sub controlul Paval Holding, proprietarul Dedeman; compania planifică o reorganizare, introducerea de produse sub marcă proprie fabricate în România și revenirea la profit.",
-    "content_ro": "• **A început redenumirea Praktiker Hellas:** magazinele lanțului de bricolaj din Grecia vor adopta treptat numele Dedeman, proces însoțit de renovări ample.\n\n• **Transformarea a început la magazinul din Tavros:** după magazinul-fanion de la marginea Atenei, redenumirea și renovarea vor continua treptat în celelalte 16 unități ale rețelei.\n\n• **Praktiker Hellas a trecut sub controlul Paval Holding în vara anului 2025:** grupul românesc de investiții deține și rețeaua Dedeman, lider pe piața de bricolaj din România.\n\n• **Pregătirile pentru redenumire au început în februarie 2025:** planul inițial prevedea ca înlocuirea inscripțiilor din magazine să înceapă mai târziu, din 2027.\n\n• **Brandul Praktiker a apărut în Grecia în noiembrie 1991:** primul magazin s-a deschis la Elliniko, ca filială a grupului german Praktiker AG; după falimentul companiei-mamă, în 2013, filiala greacă a fost preluată de Fairfax, fără să-și schimbe numele.\n\n• **Dedeman intenționează să introducă produse sub marcă proprie în Grecia:** acestea urmează să fie fabricate în uzinele Dedeman din România.\n\n• **Sistemele de aprovizionare și administrare a rețelei sunt în curs de reorganizare:** obiectivele sunt creșterea eficienței și reducerea costurilor operaționale, iar practicile Paval Holding aplicate la Dedeman în România sunt adaptate la realitățile pieței grecești.\n\n• **Compania și-a majorat capitalul cu 39 de milioane de euro în februarie și martie 2025:** în timpul verii a finalizat și absorbția filialelor Adam Logistics și Petral – fostă Southrock –, care se ocupă de administrarea proprietăților imobiliare.\n\n• **Praktiker Hellas a avut o cifră de afaceri de 186,21 milioane de euro în 2024:** valoarea a scăzut cu 0,7% față de 2023, iar pierderile au crescut la 1,76 milioane de euro, de la 1,40 milioane de euro în anul precedent.\n\n• **Revenirea la profit este unul dintre principalele obiective ale Dedeman:** compania nu a publicat încă bilanțul pentru exercițiul financiar 2025."
+    "title_hu": "A görög Praktiker üzletek Dedemanra váltanak; a tavroszi zászlóshajó után 16 üzlet következik",
+    "lead_hu": "A görög Praktiker Hellas üzleteiben megkezdődött a Dedeman név bevezetése, a tavroszi zászlóshajó áruház felújításával és átnevezésével. A Paval Holding a hálózat átszervezésével, saját márkás termékek bevezetésével, az eladások növelésével és a nyereségesség helyreállításával készül a görög piacra.",
+    "content_hu": "• **Megkezdődött az üzletek átnevezése:** a görögországi Praktiker Hellas áruházai fokozatosan Dedeman néven működnek tovább, a márkaváltást jelentős felújítás kíséri.\n\n• **A tavroszi zászlóshajó üzletben indult az átalakítás:** az athéni külvárosban található áruház után a hálózat további 16 egységében is sor kerül az átnevezésre és a felújításra.\n\n• **A Praktiker Hellas 2025 nyarán került a Paval Holding irányítása alá:** a román befektetési csoport a romániai Dedeman barkácsáruházláncot is birtokolja; a Dedeman piacvezető Romániában, és Délkelet-Európa egyik legnagyobb vállalata.\n\n• **Az átnevezés előkészítése 2025 februárjában kezdődött:** az eredeti tervek szerint a bolti feliratok cseréje csak 2027-ben indult volna el.\n\n• **A Praktiker márka 1991 novemberében jelent meg Görögországban:** az első üzlet Ellinikóban nyílt meg a német Praktiker AG leányvállalataként. Az anyavállalat 2013-as csődje után a görög egység a Fairfax tulajdonába került, de a neve változatlan maradt.\n\n• **Görögországban romániai gyártású, saját márkás termékeket vezetnének be:** a Dedeman tervei szerint ezek a romániai gyáraiban készülnek majd.\n\n• **Átalakítják a beszerzési és hálózatirányítási rendszert:** a cél a vállalat teljesítményének javítása és a működési költségek csökkentése; a romániai Dedemannál alkalmazott gyakorlatokat a görög piaci viszonyokhoz igazítják.\n\n• **A vállalat 39 millió euróval növelte tőkéjét 2025 februárjában és márciusában:** a nyár folyamán befejezte az Adam Logistics, valamint az ingatlankezeléssel foglalkozó Petral – korábban Southrock – leányvállalatok beolvasztását.\n\n• **A Dedeman Hellas célja az eladások növelése és a nyereségesség helyreállítása:** a vállalat 2025-ös pénzügyi évének mérlegét még nem tette közzé.\n\n• **A Praktiker Hellas 2024-es árbevétele 186,21 millió euró volt:** ez 0,7 százalékkal maradt el a 2023-as értéktől, miközben a veszteség 1,76 millió euróra nőtt az előző évi 1,40 millió euróról.",
+    "title_ro": "Magazinele Praktiker din Grecia devin Dedeman; după magazinul-fanion din Tavros urmează alte 16 unități",
+    "lead_ro": "Magazinele Praktiker Hellas au început să adopte numele Dedeman, procesul debutând cu renovarea și redenumirea magazinului-fanion din Tavros. Paval Holding pregătește reorganizarea rețelei, introducerea produselor sub marcă proprie, creșterea vânzărilor și revenirea la profitabilitate.",
+    "content_ro": "• **A început redenumirea magazinelor:** unitățile Praktiker Hellas din Grecia vor trece treptat la numele Dedeman, schimbarea fiind însoțită de renovări ample.\n\n• **Transformarea a debutat la magazinul-fanion din Tavros:** după unitatea din suburbia Atenei, redenumirea și renovările vor continua în celelalte 16 magazine ale rețelei.\n\n• **Praktiker Hellas a trecut sub controlul Paval Holding în vara anului 2025:** grupul românesc de investiții deține și rețeaua de bricolaj Dedeman, lider pe piața din România și una dintre cele mai mari companii din Europa de Sud-Est.\n\n• **Demersurile pentru redenumire au început în februarie 2025:** planul inițial prevedea ca înlocuirea inscripțiilor din magazine să înceapă abia în 2027.\n\n• **Marca Praktiker a apărut în Grecia în noiembrie 1991:** primul magazin a fost deschis în Elliniko, ca filială a grupului german Praktiker AG. După falimentul companiei-mamă, în 2013, filiala greacă a fost preluată de Fairfax, fără să-și schimbe numele.\n\n• **Dedeman intenționează să introducă în Grecia produse sub marcă proprie, fabricate în România:** acestea ar urma să fie produse în fabricile Dedeman din România.\n\n• **Sistemele de aprovizionare și de gestionare a rețelei sunt în curs de reorganizare:** obiectivele sunt îmbunătățirea performanței și reducerea costurilor operaționale, prin adaptarea practicilor Dedeman din România la piața greacă.\n\n• **Compania și-a majorat capitalul cu 39 de milioane de euro în februarie și martie 2025:** în timpul verii a finalizat absorbția filialelor Adam Logistics și Petral – fosta Southrock, cu activitate în administrarea proprietăților imobiliare.\n\n• **Dedeman Hellas urmărește să crească vânzările și să revină pe profit:** compania nu a publicat încă bilanțul pentru exercițiul financiar 2025.\n\n• **Cifra de afaceri a Praktiker Hellas a fost de 186,21 milioane de euro în 2024:** aceasta a scăzut cu 0,7% față de 2023, iar pierderile au crescut la 1,76 milioane de euro, de la 1,40 milioane în anul precedent."
   },
   {
     "group_id": "group_0fba182846",
@@ -9456,27 +10174,6 @@
     "content_ro": "Cu fonduri europene, România face un pas important în dezvoltarea învățământului dual, care le asigură elevilor și studenților nu doar pregătire teoretică, ci și practică."
   },
   {
-    "group_id": "group_0aa98d0bd2",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/15/053049/vlcsnap-2026-10-15-08h30m05s856.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Concordia și-a deschis primul birou la Bruxelles. Patronatele vor să influențeze deciziile și fondurile europene",
-        "link": "https://stirileprotv.ro/stiri/financiar/concordia-si-a-deschis-primul-birou-la-bruxelles-patronatele-vor-sa-influenteze-deciziile-si-fondurile-europene.html"
-      }
-    ],
-    "published_at": 1792042260,
-    "title_hu": "Concordia și-a deschis primul birou la Bruxelles. Patronatele vor să influențeze deciziile și fondurile europene",
-    "lead_hu": "Mediul de afaceri din România vrea să fie mai prezent la Bruxelles, acolo unde se negociază reguli, investiții și fonduri europene.",
-    "content_hu": "Mediul de afaceri din România vrea să fie mai prezent la Bruxelles, acolo unde se negociază reguli, investiții și fonduri europene.",
-    "title_ro": "Concordia și-a deschis primul birou la Bruxelles. Patronatele vor să influențeze deciziile și fondurile europene",
-    "lead_ro": "Mediul de afaceri din România vrea să fie mai prezent la Bruxelles, acolo unde se negociază reguli, investiții și fonduri europene.",
-    "content_ro": "Mediul de afaceri din România vrea să fie mai prezent la Bruxelles, acolo unde se negociază reguli, investiții și fonduri europene."
-  },
-  {
     "group_id": "group_caec74a9cd",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDA3Nl8zMDE0/MDc2X0NvcHktb2YtVW50aXRsZWQtNDku/cG5nJmhhc2g9M2E5ZGQyNjJhMzMxMjAwNTZhZjFiYzZlNjgzYjljYTQ=.png",
@@ -9596,44 +10293,6 @@
     "title_ro": "„Un meci bizar!” » Enzo Maresca a dezvăluit ce i-a spus Luis Enrique după Manchester City - PSG 2-4",
     "lead_ro": "Enzo Maresca, antrenorul lui Manchester City, consideră că echipa sa a demonstrat că se poate ridica la nivelul lui PSG, în ciuda înfrângerii suferite pe teren propriu, scor 2-4, în etapa a doua a faz…",
     "content_ro": "Enzo Maresca, antrenorul lui Manchester City, consideră că echipa sa a demonstrat că se poate ridica la nivelul lui PSG, în ciuda înfrângerii suferite pe teren propriu, scor 2-4, în etapa a doua a fazei principale din Liga Campionilor. Italianul a dezvăluit și ce i-a transmis Luis Enrique, tehnicianul campioanei Europei, imediat după fluierul final. Manchester City a avut parte de o seară complicată pe Etihad. ..."
-  },
-  {
-    "group_id": "group_c1f072ad63",
-    "fingerprint": "d770781d48bebfd4299b62ac0fba5480",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
-        "link": "https://agerpres.ro/justitie/2026/10/15/inalta-curte-s-ar-putea-pronunta-in-procesul-cu-guvernul-privind-restantele-salariale-ale-magistrati--1603107"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Înalta Curte ar putea da verdictul în procesul cu Guvernul privind restanțele magistraților. Miza este de 5 miliarde de lei",
-        "link": "https://stirileprotv.ro/justitie/inalta-curte-ar-putea-da-verdictul-in-procesul-cu-guvernul-privind-restantele-magistratilor-miza-este-de-5-miliarde-de-lei.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Verdict așteptat azi în procesul Înalta Curte-Guvern pentru restanțele salariale de 1 miliard de euro ale magistraților",
-        "link": "https://hotnews.ro/verdict-asteptat-azi-in-procesul-inalta-curte-guvern-pentru-restantele-salariale-de-1-miliard-de-euro-ale-magistratilor-2376503"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Decizie crucială la Înalta Curte: Magistrații își cer restanțele salariale de la Guvern",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/decizie-cruciala-la-inalta-curte-magistratii-isi-2564105.html"
-      }
-    ],
-    "published_at": 1792041942,
-    "title_hu": "Dönthet a legfelsőbb bíróság a bírák 5 milliárd lejes bérhátralékáról",
-    "lead_hu": "A román legfelsőbb bíróság csütörtökön hozhat végleges döntést a kormány és a pénzügyminisztérium ellen indított perben, amely a magisztrátusok visszamenőleges béremeléseiből eredő hátralékairól szól. Az ügy tétje mintegy 5 milliárd lej, körülbelül 1 milliárd euró; az alkotmánybíróság október 7-én elutasította Ilie Bolojan beadványát. A fellebbezést július eleje óta egy háromtagú tanács tárgyalja.",
-    "content_hu": "• **A legfelsőbb bíróság csütörtökön dönthet** jogerősen a kormány és a pénzügyminisztérium elleni perben, amely a magisztrátusok elmaradt béreit érinti. Az ügyben már hétszer elhalasztották a határozathozatalt.\n\n• **A fellebbezést július eleje óta egy háromtagú tanács tárgyalja.** A közigazgatási és adóügyi kollégium bírái Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon és Emilian-Constantin Meiu.\n\n• **A per tétje körülbelül 5 milliárd lej, mintegy 1 milliárd euró.** A bukaresti ítélőtábla május 5-én első fokon a legfelsőbb bíróságnak adott igazat, és arra kötelezte a kormányt, illetve a pénzügyminisztériumot, hogy költségvetési kiigazítással is biztosítsák a hátralékok kifizetését. A véglegessé válástól számított tíznapos teljesítési határidőt, késedelem esetére pedig napi 1 százalékos kötbért és a bruttó minimálbér 20 százalékának megfelelő napi pénzbírságot szabott ki.\n\n• **A legfelsőbb bíróság szerint a tartozás a bírák tulajdonhoz való jogát érinti.** A keresetben arra hivatkozott, hogy a bíráknak több mint tíz éve végrehajtatlan végrehajtható okirataik vannak; a bíróság szerint a kormány a hatalmi ágak szétválasztását is sérti, és aláássa az igazságszolgáltatás legitimitását.\n\n• **Az alkotmánybíróság október 7-én elutasította Bolojan beadványát.** A testület a kormány és a legfelsőbb bíróság közötti alkotmányos jogi konfliktus megállapítására irányuló beadványt elfogadhatatlannak minősítette, és kimondta, hogy nem volt ilyen konfliktus. Indoklása szerint nem feladata a bírói ítéletek felülvizsgálata vagy módosítása; az ilyen kifogásokat rendes jogorvoslati úton kell rendezni.\n\n• **A kormány vitatja a bíróság költségvetési hatáskörét.** A perben alkotmánybírósági eljárás kezdeményezését kérte annak tisztázására, kötelezheti-e a bíróság a kormányt többletforrások biztosítására, illetve előírhat-e a törvényben meghatározott költségvetési kereten felüli juttatásokat. Az Európai Unió Bíróságához is előzetes döntéshozatali kérdést intézett volna, és az eljárás felfüggesztését kérte. Ilie Bolojan ügyvivő miniszterelnök július 2-án alkotmányos jogi konfliktus megállapítását kérte a legfelsőbb bírósággal szemben.\n\n• **A 2026-os költségvetési tervezet közel 5 milliárd lejt irányzott elő a legfelsőbb bíróságnak.** A pénzügyminisztérium márciusban továbbított tervezete mintegy 50 százalékkal nagyobb összeget tartalmazott az előző évinél; a többletforrást a visszamenőleges béremelésekből eredő hátralékokra szánták.\n\n• **A hátralékok a 2018-tól visszamenőleg alkalmazott 25 százalékos béremelésből erednek.** A legfelsőbb bíróság és a főügyészség 2023-ban döntött a bírák és ügyészek fizetésének emeléséről, bírósági határozatokhoz igazodva. A kormány a kifizetések egy részét elhalasztotta, a forrásokat pedig egy 1,1 milliárd lejes, a PSD által támogatott szociális segélycsomagra irányította át.",
-    "title_ro": "Înalta Curte ar putea decide în procesul privind restanțele salariale de 5 miliarde de lei",
-    "lead_ro": "Înalta Curte de Casație și Justiție ar putea pronunța joi verdictul definitiv în procesul cu Guvernul și Ministerul Finanțelor privind restanțele salariale rezultate din majorările retroactive acordate magistraților. Miza este de aproximativ 5 miliarde de lei, echivalentul a circa un miliard de euro, iar Curtea Constituțională a respins pe 7 octombrie sesizarea lui Ilie Bolojan. Recursul este judecat de la începutul lunii iulie de un complet de trei magistrați.",
-    "content_ro": "• **Înalta Curte ar putea pronunța joi soluția definitivă** în procesul cu Guvernul și Ministerul Finanțelor privind restanțele salariale ale magistraților. Pronunțarea a fost amânată deja de șapte ori.\n\n• **Recursul este judecat de la începutul lunii iulie de un complet de trei magistrați.** Din Secția de Contencios Administrativ și Fiscal fac parte Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon și Emilian-Constantin Meiu.\n\n• **Miza procesului este de aproximativ 5 miliarde de lei, circa un miliard de euro.** Curtea de Apel București a admis pe 5 mai acțiunea Înaltei Curți și a obligat Guvernul și Ministerul Finanțelor să plătească restanțele, inclusiv prin rectificare bugetară. Instanța a stabilit un termen de executare de zece zile de la rămânerea definitivă a hotărârii, penalități de 1% pentru fiecare zi de întârziere și o amendă zilnică de 20% din salariul minim brut.\n\n• **Înalta Curte susține că restanțele afectează dreptul de proprietate al judecătorilor.** Potrivit cererii, judecătorii dețin titluri executorii neexecutate de peste zece ani. Instanța mai acuză Guvernul că încalcă separarea puterilor în stat și subminează legitimitatea instanțelor.\n\n• **Curtea Constituțională a respins pe 7 octombrie sesizarea lui Bolojan.** CCR a considerat inadmisibilă cererea de constatare a unui conflict juridic de natură constituțională între Guvern și Înalta Curte și a stabilit că un asemenea conflict nu a existat. Curtea a explicat că nu îi revine să revizuiască sau să modifice hotărâri judecătorești; nemulțumirile trebuie soluționate prin căile obișnuite de atac.\n\n• **Guvernul contestă competența instanței în materie bugetară.** În proces, reprezentantul Guvernului a cerut sesizarea CCR pentru a clarifica dacă o instanță poate obliga executivul să aloce fonduri suplimentare sau poate stabili drepturi peste alocările bugetare prevăzute de lege. Guvernul a cerut și sesizarea Curții de Justiție a Uniunii Europene, precum și suspendarea procesului până la o decizie. Pe 2 iulie, premierul interimar Ilie Bolojan a sesizat CCR cu privire la un presupus conflict juridic de natură constituțională cu Înalta Curte.\n\n• **Proiectul bugetului pe 2026 prevedea aproape 5 miliarde de lei pentru Înalta Curte.** Proiectul transmis Parlamentului de Ministerul Finanțelor în martie includea o sumă cu aproximativ 50% mai mare decât în anul precedent, destinată achitării restanțelor salariale rezultate din majorările retroactive.\n\n• **Restanțele provin din majorarea salarială de 25%, aplicată retroactiv din 2018.** În 2023, Înalta Curte și Parchetul General au decis majorarea salariilor judecătorilor și procurorilor pentru a le alinia unor hotărâri judecătorești. Guvernul a amânat o parte din plăți și a redirecționat fondurile către un pachet de ajutoare sociale de 1,1 miliarde de lei, promovat de PSD."
   },
   {
     "group_id": "group_c3a77740d7",
