@@ -1,5 +1,217 @@
 [
   {
+    "group_id": "group_0c47781c62",
+    "category": "Gazdaság",
+    "image": "https://www.g4media.ro//wp-content/uploads/2021/03/Pod-Giurgiu-Ruse-vama-e1614961001403.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Birocrație, bani, gropi în vamă și trenuri neelectrificate / Guvernul bulgar este somat să desființeze taxa de la Podul Giurgiu–Ruse / Gropile de pe pod se dovedesc a fi „proprietatea” Agenției Vamale, nu a Agenției pentru Infrastructură Rutieră",
+        "link": "https://www.g4media.ro/birocratie-bani-gropi-in-vama-si-trenuri-neelectrificate-guvernul-bulgar-este-somat-sa-desfiinteze-taxa-de-la-podul-giurgiu-ruse-gropile-de-pe-pod-se-dovedesc-a-fi-proprietatea-agent.html"
+      }
+    ],
+    "published_at": 1792038647,
+    "title_hu": "Birocrație, bani, gropi în vamă și trenuri neelectrificate / Guvernul bulgar este somat să desființeze taxa de la Podul Giurgiu–Ruse / Gropile de pe pod se dovedesc a fi „proprietatea” Agenției Vamale, nu a Agenției pentru Infrastructură Rutieră",
+    "lead_hu": "Mai mulți politicieni ruși au făcut apel pentru o poziție unitară a partidelor și eliminarea imediată a taxei de trecere a podului peste Dunăre de pe partea bulgară, relatează Agenția de presă Rador, …",
+    "content_hu": "Mai mulți politicieni ruși au făcut apel pentru o poziție unitară a partidelor și eliminarea imediată a taxei de trecere a podului peste Dunăre de pe partea bulgară, relatează Agenția de presă Rador, care citează presa bulgară. Aceștia și-au anunțat poziția miercuri, într-o conferință de presă la Ruse, după ce autoritățile române au eliminat deja […] © G4Media.ro.",
+    "title_ro": "Birocrație, bani, gropi în vamă și trenuri neelectrificate / Guvernul bulgar este somat să desființeze taxa de la Podul Giurgiu–Ruse / Gropile de pe pod se dovedesc a fi „proprietatea” Agenției Vamale, nu a Agenției pentru Infrastructură Rutieră",
+    "lead_ro": "Mai mulți politicieni ruși au făcut apel pentru o poziție unitară a partidelor și eliminarea imediată a taxei de trecere a podului peste Dunăre de pe partea bulgară, relatează Agenția de presă Rador, …",
+    "content_ro": "Mai mulți politicieni ruși au făcut apel pentru o poziție unitară a partidelor și eliminarea imediată a taxei de trecere a podului peste Dunăre de pe partea bulgară, relatează Agenția de presă Rador, care citează presa bulgară. Aceștia și-au anunțat poziția miercuri, într-o conferință de presă la Ruse, după ce autoritățile române au eliminat deja […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_7182acd2f1",
+    "fingerprint": "c471729479dbbd846776e30565b358a4",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA2JTJGMjgzNTYyMV8yODM1/NjIxX056Z3dKbWc5TkRRd0ptaGhjMmc5/WWpZMU9EWTRaamcyWWpRNE4yTXhNRGt4/WlRnd1lXSTJaR0k0WkRZNVptUV90aHVt/Yl8uanBnJmhhc2g9NGNkNGY1MzllYTEzNzAwNWM0ZGZmMmUwZmQ5MzMxNjk=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Radu Miruţă i-a propus omologului bulgar înfiinţarea unui comandament militar comun la Marea Neagră. „Suntem obligați să acționăm”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/radu-miruta-i-a-propus-omologului-bulgar-infiintarea-unui-comandament-militar-comun-la-marea-neagra-suntem-obligati-sa-actionam-3992619"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Radu Miruță, discuție cu omologul său bulgar pentru înființarea unui comandament militar la Marea Neagră: România este pregătită să preia conducerea comandamentului",
+        "link": "https://www.mediafax.ro/stirile-zilei/radu-miruta-discutie-cu-omologul-sau-bulgar-pentru-infiintarea-unui-comandament-militar-la-marea-neagra-romania-este-pregatita-sa-preia-conducerea-comandamentului-23825507"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Radu Miruță vrea un comandament militar comun al NATO la Marea Neagră. „România este pregătită să preia conducerea din 2028”",
+        "link": "https://adevarul.ro/politica/radu-miruta-vrea-un-comandament-militar-comun-al-2564062.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Radu Miruță: Am propus Bulgariei să cerem NATO să înființeze un comandament militar la Marea Neagră care să fie condus prin rotație de țările riverane / România este pregătită să preia conducerea din 2028",
+        "link": "https://www.g4media.ro/radu-miruta-am-propus-bulgariei-sa-cerem-nato-sa-infiinteze-un-comandament-militar-la-marea-neagra-care-sa-fie-condus-prin-rotatie-de-tarile-riverane-romania-este-pregatita-sa-preia-conducerea-din.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Közös fekete-tengeri katonai parancsnokságot szorgalmaz Miruță",
+        "link": "https://maszol.ro/belfold/Kozos-fekete-tengeri-katonai-parancsnoksagot-szorgalmaz-Miruta"
+      }
+    ],
+    "published_at": 1792038610,
+    "title_hu": "Román–bolgár kezdeményezés készül közös NATO-parancsnokságra a Fekete-tengeren",
+    "lead_hu": "Radu Miruță román ügyvivő védelmi miniszter október 14-én közös levelet javasolt bolgár kollégájának a NATO vezetéséhez egy, a Fekete-tenger part menti NATO-tagállamait tömörítő katonai parancsnokság létrehozásáról. Románia 2028-tól vállalná a parancsnokság vezetését és befogadását; a friss beszámolók egy Sulina közelében kigyulladt hajóról is hírt adtak.",
+    "content_hu": "• **Október 14-én Radu Miruță román ügyvivő védelmi miniszter** telefonbeszélgetést követően közös levél aláírását javasolta Dimitar Stoyanov bolgár védelmi miniszternek, hogy a két ország a NATO vezetésénél támogassa egy közös fekete-tengeri katonai parancsnokság létrehozását.\n\n• **A tervezett parancsnokság** vezetését és helyszínét rotációs rendszerben osztanák meg a Fekete-tenger part menti NATO-tagállamai között.\n\n• **Románia 2028-tól** kész átvenni a parancsnokság vezetését, és a román tengerparton befogadni a szervezetet. Addig a parancsnokság a török tengerparton működhetne román és bolgár tisztek részvételével.\n\n• **Október 13-án két kereskedelmi hajót ért dróntámadás a Fekete-tengeren:** az egyik megrongálódott, a másik elsüllyedt. A 15 fős legénységet biztonságban kimenekítették és Várnába szállították; öt tengerész könnyebb sérülései miatt ellátásra szorult. A fedélzeten hét ukrán és nyolc azeri állampolgár tartózkodott.\n\n• **A szófiai incidensek után** sürgősségi ülést hívtak össze a bolgár Biztonsági Tanácsban. Rumen Radev bolgár miniszterelnök „teljesen elfogadhatatlannak” nevezte a történteket, és közölte, hogy megbeszélésre hívja Oroszország szófiai nagykövetét.\n\n• **Radu Miruță szerint** a fekete-tengeri incidensek – köztük a drónok, elsüllyedt hajók és tengeri aknák – cselekvésre késztetik a térség országait. Úgy vélte, az ukrán infrastruktúra elleni ismétlődő orosz támadások a környező országok biztonságára is kockázatot jelentenek, és a nemzeti, illetve szövetségi reagálóképesség tesztelését célozhatják; ezért a légi és tengeri drónincidensek nem kezelhetők elszigetelt nemzeti ügyként.\n\n• **Románia a biztonsági és gazdasági érdekeit is védené** a Fekete-tengeren, a nemzetközi jog maradéktalan tiszteletben tartásával – közölte Miruță.\n\n• **Nicușor Dan román elnök** bolgár kollégájával, Iliana Iotovával is egyeztetett; a két ország az EU és a NATO keretében határozottabb drónelhárító intézkedéseket támogatna.\n\n• **Szerda este egy Comore-szigeteki zászló alatt közlekedő hajón tűz ütött ki** Sulina közelében – számolt be róla az Agerpres.",
+    "title_ro": "Inițiativă româno-bulgară pentru un comandament NATO comun la Marea Neagră",
+    "lead_ro": "La 14 octombrie, ministrul interimar român al Apărării, Radu Miruță, a propus omologului său bulgar semnarea unei scrisori comune către conducerea NATO pentru înființarea unui comandament militar al statelor NATO riverane Mării Negre. România este pregătită să preia conducerea și să găzduiască structura din 2028; relatările recente au anunțat și un incendiu la o navă în apropiere de Sulina.",
+    "content_ro": "• **La 14 octombrie, ministrul interimar român al Apărării, Radu Miruță,** i-a propus ministrului bulgar al Apărării, Dimitar Stoyanov, după o convorbire telefonică, semnarea unei scrisori comune către conducerea NATO pentru susținerea înființării unui comandament militar comun la Marea Neagră.\n\n• **Comandamentul propus** ar urma să fie condus și găzduit prin rotație de statele NATO riverane Mării Negre.\n\n• **România este pregătită ca din 2028** să preia conducerea comandamentului și să găzduiască structura pe litoralul românesc. Până atunci, aceasta ar putea funcționa pe litoralul turcesc, cu participarea unor ofițeri români și bulgari.\n\n• **La 13 octombrie, două nave comerciale au fost lovite de drone în Marea Neagră:** una a fost avariată, iar cealaltă s-a scufundat. Cei 15 membri ai echipajului au fost evacuați în siguranță și transportați la Varna; cinci marinari au avut nevoie de îngrijiri pentru răni ușoare. La bord se aflau șapte cetățeni ucraineni și opt cetățeni azeri.\n\n• **După incidentele din largul Bulgariei,** a fost convocată o reuniune de urgență a Consiliului de Securitate de la Sofia. Premierul bulgar Rumen Radev a calificat situația drept „absolut inacceptabilă” și a anunțat că o va invita la discuții pe ambasadoarea Rusiei la Sofia.\n\n• **Potrivit lui Radu Miruță,** incidentele din Marea Neagră – inclusiv dronele, navele scufundate și minele marine – impun acțiuni comune. El a afirmat că atacurile repetate ale Rusiei asupra infrastructurii ucrainene creează riscuri de securitate pentru țările din regiune și par să testeze capacitatea de reacție națională și aliată; incidentele cu drone în spațiul aerian și maritim nu mai pot fi tratate ca probleme naționale izolate.\n\n• **România își va proteja și interesele de securitate și economice** la Marea Neagră, cu respectarea deplină a dreptului internațional, a declarat Miruță.\n\n• **Președintele român Nicușor Dan** a discutat și cu omoloaga sa bulgară, Iliana Iotova; cele două țări susțin măsuri mai ferme de combatere a dronelor în cadrul UE și NATO.\n\n• **Miercuri seara, o navă sub pavilionul Insulelor Comore a luat foc** în apropiere de Sulina, a relatat Agerpres."
+  },
+  {
+    "group_id": "group_9ed7cfaaea",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/05/suceava-pompieri-femeie-lovita-de-tren-1024x462.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Incendiu cu victime într-o localitate din județul Galați",
+        "link": "https://www.mediafax.ro/social/incendiu-cu-victime-intr-o-localitate-din-judetul-galati-23825645"
+      }
+    ],
+    "published_at": 1792038501,
+    "title_hu": "Incendiu cu victime într-o localitate din județul Galați",
+    "lead_hu": "Un incendiu a izbucnit în noaptea de miercuri spre joi în județul Galați. Pompierii anunță că o persoană a murit și că alta are nevoie de îngrijiri medicale. La fața locului intervin numeroase echipaj…",
+    "content_hu": "Un incendiu a izbucnit în noaptea de miercuri spre joi în județul Galați. Pompierii anunță că o persoană a murit și că alta are nevoie de îngrijiri medicale. La fața locului intervin numeroase echipaje de pompieri și de la Ambulanță.",
+    "title_ro": "Incendiu cu victime într-o localitate din județul Galați",
+    "lead_ro": "Un incendiu a izbucnit în noaptea de miercuri spre joi în județul Galați. Pompierii anunță că o persoană a murit și că alta are nevoie de îngrijiri medicale. La fața locului intervin numeroase echipaj…",
+    "content_ro": "Un incendiu a izbucnit în noaptea de miercuri spre joi în județul Galați. Pompierii anunță că o persoană a murit și că alta are nevoie de îngrijiri medicale. La fața locului intervin numeroase echipaje de pompieri și de la Ambulanță."
+  },
+  {
+    "group_id": "group_2a4ae616d9",
+    "fingerprint": "f25102e71d63aef449efe0099a254f5d",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Două avioane F-16 au fost ridicate în această seară, după ce sistemul radar a detectat o nouă țintă în apropierea Insulei Șerpilor",
+        "link": "https://www.digi24.ro/stiri/actualitate/doua-avioane-f-16-au-fost-ridicate-in-aceasta-seara-dupa-ce-sistemul-radar-a-detectat-o-noua-tinta-in-apropierea-insulei-serpilor-3992577"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Avioane de luptă F-16, mobilizate de Forțele Aeriene Române. Ce au detectat radarele în apropiere de Insula Șerpilor",
+        "link": "https://hotnews.ro/avioane-de-lupta-f-16-mobilizate-de-fortele-aeriene-romane-ce-au-detectat-radarele-in-apropiere-de-insula-serpilor-2376239"
+      },
+      {
+        "source": "G4Media",
+        "title": "MApN: Sistemul de supraveghere radar a detectat un grup de ținte aeriene în largul Mării Negre. Ținta a fost distrusă de apărarea aeriană ucraineană în zona localității Reni, la nord de brațul Chilia",
+        "link": "https://www.g4media.ro/ministerul-apararii-nationale-sistemul-de-supraveghere-radar-a-detectat-un-grup-de-tinte-aeriene-in-largul-marii-negre-tinta-a-fost-distrusa-de-apararea-aeriana-ucraineana-in-zona-localitatii-reni.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Noi alerte aeriene în Tulcea și Galați: două ținte au pătruns în spațiul aerian al României",
+        "link": "https://www.mediafax.ro/social/noi-alerte-aeriene-in-tulcea-si-galati-doua-tinte-au-patruns-in-spatiul-aerian-al-romaniei-23825549"
+      },
+      {
+        "source": "Maszol",
+        "title": "Újabb Ro-Alert riasztás: a nap folyamán ez már a negyedik",
+        "link": "https://maszol.ro/belfold/Ujabb-Ro-Alert-riasztas-a-nap-folyaman-ez-mar-a-negyedik"
+      }
+    ],
+    "published_at": 1792038490,
+    "title_hu": "Drónriasztások és légtérsértések Tulceában; éjjel újabb drónt észleltek Sulina közelében",
+    "lead_hu": "Október 14-én több RO-Alert-riasztást kaptak a Tulcea megyei lakosok drónveszély miatt, és a nap folyamán több légi cél rövid időre megsértette Románia légterét. Az esti incidens miatt Galați megye keleti részére is figyelmeztetést küldtek. Október 14-ről 15-re virradó éjjel egy drónt mintegy egy percig észleltek a román légtérben, Sulina közelében.",
+    "content_hu": "• **Október 14-én, szerda reggel** drónok lehetséges berepülésére figyelmeztető RO-Alert-riasztást kaptak Tulcea megye északi részének lakói.\n\n• **Az első riasztást 6:39-kor adták ki, és körülbelül 7:58-kor fújták le.** A lakosságot nyugalomra intették, és arra kérték, hogy húzódjon pincébe vagy polgári védelmi óvóhelyre; ha ilyen nem áll rendelkezésre, maradjon otthon, távol az ablakoktól és a külső falaktól.\n\n• **A román védelmi minisztérium radarjai három légi célt észleltek** az ukrajnai Vâlkove közelében, a román határ térségében. A minisztérium szerint ezek nem léptek be Románia légterébe.\n\n• **A légierő két F-16-os vadászgépet és egy IAR-330 SOCAT helikoptert indított** a helyzet megfigyelésére; a vadászgépek a borceai 86-os légibázisról szálltak fel.\n\n• **Körülbelül 8:20-kor újabb RO-Alert-riasztást adtak ki** Tulcea megye északi részén. A figyelmeztetés a légből lezuhanó tárgyak becsapódásának veszélyére is felhívta a figyelmet.\n\n• **A két reggeli riasztás összesített időtartama körülbelül 2 óra 21 perc volt** a ProTV beszámolója szerint. A csatorna azt is közölte, hogy az előző hónaptól a hatóságok az egyes riasztások végén külön üzenetben jelzik a veszélyhelyzet megszűnését.\n\n• **10:19-kor újabb riasztást adtak ki** Tulcea megye keleti és északi részére, miután a radarok egy másik drónt észleltek a román határ közelében. Két F-16-os vadászgépet ismét a levegőbe emeltek, ezúttal is a borceai 86-os légibázisról.\n\n• **A később észlelt drón rövid időre belépett Románia légterébe** a Fekete-tenger fölött, Sulina keleti térségében, majd átrepült Ukrajna légterébe, ahol az ukrán légvédelem lelőtte. A riasztás 11:22-kor ért véget.\n\n• **Délután újabb légi célt észleltek** a Kígyó-szigettől mintegy 30 kilométerre keletre. Két F-16-os vadászgép szállt fel, és 17:39-kor RO-Alert-üzenetet küldtek Tulcea megye északi és keleti részének lakóinak.\n\n• **A délutáni légi cél 17:38-kor lépett be a román légtérbe**, Sulinától mintegy 22 kilométerre északkeletre, a román felségvizek fölött. A román légteret 17:46-kor hagyta el; az ehhez kapcsolódó riasztás 19:03-kor ért véget.\n\n• **Este 20:02-kor újabb RO-Alert-üzenetet küldtek ki** a Tulcea megye északkeleti részén élőknek; ezt a Digi24 és a HotNews a nap negyedik riasztásaként írta le. A lakosságot arra kérték, hogy keressen óvóhelyet, vagy maradjon az ablakoktól és a külső falaktól távol.\n\n• **Az esti incidens során 20:04-kor két légi cél lépett be Románia légterébe.** A radar az egyikkel elvesztette a kapcsolatot a tenger fölött; a másik 20:13-kor Ukrajna felé távozott. A spanyol légierő két F-18-as gépét is felszállították a Mihail Kogălniceanu-i 57-es légibázisról.\n\n• **A Reni felé tartó cél miatt 20:33-kor RO-Alert-üzenetet küldtek ki** Galați megye keleti részére is, mert a lehetséges útvonala Galați városa felé vezetett. Az ukrán légvédelem Reni térségében megsemmisítette; a riasztás 21:14-kor ért véget.\n\n• **A ProTV a védelmi minisztériumra hivatkozva azt közölte, hogy a nap folyamán összesen három drón hatolt be Románia légterébe** a Fekete-tenger térségében.\n\n• **Az ISU Tulcea közlése szerint** a riasztások után nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **Az idei RO-Alert-üzenetek száma** Tulcea megyében már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.\n\n• **A Cancan által idézett hivatalos adatok szerint 2026. szeptember 27-ig** 81, a román határ közelében történt támadást, 30 jogosulatlan légtérsértést és négy lelőtt drónt tartottak nyilván.\n\n• **Október 14-ről 15-re virradó éjjel, 1:34-kor** egy drónt észleltek a román légtérben, Sulinától délkeletre, a román felségvizek fölött. A radar mintegy egy percig követte, majd a drón eltűnt a képernyőről.\n\n• **Az éjszakai művelet során két spanyol F-18-as és két román F-16-os vadászgépet is felszállítottak.** Az újabb légi célokat később a Kígyó-szigettől mintegy 77 kilométerre keletre észlelték; a román gépek a fetești-i 86-os légibázisról indultak.\n\n• **4:57-kor RO-Alert-riasztást küldtek Tulcea megye északi és keleti részére.** A védelmi minisztérium szerint nem jelentettek újabb román légtérsértést; a riasztás 5:46-kor ért véget.",
+    "title_ro": "Alerte cu drone și încălcări ale spațiului aerian în Tulcea; o nouă dronă detectată noaptea lângă Sulina",
+    "lead_ro": "Pe 14 octombrie, locuitorii județului Tulcea au primit mai multe mesaje RO-Alert din cauza riscului de drone, iar în cursul zilei mai multe ținte aeriene au încălcat pentru scurt timp spațiul aerian al României. În urma incidentului de seară, a fost emisă o alertă și pentru estul județului Galați. În noaptea de 14 spre 15 octombrie, o dronă a fost detectată timp de aproximativ un minut în spațiul aerian românesc, în apropiere de Sulina.",
+    "content_ro": "• **Miercuri dimineață, 14 octombrie,** locuitorii din nordul județului Tulcea au primit un mesaj RO-Alert privind o posibilă incursiune a unor drone.\n\n• **Prima alertă a fost transmisă la ora 6:39 și a încetat în jurul orei 7:58.** Populația a fost îndemnată să-și păstreze calmul și să se adăpostească în beciuri sau în adăposturi de protecție civilă; în lipsa acestora, oamenii au fost sfătuiți să rămână în locuințe, departe de ferestre și de pereții exteriori.\n\n• **Radarele Ministerului Apărării din România au detectat trei ținte aeriene** în apropierea localității Vâlkove, pe teritoriul Ucrainei, în zona frontierei române. Potrivit ministerului, acestea nu au pătruns în spațiul aerian al României.\n\n• **Forțele Aeriene au ridicat de la sol două aeronave F-16 și un elicopter IAR-330 SOCAT** pentru monitorizarea situației; avioanele au decolat de la Baza 86 Aeriană Borcea.\n\n• **În jurul orei 8:20 a fost transmisă o nouă alertă RO-Alert** pentru nordul județului Tulcea. Mesajul avertiza și asupra riscului de impact al unor obiecte căzute din aer.\n\n• **Cele două alerte de dimineață au durat în total aproximativ 2 ore și 21 de minute,** potrivit relatării ProTV. Postul a mai relatat că, din luna precedentă, autoritățile transmit un mesaj separat la încheierea fiecărei alerte.\n\n• **La ora 10:19 a fost transmisă o nouă alertă** pentru estul și nordul județului Tulcea, după ce radarele au detectat o altă dronă în apropierea frontierei României. Două aeronave F-16 au fost ridicate din nou de la sol, tot de la Baza 86 Aeriană Borcea.\n\n• **Drona detectată ulterior a pătruns pentru scurt timp în spațiul aerian românesc** deasupra Mării Negre, la est de Sulina, apoi a intrat în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Alerta a încetat la ora 11:22.\n\n• **După-amiază a fost detectată o nouă țintă aeriană** la aproximativ 30 de kilometri est de Insula Șerpilor. Două aeronave F-16 au decolat, iar la ora 17:39 a fost transmis un mesaj RO-Alert pentru locuitorii din nordul și estul județului Tulcea.\n\n• **Ținta aeriană a intrat în spațiul aerian românesc la ora 17:38,** la aproximativ 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale românești. A ieșit din spațiul aerian la ora 17:46; alerta aferentă a încetat la ora 19:03.\n\n• **La ora 20:02 a fost transmis un nou mesaj RO-Alert** pentru locuitorii din nord-estul județului Tulcea; Digi24 și HotNews l-au descris drept a patra alertă a zilei. Populația a fost îndemnată să se adăpostească sau să rămână în interior, departe de ferestre și de pereții exteriori.\n\n• **În incidentul de seară, două ținte aeriene au pătruns în spațiul aerian al României la ora 20:04.** Contactul radar cu una dintre ele a fost pierdut deasupra mării; cealaltă a ieșit spre Ucraina la ora 20:13. Două aeronave spaniole F-18 au fost ridicate de la Baza 57 Aeriană Mihail Kogălniceanu.\n\n• **Din cauza țintei care se îndrepta spre Reni, la ora 20:33 a fost transmis un mesaj RO-Alert** și pentru estul județului Galați, deoarece traiectoria posibilă ducea spre municipiul Galați. Apărarea antiaeriană ucraineană a distrus ținta în zona Reni, iar alerta a încetat la ora 21:14.\n\n• **ProTV, citând Ministerul Apărării, a relatat că trei drone au pătruns în cursul zilei în spațiul aerian al României** în zona Mării Negre.\n\n• **Potrivit ISU Tulcea,** după alerte nu au fost primite apeluri de urgență și nu au fost semnalate incidente în zona vizată.\n\n• **Numărul mesajelor RO-Alert transmise anul acesta** în județul Tulcea l-a depășit pe cel al mesajelor de alertă extremă transmise în România din același motiv în perioada 2023–2025.\n\n• **Potrivit datelor oficiale citate de Cancan, până la 27 septembrie 2026** au fost înregistrate 81 de atacuri în apropierea frontierei României, 30 de pătrunderi neautorizate în spațiul aerian și patru drone doborâte.\n\n• **În noaptea de 14 spre 15 octombrie, la ora 1:34,** o dronă a fost detectată în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale ale României. Radarul a urmărit-o timp de aproximativ un minut, după care aceasta a dispărut de pe ecran.\n\n• **În operațiunea din timpul nopții au fost ridicate de la sol două aeronave spaniole F-18 și două aeronave românești F-16.** Alte ținte aeriene au fost detectate ulterior la aproximativ 77 de kilometri est de Insula Șerpilor; avioanele românești au decolat de la Baza 86 Aeriană Fetești.\n\n• **La ora 4:57 a fost transmisă o alertă RO-Alert** pentru nordul și estul județului Tulcea. Ministerul Apărării a precizat că nu au fost raportate alte pătrunderi în spațiul aerian românesc; alerta a încetat la ora 5:46."
+  },
+  {
+    "group_id": "group_23735994f6",
+    "fingerprint": "aa0e3eb3c4da24e129dba98544f2060a",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Parlamentul brazilian aprobă reducerea timpului de lucru, promisă de Lula",
+        "link": "https://agerpres.ro/politic-extern/2026/10/15/parlamentul-brazilian-aproba-reducerea-timpului-de-lucru-promisa-de-lula--1603109"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Țara care a redus săptămâna de lucru de la șase la cinci zile. „Cea mai importantă victorie a muncitorilor”",
+        "link": "https://stirileprotv.ro/stiri/international/tara-care-a-redus-saptamana-de-lucru-de-la-sase-la-cinci-zile-cea-mai-importanta-victorie-a-muncitorilor.html"
+      }
+    ],
+    "published_at": 1792038372,
+    "title_hu": "A brazil parlament 40 órára csökkentette a heti munkaidőt",
+    "lead_hu": "A brazil parlament szerdán alkotmánymódosítással fogadta el a munkaidő csökkentését: a heti 44 óra helyett 40 órát írna elő, és sok dolgozónak heti két pihenőnapot biztosítana. A reformot a szenátus 75–1 arányban támogatta, bevezetése a következő 14 hónapban, fokozatosan történik.",
+    "content_hu": "• **A brazil parlament szerdán** alkotmánymódosítással fogadta el a munkaidő csökkentését, amely a heti munkaidőt 44 óráról 40 órára mérsékelné.\n\n• **A reform** sok brazil dolgozónak heti két pihenőnapot biztosítana a jelenlegi egy helyett, véget vetve a „6x1” rendszernek, amelyben az alkalmazottak hat napot dolgoznak, majd egy napot pihennek.\n\n• **A szenátus** 75 igen szavazattal és egy ellenszavazattal fogadta el a javaslatot, miután a képviselőház már májusban jóváhagyta. A változtatást a következő 14 hónap során, fokozatosan vezetik be.\n\n• **Luiz Inácio Lula da Silva elnök** a reformot politikai eredményként is igyekszik felmutatni a Flávio Bolsonaro elleni elnökválasztási második forduló előtt. A beszámoló szerint az első fordulóban Lula 45, Bolsonaro 47 százalékot szerzett; egy szerdán közzétett felmérés pedig 46–44 százalékos Bolsonaro-előnyt mutatott.",
+    "title_ro": "Parlamentul brazil a redus săptămâna de lucru la 40 de ore",
+    "lead_ro": "Parlamentul Braziliei a adoptat miercuri, printr-o reformă constituțională, reducerea săptămânii de lucru de la 44 la 40 de ore. Măsura, aprobată de Senat cu 75 de voturi pentru și unul împotrivă, ar urma să le ofere multor angajați două zile de odihnă pe săptămână și să fie introdusă treptat în următoarele 14 luni.",
+    "content_ro": "• **Parlamentul brazilian a adoptat miercuri** o reformă constituțională care reduce săptămâna de lucru de la 44 la 40 de ore.\n\n• **Reforma** le-ar permite multor angajați să aibă două zile de odihnă pe săptămână, față de una în prezent, și ar pune capăt sistemului „6x1”, în care se lucrează șase zile și se acordă o zi liberă.\n\n• **Senatul** a aprobat măsura cu 75 de voturi pentru și unul împotrivă, după ce Camera Deputaților o validase în luna mai. Aplicarea reformei este prevăzută să se facă treptat, în următoarele 14 luni.\n\n• **Președintele Luiz Inácio Lula da Silva** încearcă să valorifice reforma și în campania electorală, înaintea turului al doilea împotriva lui Flávio Bolsonaro. Potrivit relatării, Lula a obținut 45% din voturi în primul tur, față de 47% pentru Bolsonaro; un sondaj publicat miercuri îi credita pe cei doi cu 44%, respectiv 46%."
+  },
+  {
+    "group_id": "group_c1f072ad63",
+    "fingerprint": "170ce073fe6bedee090774fbffdd2712",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
+        "link": "https://agerpres.ro/justitie/2026/10/15/inalta-curte-s-ar-putea-pronunta-in-procesul-cu-guvernul-privind-restantele-salariale-ale-magistrati--1603107"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Înalta Curte ar putea da verdictul în procesul cu Guvernul privind restanțele magistraților. Miza este de 5 miliarde de lei",
+        "link": "https://stirileprotv.ro/justitie/inalta-curte-ar-putea-da-verdictul-in-procesul-cu-guvernul-privind-restantele-magistratilor-miza-este-de-5-miliarde-de-lei.html"
+      }
+    ],
+    "published_at": 1792038307,
+    "title_hu": "Dönthet a legfelsőbb bíróság a bírák 5 milliárd lejes bérhátralékáról",
+    "lead_hu": "A román legfelsőbb bíróság csütörtökön hozhat végleges döntést a kormány és a pénzügyminisztérium ellen indított perben, amely a bíráknak és ügyészeknek járó, visszamenőleges béremelésekből származó hátralékokról szól. Az ügy tétje mintegy 5 milliárd lej; a kormány vitatja, hogy a bíróság költségvetési források biztosítására kötelezheti.",
+    "content_hu": "• **A legfelsőbb bíróság csütörtökön dönthet** a jogerős ítéletről a kormány és a pénzügyminisztérium elleni perben, amely a magisztrátusok elmaradt béreit érinti. Az ügyben már hétszer elhalasztották a határozathozatalt.\n\n• **A per tétje körülbelül 5 milliárd lej.** A bukaresti ítélőtábla május 5-én első fokon a legfelsőbb bíróságnak adott igazat, és arra kötelezte a kormányt, illetve a pénzügyminisztériumot, hogy költségvetési kiigazítással is biztosítsák a hátralékok kifizetését. A véglegessé válástól számított tíznapos teljesítési határidőt, késedelem esetére pedig napi 1 százalékos kötbért és pénzbírságot szabott ki.\n\n• **A kormány vitatja a bíróság költségvetési hatáskörét.** Alkotmánybírósági és uniós bírósági eljárás kezdeményezését kérte, arra hivatkozva, hogy a költségvetési források elosztása a végrehajtó és a törvényhozó hatalom feladata. Ilie Bolojan ügyvivő miniszterelnök július 2-án alkotmányos természetű jogi konfliktus megállapítását kérte a legfelsőbb bírósággal szemben.\n\n• **A hátralékok a 2018-tól visszamenőleg alkalmazott, 25 százalékos béremelésből erednek.** A legfelsőbb bíróság és a főügyészség 2023-ban döntött a bírák és ügyészek fizetésének emeléséről, bírósági határozatokhoz igazodva. A kormány a kifizetések egy részét elhalasztotta, és a forrásokat egy 1,1 milliárd lejes szociális támogatási csomagra irányította át.",
+    "title_ro": "Înalta Curte ar putea decide în procesul privind restanțele salariale de 5 miliarde de lei",
+    "lead_ro": "Înalta Curte de Casație și Justiție ar putea pronunța joi decizia definitivă în procesul cu Guvernul și Ministerul Finanțelor privind restanțele salariale ale magistraților, rezultate din majorări retroactive. Miza este de aproximativ 5 miliarde de lei, iar Guvernul contestă posibilitatea ca instanța să impună alocarea unor fonduri bugetare.",
+    "content_ro": "• **Înalta Curte ar putea pronunța joi verdictul definitiv** în procesul cu Guvernul și Ministerul Finanțelor privind plata restanțelor salariale ale magistraților. Pronunțarea a fost amânată de șapte ori.\n\n• **Miza procesului este de aproximativ 5 miliarde de lei.** Pe 5 mai, Curtea de Apel București a admis în primă instanță acțiunea Înaltei Curți și a obligat Guvernul și Ministerul Finanțelor să achite restanțele, inclusiv printr-o rectificare bugetară. Decizia prevedea un termen de zece zile de la rămânerea definitivă și penalități de 1% pe zi de întârziere, precum și o amendă zilnică.\n\n• **Guvernul contestă competența instanței în materie bugetară.** Reprezentantul său a cerut sesizarea Curții Constituționale și a Curții de Justiție a Uniunii Europene, susținând că alocarea fondurilor ține de atribuțiile puterii executive și legislative. Pe 2 iulie, premierul interimar Ilie Bolojan a anunțat sesizarea Curții Constituționale privind un conflict juridic de natură constituțională cu Înalta Curte.\n\n• **Restanțele provin din majorarea cu 25% a salariilor, aplicată retroactiv din 2018.** În 2023, Înalta Curte și Parchetul General au decis majorarea salariilor judecătorilor și procurorilor, în urma unor hotărâri judecătorești. Guvernul a amânat o parte din plăți și a redirecționat fondurile către un pachet de ajutoare sociale de 1,1 miliarde de lei."
+  },
+  {
+    "group_id": "group_5c10baf7e7",
+    "fingerprint": "a9f1a8f4db8b2d1c99377430ede7afa2",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Președintele Nicușor Dan participă joi și vineri la reuniunea Consiliului European",
+        "link": "https://agerpres.ro/politic/2026/10/15/presedintele-nicusor-dan-participa-joi-si-vineri-la-reuniunea-consiliului-european--1603108"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Nicușor Dan participă la summitul UE de la Bruxelles. Ce subiecte sunt pe agenda liderilor europeni",
+        "link": "https://stirileprotv.ro/stiri/politic/nicusor-dan-participa-la-summitul-ue-de-la-bruxelles-ce-subiecte-sunt-pe-agenda-liderilor-europeni.html"
+      }
+    ],
+    "published_at": 1792038074,
+    "title_hu": "Nicușor Dan a részt vesz az EU-csúcson, Románia ambiciózus költségvetést sürget",
+    "lead_hu": "Nicușor Dan csütörtökön és pénteken részt vesz az Európai Tanács brüsszeli ülésén, ahol a vezetők többek között a 2028–2034-es uniós költségvetésről tárgyalnak. Románia az uniós finanszírozás fenntartását, a védelmi képességek erősítését és a stratégiai függőségek csökkentését szorgalmazza.",
+    "content_hu": "• **Nicușor Dan csütörtökön és pénteken** részt vesz az Európai Tanács kétnapos brüsszeli ülésén; a tárgyalások egyik fő témája a 2028–2034-es többéves pénzügyi keret lesz.\n\n• **Románia ambiciózus uniós költségvetést sürget**, amely megőrzi a kohéziós politika és a közös agrárpolitika finanszírozását. Bukarest szerint ezek a források segítik a fejlettségi különbségek mérséklését, a mezőgazdaság korszerűsítését és a vidéki közösségek fejlesztését.\n\n• **A védelem és a stratégiai önállóság** szintén a román prioritások közé tartozik: az ország az európai védelmi képességek fejlesztését, különösen a keleti szárny és a Fekete-tenger térségének megerősítését támogatja, továbbá az energia- és technológiai függőségek csökkentését szorgalmazza.\n\n• **Az uniós vezetők napirendjén** szerepel a versenyképesség és az energiaárak kérdése, az Ukrajnának nyújtott folyamatos támogatás, az orosz hibrid támadások, a migráció, a bővítés és a reformok, valamint a közel-keleti helyzet.\n\n• **Az energiaügyekben** a vezetők rövid távú, célzott és átmeneti intézkedésekről adhatnak iránymutatást az Európai Bizottságnak a magas árak hatásának enyhítésére; emellett Európa fosszilis tüzelőanyagoktól való hosszú távú függésének csökkentését is megvitatják.\n\n• **Ukrajna támogatása** továbbra is kiemelt uniós ügy: a tanácskozáson az ország kritikus infrastruktúrájának tél előtti működési szükségleteiről is szó lesz. A vezetők áttekintik az európai védelmi felkészülést és a kritikus katonai képességhiányok kezelését is.",
+    "title_ro": "Nicușor Dan participă la summitul UE, iar România susține un buget ambițios",
+    "lead_ro": "Nicușor Dan participă joi și vineri la reuniunea Consiliului European de la Bruxelles, unde liderii vor discuta, între altele, viitorul buget al UE pentru perioada 2028–2034. România susține menținerea finanțării europene, consolidarea capacităților de apărare și reducerea dependențelor strategice.",
+    "content_ro": "• **Nicușor Dan participă joi și vineri** la reuniunea de două zile a Consiliului European de la Bruxelles; unul dintre principalele subiecte va fi cadrul financiar multianual al UE pentru perioada 2028–2034.\n\n• **România susține un buget european ambițios**, care să mențină finanțarea Politicii de coeziune și a Politicii agricole comune. Bucureștiul consideră că aceste fonduri contribuie la reducerea decalajelor de dezvoltare, modernizarea agriculturii și dezvoltarea comunităților rurale.\n\n• **Apărarea și autonomia strategică** se numără, de asemenea, printre prioritățile României: țara susține consolidarea capacităților europene de apărare, cu atenție specială pentru Flancul estic și regiunea Mării Negre, precum și reducerea dependențelor din domeniul energetic și al tehnologiilor avansate.\n\n• **Pe agenda liderilor UE** se află competitivitatea și prețurile la energie, continuarea sprijinului pentru Ucraina, atacurile hibride ale Rusiei, migrația, extinderea și reformele, precum și situația din Orientul Mijlociu.\n\n• **În privința energiei**, liderii urmează să ofere Comisiei Europene orientări privind măsuri pe termen scurt, specifice și temporare, pentru atenuarea efectelor prețurilor ridicate; ei vor discuta și despre reducerea pe termen lung a dependenței Europei de combustibilii fosili.\n\n• **Sprijinul pentru Ucraina** rămâne o prioritate-cheie a UE: reuniunea va aborda și nevoile operaționale ale infrastructurii critice ucrainene înainte de iarnă. Liderii vor analiza, de asemenea, pregătirea europeană pentru apărare și soluțiile pentru lacunele critice de capabilități militare."
+  },
+  {
     "group_id": "group_1233b0de03",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2025/07/dedeman-foto.jpg",
@@ -19,6 +231,27 @@
     "title_ro": "Magazinele Praktiker din Grecia sunt redenumite Dedeman / Presa greacă: Sunt aduse mărfuri fabricate în uzinele din România",
     "lead_ro": "După 35 de ani de prezență în Grecia, marca Praktiker intră pe lunga listă de mărci și denumiri care nu vor mai fi utilizate, întrucât la magazinele lanțului Praktiker Hellas a început înlocuirea insc…",
     "content_ro": "După 35 de ani de prezență în Grecia, marca Praktiker intră pe lunga listă de mărci și denumiri care nu vor mai fi utilizate, întrucât la magazinele lanțului Praktiker Hellas a început înlocuirea inscripțiilor cu denumirea „Dedeman”, relatează moneyreview.gr, preluat de Agenția de presă Rador. Schimbarea denumirii, care este însoțită și de o renovare amplă, […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_4699746de8",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/banc-102-1200x686.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "BANC | Bulă și Ștrulă se duc la pescuit",
+        "link": "https://www.cancan.ro/banc-bula-si-strula-se-duc-la-pescuit-21530307"
+      }
+    ],
+    "published_at": 1792037757,
+    "title_hu": "BANC | Bulă și Ștrulă se duc la pescuit",
+    "lead_hu": "Ziua bună se cunoaște de dimineață și trebuie începută cu zâmbetul pe buze, iar pentru asta am pregătit un banc care cu siguranță o să te amuze copios. Protagoniștii de astăzi sunt Bulă și Ștrulă. Cei…",
+    "content_hu": "Ziua bună se cunoaște de dimineață și trebuie începută cu zâmbetul pe buze, iar pentru asta am pregătit un banc care cu siguranță o să te amuze copios. Protagoniștii de astăzi sunt Bulă și Ștrulă. Cei doi se pregătesc să meargă la pescuit, însă deznodământul este hilar. – Bulă, mergem la pescuit? – Mergem, Ștrulă! […]",
+    "title_ro": "BANC | Bulă și Ștrulă se duc la pescuit",
+    "lead_ro": "Ziua bună se cunoaște de dimineață și trebuie începută cu zâmbetul pe buze, iar pentru asta am pregătit un banc care cu siguranță o să te amuze copios. Protagoniștii de astăzi sunt Bulă și Ștrulă. Cei…",
+    "content_ro": "Ziua bună se cunoaște de dimineață și trebuie începută cu zâmbetul pe buze, iar pentru asta am pregătit un banc care cu siguranță o să te amuze copios. Protagoniștii de astăzi sunt Bulă și Ștrulă. Cei doi se pregătesc să meargă la pescuit, însă deznodământul este hilar. – Bulă, mergem la pescuit? – Mergem, Ștrulă! […]"
   },
   {
     "group_id": "group_746ea01c03",
@@ -212,34 +445,6 @@
     "title_ro": "VIDEO Cel mai urmărit serial din istoria televiziunii se pregătește de marea revenire după 25 de ani",
     "lead_ro": "În momentul de vârf al popularității sale, serialul „Baywatch” era urmărit săptămânal de peste un miliard de spectatori din întreaga lume, un record omologat de Guiness World Records. Iar până la lans…",
     "content_ro": "În momentul de vârf al popularității sale, serialul „Baywatch” era urmărit săptămânal de peste un miliard de spectatori din întreaga lume, un record omologat de Guiness World Records. Iar până la lansarea unui nou serial „Baywatch”, cu aceeași premisă și o distribuție nouă de actori, au mai rămas câteva luni. Televiziunea americană Fox a prezentat …"
-  },
-  {
-    "group_id": "group_2a4ae616d9",
-    "fingerprint": "6ce072401e1ead73cb05c4f7c6d48795",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "O dronă a pătruns în spațiul aerian al României. Avioane de luptă ridicate de la sol și mesaj RO-Alert în Tulcea",
-        "link": "https://www.mediafax.ro/politic/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-avioane-de-lupta-ridicate-de-la-sol-si-mesaj-ro-alert-in-tulcea-23825640"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Dronă detectată în spațiul aerian al României, în apropiere de Sulina. Locuitorii din Tulcea au primit mesaj RO-Alert",
-        "link": "https://stirileprotv.ro/stiri/actualitate/drona-detectata-in-spatiul-aerian-al-romaniei-in-apropiere-de-sulina-locuitorii-din-tulcea-au-primit-mesaj-ro-alert.html"
-      }
-    ],
-    "published_at": 1792037081,
-    "title_hu": "Drónriasztások és légtérsértések Tulceában; éjjel újabb drónt észleltek Sulina közelében",
-    "lead_hu": "Október 14-én több RO-Alert-riasztást kaptak a Tulcea megyei lakosok drónveszély miatt, és a nap folyamán több légi cél rövid időre megsértette Románia légterét. Az esti incidens miatt Galați megye keleti részére is figyelmeztetést küldtek. Október 14-ről 15-re virradó éjjel egy drónt mintegy egy percig észleltek a román légtérben, Sulina közelében.",
-    "content_hu": "• **Október 14-én, szerda reggel** drónok lehetséges berepülésére figyelmeztető RO-Alert-riasztást kaptak Tulcea megye északi részének lakói.\n\n• **Az első riasztást 6:39-kor adták ki, és körülbelül 7:58-kor fújták le.** A lakosságot nyugalomra intették, és arra kérték, hogy húzódjon pincébe vagy polgári védelmi óvóhelyre; ha ilyen nem áll rendelkezésre, maradjon otthon, távol az ablakoktól és a külső falaktól.\n\n• **A román védelmi minisztérium radarjai három légi célt észleltek** az ukrajnai Vâlkove közelében, a román határ térségében. A minisztérium szerint ezek nem léptek be Románia légterébe.\n\n• **A légierő két F-16-os vadászgépet és egy IAR-330 SOCAT helikoptert indított** a helyzet megfigyelésére; a vadászgépek a borceai 86-os légibázisról szálltak fel.\n\n• **Körülbelül 8:20-kor újabb RO-Alert-riasztást adtak ki** Tulcea megye északi részén. A figyelmeztetés a légből lezuhanó tárgyak becsapódásának veszélyére is felhívta a figyelmet.\n\n• **A két reggeli riasztás összesített időtartama körülbelül 2 óra 21 perc volt** a ProTV beszámolója szerint. A csatorna azt is közölte, hogy az előző hónaptól a hatóságok az egyes riasztások végén külön üzenetben jelzik a veszélyhelyzet megszűnését.\n\n• **10:19-kor újabb riasztást adtak ki** Tulcea megye keleti és északi részére, miután a radarok egy másik drónt észleltek a román határ közelében. Két F-16-os vadászgépet ismét a levegőbe emeltek, ezúttal is a borceai 86-os légibázisról.\n\n• **A később észlelt drón rövid időre belépett Románia légterébe** a Fekete-tenger fölött, Sulina keleti térségében, majd átrepült Ukrajna légterébe, ahol az ukrán légvédelem lelőtte. A riasztás 11:22-kor ért véget.\n\n• **Délután újabb légi célt észleltek** a Kígyó-szigettől mintegy 30 kilométerre keletre. Két F-16-os vadászgép szállt fel, és 17:39-kor RO-Alert-üzenetet küldtek Tulcea megye északi és keleti részének lakóinak.\n\n• **A délutáni légi cél 17:38-kor lépett be a román légtérbe**, Sulinától mintegy 22 kilométerre északkeletre, a román felségvizek fölött. A román légteret 17:46-kor hagyta el; az ehhez kapcsolódó riasztás 19:03-kor ért véget.\n\n• **Este 20 óra körül újabb RO-Alert-üzenetet küldtek ki** drónok lehetséges berepülése miatt; a Digi24 és a HotNews ezt a nap negyedik riasztásaként írta le. A lakosságot arra kérték, hogy keressen óvóhelyet, vagy maradjon az ablakoktól és a külső falaktól távol.\n\n• **Az esti incidens során 20:04-kor két légi cél lépett be Románia légterébe.** A radar az egyikkel elvesztette a kapcsolatot a tenger fölött; a másik 20:13-kor Ukrajna felé távozott. A spanyol légierő két F-18-as gépét is felszállították a Mihail Kogălniceanu-i 57-es légibázisról.\n\n• **A Reni felé tartó cél miatt 20:33-kor RO-Alert-üzenetet küldtek ki** Galați megye keleti részére is, mert a lehetséges útvonala Galați városa felé vezetett. Az ukrán légvédelem Reni térségében megsemmisítette; a riasztás 21:14-kor ért véget.\n\n• **A ProTV a védelmi minisztériumra hivatkozva azt közölte, hogy a nap folyamán összesen három drón hatolt be Románia légterébe** a Fekete-tenger térségében.\n\n• **Az ISU Tulcea közlése szerint** a riasztások után nem érkezett segélyhívás, és nem jelentettek incidenst az érintett térségből.\n\n• **Az idei RO-Alert-üzenetek száma** Tulcea megyében már meghaladta azoknak a szélsőséges veszélyre figyelmeztető üzeneteknek a számát, amelyeket Romániában ugyanezen okból 2023 és 2025 között küldtek ki.\n\n• **A Cancan által idézett hivatalos adatok szerint 2026. szeptember 27-ig** 81, a román határ közelében történt támadást, 30 jogosulatlan légtérsértést és négy lelőtt drónt tartottak nyilván.\n\n• **Október 14-ről 15-re virradó éjjel, 1:34-kor** egy drónt észleltek a román légtérben, Sulinától délkeletre, a román felségvizek fölött. A radar mintegy egy percig követte, majd a drón eltűnt a képernyőről.\n\n• **Az éjszakai művelet során két spanyol F-18-as és két román F-16-os vadászgépet is felszállítottak.** Az újabb légi célokat később a Kígyó-szigettől mintegy 77 kilométerre keletre észlelték; a román gépek a fetești-i 86-os légibázisról indultak.\n\n• **4:57-kor RO-Alert-riasztást küldtek Tulcea megye északi és keleti részére.** A védelmi minisztérium szerint nem jelentettek újabb román légtérsértést; a riasztás 5:46-kor ért véget.",
-    "title_ro": "Alerte cu drone și încălcări ale spațiului aerian în Tulcea; o nouă dronă detectată noaptea lângă Sulina",
-    "lead_ro": "Pe 14 octombrie, locuitorii județului Tulcea au primit mai multe mesaje RO-Alert privind posibile incursiuni de drone, iar în cursul zilei mai multe ținte aeriene au pătruns pentru scurt timp în spațiul aerian al României. O alertă a fost transmisă și în estul județului Galați, în urma unui incident de seară. În noaptea de 14 spre 15 octombrie, o dronă a fost detectată timp de aproximativ un minut în spațiul aerian românesc, în apropiere de Sulina.",
-    "content_ro": "• **Miercuri, 14 octombrie, dimineața**, locuitorii din nordul județului Tulcea au primit un mesaj RO-Alert privind posibila incursiune a unor drone.\n\n• **Prima alertă a fost transmisă la ora 6:39 și a încetat în jurul orei 7:58.** Populația a fost îndemnată să-și păstreze calmul și să se adăpostească în beciuri sau în adăposturi de protecție civilă; în lipsa acestora, oamenii au fost sfătuiți să rămână în casă, departe de ferestre și de pereții exteriori.\n\n• **Radarele Ministerului Apărării din România au detectat trei ținte aeriene** în apropierea localității Vâlkove, pe teritoriul Ucrainei, lângă granița cu România. Potrivit ministerului, acestea nu au intrat în spațiul aerian național.\n\n• **Forțele Aeriene Române au ridicat de la sol două aeronave F-16 și un elicopter IAR-330 SOCAT** pentru monitorizarea situației; avioanele au decolat de la Baza 86 Aeriană Borcea.\n\n• **În jurul orei 8:20 a fost transmis un nou mesaj RO-Alert** pentru nordul județului Tulcea. Avertizarea menționa și riscul căderii unor obiecte din aer.\n\n• **Cele două alerte de dimineață au avut o durată cumulată de aproximativ 2 ore și 21 de minute**, potrivit ProTV. Postul a relatat și că, începând din luna precedentă, autoritățile transmit un mesaj separat la încetarea fiecărei alerte.\n\n• **La ora 10:19 a fost transmisă o nouă alertă** pentru estul și nordul județului Tulcea, după ce radarele au detectat o altă dronă în apropierea graniței. Două aeronave F-16 au fost ridicate din nou de la Baza 86 Aeriană Borcea.\n\n• **Drona detectată ulterior a pătruns pentru scurt timp în spațiul aerian al României**, deasupra Mării Negre, la est de Sulina, apoi a intrat în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Alerta a încetat la ora 11:22.\n\n• **După-amiază a fost detectată o altă țintă aeriană**, la aproximativ 30 de kilometri est de Insula Șerpilor. Două aeronave F-16 au decolat, iar la ora 17:39 a fost transmis un mesaj RO-Alert locuitorilor din nordul și estul județului Tulcea.\n\n• **Ținta aeriană a intrat în spațiul aerian românesc la ora 17:38**, la aproximativ 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale ale României. A ieșit din spațiul aerian la ora 17:46, iar alerta s-a încheiat la ora 19:03.\n\n• **În jurul orei 20:00 a fost transmis un nou mesaj RO-Alert** privind o posibilă incursiune de drone; Digi24 și HotNews l-au descris ca fiind a patra alertă a zilei. Populația a fost îndemnată să se adăpostească sau să rămână în interior, departe de ferestre și de pereții exteriori.\n\n• **În timpul incidentului de seară, două ținte aeriene au intrat în spațiul aerian românesc la ora 20:04.** Contactul radar cu una dintre ele s-a pierdut deasupra mării, iar cealaltă a părăsit spațiul aerian la ora 20:13, îndreptându-se spre Ucraina. Două aeronave spaniole F-18 au decolat de la Baza 57 Aeriană Mihail Kogălniceanu.\n\n• **La ora 20:33 a fost transmis un mesaj RO-Alert și pentru estul județului Galați**, deoarece ținta care se îndrepta spre Reni putea urma o traiectorie către municipiul Galați. Apărarea antiaeriană ucraineană a distrus-o în zona Reni, iar alerta a încetat la ora 21:14.\n\n• **ProTV, citând Ministerul Apărării, a relatat că trei drone au pătruns în spațiul aerian al României** în zona Mării Negre pe parcursul zilei.\n\n• **Potrivit ISU Tulcea**, după alerte nu au fost primite apeluri de urgență și nu au fost raportate incidente în zona vizată.\n\n• **Numărul mesajelor RO-Alert transmise în acest an** în județul Tulcea l-a depășit pe cel al mesajelor de alertă extremă transmise în România din același motiv în perioada 2023–2025.\n\n• **Potrivit datelor oficiale citate de Cancan, până la 27 septembrie 2026** fuseseră înregistrate 81 de atacuri în apropierea graniței cu România, 30 de pătrunderi neautorizate în spațiul aerian și patru drone doborâte.\n\n• **În noaptea de 14 spre 15 octombrie, la ora 1:34**, o dronă a fost detectată în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale ale României. Radarele au urmărit-o timp de aproximativ un minut, după care a dispărut de pe ecran.\n\n• **În cursul operațiunii nocturne au fost ridicate de la sol două aeronave spaniole F-18 și două aeronave românești F-16.** Alte ținte aeriene au fost detectate ulterior la aproximativ 77 de kilometri est de Insula Șerpilor; aeronavele românești au decolat de la Baza 86 Aeriană Fetești.\n\n• **La ora 4:57 a fost transmis un mesaj RO-Alert pentru nordul și estul județului Tulcea.** Ministerul Apărării a precizat că nu au fost raportate alte pătrunderi în spațiul aerian al României; alerta a încetat la ora 5:46."
   },
   {
     "group_id": "group_5f9c403caa",
@@ -884,48 +1089,6 @@
     "content_ro": "Un pensionar britanic de 76 de ani i-a surprins pe magistrații care urmau să-l judece, după ce a venit la tribunal îmbrăcat în burqa, exact veșmântul pentru a cărui purtare fusese arestat la un protest împotriva migrației."
   },
   {
-    "group_id": "group_23735994f6",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Parlamentul brazilian aprobă reducerea timpului de lucru, promisă de Lula",
-        "link": "https://agerpres.ro/politic-extern/2026/10/15/parlamentul-brazilian-aproba-reducerea-timpului-de-lucru-promisa-de-lula--1603109"
-      }
-    ],
-    "published_at": 1792035152,
-    "title_hu": "Parlamentul brazilian aprobă reducerea timpului de lucru, promisă de Lula",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Parlamentul brazilian aprobă reducerea timpului de lucru, promisă de Lula",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_5c10baf7e7",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Președintele Nicușor Dan participă joi și vineri la reuniunea Consiliului European",
-        "link": "https://agerpres.ro/politic/2026/10/15/presedintele-nicusor-dan-participa-joi-si-vineri-la-reuniunea-consiliului-european--1603108"
-      }
-    ],
-    "published_at": 1792035152,
-    "title_hu": "Președintele Nicușor Dan participă joi și vineri la reuniunea Consiliului European",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Președintele Nicușor Dan participă joi și vineri la reuniunea Consiliului European",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
     "group_id": "group_c674114b6b",
     "fingerprint": "b3fcb36b512900bb383c5573d3c7b07e",
     "category": "Általános",
@@ -957,27 +1120,6 @@
     "title_ro": "Musk spune că guvernul SUA decide asupra restricțiilor Starshield",
     "lead_ro": "Elon Musk susține că guvernul american, iar în ultimă instanță președintele, decide asupra eventualelor restricții ale sistemului militar Starshield din Ucraina, nu SpaceX. Conexiunea Starlink s-a îmbunătățit parțial miercuri, după ce limita de viteză introdusă marți a afectat și operațiuni militare. Cazul a provocat critici în Congres și îngrijorări privind posibila limitare a schimbului de informații cu Ucraina.",
     "content_ro": "• **Potrivit declarației lui Musk de miercuri**, eventualele încetiniri ale rețelei Starshield din Ucraina țin de guvernul american, nu de SpaceX.\n\n• **Restricțiile**, spune Musk, sunt decise de armata SUA și, în cele din urmă, de președintele american; sistemele Starshield sunt deținute și controlate de guvernul SUA.\n\n• **Starshield și Starlink** sunt sisteme diferite: potrivit lui Musk, Ucraina folosește Starshield pentru comunicații pe front, în timp ce Starlink este destinat uzului civil sau defensiv, nu operațiunilor ofensive. Ambele sisteme de satelit au fost dezvoltate de SpaceX.\n\n• **Limita de viteză introdusă marți** ar fi deconectat de la Starlink dispozitivele care se deplasau cu peste 160 km/h, perturbând operațiuni cu drone și apărarea antiaeriană, potrivit Mediafax.\n\n• **Îmbunătățirea conexiunii Starlink** a fost anunțată miercuri de ministrul ucrainean al Apărării. Ministerul a precizat că SpaceX menține o limită de 161 km/h pentru utilizarea în mișcare; limitele reale au fost mult mai stricte în timpul zilei, dar calitatea conexiunii s-a îmbunătățit până la viteza de 160 km/h.\n\n• **Restabilirea serviciului** a fost anunțată parțial miercuri de fostul ministru ucrainean al Apărării, Mihailo Fedorov, care a cerut eliminarea completă a limitei de viteză pentru Starshield.\n\n• **Zelenski a cerut restabilirea serviciului** și a numit întreruperea o mare greșeală, avertizând că pot muri oameni dacă atacurile continuă, iar Starlink nu funcționează.\n\n• **Pe fondul tensiunilor dintre SUA și Ucraina**, un înalt oficial ucrainean care a dorit să rămână anonim a declarat pentru AFP că Washingtonul a condiționat schimbul de informații cu Ucraina de oprirea atacurilor asupra rafinăriilor rusești. Potrivit Mediafax, Zelenski a susținut și el că SUA au amenințat cu această măsură, însă Trump a negat afirmația.\n\n• **Democrații din Congres au criticat restricționarea accesului la rețelele prin satelit.** Senatoarea Jeanne Shaheen a cerut Pentagonului să informeze Congresul dacă suspendă sau reduce schimbul de informații cu Ucraina."
-  },
-  {
-    "group_id": "group_c1f072ad63",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
-        "link": "https://agerpres.ro/justitie/2026/10/15/inalta-curte-s-ar-putea-pronunta-in-procesul-cu-guvernul-privind-restantele-salariale-ale-magistrati--1603107"
-      }
-    ],
-    "published_at": 1792035152,
-    "title_hu": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
-    "lead_ro": "",
-    "content_ro": ""
   },
   {
     "group_id": "group_92b8c44e17",
@@ -5493,44 +5635,6 @@
     "content_ro": "• **Pe 14 octombrie**, previziunile indică posibile oportunități profesionale pentru mai multe zodii: proiecte noi, colaborări sau sarcini cu responsabilități mai mari. Horoscopul de carieră pune accentul pe inițiativă, organizare și perseverență.\n\n• **În plan financiar**, unele horoscoape menționează posibile venituri suplimentare, recuperarea unor bani, bonusuri sau acorduri avantajoase. Acestea sunt previziuni astrologice, nu evenimente garantate; articolele recomandă și evaluarea atentă a ofertelor.\n\n• **Relațiile și colaborările** sunt, de asemenea, importante: conversațiile, proiectele comune și rezolvarea unor neînțelegeri mai vechi ar putea aduce evoluții favorabile, potrivit previziunilor. Deschiderea și cooperarea cu ceilalți sunt teme recurente în surse.\n\n• **În deciziile profesionale**, horoscopul Cancan.ro recomandă disciplină, prioritizarea sarcinilor și evitarea grabei. Celelalte previziuni vorbesc despre planuri ambițioase, sugerând totodată că merită analizate detaliile și angajamentele asumate."
   },
   {
-    "group_id": "group_7182acd2f1",
-    "fingerprint": "edb2ffc25528f4e2f66f00291863d5e9",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA2JTJGMjgzNTYyMV8yODM1/NjIxX056Z3dKbWc5TkRRd0ptaGhjMmc5/WWpZMU9EWTRaamcyWWpRNE4yTXhNRGt4/WlRnd1lXSTJaR0k0WkRZNVptUV90aHVt/Yl8uanBnJmhhc2g9NGNkNGY1MzllYTEzNzAwNWM0ZGZmMmUwZmQ5MzMxNjk=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Radu Miruţă i-a propus omologului bulgar înfiinţarea unui comandament militar comun la Marea Neagră. „Suntem obligați să acționăm”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/radu-miruta-i-a-propus-omologului-bulgar-infiintarea-unui-comandament-militar-comun-la-marea-neagra-suntem-obligati-sa-actionam-3992619"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Radu Miruță, discuție cu omologul său bulgar pentru înființarea unui comandament militar la Marea Neagră: România este pregătită să preia conducerea comandamentului",
-        "link": "https://www.mediafax.ro/stirile-zilei/radu-miruta-discutie-cu-omologul-sau-bulgar-pentru-infiintarea-unui-comandament-militar-la-marea-neagra-romania-este-pregatita-sa-preia-conducerea-comandamentului-23825507"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Radu Miruță vrea un comandament militar comun al NATO la Marea Neagră. „România este pregătită să preia conducerea din 2028”",
-        "link": "https://adevarul.ro/politica/radu-miruta-vrea-un-comandament-militar-comun-al-2564062.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Radu Miruță: Am propus Bulgariei să cerem NATO să înființeze un comandament militar la Marea Neagră care să fie condus prin rotație de țările riverane / România este pregătită să preia conducerea din 2028",
-        "link": "https://www.g4media.ro/radu-miruta-am-propus-bulgariei-sa-cerem-nato-sa-infiinteze-un-comandament-militar-la-marea-neagra-care-sa-fie-condus-prin-rotatie-de-tarile-riverane-romania-este-pregatita-sa-preia-conducerea-din.html"
-      }
-    ],
-    "published_at": 1792000193,
-    "title_hu": "Román–bolgár kezdeményezés készül közös NATO-parancsnokságra a Fekete-tengeren",
-    "lead_hu": "Radu Miruță román ügyvivő védelmi miniszter október 14-én közös levelet javasolt bolgár kollégájának a NATO vezetéséhez egy, a Fekete-tenger part menti NATO-tagállamait tömörítő katonai parancsnokság létrehozásáról. A kezdeményezés a térség drón- és hajóincidensei után született; Románia 2028-tól vállalná a parancsnokság vezetését és befogadását.",
-    "content_hu": "• **Október 14-én Radu Miruță román ügyvivő védelmi miniszter** telefonbeszélgetést követően közös levél aláírását javasolta Dimitar Stoyanov bolgár védelmi miniszternek, hogy a két ország a NATO vezetésénél támogassa egy közös fekete-tengeri katonai parancsnokság létrehozását.\n\n• **A tervezett parancsnokság** vezetését és helyszínét rotációs rendszerben osztanák meg a Fekete-tenger part menti NATO-tagállamai között.\n\n• **Románia 2028-tól** kész átvenni a parancsnokság vezetését, és a román tengerparton befogadni a szervezetet. Addig a parancsnokság a török tengerparton működhetne román és bolgár tisztek részvételével.\n\n• **Október 13-án két kereskedelmi hajót ért dróntámadás a Fekete-tengeren:** az egyik megrongálódott, a másik elsüllyedt. A 15 fős legénységet biztonságban kimenekítették és Várnába szállították; öt tengerész könnyebb sérülései miatt ellátásra szorult. A fedélzeten hét ukrán és nyolc azeri állampolgár tartózkodott.\n\n• **A szófiai incidensek után** sürgősségi ülést hívtak össze a bolgár Biztonsági Tanácsban. Rumen Radev bolgár miniszterelnök „teljesen elfogadhatatlannak” nevezte a történteket, és közölte, hogy megbeszélésre hívja Oroszország szófiai nagykövetét.\n\n• **Miruță szerint** a fekete-tengeri incidensek – köztük a drónok, elsüllyedt hajók és tengeri aknák – cselekvésre késztetik a térség országait. Úgy vélte, az ukrán infrastruktúra elleni ismétlődő orosz támadások a környező országok biztonságára is kockázatot jelentenek, és a nemzeti, illetve szövetségi reagálóképesség tesztelését célozhatják; ezért a légi és tengeri drónincidensek nem kezelhetők elszigetelt nemzeti ügyként.\n\n• **Nicușor Dan román elnök** bolgár kollégájával, Iliana Iotovával is egyeztetett; a két ország az EU és a NATO keretében határozottabb drónelhárító intézkedéseket támogatna.",
-    "title_ro": "România și Bulgaria propun un comandament NATO comun la Marea Neagră",
-    "lead_ro": "Ministrul interimar al Apărării din România, Radu Miruță, i-a propus omologului bulgar, pe 14 octombrie, semnarea unei scrisori comune către conducerea NATO pentru înființarea unui comandament militar al statelor NATO riverane Mării Negre. Inițiativa vine după incidentele cu drone și nave din regiune; România este pregătită să preia conducerea și să găzduiască structura începând din 2028.",
-    "content_ro": "• **Pe 14 octombrie, ministrul interimar al Apărării din România, Radu Miruță,** i-a propus ministrului bulgar al Apărării, Dimitar Stoyanov, după o discuție telefonică, semnarea unei scrisori comune către conducerea NATO pentru susținerea înființării unui comandament militar comun la Marea Neagră.\n\n• **Comandamentul propus** ar urma să aibă conducerea și sediul asigurate prin rotație de statele NATO riverane Mării Negre.\n\n• **România este pregătită ca din 2028** să preia conducerea comandamentului și să găzduiască structura pe litoralul său. Până atunci, aceasta ar putea funcționa pe litoralul turcesc al Mării Negre, cu participarea ofițerilor români și bulgari.\n\n• **Pe 13 octombrie, două nave comerciale au fost lovite de drone în Marea Neagră:** una a fost avariată, iar cealaltă s-a scufundat. Cei 15 membri ai echipajului au fost evacuați în siguranță și transportați la Varna; cinci marinari au avut nevoie de îngrijiri pentru răni ușoare. La bord se aflau șapte cetățeni ucraineni și opt azeri.\n\n• **După incidentele de la Sofia,** a fost convocată o reuniune de urgență a Consiliului de Securitate al Bulgariei. Premierul bulgar Rumen Radev le-a numit „absolut inacceptabile” și a anunțat că o va invita la discuții pe ambasadoarea Rusiei la Sofia.\n\n• **Potrivit lui Miruță,** incidentele din Marea Neagră – drone, nave scufundate și mine marine – obligă țările din regiune să acționeze. El a spus că atacurile repetate ale Rusiei asupra infrastructurii ucrainene generează riscuri de securitate pentru țările vecine și par să urmărească testarea capacității de reacție naționale și aliate; incidentele cu drone în spațiul aerian și maritim nu mai pot fi tratate ca probleme naționale izolate.\n\n• **Președintele român Nicușor Dan** a discutat și cu omoloaga sa bulgară, Iliana Iotova; cele două țări susțin măsuri mai ferme de contracarare a dronelor în cadrul UE și NATO."
-  },
-  {
     "group_id": "group_58616c3805",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24092026/782fe9ec-de92-4ede-b065-a5e09e409c15.jpg?width=290&height=208",
@@ -6754,260 +6858,5 @@
     "title_ro": "Din achitată, condamnată! Mioara Țigan a fost găsită vinovată de falsificarea unei lucrări la concursul pentru șefia unei școli din Oradea",
     "lead_ro": "O nouă răsturnare de situație, de această dată definitivă, în dosarul concursului fraudat pentru conducerea Școlii Gimnaziale Avram Iancu din Oradea. Mioara Țigan, fosta directoare a Casei Corpului Di…",
     "content_ro": "O nouă răsturnare de situație, de această dată definitivă, în dosarul concursului fraudat pentru conducerea Școlii Gimnaziale Avram Iancu din Oradea. Mioara Țigan, fosta directoare a Casei Corpului Didactic Bihor, a fost condamnată miercuri de Curtea de Apel Oradea la 3 ani de închisoare cu suspendare, după ce Tribunalul Bihor o achitase pentru toate acuzațiile. Prin noul verdict, instanța a găsit-o vinovată de falsificarea lucrării de concurs a profesorului Sorin Cuc, care a obținut astfel o notă mai mare. Și Cuc a fost condamnat definitiv, la 2 ani și 8 luni de închisoare cu suspendare."
-  },
-  {
-    "group_id": "group_13ade1ad98",
-    "fingerprint": "0aa4c702f2cd62dfb8ff340ae8f59289",
-    "category": "Általános",
-    "image": "https://maszol.ro/resized/2026_oktober/13/cikk_szirena_rendorseg_politie_2509_chatgpt_sajat__(1).png",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Un bărbat din Olt a furat o mașină în care se afla un copil de 7 ani. După nici un kilometru, a provocat un accident grav",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/un-barbat-din-olt-a-furat-o-masina-in-care-se-afla-un-copil-de-7-ani-dupa-nici-un-kilometru-a-provocat-un-accident-grav-3991137"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un bărbat beat și fără permis a furat o mașină în care se afla o fetiță de 7 ani și a provocat un accident, în Olt",
-        "link": "https://stirileprotv.ro/stiri/actualitate/un-barbat-beat-si-fara-permis-a-furat-o-masina-in-care-se-afla-o-fetita-de-7-ani-si-a-provocat-un-accident-in-olt-traseul-urmat-de-hot-a-fost-filmat.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Momentul în care bărbatul din Olt a făcut accident după ce a furat mașina în care se afla o copilă de șapte ani",
-        "link": "https://stirileprotv.ro/stiri/actualitate/imagini-cu-momenetul-in-care-barbatul-din-olt-a-facut-accident-dupa-ce-a-furat-masina-in-care-se-afla-o-copila-de-sapte-ani.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Bărbatul care a furat o mașină în care se afla un copil a făcut accident când fetița i-a cerut să oprească",
-        "link": "https://stirileprotv.ro/stiri/actualitate/caz-scandalos-in-olt-un-individ-a-furat-masina-din-fata-portii-fara-sa-observe-copila-de-pe-bancheta.html"
-      }
-    ],
-    "published_at": 1791995482,
-    "title_hu": "Ittasan, jogosítvány nélkül vitt el egy autót egy hétéves kislánnyal, majd betonhídnak ütközött",
-    "lead_hu": "Egy 59 éves, Izvoarele településről származó férfi október 10-én elvitt egy autót Alimănești faluban, miközben a hétéves kislány a hátsó ülésen ült. A férfi kevesebb mint egy kilométer után betonhídnak ütközött; a gyermeket kórházba vitték, és tanácsadási programba is bevonták. A férfit 30 napra előzetes letartóztatásba helyezték.",
-    "content_hu": "• **Október 10-én, reggel 8 óra körül** riasztották a slatinai rendőröket egy balesethez Izvoarele község Alimănești falujában. A beszámolók szerint az autó tulajdonosa rövid időre bement az udvarra, a járműben hagyott kulccsal.\n\n• **Az 59 éves, Izvoarele községből származó férfi** a Furculești utcában vitte el az autót használati célból; a jármű hátsó ülésén egy hétéves kislány ült. A férfi kevesebb mint egy kilométert vezetett, majd a 653-as megyei út kereszteződésénél betonhídnak ütközött.\n\n• **A kislány a beszámolók szerint arra kérte a férfit, hogy álljon meg**, mire a férfi felé fordult és elvesztette uralmát a jármű felett. Egy hírforrás szerint a gyermek nem volt bekötve.\n\n• **A baleset után a helyszínen lévő autósok segítettek a kislánynak**, akit orvosi ellátásra a slatinai sürgősségi kórházba szállítottak. Biztonsági kamerák rögzítették az autó útját és az ütközést; a felvételeken a jármű az ütközés előtt kanyargózva halad.\n\n• **A gyermeket tanácsadási programba vonták be:** az Olt megyei gyermekvédelmi igazgatóság a történtek után saját hatáskörben intézkedett.\n\n• **Az alkoholszonda 1,17 mg/l alkoholt mutatott ki** a férfi kilélegzett levegőjében, és kiderült, hogy egyetlen járműkategóriára sincs jogosítványa. Vérmintát vettek tőle a véralkoholszint pontos megállapításához.\n\n• **A férfit előbb 24 órára őrizetbe vették**, majd október 11-én a slatinai bíróság 30 napos előzetes letartóztatását rendelte el. Az ügyben használati célú járműlopás, ittas és engedély nélküli vezetés, valamint gondatlanságból okozott testi sértés miatt folyik eljárás.",
-    "title_ro": "A furat o mașină beat și fără permis, cu o fetiță de șapte ani înăuntru, apoi s-a izbit de un cap de pod",
-    "lead_ro": "Un bărbat de 59 de ani din Izvoarele a furat, pe 10 octombrie, o mașină în satul Alimănești, în timp ce pe bancheta din spate se afla o fetiță de șapte ani. După mai puțin de un kilometru, a intrat cu mașina într-un cap de pod; copilul a fost dus la spital și inclus într-un program de consiliere. Bărbatul a fost arestat preventiv pentru 30 de zile.",
-    "content_ro": "• **Pe 10 octombrie, în jurul orei 08:00**, polițiștii din Slatina au fost sesizați despre un accident în satul Alimănești, comuna Izvoarele. Potrivit relatărilor, proprietara mașinii intrase pentru scurt timp în curte, lăsând cheia în autoturism.\n\n• **Bărbatul de 59 de ani din comuna Izvoarele** a furat mașina, în scop de folosință, de pe strada Furculești; pe bancheta din spate se afla o fetiță de șapte ani. A condus mai puțin de un kilometru, apoi s-a izbit de un cap de pod la intersecția cu Drumul Județean 653.\n\n• **Potrivit relatărilor, fetița i-ar fi cerut bărbatului să oprească**, iar acesta s-ar fi întors spre ea și ar fi pierdut controlul mașinii. O publicație a relatat că fetița nu purta centură de siguranță.\n\n• **După accident, șoferii aflați la fața locului au ajutat fetița**, care a fost transportată pentru îngrijiri medicale la Spitalul Județean de Urgență Slatina. Camerele de supraveghere au surprins traseul mașinii și impactul; imaginile arată că autoturismul se deplasa șerpuit înainte de coliziune.\n\n• **Copilul a fost inclus într-un program de consiliere:** Direcția Generală de Asistență Socială și Protecția Copilului Olt s-a autosesizat și a intervenit.\n\n• **Etilometrul a indicat 1,17 mg/l alcool pur în aerul expirat**, iar verificările au arătat că bărbatul nu deține permis pentru nicio categorie de vehicule. Acestuia i-au fost recoltate probe de sânge pentru stabilirea alcoolemiei.\n\n• **Bărbatul a fost reținut inițial pentru 24 de ore**, iar pe 11 octombrie Judecătoria Slatina a dispus arestarea preventivă pentru 30 de zile. Cercetările vizează furtul în scop de folosință, conducerea sub influența alcoolului și fără permis, precum și vătămarea corporală din culpă."
-  },
-  {
-    "group_id": "group_b3f7af92a7",
-    "category": "Politika",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8162845-mediafax_foto-alexandru_nechez-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Guvernul Luca Niculescu ar putea obține aproape 300 de voturi în Parlament, cu peste 60 mai multe decât pragul necesar învestirii. Simulare Mediafax",
-        "link": "https://www.mediafax.ro/politic/guvernul-luca-niculescu-ar-putea-obtine-aproape-300-de-voturi-in-parlament-cu-peste-60-mai-multe-decat-pragul-necesar-investirii-simulare-mediafax-23825475"
-      }
-    ],
-    "published_at": 1791995428,
-    "title_hu": "Guvernul Luca Niculescu ar putea obține aproape 300 de voturi în Parlament, cu peste 60 mai multe decât pragul necesar învestirii. Simulare Mediafax",
-    "lead_hu": "Guvernul Luca Niculescu ar putea obține între 279 și aproape 300 de voturi la învestirea în Parlament, potrivit unei simulări realizate de Mediafax. După decizia PSD de miercuri de a intra la guvernar…",
-    "content_hu": "Guvernul Luca Niculescu ar putea obține între 279 și aproape 300 de voturi la învestirea în Parlament, potrivit unei simulări realizate de Mediafax. După decizia PSD de miercuri de a intra la guvernare, premierul desemnat beneficiază de perspectiva unei susțineri parlamentare care depășește pragul de 233 de voturi. PNL și UDMR și-au exprimat disponibilitatea de a susține Cabinetul, minoritățile naționale au anunțat sprijinul, iar parlamentarii PACE – Întâi România ar putea vota și ei pentru învestire. USR a transmis însă categoric că nu va vota un Guvern cu miniștri PSD.",
-    "title_ro": "Guvernul Luca Niculescu ar putea obține aproape 300 de voturi în Parlament, cu peste 60 mai multe decât pragul necesar învestirii. Simulare Mediafax",
-    "lead_ro": "Guvernul Luca Niculescu ar putea obține între 279 și aproape 300 de voturi la învestirea în Parlament, potrivit unei simulări realizate de Mediafax. După decizia PSD de miercuri de a intra la guvernar…",
-    "content_ro": "Guvernul Luca Niculescu ar putea obține între 279 și aproape 300 de voturi la învestirea în Parlament, potrivit unei simulări realizate de Mediafax. După decizia PSD de miercuri de a intra la guvernare, premierul desemnat beneficiază de perspectiva unei susțineri parlamentare care depășește pragul de 233 de voturi. PNL și UDMR și-au exprimat disponibilitatea de a susține Cabinetul, minoritățile naționale au anunțat sprijinul, iar parlamentarii PACE – Întâi România ar putea vota și ei pentru învestire. USR a transmis însă categoric că nu va vota un Guvern cu miniștri PSD."
-  },
-  {
-    "group_id": "group_71923213ab",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21335/23255451/2/mariska-boer-recycling-europe-3.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Pentru prima dată, un executiv recunoaşte: Calitatea produselor din magazinele din Germania e superioară celei din România şi Europa de Est",
-        "link": "https://www.zf.ro/companii/retail-agrobusiness/pentru-prima-data-un-executiv-recunoaste-calitatea-produselor-din-magazinele-din-germania-e-superioara-celei-din-romania-si-europa-de-est-23255451"
-      }
-    ],
-    "published_at": 1791995400,
-    "title_hu": "Pentru prima dată, un executiv recunoaşte: Calitatea produselor din magazinele din Germania e superioară celei din România şi Europa de Est",
-    "lead_hu": "În ţările din Europa Centrală şi de Est, printre care se numără şi Ro­mânia, piaţa de modă second-hand este foarte puternică şi continuă să crească în importanţă. Pe plan local, spre exemplu, pe măsur…",
-    "content_hu": "În ţările din Europa Centrală şi de Est, printre care se numără şi Ro­mânia, piaţa de modă second-hand este foarte puternică şi continuă să crească în importanţă. Pe plan local, spre exemplu, pe măsură ce retailerii de modă se mută la mall sau în parcurile de retail, spaţiile stradale sunt ocupate de concepte de tip vintage sau second hand, care vând haine care nu se află la prima purtare celor care sunt atenţi la bani sau la mediul înconjurător.",
-    "title_ro": "Pentru prima dată, un executiv recunoaşte: Calitatea produselor din magazinele din Germania e superioară celei din România şi Europa de Est",
-    "lead_ro": "În ţările din Europa Centrală şi de Est, printre care se numără şi Ro­mânia, piaţa de modă second-hand este foarte puternică şi continuă să crească în importanţă. Pe plan local, spre exemplu, pe măsur…",
-    "content_ro": "În ţările din Europa Centrală şi de Est, printre care se numără şi Ro­mânia, piaţa de modă second-hand este foarte puternică şi continuă să crească în importanţă. Pe plan local, spre exemplu, pe măsură ce retailerii de modă se mută la mall sau în parcurile de retail, spaţiile stradale sunt ocupate de concepte de tip vintage sau second hand, care vând haine care nu se află la prima purtare celor care sunt atenţi la bani sau la mediul înconjurător."
-  },
-  {
-    "group_id": "group_58060ad50a",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260195/1/medlife-photo-2.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "MedLife explică de ce vrea să-şi majoreze capitalul cu până la 20%: achiziţii, extindere în regiune şi o finanţare a creşterii mai puţin dependentă de credite, fără o sumă stabilită",
-        "link": "https://www.zf.ro/burse-fonduri-mutuale/medlife-explica-de-ce-vrea-sa-si-majoreze-capitalul-cu-pana-la-20-achizitii-extindere-in-regiune-si-o-finantare-a-cresterii-mai-putin-dependenta-de-credite-fara-o-suma-stabilita-23260195"
-      }
-    ],
-    "published_at": 1791995383,
-    "title_hu": "MedLife explică de ce vrea să-şi majoreze capitalul cu până la 20%: achiziţii, extindere în regiune şi o finanţare a creşterii mai puţin dependentă de credite, fără o sumă stabilită",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "MedLife explică de ce vrea să-şi majoreze capitalul cu până la 20%: achiziţii, extindere în regiune şi o finanţare a creşterii mai puţin dependentă de credite, fără o sumă stabilită",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_4cad8b4a88",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260193/1/purcari.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Bursă. Polonezii de la Maspex au trecut de pragul de 75% din acţiunile producătorului de vinuri Purcari, după ce au mai cumpărat peste 900.000 de acţiuni de la oferta de preluare din 2025",
-        "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-polonezii-de-la-maspex-au-trecut-de-pragul-de-75-din-actiunile-producatorului-de-vinuri-purcari-dupa-ce-au-mai-cumparat-peste-900-000-de-actiuni-de-la-oferta-de-preluare-din-2025-23260193"
-      }
-    ],
-    "published_at": 1791995344,
-    "title_hu": "Bursă. Polonezii de la Maspex au trecut de pragul de 75% din acţiunile producătorului de vinuri Purcari, după ce au mai cumpărat peste 900.000 de acţiuni de la oferta de preluare din 2025",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Bursă. Polonezii de la Maspex au trecut de pragul de 75% din acţiunile producătorului de vinuri Purcari, după ce au mai cumpărat peste 900.000 de acţiuni de la oferta de preluare din 2025",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_24c6292913",
-    "fingerprint": "109d1e97b0da93bfbfde7a69df687789",
-    "category": "Kultúra",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/8079389-hepta_mediafax_foto-abacapress_hepta-1-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Luvru riscă să-și închidă porțile dacă nu este renovat. Avertismentul conducerii celui mai cunoscut muzeu din Paris",
-        "link": "https://www.mediafax.ro/cultura-media/luvru-risca-sa-si-inchida-portile-daca-nu-este-renovat-avertismentul-conducerii-celui-mai-cunoscut-muzeu-din-paris-23825351"
-      },
-      {
-        "source": "Digi24",
-        "title": "După jaful bijuteriilor coroanei, Luvrul se confruntă cu noi probleme. Directorul muzeului avertizează asupra riscului de închidere",
-        "link": "https://www.digi24.ro/stiri/externe/ue/dupa-jaful-bijuteriilor-coroanei-luvrul-se-confrunta-cu-noi-probleme-directorul-muzeului-avertizeaza-asupra-riscului-de-inchidere-3992537"
-      }
-    ],
-    "published_at": 1791995342,
-    "title_hu": "A Louvre felújítás nélkül bezárhat – figyelmeztet az igazgató",
-    "lead_hu": "Christophe Leribault igazgató szerint a Louvre-nak átfogó felújításra, infrastrukturális korszerűsítésre és biztonsági beruházásokra van szüksége, különben a múzeum végül kénytelen lehet bezárni a látogatók előtt. A munkálatok finanszírozása és a beruházások prioritásai politikai vitát váltottak ki Franciaországban.",
-    "content_hu": "• **Christophe Leribault figyelmeztetése szerint** ha a Louvre épületét nem javítják meg, nem korszerűsítik és nem alakítják át, a múzeum végül bezárhatja kapuit a közönség előtt.\n\n• **A felújítás sürgető oka** az épület és infrastruktúrája romló állapota, a túlzsúfoltság, valamint a biztonsági hiányosságok. A Louvre tavaly mintegy kilencmillió látogatót fogadott.\n\n• **A 2025. október 19-i ékszerrablás után** a biztonság javítása kiemelt feladattá vált. A 83 millió eurós biztonsági terv része egy biztonsági vezetői poszt létrehozása, a kamerahálózat korszerűsítése, valamint a múzeum kerületének és belépési pontjainak jobb megfigyelése.\n\n• **A tervezett beruházások finanszírozása vitatott.** A Louvre magánforrásokat is bevonna, de jelentős állami támogatásra is szükség lehet. Emmanuel Macron 600 millió eurós felújítási tervet támogat, amely új bejárat építését is tartalmazná.\n\n• **A kritikusok és a szakszervezetek a prioritásokat vitatják:** szerintük a nagyszabású építészeti tervek helyett előbb a mindennapi problémákat, például az elavult mosdókat, egyes galériák gyenge szigetelését és a zsúfolt közösségi tereket kellene kezelni.",
-    "title_ro": "Luvrul riscă să se închidă fără renovări, avertizează directorul",
-    "lead_ro": "Directorul Christophe Leribault spune că Luvrul are nevoie de renovări ample, de modernizarea infrastructurii și de investiții în securitate, în caz contrar muzeul putând ajunge să-și închidă porțile publicului. Finanțarea lucrărilor și prioritățile investițiilor au devenit subiect de dispută politică în Franța.",
-    "content_ro": "• **Avertismentul lui Christophe Leribault** este că, dacă Luvrul nu este reparat, modernizat și transformat, muzeul ar putea ajunge în cele din urmă să-și închidă porțile pentru public.\n\n• **Nevoia de renovare** este legată de degradarea clădirii și a infrastructurii, de supraaglomerare și de deficiențele de securitate. Luvrul a primit aproximativ nouă milioane de vizitatori anul trecut.\n\n• **După jaful din 19 octombrie 2025**, îmbunătățirea securității a devenit o prioritate. Planul de securitate, în valoare de 83 de milioane de euro, include crearea unui post de șef al securității, modernizarea camerelor de supraveghere și monitorizarea mai bună a perimetrului și a punctelor de acces.\n\n• **Finanțarea investițiilor planificate este controversată.** Luvrul intenționează să atragă și surse private, dar ar putea avea nevoie de fonduri publice importante. Emmanuel Macron susține un proiect de renovare de 600 de milioane de euro, care ar include construirea unei noi intrări.\n\n• **Criticii și sindicatele contestă prioritățile proiectului:** în opinia lor, înaintea planurilor arhitecturale de amploare ar trebui rezolvate problemele cotidiene, precum instalațiile sanitare vechi, izolarea insuficientă a unor galerii și aglomerația din spațiile publice."
-  },
-  {
-    "group_id": "group_291818249b",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/8db90297-fedc-4d7d-8af7-b8b5d60a7282.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Dan Petrescu l-a monitorizat „non-stop” pe Gigi Becali: „Mi-a zis: «Bă, nu le-a făcut el»”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/dan-petrescu-gigi-becali-fcsb-reghecampf-otelul-galati-988108.html"
-      }
-    ],
-    "published_at": 1791995270,
-    "title_hu": "Dan Petrescu l-a monitorizat „non-stop” pe Gigi Becali: „Mi-a zis: «Bă, nu le-a făcut el»”",
-    "lead_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat d…",
-    "content_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat de roș-albaștri cu 1-0, în etapa a 11-a din Superliga. Partida a reprezentat debutul lui Laurențiu Reghecampf pe banca tehnică a roș-albaștrilor, iar Gigi Becali și-a făcut apariția pe Arena Națională. ...",
-    "title_ro": "Dan Petrescu l-a monitorizat „non-stop” pe Gigi Becali: „Mi-a zis: «Bă, nu le-a făcut el»”",
-    "lead_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat d…",
-    "content_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a dezvăluit că Dan Petrescu a urmărit cu mare atenție comportamentul lui Gigi Becali în timpul meciului cu Oțelul Galați, câștigat de roș-albaștri cu 1-0, în etapa a 11-a din Superliga. Partida a reprezentat debutul lui Laurențiu Reghecampf pe banca tehnică a roș-albaștrilor, iar Gigi Becali și-a făcut apariția pe Arena Națională. ..."
-  },
-  {
-    "group_id": "group_213e5b5677",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23260180/4/20261014-093426.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "AI-ul nu îi va înlocui pe trezorieri în viitor, dar le va schimba profesia. „Profesia de trezorier s-a transformat dintr-una în care eram cei care făceam plăţile într-o profesie în care suntem cei care ţinem compania pe linia de plutire şi o menţinem funcţională în vremurile grele”",
-        "link": "https://www.zf.ro/banci-si-asigurari/ul-ii-inlocui-trezorieri-viitor-le-schimba-profesia-profesia-trezorier-s-transformat-dintr-una-eram-cei-faceam-platile-intr-profesie-cei-tinem-compania-linia-plutire-mentinem-functionala-vremurile-23260180"
-      }
-    ],
-    "published_at": 1791995155,
-    "title_hu": "AI-ul nu îi va înlocui pe trezorieri în viitor, dar le va schimba profesia. „Profesia de trezorier s-a transformat dintr-una în care eram cei care făceam plăţile într-o profesie în care suntem cei care ţinem compania pe linia de plutire şi o menţinem funcţională în vremurile grele”",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "AI-ul nu îi va înlocui pe trezorieri în viitor, dar le va schimba profesia. „Profesia de trezorier s-a transformat dintr-una în care eram cei care făceam plăţile într-o profesie în care suntem cei care ţinem compania pe linia de plutire şi o menţinem funcţională în vremurile grele”",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_446ae57b53",
-    "category": "Erdély",
-    "image": "https://cdn.adh.reperio.news/image-c/c6284e23-d8e0-499b-a5a8-c09e8baa165c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Accident grav pe DN 13, în Mureș. Un autocar și un camion s-au ciocnit. Cinci persoane, rănite",
-        "link": "https://adevarul.ro/stiri-locale/targu-mures/accident-grav-pe-dn-13-in-mures-un-autocar-si-un-2564050.html"
-      }
-    ],
-    "published_at": 1791995147,
-    "title_hu": "Accident grav pe DN 13, în Mureș. Un autocar și un camion s-au ciocnit. Cinci persoane, rănite",
-    "lead_hu": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenți…",
-    "content_hu": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenția echipajelor de salvare este în desfășurare.",
-    "title_ro": "Accident grav pe DN 13, în Mureș. Un autocar și un camion s-au ciocnit. Cinci persoane, rănite",
-    "lead_ro": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenți…",
-    "content_ro": "Cinci persoane au avut nevoie de îngrijiri medicale după ce un autocar și un camion s-au ciocnit, miercuri seară, pe DN 13, în județul Mureș. În cele două vehicule se aflau 18 persoane, iar intervenția echipajelor de salvare este în desfășurare."
-  },
-  {
-    "group_id": "group_2300b15607",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Cine este Radu Oprea, propus ministru al Apărării în Guvernul Niculescu. A fost trimis în judecată, dar Înalta Curte a respins dosarul",
-        "link": "https://hotnews.ro/cine-este-radu-oprea-propus-ministru-al-apararii-in-guvernul-niculescu-2375629"
-      }
-    ],
-    "published_at": 1791994887,
-    "title_hu": "Cine este Radu Oprea, propus ministru al Apărării în Guvernul Niculescu. A fost trimis în judecată, dar Înalta Curte a respins dosarul",
-    "lead_hu": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a a…",
-    "content_hu": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a absolvit în 1994, Facultatea de Utilaj Tehnologic din cadrul Universității de Petrol și Gaze din Ploiești, potrivit CV-ului său oficial. El a lucrat …",
-    "title_ro": "Cine este Radu Oprea, propus ministru al Apărării în Guvernul Niculescu. A fost trimis în judecată, dar Înalta Curte a respins dosarul",
-    "lead_ro": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a a…",
-    "content_ro": "Ștefan Radu Oprea, propus ministrul al Apărării în cabinetul Luca Niculescu, este purtător de cuvânt al PSD, senator și fost ministru și secretar general al Guvernului. Născut în iunie 1970, Oprea a absolvit în 1994, Facultatea de Utilaj Tehnologic din cadrul Universității de Petrol și Gaze din Ploiești, potrivit CV-ului său oficial. El a lucrat …"
-  },
-  {
-    "group_id": "group_845accf0bd",
-    "category": "Erdély",
-    "image": "https://storage.ghost.io/c/4c/64/4c643208-156b-4d4a-a219-b28f7d4d3d90/content/images/2026/10/kamilla.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Udvarhelyi Hírportál (UH.ro)",
-        "title": "A kamillateát inkább idd meg te: a kéretlen tanácsadás elviselhetetlen könnyűsége",
-        "link": "https://www.uh.ro/a-kamillateat-inkabb-idd-meg-te-a-keretlen-tanacsadas-elviselhetetlen-konnyusege/"
-      }
-    ],
-    "published_at": 1791994769,
-    "title_hu": "A kamillateát inkább idd meg te: a kéretlen tanácsadás elviselhetetlen könnyűsége",
-    "lead_hu": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni.",
-    "content_hu": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni.",
-    "title_ro": "A kamillateát inkább idd meg te: a kéretlen tanácsadás elviselhetetlen könnyűsége",
-    "lead_ro": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni.",
-    "content_ro": "Van az a pillanat, amikor egy súlyos betegségre kapott harmincegyedik jó tanács után már nem a fájdalommal, hanem az udvarias mosolygással kell megküzdeni."
   }
 ]
