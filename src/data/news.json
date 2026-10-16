@@ -1,5 +1,414 @@
 [
   {
+    "group_id": "group_2720c2000f",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Termoficare Oradea: stadiul furnizării agentului termic pentru încălzire în municipiul Oradea și comuna Sânmartin",
+        "link": "https://www.ebihoreanul.ro/stiri/termoficare-oradea-stadiul-furnizarii-agentului-termic-pentru-incalzire-in-municipiul-oradea-si-comuna-sanmartin-205874.html"
+      }
+    ],
+    "published_at": 1792157541,
+    "title_hu": "Termoficare Oradea: stadiul furnizării agentului termic pentru încălzire în municipiul Oradea și comuna Sânmartin",
+    "lead_hu": "Odată cu lăsarea frigului, prioritatea noastră absolută este ca fiecare familie din Oradea și Sânmartin să se bucure de confort și căldură acasă. Dorim să vă anunțăm că echipele Termoficare Oradea SA …",
+    "content_hu": "Odată cu lăsarea frigului, prioritatea noastră absolută este ca fiecare familie din Oradea și Sânmartin să se bucure de confort și căldură acasă. Dorim să vă anunțăm că echipele Termoficare Oradea SA au reușit deja să pornească încălzirea pentru marea majoritate a locuitorilor.",
+    "title_ro": "Termoficare Oradea: stadiul furnizării agentului termic pentru încălzire în municipiul Oradea și comuna Sânmartin",
+    "lead_ro": "Odată cu lăsarea frigului, prioritatea noastră absolută este ca fiecare familie din Oradea și Sânmartin să se bucure de confort și căldură acasă. Dorim să vă anunțăm că echipele Termoficare Oradea SA …",
+    "content_ro": "Odată cu lăsarea frigului, prioritatea noastră absolută este ca fiecare familie din Oradea și Sânmartin să se bucure de confort și căldură acasă. Dorim să vă anunțăm că echipele Termoficare Oradea SA au reușit deja să pornească încălzirea pentru marea majoritate a locuitorilor."
+  },
+  {
+    "group_id": "group_7cd1af8e1d",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/03/parchetul-european-e1711532669943.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Cinci persoane din România, trimise în judecată de Parchetul European pentru că ar fi pus la cale o fraudă de 1,8 milioane de euro prin trucarea unor contracte publice finanțate de Uniunea Europeană",
+        "link": "https://www.g4media.ro/cinci-persoane-din-romania-trimise-in-judecata-de-parchetul-european-pentru-ca-ar-fi-pus-la-cale-o-frauda-de-18-milioane-de-euro-prin-trucarea-unor-contracte-publice-finantate-de-uniunea-europeana.html"
+      }
+    ],
+    "published_at": 1792157473,
+    "title_hu": "Cinci persoane din România, trimise în judecată de Parchetul European pentru că ar fi pus la cale o fraudă de 1,8 milioane de euro prin trucarea unor contracte publice finanțate de Uniunea Europeană",
+    "lead_hu": "Parchetul European (EPPO) din București a depus miercuri, la Tribunalul București, un rechizitoriu împotriva a cinci persoane, acuzate că au constituit un grup infracțional cu scopul de a frauda proce…",
+    "content_hu": "Parchetul European (EPPO) din București a depus miercuri, la Tribunalul București, un rechizitoriu împotriva a cinci persoane, acuzate că au constituit un grup infracțional cu scopul de a frauda procedurile de achiziții publice din localități din România, beneficiind de fonduri UE. Se presupune că doi dintre inculpați au acționat în calitate de lideri ai grupului, […] © G4Media.ro.",
+    "title_ro": "Cinci persoane din România, trimise în judecată de Parchetul European pentru că ar fi pus la cale o fraudă de 1,8 milioane de euro prin trucarea unor contracte publice finanțate de Uniunea Europeană",
+    "lead_ro": "Parchetul European (EPPO) din București a depus miercuri, la Tribunalul București, un rechizitoriu împotriva a cinci persoane, acuzate că au constituit un grup infracțional cu scopul de a frauda proce…",
+    "content_ro": "Parchetul European (EPPO) din București a depus miercuri, la Tribunalul București, un rechizitoriu împotriva a cinci persoane, acuzate că au constituit un grup infracțional cu scopul de a frauda procedurile de achiziții publice din localități din România, beneficiind de fonduri UE. Se presupune că doi dintre inculpați au acționat în calitate de lideri ai grupului, […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_8a5e57e03f",
+    "fingerprint": "c323fc8da83ccaf98bcae19677bf6572",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-d/dec814df-06b9-4edd-b1bc-70237f78befb/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Băncile amendate cu 3,73 miliarde de lei în dosarul ROBOR contestă argumentele Consiliului Concurenței. „Transparența nu este cartel”",
+        "link": "https://adevarul.ro/economie/bancile-amendate-cu-373-miliarde-de-lei-in-2564145.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Consiliul Patronatelor Bancare din România reacţionează la declaraţiile publice ale lui Bogdan Chiriţoiu, preşedintele Consiliului Concurenţei, privind argumentele legate de sancţiunile ROBOR: „Transparenţa NU este cartel”, „Regulile sistemului NU sunt dovada unei înţelegeri”, „Dreptul european NU instituie o prezumţie generală de vinovăţie”",
+        "link": "https://www.zf.ro/zf-24/consiliul-patronatelor-bancare-romania-reactioneaza-declaratiile-publice-bogdan-chiritoiu-presedintele-consiliului-concurentei-privind-argumentele-legate-sanctiunile-robor-transparenta-cartel-23260681"
+      },
+      {
+        "source": "Economedia",
+        "title": "CPBR îi răspunde lui Bogdan Chirițoiu în dosarul ROBOR: „Transparența nu este cartel”. De ce contestă băncile argumentele autorității",
+        "link": "https://economedia.ro/cpbr-ii-raspunde-lui-bogdan-chiritoiu-in-dosarul-robor-transparenta-nu-este-cartel-de-ce-contesta-bancile-argumentele-autoritatii.html"
+      }
+    ],
+    "published_at": 1792157315,
+    "title_hu": "A banki szövetség vitatja a ROBOR-ügyben kiszabott bírságok indokait",
+    "lead_hu": "A Romániai Banki Munkáltatók Tanácsa (CPBR) szerint a versenytársak jegyzéseinek megfigyelése önmagában nem bizonyít kartellmegállapodást, és a bankok felelősségét konkrét bizonyítékokkal kell alátámasztani. A szervezet a 10 bankra összesen 3,73 milliárd lej bírságot kiszabó versenyhatósági döntés bírósági felülvizsgálatát sürgeti, miközben a hatóság szerint az egyedi jegyzések valós idejű láthatósága megkönnyítheti a koordinációt.",
+    "content_hu": "• **A CPBR október 15-i álláspontja** szerint a versenytársak jegyzéseinek megfigyelése vagy az azokról szóló információk cseréje önmagában nem bizonyít versenyellenes megállapodást: „az átláthatóság nem kartell”. A szervezet Bogdan Chirițoiu, a Versenytanács elnökének nyilvános érveire reagált, és azt kéri, hogy a döntés megalapozottságáról elsődlegesen a bíróságok döntsenek.\n\n• **A ROBOR megállapításának szabályozott mechanizmusa** önmagában nem bizonyítja, hogy a részt vevő bankok összehangolták magatartásukat. A CPBR szerint a hatóságnak azt kell bizonyítania, hogy az intézményeknek pontosan milyen versenyellenes magatartás róható fel a jegyzési eljárásban való részvételükön túl; a szervezet szerint az európai jog sem állít fel általános vétkességi vélelmet.\n\n• **A jegyzések láthatóságáról eltérően érvel a két fél:** Chirițoiu szerint nem szabad összekeverni a végleges ROBOR-érték átláthatóságát az egyedi, határozott jegyzések egymás számára történő, a folyamat lezárása előtti láthatóságával, amely szerinte megszüntetheti a bizonytalanságot és elősegítheti a koordinációt. A CPBR ezzel szemben azt hangsúlyozza, hogy a rendszer szabályai és az információk megfigyelhetősége önmagukban nem bizonyítanak megállapodást.\n\n• **A bankok eltérő pénzügyi helyzete** miatt a CPBR vitatja, hogy a ROBOR emelkedése minden intézménynek automatikusan előnyt jelentene. Az értékelésben szerinte figyelembe kell venni a bankok mérlegszerkezetét, finanszírozási költségeit, kitettségeit és kockázatait. Chirițoiu szerint viszont a ROBOR-hoz kötött szerződések és pénzügyi eszközök nagy volumene mellett egy kisebb emelkedés is jelentős nettó bevételt hozhat.\n\n• **A verseny korlátozásának bizonyítása** akkor is szükséges, ha egy jogsértés megállapításához nem kell számszerűsíteni annak hatásait – hangsúlyozza a CPBR. A magatartást és annak jogi minősítését a hatóságnak alaposan alá kell támasztania.\n\n• **A vizsgálat 2022 októberében indult**, és azt vizsgálta, hogy a ROBOR-fixingben részt vevő bankok önállóan határozták-e meg jegyzéseiket. A Versenytanács június 7-én jelentette be, hogy 10 bankot összesen 3,73 milliárd lejre, mintegy 710 millió euróra büntetett bizalmas, stratégiai információk cseréje miatt.\n\n• **A legnagyobb bírságot a Banca Transilvania kapta:** 875,74 millió lejt saját magatartása, valamint további 85,03 millió lejt a volt OTP Bank Româniának tulajdonított jogsértés miatt. A BCR bírsága 577,36 millió, a Raiffeisen Banké 442,49 millió, az UniCredit Banké 431,03 millió, a BRD-é 412,47 millió, az ING Banké pedig 405,91 millió lej volt; további négy bankot is megbüntettek.\n\n• **A ROBOR a hitelkamatokra is hatással lehet:** az indexet egyes vállalati és közintézményi hitelek, valamint az IRCC bevezetése előtt felvett, lejben denominált változó kamatozású lakossági hitelek kamatának kiszámításához használják. A törlesztőrészletek változása a szerződés feltételeitől és a kamatfrissítés gyakoriságától függ.\n\n• **A döntés jogszerűségéről a bíróságoknak kell határozniuk** a CPBR szerint. A szervezet tiszteletben tartja a Versenytanács szerepét, de azt kéri, hogy a vita a bankok védekezési jogának és az igazságszolgáltatás függetlenségének tiszteletben tartásával, az arra illetékes fórumon folytatódjon.",
+    "title_ro": "Patronatul bancar contestă argumentele amenzilor din dosarul ROBOR",
+    "lead_ro": "Consiliul Patronatelor Bancare din România (CPBR) susține că observarea cotațiilor concurenților nu dovedește, prin ea însăși, existența unui cartel și că răspunderea băncilor trebuie susținută cu probe concrete. Organizația cere ca instanțele să analizeze decizia prin care 10 bănci au fost amendate cu 3,73 miliarde de lei, în timp ce autoritatea de concurență afirmă că vizibilitatea în timp real a cotațiilor individuale poate facilita coordonarea.",
+    "content_ro": "• **Poziția CPBR din 15 octombrie** este că observarea cotațiilor concurenților sau schimbul de informații despre acestea nu dovedește automat o înțelegere anticoncurențială: „transparența nu este cartel”. Organizația a reacționat la argumentele prezentate public de președintele Consiliului Concurenței, Bogdan Chirițoiu, și cere ca instanțele să analizeze cu prioritate temeinicia deciziei.\n\n• **Mecanismul reglementat de stabilire a ROBOR** nu dovedește, în sine, că băncile participante și-au coordonat comportamentul. CPBR afirmă că autoritatea trebuie să demonstreze ce conduită anticoncurențială le este imputabilă băncilor, dincolo de participarea la procedura de fixing; organizația susține și că dreptul european nu instituie o prezumție generală de vinovăție.\n\n• **Părțile interpretează diferit vizibilitatea cotațiilor:** Chirițoiu susține că transparența rezultatului final al ROBOR nu trebuie confundată cu vizibilitatea reciprocă a cotațiilor ferme individuale înainte de încheierea procesului, care ar putea elimina incertitudinea și facilita coordonarea. CPBR afirmă, în schimb, că regulile sistemului și posibilitatea observării informațiilor nu dovedesc, prin ele însele, existența unei înțelegeri.\n\n• **Situațiile financiare diferite ale băncilor** fac ca o creștere a ROBOR să nu le aducă automat un beneficiu tuturor, susține CPBR. Analiza trebuie să țină cont de structura bilanțurilor, costurile de finanțare, expuneri și riscuri. Chirițoiu afirmă însă că, la volume mari de contracte și instrumente financiare legate de ROBOR, chiar și o creștere relativ redusă poate genera venituri nete semnificative.\n\n• **Dovedirea restrângerii concurenței** rămâne necesară chiar și atunci când sancționarea unei încălcări prin obiect nu presupune cuantificarea efectelor, subliniază CPBR. Autoritatea trebuie să demonstreze riguros conduita și încadrarea ei juridică.\n\n• **Investigația a început în octombrie 2022** și a vizat dacă băncile participante la fixingul ROBOR își stabileau independent cotațiile. Consiliul Concurenței a anunțat pe 7 iunie sancționarea a 10 bănci cu un total de 3,73 miliarde de lei, aproximativ 710 milioane de euro, pentru schimb de informații confidențiale și strategice.\n\n• **Cea mai mare amendă a fost aplicată Băncii Transilvania:** 875,74 milioane de lei pentru propria conduită și alte 85,03 milioane de lei pentru fapta atribuită fostei OTP Bank România. BCR a fost amendată cu 577,36 milioane, Raiffeisen Bank cu 442,49 milioane, UniCredit Bank cu 431,03 milioane, BRD cu 412,47 milioane, iar ING Bank cu 405,91 milioane de lei; au fost sancționate și alte patru bănci.\n\n• **ROBOR poate influența dobânzile unor credite:** indicele este folosit la calcularea dobânzilor pentru unele împrumuturi acordate companiilor și instituțiilor publice, precum și pentru creditele în lei cu dobândă variabilă contractate de persoane fizice înainte de introducerea IRCC. Modificarea ratelor depinde de condițiile contractuale și de frecvența actualizării dobânzii.\n\n• **Legalitatea deciziei trebuie stabilită de instanțe**, potrivit CPBR. Organizația spune că respectă rolul Consiliului Concurenței, dar cere ca dezbaterea să continue în cadrul judiciar, cu respectarea dreptului la apărare al băncilor și a independenței justiției."
+  },
+  {
+    "group_id": "group_eb564a937f",
+    "fingerprint": "ee49e1d1274593576b11241ae47269af",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-14.44.18-1024x576.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "ING lansează ING Invest, platforma prin care clienții pot cumpăra acțiuni și ETF-uri direct din Home’Bank. Mihaela Bîtu: „Ne propunem să democratizăm investițiile”",
+        "link": "https://economedia.ro/ing-lanseaza-ing-invest-platforma-prin-care-clientii-pot-cumpara-actiuni-si-etf-uri-direct-din-homebank-mihaela-bitu-ne-propunem-sa-democratizam-investitiile.html"
+      },
+      {
+        "source": "Zonait.ro",
+        "title": "15.000 de clienți ING Bank România au ales deja ING Invest, platforma de investiții integrată în ING Home’Bank",
+        "link": "https://zonait.ro/ing-bank-romania-lansare-ing-invest-platforma-investitii-homebank/"
+      }
+    ],
+    "published_at": 1792157192,
+    "title_hu": "Elindult az ING Invest, már 15 ezren nyitottak rajta befektetési számlát",
+    "lead_hu": "Az ING Bank România elindította az ING Investet, amelyen keresztül az ügyfelek közvetlenül a Home’Bank alkalmazásban vásárolhatnak és adhatnak el részvényeket, illetve ETF-eket. A bank közlése szerint kevesebb mint egy hónap alatt 15 ezer ügyfél nyitott befektetési számlát a platformon.",
+    "content_hu": "• **Az ING Invest a Home’Bankba integrálva** teszi lehetővé részvények és tőzsdén kereskedett alapok vásárlását és eladását. Az ügyfelek a Bukaresti Értéktőzsdén, valamint európai és más nemzetközi piacokon elérhető eszközök közül választhatnak.\n\n• **A platform indulását követő kevesebb mint egy hónapban 15 ezer ügyfél nyitott számlát** – közölte az ING Bank România. A számlanyitás és a tranzakciók az alkalmazásban intézhetők.\n\n• **Az első 50 ezer befektető 2026 végéig nulla kereskedési jutalékot kaphat** a részvényekre és ETF-ekre, az ajánlat feltételei szerint. A bank szerint a szolgáltatás célja, hogy egyszerűbbé és hozzáférhetőbbé tegye a befektetést a lakossági ügyfelek számára.\n\n• **A bank pénzügyi tájékozódásra és a kockázatok mérlegelésére is figyelmeztetett.** Az ING oktatóanyagokat készített a platform használatához; a befektetőknek pedig a saját céljaikhoz és kockázati profiljukhoz illő eszközöket kell választaniuk.",
+    "title_ro": "ING Invest a fost lansată, iar 15.000 de clienți și-au deschis deja conturi",
+    "lead_ro": "ING Bank România a lansat ING Invest, platforma prin care clienții pot cumpăra și vinde acțiuni și ETF-uri direct din aplicația Home’Bank. Potrivit băncii, 15.000 de clienți și-au deschis un cont de investiții în mai puțin de o lună de la activarea platformei.",
+    "content_ro": "• **ING Invest, integrată în aplicația Home’Bank,** le permite clienților să cumpere și să vândă acțiuni și fonduri tranzacționate la bursă. Utilizatorii pot alege instrumente listate la Bursa de Valori București, precum și pe piețe europene și internaționale.\n\n• **În mai puțin de o lună de la activarea platformei, 15.000 de clienți și-au deschis un cont,** a anunțat ING Bank România. Deschiderea contului și efectuarea tranzacțiilor se fac în aplicație.\n\n• **Primii 50.000 de investitori pot beneficia de comisioane de tranzacționare zero până la sfârșitul anului 2026** pentru acțiuni și ETF-uri, în condițiile ofertei. Banca spune că serviciul urmărește să facă investițiile mai simple și mai accesibile pentru clienții persoane fizice.\n\n• **Banca a subliniat și importanța informării și a evaluării riscurilor.** ING a pregătit materiale educaționale pentru utilizarea platformei, iar investitorii sunt îndemnați să aleagă instrumente potrivite obiectivelor și profilului lor de risc."
+  },
+  {
+    "group_id": "group_c5acf68e08",
+    "fingerprint": "cdea543c5937fcef3fcc7c532eb6bbbe",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/16/120039/screenshot-2026-10-16-145227.png?fm=jpg&q=80&fit=crop&crop=1656%2C904%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Ce scrie presa britanică despre noul model Dacia Striker. Schimbările prezentate de gigantul auto și prețul de pornire",
+        "link": "https://stirileprotv.ro/stiri/auto/ce-scrie-presa-britanica-despre-noul-model-dacia-striker-schimbarile-prezentate-de-gigantul-auto-si-pretul-de-pornire.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Noua Dacia Striker, comparată de britanici cu un Audi A6 Allroad la o treime din preț",
+        "link": "https://adevarul.ro/stil-de-viata/auto/noua-dacia-striker-comparata-de-britanici-cu-un-2564532.html"
+      }
+    ],
+    "published_at": 1792157171,
+    "title_hu": "A Dacia Striker a brit sajtó figyelmét is felkeltette",
+    "lead_hu": "A 2026-os Párizsi Autószalonon bemutatott Dacia Strikert a brit autós sajtó a márka új, a praktikumot modernebb megjelenéssel ötvöző modelljeként értékelte. A crossover kombi-, SUV- és szedánjegyeket vegyít, miközben a Dacia a tágas utasteret, a korszerű felszereltséget és a megfizethető árat hangsúlyozza.",
+    "content_hu": "• **A 2026-os Párizsi Autószalonon bemutatott Dacia Strikert** a brit sajtó olyan modellként írta le, amely a kombik, az SUV-k és a szedánok jellemzőit egyesíti. Az elemzések szerint az autó a márka hagyományos ár-érték szemléletét modernebb, kifinomultabb formavilággal egészíti ki.\n\n• **A külső kialakítás** hangsúlyos, mégis elegáns: a cikkek kiemelték a T alakú fényjelzést, a megemelt hasmagasságot és a robusztus karosszériaelemeket. Az egyik brit értékelés 19 colos könnyűfém keréktárcsákat említ, míg a Dacia által ismertetett belépőváltozat 17 colos acélkerekeket kap.\n\n• **Az utastérben** digitális műszeregység, multimédiás kijelző és a gyakran használt funkciókhoz megőrzött fizikai kezelőszervek találhatók. A felszereltségtől függően panorámatető, elektromos csomagtérajtó, kétzónás klíma, valamint első ülés- és kormányfűtés is elérhető.\n\n• **A Striker mérete és használhatósága** a családi autók között is versenyképessé teheti: 4,62 méter hosszú, csomagtere pedig akár 600 literes lehet. A változattól függő, legfeljebb 200 milliméteres hasmagasságot és a vezetéstámogató rendszereket szintén kiemelték a beszámolók.\n\n• **A hajtásválasztékban** a Hybrid 155 rendszer is szerepel, amely egy 1,8 literes benzinmotort és két villanymotort kapcsol össze, összesen 155 lóerős teljesítménnyel. A Dacia által ismertetett mild hybrid-G 140 változat gyárilag beépített LPG-rendszert kínál; a benzin- és gáztartályokkal a megadott hatótáv akár 1600 kilométer, a gyártó szerint pedig LPG-vel akár 40 százalékkal csökkenthető az üzemanyagköltség.\n\n• **Az ár és a piaci bevezetés** kapcsán a Dacia 25 ezer euró alatti induló árat közölt, a brit sajtó pedig 25 ezer font alatti brit kezdőárat és 2027 eleji brit piaci rajtot jelzett. A beszámolók szerint a Striker a modern megjelenést, a tágas teret és az új technológiákat igyekszik elérhető árszinten kínálni.",
+    "title_ro": "Dacia Striker a atras atenția presei britanice",
+    "lead_ro": "Prezentată la Salonul Auto de la Paris din 2026, Dacia Striker a fost descrisă de presa auto britanică drept un model care combină caracterul practic cu un design mai modern. Crossoverul îmbină elemente de break, SUV și berlină, iar Dacia pune accent pe spațiul interior, dotări și un preț accesibil.",
+    "content_ro": "• **Dacia Striker, prezentată la Salonul Auto de la Paris din 2026,** a fost descrisă de presa britanică drept un automobil care reunește caracteristici de break, SUV și berlină. Potrivit analizelor, modelul păstrează orientarea mărcii către raportul calitate-preț, adăugând un design mai modern și mai rafinat.\n\n• **Designul exterior** combină liniile robuste cu elemente elegante. Publicațiile au remarcat semnătura luminoasă în formă de T, garda la sol ridicată și protecțiile caroseriei. Una dintre evaluările britanice menționează jante din aliaj de 19 inci, în timp ce versiunea de bază prezentată de Dacia are jante din oțel de 17 inci.\n\n• **Habitaclul** include un instrumentar digital, un ecran multimedia și comenzi fizice pentru funcțiile utilizate frecvent. În funcție de echipare, sunt disponibile plafon panoramic, hayon electric, climatizare pe două zone, încălzirea scaunelor din față și a volanului.\n\n• **Dimensiunile și caracterul practic** pot face modelul potrivit pentru familii: Striker are 4,62 metri lungime, iar portbagajul poate ajunge la 600 de litri. Articolele au evidențiat și garda la sol de până la 200 de milimetri, în funcție de versiune, precum și sistemele de asistență la condus.\n\n• **Printre motorizări** se află sistemul Hybrid 155, care combină un motor pe benzină de 1,8 litri cu două motoare electrice și dezvoltă 155 CP. Versiunea mild hybrid-G 140 prezentată de Dacia are un sistem GPL montat din fabrică; autonomia combinată declarată poate ajunge la 1.600 de kilometri, iar producătorul afirmă că utilizarea GPL poate reduce costurile cu combustibilul cu până la 40%.\n\n• **Prețul și lansarea pe piețe** diferă în funcție de anunțul citat: Dacia indică un preț de pornire sub 25.000 de euro, iar presa britanică estimează un preț inițial sub 25.000 de lire sterline și o lansare în Regatul Unit la începutul anului 2027. Articolele prezintă Striker ca pe o combinație între design modern, spațiu generos și tehnologie, la un preț accesibil."
+  },
+  {
+    "group_id": "group_3a1ce30869",
+    "fingerprint": "340a735bdb18ef251fed450693cfff61",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Atac cibernetic la Bursa de Valori București. Ținta, instituția prin care se fac toate tranzacțiile",
+        "link": "https://hotnews.ro/atac-cibernetic-la-bursa-de-valori-bucuresti-tinta-institutia-prin-care-se-fac-toate-tranzactiile-2377666"
+      },
+      {
+        "source": "Economedia",
+        "title": "Atac informativ la Depozitarul Central, entitatea cu tranzacțiile bursei / BVB: Niciun sistem al bursei nu a avut legătură cu atacul",
+        "link": "https://economedia.ro/atac-informativ-la-depozitarul-central-entitatea-cu-tranzactiile-bursei-bvb-niciun-sistem-al-bursei-nu-a-avut-legatura-cu-atacul.html"
+      },
+      {
+        "source": "Go4IT",
+        "title": "Breșă de securitate la Depozitarul Central al Bursei de Valori București: datele personale ale investitorilor, expuse după un atac cibernetic",
+        "link": "https://www.go4it.ro/securitate-informatica/bresa-de-securitate-la-depozitarul-central-al-bursei-de-valori-bucuresti-datele-personale-ale-investitorilor-expuse-dupa-un-atac-cibernetic-19288037/"
+      },
+      {
+        "source": "Digi24",
+        "title": "Precizările Bursei de Valori București după atacul cibernetic asupra Depozitarului Central",
+        "link": "https://www.digi24.ro/stiri/precizarile-bursei-de-valori-bucuresti-dupa-atacul-cibernetic-asupra-depozitarului-central-3995623"
+      }
+    ],
+    "published_at": 1792157121,
+    "title_hu": "Kibertámadás érte a Depozitarul Central befektetői alkalmazását",
+    "lead_hu": "A Depozitarul Central befektetői online szolgáltatásaihoz használt alkalmazásán személyes adatokat tekinthettek meg a támadók, a szolgáltatás pedig átmenetileg nem volt elérhető. A társaság és a BVB szerint a nyilvántartási, elszámolási és tőzsdei kereskedési rendszerek nem érintettek, az értékpapír-állományok és a lezárt tranzakciók adatai változatlanok maradtak.",
+    "content_hu": "• **A támadás a Servicii Online pentru Investitori alkalmazást érte**, amelyet román magánbefektetők felhasználói fiókjainak létrehozására használnak. A Depozitarul Central az incidens napján azonosította a támadást, és azonnal megkezdte a kivizsgálást és a helyreállítást.\n\n• **Személyes adatokat tekinthettek meg a támadók**, köztük neveket, lakcímeket, személyi számokat, személyi igazolványadatokat, e-mail-címeket, telefonszámokat és IBAN-számokat. Az adatokat nem módosították, a jelszavak biztonságban maradtak; nem ismert, hány embert érintett az eset, és hogy letöltöttek-e adatokat.\n\n• **Az alkalmazás átmenetileg nem volt elérhető**, de a Depozitarul Central közlése szerint a szolgáltatások postai úton, illetve a társaság másodlagos irodájának ügyfélszolgálatán keresztül továbbra is igénybe vehetők.\n\n• **A nyilvántartási és elszámolási tevékenység zavartalan maradt.** A társaság szerint nem fértek hozzá, nem módosították és nem változtatták meg a befektetők értékpapír-állományait vagy a lezárt tranzakciók adatait.\n\n• **A BVB rendszerei nem kapcsolódtak a támadáshoz**, a tőzsde kereskedési ülései és egyéb tevékenységei a megszokott rendben folytatódtak. A BVB figyeli kereskedési infrastruktúrájának integritását, és megelőző intézkedéseket alkalmaz.\n\n• **Az incidens pontosan érintett alkalmazásáról eltérő sajtóbeszámolók jelentek meg:** a Depozitarul Central közlése a Servicii Online pentru Investitori alkalmazást nevezte meg, míg az Economedia az AGA-alkalmazást említette; a nyilvántartási műveleteket egyik beszámoló szerint sem érte támadás.\n\n• **A társaság értesítette az illetékes hatóságokat, köztük a DNSC-t**, és szakértői csapatot vont be az incidens kivizsgálásába. Fokozta a rendszerek felügyeletét.\n\n• **A Depozitarul Central vezeti az értékpapírok és tulajdonosaik nyilvántartását, valamint közreműködik a tranzakciók elszámolásában és az értékpapírok átvezetésében.** Az intézmény az osztalékok részvényesekhez történő eljuttatásában is részt vesz.\n\n• **A társaság nyilvántartásában az 1990-es évek tömeges privatizációjából származó részvények tulajdonosai is szerepelnek**, köztük azoké, akik azóta sem adták el értékpapírjaikat.\n\n• **A felhasználókat fokozott óvatosságra intették:** használjanak egyedi jelszavakat, kapcsolják be a többtényezős hitelesítést, és legyenek körültekintők az esetleges csaló e-mailekkel, üzenetekkel és telefonhívásokkal.",
+    "title_ro": "Atac cibernetic asupra aplicației pentru investitori a Depozitarului Central",
+    "lead_ro": "Atacatorii ar fi putut vizualiza date personale din aplicația folosită de Depozitarul Central pentru serviciile online destinate investitorilor, iar aceasta a fost temporar indisponibilă. Instituția și BVB afirmă că sistemele de registru, decontare și tranzacționare nu au fost afectate, iar deținerile de instrumente financiare și datele tranzacțiilor decontate au rămas neschimbate.",
+    "content_ro": "• **Atacul a vizat aplicația Servicii Online pentru Investitori**, folosită pentru crearea conturilor utilizatorilor investitori persoane fizice din România. Depozitarul Central a identificat incidentul în ziua producerii și a început imediat investigarea și remedierea acestuia.\n\n• **Atacatorii ar fi putut vizualiza date cu caracter personal**, inclusiv nume, adrese, coduri numerice personale, date din actele de identitate, adrese de e-mail, numere de telefon și coduri IBAN. Datele nu au fost modificate, parolele au rămas securizate; nu se știe câte persoane au fost vizate sau dacă au fost descărcate date.\n\n• **Aplicația a fost temporar indisponibilă**, însă Depozitarul Central a precizat că serviciile puteau fi accesate în continuare prin poștă sau la ghișeul sediului său secundar.\n\n• **Activitățile de registru și decontare au continuat normal.** Potrivit instituției, deținerile de instrumente financiare și informațiile despre tranzacțiile decontate nu au fost accesate, modificate sau alterate.\n\n• **Sistemele BVB nu au fost implicate în atac**, iar ședințele de tranzacționare și celelalte activități ale bursei s-au desfășurat conform programului obișnuit. BVB monitorizează integritatea infrastructurii sale și aplică măsuri de prevenire și protecție.\n\n• **Au apărut relatări diferite despre aplicația vizată:** comunicatul Depozitarului Central a indicat aplicația Servicii Online pentru Investitori, în timp ce Economedia a menționat aplicația AGA; potrivit relatărilor, operațiunile de registru nu au fost afectate.\n\n• **Depozitarul Central a informat autoritățile competente, inclusiv DNSC**, și a implicat o echipă de specialiști în investigarea incidentului. Instituția și-a intensificat monitorizarea sistemelor.\n\n• **Depozitarul Central ține evidența instrumentelor financiare și a deținătorilor acestora și participă la decontarea tranzacțiilor și transferul titlurilor.** Instituția participă și la distribuirea dividendelor către acționari.\n\n• **În evidențele instituției se află și deținătorii de acțiuni provenite din privatizarea în masă din anii ’90**, inclusiv persoanele care nu și-au vândut ulterior titlurile.\n\n• **Utilizatorii au fost îndemnați să fie vigilenți:** să folosească parole unice, să activeze autentificarea multifactor și să fie atenți la posibile tentative de fraudă prin e-mail, mesaje sau apeluri telefonice."
+  },
+  {
+    "group_id": "group_a87d934bb6",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/23261661/1/2de3adf49e72de026b0f99e74dce8147-l.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "O nouă şansă pentru Dacia? Marocul şi Tunisia, excluse din acordul germano-francez privind definirea produselor industriale „Made in UE”",
+        "link": "https://www.zf.ro/business-international/o-noua-sansa-pentru-dacia-marocul-si-tunisia-excluse-din-acordul-germano-francez-privind-definirea-produselor-industriale-made-in-ue-23261661"
+      }
+    ],
+    "published_at": 1792157039,
+    "title_hu": "O nouă şansă pentru Dacia? Marocul şi Tunisia, excluse din acordul germano-francez privind definirea produselor industriale „Made in UE”",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "O nouă şansă pentru Dacia? Marocul şi Tunisia, excluse din acordul germano-francez privind definirea produselor industriale „Made in UE”",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_b4811f62a6",
+    "fingerprint": "74e363d18c98f96a08bf2475120ef871",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjAyJTJGMTgwOTk1MV8xODA5/OTUxXzExMi1hbWJ1bGFudGEuanBnJmhh/c2g9NjNiODM0Njc4ZDE5ZGI2N2YxZjg3ZmZlNDcxYWEwYmE=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Angajat al Direcţiei Silvice Maramureş, găsit mort, cu răni grave, într-un complex de vânătoare. Ipoteza luată în calcul de anchetatori",
+        "link": "https://www.digi24.ro/stiri/angajat-al-directiei-silvice-maramures-gasit-mort-cu-rani-grave-intr-un-complex-de-vanatoare-ipoteza-luata-in-calcul-de-anchetatori-3994895"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Tragedie în județul vecin. Pădurar găsit mort într-un complex de vânătoare. Prima ipoteză a anchetatorilor",
+        "link": "https://www.presasm.ro/tragedie-in-judetul-vecin-padurar-gasit-mort-intr-un-complex-de-vanatoare-prima-ipoteza-a/53808"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Un pădurar, găsit mort după o patrulă în jurul complexului de vânătoare. Autoritățile analizează ipoteza unui atac de cerb",
+        "link": "https://www.mediafax.ro/social/un-padurar-gasit-mort-dupa-o-patrula-in-jurul-complexului-de-vanatoare-autoritatile-analizeaza-ipoteza-unui-atac-de-cerb-23826429"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un pădurar de 50 de ani a fost găsit mort, cu leziuni grave, în Maramureș. Ce l-ar fi ucis pe bărbat",
+        "link": "https://stirileprotv.ro/stiri/actualitate/un-padurar-de-50-de-ani-a-fost-gasit-mort-cu-leziuni-grave-in-maramures-ce-l-ar-fi-ucis-pe-barbat.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Holtan találtak egy erdőőrt egy vadászterületen",
+        "link": "https://maszol.ro/belfold/Holtan-talaltak-egy-erdoort-egy-vadaszteruleten"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un pădurar din Maramureș, găsit mort într-un complex de vânătoare / Ar fi fost ucis de un cerb",
+        "link": "https://www.g4media.ro/un-padurar-din-maramures-gasit-mort-intr-un-complex-de-vanatoare-ar-fi-fost-ucis-de-un-cerb.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Moarte suspectă în pădurile din Maramureș. Un pădurar a fost găsit cu leziuni grave pe corp",
+        "link": "https://adevarul.ro/stiri-locale/baia-mare/moarte-suspecta-in-padurile-din-maramures-un-2564447.html"
+      }
+    ],
+    "published_at": 1792157038,
+    "title_hu": "Meghalt egy erdész a máramarosi vadászterületen; a szarvastámadás csak vizsgált feltevés",
+    "lead_hu": "Egy 50 éves, a Șomcuta Mare-i erdészetnél dolgozó erdészt holtan találtak egy máramarosi vadászterületen, miután csütörtök este járőrözni indult. A hatóságok vizsgálják a haláleset körülményeit; az egyik feltevés szerint szarvas támadhatta meg, de ezt még nem erősítették meg. A Romsilva részvétét fejezte ki, miközben egy másik, korábbi szarvastámadásról is beszámoltak Bihar megyéből.",
+    "content_hu": "• **Csütörtök este, 18 óra után** az erdész elindult otthonról, hogy járőrözzön a mintegy 520 hektáros vadászterületen; találkozója lett volna egy vadászmesterrel.\n\n• **Az erdész 2017 óta dolgozott a Romsilvánál**, a Șomcuta Mare-i erdészet alkalmazottjaként.\n\n• **Este 9 óra körül** súlyos sérülésekkel találtak rá, miután kollégái nem tudták telefonon elérni, és keresni kezdték. Az esetet bejelentették a 112-es segélyhívón, valamint értesítették a munkafelügyeletet.\n\n• **Az erdészeti körzet vezetőjét is értesítették** a keresés során.\n\n• **A vadászmester is részt vett a keresés elindításában:** a Mediafax beszámolója szerint a megbeszélt közös járőrözésre el nem érkező erdész kollégája értesítette a hatóságokat.\n\n• **A lehetséges szarvastámadás** egyelőre csak vizsgált feltevés: a párzási időszakban a hímek különösen agresszívek lehetnek, de ezt a magyarázatot még nem igazolták.\n\n• **A rendőrség gondatlanságból elkövetett emberölés gyanúja miatt** büntetőeljárást indított, hogy tisztázza a haláleset pontos körülményeit.\n\n• **A Romsilva részvétét fejezte ki** az elhunyt családjának, hozzátartozóinak és ismerőseinek.\n\n• **Egy korábbi, különálló esetben, október 3-án** egy 57 éves bihari férfit támadott meg egy szarvas Luncșoara településen; a férfit kórházba szállították. Ez az eset nem igazolja, hogy a máramarosi erdész halálát is szarvastámadás okozta.",
+    "title_ro": "Un pădurar a murit într-un complex de vânătoare din Maramureș; atacul unui cerb este doar o ipoteză anchetată",
+    "lead_ro": "Un pădurar în vârstă de 50 de ani, angajat al Ocolului Silvic Șomcuta Mare, a fost găsit mort într-un complex de vânătoare din Maramureș, după ce plecase în patrulare joi seară. Autoritățile cercetează circumstanțele decesului; un posibil atac al unui cerb este doar o ipoteză, încă neconfirmată. Romsilva a transmis condoleanțe, iar o altă știre relatează un atac separat al unui cerb, produs anterior în județul Bihor.",
+    "content_ro": "• **Joi seară, după ora 18:00**, pădurarul a plecat de acasă pentru a patrula în complexul de vânătoare, care se întinde pe aproximativ 520 de hectare; urma să se întâlnească cu un maistru de vânătoare.\n\n• **Pădurarul era angajat al Romsilva din 2017**, la Ocolul Silvic Șomcuta Mare.\n\n• **În jurul orei 21:00**, a fost găsit cu leziuni grave, după ce colegii nu au mai reușit să îl contacteze telefonic și au început să îl caute. Incidentul a fost anunțat la numărul de urgență 112 și Inspectoratul Teritorial de Muncă a fost notificat.\n\n• **Șeful ocolului silvic a fost informat** în timpul căutărilor.\n\n• **Maistrul de vânătoare a contribuit la declanșarea căutărilor:** potrivit Mediafax, colegul cu care pădurarul urma să patruleze împreună a alertat autoritățile după ce acesta nu s-a prezentat la întâlnire.\n\n• **Posibilul atac al unui cerb** este deocamdată doar o ipoteză analizată: masculii pot deveni deosebit de agresivi în sezonul de împerechere, însă această explicație nu a fost confirmată.\n\n• **Poliția a deschis un dosar penal pentru ucidere din culpă**, pentru a stabili circumstanțele exacte ale decesului.\n\n• **Romsilva și-a exprimat condoleanțele** familiei îndoliate, apropiaților și tuturor celor care l-au cunoscut.\n\n• **Într-un caz anterior și separat, la 3 octombrie**, un bărbat de 57 de ani din Luncșoara, județul Bihor, a fost atacat de un cerb și transportat la spital. Acest incident nu confirmă că moartea pădurarului din Maramureș a fost provocată tot de un atac de cerb."
+  },
+  {
+    "group_id": "group_05ddca9504",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/16/132156/radu-miruta-facebook.jpg?fm=jpg&q=80&fit=crop&crop=960%2C640%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Primele concluzii despre intervenţia de la Cernavodă. Optimismul lui Miruță, „anulat”. Ce costuri uriaşe se conturează",
+        "link": "https://stirileprotv.ro/stiri/actualitate/primele-concluzii-despre-interven-ia-de-la-cernavoda-optimismul-lui-miruta-anulat-ce-costuri-uriase-se-contureaza.html"
+      }
+    ],
+    "published_at": 1792157002,
+    "title_hu": "Primele concluzii despre intervenţia de la Cernavodă. Optimismul lui Miruță, „anulat”. Ce costuri uriaşe se conturează",
+    "lead_hu": "Raportul final al Comitetului interministerial Bala, aflat în stadiul final de redactare şi urmând a fi adoptat, relevă faptul că numeroase lucrări menite să asigure alimentarea cu apă pentru răcirea …",
+    "content_hu": "Raportul final al Comitetului interministerial Bala, aflat în stadiul final de redactare şi urmând a fi adoptat, relevă faptul că numeroase lucrări menite să asigure alimentarea cu apă pentru răcirea reactoarelor de la Cernavodă au fost ineficiente.",
+    "title_ro": "Primele concluzii despre intervenţia de la Cernavodă. Optimismul lui Miruță, „anulat”. Ce costuri uriaşe se conturează",
+    "lead_ro": "Raportul final al Comitetului interministerial Bala, aflat în stadiul final de redactare şi urmând a fi adoptat, relevă faptul că numeroase lucrări menite să asigure alimentarea cu apă pentru răcirea …",
+    "content_ro": "Raportul final al Comitetului interministerial Bala, aflat în stadiul final de redactare şi urmând a fi adoptat, relevă faptul că numeroase lucrări menite să asigure alimentarea cu apă pentru răcirea reactoarelor de la Cernavodă au fost ineficiente."
+  },
+  {
+    "group_id": "group_1f38cc40ce",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-larisa-udila.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Cea mai mare dorință a Larisei Udilă. Ce plan are influencerița împreună cu Alexandru Ogică: „Ne dorim să…”",
+        "link": "https://www.cancan.ro/cea-mai-mare-dorinta-a-larisei-udila-ce-plan-are-influencerita-impreuna-cu-alexandru-ogica-ne-dorim-sa-21530958"
+      }
+    ],
+    "published_at": 1792156988,
+    "title_hu": "Cea mai mare dorință a Larisei Udilă. Ce plan are influencerița împreună cu Alexandru Ogică: „Ne dorim să…”",
+    "lead_hu": "Larisa Udilă a avut o vară plină, petrecută alături de familie, însă planurile pentru perioada următoare sunt deja stabilite! Influencerița a participat la prezentarea NISSA din cadrul Bucharest Fashi…",
+    "content_hu": "Larisa Udilă a avut o vară plină, petrecută alături de familie, însă planurile pentru perioada următoare sunt deja stabilite! Influencerița a participat la prezentarea NISSA din cadrul Bucharest Fashion Week, unde a stat de vorbă cu CANCAN.RO și a dezvăluit care este visul cel mare pe care își dorește să îl îndeplinească alături de soțul […]",
+    "title_ro": "Cea mai mare dorință a Larisei Udilă. Ce plan are influencerița împreună cu Alexandru Ogică: „Ne dorim să…”",
+    "lead_ro": "Larisa Udilă a avut o vară plină, petrecută alături de familie, însă planurile pentru perioada următoare sunt deja stabilite! Influencerița a participat la prezentarea NISSA din cadrul Bucharest Fashi…",
+    "content_ro": "Larisa Udilă a avut o vară plină, petrecută alături de familie, însă planurile pentru perioada următoare sunt deja stabilite! Influencerița a participat la prezentarea NISSA din cadrul Bucharest Fashion Week, unde a stat de vorbă cu CANCAN.RO și a dezvăluit care este visul cel mare pe care își dorește să îl îndeplinească alături de soțul […]"
+  },
+  {
+    "group_id": "group_7303c4c935",
+    "category": "Gazdaság",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Am crezut că așa sunt tații: muncesc, aduc bani în casă și nu întreabă ce ai pe suflet. Fiica mea m-a făcut să văd altfel lucrurile",
+        "link": "https://hotnews.ro/am-crezut-ca-asa-sunt-tatii-muncesc-aduc-bani-in-casa-si-nu-intreaba-ce-ai-pe-suflet-fiica-mea-m-a-facut-sa-vad-altfel-lucrurile-2378081"
+      }
+    ],
+    "published_at": 1792156916,
+    "title_hu": "Am crezut că așa sunt tații: muncesc, aduc bani în casă și nu întreabă ce ai pe suflet. Fiica mea m-a făcut să văd altfel lucrurile",
+    "lead_hu": "Am 51 de ani și încă nu știu cum să vorbesc cu tata. Nu suntem certați, doar că nu prea avem ce să ne spunem. Fiica mea are aceeași problemă cu tatăl ei. Când încerca să-i povestească că se simțea exc…",
+    "content_hu": "Am 51 de ani și încă nu știu cum să vorbesc cu tata. Nu suntem certați, doar că nu prea avem ce să ne spunem. Fiica mea are aceeași problemă cu tatăl ei. Când încerca să-i povestească că se simțea exclusă la liceu și că suferea din cauza asta, el nu o întreba ce se …",
+    "title_ro": "Am crezut că așa sunt tații: muncesc, aduc bani în casă și nu întreabă ce ai pe suflet. Fiica mea m-a făcut să văd altfel lucrurile",
+    "lead_ro": "Am 51 de ani și încă nu știu cum să vorbesc cu tata. Nu suntem certați, doar că nu prea avem ce să ne spunem. Fiica mea are aceeași problemă cu tatăl ei. Când încerca să-i povestească că se simțea exc…",
+    "content_ro": "Am 51 de ani și încă nu știu cum să vorbesc cu tata. Nu suntem certați, doar că nu prea avem ce să ne spunem. Fiica mea are aceeași problemă cu tatăl ei. Când încerca să-i povestească că se simțea exclusă la liceu și că suferea din cauza asta, el nu o întreba ce se …"
+  },
+  {
+    "group_id": "group_b7b64f3ce2",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/07/Screenshot-2025-07-17-at-17.05.54.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Statele Unite și România co-organizează un workshop privind combaterea sistemelor aeriene fără pilot",
+        "link": "https://www.g4media.ro/statele-unite-si-romania-co-organizeaza-un-workshop-privind-combaterea-sistemelor-aeriene-fara-pilot.html"
+      }
+    ],
+    "published_at": 1792156893,
+    "title_hu": "Statele Unite și România co-organizează un workshop privind combaterea sistemelor aeriene fără pilot",
+    "lead_hu": "Ambasadorul SUA Darryl Nirenberg s-a alăturat unor înalți reprezentanți români din domeniul securității, unor oficiali din domeniul apărării și unor parlamentari, la Parlamentul României. Acolo a susț…",
+    "content_hu": "Ambasadorul SUA Darryl Nirenberg s-a alăturat unor înalți reprezentanți români din domeniul securității, unor oficiali din domeniul apărării și unor parlamentari, la Parlamentul României. Acolo a susținut discursul de închidere al unui workshop de patru zile privind combaterea sistemelor aeriene fără pilot (C-UAS). Worshopul a fost co-organizat de Oficiul pentru Răspuns și Planificare în domeniul […] © G4Media.ro.",
+    "title_ro": "Statele Unite și România co-organizează un workshop privind combaterea sistemelor aeriene fără pilot",
+    "lead_ro": "Ambasadorul SUA Darryl Nirenberg s-a alăturat unor înalți reprezentanți români din domeniul securității, unor oficiali din domeniul apărării și unor parlamentari, la Parlamentul României. Acolo a susț…",
+    "content_ro": "Ambasadorul SUA Darryl Nirenberg s-a alăturat unor înalți reprezentanți români din domeniul securității, unor oficiali din domeniul apărării și unor parlamentari, la Parlamentul României. Acolo a susținut discursul de închidere al unui workshop de patru zile privind combaterea sistemelor aeriene fără pilot (C-UAS). Worshopul a fost co-organizat de Oficiul pentru Răspuns și Planificare în domeniul […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_e7ca912ea3",
+    "fingerprint": "68c6faf48539e510b5776ae937722331",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/salvamont-romania-e1742106604695-1024x948.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Salvamont Argeș și Salvamont Prahova avertizează turiștii: Ninsorile, frigul și vizibilitatea redusă fac periculoase traseele montane",
+        "link": "https://www.mediafax.ro/social/salvamont-arges-si-salvamont-prahova-avertizeaza-turistii-ninsorile-frigul-si-vizibilitatea-redusa-fac-periculoase-traseele-montane-23826539"
+      },
+      {
+        "source": "G4Media",
+        "title": "Salvamontiștii avertizează turiștii: Ninsorile, frigul și vizibilitatea redusă fac periculoase traseele montane / Salvatorii recomandă evitarea traseelor dificile și a celor de creastă în condiții meteorologice nefavorabile",
+        "link": "https://www.g4media.ro/salvamontistii-avertizeaza-turistii-ninsorile-frigul-si-vizibilitatea-redusa-fac-periculoase-traseele-montane-salvatorii-recomanda-evitarea-traseelor-dificile-si-a-celor-de-creasta-in-conditii-met.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Iarna s-a instalat deja pe munte, la altitudini mari: ninsoare, vânt puternic, ceaţă. Avertismentul Salvamont Prahova",
+        "link": "https://www.digi24.ro/stiri/iarna-s-a-instalat-deja-pe-munte-la-altitudini-mari-ninsoare-vant-puternic-ceata-avertismentul-salvamont-prahova-3995643"
+      }
+    ],
+    "published_at": 1792156751,
+    "title_hu": "A Salvamont a havazás és a rossz látási viszonyok miatt óvatosságra int a hegyi túrákon",
+    "lead_hu": "A Salvamont Argeș és a Salvamont Prahova arra figyelmeztetett, hogy ezen a hétvégén a magashegyi havazás, az erős szél, a hideg és a köd veszélyessé teheti a túrázást. A mentők a nehéz, kitett és gerinctúra-útvonalak kerülését, valamint a téli körülményeknek megfelelő felszerelés használatát javasolják.",
+    "content_hu": "• **A Salvamont Argeș és a Salvamont Prahova figyelmeztetése szerint** ezen a hétvégén a havazás, az erős szél, az alacsony hőmérséklet és a köd még az ismert hegyi útvonalakon is veszélyes helyzeteket teremthet. A rossz látási viszonyok megnehezítik a tájékozódást, a hideg pedig a telefonok akkumulátorának üzemidejét is csökkentheti; a köd, a szél és a hirtelen hőmérséklet-esés a tapasztalt túrázóknak is gondot okozhat.\n\n• **Kedvezőtlen időben kerüljék a nehéz, kitett és gerincen vezető útvonalakat.** A Salvamont Prahova szerint ezt a tapasztalt túrázóknak is érdemes megtenniük. Indulás előtt ellenőrizzék az időjárás-előrejelzést, az útvonalak állapotát és a figyelmeztetéseket.\n\n• **A téli túrához megfelelő felszerelés szükséges:** réteges, vízálló és hőszigetelő ruházat, hegyi bakancs jó tapadással, kesztyű és sapka. Legyen náluk feltöltött telefon, külső akkumulátor és lámpa; a hideg csökkentheti a telefon akkumulátorának üzemidejét, a rossz látási viszonyok pedig jelentősen meghosszabbíthatják a túrát.\n\n• **A túrát a csoport tapasztalatához és fizikai felkészültségéhez kell igazítani.** Ne induljanak egyedül, és tájékoztassanak valakit a tervezett útvonalról, valamint a visszaérkezés várható idejéről. Maradjanak a kijelölt ösvényeken, és ha romlik az időjárás, szakítsák meg a túrát.\n\n• **Baj esetén álljanak meg biztonságos helyen, és kérjenek segítséget**, ne folytassák az utat ismeretlen terepen. Vészhelyzetben a 112-es segélyhívó vagy a Salvamont országos diszpécserszolgálata hívható a 0725 826 668-as számon; a mentők szerint a túra elhalasztása jobb döntés lehet, mint kockázatos körülmények között elindulni.",
+    "title_ro": "Salvamont avertizează asupra pericolelor de pe traseele montane din cauza ninsorilor și a vizibilității reduse",
+    "lead_ro": "Salvamont Argeș și Salvamont Prahova avertizează că, în acest weekend, ninsoarea la altitudini mari, vântul puternic, frigul și ceața pot face drumețiile periculoase. Salvatorii recomandă evitarea traseelor dificile, expuse și de creastă, precum și folosirea echipamentului adecvat condițiilor de iarnă.",
+    "content_ro": "• **Salvamont Argeș și Salvamont Prahova avertizează** că ninsoarea, vântul puternic, temperaturile scăzute și ceața pot crea situații periculoase chiar și pe trasee montane cunoscute. Vizibilitatea redusă îngreunează orientarea, frigul poate reduce autonomia bateriilor telefoanelor, iar ceața, vântul și scăderea bruscă a temperaturii pot pune probleme inclusiv turiștilor experimentați.\n\n• **În condiții meteorologice nefavorabile, turiștii sunt sfătuiți să evite traseele dificile, expuse și de creastă.** Salvamont Prahova recomandă acest lucru chiar și celor cu experiență montană. Înainte de plecare, turiștii ar trebui să verifice prognoza meteo, starea traseelor și avertizările.\n\n• **Drumețiile în condiții de iarnă necesită echipament adecvat:** îmbrăcăminte impermeabilă, termoizolantă și purtată în straturi, bocanci de munte cu aderență bună, mănuși și căciulă. Turiștii ar trebui să aibă un telefon încărcat, o baterie externă și o lanternă; frigul poate reduce autonomia telefonului, iar vizibilitatea slabă poate prelungi considerabil drumeția.\n\n• **Traseul trebuie adaptat experienței și pregătirii fizice a grupului.** Turiștii sunt sfătuiți să nu plece singuri și să anunțe o persoană apropiată despre traseul ales și ora estimată a întoarcerii. Ei trebuie să rămână pe traseele marcate și să renunțe la drumeție dacă vremea se înrăutățește.\n\n• **Dacă întâmpină dificultăți, turiștii trebuie să se oprească într-un loc sigur și să solicite ajutor**, fără să continue deplasarea pe un traseu necunoscut. În caz de urgență pot suna la 112 sau la Dispeceratul Național Salvamont, la 0725 826 668; salvatorii spun că amânarea unei ture este preferabilă pornirii în condiții riscante."
+  },
+  {
+    "group_id": "group_8eb9cf7dc1",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/08/132205/monica-lovinescu.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Cinci volume de nonficțiune, pe lista scurtă a Premiului „Monica Lovinescu”. Câștigătorul va fi desemnat pe 11 noiembrie",
+        "link": "https://stirileprotv.ro/cultura/cinci-volume-de-nonfictiune-pe-lista-scurta-a-premiului-monica-lovinescu-castigatorul-va-fi-desemnat-pe-11-noiembrie.html"
+      }
+    ],
+    "published_at": 1792156707,
+    "title_hu": "Cinci volume de nonficțiune, pe lista scurtă a Premiului „Monica Lovinescu”. Câștigătorul va fi desemnat pe 11 noiembrie",
+    "lead_hu": "Cinci volume de nonficțiune au fost incluse pe lista scurtă a Premiului „Monica Lovinescu” 2026, dedicat cărților din domeniul umanist și cercetărilor intelectuale de anvergură.",
+    "content_hu": "Cinci volume de nonficțiune au fost incluse pe lista scurtă a Premiului „Monica Lovinescu” 2026, dedicat cărților din domeniul umanist și cercetărilor intelectuale de anvergură.",
+    "title_ro": "Cinci volume de nonficțiune, pe lista scurtă a Premiului „Monica Lovinescu”. Câștigătorul va fi desemnat pe 11 noiembrie",
+    "lead_ro": "Cinci volume de nonficțiune au fost incluse pe lista scurtă a Premiului „Monica Lovinescu” 2026, dedicat cărților din domeniul umanist și cercetărilor intelectuale de anvergură.",
+    "content_ro": "Cinci volume de nonficțiune au fost incluse pe lista scurtă a Premiului „Monica Lovinescu” 2026, dedicat cărților din domeniul umanist și cercetărilor intelectuale de anvergură."
+  },
+  {
+    "group_id": "group_7c252896eb",
+    "fingerprint": "a2dd8c9c478c79ab6dbaf7a474b12b27",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2022/12/dreamstime_l_13749037-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "BCE ar putea majora dobânzile cu încă 25 de puncte de bază în acest an, pe fondul inflației ridicate",
+        "link": "https://economedia.ro/bce-ar-putea-majora-dobanzile-cu-inca-25-de-puncte-de-baza-in-acest-an-pe-fondul-inflatiei-ridicate.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Avertismentul FMI pentru Europa: BCE ar putea majora din nou dobânzile până la final de 2026 pentru a combate inflația",
+        "link": "https://stirileprotv.ro/stiri/financiar/avertismentul-fmi-pentru-europa-bce-ar-putea-majora-din-nou-dobanzile-pana-la-final-de-2026-pentru-a-combate-inflatia.html"
+      }
+    ],
+    "published_at": 1792156633,
+    "title_hu": "Az IMF szerint 2026-ban újabb kamatemelésre lehet szükség az euróövezetben",
+    "lead_hu": "A Nemzetközi Valutaalap szerint az Európai Központi Banknak 2026-ban legalább még egyszer 25 bázisponttal kellhet emelnie a kamatokat az infláció megfékezésére. Az euróövezet éves inflációja szeptemberben 3,8 százalékra gyorsult, miközben az EKB 2028-ra várja az infláció visszatérését a 2 százalékos célhoz.",
+    "content_hu": "• **Az IMF 2026-ban legalább egy újabb, 25 bázispontos kamatemelést tart szükségesnek** az euróövezetben az infláció kordában tartásához. A szervezet szerint a 2026 utáni döntéseket az akkor elérhető adatok alapján kell meghozni.\n\n• **Szeptemberben 3,8 százalékra emelkedett az éves infláció** az euróövezetben és az Európai Unióban, az augusztusi 3,2 százalékról. Ez hároméves csúcs; az elemzők szerint az energiaárak emelkedése tovább hajthatja az inflációt.\n\n• **Az EKB júniusban és szeptemberben is 25 bázisponttal emelt kamatot.** Christine Lagarde jegybankelnök ugyanakkor arra hívta fel a figyelmet, hogy az iráni konfliktus nyomán megugró olaj- és gázárak állnak az áremelkedés mögött.\n\n• **Az IMF szerint a túlzottan széles körű energiaár-kompenzáció hátráltathatja az infláció letörését.** Az EKB előrejelzése átlagosan 3 százalékos inflációval számol 2026-ban, 2,5 százalékossal 2027-ben és 2,1 százalékossal 2028-ban; a jegybank célja a 2 százalékos szint elérése.",
+    "title_ro": "FMI: BCE ar putea avea nevoie de o nouă majorare a dobânzilor în 2026",
+    "lead_ro": "Fondul Monetar Internațional consideră că Banca Centrală Europeană ar putea majora dobânzile cu cel puțin încă 25 de puncte de bază în 2026, pentru a ține sub control inflația. Inflația anuală din zona euro a urcat la 3,8% în septembrie, iar BCE estimează că aceasta va reveni la ținta de 2% în 2028.",
+    "content_ro": "• **FMI consideră necesară cel puțin o nouă majorare a dobânzilor cu 25 de puncte de bază în 2026** pentru a ține inflația din zona euro sub control. Deciziile de după 2026 ar trebui luate în funcție de datele disponibile la acel moment.\n\n• **Inflația anuală a ajuns în septembrie la 3,8%** atât în zona euro, cât și în Uniunea Europeană, față de 3,2% în august. Este cel mai ridicat nivel din ultimii trei ani, iar analiștii spun că scumpirea energiei ar putea menține presiunile inflaționiste.\n\n• **BCE a majorat dobânzile cu 25 de puncte de bază atât în iunie, cât și în septembrie.** Președinta instituției, Christine Lagarde, a indicat că scumpirea petrolului și a gazelor, pe fondul conflictului din Iran, contribuie la creșterea prețurilor.\n\n• **FMI avertizează că ajutoarele pentru compensarea scumpirii energiei, dacă nu sunt bine calibrate, pot îngreuna reducerea inflației.** Proiecțiile BCE indică o inflație medie de 3% în 2026, de 2,5% în 2027 și de 2,1% în 2028, apropiindu-se astfel de ținta de 2%."
+  },
+  {
     "group_id": "group_11ce9d8ded",
     "category": "Erdély",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -40,6 +449,27 @@
     "title_ro": "ORA Jazz Festival 2026: din Japonia până în Statele Unite, muzicieni din șapte țări și numeroase premiere muzicale la Oradea, între 12 și 15 noiembrie (FOTO)",
     "lead_ro": "Între 12 și 15 noiembrie 2026, Oradea găzduiește cea de-a șaptea ediție ORA Jazz Festival, cu șapte proiecte internaționale din șapte țări, concerte la Filarmonica de Stat Oradea și la Sinagoga Neolog…",
     "content_ro": "Între 12 și 15 noiembrie 2026, Oradea găzduiește cea de-a șaptea ediție ORA Jazz Festival, cu șapte proiecte internaționale din șapte țări, concerte la Filarmonica de Stat Oradea și la Sinagoga Neologă Sion, precum și un concert inaugural special susținut de Josefine Opsahl alături de Orchestra Filarmonicii de Stat Oradea."
+  },
+  {
+    "group_id": "group_5a56f1a584",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-5/559bcff3-843c-431d-b5bf-9db3da8b9817/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Premiile „Din inimă pentru viitor” 2026: Companiile și personalitățile care contribuie la schimbarea comunităților",
+        "link": "https://adevarul.ro/stiri-interne/societate/premiile-din-inima-pentru-viitor-2026-2564539.html"
+      }
+    ],
+    "published_at": 1792156476,
+    "title_hu": "Premiile „Din inimă pentru viitor” 2026: Companiile și personalitățile care contribuie la schimbarea comunităților",
+    "lead_hu": "Fundația Inovații Sociale Regina Maria a anunțat câștigătorii Premiilor „Din inimă pentru viitor” 2026, în cadrul Galei caritabile desfășurate pe 14 octombrie, la Enayati Medical City.",
+    "content_hu": "Fundația Inovații Sociale Regina Maria a anunțat câștigătorii Premiilor „Din inimă pentru viitor” 2026, în cadrul Galei caritabile desfășurate pe 14 octombrie, la Enayati Medical City.",
+    "title_ro": "Premiile „Din inimă pentru viitor” 2026: Companiile și personalitățile care contribuie la schimbarea comunităților",
+    "lead_ro": "Fundația Inovații Sociale Regina Maria a anunțat câștigătorii Premiilor „Din inimă pentru viitor” 2026, în cadrul Galei caritabile desfășurate pe 14 octombrie, la Enayati Medical City.",
+    "content_ro": "Fundația Inovații Sociale Regina Maria a anunțat câștigătorii Premiilor „Din inimă pentru viitor” 2026, în cadrul Galei caritabile desfășurate pe 14 octombrie, la Enayati Medical City."
   },
   {
     "group_id": "group_d6339cbfc6",
@@ -91,6 +521,64 @@
     "content_ro": "• **Pentru anul școlar 2025/2026**, copiii și tinerii maghiari din afara Ungariei vor primi câte 100.000 de forinți ca sprijin pentru educație, materiale școlare și studii universitare.\n\n• **Calendarul plăților diferă în funcție de regiune:** transferurile vor începe în octombrie în Slovacia, iar în Transilvania și în celelalte regiuni vizate sunt așteptate la începutul lunii noiembrie, după îndeplinirea condițiilor financiare și administrative necesare.\n\n• **În șase țări vor fi acordate în total 223.848 de ajutoare**, în valoare de peste 22,3 miliarde de forinți. Beneficiarii locuiesc în Transilvania, Slovacia, Voivodina, Ucraina Subcarpatică, Croația și Slovenia.\n\n• **În Voivodina, plățile vor fi efectuate în mai multe tranșe:** potrivit planului, acestea se vor încheia cel târziu la 20 decembrie 2026."
   },
   {
+    "group_id": "group_746ea01c03",
+    "fingerprint": "09ca21650bcc3a01cbc9fa1fdc9f66ae",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
+        "link": "https://www.g4media.ro/breaking-psd-a-decis-sa-intre-in-guvernul-luca-niculescu-surse.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "PSD a decis să intre la guvernare. Conducerea partidului a stabilit și lista de miniștri în Guvernul Luca Niculescu",
+        "link": "https://hotnews.ro/psd-a-decis-sa-intre-la-guvernare-conducerea-partidului-a-stabilit-si-lista-de-ministri-2376053"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "„Decalogul” priorităților PSD în cabinetul lui Luca Niculescu, după decizia de intrare la guvernare",
+        "link": "https://hotnews.ro/decalogul-prioritatilor-psd-in-cabinetul-lui-luca-niculescu-dupa-decizia-de-intrare-la-guvernare-2376166"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "ÎN SCURT TIMP Nicușor Dan, primele declarații după decizia PSD de a intra la guvernare",
+        "link": "https://hotnews.ro/in-scurt-timp-nicusor-dan-primele-declaratii-dupa-decizia-psd-de-a-intra-la-guvernare-2376620"
+      },
+      {
+        "source": "G4Media",
+        "title": "Lista miniștrilor cu care Luca Niculescu merge în Parlament / A acceptat toate nominalizările PSD / Apar miniștri delegați pentru inteligență artificială și învățământ preuniversitar",
+        "link": "https://www.g4media.ro/lista-ministrilor-cu-care-luca-niculescu-merge-in-parlament-a-acceptat-toate-nominalizarile-psd-apar-ministri-delegati-pentru-inteligenta-artificiala-si-invatamant-preuniversitar.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "OFICIAL: Lista miniștrilor cu care Luca Niculescu merge în Parlament / A acceptat toate nominalizările PSD / Apar miniștri delegați pentru inteligență artificială și învățământ preuniversitar",
+        "link": "https://www.g4media.ro/oficial-lista-ministrilor-cu-care-luca-niculescu-merge-in-parlament-a-acceptat-toate-nominalizarile-psd-apar-ministri-delegati-pentru-inteligenta-artificiala-si-invatamant-preuniversitar.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "DOCUMENT Luca Niculescu a depus lista miniștrilor și programul de guvernare la Parlament. Toate propunerile PSD, acceptate / Când se va da votul în plen",
+        "link": "https://hotnews.ro/document-programul-si-lista-membrilor-guvernului-niculescu-au-fost-depuse-la-parlament-cand-se-va-da-votul-in-plen-2377368"
+      },
+      {
+        "source": "Digi24",
+        "title": "PSD anunță că toate solicitările sale au fost incluse în programul Guvernului Niculescu. Apel către partidele parlamentare",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/psd-anunta-ca-toate-solicitarile-sale-au-fost-incluse-in-programul-guvernului-niculescu-apel-catre-partidele-parlamentare-3995409"
+      }
+    ],
+    "published_at": 1792156380,
+    "title_hu": "A PSD belép a Niculescu-kormányba: 11 tárcát kap, a beiktatásról jövő kedden szavazhat a parlament",
+    "lead_hu": "A PSD vezetése október 14-én úgy döntött, hogy miniszterekkel vesz részt a Luca Niculescu vezette kormányban; a kabinet névsorát és programját a kijelölt miniszterelnök október 15-én benyújtotta a parlamentnek. A PSD 11 tárcára jelölt politikusokat, emellett két miniszterdelegált is szerepel a 19 tagú kormányjavaslatban. A beiktatási szavazást október 20-ára tűzték ki.",
+    "content_hu": "• **Október 14-én** a PSD országos politikai tanácsa jóváhagyta, hogy a párt belépjen a Luca Niculescu vezette kormányba. A döntést nyolcan tartózkodták, köztük Sorin Grindeanu pártelnök; a kabinet parlamenti támogatásáról szóló szavazás egyhangú volt.\n\n• **A PSD 11 miniszteri tisztségre jelölt politikusokat:** Marian Neacșu a belügyet és a miniszterelnök-helyettesi posztot, Florin Barbu a mezőgazdaságot, Alexandru Rogobete az egészségügyet, Florin Manole a munkaügyet, Daniel Zamfir a gazdaságot, Radu Marinescu az igazságügyet, Alexandru Stoica a fejlesztést, Ștefan Ovidiu Popa a közlekedést, Natalia Intotero a környezetvédelmet, Mihai Ghigiu az európai beruházásokat és projekteket, Ștefan Radu Oprea pedig a védelmet kapná.\n\n• **A parlamentnek benyújtott, 19 tagú kormányjavaslatban** a PSD-s miniszterek mellett független tárcavezetők és két miniszterdelegált szerepel. A független jelöltek között van Alexandru Nazare a pénzügyek élére, Dan Neculăescu a külügyre, Dumitru Chisăliță az energiára, Sorin Costreie az oktatásra és Ioana Ciocan a kultúrára; a digitális ügyekért és a mesterséges intelligenciáért Bogdan Dumitru, a közoktatásért Sorin Ionescu felelne miniszterdelegáltként. A kormányt Luca Niculescu vezetné.\n\n• **A PSD tíz prioritást szabott a kormányprogramhoz:** november 1-jéig ismertetné a költségvetési hiány és az elhalasztott állami tartozások valós helyzetét, valamint végrehajtaná a sürgős költségvetési kiigazítást; kiszámítható 2027-es adópolitikát és a további adóemelések elkerülését kéri. A párt az uniós és állami beruházások áttekintését, a gazdaságélénkítő intézkedések november 15-ig történő bevezetését, valamint a 2027-es költségvetés december 1-jéig való elkészítését is szorgalmazza.\n\n• **A további vállalások között** szerepel a téli energia- és fűtésellátás biztosítása, a nyugdíjak – köztük a katonai és minimálnyugdíjak – indexálása, a CASS eltörlése az anyák, veteránok és fogyatékossággal élők számára, továbbá a közigazgatási reform és a legfeljebb 1500 lakosú települések önkéntes összevonása. A benyújtott kormányprogram 2027-től eltörölné a forgalomarányos minimális adót (IMCA), és 2027-re a GDP 5,2 százalékának megfelelő költségvetési hiánnyal számol.\n\n• **A parlamenti támogatást a PNL és az RMDSZ is jelezte**, de egyik párt sem venne részt a kormányban. A PNL a kormány beiktatását és egyes vállalások teljesülése esetén a hat hónapos stabilitást támogatná, miközben ellenzékben maradna; az RMDSZ a kormányra és programjára is igent mondana. Az USR bejelentette, hogy nem támogatja a PSD minisztereivel felálló kabinetet.\n\n• **A beiktatási szavazást október 20-án, kedden 14 órára tűzték ki**, a miniszterjelöltek parlamenti bizottsági meghallgatásait október 19–20-án tartanák. Niculescu október 15-én benyújtotta a kormányprogramot és a miniszterjelöltek listáját; a kabinet beiktatása ekkor még nem történt meg.\n\n• **A PSD hat hónap után értékelné a kormány teljesítményét**, Grindeanu pedig azt mondta, a párt a gazdaságélénkítő eredményektől várja az AUR támogatottságának csökkenését. Niculescu szerint a pártokkal kötött megállapodások alapján nagy az esélye annak, hogy a parlament kedden megszavazza a kormányt.",
+    "title_ro": "PSD intră în guvernul Niculescu cu 11 portofolii; votul de învestitură este programat marți",
+    "lead_ro": "Conducerea PSD a decis, pe 14 octombrie, ca partidul să participe cu miniștri în guvernul condus de Luca Niculescu, iar premierul desemnat a depus lista Cabinetului și programul de guvernare la Parlament pe 15 octombrie. PSD a nominalizat politicieni pentru 11 portofolii, iar propunerea de Cabinet cuprinde 19 membri, inclusiv doi miniștri delegați. Votul de învestitură a fost programat pentru 20 octombrie.",
+    "content_ro": "• **La 14 octombrie**, Consiliul Politic Național al PSD a aprobat intrarea partidului în guvernul condus de Luca Niculescu. Decizia a fost luată cu opt abțineri, printre care cea a președintelui PSD, Sorin Grindeanu; susținerea guvernului în Parlament a fost aprobată în unanimitate.\n\n• **PSD a nominalizat 11 miniștri:** Marian Neacșu la Interne și vicepremier, Florin Barbu la Agricultură, Alexandru Rogobete la Sănătate, Florin Manole la Muncă, Daniel Zamfir la Economie, Radu Marinescu la Justiție, Alexandru Stoica la Dezvoltare, Ștefan Ovidiu Popa la Transporturi, Natalia Intotero la Mediu, Mihai Ghigiu la Investiții și Proiecte Europene, iar Ștefan Radu Oprea la Apărare.\n\n• **Propunerea de Cabinet cu 19 membri depusă la Parlament** include, alături de miniștrii PSD, titulari independenți și doi miniștri delegați. Printre independenți se numără Alexandru Nazare la Finanțe, Dan Neculăescu la Externe, Dumitru Chisăliță la Energie, Sorin Costreie la Educație și Ioana Ciocan la Cultură. Bogdan Dumitru ar urma să fie ministru delegat pentru digitalizare și inteligență artificială, iar Sorin Ionescu, ministru delegat pentru învățământul preuniversitar. Guvernul ar urma să fie condus de Luca Niculescu.\n\n• **PSD a stabilit zece priorități pentru programul de guvernare:** prezentarea până la 1 noiembrie a situației reale a deficitului bugetar și a datoriilor amânate, precum și efectuarea unei rectificări bugetare urgente; predictibilitate fiscală pentru 2027 și evitarea unor noi majorări de taxe. Partidul mai cere evaluarea investițiilor finanțate din fonduri europene și de la buget, aplicarea măsurilor de relansare economică până la 15 noiembrie și elaborarea bugetului pe 2027 până la 1 decembrie.\n\n• **Printre celelalte angajamente** se numără măsuri pentru asigurarea energiei și încălzirii pe timpul iernii, indexarea pensiilor, inclusiv a pensiilor militare și a pensiei minime, eliminarea CASS pentru mame, veterani și persoanele cu dizabilități, precum și reforma administrației și comasarea voluntară a localităților cu cel mult 1.500 de locuitori. Programul depus prevede eliminarea impozitului minim pe cifra de afaceri (IMCA) de la 1 ianuarie 2027 și un deficit bugetar de 5,2% din PIB pentru 2027.\n\n• **PNL și UDMR au anunțat că vor susține învestirea**, fără să participe la guvernare. PNL ar sprijini Cabinetul și, dacă sunt respectate anumite angajamente, stabilitatea guvernamentală timp de șase luni, dar ar rămâne în opoziție; UDMR ar vota atât guvernul, cât și programul său. USR a anunțat că nu va susține un Cabinet cu miniștri PSD.\n\n• **Votul de învestitură a fost programat pentru marți, 20 octombrie, la ora 14:00**, iar audierile miniștrilor în comisiile parlamentare urmau să aibă loc în 19 și 20 octombrie. Niculescu a depus lista miniștrilor și programul la 15 octombrie; la acel moment, Cabinetul nu fusese încă învestit.\n\n• **PSD va evalua activitatea Guvernului după șase luni**, iar Grindeanu a spus că partidul mizează pe rezultatele economice pentru a reduce sprijinul AUR. Niculescu a afirmat că, în urma acordurilor cu partidele, există șanse mari ca Parlamentul să voteze Guvernul marți."
+  },
+  {
     "group_id": "group_cf208e8a51",
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-7/7ad3c327-2cbc-4cf8-97ea-34939f6b7dc6/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -131,27 +619,6 @@
     "title_ro": "Korunk 100: centenáriumot ünnepel az erdélyi magyar társadalomtudományi folyóirat",
     "lead_ro": "„Ez a folyóirat nem csupán papír és festék, sokkal inkább intézményes fórum, amely száz éve bizonyítja, hogy a kultúra és a tudomány nem luxus, hanem a kollektív túlélés egyik alapfeltétele” – mondta …",
     "content_ro": "„Ez a folyóirat nem csupán papír és festék, sokkal inkább intézményes fórum, amely száz éve bizonyítja, hogy a kultúra és a tudomány nem luxus, hanem a kollektív túlélés egyik alapfeltétele” – mondta az ünnepségen a Korunk főszerkesztője."
-  },
-  {
-    "group_id": "group_7c252896eb",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2022/12/dreamstime_l_13749037-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "BCE ar putea majora dobânzile cu încă 25 de puncte de bază în acest an, pe fondul inflației ridicate",
-        "link": "https://economedia.ro/bce-ar-putea-majora-dobanzile-cu-inca-25-de-puncte-de-baza-in-acest-an-pe-fondul-inflatiei-ridicate.html"
-      }
-    ],
-    "published_at": 1792156148,
-    "title_hu": "BCE ar putea majora dobânzile cu încă 25 de puncte de bază în acest an, pe fondul inflației ridicate",
-    "lead_hu": "Banca Centrală Europeană va majora probabil ratele dobânzilor cu 25 puncte de bază cel puţin încă o dată în acest an, pentru a contracara inflaţia ridicată, se arată într-un raport publicat vineri de …",
-    "content_hu": "Banca Centrală Europeană va majora probabil ratele dobânzilor cu 25 puncte de bază cel puţin încă o dată în acest an, pentru a contracara inflaţia ridicată, se arată într-un raport publicat vineri de Fondul Monetar Internaţional (FMI), transmite agenția Reuters, citată de Agerpres. BCE majorase deja dobânzile, atât în iunie cât şi septembrie, cu 25 […]",
-    "title_ro": "BCE ar putea majora dobânzile cu încă 25 de puncte de bază în acest an, pe fondul inflației ridicate",
-    "lead_ro": "Banca Centrală Europeană va majora probabil ratele dobânzilor cu 25 puncte de bază cel puţin încă o dată în acest an, pentru a contracara inflaţia ridicată, se arată într-un raport publicat vineri de …",
-    "content_ro": "Banca Centrală Europeană va majora probabil ratele dobânzilor cu 25 puncte de bază cel puţin încă o dată în acest an, pentru a contracara inflaţia ridicată, se arată într-un raport publicat vineri de Fondul Monetar Internaţional (FMI), transmite agenția Reuters, citată de Agerpres. BCE majorase deja dobânzile, atât în iunie cât şi septembrie, cu 25 […]"
   },
   {
     "group_id": "group_0daa69bb0f",
@@ -1954,27 +2421,6 @@
     "content_ro": "George Pușcaș, atacantul lui Dinamo, a fost prezent vineri la DIICOT, pentru audieri în cazul Nordis, el fiind unul dintre cei păgubiți în dosar. CONTEXT: În octombrie 2024, atenția publică din România era acaparată de investigația Recorder cu privire la Nordis Group. ..."
   },
   {
-    "group_id": "group_c5acf68e08",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/16/120039/screenshot-2026-10-16-145227.png?fm=jpg&q=80&fit=crop&crop=1656%2C904%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce scrie presa britanică despre noul model Dacia Striker. Schimbările prezentate de gigantul auto și prețul de pornire",
-        "link": "https://stirileprotv.ro/stiri/auto/ce-scrie-presa-britanica-despre-noul-model-dacia-striker-schimbarile-prezentate-de-gigantul-auto-si-pretul-de-pornire.html"
-      }
-    ],
-    "published_at": 1792152166,
-    "title_hu": "Ce scrie presa britanică despre noul model Dacia Striker. Schimbările prezentate de gigantul auto și prețul de pornire",
-    "lead_hu": "Presa britanică a analizat noul model Dacia Striker, prezentat la Salonul Auto de la Paris din 2026, și a remarcat schimbarea de design a mărcii românești, cunoscută pentru raportul calitate-preț.",
-    "content_hu": "Presa britanică a analizat noul model Dacia Striker, prezentat la Salonul Auto de la Paris din 2026, și a remarcat schimbarea de design a mărcii românești, cunoscută pentru raportul calitate-preț.",
-    "title_ro": "Ce scrie presa britanică despre noul model Dacia Striker. Schimbările prezentate de gigantul auto și prețul de pornire",
-    "lead_ro": "Presa britanică a analizat noul model Dacia Striker, prezentat la Salonul Auto de la Paris din 2026, și a remarcat schimbarea de design a mărcii românești, cunoscută pentru raportul calitate-preț.",
-    "content_ro": "Presa britanică a analizat noul model Dacia Striker, prezentat la Salonul Auto de la Paris din 2026, și a remarcat schimbarea de design a mărcii românești, cunoscută pentru raportul calitate-preț."
-  },
-  {
     "group_id": "group_ff863419cd",
     "fingerprint": "11ac612603269cf86d15cb9634b8a31a",
     "category": "Általános",
@@ -2915,49 +3361,6 @@
     "title_ro": "Donald Trump s-a răzgândit. Execuția unui fost maior american nu va mai fi transmisă în direct",
     "lead_ro": "Donald Trump s-a răzgândit. A renunțat la planul de a transmite în direct execuția unui fost maior, condamnat pentru uciderea unor militari la baza americană Fort Hood, în 2009.",
     "content_ro": "Donald Trump s-a răzgândit. A renunțat la planul de a transmite în direct execuția unui fost maior, condamnat pentru uciderea unor militari la baza americană Fort Hood, în 2009."
-  },
-  {
-    "group_id": "group_746ea01c03",
-    "fingerprint": "96e7c7785033382d8c4da11f460dd365",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
-        "link": "https://www.g4media.ro/breaking-psd-a-decis-sa-intre-in-guvernul-luca-niculescu-surse.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "PSD a decis să intre la guvernare. Conducerea partidului a stabilit și lista de miniștri în Guvernul Luca Niculescu",
-        "link": "https://hotnews.ro/psd-a-decis-sa-intre-la-guvernare-conducerea-partidului-a-stabilit-si-lista-de-ministri-2376053"
-      },
-      {
-        "source": "Economedia",
-        "title": "BREAKING | VIDEO | PSD intră oficial în Guvernul Niculescu. Zece priorități: fără creșteri de taxe pentru mediul de afaceri în 2027",
-        "link": "https://economedia.ro/breaking-psd-intra-oficial-in-guvernul-niculescu-zece-conditii-fara-taxe-noi-pentru-mediul-de-afaceri.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Sorin Grindeanu precizează care sunt prioritățile PSD, regăsite în programul de guvernare al Guvernului Niculescu",
-        "link": "https://www.mediafax.ro/stirile-zilei/sorin-grindeanu-precizeaza-care-sunt-prioritatile-psd-regasite-in-programul-de-guvernare-al-guvernului-niculescu-23825466"
-      },
-      {
-        "source": "Maszol",
-        "title": "Hivatalos: kormányra lép a PSD a Niculescu-kabinetben",
-        "link": "https://maszol.ro/belfold/Hivatalos-kormanyra-lep-a-PSD-a-Niculescu-kabinetben"
-      }
-    ],
-    "published_at": 1792150231,
-    "title_hu": "A PSD belép a Niculescu-kormányba, 11 minisztert jelöl",
-    "lead_hu": "A PSD vezetése 2026. október 14-én úgy döntött, hogy miniszterekkel vesz részt a Luca Niculescu vezette kormányban. A párt 11 tárcára jelölt politikusokat, és több költségvetési, gazdaságélénkítő és szociális prioritást szabott a kabinet elé.",
-    "content_hu": "• **Október 14-én** a PSD országos politikai tanácsa jóváhagyta, hogy a párt belépjen a Luca Niculescu vezette kormányba. A részvételről szóló döntésnél nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök; a kormány parlamenti támogatását külön, egyhangúlag hagyták jóvá a beszámolók szerint.\n\n• **A PSD 11 minisztert jelölt** a tervezett kabinetbe: Marian Neacșu a belügyi tárcát és a miniszterelnök-helyettesi tisztséget kapná, Florin Barbu a mezőgazdaságot, Alexandru Rogobete az egészségügyet, Florin Manole a munkaügyet, Daniel Zamfir a gazdaságot, Radu Marinescu az igazságügyet, Alexandru Stoica a fejlesztést, Ștefan Ovidiu Popa a közlekedést, Natalia Intotero a környezetvédelmet, Mihai Ghigiu az európai beruházásokat, Ștefan Radu Oprea pedig a védelmet vezetné.\n\n• **A párt tíz prioritást nevezett meg** a kormányprogramhoz: a költségvetési hiány és az elhalasztott állami tartozások valós helyzetének bemutatását, kiszámítható 2027-es adópolitikát és az adóemelések elkerülését, sürgős költségvetés-kiigazítást, a beruházások és az uniós finanszírozású projektek áttekintését, a gazdaságélénkítő intézkedések végrehajtását, valamint a 2027-es költségvetés elkészítését.\n\n• **A további vállalások között** szerepel a téli energia- és fűtésellátás biztosítása, a nyugdíjak – köztük a katonai és minimálnyugdíjak – indexálása, a CASS egészségbiztosítási járulék eltörlése az anyák, veteránok és fogyatékossággal élők számára, valamint a közigazgatási reform elindítása, benne a kis lélekszámú települések önkéntes összevonásával.\n\n• **A kabinet támogatásáról** a PNL és az RMDSZ is jelezte, hogy parlamenti szavazatával hozzájárulna, miközben egyik párt sem venne részt a kormányban. Az USR ezzel szemben azt közölte, hogy nem támogatja a PSD minisztereivel felálló kormányt.\n\n• **A kormány munkáját hat hónap után** értékelné a PSD – jelentette be Grindeanu. A miniszterelnök-jelöltnek a kormányprogramot és a miniszterjelöltek listáját a parlament elé kellett terjesztenie; a párt döntése önmagában még nem jelentette a kabinet beiktatását.",
-    "title_ro": "PSD intră în Guvernul Niculescu și propune 11 miniștri",
-    "lead_ro": "Conducerea PSD a decis, la 14 octombrie 2026, ca partidul să participe cu miniștri la Guvernul condus de Luca Niculescu. Social-democrații au propus 11 titulari de portofolii și au anunțat priorități bugetare, economice și sociale pentru viitorul Cabinet.",
-    "content_ro": "• **La 14 octombrie**, Consiliul Politic Național al PSD a aprobat intrarea partidului în Guvernul condus de Luca Niculescu. La votul privind participarea cu miniștri au fost opt abțineri, inclusiv cea a președintelui Sorin Grindeanu; potrivit relatărilor, susținerea parlamentară a guvernului a fost aprobată separat, în unanimitate.\n\n• **PSD a propus 11 miniștri** pentru viitorul Cabinet: Marian Neacșu la Interne și ca vicepremier, Florin Barbu la Agricultură, Alexandru Rogobete la Sănătate, Florin Manole la Muncă, Daniel Zamfir la Economie, Radu Marinescu la Justiție, Alexandru Stoica la Dezvoltare, Ștefan Ovidiu Popa la Transporturi, Natalia Intotero la Mediu, Mihai Ghigiu la Investiții și Proiecte Europene, iar Ștefan Radu Oprea la Apărare.\n\n• **Partidul a prezentat zece priorități** pentru programul de guvernare: publicarea situației reale a deficitului și a datoriilor amânate, predictibilitate fiscală pentru 2027 și evitarea majorării taxelor, rectificarea bugetară urgentă, evaluarea investițiilor și a proiectelor finanțate din fonduri europene, aplicarea măsurilor de relansare economică și elaborarea bugetului pentru 2027.\n\n• **Printre celelalte angajamente** se numără asigurarea energiei și încălzirii în sezonul rece, indexarea pensiilor — inclusiv a celor militare și a pensiei minime —, eliminarea contribuției CASS pentru mame, veterani și persoane cu dizabilități, precum și lansarea reformei administrative, inclusiv prin comasarea voluntară a localităților mici.\n\n• **PNL și UDMR au anunțat** că ar urma să susțină Guvernul prin vot în Parlament, fără să participe la Executiv. USR, în schimb, a transmis că nu va vota un guvern din care fac parte miniștri PSD.\n\n• **PSD va evalua activitatea Guvernului după șase luni**, a anunțat Grindeanu. Premierul desemnat urma să înainteze Parlamentului programul de guvernare și lista propunerilor de miniștri; decizia PSD, în sine, nu însemna că Executivul fusese deja învestit."
   },
   {
     "group_id": "group_43ca5fcb78",
@@ -4081,39 +4484,6 @@
     "content_ro": "• **Zece orașe** – Bistrița, Brașov, București – Sectorul 1, Deva, Mediaș, Râmnicu Sărat, Râmnicu Vâlcea, Satu Mare, Suceava și Târgu Neamț – au trecut de primele două etape ale competiției și continuă cursa pentru titlul din 2028. Participarea este cea mai numeroasă din istoria de un deceniu a programului.\n\n• **Până la 21 septembrie**, orașele au trebuit să depună dosarele complete, după ce și-au anunțat intenția de participare printr-o scrisoare asumată de primar. Candidaturile prezintă, între altele, nevoile tinerilor din comunitate, schimbările urmărite, partenerii implicați și bugetul estimat.\n\n• **Youth Voice**, un juriu format din 24 de tineri cu vârste între 14 și 29 de ani, participă direct la evaluare. Membrii analizează secțiunea dosarului pregătită pentru ei și rezumatul video al fiecărei candidaturi; punctajul lor reprezintă 21% din rezultatul final.\n\n• **Evaluarea se încheie pe 15 octombrie.** Primele două sau trei orașe clasate vor ajunge în finala de la Alba Iulia, organizată cu prilejul celei de-a 11-a ediții a Summitului Tinerilor. Echipele își vor prezenta planurile în fața juriului în intervenții de cel mult 30 de minute, urmate de o sesiune de întrebări și răspunsuri.\n\n• **Orașul câștigător** va putea folosi titlul de Capitala Tineretului din România 2028, va primi un premiu de 50.000 de euro oferit de BCR și va găzdui Summitul Tinerilor din 2028, beneficiind totodată de mentorat și sprijin profesional."
   },
   {
-    "group_id": "group_8a5e57e03f",
-    "fingerprint": "1044b60ffb4f297f9fe2ae2737c35bdb",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-d/dec814df-06b9-4edd-b1bc-70237f78befb/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Băncile amendate cu 3,73 miliarde de lei în dosarul ROBOR contestă argumentele Consiliului Concurenței. „Transparența nu este cartel”",
-        "link": "https://adevarul.ro/economie/bancile-amendate-cu-373-miliarde-de-lei-in-2564145.html"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Consiliul Patronatelor Bancare din România reacţionează la declaraţiile publice ale lui Bogdan Chiriţoiu, preşedintele Consiliului Concurenţei, privind argumentele legate de sancţiunile ROBOR: „Transparenţa NU este cartel”, „Regulile sistemului NU sunt dovada unei înţelegeri”, „Dreptul european NU instituie o prezumţie generală de vinovăţie”",
-        "link": "https://www.zf.ro/zf-24/consiliul-patronatelor-bancare-romania-reactioneaza-declaratiile-publice-bogdan-chiritoiu-presedintele-consiliului-concurentei-privind-argumentele-legate-sanctiunile-robor-transparenta-cartel-23260681"
-      },
-      {
-        "source": "Economedia",
-        "title": "CPBR îi răspunde lui Bogdan Chirițoiu în dosarul ROBOR: „Transparența nu este cartel”. De ce contestă băncile argumentele autorității",
-        "link": "https://economedia.ro/cpbr-ii-raspunde-lui-bogdan-chiritoiu-in-dosarul-robor-transparenta-nu-este-cartel-de-ce-contesta-bancile-argumentele-autoritatii.html"
-      }
-    ],
-    "published_at": 1792147981,
-    "title_hu": "A banki szövetség vitatja a ROBOR-ügyben kiszabott bírságok indokait",
-    "lead_hu": "A Romániai Banki Munkáltatók Tanácsa (CPBR) szerint a versenytársak jegyzéseinek megfigyelése önmagában nem bizonyít kartellmegállapodást, és a bankok felelősségét konkrét bizonyítékokkal kell alátámasztani. A szervezet a 10 bankra összesen 3,73 milliárd lej bírságot kiszabó versenyhatósági döntés jogszerűségének bírósági vizsgálatát sürgeti.",
-    "content_hu": "• **A CPBR október 15-i álláspontja** szerint a versenytársak jegyzéseinek megfigyelése vagy az azokról szóló információk cseréje önmagában nem bizonyít versenyellenes megállapodást: „az átláthatóság nem kartell”.\n\n• **A ROBOR megállapításának szabályozott mechanizmusa** önmagában nem bizonyítja, hogy a részt vevő bankok összehangolták magatartásukat. A CPBR szerint a hatóságnak azt kell bizonyítania, hogy az intézményeknek pontosan milyen versenyellenes magatartás róható fel a jegyzési eljárásban való részvételükön túl.\n\n• **A bankok eltérő pénzügyi helyzete** miatt a CPBR vitatja, hogy a ROBOR emelkedése minden intézménynek automatikusan előnyt jelentene. Az értékelésben szerinte figyelembe kell venni a bankok mérlegszerkezetét, finanszírozási költségeit, kitettségeit és kockázatait.\n\n• **A verseny korlátozásának bizonyítása** akkor is szükséges, ha egy jogsértés megállapításához nem kell számszerűsíteni annak hatásait – hangsúlyozza a szervezet. A magatartást és annak jogi minősítését a hatóságnak alaposan alá kell támasztania.\n\n• **A bírságok háttere**, hogy a Versenytanács összesen 3,73 milliárd lejre, mintegy 710 millió euróra büntetett 10 bankot. A hatóság szerint a bankok a ROBOR-jegyzési folyamat során bizalmas, stratégiai információkat cseréltek; Bogdan Chirițoiu elnök érvelése szerint a versenytársak jegyzéseinek valós idejű láthatósága megkönnyítheti a koordinációt.\n\n• **A döntés jogszerűségéről a bíróságoknak kell határozniuk** a CPBR szerint. A szervezet tiszteletben tartja a Versenytanács szerepét, de azt kéri, hogy a vita a bankok védekezési jogának és az igazságszolgáltatás függetlenségének tiszteletben tartásával, az arra illetékes fórumon folytatódjon.",
-    "title_ro": "CPBR contestă argumentele amenzilor din dosarul ROBOR",
-    "lead_ro": "Consiliul Patronatelor Bancare din România (CPBR) susține că observarea cotațiilor concurenților nu dovedește, prin ea însăși, existența unui cartel și că răspunderea băncilor trebuie demonstrată concret. Organizația cere ca legalitatea deciziei prin care 10 bănci au fost amendate cu 3,73 miliarde de lei să fie analizată de instanțe.",
-    "content_ro": "• **Poziția CPBR din 15 octombrie** este că observarea cotațiilor concurenților sau schimbul de informații despre acestea nu dovedesc, prin ele însele, o înțelegere anticoncurențială: „Transparența nu este cartel”.\n\n• **Mecanismul reglementat de stabilire a ROBOR** nu demonstrează, în sine, că băncile participante și-au coordonat comportamentul. CPBR afirmă că autoritatea trebuie să arate ce conduită anticoncurențială le este imputabilă instituțiilor, dincolo de participarea la procedura de stabilire a cotațiilor.\n\n• **Diferențele dintre situațiile financiare ale băncilor** contrazic, potrivit CPBR, presupunerea că o creștere a ROBOR ar aduce automat beneficii tuturor instituțiilor. Analiza ar trebui să țină cont de structura bilanțurilor, costurile de finanțare, expuneri și riscuri.\n\n• **Demonstrarea încălcării** rămâne necesară chiar și atunci când sancționarea unei restrângeri a concurenței nu presupune cuantificarea efectelor acesteia, susține organizația. Autoritatea trebuie să probeze riguros conduita și încadrarea ei juridică.\n\n• **Contextul sancțiunilor** este decizia Consiliului Concurenței de a amenda 10 bănci cu un total de 3,73 miliarde de lei, echivalentul a aproximativ 710 milioane de euro. Autoritatea susține că băncile au schimbat informații confidențiale și strategice în timpul procedurii de stabilire a ROBOR; președintele Bogdan Chirițoiu a argumentat că vizibilitatea în timp real a cotațiilor concurenților poate facilita coordonarea.\n\n• **Instanțele trebuie să se pronunțe asupra legalității deciziei**, potrivit CPBR. Organizația afirmă că respectă rolul Consiliului Concurenței, dar cere ca disputa să continue în cadrul judiciar, cu respectarea dreptului la apărare al băncilor și a independenței justiției."
-  },
-  {
     "group_id": "group_4d66f7e746",
     "fingerprint": "c71bcbf239ea69e98c2b9d3cf2f27599",
     "category": "Általános",
@@ -4166,44 +4536,6 @@
     "title_ro": "Korszerű épület lett az APIA csíkszeredai székháza",
     "lead_ro": "Teljesen megújult a Hargita Megyei Mezőgazdasági Intervenciós és Kifizetési Ügynökség (APIA) csíkszeredai, Haladás utca 16. szám alatt található székháza.",
     "content_ro": "Teljesen megújult a Hargita Megyei Mezőgazdasági Intervenciós és Kifizetési Ügynökség (APIA) csíkszeredai, Haladás utca 16. szám alatt található székháza."
-  },
-  {
-    "group_id": "group_3a1ce30869",
-    "fingerprint": "b62440cf4707b1c12b98e8a4e3ff194b",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Atac cibernetic la Bursa de Valori București. Ținta, instituția prin care se fac toate tranzacțiile",
-        "link": "https://hotnews.ro/atac-cibernetic-la-bursa-de-valori-bucuresti-tinta-institutia-prin-care-se-fac-toate-tranzactiile-2377666"
-      },
-      {
-        "source": "Economedia",
-        "title": "Atac informativ la Depozitarul Central, entitatea cu tranzacțiile bursei / BVB: Niciun sistem al bursei nu a avut legătură cu atacul",
-        "link": "https://economedia.ro/atac-informativ-la-depozitarul-central-entitatea-cu-tranzactiile-bursei-bvb-niciun-sistem-al-bursei-nu-a-avut-legatura-cu-atacul.html"
-      },
-      {
-        "source": "Go4IT",
-        "title": "Breșă de securitate la Depozitarul Central al Bursei de Valori București: datele personale ale investitorilor, expuse după un atac cibernetic",
-        "link": "https://www.go4it.ro/securitate-informatica/bresa-de-securitate-la-depozitarul-central-al-bursei-de-valori-bucuresti-datele-personale-ale-investitorilor-expuse-dupa-un-atac-cibernetic-19288037/"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "BVB: Infrastructura şi sistemele de tranzacţionare ale Bursei de Valori Bucureşti nu au fost afectate de atacul cibernetic de la Depozitarul Central şi îşi continuă activitatea în condiţii normale",
-        "link": "https://www.zf.ro/zf-24/bvb-infrastructura-si-sistemele-de-tranzactionare-ale-bursei-de-valori-bucuresti-nu-au-fost-afectate-de-atacul-cibernetic-de-la-depozitarul-central-si-isi-continua-activitatea-in-conditii-normale-23261546"
-      }
-    ],
-    "published_at": 1792147920,
-    "title_hu": "Kibertámadás érte a Depozitarul Central befektetői alkalmazását",
-    "lead_hu": "A Depozitarul Central befektetői online szolgáltatásokhoz használt alkalmazásán személyes adatokat tekinthettek meg a támadók; az alkalmazás egy ideig nem volt elérhető. A társaság és a BVB szerint a nyilvántartási, elszámolási és tőzsdei kereskedési rendszerek nem érintettek, az értékpapír-állományok és a lezárt tranzakciók adatai változatlanok maradtak.",
-    "content_hu": "• **A támadás a Servicii Online pentru Investitori alkalmazást érte**, amelyet román magánbefektetők felhasználói fiókjainak létrehozására használnak. A Depozitarul Central az incidens napján azonosította a támadást, és azonnal megkezdte a kivizsgálást és a helyreállítást.\n\n• **Személyes adatokat tekinthettek meg a támadók**, köztük neveket, lakcímeket, személyi számokat, személyi igazolványadatokat, e-mail-címeket, telefonszámokat és IBAN-számokat. Az adatokat nem módosították, a jelszavak biztonságban maradtak; nem ismert, hány embert érintett az eset, és hogy letöltöttek-e adatokat.\n\n• **Az alkalmazás átmenetileg nem volt elérhető**, de a Depozitarul Central közlése szerint a szolgáltatások postai úton, illetve a társaság másodlagos irodájának ügyfélszolgálatán keresztül továbbra is igénybe vehetők.\n\n• **A nyilvántartási és elszámolási tevékenység zavartalan maradt.** A társaság szerint nem fértek hozzá, nem módosították és nem változtatták meg a befektetők értékpapír-állományait vagy a lezárt tranzakciók adatait.\n\n• **A BVB rendszerei nem kapcsolódtak a támadáshoz**, a tőzsde kereskedési ülései és egyéb tevékenységei a megszokott rendben folytatódtak. A BVB figyeli kereskedési infrastruktúrájának integritását, és megelőző intézkedéseket alkalmaz.\n\n• **Az incidens pontosan érintett alkalmazásáról eltérő sajtóbeszámolók jelentek meg:** a Depozitarul Central közlése a Servicii Online pentru Investitori alkalmazást nevezte meg, míg az Economedia az AGA-alkalmazást említette; a nyilvántartási műveleteket egyik beszámoló szerint sem érte támadás.\n\n• **A társaság értesítette az illetékes hatóságokat, köztük a DNSC-t**, és szakértői csapatot vont be az incidens kivizsgálásába. Fokozta a rendszerek felügyeletét.\n\n• **A Depozitarul Central vezeti az értékpapírok és a tulajdonosok nyilvántartását, valamint közreműködik a tranzakciók elszámolásában és az értékpapírok átvezetésében.** Nyilvántartásában az 1990-es évek tömeges privatizációjából származó, azóta el nem adott részvények tulajdonosai is szerepelnek.\n\n• **A felhasználókat fokozott óvatosságra intették:** használjanak egyedi jelszavakat, kapcsolják be a többtényezős hitelesítést, és legyenek körültekintők az esetleges csaló e-mailekkel, üzenetekkel és telefonhívásokkal.",
-    "title_ro": "Atac cibernetic asupra aplicației pentru investitori a Depozitarului Central",
-    "lead_ro": "Atacatorii au putut vizualiza date personale în aplicația Depozitarului Central folosită pentru serviciile online destinate investitorilor; aplicația a fost temporar indisponibilă. Potrivit instituției și BVB, sistemele de registru, decontare și tranzacționare nu au fost afectate, iar deținerile de instrumente financiare și datele tranzacțiilor decontate au rămas nemodificate.",
-    "content_ro": "• **Atacul a vizat aplicația Servicii Online pentru Investitori**, folosită pentru crearea conturilor investitorilor persoane fizice române. Depozitarul Central a identificat incidentul în ziua producerii și a început imediat investigarea și remedierea acestuia.\n\n• **Atacatorii au putut vizualiza date cu caracter personal**, inclusiv nume, adrese, coduri numerice personale, date din cărțile de identitate, adrese de e-mail, numere de telefon și coduri IBAN. Datele nu au fost modificate, iar parolele au rămas securizate; nu se știe câte persoane au fost afectate sau dacă au fost descărcate date.\n\n• **Aplicația a fost temporar indisponibilă**, însă, potrivit Depozitarului Central, serviciile pot fi accesate în continuare prin poștă sau la ghișeul sediului secundar al instituției.\n\n• **Activitățile de registru și decontare au continuat normal.** Instituția afirmă că deținerile de instrumente financiare și informațiile privind tranzacțiile decontate nu au fost accesate, modificate sau alterate.\n\n• **Sistemele BVB nu au avut legătură cu atacul**, iar ședințele de tranzacționare și celelalte activități ale bursei s-au desfășurat conform programului obișnuit. BVB monitorizează integritatea infrastructurii sale de tranzacționare și aplică măsuri de prevenire.\n\n• **Presa a relatat diferit despre aplicația vizată:** comunicarea Depozitarului Central a indicat aplicația Servicii Online pentru Investitori, în timp ce Economedia a menționat aplicația AGA; niciuna dintre relatări nu indică afectarea operațiunilor de registru.\n\n• **Instituția a informat autoritățile competente, inclusiv DNSC**, și a implicat o echipă de specialiști în investigarea incidentului. Monitorizarea sistemelor a fost intensificată.\n\n• **Depozitarul Central ține evidența instrumentelor financiare și a deținerilor și contribuie la decontarea tranzacțiilor și transferul titlurilor.** În evidențele sale se află și persoane care au primit acțiuni în urma privatizării în masă din anii ’90 și nu le-au vândut ulterior.\n\n• **Utilizatorii au fost îndemnați să fie vigilenți:** să folosească parole unice, să activeze autentificarea multifactor și să fie atenți la posibile tentative de fraudă prin e-mail, mesaje text sau apeluri telefonice."
   },
   {
     "group_id": "group_eb3214840b",
@@ -6626,34 +6958,6 @@
     "content_ro": "Consiliul Local Voluntari a votat, în unanimitate, cumpărarea unui imobil cu destinația școală, cu 2 milioane de euro. Plata se va face în tranșe până în martie anul viitor. Clădirea a aparținut societății Carbogaz, deținută de Diana și Mihai David Șerban, care operează o rețea de benzinării în Ilfov și București. Clădirea din Pipera a […] © G4Media.ro."
   },
   {
-    "group_id": "group_e7ca912ea3",
-    "fingerprint": "463f699e8d4123c5c278a53d6aedd114",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/salvamont-romania-e1742106604695-1024x948.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Salvamont Argeș și Salvamont Prahova avertizează turiștii: Ninsorile, frigul și vizibilitatea redusă fac periculoase traseele montane",
-        "link": "https://www.mediafax.ro/social/salvamont-arges-si-salvamont-prahova-avertizeaza-turistii-ninsorile-frigul-si-vizibilitatea-redusa-fac-periculoase-traseele-montane-23826539"
-      },
-      {
-        "source": "G4Media",
-        "title": "Salvamontiștii avertizează turiștii: Ninsorile, frigul și vizibilitatea redusă fac periculoase traseele montane / Salvatorii recomandă evitarea traseelor dificile și a celor de creastă în condiții meteorologice nefavorabile",
-        "link": "https://www.g4media.ro/salvamontistii-avertizeaza-turistii-ninsorile-frigul-si-vizibilitatea-redusa-fac-periculoase-traseele-montane-salvatorii-recomanda-evitarea-traseelor-dificile-si-a-celor-de-creasta-in-conditii-met.html"
-      }
-    ],
-    "published_at": 1792144507,
-    "title_hu": "A Salvamont a havazás és a rossz látási viszonyok miatt óvatosságra int a hegyi túrákon",
-    "lead_hu": "A Salvamont Argeș és a Salvamont Prahova arra figyelmeztetett, hogy ezen a hétvégén a magashegyi havazás, az erős szél, a hideg és a köd veszélyessé teheti a túrázást. A mentők a nehéz, kitett és gerinctúra-útvonalak kerülését, valamint a megfelelő téli felszerelés használatát javasolják.",
-    "content_hu": "• **A Salvamont Argeș és a Salvamont Prahova figyelmeztetése szerint** ezen a hétvégén a havazás, az erős szél, az alacsony hőmérséklet és a köd még az ismert hegyi útvonalakon is veszélyes helyzeteket teremthet. A rossz látási viszonyok megnehezítik a tájékozódást, a hideg pedig a telefonok akkumulátorának üzemidejét is csökkentheti.\n\n• **A mentők azt javasolják, hogy kedvezőtlen időben kerüljék a nehéz, kitett és gerincen vezető útvonalakat.** A túrázók indulás előtt ellenőrizzék az időjárás-előrejelzést és az útvonalak állapotát, viseljenek téli körülményeknek megfelelő ruházatot és lábbelit, vigyenek feltöltött telefont, lámpát és külső akkumulátort, valamint ne térjenek le a kijelölt ösvényekről.\n\n• **Ha romlik az időjárás, a túrát meg kell szakítani.** A mentők szerint az útvonalat a csoport tapasztalatához és fizikai felkészültségéhez kell igazítani; aki bajba kerül, álljon meg biztonságos helyen, és kérjen segítséget ahelyett, hogy ismeretlen terepen továbbindulna.\n\n• **Vészhelyzetben a 112-es segélyhívó vagy a Salvamont országos diszpécserszolgálata hívható a 0725 826 668-as számon.**",
-    "title_ro": "Salvamont avertizează asupra riscurilor de pe munte din cauza ninsorilor și vizibilității reduse",
-    "lead_ro": "Salvamont Argeș și Salvamont Prahova avertizează că ninsorile, vântul puternic, temperaturile scăzute și ceața pot face periculoase drumețiile la munte în acest weekend. Salvatorii recomandă evitarea traseelor dificile, expuse și de creastă, precum și folosirea echipamentului adecvat condițiilor de iarnă.",
-    "content_ro": "• **Potrivit avertizărilor Salvamont Argeș și Salvamont Prahova**, în acest weekend, ninsoarea, vântul puternic, frigul și ceața pot crea situații periculoase chiar și pe trasee cunoscute. Vizibilitatea redusă îngreunează orientarea, iar temperaturile scăzute pot diminua autonomia bateriilor telefoanelor.\n\n• **Salvamontiștii recomandă evitarea traseelor dificile, expuse și de creastă pe vreme nefavorabilă.** Turiștii sunt sfătuiți să verifice prognoza și starea traseelor înainte de plecare, să poarte haine și încălțăminte potrivite condițiilor de iarnă, să aibă un telefon încărcat, lanternă și baterie externă și să nu părăsească potecile marcate.\n\n• **Drumeția trebuie abandonată dacă vremea se înrăutățește.** Traseul trebuie ales în funcție de experiența și pregătirea fizică a grupului; persoanele care întâmpină dificultăți sunt sfătuite să se oprească într-un loc sigur și să ceară ajutor, fără să continue pe un traseu necunoscut.\n\n• **În caz de urgență, turiștii pot apela 112 sau Dispeceratul Național Salvamont, la numărul 0725 826 668.**"
-  },
-  {
     "group_id": "group_2d8fbd872f",
     "fingerprint": "6c39693c6c03a21fa34477ebfba1bc15",
     "category": "Általános",
@@ -7197,34 +7501,6 @@
     "title_ro": "Se vinde. Cât costă o insulă de 22 de hectare din Marea Egee cu plaje spectaculoase și decor sălbatic",
     "lead_ro": "O insulă de 22 de hectare din Marea Egee este scoasă la vânzare. Vânzătorul o descrie drept o „pânză albă” pe care viitorul proprietar își poate pune amprenta. Insula are trei plaje cu nisip și decoru…",
     "content_ro": "O insulă de 22 de hectare din Marea Egee este scoasă la vânzare. Vânzătorul o descrie drept o „pânză albă” pe care viitorul proprietar își poate pune amprenta. Insula are trei plaje cu nisip și decoruri sălbatice."
-  },
-  {
-    "group_id": "group_b4811f62a6",
-    "fingerprint": "af00d178c888687ab6769e6000757564",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjAyJTJGMTgwOTk1MV8xODA5/OTUxXzExMi1hbWJ1bGFudGEuanBnJmhh/c2g9NjNiODM0Njc4ZDE5ZGI2N2YxZjg3ZmZlNDcxYWEwYmE=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Angajat al Direcţiei Silvice Maramureş, găsit mort, cu răni grave, într-un complex de vânătoare. Ipoteza luată în calcul de anchetatori",
-        "link": "https://www.digi24.ro/stiri/angajat-al-directiei-silvice-maramures-gasit-mort-cu-rani-grave-intr-un-complex-de-vanatoare-ipoteza-luata-in-calcul-de-anchetatori-3994895"
-      },
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Tragedie în județul vecin. Pădurar găsit mort într-un complex de vânătoare. Prima ipoteză a anchetatorilor",
-        "link": "https://www.presasm.ro/tragedie-in-judetul-vecin-padurar-gasit-mort-intr-un-complex-de-vanatoare-prima-ipoteza-a/53808"
-      }
-    ],
-    "published_at": 1792143299,
-    "title_hu": "Meghalt egy erdész a máramarosi vadászterületen; a szarvastámadás csak vizsgált feltevés",
-    "lead_hu": "Egy 50 éves, a Șomcuta Mare-i erdészetnél dolgozó erdészt holtan találtak egy máramarosi vadászterületen, miután csütörtök este járőrözni indult. A hatóságok vizsgálják a haláleset körülményeit; az egyik feltevés szerint szarvas támadhatta meg, de ezt még nem erősítették meg. A Romsilva pénteken közleményben számolt be az esetről és fejezte ki részvétét.",
-    "content_hu": "• **Csütörtök este, 18 óra után** az erdész elindult otthonról, hogy járőrözzön a mintegy 520 hektáros vadászterületen; találkozója lett volna egy vadászmesterrel.\n\n• **Az erdész 2017 óta dolgozott a Romsilvánál**, a Șomcuta Mare-i erdészet alkalmazottjaként.\n\n• **Este 9 óra körül** súlyos sérülésekkel találtak rá, miután kollégái nem tudták telefonon elérni, és keresni kezdték. Az esetet bejelentették a 112-es segélyhívón, valamint értesítették a munkafelügyeletet.\n\n• **Az erdészeti körzet vezetőjét is értesítették** a keresés során.\n\n• **A vadászmester is részt vett a keresés elindításában:** a Mediafax beszámolója szerint a megbeszélt közös járőrözésre el nem érkező erdész kollégája értesítette a hatóságokat.\n\n• **A lehetséges szarvastámadás** egyelőre csak vizsgált feltevés: a párzási időszakban a hímek különösen agresszívek lehetnek, de ezt a magyarázatot még nem igazolták.\n\n• **A rendőrség gondatlanságból elkövetett emberölés gyanúja miatt** büntetőeljárást indított, hogy tisztázza a haláleset pontos körülményeit.\n\n• **A Romsilva részvétét fejezte ki** az elhunyt családjának, hozzátartozóinak és ismerőseinek.",
-    "title_ro": "Un pădurar a murit într-un complex de vânătoare din Maramureș; ipoteza atacului unui cerb este în curs de verificare",
-    "lead_ro": "Un pădurar în vârstă de 50 de ani, angajat al Ocolului Silvic Șomcuta Mare, a fost găsit mort într-un complex de vânătoare din Maramureș, după ce plecase în patrulare joi seară. Autoritățile cercetează circumstanțele decesului; una dintre ipoteze este un posibil atac al unui cerb, dar aceasta nu a fost confirmată. Romsilva a anunțat vineri cazul și a transmis condoleanțe.",
-    "content_ro": "• **Joi seară, după ora 18:00**, pădurarul a plecat de acasă pentru a patrula în complexul de vânătoare de aproximativ 520 de hectare; urma să se întâlnească cu un maistru de vânătoare.\n\n• **Pădurarul era angajat al Romsilva din 2017**, la Ocolul Silvic Șomcuta Mare.\n\n• **În jurul orei 21:00**, a fost găsit cu leziuni grave, după ce colegii nu au reușit să îl contacteze telefonic și au început să îl caute. Incidentul a fost anunțat la numărul de urgență 112 și la Inspectoratul Teritorial de Muncă.\n\n• **Șeful ocolului silvic a fost, de asemenea, informat** în timpul căutărilor.\n\n• **Maistrul de vânătoare a contribuit la declanșarea căutărilor:** potrivit Mediafax, colegul cu care pădurarul urma să patruleze împreună a alertat autoritățile după ce acesta nu s-a prezentat la întâlnire.\n\n• **Posibilul atac al unui cerb** este deocamdată doar o ipoteză verificată în anchetă; masculii pot deveni deosebit de agresivi în sezonul de împerechere, însă această explicație nu a fost confirmată.\n\n• **Poliția a deschis un dosar penal pentru ucidere din culpă**, pentru a stabili circumstanțele exacte ale decesului.\n\n• **Romsilva a transmis condoleanțe** familiei îndoliate, apropiaților și celor care l-au cunoscut."
   },
   {
     "group_id": "group_5ac2d1df80",
