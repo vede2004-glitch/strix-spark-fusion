@@ -1,5 +1,448 @@
 [
   {
+    "group_id": "group_cdc3982806",
+    "fingerprint": "3aefe0a2411b85848059919cd1cff249",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Regiune din România, cea mai subestimată destinație de călătorie din lume",
+        "link": "https://hotnews.ro/regiune-din-romania-cea-mai-subestimata-destinatie-de-calatorie-din-lume-2377557"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Regiunea din România care a fost desemnată cea mai subestimată destinație turistică din lume pentru 2027",
+        "link": "https://stirileprotv.ro/stiri/travel/regiunea-din-romania-care-a-fost-desemnata-cea-mai-subestimata-destinatie-turistica-din-lume-pentru-2027.html"
+      }
+    ],
+    "published_at": 1792128671,
+    "title_hu": "Bucovina lett a Time Out 2027-es listájának leginkább alulértékelt úti célja",
+    "lead_hu": "A Time Out Bucovinát választotta a világ leginkább alulértékelt turisztikai úti céljának 2027-re. A romániai régiót kevésbé zsúfolt alternatívaként ajánlják, és festett kolostorait, erdőit, hegyvidéki tájait, valamint hagyományait emelik ki.",
+    "content_hu": "• **A Time Out 2027-es rangsorában** Bucovina végzett az első helyen a világ leginkább alulértékelt turisztikai úti céljai között.\n\n• **A romániai régió** olyan utazóknak lehet vonzó alternatíva, akik a népszerű turistacélpontok helyett kevésbé zsúfolt helyet keresnek, kedvezőbb költségekkel.\n\n• **Bucovina látnivalói között** a világörökségi listán szereplő festett kolostorokat, ősi erdőket, hegyvidéki tájakat és a helyi közösségek által őrzött hagyományokat emelték ki.",
+    "title_ro": "Bucovina, pe primul loc în topul Time Out al destinațiilor subestimate pentru 2027",
+    "lead_ro": "Time Out a desemnat Bucovina cea mai subestimată destinație turistică din lume pentru 2027. Regiunea din România este recomandată ca alternativă mai puțin aglomerată și este remarcată pentru mănăstirile pictate, păduri, peisaje montane și tradiții locale.",
+    "content_ro": "• **În clasamentul Time Out pentru 2027**, Bucovina s-a clasat pe primul loc între cele mai subestimate destinații turistice din lume.\n\n• **Regiunea din România** este recomandată călătorilor care caută o alternativă mai puțin aglomerată la destinațiile turistice consacrate, cu cheltuieli mai mici.\n\n• **Printre atracțiile Bucovinei** sunt evidențiate mănăstirile pictate incluse în patrimoniul UNESCO, pădurile străvechi, peisajele montane și tradițiile păstrate de comunitățile locale."
+  },
+  {
+    "group_id": "group_074f307e02",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "România își pedepsește cetățenii pentru că au studiat în străinătate",
+        "link": "https://hotnews.ro/romania-isi-pedepseste-cetatenii-pentru-ca-au-studiat-in-strainatate-2375876"
+      }
+    ],
+    "published_at": 1792128600,
+    "title_hu": "România își pedepsește cetățenii pentru că au studiat în străinătate",
+    "lead_hu": "România are o relație profund contradictorie cu propria diasporă. Pe de o parte, politicienii români deplâng constant exodul de capital uman, vorbesc despre necesitatea atragerii românilor din străină…",
+    "content_hu": "România are o relație profund contradictorie cu propria diasporă. Pe de o parte, politicienii români deplâng constant exodul de capital uman, vorbesc despre necesitatea atragerii românilor din străinătate și promit politici publice care să încurajeze circulația talentelor între România și restul Europei. Pe de altă parte, același stat adoptă măsuri administrative care îi penalizează tocmai …",
+    "title_ro": "România își pedepsește cetățenii pentru că au studiat în străinătate",
+    "lead_ro": "România are o relație profund contradictorie cu propria diasporă. Pe de o parte, politicienii români deplâng constant exodul de capital uman, vorbesc despre necesitatea atragerii românilor din străină…",
+    "content_ro": "România are o relație profund contradictorie cu propria diasporă. Pe de o parte, politicienii români deplâng constant exodul de capital uman, vorbesc despre necesitatea atragerii românilor din străinătate și promit politici publice care să încurajeze circulația talentelor între România și restul Europei. Pe de altă parte, același stat adoptă măsuri administrative care îi penalizează tocmai …"
+  },
+  {
+    "group_id": "group_527241c2d5",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/16/cikk_EU_csucs.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Elszabadult energiaárak – Sürgős intézkedéseket követelnek az EU tagállamok",
+        "link": "https://maszol.ro/kulfold/Elszabadult-energiaarak-surgos-intezkedeseket-kovetelnek-az-EU-tagallamok"
+      }
+    ],
+    "published_at": 1792128594,
+    "title_hu": "Elszabadult energiaárak – Sürgős intézkedéseket követelnek az EU tagállamok",
+    "lead_hu": "Az Európai Bizottságtól rövid távú megoldásokat várnak, az uniós versenyképesség javítását és a következő hétéves költségvetésről szóló megállapodást is sürgetik.",
+    "content_hu": "Az Európai Bizottságtól rövid távú megoldásokat várnak, az uniós versenyképesség javítását és a következő hétéves költségvetésről szóló megállapodást is sürgetik.",
+    "title_ro": "Elszabadult energiaárak – Sürgős intézkedéseket követelnek az EU tagállamok",
+    "lead_ro": "Az Európai Bizottságtól rövid távú megoldásokat várnak, az uniós versenyképesség javítását és a következő hétéves költségvetésről szóló megállapodást is sürgetik.",
+    "content_ro": "Az Európai Bizottságtól rövid távú megoldásokat várnak, az uniós versenyképesség javítását és a következő hétéves költségvetésről szóló megállapodást is sürgetik."
+  },
+  {
+    "group_id": "group_0023381096",
+    "fingerprint": "a6b9294c487c18130e7941211c6f5ce1",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
+        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
+      },
+      {
+        "source": "Digi24",
+        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
+        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
+        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Volodimir Zelenski a dezvăluit cu ce a fost Ucraina amenințată de către Statele Unite",
+        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-a-dezvaluit-cu-ce-a-fost-ucraina-amenintata-de-catre-statele-unite-23825122"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Semnal de la Kremlin: Ce cale deschide acordul cu SUA pentru motorina rusească",
+        "link": "https://hotnews.ro/semnal-de-la-kremlin-ce-cale-deschide-acordul-cu-sua-pentru-motorina-ruseasca-2376026"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zelenski anunţă că Ucraina va relua atacurile asupra rafinăriilor ruseşti: „Interdicţia a fost ridicată”",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-anunta-ca-ucraina-va-relua-atacurile-2564144.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Ruptură între Washington şi Kiev: Zelenski a anunţat că Ucraina va relua atacurile asupra rafinăriilor de petrol din Rusia, după ce SUA a oprit avertismentele antibalistice şi Starlink i-a tăiat fără explicaţii viteza",
+        "link": "https://www.zf.ro/eveniment/ruptura-intre-washington-kiev-zelenski-anuntat-ucraina-relua-atacurile-asupra-rafinariilor-petrol-rusia-dupa-sua-oprit-avertismentele-antibalistice-starlink-i-taiat-explicatii-viteza-23260634"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Moscova îl acuză pe Zelenski că sabotează „armistițiul energetic” al lui Trump: Kievul sfidează SUA",
+        "link": "https://stirileprotv.ro/stiri/international/moscova-il-acuza-pe-zelenski-ca-saboteaza-armistitiul-energetic-al-lui-trump-kievul-sfideaza-sua.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "După acordul lui Trump cu Rusia, Ucraina găsește noi ținte pentru a lovi economia lui Putin. Ce cărți are în mână Zelenski - Analiză The Atlantic",
+        "link": "https://adevarul.ro/stiri-externe/europa/dupa-acordul-lui-trump-cu-rusia-ucraina-gaseste-2564294.html"
+      }
+    ],
+    "published_at": 1792128564,
+    "title_hu": "A dízelalku és az energetikai támadások tovább mélyítik a Trump–Zelenszkij-konfliktust",
+    "lead_hu": "Trump az orosz dízelalkut a tárgyalások előmozdításával és az amerikai energiaárak mérséklésével indokolta, miközben Putyint készségesebbnek nevezte a békére Zelenszkijnél, és élesen bírálta az ukrán finomítók elleni csapásokat. Kijev szerint Oroszország a bejelentett energetikai tűzszünet után is támadta Ukrajnát, ezért újraindította az orosz energetikai célpontok elleni műveleteket. A vita a szankciókról, az amerikai támogatásról, az ukrán választásokról és Európa tárgyalási szerepéről is tovább éleződött.",
+    "content_hu": "• **A dízelalku diplomáciai indoka**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón azt mondta az ukrán tisztviselőknek, hogy az orosz dízelexport engedélyezése visszacsábíthatja Moszkvát a tárgyalóasztalhoz, és enyhítheti az orosz álláspontot. Biztonsági garanciákról és újjáépítésről is szó volt, de megállapodás nem született, és a támogatás megvonásával nem fenyegették Kijevet. Az ukrán tisztviselők szkeptikusak voltak az üzleti engedményekre építő megközelítéssel szemben.\n\n• **Trump Putyin békevágyát hangsúlyozta**: Az amerikai elnök azt mondta, előbb tájékozódnia kell az orosz támadásokról, mert szerinte mindkét fél megsértette a tűzszünetet. Azt állította, Putyin jobban akar megállapodást, mint Zelenszkij, akit szintén meg kell győzni a békéről; a Kremlt nem bírálta érdemben.\n\n• **Az energetikai tűzszünet feltételei tisztázatlanok**: Zelenszkij szerint Oroszország 39 ballisztikus rakétával és több mint 120 drónnal támadta az energetikai és kritikus infrastruktúrát, több mint 600 ezer embert hagyva áram nélkül. Az ukrán mérleg szerint hét ember meghalt, 25-en megsebesültek, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg. A Kreml szerint a tűzszünet feltételeit nem véglegesítették; egy fehér házi tanácsadó az Axiosnak azt mondta, az csak az olajfinomítókra vonatkozik.\n\n• **Kijev szerint Moszkva a bejelentés után is támadott**: Zelenszkij azt mondta, Trump közösségi médiás bejelentése után Oroszország egy harkivi erőművet támadott meg, hétfő reggel pedig drónokkal Kijevet is célba vette. Ukrajna kész leállítani az energetikai infrastruktúra elleni támadásokat, ha Oroszország is így tesz; az ukrán erők a bejelentést követő éjszakán tartózkodtak az orosz finomítók támadásától.\n\n• **Ukrajna feloldotta a támadási szünetet**: Zelenszkij szerint Ukrajna három napig szüneteltette az orosz energetikai létesítmények elleni támadásokat, miközben Oroszország folytatta az ukrán infrastruktúra bombázását, és az előző héten több mint száz civil halt meg. A szünet után dróntámadás okozott tüzet a rjazanyi finomítónál, amely az orosz finomítókapacitás közel 5 százalékát adja. Moszkva szerint négy rakétát és több tucat drónt elfogtak, a roncsok okozták a tüzet; Putyin azt állította, hogy a támadások nem okoztak jelentős károkat.\n\n• **Trump élesen bírálta a csapások újraindítását**: Az ukrán finomítók elleni támadásokat „szégyennek” nevezte, azt mondta, „sok más célpont” is van, és Zelenszkijjel nehezebb együtt dolgozni, mint Putyinnal. Azt is kijelentette, hogy Zelenszkij nem megfelelő partner egy megállapodáshoz, és szerinte nem akar egyezséget.\n\n• **Zelenszkij árulásként élte meg Trump fordulatát**: Az ukrán elnök azt mondta, fájdalmas, hogy Trump a másik oldalra áll, és őszintén szólva árulásnak érzi a történteket; szerinte Ukrajna egy erős partnert veszít el. Hozzátette, ha Trump közvetítőként középen áll, ott is kell maradnia. Zelenszkij szerint Putyin könnyű győzelemként értékelheti a dízelalkut, Ukrajna pedig nem adja el az országát; Washingtonnak inkább Kijevvel kellene dízelmegállapodást kötnie.\n\n• **Zelenszkij kölcsönösséget és Patriot-rakétákat sürget**: Közölte, hogy Ukrajna csak akkor állítaná le az orosz energetikai célpontok elleni támadásokat, ha Moszkva is beszünteti az ukrán infrastruktúra bombázását. Az orosz támadások leállításáért cserébe több Patriot elfogórakétát nevezett meg elfogadható minimumnak.\n\n• **Kijev az amerikai hírszerzési és kommunikációs támogatás korlátozásától tart**: Zelenszkij szerint katonai tisztviselőket figyelmeztettek, hogy az orosz finomítók elleni támadások folytatása esetén felfüggeszthetik a hírszerzési információk megosztását. Azt is állította, hogy Ukrajna nem kapott előzetes amerikai rakétafigyelmeztetéseket, miközben a Starlink lassulása katonai műveleteket zavart meg. Szerinte ez nem technikai hiba, hanem szándékos döntés lehetett; Elon Musk szerint a katonai Starshield rendszereket az amerikai kormány irányítja, a korlátozásokról pedig az amerikai hadsereg, végső soron az elnök dönt. Beszámolók az Ukrajnának szánt amerikai fegyvereladások és az európai beszerzési programok korlátozásának lehetőségét is felvetették.\n\n• **Trump új ukrán elnököt sürgetett**: Trump szerint Ukrajnának olyan vezetőre lenne szüksége, aki megállapodást tud kötni. Zelenszkij azt válaszolta, választásokat akkor lehet tartani, ha Oroszország 60 napra teljes tűzszünetet vállal. A lehetséges jelöltek között Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót emlegetik; egy idézett felmérésben Zaluzsnij támogatottsága meghaladta a 20 százalékot, Budanovban pedig a válaszadók 53 százaléka bízott.\n\n• **Kétpárti szenátori tiltakozás**: Tizenkét amerikai szenátor kérte Trumptól, a pénzügyminisztertől és a külügyminisztertől a dízelalku visszavonását. Szerintük az alku alig csökkentheti az üzemanyagárakat, miközben bevételt ad Moszkvának; a levél a 2022-es importtilalomra, a 135. számú pénzügyminisztériumi általános engedély visszavonására és a 2026-os Lindsey Graham-szankciós törvény végrehajtására is felszólított. Thom Tillis republikánus szenátor szerint felmerülhet, hogy az elnök nem tartja be a törvényt.\n\n• **Európai bírálatok és közös tárgyalási képviselet**: Giorgia Meloni kockázatosnak nevezte az alkut, mert szerinte legitimációt és új bevételt ad Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-csoportnak; az európai kritikus infrastruktúra védelmét is sürgette az orosz hibrid támadásokkal szemben. Kaja Kallas szerint nem szabad enyhíteni az Oroszországra nehezedő nyomást, az EU pedig újabb, az orosz hadiipart célzó szankciókat fogadott el.\n\n• **A dízelalku piaci hatása korlátozott lehet**: Az amerikai dízelár gallononként 6,28 dollárra emelkedett, 72 százalékkal az előző év azonos időszaka fölé; a benzin átlagára 4,34 dollár volt. Elemzők szerint az orosz szállítmányok csak csekély hatással lehetnek az árakra; a Goldman Sachs októberre és novemberre 1–2 dolláros hordónkénti nagykereskedelmi árcsökkenést becsült. A teljes, 4,8 millió tonnás terv az amerikai fogyasztás körülbelül tíz napját, a világét alig több mint egy napot fedezné. A G7 európai tagjai négy hónap alatt 100 millió hordó olajat és dízelt szabadítanának fel, ami több mint ötvenszerese a Trump által említett kezdeti mennyiségnek.\n\n• **Moszkva további gazdasági együttműködésben reménykedik**: Kirill Dmitrijev szerint a dízelalku további amerikai–orosz gazdasági és beruházási megállapodások mintája lehet. Moszkva a szerződések előkészítéséről és a következő napokban várható aláírásáról beszélt; Alekszandr Novak a korábbi, havi 3–3,5 millió tonnás exportvolumen visszaállítását és az orosz költségvetés többletbevételeit is kilátásba helyezte.\n\n• **Az orosz propagandisták Kushnert és az amerikai választásokat emlegették**: Orosz televíziós kommentátorok szerint az alku nem oldja meg érdemben az üzemanyag-ellátási problémákat, és azt állították, hogy Jared Kushner jelentős hasznot húzhatott belőle. Azt is sugallták, hogy Trump a novemberi félidős választások előtt Oroszország segítségét keresi, illetve az amerikai lépés más országokat is a szankciók megkerülésére ösztönözhet. Ezek spekulatív propagandista állítások, nem igazolt tények.\n\n• **A Kreml Kijevet vádolta a békekezdeményezések akadályozásával**: Dmitrij Peszkov szerint az orosz finomítók elleni ukrán támadások szembemennek az amerikai béketörekvésekkel, és a kijevi vezetés elutasítja a béke útját. Ez Moszkva állítása; a tűzszünetet a felek nem véglegesítették, miközben Oroszország tovább támadta Ukrajna energetikai infrastruktúráját.\n\n• **Ukrajna más orosz célpontokra is áthelyezheti a nyomást**: A The Atlantic elemzése szerint ukrán drónok orosz repülőterek és adatközpontok ellen is támadtak. A lap szerint a moszkvai repülőtereken egy hét alatt 345 járatot töröltek, október 8. óta pedig legalább négy adatközpontot ért támadás; egyes orosz digitális szolgáltatásokban fennakadások keletkeztek. Az elemzés szerint ezek gazdasági és közlekedési zavarokat okozhatnak, de önmagukban nem kényszerítik a Kremlt tűzszünetre.\n\n• **Kijev nehéz választás előtt áll**: Szakértők szerint Trump nyílt bírálata veszélyeztetheti a megmaradt amerikai katonai és hírszerzési támogatást, Washington feltételeinek elfogadása viszont gyengítheti Ukrajna biztonságát. Nathalie Tocci szerint a hírszerzési együttműködés felfüggesztése súlyosan érintheti az ukrán védekezést, noha Washingtonnak kevesebb eszköze maradt Kijev nyomás alá helyezésére.",
+    "title_ro": "Acordul privind motorina și atacurile asupra infrastructurii energetice adâncesc conflictul Trump–Zelenski",
+    "lead_ro": "Trump a justificat acordul privind motorina rusească prin încercarea de a relansa negocierile și de a reduce prețurile energiei în SUA, afirmând totodată că Putin își dorește pacea mai mult decât Zelenski și criticând atacurile ucrainene asupra rafinăriilor. Kievul susține că Rusia a continuat să lovească Ucraina după anunțarea armistițiului energetic și a reluat operațiunile împotriva obiectivelor energetice rusești. Disputa s-a extins asupra sancțiunilor, sprijinului american, alegerilor din Ucraina și rolului Europei în negocieri.",
+    "content_ro": "• **Justificarea diplomatică a acordului privind motorina**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea de la Miami, că autorizarea exporturilor rusești de motorină ar putea readuce Moscova la masa negocierilor și i-ar putea înmuia poziția. Discuțiile au vizat și garanții de securitate și reconstrucția Ucrainei, dar nu s-a ajuns la un acord, iar Kievul nu a fost amenințat cu retragerea sprijinului. Oficialii ucraineni au fost sceptici față de abordarea bazată pe concesii comerciale.\n\n• **Trump a insistat că Putin vrea pace**: Președintele american a spus că trebuie mai întâi să se informeze despre atacurile rusești, susținând că ambele părți au încălcat armistițiul. El a afirmat că Putin dorește un acord mai mult decât Zelenski, care trebuie și el convins să accepte pacea, fără să critice în mod semnificativ Kremlinul.\n\n• **Condițiile armistițiului energetic rămân neclare**: Zelenski a afirmat că Rusia a atacat infrastructura energetică și critică folosind 39 de rachete balistice și peste 120 de drone, lăsând fără electricitate peste 600.000 de oameni. Bilanțul ucrainean a indicat șapte morți, 25 de răniți, precum și avarii la 26 de instalații energetice și patru obiective din sectorul petrolier și al gazelor. Kremlinul a spus că termenii armistițiului nu au fost finalizați; un consilier al Casei Albe a declarat pentru Axios că acesta se aplica doar rafinăriilor.\n\n• **Kievul susține că Moscova a continuat atacurile după anunț**: Zelenski a spus că, după anunțul lui Trump pe rețelele sociale, Rusia a lovit o centrală electrică din Harkov, iar luni dimineață a vizat Kievul cu drone. Ucraina este pregătită să oprească atacurile asupra infrastructurii energetice dacă Rusia face același lucru; forțele ucrainene s-au abținut să lovească rafinăriile rusești în noaptea de după anunț.\n\n• **Ucraina a pus capăt pauzei atacurilor**: Potrivit lui Zelenski, Ucraina a suspendat timp de trei zile atacurile asupra instalațiilor energetice rusești, în timp ce Rusia a continuat să bombardeze infrastructura ucraineană, iar peste o sută de civili au murit în săptămâna precedentă. După pauză, un atac cu drone a provocat un incendiu la rafinăria din Riazan, care reprezintă aproape 5% din capacitatea de rafinare a Rusiei. Moscova a susținut că a interceptat patru rachete și zeci de drone, iar resturile au provocat incendiul; Putin a afirmat că atacurile nu au produs pagube semnificative.\n\n• **Trump a criticat dur reluarea atacurilor**: El a numit atacurile ucrainene asupra rafinăriilor o „rușine”, a spus că există „multe alte ținte” și că este mai dificil să lucreze cu Zelenski decât cu Putin. A mai afirmat că Zelenski nu este partenerul potrivit pentru un acord și că nu dorește cu adevărat o înțelegere.\n\n• **Zelenski a spus că se simte trădat de schimbarea lui Trump**: Președintele ucrainean a declarat că este dureros faptul că Trump a ales cealaltă tabără și că, sincer, se simte trădat; Ucraina pierde, în opinia sa, un partener puternic. El a spus că, dacă Trump se poziționează ca mediator, trebuie să rămână la mijloc. Zelenski consideră că Putin poate vedea acordul privind motorina ca pe o victorie ușoară și a afirmat că Ucraina nu își va vinde țara; Washingtonul ar trebui să încheie un acord privind motorina cu Kievul.\n\n• **Zelenski cere reciprocitate și rachete Patriot**: El a spus că Ucraina ar opri atacurile asupra obiectivelor energetice rusești numai dacă Moscova încetează bombardarea infrastructurii ucrainene. Ca răspuns la oprirea atacurilor rusești, a indicat că un număr suplimentar de interceptoare Patriot ar reprezenta minimul acceptabil.\n\n• **Kievul se teme de restricționarea sprijinului american în materie de informații și comunicații**: Zelenski a afirmat că oficiali militari au fost avertizați că schimbul de informații ar putea fi suspendat dacă atacurile asupra rafinăriilor rusești continuă. El a mai spus că Ucraina nu a primit avertizări americane în avans privind rachetele și că încetinirea Starlink a perturbat operațiuni militare. În opinia sa, nu a fost o defecțiune tehnică, ci o decizie intenționată; Elon Musk a spus că sistemele militare Starshield sunt controlate de guvernul SUA, iar restricțiile țin de armata americană și, în ultimă instanță, de președinte. Relatările au menționat și posibile restricții asupra vânzărilor de arme americane destinate Ucrainei și asupra programelor europene de achiziții.\n\n• **Trump a cerut alegerea unui nou președinte ucrainean**: Trump a spus că Ucraina are nevoie de un lider capabil să încheie un acord. Zelenski a răspuns că alegerile pot avea loc dacă Rusia acceptă o încetare completă a focului timp de 60 de zile. Printre posibilii candidați sunt menționați Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko; într-un sondaj citat, Zalujnîi depășea 20% din intențiile de vot, iar 53% dintre respondenți aveau încredere în Budanov.\n\n• **Protest bipartizan al senatorilor americani**: Doisprezece senatori i-au cerut lui Trump, secretarului Trezoreriei și secretarului de Stat să anuleze acordul privind motorina. Ei susțin că acesta va avea un efect redus asupra prețurilor combustibililor, dar va aduce venituri Moscovei. Scrisoarea a cerut revocarea interdicției de import din 2022, anularea licenței generale nr. 135 a Trezoreriei și aplicarea legii din 2026 privind sancțiunile propuse de Lindsey Graham. Senatorul republican Thom Tillis a spus că s-ar putea susține în mod legitim că președintele nu respectă legea.\n\n• **Critici europene și propunerea unei reprezentări comune la negocieri**: Giorgia Meloni a numit acordul riscant, afirmând că oferă Moscovei legitimitate și venituri suplimentare, slăbind sancțiunile. Ea a propus ca UE să acorde un mandat oficial unui reprezentant european, eventual grupului E3, pentru negocieri și a cerut protejarea infrastructurii critice împotriva atacurilor hibride rusești. Kaja Kallas a spus că presiunea asupra Rusiei nu trebuie redusă, iar UE a adoptat noi sancțiuni care vizează industria militară rusă.\n\n• **Efectul acordului asupra pieței ar putea fi limitat**: Motorina costa în SUA 6,28 dolari pe galon, cu 72% peste nivelul din aceeași perioadă a anului precedent, iar benzina avea un preț mediu de 4,34 dolari. Analiștii estimează că livrările rusești vor influența puțin prețurile; Goldman Sachs a prognozat pentru octombrie și noiembrie o scădere de numai 1–2 dolari pe baril a prețului angro. Planul total de 4,8 milioane de tone ar acoperi aproximativ zece zile din consumul SUA și puțin peste o zi din cererea mondială. Membrii europeni ai G7 intenționează să elibereze 100 de milioane de barili de petrol și motorină în patru luni, de peste 50 de ori mai mult decât volumul inițial menționat de Trump.\n\n• **Moscova mizează pe o cooperare economică mai amplă**: Kirill Dmitriev a spus că acordul privind motorina ar putea deveni un model pentru viitoare înțelegeri economice și de investiții dintre SUA și Rusia. Moscova a anunțat pregătirea contractelor și posibila lor semnare în zilele următoare; Aleksandr Novak a evocat revenirea la exporturi de 3–3,5 milioane de tone pe lună și venituri suplimentare pentru bugetul rus.\n\n• **Propagandiștii ruși au invocat Kushner și alegerile americane**: Comentatori de televiziune ruși au spus că acordul nu rezolvă problemele de aprovizionare și au susținut că Jared Kushner ar fi obținut un câștig important. Ei au sugerat și că Trump caută sprijinul Rusiei înaintea alegerilor de la jumătatea mandatului din noiembrie și că decizia americană ar putea încuraja alte țări să ocolească sancțiunile. Acestea sunt afirmații speculative ale propagandiștilor, nu fapte confirmate.\n\n• **Kremlinul a acuzat Kievul că blochează inițiativele de pace**: Dmitri Peskov a susținut că atacurile ucrainene asupra rafinăriilor rusești contravin eforturilor de pace ale SUA și că autoritățile de la Kiev resping calea păcii. Este poziția Moscovei; armistițiul nu a fost finalizat de părți, în timp ce Rusia a continuat să atace infrastructura energetică ucraineană.\n\n• **Ucraina ar putea muta presiunea asupra altor obiective rusești**: Potrivit unei analize The Atlantic, drone ucrainene au vizat și aeroporturi și centre de date din Rusia. Publicația a estimat că 345 de zboruri de pe aeroporturile Moscovei au fost anulate într-o săptămână, iar cel puțin patru centre de date au fost atacate începând cu 8 octombrie, provocând întreruperi ale unor servicii digitale rusești. Analiza apreciază că aceste acțiuni pot perturba economia și transporturile, dar nu sunt suficiente, singure, pentru a obliga Kremlinul să accepte un armistițiu.\n\n• **Kievul se confruntă cu o alegere dificilă**: Experții avertizează că o confruntare deschisă cu Trump ar putea pune în pericol sprijinul militar și informațional american rămas, în timp ce acceptarea condițiilor Washingtonului ar putea slăbi securitatea Ucrainei. Nathalie Tocci consideră că suspendarea schimbului de informații ar afecta grav apărarea ucraineană, deși Washingtonul are acum mai puține instrumente pentru a pune presiune pe Kiev."
+  },
+  {
+    "group_id": "group_2a18ffed32",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/15/151206/gettyimages-1040871896.jpg?fm=jpg&q=80&fit=crop&crop=5616%2C3159%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Ce mașini ar putea fi interzise în centrul Bucureștiului, de anul viitor. Poluarea din oraș ne scurtează viața cu cinci ani",
+        "link": "https://stirileprotv.ro/stiri/pro-verde/ce-masini-ar-putea-fi-interzise-in-centrul-bucurestiului-de-anul-viitor-poluarea-din-oras-ne-scurteaza-viata-cu-cinci-ani.html"
+      }
+    ],
+    "published_at": 1792128533,
+    "title_hu": "Ce mașini ar putea fi interzise în centrul Bucureștiului, de anul viitor. Poluarea din oraș ne scurtează viața cu cinci ani",
+    "lead_hu": "Poluarea le scurtează viața locuitorilor Capitalei cu 4-5 ani, potrivit unui studiu oficial care stă la baza noii strategii prin care Primăria Capitalei vrea să interzică, treptat, mașinile poluante î…",
+    "content_hu": "Poluarea le scurtează viața locuitorilor Capitalei cu 4-5 ani, potrivit unui studiu oficial care stă la baza noii strategii prin care Primăria Capitalei vrea să interzică, treptat, mașinile poluante în centrul orașului.",
+    "title_ro": "Ce mașini ar putea fi interzise în centrul Bucureștiului, de anul viitor. Poluarea din oraș ne scurtează viața cu cinci ani",
+    "lead_ro": "Poluarea le scurtează viața locuitorilor Capitalei cu 4-5 ani, potrivit unui studiu oficial care stă la baza noii strategii prin care Primăria Capitalei vrea să interzică, treptat, mașinile poluante î…",
+    "content_ro": "Poluarea le scurtează viața locuitorilor Capitalei cu 4-5 ani, potrivit unui studiu oficial care stă la baza noii strategii prin care Primăria Capitalei vrea să interzică, treptat, mașinile poluante în centrul orașului."
+  },
+  {
+    "group_id": "group_b11d7f7f33",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/16/052810/shutterstock-2807776653.jpg?fm=jpg&q=80&fit=crop&crop=3420%2C2000%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Orașul în care oamenii trebuie să clătească urina câinilor lor de pe copaci. Apa le-o dă primăria",
+        "link": "https://stirileprotv.ro/stiri/international/orasul-in-care-oamenii-trebuie-sa-clateasca-urina-cainilor-lor-de-pe-copaci-apa-le-o-da-primaria.html"
+      }
+    ],
+    "published_at": 1792128510,
+    "title_hu": "Orașul în care oamenii trebuie să clătească urina câinilor lor de pe copaci. Apa le-o dă primăria",
+    "lead_hu": "Neubau, un cartier în plină ascensiune, dens populat şi presărat cu cafenele şi galerii, a lansat săptămâna aceasta campania „Schönes Gassi” (Plimbare plăcută cu câinele).",
+    "content_hu": "Neubau, un cartier în plină ascensiune, dens populat şi presărat cu cafenele şi galerii, a lansat săptămâna aceasta campania „Schönes Gassi” (Plimbare plăcută cu câinele).",
+    "title_ro": "Orașul în care oamenii trebuie să clătească urina câinilor lor de pe copaci. Apa le-o dă primăria",
+    "lead_ro": "Neubau, un cartier în plină ascensiune, dens populat şi presărat cu cafenele şi galerii, a lansat săptămâna aceasta campania „Schönes Gassi” (Plimbare plăcută cu câinele).",
+    "content_ro": "Neubau, un cartier în plină ascensiune, dens populat şi presărat cu cafenele şi galerii, a lansat săptămâna aceasta campania „Schönes Gassi” (Plimbare plăcută cu câinele)."
+  },
+  {
+    "group_id": "group_07d96a3f39",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/08/19/164937/folie-de-medicamente.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Cum ne reduce pofta de mâncare un medicament pentru slăbit. Tratamentele cu GLP-1 sunt o „revoluție” pe plan medical",
+        "link": "https://stirileprotv.ro/stiri/doctor-de-bine/cum-pot-reduce-poftele-medicamentele-de-slabit-de-ce-nu-sunt-ele-atat-de-acceptate-in-europa-spre-deosebire-de-sua.html"
+      }
+    ],
+    "published_at": 1792128508,
+    "title_hu": "Cum ne reduce pofta de mâncare un medicament pentru slăbit. Tratamentele cu GLP-1 sunt o „revoluție” pe plan medical",
+    "lead_hu": "Medicamentele destinate pierderii în greutate reduc apetitul și poftele alimentare. Care sunt diferențele percepției asupra lor în SUA și Europa, aflăm în emisiunea „Doctor de bine”.",
+    "content_hu": "Medicamentele destinate pierderii în greutate reduc apetitul și poftele alimentare. Care sunt diferențele percepției asupra lor în SUA și Europa, aflăm în emisiunea „Doctor de bine”.",
+    "title_ro": "Cum ne reduce pofta de mâncare un medicament pentru slăbit. Tratamentele cu GLP-1 sunt o „revoluție” pe plan medical",
+    "lead_ro": "Medicamentele destinate pierderii în greutate reduc apetitul și poftele alimentare. Care sunt diferențele percepției asupra lor în SUA și Europa, aflăm în emisiunea „Doctor de bine”.",
+    "content_ro": "Medicamentele destinate pierderii în greutate reduc apetitul și poftele alimentare. Care sunt diferențele percepției asupra lor în SUA și Europa, aflăm în emisiunea „Doctor de bine”."
+  },
+  {
+    "group_id": "group_caec74a9cd",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNjI4MV8zMDE2/MjgxX0NvcHktb2YtVW50aXRsZWQtNTIu/cG5nJmhhc2g9YWUwM2Y0MjI2NjhkYTYzOWE0MmVhM2Y1OWUxOTAzYzA=.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Digistoria – cele mai importante evenimente petrecute pe 16 octombrie",
+        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-16-octombrie-2-3994775"
+      }
+    ],
+    "published_at": 1792128464,
+    "title_hu": "Digistoria – cele mai importante evenimente petrecute pe 16 octombrie",
+    "lead_hu": "Cele mai importante evenimente petrecute pe 16 octombrie",
+    "content_hu": "Cele mai importante evenimente petrecute pe 16 octombrie",
+    "title_ro": "Digistoria – cele mai importante evenimente petrecute pe 16 octombrie",
+    "lead_ro": "Cele mai importante evenimente petrecute pe 16 octombrie",
+    "content_ro": "Cele mai importante evenimente petrecute pe 16 octombrie"
+  },
+  {
+    "group_id": "group_0afeea2604",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/MACHETA-VIDEO-CANCAN.jpg-4-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "O femeie din Constanța, agresată de tânăra în vârstă de 20 de ani, a pierdut sarcina. Soțul victimei a depus plângere la poliție",
+        "link": "https://www.cancan.ro/o-femeie-din-constanta-agresata-de-tanara-in-varsta-de-20-de-ani-a-pierdut-sarcina-sotul-victimei-a-depus-plangere-la-politie-21530866"
+      }
+    ],
+    "published_at": 1792128438,
+    "title_hu": "O femeie din Constanța, agresată de tânăra în vârstă de 20 de ani, a pierdut sarcina. Soțul victimei a depus plângere la poliție",
+    "lead_hu": "În ultima perioadă, în județul Constanța au avut loc mai multe incidente. O tânără în vârstă de 20 de ani este acuzată că agresează femei pe stradă și nu numai. După ce au ieșit la iveală numeroase ac…",
+    "content_hu": "În ultima perioadă, în județul Constanța au avut loc mai multe incidente. O tânără în vârstă de 20 de ani este acuzată că agresează femei pe stradă și nu numai. După ce au ieșit la iveală numeroase acte de violență, un bărbat a dezvăluit că partenera sa a pierdut sarcina în urma unui atac din […]",
+    "title_ro": "O femeie din Constanța, agresată de tânăra în vârstă de 20 de ani, a pierdut sarcina. Soțul victimei a depus plângere la poliție",
+    "lead_ro": "În ultima perioadă, în județul Constanța au avut loc mai multe incidente. O tânără în vârstă de 20 de ani este acuzată că agresează femei pe stradă și nu numai. După ce au ieșit la iveală numeroase ac…",
+    "content_ro": "În ultima perioadă, în județul Constanța au avut loc mai multe incidente. O tânără în vârstă de 20 de ani este acuzată că agresează femei pe stradă și nu numai. După ce au ieșit la iveală numeroase acte de violență, un bărbat a dezvăluit că partenera sa a pierdut sarcina în urma unui atac din […]"
+  },
+  {
+    "group_id": "group_ce696ddb65",
+    "fingerprint": "4a0082ca5c1f7e0b69c9218b65c244e5",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA2JTJGMzAwMTcwN18zMDAx/NzA3X0lEMjY2MDQ5LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTk0NWVlMTQ5Yzk3NDg1MzAxZjFjZWQ4MWRiNDExZjMw.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Guvernul PeSeDan”. USR anunță că nu votează Cabinetul Luca Niculescu",
+        "link": "https://www.mediafax.ro/stirile-zilei/guvernul-pesedan-usr-anunta-ca-nu-voteaza-cabinetul-luca-niculescu-23825423"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Dominic Fritz anunță că nu va vota Guvernul Luca Niculescu: „PSD se întoarce cu oameni-paravan la butoane”",
+        "link": "https://stirileprotv.ro/stiri/politic/dominic-fritz-anunta-ca-nu-va-vota-guvernul-luca-niculescu-psd-se-intoarce-cu-oameni-paravan-la-butoane.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "USR ar putea refuza învestirea Guvernului Niculescu. Dominic Fritz: „Stabilitatea nu poate justifica risipa”",
+        "link": "https://adevarul.ro/politica/usr-ar-putea-refuza-investirea-guvernului-2564056.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Anunțul lui Dominic Fritz după ce a văzut lista de miniștri propuși de PSD. USR se reunește în ședință",
+        "link": "https://hotnews.ro/anuntul-lui-dominic-fritz-dupa-ce-a-vazut-lista-de-ministri-propusi-de-psd-usr-se-reuneste-in-sedinta-2376216"
+      },
+      {
+        "source": "Maszol",
+        "title": "Az USR nem akarja támogatni a Niculescu-kormányt",
+        "link": "https://maszol.ro/belfold/Az-USR-nem-akarja-tamogatni-a-Niculescu-kormanyt"
+      },
+      {
+        "source": "Mediafax",
+        "title": "USR decide astăzi dacă susține Guvernul Luca Niculescu. Dominic Fritz va propune vot împotrivă",
+        "link": "https://www.mediafax.ro/politic/usr-decide-astazi-daca-sustine-guvernul-luca-niculescu-dominic-fritz-va-propune-vot-impotriva-23826376"
+      }
+    ],
+    "published_at": 1792128373,
+    "title_hu": "Fritz azt javasolja, hogy az USR szavazzon a Niculescu-kormány ellen",
+    "lead_hu": "Dominic Fritz szerdán bejelentette, hogy a párt politikai bizottságának pénteki ülésén azt javasolja: az USR parlamenti képviselői ne támogassák Luca Niculescu kormányának beiktatását. A pártelnök szerint a kabinetben a PSD nagy költségvetésű minisztériumok feletti befolyást szerezhet, és a kormány egy rejtett PSD–AUR-többségre támaszkodhat.",
+    "content_hu": "• **Dominic Fritz szerdán** közölte, hogy a pénteki politikai bizottsági ülésen azt javasolja: az USR képviselői szavazzanak Luca Niculescu kormányának beiktatása ellen. A párt testülete dönt arról, hogy a frakció hogyan szavaz.\n\n• **Fritz szerint** az USR nem támogat olyan kormányt, amelyben a PSD nagy költségvetésű tárcáknál „paravemberként” működő személyeken keresztül akadályozhatja a reformokat, illetve befolyásolhatja az állami szerződések és vállalatok elosztását.\n\n• **A pártelnök úgy véli**, hogy a Niculescu-kormány csak egy rejtett PSD–AUR-többségre támaszkodhatna a parlamentben, és nem lenne hosszú életű. Arra is utalt, hogy a PSD hat hónapon belül leválthatja a kabinetet, ha elégedetlen vele.\n\n• **Fritz álláspontja szerint** a politikai stabilitás nem indokolhatja a pazarló kormányzás visszatérését. A jelenlegi politikai patthelyzet lezárásához szerinte ismét a választókhoz és az urnákhoz kell fordulni.\n\n• **A tervezett kabinet** a hírek szerint 11 PSD-s miniszterből és hat technokratából állna; a PSD bejelentette, hogy belép a kormányba.",
+    "title_ro": "Fritz va propune ca USR să voteze împotriva Guvernului Niculescu",
+    "lead_ro": "Dominic Fritz a anunțat miercuri că va propune, la ședința de vineri a Comitetului Politic al USR, ca parlamentarii partidului să nu susțină învestirea Guvernului condus de Luca Niculescu. Liderul USR susține că PSD ar putea obține influență asupra ministerelor cu bugete mari, iar cabinetul s-ar baza pe o majoritate parlamentară ascunsă PSD-AUR.",
+    "content_ro": "• **Dominic Fritz a anunțat miercuri** că va propune Comitetului Politic, reunit vineri, ca parlamentarii USR să voteze împotriva învestirii Guvernului Luca Niculescu. Decizia privind votul formațiunii urmează să fie luată de acest for.\n\n• **Potrivit lui Fritz**, USR nu va susține un guvern în care PSD ar putea bloca reformele prin intermediul unor persoane-paravan plasate la ministerele cu bugete mari și ar putea influența împărțirea contractelor și a companiilor de stat.\n\n• **Liderul USR consideră** că Guvernul Niculescu s-ar putea baza doar pe o majoritate parlamentară ascunsă PSD-AUR și că nu ar avea o viață lungă. El a amintit și afirmația PSD că guvernul ar putea fi demis după șase luni dacă partidul nu este mulțumit.\n\n• **În opinia lui Fritz**, nevoia de stabilitate politică nu justifică revenirea la un guvern caracterizat de risipă. Pentru depășirea blocajului politic, el susține întoarcerea la cetățeni și la urne.\n\n• **Cabinetul propus** ar urma să fie format, potrivit relatărilor, din 11 miniștri PSD și șase tehnocrați; PSD a anunțat că va intra la guvernare."
+  },
+  {
+    "group_id": "group_85a94a91ad",
+    "fingerprint": "584912bf4fc5ac5bcf4728a71b285263",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/harta-romaniei.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Primul pas după 58 de ani: PNL și USR forțează în Parlament înființarea Comisiei Speciale pentru reorganizarea administrativ-teritorială a României / ”Orice amânare constituie repudierea de facto a demersului de reformă”",
+        "link": "https://www.g4media.ro/primul-pas-dupa-58-de-ani-pnl-si-usr-forteaza-in-parlament-infiintarea-comisiei-speciale-pentru-reorganizarea-administrativ-teritoriala-a-romaniei-orice-amanare-constituie-repudierea-de-fa.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "„S-a realizat primul pas instituţional pe drumul reorganizării teritoriului în România”. A fost aprobată cererea PNL şi USR",
+        "link": "https://stirileprotv.ro/stiri/politic/s-a-realizat-primul-pas-institu-ional-pe-drumul-reorganizarii-teritoriului-in-romania-a-fost-aprobata-cererea-pnl-si-usr.html"
+      }
+    ],
+    "published_at": 1792128103,
+    "title_hu": "A PNL és az USR parlamenti bizottságot kezdeményez a romániai közigazgatási reform előkészítésére",
+    "lead_hu": "A román parlament két házának egyesített állandó irodái jóváhagyták a PNL és az USR kezdeményezését, hogy a parlamenti frakciók tegyenek javaslatot egy közigazgatási-területi reformmal foglalkozó különbizottság létrehozására. A bizottság feladata a reform jogszabályi előkészítése lenne, hogy az átalakítás 2032-től megvalósulhasson.",
+    "content_hu": "• **A PNL és az USR kezdeményezésére** a román parlament két házának egyesített állandó irodái jóváhagyták, hogy a parlamenti frakciók megküldjék jelöléseiket és javaslataikat a közigazgatási-területi reformmal foglalkozó különbizottság létrehozásáról szóló határozattervezet szavazásra bocsátásához.\n\n• **A bizottság még nem alakult meg:** létrehozásáról a parlamentnek kell szavaznia, miután a frakciók megküldték javaslataikat. Ezek határideje az állandó irodák következő ülése.\n\n• **A tervezett bizottság feladata** a reformhoz szükséges jogszabályi keretek kidolgozása lenne; az USR szerint az átalakítás 2032-től válhatna alkalmazhatóvá.\n\n• **A reform első intézményi lépéséről** Gabriel Andronache, a PNL képviselőházi frakcióvezetője beszélt. A jelenlegi romániai területi-közigazgatási rendszer 1968 óta van érvényben, vagyis a kezdeményezők szerint 58 év után kezdődhet meg az átalakítás előkészítése.",
+    "title_ro": "PNL și USR propun o comisie parlamentară pentru pregătirea reformei administrativ-teritoriale",
+    "lead_ro": "Birourile Permanente Reunite ale Parlamentului au aprobat demersul PNL și USR prin care grupurile parlamentare sunt invitate să trimită propuneri pentru înființarea unei comisii speciale dedicate reformei administrativ-teritoriale. Comisia ar urma să pregătească cadrul legislativ necesar, astfel încât reforma să poată fi aplicată începând din 2032.",
+    "content_ro": "• **La inițiativa PNL și USR**, Birourile Permanente Reunite ale Parlamentului au aprobat solicitarea ca grupurile parlamentare să transmită nominalizări și propuneri pentru ca proiectul de hotărâre privind înființarea unei comisii speciale pentru reforma administrativ-teritorială să fie supus votului.\n\n• **Comisia nu a fost încă înființată:** crearea ei trebuie aprobată prin votul Parlamentului, după transmiterea propunerilor grupurilor parlamentare. Termenul este următoarea ședință a Birourilor Permanente Reunite.\n\n• **Rolul comisiei propuse** ar fi să elaboreze cadrul legislativ necesar reformei; USR afirmă că reorganizarea ar putea fi aplicată începând din 2032.\n\n• **Primul pas instituțional al reformei**, potrivit lui Gabriel Andronache, liderul deputaților PNL, a fost făcut după 58 de ani. Actuala organizare administrativ-teritorială a României datează din 1968."
+  },
+  {
+    "group_id": "group_f8c0d5c86b",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Frână pusă de Casa Albă pe frontul din Ucraina. Ordinul secret care a destabilizat operațiunile cu drone",
+        "link": "https://hotnews.ro/frana-pusa-de-casa-alba-pe-frontul-din-ucraina-ordinul-secret-care-a-destabilizat-operatiunile-cu-drone-2377603"
+      }
+    ],
+    "published_at": 1792128064,
+    "title_hu": "Frână pusă de Casa Albă pe frontul din Ucraina. Ordinul secret care a destabilizat operațiunile cu drone",
+    "lead_hu": "Ordinul de restricționare a unui sistem satelitar utilizat de Ucraina pentru comunicațiile de pe câmpul de luptă și operațiunile cu drone a venit din interiorul Casei Albe, au declarat pentru Reuters …",
+    "content_hu": "Ordinul de restricționare a unui sistem satelitar utilizat de Ucraina pentru comunicațiile de pe câmpul de luptă și operațiunile cu drone a venit din interiorul Casei Albe, au declarat pentru Reuters doi oficiali americani și un oficial occidental familiarizați cu situația. Oficialii au spus că liderii de la Departamentul Apărării au primit un mesaj conform …",
+    "title_ro": "Frână pusă de Casa Albă pe frontul din Ucraina. Ordinul secret care a destabilizat operațiunile cu drone",
+    "lead_ro": "Ordinul de restricționare a unui sistem satelitar utilizat de Ucraina pentru comunicațiile de pe câmpul de luptă și operațiunile cu drone a venit din interiorul Casei Albe, au declarat pentru Reuters …",
+    "content_ro": "Ordinul de restricționare a unui sistem satelitar utilizat de Ucraina pentru comunicațiile de pe câmpul de luptă și operațiunile cu drone a venit din interiorul Casei Albe, au declarat pentru Reuters doi oficiali americani și un oficial occidental familiarizați cu situația. Oficialii au spus că liderii de la Departamentul Apărării au primit un mesaj conform …"
+  },
+  {
+    "group_id": "group_571e731337",
+    "category": "Gazdaság",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/05/8114303-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Scumpirea motorinei începe să împingă în sus prețurile alimentelor și ale altor produse. Efectul în lanț care amenință bugetele familiilor",
+        "link": "https://www.mediafax.ro/economic/scumpirea-motorinei-incepe-sa-impinga-in-sus-preturile-alimentelor-si-ale-altor-produse-efectul-in-lant-care-ameninta-bugetele-familiilor-23826367"
+      }
+    ],
+    "published_at": 1792128055,
+    "title_hu": "Scumpirea motorinei începe să împingă în sus prețurile alimentelor și ale altor produse. Efectul în lanț care amenință bugetele familiilor",
+    "lead_hu": "Creșterea puternică a prețului motorinei începe să se transmită în întreaga economie americană, de la transportul mărfurilor până la producția alimentelor și a jucăriilor. Costurile transportului ruti…",
+    "content_hu": "Creșterea puternică a prețului motorinei începe să se transmită în întreaga economie americană, de la transportul mărfurilor până la producția alimentelor și a jucăriilor. Costurile transportului rutier au urcat cu 19% într-un singur an.",
+    "title_ro": "Scumpirea motorinei începe să împingă în sus prețurile alimentelor și ale altor produse. Efectul în lanț care amenință bugetele familiilor",
+    "lead_ro": "Creșterea puternică a prețului motorinei începe să se transmită în întreaga economie americană, de la transportul mărfurilor până la producția alimentelor și a jucăriilor. Costurile transportului ruti…",
+    "content_ro": "Creșterea puternică a prețului motorinei începe să se transmită în întreaga economie americană, de la transportul mărfurilor până la producția alimentelor și a jucăriilor. Costurile transportului rutier au urcat cu 19% într-un singur an."
+  },
+  {
+    "group_id": "group_c1337423ac",
+    "fingerprint": "776a912cff8e7052d6b175f99ff6000d",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8146549-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Volodimir Zelenski ar putea vizita Budapesta săptămâna viitoare, pe fondul apropierii dintre Ucraina și Ungaria",
+        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-ar-putea-vizita-budapesta-saptamana-viitoare-pe-fondul-apropierii-dintre-ucraina-si-ungaria-23826360"
+      },
+      {
+        "source": "G4Media",
+        "title": "Dezgheț istoric între Kiev și Budapesta / Zelenski ar putea vizita Budapesta pe 23 octombrie, la 70 de ani de la Revoluția Ungară",
+        "link": "https://www.g4media.ro/dezghet-istoric-intre-kiev-si-budapesta-zelenski-ar-putea-vizita-budapesta-pe-23-octombrie-la-70-de-ani-de-la-revolutia-ungara.html"
+      }
+    ],
+    "published_at": 1792127998,
+    "title_hu": "Zelenszkij október 23-án Budapestre látogathat",
+    "lead_hu": "Volodimir Zelenszkij meghívást kapott a magyar fővárosba az 1956-os forradalom 70. évfordulójának október 23-i megemlékezésére, de a látogatást hivatalosan még nem erősítették meg. A lehetséges út a magyar–ukrán kapcsolatok javulásának és az Ukrajna uniós csatlakozásáról szóló tárgyalások előrelépésének közepette merült fel.",
+    "content_hu": "• **Október 23-án** Volodimir Zelenszkij Budapestre látogathat az 1956-os forradalom 70. évfordulóját ünneplő eseményekre. Ihor Jovkva, az ukrán elnöki hivatal helyettes vezetője megerősítette, hogy az elnök meghívást kapott, a látogatás azonban még nincs hivatalosan megerősítve.\n\n• **A lehetséges látogatás** az Ukrajna és Magyarország közötti diplomáciai közeledés része, miután a két ország hosszú ideje vitázik többek között a kárpátaljai magyar kisebbség jogairól. A vita korábban az ukrán uniós csatlakozási folyamat előrehaladását is hátráltatta.\n\n• **Az ukrán parlament által elfogadott új törvény** a nemzeti kisebbségek oktatási jogairól szól; Zelenszkij később aláírta a jogszabályt. A változtatás után Magyarország visszavonta kifogásait, az EU pedig újabb két csatlakozási tárgyalási fejezetcsoport megnyitásáról döntött.\n\n• **Ukrajna jelenleg hatból négy tárgyalási fejezetcsoportot nyitott meg.** Jovkva bizakodását fejezte ki, hogy Magyarország továbbra is konstruktívan támogatja a folyamatot.\n\n• **Zelenszkij és Peter Magyar magyar miniszterelnök** a tervek szerint először találkozik hivatalos kétoldalú egyeztetésen az EU brüsszeli csúcstalálkozójának margóján.",
+    "title_ro": "Zelenski ar putea vizita Budapesta pe 23 octombrie",
+    "lead_ro": "Volodimir Zelenski a fost invitat la evenimentele de la Budapesta dedicate împlinirii a 70 de ani de la Revoluția Ungară din 1956, însă vizita nu a fost confirmată oficial. Posibila deplasare are loc în contextul apropierii diplomatice dintre Ungaria și Ucraina și al progreselor în negocierile de aderare a Ucrainei la UE.",
+    "content_ro": "• **Pe 23 octombrie**, Volodimir Zelenski ar putea vizita Budapesta pentru evenimentele care marchează 70 de ani de la Revoluția Ungară din 1956. Ihor Jovkva, adjunctul șefului de cabinet al președintelui ucrainean, a confirmat că Zelenski a primit o invitație, dar vizita nu a fost confirmată oficial.\n\n• **Posibila vizită** are loc în contextul apropierii diplomatice dintre Ucraina și Ungaria, după ani de dispute, inclusiv privind drepturile minorității maghiare din Transcarpatia. Disputa a îngreunat anterior parcursul Ucrainei către aderarea la Uniunea Europeană.\n\n• **Noua lege adoptată de parlamentul ucrainean** privește drepturile educaționale ale minorităților naționale și a fost promulgată ulterior de Zelenski. După această schimbare, Ungaria și-a retras obiecțiile, iar UE a deschis negocierile pentru încă două grupuri de capitole de aderare.\n\n• **Ucraina a deschis până acum patru dintre cele șase grupuri de capitole de negociere.** Jovkva s-a declarat încrezător că Ungaria va continua să susțină constructiv procesul.\n\n• **Zelenski și premierul ungar Peter Magyar** urmează să aibă prima lor întâlnire bilaterală oficială în marja summitului UE de la Bruxelles."
+  },
+  {
+    "group_id": "group_d287766eb0",
+    "fingerprint": "cc0cbcd39bf3748d6287553a0b99ab42",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Imaginile din satelit arată că Rusia a reușit să construiască în doar 6 săptămâni o nouă bază de atac pentru drone",
+        "link": "https://hotnews.ro/imaginile-din-satelit-arata-ca-rusia-a-reusit-sa-construiasca-in-doar-6-saptamani-o-noua-baza-de-atac-pentru-drone-2376794"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rusia a construit în doar 6 săptămâni o bază majoră pentru drone de atac, potrivit imaginilor din satelit",
+        "link": "https://agerpres.ro/politic-extern/2026/10/15/rusia-a-construit-in-doar-6-saptamani-o-baza-majora-pentru-drone-de-atac-potrivit-imaginilor-din-sat--1603283"
+      },
+      {
+        "source": "Digi24",
+        "title": "Rusia a construit o nouă bază pentru drone de atac în doar șase săptămâni, arată imaginile din satelit",
+        "link": "https://www.digi24.ro/stiri/externe/rusia-a-construit-o-noua-baza-pentru-drone-de-atac-in-doar-sase-saptamani-arata-imaginile-din-satelit-3993637"
+      }
+    ],
+    "published_at": 1792127974,
+    "title_hu": "Hat hét alatt épült orosz drónindító bázis a rosztovi régióban",
+    "lead_hu": "A műholdképek szerint Oroszország hat hét alatt csaknem befejezett egy új, sugárhajtású támadó drónok indítására szolgáló létesítményt a rosztovi régióban. A Millerovo légibázis közelében épülő komplexum heteken belül működőképessé válhat, és szakértők szerint tovább növelheti az Ukrajna elleni támadások kapacitását.",
+    "content_hu": "• **Hat hét alatt** egy üres területből mintegy 0,9 négyzetkilométeres, 126 futballpályának megfelelő katonai komplexum épült a délnyugat-oroszországi Rosztovi régióban – a Planet Labs és az Airbus műholdképei alapján.\n\n• **Augusztus 31-én** a helyszín még üres terület volt, az építkezés pedig a másnap reggeli felvételeken már látszott. A komplexum körülbelül 3,5 kilométerre található a Millerovo légibázistól, ahol a 31. gárda vadászrepülő-ezred állomásozik.\n\n• **A létesítményben** nyolc, indítósínek felszerelésére alkalmas platform látható. Kettőn már voltak sínek, további kettőre pedig a Reuters elemzése szerint éppen szerelték fel őket.\n\n• **Mike Monnik, a DroneSec vezetője** szerint a bázist a legújabb orosz, sugárhajtású Geran–4 és Geran–5 drónok indítására használhatják. Becslése szerint akár napi száz vagy több drón indítására is alkalmas lehet, bár a tényleges kapacitás a készletektől és a céloktól függ; Oroszország rendszerint kisebb számban, a nap folyamán elosztva indítja ezeket.\n\n• **A teljes működés** Monnik szerint akár néhány héten belül megkezdődhet. A bázis kiegészítheti az Ukrajna elleni támadásokra használt, legalább 11 meglévő orosz állandó indítóhely hálózatát.\n\n• **A Millerovo légibázis légvédelme** valószínűleg védelmet nyújt az új létesítménynek, és nehezítheti annak ukrán támadását. Rob Jordan, a londoni RUSI programigazgatója szerint a gyors építkezés azt mutatja, hogy Oroszország bízik nagy távolságú csapásmérő képességében – esetleg a hagyományos szárazföldi erők rovására.\n\n• **A NATO-ra nézve** Mike Monnik stratégiai sebezhetőséget jelentő kihívásnak nevezte a drónok gyors ipari előállítását és fejlesztését, különösen a sok országban hiányos drónelhárító rendszerek miatt. A források az építkezést az Oroszország és a NATO közötti feszültségek erősödésével is összefüggésbe hozzák.\n\n• **Az orosz védelmi minisztérium** az Agerpres beszámolója szerint nem válaszolt az új létesítményről és a sugárhajtású drónprogramról feltett kérdésekre.\n\n• **Egy Digi24 által idézett közösségimédia-bejegyzés** azt állította, hogy a bázison 32 drón-előkészítő hely van, és drónokat is kirakodtak. Ezt az információt a többi ismertetett forrás nem támasztotta alá.\n\n• **Az ukrán adatok szerint** Oroszország a nyár három hónapja alatt mintegy hatszorosára növelte a sugárhajtású drónok használatát; a legtöbb támadás Kijevet és környékét érte. A legfeljebb 600 kilométer/órás sebességű eszközök elfogása nehezebb az ukrán elfogó drónok számára, amelyeket korábban lassabb, dugattyús motorú típusok ellen fejlesztettek.",
+    "title_ro": "Bază rusă de lansare a dronelor, construită în șase săptămâni în regiunea Rostov",
+    "lead_ro": "Imaginile din satelit arată că Rusia a construit aproape în întregime, în șase săptămâni, o nouă bază pentru lansarea dronelor de atac cu motor cu reacție, în regiunea Rostov. Complexul, aflat în apropierea bazei aeriene Millerovo, ar putea deveni operațional în câteva săptămâni și ar putea spori capacitatea atacurilor rusești împotriva Ucrainei.",
+    "content_ro": "• **În șase săptămâni**, un teren viran din regiunea Rostov, în sud-vestul Rusiei, s-a transformat într-un complex militar de aproximativ 0,9 kilometri pătrați, echivalentul a circa 126 de terenuri de fotbal, potrivit imaginilor Planet Labs și Airbus.\n\n• **La 31 august**, amplasamentul era încă un teren gol, iar imaginile din dimineața următoare arătau că lucrările începuseră. Complexul se află la circa 3,5 kilometri de baza aeriană Millerovo, unde este staționat Regimentul 31 Gardă de Aviație de Vânătoare.\n\n• **La instalație** se observă opt platforme capabile să fie prevăzute cu șine de lansare. Două aveau deja șine, iar la alte două se lucra la instalarea acestora, potrivit analizei Reuters.\n\n• **Mike Monnik, directorul DroneSec**, a declarat că baza ar putea fi folosită pentru lansarea dronelor rusești cu reacție Geran-4 și Geran-5. În opinia sa, amplasamentul ar putea lansa 100 sau mai multe drone în 24 de ore, însă capacitatea efectivă depinde de stocuri și de obiective; Rusia lansează de regulă aceste drone în număr mic, pe parcursul zilei.\n\n• **Operaționalizarea completă** ar putea avea loc în doar câteva săptămâni, potrivit lui Monnik. Noua bază ar completa rețeaua rusă existentă, formată din cel puțin 11 amplasamente fixe de lansare folosite în atacurile asupra Ucrainei.\n\n• **Apărarea antiaeriană de la Millerovo** ar putea proteja noua instalație și îngreuna atacurile ucrainene. Rob Jordan, director de program la RUSI, a spus că ritmul rapid al construcției arată încrederea Rusiei în capacitatea sa de a lovi la mare distanță, posibil în detrimentul forțelor terestre convenționale.\n\n• **Pentru NATO**, Mike Monnik a descris drept o vulnerabilitate strategică dezvoltarea și producția industrială rapidă a dronelor, mai ales în condițiile în care multe țări au sisteme antidrone incomplete. Sursele au legat construcția și de deteriorarea relațiilor dintre Rusia și NATO.\n\n• **Ministerul rus al Apărării** nu a răspuns, potrivit relatării Agerpres, solicitării de a comenta noua instalație și programul de drone cu reacție.\n\n• **O postare pe rețelele sociale citată de Digi24** a afirmat că baza ar avea 32 de locuri pentru pregătirea dronelor și că acestea erau deja descărcate. Celelalte surse prezentate nu au confirmat această informație.\n\n• **Potrivit datelor ucrainene**, Rusia și-a multiplicat de aproximativ șase ori utilizarea dronelor cu reacție pe parcursul a trei luni din vară, iar Kievul și regiunea din jur au fost țintele cele mai frecvente. Acestea pot atinge 600 km/h și sunt mai greu de interceptat cu dronele ucrainene concepute inițial pentru modele mai lente, cu motor cu piston."
+  },
+  {
+    "group_id": "group_53da06eb92",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/16/051910/judecata-instanta-tribunal-judecator-id46109-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=4750%2C3166%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Justiția în programul de guvernare. Luca Niculescu vrea o colaborare „loială” cu Ministerul Public, CSM şi Instanţa supremă",
+        "link": "https://stirileprotv.ro/stiri/politic/justitia-in-programul-de-guvernare-luca-niculescu-vrea-o-colaborare-loiala-cu-ministerul-public-csm-si-instan-a-suprema.html"
+      }
+    ],
+    "published_at": 1792127969,
+    "title_hu": "Justiția în programul de guvernare. Luca Niculescu vrea o colaborare „loială” cu Ministerul Public, CSM şi Instanţa supremă",
+    "lead_hu": "Guvernul Luca Niculescu propune la capitolul \"Justiţie\" din programul de guvernare o colaborare \"loială\" cu Ministerul Public (parchete), Consiliul Superior al Magistraturii şi Instanţa supremă.",
+    "content_hu": "Guvernul Luca Niculescu propune la capitolul \"Justiţie\" din programul de guvernare o colaborare \"loială\" cu Ministerul Public (parchete), Consiliul Superior al Magistraturii şi Instanţa supremă.",
+    "title_ro": "Justiția în programul de guvernare. Luca Niculescu vrea o colaborare „loială” cu Ministerul Public, CSM şi Instanţa supremă",
+    "lead_ro": "Guvernul Luca Niculescu propune la capitolul \"Justiţie\" din programul de guvernare o colaborare \"loială\" cu Ministerul Public (parchete), Consiliul Superior al Magistraturii şi Instanţa supremă.",
+    "content_ro": "Guvernul Luca Niculescu propune la capitolul \"Justiţie\" din programul de guvernare o colaborare \"loială\" cu Ministerul Public (parchete), Consiliul Superior al Magistraturii şi Instanţa supremă."
+  },
+  {
     "group_id": "group_672501147e",
     "fingerprint": "7a262f578e8dbdc7f5ee83b5304a1a9a",
     "category": "Általános",
@@ -46,6 +489,39 @@
     "title_ro": "Drone ucrainene au lovit centrul de date Sberbank din Balakovo",
     "lead_ro": "În noaptea de 14 octombrie, drone ucrainene au atacat orașul rus Balakovo; Sberbank a confirmat că centrul său de date a fost lovit, dar sistemele și serviciile au continuat să funcționeze normal. Atacul a avariat clădiri de locuit și a provocat moartea unei persoane. Noile relatări menționează și lovituri asupra altor infrastructuri din regiune, precum și atacuri ulterioare asupra centrelor de date și infrastructurii energetice rusești.",
     "content_ro": "• **În noaptea de 14 octombrie**, drone ucrainene au atacat Balakovo, oraș rus situat pe Volga. Guvernatorul regional a anunțat avarierea unor clădiri de locuit și moartea unei persoane.\n\n• **Centrul de date Sberbank** a fost, de asemenea, lovit. Un oficial al băncii a confirmat atacul, dar a declarat că sistemele și serviciile Sberbank au funcționat fără întreruperi. Potrivit guvernatorului, infrastructura orașului a continuat să funcționeze normal.\n\n• **Clădirile de locuit și centrala termică**: Astra a stabilit, pe baza imaginilor martorilor, că una dintre clădirile avariate se află la câțiva kilometri de centrala termică din Balakovo, principala sursă de încălzire a orașului.\n\n• **Uzina metalurgică Balakovo** ar fi fost, de asemenea, lovită, potrivit imaginilor de la fața locului și relatărilor canalelor ucrainene de monitorizare. Instalația produce anual peste un milion de tone de produse din oțel; amploarea pagubelor nu este cunoscută. Datele satelitare NASA FIRMS au indicat mai multe incendii în zona industrială.\n\n• **Centrul de date din Balakovo** este încă în construcție, dar funcționează deja parțial. Instalația, cu o suprafață de aproximativ 55.000 de metri pătrați, ar urma să fie finalizată în 2027, iar costul proiectului este estimat la 122,2 miliarde de ruble. Ar putea deveni unul dintre cele mai mari centre de date din Rusia și gazda celui mai mare supercomputer din țară; ar urma să deservească și serviciile platformei digitale de stat GosTech.\n\n• **Amplasarea instalației** este importantă din punct de vedere strategic: aceasta se află în apropierea centralei nucleare Balakovo și a hidrocentralei Saratov.\n\n• **Sberbank și Yandex** sunt actori importanți în dezvoltarea inteligenței artificiale în Rusia; pe piața internă concurează modelele GigaChat al Sberbank și YandexGPT. Potrivit relatărilor, dezvoltările lor pot rămâne în urmă cu până la nouă luni față de liderii din SUA și China, parțial din cauza sancțiunilor occidentale care limitează accesul la echipamente tehnologice avansate.\n\n• **Centrele de date Yandex** au fost vizate de mai multe atacuri în săptămâna precedentă: instalațiile din regiunile Reazan și Kaluga, pe 8 și 9 octombrie, iar pe 11 octombrie, potrivit companiei, un centru și-a oprit complet activitatea. Într-un nou atac din noaptea de joi spre vineri, centrul de date din regiunea Vladimir ar fi fost vizat; relatările au precizat că informația nu a putut fi verificată independent.\n\n• **Traficul aerian din zona Moscovei** a fost restricționat în urma atacurilor nocturne cu drone. Primarul Serghei Sobianin a declarat că 493 de drone au fost lansate în direcția Moscovei, iar 180 au fost distruse în apropierea capitalei. Au fost introduse restricții temporare pe mai multe aeroporturi din Moscova și din alte regiuni; autoritățile au anunțat doborârea a peste 160 de drone în regiunea Rostov, a aproape 40 în Tula și a 32 în Voronej.\n\n• **La terminalul petrolier din Rostov**, incendiul izbucnit după atacul cu drone din 10 octombrie ar fi continuat pentru a patra zi. Potrivit unei analize OSINT, până la 13 octombrie cel puțin opt dintre cele 12 rezervoare nu mai puteau fi folosite. Terminalul poate primi și încărca anual aproximativ 2,5–3,5 milioane de tone de produse petroliere și, potrivit relatării, deservește și armata rusă.\n\n• **La rafinăria din Reazan**, un atac ulterior de amploare cu drone a provocat un incendiu. Instalația, deținută de Rosneft, contribuie la aprovizionarea cu combustibil a Moscovei și reprezintă aproape 5% din capacitatea totală de rafinare a Rusiei. Volodimir Zelenski a declarat că Ucraina a suspendat timp de trei zile, la solicitarea SUA, atacurile asupra infrastructurii energetice rusești, dar le va relua din cauza loviturilor rusești asupra infrastructurii energetice ucrainene; niciuna dintre părți nu a confirmat armistițiul energetic anunțat de Donald Trump."
+  },
+  {
+    "group_id": "group_ae8dd485d2",
+    "fingerprint": "a02f7bc5226df3412fcf4a6d1ca796fb",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/militari-ucraineni-e1783584739799-1024x633.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Reuters: Ordinul de restricționare a Starshield pentru Ucraina ar fi venit de la Casa Albă",
+        "link": "https://www.mediafax.ro/externe/reuters-ordinul-de-restrictionare-a-starshield-pentru-ucraina-ar-fi-venit-de-la-casa-alba-23826327"
+      },
+      {
+        "source": "Digi24",
+        "title": "Surse Reuters: Ordinul de limitare a serviciului Starshield pentru Ucraina a venit din interiorul Casei Albe",
+        "link": "https://www.digi24.ro/stiri/externe/surse-reuters-ordinul-de-limitare-a-serviciului-starshield-pentru-ucraina-a-venit-din-interiorul-casei-albe-3994741"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ordinul de limitare a serviciului Starshield pentru Ucraina a venit din interiorul Casei Albe, susțin doi oficiali SUA",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/ordinul-de-limitare-a-serviciului-starshield-2564365.html"
+      }
+    ],
+    "published_at": 1792127690,
+    "title_hu": "Reuters: a Fehér Házból érkezett az ukrajnai Starshield korlátozására vonatkozó utasítás",
+    "lead_hu": "Reutersnek nyilatkozó amerikai és nyugati tisztviselők szerint a Fehér Házból indult az ukrán hadsereg által használt Starshield korlátozása, amely a gyorsan mozgó drónok működését is lassította. A lépés idején Washington nyomást gyakorolt Kijevre az orosz finomítók elleni támadások leállítása érdekében; az ügy az amerikai hírszerzési információk megosztásával és egy orosz dízelüzlettel kapcsolatos feszültségekkel is összefonódott.",
+    "content_hu": "• **A Fehér Házból érkezett utasítás:** a Reutersnek nyilatkozó két amerikai és egy nyugati tisztviselő szerint a Pentagon vezetői üzenetet kaptak arról, hogy korlátozni kell a SpaceX ukrán hadseregnek biztosított Starshield-szolgáltatását. A források nem nevezték meg, ki hozta meg a döntést vagy hajtotta végre az utasítást; egy magas rangú amerikai tisztviselő szerint Trump elnök nem kérte a korlátozást.\n\n• **A drónműveletekre is kihatott a korlátozás:** ukrán tisztviselők szerint a katonai terminálok nagy sebességgel mozgó eszközökön nem működtek megfelelően. Ez nehezítette az orosz erők és logisztika elleni támadásokat a megszállt területeken, és lassította az orosz Sahíd drónok elfogására használt drónokat. Az ukrán védelmi minisztérium egyik forrása szerint a terminálok később ismét működtek mozgás közben, de legfeljebb óránként 160 kilométeres sebességnél.\n\n• **A Starshield a Starlink katonai változata:** a SpaceX kormányzati és nemzetbiztonsági ügyfeleknek fejlesztette, alapinfrastruktúrája a Starlink műhold-konstellációja. A Pentagon a rendszer legnagyobb ügyfele, és milliárdokat költött a Starlinkre és a Starshieldre; speciális műholdakat is vásárolt rakétariasztási kommunikációra, illetve az amerikai Nemzeti Felderítő Hivatal kémműholdas hálózatához.\n\n• **Trump nyomást gyakorolt Kijevre az orosz finomítók elleni támadások miatt:** az amerikai elnök ezeket okolta az energiaárak meredek emelkedéséért, amely szerinte rontja a Republikánus Párt esélyeit a novemberi félidős választás előtt. Szakértők szerint az energiaköltségek növekedésének fő oka inkább az Egyesült Államok, Izrael és Irán háborúja, az iráni energetikai támadások és a Hormuzi-szoros nagyrészt lezárása.\n\n• **Az október 9-i miami egyeztetésen is szóba került a finomítók ügye:** Jared Kushner és Steve Witkoff a Reuters egyik forrása szerint kemény hangot ütött meg az ukrán küldöttséggel, és kifejezte Washington elégedetlenségét a támadások folytatása miatt. Az amerikai fél az orosz dízel szállításáról szóló megállapodást is azzal indokolta, hogy az reményeik szerint rugalmasabbá teszi Moszkvát a béketárgyalásokon. A több mint 2,25 millió hordó dízel szállítását előirányzó ügyletet egyes amerikai törvényhozók bírálták, mert szerintük bevételt ad Oroszországnak anélkül, hogy engedményekre kényszerítené Vlagyimir Putyint.\n\n• **Kijev magyarázatot kért a korlátozásra:** egy magas rangú ukrán tisztviselő szerint az ukránok kedden és szerdán a Fehér Ház, a külügyminisztérium és a Pentagon vezetőit keresték meg; azt a választ kapták, hogy a döntés a Fehér Házé volt.\n\n• **A hírszerzési információk megosztása is feszültségforrás:** amerikai tisztviselők nem nyilvános egyeztetéseken azzal fenyegettek, hogy leállítják az orosz rakétaindításokról szóló információk átadását, amelyeket Ukrajna a támadások elhárítására használ. Trump kedden ugyanakkor azt mondta, Washington továbbra is megoszt hírszerzési információkat Kijevvel.\n\n• **Musk szerint az amerikai kormány dönthet a használat korlátozásáról:** Elon Musk azt írta az X-en, hogy mivel a Starshield-rendszerek az amerikai kormány tulajdonában és ellenőrzése alatt állnak, a sebességre vagy használatra vonatkozó korlátozásokról az amerikai hadsereg vagy az elnök dönt. A SpaceX, a Pentagon és az ukrajnai nagykövetség nem válaszolt a Reuters megkeresésére.",
+    "title_ro": "Reuters: ordinul de limitare a Starshield pentru Ucraina ar fi venit de la Casa Albă",
+    "lead_ro": "Potrivit unor oficiali americani și occidentali citați de Reuters, limitarea sistemului Starshield folosit de armata ucraineană a fost decisă la Casa Albă și a încetinit inclusiv operațiunile dronelor care se deplasează cu viteză mare. Măsura a fost luată în contextul presiunilor exercitate de Washington asupra Kievului pentru oprirea atacurilor asupra rafinăriilor rusești, pe fondul unor tensiuni privind informațiile militare și un acord pentru livrări de motorină rusească.",
+    "content_ro": "• **Ordinul ar fi venit de la Casa Albă:** doi oficiali americani și unul occidental au declarat pentru Reuters că liderii Pentagonului au primit un mesaj potrivit căruia serviciul Starshield furnizat armatei ucrainene trebuie restricționat. Sursele nu au precizat cine a luat decizia sau cine a pus-o în aplicare; un oficial american de rang înalt a spus că președintele Trump nu a cerut restricția.\n\n• **Restricțiile au afectat și operațiunile cu drone:** potrivit oficialilor ucraineni, terminalele militare nu funcționau corespunzător când erau montate pe obiecte care se deplasau cu viteză mare. Măsura a complicat atacurile asupra forțelor ruse și a logisticii din teritoriile ocupate și a încetinit dronele interceptoare folosite împotriva dronelor Shahed. O sursă din Ministerul ucrainean al Apărării a declarat că terminalele au redevenit funcționale în mișcare, dar numai până la viteze de 160 km/h.\n\n• **Starshield este versiunea militară a Starlink:** SpaceX a dezvoltat sistemul pentru clienți guvernamentali și de securitate națională, iar infrastructura sa de bază este constelația Starlink. Pentagonul este cel mai mare client și a cheltuit miliarde de dolari pentru serviciile Starlink și Starshield; a cumpărat și sateliți specializați pentru comunicații de avertizare împotriva rachetelor și pentru rețeaua de sateliți-spion a Serviciului Național de Recunoaștere al SUA.\n\n• **Trump a făcut presiuni asupra Kievului în legătură cu rafinăriile rusești:** președintele american a pus pe seama atacurilor ucrainene creșterea puternică a prețurilor la energie, despre care a spus că afectează perspectivele republicanilor înaintea alegerilor intermediare din noiembrie. Experții consideră însă că scumpirea energiei este provocată în principal de războiul dintre SUA și Israel cu Iranul, de atacurile iraniene asupra instalațiilor energetice și de blocarea în mare parte a Strâmtorii Ormuz.\n\n• **Atacurile asupra rafinăriilor au fost discutate și la reuniunea de la Miami din 9 octombrie:** Jared Kushner și Steve Witkoff au adoptat un ton dur față de delegația ucraineană și au transmis nemulțumirea Washingtonului față de continuarea atacurilor, potrivit unei surse Reuters. Delegația americană a justificat și acordul pentru livrări de motorină rusească prin speranța că acesta va face Moscova mai flexibilă în negocierile de pace. Acordul pentru peste 2,25 milioane de barili a fost criticat de unii parlamentari americani, care susțin că ar aduce venituri Rusiei fără să-l oblige pe Vladimir Putin să facă concesii.\n\n• **Kievul a cerut explicații privind restricțiile:** un oficial ucrainean de rang înalt a declarat că reprezentanții Ucrainei au contactat marți și miercuri oficiali de la Casa Albă, Departamentul de Stat și Pentagon și au fost informați că decizia aparține Casei Albe.\n\n• **Schimbul de informații militare a devenit o altă sursă de tensiune:** în discuții nepublice, oficiali americani au amenințat că vor opri transmiterea informațiilor despre lansările de rachete rusești, folosite de Ucraina pentru a respinge atacurile. Trump a declarat marți că Washingtonul continuă să împărtășească informații cu Kievul.\n\n• **Musk a spus că guvernul american controlează limitele de utilizare:** Elon Musk a scris pe X că sistemele Starshield sunt deținute și controlate de guvernul SUA, astfel că orice limitare privind viteza sau utilizarea este decisă de armata americană sau de președinte. SpaceX, Pentagonul și Ambasada Ucrainei la Washington nu au răspuns solicitărilor Reuters de comentarii."
   },
   {
     "group_id": "group_3b3945b9ce",
@@ -674,34 +1150,6 @@
     "content_ro": "• **În perioada 14–16 octombrie**, informarea ANM a vizat intensificări ale vântului în mai multe regiuni: rafalele puteau ajunge la 45–55 km/h în Dobrogea, sudul Moldovei și estul Munteniei, respectiv la 60–80 km/h la munte, la altitudini mari.\n\n• **La peste 1.500 de metri**, precipitațiile urmau să fie sub formă de lapoviță și ninsoare. În Carpații Meridionali și Orientali se putea depune local un strat de zăpadă de 5–15 centimetri; pentru 15 octombrie, prognoza indica în general 5–10 centimetri.\n\n• **Pe 15 octombrie**, erau așteptate ploi în mai multe regiuni, mai ales în Maramureș și Transilvania, precum și local în Crișana, Moldova și Muntenia. Maximele puteau varia de la aproximativ 8 grade în estul Transilvaniei până la 18 grade în Oltenia și Muntenia.\n\n• **Pe 16 octombrie**, vremea urma să rămână rece și înnorată pe alocuri, cu ploi slabe izolate; la munte, la altitudini mari, erau posibile lapoviță și ninsoare. Temperaturile maxime erau estimate între 9 și 18 grade.\n\n• **În București**, pentru 14–15 octombrie erau prognozate ploi slabe și posibilă ceață, cu maxime de 16–18 grade. Pentru 16 octombrie, prognozele indicau maxime de aproximativ 14–16 grade și minime nocturne de 6–8 grade."
   },
   {
-    "group_id": "group_ae8dd485d2",
-    "fingerprint": "98c2ca2af97322b41ce9016c87d7f3e9",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/militari-ucraineni-e1783584739799-1024x633.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Reuters: Ordinul de restricționare a Starshield pentru Ucraina ar fi venit de la Casa Albă",
-        "link": "https://www.mediafax.ro/externe/reuters-ordinul-de-restrictionare-a-starshield-pentru-ucraina-ar-fi-venit-de-la-casa-alba-23826327"
-      },
-      {
-        "source": "Digi24",
-        "title": "Surse Reuters: Ordinul de limitare a serviciului Starshield pentru Ucraina a venit din interiorul Casei Albe",
-        "link": "https://www.digi24.ro/stiri/externe/surse-reuters-ordinul-de-limitare-a-serviciului-starshield-pentru-ucraina-a-venit-din-interiorul-casei-albe-3994741"
-      }
-    ],
-    "published_at": 1792125990,
-    "title_hu": "Reuters: a Fehér Házból érkezett az ukrajnai Starshield korlátozására vonatkozó utasítás",
-    "lead_hu": "Reutersnek nyilatkozó amerikai és nyugati tisztviselők szerint a Fehér Házból indult az ukrán hadsereg által használt Starshield-rendszer korlátozása. A lépés lassította a nagy sebességgel mozgó drónok működését, miközben Washington nyomást gyakorolt Kijevre az orosz finomítók elleni támadások leállítása érdekében.",
-    "content_hu": "• **A Reutersnek nyilatkozó két amerikai és egy nyugati tisztviselő szerint** a Starshield ukrajnai használatának korlátozására vonatkozó utasítás a Fehér Házból érkezett. A források nem nevezték meg, ki hozta meg a döntést; egy magas rangú amerikai tisztviselő azt mondta, hogy Trump elnök nem kérte a korlátozást.\n\n• **A korlátozás a drónműveleteket is érintette:** ukrán tisztviselők szerint a nagy sebességgel mozgó eszközökre szerelt katonai terminálok nem működtek megfelelően, ami rontotta a drónok irányítását, és lassította az orosz Sahíd drónok elfogására használt drónokat. Az ukrán védelmi minisztérium egyik forrása szerint a terminálok később már működtek mozgás közben, de legfeljebb óránként 160 kilométeres sebességnél.\n\n• **A korlátozás idején Trump nyomást gyakorolt Kijevre,** hogy állítsa le az orosz olajfinomítók elleni támadásokat. Az október 9-i miami egyeztetésen Jared Kushner és Steve Witkoff a Reuters forrása szerint elégedetlenségét fejezte ki az ukrán támadások folytatása miatt; a felek között az orosz dízel szállításáról szóló megállapodás is feszültséget okozott.\n\n• **Elon Musk szerint a Starshield használatának korlátozásáról** az amerikai hadsereg vagy az elnök dönthet, mivel a rendszert az Egyesült Államok kormánya birtokolja és ellenőrzi. A SpaceX, a Pentagon és az ukrajnai nagykövetség nem válaszolt a Reuters megkeresésére.",
-    "title_ro": "Reuters: ordinul de restricționare a Starshield pentru Ucraina a venit din interiorul Casei Albe",
-    "lead_ro": "Oficiali americani și occidentali citați de Reuters afirmă că ordinul de restricționare a sistemului Starshield folosit de armata ucraineană a venit din interiorul Casei Albe. Măsura a afectat dronele care se deplasau cu viteză mare, în timp ce Washingtonul făcea presiuni asupra Kievului pentru oprirea atacurilor asupra rafinăriilor rusești.",
-    "content_ro": "• **Potrivit a doi oficiali americani și unui oficial occidental citați de Reuters,** ordinul de limitare a utilizării Starshield de către Ucraina a venit din interiorul Casei Albe. Sursele nu au precizat cine a luat decizia; un oficial american de rang înalt a declarat că președintele Trump nu a solicitat restricționarea sistemului.\n\n• **Restricțiile au afectat și operațiunile cu drone:** oficiali ucraineni au afirmat că terminalele militare montate pe obiecte care se deplasau cu viteză mare nu funcționau corespunzător, afectând ghidarea dronelor și încetinind dronele interceptoare folosite împotriva aparatelor Shahed rusești. O sursă din Ministerul ucrainean al Apărării a spus ulterior că terminalele funcționau în mișcare, dar numai la viteze de până la 160 km/h.\n\n• **În perioada restricțiilor, Trump a exercitat presiuni asupra Kievului** pentru a opri atacurile asupra rafinăriilor rusești. La reuniunea de la Miami din 9 octombrie, Jared Kushner și Steve Witkoff și-au exprimat nemulțumirea față de continuarea atacurilor, potrivit unei surse Reuters; tensiuni a provocat și acordul privind livrările de motorină rusească.\n\n• **Elon Musk a declarat că limitarea utilizării Starshield** poate fi decisă de armata SUA sau de președinte, deoarece sistemul este deținut și controlat de guvernul american. SpaceX, Pentagonul și Ambasada Ucrainei nu au răspuns solicitărilor Reuters de comentarii."
-  },
-  {
     "group_id": "group_b1165bfde0",
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-0/09f7cf33-daa1-4902-ad9e-8d33e2f11c24/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -846,27 +1294,6 @@
     "content_ro": "Ionuț Radu a fost integralist la Celta, în meciul din Europa League cu Juventus (1-2) pierdut în prelungiri. Portarul naționalei României n-a prea avut ce apăra în duelul cu „Bătrâna Doamnă” din Torino. „Juventus abia dacă a creat ceva – până la final. Radu a avut doar câteva intervenții bune pe tot parcursul meciului”, a remarcat cotidianul spaniol Marca. ..."
   },
   {
-    "group_id": "group_c1337423ac",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8146549-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Volodimir Zelenski ar putea vizita Budapesta săptămâna viitoare, pe fondul apropierii dintre Ucraina și Ungaria",
-        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-ar-putea-vizita-budapesta-saptamana-viitoare-pe-fondul-apropierii-dintre-ucraina-si-ungaria-23826360"
-      }
-    ],
-    "published_at": 1792125382,
-    "title_hu": "Volodimir Zelenski ar putea vizita Budapesta săptămâna viitoare, pe fondul apropierii dintre Ucraina și Ungaria",
-    "lead_hu": "Președintele ucrainean Volodimir Zelenski ar putea vizita Budapesta pe 23 octombrie, în contextul apropierii diplomatice dintre Ucraina și Ungaria.",
-    "content_hu": "Președintele ucrainean Volodimir Zelenski ar putea vizita Budapesta pe 23 octombrie, în contextul apropierii diplomatice dintre Ucraina și Ungaria.",
-    "title_ro": "Volodimir Zelenski ar putea vizita Budapesta săptămâna viitoare, pe fondul apropierii dintre Ucraina și Ungaria",
-    "lead_ro": "Președintele ucrainean Volodimir Zelenski ar putea vizita Budapesta pe 23 octombrie, în contextul apropierii diplomatice dintre Ucraina și Ungaria.",
-    "content_ro": "Președintele ucrainean Volodimir Zelenski ar putea vizita Budapesta pe 23 octombrie, în contextul apropierii diplomatice dintre Ucraina și Ungaria."
-  },
-  {
     "group_id": "group_a94a01f874",
     "category": "Általános",
     "image": "https://www.go4it.ro/wp-content/uploads/2026/10/113322.jpg",
@@ -977,104 +1404,6 @@
     "title_ro": "„Nu mă apuc acum să elogiez” » Verdictul lui Sorin Cârțu, după remiza dintre Craiova și Getafe: „Știam ce poate această echipă”",
     "lead_ro": "Sorin Cârțu (70 de ani), președintele onorific al Universității Craiova, a comentat remiza obținută de olteni în primul meci al grupei din Conference League, 1-1 pe „Ion Oblemenco” cu Getafe. Assad Al…",
     "content_ro": "Sorin Cârțu (70 de ani), președintele onorific al Universității Craiova, a comentat remiza obținută de olteni în primul meci al grupei din Conference League, 1-1 pe „Ion Oblemenco” cu Getafe. Assad Al Hamlawi a deschis scorul în minutul 59, iar Universitatea Craiova se îndrepta spre victorie, însă Getafe a egalat în minutul 81, după execuția fantastică a lui Nemanja Gudelj. ..."
-  },
-  {
-    "group_id": "group_0023381096",
-    "fingerprint": "d92ab298baa896f755ac526dcfcb322e",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 16,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Trump susține că Putin vrea pace mai mult decât Zelenski, în timp ce atacurile rusești continuă în Ucraina",
-        "link": "https://www.digi24.ro/stiri/externe/trump-sustine-ca-putin-vrea-pace-mai-mult-decat-zelenski-in-timp-ce-atacurile-rusesti-continua-in-ucraina-3989527"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SUA ar fi oferit Rusiei acordul pentru motorină ca să-l „înmoaie” pe Putin în negocierile de pace: „E rândul tău să dai ceva”",
-        "link": "https://stirileprotv.ro/stiri/international/sua-ar-fi-oferit-rusiei-acordul-pentru-motorina-ca-sa-l-inmoaie-pe-putin-in-negocierile-de-pace-e-randul-tau-sa-dai-ceva.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
-        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
-        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Cine l-ar putea înlocui pe Zelenski: Patru candidați pentru funcția de președinte al Ucrainei, unul e favorit",
-        "link": "https://www.digi24.ro/stiri/externe/cine-l-ar-putea-inlocui-pe-zelenski-patru-candidatii-pentru-functia-de-presedinte-al-ucrainei-unul-e-favorit-3989879"
-      },
-      {
-        "source": "Digi24",
-        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
-        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
-        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
-        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Meloni afirmă că acordul dintre SUA și Rusia privind motorina este o 'alegere foarte riscantă'",
-        "link": "https://agerpres.ro/politic-extern/2026/10/14/meloni-afirma-ca-acordul-dintre-sua-si-rusia-privind-motorina-este-o-alegere-foarte-riscanta--1602855"
-      },
-      {
-        "source": "Digi24",
-        "title": "Giorgia Meloni critică acordul dintre Statele Unite şi Rusia privind motorina: „Riscurile sunt clare”",
-        "link": "https://www.digi24.ro/stiri/externe/giorgia-meloni-critica-acordul-dintre-statele-unite-si-rusia-privind-motorina-riscurile-sunt-clare-3991917"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski spune că se simte trădat de Trump: „Dacă te afli la mijloc, trebuie să rămâi la mijloc. E păcat că pierdem un partener”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/zelenski-spune-ca-se-simte-tradat-de-trump-daca-te-afli-la-mijloc-trebuie-sa-ramai-la-mijloc-e-pacat-ca-pierdem-un-partener-3992641"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Zelenski, atac frontal la Trump după acordul cu Rusia: „Nu este de partea corectă a istoriei”",
-        "link": "https://www.mediafax.ro/externe/zelenski-atac-frontal-la-trump-dupa-acordul-cu-rusia-nu-este-de-partea-corecta-a-istoriei-23825586"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Zelenski anunță că armata ucraineană va relua atacurile asupra rafinăriilor rusești",
-        "link": "https://www.mediafax.ro/politic/zelenski-anunta-ca-armata-ucraineana-va-relua-atacurile-asupra-rafinariilor-rusesti-23825673"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "După anunțul lui Zelenski, Ucraina a și atacat o rafinărie din Rusia",
-        "link": "https://hotnews.ro/dupa-anuntul-lui-zelenski-ucraina-a-si-atacat-o-rafinarie-din-rusia-2376632"
-      },
-      {
-        "source": "Udvarhelyi Hírportál (UH.ro)",
-        "title": "Trump megint őrületbe kergeti a világot az oroszbarátságával",
-        "link": "https://www.uh.ro/trump-megint-oruletbe-kergeti-a-vilagot-az-oroszbaratsagaval/"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Moscova îl acuză pe Zelenski că sabotează „armistițiul energetic” al lui Trump: Kievul sfidează SUA",
-        "link": "https://stirileprotv.ro/stiri/international/moscova-il-acuza-pe-zelenski-ca-saboteaza-armistitiul-energetic-al-lui-trump-kievul-sfideaza-sua.html"
-      }
-    ],
-    "published_at": 1792124923,
-    "title_hu": "A dízelalku, az energetikai csapások és az amerikai nyomás tovább élezik a Trump–Zelenszkij-vitát",
-    "lead_hu": "Trump az orosz dízelalkut a tárgyalások előmozdításával és az amerikai energiaárak mérséklésével indokolta, miközben Putyint készségesebbnek nevezte a békére Zelenszkijnél. Kijev szerint Oroszország az energetikai tűzszünet bejelentése után is támadta Ukrajna infrastruktúráját, ezért újraindította az orosz energetikai létesítmények elleni csapásokat. A konfliktus az amerikai támogatás, a szankciók és az ukrán választások kérdésében is tovább mélyült.",
-    "content_hu": "• **A dízelalku diplomáciai indoka**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón azt mondta az ukrán tisztviselőknek, hogy az orosz dízelexport engedélyezése visszacsábíthatja Moszkvát a tárgyalóasztalhoz, és enyhítheti az orosz álláspontot. A források szerint a megbeszélésen biztonsági garanciákról és újjáépítésről is szó volt, de megállapodás nem született, és Kijevet nem fenyegették meg a támogatás megvonásával. Az ukrán tisztviselők szkeptikusak voltak az üzleti engedményekre építő megközelítéssel szemben.\n\n• **Trump Putyin békevágyát hangsúlyozta**: Trump azt mondta, előbb tájékozódnia kell az orosz támadásokról, mert szerinte mindkét fél megsértette a tűzszünetet. Azt állította, Putyin jobban akar megállapodást, mint Zelenszkij, akit szintén meg kell győzni a békéről; a Kremlt nem bírálta érdemben.\n\n• **Az energetikai tűzszünet részletei tisztázatlanok**: Zelenszkij szerint Oroszország 39 ballisztikus rakétával és több mint 120 drónnal támadta az energetikai és kritikus infrastruktúrát, több mint 600 ezer embert hagyva áram nélkül. Az ukrán mérleg szerint hét ember meghalt, 25-en megsebesültek, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg. A Kreml szerint a tűzszünet feltételeit nem véglegesítették; egy fehér házi tanácsadó az Axiosnak azt mondta, az csak az olajfinomítókra vonatkozik.\n\n• **Zelenszkij szerint Moszkva a bejelentés után is támadott**: Az ukrán elnök azt mondta, Trump közösségi médiás bejelentése után Oroszország egy harkivi erőművet támadott meg, hétfő reggel pedig drónokkal Kijevet is célba vette. Zelenszkij közölte, hogy Ukrajna kész leállítani az energetikai infrastruktúra elleni támadásokat, ha Oroszország is így tesz; az ukrán erők a bejelentés utáni éjszakán tartózkodtak az orosz finomítók támadásától.\n\n• **Ukrajna feloldotta a támadási szünetet**: Zelenszkij szerint Ukrajna három napig szüneteltette az orosz energetikai létesítmények elleni támadásokat, miközben Oroszország folytatta az ukrán infrastruktúra bombázását, és az előző héten több mint száz civil halt meg. A szünet után dróntámadás okozott tüzet a rjazanyi finomítónál, amely az orosz finomítókapacitás közel 5 százalékát adja. Moszkva szerint négy rakétát és több tucat drónt elfogtak, a roncsok okozták a tüzet; Putyin azt állította, hogy a támadások nem okoztak jelentős károkat.\n\n• **Trump élesen bírálta a csapások újraindítását**: Az ukrán finomítók elleni támadásokat „szégyennek” nevezte, azt mondta, „sok más célpont” is van, és Zelenszkijjel nehezebb együtt dolgozni, mint Putyinnal. Azt is kijelentette, hogy Zelenszkij nem megfelelő partner egy megállapodáshoz, és szerinte nem akar egyezséget.\n\n• **Zelenszkij árulásként élte meg Trump fordulatát**: Az ukrán elnök azt mondta, fájdalmas, hogy Trump a másik oldalra áll, és őszintén szólva árulásnak érzi a történteket; szerinte Ukrajna egy erős partnert veszít el. Hozzátette, ha Trump közvetítőként középen áll, ott is kell maradnia. Zelenszkij szerint Putyin könnyű győzelemként értékelheti a dízelalkut, Ukrajna pedig nem adja el az országát; Washingtonnak inkább Kijevvel kellene dízelmegállapodást kötnie.\n\n• **Zelenszkij feltételekhez kötné a további deeszkalációt**: Közölte, hogy Ukrajna csak akkor állítaná le az orosz energetikai célpontok elleni támadásokat, ha Moszkva is beszünteti az ukrán infrastruktúra bombázását. Az orosz támadások leállításáért cserébe több Patriot elfogórakétát nevezett meg elfogadható minimumnak.\n\n• **Kijev az amerikai hírszerzési és kommunikációs támogatás korlátozásától tart**: Zelenszkij szerint katonai tisztviselőket figyelmeztettek, hogy az orosz finomítók elleni támadások folytatása esetén felfüggeszthetik a hírszerzési információk megosztását. Azt is állította, hogy Ukrajna nem kapott előzetes amerikai rakétafigyelmeztetéseket, miközben a Starlink lassulása katonai műveleteket zavart meg; szerinte ez nem technikai hiba, hanem szándékos döntés lehetett. Elon Musk szerint a katonai Starshield rendszereket az amerikai kormány irányítja, a korlátozásokról pedig az amerikai hadsereg, végső soron az elnök dönt. Beszámolók az Ukrajnának szánt amerikai fegyvereladások és az európai beszerzési programok korlátozásának lehetőségét is felvetették.\n\n• **Trump új ukrán elnököt sürgetett**: Trump szerint Ukrajnának olyan vezetőre lenne szüksége, aki megállapodást tud kötni. Zelenszkij azt válaszolta, választásokat akkor lehet tartani, ha Oroszország 60 napra teljes tűzszünetet vállal. A lehetséges jelöltek között Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót emlegetik; egy idézett felmérésben Zaluzsnij támogatottsága meghaladta a 20 százalékot, Budanovban pedig a válaszadók 53 százaléka bízott.\n\n• **Kétpárti szenátori tiltakozás**: Tizenkét amerikai szenátor kérte Trumptól, a pénzügyminisztertől és a külügyminisztertől a dízelalku visszavonását. Szerintük az alku elhanyagolhatóan csökkentheti az üzemanyagárakat, miközben bevételt ad Moszkvának; a levél a 2022-es importtilalomra, a 135. számú pénzügyminisztériumi általános engedély visszavonására és a 2026-os Lindsey Graham-szankciós törvény végrehajtására is felszólított. Thom Tillis republikánus szenátor szerint felmerülhet, hogy az elnök nem tartja be a törvényt.\n\n• **Európai bírálatok és közös tárgyalási képviselet**: Giorgia Meloni kockázatosnak nevezte az alkut, mert szerinte legitimációt és új bevételt ad Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-csoportnak; az európai kritikus infrastruktúra védelmét is sürgette az orosz hibrid támadásokkal szemben. Kaja Kallas szerint nem szabad enyhíteni az Oroszországra nehezedő nyomást, az EU pedig újabb, az orosz hadiipart célzó szankciókat fogadott el.\n\n• **A dízelalku piaci hatása korlátozott lehet**: Az amerikai dízelár gallononként 6,28 dollárra emelkedett, 72 százalékkal az előző év azonos időszaka fölé; a benzin átlagára 4,34 dollár volt. Elemzők szerint az orosz szállítmányok csak csekély hatással lehetnek az árakra; a Goldman Sachs októberre és novemberre 1–2 dolláros hordónkénti nagykereskedelmi árcsökkenést becsült. A teljes, 4,8 millió tonnás terv az amerikai fogyasztás körülbelül tíz napját, a világét alig több mint egy napot fedezné. A G7 európai tagjai négy hónap alatt 100 millió hordó olajat és dízelt szabadítanának fel, ami több mint ötvenszerese a Trump által említett kezdeti mennyiségnek.\n\n• **Moszkva szélesebb gazdasági együttműködésben reménykedik**: Kirill Dmitrijev szerint a dízelalku további amerikai–orosz gazdasági és beruházási megállapodások mintája lehet. Moszkva a szerződések előkészítéséről és a következő napokban várható aláírásáról beszélt; Alekszandr Novak a korábbi, havi 3–3,5 millió tonnás exportvolumen visszaállítását és az orosz költségvetés többletbevételeit is kilátásba helyezte.\n\n• **Az orosz propagandisták Kushnert és az amerikai választásokat emlegették**: Orosz televíziós kommentátorok szerint az alku nem oldja meg érdemben az üzemanyag-ellátási problémákat, és azt állították, hogy Jared Kushner jelentős hasznot húzhatott belőle. Azt is sugallták, hogy Trump a novemberi félidős választások előtt Oroszország segítségét keresi, illetve az amerikai lépés más országokat is a szankciók megkerülésére ösztönözhet. Ezek spekulatív propagandista állítások, nem igazolt tények.\n\n• **Ukrajna más orosz célpontokra is áthelyezheti a nyomást**: A The Atlantic elemzése szerint ukrán drónok orosz repülőterek és adatközpontok ellen is támadtak. A lap szerint a moszkvai repülőtereken egy hét alatt 345 járatot töröltek, október 8. óta pedig legalább négy adatközpontot ért támadás; egyes orosz digitális szolgáltatásokban fennakadások keletkeztek. Az elemzés szerint ezek gazdasági és közlekedési zavarokat okozhatnak, de önmagukban nem kényszerítik a Kremlt tűzszünetre.\n\n• **Zelenszkij további kockázatokra figyelmeztetett**: Az ukrán elnök szerint Trump ösztönösen vonzódik az autoriter vezetőkhöz és a rendkívül gazdag emberekhez. Azt is felvetette, hogy a dízelalkut további amerikai–orosz energiaipari megállapodások, akár földgázról szóló ügylet követheti, ami növelhetné Moszkva háborús bevételeit. Azt mondta, a következő évi európai választásokon oroszbarát pártok erősödhetnek meg; Marine Le Pen pedig francia elnökké választása esetére az Ukrajnának nyújtott támogatás leállítását helyezte kilátásba.\n\n• **Kijev nehéz választás előtt áll**: Szakértők szerint Trump nyílt bírálata veszélyeztetheti a megmaradt amerikai katonai és hírszerzési támogatást, Washington feltételeinek elfogadása viszont gyengítheti Ukrajna biztonságát. Nathalie Tocci szerint a hírszerzési együttműködés felfüggesztése súlyosan érintheti az ukrán védekezést, noha Washingtonnak kevesebb eszköze maradt Kijev nyomás alá helyezésére.",
-    "title_ro": "Acordul privind motorina, atacurile asupra infrastructurii energetice și presiunile SUA adâncesc disputa Trump–Zelenski",
-    "lead_ro": "Trump a justificat acordul privind motorina rusească prin reluarea negocierilor și reducerea prețurilor la energie în SUA, afirmând totodată că Putin își dorește pacea mai mult decât Zelenski. Kievul susține că Rusia a continuat să lovească infrastructura ucraineană după anunțarea armistițiului energetic și a reluat atacurile asupra instalațiilor energetice rusești. Disputa s-a amplificat și în privința sprijinului american, a sancțiunilor și a alegerilor din Ucraina.",
-    "content_ro": "• **Justificarea diplomatică a acordului privind motorina**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea de la Miami, că autorizarea exporturilor rusești de motorină ar putea readuce Moscova la masa negocierilor și i-ar putea înmuia poziția. S-au discutat și garanțiile de securitate și reconstrucția, dar nu s-a ajuns la un acord. Sursele au afirmat că Kievul nu a fost amenințat cu retragerea sprijinului, iar oficialii ucraineni au fost sceptici față de abordarea bazată pe concesii comerciale.\n\n• **Trump a susținut că Putin vrea pacea**: Trump a spus că trebuie să se informeze mai întâi despre atacurile rusești, deoarece, în opinia sa, ambele părți au încălcat armistițiul. El a afirmat că Putin își dorește un acord mai mult decât Zelenski și că și președintele ucrainean trebuie convins să accepte pacea, fără să critice în mod substanțial Kremlinul.\n\n• **Detaliile armistițiului energetic rămân neclare**: Zelenski a declarat că Rusia a atacat infrastructura energetică și critică folosind 39 de rachete balistice și peste 120 de drone, lăsând peste 600.000 de oameni fără electricitate. Potrivit bilanțului ucrainean, șapte persoane au murit, 25 au fost rănite, iar 26 de instalații energetice și patru obiective din sectorul petrolier și gazier au fost avariate. Kremlinul a spus că termenii armistițiului nu au fost finalizați; un consilier de la Casa Albă a declarat pentru Axios că acesta se aplică doar rafinăriilor.\n\n• **Zelenski spune că Rusia a atacat și după anunț**: Președintele ucrainean a afirmat că, după mesajul publicat de Trump pe rețelele sociale, Rusia a atacat o centrală electrică din Harkov, iar luni dimineață dronele au vizat Kievul. Zelenski a declarat că Ucraina este gata să oprească atacurile asupra infrastructurii energetice dacă Rusia face același lucru; forțele ucrainene s-au abținut să lovească rafinării rusești în noaptea de după anunț.\n\n• **Ucraina a renunțat la pauza atacurilor**: Potrivit lui Zelenski, Ucraina a suspendat timp de trei zile atacurile asupra instalațiilor energetice rusești, în timp ce Rusia a continuat bombardarea infrastructurii ucrainene; peste 100 de civili ar fi fost uciși în săptămâna precedentă. După pauză, un atac cu drone a provocat un incendiu la rafinăria din Riazan, care reprezintă aproape 5% din capacitatea de rafinare a Rusiei. Moscova a spus că a interceptat patru rachete și zeci de drone, iar resturile au declanșat incendiul; Putin a afirmat că atacurile nu au produs pagube semnificative.\n\n• **Trump a condamnat reluarea atacurilor**: El a numit atacurile ucrainene asupra rafinăriilor o „rușine”, a spus că există „multe alte ținte” și că este mai dificil să lucreze cu Zelenski decât cu Putin. Trump a mai declarat că Zelenski nu este partenerul potrivit pentru încheierea unui acord și că, în opinia sa, nu dorește o înțelegere.\n\n• **Zelenski a spus că se simte trădat de Trump**: Președintele ucrainean a afirmat că este dureros când Trump alege cealaltă parte și că, sincer, se simte trădat; Ucraina pierde, în opinia sa, un partener puternic. El a adăugat că, dacă Trump este mediator între Kiev și Moscova, trebuie să rămână neutru. Zelenski a spus că Putin poate considera acordul privind motorina o victorie ușoară, că Ucraina nu își va vinde țara și că Washingtonul ar trebui să încheie un acord privind motorina cu Kievul.\n\n• **Zelenski condiționează dezescaladarea de reciprocitate**: El a declarat că Ucraina va opri atacurile asupra obiectivelor energetice rusești numai dacă Moscova încetează să bombardeze infrastructura ucraineană. În schimbul opririi atacurilor rusești, a indicat că un număr mai mare de interceptoare Patriot ar fi minimul acceptabil.\n\n• **Kievul se teme de restricționarea sprijinului american în informații și comunicații**: Zelenski a spus că oficiali militari au fost avertizați că schimbul de informații ar putea fi suspendat dacă atacurile asupra rafinăriilor rusești continuă. El a afirmat și că Ucraina nu a primit avertizări americane timpurii privind rachetele, în timp ce încetinirea Starlink a perturbat operațiuni militare; în opinia sa, nu a fost o defecțiune tehnică, ci o decizie deliberată. Elon Musk a spus că sistemele militare Starshield sunt controlate de guvernul SUA, iar restricțiile țin de armata americană și, în ultimă instanță, de președinte. Unele relatări au menționat și posibilitatea limitării vânzărilor de arme americane destinate Ucrainei și a programelor europene de achiziții.\n\n• **Trump a cerut alegerea unui nou președinte ucrainean**: El a spus că Ucraina are nevoie de un lider capabil să încheie un acord. Zelenski a răspuns că alegerile pot avea loc dacă Rusia acceptă o încetare totală a focului timp de 60 de zile. Printre potențialii candidați sunt menționați Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko; într-un sondaj citat, Zalujnîi avea peste 20% din intențiile de vot, iar 53% dintre respondenți aveau încredere în Budanov.\n\n• **Protest bipartizan în Senatul SUA**: Doisprezece senatori i-au cerut lui Trump, secretarului Trezoreriei și secretarului de Stat să anuleze acordul privind motorina. Ei au susținut că acesta ar avea un efect neglijabil asupra prețurilor, oferindu-i în schimb Moscovei venituri suplimentare. Scrisoarea a cerut revocarea licenței generale nr. 135 și aplicarea legii de sancționare a Rusiei susținute de Lindsey Graham, adoptată în 2026. Senatorul republican Thom Tillis a spus că există motive să se considere că președintele nu respectă legea.\n\n• **Critici europene și o posibilă reprezentare comună la negocieri**: Giorgia Meloni a numit acordul riscant, afirmând că oferă legitimitate și venituri Moscovei și slăbește sancțiunile. Ea a propus ca UE să acorde un mandat oficial unui reprezentant european, eventual grupului E3, și a cerut protejarea infrastructurii critice împotriva atacurilor hibride rusești. Kaja Kallas a spus că presiunea asupra Rusiei nu trebuie redusă, iar UE a adoptat noi sancțiuni care vizează industria militară rusă.\n\n• **Impactul acordului asupra prețurilor ar putea fi limitat**: Motorina costa în SUA 6,28 dolari pe galon, cu 72% peste nivelul din aceeași perioadă a anului precedent, iar benzina avea un preț mediu de 4,34 dolari. Analiștii consideră că livrările rusești ar avea un efect redus; Goldman Sachs a estimat o scădere de numai 1–2 dolari pe baril a prețului angro în octombrie și noiembrie. Planul complet, de 4,8 milioane de tone, ar acoperi aproximativ zece zile din consumul SUA și puțin peste o zi din cererea mondială. Statele europene din G7 ar urma să elibereze 100 de milioane de barili de petrol și motorină în patru luni, de peste 50 de ori volumul inițial menționat de Trump.\n\n• **Moscova speră la o cooperare economică mai amplă**: Kirill Dmitriev a spus că acordul privind motorina ar putea servi drept model pentru alte înțelegeri economice și de investiții între SUA și Rusia. Moscova a anunțat pregătirea contractelor și posibila semnare a acestora în zilele următoare; Aleksandr Novak a menționat revenirea la exporturi de 3–3,5 milioane de tone pe lună și venituri suplimentare pentru bugetul rus.\n\n• **Propagandiștii ruși au speculat despre Kushner și alegerile americane**: Comentatori de la televiziunea rusă au afirmat că acordul nu rezolvă problemele de aprovizionare și au sugerat că Jared Kushner ar fi obținut un câștig important. Ei au speculat și că Trump caută ajutorul Rusiei înaintea alegerilor de la jumătatea mandatului și că decizia americană ar putea încuraja alte țări să ocolească sancțiunile. Acestea sunt afirmații speculative ale propagandiștilor, nu fapte confirmate.\n\n• **Ucraina ar putea muta presiunea asupra altor ținte rusești**: Potrivit unei analize The Atlantic, dronele ucrainene au vizat și aeroporturi și centre de date din Rusia. Într-o săptămână au fost anulate 345 de zboruri pe aeroporturile din Moscova, iar din 8 octombrie au fost atacate cel puțin patru centre de date; unele servicii digitale rusești au avut întreruperi. Analiza arată că aceste acțiuni pot perturba transporturile și economia, dar nu sunt suficiente, de unele singure, pentru a obliga Kremlinul să accepte un armistițiu.\n\n• **Zelenski a avertizat asupra unor riscuri suplimentare**: Președintele ucrainean a spus că Trump este atras instinctiv de liderii autoritari și de oamenii foarte bogați. El a sugerat că acordul privind motorina ar putea fi urmat de alte înțelegeri energetice americano-ruse, inclusiv privind gazele naturale, care ar crește veniturile Moscovei pentru război. Zelenski a avertizat că partidele proruse ar putea câștiga teren la alegerile europene de anul viitor; Marine Le Pen a amenințat că, dacă va deveni președinta Franței, ar opri sprijinul francez pentru Ucraina.\n\n• **Kievul se confruntă cu o alegere dificilă**: Potrivit experților, criticarea publică a lui Trump poate pune în pericol sprijinul militar și de informații rămas, în timp ce acceptarea condițiilor Washingtonului ar putea slăbi securitatea Ucrainei. Nathalie Tocci consideră că suspendarea cooperării în domeniul informațiilor ar afecta serios apărarea ucraineană, deși Washingtonul are acum mai puține instrumente pentru a exercita presiuni asupra Kievului."
   },
   {
     "group_id": "group_7cf0f0ff2d",
@@ -1691,44 +2020,6 @@
     "content_ro": "• **HELLENiQ ENERGY planifică cel puțin 500 MW de capacități de stocare a energiei în România până în 2029**, cu o capacitate totală de stocare de 1.500 MWh. Proiectele ar urma să folosească sisteme de baterii.\n\n• **Compania intenționează să instaleze baterii atât în proiecte de energie regenerabilă, cât și în sisteme independente.** HELLENiQ Renewables Romania analizează instalarea unor baterii de 170 MW și 680 MWh la parcurile fotovoltaice deja operaționale.\n\n• **HELLENiQ ENERGY consideră integrarea stocării o prioritate pentru dezvoltarea sa în România.** În mai multe cazuri, proiectele hibride au permis obținerea unor condiții mai favorabile de racordare la rețea, atât în privința costurilor, cât și a termenelor de punere în funcțiune. Bateriile pot păstra surplusul de energie pentru utilizare ulterioară și pot contribui la echilibrarea rețelei electrice.\n\n• **Grupul operează în prezent 180 MW de capacități fotovoltaice în România**, în județele Teleorman, Olt, Giurgiu și Dolj. Parcul din Dolj, care are acum 59 MW, ar urma să fie extins la 90 MW.\n\n• **În județul Galați se construiește parcul eolian Ansthall**, cu o capacitate planificată de 96 MW. Opt dintre cele 15 turbine Vestas au fost deja instalate.\n\n• **Portofoliul de proiecte al HELLENiQ ENERGY din România ar putea ajunge la aproximativ 850 MW**, incluzând energia solară, eoliană și stocarea.\n\n• **Portofoliul regional de proiecte al HELLENiQ ENERGY depășește 6 GW** în Grecia, România, Cipru și Bulgaria, dintre care peste 1 GW reprezintă proiecte de stocare. Grupul urmărește un portofoliu de energie regenerabilă de peste 1,5 GW până în 2028 și de 2 GW până în 2030.\n\n• **Potrivit datelor Transelectrica, la 1 octombrie 2026, instalațiile de stocare operaționale din România aveau o putere totală de 1.162 MW și o capacitate de 2.312 MWh.** În țară funcționau 55 de grupuri de stocare, independente sau integrate în alte centrale.\n\n• **Programul guvernamental al României prevede aproximativ 1.500 MW de capacități de stocare până la sfârșitul lui 2026 și un portofoliu de proiecte de circa 4.500 MW până în 2028.** Sunt avute în vedere atât baterii, cât și soluții hidroenergetice.\n\n• **Proiectul de stocare de la Ișalnița ar putea avea o putere de aproximativ 950 MW și o capacitate de 950 MWh.** Conceput inițial ca o centrală pe gaze, proiectul este analizat pentru conversia într-un sistem de stocare după eșecul licitațiilor. Ministerul Energiei estimează punerea în funcțiune în octombrie 2029; la 15 octombrie 2026, Comisia Europeană și Banca Europeană de Investiții nu primiseră încă o notificare oficială privind investiția."
   },
   {
-    "group_id": "group_d287766eb0",
-    "fingerprint": "22bc272a5f0996e4f81b63930a3b64ce",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Imaginile din satelit arată că Rusia a reușit să construiască în doar 6 săptămâni o nouă bază de atac pentru drone",
-        "link": "https://hotnews.ro/imaginile-din-satelit-arata-ca-rusia-a-reusit-sa-construiasca-in-doar-6-saptamani-o-noua-baza-de-atac-pentru-drone-2376794"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Rusia a construit în doar 6 săptămâni o bază majoră pentru drone de atac, potrivit imaginilor din satelit",
-        "link": "https://agerpres.ro/politic-extern/2026/10/15/rusia-a-construit-in-doar-6-saptamani-o-baza-majora-pentru-drone-de-atac-potrivit-imaginilor-din-sat--1603283"
-      },
-      {
-        "source": "G4Media",
-        "title": "Rusia a construit în doar 6 săptămâni o bază majoră pentru drone de atac, potrivit imaginilor din satelit",
-        "link": "https://www.g4media.ro/rusia-a-construit-in-doar-6-saptamani-o-baza-majora-pentru-drone-de-atac-potrivit-imaginilor-din-satelit.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Rusia a construit o nouă bază pentru drone de atac în doar șase săptămâni, arată imaginile din satelit",
-        "link": "https://www.digi24.ro/stiri/externe/rusia-a-construit-o-noua-baza-pentru-drone-de-atac-in-doar-sase-saptamani-arata-imaginile-din-satelit-3993637"
-      }
-    ],
-    "published_at": 1792123241,
-    "title_hu": "Hat hét alatt épült orosz drónindító bázis a rosztovi régióban",
-    "lead_hu": "A műholdképek alapján Oroszország hat hét alatt csaknem befejezett egy új, sugárhajtású támadó drónok indítására szolgáló létesítményt a rosztovi régióban. Szakértők szerint a Millerovo légibázis közelében épülő bázis tovább növelheti az Ukrajna elleni orosz dróntámadások kapacitását.",
-    "content_hu": "• **Hat hét alatt** egy üres területből mintegy 0,9 négyzetkilométeres, 126 futballpályának megfelelő katonai komplexum épült a délnyugat-oroszországi Rosztovi régióban – a Planet Labs és az Airbus műholdképei alapján.\n\n• **A létesítmény** körülbelül 3,5 kilométerre található a Millerovo légibázistól. A képeken nyolc indítóállás látható; kettőn már sínek voltak, további kettőn pedig a Reuters elemzése szerint síneket szereltek fel.\n\n• **Mike Monnik, a DroneSec vezetője** szerint a bázist a legújabb orosz, sugárhajtású Geran–4 és Geran–5 drónok indítására használhatják. Becslése szerint a létesítmény akár napi száz vagy több drón indítására is alkalmas lehet, bár a tényleges kapacitás a készletektől és a céloktól függ.\n\n• **A bázis** kiegészítheti az Ukrajna elleni támadásokra használt, legalább 11 meglévő orosz állandó indítóhely hálózatát. A szakértők szerint a Millerovo légibázis légvédelmi rendszerei védelmet nyújthatnak az új létesítménynek, és nehezíthetik annak ukrán támadását.\n\n• **Az ukrán adatok szerint** Oroszország a nyár három hónapja alatt mintegy hatszorosára növelte a sugárhajtású drónok használatát. A legfeljebb 600 kilométer/órás sebességű eszközök elfogása nehezebb az ukrán elfogó drónok számára, amelyeket korábban lassabb, dugattyús motorú típusok ellen fejlesztettek.",
-    "title_ro": "Rusia a construit în șase săptămâni o bază de lansare a dronelor în regiunea Rostov",
-    "lead_ro": "Imaginile din satelit arată că Rusia a construit aproape în întregime, în șase săptămâni, o nouă bază pentru lansarea dronelor de atac cu propulsie cu reacție, în regiunea Rostov. Experții spun că instalația, aflată în apropierea bazei aeriene Millerovo, ar putea spori capacitatea Rusiei de a ataca Ucraina cu drone.",
-    "content_ro": "• **În șase săptămâni**, un teren viran din regiunea Rostov, în sud-vestul Rusiei, s-a transformat într-un complex militar de aproximativ 0,9 kilometri pătrați, echivalentul a circa 126 de terenuri de fotbal, potrivit imaginilor Planet Labs și Airbus.\n\n• **Instalația** se află la aproximativ 3,5 kilometri de baza aeriană Millerovo. Imaginile arată opt platforme de lansare; două erau deja prevăzute cu șine, iar pe alte două se lucra la instalarea acestora, potrivit analizei Reuters.\n\n• **Mike Monnik, directorul DroneSec**, a declarat că baza ar putea fi folosită pentru lansarea celor mai noi drone rusești cu reacție, Geran-4 și Geran-5. Potrivit estimării sale, capacitatea ar putea ajunge la cel puțin 100 de drone în 24 de ore, însă volumul efectiv depinde de stocuri și de obiectivele vizate.\n\n• **Noua bază** ar putea completa rețeaua de cel puțin 11 amplasamente fixe de lansare folosite de Rusia pentru atacuri asupra Ucrainei. Experții spun că sistemele de apărare antiaeriană de la baza Millerovo ar putea proteja instalația și îngreuna atacarea ei de către Ucraina.\n\n• **Potrivit datelor ucrainene**, Rusia și-a intensificat de aproximativ șase ori folosirea dronelor cu reacție pe parcursul a trei luni din această vară. Acestea pot atinge viteze de până la 600 km/h și sunt mai greu de interceptat cu dronele ucrainene concepute inițial pentru modele mai lente, cu motor cu piston."
-  },
-  {
     "group_id": "group_4c887f251e",
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-5/5921e134-5ddc-4d44-808f-40df47375b62/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -1874,27 +2165,6 @@
     "title_ro": "Controversele din spatele companiei din Portul Constanța acuzate că a fraudat bani NATO. Unul dintre acționari, intrat în conflict cu partenerii de afaceri, a reclamat inclusiv zborul la Mykonos",
     "lead_ro": "Compania Global Defense Logistics (GDL) administrată de Gabriel Daraban, fratele șefului Camerei de Comerț a României, Mihai Daraban, este vizată de ancheta internațională privind fraudarea fondurilor…",
     "content_ro": "Compania Global Defense Logistics (GDL) administrată de Gabriel Daraban, fratele șefului Camerei de Comerț a României, Mihai Daraban, este vizată de ancheta internațională privind fraudarea fondurilor NATO. Nu este primul dosar la DNA pe numele firmei, considerată cel mai mare și mai influent furnizor de servicii din Portul Constanța pentru trupele NATO. În paralel cu …"
-  },
-  {
-    "group_id": "group_cdc3982806",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Regiune din România, cea mai subestimată destinație de călătorie din lume",
-        "link": "https://hotnews.ro/regiune-din-romania-cea-mai-subestimata-destinatie-de-calatorie-din-lume-2377557"
-      }
-    ],
-    "published_at": 1792122900,
-    "title_hu": "Regiune din România, cea mai subestimată destinație de călătorie din lume",
-    "lead_hu": "Bucovina a fost numită cea mai subestimată destinație de călătorie din lume de către revista Time Out, care a plasat regiunea din România în topul destinațiilor recomandate turiștilor care vor să își …",
-    "content_hu": "Bucovina a fost numită cea mai subestimată destinație de călătorie din lume de către revista Time Out, care a plasat regiunea din România în topul destinațiilor recomandate turiștilor care vor să își petreacă vacanța anul viitor departe de aglomerația destinațiilor consacrate și cu cheltuieli mai mici.Citiți mai mult pe Profit.ro. Sursă foto: Dreamstime.com",
-    "title_ro": "Regiune din România, cea mai subestimată destinație de călătorie din lume",
-    "lead_ro": "Bucovina a fost numită cea mai subestimată destinație de călătorie din lume de către revista Time Out, care a plasat regiunea din România în topul destinațiilor recomandate turiștilor care vor să își …",
-    "content_ro": "Bucovina a fost numită cea mai subestimată destinație de călătorie din lume de către revista Time Out, care a plasat regiunea din România în topul destinațiilor recomandate turiștilor care vor să își petreacă vacanța anul viitor departe de aglomerația destinațiilor consacrate și cu cheltuieli mai mici.Citiți mai mult pe Profit.ro. Sursă foto: Dreamstime.com"
   },
   {
     "group_id": "group_e83cc61003",
@@ -5040,27 +5310,6 @@
     "content_ro": "Alexia Eram nu a avut parte de o vară în care să stea prea mult la soare, fără griji și fără program! Fiica Andreei Esca a dezvăluit, într-un interviu exclusiv pentru CANCAN.RO, că ultimele luni au fost cele mai încărcate din viața ei. Cu proiecte pe bandă rulantă, plecări peste plecări și planuri noi în […]"
   },
   {
-    "group_id": "group_85a94a91ad",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/harta-romaniei.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Primul pas după 58 de ani: PNL și USR forțează în Parlament înființarea Comisiei Speciale pentru reorganizarea administrativ-teritorială a României / ”Orice amânare constituie repudierea de facto a demersului de reformă”",
-        "link": "https://www.g4media.ro/primul-pas-dupa-58-de-ani-pnl-si-usr-forteaza-in-parlament-infiintarea-comisiei-speciale-pentru-reorganizarea-administrativ-teritoriala-a-romaniei-orice-amanare-constituie-repudierea-de-fa.html"
-      }
-    ],
-    "published_at": 1792093848,
-    "title_hu": "Primul pas după 58 de ani: PNL și USR forțează în Parlament înființarea Comisiei Speciale pentru reorganizarea administrativ-teritorială a României / ”Orice amânare constituie repudierea de facto a demersului de reformă”",
-    "lead_hu": "Birourile Permanente Reunite (BPR) ale Parlamentului au aprobat demersul comun inițiat de PNL și USR privind operaționalizarea procesului de reorganizare administrativ-teritorială a țării. Potrivit an…",
-    "content_hu": "Birourile Permanente Reunite (BPR) ale Parlamentului au aprobat demersul comun inițiat de PNL și USR privind operaționalizarea procesului de reorganizare administrativ-teritorială a țării. Potrivit anunțului făcut de liderul deputaților PNL, Gabriel Andronache, conducerea celor două Camere a decis ca toate grupurile parlamentare să își transmită nominalizările și propunerile pentru a se putea supune la vot […] © G4Media.ro.",
-    "title_ro": "Primul pas după 58 de ani: PNL și USR forțează în Parlament înființarea Comisiei Speciale pentru reorganizarea administrativ-teritorială a României / ”Orice amânare constituie repudierea de facto a demersului de reformă”",
-    "lead_ro": "Birourile Permanente Reunite (BPR) ale Parlamentului au aprobat demersul comun inițiat de PNL și USR privind operaționalizarea procesului de reorganizare administrativ-teritorială a țării. Potrivit an…",
-    "content_ro": "Birourile Permanente Reunite (BPR) ale Parlamentului au aprobat demersul comun inițiat de PNL și USR privind operaționalizarea procesului de reorganizare administrativ-teritorială a țării. Potrivit anunțului făcut de liderul deputaților PNL, Gabriel Andronache, conducerea celor două Camere a decis ca toate grupurile parlamentare să își transmită nominalizările și propunerile pentru a se putea supune la vot […] © G4Media.ro."
-  },
-  {
     "group_id": "group_f18119bc3b",
     "category": "Politika",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNjE0MV8zMDE2/MTQxX3RyZW4tbWV0cm91LXRyb2xlaWJ1/ei5wbmcmaGFzaD03MjZlMmIyMjhjMWQzYWZjMzQ0ODQxMzdmNGQyNTExZg==.png",
@@ -7279,251 +7528,5 @@
     "title_ro": "Tineri din Finlanda și Irlanda au venit în Bihor să descopere cultura romilor (FOTO)",
     "lead_ro": "Tineri din România, Finlanda și Irlanda s-au întâlnit în județul Bihor, în cadrul unui proiect internațional Erasmus+ dedicat promovării culturii rome și combaterii prejudecăților. Participanții au av…",
     "content_ro": "Tineri din România, Finlanda și Irlanda s-au întâlnit în județul Bihor, în cadrul unui proiect internațional Erasmus+ dedicat promovării culturii rome și combaterii prejudecăților. Participanții au avut ocazia să-și prezinte tradițiile, să descopere obiceiurile celorlalți și să lege prietenii dincolo de granițe."
-  },
-  {
-    "group_id": "group_962fa6fefa",
-    "fingerprint": "1b8fd6a7709726a96c300db18d0099c7",
-    "category": "Gazdaság",
-    "image": "https://www.g4media.ro//wp-content/uploads/2020/09/sigla-dna-InquamPhotos-Liviu-Florin-Albei.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Percheziții DNA la firma administrată de Gabriel Daraban, pasager în zborul spre Mykonos / Compania prestează servicii de asistență portuară pentru nave militare NATO. Sunt descinderi în mai multe state",
-        "link": "https://hotnews.ro/perchezitii-dna-la-firma-administrata-de-gabriel-daraban-pasager-in-zborul-spre-mykonos-compania-presteaza-servicii-de-asistenta-portuara-pentru-nave-militare-nato-sunt-descinderi-in-mai-multe-sta-2375954"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Firma lui Gabriel Daraban, fratele șefului Camerei de Comerț a României, vizată de DNA într-un dosar de fraudă cu nave NATO",
-        "link": "https://stirileprotv.ro/justitie/firma-lui-gabriel-daraban-fratele-sefului-camerei-de-comert-a-romaniei-vizata-de-dna-intr-un-dosar-de-frauda-cu-nave-nato.html"
-      }
-    ],
-    "published_at": 1792085378,
-    "title_hu": "Nemzetközi vizsgálat folyik a NATO-hajók kikötői szolgáltatásainak számlázása ügyében",
-    "lead_hu": "A román DNA egy konstancai vállalatot érintő nyomozás részeként házkutatásokat tartott, miközben Norvégiában és Németországban is összehangolt intézkedések zajlottak. A hatóságok szerint a NATO-hajóknak nyújtott kikötői szolgáltatások számlázása kapcsán merült fel csalás gyanúja; az ügy vizsgálata még folyamatban van.",
-    "content_hu": "• **A román DNA házkutatásokat tartott** három helyszínen Konstanca megyében, köztük egy társaság székhelyén; a nyomozás a NATO-tagállamok katonai hajóinak nyújtott kikötői szolgáltatásokhoz kapcsolódik.\n\n• **A vizsgálat középpontjában a Global Defense Logistics SRL áll** a sajtóbeszámolók szerint. A DNA adócsalás, csalás és pénzmosás gyanúját vizsgálja, a ProTV pedig arról számolt be, hogy az eljárás kezdetben magukra a feltételezett cselekményekre irányult, nem konkrét személyekre.\n\n• **A gyanú szerint a NATO beszerzési ügynökségének, az NSPA-nak benyújtott számlák között fiktív vagy túlértékelt tételek lehettek.** A ProTV szerint egyes számlák 15 százalékkal lehettek magasabbak, a kár pedig megközelítheti az egymillió eurót; a pontos összeget még vizsgálják.\n\n• **A nemzetközi akció Norvégiára és Németországra is kiterjedt.** Norvégiában öt embert vettek őrizetbe, és ott, valamint Németországban is házkutatásokat tartottak; az együttműködést az Eurojust támogatta.\n\n• **Gabriel Daraban szerepéről eltérő állítások szerepelnek a beszámolókban.** A G4Media és a HotNews az üzletembert a cég ügyvezetőjeként és kisebbségi tulajdonosaként nevezte meg, míg a G4Media által közölt nyilatkozatában Daraban azt állította, hogy kisebbségi részvényes, nem ügyvezető, és nem vesz részt a vállalat napi működésében.",
-    "title_ro": "Ancheta privind serviciile portuare pentru nave NATO se extinde în mai multe țări",
-    "lead_ro": "DNA a efectuat percheziții în județul Constanța la o companie vizată într-o anchetă privind serviciile portuare oferite navelor militare NATO. Acțiuni coordonate au avut loc și în Norvegia și Germania, iar autoritățile investighează suspiciuni legate de facturarea acestor servicii.",
-    "content_ro": "• **DNA a efectuat percheziții în trei locații din județul Constanța**, inclusiv la sediul unei societăți, în cadrul unei anchete privind servicii portuare prestate pentru nave militare ale statelor membre NATO.\n\n• **Compania vizată este Global Defense Logistics SRL**, potrivit relatărilor din presă. DNA investighează suspiciuni de evaziune fiscală, înșelăciune și spălare de bani; ProTV a relatat că, în etapa inițială, urmărirea penală viza faptele, nu persoane anume.\n\n• **Anchetatorii suspectează că facturile trimise Agenției NATO de Sprijin și Achiziții (NSPA) ar fi inclus servicii fictive sau sume supraevaluate.** Potrivit ProTV, unele facturi ar fi fost majorate cu 15%, iar prejudiciul s-ar apropia de un milion de euro; valoarea exactă este încă investigată.\n\n• **Operațiunea internațională a vizat și Norvegia și Germania.** În Norvegia au fost reținute cinci persoane și au avut loc percheziții, iar autoritățile germane au desfășurat, la rândul lor, percheziții; cooperarea a fost sprijinită de Eurojust.\n\n• **Relatările despre rolul lui Gabriel Daraban diferă.** G4Media și HotNews l-au prezentat drept administrator și acționar minoritar al companiei, în timp ce, într-o declarație publicată de G4Media, Daraban a spus că este doar acționar minoritar, că nu este administrator și că nu participă la activitatea operațională zilnică."
-  },
-  {
-    "group_id": "group_757824e528",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-1-connect-r-datorii-1200x675.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Connect-R, datorii de aproape un milion de euro! Afacerea cântărețului a luat-o într-o direcție neașteptată",
-        "link": "https://www.cancan.ro/connect-r-datorii-de-aproape-un-milion-de-euro-afacerea-cantaretului-a-luat-o-intr-o-directie-neasteptata-21530589"
-      }
-    ],
-    "published_at": 1792085238,
-    "title_hu": "Connect-R, datorii de aproape un milion de euro! Afacerea cântărețului a luat-o într-o direcție neașteptată",
-    "lead_hu": "Pe scenă, Connect-R continuă să facă spectacol, însă în spatele reflectoarelor, afacerile sale par să ”danseze” pe un ritm cu totul diferit! Cântărețul, obișnuit cu succesul și cu încasările generoase…",
-    "content_hu": "Pe scenă, Connect-R continuă să facă spectacol, însă în spatele reflectoarelor, afacerile sale par să ”danseze” pe un ritm cu totul diferit! Cântărețul, obișnuit cu succesul și cu încasările generoase din industria muzicală, are parte de o situație financiară surprinzătoare în contabilitatea uneia dintre societățile sale. CANCAN.RO a descoperit că firma artistului a ajuns să […]",
-    "title_ro": "Connect-R, datorii de aproape un milion de euro! Afacerea cântărețului a luat-o într-o direcție neașteptată",
-    "lead_ro": "Pe scenă, Connect-R continuă să facă spectacol, însă în spatele reflectoarelor, afacerile sale par să ”danseze” pe un ritm cu totul diferit! Cântărețul, obișnuit cu succesul și cu încasările generoase…",
-    "content_ro": "Pe scenă, Connect-R continuă să facă spectacol, însă în spatele reflectoarelor, afacerile sale par să ”danseze” pe un ritm cu totul diferit! Cântărețul, obișnuit cu succesul și cu încasările generoase din industria muzicală, are parte de o situație financiară surprinzătoare în contabilitatea uneia dintre societățile sale. CANCAN.RO a descoperit că firma artistului a ajuns să […]"
-  },
-  {
-    "group_id": "group_0c4bb97a1e",
-    "fingerprint": "7698b8bb6087c98430cdbb9fe3c8bbba",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/maduro-detentie-1-1024x678.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Nicolás Maduro și soția sa, în fața unui tribunal din SUA. Cei doi sunt acuzați că au conspirat pentru torturarea opozanților politici",
-        "link": "https://www.mediafax.ro/externe/nicolas-maduro-si-sotia-sa-in-fata-unui-tribunal-din-sua-cei-doi-sunt-acuzati-ca-au-conspirat-pentru-torturarea-opozantilor-politici-23825913"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Nouă acuzație împotriva lui Nicolas Maduro în SUA. El și soția sa au fost aduși în fața instanței",
-        "link": "https://hotnews.ro/noua-acuzatie-impotriva-lui-nicolas-maduro-in-sua-el-si-sotia-sa-au-fost-adusi-in-fata-instantei-2377387"
-      }
-    ],
-    "published_at": 1792085139,
-    "title_hu": "Maduro és felesége újabb váddal állt bíróság elé New Yorkban",
-    "lead_hu": "Nicolás Maduro volt venezuelai elnök és felesége, Cilia Flores csütörtökön New Yorkban jelent meg egy új vádpont miatt: az ügyészek szerint összeesküdtek politikai ellenfelek megkínzására. A vádirat egy 2014-es esetet is leír, a tárgyalásukat pedig 2027. június 1-jére tűzték ki.",
-    "content_hu": "• **Nicolás Maduro és Cilia Flores** csütörtökön egy New York-i bíróság előtt jelent meg, hogy válaszoljon az ellenzékiek megkínzására irányuló állítólagos összeesküvés új vádjára.\n\n• **Az ügyészek állítása szerint** Maduro tisztviselőket utasított ellenzéki politikusok és az ellene szervezkedéssel gyanúsított katonák megkínzására, hogy hatalmon maradjon. A vádirat szerint Flores támogatta a tervet.\n\n• **A vádiratban szereplő, 2014-es esetben** Maduro állítólag katonák elrablását rendelte el, hogy információkat szerezzen feltételezett disszidensekről. Az ügyészek szerint az információt megtagadó katonákra gyakorolt nyomás fokozását kérte, Flores pedig támogatta ezt a tervet.\n\n• **A vádpont nem állítja**, hogy Maduro vagy Flores személyesen hajtott volna végre kínzást; az ügyészek az ilyen cselekményekre irányuló összeesküvésben való állítólagos részvételüket róják fel nekik.\n\n• **A védelem elutasítja a vádakat.** A házaspár korábban ártatlannak vallotta magát a kábítószer-kereskedelemmel kapcsolatos ügyben is, az új, kínzással kapcsolatos vádakat pedig szintén tagadják.\n\n• **2027. június 1-jén kezdődhet a tárgyalásuk.** Ha minden vádpontban bűnösnek találják őket, mindkettőjükre legalább 50 év kötelező börtönbüntetés várhat.\n\n• **A házaspárt január 3-án fogták el** az amerikai hadsereg caracasi művelete során, majd New Yorkba szállították. Jelenleg a brooklyni Metropolitan Detention Centerben tartják fogva őket; Maduro 63, Flores 70 éves.",
-    "title_ro": "Maduro și soția sa, în fața unei noi acuzații la New York",
-    "lead_ro": "Fostul președinte venezuelean Nicolás Maduro și soția sa, Cilia Flores, au compărut joi în fața unei instanțe din New York, unde sunt acuzați că au conspirat pentru torturarea opozanților politici. Rechizitoriul descrie și un episod din 2014, iar procesul lor este programat să înceapă la 1 iunie 2027.",
-    "content_ro": "• **Nicolás Maduro și Cilia Flores** au compărut joi în fața unei instanțe din New York pentru a răspunde unei noi acuzații privind presupusa conspirație pentru torturarea opozanților politici.\n\n• **Potrivit procurorilor**, Maduro ar fi ordonat unor oficiali să tortureze politicieni din opoziție și militari suspectați că ar fi complotat împotriva sa, cu scopul de a se menține la putere. Rechizitoriul susține că Flores a sprijinit planul.\n\n• **Un episod descris în rechizitoriu datează din 2014.** Maduro ar fi ordonat răpirea unor militari pentru a obține informații despre presupuşi disidenți și le-ar fi cerut oficialilor să intensifice presiunile asupra celor care refuzau să vorbească. Procurorii afirmă că Flores a susținut planul.\n\n• **Cei doi nu sunt acuzați** că ar fi comis personal acte de tortură; acuzația vizează presupusa lor participare la o conspirație pentru comiterea unor astfel de fapte.\n\n• **Apărarea respinge acuzațiile.** Maduro și Flores pledaseră anterior nevinovați în dosarul privind traficul de droguri și neagă și noile acuzații legate de torturarea opozanților.\n\n• **Procesul este programat să înceapă la 1 iunie 2027.** Dacă vor fi găsiți vinovați pentru toate capetele de acuzare, fiecare ar putea primi o pedeapsă minimă obligatorie de 50 de ani de închisoare.\n\n• **Maduro și Flores au fost capturați la 3 ianuarie** în timpul unei operațiuni a armatei americane la Caracas și transportați ulterior la New York. În prezent sunt deținuți la Metropolitan Detention Center din Brooklyn; Maduro are 63 de ani, iar Flores 70."
-  },
-  {
-    "group_id": "group_dd47ae5d10",
-    "fingerprint": "0168a0d73c889dadfdc3b79ab3f03207",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2025/07/10/210000/62559342.jpg?fm=jpg&q=80&fit=crop&crop=6220%2C4248%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Câți români vor să continue să muncească și după ce ating vârsta de pensionare. Rezultatele surprinzătoare ale unui studiu",
-        "link": "https://stirileprotv.ro/stiri/social/cati-romani-vor-sa-continue-sa-munceasca-si-dupa-ce-ating-varsta-de-pensionare-rezultatele-surprinzatoare-ale-unui-studiu.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Nyugdíj helyett hivatás? – Szívesen maradnak munkában az idősebb hazai alkalmazottak",
-        "link": "https://maszol.ro/gazdasag/Nyugdij-helyett-hivatas-Szivesen-maradnak-munkaban-az-idosebb-hazai-alkalmazottak"
-      },
-      {
-        "source": "Economedia",
-        "title": "Studiu: 42% dintre angajații români de peste 55 de ani ar continua să lucreze după pensionare. Sănătatea și echilibrul personal, printre factorii care contează",
-        "link": "https://economedia.ro/studiu-42-dintre-angajatii-romani-de-peste-55-de-ani-ar-continua-sa-lucreze-dupa-pensionare-sanatatea-si-echilibrul-personal-printre-factorii-care-conteaza.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Patru din zece români de peste 55 de ani vor să muncească și după pensionare. Motivele pentru care nu vor să se retragă",
-        "link": "https://stirileprotv.ro/stiri/actualitate/patru-din-zece-romani-de-peste-55-de-ani-vor-sa-munceasca-si-dupa-pensionare-motivele-pentru-care-nu-vor-sa-se-retraga.html"
-      }
-    ],
-    "published_at": 1792085107,
-    "title_hu": "Az 55 év feletti romániai dolgozók 42 százaléka a nyugdíjkorhatár után is munkában maradna",
-    "lead_hu": "Az SD Worx felmérése szerint a legalább 55 éves romániai munkavállalók 42 százaléka kész tovább dolgozni a törvényes nyugdíjkorhatár elérése után, szemben a 32 százalékos európai átlaggal. A 17 országra kiterjedő kutatásban 16 500 alkalmazott vett részt, közülük közel ezren Romániából. Az idősebbek elégedettebbek a munkájukkal és kevésbé keresnek új állást, de az anyagi megfontolások és a munkáltatói támogatás hiánya is befolyásolhatja döntéseiket.",
-    "content_hu": "• **A nyugdíjkorhatár utáni munkavállalás:** Az 55 év feletti romániai dolgozók 42 százaléka nyitott arra, hogy a törvényes nyugdíjkorhatár elérése után is dolgozzon; az európai átlag 32 százalék. A 35 év alatti romániai munkavállalók körében 34 százalék vállalná ezt, míg európai kortársaiknál az arány valamivel meghaladja a 25 százalékot.\n\n• **A kutatás háttere:** Az SD Worx felmérése 17 európai ország 16 500 alkalmazottjára terjedt ki, közülük közel ezren Romániából válaszoltak.\n\n• **A korkedvezményes nyugdíjazás a fiatalabbakat is foglalkoztatja:** Romániában az 55 év felettiek 40 százaléka, a 35 év alattiak 63 százaléka vonulna szívesebben korábban nyugdíjba. Az európai arány e két korcsoportban mintegy 50, illetve 61 százalék.\n\n• **A korai nyugdíjazás fő okai** az idősebb romániai dolgozók körében a családra és a magánéletre fordítható több idő (78 százalék), az egészség (72 százalék), valamint a személyes célok megvalósítása (44 százalék). Ezek az arányok meghaladják az európai 57, 53 és 40 százalékot. A motiváció csökkenését 36 százalék említette, szemben az európai 32 százalékkal; a fizikailag vagy szellemileg megterhelő munkát viszont ritkábban jelölték meg indokként, mint az európai átlagban.\n\n• **Az anyagi szempontok árnyalják a nyugdíjazási döntést:** A felmérés szerint a korai nyugdíjazást fontolgató idősebbeknél ritkán ezek a fő okok, ugyanakkor egy romániai toborzási szakértő arra hívta fel a figyelmet, hogy a romániai jövedelmek sok esetben nem biztosítják a tisztességes megélhetést, ezért a pénz is szerepet játszhat abban, hogy valaki tovább dolgozik.\n\n• **Az idősebb munkavállalók pozitívan értékelik a munkájukat:** A legalább 55 éves romániai alkalmazottak 86 százaléka úgy érzi, van elegendő energiája a feladatai ellátásához, 84 százalékuk pedig értelmesnek és kiteljesítőnek tartja a munkáját. Az európai arányok 76, illetve mintegy 80 százalék; a fiatalabb romániaiaknál a munkából eredő energiaérzet 69, az értelmesség és kiteljesedés érzése 68 százalék.\n\n• **Munkával való elégedettség és megbecsültség:** A munkájával elégedett idősebb romániaiak aránya 84 százalék, a 35 év alattiaké 72 százalék; az európai mutató 78, illetve 71 százalék. A legalább 55 éves romániai dolgozók 74 százaléka érzi úgy, hogy megbecsülik a munkáját, szemben a fiatalabbak 64 százalékával; az európai arány 65, illetve 59 százalék.\n\n• **Munkaerőhiány és demográfiai nyomás:** A romániai HR-döntéshozók 49 százaléka számolt be létszámhiányról, az európai átlag 52 százalék. Az Eurostat adatai szerint a legalább 65 évesek aránya Európában a 2005-ös 17 százalékról 2025-re becslések szerint 22 százalékra nőtt; az Európai Bizottság előrejelzése szerint az európai munkaerőállomány 2022 és 2070 között mintegy 12 százalékkal csökkenhet.\n\n• **Az idősebbek kevésbé keresnek új állást:** Romániában az 55 év felettiek 9 százaléka keres aktívan munkát más szervezetnél, szemben a 35 év alattiak 32 százalékával. A jelenlegi munkahelyükön belül új szerepet 9, illetve 25 százalékuk keres; az idősebb romániai dolgozók 72 százaléka nem keres külső állást, 74 százaléka pedig nem keres új pozíciót a szervezetén belül.\n\n• **A képzési igényekben is eltérnek a korosztályok:** A legalább 55 éves romániai munkavállalók 46 százaléka nem szeretne képzésen részt venni, szemben a 35 év alattiak 32 százalékával. Ugyanakkor az idősebbek 63, a fiatalabbak 77 százaléka szeretné továbbfejleszteni a készségeit; az európai átlag 58, illetve 70 százalék.\n\n• **Mesterséges intelligencia és felkészültség:** A legalább 55 éves romániai dolgozók 64 százaléka bízik abban, hogy a munkaköre automatizálás miatti változásai mellett is megállja a helyét, a 35 év alattiaknál ez az arány 51 százalék. Rendszeresen MI-eszközöket az idősebbek 30, a fiatalabbak 42 százaléka használ; az idősebbek 31, a fiatalabbak 35 százaléka érzi úgy, hogy elegendő támogatást kap a technológiai változásokra való felkészüléshez. Az 50 év felettiek 67 százaléka gondolja úgy, hogy egyedi emberi készségeit nem helyettesítheti a mesterséges intelligencia; a 35 év alattiaknál ez 69 százalék.",
-    "title_ro": "42% dintre angajații români de peste 55 de ani ar continua să lucreze după pensionare",
-    "lead_ro": "Potrivit unui studiu SD Worx, 42% dintre angajații români de cel puțin 55 de ani sunt dispuși să lucreze și după atingerea vârstei legale de pensionare, față de media europeană de 32%. Cercetarea, desfășurată în 17 țări, a inclus 16.500 de angajați, dintre care aproape 1.000 din România. Angajații mai în vârstă sunt mai mulțumiți de munca lor și caută mai rar un alt loc de muncă, însă decizia de a continua activitatea poate fi influențată și de venituri și de sprijinul angajatorilor.",
-    "content_ro": "• **Continuarea activității după pensionare:** 42% dintre angajații români de cel puțin 55 de ani sunt dispuși să lucreze după atingerea vârstei legale de pensionare, față de media europeană de 32%. În rândul românilor sub 35 de ani, proporția este de 34%, comparativ cu puțin peste un sfert în Europa.\n\n• **Despre cercetare:** Studiul SD Worx a fost realizat în 17 țări europene și a inclus 16.500 de angajați, dintre care aproape 1.000 din România.\n\n• **Pensionarea anticipată îi interesează și pe cei mai tineri:** În România, 40% dintre angajații de cel puțin 55 de ani ar prefera să se pensioneze anticipat, comparativ cu 63% dintre cei sub 35 de ani. La nivel european, proporțiile sunt de aproximativ 50%, respectiv 61%.\n\n• **Principalele motive pentru pensionarea anticipată** în rândul angajaților români mai în vârstă sunt dorința de a avea mai mult timp pentru familie sau viața personală (78%), sănătatea (72%) și realizarea unor obiective personale (44%). Procentele depășesc mediile europene de 57%, 53% și 40%. Scăderea motivației este menționată de 36%, față de 32% la nivel european; munca solicitantă fizic sau psihic este invocată mai rar decât media europeană.\n\n• **Veniturile nuanțează decizia de pensionare:** Studiul arată că motivele financiare rareori sunt principalele motive pentru pensionarea anticipată a angajaților mai în vârstă. Totuși, o specialistă română în recrutare a atras atenția că veniturile din România nu asigură întotdeauna un trai decent, astfel încât situația financiară poate contribui la decizia de a continua să lucreze.\n\n• **Angajații mai în vârstă își evaluează pozitiv munca:** 86% dintre românii de cel puțin 55 de ani spun că au suficientă energie pentru a-și îndeplini sarcinile, iar 84% consideră că munca le oferă sens și împlinire. Mediile europene sunt de 76%, respectiv aproximativ 80%; în rândul angajaților români sub 35 de ani, proporțiile sunt de 69% pentru energie și 68% pentru sentimentul de sens și împlinire.\n\n• **Satisfacția și aprecierea la locul de muncă:** În România, 84% dintre angajații de minimum 55 de ani sunt mulțumiți de munca lor, comparativ cu 72% dintre cei sub 35 de ani; la nivel european, procentele sunt de 78% și 71%. De asemenea, 74% dintre angajații români mai în vârstă simt că munca le este apreciată, față de 64% dintre cei mai tineri; mediile europene sunt de 65%, respectiv 59%.\n\n• **Deficitul de personal și presiunea demografică:** 49% dintre factorii de decizie din domeniul resurselor umane din România declară că organizațiile lor se confruntă cu un deficit de personal, față de media europeană de 52%. Potrivit Eurostat, ponderea persoanelor de cel puțin 65 de ani în populația Europei a crescut de la 17% în 2005 și era estimată să ajungă la 22% în 2025. Comisia Europeană estimează că forța de muncă europeană ar putea scădea cu aproximativ 12% între 2022 și 2070.\n\n• **Angajații mai în vârstă caută mai rar un alt loc de muncă:** În România, 9% dintre angajații de cel puțin 55 de ani caută activ un loc de muncă în altă organizație, față de 32% dintre cei sub 35 de ani. Un alt rol la actualul angajator caută 9%, respectiv 25%; 72% dintre angajații mai în vârstă nu caută un loc de muncă în afara organizației, iar 74% nu caută un alt rol în cadrul acesteia.\n\n• **Diferențe între generații în privința formării:** 46% dintre angajații români de minimum 55 de ani nu doresc să participe la programe de formare, comparativ cu 32% dintre cei sub 35 de ani. Totuși, 63% dintre cei mai în vârstă și 77% dintre cei mai tineri vor să își dezvolte competențele; mediile europene sunt de 58%, respectiv 70%.\n\n• **Inteligența artificială și pregătirea pentru schimbări:** 64% dintre angajații români de cel puțin 55 de ani au încredere că se vor descurca dacă automatizarea le schimbă responsabilitățile, față de 51% dintre cei sub 35 de ani. Folosesc regulat instrumente de IA 30% dintre angajații mai în vârstă și 42% dintre cei mai tineri; 31%, respectiv 35%, consideră că primesc suficient sprijin pentru a se pregăti pentru schimbările tehnologice. Dintre angajații de peste 50 de ani, 67% cred că abilitățile lor umane unice nu pot fi înlocuite de IA, față de 69% dintre cei sub 35 de ani."
-  },
-  {
-    "group_id": "group_c1f072ad63",
-    "fingerprint": "146da29d704fd4f36fe7cd0eb418e8f3",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Înalta Curte s-ar putea pronunța în procesul cu Guvernul privind restanțele salariale ale magistraților",
-        "link": "https://agerpres.ro/justitie/2026/10/15/inalta-curte-s-ar-putea-pronunta-in-procesul-cu-guvernul-privind-restantele-salariale-ale-magistrati--1603107"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Înalta Curte ar putea da verdictul în procesul cu Guvernul privind restanțele magistraților. Miza este de 5 miliarde de lei",
-        "link": "https://stirileprotv.ro/justitie/inalta-curte-ar-putea-da-verdictul-in-procesul-cu-guvernul-privind-restantele-magistratilor-miza-este-de-5-miliarde-de-lei.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Verdict așteptat azi în procesul Înalta Curte-Guvern pentru restanțele salariale de 1 miliard de euro ale magistraților",
-        "link": "https://hotnews.ro/verdict-asteptat-azi-in-procesul-inalta-curte-guvern-pentru-restantele-salariale-de-1-miliard-de-euro-ale-magistratilor-2376503"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Decizie crucială la Înalta Curte: Magistrații își cer restanțele salariale de la Guvern",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/decizie-cruciala-la-inalta-curte-magistratii-isi-2564105.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING | Verdict previzibil: Înalta Curte a respins recursul Guvernului în procesul privind restanțele salariale ale magistraților. Nota de plată: un miliard de euro",
-        "link": "https://www.g4media.ro/breaking-verdict-previzibil-inalta-curte-a-respins-recursul-guvernului-in-procesul-privind-restantele-salariale-ale-magistratilor.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Înalta Curte a câștigat definitiv procesul de un miliard de euro pentru salariile magistraților. Guvernul are 10 zile să dea banii",
-        "link": "https://www.mediafax.ro/stirile-zilei/inalta-curte-a-castigat-definitiv-procesul-de-un-miliard-de-euro-pentru-salariile-magistratilor-guvernul-are-10-zile-sa-dea-banii-23825924"
-      },
-      {
-        "source": "Economedia",
-        "title": "Înalta Curte a respins recursul Guvernului în procesul privind restanțele salariale ale magistraților. Nota de plată: un miliard de euro",
-        "link": "https://economedia.ro/inalta-curte-a-respins-recursul-guvernului-in-procesul-privind-restantele-salariale-ale-magistratilor-nota-de-plata-un-miliard-de-euro.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Pert nyertek a bírák a kormány ellen: tíz napon belül kell utalni az ötmilliárd lejt",
-        "link": "https://maszol.ro/belfold/Pert-nyertek-a-birak-a-kormany-ellen-tiz-napon-belul-kell-utalni-az-otmilliard-lejt"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Guvernul trebuie să găsească în 10 zile un miliard de euro pentru restanțele salariale ale magistraților. De unde poate lua banii",
-        "link": "https://hotnews.ro/guvernul-trebuie-sa-gaseasca-in-10-zile-un-miliard-de-euro-pentru-restantele-salariale-ale-magistratilor-de-unde-poate-lua-banii-2377268"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Soluțiile propuse de ÎCCJ pentru plata restanței de 1 miliard de euro către magistrați. Vor exista penalități pentru fiecare zi de întârziere",
-        "link": "https://stirileprotv.ro/justitie/solutiile-propuse-de-iccj-pentru-plata-restantei-de-1-miliard-de-euro-catre-magistrati-vor-exista-penalitati-pentru-fiecare-zi-de-intarziere.html"
-      }
-    ],
-    "published_at": 1792084829,
-    "title_hu": "Jogerősen elutasította a kormány fellebbezését a legfelsőbb bíróság a bírák bérhátralékáról szóló perben",
-    "lead_hu": "A román legfelsőbb bíróság október 15-én jogerősen elutasította a kormány és a pénzügyminisztérium fellebbezését a mintegy 5 milliárd lejes, körülbelül 1 milliárd eurós bértartozás ügyében. Az államnak tíz napon belül meg kell kezdenie a teljesítéshez szükséges eljárásokat; a kifizetés történhet közvetlenül vagy értékpapírok kibocsátásával is. A költségvetési források előteremtése az ügyvivő kormány számára akadályokba ütközhet, miközben a késedelem napi szankciókat vonhat maga után.",
-    "content_hu": "• **Október 15-én a legfelsőbb bíróság jogerősen elutasította a kormány és a pénzügyminisztérium fellebbezését.** Helybenhagyta a bukaresti ítélőtábla május 5-i döntését, amely arra kötelezte az államot, hogy – szükség esetén költségvetési kiigazítással – biztosítsa a magisztrátusok elmaradt béreinek kifizetését.\n\n• **A bíróság a kormány EU Bíróságához fordulásra irányuló kérelmét is elfogadhatatlannak minősítette.** A végleges határozat a kormány és a pénzügyminisztérium mellett elutasította a csatlakozó fél, Buzea Florin Ionel fellebbezését, valamint a Dicasterial bírói szakszervezet csatlakozó fellebbezését is; a legfelsőbb bíróság hétszer halasztotta el a kihirdetést.\n\n• **A mintegy 5–5,2 milliárd lejes tartozás körülbelül 1 milliárd euró.** A legfelsőbb bíróság szóvivője szerint az állam közvetlen kifizetéssel vagy értékpapírok kibocsátásával is rendezheti a követelést; a teljesítés módjáról a végrehajtó hatalom dönt.\n\n• **A per a már megítélt bérjogosultságok kifizetésének biztosításáról szólt.** A ProTV beszámolója szerint a mostani eljárás azt célozta, hogy az állam ne pusztán tovább ütemezze a korábbi ítéletek alapján járó összegeket, hanem biztosítsa azok kifizetését; a jogerős ítélet teljesítéséhez szükséges eljárásokat tíz napon belül kell megkezdeni.\n\n• **A tíznapos határidő a végrehajtáshoz szükséges eljárások megkezdésére vonatkozik.** A legfelsőbb bíróság szóvivője ezt a tartozás rendezésére irányuló, önkéntes megfelelési és forrásallokációs lépések megkezdéseként értelmezte; a bukaresti ítélőtábla ítélete ugyanakkor a határozat végrehajtására szabott határidőt.\n\n• **Késedelem esetére napi 1 százalékos szankciót és a bruttó minimálbér 20 százalékának megfelelő napi bírságot írtak elő.** Az 5 milliárd lejes tartozás 1 százaléka elméletben napi 50 millió lej; tíz nap alatt ez 500 millió lej lenne. A tényleges számítás alapját és alkalmazását az ítélet, illetve a végrehajtási eljárás határozza meg. A 4325 lejes minimálbér alapján a napi bírság 865 lej.\n\n• **Az ügyvivő kormány közlése szerint a kabinet nem hajthat végre költségvetési kiigazítást.** A kormányszóvivő szerint a forrásallokációs eljárások a következő kormány beiktatása előtt nem kezdhetők meg; a jogerős ítélet végrehajtásának ezért az új kabinetre is közvetlen pénzügyi következményei lehetnek.\n\n• **A kormányzati tartalékalap lehetséges forrás, de felhasználása jogi és költségvetési feltételekhez kötött.** A HotNews szerint a tartalékalapból kormányhatározattal lehet sürgős vagy előre nem látott kiadást finanszírozni, ám a bértartozások régóta ismertek, a tartalék pedig nem új bevétel, hanem már költségvetésbe állított források átcsoportosítására szolgál.\n\n• **Az uniós Szolidaritási Alap nem használható a bérhátralékok kifizetésére.** A forrás katasztrófákhoz és a szabályokban meghatározott közegészségügyi vészhelyzetekhez kapcsolódó beavatkozásokat finanszíroz, nem pedig bírósági perekből eredő bérköveteléseket. További lehetőség lehet más kiadások átcsoportosítása, intézményi megtakarítás vagy – ha szükséges – hitelfelvétel.\n\n• **A legfelsőbb bíróság szerint a halasztás évente több mint 21 százalékkal növelheti a tartozást, szemben az államadósság 7,4 százalékos átlagos kamatával.** A szóvivő azt is közölte, hogy az ötéves tartozási részlet járulékai már csaknem 68 százalékot tesznek ki az alaptartozáshoz képest; a bíróság szerint a ki nem fizetett bérkülönbözetek 41,5 százaléka adóként és járulékként visszakerül az államhoz.\n\n• **A legfelsőbb bíróság szerint több mint 400 ezer közalkalmazott fordult bírósághoz bérezési igényekkel.** A bíróság közlése szerint közülük 6817 bíró vagy ügyész, ezért a bérperek nem kizárólag az igazságszolgáltatást érintik.\n\n• **A legfelsőbb bíróság szerint nem kiváltságokról, hanem jogerősen elismert jogok végrehajtásáról van szó.** Közleményében azt állította, hogy a kormány jogszabályokban is elismerte a tartozásokat, de nem biztosította a kifizetésükhöz szükséges forrásokat; szerinte a költségvetési mérlegelés nem igazolhatja a jogerős ítéletek végrehajtásának elmaradását.\n\n• **A hátralékok a bírák és ügyészek 2018-tól visszamenőleg alkalmazott 25 százalékos béremeléséből erednek.** A legfelsőbb bíróság és a főügyészség 2023-ban döntött az emelésről, bírósági határozatokhoz igazodva; a kormány a kifizetések egy részét elhalasztotta, a forrásokat pedig egy 1,1 milliárd lejes, a PSD által támogatott szociális segélycsomagra irányította át.\n\n• **A 2026-os költségvetés tervezete közel 5 milliárd lejt irányzott elő a legfelsőbb bíróságnak.** Ez mintegy 50 százalékkal több az előző évinél, és részben a bérhátralékok rendezésére szánták.\n\n• **Az 5 milliárd lejes kötelezettség nagyságrendje más közkiadásokhoz mérve is jelentős.** A Mediafax összevetése szerint az összeg több mint négyhavi, országosan kifizetett gyermekpótléknak felel meg; meghaladja a három regionális sürgősségi kórházra felvett Európai Beruházási Bank-hitelek összegét is, de ez utóbbi összehasonlítás kizárólag a hitelekre, nem a kórházak teljes költségére vonatkozik.\n\n• **A kötelezettség tovább szűkítheti a költségvetési mozgásteret.** Románia 2026-os deficitcélja a GDP 6,2 százaléka, a következő évre kitűzött plafon pedig 5,1 százalék; a tényleges hatás a kifizetések ütemezésétől, a már betervezett forrásoktól és a deficit elszámolásától is függ.\n\n• **A kormány azzal érvelt, hogy a bíróság nem szabhatja meg a költségvetési források elosztását.** Ilie Bolojan július 2-án alkotmányos jogi konfliktus megállapítását kezdeményezte, az alkotmánybíróság azonban október 7-én elfogadhatatlannak minősítette a beadványt, és kimondta, hogy nem állt fenn ilyen konfliktus.\n\n• **A fellebbezést július eleje óta háromtagú tanács tárgyalta.** A közigazgatási és adóügyi kollégium bírái Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon és Emilian-Constantin Meiu voltak.",
-    "title_ro": "Înalta Curte a respins definitiv recursul Guvernului în procesul privind restanțele salariale ale magistraților",
-    "lead_ro": "Pe 15 octombrie, Înalta Curte de Casație și Justiție a respins definitiv recursul Guvernului și al Ministerului Finanțelor în dosarul restanțelor salariale de aproximativ 5 miliarde de lei, echivalentul a circa un miliard de euro. Statul trebuie să înceapă în zece zile procedurile necesare executării; plata poate fi făcută direct sau prin emiterea unor titluri de valoare. Guvernul interimar întâmpină obstacole în identificarea surselor bugetare, iar întârzierea poate atrage sancțiuni zilnice.",
-    "content_ro": "• **Pe 15 octombrie, Înalta Curte a respins definitiv recursul Guvernului și al Ministerului Finanțelor.** Instanța a menținut decizia Curții de Apel București din 5 mai, care obliga statul să asigure plata drepturilor salariale restante ale magistraților, inclusiv, dacă este necesar, prin rectificare bugetară.\n\n• **Instanța a respins ca inadmisibilă și cererea Guvernului de sesizare a Curții de Justiție a Uniunii Europene.** Hotărârea definitivă a respins și recursul principal al intervenientului Buzea Florin Ionel, precum și recursul incident al Sindicatului Național al Grefei Judiciare Dicasterial; Înalta Curte amânase de șapte ori pronunțarea.\n\n• **Datoria de aproximativ 5–5,2 miliarde de lei echivalează cu circa un miliard de euro.** Potrivit purtătorului de cuvânt al Înaltei Curți, statul poate achita suma direct sau prin emiterea unor titluri de valoare; modalitatea de executare revine puterii executive.\n\n• **Procesul a vizat asigurarea plății drepturilor salariale deja recunoscute.** Potrivit relatării ProTV, noul demers urmărea ca statul să nu se limiteze la eșalonarea sumelor stabilite prin hotărâri anterioare, ci să asigure plata acestora; procedurile necesare executării hotărârii definitive trebuie începute în zece zile.\n\n• **Termenul de zece zile se referă la începerea procedurilor necesare executării.** Purtătorul de cuvânt al Înaltei Curți a descris obligația drept demararea conformării voluntare și a demersurilor de alocare a fondurilor; hotărârea Curții de Apel stabilește însă termenul pentru punerea în executare a deciziei.\n\n• **Pentru întârziere au fost prevăzute penalități de 1% pe zi și o amendă zilnică de 20% din salariul minim brut.** Raportat la o datorie de 5 miliarde de lei, penalitatea de 1% ar însemna teoretic 50 de milioane de lei pe zi, respectiv 500 de milioane de lei în zece zile. Baza de calcul și aplicarea efectivă depind de hotărâre și de procedura de executare. La un salariu minim de 4.325 de lei, amenda zilnică este de 865 de lei.\n\n• **Guvernul interimar a anunțat că nu poate face o rectificare bugetară.** Purtătoarea de cuvânt a Guvernului a spus că procedurile de alocare a fondurilor nu pot începe înainte de instalarea noului cabinet; executarea hotărârii va avea, așadar, consecințe financiare directe și pentru viitorul Guvern.\n\n• **Fondul de rezervă bugetară este o posibilă sursă, dar utilizarea lui depinde de condiții juridice și bugetare.** Potrivit HotNews, fondul poate finanța prin hotărâre de guvern cheltuieli urgente sau neprevăzute, însă restanțele salariale sunt cunoscute de mult timp, iar fondul nu reprezintă venituri noi, ci permite redistribuirea unor sume deja prevăzute în buget.\n\n• **Fondul de Solidaritate al Uniunii Europene nu poate fi folosit pentru plata restanțelor salariale.** Acesta finanțează intervenții legate de dezastre și, în condițiile prevăzute de reguli, urgențe majore de sănătate publică, nu creanțe salariale rezultate din litigii. Alte variante pot fi redistribuirea cheltuielilor, economiile instituțiilor sau, dacă este necesar, împrumuturile.\n\n• **Potrivit Înaltei Curți, amânarea poate majora datoria cu peste 21% pe an, față de dobânda medie de 7,4% a datoriei publice.** Purtătorul de cuvânt a mai spus că accesoriile aferente tranșei cu vechime de cinci ani ajung la aproape 68% din principal; instanța susține că 41,5% din diferențele salariale neachitate se întorc statului sub formă de impozite și contribuții.\n\n• **Potrivit Înaltei Curți, peste 400.000 de angajați din sectorul public au cerut în instanță drepturi salariale.** Dintre aceștia, 6.817 sunt judecători sau procurori, astfel că litigiile salariale nu privesc exclusiv sistemul judiciar.\n\n• **Înalta Curte afirmă că este vorba despre executarea unor drepturi recunoscute definitiv, nu despre privilegii.** Instanța susține că Guvernul a recunoscut datoriile și în acte normative, dar nu a asigurat fondurile necesare; în opinia sa, aprecierea bugetară nu justifică neexecutarea hotărârilor definitive.\n\n• **Restanțele provin din majorarea cu 25% a salariilor judecătorilor și procurorilor, aplicată retroactiv din 2018.** Înalta Curte și Parchetul General au decis majorarea în 2023, în acord cu hotărâri judecătorești; Guvernul a amânat o parte din plăți și a redirecționat fondurile către un pachet de ajutoare sociale de 1,1 miliarde de lei, promovat de PSD.\n\n• **Proiectul bugetului pentru 2026 prevedea aproape 5 miliarde de lei pentru Înalta Curte.** Suma era cu aproximativ 50% mai mare decât în anul precedent și era destinată, în parte, achitării restanțelor salariale.\n\n• **Obligația de 5 miliarde de lei este semnificativă și în comparație cu alte cheltuieli publice.** Potrivit comparației făcute de Mediafax, suma depășește valoarea a patru luni de alocații pentru toți copiii din România și totalul împrumuturilor contractate de la Banca Europeană de Investiții pentru cele trei spitale regionale; această ultimă comparație se referă doar la împrumuturi, nu la costul total al spitalelor.\n\n• **Obligația poate restrânge și mai mult spațiul bugetar.** Ținta de deficit a României pentru 2026 este de 6,2% din PIB, iar plafonul stabilit pentru anul următor este de 5,1%; impactul efectiv depinde de calendarul plăților, de fondurile deja prevăzute și de modul de contabilizare a deficitului.\n\n• **Guvernul a susținut că instanța nu poate decide repartizarea fondurilor bugetare.** Pe 2 iulie, Ilie Bolojan a sesizat Curtea Constituțională pentru constatarea unui conflict juridic de natură constituțională; pe 7 octombrie, Curtea a respins sesizarea ca inadmisibilă și a stabilit că nu a existat un asemenea conflict.\n\n• **Recursul a fost judecat de la începutul lunii iulie de un complet format din trei judecători.** Din cadrul Secției de contencios administrativ și fiscal au făcut parte Maria Violeta Chiriac, Mădălina-Elena Vladu-Crevon și Emilian-Constantin Meiu."
-  },
-  {
-    "group_id": "group_1b269e0b34",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Mână ruptă, febră musculară sau bătrânețe? Ustensile care te ajută să gătești la fel de bine",
-        "link": "https://hotnews.ro/mana-rupta-febra-musculara-sau-batranete-ustensile-care-te-ajuta-sa-gatesti-la-fel-de-bine-2374659"
-      }
-    ],
-    "published_at": 1792084800,
-    "title_hu": "Mână ruptă, febră musculară sau bătrânețe? Ustensile care te ajută să gătești la fel de bine",
-    "lead_hu": "În universul culinar din social media se glumește des, condescendent, despre bucătarii amatori care folosesc usturoi gata tocat (“jarlic”), unelte de bucătărie care fac un singur lucru (feliatoare de …",
-    "content_hu": "În universul culinar din social media se glumește des, condescendent, despre bucătarii amatori care folosesc usturoi gata tocat (“jarlic”), unelte de bucătărie care fac un singur lucru (feliatoare de ouă, de exemplu) sau semipreparate (fulgi de cartofi, să zicem). Sunt etichetați fie ca nepricepuți, fie ca leneși. Ce uită acești judecători pripiți este că nu toată …",
-    "title_ro": "Mână ruptă, febră musculară sau bătrânețe? Ustensile care te ajută să gătești la fel de bine",
-    "lead_ro": "În universul culinar din social media se glumește des, condescendent, despre bucătarii amatori care folosesc usturoi gata tocat (“jarlic”), unelte de bucătărie care fac un singur lucru (feliatoare de …",
-    "content_ro": "În universul culinar din social media se glumește des, condescendent, despre bucătarii amatori care folosesc usturoi gata tocat (“jarlic”), unelte de bucătărie care fac un singur lucru (feliatoare de ouă, de exemplu) sau semipreparate (fulgi de cartofi, să zicem). Sunt etichetați fie ca nepricepuți, fie ca leneși. Ce uită acești judecători pripiți este că nu toată …"
-  },
-  {
-    "group_id": "group_559871b46a",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21333/23261057/1/niculescu.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Care sunt primele măsuri pe care le are în vedere premierul desemnat Luca Niculescu? „Ne vom concentra asupra lucrurilor care nu mai pot aştepta: rectificarea bugetară, adoptarea bugetului pe 2027, relansarea economiei şi sprijinirea persoanelor vulnerabile”",
-        "link": "https://www.zf.ro/eveniment/primele-masuri-le-vedere-premierul-desemnat-luca-niculescu-ne-vom-concentra-asupra-lucrurilor-pot-astepta-rectificarea-bugetara-adoptarea-bugetului-2027-relansarea-economiei-sprijinirea-persoanelor-23261057"
-      }
-    ],
-    "published_at": 1792084747,
-    "title_hu": "Care sunt primele măsuri pe care le are în vedere premierul desemnat Luca Niculescu? „Ne vom concentra asupra lucrurilor care nu mai pot aştepta: rectificarea bugetară, adoptarea bugetului pe 2027, relansarea economiei şi sprijinirea persoanelor vulnerabile”",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Care sunt primele măsuri pe care le are în vedere premierul desemnat Luca Niculescu? „Ne vom concentra asupra lucrurilor care nu mai pot aştepta: rectificarea bugetară, adoptarea bugetului pe 2027, relansarea economiei şi sprijinirea persoanelor vulnerabile”",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_595fcb65a6",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8093621-mediafax_foto-alexandra_pandrea_gmn-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Radarele e-SIGUR și controlul vitezei: Schimbarea radicală din trafic care îi vizează pe toți șoferii români",
-        "link": "https://www.mediafax.ro/politic/radarele-e-sigur-si-controlul-vitezei-schimbarea-radicala-din-trafic-care-ii-vizeaza-pe-toti-soferii-romani-23826187"
-      }
-    ],
-    "published_at": 1792084736,
-    "title_hu": "Radarele e-SIGUR și controlul vitezei: Schimbarea radicală din trafic care îi vizează pe toți șoferii români",
-    "lead_hu": "Guvernul propus de premierul desemnat Luca Niculescu vrea să introducă în România controlul vitezei medii, să operaționalizeze sistemele automate e-SIGUR, să delimiteze prin lege atribuțiile Poliției,…",
-    "content_hu": "Guvernul propus de premierul desemnat Luca Niculescu vrea să introducă în România controlul vitezei medii, să operaționalizeze sistemele automate e-SIGUR, să delimiteze prin lege atribuțiile Poliției, Jandarmeriei și poliției locale și să reorganizeze structurile pentru situații de urgență.",
-    "title_ro": "Radarele e-SIGUR și controlul vitezei: Schimbarea radicală din trafic care îi vizează pe toți șoferii români",
-    "lead_ro": "Guvernul propus de premierul desemnat Luca Niculescu vrea să introducă în România controlul vitezei medii, să operaționalizeze sistemele automate e-SIGUR, să delimiteze prin lege atribuțiile Poliției,…",
-    "content_ro": "Guvernul propus de premierul desemnat Luca Niculescu vrea să introducă în România controlul vitezei medii, să operaționalizeze sistemele automate e-SIGUR, să delimiteze prin lege atribuțiile Poliției, Jandarmeriei și poliției locale și să reorganizeze structurile pentru situații de urgență."
   }
 ]
