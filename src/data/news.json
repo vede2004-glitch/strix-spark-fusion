@@ -1,5 +1,295 @@
 [
   {
+    "group_id": "group_b1c82ef9eb",
+    "fingerprint": "fd82bb6e093cf3e910a6cfccd369268e",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Marius Budăi: România are nevoie urgentă de un Guvern cu puteri depline, susținut de o majoritate parlamentară clară",
+        "link": "https://agerpres.ro/politic/2026/10/13/marius-budai-romania-are-nevoie-urgenta-de-un-guvern-cu-puteri-depline-sustinut-de-o-majoritate-parl--1602565"
+      },
+      {
+        "source": "Maszol",
+        "title": "Luca Niculescu: Szokatlan összetételű kormány alakul, de most erre van szüksége Romániának",
+        "link": "https://maszol.ro/belfold/Luca-Niculescu-Szokatlan-osszetetelu-kormany-alakul-de-most-erre-van-szuksege-Romanianak"
+      }
+    ],
+    "published_at": 1792125120,
+    "title_hu": "Luca Niculescu szokatlan összetételű kormányt alakítana",
+    "lead_hu": "A kijelölt miniszterelnök csütörtökön benyújtotta a parlamentnek 18 miniszterből – köztük két tárca nélküli miniszterből – álló kormányának névsorát. A kabinetben párton kívüli szakemberek és a PSD jelöltjei is helyet kapnának; a következő hetek feladatai között a költségvetés rendezése és a gazdaság élénkítése szerepel.",
+    "content_hu": "• **Luca Niculescu** szerint a kabinet összetétele szokatlan, de megfelel az ország jelenlegi helyzetének. A különböző háttérből érkező miniszterek egy csapatként, közös programmal és felelősséggel dolgoznának.\n\n• **A kormány összetétele** a források szerint párton kívüli szakembereket és a Szociáldemokrata Párt (PSD) által jelölt minisztereket is magában foglalná. Niculescu köszönetet mondott a PSD-nek a kormányzási szerepvállalásért, valamint a PNL, az RMDSZ, a nemzeti kisebbségek frakciója és más képviselők támogatásáért.\n\n• **Csütörtök este** a kijelölt miniszterelnök benyújtotta a parlamentnek a 18 miniszterből álló kabinet névsorát, amelyben két delegált miniszter is szerepel. A miniszterjelöltek parlamenti meghallgatását hétfőre és keddre, a kormány beiktatásáról szóló szavazást pedig keddre, 14 órára tervezték.\n\n• **A kabinet elsődleges feladatai** között a költségvetés kiigazítása, valamint a 2027-es állami költségvetés év végi elfogadása szerepel. A tervek között emellett a gazdaság élénkítése, a vállalkozások támogatása, a rászorulók téli energiaszámláinak enyhítése, a költségvetési bevételek hatékonyabb beszedése és a honvédelem megerősítése is szerepel.",
+    "title_ro": "Luca Niculescu propune un guvern cu o componență neobișnuită",
+    "lead_ro": "Premierul desemnat a depus joi la Parlament lista unui guvern format din 18 miniștri, dintre care doi miniștri delegați. Cabinetul ar urma să includă specialiști independenți politic și miniștri desemnați de PSD, iar prioritățile anunțate vizează redresarea bugetară și relansarea economiei.",
+    "content_ro": "• **Luca Niculescu** a declarat că formula guvernamentală este neobișnuită, dar potrivită situației actuale a țării. Miniștrii cu experiențe diferite ar urma să lucreze ca o singură echipă, cu un program și o responsabilitate comune.\n\n• **Componența guvernului** ar include specialiști independenți politic și miniștri desemnați de Partidul Social Democrat (PSD). Niculescu le-a mulțumit social-democraților pentru participarea la guvernare, precum și PNL, UDMR, grupului minorităților naționale și altor parlamentari pentru sprijin.\n\n• **Joi seara**, premierul desemnat a depus la Parlament lista unui cabinet format din 18 miniștri, dintre care doi miniștri delegați. Audierile candidaților la funcțiile ministeriale erau programate pentru luni și marți, iar votul de învestitură pentru marți, la ora 14:00.\n\n• **Printre prioritățile inițiale ale cabinetului** se numără rectificarea bugetară și adoptarea, până la sfârșitul anului, a bugetului de stat pentru 2027. Planurile includ și relansarea economiei, sprijinirea companiilor, reducerea facturilor la energie pe timp de iarnă pentru persoanele vulnerabile, colectarea mai eficientă a veniturilor bugetare și consolidarea apărării."
+  },
+  {
+    "group_id": "group_0023381096",
+    "fingerprint": "d92ab298baa896f755ac526dcfcb322e",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 16,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Trump susține că Putin vrea pace mai mult decât Zelenski, în timp ce atacurile rusești continuă în Ucraina",
+        "link": "https://www.digi24.ro/stiri/externe/trump-sustine-ca-putin-vrea-pace-mai-mult-decat-zelenski-in-timp-ce-atacurile-rusesti-continua-in-ucraina-3989527"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "SUA ar fi oferit Rusiei acordul pentru motorină ca să-l „înmoaie” pe Putin în negocierile de pace: „E rândul tău să dai ceva”",
+        "link": "https://stirileprotv.ro/stiri/international/sua-ar-fi-oferit-rusiei-acordul-pentru-motorina-ca-sa-l-inmoaie-pe-putin-in-negocierile-de-pace-e-randul-tau-sa-dai-ceva.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
+        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cine l-ar putea înlocui pe Zelenski: Patru candidați pentru funcția de președinte al Ucrainei, unul e favorit",
+        "link": "https://www.digi24.ro/stiri/externe/cine-l-ar-putea-inlocui-pe-zelenski-patru-candidatii-pentru-functia-de-presedinte-al-ucrainei-unul-e-favorit-3989879"
+      },
+      {
+        "source": "Digi24",
+        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
+        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
+      },
+      {
+        "source": "Digi24",
+        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
+        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
+        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Meloni afirmă că acordul dintre SUA și Rusia privind motorina este o 'alegere foarte riscantă'",
+        "link": "https://agerpres.ro/politic-extern/2026/10/14/meloni-afirma-ca-acordul-dintre-sua-si-rusia-privind-motorina-este-o-alegere-foarte-riscanta--1602855"
+      },
+      {
+        "source": "Digi24",
+        "title": "Giorgia Meloni critică acordul dintre Statele Unite şi Rusia privind motorina: „Riscurile sunt clare”",
+        "link": "https://www.digi24.ro/stiri/externe/giorgia-meloni-critica-acordul-dintre-statele-unite-si-rusia-privind-motorina-riscurile-sunt-clare-3991917"
+      },
+      {
+        "source": "Digi24",
+        "title": "Zelenski spune că se simte trădat de Trump: „Dacă te afli la mijloc, trebuie să rămâi la mijloc. E păcat că pierdem un partener”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/zelenski-spune-ca-se-simte-tradat-de-trump-daca-te-afli-la-mijloc-trebuie-sa-ramai-la-mijloc-e-pacat-ca-pierdem-un-partener-3992641"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Zelenski, atac frontal la Trump după acordul cu Rusia: „Nu este de partea corectă a istoriei”",
+        "link": "https://www.mediafax.ro/externe/zelenski-atac-frontal-la-trump-dupa-acordul-cu-rusia-nu-este-de-partea-corecta-a-istoriei-23825586"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Zelenski anunță că armata ucraineană va relua atacurile asupra rafinăriilor rusești",
+        "link": "https://www.mediafax.ro/politic/zelenski-anunta-ca-armata-ucraineana-va-relua-atacurile-asupra-rafinariilor-rusesti-23825673"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "După anunțul lui Zelenski, Ucraina a și atacat o rafinărie din Rusia",
+        "link": "https://hotnews.ro/dupa-anuntul-lui-zelenski-ucraina-a-si-atacat-o-rafinarie-din-rusia-2376632"
+      },
+      {
+        "source": "Udvarhelyi Hírportál (UH.ro)",
+        "title": "Trump megint őrületbe kergeti a világot az oroszbarátságával",
+        "link": "https://www.uh.ro/trump-megint-oruletbe-kergeti-a-vilagot-az-oroszbaratsagaval/"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Moscova îl acuză pe Zelenski că sabotează „armistițiul energetic” al lui Trump: Kievul sfidează SUA",
+        "link": "https://stirileprotv.ro/stiri/international/moscova-il-acuza-pe-zelenski-ca-saboteaza-armistitiul-energetic-al-lui-trump-kievul-sfideaza-sua.html"
+      }
+    ],
+    "published_at": 1792124923,
+    "title_hu": "A dízelalku, az energetikai csapások és az amerikai nyomás tovább élezik a Trump–Zelenszkij-vitát",
+    "lead_hu": "Trump az orosz dízelalkut a tárgyalások előmozdításával és az amerikai energiaárak mérséklésével indokolta, miközben Putyint készségesebbnek nevezte a békére Zelenszkijnél. Kijev szerint Oroszország az energetikai tűzszünet bejelentése után is támadta Ukrajna infrastruktúráját, ezért újraindította az orosz energetikai létesítmények elleni csapásokat. A konfliktus az amerikai támogatás, a szankciók és az ukrán választások kérdésében is tovább mélyült.",
+    "content_hu": "• **A dízelalku diplomáciai indoka**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón azt mondta az ukrán tisztviselőknek, hogy az orosz dízelexport engedélyezése visszacsábíthatja Moszkvát a tárgyalóasztalhoz, és enyhítheti az orosz álláspontot. A források szerint a megbeszélésen biztonsági garanciákról és újjáépítésről is szó volt, de megállapodás nem született, és Kijevet nem fenyegették meg a támogatás megvonásával. Az ukrán tisztviselők szkeptikusak voltak az üzleti engedményekre építő megközelítéssel szemben.\n\n• **Trump Putyin békevágyát hangsúlyozta**: Trump azt mondta, előbb tájékozódnia kell az orosz támadásokról, mert szerinte mindkét fél megsértette a tűzszünetet. Azt állította, Putyin jobban akar megállapodást, mint Zelenszkij, akit szintén meg kell győzni a békéről; a Kremlt nem bírálta érdemben.\n\n• **Az energetikai tűzszünet részletei tisztázatlanok**: Zelenszkij szerint Oroszország 39 ballisztikus rakétával és több mint 120 drónnal támadta az energetikai és kritikus infrastruktúrát, több mint 600 ezer embert hagyva áram nélkül. Az ukrán mérleg szerint hét ember meghalt, 25-en megsebesültek, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg. A Kreml szerint a tűzszünet feltételeit nem véglegesítették; egy fehér házi tanácsadó az Axiosnak azt mondta, az csak az olajfinomítókra vonatkozik.\n\n• **Zelenszkij szerint Moszkva a bejelentés után is támadott**: Az ukrán elnök azt mondta, Trump közösségi médiás bejelentése után Oroszország egy harkivi erőművet támadott meg, hétfő reggel pedig drónokkal Kijevet is célba vette. Zelenszkij közölte, hogy Ukrajna kész leállítani az energetikai infrastruktúra elleni támadásokat, ha Oroszország is így tesz; az ukrán erők a bejelentés utáni éjszakán tartózkodtak az orosz finomítók támadásától.\n\n• **Ukrajna feloldotta a támadási szünetet**: Zelenszkij szerint Ukrajna három napig szüneteltette az orosz energetikai létesítmények elleni támadásokat, miközben Oroszország folytatta az ukrán infrastruktúra bombázását, és az előző héten több mint száz civil halt meg. A szünet után dróntámadás okozott tüzet a rjazanyi finomítónál, amely az orosz finomítókapacitás közel 5 százalékát adja. Moszkva szerint négy rakétát és több tucat drónt elfogtak, a roncsok okozták a tüzet; Putyin azt állította, hogy a támadások nem okoztak jelentős károkat.\n\n• **Trump élesen bírálta a csapások újraindítását**: Az ukrán finomítók elleni támadásokat „szégyennek” nevezte, azt mondta, „sok más célpont” is van, és Zelenszkijjel nehezebb együtt dolgozni, mint Putyinnal. Azt is kijelentette, hogy Zelenszkij nem megfelelő partner egy megállapodáshoz, és szerinte nem akar egyezséget.\n\n• **Zelenszkij árulásként élte meg Trump fordulatát**: Az ukrán elnök azt mondta, fájdalmas, hogy Trump a másik oldalra áll, és őszintén szólva árulásnak érzi a történteket; szerinte Ukrajna egy erős partnert veszít el. Hozzátette, ha Trump közvetítőként középen áll, ott is kell maradnia. Zelenszkij szerint Putyin könnyű győzelemként értékelheti a dízelalkut, Ukrajna pedig nem adja el az országát; Washingtonnak inkább Kijevvel kellene dízelmegállapodást kötnie.\n\n• **Zelenszkij feltételekhez kötné a további deeszkalációt**: Közölte, hogy Ukrajna csak akkor állítaná le az orosz energetikai célpontok elleni támadásokat, ha Moszkva is beszünteti az ukrán infrastruktúra bombázását. Az orosz támadások leállításáért cserébe több Patriot elfogórakétát nevezett meg elfogadható minimumnak.\n\n• **Kijev az amerikai hírszerzési és kommunikációs támogatás korlátozásától tart**: Zelenszkij szerint katonai tisztviselőket figyelmeztettek, hogy az orosz finomítók elleni támadások folytatása esetén felfüggeszthetik a hírszerzési információk megosztását. Azt is állította, hogy Ukrajna nem kapott előzetes amerikai rakétafigyelmeztetéseket, miközben a Starlink lassulása katonai műveleteket zavart meg; szerinte ez nem technikai hiba, hanem szándékos döntés lehetett. Elon Musk szerint a katonai Starshield rendszereket az amerikai kormány irányítja, a korlátozásokról pedig az amerikai hadsereg, végső soron az elnök dönt. Beszámolók az Ukrajnának szánt amerikai fegyvereladások és az európai beszerzési programok korlátozásának lehetőségét is felvetették.\n\n• **Trump új ukrán elnököt sürgetett**: Trump szerint Ukrajnának olyan vezetőre lenne szüksége, aki megállapodást tud kötni. Zelenszkij azt válaszolta, választásokat akkor lehet tartani, ha Oroszország 60 napra teljes tűzszünetet vállal. A lehetséges jelöltek között Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót emlegetik; egy idézett felmérésben Zaluzsnij támogatottsága meghaladta a 20 százalékot, Budanovban pedig a válaszadók 53 százaléka bízott.\n\n• **Kétpárti szenátori tiltakozás**: Tizenkét amerikai szenátor kérte Trumptól, a pénzügyminisztertől és a külügyminisztertől a dízelalku visszavonását. Szerintük az alku elhanyagolhatóan csökkentheti az üzemanyagárakat, miközben bevételt ad Moszkvának; a levél a 2022-es importtilalomra, a 135. számú pénzügyminisztériumi általános engedély visszavonására és a 2026-os Lindsey Graham-szankciós törvény végrehajtására is felszólított. Thom Tillis republikánus szenátor szerint felmerülhet, hogy az elnök nem tartja be a törvényt.\n\n• **Európai bírálatok és közös tárgyalási képviselet**: Giorgia Meloni kockázatosnak nevezte az alkut, mert szerinte legitimációt és új bevételt ad Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-csoportnak; az európai kritikus infrastruktúra védelmét is sürgette az orosz hibrid támadásokkal szemben. Kaja Kallas szerint nem szabad enyhíteni az Oroszországra nehezedő nyomást, az EU pedig újabb, az orosz hadiipart célzó szankciókat fogadott el.\n\n• **A dízelalku piaci hatása korlátozott lehet**: Az amerikai dízelár gallononként 6,28 dollárra emelkedett, 72 százalékkal az előző év azonos időszaka fölé; a benzin átlagára 4,34 dollár volt. Elemzők szerint az orosz szállítmányok csak csekély hatással lehetnek az árakra; a Goldman Sachs októberre és novemberre 1–2 dolláros hordónkénti nagykereskedelmi árcsökkenést becsült. A teljes, 4,8 millió tonnás terv az amerikai fogyasztás körülbelül tíz napját, a világét alig több mint egy napot fedezné. A G7 európai tagjai négy hónap alatt 100 millió hordó olajat és dízelt szabadítanának fel, ami több mint ötvenszerese a Trump által említett kezdeti mennyiségnek.\n\n• **Moszkva szélesebb gazdasági együttműködésben reménykedik**: Kirill Dmitrijev szerint a dízelalku további amerikai–orosz gazdasági és beruházási megállapodások mintája lehet. Moszkva a szerződések előkészítéséről és a következő napokban várható aláírásáról beszélt; Alekszandr Novak a korábbi, havi 3–3,5 millió tonnás exportvolumen visszaállítását és az orosz költségvetés többletbevételeit is kilátásba helyezte.\n\n• **Az orosz propagandisták Kushnert és az amerikai választásokat emlegették**: Orosz televíziós kommentátorok szerint az alku nem oldja meg érdemben az üzemanyag-ellátási problémákat, és azt állították, hogy Jared Kushner jelentős hasznot húzhatott belőle. Azt is sugallták, hogy Trump a novemberi félidős választások előtt Oroszország segítségét keresi, illetve az amerikai lépés más országokat is a szankciók megkerülésére ösztönözhet. Ezek spekulatív propagandista állítások, nem igazolt tények.\n\n• **Ukrajna más orosz célpontokra is áthelyezheti a nyomást**: A The Atlantic elemzése szerint ukrán drónok orosz repülőterek és adatközpontok ellen is támadtak. A lap szerint a moszkvai repülőtereken egy hét alatt 345 járatot töröltek, október 8. óta pedig legalább négy adatközpontot ért támadás; egyes orosz digitális szolgáltatásokban fennakadások keletkeztek. Az elemzés szerint ezek gazdasági és közlekedési zavarokat okozhatnak, de önmagukban nem kényszerítik a Kremlt tűzszünetre.\n\n• **Zelenszkij további kockázatokra figyelmeztetett**: Az ukrán elnök szerint Trump ösztönösen vonzódik az autoriter vezetőkhöz és a rendkívül gazdag emberekhez. Azt is felvetette, hogy a dízelalkut további amerikai–orosz energiaipari megállapodások, akár földgázról szóló ügylet követheti, ami növelhetné Moszkva háborús bevételeit. Azt mondta, a következő évi európai választásokon oroszbarát pártok erősödhetnek meg; Marine Le Pen pedig francia elnökké választása esetére az Ukrajnának nyújtott támogatás leállítását helyezte kilátásba.\n\n• **Kijev nehéz választás előtt áll**: Szakértők szerint Trump nyílt bírálata veszélyeztetheti a megmaradt amerikai katonai és hírszerzési támogatást, Washington feltételeinek elfogadása viszont gyengítheti Ukrajna biztonságát. Nathalie Tocci szerint a hírszerzési együttműködés felfüggesztése súlyosan érintheti az ukrán védekezést, noha Washingtonnak kevesebb eszköze maradt Kijev nyomás alá helyezésére.",
+    "title_ro": "Acordul privind motorina, atacurile asupra infrastructurii energetice și presiunile SUA adâncesc disputa Trump–Zelenski",
+    "lead_ro": "Trump a justificat acordul privind motorina rusească prin reluarea negocierilor și reducerea prețurilor la energie în SUA, afirmând totodată că Putin își dorește pacea mai mult decât Zelenski. Kievul susține că Rusia a continuat să lovească infrastructura ucraineană după anunțarea armistițiului energetic și a reluat atacurile asupra instalațiilor energetice rusești. Disputa s-a amplificat și în privința sprijinului american, a sancțiunilor și a alegerilor din Ucraina.",
+    "content_ro": "• **Justificarea diplomatică a acordului privind motorina**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea de la Miami, că autorizarea exporturilor rusești de motorină ar putea readuce Moscova la masa negocierilor și i-ar putea înmuia poziția. S-au discutat și garanțiile de securitate și reconstrucția, dar nu s-a ajuns la un acord. Sursele au afirmat că Kievul nu a fost amenințat cu retragerea sprijinului, iar oficialii ucraineni au fost sceptici față de abordarea bazată pe concesii comerciale.\n\n• **Trump a susținut că Putin vrea pacea**: Trump a spus că trebuie să se informeze mai întâi despre atacurile rusești, deoarece, în opinia sa, ambele părți au încălcat armistițiul. El a afirmat că Putin își dorește un acord mai mult decât Zelenski și că și președintele ucrainean trebuie convins să accepte pacea, fără să critice în mod substanțial Kremlinul.\n\n• **Detaliile armistițiului energetic rămân neclare**: Zelenski a declarat că Rusia a atacat infrastructura energetică și critică folosind 39 de rachete balistice și peste 120 de drone, lăsând peste 600.000 de oameni fără electricitate. Potrivit bilanțului ucrainean, șapte persoane au murit, 25 au fost rănite, iar 26 de instalații energetice și patru obiective din sectorul petrolier și gazier au fost avariate. Kremlinul a spus că termenii armistițiului nu au fost finalizați; un consilier de la Casa Albă a declarat pentru Axios că acesta se aplică doar rafinăriilor.\n\n• **Zelenski spune că Rusia a atacat și după anunț**: Președintele ucrainean a afirmat că, după mesajul publicat de Trump pe rețelele sociale, Rusia a atacat o centrală electrică din Harkov, iar luni dimineață dronele au vizat Kievul. Zelenski a declarat că Ucraina este gata să oprească atacurile asupra infrastructurii energetice dacă Rusia face același lucru; forțele ucrainene s-au abținut să lovească rafinării rusești în noaptea de după anunț.\n\n• **Ucraina a renunțat la pauza atacurilor**: Potrivit lui Zelenski, Ucraina a suspendat timp de trei zile atacurile asupra instalațiilor energetice rusești, în timp ce Rusia a continuat bombardarea infrastructurii ucrainene; peste 100 de civili ar fi fost uciși în săptămâna precedentă. După pauză, un atac cu drone a provocat un incendiu la rafinăria din Riazan, care reprezintă aproape 5% din capacitatea de rafinare a Rusiei. Moscova a spus că a interceptat patru rachete și zeci de drone, iar resturile au declanșat incendiul; Putin a afirmat că atacurile nu au produs pagube semnificative.\n\n• **Trump a condamnat reluarea atacurilor**: El a numit atacurile ucrainene asupra rafinăriilor o „rușine”, a spus că există „multe alte ținte” și că este mai dificil să lucreze cu Zelenski decât cu Putin. Trump a mai declarat că Zelenski nu este partenerul potrivit pentru încheierea unui acord și că, în opinia sa, nu dorește o înțelegere.\n\n• **Zelenski a spus că se simte trădat de Trump**: Președintele ucrainean a afirmat că este dureros când Trump alege cealaltă parte și că, sincer, se simte trădat; Ucraina pierde, în opinia sa, un partener puternic. El a adăugat că, dacă Trump este mediator între Kiev și Moscova, trebuie să rămână neutru. Zelenski a spus că Putin poate considera acordul privind motorina o victorie ușoară, că Ucraina nu își va vinde țara și că Washingtonul ar trebui să încheie un acord privind motorina cu Kievul.\n\n• **Zelenski condiționează dezescaladarea de reciprocitate**: El a declarat că Ucraina va opri atacurile asupra obiectivelor energetice rusești numai dacă Moscova încetează să bombardeze infrastructura ucraineană. În schimbul opririi atacurilor rusești, a indicat că un număr mai mare de interceptoare Patriot ar fi minimul acceptabil.\n\n• **Kievul se teme de restricționarea sprijinului american în informații și comunicații**: Zelenski a spus că oficiali militari au fost avertizați că schimbul de informații ar putea fi suspendat dacă atacurile asupra rafinăriilor rusești continuă. El a afirmat și că Ucraina nu a primit avertizări americane timpurii privind rachetele, în timp ce încetinirea Starlink a perturbat operațiuni militare; în opinia sa, nu a fost o defecțiune tehnică, ci o decizie deliberată. Elon Musk a spus că sistemele militare Starshield sunt controlate de guvernul SUA, iar restricțiile țin de armata americană și, în ultimă instanță, de președinte. Unele relatări au menționat și posibilitatea limitării vânzărilor de arme americane destinate Ucrainei și a programelor europene de achiziții.\n\n• **Trump a cerut alegerea unui nou președinte ucrainean**: El a spus că Ucraina are nevoie de un lider capabil să încheie un acord. Zelenski a răspuns că alegerile pot avea loc dacă Rusia acceptă o încetare totală a focului timp de 60 de zile. Printre potențialii candidați sunt menționați Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko; într-un sondaj citat, Zalujnîi avea peste 20% din intențiile de vot, iar 53% dintre respondenți aveau încredere în Budanov.\n\n• **Protest bipartizan în Senatul SUA**: Doisprezece senatori i-au cerut lui Trump, secretarului Trezoreriei și secretarului de Stat să anuleze acordul privind motorina. Ei au susținut că acesta ar avea un efect neglijabil asupra prețurilor, oferindu-i în schimb Moscovei venituri suplimentare. Scrisoarea a cerut revocarea licenței generale nr. 135 și aplicarea legii de sancționare a Rusiei susținute de Lindsey Graham, adoptată în 2026. Senatorul republican Thom Tillis a spus că există motive să se considere că președintele nu respectă legea.\n\n• **Critici europene și o posibilă reprezentare comună la negocieri**: Giorgia Meloni a numit acordul riscant, afirmând că oferă legitimitate și venituri Moscovei și slăbește sancțiunile. Ea a propus ca UE să acorde un mandat oficial unui reprezentant european, eventual grupului E3, și a cerut protejarea infrastructurii critice împotriva atacurilor hibride rusești. Kaja Kallas a spus că presiunea asupra Rusiei nu trebuie redusă, iar UE a adoptat noi sancțiuni care vizează industria militară rusă.\n\n• **Impactul acordului asupra prețurilor ar putea fi limitat**: Motorina costa în SUA 6,28 dolari pe galon, cu 72% peste nivelul din aceeași perioadă a anului precedent, iar benzina avea un preț mediu de 4,34 dolari. Analiștii consideră că livrările rusești ar avea un efect redus; Goldman Sachs a estimat o scădere de numai 1–2 dolari pe baril a prețului angro în octombrie și noiembrie. Planul complet, de 4,8 milioane de tone, ar acoperi aproximativ zece zile din consumul SUA și puțin peste o zi din cererea mondială. Statele europene din G7 ar urma să elibereze 100 de milioane de barili de petrol și motorină în patru luni, de peste 50 de ori volumul inițial menționat de Trump.\n\n• **Moscova speră la o cooperare economică mai amplă**: Kirill Dmitriev a spus că acordul privind motorina ar putea servi drept model pentru alte înțelegeri economice și de investiții între SUA și Rusia. Moscova a anunțat pregătirea contractelor și posibila semnare a acestora în zilele următoare; Aleksandr Novak a menționat revenirea la exporturi de 3–3,5 milioane de tone pe lună și venituri suplimentare pentru bugetul rus.\n\n• **Propagandiștii ruși au speculat despre Kushner și alegerile americane**: Comentatori de la televiziunea rusă au afirmat că acordul nu rezolvă problemele de aprovizionare și au sugerat că Jared Kushner ar fi obținut un câștig important. Ei au speculat și că Trump caută ajutorul Rusiei înaintea alegerilor de la jumătatea mandatului și că decizia americană ar putea încuraja alte țări să ocolească sancțiunile. Acestea sunt afirmații speculative ale propagandiștilor, nu fapte confirmate.\n\n• **Ucraina ar putea muta presiunea asupra altor ținte rusești**: Potrivit unei analize The Atlantic, dronele ucrainene au vizat și aeroporturi și centre de date din Rusia. Într-o săptămână au fost anulate 345 de zboruri pe aeroporturile din Moscova, iar din 8 octombrie au fost atacate cel puțin patru centre de date; unele servicii digitale rusești au avut întreruperi. Analiza arată că aceste acțiuni pot perturba transporturile și economia, dar nu sunt suficiente, de unele singure, pentru a obliga Kremlinul să accepte un armistițiu.\n\n• **Zelenski a avertizat asupra unor riscuri suplimentare**: Președintele ucrainean a spus că Trump este atras instinctiv de liderii autoritari și de oamenii foarte bogați. El a sugerat că acordul privind motorina ar putea fi urmat de alte înțelegeri energetice americano-ruse, inclusiv privind gazele naturale, care ar crește veniturile Moscovei pentru război. Zelenski a avertizat că partidele proruse ar putea câștiga teren la alegerile europene de anul viitor; Marine Le Pen a amenințat că, dacă va deveni președinta Franței, ar opri sprijinul francez pentru Ucraina.\n\n• **Kievul se confruntă cu o alegere dificilă**: Potrivit experților, criticarea publică a lui Trump poate pune în pericol sprijinul militar și de informații rămas, în timp ce acceptarea condițiilor Washingtonului ar putea slăbi securitatea Ucrainei. Nathalie Tocci consideră că suspendarea cooperării în domeniul informațiilor ar afecta serios apărarea ucraineană, deși Washingtonul are acum mai puține instrumente pentru a exercita presiuni asupra Kievului."
+  },
+  {
+    "group_id": "group_1e3b10c117",
+    "fingerprint": "940e2d586afe2e54c51af7582678330c",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fara-titlu-3-1024x607.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Atac armat într-o școală primară din SUA. Copii printre victime, atacatorul a fost ucis",
+        "link": "https://www.mediafax.ro/externe/atac-armat-intr-o-scoala-primara-din-sua-copii-printre-victime-atacatorul-a-fost-ucis-23826321"
+      },
+      {
+        "source": "Digi24",
+        "title": "Un adolescent de 16 ani a ucis trei copii și un profesor la o școală din SUA",
+        "link": "https://www.digi24.ro/stiri/externe/un-adolescent-de-16-ani-a-ucis-trei-copii-si-un-profesor-la-o-scoala-din-sua-3994733"
+      }
+    ],
+    "published_at": 1792124824,
+    "title_hu": "Négy áldozatot követelt az oregoni iskolai lövöldözés, a 16 éves támadó is meghalt",
+    "lead_hu": "Három gyermek és egy tanár vesztette életét a Silver Rail általános iskolában, az oregoni Bend városában történt lövöldözésben. A 16 éves támadót egy helyszínen tartózkodó személy lőtte le; egy másik gyermeket és egy tanárt kritikus állapotban kórházba szállítottak.",
+    "content_hu": "• **Három gyermek és egy tanár** halt meg a Silver Rail általános iskolában történt támadásban. Az áldozatul esett gyermekek 5, 8 és 11 évesek voltak.\n\n• **A 16 éves, Bendben élő támadó** erőszakkal jutott be az iskolába, miután rálőtt a bezárt ajtókra. Egy helyszínen tartózkodó személy követte az épületbe, majd lelőtte; a fiút holtan találták az épületen belül.\n\n• **Egy 7 éves gyermek és egy 54 éves tanár** kritikus állapotban került kórházba – közölte Mike Krantz, Bend rendőrfőnöke.\n\n• **A támadó egy pumpás sörétes puskát használt**, amelyet egy rendvédelmi forrás szerint az édesanyja vásárolt. A rendőrség nem tudta, hogy a fiú ismert-e valakit az iskolából, vagy korábban annak tanulója volt-e.\n\n• **A hatóságok helyi idő szerint 12:59-kor kapták az első segélyhívást**, miután valaki az iskola közelében egy autóra lőtt. Az intézményt lezárták, a termeket átvizsgálták, majd megkezdték az épület kiürítését.\n\n• **Tina Kotek oregoni kormányzó** „teljesen lesújtottnak” mondta magát, és köszönetet mondott annak a helyi közösségi tagnak, aki közbelépett, hogy megakadályozza további életek elvesztését.\n\n• **Az iskola mérete és elhelyezkedése:** a Silver Rail több mint 160 kilométerre délkeletre fekszik Portlandtől; az előző tanévben 459 tanulója volt, az előkészítő osztálytól az ötödik évfolyamig.\n\n• **Az iskolai lövöldözések adatai:** a K-12 School Shooting Database szerint az előző évben 235 ilyen esetet regisztráltak az amerikai közoktatásban, a tárgyévben pedig a bendivel együtt legalább 149-et. A beszámoló szerint az esetszám a 2023-as csúcs óta csökken, de még a járvány előtti szint fölött van.",
+    "title_ro": "Patru victime în atacul armat de la școala din Oregon; atacatorul de 16 ani a murit",
+    "lead_ro": "Trei copii și un profesor au fost uciși în atacul armat de la școala primară Silver Rail din Bend, Oregon. Atacatorul în vârstă de 16 ani a fost împușcat de o persoană aflată la fața locului; un alt copil și un profesor au fost transportați la spital în stare critică.",
+    "content_ro": "• **Trei copii și un profesor** au fost uciși în atacul de la școala primară Silver Rail. Copiii aveau 5, 8 și 11 ani.\n\n• **Atacatorul, un adolescent de 16 ani din Bend**, a pătruns cu forța în școală după ce a tras asupra ușilor încuiate. O persoană aflată la fața locului l-a urmărit în interior și l-a împușcat; băiatul a fost găsit mort în clădire.\n\n• **Un copil de 7 ani și un profesor de 54 de ani** au fost transportați la spital în stare critică, a declarat Mike Krantz, șeful poliției din Bend.\n\n• **Atacatorul a folosit o pușcă de tip pump-action**, cumpărată de mama sa, potrivit unei surse din cadrul forțelor de ordine. Poliția nu știa dacă adolescentul cunoștea pe cineva de la școală sau dacă fusese elev acolo.\n\n• **Primul apel la serviciile de urgență a fost primit la ora locală 12:59**, după ce cineva a tras asupra unei mașini din apropierea școlii. Instituția a fost izolată, sălile au fost verificate, apoi a început evacuarea clădirii.\n\n• **Guvernatoarea statului Oregon, Tina Kotek**, s-a declarat „absolut devastată” și i-a mulțumit membrului comunității care a intervenit pentru a preveni pierderea altor vieți.\n\n• **Dimensiunea și amplasarea școlii:** Silver Rail se află la peste 160 de kilometri sud-est de Portland și avea 459 de elevi înscriși în anul școlar precedent, de la clasele pregătitoare până la clasa a cincea.\n\n• **Datele privind atacurile armate în școli:** potrivit bazei de date K-12 School Shooting Database, anul trecut au fost înregistrate 235 de astfel de incidente în școlile din SUA, iar în anul curent cel puțin 149, inclusiv cel din Bend. Conform relatării, numărul incidentelor este în scădere față de nivelul maxim din 2023, dar rămâne peste cel din perioada pre-pandemică."
+  },
+  {
+    "group_id": "group_7cf0f0ff2d",
+    "fingerprint": "2aa0ab7f265291f4cfd5a36996451bde",
+    "category": "Erdély",
+    "image": "https://cdn.adh.reperio.news/image-d/d695dccc-9d58-4590-8940-cf0f4128df9c/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Un bărbat a murit, iar alte două persoane au fost rănite după ce un autoturism a izbit violent un tractor",
+        "link": "https://adevarul.ro/stiri-locale/giurgiu/un-barbat-a-murit-iar-alte-doua-persoane-au-fost-2564352.html"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Egy halott és két sérült egy autó és egy traktor balesetében",
+        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/egy-halott-es-ket-serult-egy-auto-es-egy-traktor-baleseteben"
+      }
+    ],
+    "published_at": 1792124746,
+    "title_hu": "Egy halott és két sérült egy autó és egy traktor ütközésében",
+    "lead_hu": "Egy ember meghalt, ketten megsérültek csütörtök este, amikor személygépkocsi és traktor ütközött a DJ 504-es úton, Giurgiu és Teleorman megye határán. A rendőrség vizsgálja a baleset körülményeit.",
+    "content_hu": "• **Csütörtök este** személygépkocsi és traktor ütközött a DJ 504-es megyei úton, Giurgiu és Teleorman megye határán.\n\n• **A balesetben** egy ember meghalt, két sérültet pedig többszörös traumával kórházba szállítottak. A két járműben összesen négy, 34 és 47 év közötti férfi utazott.\n\n• **A traktor vezetője** fejsérülést szenvedett, orvosi ellátást kapott, de nem kellett kórházba szállítani.\n\n• **A rendőrség** vizsgálja, hogyan történt az ütközés.",
+    "title_ro": "Un mort și doi răniți după coliziunea dintre o mașină și un tractor",
+    "lead_ro": "O persoană a murit, iar alte două au fost rănite joi seară, după ce un autoturism și un tractor s-au ciocnit pe DJ 504, la granița dintre județele Giurgiu și Teleorman. Poliția cercetează circumstanțele accidentului.",
+    "content_ro": "• **Joi seară**, un autoturism și un tractor s-au ciocnit pe drumul județean DJ 504, la granița dintre județele Giurgiu și Teleorman.\n\n• **În urma accidentului**, o persoană a murit, iar alte două au fost transportate la spital cu traumatisme multiple. În cele două vehicule se aflau în total patru bărbați, cu vârste între 34 și 47 de ani.\n\n• **Conducătorul tractorului** a suferit o leziune la cap și a primit îngrijiri medicale, însă nu a fost necesară transportarea sa la spital.\n\n• **Poliția** cercetează circumstanțele în care s-a produs coliziunea."
+  },
+  {
+    "group_id": "group_ef79fa11e0",
+    "category": "Politika",
+    "image": "https://stirileprotv.ro/img/2026/10/15/202136/ilie-bolojan-luca-niculesc-govro-administratia-prezidentiala.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Luca Niculescu și PSD, despre moștenirea guvernului Ilie Bolojan: Deficitul a scăzut, dar economia a încetinit",
+        "link": "https://stirileprotv.ro/stiri/financiar/luca-niculescu-si-psd-despre-mostenirea-guvernului-ilie-bolojan-deficitul-a-scazut-dar-economia-a-incetinit.html"
+      }
+    ],
+    "published_at": 1792124742,
+    "title_hu": "Luca Niculescu și PSD, despre moștenirea guvernului Ilie Bolojan: Deficitul a scăzut, dar economia a încetinit",
+    "lead_hu": "Deficitul bugetar a scăzut, dar datoria publică și dobânzile au crescut, în timp ce economia a încetinit, consumul s-a redus, iar inflația a rămas ridicată, arată programul de guvernare Luca Niculescu…",
+    "content_hu": "Deficitul bugetar a scăzut, dar datoria publică și dobânzile au crescut, în timp ce economia a încetinit, consumul s-a redus, iar inflația a rămas ridicată, arată programul de guvernare Luca Niculescu-PSD.",
+    "title_ro": "Luca Niculescu și PSD, despre moștenirea guvernului Ilie Bolojan: Deficitul a scăzut, dar economia a încetinit",
+    "lead_ro": "Deficitul bugetar a scăzut, dar datoria publică și dobânzile au crescut, în timp ce economia a încetinit, consumul s-a redus, iar inflația a rămas ridicată, arată programul de guvernare Luca Niculescu…",
+    "content_ro": "Deficitul bugetar a scăzut, dar datoria publică și dobânzile au crescut, în timp ce economia a încetinit, consumul s-a redus, iar inflația a rămas ridicată, arată programul de guvernare Luca Niculescu-PSD."
+  },
+  {
+    "group_id": "group_17efa1f8df",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Unul dintre cei mai bogați români, tocmai plecat din eMAG, spune ce trebuie să facă compania în fața asaltului Shein, Temu și Trendyol: „Acești jucători nu au jucat fair”",
+        "link": "https://hotnews.ro/unul-dintre-cei-mai-bogati-romani-tocmai-plecat-din-emag-spune-ce-trebuie-sa-faca-compania-in-fata-asaltului-shein-temu-si-trendyol-acesti-jucatori-nu-au-jucat-fair-2374549"
+      }
+    ],
+    "published_at": 1792124569,
+    "title_hu": "Unul dintre cei mai bogați români, tocmai plecat din eMAG, spune ce trebuie să facă compania în fața asaltului Shein, Temu și Trendyol: „Acești jucători nu au jucat fair”",
+    "lead_hu": "Omul de afaceri Iulian Stanciu, care și-a vândut în acest an ultimele acțiuni la eMAG și a părăsit compania pe care a condus-o vreme de 17 ani, vorbește într-un interviu pentru publicația StartUp Cafe…",
+    "content_hu": "Omul de afaceri Iulian Stanciu, care și-a vândut în acest an ultimele acțiuni la eMAG și a părăsit compania pe care a condus-o vreme de 17 ani, vorbește într-un interviu pentru publicația StartUp Cafe despre ceea ce trebuie să facă gigantul de cumpărături în perioada următoare. StartupCafe: Dar unde vezi viitorul comerțului online acum? Pentru …",
+    "title_ro": "Unul dintre cei mai bogați români, tocmai plecat din eMAG, spune ce trebuie să facă compania în fața asaltului Shein, Temu și Trendyol: „Acești jucători nu au jucat fair”",
+    "lead_ro": "Omul de afaceri Iulian Stanciu, care și-a vândut în acest an ultimele acțiuni la eMAG și a părăsit compania pe care a condus-o vreme de 17 ani, vorbește într-un interviu pentru publicația StartUp Cafe…",
+    "content_ro": "Omul de afaceri Iulian Stanciu, care și-a vândut în acest an ultimele acțiuni la eMAG și a părăsit compania pe care a condus-o vreme de 17 ani, vorbește într-un interviu pentru publicația StartUp Cafe despre ceea ce trebuie să facă gigantul de cumpărături în perioada următoare. StartupCafe: Dar unde vezi viitorul comerțului online acum? Pentru …"
+  },
+  {
+    "group_id": "group_b949009ff8",
+    "fingerprint": "6c6ca671b052b758dfe74e669f8b3e66",
+    "category": "Erdély",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNjE2NV8zMDE2/MTY1X3Byb2ZpbWVkaWEtMTA4ODI2NTM2/MS5qcGcmaGFzaD01Mjk3YTEwNzJhNGQwNzBlNjE5ZWY0NTNiODU2NzY3MA==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Accident la intrarea în Eurotunel, în Franța: 19 răniți după ce un microbuz a fost lovit de un tren de marfă",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/accident-la-intrarea-in-eurotunel-in-franta-19-raniti-dupa-ce-un-microbuz-a-fost-lovit-de-un-tren-de-marfa-3994643"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Un autobuz s-a ciocnit cu un tren în Tunelul Canalului Mânecii. 19 persoane au fost rănite",
+        "link": "https://www.mediafax.ro/externe/un-autobuz-s-a-ciocnit-cu-un-tren-in-tunelul-canalului-manecii-19-persoane-au-fost-ranite-23826308"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un autobuz a lovit un tren oprit pe partea franceză a Tunelului de sub Canalul Mânecii: 19 oameni sunt răniți",
+        "link": "https://stirileprotv.ro/stiri/international/un-autobuz-a-lovit-un-tren-oprit-pe-partea-franceza-a-tunelului-de-sub-canalul-manecii-19-oameni-sunt-raniti.html"
+      }
+    ],
+    "published_at": 1792124357,
+    "title_hu": "19-en sérültek meg egy mikrobusz és egy tehervonat ütközésében Coquelles-nél",
+    "lead_hu": "Csütörtök este egy teherautó-sofőröket szállító mikrobusz tehervonattal ütközött a Csatorna-alagút franciaországi termináljának rakodóterületén, Coquelles-nél. A balesetben 19-en, köztük a mikrobusz vezetője sérült meg; két súlyos sérültet helikopterrel szállítottak el, de senki élete nincs veszélyben. A hatóságok vizsgálatot indítottak.",
+    "content_hu": "• **Csütörtök este, Coquelles-nél** történt a baleset a Csatorna-alagút franciaországi termináljának közelében. A mikrobusz teherautó-sofőröket szállított, akik a Le Shuttle járatra készültek felszállni.\n\n• **A mikrobusz és egy tehervonat ütközésében 19-en sérültek meg**, köztük a jármű vezetője. A hatóságok szerint egyik sérült sincs életveszélyben; az első tájékoztatás öt embert sorolt a legsúlyosabb sürgősségi kategóriába, de állapotuk várhatóan enyhébb besorolásra változik.\n\n• **A mikrobusz a terminál rakodóterületén ütközött a tehervonattal.** A helyi alprefektus szerint két vonat állt a peron két oldalán: az egyik teherautókkal volt megrakva, a másik éppen indulni készült. Az ütközés oka egyelőre nem ismert.\n\n• **A mikrobusz vezetője és egy utas súlyosan megsérült,** őket helikopterrel szállították el. A helyszínre mentők, tűzoltók és rendőrök is érkeztek; a hatóságok vizsgálatot indítottak.\n\n• **A személy- és teherforgalom a rövid mentési szünet után folytatódott.** Az Eurostar közölte, hogy a baleset nem érinti járatait; a párizsi–londoni útvonal aznapi utolsó két járatát műszaki munkák miatt törölték, nem a baleset következtében.",
+    "title_ro": "19 persoane rănite după coliziunea dintre un microbuz și un tren de marfă la Coquelles",
+    "lead_ro": "Joi seară, un microbuz care transporta șoferi de camion s-a ciocnit cu un tren de marfă pe platforma de încărcare a terminalului francez al Tunelului Mânecii, la Coquelles. 19 persoane, inclusiv șoferul microbuzului, au fost rănite; două persoane grav rănite au fost evacuate cu elicopterul, însă nicio viață nu este în pericol. Autoritățile au deschis o anchetă.",
+    "content_ro": "• **Joi seară, la Coquelles,** s-a produs accidentul în apropierea terminalului francez al Tunelului Mânecii. Microbuzul transporta șoferi de camion care urmau să se îmbarce în serviciul Le Shuttle.\n\n• **19 persoane au fost rănite în coliziunea dintre microbuz și un tren de marfă,** inclusiv șoferul vehiculului. Potrivit autorităților, niciuna dintre victime nu este în pericol de moarte; în evaluarea inițială, cinci persoane au fost încadrate la categoria de urgență absolută, dar starea lor urma să fie reclasificată la o categorie mai puțin gravă.\n\n• **Microbuzul s-a ciocnit cu trenul pe platforma de încărcare a terminalului.** Potrivit subprefectului local, pe cele două laturi ale peronului se aflau două trenuri: unul era încărcat cu camioane, iar celălalt urma să plece. Cauza coliziunii nu este cunoscută deocamdată.\n\n• **Șoferul microbuzului și un pasager au fost grav răniți** și evacuați cu elicopterul. La fața locului au intervenit ambulanțe, pompieri și polițiști, iar autoritățile au deschis o anchetă.\n\n• **Traficul de pasageri și cel de marfă au fost reluate după o scurtă pauză pentru intervenție.** Eurostar a anunțat că accidentul nu îi afectează serviciile; ultimele două trenuri din ziua respectivă pe ruta Paris–Londra au fost anulate din cauza unor lucrări tehnice, nu din cauza accidentului."
+  },
+  {
+    "group_id": "group_ce6026669c",
+    "fingerprint": "7791fadd63243e5b1e41dcc1c17b776d",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8163629-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Noua purtătoare de cuvânt a Casei Albe recunoaște că nu a promovat examenul de admitere în Barou",
+        "link": "https://www.mediafax.ro/externe/noua-purtatoare-de-cuvant-a-casei-albe-recunoaste-ca-nu-a-promovat-examenul-de-admitere-in-barou-23826347"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Purtătoarea de cuvânt a Casei Albe recunoaște că nu a promovat examenul de admitere în Barou",
+        "link": "https://adevarul.ro/stiri-externe/sua/purtatoarea-de-cuvant-a-casei-albe-recunoaste-ca-2564356.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Noua purtătoare de cuvânt a Casei Albe recunoaște că nu a promovat examenul de admitere în Barou / E a asusținut anterior că a practicat avocatura înainte de a intra în politică",
+        "link": "https://www.g4media.ro/noua-purtatoare-de-cuvant-a-casei-albe-recunoaste-ca-nu-a-promovat-examenul-de-admitere-in-barou-e-a-asustinut-anterior-ca-a-practicat-avocatura-inainte-de-a-intra-in-politica.html"
+      }
+    ],
+    "published_at": 1792124279,
+    "title_hu": "Katie Zacharia elismerte, hogy nem ment át az ügyvédi kamarai vizsgán",
+    "lead_hu": "Katie Zacharia, a Fehér Ház új szóvivője csütörtökön megerősítette, hogy nem ment át az ügyvédi kamarai vizsgán, és másodszor nem próbálkozott. Nyilatkozata azután hangzott el, hogy kérdések merültek fel jogi szakmai múltjáról; korábban ügyvédként hivatkozott magára, Donald Trump pedig szintén ügyvédnek nevezte.",
+    "content_hu": "• **Katie Zacharia csütörtökön** a Fox News Hannity című műsorában elismerte, hogy nem tette le sikeresen az ügyvédi kamarai vizsgát.\n\n• **A második vizsgakísérletről kérdezve** azt válaszolta, hogy nem vizsgázott újra. Korábban azt állította, hogy a politikai pályára lépése előtt ügyvédként dolgozott, Donald Trump pedig ügyvédként mutatta be.\n\n• **Zacharia hétfőn kezdte meg a munkát a Fehér Házban.**\n\n• **Zacharia 2011-ben végzett jogi egyetemen** a Pepperdine Egyetem adatai szerint. Az Egyesült Államokban jogi diploma önmagában nem jogosít ügyvédi tevékenységre: ehhez kamarai felvétel szükséges.\n\n• **A szóvivő első sajtótájékoztatóját is bírálták:** kedden három újságíró kérdéseire válaszolt, majd kevesebb mint 15 perc után lezárta az eseményt. Trump megvédte a teljesítményét, Zacharia pedig azt mondta, kevés felkészülési idővel vállalta a sajtótájékoztatót.",
+    "title_ro": "Katie Zacharia a recunoscut că nu a promovat examenul de admitere în Barou",
+    "lead_ro": "Katie Zacharia, noua purtătoare de cuvânt a Casei Albe, a confirmat joi că nu a promovat examenul de admitere în barou și că nu l-a susținut a doua oară. Declarația vine după apariția unor întrebări privind experiența sa juridică; anterior afirmase că a practicat avocatura, iar Donald Trump o prezentase drept avocat.",
+    "content_ro": "• **Katie Zacharia a confirmat joi**, în emisiunea „Hannity” de la Fox News, că nu a promovat examenul de admitere în barou.\n\n• **Întrebată despre o a doua încercare**, ea a răspuns că nu a susținut din nou examenul. Anterior afirmase că a practicat avocatura înainte de a intra în politică, iar Donald Trump o descrisese drept avocat.\n\n• **Zacharia și-a început activitatea la Casa Albă luni.**\n\n• **Zacharia a absolvit Facultatea de Drept în 2011**, potrivit Universității Pepperdine. În Statele Unite, diploma în drept nu este suficientă pentru a practica avocatura: este necesară admiterea într-un barou.\n\n• **Prima sa conferință de presă a fost criticată:** marți, a răspuns întrebărilor a doar trei jurnaliști, înainte de a încheia evenimentul în mai puțin de 15 minute. Trump i-a apărat prestația, iar Zacharia a spus că a susținut conferința cu foarte puțin timp pentru pregătire."
+  },
+  {
     "group_id": "group_23aeb7112c",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -42,147 +332,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_f88faf7284",
-    "fingerprint": "95242916c9c00facce421106ad9e1ce7",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Taste of Transylvania Boutique Festival - de vineri până duminică, la Muzeul Satului din Capitală",
-        "link": "https://agerpres.ro/cultura-media/2026/10/16/taste-of-transylvania-boutique-festival---de-vineri-pana-duminica-la-muzeul-satului-din-capitala--1603599"
-      },
-      {
-        "source": "G4Media",
-        "title": "Tradiție și restaurante cu stele Michelin / Se deschide Festivalul Taste of Transylvania / Trei zile de gastronomie transilvăneană la Muzeul Satului",
-        "link": "https://www.g4media.ro/traditie-si-restaurante-cu-stele-michelin-se-deschide-festivalul-taste-of-transylvania-trei-zile-de-gastronomie-transilvaneana-la-muzeul-satului.html"
-      }
-    ],
-    "published_at": 1792124270,
-    "title_hu": "Erdélyi gasztronómiai fesztivál nyílik a bukaresti Falumúzeumban",
-    "lead_hu": "Október 16. és 18. között rendezik meg először Bukarestben a Taste of Transylvania Boutique Festival gasztronómiai fesztivált, a Dimitrie Gusti Nemzeti Falumúzeumban. A rendezvényen 37 étterem és több kulináris program várja a látogatókat.",
-    "content_hu": "• **Október 16–18. között** tartják a Taste of Transylvania Boutique Festival első bukaresti kiadását a Dimitrie Gusti Nemzeti Falumúzeum „Satul Nou” nevű részén. A fesztivál immár a 11. alkalommal valósul meg.\n\n• **A fesztiválon 37 étterem** mutatkozik be, köztük két külföldi Michelin-csillagos étterem. A MasterChef-sátor résztvevői erdélyi alapanyagokból főznek, és naponta 16 és 20 órakor kóstolókat kínálnak.\n\n• **A programok között** ingyenes Taste Academy-workshopok, séfek által tartott főzőbemutatók, valamint háziasszonyok és séfek közös alapanyagokból készülő párhuzamos főzései is szerepelnek.\n\n• **A vasárnapi brunch** 11 órakor kezdődik, és két órán át korlátlan ételkóstolást kínál; a hangulatról élő zenével a Floare de Maidan gondoskodik. A brunchra külön jegy szükséges, amely aznap a fesztiválra is belépést biztosít.\n\n• **A nyitvatartás** pénteken 12–21, szombaton 11–21, vasárnap pedig 13–18 óra; a brunchjeggyel érkezők vasárnap már 11 órától beléphetnek. A belépés a Herăstrău park Transilvania kapujánál történik, a fesztiváljegy pedig múzeumlátogatást és kóstolóadagokat is tartalmaz.",
-    "title_ro": "Festivalul gastronomic Taste of Transylvania se deschide la Muzeul Satului din București",
-    "lead_ro": "Prima ediție bucureșteană a Taste of Transylvania Boutique Festival are loc între 16 și 18 octombrie, la Muzeul Național al Satului „Dimitrie Gusti”. Evenimentul reunește 37 de restaurante și propune demonstrații culinare, degustări și ateliere.",
-    "content_ro": "• **Între 16 și 18 octombrie** are loc prima ediție bucureșteană a Taste of Transylvania Boutique Festival, în zona „Satul Nou” a Muzeului Național al Satului „Dimitrie Gusti”. Festivalul a ajuns la cea de-a XI-a ediție.\n\n• **La festival participă 37 de restaurante**, inclusiv două restaurante cu stele Michelin din afara țării. În cortul MasterChef, concurenții vor găti cu ingrediente transilvănene și vor oferi degustări zilnic, la orele 16:00 și 20:00.\n\n• **Programul include** ateliere gratuite Taste Academy, demonstrații culinare susținute de chefi și sesiuni în care gospodine și bucătari gătesc în paralel pornind de la aceleași ingrediente.\n\n• **Brunch-ul de duminică** începe la ora 11:00 și oferă preparate la discreție timp de două ore; atmosfera va fi completată de muzica live a proiectului Floare de Maidan. Pentru brunch este necesar un bilet separat, valabil și ca bilet de acces la festival în acea zi.\n\n• **Programul de vizitare** este vineri între 12:00 și 21:00, sâmbătă între 11:00 și 21:00 și duminică între 13:00 și 18:00; posesorii biletelor de brunch pot intra duminică de la ora 11:00. Accesul se face prin poarta „Transilvania” din Parcul Herăstrău, iar biletul de festival include vizita la muzeu și porții de degustare."
-  },
-  {
-    "group_id": "group_0023381096",
-    "fingerprint": "597ebafc2e0ee3c48233de997de34f68",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 19,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Trump susține că Putin vrea pace mai mult decât Zelenski, în timp ce atacurile rusești continuă în Ucraina",
-        "link": "https://www.digi24.ro/stiri/externe/trump-sustine-ca-putin-vrea-pace-mai-mult-decat-zelenski-in-timp-ce-atacurile-rusesti-continua-in-ucraina-3989527"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SUA ar fi oferit Rusiei acordul pentru motorină ca să-l „înmoaie” pe Putin în negocierile de pace: „E rândul tău să dai ceva”",
-        "link": "https://stirileprotv.ro/stiri/international/sua-ar-fi-oferit-rusiei-acordul-pentru-motorina-ca-sa-l-inmoaie-pe-putin-in-negocierile-de-pace-e-randul-tau-sa-dai-ceva.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Trump megint Putyint cirógatja, Zelenszkijt pedig lazán a víz alá nyomná",
-        "link": "https://transtelex.ro/kulfold/2026/10/13/trump-putyin-dizel-megallapodas-ukrajna-zelenszkij-energetikai-tuzszunet-bejelentes-tamadasok-orosz-ukran-haboru"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
-        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
-        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Cine l-ar putea înlocui pe Zelenski: Patru candidați pentru funcția de președinte al Ucrainei, unul e favorit",
-        "link": "https://www.digi24.ro/stiri/externe/cine-l-ar-putea-inlocui-pe-zelenski-patru-candidatii-pentru-functia-de-presedinte-al-ucrainei-unul-e-favorit-3989879"
-      },
-      {
-        "source": "Digi24",
-        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
-        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
-        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
-        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Volodimir Zelenski a dezvăluit cu ce a fost Ucraina amenințată de către Statele Unite",
-        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-a-dezvaluit-cu-ce-a-fost-ucraina-amenintata-de-catre-statele-unite-23825122"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Semnal de la Kremlin: Ce cale deschide acordul cu SUA pentru motorina rusească",
-        "link": "https://hotnews.ro/semnal-de-la-kremlin-ce-cale-deschide-acordul-cu-sua-pentru-motorina-ruseasca-2376026"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski spune că se simte trădat de Trump: „Dacă te afli la mijloc, trebuie să rămâi la mijloc. E păcat că pierdem un partener”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/zelenski-spune-ca-se-simte-tradat-de-trump-daca-te-afli-la-mijloc-trebuie-sa-ramai-la-mijloc-e-pacat-ca-pierdem-un-partener-3992641"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Putin râde”. Volodimir Zelenski îl acuză pe Donald Trump că a slăbit presiunea asupra Rusiei prin acordul privind motorina",
-        "link": "https://www.digi24.ro/stiri/externe/ue/putin-rade-volodimir-zelenski-il-acuza-pe-donald-trump-ca-a-slabit-presiunea-asupra-rusiei-prin-acordul-privind-motorina-3992807"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Răbufnire a lui Zelenski după ultimele decizii ale SUA: „Am terminat-o cu asta”",
-        "link": "https://hotnews.ro/rabufnire-a-lui-zelenski-dupa-ultimele-decizii-ale-sua-am-terminat-o-cu-asta-2376510"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Zelenski anunţă că Ucraina va relua atacurile asupra rafinăriilor ruseşti: „Interdicţia a fost ridicată”",
-        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-anunta-ca-ucraina-va-relua-atacurile-2564144.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "După anunțul lui Zelenski, Ucraina a și atacat o rafinărie din Rusia",
-        "link": "https://hotnews.ro/dupa-anuntul-lui-zelenski-ucraina-a-si-atacat-o-rafinarie-din-rusia-2376632"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Moscova îl acuză pe Zelenski că sabotează „armistițiul energetic” al lui Trump: Kievul sfidează SUA",
-        "link": "https://stirileprotv.ro/stiri/international/moscova-il-acuza-pe-zelenski-ca-saboteaza-armistitiul-energetic-al-lui-trump-kievul-sfideaza-sua.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "După acordul lui Trump cu Rusia, Ucraina găsește noi ținte pentru a lovi economia lui Putin. Ce cărți are în mână Zelenski - Analiză The Atlantic",
-        "link": "https://adevarul.ro/stiri-externe/europa/dupa-acordul-lui-trump-cu-rusia-ucraina-gaseste-2564294.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Trump susține că reluarea atacurilor Ucrainei asupra rafinăriilor ruseşti este o ”ruşine” / ”E mai dificil să lucrezi cu Zelenski decât cu Putin”",
-        "link": "https://www.g4media.ro/trump-sustine-ca-reluarea-atacurilor-ucrainei-asupra-rafinariilor-rusesti-este-o-rusine-e-mai-dificil-sa-lucrezi-cu-zelenski-decat-cu-putin.html"
-      }
-    ],
-    "published_at": 1792124270,
-    "title_hu": "A dízelalku és az újabb csapások tovább mélyítik a Trump–Zelenszkij-vitát",
-    "lead_hu": "Trump az orosz dízelalkut a tárgyalások előmozdításával és az amerikai energiaárak mérséklésével indokolta, miközben Putyint készségesebbnek nevezte a békére Zelenszkijnél, és bírálta az ukrán finomítók elleni csapások újraindítását. Kijev szerint Moszkva az energetikai tűzszünet bejelentése után is támadta Ukrajna infrastruktúráját, ezért feloldotta a saját támadásaira vonatkozó szünetet. A vita az amerikai támogatásról, a szankciókról és az ukrán választásokról is tovább éleződött.",
-    "content_hu": "• **A dízelalku diplomáciai indoka**: Reuters által idézett források szerint Steve Witkoff és Jared Kushner a miami találkozón azt mondta az ukrán tisztviselőknek, hogy az orosz dízelexport engedélyezése visszacsábíthatja Moszkvát a tárgyalóasztalhoz, és enyhítheti az orosz álláspontot. Biztonsági garanciákról és újjáépítésről is tárgyaltak, de megállapodás nem született; a források szerint Kijevet nem fenyegették meg a támogatás megvonásával, az ukrán tisztviselők pedig szkeptikusak voltak az üzleti engedményekre építő megközelítéssel.\n\n• **Trump Putyin békevágyát hangsúlyozta**: Trump az orosz támadásokról azt mondta, előbb tájékozódnia kell, mert szerinte mindkét fél megsértette a tűzszünetet. Azt állította, Putyin jobban akar megállapodást, mint Zelenszkij, és az ukrán elnököt is meg kell győzni a békéről; a Kremlt nem bírálta érdemben.\n\n• **Az energetikai tűzszünet részletei tisztázatlanok**: Zelenszkij szerint Oroszország 39 ballisztikus rakétával és több mint 120 drónnal támadott energetikai és kritikus infrastruktúrát, több mint 600 ezer embert hagyva áram nélkül. Az ukrán mérleg szerint hét ember meghalt, 25-en megsebesültek, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg. A Kreml szerint a tűzszünet feltételeit nem véglegesítették; egy fehér házi tanácsadó az Axiosnak azt mondta, az csak az olajfinomítókra vonatkozik.\n\n• **Ukrajna újra támadja az orosz finomítókat**: Zelenszkij szerint Ukrajna három napig szüneteltette az orosz energetikai létesítmények elleni támadásokat, miközben Oroszország folytatta az ukrán infrastruktúra bombázását; ezért feloldotta a korlátozást. A szünetet követő első jelentett ukrán csapás tüzet okozott a rjazanyi finomítónál, amely az orosz finomítókapacitás közel 5 százalékát adja. Moszkva azt állította, négy rakétát és több tucat drónt elfogtak, a roncsok pedig tüzet okoztak; Putyin szerint a támadások nem okoztak jelentős károkat.\n\n• **Trump élesen bírálta a csapások újraindítását**: A finomítók elleni ukrán támadások folytatását „szégyennek” nevezte, azt mondta, „sok más célpont” is van, és nehezebb Zelenszkijjel dolgozni, mint Putyinnal. Azt is kijelentette, hogy Zelenszkij nem megfelelő partner egy megállapodáshoz, és szerinte nem akar egyezséget.\n\n• **Zelenszkij árulásként élte meg Trump fordulatát**: Az ukrán elnök azt mondta, fájdalmas, hogy Trump a másik oldalra áll, és őszintén szólva árulásnak érzi a történteket; szerinte Ukrajna egy erős partnert veszít el. Hozzátette, ha Trump közvetítőként középen áll, ott is kell maradnia. Zelenszkij szerint Putyin könnyű győzelemként értékelheti a dízelalkut; Ukrajna nem adja el az országát, és Washingtonnak inkább Kijevvel kellene dízelmegállapodást kötnie.\n\n• **Zelenszkij feltételekhez kötné a további deeszkalációt**: Az ukrán elnök közölte, hogy Ukrajna csak akkor állítaná le az orosz energetikai célpontok elleni támadásokat, ha Moszkva is beszünteti az ukrán infrastruktúra bombázását. Azt is mondta, hogy a tűzszünetért cserébe több Patriot elfogórakéta lenne számára az elfogadható minimum.\n\n• **Kijev az amerikai hírszerzési és kommunikációs támogatás korlátozásától tart**: Zelenszkij szerint katonai tisztviselők azzal figyelmeztették Ukrajnát, hogy a finomítók elleni támadások folytatása esetén felfüggeszthetik a hírszerzési információk megosztását. Az elnök azt is állította, hogy Ukrajna nem kapott előzetes amerikai rakétafigyelmeztetéseket, miközben a Starlink lassulása több katonai műveletet zavart meg; szerinte ez nem technikai hiba, hanem szándékos döntés lehetett. Elon Musk szerint a katonai Starshield rendszereket az amerikai kormány irányítja, a korlátozásokról pedig az amerikai hadsereg, végső soron az elnök dönt. Egyes beszámolók az amerikai fegyvereladások és a hírszerzési segítség korlátozásának lehetőségét is felvetették.\n\n• **Zelenszkij a Trump–Putyin-kapcsolatot is bírálta**: A Financial Timesnak azt mondta, Trump ösztönösen vonzódik az autoriter vezetőkhöz és a rendkívül gazdag emberekhez. Felvetette, hogy a dízelalkut további amerikai–orosz energiaipari megállapodások, akár földgázról szóló ügylet is követheti; ezt az ukrán elnök az orosz háborús bevételek növekedésének kockázataként értékelte.\n\n• **Ukrajna más orosz célpontokra is áthelyezheti a nyomást**: A The Atlantic elemzése szerint az ukrán drónok az orosz repülőterek és adatközpontok ellen is támadásokat hajtottak végre. A lap szerint a moszkvai repülőtereken egy hét alatt 345 járatot töröltek, október 8. óta pedig legalább négy adatközpontot ért támadás; egyes orosz digitális szolgáltatásokban fennakadások keletkeztek. Az elemzés szerint ezek a lépések gazdasági és közlekedési zavarokat okozhatnak, de önmagukban nem kényszerítik a Kremlt tűzszünetre.\n\n• **Zelenszkij nehéz választás előtt áll**: Szakértők szerint Trump nyílt bírálata veszélyeztetheti a megmaradt amerikai katonai és hírszerzési támogatást, Washington feltételeinek elfogadása viszont gyengítheti Ukrajna biztonságát. Nathalie Tocci szerint a hírszerzési együttműködés felfüggesztése súlyosan érintheti az ukrán védekezést, noha Washingtonnak kevesebb eszköze maradt Kijev nyomás alá helyezésére.\n\n• **Trump új ukrán elnököt sürgetett**: Trump szerint Ukrajnának olyan vezetőre lenne szüksége, aki megállapodást tud kötni. Zelenszkij azt válaszolta, választásokat akkor lehet tartani, ha Oroszország 60 napra teljes tűzszünetet vállal. A lehetséges jelöltek között Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót emlegetik; egy idézett felmérésben Zaluzsnij támogatottsága meghaladta a 20 százalékot, Budanovban pedig a válaszadók 53 százaléka bízott.\n\n• **Kétpárti szenátori tiltakozás**: Tizenkét amerikai szenátor kérte Trumptól, a pénzügyminisztertől és a külügyminisztertől a dízelalku visszavonását. Szerintük az alku elhanyagolhatóan csökkentheti az üzemanyagárakat, miközben bevételt ad Moszkvának; a levél a 2022-es importtilalomra, a 135. számú pénzügyminisztériumi általános engedély visszavonására és a 2026-os Lindsey Graham-szankciós törvény végrehajtására is felszólított. Thom Tillis republikánus szenátor szerint felmerülhet, hogy az elnök nem tartja be a törvényt.\n\n• **Európai bírálatok és közös tárgyalási képviselet**: Giorgia Meloni kockázatosnak nevezte az alkut, mert szerinte legitimációt és új bevételt ad Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-csoportnak; az európai kritikus infrastruktúra védelmét is sürgette az orosz hibrid támadásokkal szemben. Kaja Kallas szerint nem szabad enyhíteni az Oroszországra nehezedő nyomást, az EU pedig újabb, az orosz hadiipart célzó szankciókat fogadott el.\n\n• **A dízelalku piaci hatása korlátozott lehet**: Az amerikai dízelár gallononként 6,28 dollárra emelkedett, 72 százalékkal az előző év azonos időszaka fölé; a benzin átlagára 4,34 dollár volt. Elemzők szerint az orosz szállítmányok csak csekély hatással lehetnek az árakra; a Goldman Sachs októberre és novemberre 1–2 dolláros hordónkénti nagykereskedelmi árcsökkenést becsült. A teljes, 4,8 millió tonnás terv az amerikai fogyasztás körülbelül tíz napját, a világét alig több mint egy napot fedezné. A G7 európai tagjai négy hónap alatt 100 millió hordó olajat és dízelt szabadítanának fel, ami több mint ötvenszerese a Trump által említett kezdeti mennyiségnek.\n\n• **Moszkva szélesebb gazdasági együttműködésben reménykedik**: Kirill Dmitrijev szerint a dízelalku további amerikai–orosz gazdasági és beruházási megállapodások mintája lehet. Moszkva a szerződések előkészítéséről és a következő napokban várható aláírásáról beszélt; Alekszandr Novak a korábbi, havi 3–3,5 millió tonnás exportvolumen visszaállítását és az orosz költségvetésnek származó többletbevételeket is kilátásba helyezte.\n\n• **Moszkvai propagandisták Kushnert és az amerikai választásokat emlegették**: Orosz televíziós kommentátorok szerint az alku nem oldja meg érdemben az üzemanyag-ellátási problémákat, és azt állították, hogy Jared Kushner jelentős hasznot húzhatott belőle. Azt is sugallták, hogy Trump a novemberi félidős választások előtt Oroszország segítségét keresi, illetve az amerikai lépés más országokat is a szankciók megkerülésére ösztönözhet. Ezek spekulatív propagandista állítások, nem igazolt tények.\n\n• **A Kreml Kijevet hibáztatja a tárgyalási patthelyzetért**: Dmitrij Peszkov szerint az ukrán finomítók elleni támadások akadályozzák az amerikai békeerőfeszítéseket, és Kijev nem hajlandó a béke útjára lépni. Ez Moszkva álláspontja; Kijev szerint a támadások az orosz hadsereg ellátását és a háborús bevételeket gyengítik.",
-    "title_ro": "Acordul privind motorina și noile atacuri adâncesc disputa dintre Trump și Zelenski",
-    "lead_ro": "Trump a justificat acordul privind motorina rusească prin necesitatea relansării negocierilor și a reducerii prețurilor la energie în SUA, susținând că Putin își dorește pacea mai mult decât Zelenski. Kievul afirmă că Moscova a continuat să atace infrastructura ucraineană după anunțarea armistițiului energetic și a reluat loviturile asupra rafinăriilor rusești. Disputa s-a amplificat și în privința sprijinului american, a sancțiunilor și a alegerilor din Ucraina.",
-    "content_ro": "• **Motivul diplomatic al acordului privind motorina**: Potrivit unor surse citate de Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea de la Miami, că permiterea exporturilor rusești de motorină ar putea readuce Moscova la masa negocierilor și i-ar putea tempera poziția. Au discutat și despre garanții de securitate și reconstrucție, dar nu s-a ajuns la un acord; sursele au afirmat că Kievul nu a fost amenințat cu retragerea sprijinului, iar oficialii ucraineni au privit cu scepticism abordarea bazată pe concesii comerciale.\n\n• **Trump a insistat asupra dorinței lui Putin de pace**: Întrebat despre atacurile rusești, Trump a spus că trebuie să verifice informațiile, susținând că ambele părți au încălcat armistițiul. El a afirmat că Putin își dorește un acord mai mult decât Zelenski și că președintele ucrainean trebuie convins să accepte pacea, fără să critice în mod semnificativ Kremlinul.\n\n• **Detaliile armistițiului energetic rămân neclare**: Zelenski a afirmat că Rusia a atacat infrastructura energetică și critică folosind 39 de rachete balistice și peste 120 de drone, lăsând peste 600.000 de oameni fără electricitate. Potrivit bilanțului ucrainean, șapte persoane au murit, 25 au fost rănite, iar 26 de obiective energetice și patru instalații din sectorul petrolier și gazier au fost avariate. Kremlinul a spus că termenii armistițiului nu au fost finalizați; un consilier al Casei Albe a declarat pentru Axios că acesta se referă doar la rafinăriile de petrol.\n\n• **Ucraina a reluat atacurile asupra rafinăriilor rusești**: Zelenski a spus că Ucraina a suspendat timp de trei zile atacurile asupra infrastructurii energetice rusești, în timp ce Rusia a continuat să bombardeze infrastructura ucraineană, și a ridicat restricția. Primul atac ucrainean raportat după pauză a provocat un incendiu la rafinăria din Riazan, care reprezintă aproape 5% din capacitatea de rafinare a Rusiei. Moscova a susținut că a interceptat patru rachete și zeci de drone, iar resturile au provocat incendiul; Putin a afirmat că atacurile nu au produs pagube semnificative.\n\n• **Trump a criticat dur reluarea loviturilor**: El a numit „o rușine” continuarea atacurilor ucrainene asupra rafinăriilor, a spus că există „multe alte ținte” și că este mai dificil să lucreze cu Zelenski decât cu Putin. A mai declarat că Zelenski nu este partenerul potrivit pentru un acord și că, în opinia sa, nu dorește o înțelegere.\n\n• **Zelenski spune că se simte trădat de schimbarea lui Trump**: Președintele ucrainean a afirmat că este dureros că Trump a ales cealaltă parte și că, sincer, se simte trădat; Ucraina pierde, în opinia sa, un partener puternic. A adăugat că, dacă Trump acționează ca mediator, trebuie să rămână la mijloc. Zelenski consideră că Putin poate vedea acordul privind motorina ca pe o victorie ușoară; Ucraina nu își va vinde țara, iar Washingtonul ar trebui să încheie un acord privind motorina cu Kievul.\n\n• **Zelenski condiționează dezescaladarea de reciprocitate**: Președintele ucrainean a spus că Ucraina va opri atacurile asupra obiectivelor energetice rusești doar dacă Moscova încetează bombardarea infrastructurii ucrainene. El a afirmat, de asemenea, că mai multe rachete interceptoare Patriot ar fi minimul acceptabil în schimbul unui armistițiu.\n\n• **Kievul se teme de restricționarea sprijinului american în materie de informații și comunicații**: Potrivit lui Zelenski, oficiali militari au avertizat Ucraina că schimbul de informații ar putea fi suspendat dacă atacurile asupra rafinăriilor continuă. Președintele a mai susținut că Ucraina nu a primit avertizări americane timpurii privind rachetele, iar încetinirea Starlink a perturbat mai multe operațiuni militare; el a spus că nu a fost o defecțiune tehnică, ci o decizie deliberată. Elon Musk a afirmat că sistemele militare Starshield sunt controlate de guvernul SUA, iar restricțiile sunt decise de armata americană și, în ultimă instanță, de președinte. Unele relatări au menționat și posibilitatea limitării vânzărilor de armament american și a sprijinului de informații.\n\n• **Zelenski a criticat relația Trump–Putin**: Într-un interviu pentru Financial Times, el a spus că Trump este atras instinctiv de lideri autoritari și de oameni extrem de bogați. Zelenski a sugerat că acordul privind motorina ar putea fi urmat de alte înțelegeri energetice americano-ruse, inclusiv privind gazele naturale, ceea ce ar putea spori veniturile Rusiei din război.\n\n• **Ucraina ar putea muta presiunea asupra altor obiective rusești**: Potrivit unei analize publicate de The Atlantic, dronele ucrainene au atacat și aeroporturi și centre de date din Rusia. Publicația a relatat că 345 de zboruri au fost anulate pe aeroporturile din Moscova într-o săptămână, iar cel puțin patru centre de date au fost atacate începând cu 8 octombrie; unele servicii digitale rusești au înregistrat întreruperi. Analiza afirmă că astfel de operațiuni pot perturba economia și transporturile, dar nu sunt suficiente, de unele singure, pentru a forța Kremlinul să accepte un armistițiu.\n\n• **Zelenski se confruntă cu o alegere dificilă**: Potrivit experților, criticile publice la adresa lui Trump pot pune în pericol sprijinul militar și de informații american rămas, în timp ce acceptarea condițiilor Washingtonului ar putea slăbi securitatea Ucrainei. Nathalie Tocci a avertizat că suspendarea schimbului de informații ar afecta grav apărarea ucraineană, deși Washingtonul are mai puține instrumente pentru a pune presiune pe Kiev.\n\n• **Trump a cerut alegerea unui nou președinte ucrainean**: Trump a spus că Ucraina are nevoie de un lider capabil să încheie un acord. Zelenski a răspuns că alegerile pot avea loc dacă Rusia acceptă o încetare totală a focului timp de 60 de zile. Printre potențialii candidați sunt menționați Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko; într-un sondaj citat, Zalujnîi depășea 20% din intențiile de vot, iar 53% dintre respondenți declarau că au încredere în Budanov.\n\n• **Protest bipartizan al senatorilor americani**: Doisprezece senatori i-au cerut lui Trump, secretarului Trezoreriei și secretarului de stat să anuleze acordul privind motorina. Ei au susținut că acesta ar avea un efect neglijabil asupra prețurilor, dar ar aduce venituri Moscovei; scrisoarea a cerut și revocarea Licenței generale nr. 135 și aplicarea legii privind sancțiunile din 2026, asociată lui Lindsey Graham. Senatorul republican Thom Tillis a spus că s-ar putea argumenta că președintele nu respectă legea.\n\n• **Critici europene și propunerea unei reprezentări comune la negocieri**: Giorgia Meloni a numit acordul riscant, afirmând că legitimează Moscova și îi aduce venituri suplimentare, în timp ce slăbește sancțiunile. Ea a propus ca UE să mandateze oficial o persoană cu autoritate să reprezinte Europa la negocieri, inclusiv grupul E3; a cerut și protejarea infrastructurii critice europene împotriva atacurilor hibride rusești. Kaja Kallas a spus că nu este momentul reducerii presiunii asupra Rusiei, iar UE a adoptat noi sancțiuni care vizează industria militară rusă.\n\n• **Efectul acordului asupra pieței ar putea fi limitat**: Prețul mediu al motorinei în SUA a ajuns la 6,28 dolari pe galon, cu 72% peste nivelul din aceeași perioadă a anului trecut; benzina costa în medie 4,34 dolari. Analiștii estimează că livrările rusești ar avea un efect redus asupra prețurilor; Goldman Sachs a prognozat o scădere de 1–2 dolari pe baril a prețurilor angro în octombrie și noiembrie. Planul total de 4,8 milioane de tone ar acoperi aproximativ zece zile de consum în SUA și puțin peste o zi la nivel mondial. Membrii europeni ai G7 ar urma să elibereze 100 de milioane de barili de petrol și motorină în patru luni, de peste 50 de ori volumul inițial menționat de Trump.\n\n• **Moscova speră la o cooperare economică mai amplă**: Kirill Dmitriev a declarat că acordul privind motorina ar putea deveni un model pentru alte înțelegeri economice și de investiții între SUA și Rusia. Moscova a vorbit despre pregătirea contractelor și semnarea lor în zilele următoare; Aleksandr Novak a menționat posibilitatea revenirii la exporturi de 3–3,5 milioane de tone lunar și a unor venituri fiscale suplimentare pentru bugetul rus.\n\n• **Propagandiștii ruși au invocat Kushner și alegerile americane**: Comentatori de televiziune ruși au susținut că acordul nu rezolvă problemele de aprovizionare și au afirmat că Jared Kushner ar fi obținut un câștig important. Ei au sugerat și că Trump caută ajutorul Rusiei înaintea alegerilor de la jumătatea mandatului și că decizia americană ar putea încuraja alte state să ocolească sancțiunile. Acestea sunt afirmații speculative ale propagandiștilor, nu fapte confirmate.\n\n• **Kremlinul acuză Kievul de blocarea negocierilor**: Dmitri Peskov a afirmat că atacurile ucrainene asupra rafinăriilor împiedică eforturile americane de pace și că Kievul refuză calea păcii. Aceasta este poziția Moscovei; Kievul susține că loviturile afectează aprovizionarea armatei ruse și veniturile de război."
-  },
-  {
     "group_id": "group_29de0b9984",
     "category": "Politika",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -223,6 +372,34 @@
     "title_ro": "Festivalul Național de Teatru #36 începe vineri și va ajunge în 24 de săli de spectacole din Capitală",
     "lead_ro": "",
     "content_ro": ""
+  },
+  {
+    "group_id": "group_f88faf7284",
+    "fingerprint": "95242916c9c00facce421106ad9e1ce7",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Taste of Transylvania Boutique Festival - de vineri până duminică, la Muzeul Satului din Capitală",
+        "link": "https://agerpres.ro/cultura-media/2026/10/16/taste-of-transylvania-boutique-festival---de-vineri-pana-duminica-la-muzeul-satului-din-capitala--1603599"
+      },
+      {
+        "source": "G4Media",
+        "title": "Tradiție și restaurante cu stele Michelin / Se deschide Festivalul Taste of Transylvania / Trei zile de gastronomie transilvăneană la Muzeul Satului",
+        "link": "https://www.g4media.ro/traditie-si-restaurante-cu-stele-michelin-se-deschide-festivalul-taste-of-transylvania-trei-zile-de-gastronomie-transilvaneana-la-muzeul-satului.html"
+      }
+    ],
+    "published_at": 1792124270,
+    "title_hu": "Erdélyi gasztronómiai fesztivál nyílik a bukaresti Falumúzeumban",
+    "lead_hu": "Október 16. és 18. között rendezik meg először Bukarestben a Taste of Transylvania Boutique Festival gasztronómiai fesztivált, a Dimitrie Gusti Nemzeti Falumúzeumban. A rendezvényen 37 étterem és több kulináris program várja a látogatókat.",
+    "content_hu": "• **Október 16–18. között** tartják a Taste of Transylvania Boutique Festival első bukaresti kiadását a Dimitrie Gusti Nemzeti Falumúzeum „Satul Nou” nevű részén. A fesztivál immár a 11. alkalommal valósul meg.\n\n• **A fesztiválon 37 étterem** mutatkozik be, köztük két külföldi Michelin-csillagos étterem. A MasterChef-sátor résztvevői erdélyi alapanyagokból főznek, és naponta 16 és 20 órakor kóstolókat kínálnak.\n\n• **A programok között** ingyenes Taste Academy-workshopok, séfek által tartott főzőbemutatók, valamint háziasszonyok és séfek közös alapanyagokból készülő párhuzamos főzései is szerepelnek.\n\n• **A vasárnapi brunch** 11 órakor kezdődik, és két órán át korlátlan ételkóstolást kínál; a hangulatról élő zenével a Floare de Maidan gondoskodik. A brunchra külön jegy szükséges, amely aznap a fesztiválra is belépést biztosít.\n\n• **A nyitvatartás** pénteken 12–21, szombaton 11–21, vasárnap pedig 13–18 óra; a brunchjeggyel érkezők vasárnap már 11 órától beléphetnek. A belépés a Herăstrău park Transilvania kapujánál történik, a fesztiváljegy pedig múzeumlátogatást és kóstolóadagokat is tartalmaz.",
+    "title_ro": "Festivalul gastronomic Taste of Transylvania se deschide la Muzeul Satului din București",
+    "lead_ro": "Prima ediție bucureșteană a Taste of Transylvania Boutique Festival are loc între 16 și 18 octombrie, la Muzeul Național al Satului „Dimitrie Gusti”. Evenimentul reunește 37 de restaurante și propune demonstrații culinare, degustări și ateliere.",
+    "content_ro": "• **Între 16 și 18 octombrie** are loc prima ediție bucureșteană a Taste of Transylvania Boutique Festival, în zona „Satul Nou” a Muzeului Național al Satului „Dimitrie Gusti”. Festivalul a ajuns la cea de-a XI-a ediție.\n\n• **La festival participă 37 de restaurante**, inclusiv două restaurante cu stele Michelin din afara țării. În cortul MasterChef, concurenții vor găti cu ingrediente transilvănene și vor oferi degustări zilnic, la orele 16:00 și 20:00.\n\n• **Programul include** ateliere gratuite Taste Academy, demonstrații culinare susținute de chefi și sesiuni în care gospodine și bucătari gătesc în paralel pornind de la aceleași ingrediente.\n\n• **Brunch-ul de duminică** începe la ora 11:00 și oferă preparate la discreție timp de două ore; atmosfera va fi completată de muzica live a proiectului Floare de Maidan. Pentru brunch este necesar un bilet separat, valabil și ca bilet de acces la festival în acea zi.\n\n• **Programul de vizitare** este vineri între 12:00 și 21:00, sâmbătă între 11:00 și 21:00 și duminică între 13:00 și 18:00; posesorii biletelor de brunch pot intra duminică de la ora 11:00. Accesul se face prin poarta „Transilvania” din Parcul Herăstrău, iar biletul de festival include vizita la muzeu și porții de degustare."
   },
   {
     "group_id": "group_92b8c44e17",
@@ -398,44 +575,6 @@
     "title_ro": "Rebelii Houthi au atacat palatul prezidențial din Aden; au fost raportate cinci decese și 16 răniți",
     "lead_ro": "Rebelii Houthi din Yemen au atacat cu rachete, pe 15 octombrie, complexul palatului prezidențial Al-Maashiq din Aden, unde își are sediul guvernul recunoscut internațional. Ministrul yemenit al Sănătății a anunțat cinci morți și 16 răniți, iar premierul și membrii cabinetului au rămas teferi. Noile relatări indică o escaladare mai amplă, cu atacuri aeriene saudite asupra infrastructurii petroliere și extinderea luptelor pe alte fronturi.",
     "content_ro": "• **Pe 15 octombrie**, rebelii Houthi au atacat cu rachete palatul Al-Maashiq din Aden. HotNews a relatat despre cinci rachete, iar Mediafax despre mai multe valuri de atacuri cu rachete și drone; purtătorul de cuvânt militar al rebelilor a spus că ținta era un centru de operațiuni al forțelor saudite.\n\n• **Bilanțul victimelor diferă între relatări:** HotNews a menționat cel puțin patru morți și peste zece răniți, în timp ce ministrul yemenit al Sănătății a anunțat cinci morți și 16 răniți. Printre victime se numără membri ai pazei și angajați civili.\n\n• **Liderii guvernului yemenit au rămas teferi:** premierul și membrii cabinetului nu au fost răniți, iar guvernul a declarat că și-a continuat activitatea. Reuters nu a putut verifica independent afirmațiile Houthi potrivit cărora în palat funcționa un centru de operațiuni militare saudite.\n\n• **Potrivit bilanțului prezentat de coaliția condusă de Arabia Saudită**, Houthi au atacat de 20 de ori aeroportul internațional King Khalid din Riad în octombrie. Coaliția a atribuit atacurilor asupra Riadului 17 morți și 333 de răniți, iar celor asupra aeroportului Abha încă trei morți și 28 de răniți; presa nu a verificat independent aceste cifre. Coaliția a mai anunțat interceptarea a două drone.\n\n• **Arabia Saudită a lovit instalații petroliere din Yemen:** potrivit Digi24, au fost atacate depozitul Central Sabaha, de lângă capitala Sanaa, și depozitele petroliere din portul Ras Isa, în provincia Hodeidah. Compania Petrolieră din Yemen a declarat că rezervoarele de la Central Sabaha erau goale în momentul atacului, desfășurat în mai multe valuri. A fost lovită și zona Bani Mu’in din nord, considerată de saudiți ascunzătoarea unor lideri Houthi.\n\n• **Houthi au amenințat cu represalii:** purtătorul de cuvânt al grupării le-a cerut angajaților și civililor din apropierea instalațiilor Aramco din Riad să le evacueze, declarându-le ținte legitime. Un expert a avertizat că dronele mai mici, care zboară la altitudine joasă, sunt mai greu de detectat și ieftine, în timp ce Arabia Saudită deține superioritatea aeriană asupra Yemenului.\n\n• **Luptele s-au extins și în zona orașului Taiz:** potrivit relatărilor, Houthi s-au apropiat de orașul din sud și au putut lansa rachete asupra zonelor rezidențiale; forțele guvernamentale au trimis întăriri în unele districte din provincia Lahij. Consiliul de Tranziție din Sud, care urmărește și obiective separatiste, încearcă la rândul său să-și sporească rolul în lupta împotriva Houthi.\n\n• **Strâmtoarea Bab el-Mandeb rămâne un front strategic:** confruntările au loc în apropierea unei rute importante pentru navigația comercială internațională. Arabia Saudită acuză Iranul că îi înarmează și îi sprijină pe Houthi, iar Teheranul neagă că i-ar furniza arme cu încălcarea embargoului ONU."
-  },
-  {
-    "group_id": "group_1e3b10c117",
-    "fingerprint": "ee7a72dcd3d7092f45554ac3b53fa50e",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fara-titlu-3-1024x607.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Atac armat într-o școală primară din SUA. Copii printre victime, atacatorul a fost ucis",
-        "link": "https://www.mediafax.ro/externe/atac-armat-intr-o-scoala-primara-din-sua-copii-printre-victime-atacatorul-a-fost-ucis-23826321"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac armat într-o școală primară din SUA. Cel puțin cinci morți, atacatorul a fost ucis",
-        "link": "https://www.mediafax.ro/externe/atac-armat-intr-o-scoala-primara-din-sua-cel-putin-cinci-morti-atacatorul-a-fost-ucis-23826321"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac armat într-o școală primară din SUA. Trei copii și un profesor au fost uciși de un adolescent",
-        "link": "https://www.mediafax.ro/externe/atac-armat-intr-o-scoala-primara-din-sua-trei-copii-si-un-profesor-au-fost-ucisi-de-un-adolescent-23826321"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Atac sângeros într-o școală din SUA. Trei copii și un profesor au fost uciși de un adolescent",
-        "link": "https://adevarul.ro/stiri-externe/sua/atac-sangeros-intr-o-scoala-din-sua-trei-copii-si-2564359.html"
-      }
-    ],
-    "published_at": 1792123421,
-    "title_hu": "Négy áldozatot követelt az oregoni iskolai lövöldözés, a 16 éves támadó is meghalt",
-    "lead_hu": "Három gyermek és egy tanár vesztette életét a Silver Rail általános iskolában, az oregoni Bend városában történt lövöldözésben. A 16 éves támadó meghalt; egy másik gyermeket és egy tanárt kritikus állapotban kórházba szállítottak.",
-    "content_hu": "• **Három gyermek és egy tanár** halt meg a Silver Rail általános iskolában történt támadásban. Az áldozatul esett gyermekek 5, 8 és 11 évesek voltak.\n\n• **A 16 éves, Bendben élő támadó** erőszakkal jutott be az iskolába, miután rálőtt a bezárt ajtókra. Egy, a helyszínen tartózkodó személy lelőtte; a fiút holtan találták az épületen belül.\n\n• **Egy 7 éves gyermek és egy 54 éves tanár** kritikus állapotban került kórházba – közölte Mike Krantz, Bend rendőrfőnöke.\n\n• **A támadó egy pumpás sörétes puskát használt**, amelyet egy rendvédelmi forrás szerint az édesanyja vásárolt. A rendőrség nem tudta, hogy a fiú ismert-e valakit az iskolából, vagy korábban annak tanulója volt-e.\n\n• **A hatóságok helyi idő szerint 12:59-kor kapták az első segélyhívást**, miután valaki az iskola közelében egy autóra lőtt. Az intézményt lezárták, a termeket átvizsgálták, majd megkezdték az épület kiürítését.",
-    "title_ro": "Patru victime în atacul armat de la școala din Oregon; atacatorul de 16 ani a murit",
-    "lead_ro": "Trei copii și un profesor au fost uciși în atacul armat de la școala primară Silver Rail din Bend, Oregon. Atacatorul, în vârstă de 16 ani, a murit, iar un alt copil și un profesor au fost transportați la spital în stare critică.",
-    "content_ro": "• **Trei copii și un profesor** au fost uciși în atacul de la școala primară Silver Rail. Copiii uciși aveau 5, 8 și 11 ani.\n\n• **Atacatorul, un adolescent de 16 ani din Bend,** a pătruns cu forța în școală după ce a tras asupra ușilor încuiate. O persoană aflată la fața locului l-a împușcat, iar adolescentul a fost găsit mort în interiorul clădirii.\n\n• **Un copil de 7 ani și un profesor de 54 de ani** au fost transportați la spital în stare critică, a declarat Mike Krantz, șeful poliției din Bend.\n\n• **Atacatorul a folosit o pușcă de tip pump-action**, cumpărată de mama sa, potrivit unei surse din cadrul forțelor de ordine. Poliția nu știa dacă adolescentul cunoștea pe cineva din școală sau dacă fusese elev al acesteia.\n\n• **Autoritățile au primit primul apel de urgență la ora locală 12:59**, după ce o persoană a tras asupra unei mașini din apropierea școlii. Instituția a fost izolată, sălile au fost verificate, apoi a început evacuarea clădirii."
   },
   {
     "group_id": "group_f3cefd964e",
@@ -918,34 +1057,6 @@
     "title_ro": "EXCLUSIV | Șeful Dacia România, despre concurența chineză: „Nu suntem atât de naivi să credem că românii vor cumpăra Dacia doar pentru că este a noastră”",
     "lead_ro": "Dacia nu este ferită de concurența producătorilor chinezi pe piața din România, iar marca nu poate conta exclusiv pe faptul că este asociată cu industria auto românească pentru a-și păstra clienții, s…",
     "content_ro": "Dacia nu este ferită de concurența producătorilor chinezi pe piața din România, iar marca nu poate conta exclusiv pe faptul că este asociată cu industria auto românească pentru a-și păstra clienții, spune Mihai Bordeanu, Managing Director Dacia Brand South Eastern Europe și Country Head România, într-un interviu acordat Economedia la Salonul Auto de la Paris. […]"
-  },
-  {
-    "group_id": "group_ce6026669c",
-    "fingerprint": "edb878f7da56bc0eb316347a3803403b",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8163629-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Noua purtătoare de cuvânt a Casei Albe recunoaște că nu a promovat examenul de admitere în Barou",
-        "link": "https://www.mediafax.ro/externe/noua-purtatoare-de-cuvant-a-casei-albe-recunoaste-ca-nu-a-promovat-examenul-de-admitere-in-barou-23826347"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Purtătoarea de cuvânt a Casei Albe recunoaște că nu a promovat examenul de admitere în Barou",
-        "link": "https://adevarul.ro/stiri-externe/sua/purtatoarea-de-cuvant-a-casei-albe-recunoaste-ca-2564356.html"
-      }
-    ],
-    "published_at": 1792120786,
-    "title_hu": "Katie Zacharia elismerte, hogy nem tette le az ügyvédi kamarai vizsgát",
-    "lead_hu": "Katie Zacharia, a Fehér Ház új szóvivője csütörtökön megerősítette, hogy nem ment át az ügyvédi kamarai vizsgán. A nyilatkozat azután hangzott el, hogy kérdések merültek fel jogi szakmai múltjáról, miközben korábban ügyvédként hivatkozott magára, Donald Trump pedig szintén ügyvédnek nevezte.",
-    "content_hu": "• **Katie Zacharia, a Fehér Ház új szóvivője** csütörtökön a Fox News Hannity című műsorában elismerte, hogy nem tette le sikeresen az ügyvédi kamarai vizsgát.\n\n• **A második vizsgakísérletről kérdezve** azt válaszolta, hogy nem vizsgázott újra. Korábban azt állította, hogy a politikai pályára lépése előtt ügyvédként dolgozott, Donald Trump pedig ügyvédként mutatta be.\n\n• **Zacharia 2011-ben végzett jogi egyetemen** a Pepperdine Egyetem adatai szerint. Az Egyesült Államokban jogi diploma önmagában nem jogosít ügyvédi tevékenységre: ehhez kamarai felvétel szükséges.\n\n• **A szóvivő első sajtótájékoztatóját is bírálták:** kedden három újságíró kérdéseire válaszolt, majd kevesebb mint 15 perc után lezárta az eseményt. Trump megvédte a teljesítményét, Zacharia pedig azt mondta, kevés felkészülési idővel vállalta a sajtótájékoztatót.",
-    "title_ro": "Katie Zacharia recunoaște că nu a promovat examenul de admitere în Barou",
-    "lead_ro": "Katie Zacharia, noua purtătoare de cuvânt a Casei Albe, a confirmat joi că nu a promovat examenul de admitere în Barou. Declarația a venit după ce au apărut întrebări despre experiența sa juridică, deși anterior afirmase că a practicat avocatura, iar Donald Trump o prezentase drept avocat.",
-    "content_ro": "• **Katie Zacharia, noua purtătoare de cuvânt a Casei Albe**, a recunoscut joi, în emisiunea „Hannity” de la Fox News, că nu a promovat examenul de admitere în Barou.\n\n• **Întrebată dacă a susținut examenul a doua oară**, Zacharia a răspuns că nu. Anterior afirmase că a practicat avocatura înainte de a intra în politică, iar Donald Trump o descrisese drept avocat.\n\n• **Zacharia a absolvit Facultatea de Drept în 2011**, potrivit Universității Pepperdine. În Statele Unite, diploma în drept nu este suficientă pentru a practica avocatura: este necesară admiterea într-un barou.\n\n• **Prima sa conferință de presă a fost, de asemenea, criticată:** marți, a răspuns întrebărilor a doar trei jurnaliști, apoi a încheiat evenimentul în mai puțin de 15 minute. Trump i-a apărat prestația, iar Zacharia a spus că a susținut conferința cu foarte puțin timp de pregătire."
   },
   {
     "group_id": "group_2df41ee87d",
@@ -2702,27 +2813,6 @@
     "content_ro": "• **Grupul Aeronautic Național** ar reuni sub o guvernanță comună TAROM Tehnic, ROMAERO, IAR Ghimbav și Avioane Craiova, după modelul ROMARM. Acesta ar desfășura lucrări civile și militare de mentenanță și producție pentru piața internațională.\n\n• **Restructurarea TAROM** ar continua: Guvernul ar susține planul de afaceri revizuit pe doi ani, care trebuie să demonstreze viabilitatea companiei până la 31 decembrie 2026 și să protejeze ajutorul de stat aprobat, în valoare de 95,3 milioane de euro.\n\n• **În 2027 ar urma să fie atras un investitor strategic** pentru TAROM, după instalarea unui management profesionist. Investitorul ar putea prelua un pachet minoritar de 20–49% sau unul majoritar; mentenanța tehnică și rutele interne esențiale ar urma să fie menținute prin obligații de serviciu public.\n\n• **La Portul Constanța**, programul prevede accelerarea unor investiții de peste 900 de milioane de euro, inclusiv în capacități de operare, un hub de securitate maritimă și Ecluza Năvodari. Terminalele specializate ar fi concesionate competitiv, cu obligații privind traficul și investițiile private; pe Dunăre s-ar asigura pe tot parcursul anului adâncimile recomandate pentru navigație.\n\n• **Pentru degrevarea Aeroportului Otopeni**, Terminalul 2 ar urma să fie construit prin parteneriat public-privat sau concesiune competitivă, cu acces direct din A0 și legătură feroviară. Pe baza unui studiu de trafic, Guvernul ar analiza și ce curse ar putea fi preluate de Aeroportul Băneasa.\n\n• **Cota României din instrumentul SAFE, de circa 4,2 miliarde de euro**, ar fi folosită pentru modernizarea unor coridoare rutiere, feroviare și portuare, în sprijinul mobilității militare a forțelor naționale și aliate pe Flancul Estic."
   },
   {
-    "group_id": "group_7cf0f0ff2d",
-    "category": "Erdély",
-    "image": "https://cdn.adh.reperio.news/image-d/d695dccc-9d58-4590-8940-cf0f4128df9c/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Un bărbat a murit, iar alte două persoane au fost rănite după ce un autoturism a izbit violent un tractor",
-        "link": "https://adevarul.ro/stiri-locale/giurgiu/un-barbat-a-murit-iar-alte-doua-persoane-au-fost-2564352.html"
-      }
-    ],
-    "published_at": 1792098127,
-    "title_hu": "Un bărbat a murit, iar alte două persoane au fost rănite după ce un autoturism a izbit violent un tractor",
-    "lead_hu": "Un grav accident rutier s-a produs joi seară pe DJ 504, la limita dintre județele Giurgiu și Teleorman, după coliziunea dintre un autoturism și un tractor. În urma impactului, un bărbat și-a pierdut v…",
-    "content_hu": "Un grav accident rutier s-a produs joi seară pe DJ 504, la limita dintre județele Giurgiu și Teleorman, după coliziunea dintre un autoturism și un tractor. În urma impactului, un bărbat și-a pierdut viața, iar alte două persoane au fost transportate la spital cu multiple traumatisme.",
-    "title_ro": "Un bărbat a murit, iar alte două persoane au fost rănite după ce un autoturism a izbit violent un tractor",
-    "lead_ro": "Un grav accident rutier s-a produs joi seară pe DJ 504, la limita dintre județele Giurgiu și Teleorman, după coliziunea dintre un autoturism și un tractor. În urma impactului, un bărbat și-a pierdut v…",
-    "content_ro": "Un grav accident rutier s-a produs joi seară pe DJ 504, la limita dintre județele Giurgiu și Teleorman, după coliziunea dintre un autoturism și un tractor. În urma impactului, un bărbat și-a pierdut viața, iar alte două persoane au fost transportate la spital cu multiple traumatisme."
-  },
-  {
     "group_id": "group_7e2ee04cf1",
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-9/95533bc0-4595-4225-aaa6-2dbc7f19e21c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -3126,34 +3216,6 @@
     "title_ro": "Guvernul Niculescu promite 185 de kilometri de autostradă și drum expres până la sfârșitul lui 2026",
     "lead_ro": "Programul de guvernare 2026–2028 al premierului desemnat Luca Niculescu prevede deschiderea circulației a aproximativ 185 de kilometri de autostradă și drum expres până la sfârșitul anului 2026. Rețeaua ar putea depăși 2.000 de kilometri până în 2028, iar planul include noi drumuri expres, investiții feroviare și măsuri pentru siguranța rutieră.",
     "content_ro": "• **Până la sfârșitul anului 2026**, ar urma să fie dați în exploatare aproximativ 185 de kilometri de autostradă și drum expres, pe secțiuni din A7, A0 Nord, A3, A1 și DEx6 Brăila–Galați.\n\n• **Până în 2028**, rețeaua de mare viteză ar putea depăși 2.000 de kilometri, pe fondul avansului lucrărilor la A1 Sibiu–Pitești, A0, A7 și A8. Principalele coridoare TEN-T ar urma să fie finalizate până în 2030.\n\n• **Noile drumuri expres și planificarea infrastructurii** includ proiectele Arad–Oradea, Bacău–Piatra Neamț, Focșani–Brăila și Constanța–Tulcea, precum și continuarea centurilor orașelor aglomerate. Guvernul intenționează să actualizeze Master Planul General de Transport pentru orizontul 2040 și să contracteze documentații pentru aproximativ 2.000 de kilometri de infrastructură, în pregătirea accesării fondurilor europene 2028–2034.\n\n• **Finanțarea investițiilor** ar urma să provină din fonduri europene, instrumentul SAFE, parteneriate public-private și bugetul național. Proiectele care depășesc termenul de eligibilitate PNRR din 31 august 2026 ar continua din alte surse, inclusiv Programul Transport 2021–2027, CEF, împrumuturi de la Banca Europeană de Investiții și bugetul național, fără costuri de conservare sau sistare.\n\n• **Proiectele prioritare** includ secțiunea A7 Bacău–Pașcani, de 77 de kilometri, și tronsonul A1 Margina–Holdea, ambele cu termen de finalizare în 2027, precum și modernizarea tronsoanelor feroviare Cluj–Episcopia Bihor și Caransebeș–Arad până în 2028.\n\n• **Calendarul investițiilor și plățile** ar urma să fie susținute prin credite de angajament multianuale și criterii publice de prioritizare. Nicio achiziție nu ar începe fără finanțare asigurată pe întreaga durată a contractului; situațiile de lucrări certificate ar fi achitate în 30 de zile, iar stadiul plăților ar fi publicat lunar.\n\n• **Siguranța rutieră** ar urma să fie îmbunătățită prin sistemul e-SIGUR, audituri și eliminarea punctelor negre. Ținta este reducerea deceselor rutiere cu 25% până în 2028 și cu 50% până în 2030, față de nivelul din 2019.\n\n• **Sistemul de taxare TollRo** ar urma să intre în vigoare la 1 octombrie 2026, iar furnizorii europeni de servicii de taxare electronică să fie integrați începând cu 15 ianuarie 2027. Compensarea accizei pentru motorina folosită efectiv în transportul rutier comercial ar urma să devină un mecanism permanent, cu reguli predictibile."
-  },
-  {
-    "group_id": "group_b949009ff8",
-    "fingerprint": "0b1b168944dbd99c6888f5f3430d2b57",
-    "category": "Erdély",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNjE2NV8zMDE2/MTY1X3Byb2ZpbWVkaWEtMTA4ODI2NTM2/MS5qcGcmaGFzaD01Mjk3YTEwNzJhNGQwNzBlNjE5ZWY0NTNiODU2NzY3MA==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Accident la intrarea în Eurotunel, în Franța: 19 răniți după ce un microbuz a fost lovit de un tren de marfă",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/accident-la-intrarea-in-eurotunel-in-franta-19-raniti-dupa-ce-un-microbuz-a-fost-lovit-de-un-tren-de-marfa-3994643"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Un autobuz s-a ciocnit cu un tren în Tunelul Canalului Mânecii. 19 persoane au fost rănite",
-        "link": "https://www.mediafax.ro/externe/un-autobuz-s-a-ciocnit-cu-un-tren-in-tunelul-canalului-manecii-19-persoane-au-fost-ranite-23826308"
-      }
-    ],
-    "published_at": 1792095909,
-    "title_hu": "19-en megsérültek egy mikrobusz és egy tehervonat ütközésében az Eurotunnel közelében",
-    "lead_hu": "Csütörtök este egy mikrobusz és egy tehervonat ütközött össze a franciaországi Coquelles-nél, a Csatorna-alagút termináljának közelében. A balesetben 19-en érintettek, köztük a mikrobusz sofőrje; a hatóságok közlése szerint senki élete nincs veszélyben.",
-    "content_hu": "• **Csütörtök este, Coquelles-nél** történt a baleset a Csatorna-alagút franciaországi termináljának közelében. A mikrobusz teherautó-sofőröket szállított, akik a Le Shuttle járatra készültek felszállni.\n\n• **A mikrobusz és egy tehervonat ütközésében 19-en sérültek meg**, köztük a jármű vezetője. A hatóságok szerint egyik sérült sincs életveszélyben; az első tájékoztatás öt embert sorolt a legsúlyosabb sürgősségi kategóriába, de állapotuk várhatóan enyhébb besorolásra változik.\n\n• **A személyszállító vonatok közlekedését nem érintette a baleset.** Az Eurostar közölte, hogy járatai menetrend szerint közlekednek.",
-    "title_ro": "19 persoane rănite după coliziunea dintre un microbuz și un tren de marfă, lângă Eurotunel",
-    "lead_ro": "Joi seară, un microbuz și un tren de marfă s-au ciocnit la Coquelles, în apropierea terminalului francez al Tunelului Canalului Mânecii. În urma accidentului au fost rănite 19 persoane, inclusiv șoferul microbuzului; autoritățile au precizat că nicio viață nu este în pericol.",
-    "content_ro": "• **Joi seară, la Coquelles**, a avut loc accidentul în apropierea terminalului francez al Tunelului Canalului Mânecii. Microbuzul transporta șoferi de camioane care urmau să se îmbarce într-un tren Le Shuttle.\n\n• **Coliziunea dintre microbuz și trenul de marfă s-a soldat cu 19 persoane rănite**, inclusiv șoferul vehiculului. Potrivit autorităților, niciuna dintre victime nu este în pericol de moarte; primele informații au încadrat cinci persoane în categoria urgențelor absolute, dar starea lor urma să fie reclasificată ca urgență relativă.\n\n• **Traficul trenurilor de pasageri nu a fost afectat.** Eurostar a anunțat că trenurile sale circulă conform programului."
   },
   {
     "group_id": "group_1929aaaeca",
@@ -7881,253 +7943,5 @@
     "title_ro": "Oana Lis, decizie radicală după ce s-a săturat de jigniri! Ce a făcut în urmă cu puțin timp: „Cel mai scârbos”",
     "lead_ro": "Oana Lis este una dintre cele mai cunoscute personaje din showbizul românesc și rămâne activă pe rețelele de socializare, unde împărtășește frecvent momente din viața sa. Deși se bucură de aprecierea …",
     "content_ro": "Oana Lis este una dintre cele mai cunoscute personaje din showbizul românesc și rămâne activă pe rețelele de socializare, unde împărtășește frecvent momente din viața sa. Deși se bucură de aprecierea unei comunități numeroase de urmăritori, vedeta se confruntă și cu persoane care o critică sau îi adresează mesaje răutăcioase. Sătulă de comentariile jignitoare, soția […]"
-  },
-  {
-    "group_id": "group_b9b82beeca",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-3/37ee393c-9214-4630-9486-83a60efb605a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Funeriu, după rezultatele testului de logică pentru directorii de școli: „Să vezi ce nasoală e realitatea”",
-        "link": "https://adevarul.ro/stiri-interne/societate/funeriu-dupa-rezultatele-testului-de-logica-2564310.html"
-      }
-    ],
-    "published_at": 1792081927,
-    "title_hu": "Funeriu, după rezultatele testului de logică pentru directorii de școli: „Să vezi ce nasoală e realitatea”",
-    "lead_hu": "Fostul ministru al Educației, Daniel Funeriu, propune schimbarea radicală a modului în care sunt aleși directorii de școli, după ce aproximativ 30% dintre candidați au picat testul de logică.",
-    "content_hu": "Fostul ministru al Educației, Daniel Funeriu, propune schimbarea radicală a modului în care sunt aleși directorii de școli, după ce aproximativ 30% dintre candidați au picat testul de logică.",
-    "title_ro": "Funeriu, după rezultatele testului de logică pentru directorii de școli: „Să vezi ce nasoală e realitatea”",
-    "lead_ro": "Fostul ministru al Educației, Daniel Funeriu, propune schimbarea radicală a modului în care sunt aleși directorii de școli, după ce aproximativ 30% dintre candidați au picat testul de logică.",
-    "content_ro": "Fostul ministru al Educației, Daniel Funeriu, propune schimbarea radicală a modului în care sunt aleși directorii de școli, după ce aproximativ 30% dintre candidați au picat testul de logică."
-  },
-  {
-    "group_id": "group_cb63cd06e4",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/marian_godina1-1-1200x800.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Marian Godină, revoltat de discuțiile de pe grupul creșei! Ce au putut să scrie părinții",
-        "link": "https://www.cancan.ro/marian-godina-revoltat-de-discutiile-de-pe-grupul-cresei-ce-au-putut-sa-scrie-parintii-21530768"
-      }
-    ],
-    "published_at": 1792081849,
-    "title_hu": "Marian Godină, revoltat de discuțiile de pe grupul creșei! Ce au putut să scrie părinții",
-    "lead_hu": "Marian Godină a povestit pe Facebook despre experiența pe care o are în grupul de WhatsApp al părinților de la creșa unde este înscrisă fiica sa, Irina. Fostul polițist a relatat, în cheie ironică, di…",
-    "content_hu": "Marian Godină a povestit pe Facebook despre experiența pe care o are în grupul de WhatsApp al părinților de la creșa unde este înscrisă fiica sa, Irina. Fostul polițist a relatat, în cheie ironică, discuțiile purtate de unii părinți despre meniul copiilor și efectele pe care anumite alimente le-ar avea asupra celor mici. Acesta a […]",
-    "title_ro": "Marian Godină, revoltat de discuțiile de pe grupul creșei! Ce au putut să scrie părinții",
-    "lead_ro": "Marian Godină a povestit pe Facebook despre experiența pe care o are în grupul de WhatsApp al părinților de la creșa unde este înscrisă fiica sa, Irina. Fostul polițist a relatat, în cheie ironică, di…",
-    "content_ro": "Marian Godină a povestit pe Facebook despre experiența pe care o are în grupul de WhatsApp al părinților de la creșa unde este înscrisă fiica sa, Irina. Fostul polițist a relatat, în cheie ironică, discuțiile purtate de unii părinți despre meniul copiilor și efectele pe care anumite alimente le-ar avea asupra celor mici. Acesta a […]"
-  },
-  {
-    "group_id": "group_58afc596aa",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/15/162945/vlcsnap-2026-10-15-19h29m34s579.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "ANIMAȚIE. Cum au fost rase de pe fața pământului două case, în Vrancea. „Zburau bolovanii pe sus ca rachetele”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/explozia-din-vrancea-a-distrus-complet-doua-case-o-anexa-si-a-afectat-alte-sapte-locuinte-zburau-bolovanii-pe-sus-ca-rachetele.html"
-      }
-    ],
-    "published_at": 1792081812,
-    "title_hu": "ANIMAȚIE. Cum au fost rase de pe fața pământului două case, în Vrancea. „Zburau bolovanii pe sus ca rachetele”",
-    "lead_hu": "Explozie devastatoare într-o localitate din Vrancea. Două case și o anexă au fost complet distruse, iar un bărbat de 53 de ani a suferit arsuri pe aproape jumătate din corp....",
-    "content_hu": "Explozie devastatoare într-o localitate din Vrancea. Două case și o anexă au fost complet distruse, iar un bărbat de 53 de ani a suferit arsuri pe aproape jumătate din corp.",
-    "title_ro": "ANIMAȚIE. Cum au fost rase de pe fața pământului două case, în Vrancea. „Zburau bolovanii pe sus ca rachetele”",
-    "lead_ro": "Explozie devastatoare într-o localitate din Vrancea. Două case și o anexă au fost complet distruse, iar un bărbat de 53 de ani a suferit arsuri pe aproape jumătate din corp....",
-    "content_ro": "Explozie devastatoare într-o localitate din Vrancea. Două case și o anexă au fost complet distruse, iar un bărbat de 53 de ani a suferit arsuri pe aproape jumătate din corp."
-  },
-  {
-    "group_id": "group_d2bab58bd9",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-d/d190361f-04a0-49e8-b2e1-924a5da981d5/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Devine Marea Neagră un lac ruso-turc? Ce face România",
-        "link": "https://adevarul.ro/blogurile-adevarul/devine-marea-neagra-un-lac-ruso-turc-ce-face-2564315.html"
-      }
-    ],
-    "published_at": 1792081784,
-    "title_hu": "Devine Marea Neagră un lac ruso-turc? Ce face România",
-    "lead_hu": "Bulgaria, România și Turcia încearcă să scadă temperatura războiului în Marea Neagră, unde circa 250 de nave comerciale au fost atacate de la începutul invaziei rusești în Ucraina, cele mai multe în a…",
-    "content_hu": "Bulgaria, România și Turcia încearcă să scadă temperatura războiului în Marea Neagră, unde circa 250 de nave comerciale au fost atacate de la începutul invaziei rusești în Ucraina, cele mai multe în anul acesta.",
-    "title_ro": "Devine Marea Neagră un lac ruso-turc? Ce face România",
-    "lead_ro": "Bulgaria, România și Turcia încearcă să scadă temperatura războiului în Marea Neagră, unde circa 250 de nave comerciale au fost atacate de la începutul invaziei rusești în Ucraina, cele mai multe în a…",
-    "content_ro": "Bulgaria, România și Turcia încearcă să scadă temperatura războiului în Marea Neagră, unde circa 250 de nave comerciale au fost atacate de la începutul invaziei rusești în Ucraina, cele mai multe în anul acesta."
-  },
-  {
-    "group_id": "group_43fc9a3fdf",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/nightwish.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "VIDEO Trupa Nightwish a anunţat despărţirea de solista Floor Jansen / ”Decizie necesară şi importantă pentru noi şi pentru ambiţiile noastre de viitor”",
-        "link": "https://www.g4media.ro/video-trupa-nightwish-a-anuntat-despartirea-de-solista-floor-jansen-decizie-necesara-si-importanta-pentru-noi-si-pentru-ambitiile-noastre-de-viitor.html"
-      }
-    ],
-    "published_at": 1792081674,
-    "title_hu": "VIDEO Trupa Nightwish a anunţat despărţirea de solista Floor Jansen / ”Decizie necesară şi importantă pentru noi şi pentru ambiţiile noastre de viitor”",
-    "lead_hu": "Trupa finlandeză Nightwish a anunţat joi, într-un comunicat publicat pe contul său de Instagram, că s-a despărţit de solista Floor Jansen, transmite publicaţia dedicată muzicii metal Kerrang, transmit…",
-    "content_hu": "Trupa finlandeză Nightwish a anunţat joi, într-un comunicat publicat pe contul său de Instagram, că s-a despărţit de solista Floor Jansen, transmite publicaţia dedicată muzicii metal Kerrang, transmite Agerpres. „După o analiză atentă, am decis, de comun acord, să ne despărţim. Această decizie este necesară şi importantă pentru noi şi pentru ambiţiile noastre de viitor. […] © G4Media.ro.",
-    "title_ro": "VIDEO Trupa Nightwish a anunţat despărţirea de solista Floor Jansen / ”Decizie necesară şi importantă pentru noi şi pentru ambiţiile noastre de viitor”",
-    "lead_ro": "Trupa finlandeză Nightwish a anunţat joi, într-un comunicat publicat pe contul său de Instagram, că s-a despărţit de solista Floor Jansen, transmite publicaţia dedicată muzicii metal Kerrang, transmit…",
-    "content_ro": "Trupa finlandeză Nightwish a anunţat joi, într-un comunicat publicat pe contul său de Instagram, că s-a despărţit de solista Floor Jansen, transmite publicaţia dedicată muzicii metal Kerrang, transmite Agerpres. „După o analiză atentă, am decis, de comun acord, să ne despărţim. Această decizie este necesară şi importantă pentru noi şi pentru ambiţiile noastre de viitor. […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_b8ff92d86b",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/01072026/478dbd6d-7b8e-4a4f-ac4c-41f1f760fbe5.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Adrian Mutu, prima reacție după ce GSP a dezvăluit că e favorit să preia echipa: „Condițiile sunt extraordinare”",
-        "link": "https://www.gsp.ro/fotbal/nationala/adrian-mutu-a-rupt-tacerea-despre-revenirea-la-nationala-romaniei-u21-988492.html"
-      }
-    ],
-    "published_at": 1792081592,
-    "title_hu": "Adrian Mutu, prima reacție după ce GSP a dezvăluit că e favorit să preia echipa: „Condițiile sunt extraordinare”",
-    "lead_hu": "Adrian Mutu a confirmat că se află în dialog cu Mihai Stoichiță și cu președintele FRF, Răzvan Burleanu, în privința unei posibile reveniri pe banca naționalei României U21, dar s-a ferit să confirme …",
-    "content_hu": "Adrian Mutu a confirmat că se află în dialog cu Mihai Stoichiță și cu președintele FRF, Răzvan Burleanu, în privința unei posibile reveniri pe banca naționalei României U21, dar s-a ferit să confirme negocierile, având în vedere că încă nu s-a încheiat oficial acordul lui Costin Curelea. ...",
-    "title_ro": "Adrian Mutu, prima reacție după ce GSP a dezvăluit că e favorit să preia echipa: „Condițiile sunt extraordinare”",
-    "lead_ro": "Adrian Mutu a confirmat că se află în dialog cu Mihai Stoichiță și cu președintele FRF, Răzvan Burleanu, în privința unei posibile reveniri pe banca naționalei României U21, dar s-a ferit să confirme …",
-    "content_ro": "Adrian Mutu a confirmat că se află în dialog cu Mihai Stoichiță și cu președintele FRF, Răzvan Burleanu, în privința unei posibile reveniri pe banca naționalei României U21, dar s-a ferit să confirme negocierile, având în vedere că încă nu s-a încheiat oficial acordul lui Costin Curelea. ..."
-  },
-  {
-    "group_id": "group_dfa7806656",
-    "fingerprint": "cdeccab7e9812155a12aa4d4c36fe6b5",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/14/190450/yara-j-getty.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Reacția lui Miruță după ce o navă a fost lovită în apropiere de Sulina: „Nu au ce căuta drone în spațiul aerian național”",
-        "link": "https://www.digi24.ro/stiri/actualitate/reactia-lui-miruta-dupa-ce-o-nava-a-fost-lovita-in-apropiere-de-sulina-nu-au-ce-cauta-drone-in-spatiul-aerian-national-3992919"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Nouă alertă în Marea Neagră. Un incendiu a izbucnit la bordul unei nave în apropiere de Sulina",
-        "link": "https://stirileprotv.ro/stiri/actualitate/alerta-in-marea-neagra-o-noua-nava-ar-fi-fost-atacata-in-apropiere-de-sulina.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Imagini cu nava lovită în apropiere de Sulina: „Este o criză a Mării Negre în momentul acesta”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/imagini-cu-nava-lovita-in-apropiere-de-sulina-este-o-criza-a-marii-negre-in-momentul-acesta.html"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Incident fără precedent la Sulina: O navă ar fi fost lovită de o dronă în apele teritoriale românești. Incendiu la bord",
-        "link": "https://www.ebihoreanul.ro/stiri/incident-fara-precedent-la-sulina-o-nava-ar-fi-fost-lovita-de-o-drona-in-apele-teritoriale-romanesti-incendiu-la-bord-205824.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING | Navă care transportă substanțe chimice, incendiată lângă Sulina după ce mai multe drone au intrat în teritoriul României în ultimele 24 de ore / Opt membri ai echipajului ”Wine Trader”, dați dispăruți",
-        "link": "https://www.g4media.ro/breaking-nava-care-transporta-substante-chimice-incendiata-langa-sulina-dupa-ce-mai-multe-drone-au-intrat-in-teritoriul-romaniei-in-ultimele-24-de-ore-opt-membri-ai-echipajului-wine-trad.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Incendii la bordul a două nave, în apropiere de Sulina. Opt marinari sunt dați dispăruți. Primele imagini de la operațiunea de salvare",
-        "link": "https://www.mediafax.ro/social/incendii-la-bordul-a-doua-nave-in-apropiere-de-sulina-opt-marinari-sunt-dati-disparuti-primele-imagini-de-la-operatiunea-de-salvare-23825697"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Intervenție contracronometru, în valuri puternice, aproape de Sulina, după incendiul raportat la nava „Wine Trader”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/filmul-operatiunii-de-salvare-de-pe-marea-neagra-salvatorii-intervin-in-conditii-dificile-dupa-incendiul-de-pe-nava.html"
-      }
-    ],
-    "published_at": 1792081441,
-    "title_hu": "Két egymást követő hajótűz Sulina közelében: hét tengerész eltűnt, a dróntalálatokról újabb állítások jelentek meg",
-    "lead_hu": "Október 14-én a Yara J, másnap reggel pedig a Wine Trader fedélzetén ütött ki tűz Sulina közelében. A Wine Trader 12 fős legénységéből öt tengerészt kimentettek, hét továbbra is eltűnt; a túlélők három drónról számoltak be, miközben az incidensek körülményeit tovább vizsgálják.",
-    "content_hu": "• **2026. október 14-én este** tűz ütött ki a Comore-szigeteki zászló alatt közlekedő Yara J teherhajón Sulinától mintegy 8–10 tengeri mérföldre délkeletre, román felségvizeken. Az IMO 9221803 azonosítójú hajó ballasztosan, horgonyon állt, és a beszámolók szerint több napja várakozott a térségben.\n\n• **A Yara J legénysége biztonságban volt, a tüzet eloltották.** A parti őrség szerint a hajó jelezte a fedélzeti tüzet, majd arról számolt be, hogy eloltotta, és nincs szüksége segítségre. A fedélzeten 17 tengerész tartózkodott; sérülésről nem érkezett jelentés. A beszámolók eltérnek arról, hogy a legénység elhagyta-e a hajót.\n\n• **A Yara J esetleges dróntalálatát kezdetben nem erősítették meg.** Radu Miruță ügyvivő védelmi miniszter közölte, hogy a minisztérium és a parti őrség radarjai nem észleltek a hajó felé tartó drónt. A hajót Konstancába irányították műszaki vizsgálatra; Miruță szerint a tüzet 20:23-kor jelentették rádión.\n\n• **A Yara J útvonaláról és rakományáról eltérő információk jelentek meg.** Egyes beszámolók szerint a hajó a törökországi Yalovából Ismail felé tartott, ahol olajat rakodott volna; mások dunai kikötőt vagy Ukrajnát említettek úti célként. A hajót üresként, ballasztosan is leírták, a részleteket a hatóságok nem erősítették meg.\n\n• **A tengerészek szakszervezetének vezetője támadásról beszélt.** Adrian Mihălcioiu szerint a Yara J-t a Sulina előtti horgonyzóhelyen érte támadás, és ez lehet az első ilyen eset Románia felségvizein. A legénységet tíz indiai, hat szíriai tengerészből és egy iraki kapitányból állónak írta le.\n\n• **Október 15-én reggel a Wine Trader fedélzetén is tűz keletkezett.** A San Marinó-i zászló alatt közlekedő, vegyianyag-szállító hajó Sulinától mintegy 13–14 tengeri mérföldre volt; az IMO-azonosítója 8808707. Az ARSVOM 06:58-kor kapott felkérést a mentésre, a SAR Apollo 07:10-kor indult a helyszínre. Egyes források Wide Traderként nevezték meg a hajót.\n\n• **A Wine Trader 12 fős legénységéből öt embert kimentettek, hét továbbra is eltűnt.** A kezdeti jelentések még négy biztonságban lévő tengerészről és nyolc eltűntről szóltak; a mentés előrehaladtával a mérleg öt kimentettre és hét eltűntre változott. Öt tengerészt Black Hawk helikopterrel Konstancába szállítottak; közülük egyet 3 százalékos testfelületen keletkezett felületes égési sérülés miatt kórházban tartottak, egy másiknál enyhe füstmérgezést állapítottak meg.\n\n• **A Wine Tradert ért dróntámadásról újabb állítások jelentek meg.** A túlélők a beszámolók szerint azt mondták, hogy három drón találta el a hajót; egy Digi24-jelentés szerint Nicușor Dan elnök megerősítette, hogy a két hajót drónok találták el. A román hatóságok korábbi közlései még nem erősítették meg a drónok szerepét, a körülmények tisztázása folyamatban van.\n\n• **A mentést a viharos tenger nehezítette.** A hullámok magassága a beszámolók szerint 4–5 méter volt. Két, csörlős mentésre alkalmas Black Hawk helikoptert, a SAR Apollót, a Fifi mentőhajót, további hajókat, valamint a határőrség és a katasztrófavédelem egységeit mozgósították. A mentők a hajó belső részeit is átvizsgálták az eltűntek kereséséhez.\n\n• **A Wine Trader útjáról is közöltek részleteket.** A hajó október 5-én indult a tunéziai Sfaxból, és október 11-ére várták Sulinába. Egy beszámoló szerint Moldova volt az úti célja; a pontos rakományt nem közölték.\n\n• **Október 14-én este két légi célpont lépett be a román légtérbe.** A védelmi minisztérium szerint 20:04-kor észlelték őket; az egyik radarjele a tenger felett eltűnt, a másik 20:13-kor Ukrajna felé távozott, majd Reni térségében az ukrán légvédelem megsemmisítette. A lehetséges Galați felé tartó pálya miatt 20:33-kor RO-Alert-üzenetet adtak ki Galați megye keleti részére; a légiriadó 21:14-kor ért véget. Spanyol F-18-asokat is riasztottak.\n\n• **Október 15-én hajnalban újabb drónészlelést jelentettek.** A román radarok 01:34-kor körülbelül egy percre drónt észleltek a román légtérben, Sulinától délkeletre, a felségvizek felett, majd a célpont eltűnt. Spanyol F-18-asokat, később a Kígyó-sziget közelében észlelt célpontok miatt román F-16-osokat is riasztottak. 04:57-kor RO-Alert-üzenetet adtak ki Tulcea megye északi és keleti részére; a riasztás 05:46-kor ért véget. Brăila megyében 08:37-kor is drónveszély miatti riasztást adtak ki, amely 10:27-kor ért véget.\n\n• **Miruță szerint Romániának diplomáciai úton kell tiltakoznia a drónincursiók ellen.** A miniszter súlyosnak nevezte, ha drón hatol be a román légtérbe, és nagyobb NATO-szövetségesi jelenlétet sürgetett a Fekete-tenger térségében. Azt mondta, irreális elvárás minden légi célpont észlelése és elfogása a Romániánál kétszer nagyobb tenger felett; egy súlyos incidens és a háború kihirdetése között pedig sok lépés van.\n\n• **A román és a bolgár védelmi miniszter közös NATO-levélről egyeztetett.** Miruță közlése szerint bolgár kollégája elfogadta a közös fellépésre tett javaslatot. Október 15-én Nicușor Dan román elnök, Rumen Radev bolgár miniszterelnök és Mark Rutte NATO-főtitkár a Fekete-tenger biztonságáról és a kereskedelmi hajókat érő támadásokról tárgyalt.\n\n• **A bolgár partok közelében október 13-án két teherhajót ért dróntámadás.** A HS Dignity elsüllyedt, 11 tengerész eltűnt; a keresést a rossz idő és a sötétség miatt megszakították, majd újraindították. Szófia bekérette az orosz nagykövetet. Rumen Radev szerint a támadásokból Oroszország profitál, ezért a támadások logikája Moszkva irányába mutat. Október 6-án ugyanott két másik teherhajót is dróntámadás ért.\n\n• **A román külügyminisztérium a vizsgálatok eredményére vár.** A tárca közlése szerint az első riasztás óta kapcsolatban áll az illetékes intézményekkel, és a körülmények tisztázása után tájékoztathatja a nemzetközi partnereket, illetve nyilvánosan is reagálhat. A NATO-szerződés 4. cikkének esetleges alkalmazásáról a vizsgálat után nyilatkoznak.\n\n• **A Fekete-tenger térségében a kereskedelmi hajózás egyre nagyobb kockázatokkal szembesül.** A beszámolók szerint az orosz támadások miatt Ukrajna fokozottan támaszkodik a dunai kikötőkre és a Románia, illetve Bulgária partjaihoz közeli útvonalakra; Ukrajna ugyanakkor orosz gabonát szállító hajókat is célba vett. Egy ProTV-beszámoló szerint a nyár eleje óta több mint 35 tengerész halt meg vagy tűnt el a Fekete-tengeren történt dróntámadásokban.",
-    "title_ro": "Incendii pe două nave lângă Sulina: șapte marinari sunt dispăruți, iar apar noi afirmații despre atacuri cu drone",
-    "lead_ro": "Pe 14 octombrie, un incendiu a izbucnit la bordul navei Yara J, iar în dimineața următoare un alt incendiu a fost raportat pe Wine Trader, în apropiere de Sulina. Cinci dintre cei 12 membri ai echipajului Wine Trader au fost salvați, iar șapte sunt în continuare dați dispăruți; supraviețuitorii au relatat că trei drone au lovit nava, în timp ce circumstanțele incidentelor sunt investigate.",
-    "content_ro": "• **În seara de 14 octombrie 2026**, un incendiu a izbucnit la bordul navei Yara J, sub pavilionul Insulelor Comore, la aproximativ 8–10 mile marine sud-est de Sulina, în apele teritoriale românești. Nava, cu numărul IMO 9221803, era în balast, ancorată și, potrivit relatărilor, aștepta de mai multe zile în zonă.\n\n• **Echipajul navei Yara J a fost în siguranță, iar incendiul a fost stins.** Garda de Coastă a transmis că nava a raportat incendiul, apoi a anunțat că l-a stins și că nu mai are nevoie de sprijin. La bord se aflau 17 marinari; nu au fost raportate victime. Relatările diferă în privința evacuării echipajului.\n\n• **O posibilă lovire a navei Yara J de către o dronă nu a fost confirmată inițial.** Ministrul interimar al Apărării, Radu Miruță, a declarat că radarele ministerului și ale Gărzii de Coastă nu au detectat o dronă venind spre navă. Vasul a fost îndrumat către Constanța pentru verificări tehnice; potrivit lui Miruță, incendiul a fost anunțat prin radio la ora 20:23.\n\n• **Au apărut informații diferite despre ruta și încărcătura navei Yara J.** Unele relatări au indicat că venea din Yalova, Turcia, și se îndrepta spre Ismail, unde urma să încarce petrol; altele au menționat un port de pe Dunăre sau Ucraina ca destinație. Nava a fost descrisă atât ca goală, în balast, cât și ca fiind destinată transportului de produse petroliere ori chimice; autoritățile nu au confirmat aceste detalii.\n\n• **Liderul sindicatului navigatorilor a vorbit despre un atac.** Adrian Mihălcioiu a declarat că Yara J ar fi fost atacată în rada Sulina și că ar putea fi primul incident de acest fel în apele teritoriale românești. El a descris echipajul ca fiind format din zece marinari indieni, șase sirieni și un comandant irakian.\n\n• **În dimineața de 15 octombrie a izbucnit un incendiu și la bordul navei Wine Trader.** Nava, sub pavilion San Marino și descrisă ca transportator de produse chimice, se afla la aproximativ 13–14 mile marine de Sulina; numărul său IMO este 8808707. ARSVOM a fost solicitată la ora 06:58, iar nava SAR Apollo a plecat spre locul incidentului la 07:10. Unele surse au numit vasul Wide Trader.\n\n• **Cinci dintre cei 12 membri ai echipajului Wine Trader au fost salvați, iar șapte sunt încă dați dispăruți.** Primele informații indicau patru persoane în siguranță și opt dispărute; bilanțul s-a modificat pe măsură ce operațiunea de salvare a avansat. Cinci marinari au fost transportați cu un elicopter Black Hawk la Constanța; unul a rămas internat cu arsuri superficiale pe 3% din suprafața corpului, iar un altul a avut o intoxicație ușoară cu fum.\n\n• **Au apărut noi afirmații despre lovirea navei Wine Trader de către drone.** Potrivit relatărilor, supraviețuitorii au spus că trei drone au lovit nava; o relatare Digi24 a afirmat că președintele Nicușor Dan a confirmat că cele două nave au fost lovite de drone. Comunicările inițiale ale autorităților române nu confirmaseră implicarea dronelor, iar circumstanțele sunt în continuare verificate.\n\n• **Misiunea de salvare a fost îngreunată de marea agitată.** Valurile au ajuns, potrivit relatărilor, la 4–5 metri. Au fost mobilizate două elicoptere Black Hawk echipate pentru salvare prin troliere, nava SAR Apollo, nava de intervenție Fifi, alte ambarcațiuni și echipe ale Poliției de Frontieră și ale Inspectoratului pentru Situații de Urgență. Salvatorii au verificat și interiorul navei în căutarea celor dispăruți.\n\n• **Au fost relatate și detalii despre voiajul navei Wine Trader.** Vasul a plecat pe 5 octombrie din portul tunisian Sfax, iar sosirea la Sulina era așteptată pe 11 octombrie. O relatare a indicat Republica Moldova drept destinație; încărcătura exactă nu a fost precizată.\n\n• **În seara de 14 octombrie, două ținte aeriene au pătruns în spațiul aerian românesc.** Potrivit Ministerului Apărării, au fost detectate la ora 20:04; contactul radar cu una s-a pierdut deasupra mării, iar cealaltă a părăsit spațiul aerian la 20:13, îndreptându-se spre Ucraina, unde a fost distrusă de apărarea antiaeriană ucraineană în zona Reni. La 20:33 a fost emis un mesaj RO-Alert pentru estul județului Galați, iar alerta aeriană s-a încheiat la 21:14. Au fost ridicate de la sol avioane F-18 spaniole.\n\n• **În zorii zilei de 15 octombrie a fost raportată o nouă detectare de dronă.** Radarele românești au observat la 01:34, timp de aproximativ un minut, o dronă în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale, după care ținta a dispărut. Au fost trimise avioane F-18 spaniole, iar ulterior, după detectarea altor ținte în apropierea Insulei Șerpilor, au decolat și avioane F-16 românești. La 04:57 a fost emis RO-Alert pentru nordul și estul județului Tulcea, alerta încetând la 05:46. În județul Brăila a fost emisă o alertă privind o posibilă incursiune de drone între 08:37 și 10:27.\n\n• **Miruță a cerut proteste diplomatice față de incursiunile dronelor.** Ministrul a calificat drept gravă pătrunderea dronelor în spațiul aerian românesc și a cerut o prezență aliată mai mare în zona Mării Negre. El a spus că este nerealist să se aștepte detectarea și interceptarea tuturor țintelor deasupra unei mări de două ori mai întinse decât România și a adăugat că între un incident grav și declararea războiului sunt mulți pași.\n\n• **Miniștrii apărării din România și Bulgaria au discutat despre o scrisoare comună către NATO.** Potrivit lui Miruță, omologul bulgar a acceptat propunerea unei acțiuni comune. Pe 15 octombrie, președintele României, Nicușor Dan, premierul bulgar Rumen Radev și secretarul general al NATO, Mark Rutte, au discutat despre securitatea la Marea Neagră și atacurile recente asupra transportului comercial maritim.\n\n• **Pe 13 octombrie, două nave comerciale au fost lovite de drone în largul Bulgariei.** Nava HS Dignity s-a scufundat, iar 11 marinari au fost dați dispăruți; căutările au fost suspendate din cauza vremii și a întunericului, apoi reluate. Sofia l-a convocat pe ambasadorul Rusiei. Rumen Radev a afirmat că Rusia beneficiază de pe urma atacurilor și că logica acestora indică Moscova. Pe 6 octombrie, alte două nave comerciale fuseseră lovite de drone în aceeași zonă.\n\n• **Ministerul român de Externe așteaptă rezultatele investigațiilor.** Instituția a transmis că este în contact cu autoritățile competente încă de la prima alertă și că, după clarificarea circumstanțelor, este pregătită să informeze partenerii internaționali și să reacționeze public. O eventuală aplicare a articolului 4 din Tratatul NATO va fi comentată după încheierea verificărilor.\n\n• **Transportul comercial din regiunea Mării Negre se confruntă cu riscuri tot mai mari.** Potrivit relatărilor, atacurile rusești au determinat Ucraina să se bazeze mai mult pe porturile dunărene și pe rutele maritime din apropierea coastelor României și Bulgariei; la rândul său, Ucraina a vizat nave care transportă cereale rusești. O relatare ProTV susține că, de la începutul verii, peste 35 de marinari au murit sau au fost dați dispăruți în urma atacurilor cu drone din Marea Neagră."
-  },
-  {
-    "group_id": "group_c4fcd53218",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2026/04/calcul-cuantic-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "România intră pe harta calculului cuantic: Iașiul va găzdui unul dintre cele mai mari huburi de aplicații cuantice din UE",
-        "link": "https://economedia.ro/romania-intra-pe-harta-calculului-cuantic-iasiul-va-gazdui-unul-dintre-cele-mai-mari-huburi-de-aplicatii-cuantice-din-ue.html"
-      }
-    ],
-    "published_at": 1792081407,
-    "title_hu": "România intră pe harta calculului cuantic: Iașiul va găzdui unul dintre cele mai mari huburi de aplicații cuantice din UE",
-    "lead_hu": "Classiq, o companie de top în domeniul software-ului pentru calcul cuantic, și FreeYa Mind Campus, dezvoltat de S.C. Extensive Network SRL, au anunțat astăzi un acord comercial strategic pentru dezvol…",
-    "content_hu": "Classiq, o companie de top în domeniul software-ului pentru calcul cuantic, și FreeYa Mind Campus, dezvoltat de S.C. Extensive Network SRL, au anunțat astăzi un acord comercial strategic pentru dezvoltarea capacităților de creare a aplicațiilor cuantice, educație și utilizare de către companii și instituții publice, în cadrul centrului Quantum AI al campusului din Iași, dotat […]",
-    "title_ro": "România intră pe harta calculului cuantic: Iașiul va găzdui unul dintre cele mai mari huburi de aplicații cuantice din UE",
-    "lead_ro": "Classiq, o companie de top în domeniul software-ului pentru calcul cuantic, și FreeYa Mind Campus, dezvoltat de S.C. Extensive Network SRL, au anunțat astăzi un acord comercial strategic pentru dezvol…",
-    "content_ro": "Classiq, o companie de top în domeniul software-ului pentru calcul cuantic, și FreeYa Mind Campus, dezvoltat de S.C. Extensive Network SRL, au anunțat astăzi un acord comercial strategic pentru dezvoltarea capacităților de creare a aplicațiilor cuantice, educație și utilizare de către companii și instituții publice, în cadrul centrului Quantum AI al campusului din Iași, dotat […]"
-  },
-  {
-    "group_id": "group_eb9081191d",
-    "fingerprint": "51d01ae6f4770dad5ad052251929947a",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/14/144019/politie-criminalistica.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Răsturnare de situație în cazul stomatologului atacat în Cluj-Napoca. Cine a devenit suspect principal în dosar",
-        "link": "https://stirileprotv.ro/stiri/actualitate/rasturnare-de-situatie-in-cazul-stomatologului-atacat-in-cluj-napoca-cine-a-devenit-suspect-principal-in-dosar.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Răsturnare de situație în cazul crimei din Cluj! Nepoata medicului stomatolog, în vârstă de 22 de ani, a devenit suspectă",
-        "link": "https://www.cancan.ro/rasturnare-de-situatie-in-cazul-crimei-din-cluj-nepoata-medicului-stomatolog-in-varsta-de-22-de-ani-a-devenit-suspecta-21530745"
-      }
-    ],
-    "published_at": 1792081402,
-    "title_hu": "A 22 éves unokát gyanúsítják a kolozsvári halálos támadás ügyében",
-    "lead_hu": "A kolozsvári ügyben a nyomozás új irányt vett: a hatóságok a 77 éves volt fogorvos unokáját gyanúsítják, miután a férfi belehalt sérüléseibe. A fiatal nő továbbra is intenzív osztályon fekszik, ezért egyelőre nem tudták kihallgatni; a gyanú nem jelenti a bűnösség megállapítását.",
-    "content_hu": "• **A 22 éves unoka lett a nyomozás fő gyanúsítottja** a kolozsvári, halálos kimenetelű támadás ügyében. A hatóságok szerint a rendelkezésre álló nyomok alapján ő és nagyapja lehettek az egyetlenek a lakásban az erőszakos cselekmény idején.\n\n• **A támadás két sérültje** a 77 éves, volt fogorvos és unokája volt; mindketten súlyos, vágások okozta sérüléseket szenvedtek a fej és a nyak környékén. A férfi a kórházban, nagyjából két héttel később meghalt, anélkül, hogy kihallgatható állapotba került volna.\n\n• **Az unokát egyelőre nem tudták kihallgatni**, mert továbbra is súlyos állapotban, intenzív osztályon ápolják. A nyomozók szerint a lakásban történteknek nem volt közvetlen szemtanúja; a szomszédok a vérző, segítségért kiáltó fiatal nőt látták az utcán.\n\n• **A nyomozás családon belüli erőszak miatti emberölés ügyében folyik.** A hatóságok még vizsgálják, pontosan mi történt a lakásban és hogyan keletkeztek a sérülések; a gyanúsítás önmagában nem bizonyítja a fiatal nő bűnösségét.",
-    "title_ro": "Nepoata de 22 de ani este suspectată în cazul atacului mortal din Cluj-Napoca",
-    "lead_ro": "Ancheta din Cluj-Napoca a luat o nouă turnură: nepoata de 22 de ani a fostului medic stomatolog în vârstă de 77 de ani a devenit principala suspectă, după ce bărbatul a murit din cauza rănilor. Tânăra este în continuare la terapie intensivă și nu a putut fi audiată; suspiciunea nu echivalează cu stabilirea vinovăției.",
-    "content_ro": "• **Nepoata în vârstă de 22 de ani a devenit principala suspectă** în cazul atacului mortal din Cluj-Napoca. Potrivit anchetatorilor, probele de până acum nu indică prezența unei alte persoane în locuință în timpul incidentului.\n\n• **Cele două persoane rănite** au fost fostul medic stomatolog, în vârstă de 77 de ani, și nepoata sa. Ambii au suferit răni grave provocate prin tăiere, în zona capului și a gâtului; bărbatul a murit la spital, la aproximativ două săptămâni după atac, fără să fi putut fi audiat.\n\n• **Tânăra nu a putut fi încă audiată**, deoarece se află în continuare în stare gravă, la terapie intensivă. Anchetatorii spun că nu există martori direcți ai agresiunilor; vecinii au văzut-o pe tânără pe stradă, plină de sânge și cerând ajutor.\n\n• **Dosarul este cercetat ca violență în familie sub forma omorului.** Ancheta trebuie să stabilească ce s-a întâmplat în locuință și cum au fost provocate rănile; faptul că tânăra este suspectă nu stabilește vinovăția acesteia."
-  },
-  {
-    "group_id": "group_93a4c25358",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2025/01/ID252370_INQUAM_Photos_George_Calin-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Luca Niculescu: Dorința noastră este de a nu crește taxe și impozite în 2027. Vor fi indexate pensiile anul viitor. Impozitul minim pe cifra de afaceri a condus la reducerea investițiilor străine. Dacia este printre priorități",
-        "link": "https://economedia.ro/luca-niculescu-dorinta-noastra-este-de-a-nu-creste-taxe-si-impozite-in-2027-vor-fi-indexate-pensiile-anul-viitor-impozitul-minim-pe-cifra-de-afaceri-a-condus-la-reducerea-investitiilor-straine.html"
-      }
-    ],
-    "published_at": 1792081176,
-    "title_hu": "Luca Niculescu: Dorința noastră este de a nu crește taxe și impozite în 2027. Vor fi indexate pensiile anul viitor. Impozitul minim pe cifra de afaceri a condus la reducerea investițiilor străine. Dacia este printre priorități",
-    "lead_hu": "Premierul desemnat Luca Niculescu a declarat, joi, într-un interviu la Antena 1, că dorința Guvernului pe care îl va propune este de a nu crește taxe și impozite în 2027, în timp ce pensiile vor fi in…",
-    "content_hu": "Premierul desemnat Luca Niculescu a declarat, joi, într-un interviu la Antena 1, că dorința Guvernului pe care îl va propune este de a nu crește taxe și impozite în 2027, în timp ce pensiile vor fi indexate anul viitor, iar impozitul minim pe cifra de afaceri, care a condus la reducerea investițiilor străine, va fi […]",
-    "title_ro": "Luca Niculescu: Dorința noastră este de a nu crește taxe și impozite în 2027. Vor fi indexate pensiile anul viitor. Impozitul minim pe cifra de afaceri a condus la reducerea investițiilor străine. Dacia este printre priorități",
-    "lead_ro": "Premierul desemnat Luca Niculescu a declarat, joi, într-un interviu la Antena 1, că dorința Guvernului pe care îl va propune este de a nu crește taxe și impozite în 2027, în timp ce pensiile vor fi in…",
-    "content_ro": "Premierul desemnat Luca Niculescu a declarat, joi, într-un interviu la Antena 1, că dorința Guvernului pe care îl va propune este de a nu crește taxe și impozite în 2027, în timp ce pensiile vor fi indexate anul viitor, iar impozitul minim pe cifra de afaceri, care a condus la reducerea investițiilor străine, va fi […]"
   }
 ]
