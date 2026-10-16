@@ -1,5 +1,603 @@
 [
   {
+    "group_id": "group_0ba54c88c6",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Cursuri gratuite pentru cei care lucrează cu vârstnici. Peste 3.200 de locuri disponibile, înscrierile au început",
+        "link": "https://www.ebihoreanul.ro/stiri/cursuri-gratuite-pentru-cei-care-lucreaza-cu-varstnici-peste-3200-de-locuri-disponibile-inscrierile-au-inceput-205826.html"
+      }
+    ],
+    "published_at": 1792135038,
+    "title_hu": "Cursuri gratuite pentru cei care lucrează cu vârstnici. Peste 3.200 de locuri disponibile, înscrierile au început",
+    "lead_hu": "Ministerul Muncii a deschis înscrierile pentru un program gratuit de perfecționare destinat specialiștilor din asistența socială care lucrează cu persoane vârstnice. Sunt disponibile 3.243 de locuri l…",
+    "content_hu": "Ministerul Muncii a deschis înscrierile pentru un program gratuit de perfecționare destinat specialiștilor din asistența socială care lucrează cu persoane vârstnice. Sunt disponibile 3.243 de locuri la nivel național, iar participanții vor beneficia de cursuri online, certificate recunoscute și, în anumite condiții, stimulente financiare.",
+    "title_ro": "Cursuri gratuite pentru cei care lucrează cu vârstnici. Peste 3.200 de locuri disponibile, înscrierile au început",
+    "lead_ro": "Ministerul Muncii a deschis înscrierile pentru un program gratuit de perfecționare destinat specialiștilor din asistența socială care lucrează cu persoane vârstnice. Sunt disponibile 3.243 de locuri l…",
+    "content_ro": "Ministerul Muncii a deschis înscrierile pentru un program gratuit de perfecționare destinat specialiștilor din asistența socială care lucrează cu persoane vârstnice. Sunt disponibile 3.243 de locuri la nivel național, iar participanții vor beneficia de cursuri online, certificate recunoscute și, în anumite condiții, stimulente financiare."
+  },
+  {
+    "group_id": "group_53be683322",
+    "fingerprint": "cd08e94372d78703c445b1665c702f1b",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/12/Nicusor-Dan.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Nicușor Dan discută miercuri cu președinta Bulgariei pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime",
+        "link": "https://www.g4media.ro/nicusor-dan-discuta-miercuri-cu-presedinta-bulgariei-pe-tema-atacurilor-asupra-navelor-din-marea-neagra-si-asigurarii-sigurantei-navigatiei-maritime.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan, discuție cu președintele Bulgariei după atacurile cu drone asupra navelor din Marea Neagră",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-discutie-cu-presedintele-bulgariei-dupa-atacurile-cu-drone-asupra-navelor-din-marea-neagra-3991551"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan discută astăzi cu președinta Bulgariei despre atacurile asupra navelor din Marea Neagră",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-discuta-astazi-cu-presedinta-bulgariei-despre-atacurile-asupra-navelor-din-marea-neagra-23825077"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan to discuss attacks on Black Sea vessels with the President of Bulgaria today",
+        "link": "https://www.mediafax.ro/english/nicusor-dan-to-discuss-attacks-on-black-sea-vessels-with-the-president-of-bulgaria-today-23825166"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan, discuție cu președinta Bulgariei după atacul cu drone asupra unor nave comerciale din Marea Neagră | Ce măsuri cer România și Bulgaria",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-discutie-cu-presedinta-bulgariei-dupa-atacul-cu-drone-asupra-unor-nave-comerciale-din-marea-neagra-ce-masuri-cer-romania-si-bulgaria-23825390"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Mutarea pregătită de România și Bulgaria în Marea Neagră. Anunțul lui Nicușor Dan, după convorbirea cu președinta Iliana Iotova",
+        "link": "https://hotnews.ro/mutarea-pregatita-de-romania-si-bulgaria-in-marea-neagra-anuntul-lui-nicusor-dan-dupa-convorbirea-cu-presedinta-iliana-iotova-2376103"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nicușor Dan a discutat cu președinta Bulgariei despre atacurile asupra navelor comerciale din Marea Neagră. Ce au convenit cei doi",
+        "link": "https://adevarul.ro/politica/nicusor-dan-a-discutat-cu-presedinta-bulgariei-2564024.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Dróntámadások a Fekete-tengeren: Románia és Bulgária közösen sürgeti az EU-t és a NATO-t",
+        "link": "https://maszol.ro/belfold/Drontamadasok-a-Fekete-tengeren-Romania-es-Bulgaria-kozosen-surgeti-az-EU-t-es-a-NATO-t"
+      }
+    ],
+    "published_at": 1792134973,
+    "title_hu": "Románia és Bulgária szigorúbb drónelhárítást sürget a Fekete-tengeren",
+    "lead_hu": "Nicușor Dan román elnök telefonon egyeztetett Iliana Iotova bolgár államfővel a Fekete-tengeren kereskedelmi hajókat ért dróntámadásokról és a román vizeken történt incidensekről. A két ország szorosabb együttműködésben állapodott meg, és az EU, illetve a NATO keretében határozottabb drónelhárító intézkedéseket szorgalmaz a kereskedelmi hajózás biztonságáért.",
+    "content_hu": "• **Nicușor Dan és Iliana Iotova** telefonon tárgyalt a Bulgária partjai közelében kereskedelmi hajókat ért legutóbbi dróntámadásról, valamint a román vizeken a hajózást és az infrastruktúrát érintő incidensekről.\n\n• **A két ország szorosabb együttműködésben állapodott meg**: Románia és Bulgária az Európai Unió és a NATO keretében is határozottabb drónelhárító intézkedéseket kíván szorgalmazni.\n\n• **A kereskedelmi hajózás és az ellátási útvonalak biztonsága** a megbeszélés központi témája volt. Dan arra figyelmeztetett, hogy a támadások nemcsak a térség tengeri közlekedését, hanem más kontinensek létfontosságú mezőgazdasági termékekkel való ellátását is veszélyeztethetik.\n\n• **Dan szerint a dróntámadások közvetlen következményei Oroszország Ukrajna elleni háborújának.** Az elnök nyilatkozata a támadások regionális biztonsági hatásaira és a tengeri közlekedés védelmének szükségességére összpontosított.\n\n• **A telefonos egyeztetés a fekete-tengeri hajókat ért támadások után történt.** A közlések szerint Bulgária partjainál több kereskedelmi hajót ért dróncsapás; az egyik hajó elsüllyedt, a Chelsea 3 legénységét pedig kimenekítették.",
+    "title_ro": "România și Bulgaria cer măsuri mai ferme împotriva dronelor în Marea Neagră",
+    "lead_ro": "Președintele României, Nicușor Dan, a discutat telefonic cu președinta Bulgariei, Iliana Iotova, despre atacurile cu drone asupra navelor comerciale din Marea Neagră și incidentele din apele românești. Cei doi au convenit să coopereze mai strâns și să promoveze măsuri mai ferme de combatere a dronelor la nivelul UE și NATO, pentru siguranța navigației comerciale.",
+    "content_ro": "• **Nicușor Dan și Iliana Iotova** au discutat telefonic despre recentul atac cu drone asupra unor nave comerciale în largul coastelor Bulgariei și despre alte incidente care au afectat navigația și infrastructura din apele românești.\n\n• **România și Bulgaria au convenit să colaboreze mai strâns** și să susțină măsuri mai ferme de contracarare a dronelor în cadrul Uniunii Europene și al NATO.\n\n• **Siguranța navigației comerciale și a rutelor de aprovizionare** s-a aflat în centrul discuției. Nicușor Dan a avertizat că atacurile pot pune în pericol atât transportul maritim din regiune, cât și aprovizionarea altor continente cu produse agricole esențiale.\n\n• **Potrivit lui Dan, atacurile cu drone sunt consecințe directe ale războiului de agresiune al Rusiei împotriva Ucrainei.** Președintele a subliniat riscurile pentru securitatea regională și necesitatea protejării navigației maritime.\n\n• **Convorbirea a avut loc după atacurile asupra navelor comerciale din Marea Neagră.** Potrivit relatărilor, mai multe nave au fost lovite în largul coastelor Bulgariei, una s-a scufundat, iar echipajul navei Chelsea 3 a fost evacuat."
+  },
+  {
+    "group_id": "group_368f4fdb0d",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjIyJTJGMjU1MzMxMF8yNTUz/MzEwX3Bhbm91cmktc29sYXJlLWFjb3Bl/cmlzLW11bmNpdG9yLmpwZyZoYXNoPTlm/NjliNmM3Nzg4NGE3ODI5YThmM2RmMGQ5N2UxOGI0.jpg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Tot mai mulți români își produc singuri energia electrică. Câți prosumatori are România și ce județe conduc clasamentul",
+        "link": "https://www.digi24.ro/stiri/economie/energie/tot-mai-multi-romani-isi-produc-singuri-energia-electrica-cati-prosumatori-are-romania-si-ce-judete-conduc-clasamentul-3994925"
+      }
+    ],
+    "published_at": 1792134946,
+    "title_hu": "Tot mai mulți români își produc singuri energia electrică. Câți prosumatori are România și ce județe conduc clasamentul",
+    "lead_hu": "Numărul românilor care își produc singuri energia electrică continuă să crească, apropiindu-se de un prag important, potrivit celor mai recente date ale Autorității Naționale de Reglementare în domeni...",
+    "content_hu": "Numărul românilor care își produc singuri energia electrică continuă să crească, apropiindu-se de un prag important, potrivit celor mai recente date ale Autorității Naționale de Reglementare în domeniul Energiei (ANRE). Tot mai mulți aleg și soluții de stocare a energiei, iar trei județe se detașează în clasamentul național al prosumatorilor.",
+    "title_ro": "Tot mai mulți români își produc singuri energia electrică. Câți prosumatori are România și ce județe conduc clasamentul",
+    "lead_ro": "Numărul românilor care își produc singuri energia electrică continuă să crească, apropiindu-se de un prag important, potrivit celor mai recente date ale Autorității Naționale de Reglementare în domeni...",
+    "content_ro": "Numărul românilor care își produc singuri energia electrică continuă să crească, apropiindu-se de un prag important, potrivit celor mai recente date ale Autorității Naționale de Reglementare în domeniul Energiei (ANRE). Tot mai mulți aleg și soluții de stocare a energiei, iar trei județe se detașează în clasamentul național al prosumatorilor."
+  },
+  {
+    "group_id": "group_aa6122f684",
+    "fingerprint": "204c6f9edb06b8a1bf48924c6547ab6b",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/04/8116964-Mediafax_Foto-Alexandru_Nechez-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "BREAKING Ilie Bolojan explică de ce PNL ar putea vota guvernul Luca Niculescu – PSD: ”Putem refuza. Din punct de vedere strict politic, probabil că aceasta este cea mai comodă variantă pentru noi. Dar pentru România?” / PNL poate vota o moțiune de cenzură dacă premierul încalcă acordul bilateral",
+        "link": "https://www.g4media.ro/breaking-ilie-bolojan-explica-de-ce-pnl-ar-putea-vota-guvernul-luca-niculescu-psd-putem-refuza-din-punct-de-vedere-strict-politic-probabil-ca-aceasta-este-cea-mai-comoda-varianta-pentru.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cum explică Ilie Bolojan decizia de a vota un guvern Luca Niculescu cu miniștri PSD",
+        "link": "https://hotnews.ro/cum-explica-ilie-bolojan-decizia-de-a-vota-un-guvern-luca-niculescu-cu-ministri-psd-pnl-isi-asuma-un-risc-politic-2377031"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Bolojan: A PNL-nek az lenne a legkényelmesebb, ha nem szavazná meg a Niculescu-kormányt, de mi lenne Romániával?",
+        "link": "https://transtelex.ro/kozelet/2026/10/15/ilie-bolojan-niculescu-kabinet-szavazas-kormanyalakitas"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Decizia dificilă a PNL: de ce își asumă Bolojan un risc politic prin votul pentru Guvernul Niculescu. „Faci ceea ce trebuie”",
+        "link": "https://adevarul.ro/politica/bolojan-explica-de-ce-pnl-va-vota-guvernul-luca-2564244.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Bolojan: „nem tehetem meg ezt az országgal csak azért, hogy megóvjam a politikai tekintélyemet”",
+        "link": "https://maszol.ro/belfold/Bolojan-nem-tehetem-meg-ezt-az-orszaggal-csak-azert-hogy-megovjam-a-politikai-tekintelyemet"
+      }
+    ],
+    "published_at": 1792134896,
+    "title_hu": "Bolojan feltételekhez kötött PNL-támogatást helyezett kilátásba a Niculescu-kormánynak",
+    "lead_hu": "Ilie Bolojan szerint a PNL politikailag kényelmesebbnek tartaná elutasítani a Luca Niculescu vezette kabinet beiktatását, de az elhúzódó válság miatt a párt feltételekkel támogathatja azt. A liberálisok ellenzékben maradnának, és megállapodástól tennék függővé támogatásukat.",
+    "content_hu": "• **Ilie Bolojan** csütörtökön azt mondta, a PNL kész lehet megszavazni a Luca Niculescu vezette kormány beiktatását, mert szerinte Románia nem engedheti meg magának az öt hónapja tartó politikai válság folytatását.\n\n• **A válság következményeire** figyelmeztetve Bolojan a költségvetés sürgős kiigazítását sürgette. Állítása szerint egyes sürgősségi osztályoknak már nyáron működési gondjaik voltak, a politikai bizonytalanság pedig megnehezítheti és megdrágíthatja az állami hitelfelvételt.\n\n• **A PNL feltétele** egy, a kijelölt miniszterelnökkel kötendő kétoldalú politikai megállapodás lenne, amely a költségvetési célokra, az átláthatóságra, a jó kormányzásra és a parlamentáris demokrácia elveire korlátozná a támogatást. Bolojan szerint a megállapodás 2027 tavaszáig szólna.\n\n• **A megállapodás megszegése esetén** a liberálisok bizalmatlansági indítványt is támogathatnának a kormány ellen. Bolojan hangsúlyozta, hogy a beiktatás megszavazása nem jelent bizalmi szavazatot vagy a PSD-vel kötött koalíció újjáalakítását: a PNL ellenzékben maradna.",
+    "title_ro": "Bolojan: PNL ar putea susține condiționat învestirea Guvernului Niculescu",
+    "lead_ro": "Ilie Bolojan a declarat că PNL ar putea vota învestirea cabinetului condus de Luca Niculescu pentru a contribui la ieșirea României din criza politică prelungită. Liberalii ar rămâne în opoziție, iar sprijinul lor ar fi condiționat de un acord politic.",
+    "content_ro": "• **Ilie Bolojan** a declarat joi că PNL ar putea vota învestirea Guvernului Luca Niculescu, argumentând că România nu își mai poate permite continuarea crizei politice, care durează de cinci luni.\n\n• **Consecințele crizei** ar putea afecta funcționarea unor servicii esențiale, a avertizat Bolojan, care a cerut o rectificare bugetară rapidă. El a afirmat că unele unități de primiri urgențe au întâmpinat probleme de funcționare încă din vară și că incertitudinea politică poate îngreuna și scumpi împrumuturile statului.\n\n• **Condiția PNL** ar fi încheierea unui acord politic bilateral cu premierul desemnat, prin care sprijinul liberalilor să fie limitat la obiective bugetare, transparență, bună guvernare și respectarea principiilor democrației parlamentare. Potrivit lui Bolojan, acordul ar fi valabil până în primăvara anului 2027.\n\n• **Dacă acordul este încălcat**, liberalii și-ar putea da votul unei moțiuni de cenzură împotriva Guvernului. Bolojan a precizat că votul pentru învestire nu ar reprezenta un vot de încredere și nici refacerea coaliției cu PSD; PNL ar rămâne în opoziție."
+  },
+  {
+    "group_id": "group_58afc596aa",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/03/femeie-catuse.jpeg",
+    "is_synthesized": false,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Tânăra care ataca femei pe străzi și în magazine din Constanța a fost reținută / Expertiza a arătat că avea discernământ",
+        "link": "https://www.g4media.ro/tanara-care-ataca-femei-pe-strazi-si-in-magazine-din-constanta-a-fost-retinuta-expertiza-a-aratat-ca-avea-discernamant.html"
+      }
+    ],
+    "published_at": 1792134879,
+    "title_hu": "Tânăra care ataca femei pe străzi și în magazine din Constanța a fost reținută / Expertiza a arătat că avea discernământ",
+    "lead_hu": "O tânără în vârstă de 20 de ani a fost reținută de polițiștii constănțeni, fiind acuzată că a agresat fizic mai multe femei în spații publice și pe străzile din municipiu, anunță IPJ Constanța. Deși e...",
+    "content_hu": "O tânără în vârstă de 20 de ani a fost reținută de polițiștii constănțeni, fiind acuzată că a agresat fizic mai multe femei în spații publice și pe străzile din municipiu, anunță IPJ Constanța. Deși era cunoscută cu antecedente medicale, medicii legiști au stabilit că aceasta a acționat cu discernământ în momentul comiterii faptelor. Potrivit […] © G4Media.ro.",
+    "title_ro": "Tânăra care ataca femei pe străzi și în magazine din Constanța a fost reținută / Expertiza a arătat că avea discernământ",
+    "lead_ro": "O tânără în vârstă de 20 de ani a fost reținută de polițiștii constănțeni, fiind acuzată că a agresat fizic mai multe femei în spații publice și pe străzile din municipiu, anunță IPJ Constanța. Deși e...",
+    "content_ro": "O tânără în vârstă de 20 de ani a fost reținută de polițiștii constănțeni, fiind acuzată că a agresat fizic mai multe femei în spații publice și pe străzile din municipiu, anunță IPJ Constanța. Deși era cunoscută cu antecedente medicale, medicii legiști au stabilit că aceasta a acționat cu discernământ în momentul comiterii faptelor. Potrivit […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_0c2673dfcc",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/41446/23261438/2/poza-principala-thomas.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "„Munca bate talentul.” Lecţia unui adolescent de 16 ani care a ajuns să joace în EuroCup şi mesajul tatălui său pentru generaţia ta: Ai nevoie de muncă, încredere şi oameni care să te susţină",
+        "link": "https://www.zf.ro/zf-gen-z/munca-bate-talentul-lectia-unui-adolescent-de-16-ani-care-a-ajuns-sa-joace-in-eurocup-si-mesajul-tatalui-sau-pentru-generatia-ta-ai-nevoie-de-munca-incredere-si-oameni-care-sa-te-sustina-23261438"
+      }
+    ],
+    "published_at": 1792134806,
+    "title_hu": "„Munca bate talentul.” Lecţia unui adolescent de 16 ani care a ajuns să joace în EuroCup şi mesajul tatălui său pentru generaţia ta: Ai nevoie de muncă, încredere şi oameni care să te susţină",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "„Munca bate talentul.” Lecţia unui adolescent de 16 ani care a ajuns să joace în EuroCup şi mesajul tatălui său pentru generaţia ta: Ai nevoie de muncă, încredere şi oameni care să te susţină",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_8b48dee08f",
+    "fingerprint": "50b5ce892d9a03da2133bc1b77f69f11",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23260924/1/energie-verde.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Simtel Team, companie de inginerie listată la BVB, a semnat un contract EPC de 17,5 mil. euro cu o subsidiară a grupului austriac Wien Energie pentru un parc fotovoltaic lângă Alba Iulia",
+        "link": "https://www.zf.ro/burse-fonduri-mutuale/simtel-team-companie-de-inginerie-listata-la-bvb-a-semnat-un-contract-epc-de-17-5-mil-euro-cu-o-subsidiara-a-grupului-austriac-wien-energie-pentru-un-parc-fotovoltaic-langa-alba-iulia-23260924"
+      },
+      {
+        "source": "Economedia",
+        "title": "Simtel semnează un contract de 17,5 milioane de euro pentru o centrală fotovoltaică în Alba Iulia",
+        "link": "https://economedia.ro/simtel-semneaza-un-contract-de-175-milioane-de-euro-pentru-o-centrala-fotovoltaica-in-alba-iulia.html"
+      }
+    ],
+    "published_at": 1792134792,
+    "title_hu": "A Simtel 17,5 millió eurós naperőművi szerződést kötött Alba Iulia mellett",
+    "lead_hu": "A tőzsdén jegyzett Simtel Team mintegy 17,5 millió euró értékű, áfa nélküli EPC-szerződést írt alá a Vienna Energy Forța Naturală vállalattal. A megállapodás egy Bărăbanț térségében épülő fotovoltaikus erőmű és a hozzá tartozó nagyfeszültségű alállomás kivitelezésére szól; a munkálatok a kezdésről szóló értesítéstől számítva várhatóan 16 hónapig tartanak.",
+    "content_hu": "• **A Simtel Team mintegy 17,5 millió euró értékű, áfa nélküli EPC-szerződést kötött** a Vienna Energy Forța Naturală vállalattal egy fotovoltaikus erőmű megépítésére.\n\n• **A beruházás helyszíne Bărăbanț, Alba Iulia térsége**, a projekt pedig az erőmű mellett a hozzá tartozó nagyfeszültségű alállomást is magában foglalja.\n\n• **A megrendelő a Wien Energie International GmbH teljes tulajdonában áll**, amely az osztrák Wien Energie energetikai csoport része.\n\n• **A Simtel feladatai a teljes EPC-folyamatra kiterjednek:** a tervezésre, a berendezések beszerzésére, az építésre, a telepítésre, az üzembe helyezésre és a létesítmények tesztelésére.\n\n• **A szerződés teljesítése várhatóan körülbelül 16 hónapot vesz igénybe**, a munkakezdésről szóló értesítés kézhezvételétől számítva.",
+    "title_ro": "Simtel a semnat un contract de 17,5 milioane de euro pentru o centrală fotovoltaică lângă Alba Iulia",
+    "lead_ro": "Simtel Team a semnat cu Vienna Energy Forța Naturală un contract EPC în valoare de aproximativ 17,5 milioane de euro, fără TVA. Proiectul prevede construirea unei centrale fotovoltaice în zona Bărăbanț, lângă Alba Iulia, precum și a stației de înaltă tensiune aferente. Lucrările sunt estimate să dureze aproximativ 16 luni de la notificarea începerii acestora.",
+    "content_ro": "• **Simtel Team a semnat un contract EPC de aproximativ 17,5 milioane de euro, fără TVA**, cu Vienna Energy Forța Naturală pentru construirea unei centrale fotovoltaice.\n\n• **Proiectul va fi realizat în zona Bărăbanț, Alba Iulia**, și include atât centrala fotovoltaică, cât și stația de înaltă tensiune aferentă.\n\n• **Beneficiarul este deținut integral de Wien Energie International GmbH**, companie parte a grupului energetic austriac Wien Energie.\n\n• **Contractul acoperă întregul proces EPC:** proiectarea, furnizarea echipamentelor, construcția, instalarea, punerea în funcțiune și testarea centralei și a stației.\n\n• **Durata estimată a lucrărilor este de aproximativ 16 luni**, calculate de la notificarea începerii acestora."
+  },
+  {
+    "group_id": "group_8f9d7bcb3e",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/09/bani-fermieri.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "APIA a transferat vineri peste 124 de milioane de euro pentru 103.755 de fermieri, în prima zi de plată a avansului subvenţiilor agricole",
+        "link": "https://www.g4media.ro/apia-a-transferat-vineri-peste-124-de-milioane-de-euro-pentru-103-755-de-fermieri-in-prima-zi-de-plata-a-avansului-subventiilor-agricole.html"
+      }
+    ],
+    "published_at": 1792134788,
+    "title_hu": "APIA a transferat vineri peste 124 de milioane de euro pentru 103.755 de fermieri, în prima zi de plată a avansului subvenţiilor agricole",
+    "lead_hu": "Agenţia de Plăţi şi Intervenţie pentru Agricultură (APIA) a transferat, vineri, în prima zi de plată a avansului subvenţiilor agricole, peste 124,1 milioane de euro pentru 103.755 de fermieri, a anunţ…",
+    "content_hu": "Agenţia de Plăţi şi Intervenţie pentru Agricultură (APIA) a transferat, vineri, în prima zi de plată a avansului subvenţiilor agricole, peste 124,1 milioane de euro pentru 103.755 de fermieri, a anunţat ministrul Agriculturii, Tanczos Barna, într-o postare pe Facebook, transmite Agerpres. Potrivit acestuia, până la ora 8:00 au fost transferate plăţi în valoare totală de […] © G4Media.ro.",
+    "title_ro": "APIA a transferat vineri peste 124 de milioane de euro pentru 103.755 de fermieri, în prima zi de plată a avansului subvenţiilor agricole",
+    "lead_ro": "Agenţia de Plăţi şi Intervenţie pentru Agricultură (APIA) a transferat, vineri, în prima zi de plată a avansului subvenţiilor agricole, peste 124,1 milioane de euro pentru 103.755 de fermieri, a anunţ…",
+    "content_ro": "Agenţia de Plăţi şi Intervenţie pentru Agricultură (APIA) a transferat, vineri, în prima zi de plată a avansului subvenţiilor agricole, peste 124,1 milioane de euro pentru 103.755 de fermieri, a anunţat ministrul Agriculturii, Tanczos Barna, într-o postare pe Facebook, transmite Agerpres. Potrivit acestuia, până la ora 8:00 au fost transferate plăţi în valoare totală de […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_1d13ca96a0",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjI5JTJGMjgxMzI2Ml8yODEz/MjYyX0dldHR5SW1hZ2VzLTIyMDQwNzQw/OTUtMS5qcGcmaGFzaD0yODVmMjhkYzNjN2YwMDhkZmJlMDMzMTdkNDI1NDI3MA==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Agenția de Cadastru anunță o înjumătățire a vânzărilor imobiliare în perioada iulie-septembrie. Unde au fost cele mai multe tranzacții",
+        "link": "https://www.digi24.ro/stiri/economie/agentia-de-cadastru-anunta-o-injumatatire-a-vanzarilor-imobiliare-in-perioada-iulie-septembrie-unde-au-fost-cele-mai-multe-tranzactii-3994917"
+      }
+    ],
+    "published_at": 1792134712,
+    "title_hu": "Agenția de Cadastru anunță o înjumătățire a vânzărilor imobiliare în perioada iulie-septembrie. Unde au fost cele mai multe tranzacții",
+    "lead_hu": "Peste 108.000 de imobile au fost vândute la nivel naţional în perioada iulie - septembrie, mai puţine cu 66.000 faţă de aceeaşi perioadă a anului trecut. În acest interval, Agenția de Cadastru a fost …",
+    "content_hu": "Peste 108.000 de imobile au fost vândute la nivel naţional în perioada iulie - septembrie, mai puţine cu 66.000 faţă de aceeaşi perioadă a anului trecut. În acest interval, Agenția de Cadastru a fost victima unui atac cibernetic, care a dus la amânarea a numeroase tranzacții imobiliare.",
+    "title_ro": "Agenția de Cadastru anunță o înjumătățire a vânzărilor imobiliare în perioada iulie-septembrie. Unde au fost cele mai multe tranzacții",
+    "lead_ro": "Peste 108.000 de imobile au fost vândute la nivel naţional în perioada iulie - septembrie, mai puţine cu 66.000 faţă de aceeaşi perioadă a anului trecut. În acest interval, Agenția de Cadastru a fost …",
+    "content_ro": "Peste 108.000 de imobile au fost vândute la nivel naţional în perioada iulie - septembrie, mai puţine cu 66.000 faţă de aceeaşi perioadă a anului trecut. În acest interval, Agenția de Cadastru a fost victima unui atac cibernetic, care a dus la amânarea a numeroase tranzacții imobiliare."
+  },
+  {
+    "group_id": "group_c72ff1b4e0",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-1/16444d80-7385-47d2-a292-8a879befd1fc/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Războiul care stinge lumina și scumpește pâinea",
+        "link": "https://adevarul.ro/blogurile-adevarul/razboiul-care-stinge-lumina-si-scumpeste-painea-2564405.html"
+      }
+    ],
+    "published_at": 1792134696,
+    "title_hu": "Războiul care stinge lumina și scumpește pâinea",
+    "lead_hu": "Din Golf până la Marea Neagră, loviturile asupra energiei și rutelor comerciale arată că războiul se câștigă și prin capacitatea unei țări de a-și ține economia și societatea în funcțiune.",
+    "content_hu": "Din Golf până la Marea Neagră, loviturile asupra energiei și rutelor comerciale arată că războiul se câștigă și prin capacitatea unei țări de a-și ține economia și societatea în funcțiune.",
+    "title_ro": "Războiul care stinge lumina și scumpește pâinea",
+    "lead_ro": "Din Golf până la Marea Neagră, loviturile asupra energiei și rutelor comerciale arată că războiul se câștigă și prin capacitatea unei țări de a-și ține economia și societatea în funcțiune.",
+    "content_ro": "Din Golf până la Marea Neagră, loviturile asupra energiei și rutelor comerciale arată că războiul se câștigă și prin capacitatea unei țări de a-și ține economia și societatea în funcțiune."
+  },
+  {
+    "group_id": "group_2a4ae616d9",
+    "fingerprint": "507b07f395c5db0ab2f521c06e90fed7",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Mesaj RO-Alert, miercuri dimineață, privind posibila incursiune a unor drone, pentru nordul judeţului Tulcea",
+        "link": "https://www.digi24.ro/stiri/actualitate/mesaj-ro-alert-miercuri-dimineata-privind-posibila-incursiune-a-unor-drone-pentru-nordul-judetului-tulcea-3991077"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: Trei drone, detectate în apropierea localității ucrainene Vâlkove; nu au pătruns în spațiul aerian național",
+        "link": "https://agerpres.ro/social/2026/10/14/mapn-trei-drone-detectate-in-apropierea-localitatii-ucrainene-valkove-nu-au-patruns-in-spatiul-aeria--1602710"
+      },
+      {
+        "source": "Digi24",
+        "title": "Radarele MApN au detectat încă o dronă care a intrat în spațiul aerian național. Aparatul a fost doborât de ucraineni",
+        "link": "https://www.digi24.ro/stiri/actualitate/radarele-mapn-au-detectat-inca-o-drona-care-a-intrat-in-spatiul-aerian-national-aparatul-a-fost-doborat-de-ucraineni-3991583"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: Dronă intrată în spațiul național la Sulina; două aeronave F-16 ridicate de la sol",
+        "link": "https://agerpres.ro/social/2026/10/14/mapn-drona-intrata-in-spatiul-national-la-sulina-doua-aeronave-f-16-ridicate-de-la-sol--1602822"
+      },
+      {
+        "source": "Digi24",
+        "title": "Două avioane F-16 au fost ridicate în această seară, după ce sistemul radar a detectat o nouă țintă în apropierea Insulei Șerpilor",
+        "link": "https://www.digi24.ro/stiri/actualitate/doua-avioane-f-16-au-fost-ridicate-in-aceasta-seara-dupa-ce-sistemul-radar-a-detectat-o-noua-tinta-in-apropierea-insulei-serpilor-3992577"
+      },
+      {
+        "source": "G4Media",
+        "title": "MApN: Sistemul de supraveghere radar a detectat un grup de ținte aeriene în largul Mării Negre. Ținta a fost distrusă de apărarea aeriană ucraineană în zona localității Reni, la nord de brațul Chilia",
+        "link": "https://www.g4media.ro/ministerul-apararii-nationale-sistemul-de-supraveghere-radar-a-detectat-un-grup-de-tinte-aeriene-in-largul-marii-negre-tinta-a-fost-distrusa-de-apararea-aeriana-ucraineana-in-zona-localitatii-reni.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "O dronă a pătruns în spațiul aerian al României. Avioane de luptă ridicate de la sol și mesaj RO-Alert în Tulcea",
+        "link": "https://www.mediafax.ro/politic/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-avioane-de-lupta-ridicate-de-la-sol-si-mesaj-ro-alert-in-tulcea-23825640"
+      },
+      {
+        "source": "Digi24",
+        "title": "Dronă detectată în apropierea Insulei Şerpilor. MApN anunță că două avioane F-16 au fost trimise să monitorizeze situaţia",
+        "link": "https://www.digi24.ro/stiri/actualitate/drona-detectata-in-apropierea-insulei-serpilor-mapn-anunta-ca-doua-avioane-f-16-au-fost-trimise-sa-monitorizeze-situatia-3993245"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: Dronă detectată în apropierea Insulei Șerpilor; două aeronave F-16 au fost trimise să monitorizeze situația",
+        "link": "https://agerpres.ro/social/2026/10/15/mapn-drona-detectata-in-apropierea-insulei-serpilor-doua-aeronave-f-16-au-fost-trimise-sa-monitorize--1603180"
+      }
+    ],
+    "published_at": 1792134664,
+    "title_hu": "Több drónincidens miatt riasztották a lakosságot Tulcea megyében",
+    "lead_hu": "Szerdán több légi célpontot észleltek a román–ukrán határ közelében: egyesek nem léptek be a román légtérbe, mások rövid időre igen. A román és spanyol vadászgépek felszálltak, a hatóságok pedig több RO-Alert üzenetet küldtek Tulcea, majd Galați megye egyes részeire. A riasztások csütörtök reggel is folytatódtak.",
+    "content_hu": "• **Szerda reggel 6:39-kor** RO-Alert üzenetet küldtek Tulcea megye északi részére, miután a radarok három légi célpontot észleltek az ukrajnai Vilkove közelében. A három célpont nem lépett be Románia légterébe; megfigyelésükre két F-16-os és egy IAR-330 SOCAT helikopter szállt fel. A riasztás 7:58 körül ért véget.\n\n• **Szerda délelőtt 10:19-kor** újabb RO-Alertet adtak ki Tulcea megye északi és keleti részére. Egy légi célpont rövid időre belépett a román légtérbe a Sulinától keletre fekvő, Fekete-tenger fölötti térségben, majd visszatért az ukrán légtérbe, ahol az ukrán légvédelem lelőtte. Két román F-16-os szállt fel; a riasztás 11:22-kor ért véget.\n\n• **Szerda délután 17:38-kor** a Kígyó-szigettől mintegy 30 kilométerre keletre észlelt légi célpont Sulinától körülbelül 22 kilométerre északkeletre, a román felségvizek fölött belépett a nemzeti légtérbe, majd 17:46-kor elhagyta azt. A román légierő két F-16-osát riasztották, a Tulcea megye északi és keleti részén élők pedig 17:39-kor RO-Alert üzenetet kaptak. A légiriadó 19:03-kor ért véget.\n\n• **Szerda este 20:04-kor** két légi célpont lépett be Románia légterébe a Fekete-tenger fölött. A radar az egyik célponttal később elvesztette a kapcsolatot; a másik 20:13-kor Ukrajna felé távozott, majd az ukrán légvédelem Reni térségében megsemmisítette. A spanyol légierő két F-18-asát riasztották. Tulcea megye északkeleti részére 20:02-kor, Galați megye keleti részére 20:33-kor küldtek RO-Alertet; a légiriadó 21:14-kor ért véget.\n\n• **Október 14-ről 15-re virradó éjjel 1:34-kor** egy drónt nagyjából egy percig észleltek a román légtérben, Sulinától délkeletre, a román felségvizek fölött, majd eltűnt a radarokról. A Kígyó-sziget közelében észlelt célpontok miatt spanyol F-18-asok, később pedig újabb légi célpontok észlelése után román F-16-osok is felszálltak. Tulcea megye északi és keleti részére 4:57-kor küldtek RO-Alertet; további légtérsértést nem jelentettek, a riasztás 5:46-kor ért véget.\n\n• **Csütörtök reggel 8:36-kor** újabb RO-Alertet küldtek Tulcea megye keleti részére, miután légi célpontot észleltek a Kígyó-sziget közelében. Két román F-16-os szállt fel, de a hatóságok szerint nem történt légtérsértés; a riasztást 10:27-kor fújták le.",
+    "title_ro": "Mai multe incidente cu drone au dus la alerte în județul Tulcea",
+    "lead_ro": "Miercuri, mai multe ținte aeriene au fost detectate în apropierea graniței dintre România și Ucraina: unele nu au intrat în spațiul aerian românesc, iar altele au pătruns pentru scurt timp. Avioane românești și spaniole au fost ridicate de la sol, iar autoritățile au transmis mesaje RO-Alert în zone din județele Tulcea și Galați. Alertele au continuat și joi dimineață.",
+    "content_ro": "• **Miercuri, la ora 6:39**, a fost transmis un mesaj RO-Alert pentru nordul județului Tulcea, după ce radarele au detectat trei ținte aeriene în apropierea localității Vâlkove, pe teritoriul Ucrainei. Cele trei ținte nu au pătruns în spațiul aerian românesc; pentru monitorizare au decolat două aeronave F-16 și un elicopter IAR-330 SOCAT. Alerta a încetat în jurul orei 7:58.\n\n• **Miercuri, la ora 10:19**, a fost transmis un nou mesaj RO-Alert pentru nordul și estul județului Tulcea. O țintă aeriană a pătruns pentru scurt timp în spațiul aerian românesc, la est de Sulina, deasupra Mării Negre, apoi a revenit în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Au decolat două aeronave F-16 românești, iar alerta a încetat la ora 11:22.\n\n• **Miercuri, la ora 17:38**, ținta aeriană detectată la aproximativ 30 de kilometri est de Insula Șerpilor a intrat în spațiul aerian național la circa 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale românești, și l-a părăsit la ora 17:46. Două aeronave F-16 românești au fost ridicate de la sol, iar locuitorii din nordul și estul județului Tulcea au primit un mesaj RO-Alert la ora 17:39. Alerta a încetat la ora 19:03.\n\n• **Miercuri seara, la ora 20:04**, două ținte aeriene au pătruns în spațiul aerian românesc deasupra Mării Negre. Contactul radar cu una dintre ele a fost pierdut ulterior; cealaltă a ieșit din spațiul aerian al României la ora 20:13, îndreptându-se spre Ucraina, unde a fost distrusă de apărarea antiaeriană ucraineană în zona Reni. Au fost ridicate de la sol două aeronave F-18 spaniole. RO-Alert a fost transmis pentru nord-estul județului Tulcea la ora 20:02 și pentru estul județului Galați la ora 20:33; alerta aeriană a încetat la 21:14.\n\n• **În noaptea de 14 spre 15 octombrie, la ora 1:34**, o dronă a fost detectată timp de aproximativ un minut în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale, după care a dispărut de pe radar. În urma detectării unor ținte în apropierea Insulei Șerpilor au decolat aeronave F-18 spaniole, iar după semnalarea altor ținte au fost ridicate de la sol și aeronave F-16 românești. Un mesaj RO-Alert a fost transmis pentru nordul și estul județului Tulcea la ora 4:57; nu au fost raportate alte pătrunderi, iar alerta a încetat la 5:46.\n\n• **Joi dimineață, la ora 8:36**, a fost transmis un nou mesaj RO-Alert pentru estul județului Tulcea, după detectarea unei ținte aeriene în apropierea Insulei Șerpilor. Două aeronave F-16 românești au decolat, însă autoritățile au precizat că nu au fost raportate pătrunderi în spațiul aerian național; alerta a încetat la ora 10:27."
+  },
+  {
+    "group_id": "group_9b36ff3d8a",
+    "category": "Gazdaság",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pexels-juanvidas-26161350-1024x682.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Au intrat în Italia cu un Rolls-Royce din România, dar au rămas pe loc fără o avere",
+        "link": "https://www.mediafax.ro/externe/au-intrat-in-italia-cu-un-rolls-royce-din-romania-dar-au-ramas-pe-loc-fara-o-avere-23826452"
+      }
+    ],
+    "published_at": 1792134616,
+    "title_hu": "Au intrat în Italia cu un Rolls-Royce din România, dar au rămas pe loc fără o avere",
+    "lead_hu": "Control de rutină cu final neașteptat în provincia Udine. Doi români au atras imediat atenția Gărzii Financiare din Italia, iar verificările amănunțite au scos la iveală teancuri uriașe de bani cash. …",
+    "content_hu": "Control de rutină cu final neașteptat în provincia Udine. Doi români au atras imediat atenția Gărzii Financiare din Italia, iar verificările amănunțite au scos la iveală teancuri uriașe de bani cash. Legea italiană nu i-a iertat: suma confiscată pe loc este uriașă.",
+    "title_ro": "Au intrat în Italia cu un Rolls-Royce din România, dar au rămas pe loc fără o avere",
+    "lead_ro": "Control de rutină cu final neașteptat în provincia Udine. Doi români au atras imediat atenția Gărzii Financiare din Italia, iar verificările amănunțite au scos la iveală teancuri uriașe de bani cash. …",
+    "content_ro": "Control de rutină cu final neașteptat în provincia Udine. Doi români au atras imediat atenția Gărzii Financiare din Italia, iar verificările amănunțite au scos la iveală teancuri uriașe de bani cash. Legea italiană nu i-a iertat: suma confiscată pe loc este uriașă."
+  },
+  {
+    "group_id": "group_0f14603f14",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-4/40240134-bbc4-4550-9fc0-771ee9cf6b81/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Vinzi un teren la același preț în euro după 27 de ani. De ce poți ieși în pierdere",
+        "link": "https://adevarul.ro/adevarul-juridic/vinzi-un-teren-la-acelasi-pret-in-euro-dupa-27-de-2564389.html"
+      }
+    ],
+    "published_at": 1792134595,
+    "title_hu": "Vinzi un teren la același preț în euro după 27 de ani. De ce poți ieși în pierdere",
+    "lead_hu": "Inflația reduce puterea de cumpărare, iar tratamentul fiscal poate schimba substanțial suma cu care rămâi.",
+    "content_hu": "Inflația reduce puterea de cumpărare, iar tratamentul fiscal poate schimba substanțial suma cu care rămâi.",
+    "title_ro": "Vinzi un teren la același preț în euro după 27 de ani. De ce poți ieși în pierdere",
+    "lead_ro": "Inflația reduce puterea de cumpărare, iar tratamentul fiscal poate schimba substanțial suma cu care rămâi.",
+    "content_ro": "Inflația reduce puterea de cumpărare, iar tratamentul fiscal poate schimba substanțial suma cu care rămâi."
+  },
+  {
+    "group_id": "group_8866fc2ea2",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Unul dintre cei mai mari experți în educație explică de ce nu funcționează sistemul de recompense și pedepse și ce înțeleg copiii din el",
+        "link": "https://hotnews.ro/unul-dintre-cei-mai-mari-experti-in-educatie-explica-de-ce-nu-functioneaza-sistemul-de-recompense-si-pedepse-si-ce-inteleg-copiii-din-el-2377665"
+      }
+    ],
+    "published_at": 1792134513,
+    "title_hu": "Unul dintre cei mai mari experți în educație explică de ce nu funcționează sistemul de recompense și pedepse și ce înțeleg copiii din el",
+    "lead_hu": "Într-o perioadă în care parentingul pare mai ghidat ca niciodată de reguli, metode și instrumente eficiente, o parte dintre cercetările din psihologie vin cu o concluzie incomodă: pedepsele și recompe…",
+    "content_hu": "Într-o perioadă în care parentingul pare mai ghidat ca niciodată de reguli, metode și instrumente eficiente, o parte dintre cercetările din psihologie vin cu o concluzie incomodă: pedepsele și recompensele nu doar că nu funcționează pe termen lung, ci pot afecta relația dintre părinte și copil. Alfie Kohn, autorul cărții „Iubire necondiționată pentru copilul tău”, …",
+    "title_ro": "Unul dintre cei mai mari experți în educație explică de ce nu funcționează sistemul de recompense și pedepse și ce înțeleg copiii din el",
+    "lead_ro": "Într-o perioadă în care parentingul pare mai ghidat ca niciodată de reguli, metode și instrumente eficiente, o parte dintre cercetările din psihologie vin cu o concluzie incomodă: pedepsele și recompe…",
+    "content_ro": "Într-o perioadă în care parentingul pare mai ghidat ca niciodată de reguli, metode și instrumente eficiente, o parte dintre cercetările din psihologie vin cu o concluzie incomodă: pedepsele și recompensele nu doar că nu funcționează pe termen lung, ci pot afecta relația dintre părinte și copil. Alfie Kohn, autorul cărții „Iubire necondiționată pentru copilul tău”, …"
+  },
+  {
+    "group_id": "group_e69908ab9c",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/a5cb244e-d04f-4d12-9cf2-133ad23d239e.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Vlad Chiricheș face dezvăluiri șocante din vestiarul echipei: „Nu știu dacă a mai spus cineva asta până acum”",
+        "link": "https://www.gsp.ro/fotbal/nationala/vlad-chiriches-romania-euro-2016-podcast-988663.html"
+      }
+    ],
+    "published_at": 1792134452,
+    "title_hu": "Vlad Chiricheș face dezvăluiri șocante din vestiarul echipei: „Nu știu dacă a mai spus cineva asta până acum”",
+    "lead_hu": "Vlad Chiricheș, căpitanul României la Euro 2016, povestește la podcastul GSP „2 la 1” că a fost năucit de condițiile din Franța. România, condusă de pe bancă de selecționerul Anghel Iordănescu, a juca…",
+    "content_hu": "Vlad Chiricheș, căpitanul României la Euro 2016, povestește la podcastul GSP „2 la 1” că a fost năucit de condițiile din Franța. România, condusă de pe bancă de selecționerul Anghel Iordănescu, a jucat chiar în meciul de deschidere la Euro 2016, cu Franța (1-2). Am mai făcut o remiză cu Elveția (1-1) și am pierdut rușinos cu Albania (0-1). O victorie în ultima etapă ne-ar fi calificat în faza optimilor de finală. Așa, am terminat pe ultimul loc în grupă. ...",
+    "title_ro": "Vlad Chiricheș face dezvăluiri șocante din vestiarul echipei: „Nu știu dacă a mai spus cineva asta până acum”",
+    "lead_ro": "Vlad Chiricheș, căpitanul României la Euro 2016, povestește la podcastul GSP „2 la 1” că a fost năucit de condițiile din Franța. România, condusă de pe bancă de selecționerul Anghel Iordănescu, a juca…",
+    "content_ro": "Vlad Chiricheș, căpitanul României la Euro 2016, povestește la podcastul GSP „2 la 1” că a fost năucit de condițiile din Franța. România, condusă de pe bancă de selecționerul Anghel Iordănescu, a jucat chiar în meciul de deschidere la Euro 2016, cu Franța (1-2). Am mai făcut o remiză cu Elveția (1-1) și am pierdut rușinos cu Albania (0-1). O victorie în ultima etapă ne-ar fi calificat în faza optimilor de finală. Așa, am terminat pe ultimul loc în grupă. ..."
+  },
+  {
+    "group_id": "group_24bb6d46f6",
+    "fingerprint": "f512dc2a59f516725d2ebbf76ebaaa4d",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/8eb59093-c376-4b44-83a8-91e2182609ea.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Scandal înainte de Mondialele de gimnastică! Campioanele olimpice din Rusia nu au primit voie să intre în țară",
+        "link": "https://www.gsp.ro/sporturi/gimnastica/angelina-melnikova-viktoria-listunova-gimnastica-campionatele-mondiale-987702.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trei gimnaste importante ale Rusiei nu au primit viză de intrare în Olanda, pentru Campionatele Mondiale",
+        "link": "https://www.digi24.ro/stiri/sport/alte-sporturi/trei-gimnaste-importante-ale-rusiei-nu-au-primit-viza-de-intrare-in-olanda-pentru-campionatele-mondiale-3990843"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trei gimnaste de top ale Rusiei nu au primit vize pentru Campionatele Mondiale de la Rotterdam",
+        "link": "https://adevarul.ro/sport/trei-gimnaste-de-top-ale-rusiei-nu-au-primit-vize-2563827.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Svetlana Khorkina, furioasă după refuzul vizelor pentru trei gimnaste ruse: „Vor exista consecințe!”",
+        "link": "https://www.gsp.ro/sporturi/gimnastica/svetlana-khorkina-reactie-furioasa-dupa-refuzul-vizelor-pentru-trei-gimnaste-ruse-987922.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Trei gimnaste de top din Rusia nu au primit vize pentru Campionatele Mondiale. World Gymnastics regretă „confuzia”",
+        "link": "https://stirileprotv.ro/stiri/international/trei-gimnaste-de-top-din-rusia-nu-au-primit-vize-pentru-campionatele-mondiale-world-gymnastics-regreta-confuzia.html"
+      }
+    ],
+    "published_at": 1792134408,
+    "title_hu": "Három orosz tornász nem kapott vízumot a rotterdami világbajnokságra",
+    "lead_hu": "Angelina Melnykova, Viktoria Listunova és Anna Kalmykova vízumkérelmét elutasították, így a három orosz tornász várhatóan nem indulhat a rotterdami világbajnokságon. A verseny a 2028-as Los Angeles-i olimpia csapatversenyének egyik kvalifikációs állomása; az ügyben a World Gymnastics sajnálatát fejezte ki, az orosz szövetség pedig az olimpiai kvalifikációs státusz felülvizsgálatát tervezi kérni.",
+    "content_hu": "• **Angelina Melnykova, Viktoria Listunova és Anna Kalmykova** nem kapott vízumot Hollandiába, ezért várhatóan kihagyja a Rotterdamban október 17–25. között rendezett tornász-világbajnokságot. A vízumelutasításokról az Orosz Tornaszövetség számolt be.\n\n• **A három sportoló eredményei** között jelentős nemzetközi sikerek vannak: Melnykova címvédő világbajnok és Európa-bajnok egyéni összetettben, Listunova olimpiai csapatbajnok, Kalmykova pedig az idei Európa-bajnokság egyéni összetett versenyének ezüstérmese.\n\n• **A rotterdami verseny olimpiai tétje**, hogy az első három helyezett csapat automatikusan kijut a 2028-as Los Angeles-i olimpiára. Az orosz szövetség szerint a vízumok megtagadása hátrányosan érinti a csapat esélyeit, és a Nemzetközi Olimpiai Bizottság, valamint a World Gymnastics vizsgálatát tervezi kérni.\n\n• **A World Gymnastics közlése szerint** a vízumkiadás kizárólag a holland hatóságok hatáskörébe tartozik, és a szervezet nem tudja megmagyarázni az egyes kérelmek elutasítását. A szövetség sajnálatát fejezte ki az orosz küldöttség felkészülését érintő hatás és a kialakult bizonytalanság miatt; a Nemzetközi Olimpiai Bizottság szerint a sportolók többsége megkapta a vízumot, és a következő két évben további kvalifikációs lehetőségek lesznek.\n\n• **Az elutasításokról szóló hivatalos értesítésekben** a beszámolók szerint az szerepelt, hogy a schengeni térség egy vagy több tagállama a sportolókat a nemzetközi kapcsolatokra nézve fenyegetésnek tartja. Az orosz szövetség diszkriminációnak nevezte a döntést, ezt az állítását azonban a források az orosz fél álláspontjaként közlik.",
+    "title_ro": "Trei gimnaste ruse nu au primit vize pentru Mondialele de la Rotterdam",
+    "lead_ro": "Angelina Melnikova, Viktoria Listunova și Anna Kalmykova nu au primit vize pentru Țările de Jos și, cel mai probabil, vor rata Campionatele Mondiale de la Rotterdam. Competiția este una dintre etapele de calificare pe echipe pentru Jocurile Olimpice de la Los Angeles din 2028; World Gymnastics și-a exprimat regretul, iar federația rusă intenționează să ceară reevaluarea statutului de calificare olimpică al evenimentului.",
+    "content_ro": "• **Angelina Melnikova, Viktoria Listunova și Anna Kalmykova** nu au primit vize pentru Țările de Jos și sunt așteptate să rateze Campionatele Mondiale de gimnastică de la Rotterdam, programate între 17 și 25 octombrie. Federația Rusă de Gimnastică a anunțat respingerea cererilor.\n\n• **Cele trei sportive au rezultate internaționale importante**: Melnikova este campioana mondială și europeană en titre la individual compus, Listunova a câștigat aurul olimpic cu echipa Rusiei, iar Kalmykova a obținut argintul la individual compus la Campionatele Europene din acest an.\n\n• **Miza olimpică a competiției de la Rotterdam** este calificarea automată la Jocurile de la Los Angeles din 2028 pentru primele trei echipe clasate. Federația rusă susține că refuzul vizelor afectează șansele echipei și intenționează să ceară Comitetului Olimpic Internațional și World Gymnastics să analizeze situația.\n\n• **World Gymnastics a precizat** că eliberarea vizelor ține exclusiv de autoritățile olandeze și că nu poate explica respingerea unor cereri individuale. Organizația a regretat efectele asupra pregătirii delegației ruse și confuzia creată; Comitetul Olimpic Internațional a afirmat că majoritatea sportivilor au primit vize și că vor exista și alte oportunități de calificare în următorii doi ani.\n\n• **Notificările oficiale de respingere**, potrivit relatărilor, menționează că unul sau mai multe state membre ale spațiului Schengen consideră sportivele o amenințare pentru relațiile internaționale. Federația rusă a calificat decizia drept discriminare, însă sursele prezintă această acuzație ca poziția părții ruse."
+  },
+  {
+    "group_id": "group_b4811f62a6",
+    "fingerprint": "4ff17264f65306dba5f652ecd367195f",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjAyJTJGMTgwOTk1MV8xODA5/OTUxXzExMi1hbWJ1bGFudGEuanBnJmhh/c2g9NjNiODM0Njc4ZDE5ZGI2N2YxZjg3ZmZlNDcxYWEwYmE=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Angajat al Direcţiei Silvice Maramureş, găsit mort, cu răni grave, într-un complex de vânătoare. Ipoteza luată în calcul de anchetatori",
+        "link": "https://www.digi24.ro/stiri/angajat-al-directiei-silvice-maramures-gasit-mort-cu-rani-grave-intr-un-complex-de-vanatoare-ipoteza-luata-in-calcul-de-anchetatori-3994895"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Tragedie în județul vecin. Pădurar găsit mort într-un complex de vânătoare. Prima ipoteză a anchetatorilor",
+        "link": "https://www.presasm.ro/tragedie-in-judetul-vecin-padurar-gasit-mort-intr-un-complex-de-vanatoare-prima-ipoteza-a/53808"
+      }
+    ],
+    "published_at": 1792134300,
+    "title_hu": "Meghalt egy erdész a máramarosi vadászterületen; a szarvastámadás csak vizsgált feltevés",
+    "lead_hu": "Egy 50 éves, a Șomcuta Mare-i erdészetnél dolgozó erdészt holtan találtak egy máramarosi vadászterületen, miután járőrözni indult. A hatóságok vizsgálják a haláleset körülményeit; az egyik feltevés szerint szarvas támadhatta meg, de ezt még nem erősítették meg.",
+    "content_hu": "• **Csütörtök este** az 50 éves erdész járőrözni indult a mintegy 520 hektáros vadászterületen, és találkozója lett volna egy vadászmesterrel.\n\n• **Este 9 óra körül** súlyos sérülésekkel találtak rá, miután kollégái nem tudták telefonon elérni, és keresni kezdték. Az esetet bejelentették a 112-es segélyhívón, valamint értesítették a munkafelügyeletet.\n\n• **A lehetséges szarvastámadás** egyelőre csak vizsgált feltevés: a párzási időszakban a hímek különösen agresszívek lehetnek, de ezt a magyarázatot még nem igazolták.\n\n• **A rendőrség gondatlanságból elkövetett emberölés gyanúja miatt** büntetőeljárást indított, hogy tisztázza a haláleset pontos körülményeit. A Romsilva részvétét fejezte ki az elhunyt családjának.",
+    "title_ro": "Pădurar găsit mort într-un complex de vânătoare din Maramureș; ipoteza atacului unui cerb este verificată",
+    "lead_ro": "Un pădurar de 50 de ani, angajat al Ocolului Silvic Șomcuta Mare, a fost găsit mort într-un complex de vânătoare din Maramureș, după ce plecase în patrulare. Autoritățile cercetează circumstanțele decesului; una dintre ipoteze este un posibil atac al unui cerb, însă aceasta nu a fost confirmată.",
+    "content_ro": "• **Joi seara**, pădurarul de 50 de ani a plecat în patrulare într-un complex de vânătoare de aproximativ 520 de hectare și urma să se întâlnească cu un maistru de vânătoare.\n\n• **În jurul orei 21:00**, acesta a fost găsit cu leziuni grave, după ce colegii nu au mai reușit să îl contacteze telefonic și au pornit în căutarea lui. Incidentul a fost anunțat la 112 și a fost notificat Inspectoratul Teritorial de Muncă.\n\n• **Posibilul atac al unui cerb** este deocamdată doar o ipoteză verificată de anchetatori: masculii pot deveni deosebit de agresivi în sezonul de împerechere, dar această explicație nu a fost confirmată.\n\n• **Poliția a deschis un dosar penal pentru ucidere din culpă** pentru a stabili circumstanțele exacte ale decesului. Romsilva a transmis condoleanțe familiei angajatului."
+  },
+  {
+    "group_id": "group_3a1ce30869",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Atac cibernetic la Bursa de Valori București. Ținta, instituția prin care se fac toate tranzacțiile",
+        "link": "https://hotnews.ro/atac-cibernetic-la-bursa-de-valori-bucuresti-tinta-institutia-prin-care-se-fac-toate-tranzactiile-2377666"
+      }
+    ],
+    "published_at": 1792134289,
+    "title_hu": "Atac cibernetic la Bursa de Valori București. Ținta, instituția prin care se fac toate tranzacțiile",
+    "lead_hu": "Depozitarul Central, prin care se realizează toate tranzacțiile la Bursa de Valori București (BVB) și care administrează toate datele privind tranzacțiile și contractele, a fost ținta unui atac inform…",
+    "content_hu": "Depozitarul Central, prin care se realizează toate tranzacțiile la Bursa de Valori București (BVB) și care administrează toate datele privind tranzacțiile și contractele, a fost ținta unui atac informatic, scriu Economica.net și Profit. Tot la Depozitarul Central sunt și informațiile privind „cuponarii” din anii ’90 – cei care au primit acțiuni de la stat, dar …",
+    "title_ro": "Atac cibernetic la Bursa de Valori București. Ținta, instituția prin care se fac toate tranzacțiile",
+    "lead_ro": "Depozitarul Central, prin care se realizează toate tranzacțiile la Bursa de Valori București (BVB) și care administrează toate datele privind tranzacțiile și contractele, a fost ținta unui atac inform…",
+    "content_ro": "Depozitarul Central, prin care se realizează toate tranzacțiile la Bursa de Valori București (BVB) și care administrează toate datele privind tranzacțiile și contractele, a fost ținta unui atac informatic, scriu Economica.net și Profit. Tot la Depozitarul Central sunt și informațiile privind „cuponarii” din anii ’90 – cei care au primit acțiuni de la stat, dar …"
+  },
+  {
+    "group_id": "group_1e3b10c117",
+    "fingerprint": "21b5755d6e86b509ab9e67d3a55db280",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fara-titlu-3-1024x607.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Atac armat într-o școală primară din SUA. Copii printre victime, atacatorul a fost ucis",
+        "link": "https://www.mediafax.ro/externe/atac-armat-intr-o-scoala-primara-din-sua-copii-printre-victime-atacatorul-a-fost-ucis-23826321"
+      },
+      {
+        "source": "Digi24",
+        "title": "Un adolescent de 16 ani a ucis trei copii și un profesor la o școală din SUA",
+        "link": "https://www.digi24.ro/stiri/externe/un-adolescent-de-16-ani-a-ucis-trei-copii-si-un-profesor-la-o-scoala-din-sua-3994733"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Trei copii și un profesor au fost uciși într-un atac la o școală din SUA. Suspectul, un adolescent de 16 ani, împușcat de un trecător",
+        "link": "https://hotnews.ro/trei-copii-si-un-profesor-au-fost-ucisi-intr-un-atac-la-o-scoala-primara-din-sua-suspectul-un-adolescent-de-16-ani-impuscat-de-un-trecator-2377566"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SUA: Un atacator a ucis patru persoane la o școală din Oregon, înainte de a fi împușcat mortal de un membru al comunității",
+        "link": "https://agerpres.ro/social-extern/2026/10/16/sua-un-atacator-a-ucis-patru-persoane-la-o-scoala-din-oregon-inainte-de-a-fi-impuscat-mortal-de-un-m--1603610"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un băiat de doar 16 ani a ucis patru oameni la o școală din Oregon, apoi a fost împușcat mortal. „Va fi o anchetă de lungă durată”",
+        "link": "https://stirileprotv.ro/stiri/international/un-tanar-a-ucis-patru-persoane-la-o-scoala-din-oregon-apoi-a-fost-impuscat-mortal-va-fi-o-ancheta-de-lunga-durata.html"
+      }
+    ],
+    "published_at": 1792134262,
+    "title_hu": "Négy áldozatot követelt az oregoni iskolai lövöldözés, a 16 éves támadót is lelőtték",
+    "lead_hu": "Három gyermek és egy tanár halt meg a Silver Rail általános iskolában, az oregoni Bend városában történt lövöldözésben; a 16 éves támadót egy közösségi tag lőtte le. Egy hétéves gyermek és egy 54 éves tanár kritikus állapotban került kórházba. Az FBI is segíti a nyomozást, amely a rendőrfőnök szerint hosszú ideig tarthat.",
+    "content_hu": "• **Négy áldozat** – egy 5, egy 8 és egy 11 éves gyermek, valamint egy tanár – halt meg a Silver Rail általános iskolában történt támadásban.\n\n• **A támadót is lelőtték:** a 16 éves, Bendben élő fiúra egy közösségi tag lőtt rá, miután követte őt az iskola épületébe. A rendőrfőnök szerint a közösségi tag még a rendőrök megérkezése előtt került vele összetűzésbe; az elkövető a helyszínen meghalt.\n\n• **Két sérültet kritikus állapotban szállítottak kórházba:** egy 7 éves gyermeket és egy 54 éves tanárt – közölte Mike Krantz bend-i rendőrfőnök.\n\n• **A támadó erőszakkal jutott be az iskolába**, miután rálőtt a bezárt ajtókra. A rendőrség nem tudja, volt-e kapcsolata az iskolával, vagy korábban annak tanulója volt-e; személyazonosságát nem hozták nyilvánosságra.\n\n• **A fegyverről szóló információ nem hivatalos:** egy névtelenséget kérő rendvédelmi forrás szerint a támadó pumpás sörétes puskát használt, amelyet az édesanyja vásárolt.\n\n• **Az első segélyhívás helyi idő szerint 12:59-kor érkezett**, miután valaki az iskola közelében egy autóra lőtt. Ezt követően az épületből is több segélyhívás futott be.\n\n• **A rendőrök termenként átvizsgálták és kiürítették az iskolát.** A hatóságok találkozási pontot jelöltek ki a családoknak, sok aggódó szülő és helyi lakos gyűlt össze az iskola előtt.\n\n• **Az FBI is részt vesz a nyomozásban:** Kash Patel FBI-igazgató közölte, hogy a szövetségi hivatal minden szükséges erőforrást biztosít a vizsgálathoz.\n\n• **A közösség megemlékezést tartott:** Bend lakói egy belvárosi parkban gyűltek össze közös imára, hogy az áldozatokra emlékezzenek és támogassák az érintett családokat.\n\n• **Bend iskolái pénteken zárva maradtak**, hogy a közösségnek legyen ideje feldolgozni a történteket. Steven Cook, a Bend-La Pine iskolakörzet vezetője részvétét fejezte ki az áldozatok családjainak és mindazoknak, akiket érintett az erőszak.\n\n• **Tina Kotek oregoni kormányzó** „teljesen lesújtottnak” mondta magát, és megköszönte a közösségi tagnak, hogy közbelépett. Azt is hangsúlyozta: a beavatkozás komoly érzelmi terhet jelenthet annak, aki megakadályozta a további áldozatokat.\n\n• **Az iskola mérete:** a Silver Rail az előkészítő osztálytól az ötödik évfolyamig fogad tanulókat; tavaly 459 diákja volt. A helyi tisztviselők mintegy 450 tanulóról és 40 alkalmazottról számoltak be. Bend lakossága körülbelül 100 ezer fő; az iskola Portlandtől délkeletre fekszik.\n\n• **A rendőrség felkészült az ilyen helyzetekre:** Krantz szerint augusztusban Bend minden rendőre egész napos, aktív támadóra vonatkozó kiképzésen vett részt. A rendőrfőnök hosszú nyomozásra számít.\n\n• **Az iskolai lövöldözések adatai:** a K-12 School Shooting Database szerint az előző évben 235 ilyen esetet regisztráltak az amerikai közoktatásban, a tárgyévben pedig a bend-i lövöldözéssel együtt legalább 149-et. Az esetszám a 2023-as csúcs óta csökken, de még a járvány előtti szint fölött van.\n\n• **A fegyvertartásról szóló vita ismét előtérbe került:** az iskolai támadások rendszeresen újraindítják az amerikai fegyvertartási szabályokról szóló vitát; egyes fegyverjogi támogatók a tanárok felfegyverzését szorgalmazzák.",
+    "title_ro": "Patru victime în atacul armat de la o școală din Oregon; atacatorul de 16 ani a fost împușcat mortal",
+    "lead_ro": "Trei copii și un profesor au fost uciși în atacul armat de la Școala Primară Silver Rail din Bend, Oregon; adolescentul de 16 ani care a deschis focul a fost împușcat de un membru al comunității. Un copil de 7 ani și un profesor de 54 de ani au fost spitalizați în stare critică. FBI-ul sprijină ancheta, despre care șeful poliției spune că va fi de lungă durată.",
+    "content_ro": "• **Patru victime** – copii de 5, 8 și 11 ani și un profesor – au fost ucise în atacul de la Școala Primară Silver Rail.\n\n• **Atacatorul a fost, de asemenea, împușcat mortal:** adolescentul de 16 ani, care locuia în Bend, a fost împușcat de un membru al comunității care l-a urmărit în interiorul școlii. Potrivit șefului poliției, acesta a intrat în confruntare cu atacatorul înainte de sosirea polițiștilor; adolescentul a murit la fața locului.\n\n• **Două persoane rănite au fost transportate la spital în stare critică:** un copil de 7 ani și un profesor de 54 de ani, a declarat Mike Krantz, șeful poliției din Bend.\n\n• **Atacatorul a pătruns cu forța în școală** după ce a tras asupra ușilor încuiate. Poliția nu știe dacă acesta avea vreo legătură cu școala sau dacă fusese elev acolo; identitatea sa nu a fost făcută publică.\n\n• **Informațiile despre armă nu sunt oficiale:** potrivit unei surse anonime din cadrul forțelor de ordine, adolescentul a folosit o pușcă cu pompă, cumpărată de mama sa.\n\n• **Primul apel la 911 a fost primit la ora locală 12:59**, după ce o persoană a tras asupra unei mașini în apropierea școlii. Ulterior au fost înregistrate mai multe apeluri de urgență din interiorul clădirii.\n\n• **Polițiștii au verificat și evacuat școala sală cu sală.** Autoritățile au stabilit un punct de întâlnire pentru familii, iar numeroși părinți și localnici îngrijorați s-au adunat în fața școlii.\n\n• **FBI-ul participă la anchetă:** directorul FBI, Kash Patel, a declarat că instituția va pune la dispoziție toate resursele necesare investigației.\n\n• **Comunitatea a organizat un moment de reculegere:** locuitori din Bend s-au adunat într-un parc din centrul orașului pentru o rugăciune comună și pentru a-și aminti victimele și a sprijini familiile afectate.\n\n• **Școlile din Bend au rămas închise vineri**, pentru ca comunitatea să aibă timp să proceseze cele întâmplate. Steven Cook, responsabilul districtului școlar Bend-La Pine, a transmis condoleanțe familiilor victimelor și tuturor celor afectați de violență.\n\n• **Guvernatoarea statului Oregon, Tina Kotek,** s-a declarat „absolut devastată” și i-a mulțumit membrului comunității care a intervenit. Ea a subliniat și povara emoțională pe care o poate implica intervenția pentru persoana care a împiedicat pierderea altor vieți.\n\n• **Dimensiunea școlii:** Silver Rail cuprinde clasele pregătitoare până la clasa a cincea și a avut 459 de elevi înscriși anul trecut. Oficialii locali au menționat aproximativ 450 de elevi și 40 de angajați. Bend are circa 100.000 de locuitori, iar școala se află la sud-est de Portland.\n\n• **Poliția s-a pregătit pentru astfel de situații:** potrivit lui Krantz, în august, fiecare polițist din Bend a urmat o zi întreagă de instruire pentru intervenții în cazul unui atacator activ. Șeful poliției se așteaptă la o anchetă de lungă durată.\n\n• **Date despre atacurile armate din școli:** potrivit bazei de date K-12 School Shooting Database, anul trecut au fost înregistrate 235 de astfel de incidente în școlile din SUA, iar în anul curent cel puțin 149, inclusiv atacul din Bend. Numărul cazurilor este în scădere față de vârful din 2023, dar rămâne peste nivelul de dinaintea pandemiei.\n\n• **Dezbaterea privind dreptul de a deține arme a revenit în prim-plan:** atacurile din școli reaprind periodic discuțiile din SUA despre reglementarea armelor de foc; unii susținători ai dreptului de a deține arme pledează pentru înarmarea profesorilor."
+  },
+  {
+    "group_id": "group_a1a2a9c44f",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Inteligența artificială schimbă regulile angajării. Ce contează tot mai mult pentru recrutori",
+        "link": "https://hotnews.ro/inteligenta-artificiala-schimba-regulile-angajarii-ce-conteaza-tot-mai-mult-pentru-recrutori-2377653"
+      }
+    ],
+    "published_at": 1792134144,
+    "title_hu": "Inteligența artificială schimbă regulile angajării. Ce contează tot mai mult pentru recrutori",
+    "lead_hu": "Inteligența artificială poate prelua tot mai multe dintre sarcinile repetitive, poate procesa informații mai repede și poate crește productivitatea, însă oamenii nu trebuie să fie în competiție cu teh…",
+    "content_hu": "Inteligența artificială poate prelua tot mai multe dintre sarcinile repetitive, poate procesa informații mai repede și poate crește productivitatea, însă oamenii nu trebuie să fie în competiție cu tehnologia, ci trebuie să învețe cum să lucreze cu ea. Astfel, una dintre principalele provocări pentru organizații este să decidă ce rămâne esențial uman și cum poate …",
+    "title_ro": "Inteligența artificială schimbă regulile angajării. Ce contează tot mai mult pentru recrutori",
+    "lead_ro": "Inteligența artificială poate prelua tot mai multe dintre sarcinile repetitive, poate procesa informații mai repede și poate crește productivitatea, însă oamenii nu trebuie să fie în competiție cu teh…",
+    "content_ro": "Inteligența artificială poate prelua tot mai multe dintre sarcinile repetitive, poate procesa informații mai repede și poate crește productivitatea, însă oamenii nu trebuie să fie în competiție cu tehnologia, ci trebuie să învețe cum să lucreze cu ea. Astfel, una dintre principalele provocări pentru organizații este să decidă ce rămâne esențial uman și cum poate …"
+  },
+  {
+    "group_id": "group_eb3214840b",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/8142005-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Eroare sau semnal. Donald Trump: Crimeea este, fără îndoială, cea mai valoroasă parte a Ucrainei",
+        "link": "https://www.mediafax.ro/politic/eroare-sau-semnal-donald-trump-crimeea-este-fara-indoiala-cea-mai-valoroasa-parte-a-ucrainei-23826431"
+      }
+    ],
+    "published_at": 1792134143,
+    "title_hu": "Eroare sau semnal. Donald Trump: Crimeea este, fără îndoială, cea mai valoroasă parte a Ucrainei",
+    "lead_hu": "Președintele american Donald Trump a făcut afirmații surprinzătoare în timpul unui interviu. Crimeea este, fără îndoială, cea mai valoroasă parte a Ucrainei, a spus Trump despre peninsula ocupată de r…",
+    "content_hu": "Președintele american Donald Trump a făcut afirmații surprinzătoare în timpul unui interviu. Crimeea este, fără îndoială, cea mai valoroasă parte a Ucrainei, a spus Trump despre peninsula ocupată de ruși. Totodată, Trump a descris Crimeea drept o zonă înconjurată de ocean.",
+    "title_ro": "Eroare sau semnal. Donald Trump: Crimeea este, fără îndoială, cea mai valoroasă parte a Ucrainei",
+    "lead_ro": "Președintele american Donald Trump a făcut afirmații surprinzătoare în timpul unui interviu. Crimeea este, fără îndoială, cea mai valoroasă parte a Ucrainei, a spus Trump despre peninsula ocupată de r…",
+    "content_ro": "Președintele american Donald Trump a făcut afirmații surprinzătoare în timpul unui interviu. Crimeea este, fără îndoială, cea mai valoroasă parte a Ucrainei, a spus Trump despre peninsula ocupată de ruși. Totodată, Trump a descris Crimeea drept o zonă înconjurată de ocean."
+  },
+  {
     "group_id": "group_ae8dd485d2",
     "fingerprint": "f59dc8162110cca91f52f51955d5757a",
     "category": "Általános",
@@ -31,6 +629,34 @@
     "title_ro": "Reuters: ordinul de restricționare a Starshield pentru Ucraina ar fi venit de la Casa Albă",
     "lead_ro": "Potrivit unor oficiali americani și occidentali citați de Reuters, ordinul de restricționare a serviciului Starshield folosit de armata ucraineană ar fi venit din interiorul Casei Albe, afectând și dronele care se deplasează cu viteză mare. Măsura a fost luată în contextul presiunilor exercitate de Washington asupra Kievului pentru oprirea atacurilor asupra rafinăriilor rusești. Tensiunile au fost amplificate de disputa privind acordul pentru motorina rusească și de criticile reciproce dintre Trump și Zelenski.",
     "content_ro": "• **Ordinul ar fi venit de la Casa Albă:** doi oficiali americani și unul occidental au declarat pentru Reuters că liderii Pentagonului au primit un mesaj prin care li se cerea restricționarea serviciului Starshield furnizat de SpaceX armatei ucrainene. Sursele nu au precizat cine a luat decizia sau cine a pus-o în aplicare; un oficial american de rang înalt a afirmat că președintele Trump nu a cerut restricția.\n\n• **Restricția a afectat operațiunile cu drone:** oficiali ucraineni au spus că terminalele militare nu funcționau corespunzător când erau montate pe obiecte care se deplasau cu viteză mare. Măsura a complicat atacurile împotriva forțelor și logisticii rusești din teritoriile ocupate și a încetinit dronele interceptoare folosite împotriva dronelor Shahed. O sursă din Ministerul ucrainean al Apărării a declarat că terminalele funcționau din nou în mișcare, dar numai la viteze de până la 160 km/h.\n\n• **Starshield este versiunea militară a Starlink:** SpaceX a dezvoltat sistemul pentru clienți guvernamentali și din domeniul securității naționale, folosind constelația Starlink drept infrastructură de bază. Pentagonul este cel mai mare client și a cheltuit miliarde de dolari pentru Starlink și Starshield, inclusiv pentru sateliți specializați în comunicații de avertizare împotriva rachetelor și pentru rețeaua de spionaj a Serviciului Național de Recunoaștere al SUA.\n\n• **Trump a făcut presiuni asupra Kievului pentru oprirea atacurilor asupra rafinăriilor rusești:** președintele american a pus pe seama acestora creșterea puternică a prețurilor energiei, despre care a spus că afectează perspectivele Partidului Republican înaintea alegerilor intermediare din noiembrie. Experții consideră că scumpirea energiei este provocată în principal de războiul dintre SUA, Israel și Iran, de atacurile iraniene asupra instalațiilor energetice și de blocarea în mare parte a Strâmtorii Ormuz.\n\n• **Rafinăriile au fost discutate la reuniunea de la Miami din 9 octombrie:** Jared Kushner și Steve Witkoff au adoptat un ton dur față de delegația ucraineană și au exprimat nemulțumirea Washingtonului față de continuarea atacurilor, potrivit unei surse Reuters. Delegația americană a justificat acordul privind livrarea de motorină rusească prin speranța că acesta va face Moscova mai flexibilă în negocierile de pace. Acordul prevede furnizarea a peste 2,25 milioane de barili și a fost criticat de unii parlamentari americani, care susțin că va aduce venituri Rusiei fără să-l oblige pe Vladimir Putin să facă concesii.\n\n• **Zelenski și Trump s-au criticat reciproc după acordul privind motorina:** președintele ucrainean a calificat decizia SUA drept „slabă”, iar Trump a cerut organizarea de alegeri în Ucraina și înlăturarea lui Zelenski.\n\n• **Kievul a cerut explicații despre restricție:** un oficial ucrainean de rang înalt a declarat că reprezentanți ai Kievului au contactat marți și miercuri oficiali de la Casa Albă, Departamentul de Stat și Pentagon și au fost informați că decizia aparține Casei Albe.\n\n• **Schimbul de informații de intelligence este o altă sursă de tensiune:** în discuții nepublice, oficiali americani au amenințat că vor opri transmiterea informațiilor despre lansările de rachete rusești, folosite de Ucraina pentru a contracara atacurile. Trump a declarat marți că Washingtonul continuă să împărtășească informații cu Kievul.\n\n• **Musk spune că guvernul american poate decide limitarea utilizării:** Elon Musk a scris pe X că sistemele Starshield sunt deținute și controlate de guvernul SUA, iar limitările de viteză sau de utilizare sunt decise de armata americană sau de președinte. SpaceX, Pentagonul și ambasada Ucrainei la Washington nu au răspuns solicitărilor Reuters."
+  },
+  {
+    "group_id": "group_36ba3f18f1",
+    "fingerprint": "6e24f6a3331bc8cf77b4f6c2ead45c5a",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMCUyRjIyJTJGMjEwOTI4Ml8yMTA5/MjgyX2JhcmJhdC1jYWxvcmlmZXItcHJv/ZmltZWRpYS5qcGcmaGFzaD1lOTMyZTAx/ZjAzYjEyY2U5YzMyMDZmZmJlMzc2ZDAwYQ==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Termoenergetica începe probele la cald pentru iarna 2026-2027. Ce se întâmplă cu lucrările la sistemul de termoficare",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/termoenergetica-incepe-probele-la-cald-pentru-iarna-2026-2027-ce-se-intampla-cu-lucrarile-la-sistemul-de-termoficare-3994831"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Termoenergetica București începe probele pentru căldură: „Acestea vor fi realizate în principal noaptea”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/termoenergetica-incepe-probele-sistemului-de-termoficare-pentru-consumatorii-din-capitala.html"
+      }
+    ],
+    "published_at": 1792134027,
+    "title_hu": "Megkezdődnek a fűtési próbák Bukarest távhőrendszerében",
+    "lead_hu": "A Termoenergetica fokozatosan indítja el a melegüzemi próbákat a bukaresti távhőhálózaton. A teszteket főként éjszaka végzik, hogy ellenőrizzék a rendszer működését és felkészüljenek a csökkenő hőmérsékletre.",
+    "content_hu": "• **Megkezdődnek a melegüzemi próbák** a bukaresti távhőhálózatra kapcsolt fogyasztóknál; a tesztelés fokozatosan halad, figyelembe véve a rendszer méretét, a vezetékek állapotát és a város különböző részein zajló munkálatokat.\n\n• **A próbákat főként éjszaka végzik**, mert az előrejelzés a következő napokra csökkenő hőmérsékletet jelez. A tesztek célja a távhőrendszer hidraulikai egyensúlyának biztosítása és az ellátási útvonalak működésének ellenőrzése.\n\n• **A fűtési idényben csak olyan munkálatokat folytatnak**, amelyeknél ideiglenes megoldásokkal biztosítható, hogy a hőszolgáltatás ne sérüljön.\n\n• **A lakóközösségek feladata az épületen belüli rendszerek ellenőrzése** és a szükséges munkák befejezése, beleértve a lakások radiátorainak légtelenítését is. A szolgáltatás későbbi indítását kérő társasházak írásban jelezhetik igényüket a Termoenergeticának.",
+    "title_ro": "Termoenergetica începe probele la cald în sistemul de termoficare din București",
+    "lead_ro": "Termoenergetica începe treptat probele la cald pentru consumatorii racordați la rețeaua de termoficare din București. Testele vor avea loc în principal noaptea și urmăresc verificarea funcționării sistemului în contextul scăderii temperaturilor.",
+    "content_ro": "• **Încep probele la cald** pentru consumatorii racordați la rețeaua de termoficare din București. Testele se vor desfășura progresiv, ținând cont de dimensiunea sistemului, de starea conductelor și de lucrările din diferite zone ale orașului.\n\n• **Probele vor fi realizate în principal noaptea**, deoarece prognoza indică temperaturi în scădere în următoarele zile. Acestea urmăresc să asigure echilibrul hidraulic al sistemului și să verifice funcționarea traseelor de alimentare.\n\n• **În sezonul rece vor continua doar lucrările** pentru care pot fi realizate soluții provizorii, astfel încât furnizarea agentului termic să nu fie afectată.\n\n• **Asociațiile de proprietari trebuie să verifice instalațiile interioare** și să finalizeze lucrările din imobile, inclusiv aerisirea caloriferelor. Asociațiile care doresc amânarea furnizării pot transmite o solicitare scrisă către Termoenergetica."
   },
   {
     "group_id": "group_7cd3fecb2f",
@@ -263,60 +889,6 @@
     "title_ro": "Paolo Zampolli a fost demis după ce disputa sa prin e-mail a devenit publică",
     "lead_ro": "Mandatul lui Paolo Zampolli de trimis special pentru Parteneriate Globale a fost revocat, iar acesta nu mai lucrează pentru guvernul SUA. Demiterea a venit la câteva ore după ce a devenit publică disputa sa de luni întregi prin e-mail cu Christopher Landau, secretarul de stat adjunct. Relatările despre Zampolli au inclus și contactele sale din România, precum și acuzațiile de agresiune sexuală formulate într-un proces civil, pe care acesta le neagă.",
     "content_ro": "• **Demiterea lui Zampolli**: un oficial american a confirmat că mandatul lui Paolo Zampolli de trimis special pentru Parteneriate Globale a fost revocat și că acesta nu mai este angajat al guvernului SUA. Zampolli a spus că nu a fost deloc surprins; le-a mulțumit lui Donald Trump, secretarului de stat Marco Rubio și echipei guvernamentale pentru oportunitatea de a servi și a anunțat că se întoarce la afaceri.\n\n• **Disputa prin e-mail cu Landau**: demiterea a venit la câteva ore după ce POLITICO a relatat despre conflictul de luni întregi dintre Zampolli și Christopher Landau, secretarul de stat adjunct. Disputa privea atribuțiile și ierarhia instituțională, Landau încercând să-l mențină pe Zampolli concentrat asupra rolului său cultural. Potrivit e-mailurilor obținute de POLITICO, Zampolli s-a întâlnit cu oficiali străini și pentru a discuta chestiuni fără legătură cu domeniul cultural; în unele lanțuri de corespondență erau incluși și alți oficiali guvernamentali, printre care Dan Scavino.\n\n• **Acuzația privind articolul din The New York Times**: în iunie, Zampolli l-a acuzat pe Landau că a divulgat informații publicației. Landau a negat și a calificat acuzațiile drept defăimătoare și nepotrivite. Acuzația ar fi avut legătură cu un articol din martie, potrivit căruia Zampolli ar fi cerut intervenția ICE pentru deportarea în Brazilia a fostei sale partenere, Amanda Ungaro; Zampolli a negat că ar fi cerut reținerea sau deportarea acesteia.\n\n• **Rolurile anterioare ale lui Zampolli**: vechi cunoscut al familiei Trump, a lucrat ca agent în industria modelingului în anii 1990, a reprezentat-o pe Melania Trump și a făcut cunoștință cu Donald Trump. În primul mandat al lui Trump a fost numit în consiliul de administrație al Kennedy Center, iar în al doilea, în martie 2025, a devenit trimis special al SUA pentru Parteneriate Globale. În mai 2026, a prezentat sportul drept o cale de a construi relații internaționale și a sugerat ca Italia să înlocuiască Iranul la Cupa Mondială dacă naționala iraniană nu ar putea participa.\n\n• **Contactele lui Zampolli în România**: la 27 august 2026, a participat la prezentarea proiectului parcului prieteniei româno-americane care va purta numele lui Donald Trump, anunțat de Daniel Băluță, primarul Sectorului 4 din București. La eveniment l-a sunat pe președintele României, Nicușor Dan, și i-a transmis mulțumirile lui Trump pentru proiect. În septembrie 2025 s-a întâlnit și cu premierul Ilie Bolojan; potrivit presei românești, ar fi contribuit la organizarea întâlnirii de la Washington din februarie 2026 dintre Dan și Marco Rubio.\n\n• **Procesul civil intentat de Victoria Drake**: modelul și antreprenoarea din domeniul tehnologiei susține că Zampolli a agresat-o sexual în locuința sa din Manhattan, în octombrie 2023, după ce și-ar fi pierdut cunoștința în urma consumării unei băuturi oferite de acesta. Drake solicită despăgubiri și un proces cu juriu. Zampolli neagă acuzațiile și susține că plângerea ar fi o tentativă de șantaj sau de afectare a reputației sale; acestea sunt susțineri formulate într-un proces civil, nu fapte stabilite de o instanță.\n\n• **Kimberly Guilfoyle și legăturile românești ale celor doi**: potrivit G4Media, Trump a forțat-o să plece în aceeași săptămână și pe Kimberly Guilfoyle, ambasadoarea SUA în Grecia. La 31 martie, Guilfoyle a luat cina la București cu președintele PSD Sorin Grindeanu, ministrul Energiei Bogdan Ivan și consilierul prezidențial Florin Vlădică; publicația afirmă că ea a promovat anterior și vânzarea de gaze naturale americane în România. Potrivit relatărilor de presă menționate de G4Media, Guilfoyle ar fi amenințat un ministru grec al Energiei, iar democrații au cerut o anchetă privind acuzații de corupție; George Simion a declarat că Guilfoyle este prietena sa."
-  },
-  {
-    "group_id": "group_2a4ae616d9",
-    "fingerprint": "7d205467a0737e9f604b1287aa6b12a7",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Alertă aeriană în Tulcea: țintă aeriană la aproximativ 30 de km est de Insula Șerpilor",
-        "link": "https://www.mediafax.ro/social/alerta-aeriana-in-tulcea-tinta-aeriana-la-aproximativ-30-de-km-est-de-insula-serpilor-23825481"
-      },
-      {
-        "source": "Adevărul",
-        "title": "A treia încălcare a spațiului aerian al României în mai puțin de 12 ore. O nouă țintă aeriană a ajuns în apropiere de Sulina",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/a-treia-incalcare-a-spatiului-aerian-al-romaniei-2564059.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Avioane de luptă F-16, mobilizate de Forțele Aeriene Române. Ce au detectat radarele în apropiere de Insula Șerpilor",
-        "link": "https://hotnews.ro/avioane-de-lupta-f-16-mobilizate-de-fortele-aeriene-romane-ce-au-detectat-radarele-in-apropiere-de-insula-serpilor-2376239"
-      }
-    ],
-    "published_at": 1792133398,
-    "title_hu": "Rövid időre belépett a román légtérbe egy légi célpont Sulina közelében",
-    "lead_hu": "Szerdán délután egy, a Kígyó-szigettől mintegy 30 kilométerre keletre észlelt légi célpont rövid időre belépett Románia légterébe Sulina közelében. A román légierő két F-16-osát riasztották, a Tulcea megye északi és keleti részén élők pedig RO-Alert üzenetet kaptak.",
-    "content_hu": "• **Szerdán 17:38-kor** a célpont Sulinától mintegy 22 kilométerre északkeletre, a román felségvizek fölött belépett a nemzeti légtérbe, majd 17:46-kor elhagyta azt.\n\n• **A román légierő két F-16-osa** felszállt a borceai 86. légibázisról a helyzet megfigyelésére.\n\n• **17:39-kor RO-Alert üzenetet küldtek** Tulcea megye északi és keleti részének lakói számára. A légiriadó 19:03-kor ért véget.",
-    "title_ro": "O țintă aeriană a intrat pentru scurt timp în spațiul aerian românesc, lângă Sulina",
-    "lead_ro": "Miercuri după-amiază, o țintă aeriană detectată la aproximativ 30 de kilometri est de Insula Șerpilor a intrat pentru scurt timp în spațiul aerian al României, în apropiere de Sulina. Două avioane F-16 românești au fost ridicate de la sol, iar locuitorii din nordul și estul județului Tulcea au primit un mesaj RO-Alert.",
-    "content_ro": "• **Miercuri, la ora 17:38**, ținta a intrat în spațiul aerian național la aproximativ 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale românești, și l-a părăsit la ora 17:46.\n\n• **Două aeronave F-16 ale Forțelor Aeriene Române** au decolat de la Baza 86 Aeriană Borcea pentru monitorizarea situației.\n\n• **La ora 17:39 a fost transmis un mesaj RO-Alert** pentru locuitorii din nordul și estul județului Tulcea. Alerta aeriană a încetat la ora 19:03."
-  },
-  {
-    "group_id": "group_b4811f62a6",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjAyJTJGMTgwOTk1MV8xODA5/OTUxXzExMi1hbWJ1bGFudGEuanBnJmhh/c2g9NjNiODM0Njc4ZDE5ZGI2N2YxZjg3ZmZlNDcxYWEwYmE=.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Angajat al Direcţiei Silvice Maramureş, găsit mort, cu răni grave, într-un complex de vânătoare. Ipoteza luată în calcul de anchetatori",
-        "link": "https://www.digi24.ro/stiri/angajat-al-directiei-silvice-maramures-gasit-mort-cu-rani-grave-intr-un-complex-de-vanatoare-ipoteza-luata-in-calcul-de-anchetatori-3994895"
-      }
-    ],
-    "published_at": 1792133329,
-    "title_hu": "Angajat al Direcţiei Silvice Maramureş, găsit mort, cu răni grave, într-un complex de vânătoare. Ipoteza luată în calcul de anchetatori",
-    "lead_hu": "Un angajat al Direcţiei Silvice Maramureş, în vârstă de 50 de ani, a fost găsit mort într-un complex de vânătoare, după ce plecase în patrulare, joi seară. El avea răni grave, una dintre ipoteze fiind…",
-    "content_hu": "Un angajat al Direcţiei Silvice Maramureş, în vârstă de 50 de ani, a fost găsit mort într-un complex de vânătoare, după ce plecase în patrulare, joi seară. El avea răni grave, una dintre ipoteze fiind aceea că a fost atacat de un cerb, având în vedere că masculii sunt extrem de agresivi în perioada de împerechere. Poliţia a deschis un dosar penal.",
-    "title_ro": "Angajat al Direcţiei Silvice Maramureş, găsit mort, cu răni grave, într-un complex de vânătoare. Ipoteza luată în calcul de anchetatori",
-    "lead_ro": "Un angajat al Direcţiei Silvice Maramureş, în vârstă de 50 de ani, a fost găsit mort într-un complex de vânătoare, după ce plecase în patrulare, joi seară. El avea răni grave, una dintre ipoteze fiind…",
-    "content_ro": "Un angajat al Direcţiei Silvice Maramureş, în vârstă de 50 de ani, a fost găsit mort într-un complex de vânătoare, după ce plecase în patrulare, joi seară. El avea răni grave, una dintre ipoteze fiind aceea că a fost atacat de un cerb, având în vedere că masculii sunt extrem de agresivi în perioada de împerechere. Poliţia a deschis un dosar penal."
   },
   {
     "group_id": "group_e0392ac0d7",
@@ -1763,39 +2335,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_1e3b10c117",
-    "fingerprint": "968438e3a3bf2a97d39518d08b12dc03",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fara-titlu-3-1024x607.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Un adolescent de 16 ani a ucis trei copii și un profesor la o școală din SUA",
-        "link": "https://www.digi24.ro/stiri/externe/un-adolescent-de-16-ani-a-ucis-trei-copii-si-un-profesor-la-o-scoala-din-sua-3994733"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Trei copii și un profesor au fost uciși într-un atac la o școală din SUA. Suspectul, un adolescent de 16 ani, împușcat de un trecător",
-        "link": "https://hotnews.ro/trei-copii-si-un-profesor-au-fost-ucisi-intr-un-atac-la-o-scoala-primara-din-sua-suspectul-un-adolescent-de-16-ani-impuscat-de-un-trecator-2377566"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "SUA: Un atacator a ucis patru persoane la o școală din Oregon, înainte de a fi împușcat mortal de un membru al comunității",
-        "link": "https://agerpres.ro/social-extern/2026/10/16/sua-un-atacator-a-ucis-patru-persoane-la-o-scoala-din-oregon-inainte-de-a-fi-impuscat-mortal-de-un-m--1603610"
-      }
-    ],
-    "published_at": 1792130560,
-    "title_hu": "Négy áldozatot követelt az oregoni iskolai lövöldözés, a 16 éves támadó is meghalt",
-    "lead_hu": "Három gyermek és egy tanár vesztette életét a Silver Rail általános iskolában, az oregoni Bend városában történt lövöldözésben. A 16 éves támadót egy helyszínen tartózkodó közösségi tag lőtte le; egy másik gyermeket és egy tanárt kritikus állapotban kórházba szállítottak. Bend iskolái pénteken zárva maradtak, a rendőrség pedig hosszan tartó nyomozásra készül.",
-    "content_hu": "• **Három gyermek és egy tanár** halt meg a Silver Rail általános iskolában történt támadásban. Az áldozatul esett gyermekek 5, 8 és 11 évesek voltak.\n\n• **A támadó is meghalt:** a 16 éves, Bendben élő fiúra egy helyszínen tartózkodó közösségi tag lőtt rá, miután követte őt az iskola épületébe. A négy áldozaton felül a támadó halála miatt összesen öten haltak meg.\n\n• **A támadó erőszakkal jutott be az iskolába**, miután rálőtt a bezárt ajtókra. A rendőrség nem tudja, ismert-e valakit az iskolából, vagy korábban annak tanulója volt-e; a támadó személyazonosságát nem hozták nyilvánosságra.\n\n• **Egy 7 éves gyermek és egy 54 éves tanár** kritikus állapotban került kórházba – közölte Mike Krantz, Bend rendőrfőnöke.\n\n• **A támadó egy pumpás sörétes puskát használt**, amelyet egy rendvédelmi forrás szerint az édesanyja vásárolt.\n\n• **A hatóságok helyi idő szerint 12:59-kor kapták az első segélyhívást**, miután valaki az iskola közelében egy autóra lőtt. Ezt követően további segélyhívások érkeztek az iskola épületéből.\n\n• **Az iskolát lezárták és kiürítették:** a rendőrök termenként átvizsgálták az épületet. A rendőrség találkozási pontot is kijelölt a diákok családtagjai számára; sok aggódó szülő és helyi lakos gyűlt össze az iskola előtt.\n\n• **Bend iskolái pénteken zárva maradtak**, hogy a helyi közösségnek legyen ideje feldolgozni a történteket.\n\n• **Steven Cook, a Bend-La Pine iskolakörzet vezetője** megrendültségét fejezte ki, és részvétét nyilvánította az áldozatok családjainak és mindazoknak, akiket érintett az erőszak.\n\n• **Tina Kotek oregoni kormányzó** „teljesen lesújtottnak” mondta magát, és köszönetet mondott annak a közösségi tagnak, aki közbelépett, hogy megakadályozza további életek elvesztését. Hangsúlyozta, hogy a tragédia az áldozatok családjait és az egész közösséget sújtja.\n\n• **Az iskola mérete és elhelyezkedése:** a Silver Rail több mint 160 kilométerre délkeletre fekszik Portlandtől; az előző tanévben 459 tanulója volt az előkészítő osztálytól az ötödik évfolyamig. Egy másik közlés szerint az intézményben körülbelül 450 diák és 40 alkalmazott van; Bend lakossága mintegy 100 ezer fő.\n\n• **A rendőrség felkészült az ilyen helyzetekre:** Mike Krantz szerint augusztusban Bend minden rendőre egész napos aktív támadóra vonatkozó kiképzésen vett részt. A rendőrfőnök hosszú nyomozásra számít.\n\n• **Az iskolai lövöldözések adatai:** a K-12 School Shooting Database szerint az előző évben 235 ilyen esetet regisztráltak az amerikai közoktatásban, a tárgyévben pedig a bendivel együtt legalább 149-et. Az esetszám a 2023-as csúcs óta csökken, de még a járvány előtti szint fölött van.\n\n• **A fegyvertartásról szóló vita is újra fellángolt:** az amerikai iskolai támadások rendszeresen előtérbe helyezik a fegyvertartási szabályozást; egyes fegyverjogi támogatók a tanárok felfegyverzését szorgalmazzák.",
-    "title_ro": "Patru persoane au fost ucise în atacul armat din Oregon; atacatorul de 16 ani a murit și el",
-    "lead_ro": "Trei copii și un profesor au fost uciși în atacul armat de la Școala Primară Silver Rail din Bend, Oregon. Atacatorul în vârstă de 16 ani a fost împușcat mortal de un membru al comunității care l-a urmărit în interiorul școlii; un alt copil și un profesor au fost transportați la spital în stare critică. Școlile din Bend au rămas închise vineri, iar poliția se așteaptă la o anchetă de durată.",
-    "content_ro": "• **Trei copii și un profesor** au fost uciși în atacul de la Școala Primară Silver Rail. Copiii aveau 5, 8 și 11 ani.\n\n• **Atacatorul a murit și el:** adolescentul de 16 ani, care locuia în Bend, a fost împușcat de un membru al comunității aflat la fața locului, după ce acesta l-a urmărit în interiorul școlii. Pe lângă cele patru victime, moartea atacatorului ridică la cinci numărul total al persoanelor decedate.\n\n• **Atacatorul a pătruns cu forța în școală** după ce a tras asupra ușilor încuiate. Poliția nu știe dacă acesta cunoștea pe cineva din școală sau dacă fusese elev al instituției; identitatea lui nu a fost făcută publică.\n\n• **Un copil de 7 ani și un profesor de 54 de ani** au fost transportați la spital în stare critică, a declarat Mike Krantz, șeful poliției din Bend.\n\n• **Atacatorul a folosit o pușcă de tip pump-action**, despre care o sursă din cadrul forțelor de ordine a spus că fusese cumpărată de mama sa.\n\n• **Primul apel de urgență a fost primit la ora locală 12:59**, după ce o persoană a tras asupra unei mașini aflate în apropierea școlii. Ulterior au fost înregistrate și alte apeluri din interiorul clădirii.\n\n• **Școala a fost izolată și evacuată:** polițiștii au verificat clădirea sală cu sală. A fost amenajat un punct de întâlnire pentru familii, iar numeroși părinți și membri îngrijorați ai comunității s-au adunat în fața școlii.\n\n• **Școlile din Bend au rămas închise vineri**, pentru ca membrii comunității să aibă timp să proceseze tragedia.\n\n• **Steven Cook, directorul districtului școlar Bend-La Pine,** și-a exprimat durerea și a transmis condoleanțe familiilor victimelor și tuturor celor afectați de violență.\n\n• **Guvernatoarea Oregonului, Tina Kotek,** s-a declarat „absolut devastată” și i-a mulțumit membrului comunității care a intervenit pentru a preveni alte pierderi de vieți omenești. Ea a subliniat că tragedia afectează familiile victimelor și întreaga comunitate.\n\n• **Dimensiunea și amplasarea școlii:** Silver Rail se află la peste 160 de kilometri sud-est de Portland și a avut 459 de elevi înscriși în anul școlar anterior, de la grădiniță până în clasa a cincea. O altă relatare menționează aproximativ 450 de elevi și 40 de angajați; orașul Bend are circa 100.000 de locuitori.\n\n• **Poliția se pregătește pentru astfel de situații:** potrivit lui Mike Krantz, în august fiecare polițist din Bend a participat la o zi întreagă de instruire pentru intervenții în caz de atacator activ. Șeful poliției a spus că ancheta va fi de durată.\n\n• **Date despre atacurile armate în școli:** potrivit bazei de date K-12 School Shooting Database, în anul precedent au fost înregistrate 235 de astfel de incidente în școlile americane, iar în anul curent cel puțin 149, inclusiv cel din Bend. Numărul incidentelor este în scădere față de vârful din 2023, dar rămâne peste nivelul de dinaintea pandemiei.\n\n• **Dezbaterea privind deținerea armelor s-a reaprins:** atacurile armate din școlile americane readuc periodic în atenție legislația privind armele de foc; unii susținători ai dreptului de a deține arme pledează pentru înarmarea profesorilor."
-  },
-  {
     "group_id": "group_13823bcded",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -1906,27 +2445,6 @@
     "title_ro": "Arad: Șapte persoane au fost rănite într-un accident în lanț cu cinci autovehicule pe autostradă",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_36ba3f18f1",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMCUyRjIyJTJGMjEwOTI4Ml8yMTA5/MjgyX2JhcmJhdC1jYWxvcmlmZXItcHJv/ZmltZWRpYS5qcGcmaGFzaD1lOTMyZTAx/ZjAzYjEyY2U5YzMyMDZmZmJlMzc2ZDAwYQ==.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Termoenergetica începe probele la cald pentru iarna 2026-2027. Ce se întâmplă cu lucrările la sistemul de termoficare",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/termoenergetica-incepe-probele-la-cald-pentru-iarna-2026-2027-ce-se-intampla-cu-lucrarile-la-sistemul-de-termoficare-3994831"
-      }
-    ],
-    "published_at": 1792130540,
-    "title_hu": "Termoenergetica începe probele la cald pentru iarna 2026-2027. Ce se întâmplă cu lucrările la sistemul de termoficare",
-    "lead_hu": "Termoenergetica București a anunțat că începe astăzi probele la cald pentru consumatorii racordați la rețeaua de termoficare din București. Probele se vor desfășura progresiv, având în vedere dimensiu…",
-    "content_hu": "Termoenergetica București a anunțat că începe astăzi probele la cald pentru consumatorii racordați la rețeaua de termoficare din București. Probele se vor desfășura progresiv, având în vedere dimensiunile sistemului de termoficare și starea conductelor, precum și lucrările desfășurate în diverse zone ale orașului, subliniază compania.",
-    "title_ro": "Termoenergetica începe probele la cald pentru iarna 2026-2027. Ce se întâmplă cu lucrările la sistemul de termoficare",
-    "lead_ro": "Termoenergetica București a anunțat că începe astăzi probele la cald pentru consumatorii racordați la rețeaua de termoficare din București. Probele se vor desfășura progresiv, având în vedere dimensiu…",
-    "content_ro": "Termoenergetica București a anunțat că începe astăzi probele la cald pentru consumatorii racordați la rețeaua de termoficare din București. Probele se vor desfășura progresiv, având în vedere dimensiunile sistemului de termoficare și starea conductelor, precum și lucrările desfășurate în diverse zone ale orașului, subliniază compania."
   },
   {
     "group_id": "group_c365a2c374",
@@ -7917,242 +8435,5 @@
     "title_ro": "Elhunyt Paul Bahrim, a marosvásárhelyi röplabdasport elismert pedagógusa",
     "lead_ro": "A fiatal tehetségek felfedezésének, nevelésének és fejlesztésének szentelte pályafutását.",
     "content_ro": "A fiatal tehetségek felfedezésének, nevelésének és fejlesztésének szentelte pályafutását."
-  },
-  {
-    "group_id": "group_b3098d23a6",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/c2435de9-9366-4090-8bc4-b118924fe3e3.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "După egalul cu Craiova, antrenorul lui Getafe l-a ridicat în slăvi pe român: „Magnific!”",
-        "link": "https://www.gsp.ro/international/conference-league/universitatea-craiova-getafe-conference-league-jose-bordalas-988552.html"
-      }
-    ],
-    "published_at": 1792091802,
-    "title_hu": "După egalul cu Craiova, antrenorul lui Getafe l-a ridicat în slăvi pe român: „Magnific!”",
-    "lead_hu": "După ce campioana Craiova și Getafe au remizat cu scorul de 1-1, în prima rundă a grupei din Conference League, Jose Bordalas, antrenorul spaniolilor, a vorbit la superlativ la adresa lui Gică Craiove…",
-    "content_hu": "După ce campioana Craiova și Getafe au remizat cu scorul de 1-1, în prima rundă a grupei din Conference League, Jose Bordalas, antrenorul spaniolilor, a vorbit la superlativ la adresa lui Gică Craioveanu. Chiar dacă nu au fost colegi niciodată, Jose Bordalas a vorbit foarte frumos despre legenda Craiovei, care are o statuie construită de cei de la Getafe. Craioveanu a jucat pentru spanioli perioada 2002-2006, timp în care a bifat 120 de meciuri oficiale și 16 goluri. ...",
-    "title_ro": "După egalul cu Craiova, antrenorul lui Getafe l-a ridicat în slăvi pe român: „Magnific!”",
-    "lead_ro": "După ce campioana Craiova și Getafe au remizat cu scorul de 1-1, în prima rundă a grupei din Conference League, Jose Bordalas, antrenorul spaniolilor, a vorbit la superlativ la adresa lui Gică Craiove…",
-    "content_ro": "După ce campioana Craiova și Getafe au remizat cu scorul de 1-1, în prima rundă a grupei din Conference League, Jose Bordalas, antrenorul spaniolilor, a vorbit la superlativ la adresa lui Gică Craioveanu. Chiar dacă nu au fost colegi niciodată, Jose Bordalas a vorbit foarte frumos despre legenda Craiovei, care are o statuie construită de cei de la Getafe. Craioveanu a jucat pentru spanioli perioada 2002-2006, timp în care a bifat 120 de meciuri oficiale și 16 goluri. ..."
-  },
-  {
-    "group_id": "group_3d9955ebe4",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Betlehem Dávidot választották az év legjobb nyíltvízi úszójának a szurkolók",
-        "link": "https://www.mediatica.ro/hirek/sport/betlehem-davidot-valasztottak-az-ev-legjobb-nyiltvizi-uszojanak-a-szurkolok"
-      }
-    ],
-    "published_at": 1792091460,
-    "title_hu": "Betlehem Dávidot választották az év legjobb nyíltvízi úszójának a szurkolók",
-    "lead_hu": "Az olimpiai bronzérmes magyar úszó idén megnyerte a világkupa összetett versenyét, a párizsi Európa-bajnokságon pedig mind a négy számában dobogóra állt.",
-    "content_hu": "Az olimpiai bronzérmes magyar úszó idén megnyerte a világkupa összetett versenyét, a párizsi Európa-bajnokságon pedig mind a négy számában dobogóra állt.",
-    "title_ro": "Betlehem Dávidot választották az év legjobb nyíltvízi úszójának a szurkolók",
-    "lead_ro": "Az olimpiai bronzérmes magyar úszó idén megnyerte a világkupa összetett versenyét, a párizsi Európa-bajnokságon pedig mind a négy számában dobogóra állt.",
-    "content_ro": "Az olimpiai bronzérmes magyar úszó idén megnyerte a világkupa összetett versenyét, a párizsi Európa-bajnokságon pedig mind a négy számában dobogóra állt."
-  },
-  {
-    "group_id": "group_9085e282c8",
-    "fingerprint": "3db0c488ddc0fea11c0f342c53531f24",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA4JTJGMjgzOTA1OF8yODM5/MDU4X1VudGl0bGVkLWRlc2lnbi0xNC5w/bmcmaGFzaD00ZmViZTljN2ZlY2Q0N2NlNDdlNWM5NzYyYTEwYzk5Yg==.png",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Musk a lăsat Ucraina fără Starlink. „Misiuni importante au fost zădărnicite la cererea administrației Trump”",
-        "link": "https://www.digi24.ro/stiri/externe/musk-a-lasat-ucraina-fara-starlink-misiuni-importante-au-fost-zadarnicite-la-cererea-administratiei-trump-3991301"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cum a afectat Elon Musk misiunile armatei ucrainene, după armistițiul Trump-Putin. Gestul său a venit din senin",
-        "link": "https://stirileprotv.ro/stiri/international/cum-a-afectat-elon-musk-misiunile-armatei-ucrainene-dupa-armistitiul-trump-putin-gestul-sau-a-venit-din-senin.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Kemény üzenet volt, ahogy egyik napról a másikra visszavágták az ukrán hadsereg hozzáférését Musk műholdas rendszeréhez",
-        "link": "https://transtelex.ro/kulfold/2026/10/15/starlink-dron-muhold-starshield-ukrajna-korlatozott-hozzaferes-trump-musk-orosz-ukran-haboru"
-      }
-    ],
-    "published_at": 1792091452,
-    "title_hu": "A Starlink sebességkorlátozása ukrán drónküldetéseket zavart meg",
-    "lead_hu": "A beszámolók szerint a SpaceX Starlink-rendszerének sebességkorlátozása akadályozta az ukrán drónok működését, és fontos katonai küldetéseket hiúsított meg. A korlátozás részletei és elrendelője nem tisztázott; egyes ukrán terminálok kapcsolata a fronton később helyreállt.",
-    "content_hu": "• **Október 14-én éjjel** a Starlink-kapcsolat működése korlátozottá vált: a beszámolók szerint a drónokra szerelt terminálok 160 km/óránál nagyobb sebességnél elveszíthették a műholdas kapcsolatot.\n\n• **Az ukrán katonai műveletek** hatékonysága csökkent, és több fontos küldetés meghiúsult. A korlátozás a támadó drónok irányítását, valamint az orosz drónok elleni védekezést is nehezíthette.\n\n• **A korlátozás elrendelője nem egyértelmű:** Elon Musk szerint a Starshield használatának vagy sebességének korlátozása az amerikai kormány, végső soron az elnök döntése. Más beszámolók szerint a SpaceX előzetes figyelmeztetés vagy magyarázat nélkül vezette be az intézkedést.\n\n• **A kapcsolat részben helyreállt:** az Ukrainszka Pravda védelmi minisztériumi forrásokra hivatkozva arról írt, hogy a frontvonalon ismét működött a drónterminálok és a műholdak közötti kapcsolat, de nem volt világos, hogy mindenütt visszatért-e a korábbi működés.",
-    "title_ro": "Limitarea vitezei Starlink a perturbat misiunile dronelor ucrainene",
-    "lead_ro": "Potrivit relatărilor, limitarea vitezei conexiunii Starlink a afectat funcționarea dronelor ucrainene și a zădărnicit misiuni militare importante. Nu este clar cine a dispus restricția și nici dacă aceasta a fost ridicată peste tot; unele conexiuni de pe linia frontului au fost ulterior restabilite.",
-    "content_ro": "• **În noaptea de 14 octombrie**, funcționarea conexiunii Starlink a fost restricționată: potrivit relatărilor, terminalele montate pe drone puteau pierde legătura prin satelit la viteze de peste 160 km/h.\n\n• **Misiunile militare ucrainene** au fost afectate, iar mai multe operațiuni importante au fost zădărnicite. Restricția a putut îngreuna atât dirijarea dronelor de atac, cât și apărarea împotriva dronelor rusești.\n\n• **Nu este clar cine a dispus restricția:** Elon Musk a afirmat că limitarea utilizării sau a vitezei sistemului Starshield ține de guvernul SUA și, în ultimă instanță, de președinte. Alte relatări spun că SpaceX a introdus măsura fără avertisment sau explicații prealabile.\n\n• **Conexiunea a fost restabilită parțial:** Ukrainska Pravda, citând surse din ministerul ucrainean al apărării, a relatat că legătura dintre terminalele dronelor și sateliți funcționa din nou pe linia frontului, însă nu era clar dacă revenise la normal peste tot."
-  },
-  {
-    "group_id": "group_b9d023f1bc",
-    "fingerprint": "6793923beb95d60f83617df2770f347f",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMiUyRjE1JTJGMjE5MTMzNF8yMTkx/MzM0X2tlaXRoLWtlbGxvZ2ctcHJvZmlt/ZWRpYS0wOTY0NDE1MjcyLmpwZyZoYXNo/PTU4ODkzM2JiMjU0M2FlMTk0NTQyZGI0NTg5NzMwNDAz.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Keith Kellogg: „Nu vei câștiga această luptă”. De ce spune fostul emisar american că Putin dă dovadă de slăbiciune",
-        "link": "https://www.digi24.ro/stiri/externe/keith-kellogg-nu-vei-castiga-aceasta-lupta-de-ce-spune-fostul-emisar-american-ca-putin-da-dovada-de-slabiciune-3990241"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "„Nu umblu să jignesc oameni”. Răspunsul lui Trump când a fost întrebat dacă Putin e dictator",
-        "link": "https://stirileprotv.ro/stiri/international/nu-umblu-sa-i-jignesc-pe-oameni-raspunsul-lui-trump-cand-a-fost-intrebat-daca-putin-e-dictator.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "„Au lovit ici-colo”. Putin, scurt anunț despre atacurile ucrainene asupra rafinăriilor de petrol rusești",
-        "link": "https://hotnews.ro/au-lovit-ici-colo-putin-scurt-anunt-despre-atacurile-ucrainene-asupra-rafinariilor-de-petrol-rusesti-2377485"
-      }
-    ],
-    "published_at": 1792091380,
-    "title_hu": "Kellogg szerint Putyin gyengeségét jelzi a reakciója, miközben újraindultak az orosz finomítók elleni csapások",
-    "lead_hu": "Keith Kellogg volt amerikai ukrajnai különmegbízott a Nyugat Oroszországra nehezedő nyomásának fenntartása mellett érvelt, és azt mondta, Ukrajnának kell döntenie katonai stratégiájáról. Az új beszámolók szerint az energetikai létesítmények elleni támadások azután folytatódtak, hogy Ukrajna három napra felfüggesztette őket, miközben Oroszország továbbra is támadta az ukrán energetikai infrastruktúrát.",
-    "content_hu": "• **Keith Kellogg** volt amerikai ukrajnai különmegbízott a Varsói Biztonsági Fórum margóján a Bloombergnek azt mondta, Oroszország a megszállt területek ellenére sem érte el stratégiai céljait.\n\n• **Putyin reakciója Kellogg szerint gyengeséget, nem erőt mutat**; úgy vélte, Moszkva a háborús fáradtságra és a nyugati támogatás csökkenésére számít. Azt sürgette, hogy a Nyugat tartsa fenn a nyomást, és tegye világossá: Oroszország nem nyerheti meg a háborút.\n\n• **Kellogg 1,2–1,5 millióra becsülte az orosz katonai veszteségeket**, és azt állította, hogy Oroszország havonta mintegy 30 ezer katonát veszít. Összehasonlításként a szovjet afganisztáni háború nagyjából 18 ezer halálos katonai veszteségét említette, amelyet kivonulás követett.\n\n• **Ukrajna maga döntsön katonai stratégiájáról**, mondta Kellogg, beleértve az oroszországi üzemanyag-infrastruktúra és finomítók elleni csapásokat is. Szerinte ezeket a létesítményeket nem kell támadástól védett menedéknek tekinteni; az ukrán csapások világpiaci dízelárakra gyakorolt hatása szerinte korlátozott volt.\n\n• **Kellogg szerint a Trump és Zelenszkij közötti nyilvános szóváltások „háttérzajnak” tekinthetők**; a két vezető szókimondó stílusa, valamint a nyelvi és fordítási különbségek félreértésekhez vezethetnek.\n\n• **Az ukrajnai választásokról az ukránoknak kell dönteniük**, nem Washingtonnak vagy más külföldi kormánynak. Kellogg elismerte a demokratikus legitimitás kérdésének jelentőségét, ugyanakkor rámutatott, hogy hadiállapot alatt Ukrajnában nem tartanak országos választásokat.\n\n• **Kellogg az amerikai–orosz dízelmegállapodást hiányosnak nevezte**, és azt mondta, szerinte Putyin az Egyesült Államok közelgő választásait és Trump elnökségét próbálja kihasználni.\n\n• **Ukrajna Zelenszkij szerint három napra felfüggesztette az energetikai létesítmények elleni támadásokat Trump kérésére**, majd azokat azért indította újra, mert Oroszország tovább támadta az ukrán energetikai infrastruktúrát.\n\n• **A rjazanyi finomítónál tűz ütött ki egy ukrán dróntámadás után**, amelyet a HotNews az energetikai tűzszünet bejelentése óta az első megerősített, orosz energetikai létesítmény elleni ukrán csapásként írt le. Putyin azt mondta, a támadások nem okoztak jelentős károkat, de Moszkva válaszolni fog; a Kreml szerint a tűzszünet feltételeit nem rögzítették konkrétan.",
-    "title_ro": "Kellogg spune că reacția lui Putin arată slăbiciune, în timp ce atacurile asupra rafinăriilor rusești au fost reluate",
-    "lead_ro": "Keith Kellogg, fostul trimis special al SUA pentru Ucraina, a pledat pentru menținerea presiunii occidentale asupra Rusiei și a spus că Ucraina trebuie să-și decidă singură strategia militară. Noile relatări arată că atacurile asupra infrastructurii energetice au fost reluate după o pauză de trei zile, în timp ce Rusia a continuat să lovească instalațiile energetice ucrainene.",
-    "content_ro": "• **Keith Kellogg**, fostul trimis special al SUA pentru Ucraina, a declarat într-un interviu acordat Bloomberg, în marja Forumului de Securitate de la Varșovia, că Rusia nu și-a atins obiectivele strategice, în ciuda teritoriilor ocupate.\n\n• **Reacția lui Putin indică slăbiciune, nu forță**, potrivit lui Kellogg, care a spus că Moscova mizează pe oboseala provocată de război și pe diminuarea sprijinului occidental. El a cerut Occidentului să mențină presiunea și să transmită clar că Rusia nu poate câștiga războiul.\n\n• **Kellogg a estimat pierderile militare rusești la 1,2–1,5 milioane** și a afirmat că Rusia pierde aproximativ 30.000 de soldați pe lună. Ca termen de comparație, a menționat circa 18.000 de militari sovietici pierduți în războiul din Afganistan, după care a urmat retragerea.\n\n• **Ucraina trebuie să-și decidă singură strategia militară**, inclusiv dacă atacă infrastructura de combustibil și rafinăriile rusești, a spus Kellogg. El a respins ideea că aceste instalații ar trebui să fie ferite de atacuri și a afirmat că efectul loviturilor ucrainene asupra pieței mondiale a motorinei a fost limitat.\n\n• **Schimburile publice de replici dintre Trump și Zelenski sunt „zgomot de fond”**, a apreciat Kellogg. Stilul direct al celor doi lideri, precum și diferențele de limbă și nuanțele traducerii pot genera neînțelegeri.\n\n• **Decizia privind alegerile din Ucraina aparține ucrainenilor**, nu Washingtonului sau altor guverne străine. Kellogg a recunoscut importanța legitimității democratice, dar a subliniat că în Ucraina nu se organizează alegeri naționale în timpul legii marțiale.\n\n• **Kellogg a descris acordul americano-rus privind motorina drept incomplet** și a afirmat că Putin încearcă să profite de viitoarele alegeri din SUA și de președinția lui Trump.\n\n• **Ucraina a suspendat timp de trei zile atacurile asupra infrastructurii energetice, la cererea lui Trump**, a declarat Zelenski, dar le-a reluat deoarece Rusia a continuat să lovească infrastructura energetică ucraineană.\n\n• **Un atac cu drone a provocat un incendiu la rafinăria din Riazan**, într-o lovitură descrisă de HotNews drept primul atac ucrainean confirmat asupra unei instalații energetice rusești de la anunțarea armistițiului energetic. Putin a afirmat că atacurile nu au provocat pagube semnificative, dar că Moscova va riposta; Kremlinul a spus că termenii armistițiului nu au fost stabiliți concret."
-  },
-  {
-    "group_id": "group_2d2c61f607",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pexels-rossella-fasoli-507860397-16154014-1024x709.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Pesimismul din vecini. Grecii, cei mai sumbri europeni în privința banilor",
-        "link": "https://www.mediafax.ro/externe/pesimismul-din-vecini-grecii-cei-mai-sumbri-europeni-in-privinta-banilor-23826276"
-      }
-    ],
-    "published_at": 1792091358,
-    "title_hu": "Pesimismul din vecini. Grecii, cei mai sumbri europeni în privința banilor",
-    "lead_hu": "Grecii sunt cei mai pesimiști europeni în privința propriului viitor financiar, potrivit studiului NielsenIQ Consumer Life Global 2026. Doar 25% dintre ei se declară optimiști, iar incertitudinea econ…",
-    "content_hu": "Grecii sunt cei mai pesimiști europeni în privința propriului viitor financiar, potrivit studiului NielsenIQ Consumer Life Global 2026. Doar 25% dintre ei se declară optimiști, iar incertitudinea economică le schimbă felul în care cumpără.",
-    "title_ro": "Pesimismul din vecini. Grecii, cei mai sumbri europeni în privința banilor",
-    "lead_ro": "Grecii sunt cei mai pesimiști europeni în privința propriului viitor financiar, potrivit studiului NielsenIQ Consumer Life Global 2026. Doar 25% dintre ei se declară optimiști, iar incertitudinea econ…",
-    "content_ro": "Grecii sunt cei mai pesimiști europeni în privința propriului viitor financiar, potrivit studiului NielsenIQ Consumer Life Global 2026. Doar 25% dintre ei se declară optimiști, iar incertitudinea economică le schimbă felul în care cumpără."
-  },
-  {
-    "group_id": "group_d292caac0c",
-    "category": "Gazdaság",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Ediţia 16 octombrie 2026 epaper",
-        "link": "https://www.zf.ro/auxiliar/editia-16-octombrie-2026-epaper-23261121"
-      }
-    ],
-    "published_at": 1792091353,
-    "title_hu": "Ediţia 16 octombrie 2026 epaper",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Ediţia 16 octombrie 2026 epaper",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_e430bdadf3",
-    "fingerprint": "943d9527ee0d4c18dcd83c8fcefde206",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2023/02/INSTANT_INFP_03_INQUAM_Photos_Octav_Ganea.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Seismologi români se alătură unui proiect croat pentru detectarea timpurie a cutremurelor",
-        "link": "https://www.g4media.ro/seismologi-romani-se-alatura-unui-proiect-croat-pentru-detectarea-timpurie-a-cutremurelor.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Seismologi români se alătură unui proiect croat pentru detectarea timpurie a cutremurelor",
-        "link": "https://agerpres.ro/planeta/2026/10/13/seismologi-romani-se-alatura-unui-proiect-croat-pentru-detectarea-timpurie-a-cutremurelor--1602590"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Uniós támogatással korszerűsítették Horvátország földrengés-megfigyelő hálózatát",
-        "link": "https://www.mediatica.ro/hirek/kulfold/unios-tamogatassal-korszerusitettek-horvatorszag-foldrenges-megfigyelo-halozatat"
-      }
-    ],
-    "published_at": 1792091205,
-    "title_hu": "Román szeizmológusok is részt vettek a horvát Crossnet hálózat korszerűsítésében",
-    "lead_hu": "Horvátország 13 millió eurós uniós támogatással fejleszti földrengés-megfigyelő hálózatát, a Crossnet projektben román szeizmológusok is közreműködtek. A rendszer pontosabb adatokat szolgáltathat, és a földrengés bekövetkezésekor rövid idejű korai figyelmeztetést tehet lehetővé, de előre jelezni nem tudja a rengéseket.",
-    "content_hu": "• **A Crossnet projekt** 13 millió eurós uniós finanszírozással korszerűsíti Horvátország szeizmológiai adatgyűjtő hálózatát; a fejlesztésben román szeizmológusok is részt vettek.\n\n• **A 2020-as zágrábi és banovinai földrengések** rámutattak a megfigyelőrendszer korszerűsítésének szükségességére. A projekt új állomásokat telepített, és kilenc fiatal szakembert képzett ki a berendezések telepítésére és karbantartására.\n\n• **A hálózatban jelenleg több mint 125 állomás működik**, emellett több mint 90 gyorsulásmérővel felszerelt állomás figyeli a nemzeti örökséghez tartozó objektumokat. A fejlesztés végére a hálózat várhatóan mintegy 180 állomásból áll majd.\n\n• **A begyűjtött adatok** pontosabb képet adhatnak a földrengésekről és azokról a talajviszonyokról, amelyek felerősíthetik hatásukat; ez a biztonságosabb építkezést is segítheti. A lakosság online ellenőrizheti majd, regisztráltak-e szeizmikus aktivitást a környezetében.\n\n• **A korai figyelmeztetés nem földrengés-előrejelzés:** a műszerek a rengés megindulásakor továbbítják az adatokat, így a károk kialakulása előtt rövid idejű riasztásra adhatnak lehetőséget. A projektet az év végéig meghosszabbították; a végleges költség ekkor válik ismertté.",
-    "title_ro": "Seismologi români au participat la modernizarea rețelei seismice din Croația",
-    "lead_ro": "Croația își modernizează rețeaua de monitorizare a cutremurelor prin proiectul Crossnet, finanțat cu 13 milioane de euro de Uniunea Europeană, la care au participat și seismologi români. Sistemul va furniza date mai precise și ar putea permite avertizări timpurii de scurtă durată după declanșarea unui seism, dar nu poate prezice cutremurele.",
-    "content_ro": "• **Proiectul Crossnet**, finanțat cu 13 milioane de euro de Uniunea Europeană, modernizează rețeaua de colectare a datelor seismice din Croația; la dezvoltare au participat și seismologi români.\n\n• **Cutremurele din Zagreb și regiunea Banovina din 2020** au evidențiat nevoia de modernizare a sistemului de monitorizare. În cadrul proiectului au fost instalate noi stații și au fost instruiți nouă tineri specialiști pentru instalarea și întreținerea echipamentelor.\n\n• **În prezent funcționează peste 125 de stații**, iar alte peste 90, dotate cu accelerografe, monitorizează obiective din patrimoniul național. La finalizare, rețeaua este estimată să cuprindă aproximativ 180 de stații.\n\n• **Datele colectate** vor oferi informații mai precise despre activitatea seismică și despre caracteristicile solului care pot amplifica efectele cutremurelor, contribuind la construcții mai sigure. Publicul va putea verifica online dacă a fost înregistrată activitate seismică în zona sa.\n\n• **Avertizarea timpurie nu înseamnă predicția cutremurelor:** instrumentele transmit date după declanșarea seismului și ar putea permite avertizări cu puțin timp înainte de producerea pagubelor. Proiectul a fost prelungit până la sfârșitul anului, când va fi cunoscută valoarea finală a cheltuielilor."
-  },
-  {
-    "group_id": "group_5ce4addd86",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/0d38223a-c48e-4cb8-afd9-8b1862734741.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "A „boxat” 3 jucători ai Craiovei după meci: „Bă băiatule, nu se poate așa ceva! L-a văzut și Hagi?!”",
-        "link": "https://www.gsp.ro/international/conference-league/claudiu-vaiscovici-universitatea-craiova-getafe-988542.html"
-      }
-    ],
-    "published_at": 1792091169,
-    "title_hu": "A „boxat” 3 jucători ai Craiovei după meci: „Bă băiatule, nu se poate așa ceva! L-a văzut și Hagi?!”",
-    "lead_hu": "Claudiu Vaișcovici (64 de ani), fost atacant la Dinamo în finalul anilor '80, a criticat în mod deosebit 3 jucători ai campioanei României după remiza dintre Universitatea Craiova și Getafe, scor 1-1,…",
-    "content_hu": "Claudiu Vaișcovici (64 de ani), fost atacant la Dinamo în finalul anilor '80, a criticat în mod deosebit 3 jucători ai campioanei României după remiza dintre Universitatea Craiova și Getafe, scor 1-1, în prima rundă a fazei principale din Conference League. În meciul de debut în faza principală a noului sezon de Conference League, campioana României a avut o prestație lăudabilă în fața adversarei de pe locul 14 din LaLiga, fiind aproape chiar de victorie. ...",
-    "title_ro": "A „boxat” 3 jucători ai Craiovei după meci: „Bă băiatule, nu se poate așa ceva! L-a văzut și Hagi?!”",
-    "lead_ro": "Claudiu Vaișcovici (64 de ani), fost atacant la Dinamo în finalul anilor '80, a criticat în mod deosebit 3 jucători ai campioanei României după remiza dintre Universitatea Craiova și Getafe, scor 1-1,…",
-    "content_ro": "Claudiu Vaișcovici (64 de ani), fost atacant la Dinamo în finalul anilor '80, a criticat în mod deosebit 3 jucători ai campioanei României după remiza dintre Universitatea Craiova și Getafe, scor 1-1, în prima rundă a fazei principale din Conference League. În meciul de debut în faza principală a noului sezon de Conference League, campioana României a avut o prestație lăudabilă în fața adversarei de pe locul 14 din LaLiga, fiind aproape chiar de victorie. ..."
-  },
-  {
-    "group_id": "group_7ea4015222",
-    "fingerprint": "7cfe679c7a22d4a42f5e45895600199d",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2024/02/pexels-kindel-media-9800006.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Programul Rabla ar putea fi schimbat radical din 2027 / Finanțare doar pentru mașini fabricate în UE",
-        "link": "https://www.g4media.ro/programul-rabla-ar-putea-fi-schimbat-radical-din-2027-finantare-doar-pentru-masini-fabricate-in-ue.html"
-      },
-      {
-        "source": "Economedia",
-        "title": "DOCUMENT | Programul de guvernare Luca Niculescu: Programul Rabla, doar pentru mașini „Fabricate în Europa”",
-        "link": "https://economedia.ro/document-programul-de-guvernare-luca-niculescu-programul-rabla-doar-pentru-masini-fabricate-in-europa.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Programul Rabla, schimbat radical din 2027. Statul vrea să finanțeze doar mașini fabricate în Uniunea Europeană",
-        "link": "https://www.mediafax.ro/politic/programul-rabla-schimbat-radical-din-2027-statul-vrea-sa-finanteze-doar-masini-fabricate-in-uniunea-europeana-23826200"
-      }
-    ],
-    "published_at": 1792091143,
-    "title_hu": "2027-től csak uniós gyártású autókra járhat a Rabla-támogatás",
-    "lead_hu": "Luca Niculescu kormányprogramja 2027 és 2030 között az Európai Unióban gyártott járművekre korlátozná a Rabla programot. A 2026-os pályázat még nem alkalmazza a származási feltételt; az idei program költségvetése 300 millió lej, az elektromos autókra szánt keret pedig tíz nap alatt elfogyott.",
-    "content_hu": "• **2027 és 2030 között** Luca Niculescu kormányprogramja csak az Európai Unióban gyártott járművek vásárlását támogatná a Rabla programban.\n\n• **Az éves menetrendet** minden év első negyedévében jelentenék be. A kormányprogram nem közölte, mekkora költségvetés jutna a programra, és hány autó kaphatna támogatást.\n\n• **A program tágabb céljai között** szerepel az autóipar elektromos átállásának támogatása, a közlekedési eszközök közbeszerzésének újraindítása, az ágazati érdekek brüsszeli képviselete, valamint az energiaintenzív iparágak támogatási programjaihoz való vállalati hozzáférés.\n\n• **A 2026-os Rabla programra** még nem vonatkozik a származási feltétel: annak bevezetését legalább egy évvel elhalasztották. A magánszemélyeknek szóló pályázat július 20-án indult, 300 millió lejes teljes kerettel.\n\n• **A 2026-os támogatási összegek** új elektromos autóra 18 500 lej, plug-in hibridre 15 000 lej, hibridre 12 000 lej, benzin- vagy dízelautóra pedig 10 000 lej.\n\n• **Az elektromos autók 120 millió lejes kerete** július 30-án, tíz nap alatt kimerült; az AFM adatai szerint addig 6724 kérelmet nyújtottak be.\n\n• **Az EU-n kívül gyártott modellek**, például a Kínában gyártott Dacia Spring, a javasolt szabály alapján nem lennének megvásárolhatók állami támogatással.",
-    "title_ro": "Din 2027, programul Rabla ar putea finanța doar mașini fabricate în UE",
-    "lead_ro": "Programul de guvernare al lui Luca Niculescu ar limita programul Rabla, între 2027 și 2030, la vehicule fabricate în Uniunea Europeană. Sesiunea din 2026 nu aplică încă această condiție de origine; bugetul total din acest an este de 300 de milioane de lei, iar fondurile pentru mașinile electrice s-au epuizat în zece zile.",
-    "content_ro": "• **Între 2027 și 2030**, programul de guvernare al lui Luca Niculescu ar finanța prin Rabla doar achiziția de vehicule fabricate în Uniunea Europeană.\n\n• **Calendarul anual** ar urma să fie anunțat în primul trimestru al fiecărui an. Programul de guvernare nu precizează bugetul și numărul de mașini care ar putea primi finanțare.\n\n• **Printre obiectivele mai largi ale programului** se numără sprijinirea tranziției industriei auto către mobilitatea electrică, relansarea achizițiilor publice de mijloace de transport, susținerea intereselor industriei la Bruxelles și facilitarea accesului firmelor la schemele de sprijin pentru industriile mari consumatoare de energie.\n\n• **Programul Rabla din 2026** nu aplică încă această condiție de origine, introducerea ei fiind amânată cu cel puțin un an. Sesiunea pentru persoane fizice a început pe 20 iulie și are un buget total de 300 de milioane de lei.\n\n• **Voucherele din 2026** sunt de 18.500 de lei pentru o mașină electrică nouă, 15.000 de lei pentru un plug-in hibrid, 12.000 de lei pentru un hibrid și 10.000 de lei pentru o mașină pe benzină sau motorină.\n\n• **Bugetul de 120 de milioane de lei pentru mașinile electrice** s-a epuizat pe 30 iulie, după zece zile; potrivit datelor AFM, până atunci fuseseră depuse 6.724 de dosare.\n\n• **Modelele fabricate în afara UE**, precum Dacia Spring, produsă în China, nu ar mai putea fi cumpărate cu sprijin de la stat în condițiile regulii propuse."
   }
 ]
