@@ -39242,7 +39242,7 @@
   {
     "group_id": "group_24ee290a25",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Transtelex",
@@ -39252,6 +39252,15 @@
         "summary": "Az ukrán elnök úgy érzi, hogy az amerikai elnök elárulta őt, miután lekorlátozták a légvédelmük alapját jelentő Starlink műholdas rendszert.",
         "category": "Általános",
         "published_at": 1792035973
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Trump a blocat pe ascuns accesul Ucrainei la sateliții care ghidează dronele pentru a proteja Rusia. „Vor muri mai mulți”",
+        "link": "https://stirileprotv.ro/stiri/international/trump-a-blocat-pe-ascuns-accesul-ucrainei-la-satelitii-care-ghideaza-dronele-pentru-a-proteja-rusia-vor-muri-mai-multi.html",
+        "image": "https://stirileprotv.ro/img/2026/10/16/045342/vlcsnap-2026-10-16-07h50m04s941.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+        "summary": "Donald Trump a lansat un nou val de critici la adresa președintelui ucrainean Volodimir Zelenski.",
+        "category": "Általános",
+        "published_at": 1792126573
       }
     ]
   },
@@ -53835,7 +53844,7 @@
   {
     "group_id": "group_29de0b9984",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Agerpres (HU)",
@@ -53845,6 +53854,15 @@
         "summary": "",
         "category": "Politika",
         "published_at": 1792124270
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Comitetul Politic al USR va lua vineri o decizie în ceea ce priveşte susținerea Guvernului Niculescu",
+        "link": "https://stirileprotv.ro/stiri/politic/comitetul-politic-al-usr-va-lua-vineri-o-decizie-in-ceea-ce-priveste-sustinerea-guvernului-niculescu.html",
+        "image": "https://stirileprotv.ro/img/2026/09/17/092848/instant-cotroceni-consultari-usr-062-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=4130%2C2753%2C0%2C0&w=1280",
+        "summary": "Comitetul Politic al USR se întruneşte vineri pentru a stabili dacă parlamentarii partidului vor vota sau nu pentru învestirea Guvernului Luca Niculescu.",
+        "category": "Politika",
+        "published_at": 1792126516
       }
     ]
   },
@@ -54206,6 +54224,38 @@
         "summary": "Un parteneriat care a rezistat aproape patru decenii se încheie în industria fast-food. KFC a decis să renunțe la PepsiCo ca furnizor de băuturi pentru restaurantele sale din Statele Unite și să încheie un acord cu rivalul Coca-Cola.",
         "category": "Általános",
         "published_at": 1792125799
+      }
+    ]
+  },
+  {
+    "group_id": "group_cb3ef528b9",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "ZF IT Generation. Start-up Update. Ciprian Cazacu, cofondator şi CEO, easySales, platformă de automatizare pentru magazine online: Am crescut cu 35% în primele nouă luni, iar din trimestrul al doilea suntem pe profit. Ţintim venituri recurente anuale de 1,8 mil. euro la final de an. În Polonia am crescut de patru ori şi ne extindem prin parteneri locali",
+        "link": "https://www.zf.ro/zf-it-generation/zf-it-generation-start-up-update-ciprian-cazacu-cofondator-ceo-easysales-platforma-automatizare-magazine-online-crescut-35-primele-luni-iar-trimestrul-doilea-profit-tintim-venituri-recurente-anuale-23260951",
+        "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21332/23260951/2/11-easysales-ciprian-cazacu-3.jpg?width=700",
+        "summary": "Start-upul local easySales, care a dezvoltat o platfor­mă de automatizare a ope­ra­ţiu­nilor pentru magazi­nele online, de la listarea pe marketplace-uri la comenzi şi fac­turare, şi-a crescut cifra de afaceri cu 35% în primele nouă luni ale anului faţă de aceeaşi perioadă din 2025 şi a reuşit să treacă pe profit în al doilea trimestru.",
+        "category": "Gazdaság",
+        "published_at": 1792126800
+      }
+    ]
+  },
+  {
+    "group_id": "group_a8da7d8727",
+    "category": "Erdély",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Gunoi la comun: CJ Bihor ia în calcul să dea salubritatea din județ pe mâna unei singure firme. A cui va fi?",
+        "link": "https://www.ebihoreanul.ro/stiri/gunoi-la-comun-cj-bihor-ia-in-calcul-sa-dea-salubritatea-din-judet-pe-mana-unei-singure-firme-a-cui-va-fi-205847.html",
+        "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+        "summary": "Orădenii și locuitorii din cele mai îndepărtate orașe ale Bihorului ar putea plăti același tarif pentru ridicarea deșeurilor. Consiliul Județean și Primăria Oradea analizează o schimbare majoră a sistemului de salubritate, care ar presupune comasarea celor șapte zone de colectare într-una singură, deservită de un unic operator.",
+        "category": "Erdély",
+        "published_at": 1792126947
       }
     ]
   }
