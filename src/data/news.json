@@ -1,5 +1,486 @@
 [
   {
+    "group_id": "group_88a0ba46d5",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "O editură germană suspendă publicarea unui roman de dragoste despre războiul din Ucraina",
+        "link": "https://agerpres.ro/cultura/2026/10/17/o-editura-germana-suspenda-publicarea-unui-roman-de-dragoste-despre-razboiul-din-ucraina--1604093"
+      }
+    ],
+    "published_at": 1792249362,
+    "title_hu": "O editură germană suspendă publicarea unui roman de dragoste despre războiul din Ucraina",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "O editură germană suspendă publicarea unui roman de dragoste despre războiul din Ucraina",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_35ee58583f",
+    "category": "Erdély",
+    "image": "https://hargitanepe.ro//images/data/423x222/1792232888_12_kaposztavasar_szepviz_lfcs -5-.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Hargita Népe",
+        "title": "Káposztavágás és -vásár Szépvízen",
+        "link": "https://hargitanepe.ro/kaposztavagas-es-vasar-szepvizen"
+      }
+    ],
+    "published_at": 1792249357,
+    "title_hu": "Káposztavágás és -vásár Szépvízen",
+    "lead_hu": "Betakarították a híres szépvízi káposztát a Nád-dűlőben, ahol az elmúlt hétvége szombatján immáron 19. alkalommal szervezték meg a hagyományos káposztavágást és -vásárt. Az esemény kora reggel Borzsov…",
+    "content_hu": "Betakarították a híres szépvízi káposztát a Nád-dűlőben, ahol az elmúlt hétvége szombatján immáron 19. alkalommal szervezték meg a hagyományos káposztavágást és -vásárt. Az esemény kora reggel Borzsovából indult szekeres felvonulással, fúvószenekari kísérettel, majd a Nádon felállított színpadon került sor az ünnepélyes hálaadásra és a termés megáldására. Ezt követően citerások, néptáncosok és kórusok előadása emelte a jó hangulatot, ezzel párhuzamosan pedig főzőverseny, hagyományos termékek vására, este pedig az elmaradhatatlan káposztabál várta a résztvevőket.",
+    "title_ro": "Káposztavágás és -vásár Szépvízen",
+    "lead_ro": "Betakarították a híres szépvízi káposztát a Nád-dűlőben, ahol az elmúlt hétvége szombatján immáron 19. alkalommal szervezték meg a hagyományos káposztavágást és -vásárt. Az esemény kora reggel Borzsov…",
+    "content_ro": "Betakarították a híres szépvízi káposztát a Nád-dűlőben, ahol az elmúlt hétvége szombatján immáron 19. alkalommal szervezték meg a hagyományos káposztavágást és -vásárt. Az esemény kora reggel Borzsovából indult szekeres felvonulással, fúvószenekari kísérettel, majd a Nádon felállított színpadon került sor az ünnepélyes hálaadásra és a termés megáldására. Ezt követően citerások, néptáncosok és kórusok előadása emelte a jó hangulatot, ezzel párhuzamosan pedig főzőverseny, hagyományos termékek vására, este pedig az elmaradhatatlan káposztabál várta a résztvevőket."
+  },
+  {
+    "group_id": "group_75336086a9",
+    "fingerprint": "c7cae446192e8bcf1ae0a50d1b1dac40",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Gorghiu: Ar fi fost mai bine pentru PNL să fie votat Guvernul Veștea sau că alege Opoziția?",
+        "link": "https://agerpres.ro/politic/2026/10/14/gorghiu-ar-fi-fost-mai-bine-pentru-pnl-sa-fie-votat-guvernul-vestea-sau-ca-alege-opozitia--1602820"
+      },
+      {
+        "source": "G4Media",
+        "title": "Oana Gheorghiu despre decizia PNL de a vota guvernul PSD-Nicușor Dan condus de Luca Niculescu: Când ai de ales între două rele, pe care o alegi? Pentru PNL, cel mai avantajos electoral ar fi fost să respingă învestirea guvernului, dar ce faci când o decizie bună pentru imaginea partidului riscă să aibă consecințe grave pentru oameni?",
+        "link": "https://www.g4media.ro/oana-gheorghiu-despre-decizia-pnl-de-a-vota-guvernul-psd-nicusor-dan-condus-de-luca-niculescu-cand-ai-de-ales-intre-doua-rele-pe-care-o-alegi-pentru-pnl-cel-mai-avantajos-electoral-ar-fi-fost-sa-r.html"
+      }
+    ],
+    "published_at": 1792249326,
+    "title_hu": "A PNL támogatja a Niculescu-kormány beiktatását, de ellenzékbe vonul",
+    "lead_hu": "A PNL úgy döntött, hogy feltételes, eseti szavazattal támogatja a Luca Niculescu vezette kormány beiktatását, miközben ellenzékbe vonul. Oana Gheorghiu szerint a döntés célja a költségvetési patthelyzet megszüntetése, Alina Gorghiu pedig azt kérdezte, nem járt volna-e jobban a párt, ha korábban az Adrian Veștea vezette kabinetet támogatta volna.",
+    "content_hu": "• **A PNL döntése** szerint a párt feltételes és eseti szavazattal támogatja a Luca Niculescu vezette kormány beiktatását, de nem lép be a kabinetbe, hanem ellenzékbe vonul.\n\n• **Oana Gheorghiu indoklása szerint** a kormány beiktatása lehetővé teszi a sürgős költségvetési kiigazítást, amelyet a korlátozott jogkörű ügyvivő kormány nem fogadhatott el sürgősségi rendelettel. Enélkül szerinte kórházak maradhatnak gyógyszerekre és kezelésekre szánt pénz, a mentők pedig üzemanyag nélkül.\n\n• **Gheorghiu hangsúlyozta**, hogy a PNL döntése nem a PSD-nek vagy a javasolt minisztereknek szóló bizalom, hanem a politikai patthelyzet lezárásának szándéka. Elismerte, hogy a lépés felháborodást válthat ki, és politikai költségekkel járhat a pártnak.\n\n• **Alina Gorghiu felvetette**, hogy a PNL számára jobb lett volna-e az Adrian Veștea vezette, liberális miniszterekből álló kormányt támogatni, ahelyett, hogy most egy technokrata miniszterelnök vezette, PSD-domináns kabinet beiktatását segíti. Azt írta, a válság költségeit továbbra is az ország viseli.",
+    "title_ro": "PNL susține învestirea guvernului Niculescu, dar intră în opoziție",
+    "lead_ro": "PNL a decis să voteze condiționat și punctual învestirea guvernului condus de Luca Niculescu, fără să intre la guvernare. Oana Gheorghiu a motivat decizia prin necesitatea deblocării rectificării bugetare, în timp ce Alina Gorghiu a întrebat dacă partidul ar fi fost mai bine să susțină anterior guvernul condus de Adrian Veștea.",
+    "content_ro": "• **Decizia PNL** este să susțină printr-un vot condiționat și punctual învestirea guvernului condus de Luca Niculescu, dar să nu intre la guvernare și să treacă în opoziție.\n\n• **Potrivit Oanei Gheorghiu**, învestirea guvernului ar permite o rectificare bugetară urgentă, pe care guvernul interimar, cu atribuții limitate, nu o putea adopta prin ordonanță de urgență. În lipsa acesteia, a avertizat ea, spitalele ar putea rămâne fără bani pentru medicamente și tratamente, iar ambulanțele fără combustibil.\n\n• **Gheorghiu a subliniat** că votul PNL nu reprezintă încredere în PSD sau aprobarea miniștrilor propuși, ci urmărește încheierea blocajului politic. Ea a recunoscut că decizia poate provoca nemulțumire și poate avea un cost politic pentru partid.\n\n• **Alina Gorghiu a întrebat** dacă nu ar fi fost mai bine pentru PNL să susțină guvernul condus de Adrian Veștea, cu miniștri liberali, în loc să contribuie acum la învestirea unui cabinet dominat de PSD și condus de un premier tehnocrat. Ea a afirmat că efectele crizei continuă să fie suportate de țară."
+  },
+  {
+    "group_id": "group_2de9e7e6c1",
+    "fingerprint": "224e87466434559a7b0e1f0b64b435b9",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/6679088-mediafax_foto-adrian_piclisan-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Haos pe calea ferată între Brașov și Hărman! Patru trenuri, blocate din cauza unei locomotive defecte",
+        "link": "https://www.mediafax.ro/social/haos-pe-calea-ferata-intre-brasov-si-harman-patru-trenuri-blocate-din-cauza-unei-locomotive-defecte-23827248"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trafic feroviar blocat între Braşov şi Hărman. Patru trenuri de călători aşteaptă redeschiderea circulaţiei",
+        "link": "https://www.digi24.ro/stiri/actualitate/trafic-feroviar-blocat-intre-brasov-si-harman-patru-trenuri-de-calatori-asteapta-redeschiderea-circulatiei-3996887"
+      }
+    ],
+    "published_at": 1792249168,
+    "title_hu": "Mozdonyhiba miatt állt le a vasúti forgalom Brassó és Hărman között",
+    "lead_hu": "Szombaton 16:10-től ideiglenesen szünetelt a vasúti közlekedés Brassó és Hărman között, miután meghibásodott az IR 1645-es vonat mozdonya. Az egyvágányú szakaszon négy személyvonat várta a pálya felszabadítását.",
+    "content_hu": "• **Szombaton 16:10-től** leállt a vasúti forgalom Brassó és Hărman között, miután a CFR Călători IR 1645-es vonatának mozdonya meghibásodott a két állomás között, a 3+300-as kilométernél.\n\n• **Az egyvágányú szakaszon** a többi szerelvény nem tudott továbbhaladni, amíg a meghibásodott mozdony el nem hagyja a pályát.\n\n• **Négy személyvonat** várta a közlekedés újraindítását: az R 4508 és az IR 12545 Hărmanban, az R 4513 és az R 11297 Brassóban vesztegelt.\n\n• **A vasúttársaság munkatársai** a mozdony meghibásodásának elhárításán és a pálya felszabadításán dolgoztak; a forgalmat a Brassói Regionális Vasúti Igazgatóság koordinálta. A közlekedés a szerelvény eltávolítása és a biztonsági feltételek ellenőrzése után indulhatott újra.",
+    "title_ro": "Trafic feroviar oprit între Brașov și Hărman după defectarea unei locomotive",
+    "lead_ro": "Circulația feroviară între Brașov și Hărman a fost suspendată temporar sâmbătă, de la ora 16:10, după ce s-a defectat locomotiva trenului IR 1645. Pe linia simplă, patru trenuri de călători au așteptat eliberarea căii ferate.",
+    "content_ro": "• **Sâmbătă, de la ora 16:10,** traficul feroviar între Brașov și Hărman a fost oprit după defectarea locomotivei trenului IR 1645, operat de CFR Călători, la kilometrul 3+300, între cele două stații.\n\n• **Pe sectorul cu linie simplă,** celelalte garnituri nu și-au putut continua deplasarea până la eliberarea căii ferate.\n\n• **Patru trenuri de călători** au așteptat reluarea circulației: R 4508 și IR 12545 au staționat la Hărman, iar R 4513 și R 11297, la Brașov.\n\n• **Personalul feroviar** a intervenit pentru remedierea defecțiunii și retragerea locomotivei, iar circulația trenurilor afectate a fost coordonată de SRCF Brașov. Traficul urma să fie reluat după eliberarea liniei și verificarea condițiilor de siguranță."
+  },
+  {
+    "group_id": "group_8a0cdbd581",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/04/whatsapp-image-2026-04-02-at-14-47-14-1024x683.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Radu Miruță anunță reguli mai stricte pentru accesul trenurilor de marfă în Portul Constanța",
+        "link": "https://www.mediafax.ro/politic/radu-miruta-anunta-reguli-mai-stricte-pentru-accesul-trenurilor-de-marfa-in-portul-constanta-23827262"
+      }
+    ],
+    "published_at": 1792249078,
+    "title_hu": "Radu Miruță anunță reguli mai stricte pentru accesul trenurilor de marfă în Portul Constanța",
+    "lead_hu": "Ministrul Radu Miruță a anunțat sâmbătă că a semnat și a pus în transparență decizională un proiect de ordin care urmărește să limiteze intrarea în Portul Constanța a trenurilor de marfă neprogramate …",
+    "content_hu": "Ministrul Radu Miruță a anunțat sâmbătă că a semnat și a pus în transparență decizională un proiect de ordin care urmărește să limiteze intrarea în Portul Constanța a trenurilor de marfă neprogramate înaintea celor care au deja un loc stabilit în planificare.",
+    "title_ro": "Radu Miruță anunță reguli mai stricte pentru accesul trenurilor de marfă în Portul Constanța",
+    "lead_ro": "Ministrul Radu Miruță a anunțat sâmbătă că a semnat și a pus în transparență decizională un proiect de ordin care urmărește să limiteze intrarea în Portul Constanța a trenurilor de marfă neprogramate …",
+    "content_ro": "Ministrul Radu Miruță a anunțat sâmbătă că a semnat și a pus în transparență decizională un proiect de ordin care urmărește să limiteze intrarea în Portul Constanța a trenurilor de marfă neprogramate înaintea celor care au deja un loc stabilit în planificare."
+  },
+  {
+    "group_id": "group_4887e61aab",
+    "fingerprint": "e622c70100fecf021a02c84c2591920e",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA4JTJGMzAwMzg3M18zMDAz/ODczXzIwMjYtMTAtMDgtNDY5OC5qcGcm/aGFzaD0yMjU4OTkxODRiOWEyZTQzYTBiMGUwZWEyYTQ4MTM4Yg==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 11,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Programul de guvernare al Guvernului Luca Niculescu: pensii indexate, taxe schimbate și investiții de miliarde. DOCUMENT",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/programul-de-guvernare-al-guvernului-luca-niculescu-pensii-indexate-taxe-schimbate-si-investitii-de-miliarde-document-3994307"
+      },
+      {
+        "source": "Economedia",
+        "title": "SURSE | Programul de guvernare asumat de Luca Niculescu: deficit de 5,2% asumat pentru 2027, eliminarea IMCA de la 1 ianuarie 2027",
+        "link": "https://economedia.ro/surse-programul-de-guvernare-asumat-de-luca-niculescu-deficit-de-52-asumat-pentru-2027-eliminarea-imca-de-la-1-ianuarie-2027.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Oficial. Lista membrilor viitorului cabinet Luca Niculescu şi principalele priorităţi ale premierului desemnat. O nouă lege a salarizării în sectorul public în 2027, indexări de pensii şi un nou mecanism de creştere a salariului minim. Firmele vor scăpa de impozitul minim pe cifra de afaceri (IMCA) de la 1 ianuarie 2027",
+        "link": "https://www.zf.ro/eveniment/oficial-lista-membrilor-viitorului-cabinet-luca-niculescu-principalele-prioritati-premierului-desemnat-lege-salarizarii-sectorul-public-2027-indexari-pensii-mecanism-crestere-salariului-minim-23261034"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cum vrea Cabinetul Luca Niculescu să reducă deficitul bugetar: măsuri prin care ar pune cheltuielile statului sub control",
+        "link": "https://www.digi24.ro/stiri/economie/finante-economie/cum-vrea-cabinetul-luca-niculescu-sa-reduca-deficitul-bugetar-masuri-prin-care-ar-pune-cheltuielile-statului-sub-control-3994425"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Planul guvernului Niculescu pentru pensionari. Ce se va întâmpla cu pensiile din 2027",
+        "link": "https://stirileprotv.ro/stiri/politic/pensiile-vor-fi-indexate-din-2027-cuponul-electronic-de-pensie-printre-masurile-propuse-in-programul-de-guvernare.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Programul de guvernare PSD – Luca Niculescu: deficit de 5,2% din PIB în 2027, eliminarea impozitului minim pe cifra de afaceri, indexarea „prudentă” a pensiilor, impozitarea proprietății la valoarea de piață",
+        "link": "https://www.g4media.ro/programul-de-guvernare-psd-luca-niculescu-deficit-de-52-din-pib-in-2027-eliminarea-impozitului-minim-pe-cifra-de-afaceri-indexarea-prudenta-a-pensiilor-impozitarea-proprietati.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Când vor fi indexate pensiile și ce prevede programul de guvernare în privința salariului minim",
+        "link": "https://hotnews.ro/cand-vor-fi-indexate-pensiile-si-ce-prevede-programul-de-guvernare-in-privinta-salariului-minim-2377460"
+      },
+      {
+        "source": "Digi24",
+        "title": "Program de guvernare: Guvernul vrea să elimine impozitul minim pe cifra de afaceri de la 1 ianuarie 2027. Alte măsuri fiscale",
+        "link": "https://www.digi24.ro/stiri/actualitate/program-de-guvernare-guvernul-vrea-sa-elimine-impozitul-minim-pe-cifra-de-afaceri-de-la-1-ianuarie-2027-alte-masuri-fiscale-3994499"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Guvernul Niculescu promite să reducă deficitul, să elimine taxe și să crească investițiile. De unde vin banii",
+        "link": "https://hotnews.ro/guvernul-niculescu-promite-sa-reduca-deficitul-sa-elimine-taxe-si-sa-creasca-investitiile-de-unde-vin-banii-2377587"
+      },
+      {
+        "source": "Maszol",
+        "title": "Nyugdíjkorrekciót és új bértörvényt ígér a Niculescu-kormány programja",
+        "link": "https://maszol.ro/belfold/Nyugdijkorrekciot-es-uj-bertorvenyt-iger-a-Niculescu-kormany-programja"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Pensii indexate din 2027, schimbări pentru părinți și ajutoare pentru familiile vulnerabile. Ce propune Programul de guvernare",
+        "link": "https://adevarul.ro/economie/pensii-indexate-din-2027-schimbari-pentru-parinti-2564498.html"
+      }
+    ],
+    "published_at": 1792249062,
+    "title_hu": "A Niculescu-kormány programja: nyugdíjindexálás 2027-től, adóváltozások és hiánycsökkentés",
+    "lead_hu": "Luca Niculescu kijelölt miniszterelnök október 15-én benyújtotta a parlamentnek a 2026–2028-as kormányprogramot és a miniszterjelöltek névsorát. A tervezet a költségvetési hiány mérséklését, a beruházások védelmét és több szociális intézkedést ígér, de egyes vállalásokat a költségvetési mozgástérhez köt.",
+    "content_hu": "• **A 2027-es hiánycél** a program szerint a GDP 5,2 százaléka; a kormány 2030-ra 3 százalék alá szorítaná a hiányt. A tervezet a kiadások visszafogását, az adóbeszedés javítását és az állami programok eredményességének felülvizsgálatát helyezi előtérbe, miközben védené a közberuházásokat.\n\n• **2027. január 1-jétől** megszüntetnék az árbevételre kivetett minimális adót (IMCA), és a program szerint nem halasztanák el az intézkedést. A kormány megőrizné az egykulcsos adózás elvét, felülvizsgálná az adókedvezményeket, az ingatlanadóztatást pedig fokozatosan a piaci értékhez igazítaná.\n\n• **A nyugdíjak indexálása** 2027-ben indulna újra, a nyugdíjrendszer fenntarthatóságának és a hiánycsökkentési pályának figyelembevételével. A program nem rögzít konkrét emelési százalékot; a kisnyugdíjasok és a sérülékeny csoportok külön figyelmet kapnának.\n\n• **A közszolgálati bérekről** 2027-ben dolgoznák ki az új egységes bértörvény tervezetét, elsősorban a rendszerbeli aránytalanságok rendezésére. A minimálbért 12 havonta, gazdasági adatok és a munkáltatókkal, illetve szakszervezetekkel folytatott egyeztetés alapján vizsgálnák felül; általános béremelés csak megfelelő költségvetési fedezet esetén jöhetne szóba.\n\n• **A szociális intézkedések** között szerepel az energiaárak miatt nehéz helyzetbe került családok célzott támogatása, valamint a nyugdíjkérelmek ügyintézési késedelmeinek csökkentése. A program 2027 júniusáig felére mérsékelné a határidőn túl elbírált nyugdíjügyek számát, és digitális nyugdíjszelvényt, illetve digitalizált nyugdíj-archívumot irányoz elő.\n\n• **A beruházási tervek** energia-, közlekedési és egyéb infrastruktúra-fejlesztéseket tartalmaznak; a program 2027 végéig több mint 5 000 megawatt új energiatermelő kapacitást céloz meg. A vállalások egy része finanszírozástól és a költségvetési helyzettől függ, ezért a programban szereplő intézkedések nem mind tekinthetők már elfogadott vagy garantált változásnak.",
+    "title_ro": "Programul Guvernului Niculescu: indexarea pensiilor din 2027, modificări fiscale și reducerea deficitului",
+    "lead_ro": "Premierul desemnat Luca Niculescu a depus în Parlament, pe 15 octombrie, programul de guvernare pentru perioada 2026–2028 și lista miniștrilor propuși. Documentul propune reducerea deficitului, protejarea investițiilor și măsuri sociale, însă unele angajamente sunt condiționate de spațiul bugetar disponibil.",
+    "content_ro": "• **Ținta de deficit pentru 2027** este de 5,2% din PIB, potrivit programului, iar Guvernul urmărește coborârea deficitului sub 3% din PIB până în 2030. Planul pune accent pe limitarea cheltuielilor, îmbunătățirea colectării veniturilor și evaluarea eficienței programelor publice, cu protejarea investițiilor publice.\n\n• **De la 1 ianuarie 2027**, impozitul minim pe cifra de afaceri (IMCA) ar urma să fie eliminat, fără o nouă amânare. Programul prevede menținerea principiului cotei unice, evaluarea facilităților fiscale și apropierea treptată a impozitării proprietăților de valoarea de piață.\n\n• **Indexarea pensiilor** ar urma să fie reluată în 2027, cu respectarea sustenabilității sistemului public și a traiectoriei de reducere a deficitului. Programul nu precizează un procent al majorării și acordă atenție specială pensionarilor cu venituri mici și persoanelor vulnerabile.\n\n• **Noua lege a salarizării publice** ar urma să fie elaborată în 2027, cu prioritate pentru corectarea inechităților din sistem. Salariul minim ar urma să fie actualizat într-un ciclu de 12 luni, pe baza datelor economice și a consultărilor cu angajatorii și sindicatele; majorările generale de salarii ar depinde de resursele bugetare disponibile.\n\n• **Măsurile sociale** includ un sprijin țintit pentru familiile afectate de scumpirea energiei și reducerea întârzierilor în soluționarea dosarelor de pensie. Programul urmărește ca până în iunie 2027 să fie redus cu 50% numărul dosarelor care depășesc termenul legal și prevede digitalizarea arhivelor de pensii și introducerea cuponului electronic.\n\n• **Investițiile planificate** vizează energia, transporturile și alte domenii de infrastructură; pentru producția de energie, programul stabilește o țintă de peste 5.000 MW de capacități noi până la sfârșitul lui 2027. O parte dintre angajamente depinde de finanțare și de situația bugetară, astfel că măsurile propuse nu reprezintă toate schimbări deja adoptate sau garantate."
+  },
+  {
+    "group_id": "group_21027235aa",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/cale-ferata-lot-3-1024x576.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "VIDEO | Calea ferată Cluj-Oradea, văzută din avion. Lucrările pe lotul Poieni-Aleșd au ajuns la 39%",
+        "link": "https://economedia.ro/video-calea-ferata-cluj-oradea-vazuta-din-avion-lucrarile-pe-lotul-poieni-alesd-au-ajuns-la-39.html"
+      }
+    ],
+    "published_at": 1792249015,
+    "title_hu": "VIDEO | Calea ferată Cluj-Oradea, văzută din avion. Lucrările pe lotul Poieni-Aleșd au ajuns la 39%",
+    "lead_hu": "Asocierea FCC-Gülermak a ajuns la un progres fizic de 39% pe lotul 3 al Magistralei 300 Cluj-Oradea, în august 2026. Lipsesc însă lucrările între Bulz și Vadu Crișului, așadar legătura feroviară între…",
+    "content_hu": "Asocierea FCC-Gülermak a ajuns la un progres fizic de 39% pe lotul 3 al Magistralei 300 Cluj-Oradea, în august 2026. Lipsesc însă lucrările între Bulz și Vadu Crișului, așadar legătura feroviară întreruptă ar putea fi refăcută abia în 2028, conform Asociației Pro Infrastructură. API a publicat o filmare de pe cei aproape 53 de kilometri […]",
+    "title_ro": "VIDEO | Calea ferată Cluj-Oradea, văzută din avion. Lucrările pe lotul Poieni-Aleșd au ajuns la 39%",
+    "lead_ro": "Asocierea FCC-Gülermak a ajuns la un progres fizic de 39% pe lotul 3 al Magistralei 300 Cluj-Oradea, în august 2026. Lipsesc însă lucrările între Bulz și Vadu Crișului, așadar legătura feroviară între…",
+    "content_ro": "Asocierea FCC-Gülermak a ajuns la un progres fizic de 39% pe lotul 3 al Magistralei 300 Cluj-Oradea, în august 2026. Lipsesc însă lucrările între Bulz și Vadu Crișului, așadar legătura feroviară întreruptă ar putea fi refăcută abia în 2028, conform Asociației Pro Infrastructură. API a publicat o filmare de pe cei aproape 53 de kilometri […]"
+  },
+  {
+    "group_id": "group_5f932a9c38",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjIyJTJGMjg2NDMzNF8yODY0/MzM0X3Byb2ZpbWVkaWEtMTExNzc4NzMz/OC5qcGcmaGFzaD02MjhjMmZkZTY4MjUzYmU2NDZmY2VlMThhNmYyZDhlNg==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "„Kiev fără Kliciko”. Sute de oameni cer demisia primarului, nemulțumiți de pregătirile pentru iarnă",
+        "link": "https://www.digi24.ro/stiri/externe/ue/kiev-fara-kliciko-sute-de-oameni-cer-demisia-primarului-nemultumiti-de-pregatirile-pentru-iarna-3996853"
+      }
+    ],
+    "published_at": 1792249007,
+    "title_hu": "„Kiev fără Kliciko”. Sute de oameni cer demisia primarului, nemulțumiți de pregătirile pentru iarnă",
+    "lead_hu": "Sute de oameni au protestat la Kiev și au cerut demisia primarului Vitali Kliciko, acuzând administrația locală că nu a pregătit suficient orașul pentru iarna care se apropie. Nemulțumirile vizează li…",
+    "content_hu": "Sute de oameni au protestat la Kiev și au cerut demisia primarului Vitali Kliciko, acuzând administrația locală că nu a pregătit suficient orașul pentru iarna care se apropie. Nemulțumirile vizează lipsa adăposturilor, întreruperile alimentării cu apă și energie și gestionarea infrastructurii, în contextul intensificării atacurilor rusești. Președintele Volodimir Zelenski a criticat, la rândul său, pregătirile capitalei, pe care le-a descris drept mai puțin eficiente decât cele din alte regiuni ale Ucrainei. Demiterea primarului rămâne însă complicată de structura administrativă specială a Kievului și de cadrul legal aplicabil în timpul războiului, anunță Kyiv Independent.",
+    "title_ro": "„Kiev fără Kliciko”. Sute de oameni cer demisia primarului, nemulțumiți de pregătirile pentru iarnă",
+    "lead_ro": "Sute de oameni au protestat la Kiev și au cerut demisia primarului Vitali Kliciko, acuzând administrația locală că nu a pregătit suficient orașul pentru iarna care se apropie. Nemulțumirile vizează li…",
+    "content_ro": "Sute de oameni au protestat la Kiev și au cerut demisia primarului Vitali Kliciko, acuzând administrația locală că nu a pregătit suficient orașul pentru iarna care se apropie. Nemulțumirile vizează lipsa adăposturilor, întreruperile alimentării cu apă și energie și gestionarea infrastructurii, în contextul intensificării atacurilor rusești. Președintele Volodimir Zelenski a criticat, la rândul său, pregătirile capitalei, pe care le-a descris drept mai puțin eficiente decât cele din alte regiuni ale Ucrainei. Demiterea primarului rămâne însă complicată de structura administrativă specială a Kievului și de cadrul legal aplicabil în timpul războiului, anunță Kyiv Independent."
+  },
+  {
+    "group_id": "group_d21b33f62f",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/10/profimedia-0924622873.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Red Bull Racing „face echipă” cu inteligența artificială în cursele de Formula 1: „Practic ia deciziile pentru noi”",
+        "link": "https://www.g4media.ro/red-bull-racing-face-echipa-cu-inteligenta-artificiala-in-cursele-de-formula-1-practic-ia-deciziile-pentru-noi.html"
+      }
+    ],
+    "published_at": 1792248987,
+    "title_hu": "Red Bull Racing „face echipă” cu inteligența artificială în cursele de Formula 1: „Practic ia deciziile pentru noi”",
+    "lead_hu": "Red Bull folosește un sistem de inteligență artificială care recomandă echipei ce decizii să ia în timpul unei curse. Într-un interviu pentru CNBC, Jack Harington, responsabilul parteneriatelor tehnic…",
+    "content_hu": "Red Bull folosește un sistem de inteligență artificială care recomandă echipei ce decizii să ia în timpul unei curse. Într-un interviu pentru CNBC, Jack Harington, responsabilul parteneriatelor tehnice și de performanță de la Red Bull, a explicat că echipa din Milton Keynes a dezvoltat acest instrument cu ajutorul partenerului său principal, Oracle, dezvăluind și cum […] © G4Media.ro.",
+    "title_ro": "Red Bull Racing „face echipă” cu inteligența artificială în cursele de Formula 1: „Practic ia deciziile pentru noi”",
+    "lead_ro": "Red Bull folosește un sistem de inteligență artificială care recomandă echipei ce decizii să ia în timpul unei curse. Într-un interviu pentru CNBC, Jack Harington, responsabilul parteneriatelor tehnic…",
+    "content_ro": "Red Bull folosește un sistem de inteligență artificială care recomandă echipei ce decizii să ia în timpul unei curse. Într-un interviu pentru CNBC, Jack Harington, responsabilul parteneriatelor tehnice și de performanță de la Red Bull, a explicat că echipa din Milton Keynes a dezvoltat acest instrument cu ajutorul partenerului său principal, Oracle, dezvăluind și cum […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_695cff44e8",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Szatmári sporthírek",
+        "title": "Idénybeli második győzelmét szerezte az Unirea Tasnád",
+        "link": "https://szmsport.ro/labdarugas/idenybeli-masodik-gyozelmet-szerezte-az-unirea-tasnad/"
+      }
+    ],
+    "published_at": 1792248857,
+    "title_hu": "Idénybeli második győzelmét szerezte az Unirea Tasnád",
+    "lead_hu": "Alsóházi rangadót nyert meg szombaton Nagyváradon az Unirea Tasnád labdarúgócsapata, amely 2–1-es győzelmet aratott a sereghajtó Transilvania Sport Academy együttes otthonában. Ezzel megerősítette a 1…",
+    "content_hu": "Alsóházi rangadót nyert meg szombaton Nagyváradon az Unirea Tasnád labdarúgócsapata, amely 2–1-es győzelmet aratott a sereghajtó Transilvania Sport Academy együttes otthonában. Ezzel megerősítette a 10. helyét a Liga 3 8. csoportjának a táblázatában. A Idénybeli második győzelmét szerezte az Unirea Tasnád bejegyzés először Szatmári sporthírek, magyarul-én jelent meg.",
+    "title_ro": "Idénybeli második győzelmét szerezte az Unirea Tasnád",
+    "lead_ro": "Alsóházi rangadót nyert meg szombaton Nagyváradon az Unirea Tasnád labdarúgócsapata, amely 2–1-es győzelmet aratott a sereghajtó Transilvania Sport Academy együttes otthonában. Ezzel megerősítette a 1…",
+    "content_ro": "Alsóházi rangadót nyert meg szombaton Nagyváradon az Unirea Tasnád labdarúgócsapata, amely 2–1-es győzelmet aratott a sereghajtó Transilvania Sport Academy együttes otthonában. Ezzel megerősítette a 10. helyét a Liga 3 8. csoportjának a táblázatában. A Idénybeli második győzelmét szerezte az Unirea Tasnád bejegyzés először Szatmári sporthírek, magyarul-én jelent meg."
+  },
+  {
+    "group_id": "group_12ab016f15",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Niciun candidat nu a obținut susținerea marilor puteri pentru șefia ONU. O femeie este în fruntea cursei, dar poate apărea și un nou nume",
+        "link": "https://hotnews.ro/niciun-candidat-nu-a-obtinut-sustinerea-marilor-puteri-pentru-sefia-onu-o-femeie-este-in-fruntea-cursei-dar-poate-aparea-si-un-nou-nume-2378770"
+      }
+    ],
+    "published_at": 1792248683,
+    "title_hu": "Niciun candidat nu a obținut susținerea marilor puteri pentru șefia ONU. O femeie este în fruntea cursei, dar poate apărea și un nou nume",
+    "lead_hu": "Marile puteri nu au reuşit să ajungă la un acord cu privire la un candidat care să-i succedă lui Antonio Guterres la conducerea ONU, deschizând astfel calea către posibile noi candidaturi, informează …",
+    "content_hu": "Marile puteri nu au reuşit să ajungă la un acord cu privire la un candidat care să-i succedă lui Antonio Guterres la conducerea ONU, deschizând astfel calea către posibile noi candidaturi, informează AFP, conform News.ro. Patru femei şi trei bărbaţi încearcă în prezent să-i succeadă portughezului în vârstă de 77 de ani, care îşi va …",
+    "title_ro": "Niciun candidat nu a obținut susținerea marilor puteri pentru șefia ONU. O femeie este în fruntea cursei, dar poate apărea și un nou nume",
+    "lead_ro": "Marile puteri nu au reuşit să ajungă la un acord cu privire la un candidat care să-i succedă lui Antonio Guterres la conducerea ONU, deschizând astfel calea către posibile noi candidaturi, informează …",
+    "content_ro": "Marile puteri nu au reuşit să ajungă la un acord cu privire la un candidat care să-i succedă lui Antonio Guterres la conducerea ONU, deschizând astfel calea către posibile noi candidaturi, informează AFP, conform News.ro. Patru femei şi trei bărbaţi încearcă în prezent să-i succeadă portughezului în vârstă de 77 de ani, care îşi va …"
+  },
+  {
+    "group_id": "group_5aa7747dc9",
+    "fingerprint": "8f336e5696f9c5a2158dda45f8fe8131",
+    "category": "Politika",
+    "image": "https://stirileprotv.ro/img/2026/04/09/074611/alexandru-muraru.jpg?fm=jpg&q=80&fit=crop&crop=5413%2C3609%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Muraru (PNL): O parte a societății cere să nu votăm Guvernul; cine dă jos un Guvern să-și asume responsabilitatea",
+        "link": "https://agerpres.ro/politic/2026/10/15/muraru-pnl-o-parte-a-societatii-cere-sa-nu-votam-guvernul-cine-da-jos-un-guvern-sa-si-asume-responsa--1603275"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PSD „dă tonul” în Guvernul Niculescu: Noul Executiv își asumă schimbarea de direcție",
+        "link": "https://www.mediafax.ro/politic/psd-da-tonul-in-guvernul-niculescu-noul-executiv-isi-asuma-schimbarea-de-directie-23826603"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Deputatul PNL care nu va vota Guvernul Niculescu. „Oare chiar nu contează ce se întâmplă cu această țară?”",
+        "link": "https://stirileprotv.ro/stiri/politic/deputatul-pnl-care-nu-va-vota-guvernul-niculescu-oare-chiar-nu-conteaza-ce-se-intampla-cu-aceasta-tara.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Siegfried Mureșan, atac la propunerea PSD pentru MAI: „Un premier serios nu ar accepta niciodată un fost condamnat penal”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/siegfried-muresan-atac-la-propunerea-psd-pentru-mai-un-premier-serios-nu-ar-accepta-niciodata-un-fost-condamnat-penal-3996163"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Mesajul lui Luca Niculescu înaintea votului decisiv pentru Guvern: „Situația este foarte gravă”",
+        "link": "https://stirileprotv.ro/stiri/politic/mesajul-lui-luca-niculescu-inaintea-votului-decisiv-pentru-guvern-situatia-este-foarte-grava.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Crește opoziția în PNL față de Guvernul Niculescu: O nouă filială județeană se poziționează împotrivă",
+        "link": "https://hotnews.ro/creste-opozitia-in-pnl-fata-de-guvernul-niculescu-o-noua-filiala-judeteana-se-pozitioneaza-impotriva-investirii-2378518"
+      }
+    ],
+    "published_at": 1792248683,
+    "title_hu": "A PNL feltételesen támogatja a Niculescu-kormányt, de erősödik a belső ellenállás",
+    "lead_hu": "A PNL vezetése feltételes, szükségességi szavazást adott a Luca Niculescu vezette kabinet beiktatására, miközben a párt ellenzékbe vonulna, és külön megállapodást kötne a kijelölt miniszterelnökkel. A döntés ellen több szervezet és politikus tiltakozik; Alina Gorghiu kettős mércét emleget, Dragoș Ciubotaru pedig azt közölte, hogy nem vesz részt a szavazáson. A parlamenti voksolást október 20-ra tűzték ki.",
+    "content_hu": "• **A PNL országos vezetése feltételes támogatásról döntött:** a Nemzeti Politikai Büró széles többséggel felhatalmazta a liberális képviselőket, hogy szükségességi, feltételes és eseti szavazattal támogassák a Niculescu-kormány beiktatását. A 56 tagú testületben hatan szavaztak ellene, egy tag tartózkodott; a voksolást október 20-ra tűzték ki.\n\n• **A PNL ellenzékbe vonulna, és külön megállapodást kötne Niculescuval:** Ilie Bolojan szerint ez nem koalíciós szerződés, és nem jelenti a liberálisok kormányzati részvételét. A támogatási megállapodás a 2027-es költségvetés elfogadásáig szólna, és a deficitcélok, az uniós forrásokhoz való hozzáférés, valamint a befektetői bizalom megőrzését rögzítené; a PNL-s tisztségviselők a hét elején lemondanának kormányzati szerepeikről.\n\n• **Bolojan a működőképes kormány szükségességével indokolta a támogatást:** szerinte a csaknem öt hónapja tartó ügyvivői időszakban sürgetővé vált a költségvetési kiigazítás, amelyet az ügyvivő kabinet nem fogadhat el. Oana Gheorghiu arra figyelmeztetett, hogy kiigazítás nélkül kórházak maradhatnak pénz nélkül gyógyszerekre és kezelésekre, a mentőknek pedig üzemanyagra sem jut; a PNL szerint ezért a szavazat nem a PSD-nek vagy a miniszterjelölteknek szóló bizalom.\n\n• **A támogatás mellett bejelentett pártok szavazataival 279 voks gyűlhet össze:** ez meghaladná a beiktatáshoz szükséges 233-at, ha a PSD, a PNL, az RMDSZ, a nemzeti kisebbségek csoportja és az Uniți pentru România képviselői a plenáris ülésen is támogatják a kabinetet.\n\n• **Alina Gorghiu kettős mércét vetett a PNL szemére:** arra emlékeztetett, hogy korábban őt és más liberálisokat majdnem kizárták, amiért egy Adrian Veștea vezette, liberális minisztereket és PSD-s részvételt is tartalmazó kormányt támogattak. Most azt kérdezte, ki hibázott, és kinek kellene bocsánatot kérnie; szerinte a politikai válság költségeit továbbra is az ország fizeti.\n\n• **A Veștea-kabinet beiktatása korábban meghiúsult:** 189 támogató szavazatot kapott a szükséges 233 helyett. A PNL 2026. június 21-i rendkívüli kongresszusán szankciókat helyeztek kilátásba a PSD-vel közös kormányt támogató párttagok ellen; a döntések alkalmazását később bírósági intézkedés függesztette fel.\n\n• **Alexandru Muraru szerint a PSD Bolojan eltávolítására és a PNL irányváltására törekszik:** úgy véli, Sorin Grindeanu ajánlatai a pártvezetés megkerülésével a PNL belső ellenzékének szólnak, és a liberálisok 2028 előtti alárendelését célozzák. Muraru a PSD-t a koalíció belső szabotálásával, majd a bizalmatlansági indítvány megszavazásával vádolta.\n\n• **Muraru a kormány beiktatásával szembeni társadalmi ellenérzésekről is beszélt:** elismerte, hogy a miniszterjelöltek nyilvánosságra kerülése után a társadalom egy része a kabinet elutasítását kéri. Szerinte azonban aki megbuktat egy kormányt, annak vállalnia kell az új kabinet megalakításának felelősségét; a PNL ellenzékből is támogatna hiánycsökkentő, pénzügyi fegyelmet és beruházásokat szolgáló intézkedéseket.\n\n• **A PNL a 2027-es költségvetést feltételekhez köti:** reális bevételi előrejelzéseket, hiteles kiadási tervet, a beruházások védelmét, felelős közpénzfelhasználást és az európai vállalások teljesítését várja el.\n\n• **A PNL Iași szervezete egyhangúlag elutasította a kabinet támogatását:** a szervezet szerint egy PSD-től függő kormány nem hiteles reformkormány, és a Niculescuval kötött megállapodás a gyakorlatban biankó csekket adna a PSD-nek. Hiteles reformpárti többséget, ennek hiányában előrehozott választást javasolt; Mihai Chirica iași polgármestere viszont felelőtlennek nevezte a döntést, és működőképes kormányt sürgetett.\n\n• **A PNL Vrancea vezetője, Dragoș Ciubotaru nem támogatja a kormányt:** a PSD-t tartja felelősnek az előző kabinet megbuktatásáért, ezért szerinte a szociáldemokratáknak kellene új többséget teremteniük. Azt mondta, ha a PNL mégis a támogatás mellett dönt, nem vesz részt a beiktatási szavazáson; állítása szerint a megye liberális polgármestereinek mintegy 95 százaléka is ellenezte a kabinetet, és több képviselő is így gondolkodik. Alternatívaként technokrata kormányt, PSD–AUR-kabinetet vagy a parlament feloszlatását vetette fel.\n\n• **Siegfried Mureșan szerint a PNL nem ad biankó csekket a PSD-s minisztereknek:** a liberálisok teljes ellenzéket ígérnek a PSD-vel szemben, és ellenőrizni fogják a miniszterek munkáját. Mureșan külön bírálta a Mykonoshoz, a Nordis-ügyhöz és a „cipősdobozokhoz” kapcsolt jelölteket, valamint Marian Neacșu belügyminiszteri jelölését; Neacșu korábbi büntetőítéletét azonban később jogi rehabilitáció követte, és korábban Bolojan kormányában is miniszterelnök-helyettes volt.\n\n• **A PSD 11 tárcát kapna a 17-ből:** a párt szerint a Niculescu-kormány programja tartalmazza valamennyi kérését, köztük a gazdaságélénkítést és a lakossági jövedelmek védelmét. A PSD a Bolojan-kormány politikájának tulajdonította a recessziót, az ipari termelés visszaesését és mintegy 70 ezer munkahely megszűnését; azt is állította, hogy kormányra lépésének hírére emelkedett a BET-index, az állampapírhozamok pedig egyhavi mélypontra estek.\n\n• **Ștefan-Radu Oprea azonnali szankciót helyezett kilátásba:** közlése szerint a nem teljesítő PSD-s miniszterek nem kapnak előzetes figyelmeztetést, hanem „piros lapot”, vagyis távozniuk kell.\n\n• **Cristian Tudor Popescu a kabinet reformpárti hitelességét kérdőjelezte meg:** azt firtatta, miként tarthatja a kormány a reformirányt Daniel Zamfirrel, Marian Neacșuval és Natalia Intoteróval. Szerinte Bolojan háttérbe szorulásával a kabinet döntéseiért már nem lehet majd közös ellenfelüket okolni; a parlamenti támogatást is bizonytalannak nevezte.\n\n• **Cristian Pantazi elemzői várakozása szerint a PSD megpróbálhatja elkerülni a reformokat:** a nagy költségvetési hiány és a pénzpiaci nyomás azonban népszerűtlen, megszorító intézkedésekre kényszerítheti. Pantazi szerint a párt később akár ki is léphet a kormányból, ha vállalnia kell ezeket a lépéseket; a tavaszi kilépést előrejelzésként, nem tényként fogalmazta meg.",
+    "title_ro": "PNL susține condiționat Guvernul Niculescu, dar opoziția internă se intensifică",
+    "lead_ro": "Conducerea PNL a decis să acorde un vot condiționat, de necesitate, pentru învestirea Guvernului Luca Niculescu, în timp ce partidul ar urma să intre în opoziție și să încheie un acord separat cu premierul desemnat. Decizia este contestată de mai mulți lideri și organizații liberale: Alina Gorghiu invocă un dublu standard, iar Dragoș Ciubotaru a anunțat că nu va participa la vot. Votul în Parlament este programat pentru 20 octombrie.",
+    "content_ro": "• **Conducerea națională a PNL a decis să susțină condiționat învestirea:** Biroul Politic Național a mandatat, cu o largă majoritate, parlamentarii liberali să acorde un vot de necesitate, condiționat și punctual. Din cei 56 de membri ai forului, șase au votat împotrivă și unul s-a abținut; votul în Parlament este programat pentru 20 octombrie.\n\n• **PNL ar urma să intre în opoziție și să încheie un acord separat cu Niculescu:** Ilie Bolojan a precizat că documentul nu va fi un acord de coaliție și nu presupune participarea liberalilor la guvernare. Acordul de susținere ar fi valabil până la votarea bugetului pe 2027 și ar viza țintele de deficit, accesarea fondurilor europene și menținerea încrederii investitorilor; demnitarii susținuți de PNL ar urma să demisioneze la începutul săptămânii.\n\n• **Bolojan a justificat votul prin necesitatea unui guvern funcțional:** după aproape cinci luni de interimat, el spune că rectificarea bugetară a devenit urgentă, iar un guvern interimar nu o poate adopta. Oana Gheorghiu a avertizat că, fără rectificare, spitalele riscă să rămână fără bani pentru medicamente și tratamente, iar ambulanțele fără combustibil; PNL susține că votul nu reprezintă încredere în PSD sau aprobarea miniștrilor propuși.\n\n• **Partidele și grupurile care și-au anunțat sprijinul ar putea aduna 279 de voturi:** numărul ar depăși pragul de 233 necesar învestirii, dacă PSD, PNL, UDMR, grupul minorităților naționale și Uniți pentru România votează la fel și în plen.\n\n• **Alina Gorghiu acuză PNL de dublu standard:** ea a amintit că, în trecut, ea și alți liberali au fost aproape excluși pentru că au susținut un guvern condus de Adrian Veștea, cu miniștri liberali și participarea PSD. Acum a întrebat cine a greșit și cine ar trebui să-și ceară scuze; în opinia sa, țara continuă să suporte costurile crizei politice.\n\n• **Învestirea Guvernului Veștea a eșuat anterior:** cabinetul a obținut 189 de voturi favorabile, față de cele 233 necesare. La congresul extraordinar al PNL din 21 iunie 2026 au fost amenințați cu sancțiuni membrii care susțineau un guvern cu PSD; aplicarea deciziilor a fost ulterior suspendată printr-o măsură judecătorească.\n\n• **Alexandru Muraru susține că PSD urmărește înlăturarea lui Bolojan și schimbarea direcției PNL:** el consideră că ofertele lui Sorin Grindeanu se adresează opoziției interne din PNL, ocolind conducerea partidului, și urmăresc subordonarea liberalilor înaintea alegerilor din 2028. Muraru a acuzat PSD că a sabotat coaliția din interior, apoi a votat moțiunea de cenzură.\n\n• **Muraru a vorbit și despre opoziția unei părți a societății față de învestire:** el a recunoscut că apariția numelor miniștrilor propuși a alimentat cererile de respingere a cabinetului. Totuși, spune că partidul care dărâmă un guvern trebuie să-și asume responsabilitatea formării unuia nou; din opoziție, PNL ar susține măsuri pentru reducerea deficitului, disciplina fiscală și investiții.\n\n• **PNL condiționează sprijinul pentru bugetul pe 2027:** liberalii cer estimări realiste ale veniturilor, un plan credibil de cheltuieli, protejarea investițiilor, administrarea responsabilă a banilor publici și respectarea angajamentelor europene.\n\n• **Organizația PNL Iași a respins în unanimitate susținerea cabinetului:** filiala consideră că un guvern dependent de PSD nu este unul reformist credibil, iar acordul cu Niculescu ar echivala în practică cu un cec în alb pentru social-democrați. A propus o majoritate reformistă credibilă sau alegeri anticipate; primarul Iașiului, Mihai Chirica, a criticat decizia și a cerut un guvern funcțional.\n\n• **Dragoș Ciubotaru, liderul PNL Vrancea, nu susține guvernul:** el consideră că PSD, care a contribuit la căderea cabinetului anterior, trebuie să găsească o nouă majoritate. Dacă PNL va decide totuși să voteze guvernul, Ciubotaru spune că nu va participa la ședința de învestire; potrivit lui, circa 95% dintre primarii liberali din județ s-au opus cabinetului, iar mai mulți parlamentari împărtășesc această poziție. Ca alternative, a menționat un guvern tehnocrat, unul PSD–AUR sau dizolvarea Parlamentului.\n\n• **Siegfried Mureșan spune că PNL nu va da un cec în alb miniștrilor PSD:** liberalii promit opoziție totală față de social-democrați și supravegherea activității miniștrilor. Mureșan a criticat candidații asociați cu Mykonos, cazul Nordis și „cutiile de pantofi”, precum și nominalizarea lui Marian Neacșu la Interne; condamnarea penală anterioară a lui Neacșu a fost urmată de reabilitare, iar acesta fusese vicepremier și în guvernul lui Bolojan.\n\n• **PSD ar urma să primească 11 din cele 17 portofolii:** formațiunea afirmă că programul Guvernului Niculescu include toate solicitările sale, între care relansarea economică și protejarea veniturilor populației. PSD a atribuit politicilor Guvernului Bolojan recesiunea, scăderea producției industriale și pierderea a aproximativ 70.000 de locuri de muncă; a mai susținut că anunțul intrării la guvernare a fost urmat de creșterea indicelui BET și de scăderea randamentelor titlurilor de stat la minimul unei luni.\n\n• **Ștefan-Radu Oprea a avertizat că miniștrii PSD neperformanți vor primi direct „cartonaș roșu”:** potrivit lui, nu va exista un avertisment prealabil, iar cei care nu își îndeplinesc atribuțiile vor pleca.\n\n• **Cristian Tudor Popescu a pus la îndoială credibilitatea reformistă a cabinetului:** el a întrebat cum poate guvernul să păstreze direcția reformistă cu Daniel Zamfir, Marian Neacșu și Natalia Intotero. În opinia sa, după retragerea lui Bolojan din prim-plan, deciziile cabinetului nu vor mai putea fi puse pe seama unui adversar comun; jurnalistul a descris și sprijinul parlamentar drept incert.\n\n• **Cristian Pantazi estimează că PSD va încerca să evite reformele:** deficitul bugetar ridicat și presiunea piețelor ar putea însă obliga partidul să adopte măsuri nepopulare și de austeritate. Pantazi nu exclude ca PSD să părăsească ulterior guvernarea dacă va trebui să-și asume aceste măsuri; o eventuală ieșire în primăvară a fost prezentată ca prognoză, nu ca fapt."
+  },
+  {
+    "group_id": "group_14840c8d10",
+    "fingerprint": "c51a64c5857749cdcc2f1f222694c4a6",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAxMTIzMF8zMDEx/MjMwX3Byb2ZpbWVkaWEtMTE0MTUzOTgx/MS5qcGcmaGFzaD1kYzI0ZWIyYTc3MmZkNDA2Y2U0MTVjYjQ1NTdhNjg1ZQ==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 11,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Violențe în Tirana: geamurile Ministerului Educației, sparte. Studenții cer demisia premierului Edi Rama. 12 persoane au fost arestate",
+        "link": "https://www.digi24.ro/stiri/externe/ue/violente-in-tirana-geamurile-ministerului-educatiei-sparte-studentii-cer-demisia-premierului-edi-rama-12-persoane-au-fost-arestate-3990683"
+      },
+      {
+        "source": "Digi24",
+        "title": "Incendiu la Ministerul Educației din Albania, în timpul protestelor studenților. Poliția intervine cu gaze lacrimogene și tunuri cu apă",
+        "link": "https://www.digi24.ro/stiri/externe/incendiu-la-ministerul-educatiei-din-albania-in-timpul-protestelor-studentilor-politia-intervine-cu-gaze-lacrimogene-si-tunuri-cu-apa-3992375"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Haos pe străzile din Tirana, în urma protestelor studenților. O clădire guvernamentală, cuprinsă de flăcări",
+        "link": "https://adevarul.ro/stiri-externe/europa/haos-pe-strazile-din-tirana-in-urma-protestelor-2564068.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Revolte violente în Albania, după protestele împotriva unui proiect asociat ginerelui lui Trump. Zeci de răniți și arestări în capitală",
+        "link": "https://www.mediafax.ro/externe/revolte-violente-in-albania-dupa-protestele-impotriva-unui-proiect-asociat-ginerelui-lui-trump-zeci-de-raniti-si-arestari-in-capitala-23825651"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Bedurvultak az albániai diáktüntetések, lángol Tirana",
+        "link": "https://transtelex.ro/kulfold/2026/10/14/albania-tirana-diaktuntetes-langok-rendorok-tuntetok-osszecsapas"
+      },
+      {
+        "source": "G4Media",
+        "title": "Premierul Albaniei refuză să demisioneze după trei zile de proteste violente / Studenții cer măsuri împotriva corupției și a costurilor ridicate ale educației",
+        "link": "https://www.g4media.ro/premierul-albaniei-refuza-sa-demisioneze-dupa-trei-zile-de-proteste-violente-studentii-cer-masuri-impotriva-coruptiei-si-a-costurilor-ridicate-ale-educatiei.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Premierul nostru este definiția corupției”. Edi Rama refuză să demisioneze, în timp ce protestele studenților se intensifică în Tirana",
+        "link": "https://www.digi24.ro/stiri/externe/premierul-nostru-este-definitia-coruptiei-edi-rama-refuza-sa-demisioneze-in-timp-ce-protestele-studentilor-se-intensifica-in-tirana-3994065"
+      },
+      {
+        "source": "Digi24",
+        "title": "MAE: Atenţionare de călătorie în Albania. Demonstraţii violente în centrul Tiranei",
+        "link": "https://www.digi24.ro/stiri/externe/ue/mae-atentionare-de-calatorie-in-albania-demonstratii-violente-in-centrul-tiranei-3994529"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Proteste violente în Albania. Studenții se alătură mișcării antiguvernamentale: 35 de persoane au fost reținute",
+        "link": "https://stirileprotv.ro/stiri/international/revolte-violente-in-capitala-albaniei-studentii-se-alatura-miscarii-antiguvernamentale.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Protestele în Albania capătă amploare. Studenții cer demisia premierului Rama, „înainte să ia foc totul”",
+        "link": "https://hotnews.ro/protestele-in-albania-capata-amploare-studentii-cer-demisie-premierului-rama-inainte-sa-ia-foc-totul-2378222"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Proteste violente în Albania pentru demiterea premierului Rama. Aproape 200 de protestatari au ajuns în arest",
+        "link": "https://stirileprotv.ro/stiri/international/proteste-violente-in-albania-pentru-demisia-premierului-rama-aproape-200-de-protestatari-au-ajuns-in-arest.html"
+      }
+    ],
+    "published_at": 1792248642,
+    "title_hu": "Ötödik napjukra országossá és erőszakossá váltak az albániai diáktüntetések",
+    "lead_hu": "Az egyetemi költségek, a tanulmányi körülmények, a korrupció és a fiatalok kilátásai miatti elégedetlenségből induló tiltakozások Tiranában súlyos összecsapásokba torkolltak, majd több más városra is átterjedtek. Edi Rama miniszterelnök csütörtökön elutasította a lemondást; a rendőrség szombati adatai szerint a tüntetések kezdete óta mintegy 500 embert vettek őrizetbe.",
+    "content_hu": "• **A diáktüntetések követelései** között a jobb egyetemi körülmények, az alacsonyabb tandíjak, a nagyobb pénzügyi támogatás és a korrupció elleni fellépés szerepelt; a résztvevők Edi Rama miniszterelnök lemondását is követelték. A fiatalok a megélhetési költségeket és a diploma utáni szűkös munkalehetőségeket is kifogásolták.\n\n• **A tiltakozások egyik előzménye** a déli albán tengerpartra tervezett luxusüdülő, amely Jared Kushnerhez, Donald Trump vejéhez kötődik. A beruházás ellen hónapok óta tiltakoztak földügyletek, környezetvédelmi aggályok és az átláthatóság miatt; a Reuters nem talált bizonyítékot Kushner jogellenes cselekményére.\n\n• **A keddi tüntetésen** a rendőrség könnygázt és vízágyút vetett be, miután demonstrálók kövekkel dobáltak, betörték az oktatási minisztérium ablakait és kukákat gyújtottak fel. A helyi sajtó szerint mintegy 12 embert vettek őrizetbe.\n\n• **Szerdán tovább eszkalálódtak az összecsapások:** tűz ütött ki az oktatási minisztérium épületénél, tüntetők kormányzati épületeket és bankokat rongáltak meg, üzleteket fosztottak ki, valamint barikádokat emeltek. A hatóságok szerint 23 rendőr és további hat ember szorult orvosi ellátásra, 35 résztvevőt pedig őrizetbe vettek; a parlament ülését is törölték az erőszak miatt.\n\n• **A tiltakozási hullám a következő napokban is folytatódott és terjedt:** a pénteki megmozdulásokat már a negyedik, a szombatit az ötödik napként írták le, és többek között Elbasanban, Shkodërben, Korçában és más településeken is demonstráltak. A rendőrség szombati összesítése mintegy 500 őrizetbe vett tüntetőről szólt, közülük 330-at elengedtek; 120 rendőr és 45 tüntető sérült meg.\n\n• **A mozgalom a Flamingo nevet is használja:** az elnevezés a tiltakozásokon feltűnő, rózsaszín flamingót ábrázoló táblákból ered. Az aktivisták az oktatási sérelmek mellett szélesebb társadalmi egyenlőtlenségeket és a kormányzati korrupciót is bírálják.\n\n• **Edi Rama csütörtökön kizárta a lemondást**, arra hivatkozva, hogy a kormányok demokratikus választások útján váltják egymást. A miniszterelnök késznek mondta magát az oktatásra fordított kiadások növeléséről szóló egyeztetésre, ugyanakkor elítélte a középületek rongálását és az erőszakot.\n\n• **Az albán elnök és a kormány tagjai is a feszültség csökkentésére szólítottak fel:** Bajram Begaj párbeszédet sürgetett, Albana Koçiu miniszterelnök-helyettes pedig elítélte a vandalizmust. Az Európai Unió tiranai képviselete arányos rendőri fellépést, a rendőri túlkapásokról szóló állítások kivizsgálását és a feszültség enyhítését kérte.\n\n• **Az Egyesült Államok tiranai nagykövetsége figyelmeztette állampolgárait**, hogy legyenek éberek, kerüljék a tüntetések helyszíneit, és számoljanak azzal, hogy a megmozdulások újabb területekre is átterjedhetnek.\n\n• **A román külügyminisztérium utazási figyelmeztetést adott ki** az Albániában tartózkodó vagy oda készülő román állampolgároknak. Fokozott óvatosságot, a demonstrációk és nagy tömegek elkerülését, valamint a helyi hatóságok útmutatásainak követését javasolta; közlekedési és tömegközlekedési fennakadásokra is figyelmeztetett.",
+    "title_ro": "Protestele studențești din Albania au devenit violente și s-au extins în a cincea zi",
+    "lead_ro": "Nemulțumirile legate de costurile studiilor, condițiile universitare, corupție și perspectivele tinerilor au dus la confruntări violente la Tirana, iar protestele s-au extins și în alte orașe. Premierul Edi Rama a respins joi apelurile la demisie; potrivit datelor poliției de sâmbătă, aproximativ 500 de persoane au fost reținute de la începutul manifestațiilor.",
+    "content_ro": "• **Studenții au cerut** condiții mai bune în universități, taxe de școlarizare mai mici, sprijin financiar sporit și măsuri împotriva corupției; manifestanții au solicitat și demisia premierului Edi Rama. Tinerii au criticat, de asemenea, costul vieții și perspectivele reduse de angajare după absolvire.\n\n• **Unul dintre motivele protestelor** a fost proiectul unui complex turistic de lux pe coasta sudică a Albaniei, asociat cu Jared Kushner, ginerele lui Donald Trump. Planul a fost contestat luni întregi din cauza tranzacțiilor cu terenuri, a impactului asupra mediului și a lipsei de transparență; Reuters nu a găsit dovezi că Kushner ar fi comis fapte ilegale.\n\n• **La manifestația de marți**, poliția a folosit gaze lacrimogene și tunuri cu apă după ce protestatarii au aruncat cu pietre, au spart geamurile Ministerului Educației și au incendiat pubele. Potrivit presei locale, aproximativ 12 persoane au fost reținute.\n\n• **Violențele s-au intensificat miercuri:** a izbucnit un incendiu la sediul Ministerului Educației, iar manifestanții au vandalizat clădiri guvernamentale și bănci, au spart vitrine și au ridicat baricade. Autoritățile au declarat că 23 de polițiști și alte șase persoane au avut nevoie de îngrijiri medicale, iar 35 de participanți au fost reținuți; ședința parlamentului a fost anulată din cauza violențelor.\n\n• **Protestele au continuat și s-au extins în zilele următoare:** manifestațiile de vineri au fost descrise drept a patra zi, iar cele de sâmbătă drept a cincea. Au avut loc proteste și în Elbasan, Shkodër, Korçë și alte localități. Bilanțul poliției de sâmbătă indica aproximativ 500 de manifestanți reținuți de la începutul protestelor, dintre care 330 au fost eliberați; 120 de polițiști și 45 de protestatari au fost răniți.\n\n• **Mișcarea este cunoscută și sub numele de Flamingo**, după pancartele cu imaginea unei păsări roz folosite la proteste. Pe lângă problemele din educație, activiștii denunță inegalitățile sociale și corupția guvernamentală.\n\n• **Edi Rama a exclus joi posibilitatea demisiei**, afirmând că guvernele se schimbă prin alegeri democratice. Premierul s-a declarat dispus să discute despre majorarea cheltuielilor pentru educație, dar a condamnat vandalizarea clădirilor publice și violențele.\n\n• **Președintele Albaniei și membri ai guvernului au cerut reducerea tensiunilor:** Bajram Begaj a îndemnat la dialog, iar vicepremierul Albana Koçiu a condamnat vandalismul. Delegația Uniunii Europene la Tirana a cerut o reacție proporțională a poliției, investigarea acuzațiilor de folosire excesivă a forței și detensionarea situației.\n\n• **Ambasada Statelor Unite la Tirana și-a avertizat cetățenii** să fie vigilenți, să evite zonele protestelor și să ia în calcul posibilitatea extinderii manifestațiilor în alte locuri.\n\n• **Ministerul român de Externe a emis o atenționare de călătorie** pentru românii aflați în Albania sau care intenționează să ajungă acolo. MAE a recomandat prudență sporită, evitarea manifestațiilor și a aglomerațiilor, precum și respectarea indicațiilor autorităților locale; a avertizat și asupra unor posibile perturbări ale traficului și transportului public."
+  },
+  {
+    "group_id": "group_035540a7db",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/8640f16c-8a6c-42a8-941e-4878b33bbb17.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ce a remarcat Petre Grigoraș, după ce echipa lui a reușit un rezultat mare în Liga 2",
+        "link": "https://www.gsp.ro/fotbal/liga-2/petre-grigoras-reactie-cetatea-suceava-victorie-resita-liga-2-989195.html"
+      }
+    ],
+    "published_at": 1792248608,
+    "title_hu": "Ce a remarcat Petre Grigoraș, după ce echipa lui a reușit un rezultat mare în Liga 2",
+    "lead_hu": "CSM Cetatea Suceava a obținut un succes important sâmbătă, în deplasarea de la Reșița, unde s-a impus cu 2-0 în fața formației ACSM Reșița, în etapa a 10-a din Liga 2. Echipa pregătită de Petre Grigor…",
+    "content_hu": "CSM Cetatea Suceava a obținut un succes important sâmbătă, în deplasarea de la Reșița, unde s-a impus cu 2-0 în fața formației ACSM Reșița, în etapa a 10-a din Liga 2. Echipa pregătită de Petre Grigoraș a rezolvat partida încă din prima repriză, când Stephane Ferhaoui și Lorand Fulop au punctat în minutele 24, respectiv 36. După meci, tehnicianul a tras concluziile. ...",
+    "title_ro": "Ce a remarcat Petre Grigoraș, după ce echipa lui a reușit un rezultat mare în Liga 2",
+    "lead_ro": "CSM Cetatea Suceava a obținut un succes important sâmbătă, în deplasarea de la Reșița, unde s-a impus cu 2-0 în fața formației ACSM Reșița, în etapa a 10-a din Liga 2. Echipa pregătită de Petre Grigor…",
+    "content_ro": "CSM Cetatea Suceava a obținut un succes important sâmbătă, în deplasarea de la Reșița, unde s-a impus cu 2-0 în fața formației ACSM Reșița, în etapa a 10-a din Liga 2. Echipa pregătită de Petre Grigoraș a rezolvat partida încă din prima repriză, când Stephane Ferhaoui și Lorand Fulop au punctat în minutele 24, respectiv 36. După meci, tehnicianul a tras concluziile. ..."
+  },
+  {
+    "group_id": "group_b84471e721",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/mina-blue.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Mina Blue a întors toate scaunele la Vocea României. Cine este concurenta care i-a cucerit pe antrenori",
+        "link": "https://www.cancan.ro/mina-blue-a-intors-toate-scaunele-la-vocea-romaniei-cine-este-concurenta-care-i-a-cucerit-pe-antrenori-21531726"
+      }
+    ],
+    "published_at": 1792248574,
+    "title_hu": "Mina Blue a întors toate scaunele la Vocea României. Cine este concurenta care i-a cucerit pe antrenori",
+    "lead_hu": "Mina Blue a reușit să atragă atenția tuturor celor patru antrenori de la Vocea României, după ce a interpretat o piesă celebră a trupei Nirvana. Momentul său din ediția difuzată pe 16 octombrie a fost…",
+    "content_hu": "Mina Blue a reușit să atragă atenția tuturor celor patru antrenori de la Vocea României, după ce a interpretat o piesă celebră a trupei Nirvana. Momentul său din ediția difuzată pe 16 octombrie a fost unul dintre cele mai apreciate, iar concurenta a avut de ales artistul care o va îndruma pe parcursul show-ului. Pe […]",
+    "title_ro": "Mina Blue a întors toate scaunele la Vocea României. Cine este concurenta care i-a cucerit pe antrenori",
+    "lead_ro": "Mina Blue a reușit să atragă atenția tuturor celor patru antrenori de la Vocea României, după ce a interpretat o piesă celebră a trupei Nirvana. Momentul său din ediția difuzată pe 16 octombrie a fost…",
+    "content_ro": "Mina Blue a reușit să atragă atenția tuturor celor patru antrenori de la Vocea României, după ce a interpretat o piesă celebră a trupei Nirvana. Momentul său din ediția difuzată pe 16 octombrie a fost unul dintre cele mai apreciate, iar concurenta a avut de ales artistul care o va îndruma pe parcursul show-ului. Pe […]"
+  },
+  {
+    "group_id": "group_95eb02f9da",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/makabera-iceberg-6779681_1920-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Nota de plată a schimbărilor climatice, imposibil de stabilit exact. De ce calculele diferă atât de mult",
+        "link": "https://www.mediafax.ro/life-inedit/nota-de-plata-a-schimbarilor-climatice-imposibil-de-stabilit-exact-de-ce-calculele-difera-atat-de-mult-23827256"
+      }
+    ],
+    "published_at": 1792248475,
+    "title_hu": "Nota de plată a schimbărilor climatice, imposibil de stabilit exact. De ce calculele diferă atât de mult",
+    "lead_hu": "Cât din pagubele provocate de fenomenele meteo extreme poate fi atribuit schimbărilor climatice? Un nou studiu arată că metodele de calcul pot produce rezultate radical diferite, fără ca vreuna să fie…",
+    "content_hu": "Cât din pagubele provocate de fenomenele meteo extreme poate fi atribuit schimbărilor climatice? Un nou studiu arată că metodele de calcul pot produce rezultate radical diferite, fără ca vreuna să fie neapărat greșită.",
+    "title_ro": "Nota de plată a schimbărilor climatice, imposibil de stabilit exact. De ce calculele diferă atât de mult",
+    "lead_ro": "Cât din pagubele provocate de fenomenele meteo extreme poate fi atribuit schimbărilor climatice? Un nou studiu arată că metodele de calcul pot produce rezultate radical diferite, fără ca vreuna să fie…",
+    "content_ro": "Cât din pagubele provocate de fenomenele meteo extreme poate fi atribuit schimbărilor climatice? Un nou studiu arată că metodele de calcul pot produce rezultate radical diferite, fără ca vreuna să fie neapărat greșită."
+  },
+  {
     "group_id": "group_8a098d737e",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -40,34 +521,6 @@
     "title_ro": "Ciclism: Pogacar va reveni pe 29 noiembrie, la Monaco, în sprijinul unei cauze caritabile",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_442cb7e0d9",
-    "fingerprint": "9e3eca755e2a9b69e59d14fb88c490e0",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Mii de persoane evacuate și mai multe locuințe distruse de incendii de vegetație în California",
-        "link": "https://agerpres.ro/planeta/2026/10/17/mii-de-persoane-evacuate-si-mai-multe-locuinte-distruse-de-incendii-de-vegetatie-in-california--1604082"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "VIDEO Case în valoare de milioane de dolari pârjolite de flăcări lângă Los Angeles. Un incendiu de pădure a devastat sute de hectare",
-        "link": "https://hotnews.ro/video-case-in-valoare-de-milioane-de-dolari-parjolite-de-flacari-langa-los-angeles-un-incendiu-de-padure-a-devastat-sute-de-hectare-2378773"
-      }
-    ],
-    "published_at": 1792248465,
-    "title_hu": "Gyorsan terjedő tüzek pusztítottak Dél-Kaliforniában, ezreket evakuáltak",
-    "lead_hu": "A Dél-Kaliforniában tomboló erdőtüzek több száz hektárt perzseltek fel, és legalább hat lakóházat elpusztítottak. A hatóságok több ezer otthonra adtak ki evakuálási parancsot; a hőséget és a Santa Ana-szelek erősítették a tűzveszélyt.",
-    "content_hu": "• **A Norte Fire** San Clemente közelében néhány óra alatt mintegy két négyzetkilométeres területre terjedt, miközben a térségben több száz hektár égett le. A tűzoltók szerint legalább hat lakóház megsemmisült.\n\n• **Az evakuálási parancsok** mintegy 4600 otthont és legalább 16 ezer embert érintettek. A Norte Fire megfékezésén körülbelül 400 tűzoltó dolgozott; közülük ketten megsérültek.\n\n• **Malibu közelében egy másik, Bryson Fire nevű tűz** is lakóházakat és egy katonai bázist fenyegetett, és több száz embernek kellett elhagynia az otthonát. A tűzoltók itt is megsérültek.\n\n• **A száraz, erős Santa Ana-szelek és a hőség** kedveztek a lángok gyors terjedésének; a hőmérséklet egyes helyeken elérhette a 38 Celsius-fokot. Az áramszolgáltatók a további tüzek megelőzésére egyes területeken kikapcsolták az áramot, a veszélyes időjárási körülmények pedig a hétvégén is fennmaradhattak.",
-    "title_ro": "Incendii rapide în sudul Californiei: mii de persoane evacuate",
-    "lead_ro": "Incendiile de vegetație din sudul Californiei au pârjolit sute de hectare și au distrus cel puțin șase locuințe. Autoritățile au emis ordine de evacuare care au vizat mii de case, în condițiile în care căldura și vânturile Santa Ana au amplificat riscul de propagare a flăcărilor.",
-    "content_ro": "• **Incendiul Norte Fire**, izbucnit lângă San Clemente, s-a extins pe o suprafață de aproximativ doi kilometri pătrați în doar câteva ore, în timp ce sute de hectare au ars în regiune. Pompierii au anunțat că cel puțin șase locuințe au fost distruse.\n\n• **Ordinele de evacuare** au vizat aproximativ 4.600 de case și cel puțin 16.000 de persoane. Circa 400 de pompieri au intervenit pentru stingerea incendiului Norte Fire, iar doi dintre ei au fost răniți.\n\n• **Un alt incendiu, Bryson Fire, lângă Malibu**, a amenințat locuințe și o bază militară, obligând sute de persoane să-și părăsească locuințele. Și în acest caz, pompierii au fost răniți.\n\n• **Vânturile Santa Ana, puternice și uscate, și temperaturile ridicate** au favorizat răspândirea rapidă a flăcărilor; în unele locuri, temperaturile puteau ajunge la 38 de grade Celsius. Pentru a preveni alte incendii, distribuitorii au întrerupt alimentarea cu electricitate în anumite zone, iar condițiile periculoase erau așteptate să persiste pe parcursul weekendului."
   },
   {
     "group_id": "group_dfd5ad472a",
@@ -445,6 +898,34 @@
     "content_ro": "• **Vineri**, Kartal a învins-o în trei seturi pe Elina Svitolina, cap de serie numărul 5, cu 2-6, 6-2, 6-4, calificându-se în semifinalele turneului de la Wuhan.\n\n• **Sâmbătă**, britanica a trecut de letona Jelena Ostapenko cu 7-6 (11/9), 7-6 (7/5) și și-a asigurat locul în finală.\n\n• **În istoria turneelor WTA 1.000**, Kartal a devenit finalista cu cel mai slab clasament mondial: a venit la competiție de pe locul 170. Calificarea în semifinale o transformase deja în a treia cea mai slab clasată semifinalistă din această categorie.\n\n• **În finala de duminică**, Kartal o va întâlni pe câștigătoarea meciului dintre Iga Świątek și Maja Chwalińska. Britanica va lupta pentru al doilea titlu WTA, după cel câștigat la Monastir în 2024.\n\n• **Revenirea lui Kartal** este remarcabilă și pentru că, în 2026, a stat departe de circuit mai bine de șase luni din cauza unei accidentări."
   },
   {
+    "group_id": "group_442cb7e0d9",
+    "fingerprint": "9e3eca755e2a9b69e59d14fb88c490e0",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mii de persoane evacuate și mai multe locuințe distruse de incendii de vegetație în California",
+        "link": "https://agerpres.ro/planeta/2026/10/17/mii-de-persoane-evacuate-si-mai-multe-locuinte-distruse-de-incendii-de-vegetatie-in-california--1604082"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "VIDEO Case în valoare de milioane de dolari pârjolite de flăcări lângă Los Angeles. Un incendiu de pădure a devastat sute de hectare",
+        "link": "https://hotnews.ro/video-case-in-valoare-de-milioane-de-dolari-parjolite-de-flacari-langa-los-angeles-un-incendiu-de-padure-a-devastat-sute-de-hectare-2378773"
+      }
+    ],
+    "published_at": 1792248465,
+    "title_hu": "Gyorsan terjedő tüzek pusztítottak Dél-Kaliforniában, ezreket evakuáltak",
+    "lead_hu": "A Dél-Kaliforniában tomboló erdőtüzek több száz hektárt perzseltek fel, és legalább hat lakóházat elpusztítottak. A hatóságok több ezer otthonra adtak ki evakuálási parancsot; a hőséget és a Santa Ana-szelek erősítették a tűzveszélyt.",
+    "content_hu": "• **A Norte Fire** San Clemente közelében néhány óra alatt mintegy két négyzetkilométeres területre terjedt, miközben a térségben több száz hektár égett le. A tűzoltók szerint legalább hat lakóház megsemmisült.\n\n• **Az evakuálási parancsok** mintegy 4600 otthont és legalább 16 ezer embert érintettek. A Norte Fire megfékezésén körülbelül 400 tűzoltó dolgozott; közülük ketten megsérültek.\n\n• **Malibu közelében egy másik, Bryson Fire nevű tűz** is lakóházakat és egy katonai bázist fenyegetett, és több száz embernek kellett elhagynia az otthonát. A tűzoltók itt is megsérültek.\n\n• **A száraz, erős Santa Ana-szelek és a hőség** kedveztek a lángok gyors terjedésének; a hőmérséklet egyes helyeken elérhette a 38 Celsius-fokot. Az áramszolgáltatók a további tüzek megelőzésére egyes területeken kikapcsolták az áramot, a veszélyes időjárási körülmények pedig a hétvégén is fennmaradhattak.",
+    "title_ro": "Incendii rapide în sudul Californiei: mii de persoane evacuate",
+    "lead_ro": "Incendiile de vegetație din sudul Californiei au pârjolit sute de hectare și au distrus cel puțin șase locuințe. Autoritățile au emis ordine de evacuare care au vizat mii de case, în condițiile în care căldura și vânturile Santa Ana au amplificat riscul de propagare a flăcărilor.",
+    "content_ro": "• **Incendiul Norte Fire**, izbucnit lângă San Clemente, s-a extins pe o suprafață de aproximativ doi kilometri pătrați în doar câteva ore, în timp ce sute de hectare au ars în regiune. Pompierii au anunțat că cel puțin șase locuințe au fost distruse.\n\n• **Ordinele de evacuare** au vizat aproximativ 4.600 de case și cel puțin 16.000 de persoane. Circa 400 de pompieri au intervenit pentru stingerea incendiului Norte Fire, iar doi dintre ei au fost răniți.\n\n• **Un alt incendiu, Bryson Fire, lângă Malibu**, a amenințat locuințe și o bază militară, obligând sute de persoane să-și părăsească locuințele. Și în acest caz, pompierii au fost răniți.\n\n• **Vânturile Santa Ana, puternice și uscate, și temperaturile ridicate** au favorizat răspândirea rapidă a flăcărilor; în unele locuri, temperaturile puteau ajunge la 38 de grade Celsius. Pentru a preveni alte incendii, distribuitorii au întrerupt alimentarea cu electricitate în anumite zone, iar condițiile periculoase erau așteptate să persiste pe parcursul weekendului."
+  },
+  {
     "group_id": "group_5c190897cd",
     "category": "Erdély",
     "image": "https://hargitanepe.ro//images/data/423x222/1792247020_0_gyergyo_szarhegyikaposzta1_bszsz.jpg",
@@ -506,6 +987,85 @@
     "title_ro": "Meghalt Kuna Károly Jászai Mari-díjas színművész",
     "lead_ro": "Hatvankilenc éves korában meghalt Kuna Károly Jászai Mari- és Aase-díjas színművész. A halálhírt a székesfehérvári Vörösmarty Színház tette közzé a Facebook-oldalán. A színház azt írta: „Karcsi hosszú…",
     "content_ro": "Hatvankilenc éves korában meghalt Kuna Károly Jászai Mari- és Aase-díjas színművész. A halálhírt a székesfehérvári Vörösmarty Színház tette közzé a Facebook-oldalán. A színház azt írta: „Karcsi hosszú éveken át volt a Vörösmarty Színház társulatának meghatározó tagja. Erőteljes színpadi jelenléte, különleges energiája és emlékezetes alakításai nyomot hagytak mindannyiunkban, akik vele dolgozhattunk.” Kuna Károly 1975-ben, tizennyolc évesen […]"
+  },
+  {
+    "group_id": "group_7828f76de9",
+    "fingerprint": "80951e44e8bdb1e5e817432d8441c684",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Bolojan: feltételek mellett támogathatják a Niculescu-kormányt",
+        "link": "https://maszol.ro/belfold/Bolojan-feltetelek-mellett-tamogathatjak-a-Niculescu-kormanyt"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Fierbe PNL înaintea votului pentru Guvernul Niculescu. Două filiale se opun, iar unii liberali cer anticipate",
+        "link": "https://www.ebihoreanul.ro/stiri/fierbe-pnl-inaintea-votului-pentru-guvernul-niculescu-doua-filiale-se-opun-iar-unii-liberali-cer-anticipate-205896.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "SURSE: Liberalii susțin propunerea lui Bolojan: „Bătălia cu PSD e pe viață și pe moarte”",
+        "link": "https://www.mediafax.ro/politic/surse-liberalii-sustin-propunerea-lui-bolojan-batalia-cu-psd-e-pe-viata-si-pe-moarte-23827220"
+      },
+      {
+        "source": "G4Media",
+        "title": "Bolojan: Toți demnitarii PNL vor demisiona din funcții",
+        "link": "https://www.g4media.ro/bolojan-toti-demnitarii-pnl-vor-demisiona.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "OFICIAL: PNL a votat pentru susținerea Guvernului Niculescu. Bolojan: Acest vot nu ar fi fost acordat în condiții normale. Ce conține acordul pe care îl semnează Bolojan cu Niculescu",
+        "link": "https://www.mediafax.ro/stirile-zilei/oficial-pnl-a-votat-pentru-sustinerea-guvernului-niculescu-bolojan-acest-vot-nu-ar-fi-fost-acordat-in-conditii-normale-ce-contine-acordul-pe-care-il-semneaza-bolojan-cu-niculescu-23827228"
+      },
+      {
+        "source": "Maszol",
+        "title": "Döntött a PNL: ellenzékből megszavazzák a Niculescu-kabinetet",
+        "link": "https://maszol.ro/belfold/Dontott-a-PNL-ellenzekbol-megszavazzak-a-Niculescu-kabinetet"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Nem egyhangúlag, de megszavazta a PNL vezetősége, hogy támogassák a Niculescu-kormány beiktatását",
+        "link": "https://transtelex.ro/kozelet/2026/10/17/pnl-dontes-niculescu-kormany"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "„PNL nu este egal PSD”. Bolojan explică de ce liberalii votează Guvernul Niculescu, dar trec în opoziție (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/pnl-nu-este-egal-psd-bolojan-explica-de-ce-liberalii-voteaza-guvernul-niculescu-dar-trec-in-opozitie-video-205902.html"
+      }
+    ],
+    "published_at": 1792248414,
+    "title_hu": "A PNL megszavazza a Niculescu-kormányt, de ellenzékbe vonul; Bolojan a válság lezárásával indokol",
+    "lead_hu": "A PNL országos vezetősége október 17-én úgy döntött, hogy a liberális képviselők és szenátorok megszavazzák Luca Niculescu kormányának beiktatását, miközben a párt ellenzékbe vonul. Ilie Bolojan a több mint öt hónapja tartó politikai válsággal és az alapvető közszolgáltatások finanszírozási kockázataival indokolta a feltételes támogatást; a döntés párton belül vitát váltott ki. A beiktatási szavazást október 20-án tartják, Bolojan pedig vasárnap délutánra jelezte a Niculescuval kötendő, a 2027-es költségvetés elfogadásáig szóló megállapodás aláírását.",
+    "content_hu": "• **Október 17-én a PNL vezetősége megszavazta a beiktatási voksot** A több mint háromórás, feszült ülésen a párt úgy határozott, hogy képviselői és szenátorai támogassák Luca Niculescu kormányának beiktatását. A döntés 56 résztvevő mellett hat ellenszavazatot és egy tartózkodást kapott; a parlamenti szavazást október 20-án, kedden 14 órára tűzték ki.\n\n• **A PNL ellenzékben marad, a voks nem jelent koalíciót vagy feltétel nélküli bizalmat** Ilie Bolojan „szükségességi, feltételes és célhoz kötött” szavazatként írta le a döntést. A PNL nem lép be a kormányba, nem kér tisztségeket vagy minisztériumokat, és a kabinet összetételéért, illetve működéséért a kijelölt miniszterelnök és a jelölteket adó pártok felelnek.\n\n• **A Bolojan–Niculescu-megállapodást vasárnap délutánra tervezték aláírni** A dokumentum nem koalíciós szerződés, hanem a támogatás feltételeit rögzítő kétoldalú megállapodás lenne. Bolojan a hat hónapos stabilitási időszak mellett azt is jelezte, hogy az egyezség a 2027-es költségvetési törvény elfogadása után járna le; a források ezt január–februárra, illetve 2027 tavaszára tették.\n\n• **A megállapodás költségvetési és kormányzási feltételeket szab** A PNL elvárásai között szerepel a deficitcél és a fiskális fegyelem betartása, a beruházások védelme, a közpénzek felelős felhasználása, az európai vállalások és a reformok folytatása, valamint az átlátható és jó kormányzás. Többletkiadást csak biztos bevételek fedezetével vállalnának.\n\n• **A PNL feltételesen vállalja, hogy nem kezdeményez bizalmatlansági indítványt** A liberálisok az első hat hónapban, illetve a megállapodás érvényessége alatt nem kezdeményeznének és nem szavaznának meg bizalmatlansági indítványt, amíg a kormány betartja a vállalásokat. Bolojan szerint az egyezség megszegése esetén a párt újraértékelheti a helyzetet, és indítványt is támogathat.\n\n• **A 2027-es költségvetés támogatása is feltételes** A PNL akkor kész megszavazni a büdzsét, ha az reális, ténylegesen beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tartalmaz fedezet nélküli kiadásnövelést.\n\n• **A PNL által politikai támogatással betöltött tisztségek viselői lemondanak** Bolojan szerint a liberálisok támogatásával tisztségben lévő méltóságok a következő hét első napjaiban benyújtják lemondásukat. Ez az állami vállalatok és igazgatótanácsok politikai alapon betöltött posztjaira is kiterjedhet, a pályázaton vagy más jogszerű eljárással megszerzett állásokra viszont nem.\n\n• **Bolojan a hosszú ügyvivői időszak korlátozott jogköreivel indokolta a döntést** Szerinte az öt hónapnál hosszabb provizórium alatt a kabinet nem tudott új politikákat bevezetni vagy sürgős költségvetési kiigazítást végrehajtani. A Floreasca kórház sürgősségi osztályának 2026-os induló kerete 5 millió lej alatt maradt a 2025-ös, 10 millió lejt meghaladó összeghez képest; a marosvásárhelyi egység támogatása 8 millióról 4 millió lej alá csökkent. Bolojan szerint egyes sürgősségi egységek az éves szükségletük mintegy 30 százalékát kapták meg induló keretként.\n\n• **A mentők és a katasztrófavédelem finanszírozását az üzemanyag-drágulás is terheli** Bolojan szerint a 20–30 százalékkal dráguló üzemanyag miatt a nagy fogyasztású intézmények keretei gyorsabban kimerülhetnek. Azt is állította, hogy a közlekedési tárca PNRR-szerződéseinek értéke 19,5 milliárd euró, miközben a végleges keret 4,6 milliárd euró; a szárazság pedig a cernavodai erőmű kiesésével a román energiatermelés mintegy 20 százalékát érintette.\n\n• **Bolojan elismerte, hogy tisztán politikai számítás alapján a PNL-nek el kellene utasítania a kabinetet** Azt mondta, nem táplál nagy várakozásokat a jövőbeli kormánnyal szemben, de a működő kormány hiánya veszélyeztetheti a közszolgáltatásokat, az állam finanszírozását és a költségvetés előkészítését. A jövőbeli kabinet legnagyobb politikai kockázatának a PSD-t nevezte.\n\n• **A PNL-ben a döntés után is jelentős ellenállás maradt** A PNL Iași szervezete egyhangúlag elutasította a kabinet támogatását, és reformpárti többséget vagy előrehozott választást sürgetett. A források szerint a vezetőségi szavazás hat ellenzője között volt többek között Alexandru Muraru, Dragoș Ciobotaru és Adrian Cozma; más liberálisok, köztük Octavian Oprea és Alin Tișe is bírálták a döntést vagy a kabinet összetételét. Ezek a filiálék és politikusok állításai, illetve politikai kritikái.\n\n• **A pártban támogatói is voltak Bolojan javaslatának** Mircea Fechet a döntés mellett érvelt, miközben elismerte a várható politikai költséget; Siegfried Mureșan és Dan Motreanu a PSD-vel való együttműködés lezárását hangsúlyozta. Adrian Veștea szintén támogatta a beiktatási voksot, noha bírálta Bolojant és a párton belüli döntéshozatalt.\n\n• **A PNL szavazatai nélkül nehéz lenne beiktatni a kormányt** A Mediafax számítása szerint a PNL nélküli, támogatóként számba vett frakciók 192 voksot adnának; a PACE és a függetlenek támogatásával is csak 221-et érnének el a szükséges 233-ból. A PNL támogatása így valószínűsíti a szükséges többséget, bár nem minden liberális ígért igent.\n\n• **Az USR elutasítja a kabinetet, de együttműködne a PNL-lel** Dominic Fritz szerint nem világos, milyen parlamenti többségre támaszkodna a kormány, ezért az USR nem szavazza meg a PSD-s minisztereket is tartalmazó kabinetet. A PNL-lel ugyanakkor folytatnák az együttműködést egy PSD és AUR nélküli politikai alternatíva kialakításáért.\n\n• **A kormányprogramot és a miniszterjelöltek névsorát benyújtották a parlamentnek** Luca Niculescu csütörtök este adta le a kabinet javasolt összetételét és a kormányprogramot; a kabinet 18 miniszterből áll, közülük kettő delegált miniszter. A parlamenti bizottsági meghallgatásokat hétfőre és kedd délelőttre tervezték, a beiktatási szavazás pedig kedden 14 órakor lesz.",
+    "title_ro": "PNL votează Guvernul Niculescu, dar trece în opoziție; Bolojan invocă încheierea crizei",
+    "lead_ro": "Conducerea națională a PNL a decis pe 17 octombrie ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, în timp ce partidul va rămâne în opoziție. Ilie Bolojan a justificat sprijinul condiționat prin criza politică de peste cinci luni și riscurile pentru finanțarea serviciilor publice esențiale; decizia a provocat dispute interne. Votul de învestitură este programat pentru 20 octombrie, iar Bolojan a anunțat că intenționează să semneze duminică după-amiază acordul cu Niculescu, valabil până după adoptarea bugetului pe 2027.",
+    "content_ro": "• **Pe 17 octombrie, conducerea PNL a decis să voteze învestirea** După o ședință de peste trei ore, partidul a hotărât ca deputații și senatorii liberali să susțină Guvernul Luca Niculescu. Din 56 de participanți, șase au votat împotrivă și unul s-a abținut; votul din Parlament este programat marți, 20 octombrie, la ora 14:00.\n\n• **PNL rămâne în opoziție, iar votul nu înseamnă coaliție sau încredere necondiționată** Ilie Bolojan a descris decizia drept un vot „de necesitate, condiționat și punctual”. PNL nu intră la guvernare, nu cere funcții sau ministere, iar responsabilitatea pentru componența și activitatea Cabinetului îi revine premierului desemnat și partidelor care propun miniștri.\n\n• **Acordul Bolojan–Niculescu urma să fie semnat duminică după-amiază** Documentul nu ar fi un acord de coaliție, ci o înțelegere bilaterală care stabilește condițiile sprijinului. Bolojan a vorbit despre o perioadă de stabilitate de șase luni, dar a precizat și că acordul ar urma să expire după adoptarea legii bugetului pe 2027; sursele au indicat ianuarie–februarie sau primăvara anului 2027.\n\n• **Acordul impune condiții bugetare și de guvernare** PNL cere respectarea țintei de deficit și a disciplinei fiscale, protejarea investițiilor, folosirea responsabilă a banilor publici, respectarea angajamentelor europene și continuarea reformelor, alături de transparență și bună guvernare. Cheltuielile suplimentare ar trebui asumate numai dacă sunt acoperite de venituri certe.\n\n• **PNL se angajează condiționat să nu inițieze moțiuni de cenzură** Liberalii nu ar iniția și nu ar vota o moțiune de cenzură în primele șase luni sau pe durata acordului, atât timp cât Guvernul respectă angajamentele. Bolojan a spus că, dacă înțelegerea este încălcată, partidul poate reevalua situația și poate susține o moțiune.\n\n• **Sprijinul pentru bugetul din 2027 este, la rândul său, condiționat** PNL este pregătit să voteze bugetul dacă acesta este realist, se bazează pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și nu majorează cheltuielile fără acoperire.\n\n• **Demnitarii aflați în funcții cu sprijin politic PNL își vor da demisia** Bolojan a spus că aceștia vor depune demisiile în primele zile ale săptămânii următoare. Măsura poate viza și posturile din companii de stat și consilii de administrație ocupate politic, dar nu funcțiile obținute prin concurs sau prin alte proceduri legale.\n\n• **Bolojan a invocat limitele unui guvern interimar de peste cinci luni** Potrivit lui, Executivul nu a putut adopta politici noi și nici nu a putut face rectificarea bugetară urgentă. Alocarea inițială pentru UPU Floreasca a fost sub 5 milioane de lei în 2026, față de peste 10 milioane în 2025, iar cea pentru UPU Târgu Mureș a scăzut de la 8 milioane la sub 4 milioane de lei. Bolojan a afirmat că unele unități au primit inițial aproximativ 30% din necesarul anual.\n\n• **Scumpirea combustibililor pune presiune pe ambulanțe și serviciile pentru situații de urgență** Bolojan a spus că prețurile la combustibil au crescut cu 20–30%, ceea ce poate epuiza mai repede bugetele instituțiilor cu consum ridicat. El a mai afirmat că valoarea contractelor PNRR de la Ministerul Transporturilor este de 19,5 miliarde de euro, în timp ce alocarea finală este de 4,6 miliarde; seceta ar fi afectat aproximativ 20% din producția de energie a României, prin indisponibilitatea centralei de la Cernavodă.\n\n• **Bolojan a recunoscut că, strict politic, PNL ar fi trebuit să respingă Guvernul** El a spus că nu are așteptări foarte mari de la viitorul Executiv, dar că lipsa unui guvern cu puteri depline ar putea pune în pericol serviciile publice, finanțarea statului și pregătirea bugetului. Bolojan a numit PSD principalul risc politic pentru viitorul Cabinet.\n\n• **Nemulțumirea internă din PNL a persistat după decizie** Organizația PNL Iași a respins în unanimitate susținerea Guvernului și a cerut o majoritate reformistă sau alegeri anticipate. Potrivit relatărilor, printre cei șase care au votat împotrivă s-au numărat Alexandru Muraru, Dragoș Ciobotaru și Adrian Cozma; Octavian Oprea și Alin Tișe s-au numărat, de asemenea, printre criticii deciziei sau ai componenței Cabinetului. Acestea sunt pozițiile și criticile politice ale filialelor și liderilor citați.\n\n• **Bolojan a avut și susținători în partid** Mircea Fechet a susținut propunerea, recunoscând totodată costul politic posibil; Siegfried Mureșan și Dan Motreanu au insistat asupra încheierii colaborării cu PSD. Adrian Veștea a susținut votul de învestire, deși l-a criticat pe Bolojan și modul de luare a deciziilor în partid.\n\n• **Fără voturile PNL, învestirea Guvernului ar fi dificilă** Potrivit calculelor Mediafax, grupurile considerate favorabile, fără PNL, ar însuma 192 de voturi; chiar împreună cu PACE și parlamentarii neafiliați ar ajunge la 221, sub pragul de 233. Sprijinul PNL face astfel probabilă obținerea majorității, deși nu toți liberalii au promis că vor vota favorabil.\n\n• **USR respinge Cabinetul, dar vrea să continue colaborarea cu PNL** Dominic Fritz a spus că nu este clar pe ce majoritate s-ar baza Guvernul, iar USR nu va vota un Cabinet care include miniștri PSD. Partidul dorește însă să colaboreze în continuare cu PNL pentru construirea unei alternative politice fără PSD și AUR.\n\n• **Programul de guvernare și lista miniștrilor au fost depuse la Parlament** Luca Niculescu a depus joi seara componența propusă a Cabinetului și programul de guvernare. Guvernul are 18 miniștri, dintre care doi miniștri delegați; audierile în comisiile parlamentare sunt programate luni și marți dimineață, iar votul de învestitură marți, la ora 14:00."
+  },
+  {
+    "group_id": "group_f863f0d92c",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan_madalina-ghenea-1200x675.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Mădălina Ghenea a petrecut în Loft până la orele dimineții și nu singură! Cu cine a dansat pe Bella Ciao?",
+        "link": "https://www.cancan.ro/madalina-ghenea-a-petrecut-in-loft-pana-la-orele-diminetii-si-nu-singura-cu-cine-a-dansat-pe-bella-ciao-21531574"
+      }
+    ],
+    "published_at": 1792248410,
+    "title_hu": "Mădălina Ghenea a petrecut în Loft până la orele dimineții și nu singură! Cu cine a dansat pe Bella Ciao?",
+    "lead_hu": "Mădălina Ghenea, 39 de ani, duce o viață de star. Locuința ei este pe întreaga planetă. E originară din Slatina, dar își face veacul prin New York și alte metropole ale lumii. Pentru ea, o vizită la B…",
+    "content_hu": "Mădălina Ghenea, 39 de ani, duce o viață de star. Locuința ei este pe întreaga planetă. E originară din Slatina, dar își face veacul prin New York și alte metropole ale lumii. Pentru ea, o vizită la București este acum ceva exotic, dar iată că atunci când vine știe își dorește să meargă exact acolo […]",
+    "title_ro": "Mădălina Ghenea a petrecut în Loft până la orele dimineții și nu singură! Cu cine a dansat pe Bella Ciao?",
+    "lead_ro": "Mădălina Ghenea, 39 de ani, duce o viață de star. Locuința ei este pe întreaga planetă. E originară din Slatina, dar își face veacul prin New York și alte metropole ale lumii. Pentru ea, o vizită la B…",
+    "content_ro": "Mădălina Ghenea, 39 de ani, duce o viață de star. Locuința ei este pe întreaga planetă. E originară din Slatina, dar își face veacul prin New York și alte metropole ale lumii. Pentru ea, o vizită la București este acum ceva exotic, dar iată că atunci când vine știe își dorește să meargă exact acolo […]"
   },
   {
     "group_id": "group_286c9e455f",
@@ -639,49 +1199,6 @@
     "title_ro": "Nyertek az éllovasok a szombati meccseken",
     "lead_ro": "Két mérkőzést játszottak le szombaton a labdarúgó Liga 4 Elite hetedik fordulójában, és mindkettőn érvényesült a papírforma. Az éllovas Oaşul 1969 Avasfelsőfalu a Szatmárnémeti Olimpia VSK második csa…",
     "content_ro": "Két mérkőzést játszottak le szombaton a labdarúgó Liga 4 Elite hetedik fordulójában, és mindkettőn érvényesült a papírforma. Az éllovas Oaşul 1969 Avasfelsőfalu a Szatmárnémeti Olimpia VSK második csapatát várta. A vendégegyüttes többnyire a Partium Akadémia ifijeivel állt fel. A Nyertek az éllovasok a szombati meccseken bejegyzés először Szatmári sporthírek, magyarul-én jelent meg."
-  },
-  {
-    "group_id": "group_7828f76de9",
-    "fingerprint": "094af8ff0b9ae5c11243f9f6adb56728",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Ilie Bolojan: PNL ar putea vota învestirea Guvernului Luca Niculescu, dar nu va reface coaliția și va rămâne în opoziție",
-        "link": "https://economedia.ro/ilie-bolojan-pnl-ar-putea-vota-investirea-guvernului-luca-niculescu-dar-nu-va-reface-coalitia-si-va-ramane-in-opozitie.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "PNL decide soarta Guvernului Niculescu. Bolojan avertizează asupra riscurilor, mai mulți parlamentari refuză susținerea",
-        "link": "https://adevarul.ro/politica/pnl-decide-soarta-guvernului-niculescu-bolojan-2564639.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "PNL Iași a votat în unanimitate că nu va susține învestirea Guvernului Luca Niculescu – PSD / Ilie Bolojan va propune liberalilor vot de învestire",
-        "link": "https://www.g4media.ro/pnl-iasi-a-votat-in-unanimitate-ca-nu-va-sustine-investirea-guvernului-luca-niculescu-psd-ilie-bolojan-va-propune-liberalilor-vot-de-investire.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Demnitarii PNL își depun demisiile după decizia de a sprijini Guvernul Niculescu. În ce condiții ar putea depune partidul moțiune de cenzură",
-        "link": "https://adevarul.ro/politica/demnitarii-pnl-isi-depun-demisiile-dupa-decizia-de-2564694.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Döntött a PNL: ellenzékből megszavazzák a Niculescu-kabinetet",
-        "link": "https://maszol.ro/belfold/Dontott-a-PNL-ellenzekbol-megszavazzak-a-Niculescu-kabinetet"
-      }
-    ],
-    "published_at": 1792247594,
-    "title_hu": "A PNL megszavazza a Niculescu-kormányt, de ellenzékbe vonul; Bolojan a válság lezárásával indokol",
-    "lead_hu": "A PNL országos vezetősége október 17-én úgy döntött, hogy a liberális képviselők és szenátorok megszavazzák Luca Niculescu kormányának beiktatását, miközben a párt ellenzékbe vonul. Ilie Bolojan a több mint öt hónapja tartó politikai válsággal és az alapvető közszolgáltatások finanszírozási kockázataival indokolta a feltételes támogatást; a döntés párton belül vitát váltott ki. A beiktatási szavazást október 20-án tartják, a Bolojan és Niculescu közötti megállapodás pedig a 2027-es költségvetés elfogadásáig szólna.",
-    "content_hu": "• **Október 17-én a PNL vezetősége megszavazta a beiktatási voksot** A több mint háromórás, feszült ülésen a párt úgy határozott, hogy képviselői és szenátorai támogassák Luca Niculescu kormányának beiktatását. A döntésnél hat ellenszavazatot és egy tartózkodást jelentettek; a parlamenti szavazást október 20-án, kedden 14 órára tűzték ki.\n\n• **A PNL ellenzékben marad, a voks nem jelent koalíciót vagy feltétel nélküli bizalmat** Ilie Bolojan „szükségességi, feltételes és célhoz kötött” szavazatként írta le a döntést. A PNL nem lép be a kormányba, nem kér tisztségeket vagy minisztériumokat, és a kabinet összetételéért, illetve működéséért a kijelölt miniszterelnök és a jelölteket adó pártok felelnek.\n\n• **A Bolojan–Niculescu-megállapodás a 2027-es költségvetés elfogadásáig szólhat** Bolojan vasárnap délutánra jelezte a kétoldalú megállapodás aláírását. A dokumentum nem koalíciós szerződés lenne, hanem a támogatás átlátható feltételeit rögzítené; érvényességét a 2027-es költségvetési törvény elfogadásához kötnék.\n\n• **A megállapodás költségvetési és kormányzási feltételeket szab** A PNL elvárásai között szerepel a deficitcél és a fiskális fegyelem betartása, a beruházások védelme, a közpénzek felelős felhasználása, az európai vállalások és a reformok folytatása, valamint az átlátható és jó kormányzás. Többletkiadást csak biztos bevételek fedezetével vállalnának.\n\n• **A PNL feltételesen vállalja, hogy nem kezdeményez bizalmatlansági indítványt** A liberálisok a megállapodás céljainak teljesítése esetén nem kezdeményeznek és nem szavaznak meg bizalmatlansági indítványt annak érvényessége alatt. Bolojan szerint a vállalások megszegése esetén a párt újraértékeli a helyzetet, és indítványt is támogathat.\n\n• **A 2027-es költségvetés támogatása is feltételes** A PNL akkor kész megszavazni a büdzsét, ha az reális, ténylegesen beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tartalmaz fedezet nélküli kiadásnövelést.\n\n• **A PNL által támogatott tisztségviselők lemondanak** Bolojan szerint a párt támogatásával tisztségben lévő méltóságok a következő hét első napjaiban benyújtják lemondásukat. A politikai támogatással betöltött állami vállalati és igazgatótanácsi posztokra is kiterjedhet a távozás, a pályázaton vagy jogszerű eljárással megszerzett állásokra viszont nem.\n\n• **Bolojan a hosszú ügyvivői időszak korlátozott jogköreivel indokolta a döntést** Szerinte a több mint öt hónapos provizórium alatt a kabinet nem tudott új politikákat bevezetni vagy sürgős költségvetési kiigazítást végrehajtani. A Floreasca kórház sürgősségi osztályának 2026-os induló kerete 5 millió lej alatt maradt a 2025-ös, 10 millió lejt meghaladó összeghez képest; a marosvásárhelyi egység támogatása 8 millióról 4 millió lej alá csökkent.\n\n• **A mentők és a katasztrófavédelem finanszírozását az üzemanyag-drágulás is terheli** Bolojan szerint a 20–30 százalékkal dráguló üzemanyag miatt a nagy fogyasztású intézmények keretei gyorsabban kimerülhetnek. Azt is állította, hogy a közlekedési tárca PNRR-szerződéseinek értéke 19,5 milliárd euró, miközben a végleges keret 4,6 milliárd euró; a szárazság pedig a cernavodai erőmű kiesésével a román energiatermelés mintegy 20 százalékát érintette.\n\n• **Bolojan elismerte, hogy politikai szempontból a PNL-nek nem kellene megszavaznia a kabinetet** A pártvezető a vezetőségi ülésen azt mondta, hogy szigorúan politikai számítás alapján a liberálisok elutasíthatnák a kormányt, és a kabinet teljesítményével kapcsolatban sem táplál nagy várakozásokat. Érvelése szerint azonban a működő kormány hiánya közszolgáltatásokat és az állam finanszírozását veszélyeztetheti; a jövőbeli kabinet legnagyobb politikai kockázatának a PSD-t nevezte.\n\n• **A PNL belső ellenállása a döntés után is fennmaradt** A PNL Iași szervezete egyhangúlag elutasította a kabinet támogatását, és reformpárti többséget vagy előrehozott választást sürgetett. A megyei szervezet több miniszterjelöltet is bírált: kifogásolta Marian Neacșu jelölését, valamint Florin Manole, Daniel Zamfir és Alexandru Rogobete alkalmasságát; ezek a filiále állításai és politikai kritikái.\n\n• **A pártban támogatói is voltak Bolojan javaslatának** Mircea Fechet a döntés mellett érvelt, miközben elismerte a várható politikai költséget; Siegfried Mureșan és Dan Motreanu a PSD-vel való együttműködés lezárását hangsúlyozta. Adrian Veștea szintén támogatta a beiktatási voksot, noha bírálta Bolojant és a párton belüli döntéshozatalt.\n\n• **A PNL szavazatai nélkül nehéz lenne beiktatni a kormányt** A Mediafax számítása szerint a PSD, az UDMR, a kisebbségek és az Uniți pentru România együtt 192 voksot adna. A PACE hét képviselőjével és mind a 22 függetlennel együtt is csak 221-et érnének el, ami elmarad a szükséges 233-tól; még ebben a legkedvezőbb forgatókönyvben is legalább 12 liberális szavazat kellene.\n\n• **Az USR elutasítja a kabinetet, de együttműködne a PNL-lel** Dominic Fritz szerint nem világos, milyen parlamenti többségre támaszkodna a kormány, ezért az USR nem szavazza meg a PSD-s minisztereket is tartalmazó kabinetet. A PNL-lel ugyanakkor folytatnák az együttműködést egy PSD és AUR nélküli politikai alternatíva kialakításáért.\n\n• **A kormányprogramot és a miniszterjelöltek névsorát benyújtották a parlamentnek** Luca Niculescu csütörtök este adta le a kabinet javasolt összetételét és a kormányprogramot; a kabinet 18 miniszterből áll, közülük kettő delegált miniszter. A parlamenti bizottsági meghallgatásokat hétfőre és kedd délelőttre tervezték, a beiktatási szavazás pedig kedden 14 órakor lesz.",
-    "title_ro": "PNL votează Guvernul Niculescu, dar trece în opoziție; Bolojan invocă încheierea crizei",
-    "lead_ro": "Conducerea națională a PNL a decis, pe 17 octombrie, ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, în timp ce partidul va rămâne în opoziție. Ilie Bolojan a justificat sprijinul condiționat prin criza politică de peste cinci luni și riscurile pentru finanțarea serviciilor publice esențiale, deși hotărârea a stârnit opoziție în partid. Votul de învestitură este programat pentru 20 octombrie, iar acordul Bolojan–Niculescu ar urma să fie valabil până la adoptarea bugetului pentru 2027.",
-    "content_ro": "• **Pe 17 octombrie, conducerea PNL a votat susținerea învestirii** După o ședință tensionată de peste trei ore, partidul a decis ca deputații și senatorii săi să voteze pentru Guvernul Luca Niculescu. Au fost raportate șase voturi împotrivă și o abținere; votul în Parlament este programat marți, 20 octombrie, la ora 14:00.\n\n• **PNL rămâne în opoziție, iar votul nu înseamnă coaliție sau încredere necondiționată** Ilie Bolojan a descris decizia drept un vot „de necesitate, condiționat și punctual”. PNL nu intră la guvernare, nu cere funcții sau ministere, iar responsabilitatea pentru componența și activitatea Cabinetului revine premierului desemnat și partidelor care propun miniștri.\n\n• **Acordul Bolojan–Niculescu ar putea fi valabil până la adoptarea bugetului pentru 2027** Bolojan a anunțat că intenționează să semneze acordul bilateral duminică după-amiază. Documentul nu ar fi un acord de coaliție, ci ar stabili condițiile transparente ale sprijinului; durata sa ar fi legată de adoptarea legii bugetului de stat pentru 2027.\n\n• **Acordul stabilește condiții bugetare și de guvernare** Printre cerințele PNL se numără respectarea țintei de deficit și a disciplinei fiscale, protejarea investițiilor, folosirea responsabilă a banului public, respectarea angajamentelor europene și continuarea reformelor. Cheltuieli suplimentare ar urma să fie asumate numai dacă sunt acoperite de venituri certe.\n\n• **PNL promite condiționat să nu inițieze o moțiune de cenzură** Liberalii nu vor iniția și nu vor vota o moțiune de cenzură cât timp premierul respectă principiile și obiectivele acordului. Bolojan a precizat că, dacă angajamentele sunt încălcate, partidul va reevalua situația și ar putea susține o moțiune.\n\n• **Votul PNL pentru bugetul din 2027 va fi, de asemenea, condiționat** Liberalii sunt pregătiți să susțină bugetul dacă acesta este realist, bazat pe venituri ce pot fi încasate, continuă consolidarea fiscală, protejează investițiile și evită cheltuielile fără acoperire.\n\n• **Demnitarii susținuți de PNL își vor depune demisiile** Bolojan a anunțat că persoanele aflate în funcții cu sprijinul politic al partidului vor demisiona în primele zile ale săptămânii următoare. Retragerea poate viza și posturi în companii de stat sau consilii de administrație ocupate prin susținere politică, nu și funcțiile obținute prin concurs sau printr-o procedură legală.\n\n• **Bolojan a invocat atribuțiile limitate ale Guvernului interimar** În opinia sa, cele peste cinci luni de provizorat au împiedicat Cabinetul să adopte politici noi și o rectificare bugetară urgentă. Unitatea de primiri urgențe a Spitalului Floreasca a primit la începutul lui 2026 sub 5 milioane de lei, față de peste 10 milioane în 2025; alocarea pentru unitatea din Târgu Mureș a scăzut de la 8 milioane la sub 4 milioane de lei.\n\n• **Scumpirea combustibililor pune presiune pe finanțarea ambulanțelor și a serviciilor de urgență** Potrivit lui Bolojan, creșterea cu 20–30% a prețurilor la combustibili poate epuiza mai repede bugetele instituțiilor cu un consum ridicat. El a afirmat și că proiectele PNRR contractate de Ministerul Transporturilor însumează 19,5 miliarde de euro, față de o alocare finală de 4,6 miliarde, iar seceta ar fi afectat aproximativ 20% din producția de energie a României asigurată de centrala de la Cernavodă.\n\n• **Bolojan a admis că, strict politic, PNL nu ar trebui să voteze Cabinetul** La ședința conducerii, liderul liberal a spus că partidul ar putea respinge Guvernul dacă ar face doar un calcul politic și că nu are așteptări foarte mari de la viitorul Cabinet. El a argumentat însă că lipsa unui guvern funcțional pune în pericol serviciile publice și finanțarea statului și a numit PSD principalul risc politic pentru noul Executiv.\n\n• **Opoziția internă din PNL a continuat după decizie** Organizația PNL Iași a respins în unanimitate susținerea Cabinetului și a cerut o majoritate reformistă sau alegeri anticipate. Filiala a criticat mai multe nominalizări, inclusiv pe Marian Neacșu, și a pus sub semnul întrebării competența lui Florin Manole, Daniel Zamfir și Alexandru Rogobete; acestea sunt acuzații și evaluări politice ale organizației.\n\n• **Și susținători ai propunerii lui Bolojan au fost prezenți în partid** Mircea Fechet a pledat pentru decizie, recunoscând costul politic posibil; Siegfried Mureșan și Dan Motreanu au subliniat încheierea colaborării cu PSD. Adrian Veștea a susținut votul de învestitură, deși l-a criticat pe Bolojan și modul de luare a deciziilor în partid.\n\n• **Fără voturile PNL, învestirea ar fi dificilă** Potrivit calculelor Mediafax, PSD, UDMR, grupul minorităților și Uniți pentru România ar însuma 192 de voturi. Chiar și cu cei șapte parlamentari PACE și toți cei 22 de neafiliați, totalul ar ajunge la 221, sub pragul de 233; chiar și în acest scenariu favorabil, ar fi necesare cel puțin 12 voturi liberale.\n\n• **USR respinge Cabinetul, dar vrea să continue cooperarea cu PNL** Dominic Fritz a declarat că USR nu va vota un guvern pentru care nu este clară majoritatea parlamentară și care include miniștri PSD. Totuși, partidul intenționează să colaboreze cu PNL pentru construirea unei alternative politice fără PSD și AUR.\n\n• **Programul de guvernare și lista miniștrilor au fost depuse la Parlament** Luca Niculescu a depus joi seara programul și componența propusă a Cabinetului, format din 18 miniștri, dintre care doi miniștri delegați. Audierile parlamentare sunt prevăzute pentru luni și marți dimineață, iar votul de învestitură va avea loc marți, la ora 14:00."
   },
   {
     "group_id": "group_d6731bc095",
@@ -834,99 +1351,6 @@
     "content_ro": "Raluca Kelemen (28 de ani), portarul celor de la SCM Râmnicu Vâlcea, a cerut în mijlocul sezonului rezilierea contractului cu formația olteană, alături de care evolua în acest sezon în cupele europene. Va merge la Slatina! Clubul din Zăvoi a acceptat și părțile au încheiat mai repede colaborarea. Pentru a nu lăsa liber locul între buturi, oficialii olteni au apelat la serviciile a două portărițe de la juniori, Medeea Vega și Sara Constantin. ..."
   },
   {
-    "group_id": "group_14840c8d10",
-    "fingerprint": "a26db49d1d0ca3d34888cbcd3536bdb5",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAxMTIzMF8zMDEx/MjMwX3Byb2ZpbWVkaWEtMTE0MTUzOTgx/MS5qcGcmaGFzaD1kYzI0ZWIyYTc3MmZkNDA2Y2U0MTVjYjQ1NTdhNjg1ZQ==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 15,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Violențe în Tirana: geamurile Ministerului Educației, sparte. Studenții cer demisia premierului Edi Rama. 12 persoane au fost arestate",
-        "link": "https://www.digi24.ro/stiri/externe/ue/violente-in-tirana-geamurile-ministerului-educatiei-sparte-studentii-cer-demisia-premierului-edi-rama-12-persoane-au-fost-arestate-3990683"
-      },
-      {
-        "source": "G4Media",
-        "title": "Proteste în Albania / Ciocniri între poliţie şi studenţi, la Tirana",
-        "link": "https://www.g4media.ro/proteste-in-albania-ciocniri-intre-politie-si-studenti-la-tirana.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Incendiu la Ministerul Educației din Albania, în timpul protestelor studenților. Poliția intervine cu gaze lacrimogene și tunuri cu apă",
-        "link": "https://www.digi24.ro/stiri/externe/incendiu-la-ministerul-educatiei-din-albania-in-timpul-protestelor-studentilor-politia-intervine-cu-gaze-lacrimogene-si-tunuri-cu-apa-3992375"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Haos pe străzile din Tirana, în urma protestelor studenților. O clădire guvernamentală, cuprinsă de flăcări",
-        "link": "https://adevarul.ro/stiri-externe/europa/haos-pe-strazile-din-tirana-in-urma-protestelor-2564068.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Revolte violente în Albania, după protestele împotriva unui proiect asociat ginerelui lui Trump. Zeci de răniți și arestări în capitală",
-        "link": "https://www.mediafax.ro/externe/revolte-violente-in-albania-dupa-protestele-impotriva-unui-proiect-asociat-ginerelui-lui-trump-zeci-de-raniti-si-arestari-in-capitala-23825651"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Bedurvultak az albániai diáktüntetések, lángol Tirana",
-        "link": "https://transtelex.ro/kulfold/2026/10/14/albania-tirana-diaktuntetes-langok-rendorok-tuntetok-osszecsapas"
-      },
-      {
-        "source": "G4Media",
-        "title": "Premierul Albaniei refuză să demisioneze după trei zile de proteste violente / Studenții cer măsuri împotriva corupției și a costurilor ridicate ale educației",
-        "link": "https://www.g4media.ro/premierul-albaniei-refuza-sa-demisioneze-dupa-trei-zile-de-proteste-violente-studentii-cer-masuri-impotriva-coruptiei-si-a-costurilor-ridicate-ale-educatiei.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Premierul Albaniei refuză să demisioneze după trei zile de proteste violente. Studenții cer măsuri împotriva corupției și a costurilor ridicate ale educației",
-        "link": "https://www.mediafax.ro/externe/premierul-albaniei-refuza-sa-demisioneze-dupa-trei-zile-de-proteste-violente-studentii-cer-masuri-impotriva-coruptiei-si-a-costurilor-ridicate-ale-educatiei-23825888"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Premierul nostru este definiția corupției”. Edi Rama refuză să demisioneze, în timp ce protestele studenților se intensifică în Tirana",
-        "link": "https://www.digi24.ro/stiri/externe/premierul-nostru-este-definitia-coruptiei-edi-rama-refuza-sa-demisioneze-in-timp-ce-protestele-studentilor-se-intensifica-in-tirana-3994065"
-      },
-      {
-        "source": "Digi24",
-        "title": "MAE: Atenţionare de călătorie în Albania. Demonstraţii violente în centrul Tiranei",
-        "link": "https://www.digi24.ro/stiri/externe/ue/mae-atentionare-de-calatorie-in-albania-demonstratii-violente-in-centrul-tiranei-3994529"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Albania, paralizată de proteste violente. MAE emite o atenționare de călătorie pentru români",
-        "link": "https://www.mediafax.ro/stirile-zilei/albania-paralizata-de-proteste-violente-mae-emite-o-atentionare-de-calatorie-pentru-romani-23826266"
-      },
-      {
-        "source": "Adevărul",
-        "title": "MAE avertizează românii care călătoresc în Albania: protestele din Tirana au degenerat în violențe",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/mae-avertizeaza-romanii-care-calatoresc-in-2564353.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Proteste violente în Albania. Studenții se alătură mișcării antiguvernamentale: 35 de persoane au fost reținute",
-        "link": "https://stirileprotv.ro/stiri/international/revolte-violente-in-capitala-albaniei-studentii-se-alatura-miscarii-antiguvernamentale.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Protestele în Albania capătă amploare. Studenții cer demisia premierului Rama, „înainte să ia foc totul”",
-        "link": "https://hotnews.ro/protestele-in-albania-capata-amploare-studentii-cer-demisie-premierului-rama-inainte-sa-ia-foc-totul-2378222"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Proteste violente în Albania pentru demiterea premierului Rama. Aproape 200 de protestatari au ajuns în arest",
-        "link": "https://stirileprotv.ro/stiri/international/proteste-violente-in-albania-pentru-demisia-premierului-rama-aproape-200-de-protestatari-au-ajuns-in-arest.html"
-      }
-    ],
-    "published_at": 1792247102,
-    "title_hu": "Albániában többnapos diáktüntetések követelték Edi Rama lemondását",
-    "lead_hu": "A felsőoktatás költségei, az egyetemi körülmények és a korrupció miatti elégedetlenségből induló tüntetések több napon át tartó összecsapásokba torkolltak Tiranában, majd más albániai városokra is átterjedtek. Edi Rama miniszterelnök elutasította a lemondást; a hatóságok több száz őrizetbe vételről és sérültekről számoltak be.",
-    "content_hu": "• **A többnapos tüntetéshullám** diákmegmozdulásokkal kezdődött Tiranában: a résztvevők jobb egyetemi körülményeket, alacsonyabb oktatási költségeket, nagyobb támogatást és a korrupció elleni fellépést követeltek, valamint Edi Rama miniszterelnök lemondását sürgették.\n\n• **A tiltakozások hátterében** a fiatalok oktatási és megélhetési sérelmei mellett a déli albán tengerpartra tervezett luxusüdülő is szerepelt. A projektet Jared Kushnerhez, Donald Trump vejéhez kötik; a beruházás ellen hónapok óta tiltakoztak, többek között a földügyletek és az átláthatóság miatt. A Reuters közlése szerint nem talált bizonyítékot Kushner jogellenes cselekményére.\n\n• **A tüntetések a következő napokban erőszakossá váltak:** demonstrálók kövekkel dobáltak, kirakatokat törtek be, kukákat és épületeket gyújtottak fel, illetve kormányzati intézményeket és bankokat rongáltak meg. A rendőrség könnygázt, vízágyút és egyes beszámolók szerint hanggránátokat is bevetett; az összecsapások más városokra, köztük Elbasanra, Shkodërre és Korçára is kiterjedtek.\n\n• **A letartóztatások és sérülések száma a tiltakozások előrehaladtával emelkedett:** egy szombati beszámoló a rendőrség adataira hivatkozva mintegy 500 őrizetbe vett tüntetőről, 120 sérült rendőrről és 45 sérült demonstrálóról írt. A korábbi jelentések ennél alacsonyabb, az adott napokra vonatkozó számokat közöltek.\n\n• **Edi Rama csütörtökön elutasította a lemondást**, és azt mondta, hogy a kormányok demokratikus választások útján váltják egymást. Jelezte, hogy kész tárgyalni az oktatási kiadások növeléséről, ugyanakkor elítélte a középületek megrongálását és az erőszakot.\n\n• **Az albán hatóságok és az Európai Unió tiranai képviselete is reagáltak:** a kormányzati tisztségviselők a vandalizmus beszüntetésére szólítottak fel, az EU-képviselet pedig aggodalmát fejezte ki az erőszak miatt, és arányos rendőri fellépést, illetve a rendőri túlkapásokra vonatkozó állítások kivizsgálását sürgette.\n\n• **A román külügyminisztérium utazási figyelmeztetést adott ki** az Albániában tartózkodó vagy oda készülő román állampolgároknak. A minisztérium fokozott óvatosságot, a tüntetések és nagy tömegek elkerülését, valamint a helyi hatóságok útmutatásainak követését javasolta.",
-    "title_ro": "Protestele studențești din Albania au durat mai multe zile și au cerut demisia lui Edi Rama",
-    "lead_ro": "Nemulțumirile privind costurile educației, condițiile din universități și corupția au dus la confruntări de mai multe zile la Tirana, iar manifestațiile s-au extins și în alte orașe albaneze. Premierul Edi Rama a refuzat să demisioneze; autoritățile au raportat sute de rețineri și persoane rănite.",
-    "content_ro": "• **Valul de proteste desfășurat pe parcursul mai multor zile** a început cu manifestații studențești la Tirana. Participanții au cerut condiții mai bune în universități, costuri mai mici, sprijin financiar și combaterea corupției, solicitând totodată demisia premierului Edi Rama.\n\n• **Printre motivele tensiunilor** s-au numărat problemele din educație și costul vieții, dar și proiectul unui complex turistic de lux pe litoralul sudic al Albaniei. Investiția este asociată cu Jared Kushner, ginerele lui Donald Trump, și a fost contestată timp de luni de zile, inclusiv din cauza tranzacțiilor cu terenuri și a lipsei de transparență. Reuters a precizat că nu a găsit dovezi privind fapte ilegale comise de Kushner.\n\n• **În zilele următoare, manifestațiile au devenit violente:** protestatarii au aruncat cu pietre, au spart vitrine, au incendiat pubele și clădiri și au vandalizat instituții guvernamentale și bănci. Poliția a folosit gaze lacrimogene și tunuri cu apă, iar unele relatări menționează și grenade asurzitoare. Protestele s-au extins în orașe precum Elbasan, Shkodër și Korçë.\n\n• **Numărul persoanelor reținute și rănite a crescut pe măsura escaladării:** un bilanț publicat sâmbătă, citând date ale poliției, menționa aproximativ 500 de persoane reținute, 120 de polițiști răniți și 45 de protestatari răniți. Relatările anterioare indicau cifre mai mici pentru zilele respective.\n\n• **Edi Rama a respins joi apelurile la demisie**, afirmând că guvernele se schimbă prin alegeri democratice. El s-a declarat dispus să discute despre majorarea cheltuielilor pentru educație, dar a condamnat atacurile asupra instituțiilor și distrugerea bunurilor publice.\n\n• **Autoritățile albaneze și Delegația Uniunii Europene la Tirana au reacționat la violențe:** oficiali guvernamentali au cerut încetarea vandalismului, iar reprezentanții UE și-au exprimat îngrijorarea și au solicitat o intervenție proporțională a poliției, precum și investigarea acuzațiilor de folosire excesivă a forței.\n\n• **Ministerul Afacerilor Externe al României a emis o atenționare de călătorie** pentru românii aflați în Albania sau care intenționează să ajungă acolo. MAE le-a recomandat să fie vigilenți, să evite demonstrațiile și aglomerările și să respecte indicațiile autorităților locale."
-  },
-  {
     "group_id": "group_6dba42cdeb",
     "category": "Politika",
     "image": "https://cdn.adh.reperio.news/image-1/1b54d06d-6e70-49ea-8759-5e9ce068ae69/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -1042,27 +1466,6 @@
     "title_ro": "Test de perspicacitate | Fetița din dreapta și fetița din stânga par identice, dar nu sunt. Găsiți 3 diferențe!",
     "lead_ro": "Testele de inteligență de tip „găsește diferențele” au luat internetul cu asalt și, sincer, e ușor de înțeles de ce. Nu sunt doar distractive, ci reprezintă combinația perfectă între relaxare și exerc…",
     "content_ro": "Testele de inteligență de tip „găsește diferențele” au luat internetul cu asalt și, sincer, e ușor de înțeles de ce. Nu sunt doar distractive, ci reprezintă combinația perfectă între relaxare și exercițiu mental. Privește cu atenție aceste două imagini cu fetița care mănâncă. La prima vedere, par identice, dar nu te lăsa păcălit de ceea […]"
-  },
-  {
-    "group_id": "group_2de9e7e6c1",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/6679088-mediafax_foto-adrian_piclisan-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Haos pe calea ferată între Brașov și Hărman! Patru trenuri, blocate din cauza unei locomotive defecte",
-        "link": "https://www.mediafax.ro/social/haos-pe-calea-ferata-intre-brasov-si-harman-patru-trenuri-blocate-din-cauza-unei-locomotive-defecte-23827248"
-      }
-    ],
-    "published_at": 1792246636,
-    "title_hu": "Haos pe calea ferată între Brașov și Hărman! Patru trenuri, blocate din cauza unei locomotive defecte",
-    "lead_hu": "Circulația feroviară este blocată temporar, sâmbătă după-amiază, între Brașov și Hărman, după ce locomotiva unui tren InterRegio s-a defectat și a rămas imobilizată pe linie. Patru trenuri de călători…",
-    "content_hu": "Circulația feroviară este blocată temporar, sâmbătă după-amiază, între Brașov și Hărman, după ce locomotiva unui tren InterRegio s-a defectat și a rămas imobilizată pe linie. Patru trenuri de călători sunt afectate și așteaptă reluarea traficului.",
-    "title_ro": "Haos pe calea ferată între Brașov și Hărman! Patru trenuri, blocate din cauza unei locomotive defecte",
-    "lead_ro": "Circulația feroviară este blocată temporar, sâmbătă după-amiază, între Brașov și Hărman, după ce locomotiva unui tren InterRegio s-a defectat și a rămas imobilizată pe linie. Patru trenuri de călători…",
-    "content_ro": "Circulația feroviară este blocată temporar, sâmbătă după-amiază, între Brașov și Hărman, după ce locomotiva unui tren InterRegio s-a defectat și a rămas imobilizată pe linie. Patru trenuri de călători sunt afectate și așteaptă reluarea traficului."
   },
   {
     "group_id": "group_a0f4469c17",
@@ -6732,49 +7135,6 @@
     "title_ro": "O pitică albă verzuie a fost identificată în Calea Lactee",
     "lead_ro": "Pitica albă WD J1330+6435 se află la aproximativ 280 de ani-lumină de Pământ, în constelația Draco. Nuanța sa verde-gălbuie este produsă de sodiu provenit din resturi planetare și de densitatea extremă a stelei.",
     "content_ro": "• **WD J1330+6435** este prima stea documentată care ar părea verde ochiului uman: o pitică albă din Calea Lactee, aflată la aproximativ 280 de ani-lumină de Pământ, în constelația Draco.\n\n• **Nuanța verde-gălbuie, chartreuse,** este produsă de material provenit din resturile stâncoase ale planetelor care orbitau cândva steaua. Interacțiunea dintre sodiu și atomii de heliu din atmosfera foarte densă modifică nivelurile energetice ale sodiului, astfel încât acesta absoarbe nu doar o bandă îngustă de lumină portocalie, ci și lumină galbenă, portocalie și parțial roșie.\n\n• **Piticile albe** sunt nucleele rămase după evoluția stelelor cu masă mică sau medie: ele au aproximativ jumătate din masa Soarelui, comprimată într-un volum de dimensiunea Pământului. Masa unei pitice albe este de circa 165.000 de ori mai mare decât cea a Terrei, astfel încât chiar și o cantitate mică de sodiu poate absorbi o parte semnificativă din lumina portocalie.\n\n• **Cele 151 de pitice albe studiate** se află la cel mult aproximativ 65 de ani-lumină de Pământ; majoritatea sunt albe. Cercetătorii au estimat culorile așa cum ar fi percepute de ochiul uman, pe baza datelor spectrale și a unor modele.\n\n• **WD J1011+2845** are o nuanță roz-somon și se află la 48 de ani-lumină, în constelația Leo Minor. Culoarea sa este influențată de carbon provenit din interiorul stelei; piticile albe bogate în carbon tind să fie roz sau violet, iar cele îmbogățite cu resturi din sisteme planetare tind să fie gălbui.\n\n• **Culoarea piticilor albe** depinde de compoziția atmosferei și de temperatură: cele mai reci, cu atmosfere formate din hidrogen și heliu, pot avea nuanțe cyan sau albastru-pal. Culorile au fost calculate pe baza spectrelor, astfel că aceste stele nu pot fi observate cu ochiul liber.\n\n• **Analiza resturilor planetare** permite cercetătorilor să studieze compoziția materialului ajuns la suprafața piticilor albe, oferind indicii despre compoziția și formarea planetelor dispărute.\n\n• **Următoarea etapă a cercetării** va include analiza spectrelor unui număr mai mare de pitice albe. Noile programe de observații ar putea crește de zece ori numărul stelelor cu date spectrale disponibile, făcând posibilă identificarea a 10–20 de pitice albe verzi."
-  },
-  {
-    "group_id": "group_5aa7747dc9",
-    "fingerprint": "3e2e3de65747cb0ad576aab90d345f40",
-    "category": "Politika",
-    "image": "https://stirileprotv.ro/img/2026/04/09/074611/alexandru-muraru.jpg?fm=jpg&q=80&fit=crop&crop=5413%2C3609%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un lider PNL susține că PSD încearcă să-l dea jos pe Bolojan și să preia controlul asupra liberalilor: „Oferte otrăvite”",
-        "link": "https://stirileprotv.ro/stiri/politic/un-lider-pnl-sustine-ca-psd-incearca-sa-l-dea-jos-pe-bolojan-si-sa-preia-controlul-asupra-liberalilor-oferte-otravite.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cristian Pantazi: PSD va face tot posibilul să oprească toate reformele, dar piețele îl vor obliga să ia măsuri impopulare, dure, de austeritate",
-        "link": "https://www.g4media.ro/cristian-pantazi-psd-va-face-tot-posibilul-sa-opreasca-toate-reformele-dar-pietele-il-vor-obliga-sa-ia-masuri-impopulare-dure-de-austeritate.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Primul deputat PNL care anunță că nu votează Guvernul Niculescu: Vom ajunge într-o situație mai rea. PSD să își găsească susținători",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/primul-deputat-pnl-care-anunta-ca-nu-voteaza-guvernul-niculescu-vom-ajunge-intr-o-situatie-mai-rea-psd-sa-isi-gaseasca-sustinatori-3995547"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Mesajul lui Luca Niculescu înaintea votului decisiv pentru Guvern: „Situația este foarte gravă”",
-        "link": "https://stirileprotv.ro/stiri/politic/mesajul-lui-luca-niculescu-inaintea-votului-decisiv-pentru-guvern-situatia-este-foarte-grava.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Crește opoziția în PNL față de Guvernul Niculescu: O nouă filială județeană se poziționează împotrivă",
-        "link": "https://hotnews.ro/creste-opozitia-in-pnl-fata-de-guvernul-niculescu-o-noua-filiala-judeteana-se-pozitioneaza-impotriva-investirii-2378518"
-      }
-    ],
-    "published_at": 1792224345,
-    "title_hu": "Gorghiu kettős mércét emleget, Bolojan szükségességi szavazást javasol – erősödik a PNL-en belüli ellenállás",
-    "lead_hu": "Alina Gorghiu továbbra is kettős mércét lát abban, hogy a PNL támogatná a Luca Niculescu vezette, PSD-s minisztereket is felvonultató kormányt, miközben korábban szankciókkal fenyegették az Adrian Veștea-kabinet támogatóit. A liberális parlamenti csoportok a beiktatás mellett foglaltak állást, de a végső pártdöntés előtt több politikus és a PNL Iași szervezete is nyíltan ellenezte a kabinet támogatását. Ilie Bolojan a beiktatás mellett érvel, miközben az ellenzők egy része azt mondja: ha a PNL mégis támogatja a kormányt, nem vesz részt a szavazáson.",
-    "content_hu": "• **Alina Gorghiu a PNL álláspontjának ellentmondásosságát bírálta:** szerdai Facebook-bejegyzésében felidézte, hogy korábban őt és más liberálisokat majdnem kizárták, amiért egy Adrian Veștea vezette, PNL-es minisztereket és PSD-s részvételt is tartalmazó kormányt támogattak. Most azt kérdezte, kinek kellene bocsánatot kérnie, és nem lett volna-e jobb korábban a Veștea-kormányt megszavazni; szerinte a politikai válság költségeit továbbra is az ország fizeti.\n\n• **A Veștea-kabinet beiktatása meghiúsult:** a kormány 189 támogató szavazatot kapott a szükséges 233 helyett. A PNL 2026. június 21-i rendkívüli kongresszusán kizárással fenyegették azokat a párttagokat, akik PSD-vel közös kormányban vállalnak szerepet; a szankciós döntések alkalmazását később bírósági intézkedés függesztette fel.\n\n• **A PNL parlamenti csoportjai a Niculescu-kormány támogatása mellett foglaltak állást**, hogy a párt ellenzékbe vonulhasson, és külön megállapodást köthessen a kijelölt miniszterelnökkel. A csoportok szavazása konzultatív, a végleges döntést a párt Nemzeti Politikai Bürója hozza meg. Bolojan szerint a megállapodás nem koalíciós szerződés, és nem jelentené a PNL kormányzati részvételét.\n\n• **Bolojan a kormány beiktatása előtt szükségességi szavazást javasolt**, nem politikai bizalmi szavazást. A tervezett megállapodás a hiánycél, a kiadási vállalások és a beruházások védelmének kérdését érinti; a PNL a 2027-es költségvetést is támogathatja, ha az reális bevételi előrejelzésekre és hiteles kiadási tervre épül.\n\n• **A PNL Iași szervezete egyhangúlag ellenezte a Niculescu-kormány beiktatásának támogatását.** A szervezet szerint egy, a PSD-től függő kabinet nem lenne hiteles reformkormány; bírálta többek között Marian Neacșu, Florin Manole, Daniel Zamfir és Alexandru Rogobete jelölését, és úgy vélte, hogy a Niculescuval kötött megállapodás a gyakorlatban biankó csekket adna a PSD-nek. Alternatívaként hiteles reformpárti többséget, ennek hiányában előrehozott választást javasolt.\n\n• **A PNL Iași szerint Niculescunak nincs önálló párt- és parlamenti háttere**, ezért kérdéses, mennyire tudná irányítani a PSD által támogatott minisztereket. A szervezet Rogobete esetében a kórházi infrastruktúra-fejlesztések késéseit és a PNRR-ben tervezett kórházak kétharmadának elvesztését is kifogásolta; ezek a szervezet állításai.\n\n• **Alexandru Muraru szerint a PSD Bolojan eltávolítására és a PNL irányváltásának kikényszerítésére törekszik**, hogy a liberálisokat a 2028-as választások előtt alárendelje. Muraru úgy vélte, Sorin Grindeanu ajánlatai és nyilvános üzenetei a PNL belső ellenzékének szólnak, megkerülve a párt legitim vezetését; szerinte a PSD előbb belülről szabotálta a koalíciót, majd megszavazta a bizalmatlansági indítványt, és a PNL-ben aktiválta az ellenzékieket.\n\n• **Muraru szerint a társadalom egy része ellenzi a kormány beiktatását**, különösen a miniszterjelöltek nevének nyilvánosságra kerülése után. Azt mondta, demokratikus felelősség, hogy aki megbuktat egy kormányt, vállalja az új kabinet megalakítását; a PNL ellenzékből is támogatna hiánycsökkentő, pénzügyi fegyelmet és beruházásokat szolgáló intézkedéseket.\n\n• **Muraru a 2027-es költségvetés támogatását feltételekhez kötötte:** reális bevételi előrejelzéseket, hiteles kiadási tervet, a beruházások védelmét és az európai vállalások teljesítését várja el.\n\n• **Siegfried Mureșan szerint a PNL nem ad biankó csekket egyetlen PSD-s miniszterjelöltnek sem**, és a következő években teljes ellenzékben lesz a szociáldemokratákkal szemben. A liberálisok a politikai válság feloldása érdekében támogathatják a kormány beiktatását, de ellenőrizni fogják a PSD-s miniszterek munkáját. Mureșan külön bírálta a Mykonoshoz, a Nordis-ügyhöz vagy a cipősdobozokhoz kapcsolt utalásokkal illetett jelölteket.\n\n• **Mureșan Marian Neacșu belügyminiszteri jelölését is támadta**, mondván, egy komoly miniszterelnök nem fogadna el egy korábban büntetőjogi elítélésben részesült minisztert. Neacșut 2016-ban hat hónap felfüggesztett börtönbüntetésre ítélték összeférhetetlenség miatt, de később jogi rehabilitációban részesült; a jogszabályok alapján ez nem zárja ki a kormánytagságot. Neacșu Bolojan korábbi kormányában is miniszterelnök-helyettes volt.\n\n• **Dragoș Ciubotaru, a PNL Vrancea vezetője bejelentette, hogy nem támogatja a kormányt.** Azt mondta, a kormány megbuktatása után a PSD-nek kell vállalnia az új kabinet megalakításának felelősségét; kifogásolta a 11 PSD-s minisztert és Neacșu jelölését. Ha a PNL mégis a támogatás mellett dönt, Ciubotaru nem vesz részt a beiktatási szavazáson. Állítása szerint a Vrancea megyei liberális polgármesterek mintegy 95 százaléka sem támogatná a kabinetet, és több parlamenti képviselő is ellenzi a szavazást.\n\n• **Ciubotaru a kormányalakítás alternatívájaként technokrata kabinetet, a PSD–AUR-többség saját kormányalakítását, illetve a parlament feloszlatását is felvetette.** Azt mondta, szerinte a PNL-ben sokan hibának tartják Niculescu kormányának megszavazását, bár vannak, akik szükséges kompromisszumnak tekintik.\n\n• **Ștefan-Radu Oprea piros lapot helyezett kilátásba a nem teljesítő PSD-s minisztereknek:** közlése szerint nem lesz előzetes figyelmeztetés, aki nem teljesít, távozik.\n\n• **Cristian Tudor Popescu a tervezett kabinet összetételét is bírálta**, és azt kérdezte, miként őrizheti meg a kormány a reformpárti irányt olyan jelöltekkel, mint Daniel Zamfir, Marian Neacșu és Natalia Intotero. Szerinte Bolojan háttérbe szorulásával a kabinet döntéseiért már nem lehet majd közös ellenfelüket okolni; a parlamenti támogatást is bizonytalannak nevezte.\n\n• **Cristian Pantazi elemzői előrejelzése szerint a PSD megpróbálhatja elkerülni a reformokat**, de a nagy költségvetési hiány és a pénzpiaci nyomás népszerűtlen, megszorító intézkedésekre kényszerítheti. Úgy vélte, a párt később akár ki is léphet a kormányból, ha vállalnia kell ezeket a lépéseket; a tavaszi kilépés lehetőségét várakozásként fogalmazta meg.\n\n• **A PSD jóváhagyta a kormányzati részvételt:** a 17 tárcából 11-et a szociáldemokraták kapnának, hatot technokraták töltenének be. A PSD szerint a Niculescu-kormány programja tartalmazza valamennyi, a kijelölt miniszterelnöknek címzett kérését; gazdaságélénkítést és a lakossági jövedelmek védelmét sürgette, és a Bolojan-kormány politikájának tulajdonította a recessziót, az ipari termelés visszaesését és mintegy 70 ezer munkahely megszűnését.\n\n• **A PSD programprioritásai között sürgős költségvetési kiigazítás és a nyugdíjak indexálása szerepelt.** A párt azt állította, hogy kormányra lépésének hírére emelkedett a bukaresti tőzsde BET-indexe, az állampapírhozamok pedig egy hónapos mélypontra csökkentek.\n\n• **A pénzügyminisztérium adatai szerint a költségvetési hiány 2026 első kilenc hónapjában a GDP 3,82 százalékára csökkent**, az előző év azonos időszakának 5,35 százalékáról; a bevételek 11,8 százalékkal emelkedtek.\n\n• **Luca Niculescu a beiktatás előtt súlyosnak nevezte a helyzetet:** a tél közeledésével, a sürgős költségvetési kiigazítás és a költségvetés elfogadásának szükségességével indokolta, hogy a parlament támogassa a kabinetet. Marian Neacșuról azt mondta, kompetens, a közigazgatásban tapasztalt politikus, és megvédte belügyminiszteri, illetve miniszterelnök-helyettesi jelölését.",
-    "title_ro": "Gorghiu acuză un dublu standard, Bolojan propune un vot de necesitate – crește opoziția din PNL",
-    "lead_ro": "Alina Gorghiu vede în continuare un dublu standard în faptul că PNL ar susține guvernul condus de Luca Niculescu, cu miniștri PSD, după ce susținătorii cabinetului Adrian Veștea au fost amenințați anterior cu sancțiuni. Grupurile parlamentare liberale au votat în favoarea învestirii, însă mai mulți liberali și organizația PNL Iași s-au pronunțat public împotrivă înaintea deciziei finale a partidului. Ilie Bolojan susține instalarea guvernului, în timp ce unii opozanți spun că nu vor participa la vot dacă PNL decide să îl susțină.",
-    "content_ro": "• **Alina Gorghiu a criticat inconsecvența poziției PNL:** într-un mesaj publicat miercuri pe Facebook, ea a amintit că ea și alți liberali au fost aproape excluși pentru că au susținut un guvern condus de Adrian Veștea, cu miniștri PNL și participarea PSD. Gorghiu a întrebat cine ar trebui să își ceară scuze și dacă nu ar fi fost mai bine ca Guvernul Veștea să fie votat; în opinia sa, costurile crizei politice continuă să fie suportate de țară.\n\n• **Învestirea Guvernului Veștea a eșuat:** cabinetul a obținut 189 de voturi favorabile, față de cele 233 necesare. La Congresul Extraordinar al PNL din 21 iunie 2026, membrii care participau la un guvern cu PSD au fost amenințați cu excluderea; aplicarea sancțiunilor a fost ulterior suspendată printr-o măsură judecătorească.\n\n• **Grupurile parlamentare ale PNL au decis să susțină Guvernul Niculescu**, astfel încât partidul să intre în opoziție și să poată încheia un acord separat cu premierul desemnat. Votul grupurilor este consultativ, iar decizia finală aparține Biroului Politic Național. Potrivit lui Ilie Bolojan, acordul nu va fi un contract de coaliție și nu va însemna participarea PNL la guvernare.\n\n• **Bolojan a propus un vot de necesitate pentru învestirea guvernului**, nu un vot de încredere politică. Acordul avut în vedere privește ținta de deficit, angajamentele de cheltuieli și protejarea investițiilor; PNL ar putea susține și bugetul pentru 2027, dacă acesta se bazează pe estimări realiste ale veniturilor și pe un plan credibil de cheltuieli.\n\n• **Organizația PNL Iași s-a pronunțat în unanimitate împotriva susținerii Guvernului Niculescu.** Filiala consideră că un cabinet dependent de PSD nu ar fi un guvern reformist credibil; a criticat nominalizările lui Marian Neacșu, Florin Manole, Daniel Zamfir și Alexandru Rogobete și a susținut că un acord cu Niculescu ar echivala, în practică, cu un cec în alb pentru PSD. Ca alternative, a propus o majoritate reformistă credibilă sau, în lipsa acesteia, alegeri anticipate.\n\n• **PNL Iași afirmă că Niculescu nu are propriul partid și nici o bază parlamentară independentă**, ceea ce ridică semne de întrebare privind capacitatea sa de a controla miniștrii susținuți de PSD. În cazul lui Alexandru Rogobete, filiala a invocat întârzieri în proiectele de infrastructură spitalicească și pierderea a două treimi dintre spitalele planificate prin PNRR; acestea sunt acuzațiile organizației.\n\n• **Alexandru Muraru susține că PSD urmărește înlăturarea lui Bolojan și schimbarea direcției PNL**, pentru a subordona liberalii înaintea alegerilor din 2028. Muraru a afirmat că ofertele și mesajele publice ale lui Sorin Grindeanu se adresează opoziției interne din PNL, ocolind conducerea legitimă a partidului; în opinia sa, PSD a sabotat mai întâi coaliția din interior, apoi a votat moțiunea de cenzură și a activat contestatarii din PNL.\n\n• **Muraru spune că o parte a societății se opune învestirii guvernului**, mai ales după anunțarea numelor vehiculate pentru funcțiile de ministru. El a invocat responsabilitatea democratică a celor care demit un guvern de a-și asuma formarea unui nou cabinet; PNL ar urma să susțină din opoziție măsurile de reducere a deficitului, disciplină fiscală și continuare a investițiilor.\n\n• **Muraru a condiționat susținerea bugetului pentru 2027:** acesta ar trebui să aibă estimări realiste ale veniturilor, un plan credibil de cheltuieli, protejarea investițiilor și respectarea angajamentelor europene.\n\n• **Siegfried Mureșan spune că PNL nu va da un cec în alb niciunui ministru propus de PSD** și că liberalii vor fi în opoziție totală față de social-democrați în următorii ani. PNL poate contribui la deblocarea crizei prin învestirea guvernului, dar va monitoriza activitatea miniștrilor PSD. Mureșan a criticat în special candidații asociați cu referiri la Mykonos, dosarul Nordis sau cutii de pantofi.\n\n• **Mureșan a criticat și nominalizarea lui Marian Neacșu la Ministerul de Interne**, afirmând că un premier serios nu ar accepta un ministru condamnat penal anterior. Neacșu a fost condamnat în 2016 la șase luni de închisoare cu suspendare pentru conflict de interese, dar a beneficiat ulterior de reabilitare juridică; legislația permite numirea în guvern în această situație. Neacșu a fost vicepremier și în guvernul anterior condus de Bolojan.\n\n• **Dragoș Ciubotaru, liderul PNL Vrancea, a anunțat că nu va susține guvernul.** El spune că, după demiterea cabinetului, PSD trebuie să își asume responsabilitatea formării noului executiv; a criticat cei 11 miniștri PSD și nominalizarea lui Neacșu. Dacă PNL decide totuși să susțină guvernul, Ciubotaru nu va participa la votul de învestitură. Potrivit afirmațiilor sale, aproximativ 95% dintre primarii liberali din Vrancea nu ar susține cabinetul, iar mai mulți parlamentari se opun votului.\n\n• **Ciubotaru a invocat drept alternative un guvern tehnocrat, formarea unui guvern de către majoritatea PSD–AUR sau dizolvarea Parlamentului.** El a spus că mulți liberali consideră greșită votarea Guvernului Niculescu, deși unii o privesc ca pe un compromis necesar.\n\n• **Ștefan-Radu Oprea a avertizat miniștrii PSD că vor primi cartonașul roșu dacă nu performează:** potrivit lui, nu va exista un avertisment prealabil, iar cei care nu își fac treaba vor pleca.\n\n• **Cristian Tudor Popescu a criticat componența cabinetului propus**, întrebând cum ar putea acesta să păstreze direcția reformistă cu nominalizări precum Daniel Zamfir, Marian Neacșu și Natalia Intotero. El a spus că, odată cu ieșirea lui Bolojan din prim-plan, guvernul nu va mai putea da vina pe adversarul său comun pentru propriile decizii și a numit incert sprijinul parlamentar.\n\n• **În opinia analistului Cristian Pantazi, PSD va încerca să evite reformele**, dar deficitul mare și presiunea piețelor financiare l-ar putea obliga să adopte măsuri nepopulare și de austeritate. El estimează că partidul ar putea părăsi ulterior guvernarea dacă va trebui să își asume aceste măsuri; scenariul unei retrageri în primăvară a fost prezentat ca o prognoză.\n\n• **PSD a aprobat intrarea la guvernare:** social-democrații ar urma să primească 11 dintre cele 17 portofolii, iar șase ar reveni unor tehnocrați. PSD susține că programul Guvernului Niculescu include toate solicitările sale și a cerut relansarea economiei și protejarea veniturilor populației; partidul a atribuit politicilor Guvernului Bolojan recesiunea, scăderea producției industriale și pierderea a aproximativ 70.000 de locuri de muncă.\n\n• **Printre prioritățile PSD se numără ajustarea urgentă a bugetului și indexarea pensiilor.** Partidul a afirmat că anunțul intrării sale la guvernare a fost urmat de creșterea indicelui BET al bursei din București și de scăderea randamentelor titlurilor de stat la cel mai redus nivel din ultima lună.\n\n• **Potrivit datelor Ministerului Finanțelor, deficitul bugetar a scăzut la 3,82% din PIB în primele nouă luni din 2026**, de la 5,35% în aceeași perioadă a anului precedent; veniturile au crescut cu 11,8%.\n\n• **Luca Niculescu a descris situația drept gravă înaintea votului de învestitură:** apropierea iernii, nevoia urgentă de rectificare bugetară și adoptarea bugetului au fost argumentele sale pentru susținerea cabinetului. Despre Marian Neacșu, Niculescu a spus că este un politician competent și cu experiență în administrație și a apărat nominalizarea acestuia ca vicepremier și ministru de Interne."
   },
   {
     "group_id": "group_e79edb6b18",
