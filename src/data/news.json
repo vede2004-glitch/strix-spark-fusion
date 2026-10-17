@@ -1,5 +1,329 @@
 [
   {
+    "group_id": "group_a0e38a6149",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Înapoi la rădăcini, pe cel mai vechi șantier din București Ghencea, de la mahalaua de sfârșit de secol 19 la Prelungirea de azi",
+        "link": "https://hotnews.ro/inapoi-la-radacini-pe-cel-mai-vechi-santier-din-bucuresti-ghencea-de-la-mahalaua-de-sfarsit-de-secol-19-la-prelungirea-de-azi-2378552"
+      }
+    ],
+    "published_at": 1792226574,
+    "title_hu": "Înapoi la rădăcini, pe cel mai vechi șantier din București Ghencea, de la mahalaua de sfârșit de secol 19 la Prelungirea de azi",
+    "lead_hu": "Acum 18 ani, șantierul Prelungirea Ghencea apărea pentru prima dată. Pe hârtie. În 2006, proiectul își face cumva loc planurile Consiliului General al Municipiului București. dar rămâne rătăcit prin s…",
+    "content_hu": "Acum 18 ani, șantierul Prelungirea Ghencea apărea pentru prima dată. Pe hârtie. În 2006, proiectul își face cumva loc planurile Consiliului General al Municipiului București. dar rămâne rătăcit prin sertare până în septembrie 2019, când încep oficial lucrările de execuție sub administrația PMB. În 2020, încep doi ani de blocaje aproape totale din cauza problemelor …",
+    "title_ro": "Înapoi la rădăcini, pe cel mai vechi șantier din București Ghencea, de la mahalaua de sfârșit de secol 19 la Prelungirea de azi",
+    "lead_ro": "Acum 18 ani, șantierul Prelungirea Ghencea apărea pentru prima dată. Pe hârtie. În 2006, proiectul își face cumva loc planurile Consiliului General al Municipiului București. dar rămâne rătăcit prin s…",
+    "content_ro": "Acum 18 ani, șantierul Prelungirea Ghencea apărea pentru prima dată. Pe hârtie. În 2006, proiectul își face cumva loc planurile Consiliului General al Municipiului București. dar rămâne rătăcit prin sertare până în septembrie 2019, când încep oficial lucrările de execuție sub administrația PMB. În 2020, încep doi ani de blocaje aproape totale din cauza problemelor …"
+  },
+  {
+    "group_id": "group_099d54698c",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/bianca-narcis.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Fratele Biancăi Iotu a reacționat după ce concurenta s-a iubit cu Narcis Bujor. Ce le-a spus celor care o judecă",
+        "link": "https://www.cancan.ro/fratele-biancai-iotu-a-reactionat-dupa-ce-concurenta-s-a-iubit-cu-narcis-bujor-ce-le-a-spus-celor-care-o-judeca-21531514"
+      }
+    ],
+    "published_at": 1792226526,
+    "title_hu": "Fratele Biancăi Iotu a reacționat după ce concurenta s-a iubit cu Narcis Bujor. Ce le-a spus celor care o judecă",
+    "lead_hu": "Bianca Iotu și Narcis Bujor nu s-au mai abținut! Cei doi au avut relații intime, iar concurenta nu a regretat nimic. Însă, telespectatorii au reacționat în mediul online, judecând-o pentru alegerea fă…",
+    "content_hu": "Bianca Iotu și Narcis Bujor nu s-au mai abținut! Cei doi au avut relații intime, iar concurenta nu a regretat nimic. Însă, telespectatorii au reacționat în mediul online, judecând-o pentru alegerea făcută. Din acest motiv, fratele acesteia a răbufnit. După ce a văzut imaginile intime cu sora lui și Narcis Bujor, tânărul a reacționat și […]",
+    "title_ro": "Fratele Biancăi Iotu a reacționat după ce concurenta s-a iubit cu Narcis Bujor. Ce le-a spus celor care o judecă",
+    "lead_ro": "Bianca Iotu și Narcis Bujor nu s-au mai abținut! Cei doi au avut relații intime, iar concurenta nu a regretat nimic. Însă, telespectatorii au reacționat în mediul online, judecând-o pentru alegerea fă…",
+    "content_ro": "Bianca Iotu și Narcis Bujor nu s-au mai abținut! Cei doi au avut relații intime, iar concurenta nu a regretat nimic. Însă, telespectatorii au reacționat în mediul online, judecând-o pentru alegerea făcută. Din acest motiv, fratele acesteia a răbufnit. După ce a văzut imaginile intime cu sora lui și Narcis Bujor, tânărul a reacționat și […]"
+  },
+  {
+    "group_id": "group_bb6da81c21",
+    "fingerprint": "f1ab13c814ba103f0dfb189b5a0e38a3",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/diddy-hepta_mediafax_foto-zuma_press_hepta-1024x812.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Diddy, transferat de urgență într-un alt penitenciar. Decizia vine la câteva zile după ce rapperul a fost spitalizat",
+        "link": "https://www.mediafax.ro/life-entertaiment/diddy-transferat-de-urgenta-intr-un-alt-penitenciar-decizia-vine-la-cateva-zile-dupa-ce-rapperul-a-fost-spitalizat-23826939"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Rapperul Sean „Diddy” Combs, mutat în altă închisoare după ce s-a aflat că ducea o viață de lux în celulă",
+        "link": "https://hotnews.ro/rapperul-sean-diddy-combs-mutat-fortat-in-alta-inchisoare-dupa-ce-s-a-aflat-ca-ducea-o-viata-de-lux-in-celula-2378537"
+      }
+    ],
+    "published_at": 1792226233,
+    "title_hu": "Sean „Diddy” Combst másik, alacsony biztonsági fokozatú börtönbe helyezték át",
+    "lead_hu": "Sean „Diddy” Combst október 16-án a New Jersey-i FCI Fort Dixből a pennsylvaniai FCI Allenwood Low intézetbe szállították át. A hatóságok nem közölték a döntés okát; a rapper áthelyezése előtt kórházi ellátásra szorult, de a börtönhatóság cáfolta, hogy egy állítólagos verekedés miatt sérült volna meg.",
+    "content_hu": "• **Október 16-án** Sean „Diddy” Combst a New Jersey-i FCI Fort Dixből a pennsylvaniai, alacsony biztonsági fokozatú FCI Allenwood Low börtönbe helyezték át. Az átszállítást az amerikai Szövetségi Börtönügyi Hivatal, valamint a rapper képviselői is megerősítették.\n\n• **Az áthelyezés hivatalos oka nem ismert.** A hatóságok adatvédelmi és biztonsági szempontokra hivatkozva nem közöltek részleteket; Combs szóvivője szerint az elhelyezésről a büntetés-végrehajtás dönt, ezért a csapat nem tudja megmondani, mi indokolta a lépést.\n\n• **A rapper az átszállítás előtt kórházi ellátást kapott.** A beszámolók szerint egy nem életveszélyes sérülés miatt vitték kórházba, majd még aznap visszatért Fort Dixbe. A sajtóban megjelent, verekedésről szóló feltételezést a Szövetségi Börtönügyi Hivatal hamisnak nevezte; a sérülés körülményei nem tisztázottak.\n\n• **A Fort Dixben töltött időszakot a börtönbeli kiváltságokról szóló hírek is kísérték.** Az NBC News korábban arról számolt be, hogy Combs tiltott mobiltelefonhoz és alkoholhoz juthatott, a HotNews.ro pedig olyan értesüléseket idézett, amelyek szerint más rabok főztek és takarítottak neki, illetve masszírozták. A beszámolók nyomán 41 napot vontak le a jó magaviseletért járó büntetéscsökkentéséből, így a várható szabadulási dátum 2028 márciusára tolódott.",
+    "title_ro": "Sean „Diddy” Combs, transferat într-un alt penitenciar cu regim de securitate redus",
+    "lead_ro": "Sean „Diddy” Combs a fost transferat pe 16 octombrie de la FCI Fort Dix, din New Jersey, la penitenciarul FCI Allenwood Low din Pennsylvania. Autoritățile nu au precizat motivul mutării; înainte de transfer, rapperul a primit îngrijiri medicale, însă administrația penitenciară a respins informațiile potrivit cărora s-ar fi rănit într-o altercație.",
+    "content_ro": "• **Pe 16 octombrie**, Sean „Diddy” Combs a fost mutat de la FCI Fort Dix, din New Jersey, la FCI Allenwood Low, un penitenciar federal cu regim de securitate redus din Pennsylvania. Transferul a fost confirmat de Biroul Federal al Penitenciarelor din SUA și de reprezentanții rapperului.\n\n• **Motivul oficial al transferului nu a fost comunicat.** Autoritățile au invocat considerații privind confidențialitatea și securitatea, iar purtătorul de cuvânt al lui Combs a spus că deciziile privind plasarea deținuților aparțin administrației penitenciare.\n\n• **Rapperul a primit îngrijiri medicale înainte de transfer.** Potrivit relatărilor, el a fost dus la spital pentru o rană care nu îi punea viața în pericol, apoi s-a întors în aceeași zi la Fort Dix. Biroul Federal al Penitenciarelor a negat informațiile din presă despre o presupusă bătaie; circumstanțele rănirii nu sunt clare.\n\n• **Perioada petrecută la Fort Dix a fost însoțită de relatări despre privilegii în penitenciar.** NBC News a scris că artistul ar fi avut acces la un telefon mobil și alcool introduse ilegal, iar HotNews.ro a relatat acuzații potrivit cărora alți deținuți îi găteau și făceau curățenie pentru el și îi ofereau masaje. În urma relatărilor, i-au fost retrase 41 de zile din reducerea pedepsei pentru bună purtare, iar data estimată a eliberării a fost amânată până în martie 2028."
+  },
+  {
+    "group_id": "group_dd47ae5d10",
+    "fingerprint": "2ea9e73e1eb93d4cd5660680f4d284fc",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2025/07/10/210000/62559342.jpg?fm=jpg&q=80&fit=crop&crop=6220%2C4248%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Câți români vor să continue să muncească și după ce ating vârsta de pensionare. Rezultatele surprinzătoare ale unui studiu",
+        "link": "https://stirileprotv.ro/stiri/social/cati-romani-vor-sa-continue-sa-munceasca-si-dupa-ce-ating-varsta-de-pensionare-rezultatele-surprinzatoare-ale-unui-studiu.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Nyugdíj helyett hivatás? – Szívesen maradnak munkában az idősebb hazai alkalmazottak",
+        "link": "https://maszol.ro/gazdasag/Nyugdij-helyett-hivatas-Szivesen-maradnak-munkaban-az-idosebb-hazai-alkalmazottak"
+      },
+      {
+        "source": "Economedia",
+        "title": "Studiu: 42% dintre angajații români de peste 55 de ani ar continua să lucreze după pensionare. Sănătatea și echilibrul personal, printre factorii care contează",
+        "link": "https://economedia.ro/studiu-42-dintre-angajatii-romani-de-peste-55-de-ani-ar-continua-sa-lucreze-dupa-pensionare-sanatatea-si-echilibrul-personal-printre-factorii-care-conteaza.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Câți pensionari a avut România la finalul lunii septembrie 2026. Pensia medie a fost de 2.785 de lei",
+        "link": "https://stirileprotv.ro/stiri/financiar/cati-pensionari-avea-romania-la-finalul-lunii-septembrie-2026-pensia-medie-a-fost-de-2-785-de-lei.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Kiderült mennyi volt az átlagnyugdíj szeptemberben",
+        "link": "https://maszol.ro/gazdasag/Kiderult-mennyi-volt-az-atlagnyugdij-szeptemberben"
+      }
+    ],
+    "published_at": 1792226160,
+    "title_hu": "A romániai 55 év felettiek 42 százaléka nyugdíj után is dolgozna",
+    "lead_hu": "Az SD Worx felmérése szerint a legalább 55 éves romániai munkavállalók 42 százaléka kész lenne a törvényes nyugdíjkorhatár elérése után is dolgozni, szemben a 32 százalékos európai átlaggal. A munkaerőhiány a romániai HR-döntéshozók közel felét érinti, miközben a friss hivatalos adatok szerint szeptemberben 4,67 millió nyugdíjast tartottak nyilván Romániában. A munkában maradás szándékát a szakmai elégedettség mellett az egészségi állapot és a magánéleti egyensúly is befolyásolja.",
+    "content_hu": "• **Az 55 év feletti romániai munkavállalók 42 százaléka** nyitott arra, hogy a törvényes nyugdíjkorhatár elérése után is folytassa a munkát; az európai átlag 32 százalék. A 35 év alatti romániai dolgozók körében is jelentős, 34 százalékos ez az arány, míg európai kortársaiknak valamivel több mint negyede vállalná a további munkát.\n\n• **A munkaerőhiány és a demográfiai változások** növelik a tapasztalt munkavállalók megtartásának jelentőségét: a romániai HR-döntéshozók 49 százaléka jelez létszámhiányt, szemben az 52 százalékos európai átlaggal. Az Eurostat adatai szerint a legalább 65 évesek aránya Európában a 2005-ös 17 százalékról 2025-re becslések szerint 22 százalékra nőtt; az Európai Bizottság pedig 2022 és 2070 között mintegy 12 százalékos munkaerő-csökkenést jelez előre.\n\n• **A korai nyugdíjazást a fiatalabbak nagyobb arányban választanák:** Romániában a 35 év alattiak 63 százaléka, az 55 év felettiek 40 százaléka vonulna inkább korábban nyugdíjba. Az idősebbek ezt leggyakrabban azzal indokolják, hogy több időt szeretnének a családra és a magánéletre (78 százalék), egészségi okokkal (72 százalék), illetve személyes céljaik megvalósításával (44 százalék). A fizikailag vagy szellemileg megterhelő munkát ritkábban említik indokként, mint az európai válaszadók: az arány 13, illetve 17 százalék, szemben a 25, illetve 26 százalékkal.\n\n• **Az idősebb dolgozók többsége pozitívan látja a munkáját:** 86 százalékuk úgy érzi, elegendő energiája van a feladatai jó elvégzéséhez, 84 százalékuk értelmesnek és kiteljesítőnek tartja a munkáját, 84 százalékuk pedig elégedett vele. A munkájuk megbecsülését 74 százalék érzékeli. A 35 év alattiaknál az energiára vonatkozó arány 69, a munkával való elégedettségé 72 százalék.\n\n• **Az idősebb munkavállalók ritkábban keresnek új állást vagy szerepkört:** másik szervezetnél a legalább 55 évesek 9 százaléka, a 35 év alattiak 32 százaléka keres aktívan munkát; a jelenlegi munkahelyükön belül új szerepkört pedig az idősebbek 9, a fiatalabbak 25 százaléka keres. A legalább 55 évesek 46 százaléka nem szeretne képzési programban részt venni, miközben 63 százalékuk azt mondja, továbbfejlesztené a készségeit.\n\n• **A technológiai változásokkal kapcsolatban az idősebbek magabiztosabbak, de ritkábban használnak mesterséges intelligenciát:** 64 százalékuk bízik abban, hogy az automatizálás mellett is megmarad a munkahelye, a 35 év alattiaknál ez az arány 51 százalék. Rendszeresen MI-eszközöket viszont az idősebbek 30, a fiatalabbak 42 százaléka használ, és az 55 év felettieknek csupán 31 százaléka érzi úgy, hogy elegendő támogatást kap a technológiai változásokra való felkészüléshez. Az 50 év felettiek 67 százaléka szerint egyedi képességeiket nem helyettesítheti a mesterséges intelligencia; a 35 év alattiaknál ez az arány 69 százalék.\n\n• **2026 szeptemberének végén 4 674 614 nyugdíjast tartottak nyilván Romániában**, 2725-tel kevesebbet, mint az előző hónapban; az átlagnyugdíj 2785 lej, a nyugdíjkiadások összege pedig 13,02 milliárd lej volt. A mezőgazdasági munkaviszony alapján nyugdíjat kapók átlagosan 708 lejt, az öregségi nyugdíjasok 3119 lejt kaptak.",
+    "title_ro": "42% dintre românii de peste 55 de ani ar continua să lucreze după pensionare",
+    "lead_ro": "Potrivit studiului SD Worx, 42% dintre angajații români de cel puțin 55 de ani ar fi dispuși să lucreze și după atingerea vârstei legale de pensionare, față de media europeană de 32%. Deficitul de personal afectează aproape jumătate dintre decidenții HR din România, iar datele oficiale arată că la sfârșitul lunii septembrie erau înregistrați 4,67 milioane de pensionari. Intenția de a rămâne în activitate este influențată atât de satisfacția profesională, cât și de sănătate și echilibrul dintre muncă și viața personală.",
+    "content_ro": "• **42% dintre angajații români de cel puțin 55 de ani** sunt deschiși să continue să lucreze după atingerea vârstei legale de pensionare; media europeană este de 32%. Proporția este de 34% și în rândul angajaților români sub 35 de ani, față de puțin peste un sfert în rândul colegilor lor europeni.\n\n• **Deficitul de personal și schimbările demografice** sporesc importanța păstrării angajaților cu experiență: 49% dintre decidenții HR din România declară că organizațiile lor se confruntă cu un deficit de personal, comparativ cu media europeană de 52%. Potrivit Eurostat, ponderea persoanelor de cel puțin 65 de ani în Europa a crescut de la 17% în 2005 și era estimată să ajungă la 22% în 2025; Comisia Europeană estimează că forța de muncă ar putea scădea cu aproximativ 12% între 2022 și 2070.\n\n• **Angajații tineri ar alege mai des pensionarea anticipată:** în România, 63% dintre cei sub 35 de ani și 40% dintre cei de cel puțin 55 de ani ar prefera să se pensioneze mai devreme. Angajații mai în vârstă indică cel mai frecvent dorința de a petrece mai mult timp cu familia sau pentru viața personală (78%), sănătatea (72%) și obiectivele personale (44%). Munca solicitantă fizic sau psihic este menționată mai rar decât la nivel european: 13%, respectiv 17%, față de 25% și 26%.\n\n• **Majoritatea angajaților mai în vârstă au o percepție pozitivă asupra muncii:** 86% spun că au suficientă energie pentru a-și îndeplini bine sarcinile, 84% consideră că munca le oferă sens și împlinire, iar 84% declară că sunt mulțumiți de activitatea lor. În plus, 74% simt că munca le este apreciată. În rândul celor sub 35 de ani, 69% spun că au suficientă energie, iar 72% sunt mulțumiți de munca lor.\n\n• **Angajații mai în vârstă caută mai rar un alt loc de muncă sau un alt rol:** 9% dintre cei de cel puțin 55 de ani caută activ un loc de muncă într-o altă organizație, comparativ cu 32% dintre cei sub 35 de ani. În cadrul organizației actuale, caută un alt rol 9% dintre angajații mai în vârstă și 25% dintre cei mai tineri. Totodată, 46% dintre cei de cel puțin 55 de ani spun că nu doresc să participe la programe de formare, deși 63% declară că vor să își dezvolte în continuare competențele.\n\n• **Angajații mai în vârstă au mai multă încredere în fața schimbărilor tehnologice, dar folosesc mai rar inteligența artificială:** 64% dintre cei de cel puțin 55 de ani au încredere că își vor păstra locul de muncă chiar dacă automatizarea le schimbă activitatea, față de 51% dintre cei sub 35 de ani. Folosesc regulat instrumente de IA 30% dintre angajații mai în vârstă și 42% dintre cei mai tineri; doar 31% dintre cei de cel puțin 55 de ani consideră că primesc suficient sprijin pentru a se pregăti pentru schimbările tehnologice. Dintre angajații de peste 50 de ani, 67% cred că abilitățile lor unice nu pot fi înlocuite de IA, față de 69% dintre cei sub 35 de ani.\n\n• **La sfârșitul lunii septembrie 2026, România avea 4.674.614 pensionari**, cu 2.725 mai puțini decât în luna precedentă. Pensia medie era de 2.785 de lei, iar cheltuielile totale cu pensiile au ajuns la 13,02 miliarde de lei. Pensionarii cu stagii de cotizare în agricultură primeau în medie 708 lei, iar pensia medie pentru limită de vârstă era de 3.119 lei."
+  },
+  {
+    "group_id": "group_37a17af325",
+    "fingerprint": "57ed4799144e909774a71236fdd322e0",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/untitled-1-1024x444.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "S-a tuns cu un minut înainte de a se cântări, ca să nu fie anulată lupta, dar a pierdut titlul mondial la MMA",
+        "link": "https://www.mediafax.ro/sport/s-a-tuns-cu-un-minut-inainte-de-a-se-cantari-ca-sa-nu-fie-anulata-lupta-dar-a-pierdut-titlul-mondial-la-mma-23827063"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Au tuns-o chiar înaintea cântarului, ca lupta să nu fie anulată! A pierdut însă centura",
+        "link": "https://www.gsp.ro/sporturi/altele/liz-carmouche-tuns-cantar-jena-bishop-989066.html"
+      }
+    ],
+    "published_at": 1792226152,
+    "title_hu": "Liz Carmouche hajvágással mérlegelt be, Jena Bishop nyerte a PFL-címmérkőzést",
+    "lead_hu": "Liz Carmouche közvetlenül a mérlegelés előtt levágatta a haját, hogy meglegyen a PFL 125 fontos, azaz 56,7 kilogrammos légsúlyhatára. A Jena Bishop elleni címmeccset azonban egyhangú pontozással elveszítette, így Bishop lett a szervezet első légsúlyú bajnoka.",
+    "content_hu": "• **A mérlegelés előtt** Carmouche-nak már csak egy perce maradt, és elmondása szerint minden más lehetőséget kimerített, ezért a hajából is levágott, hogy elérje a 125 fontos súlyhatárt.\n\n• **A címmeccsen** Jena Bishop mindhárom pontozónál 48–47-re nyert, ezzel megszerezte a PFL első légsúlyú bajnoki címét. Bishop az előző évben elszenvedett vereségért is visszavágott.\n\n• **Carmouche korábbi győzelme** a 2025-ös találkozójukon született; a mostani vereség után a mérlegelés előtti hajvágás vált a mérkőzés egyik legemlékezetesebb mozzanatává.",
+    "title_ro": "Liz Carmouche s-a tuns înainte de cântar, dar Jena Bishop a câștigat lupta pentru titlul PFL",
+    "lead_ro": "Liz Carmouche s-a tuns chiar înainte de cântărire, în încercarea de a se încadra în limita de 125 de livre, echivalentă cu 56,7 kilograme. A pierdut însă prin decizie unanimă meciul pentru titlul PFL împotriva Jenei Bishop, care a devenit prima campioană a promoției la categoria muscă.",
+    "content_ro": "• **Înainte de cântărire**, Carmouche mai avea un minut și, potrivit propriilor declarații, încercase deja celelalte soluții, așa că a recurs la tăierea părului pentru a ajunge la limita de 125 de livre.\n\n• **În lupta pentru titlu**, Jena Bishop a câștigat cu 48–47 pe toate cele trei foi de arbitraj și a devenit prima campioană PFL la categoria muscă. Astfel, și-a luat revanșa pentru înfrângerea suferită în fața lui Carmouche în anul precedent.\n\n• **În întâlnirea lor din 2025**, Carmouche o învinsese pe Bishop; de această dată a pierdut, iar tunsoarea făcută înainte de cântar a devenit unul dintre momentele remarcate ale meciului."
+  },
+  {
+    "group_id": "group_a1f701f998",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pexels-jvdm-11477423-682x1024.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cele mai ciudate acorduri de înfrățire între orașe. Pe listă sunt localități din România, orașe fictive și jocuri de cuvinte",
+        "link": "https://www.mediafax.ro/social/cele-mai-ciudate-acorduri-de-infratire-intre-orase-pe-lista-sunt-localitati-din-romania-orase-fictive-si-jocuri-de-cuvinte-23824993"
+      }
+    ],
+    "published_at": 1792226149,
+    "title_hu": "Cele mai ciudate acorduri de înfrățire între orașe. Pe listă sunt localități din România, orașe fictive și jocuri de cuvinte",
+    "lead_hu": "Lumea înfrățirilor între orașe este plină de decizii greu de înțeles la prima vedere. Pe listă sunt comunități care s-au înfrățit cu orașe fictive, dar și localități din România care au parteneri ofic…",
+    "content_hu": "Lumea înfrățirilor între orașe este plină de decizii greu de înțeles la prima vedere. Pe listă sunt comunități care s-au înfrățit cu orașe fictive, dar și localități din România care au parteneri oficiali în cele mai izolate sau exotice colțuri ale planetei.",
+    "title_ro": "Cele mai ciudate acorduri de înfrățire între orașe. Pe listă sunt localități din România, orașe fictive și jocuri de cuvinte",
+    "lead_ro": "Lumea înfrățirilor între orașe este plină de decizii greu de înțeles la prima vedere. Pe listă sunt comunități care s-au înfrățit cu orașe fictive, dar și localități din România care au parteneri ofic…",
+    "content_ro": "Lumea înfrățirilor între orașe este plină de decizii greu de înțeles la prima vedere. Pe listă sunt comunități care s-au înfrățit cu orașe fictive, dar și localități din România care au parteneri oficiali în cele mai izolate sau exotice colțuri ale planetei."
+  },
+  {
+    "group_id": "group_9f4cec6c5d",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-6/6cd33ae5-de10-4609-aa09-4fcb61687fb8/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0.029%252C0.512%252C0.922%252C0.488%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Noul design al Aeroportului Otopeni, ironizat pe internet. Cum explică arhitectul alegerea culorilor",
+        "link": "https://adevarul.ro/stiri-interne/societate/noul-design-al-aeroportului-otopeni-ironizat-pe-2564654.html"
+      }
+    ],
+    "published_at": 1792226118,
+    "title_hu": "Noul design al Aeroportului Otopeni, ironizat pe internet. Cum explică arhitectul alegerea culorilor",
+    "lead_hu": "Noul design al Aeroportului Otopeni, cu pardoseli în culori puternice și forme geometrice, a stârnit un val de ironii pe rețelele sociale.",
+    "content_hu": "Noul design al Aeroportului Otopeni, cu pardoseli în culori puternice și forme geometrice, a stârnit un val de ironii pe rețelele sociale.",
+    "title_ro": "Noul design al Aeroportului Otopeni, ironizat pe internet. Cum explică arhitectul alegerea culorilor",
+    "lead_ro": "Noul design al Aeroportului Otopeni, cu pardoseli în culori puternice și forme geometrice, a stârnit un val de ironii pe rețelele sociale.",
+    "content_ro": "Noul design al Aeroportului Otopeni, cu pardoseli în culori puternice și forme geometrice, a stârnit un val de ironii pe rețelele sociale."
+  },
+  {
+    "group_id": "group_53be683322",
+    "fingerprint": "db0ef9aa7645d65a4c03814903aa882f",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/12/Nicusor-Dan.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 12,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Nicușor Dan discută miercuri cu președinta Bulgariei pe tema atacurilor asupra navelor din Marea Neagră și asigurării siguranței navigației maritime",
+        "link": "https://www.g4media.ro/nicusor-dan-discuta-miercuri-cu-presedinta-bulgariei-pe-tema-atacurilor-asupra-navelor-din-marea-neagra-si-asigurarii-sigurantei-navigatiei-maritime.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicuşor Dan şi premierul bulgar se întâlnesc astăzi cu Mark Rutte pentru a discuta despre securitatea la Marea Neagră",
+        "link": "https://www.digi24.ro/stiri/actualitate/nicusor-dan-si-premierul-bulgar-se-intalnesc-astazi-cu-mark-rutte-pentru-a-discuta-despre-securitatea-la-marea-neagra-3993477"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Nave scufundate în Marea Neagră: Nicușor Dan se întâlnește cu premierul din Bulgaria și secretarul general NATO pentru a stabili o reacție comună / Propunerea lui Rumen Radev",
+        "link": "https://hotnews.ro/nave-scufundate-in-marea-neagra-nicusor-dan-se-intalneste-premierul-din-bulgaria-si-secretarul-general-nato-pentru-a-stabili-o-reactie-comuna-propunerea-lui-rumen-radev-2376783"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A román partokig értek a fekete-tengeri dróntámadások, a NATO megerősíti a védelmét",
+        "link": "https://transtelex.ro/kozelet/2026/10/15/nato-fekete-tengeri-drontamadasok-kereskedelmi-hajozas"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Surse: Avertismentul NATO pentru România. Ce a cerut Bucureștiul după atacurile asupra navelor de la Marea Neagră",
+        "link": "https://stirileprotv.ro/stiri/international/avertisment-nato-dupa-atacurile-din-marea-neagra-rusia-ar-putea-intensifica-provocarile-cum-se-apara-romania.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "Hub de Securitate Maritimă de la Marea Neagră: drumul spre operaționalizare",
+        "link": "https://economedia.ro/hub-de-securitate-maritima-de-la-marea-neagra-drumul-spre-operationalizare.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Oana Țoiu, despre măsurile României pentru apărarea Mării Negre: „Prioritatea este un efort diplomatic pentru a obține un armistițiu”",
+        "link": "https://www.mediafax.ro/politic/oana-toiu-despre-masurile-romaniei-pentru-apararea-marii-negre-prioritatea-este-un-efort-diplomatic-pentru-a-obtine-un-armistitiu-23826573"
+      },
+      {
+        "source": "Mediafax",
+        "title": "România cere ajutor pentru securitatea la Marea Neagră. Nicușor Dan: „Franța s-a oferit să ne ajute cu echipamentele necesare”",
+        "link": "https://www.mediafax.ro/politic/romania-cere-ajutor-pentru-securitatea-la-marea-neagra-nicusor-dan-franta-s-a-oferit-sa-ne-ajute-cu-echipamentele-necesare-23826874"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Nicușor Dan spune că Franța s-a oferit să ajute România cu echipamente pentru a asigura securitatea la Marea Neagră",
+        "link": "https://hotnews.ro/nicusor-dan-spune-ca-franta-s-a-oferit-sa-ajute-romania-cu-echipamente-pentru-securitatea-la-marea-neagra-2378321"
+      },
+      {
+        "source": "Mediafax",
+        "title": "România își cheamă aliații în ajutor la Marea Neagră. Nicușor Dan: „Sunt convins că și alți aliați vor răspunde”",
+        "link": "https://www.mediafax.ro/politic/romania-isi-cheama-aliatii-in-ajutor-la-marea-neagra-nicusor-dan-sunt-convins-ca-si-alti-aliati-vor-raspunde-23826880"
+      },
+      {
+        "source": "Maszol",
+        "title": "Franciaország segítséget kínált a fekete-tengeri térség biztonságának megerősítéséhez",
+        "link": "https://maszol.ro/kulfold/Franciaorszag-segitseget-kinalt-a-fekete-tengeri-terseg-biztonsaganak-megerositesehez"
+      },
+      {
+        "source": "G4Media",
+        "title": "Nicușor Dan s-a întâlnit cu Emmanuel Macron: „Am exprimat profunda îngrijorare a României cu privire la recentele atacuri cu drone asupra navelor comerciale din Marea Neagră / Am apreciat solidaritatea și sprijinul exprimate de Franța”",
+        "link": "https://www.g4media.ro/nicusor-dan-s-a-intalnit-cu-emmanuel-macron-am-exprimat-profunda-ingrijorare-a-romaniei-cu-privire-la-recentele-atacuri-cu-drone-asupra-navelor-comerciale-din-marea-neagra-am-apreciat-solidaritat.html"
+      }
+    ],
+    "published_at": 1792226019,
+    "title_hu": "Románia és Bulgária közös fellépést sürget a Fekete-tengeren, Franciaország átmeneti segítséget ajánlott",
+    "lead_hu": "Nicușor Dan és Iliana Iotova szorosabb román–bolgár együttműködésben állapodott meg a drónfenyegetés elleni uniós és NATO-intézkedésekért, a NATO pedig megerősítette, hogy fokozta a keleti szárny drónelhárító képességeit. Románia átmeneti katonai segítséget kért a SAFE-programban rendelt eszközök megérkezéséig; Franciaország 24 órán belül készséget jelzett a támogatásra. Eközben a Sulina közelében kigyulladt hajók ügyében folytatódik a vizsgálat, és a fekete-tengeri biztonsági központ előkészítése is halad.",
+    "content_hu": "• **Október 14-én Nicușor Dan és Iliana Iotova egyeztetett:** a román és a bolgár államfő szorosabb együttműködést sürgetett, hogy az EU és a NATO határozottabb drónelhárító intézkedéseket hozzon a fekete-tengeri kereskedelmi hajózás biztonságáért. Dan szerint a támadások Oroszország Ukrajna elleni háborújának közvetlen következményei, és a más kontinensekre irányuló létfontosságú mezőgazdasági szállításokat is veszélyeztetik.\n\n• **Románia, Bulgária és Törökország koordinációt sürget:** fokozott megfigyelést, információcserét és közvetlen műveleti csatornákat szorgalmaznak a tengeri útvonalak védelmére, a NATO információs mechanizmusaival összhangban. Ilie Bolojan elítélte a bolgár kizárólagos gazdasági övezetben civil hajókat ért támadásokat, és a nemzetközi jog súlyos megsértésének nevezte azokat.\n\n• **Október 5-én a Royad Mammadov hajót drónok találták el** a román partok közelében, a Pescăruș platformnál. A hatóságok szerint a legénység két tagja meghalt, tizenegy megsebesült; a történteket a háború kezdete óta a román partok közelében történt legsúlyosabb incidensként írták le.\n\n• **Október 12–13-án Bulgária közelében két hajót ért támadás:** a máltai zászló alatt közlekedő, ukrán tulajdonú Chelsea 3 mind a 15 fős legénységét kimenekítették; a beszámolók öt-hat sebesültről szóltak. Egy másik hajó elsüllyedt, a túlélőkről szóló információk ellentmondásosak. A drónok eredetét és a felelősöket nem támasztották alá meggyőző bizonyítékokkal.\n\n• **A Sulina környéki hajótüzek ügyében vizsgálat folyik:** a Comore-szigeteki zászló alatt közlekedő, üres Yara J fedélzetén szerda este tűz ütött ki; a román katonai radarok nem észleltek a hajó felé tartó drónt. A San Marino zászlaja alatt hajózó Wine Trader csütörtök reggel gyulladt ki Sulinától 14 tengeri mérföldre; a 12 fős legénységből nyolcat eltűntként jelentettek. Dan később azt mondta, mindkét hajót légi drón találta el, de a román hatóságok hivatalosan nem azonosították az elkövetőt.\n\n• **Sulina és a Kígyó-sziget közelében drónokat észleltek:** a román katonai radarok jelzései nyomán négy F-18-as és F-16-os vadászgépet riasztottak. A hajók elleni támadások elkövetőjét hivatalosan nem nevezték meg.\n\n• **Az elmúlt négy hónap incidenseinek összesítése szerint** tíz kereskedelmi hajót találtak el vagy süllyesztettek el a nyugati Fekete-tengeren, Románia és Bulgária partjai közelében; legalább három halottról és 28 eltűnt tengerészről számoltak be. Az összesítés dróntámadásokat és lehetséges aknarobbanásokat is említ.\n\n• **Október 15-én Dan, Rumen Radev és Mark Rutte a fekete-tengeri biztonságról tárgyalt:** a NATO-főtitkár közölte, hogy a szövetség megerősítette a keleti szárny védelmét, többek között a drónelhárító képességeket, és szükség szerint alakítja elrettentési és védelmi intézkedéseit. Dan új fenyegetéstípushoz szükséges eszközöket kért; a NATO Észak-atlanti Tanácsa október 20-án külön ülésezik a román kérésre. Románia nem aktiválta a NATO 4. cikkét; ProTV által idézett NATO-források fokozatos és arányos válaszról, illetve további orosz provokációk lehetőségéről beszéltek.\n\n• **Románia átmeneti védelmi eszközöket kért a SAFE-szállításokig:** Franciaország 24 órán belül felajánlotta segítségét, a technikai egyeztetések megkezdődtek. A SAFE-programban rendelt eszközök szerződéstől függően másfél-két és fél év múlva érkezhetnek meg. Dan szerint egy korábbi, dunai drónfenyegetés idején hat ország – az Egyesült Államok, Franciaország, Olaszország, Spania, Szlovákia és Portugália – segítette Romániát; most más szövetségesek válaszára is számít.\n\n• **Dan Emmanuel Macronnal is egyeztetett:** a román elnök aggodalmát fejezte ki a fekete-tengeri kereskedelmi hajókat ért dróntámadások miatt, és méltatta Franciaország szolidaritását, valamint a térség hajózási biztonságához nyújtott támogatását. A román–francia stratégiai partnerséget a közös biztonság fontos pillérének nevezte.\n\n• **Ukrajna drónelhárítási tapasztalatokat oszthat meg Romániával:** Dan szerint Ukrajna rendelkezik átadható szakértelemmel; a konkrét együttműködés részleteit nem ismertették. Az elnök azt mondta, technikai bizonyítékot egyelőre nem tud felmutatni arra, hogy a drónok orosz eredetűek, de szerinte a bizonytalanság helyzetének Oroszország a haszonélvezője.\n\n• **Közös fekete-tengeri katonai parancsnokság lehetősége merült fel:** Radu Miruță román védelmi miniszter közös NATO-kezdeményezést és a NATO vezetésének címzett közös levelet javasolt. Románia 2028-tól adna helyet a parancsnokságnak, addig törökországi működést javasolt román és bolgár tisztek részvételével; egy terv szerint Románia, Bulgária és Törökország rotációban vezetné a struktúrát. Bukarest öt képességet ajánlott fel: egy Törökországból érkezett korvettet és négy, 2030-ig leszállítandó hajót.\n\n• **Az uniós fekete-tengeri tengeri biztonsági központ előkészítése halad, de a hálózat még nem teljesen működőképes:** a 2025-ös uniós stratégia regionális, civil és intézményközi rendszert irányoz elő, román–bolgár koordinációval, uniós támogatással és a török, ukrán, illetve moldovai részvétel lehetőségével. A közös koncepciót június 15-én ismertették az EU külügyi tanácsában, Constanța és Várna helyszínét pedig szeptember 22-én erősítették meg. A kezdeményezést a román nemzeti védelmi stratégia és az uniós stratégia végrehajtása is rögzíti; a finanszírozás, a szervezeti működés és az információcsere részletei még kidolgozásra várnak.\n\n• **A MCM Black Sea a központtól elkülönülő, de azt kiegészítő katonai mechanizmus:** a 2024-ben létrehozott, július 1-jétől működő román–bolgár–török aknamentesítő csoport feladatát a 2026-os ankarai NATO-csúcson kiterjesztették a tengeralatti kritikus infrastruktúra védelmére is. 2026 júliusáig tíz aktiválást hajtott végre, a 11. műveletre július 9–24. között került sor.\n\n• **A román haditengerészeti és kritikusinfrastruktúra-védelem fejlesztése prioritás:** Oana Țoiu a haditengerészeti képességek, a radarok és a kockázatfigyelés erősítését emelte ki. Románia a Neptun Deep gázmező és a tengeralatti kábelek védelmét is fontosnak tartja; a gázmező termelése a tervek szerint a következő évben akár 80 százalékkal növelheti a hazai gáztermelést. Bukarest Litvániával a balti-tengeri biztonsági tapasztalatok megosztásáról is egyeztetett.\n\n• **Bulgária moratóriumot sürget a civil hajók elleni támadásokra:** Rumen Radev szerint az EU-csúcson is megvitatják a javaslatot, az Európai Tanács következtetései pedig felszólítják a feleket, hogy ne támadjanak hajókat a Fekete-tengeren. Țoiu a fekete-tengeri tűzszünet elérését nevezte diplomáciai prioritásnak; Románia, Franciaország, az Európai Bizottság és Ukrajna mintegy harminc országgal együtt sürgette az erre irányuló erőfeszítéseket.\n\n• **Románia uniós finanszírozással is erősítené a határ- és tengeri biztonságot:** Țoiu a NATO keleti szárnyának, valamint a fekete-tengeri elrettentésnek és védelemnek a fejlesztését sürgette. Bukarest uniós támogatást kér a biztonsági központhoz, és a tengeri biztonságot a 2028–2034-es uniós költségvetés tárgyalásain is előtérbe helyezné.\n\n• **A Fekete-tenger háborúja egyre közvetlenebbül érinti a kereskedelmi hajózást:** Ukrajna szankcionált orosz olajexportban részt vevő tankereket támadott, Oroszország pedig fokozta az ukrán kikötők és exportlétesítmények elleni csapásokat; az oda tartó vagy onnan induló kereskedelmi hajókat is egyre több támadás éri.",
+    "title_ro": "România și Bulgaria cer acțiuni comune la Marea Neagră, iar Franța a oferit sprijin temporar",
+    "lead_ro": "Nicușor Dan și Iliana Iotova au convenit asupra unei cooperări mai strânse româno-bulgare pentru măsuri UE și NATO împotriva amenințării dronelor, iar NATO a anunțat consolidarea capacităților anti-dronă de pe flancul estic. România a cerut sprijin militar temporar până la sosirea echipamentelor comandate prin programul SAFE, iar Franța s-a oferit să ajute în 24 de ore. Între timp, continuă ancheta privind incendiile de pe navele din apropiere de Sulina, iar pregătirea hubului de securitate maritimă la Marea Neagră avansează.",
+    "content_ro": "• **La 14 octombrie, Nicușor Dan și Iliana Iotova au discutat:** președinții României și Bulgariei au cerut o cooperare mai strânsă pentru măsuri mai ferme ale UE și NATO împotriva dronelor, în vederea protejării navigației comerciale la Marea Neagră. Dan a spus că atacurile sunt consecințe directe ale războiului Rusiei împotriva Ucrainei și pun în pericol inclusiv livrările vitale de produse agricole către alte continente.\n\n• **România, Bulgaria și Turcia cer coordonare:** cele trei țări susțin intensificarea supravegherii, schimbul de informații și canale operaționale directe pentru protejarea rutelor maritime, în acord cu mecanismele NATO. Ilie Bolojan a condamnat atacurile asupra navelor civile din zona economică exclusivă a Bulgariei, calificându-le drept încălcări grave ale dreptului internațional.\n\n• **La 5 octombrie, nava Royad Mammadov a fost lovită de drone** în apropierea platformei Pescăruș, în largul coastelor românești. Potrivit autorităților, doi membri ai echipajului au murit și alți unsprezece au fost răniți; incidentul a fost descris drept cel mai grav produs în apropierea litoralului românesc de la începutul războiului.\n\n• **În 12–13 octombrie, două nave au fost atacate în apropiere de Bulgaria:** toți cei 15 membri ai echipajului navei Chelsea 3, sub pavilion maltez și deținută de proprietari ucraineni, au fost evacuați; relatările au indicat cinci-șase răniți. O altă navă s-a scufundat, iar informațiile despre supraviețuitori au fost contradictorii. Nu au fost prezentate dovezi convingătoare privind originea dronelor sau autorii atacurilor.\n\n• **Incendiile de pe navele din zona Sulina sunt anchetate:** miercuri seara a izbucnit un incendiu la bordul navei goale Yara J, sub pavilionul Insulelor Comore; radarele militare românești nu au detectat o dronă îndreptându-se spre navă. Joi dimineață, nava Wine Trader, sub pavilion San Marino, a luat foc la 14 mile marine de Sulina; opt dintre cei 12 membri ai echipajului au fost dați dispăruți. Ulterior, Dan a declarat că ambele nave au fost lovite de drone aeriene, dar autoritățile române nu au identificat oficial autorul.\n\n• **Drone au fost detectate în apropiere de Sulina și de Insula Șerpilor:** în urma semnalelor radarelor militare românești au fost ridicate patru avioane F-18 și F-16. Autorii atacurilor asupra navelor nu au fost identificați oficial.\n\n• **Bilanțul incidentelor din ultimele patru luni** indică zece nave comerciale lovite sau scufundate în vestul Mării Negre, în apropierea coastelor României și Bulgariei, cel puțin trei morți și 28 de marinari dați dispăruți. Bilanțul menționează atacuri cu drone și posibile explozii provocate de mine marine.\n\n• **La 15 octombrie, Dan, Rumen Radev și Mark Rutte au discutat despre securitatea la Marea Neagră:** secretarul general al NATO a afirmat că Alianța și-a consolidat apărarea pe flancul estic, inclusiv capacitățile de combatere a dronelor, și își va adapta măsurile de descurajare și apărare în funcție de situație. Dan a cerut echipamente pentru noul tip de amenințare; Consiliul Nord-Atlantic se va reuni separat pe 20 octombrie, la solicitarea României. România nu a activat articolul 4 al NATO; surse citate de ProTV au vorbit despre un răspuns gradual și proporțional și despre posibile noi provocări rusești.\n\n• **România a cerut echipamente temporare până la livrările prin SAFE:** Franța s-a oferit să ajute în 24 de ore, iar discuțiile tehnice au început. Echipamentele comandate prin SAFE ar putea ajunge peste un an și jumătate până la doi ani și jumătate, în funcție de contracte. Dan a amintit că, în timpul unei amenințări anterioare cu drone în zona Dunării, România a fost ajutată de șase state — Statele Unite, Franța, Italia, Spania, Slovacia și Portugalia — și a spus că se așteaptă la sprijin și din partea altor aliați.\n\n• **Dan s-a întâlnit și cu Emmanuel Macron:** președintele român și-a exprimat îngrijorarea față de atacurile cu drone asupra navelor comerciale din Marea Neagră și a apreciat solidaritatea Franței și sprijinul pentru siguranța navigației în regiune. El a numit parteneriatul strategic româno-francez un pilon important al securității comune.\n\n• **Ucraina ar putea împărtăși României experiența sa în combaterea dronelor:** potrivit lui Dan, Ucraina dispune de expertiză care poate fi transferată, însă detaliile cooperării nu au fost prezentate. Președintele a spus că, deocamdată, nu poate prezenta dovezi tehnice că dronele sunt de origine rusă, dar consideră că Rusia profită de incertitudine.\n\n• **A fost propusă înființarea unui comandament militar comun la Marea Neagră:** ministrul român al Apărării, Radu Miruță, a propus o inițiativă NATO comună și o scrisoare adresată conducerii Alianței. România ar găzdui comandamentul din 2028, iar până atunci a propus funcționarea acestuia pe litoralul turcesc, cu participarea unor ofițeri români și bulgari. Un plan prevede conducerea prin rotație de către România, Bulgaria și Turcia. Bucureștiul a oferit cinci capabilități: o corvetă sosită din Turcia și patru nave care urmează să fie livrate până în 2030.\n\n• **Pregătirile pentru hubul UE de securitate maritimă la Marea Neagră avansează, dar rețeaua nu este încă pe deplin operațională:** strategia europeană din 2025 prevede o rețea regională civilă și interinstituțională, coordonată de România și Bulgaria, cu sprijinul UE și cu posibilitatea participării Turciei, Ucrainei și Republicii Moldova. Conceptul comun a fost prezentat la Consiliul Afaceri Externe al UE pe 15 iunie, iar Constanța și Varna au fost confirmate drept locații pe 22 septembrie. Inițiativa este inclusă în strategia națională de apărare a României și în implementarea strategiei UE; organizarea, finanțarea și schimbul de informații urmează să fie stabilite.\n\n• **MCM Black Sea este un mecanism militar separat, dar complementar hubului:** grupul de combatere a minelor, creat în 2024 și operațional de la 1 iulie, și-a extins misiunea la protecția infrastructurii critice submarine, printr-un amendament convenit la summitul NATO de la Ankara din 2026. Până în iulie 2026 desfășurase zece activări, iar a unsprezecea a avut loc între 9 și 24 iulie.\n\n• **Dezvoltarea apărării navale și protejarea infrastructurii critice sunt priorități pentru România:** Oana Țoiu a evidențiat consolidarea capabilităților navale, a radarelor și a monitorizării riscurilor. România consideră importante protecția zăcământului de gaze Neptun Deep și a cablurilor submarine; producția de la Neptun Deep ar putea crește cu până la 80% producția internă de gaze în anul următor. Bucureștiul a discutat cu Lituania și despre schimbul de experiență privind securitatea maritimă în Marea Baltică.\n\n• **Bulgaria cere un moratoriu asupra atacurilor împotriva navelor civile:** Rumen Radev a spus că propunerea va fi discutată la summitul UE, iar concluziile Consiliului European cer părților să nu atace nave în Marea Neagră. Țoiu a numit obținerea unui armistițiu la Marea Neagră o prioritate diplomatică; România, Franța, Comisia Europeană și Ucraina au susținut efortul împreună cu aproximativ 30 de țări.\n\n• **România vrea să consolideze securitatea frontierelor și maritimă și prin finanțare europeană:** Țoiu a cerut întărirea flancului estic al NATO și a capacităților de descurajare și apărare la Marea Neagră. Bucureștiul solicită sprijinul UE pentru hubul de securitate și vrea să acorde prioritate securității maritime în negocierile bugetului european pentru 2028–2034.\n\n• **Războiul de la Marea Neagră afectează tot mai direct navigația comercială:** Ucraina a atacat petroliere implicate în exportul de petrol rusesc sancționat, în timp ce Rusia și-a intensificat atacurile asupra porturilor și infrastructurii de export ucrainene; tot mai multe nave comerciale care se îndreaptă spre aceste porturi sau pleacă de acolo sunt, de asemenea, atacate."
+  },
+  {
+    "group_id": "group_f53c237d78",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/e95897c0-2d40-4c2e-9cca-dc2a3facfd88.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Petrolul - Sepsi OSK, primul meci al zilei în Superliga, pe noul gazon de pe „Ilie Oană” » Surpriza pregătită la stadion",
+        "link": "https://www.gsp.ro/fotbal/liga-1/live-petrolul-sepsi-etapa-12-superliga-988740.html"
+      }
+    ],
+    "published_at": 1792226011,
+    "title_hu": "Petrolul - Sepsi OSK, primul meci al zilei în Superliga, pe noul gazon de pe „Ilie Oană” » Surpriza pregătită la stadion",
+    "lead_hu": "Petrolul Ploiești primește în această după-amiază vizita lui Sepsi Sfântu Gheorghe, într-o partidă din runda #12 a Superligii. Duelul de pe „Ilie Oană” e liveTEXT pe GSP.ro și televizat de Prima Sport…",
+    "content_hu": "Petrolul Ploiești primește în această după-amiază vizita lui Sepsi Sfântu Gheorghe, într-o partidă din runda #12 a Superligii. Duelul de pe „Ilie Oană” e liveTEXT pe GSP.ro și televizat de Prima Sport 1 și Digi Sport 1, cu începere de la ora 17:15. Programul, rezultatele și marcatorii etapei #12 din Superligă. Petrolul, una dintre surprizele acestei ediții, încearcă să se mențină în partea superioară a clasamentului. ...",
+    "title_ro": "Petrolul - Sepsi OSK, primul meci al zilei în Superliga, pe noul gazon de pe „Ilie Oană” » Surpriza pregătită la stadion",
+    "lead_ro": "Petrolul Ploiești primește în această după-amiază vizita lui Sepsi Sfântu Gheorghe, într-o partidă din runda #12 a Superligii. Duelul de pe „Ilie Oană” e liveTEXT pe GSP.ro și televizat de Prima Sport…",
+    "content_ro": "Petrolul Ploiești primește în această după-amiază vizita lui Sepsi Sfântu Gheorghe, într-o partidă din runda #12 a Superligii. Duelul de pe „Ilie Oană” e liveTEXT pe GSP.ro și televizat de Prima Sport 1 și Digi Sport 1, cu începere de la ora 17:15. Programul, rezultatele și marcatorii etapei #12 din Superligă. Petrolul, una dintre surprizele acestei ediții, încearcă să se mențină în partea superioară a clasamentului. ..."
+  },
+  {
+    "group_id": "group_a7c645d327",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/dieta-vegetala-1024x684.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Experiment surprinzător cu o dietă 100% vegetală. Efectele au apărut în numai două zile",
+        "link": "https://www.mediafax.ro/life-inedit/experiment-surprinzator-cu-o-dieta-100-vegetala-efectele-au-aparut-in-numai-doua-zile-23827096"
+      }
+    ],
+    "published_at": 1792225997,
+    "title_hu": "Experiment surprinzător cu o dietă 100% vegetală. Efectele au apărut în numai două zile",
+    "lead_hu": "Trecerea la o alimentație bazată exclusiv pe proteine vegetale a produs, în numai câteva zile, modificări ale metabolismului hepatic și o reducere pronunțată a activității fizice la șoareci, arată un …",
+    "content_hu": "Trecerea la o alimentație bazată exclusiv pe proteine vegetale a produs, în numai câteva zile, modificări ale metabolismului hepatic și o reducere pronunțată a activității fizice la șoareci, arată un studiu realizat de cercetători de la Universitatea din Geneva.",
+    "title_ro": "Experiment surprinzător cu o dietă 100% vegetală. Efectele au apărut în numai două zile",
+    "lead_ro": "Trecerea la o alimentație bazată exclusiv pe proteine vegetale a produs, în numai câteva zile, modificări ale metabolismului hepatic și o reducere pronunțată a activității fizice la șoareci, arată un …",
+    "content_ro": "Trecerea la o alimentație bazată exclusiv pe proteine vegetale a produs, în numai câteva zile, modificări ale metabolismului hepatic și o reducere pronunțată a activității fizice la șoareci, arată un studiu realizat de cercetători de la Universitatea din Geneva."
+  },
+  {
+    "group_id": "group_51c5aaaa4a",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/ac5a85fc-bd47-464a-8716-796b5a370334.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cameron McEvoy a făcut tripla la 50 m liber în cadrul Cupei Mondiale în bazin scurt » Egor Kornev nu l-a putut opri",
+        "link": "https://www.gsp.ro/sporturi/altele/cameron-mcevoy-a-facut-tripla-la-50-m-liber-in-cadrul-cupei-mondiale-in-bazin-scurt-egor-kornev-nu-l-a-putut-opri-989072.html"
+      }
+    ],
+    "published_at": 1792225961,
+    "title_hu": "Cameron McEvoy a făcut tripla la 50 m liber în cadrul Cupei Mondiale în bazin scurt » Egor Kornev nu l-a putut opri",
+    "lead_hu": "Cameron McEvoy (32 de ani) a câștigat proba de 50 m liber și în a treia etapă de Cupă Mondială, desfășurată la Astana (Kazahstan), reușind să-și adjudece „Tripla Coroană”. Egor Kornev (22 de ani) a fo…",
+    "content_hu": "Cameron McEvoy (32 de ani) a câștigat proba de 50 m liber și în a treia etapă de Cupă Mondială, desfășurată la Astana (Kazahstan), reușind să-și adjudece „Tripla Coroană”. Egor Kornev (22 de ani) a fost al doilea. Cameron McEvoy a dominat proba de 50 m liber la Cupa Mondială în bazin scurt, la fel cum o face și în bazin olimpic. Australianul, care și-a schimbat radical metodele de antrenament, s-a impus la 50 m liber în toate cele trei etape de Cupă Mondială. ...",
+    "title_ro": "Cameron McEvoy a făcut tripla la 50 m liber în cadrul Cupei Mondiale în bazin scurt » Egor Kornev nu l-a putut opri",
+    "lead_ro": "Cameron McEvoy (32 de ani) a câștigat proba de 50 m liber și în a treia etapă de Cupă Mondială, desfășurată la Astana (Kazahstan), reușind să-și adjudece „Tripla Coroană”. Egor Kornev (22 de ani) a fo…",
+    "content_ro": "Cameron McEvoy (32 de ani) a câștigat proba de 50 m liber și în a treia etapă de Cupă Mondială, desfășurată la Astana (Kazahstan), reușind să-și adjudece „Tripla Coroană”. Egor Kornev (22 de ani) a fost al doilea. Cameron McEvoy a dominat proba de 50 m liber la Cupa Mondială în bazin scurt, la fel cum o face și în bazin olimpic. Australianul, care și-a schimbat radical metodele de antrenament, s-a impus la 50 m liber în toate cele trei etape de Cupă Mondială. ..."
+  },
+  {
     "group_id": "group_41d1b22569",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -68,6 +392,48 @@
     "title_ro": "Trump a suspendat noile sancțiuni împotriva Rusiei; Moscova vorbește despre un moment istoric",
     "lead_ro": "Donald Trump a suspendat sancțiunile și taxele vamale americane legate de resursele energetice rusești cu două zile înainte de intrarea lor în vigoare, invocând interesul național al SUA. Decizia a fost criticată, în timp ce un important negociator economic al Kremlinului a numit scutirea un moment istoric, iar disputele privind relația SUA–Ucraina, prețurile energiei și sprijinul pentru Kiev au continuat.",
     "content_ro": "• **Vineri, 16 octombrie**, Trump a suspendat prin decret sancțiunile și taxele prevăzute de Legea Lindsey O. Graham, cu două zile înainte de intrarea lor în vigoare, la 18 octombrie. Legea fusese promulgată la 18 septembrie.\n\n• **Legea** prevedea taxe de 500% pentru bunurile importate din Rusia și taxe de 100% pentru cei mai mari cinci cumpărători de petrol și gaze rusești, precum și pentru primele cinci țări care ajută Moscova să ocolească sancțiunile. Puteau primi o excepție țările care cumpără mai puțin de 15% din exporturile de gaze ale Rusiei și își reduc semnificativ importurile.\n\n• **Pachetul de sancțiuni** viza oficiali ruși, bănci, companii din sectoarele energetic și de apărare, precum și flota-fantomă care transportă resurse energetice rusești. Legea a fost adoptată cu 86–11 voturi în Senat și 262–159 în Camera Reprezentanților; la elaborarea ei au contribuit Lindsey Graham și senatorul Richard Blumenthal.\n\n• **Legea îl viza și pe Vladimir Putin:** noile măsuri puteau fi îndreptate împotriva președintelui rus, a altor oficiali de rang înalt și a flotei-fantomă care transportă exporturile energetice rusești. În relatări, legea a fost prezentată și drept prima măsură congresională majoră împotriva Moscovei adoptată de la revenirea lui Trump la putere.\n\n• **Trump a invocat interesul național:** secțiunea 115 a legii permite suspendarea sancțiunilor dacă administrația certifică în fața Congresului că decizia servește interesului național. Certificarea a fost transmisă, însă Casa Albă nu a făcut publice motivele detaliate; sancțiunile impuse anterior prin ordine executive rămân în vigoare. Nu a fost anunțată o dată de expirare sau de reintroducere a măsurilor.\n\n• **Au fost invocate și posibile motive electorale și legate de prețuri:** analiști citați de Transtelex au spus că sancțiunile ar fi putut majora și mai mult prețurile petrolului și costul vieții înaintea alegerilor de la jumătatea mandatului. Unii critici susțin că scumpirea carburanților este cauzată în principal de războiul împotriva Iranului, nu de conflictul din Ucraina.\n\n• **Acordul privind motorina** prevede, potrivit anunțului, livrarea imediată de peste 300.000 de tone de către Rusia, încă 500.000 de tone în noiembrie, apoi un milion de tone și alte trei milioane într-un interval scurt. Departamentul Trezoreriei SUA a relaxat restricțiile privind motorina până la 7 aprilie 2027.\n\n• **Acordul și suspendarea sancțiunilor** au fost criticate de politicieni americani. Doisprezece senatori, dintre care șase republicani – inclusiv Mitch McConnell, Thom Tillis, Susan Collins și Lisa Murkowski – i-au cerut lui Trump să renunțe la acordul privind motorina și să aplice sancțiunile prevăzute de lege. Don Beyer l-a acuzat pe președinte că a cedat în fața lui Putin, Elizabeth Warren a criticat subminarea eforturilor Congresului, iar Richard Blumenthal a spus că decizia servește interesele lui Putin, nu securitatea națională a SUA.\n\n• **Volodimir Zelenski** a numit acordul privind motorina o decizie slabă și a avertizat că veniturile energetice ajută Moscova să finanțeze războiul. Criticii spun că vânzarea resurselor energetice rusești oferă venituri pentru continuarea conflictului.\n\n• **Conflictul privind infrastructura energetică ucraineană** s-a intensificat: administrația Trump a făcut presiuni asupra Kievului să oprească atacurile asupra instalațiilor petroliere rusești. Ucraina a acceptat pentru scurt timp, apoi a reluat atacurile, în timp ce Rusia a continuat să bombardeze infrastructura energetică a Ucrainei. Trump a criticat atacurile ucrainene și l-a atacat tot mai vehement pe Zelenski.\n\n• **Sprijinul militar american a devenit incert:** Trump a sugerat că Ucraina ar putea să nu primească arme americane cumpărate cu fonduri europene și a amenințat că va opri furnizarea de informații de intelligence americane, înainte de a renunța la această idee. Utilizarea Starlink de către armata ucraineană a fost restricționată pentru scurt timp, ceea ce a dus la amânarea unor operațiuni; responsabilitatea deciziei nu a fost clară.\n\n• **Au venit și critici europene:** António Costa, președintele Consiliului European, a spus că sancțiunile împotriva Rusiei nu trebuie relaxate, iar premierul finlandez Petteri Orpo a criticat apropierea Washingtonului de Moscova. Premierul ceh Andrej Babiš a numit acordul cu Putin o trădare.\n\n• **Legea a devenit subiect și în campania surorii lui Lindsey Graham:** Darlene Graham, numită să ocupe restul mandatului senatorului decedat, a spus că este mândră de adoptarea legii, dar a recunoscut că președintele decide dacă o aplică.\n\n• **Supravegherea aplicării sancțiunilor** continuă: reprezentantul comercial al SUA și departamentele de Stat, Trezorerie și Energie monitorizează achizițiile de energie rusească și ocolirea sancțiunilor.\n\n• **Kremlinul a numit suspendarea un moment istoric:** Kirill Dmitriev, consilierul lui Putin pentru cooperare economică internațională, a descris suspendarea Legii Graham drept un moment important și istoric. El a afirmat că legea ar fi provocat daune serioase, în primul rând economiei americane și piețelor mondiale. Vineri, Putin a apărut în uniformă militară și a spus că Rusia intenționează să cucerească restul Ucrainei."
+  },
+  {
+    "group_id": "group_e6d3b43987",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/17/083109/marian-andrei-17-octombrie.jpg?fm=jpg&q=80&fit=crop&crop=1713%2C953%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "iLikeIT. Emisiunea integrală din 17 octombrie 2026",
+        "link": "https://stirileprotv.ro/stiri/ilikeit/ilikeit-emisiunea-integrala-din-17-octombrie-2026.html"
+      }
+    ],
+    "published_at": 1792225893,
+    "title_hu": "iLikeIT. Emisiunea integrală din 17 octombrie 2026",
+    "lead_hu": "iLikeIT. Emisiunea integrală din 17 octombrie 2026.",
+    "content_hu": "iLikeIT. Emisiunea integrală din 17 octombrie 2026.",
+    "title_ro": "iLikeIT. Emisiunea integrală din 17 octombrie 2026",
+    "lead_ro": "iLikeIT. Emisiunea integrală din 17 octombrie 2026.",
+    "content_ro": "iLikeIT. Emisiunea integrală din 17 octombrie 2026."
+  },
+  {
+    "group_id": "group_885be34b55",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/donald-trump-neaga.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "Donald Trump neagă că ar fi ordonat restricționarea sistemului Starshield pentru armata Ucrainei",
+        "link": "https://www.go4it.ro/tehnologie-militara/donald-trump-neaga-ca-ar-fi-ordonat-restrictionarea-sistemului-starshield-pentru-armata-ucrainei-19288061/"
+      }
+    ],
+    "published_at": 1792225852,
+    "title_hu": "Donald Trump neagă că ar fi ordonat restricționarea sistemului Starshield pentru armata Ucrainei",
+    "lead_hu": "O nouă criză diplomatică și tehnologică tinde să se contureze în contextul conflictului din Ucraina, punând sub semnul întrebării siguranța comunicațiilor militare de pe front. Președintele american D…",
+    "content_hu": "O nouă criză diplomatică și tehnologică tinde să se contureze în contextul conflictului din Ucraina, punând sub semnul întrebării siguranța comunicațiilor militare de pe front. Președintele american Donald Trump a negat public, la sfârșitul acestei […] Articolul Donald Trump neagă că ar fi ordonat restricționarea sistemului Starshield pentru armata Ucrainei apare prima dată în Go4IT.",
+    "title_ro": "Donald Trump neagă că ar fi ordonat restricționarea sistemului Starshield pentru armata Ucrainei",
+    "lead_ro": "O nouă criză diplomatică și tehnologică tinde să se contureze în contextul conflictului din Ucraina, punând sub semnul întrebării siguranța comunicațiilor militare de pe front. Președintele american D…",
+    "content_ro": "O nouă criză diplomatică și tehnologică tinde să se contureze în contextul conflictului din Ucraina, punând sub semnul întrebării siguranța comunicațiilor militare de pe front. Președintele american Donald Trump a negat public, la sfârșitul acestei […] Articolul Donald Trump neagă că ar fi ordonat restricționarea sistemului Starshield pentru armata Ucrainei apare prima dată în Go4IT."
   },
   {
     "group_id": "group_cce9084706",
@@ -204,44 +570,6 @@
     "title_ro": "O soluție inovatoare ar putea combate criza apei în regiunile izolate. Tehnologia care ar putea schimba totul",
     "lead_ro": "O tehnologie de desalinizare alimentată cu energie solară ar putea oferi o soluție pentru comunitățile izolate care se confruntă cu lipsa apei potabile. Sistemul, suficient de mic pentru a încăpea înt…",
     "content_ro": "O tehnologie de desalinizare alimentată cu energie solară ar putea oferi o soluție pentru comunitățile izolate care se confruntă cu lipsa apei potabile. Sistemul, suficient de mic pentru a încăpea într-un container, transformă apa subterană sărată în apă dulce, fără conectare la rețelele publice."
-  },
-  {
-    "group_id": "group_dd47ae5d10",
-    "fingerprint": "23c6857ac4e2c937aa0da78fdff594d1",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2025/07/10/210000/62559342.jpg?fm=jpg&q=80&fit=crop&crop=6220%2C4248%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Câți români vor să continue să muncească și după ce ating vârsta de pensionare. Rezultatele surprinzătoare ale unui studiu",
-        "link": "https://stirileprotv.ro/stiri/social/cati-romani-vor-sa-continue-sa-munceasca-si-dupa-ce-ating-varsta-de-pensionare-rezultatele-surprinzatoare-ale-unui-studiu.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Nyugdíj helyett hivatás? – Szívesen maradnak munkában az idősebb hazai alkalmazottak",
-        "link": "https://maszol.ro/gazdasag/Nyugdij-helyett-hivatas-Szivesen-maradnak-munkaban-az-idosebb-hazai-alkalmazottak"
-      },
-      {
-        "source": "Economedia",
-        "title": "Studiu: 42% dintre angajații români de peste 55 de ani ar continua să lucreze după pensionare. Sănătatea și echilibrul personal, printre factorii care contează",
-        "link": "https://economedia.ro/studiu-42-dintre-angajatii-romani-de-peste-55-de-ani-ar-continua-sa-lucreze-dupa-pensionare-sanatatea-si-echilibrul-personal-printre-factorii-care-conteaza.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Patru din zece români de peste 55 de ani vor să muncească și după pensionare. Motivele pentru care nu vor să se retragă",
-        "link": "https://stirileprotv.ro/stiri/actualitate/patru-din-zece-romani-de-peste-55-de-ani-vor-sa-munceasca-si-dupa-pensionare-motivele-pentru-care-nu-vor-sa-se-retraga.html"
-      }
-    ],
-    "published_at": 1792225421,
-    "title_hu": "A romániai 55 év felettiek 42 százaléka nyugdíj után is dolgozna",
-    "lead_hu": "Az SD Worx felmérése szerint a legalább 55 éves romániai munkavállalók 42 százaléka kész lenne a törvényes nyugdíjkorhatár elérése után is dolgozni, szemben a 32 százalékos európai átlaggal. A döntésben a szakmai elégedettség mellett a munka és a magánélet egyensúlya, valamint az egészségi állapot is fontos szerepet játszik.",
-    "content_hu": "• **Az 55 év feletti romániai munkavállalók 42 százaléka** nyitott arra, hogy a törvényes nyugdíjkorhatár elérése után is folytassa a munkát; az európai átlag 32 százalék. A 35 év alatti romániai dolgozók körében is jelentős, 34 százalékos ez az arány, míg európai kortársaiknak valamivel több mint negyede vállalná a további munkát.\n\n• **A korai nyugdíjazás iránt a fiatalabbak nagyobb arányban érdeklődnek:** Romániában a 35 év alattiak 63 százaléka, az 55 év felettiek 40 százaléka vonulna inkább korábban nyugdíjba. Az idősebbek ezt leggyakrabban azzal indokolják, hogy több időt szeretnének a családra és a magánéletre (78 százalék), egészségi okokkal (72 százalék), illetve személyes céljaik megvalósításával (44 százalék).\n\n• **Az idősebb dolgozók többsége pozitívan látja a munkáját:** 86 százalékuk úgy érzi, elegendő energiája van a feladatai jó elvégzéséhez, 84 százalékuk értelmesnek és kiteljesítőnek tartja a munkáját, 84 százalékuk pedig elégedett vele. A munkájuk megbecsülését 74 százalék érzékeli. A 35 év alattiaknál ezek közül az energiára vonatkozó arány 69, a munkával való elégedettségé 72 százalék.\n\n• **Az idősebb munkavállalók kevésbé keresnek új állást vagy szerepkört:** másik szervezetnél a legalább 55 évesek 9 százaléka, a 35 év alattiak 32 százaléka keres aktívan munkát. A képzések iránt is kisebb az érdeklődés az idősebbek körében, ugyanakkor 63 százalékuk szeretné továbbfejleszteni a készségeit.\n\n• **A technológiai változásokkal kapcsolatban az idősebbek magabiztosabbak, de ritkábban használnak mesterséges intelligenciát:** 64 százalékuk bízik abban, hogy az automatizálás mellett is megmarad a munkahelye, a 35 év alattiaknál ez az arány 51 százalék. Rendszeresen MI-eszközöket viszont az idősebbek 30, a fiatalabbak 42 százaléka használ, és az 55 év felettieknek csupán 31 százaléka érzi úgy, hogy elegendő támogatást kap a technológiai változásokra való felkészüléshez.",
-    "title_ro": "42% dintre angajații români de peste 55 de ani ar continua să lucreze după pensionare",
-    "lead_ro": "Potrivit unui studiu SD Worx, 42% dintre angajații români de cel puțin 55 de ani sunt dispuși să lucreze și după vârsta legală de pensionare, față de media europeană de 32%. Satisfacția profesională, echilibrul dintre muncă și viața personală și starea de sănătate contează în decizia de a continua sau de a se retrage.",
-    "content_ro": "• **42% dintre angajații români de cel puțin 55 de ani** sunt dispuși să continue să lucreze după atingerea vârstei legale de pensionare; media europeană este de 32%. Disponibilitatea este ridicată și în rândul angajaților români sub 35 de ani, unde ajunge la 34%, comparativ cu puțin peste un sfert dintre europenii de aceeași vârstă.\n\n• **Angajații tineri sunt mai interesați de pensionarea anticipată:** în România, 63% dintre cei sub 35 de ani ar prefera să se pensioneze mai devreme, față de 40% dintre cei de cel puțin 55 de ani. Angajații mai în vârstă care iau în calcul pensionarea anticipată menționează mai ales dorința de a avea mai mult timp pentru familie și viața personală (78%), sănătatea (72%) și îndeplinirea unor obiective personale (44%).\n\n• **Majoritatea angajaților mai în vârstă au o percepție pozitivă asupra muncii lor:** 86% spun că au suficientă energie pentru a-și îndeplini bine sarcinile, 84% consideră că munca le oferă sens și împlinire, iar tot 84% sunt mulțumiți de activitatea lor. În plus, 74% simt că munca le este apreciată. În rândul angajaților sub 35 de ani, 69% spun că au suficientă energie, iar 72% sunt mulțumiți de munca lor.\n\n• **Angajații mai în vârstă caută mai rar un alt loc de muncă sau un alt rol:** 9% dintre cei de cel puțin 55 de ani caută activ un post într-o altă organizație, față de 32% dintre cei sub 35 de ani. Interesul pentru formare este, de asemenea, mai redus în rândul celor mai în vârstă, însă 63% dintre ei spun că vor să își dezvolte în continuare competențele.\n\n• **Angajații mai în vârstă sunt mai încrezători în fața schimbărilor tehnologice, dar folosesc mai rar inteligența artificială:** 64% se simt încrezători în privința locului de muncă chiar dacă automatizarea le schimbă responsabilitățile, față de 51% dintre cei sub 35 de ani. Instrumente de inteligență artificială folosesc regulat 30% dintre angajații mai în vârstă și 42% dintre cei mai tineri; doar 31% dintre cei de cel puțin 55 de ani consideră că primesc suficient sprijin pentru a se pregăti pentru aceste schimbări."
   },
   {
     "group_id": "group_826c7abff6",
@@ -566,84 +894,6 @@
     "title_ro": "Termoenergetica a început probele pentru sezonul rece în București",
     "lead_ro": "Termoenergetica a început probele la cald pentru sistemul de termoficare din București, care se vor desfășura progresiv și în principal noaptea. Testele verifică echilibrul sistemului și funcționarea traseelor de alimentare, iar lucrările din sezonul rece vor continua doar dacă nu întrerup furnizarea căldurii.",
     "content_ro": "• **Termoenergetica a început probele la cald** pentru consumatorii racordați la sistemul de termoficare din București. Testele se desfășoară progresiv, ținând cont de dimensiunea rețelei, starea conductelor și lucrările din diferite zone ale orașului.\n\n• **Probele vor avea loc în principal noaptea**, când temperaturile sunt mai scăzute, potrivit prognozei pentru zilele următoare. Scopul lor este să asigure echilibrul hidraulic al sistemului și să verifice funcționarea traseelor de alimentare.\n\n• **În sezonul rece vor continua doar lucrările** pentru care pot fi realizate provizorate, astfel încât furnizarea agentului termic să nu fie afectată. În unele zone, modernizarea poate continua cu ajutorul unor conducte înlocuitoare.\n\n• **Asociațiile de proprietari trebuie să verifice instalațiile interioare de încălzire**, să finalizeze lucrările din imobile și să aerisească caloriferele. Asociațiile care doresc amânarea furnizării pot solicita acest lucru în scris.\n\n• **Pornirea încălzirii nu este legată de o dată fixă din calendar**: potrivit criteriului legal menționat, furnizarea începe dacă temperatura exterioară este de cel mult 10 grade Celsius timp de trei zile consecutive, în intervalul 20:00–06:00."
-  },
-  {
-    "group_id": "group_53be683322",
-    "fingerprint": "94083a7dd36f50dc4c4af48f2c8c9d46",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/12/Nicusor-Dan.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 12,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Nicuşor Dan şi premierul bulgar se întâlnesc astăzi cu Mark Rutte pentru a discuta despre securitatea la Marea Neagră",
-        "link": "https://www.digi24.ro/stiri/actualitate/nicusor-dan-si-premierul-bulgar-se-intalnesc-astazi-cu-mark-rutte-pentru-a-discuta-despre-securitatea-la-marea-neagra-3993477"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Nave scufundate în Marea Neagră: Nicușor Dan se întâlnește cu premierul din Bulgaria și secretarul general NATO pentru a stabili o reacție comună / Propunerea lui Rumen Radev",
-        "link": "https://hotnews.ro/nave-scufundate-in-marea-neagra-nicusor-dan-se-intalneste-premierul-din-bulgaria-si-secretarul-general-nato-pentru-a-stabili-o-reactie-comuna-propunerea-lui-rumen-radev-2376783"
-      },
-      {
-        "source": "Transtelex",
-        "title": "A román partokig értek a fekete-tengeri dróntámadások, a NATO megerősíti a védelmét",
-        "link": "https://transtelex.ro/kozelet/2026/10/15/nato-fekete-tengeri-drontamadasok-kereskedelmi-hajozas"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Surse: Avertismentul NATO pentru România. Ce a cerut Bucureștiul după atacurile asupra navelor de la Marea Neagră",
-        "link": "https://stirileprotv.ro/stiri/international/avertisment-nato-dupa-atacurile-din-marea-neagra-rusia-ar-putea-intensifica-provocarile-cum-se-apara-romania.html"
-      },
-      {
-        "source": "Economedia",
-        "title": "Hub de Securitate Maritimă de la Marea Neagră: drumul spre operaționalizare",
-        "link": "https://economedia.ro/hub-de-securitate-maritima-de-la-marea-neagra-drumul-spre-operationalizare.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Oana Țoiu, despre măsurile României pentru apărarea Mării Negre: „Prioritatea este un efort diplomatic pentru a obține un armistițiu”",
-        "link": "https://www.mediafax.ro/politic/oana-toiu-despre-masurile-romaniei-pentru-apararea-marii-negre-prioritatea-este-un-efort-diplomatic-pentru-a-obtine-un-armistitiu-23826573"
-      },
-      {
-        "source": "Mediafax",
-        "title": "România cere ajutor pentru securitatea la Marea Neagră. Nicușor Dan: „Franța s-a oferit să ne ajute cu echipamentele necesare”",
-        "link": "https://www.mediafax.ro/politic/romania-cere-ajutor-pentru-securitatea-la-marea-neagra-nicusor-dan-franta-s-a-oferit-sa-ne-ajute-cu-echipamentele-necesare-23826874"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Nicușor Dan spune că Franța s-a oferit să ajute România cu echipamente pentru a asigura securitatea la Marea Neagră",
-        "link": "https://hotnews.ro/nicusor-dan-spune-ca-franta-s-a-oferit-sa-ajute-romania-cu-echipamente-pentru-securitatea-la-marea-neagra-2378321"
-      },
-      {
-        "source": "Mediafax",
-        "title": "România își cheamă aliații în ajutor la Marea Neagră. Nicușor Dan: „Sunt convins că și alți aliați vor răspunde”",
-        "link": "https://www.mediafax.ro/politic/romania-isi-cheama-aliatii-in-ajutor-la-marea-neagra-nicusor-dan-sunt-convins-ca-si-alti-aliati-vor-raspunde-23826880"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "O mare putere din NATO s-a oferit să trimită echipamente în România, după atacurile de la Marea Neagră",
-        "link": "https://stirileprotv.ro/stiri/politic/o-mare-putere-din-nato-s-a-oferit-sa-trimita-echipamente-in-romania-dupa-atacurile-de-la-marea-neagra.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Nicușor Dan s-a întâlnit cu Emmanuel Macron: „Am exprimat profunda îngrijorare a României cu privire la recentele atacuri cu drone asupra navelor comerciale din Marea Neagră / Am apreciat solidaritatea și sprijinul exprimate de Franța”",
-        "link": "https://www.g4media.ro/nicusor-dan-s-a-intalnit-cu-emmanuel-macron-am-exprimat-profunda-ingrijorare-a-romaniei-cu-privire-la-recentele-atacuri-cu-drone-asupra-navelor-comerciale-din-marea-neagra-am-apreciat-solidaritat.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Mesajul lui Nicușor Dan după întâlnirea cu Macron: Parteneriatul România-Franța, „pilon al securității noastre comune”",
-        "link": "https://www.mediafax.ro/politic/mesajul-lui-nicusor-dan-dupa-intalnirea-cu-macron-parteneriatul-romania-franta-pilon-al-securitatii-noastre-comune-23827081"
-      }
-    ],
-    "published_at": 1792224600,
-    "title_hu": "Románia és Bulgária közös fellépést sürget a Fekete-tengeren, Franciaország átmeneti segítséget ajánlott",
-    "lead_hu": "Nicușor Dan és Iliana Iotova szorosabb román–bolgár együttműködésben állapodott meg a drónfenyegetés elleni uniós és NATO-intézkedésekért, a NATO pedig megerősítette, hogy fokozta a keleti szárny drónelhárító képességeit. Románia átmeneti katonai segítséget kért a SAFE-programban rendelt eszközök megérkezéséig; Franciaország 24 órán belül készséget jelzett a támogatásra. Dan Emmanuel Macronnal is egyeztetett, miközben a Sulina közelében kigyulladt hajók ügyében folytatódik a vizsgálat.",
-    "content_hu": "• **Október 14-én Nicușor Dan és Iliana Iotova egyeztetett:** a román és a bolgár államfő szorosabb együttműködést sürgetett, hogy az EU és a NATO keretében határozottabb drónelhárító intézkedések szülessenek a fekete-tengeri kereskedelmi hajózás biztonságáért. Dan szerint a támadások az Oroszország Ukrajna elleni háborújának közvetlen következményei, és a mezőgazdasági termékek más kontinensekre jutását is veszélyeztetik.\n\n• **Románia, Bulgária és Törökország koordinációt sürget:** fokozott megfigyelést, információcserét és közvetlen műveleti csatornákat szorgalmaznak a tengeri útvonalak védelmére, a NATO információs mechanizmusaival összhangban. Ilie Bolojan elítélte a bolgár kizárólagos gazdasági övezetben civil hajókat ért támadásokat, amelyeket a nemzetközi jog súlyos megsértésének nevezett.\n\n• **Október 5-én a Royad Mammadov hajót drónok találták el** a román partok közelében, a Pescăruș platformnál. A hatóságok szerint a legénység két tagja meghalt, tizenegy megsebesült; a történteket a háború kezdete óta a román partok közelében történt legsúlyosabb incidensként írták le.\n\n• **Október 12–13-án Bulgária közelében két hajót ért támadás:** a máltai zászló alatt közlekedő, ukrán tulajdonú Chelsea 3 mind a 15 fős legénységét kimenekítették; a sebesültek számáról öt-hat főt közöltek a beszámolók. Egy másik hajó elsüllyedt, a túlélőkről szóló információk ellentmondásosak. A drónok eredetét és a felelősöket nem támasztották alá meggyőző bizonyítékokkal.\n\n• **A Sulina környéki hajótüzek ügyében vizsgálat folyik:** a Comore-szigeteki zászló alatt közlekedő, üres Yara J fedélzetén szerda este tűz ütött ki; a román katonai radarok nem észleltek a hajó felé tartó drónt. A San Marino zászlaja alatt hajózó Wine Trader csütörtök reggel gyulladt ki Sulinától 14 tengeri mérföldre; 12 fős legénységéből nyolcat eltűntként jelentettek. Nicușor Dan megerősítette, hogy mindkét hajót légi drón találta el, de a román hatóságok nem azonosították hivatalosan az elkövetőt.\n\n• **Sulina és a Kígyó-sziget közelében drónokat észleltek:** a román katonai radarok jelzései nyomán négy F-18-as és F-16-os vadászgépet riasztottak. A hajók elleni támadások elkövetőjét hivatalosan nem nevezték meg.\n\n• **Az elmúlt négy hónap incidenseinek összesítése is megjelent:** a G4Media tíz, a nyugati Fekete-tengeren, Románia és Bulgária partjai közelében eltalált vagy elsüllyedt kereskedelmi hajóról, legalább három halottról és 28 eltűnt tengerészről számolt be; az összesítés dróntámadásokat és lehetséges aknarobbanásokat is említ.\n\n• **Október 15-én Dan, Rumen Radev és Mark Rutte a fekete-tengeri biztonságról tárgyalt:** Rutte közölte, hogy a NATO megerősítette a keleti szárny védelmét, többek között a drónelhárító képességeket, és szükség szerint alakítja elrettentési és védelmi intézkedéseit. Konkrét új katonai lépéseket nem ismertetett. Dan új fenyegetéstípushoz szükséges eszközöket kért, és külön Észak-atlanti Tanács-ülést jelentett be.\n\n• **A NATO Észak-atlanti Tanácsa október 20-án külön ülésezik** a térség biztonságáról, Mark Rutte román kérésre hívta össze a tanácskozást. Románia nem aktiválta a NATO 4. cikkét; a bolgár fél nem zárta ki ennek lehetőségét. ProTV által idézett NATO-források fokozatos és arányos szövetségi válaszról, valamint várható további orosz provokációkról beszéltek.\n\n• **Románia átmeneti védelmi eszközöket kért:** Franciaország 24 órán belül segítséget ajánlott, a technikai egyeztetések megkezdődtek. A SAFE-programban rendelt eszközök érkezéséig ideiglenes támogatásra van szükség; a szállítás a szerződésektől függően másfél-két és fél évet vehet igénybe. Dan szerint egy korábbi, dunai drónfenyegetés idején hat ország – az Egyesült Államok, Franciaország, Olaszország, Spanyolország, Szlovákia és Portugália – segítette Romániát.\n\n• **Dan október 16-án Emmanuel Macronnal is találkozott:** a román elnök aggodalmát fejezte ki a fekete-tengeri kereskedelmi hajókat ért dróntámadások miatt, és méltatta Franciaország szolidaritását, illetve a térség hajózási biztonságához nyújtott támogatását. A román–francia stratégiai partnerséget a közös biztonság fontos pillérének nevezte.\n\n• **Ukrajna drónelhárítási tapasztalatokat oszthat meg Romániával:** Dan szerint Ukrajna rendelkezik olyan szakértelemmel, amelyet átadhat; a konkrét együttműködés részleteit nem ismertették. Dan azt is mondta, hogy egyelőre nincs technikai bizonyíték a drónok orosz eredetére, ugyanakkor szerinte a bizonytalanság helyzetének haszonélvezője Oroszország.\n\n• **Közös fekete-tengeri katonai parancsnokság lehetősége merült fel:** Radu Miruță román védelmi miniszter közös NATO-kezdeményezést és a NATO vezetésének címzett közös levelet javasolt. Románia 2028-tól adna helyet a parancsnokságnak, addig törökországi működést javasolt román és bolgár tisztek részvételével; egy terv szerint Románia, Bulgária és Törökország rotációban vezetné a struktúrát. Bukarest öt képességet ajánlott fel, köztük egy Törökországból érkezett korvettet és négy, 2030-ig leszállítandó hajót.\n\n• **Az uniós fekete-tengeri tengeri biztonsági központ előkészítése halad, de a hálózat még nem teljesen működőképes:** a 2025-ös uniós stratégia regionális, civil és intézményközi rendszert irányoz elő, román–bolgár koordinációval. A közös koncepciót június 15-én ismertették az EU külügyi tanácsában, Constanța és Várna helyszínét pedig szeptember 22-én erősítették meg; Törökország, Ukrajna és Moldova bekapcsolódása is felmerült. Ettől elkülönül, de kiegészíti azt a 2024 óta működő MCM Black Sea, amelynek feladatait a tengeralatti kritikus infrastruktúra védelmére is kiterjesztették.\n\n• **A román haditengerészeti és kritikusinfrastruktúra-védelem fejlesztése prioritás:** Oana Țoiu külügyminiszter a haditengerészeti képességek, a radarok és a kockázatfigyelés erősítését emelte ki. Románia a Neptun Deep gázmező, valamint a tengeralatti kábelek védelmét is fontosnak tartja; a Neptun Deep termelése a tervek szerint a következő évben akár 80 százalékkal növelheti a hazai gáztermelést. Bukarest a balti-tengeri tapasztalatok megosztását is kezdeményezte Litvániával.\n\n• **Bulgária moratóriumot sürget a civil hajók elleni támadásokra:** Rumen Radev szerint a javaslatot az uniós csúcson is megvitatják, az Európai Tanács következtetései pedig felszólítják a feleket, hogy ne támadjanak hajókat a Fekete-tengeren. Țoiu a fekete-tengeri tűzszünet elérését nevezte diplomáciai prioritásnak; Románia, Franciaország, az Európai Bizottság és Ukrajna mintegy harminc országgal együtt sürgette az erőfeszítéseket.\n\n• **Románia uniós finanszírozással is erősítené a határ- és tengeri biztonságot:** Țoiu a NATO keleti szárnyának, valamint a fekete-tengeri elrettentésnek és védelemnek a fejlesztését sürgette. Bukarest a biztonsági központhoz uniós támogatást kér, és a tengeri biztonságot a 2028–2034-es uniós költségvetés tárgyalásain is előtérbe helyezné.\n\n• **A Fekete-tenger háborúja egyre közvetlenebbül érinti a kereskedelmi hajózást:** Ukrajna szankcionált orosz olajexportban részt vevő tankereket támadott, Oroszország pedig fokozta az ukrán kikötők és exportlétesítmények elleni csapásokat; az oda tartó vagy onnan induló kereskedelmi hajókat is egyre több támadás éri.",
-    "title_ro": "România și Bulgaria cer măsuri comune pentru securitatea Mării Negre; Franța oferă sprijin temporar",
-    "lead_ro": "Nicușor Dan și Iliana Iotova au convenit asupra unei cooperări mai strânse pentru măsuri mai ferme împotriva dronelor la nivelul UE și NATO, iar Alianța a anunțat consolidarea capacităților antidronă pe flancul estic. România a cerut sprijin militar temporar până la sosirea echipamentelor comandate prin SAFE, iar Franța s-a oferit să ajute în decurs de 24 de ore. Dan a discutat și cu Emmanuel Macron, în timp ce autoritățile continuă ancheta privind navele incendiate în apropiere de Sulina.",
-    "content_ro": "• **La 14 octombrie, Nicușor Dan și Iliana Iotova au discutat:** președinții României și Bulgariei au convenit să colaboreze mai strâns pentru măsuri mai ferme de combatere a dronelor în cadrul UE și NATO, în scopul protejării navigației comerciale în Marea Neagră. Dan a spus că atacurile sunt consecințe directe ale războiului Rusiei împotriva Ucrainei și pun în pericol și livrările de produse agricole către alte continente.\n\n• **România, Bulgaria și Turcia cer o coordonare mai strânsă:** cele trei state susțin monitorizarea sporită, schimbul de informații și canale operative directe pentru protejarea rutelor maritime, compatibile cu mecanismele NATO. Ilie Bolojan a condamnat atacurile asupra navelor civile din zona economică exclusivă a Bulgariei, calificându-le drept încălcări grave ale dreptului maritim și internațional.\n\n• **La 5 octombrie, nava Royad Mammadov a fost lovită de drone** în apropierea platformei Pescăruș, lângă coasta României. Potrivit autorităților, doi membri ai echipajului au murit, iar alți 11 au fost răniți; incidentul a fost descris drept cel mai grav produs în apropierea țărmului românesc de la începutul războiului.\n\n• **În 12–13 octombrie, două nave au fost atacate în apropiere de Bulgaria:** Chelsea 3, sub pavilion maltez și deținută de proprietari ucraineni, a fost lovită, iar toți cei 15 membri ai echipajului au fost evacuați; relatările au indicat cinci sau șase răniți. O altă navă s-a scufundat, iar informațiile despre supraviețuitori au fost contradictorii. Nu au fost prezentate dovezi concludente privind originea dronelor sau responsabilitatea pentru atacuri.\n\n• **Incendiile de pe navele din zona Sulina sunt investigate:** pe Yara J, navă goală sub pavilionul Comorelor, a izbucnit un incendiu miercuri seara; radarele militare românești nu au detectat o dronă îndreptându-se spre navă. Wine Trader, sub pavilion San Marino, a luat foc joi dimineață la 14 mile marine de Sulina; opt dintre cei 12 membri ai echipajului au fost dați dispăruți. Nicușor Dan a confirmat că ambele nave au fost lovite de drone aeriene, însă autoritățile române nu au identificat oficial autorii.\n\n• **Drone au fost detectate în apropiere de Sulina și Insula Șerpilor:** în urma semnalelor radarelor militare românești au fost ridicate patru avioane F-18 și F-16. Autorii atacurilor asupra navelor nu au fost numiți oficial.\n\n• **O evaluare a incidentelor din ultimele patru luni a fost publicată de G4Media:** zece nave comerciale ar fi fost lovite sau scufundate în vestul Mării Negre, în apropierea coastelor României și Bulgariei, cu cel puțin trei morți și 28 de marinari dați dispăruți. Bilanțul menționează atacuri cu drone și posibile explozii provocate de mine marine.\n\n• **La 15 octombrie, Dan, Rumen Radev și Mark Rutte au discutat despre securitatea Mării Negre:** Rutte a spus că NATO și-a consolidat apărarea pe flancul estic, inclusiv capacitățile antidronă, și își va adapta măsurile de descurajare și apărare dacă va fi necesar. Nu a anunțat măsuri militare noi concrete. Dan a cerut echipamente pentru noul tip de amenințare și a anunțat o reuniune dedicată a Consiliului Nord-Atlantic.\n\n• **Consiliul Nord-Atlantic se va reuni separat pe 20 octombrie** pentru a discuta securitatea regiunii; Mark Rutte a convocat reuniunea la solicitarea României. România nu a activat articolul 4 al NATO, iar Bulgaria nu a exclus această posibilitate. Surse NATO citate de ProTV au vorbit despre un răspuns gradual și proporțional al Alianței și despre posibile noi provocări rusești.\n\n• **România a cerut echipamente de apărare temporare:** Franța s-a oferit să ajute în 24 de ore, iar discuțiile tehnice au început. Sprijinul este necesar până la sosirea echipamentelor comandate prin programul SAFE, livrările fiind estimate, în funcție de contracte, la un an și jumătate până la doi ani și jumătate. Dan a amintit că, în timpul unei amenințări anterioare cu drone pe Dunăre, România a fost sprijinită de șase state: Statele Unite, Franța, Italia, Spania, Slovacia și Portugalia.\n\n• **Dan s-a întâlnit și cu Emmanuel Macron, la 16 octombrie:** președintele român și-a exprimat îngrijorarea față de atacurile cu drone asupra navelor comerciale din Marea Neagră și a salutat solidaritatea și sprijinul Franței pentru siguranța navigației. El a descris parteneriatul strategic româno-francez drept un pilon al securității comune.\n\n• **Ucraina ar putea împărtăși României experiența în combaterea dronelor:** Dan a spus că Ucraina deține expertiză pe care o poate pune la dispoziție, fără a prezenta detalii despre cooperare. El a mai afirmat că, deocamdată, nu există dovezi tehnice privind originea rusă a dronelor, dar că Rusia beneficiază de incertitudinea creată.\n\n• **A fost propusă o comandă militară comună pentru Marea Neagră:** ministrul român al Apărării, Radu Miruță, a propus o inițiativă NATO comună și o scrisoare adresată conducerii Alianței. România ar găzdui structura începând din 2028, iar până atunci ar putea funcționa pe litoralul turcesc, cu participarea ofițerilor români și bulgari. O propunere prevede conducerea prin rotație de către România, Bulgaria și Turcia. Bucureștiul a oferit cinci capabilități, inclusiv o corvetă sosită din Turcia și patru nave care urmează să fie livrate până în 2030.\n\n• **Pregătirile pentru hubul UE de securitate maritimă la Marea Neagră continuă, dar rețeaua nu este încă pe deplin operațională:** strategia UE din 2025 prevede o structură regională, civilă și interinstituțională, coordonată de România și Bulgaria. Conceptul comun a fost prezentat la Consiliul Afaceri Externe al UE pe 15 iunie, iar Constanța și Varna au fost confirmate ca locații pe 22 septembrie; participarea Turciei, Ucrainei și Republicii Moldova este de asemenea avută în vedere. Separat, mecanismul MCM Black Sea, operațional din 2024, și-a extins atribuțiile la protejarea infrastructurii critice submarine.\n\n• **Protecția navală și a infrastructurii critice este o prioritate pentru România:** ministra de Externe Oana Țoiu a evidențiat dezvoltarea capabilităților navale, a radarelor și a monitorizării riscurilor. Bucureștiul consideră importante protejarea zăcământului Neptun Deep și a cablurilor submarine; producția Neptun Deep ar putea crește cu până la 80% producția internă de gaze în anul următor. România a inițiat și un schimb de experiență privind securitatea maritimă cu Lituania.\n\n• **Bulgaria susține un moratoriu asupra atacurilor împotriva navelor civile:** Rumen Radev a spus că propunerea va fi discutată la summitul UE, iar concluziile Consiliului European cer părților să nu atace nave în Marea Neagră. Țoiu a numit obținerea unui armistițiu la Marea Neagră o prioritate diplomatică; România, Franța, Comisia Europeană și Ucraina au promovat eforturile împreună cu aproximativ 30 de state.\n\n• **România vrea să consolideze securitatea frontierelor și maritimă și prin finanțare europeană:** Țoiu a cerut întărirea flancului estic al NATO și a capacităților de descurajare și apărare la Marea Neagră. Bucureștiul solicită sprijin UE pentru hubul de securitate și va prioritiza securitatea maritimă în negocierile privind bugetul european pentru 2028–2034.\n\n• **Războiul din Marea Neagră afectează tot mai direct navigația comercială:** Ucraina a atacat tancuri implicate în exportul de petrol rusesc sancționat, iar Rusia și-a intensificat atacurile asupra porturilor și infrastructurii de export ucrainene. Tot mai multe nave comerciale care se îndreaptă spre aceste porturi sau pleacă de acolo sunt afectate."
   },
   {
     "group_id": "group_19edc458a4",
@@ -1765,27 +2015,6 @@
     "title_ro": "Crișul Sântandrei a urcat pe podiumul Ligii a III-a după victoria de la Dej. Căpitanul echipei: „Am avut și puțin noroc”",
     "lead_ro": "Crișul Sântandrei a urcat pe locul al treilea în Seria 8 a Ligii a III-a, după ce a învins vineri, în deplasare, Unirea Dej, cu scorul de 2-1. Eroul bihorenilor a fost Casian Cîrtea, autorul ambelor g…",
     "content_ro": "Crișul Sântandrei a urcat pe locul al treilea în Seria 8 a Ligii a III-a, după ce a învins vineri, în deplasare, Unirea Dej, cu scorul de 2-1. Eroul bihorenilor a fost Casian Cîrtea, autorul ambelor goluri, în timp ce căpitanul Gheorghe Robert Popescu a recunoscut, la finalul confruntării, că echipa a avut și puțin noroc, după un meci dificil, disputat pe teren sintetic."
-  },
-  {
-    "group_id": "group_37a17af325",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/untitled-1-1024x444.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "S-a tuns cu un minut înainte de a se cântări, ca să nu fie anulată lupta, dar a pierdut titlul mondial la MMA",
-        "link": "https://www.mediafax.ro/sport/s-a-tuns-cu-un-minut-inainte-de-a-se-cantari-ca-sa-nu-fie-anulata-lupta-dar-a-pierdut-titlul-mondial-la-mma-23827063"
-      }
-    ],
-    "published_at": 1792222288,
-    "title_hu": "S-a tuns cu un minut înainte de a se cântări, ca să nu fie anulată lupta, dar a pierdut titlul mondial la MMA",
-    "lead_hu": "Luptătoarea americană de MMA Liz Carmouche s-a tuns pe loc, cu un minut înainte de cântărire, ca să intre în limita categoriei de 56,7 kilograme, dar a pierdut apoi lupta pentru titlul mondial PFL în …",
-    "content_hu": "Luptătoarea americană de MMA Liz Carmouche s-a tuns pe loc, cu un minut înainte de cântărire, ca să intre în limita categoriei de 56,7 kilograme, dar a pierdut apoi lupta pentru titlul mondial PFL în fața Jenei Bishop.",
-    "title_ro": "S-a tuns cu un minut înainte de a se cântări, ca să nu fie anulată lupta, dar a pierdut titlul mondial la MMA",
-    "lead_ro": "Luptătoarea americană de MMA Liz Carmouche s-a tuns pe loc, cu un minut înainte de cântărire, ca să intre în limita categoriei de 56,7 kilograme, dar a pierdut apoi lupta pentru titlul mondial PFL în …",
-    "content_ro": "Luptătoarea americană de MMA Liz Carmouche s-a tuns pe loc, cu un minut înainte de cântărire, ca să intre în limita categoriei de 56,7 kilograme, dar a pierdut apoi lupta pentru titlul mondial PFL în fața Jenei Bishop."
   },
   {
     "group_id": "group_a40e0fc9b9",
@@ -6117,89 +6346,5 @@
     "title_ro": "A fost prins în gura unei balene și a supraviețuit. Povestea incredibilă a pescarului care a înfruntat moartea în adâncuri",
     "lead_ro": "Michael Packard, un pescar american în vârstă de 62 de ani, a trecut printr-o experiență greu de imaginat: în iunie 2021, a ajuns în gura unei balene cu cocoașă, în timp ce se scufunda în largul coast…",
     "content_ro": "Michael Packard, un pescar american în vârstă de 62 de ani, a trecut printr-o experiență greu de imaginat: în iunie 2021, a ajuns în gura unei balene cu cocoașă, în timp ce se scufunda în largul coastelor statului Massachusetts."
-  },
-  {
-    "group_id": "group_79618ca6b6",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/29082026/01643c13-faab-4f6a-992b-9986ebe417ef.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Raul Opruț a dezvăluit ce s-a întâmplat în vestiar, după a cincea victorie la rând pentru Dinamo",
-        "link": "https://www.gsp.ro/fotbal/liga-1/raul-oprut-reactie-dinamo-fc-botosani-superliga-988973.html"
-      }
-    ],
-    "published_at": 1792183653,
-    "title_hu": "Raul Opruț a dezvăluit ce s-a întâmplat în vestiar, după a cincea victorie la rând pentru Dinamo",
-    "lead_hu": "Raul Opruț (28 de ani), fundașul stânga al celor de la Dinamo, a reacționat după o nouă victorie a echipei lui, a cincea la rând, scor 2-0, vineri seara, pe teren propriu, contra celor de la FC Botoșa…",
-    "content_hu": "Raul Opruț (28 de ani), fundașul stânga al celor de la Dinamo, a reacționat după o nouă victorie a echipei lui, a cincea la rând, scor 2-0, vineri seara, pe teren propriu, contra celor de la FC Botoșani, în etapa a 12-a din Superliga. Întrebat ce s-a întâmplat la vestiar după meci, întrucât s-au auzit urale, Opruț a recunoscut că nu a fost nimic special sau diferit față de altă victorie. ...",
-    "title_ro": "Raul Opruț a dezvăluit ce s-a întâmplat în vestiar, după a cincea victorie la rând pentru Dinamo",
-    "lead_ro": "Raul Opruț (28 de ani), fundașul stânga al celor de la Dinamo, a reacționat după o nouă victorie a echipei lui, a cincea la rând, scor 2-0, vineri seara, pe teren propriu, contra celor de la FC Botoșa…",
-    "content_ro": "Raul Opruț (28 de ani), fundașul stânga al celor de la Dinamo, a reacționat după o nouă victorie a echipei lui, a cincea la rând, scor 2-0, vineri seara, pe teren propriu, contra celor de la FC Botoșani, în etapa a 12-a din Superliga. Întrebat ce s-a întâmplat la vestiar după meci, întrucât s-au auzit urale, Opruț a recunoscut că nu a fost nimic special sau diferit față de altă victorie. ..."
-  },
-  {
-    "group_id": "group_2f37ab6505",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Cum-arata-mama-lui-Ian-de-la-Insula-Iubirii.-Familia-lui-Boitasi-Marian-Gigi-a-suferit-o-pierdere-in-vara-lui-2026-1200x675.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Cum arată mama lui Ian de la Insula Iubirii. Familia lui Boitași Marian Gigi a suferit o pierdere în vara lui 2026",
-        "link": "https://www.cancan.ro/cum-arata-mama-lui-ian-de-la-insula-iubirii-familia-lui-boitasi-marian-gigi-a-suferit-o-pierdere-in-vara-lui-2026-21531388"
-      }
-    ],
-    "published_at": 1792183630,
-    "title_hu": "Cum arată mama lui Ian de la Insula Iubirii. Familia lui Boitași Marian Gigi a suferit o pierdere în vara lui 2026",
-    "lead_hu": "Un nou cuplu a intrat în atenția telespectatorilor emisiunii „Insula Iubirii”. Mira și Ian au venit în Thailanda pentru a-și testa relația, însă povestea concurentului atrage atenția și dincolo de rea…",
-    "content_hu": "Un nou cuplu a intrat în atenția telespectatorilor emisiunii „Insula Iubirii”. Mira și Ian au venit în Thailanda pentru a-și testa relația, însă povestea concurentului atrage atenția și dincolo de reality show. În vârstă de 28 de ani, Ian pare să aibă o legătură specială cu familia sa. Tânărul se afișează des alături de cei […]",
-    "title_ro": "Cum arată mama lui Ian de la Insula Iubirii. Familia lui Boitași Marian Gigi a suferit o pierdere în vara lui 2026",
-    "lead_ro": "Un nou cuplu a intrat în atenția telespectatorilor emisiunii „Insula Iubirii”. Mira și Ian au venit în Thailanda pentru a-și testa relația, însă povestea concurentului atrage atenția și dincolo de rea…",
-    "content_ro": "Un nou cuplu a intrat în atenția telespectatorilor emisiunii „Insula Iubirii”. Mira și Ian au venit în Thailanda pentru a-și testa relația, însă povestea concurentului atrage atenția și dincolo de reality show. În vârstă de 28 de ani, Ian pare să aibă o legătură specială cu familia sa. Tânărul se afișează des alături de cei […]"
-  },
-  {
-    "group_id": "group_b7d64b9c55",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/ed790d7b-9d8b-45f0-a0cc-11beda7c2394.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Danny Armstrong, jucătorul momentului în Superliga: „Câștigăm și punem presiune pe restul!”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/dinamo-fc-botosani-superliga-danny-armstrong-988958.html"
-      }
-    ],
-    "published_at": 1792183004,
-    "title_hu": "Danny Armstrong, jucătorul momentului în Superliga: „Câștigăm și punem presiune pe restul!”",
-    "lead_hu": "Dinamo - FC Botoșani 2-0, în runda 12 din Superliga. Danny Armstrong, cel mai în formă jucător al campionatului, a oferit declarații la finalul partidei. Danny Armstrong este jucătorul momentului în S…",
-    "content_hu": "Dinamo - FC Botoșani 2-0, în runda 12 din Superliga. Danny Armstrong, cel mai în formă jucător al campionatului, a oferit declarații la finalul partidei. Danny Armstrong este jucătorul momentului în Superliga, cu 15 contribuții decisive în primele 12 etape (5 goluri și 10 pase decisive). A marcat din penalty primul gol al meciului cu Botoșani și a vorbit despre forma pe care o traversează. ...",
-    "title_ro": "Danny Armstrong, jucătorul momentului în Superliga: „Câștigăm și punem presiune pe restul!”",
-    "lead_ro": "Dinamo - FC Botoșani 2-0, în runda 12 din Superliga. Danny Armstrong, cel mai în formă jucător al campionatului, a oferit declarații la finalul partidei. Danny Armstrong este jucătorul momentului în S…",
-    "content_ro": "Dinamo - FC Botoșani 2-0, în runda 12 din Superliga. Danny Armstrong, cel mai în formă jucător al campionatului, a oferit declarații la finalul partidei. Danny Armstrong este jucătorul momentului în Superliga, cu 15 contribuții decisive în primele 12 etape (5 goluri și 10 pase decisive). A marcat din penalty primul gol al meciului cu Botoșani și a vorbit despre forma pe care o traversează. ..."
-  },
-  {
-    "group_id": "group_e411ee2588",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNzcyMV8zMDE3/NzIxX2RvbmFsZC10dXNrLXByb2ZpbWVk/aWEuanBnJmhhc2g9ZDhlODMwNDJkNDE4OWVkMzg0NmQzMThhZWNlMzQ4NTc=.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Premierul Poloniei Donald Tusk avertizează că Rusia ar putea intensifica războiul hibrid înainte de Crăciun",
-        "link": "https://www.digi24.ro/stiri/externe/premierul-poloniei-donald-tusk-avertizeaza-ca-rusia-ar-putea-intensifica-razboiul-hibrid-inainte-de-craciun-3996337"
-      }
-    ],
-    "published_at": 1792182999,
-    "title_hu": "Premierul Poloniei Donald Tusk avertizează că Rusia ar putea intensifica războiul hibrid înainte de Crăciun",
-    "lead_hu": "Rusia ar putea pregăti o escaladare a atacurilor hibride împotriva Poloniei „înainte de Ajunul Crăciunului”, a avertizat premierul polonez Donald Tusk, relatează TVP World.",
-    "content_hu": "Rusia ar putea pregăti o escaladare a atacurilor hibride împotriva Poloniei „înainte de Ajunul Crăciunului”, a avertizat premierul polonez Donald Tusk, relatează TVP World.",
-    "title_ro": "Premierul Poloniei Donald Tusk avertizează că Rusia ar putea intensifica războiul hibrid înainte de Crăciun",
-    "lead_ro": "Rusia ar putea pregăti o escaladare a atacurilor hibride împotriva Poloniei „înainte de Ajunul Crăciunului”, a avertizat premierul polonez Donald Tusk, relatează TVP World.",
-    "content_ro": "Rusia ar putea pregăti o escaladare a atacurilor hibride împotriva Poloniei „înainte de Ajunul Crăciunului”, a avertizat premierul polonez Donald Tusk, relatează TVP World."
   }
 ]
