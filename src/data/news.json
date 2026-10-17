@@ -1,12 +1,54 @@
 [
   {
+    "group_id": "group_5e6a9cf6be",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Constanța: Un adolescent a fost rănit în autobuz de un geam spart de un bărbat",
+        "link": "https://agerpres.ro/social/2026/10/17/constanta-un-adolescent-a-fost-ranit-in-autobuz-de-un-geam-spart-de-un-barbat--1604110"
+      }
+    ],
+    "published_at": 1792253832,
+    "title_hu": "Constanța: Un adolescent a fost rănit în autobuz de un geam spart de un bărbat",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Constanța: Un adolescent a fost rănit în autobuz de un geam spart de un bărbat",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f26857576e",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Handbal feminin: Gloria Bistrița, victorioasă în duelul cu Storhamar, din Liga Campionilor",
+        "link": "https://agerpres.ro/sport/2026/10/17/video-handbal-feminin-gloria-bistrita-victorioasa-in-duelul-cu-storhamar-din-liga-campionilor--1604108"
+      }
+    ],
+    "published_at": 1792253832,
+    "title_hu": "VIDEO Handbal feminin: Gloria Bistrița, victorioasă în duelul cu Storhamar, din Liga Campionilor",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "VIDEO Handbal feminin: Gloria Bistrița, victorioasă în duelul cu Storhamar, din Liga Campionilor",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
     "group_id": "group_6dba42cdeb",
-    "fingerprint": "e01329ebed369dc6b09fd588516048f2",
+    "fingerprint": "6044d32415117e9a07aaf9c561f8a00c",
     "category": "Politika",
     "image": "https://cdn.adh.reperio.news/image-1/1b54d06d-6e70-49ea-8759-5e9ce068ae69/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Adevărul",
@@ -17,15 +59,255 @@
         "source": "Digi24",
         "title": "Oana Gheorghiu: PSD va trebui să îşi asume guvernarea şi să aducă laptele şi mierea pe care le-a promis",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/oana-gheorghiu-psd-va-trebui-sa-isi-asume-guvernarea-si-sa-aduca-laptele-si-mierea-pe-care-le-a-promis-3996939"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Oana Gheorghiu: PSD va trebui să își asume guvernarea și să aducă laptele și mierea pe care le-a promis",
+        "link": "https://agerpres.ro/politic/2026/10/17/oana-gheorghiu-psd-va-trebui-sa-isi-asume-guvernarea-si-sa-aduca-laptele-si-mierea-pe-care-le-a-prom--1604104"
       }
     ],
-    "published_at": 1792252680,
-    "title_hu": "Oana Gheorghiu: a PNL a politikai patthelyzet lezárása érdekében támogatja a Niculescu-kormányt",
-    "lead_hu": "Oana Gheorghiu szerint a PNL azért támogatja a Luca Niculescu vezette kormány beiktatását, hogy véget vessen a politikai blokádnak és lehetővé tegye a sürgős költségvetési kiigazítást. A párt nem lép be a kormányba, ellenzékből folytatja a reformok támogatását, a kormányzás felelősségét pedig a PSD-re hárítja.",
-    "content_hu": "• **A PNL döntése** szerint a párt támogatja a Luca Niculescu vezette kormány beiktatását, noha Oana Gheorghiu elfogadhatatlannak nevezte a kabinet összetételét.\n\n• **A sürgős költségvetési kiigazítás** elmaradása veszélyeztetheti a kórházak gyógyszer- és kezelési keretét, valamint a mentők üzemanyag-ellátását – figyelmeztetett Gheorghiu. Állítása szerint az ügyvivő kormány jogilag nem fogadhatja el a kiigazítást sürgősségi rendelettel.\n\n• **A 17 miniszteri tárcából 11** a PSD-é lesz az új kormányban. Gheorghiu bírálta a szociáldemokratákat, amiért az AUR-ral együtt hozzájárultak a Bolojan-kormány bukásához, és elutasították a PNL, az USR és az UDMR által javasolt, Siegfried Mureșan vezette kisebbségi kormányt.\n\n• **A PNL ellenzékbe vonul**, és a beiktatás támogatása Gheorghiu szerint nem jelenti a PSD-be vetett bizalmat vagy a miniszterjelöltek jóváhagyását. A párt a pazarlás csökkentését, a kiváltságok felszámolását és az állami vállalatok szakmai irányítását célzó reformokat kívánja tovább támogatni.\n\n• **A kormányzás felelősségét a PSD-nek kell vállalnia** – fogalmazott Gheorghiu, aki szerint a szociáldemokratáknak be kell váltaniuk ígéreteiket, és többé nem háríthatják a felelősséget Bolojan megszorító politikájára.",
-    "title_ro": "Oana Gheorghiu: PNL susține Guvernul Niculescu pentru a pune capăt blocajului politic",
-    "lead_ro": "Oana Gheorghiu a declarat că PNL susține învestirea Guvernului condus de Luca Niculescu pentru a pune capăt blocajului politic și a permite o rectificare bugetară urgentă. Liberalii nu intră la guvernare, ci vor continua din opoziție să susțină reformele, iar responsabilitatea guvernării revine PSD, a afirmat ea.",
-    "content_ro": "• **Decizia PNL** este de a susține învestirea Guvernului condus de Luca Niculescu, deși Oana Gheorghiu a criticat componența cabinetului.\n\n• **Lipsa unei rectificări bugetare urgente** ar putea lăsa spitalele fără bani pentru medicamente și tratamente, iar ambulanțele fără combustibil, a avertizat Gheorghiu. Potrivit acesteia, Guvernul interimar nu poate adopta rectificarea prin ordonanță de urgență.\n\n• **PSD va deține 11 dintre cele 17 portofolii ministeriale** în noul guvern. Gheorghiu i-a criticat pe social-democrați pentru că, alături de AUR, au contribuit la căderea Guvernului Bolojan și au respins propunerea PNL, USR și UDMR pentru un guvern minoritar condus de Siegfried Mureșan.\n\n• **PNL va intra în opoziție**, iar susținerea învestirii nu înseamnă încredere în PSD sau aprobarea miniștrilor propuși, a spus Gheorghiu. Liberalii vor continua să susțină reforme pentru reducerea risipei, eliminarea privilegiilor și profesionalizarea companiilor de stat.\n\n• **PSD trebuie să își asume responsabilitatea guvernării**, a afirmat Gheorghiu, adăugând că social-democrații trebuie să își respecte promisiunile și nu vor mai putea da vina pe austeritatea asociată lui Bolojan."
+    "published_at": 1792253832,
+    "title_hu": "Oana Gheorghiu: a PNL szükségből támogatja a Niculescu-kormány beiktatását, majd ellenzékből folytatja",
+    "lead_hu": "Oana Gheorghiu szerint a PNL a politikai patthelyzet és a sürgős költségvetési kiigazítás elmaradásának következményei miatt támogatja a Luca Niculescu vezette kormány beiktatását. A párt nem lép be a kabinetbe: feltételes, korlátozott támogatást ad, majd ellenzékből folytatja a reformok sürgetését, a kormányzás felelősségét pedig a PSD-re hárítja.",
+    "content_hu": "• **A PNL döntése** szerint a párt támogatja a Luca Niculescu vezette kormány beiktatását, noha Oana Gheorghiu elfogadhatatlannak nevezte a kabinet összetételét. Ilie Bolojan szerint a liberálisok szavazata szükségből, feltételesen és egyedi alkalomra szól; a párt által támogatott tisztségviselők a következő napokban benyújtják lemondásukat.\n\n• **A sürgős költségvetési kiigazítás** elmaradása veszélyeztetheti a kórházak gyógyszer- és kezelési keretét, valamint a mentők üzemanyag-ellátását – figyelmeztetett Gheorghiu. Állítása szerint az ügyvivő kormány jogilag nem fogadhatja el a kiigazítást sürgősségi rendelettel.\n\n• **A 17 miniszteri tárcából 11** a PSD-é lesz az új kormányban. Gheorghiu bírálta a szociáldemokratákat, amiért az AUR-ral együtt hozzájárultak a Bolojan-kormány bukásához, és elutasították a PNL, az USR és az UDMR által javasolt, Siegfried Mureșan vezette kisebbségi kormányt.\n\n• **A reformokért folytatott munka** az ügyvivő kormány korlátozott mozgástere, a politikai blokádok és a bírósági megtámadások ellenére több mint öt hónapon át folytatódott – közölte Gheorghiu.\n\n• **Gheorghiu 15 éves tapasztalata** a romániai kórházak problémáinak megoldására irányuló munkában arra készteti, hogy a politikai vitán túl a működő egészségügyi ellátás és az emberéletek szempontjait is mérlegelje.\n\n• **A PNL ellenzékbe vonul**, és a beiktatás támogatása Gheorghiu szerint nem jelenti a PSD-be vetett bizalmat vagy a miniszterjelöltek jóváhagyását. A párt a pazarlás csökkentését, a kiváltságok felszámolását és az állami vállalatok szakmai irányítását célzó reformokat kívánja tovább támogatni.\n\n• **A kormányzás felelősségét a PSD-nek kell vállalnia** – fogalmazott Gheorghiu, aki szerint a szociáldemokratáknak be kell váltaniuk ígéreteiket, és többé nem háríthatják a felelősséget Bolojan megszorító politikájára.\n\n• **Siegfried Mureșan** közölte, hogy a liberálisok figyelemmel követik az új kormány minisztereinek munkáját, és egyértelmű ellenzéki szerepet vállalnak.",
+    "title_ro": "Oana Gheorghiu: PNL susține din necesitate învestirea Guvernului Niculescu și va continua reformele din opoziție",
+    "lead_ro": "Oana Gheorghiu afirmă că PNL susține învestirea Guvernului condus de Luca Niculescu pentru a pune capăt blocajului politic și a permite rectificarea bugetară urgentă. Liberalii nu intră la guvernare, acordă un sprijin condiționat și limitat, apoi vor continua să susțină reformele din opoziție, lăsând PSD responsabilitatea guvernării.",
+    "content_ro": "• **Decizia PNL** este de a susține învestirea Guvernului condus de Luca Niculescu, deși Oana Gheorghiu a calificat drept revoltătoare componența cabinetului. Ilie Bolojan a spus că votul liberalilor este unul de necesitate, condiționat și punctual; demnitarii susținuți de partid își vor depune demisiile în zilele următoare.\n\n• **Lipsa unei rectificări bugetare urgente** ar putea pune în pericol fondurile spitalelor pentru medicamente și tratamente, precum și combustibilul ambulanțelor, a avertizat Gheorghiu. Potrivit acesteia, Guvernul interimar nu poate adopta rectificarea prin ordonanță de urgență.\n\n• **11 dintre cele 17 portofolii ministeriale** din noul guvern ar urma să revină PSD. Gheorghiu i-a criticat pe social-democrați pentru că au contribuit, alături de AUR, la căderea Guvernului Bolojan și au respins guvernul minoritar condus de Siegfried Mureșan, propus de PNL, USR și UDMR.\n\n• **Lupta pentru reforme** a continuat timp de peste cinci luni, în pofida limitărilor Guvernului interimar, a blocajelor politice și a contestărilor în instanță, a declarat Gheorghiu.\n\n• **Experiența de 15 ani a lui Gheorghiu** în încercarea de a schimba lucrurile în spitalele din România o face să privească situația și din perspectiva funcționării serviciilor medicale și a vieților omenești, nu doar ca pe o dispută între partide.\n\n• **PNL intră în opoziție**, iar susținerea învestirii nu înseamnă, potrivit lui Gheorghiu, încredere în PSD sau aprobarea miniștrilor propuși. Liberalii vor continua să susțină reducerea risipei, eliminarea privilegiilor și profesionalizarea companiilor de stat.\n\n• **PSD trebuie să își asume guvernarea**, a afirmat Gheorghiu, care le-a cerut social-democraților să își respecte promisiunile și să nu mai dea vina pe austeritatea lui Bolojan.\n\n• **Siegfried Mureșan** a declarat că liberalii îi vor urmări atent pe noii miniștri și vor face o opoziție clară."
+  },
+  {
+    "group_id": "group_c2ce22e812",
+    "fingerprint": "a28536d6905c70814cc1f0aec3f81925",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Proteste de amploare în Franța. Zeci de mii de oameni ies în stradă, iar „Vestele Galbene” revin în prim-plan",
+        "link": "https://stirileprotv.ro/stiri/international/proteste-de-amploare-in-franta-zeci-de-mii-de-oameni-ies-in-strada-iar-vestele-galbene-revin-in-prim-plan.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
+        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Stare de alertă în Franța: Zeci de mii de oameni ies azi în 500 de proteste împotriva costului vieții / Autoritățile se tem de violențe",
+        "link": "https://hotnews.ro/stare-de-alerta-in-franta-zeci-de-mii-de-oameni-ies-azi-in-500-de-proteste-impotriva-costului-vietii-autoritatile-se-tem-de-violente-2378558"
+      },
+      {
+        "source": "Digi24",
+        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
+        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Protestele elevilor din Franța iau amploare. Marșuri neautorizate și 61 de arestări la Paris, incidente la Lyon și Marsilia",
+        "link": "https://adevarul.ro/stiri-externe/europa/protestele-elevilor-din-franta-iau-amploare-2564672.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Zi de mobilizare în Franța: Tensiuni cu forțele de ordine încă de la începutul protestelor",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/zi-de-mobilizare-in-franta-tensiuni-cu-fortele-de-ordine-inca-de-la-inceputul-protestelor--1604072"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Mobilizare împotriva 'costului ridicat al vieții': Peste 500.000 de manifestanți în Franța, potrivit sindicatului CGT",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/video-mobilizare-impotriva-costului-ridicat-al-vietii-peste-500-000-de-manifestanti-in-franta-potriv--1604111"
+      }
+    ],
+    "published_at": 1792253832,
+    "title_hu": "A diáktiltakozások országos, megélhetési válság elleni mozgalommá szélesedtek Franciaországban",
+    "lead_hu": "A francia középiskolások oktatási követeléseihez a Sárga Mellényesek, szakszervezetek és más csoportok is csatlakoztak, így a tiltakozások a megélhetési költségek és a közszolgáltatások állapota elleni országos mozgalommá váltak. Szombaton több városban összecsapások és rongálások történtek: a belügyminisztérium délben 32 800 résztvevőről és 166 őrizetbe vételről számolt be, délutánra az őrizetbe vettek száma 272-re nőtt, míg a CGT szakszervezet több mint 500 ezer résztvevőt becsült országosan.",
+    "content_hu": "• **Kedden mintegy 480 ezren tüntettek Franciaországban** a középiskolások tiltakozási hullámának ötödik országos mobilizációs napján – közölte a szervezői szakszervezeti tömörülés. Az előző keddi demonstráción a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt számoltak.\n\n• **A diákok jobb finanszírozást, több tanárt és kedvezőbb tanulási feltételeket követelnek.** A szeptember 17-én, Párizs térségében indult mozgalom országossá vált; a diákok a Parcoursup felsőoktatási felvételi rendszer ellen is tiltakoznak. Greta Thunberg kedden egy Saint-Denis-i középiskolánál csatlakozott hozzájuk.\n\n• **Kedden 214 középiskola zárt be,** szemben az előző heti 800-zal; az oktatási minisztérium szerint az intézmények 94,2 százaléka nyitva maradt. A parlament 43 milliárd eurós, az államháztartás rendezését célzó költségvetési intézkedésekről vitázott; az államadósság a GDP 112 százaléka.\n\n• **A tiltakozások a megélhetési költségek és a közszolgáltatások állapota elleni mozgalommá szélesedtek.** A Sárga Mellényesek, a diákmozgalmak és a szakszervezetek közös fellépést hirdettek az emelkedő árak és üzemanyagköltségek, az egyenlőtlenségek, az alacsony bérek és nyugdíjak, valamint a közszolgáltatások romlása ellen. A CGT magasabb béreket és nyugdíjakat, alacsonyabb árakat és a közszolgáltatások védelmét követelte.\n\n• **A francia infláció szeptemberben éves alapon 3,1 százalékra emelkedett,** 2024 januárja óta a legmagasabb értékre. A beszámolók szerint a benzin ára literenként 2,20 euróra nőtt; egy korábbi Sárga Mellényes résztvevő ezt a 2018-as, 1,40 eurós árral vetette össze.\n\n• **A szombati akciókra vonatkozó előzetes becslések eltértek.** Egy online térkép több mint 1000, egy másik felhívás mintegy 1500 tervezett akciót jelzett, míg a belügyminiszteri hivatal körülbelül 500 akcióról és több mint 90 tervezett demonstrációról számolt be. A rendőrség Párizson kívül 60–110 ezer, a fővárosban 30–60 ezer résztvevővel számolt; ezek nem tényleges részvételi adatok.\n\n• **A belügyminisztérium szombat délben 140 akcióról és 32 800 résztvevőről számolt be Párizson kívül,** országosan pedig 166 őrizetbe vételt jelentett. Délutánra az őrizetbe vettek száma 272-re emelkedett; a rendőrség egyik forrása Párizsban közel 40 ezres, országosan akár 200 ezres részvételt várt.\n\n• **A CGT szakszervezet több mint 500 ezerre becsülte a szombati tüntetések résztvevőinek számát országosan.** Ez jelentősen meghaladta a belügyminisztérium délben közölt, Párizson kívüli 32 800 fős adatát.\n\n• **A délutáni városi becslések szerint Lyonban és Nantes-ban mintegy 20-20 ezren, Rennes-ben 10 ezren tüntettek.** Bordeaux-ban körülbelül 7000 résztvevőről számoltak be.\n\n• **Párizsban a fő menet a République térről indult a Clichy tér felé, a Boulevard Magentán át.** A szervezők a hatalmi intézmények felé vonultak volna, de erre nem kaptak engedélyt; több stratégiai helyszínen tüntetési tilalmat rendeltek el, és 25 metróállomást reggel nyolctól lezártak.\n\n• **Párizsban délelőtt 9:30-ig 40, 11 óráig 61, dél körül pedig 100 őrizetbe vételről számoltak be.** Az intézkedések főként tiltott fegyver vagy védőfelszerelés birtoklásával függtek össze; a rendőrség 589 megelőző ellenőrzést végzett, és két engedély nélküli menetet oszlatott fel.\n\n• **A CNEWS és az Europe 1 szerkesztőségének is otthont adó párizsi épületnél történt incidens után 21 embert vettek őrizetbe.** A beszámolók szerint köveket és más tárgyakat dobáltak, ablakokat törtek be és barikádokat borítottak fel.\n\n• **Marseille-ben tüntetők rövid időre behatoltak a városházára.** Betörték az ajtót, megrongáltak televíziókat, ledöntöttek egy Marianne-mellszobrot és anarchista jelképet festettek a falra; sérültről nem érkezett jelentés. Az incidens után két további rendőri egységet küldtek a városba.\n\n• **Marseille-ben a Canebière sugárúton tüntetők akadályozták a forgalmat és kukákat gyújtottak fel,** egy rendőrségi létesítményt pedig megtámadtak; ablakokat törtek be, és füstgránátokat dobtak az épületbe. A Prado sugárutat rövid időre szemetesekkel és rollerekkel torlaszolták el. Később több üzletet is kifosztottak, egy sportcipőboltban pedig tűz keletkezett.\n\n• **Lyonban több száz, feketébe öltözött fiatal barikádokat állított fel,** a rendőrség pedig csoportokat oszlatott fel. A Lyon 3 egyetem előtt összegyűlt közel 300 embert könnygázzal oszlatták fel; később a város turisztikai irodája is kigyulladt. Több üzlet előre bedeszkázta a kirakatait.\n\n• **Bordeaux-ban a mintegy 7000 résztvevővel zajló demonstráció összecsapásokba torkollott.** Egy csoport betört a Kereskedelmi és Iparkamara épületébe, kukákat gyújtott fel, a rendőrség pedig vízágyút és könnygázt vetett be. A környéken épületrongálásról és a vámügyi múzeum falára festett graffitiről is beszámoltak.\n\n• **Lille-ben tüntetők behatoltak a városházára, Grenoble-ban pedig megrongálták a városházát.** Lille-ben a maszkos demonstrálókat rövid időn belül eltávolították az épületből; a városban barikádokat is emeltek.\n\n• **A keddi felvonulások többsége békés volt, de több városban könnygázt vetett be a rendőrség.** Párizsban, Lyonban, Strasbourgban és Nantes-ban is történt könnygázhasználat; Párizs központjában autót gyújtottak fel, Lyonban üzleteket és egy benzinkutat rongáltak meg, és rendőrökre is támadtak.\n\n• **A tiltakozások kezdete óta 937 rendőr és csendőr sérült meg,** emellett 248 diák és 149 oktatási dolgozó is megsérült. A rendőri fellépés miatt 36 vizsgálat indult; a súlyos sérültek között van egy 14 éves, aki elveszítette a kezét, és egy 15 éves, aki gumilövedéktől elveszítette az egyik szemét. A szombati eseményekről szóló beszámolók szintén arról szóltak, hogy egy tüntető elveszítette a kezét egy rendőrségi tömegoszlató gránát miatt.\n\n• **A diákok elleni fellépésben felfüggesztették a kábító- és hanggránátok használatát,** de Laurent Nuñez belügyminiszter szerint súlyos összecsapások esetén köztes fegyvereket ismét bevethetnek. Egy rendőrszakszervezet panaszt jelentett be az állammal szemben, arra hivatkozva, hogy a rendőrök ellentmondásos utasítások mellett kerültek veszélybe.\n\n• **A kormány azzal vádolta az LFI-t, hogy szítja a tiltakozásokat; a párt visszautasította a vádat.** Sébastien Lecornu miniszterelnök az elmúlt évtizedek egyik legerőszakosabb tiltakozási hullámának nevezte a helyzetet, Jordan Bardella, a Nemzeti Tömörülés vezetője pedig a káosz veszélyére figyelmeztetett.\n\n• **Emmanuel Macron nyugalomra és az emberek, illetve a tulajdon tiszteletben tartására szólított fel.** Azt mondta, a tüntetéshez való jogot tiszteletben kell tartani, de elfogadhatatlan, ha valaki kizárólag rombolás és zavargás okozása céljából vesz részt a megmozdulásokon.\n\n• **A tiltakozások összekapcsolódását a fiatalokat érő többes válságokkal magyarázták.** Paolo Stuppia kutató szerint a klímaváltozás, a bizonytalan megélhetés, a munkaerőpiacra való belépés nehézségei és a szélsőjobb hatalomra kerülésétől való félelem közös ügyek felé terelheti a fiatalokat; a rendőri fellépés hidat képezhet a diákok és a Sárga Mellényesek között.\n\n• **Jean-Luc Mélenchon, az LFI vezetője megjelent az egyik párizsi menetben,** és az X-en azzal vádolta a sajtót, hogy nem mutatja be a demonstrálókkal szembeni rendőri brutalitás valódi mértékét.\n\n• **Marine Le Pen a megrongált iskolák javítási költségeinek megtérítését követelte.** Azt mondta, a károkozóknak vagy szüleiknek kellene fizetniük; az ezt lehetővé tevő törvényjavaslat a parlament előtt van.\n\n• **A tiltakozásokat a kötvénypiaci feszültségek és a magas állami hitelfelvételi költségek is kísérik.** Egy beszámoló szerint a francia állam hitelfelvételi költségei két évtizede nem látott szintre emelkedtek, miközben a kormány parlamenti többség nélkül próbálja elfogadtatni a megszorításokat tartalmazó költségvetést.",
+    "title_ro": "Protestele elevilor s-au extins într-o mișcare națională împotriva crizei costului vieții din Franța",
+    "lead_ro": "Revendicărilor elevilor francezi li s-au alăturat Vestele Galbene, sindicatele și alte grupuri, transformând protestele într-o mișcare națională împotriva costului vieții și a degradării serviciilor publice. Sâmbătă au avut loc ciocniri și acte de vandalism în mai multe orașe: Ministerul de Interne a raportat la prânz 32.800 de participanți și 166 de rețineri, iar numărul reținerilor a ajuns la 272 după-amiază; sindicatul CGT a estimat însă peste 500.000 de participanți la nivel național.",
+    "content_ro": "• **Marți, aproximativ 480.000 de persoane au manifestat în Franța** în a cincea zi națională de mobilizare a elevilor de liceu, potrivit intersindicalei organizatoare. La protestul de marțea precedentă, autoritățile au numărat 266.000 de participanți, iar organizatorii 450.000.\n\n• **Elevii cer finanțare mai bună, mai mulți profesori și condiții de studiu îmbunătățite.** Mișcarea, începută pe 17 septembrie în regiunea pariziană, s-a extins în întreaga țară; elevii protestează și împotriva platformei de admitere în învățământul superior Parcoursup. Greta Thunberg li s-a alăturat marți în fața unui liceu din Saint-Denis.\n\n• **Marți au fost închise 214 licee,** față de 800 în săptămâna precedentă; Ministerul Educației a anunțat că 94,2% dintre licee au rămas deschise. Parlamentul dezbătea măsuri bugetare de 43 de miliarde de euro pentru redresarea finanțelor publice, iar datoria publică reprezintă 112% din PIB.\n\n• **Protestele s-au extins într-o mișcare împotriva costului vieții și a degradării serviciilor publice.** Vestele Galbene, elevii și sindicatele au cerut acțiuni comune împotriva scumpirilor și a costurilor carburanților, inegalităților, salariilor și pensiilor mici și deteriorării serviciilor publice. CGT a cerut salarii și pensii mai mari, prețuri mai mici și protejarea serviciilor publice.\n\n• **Inflația anuală din Franța a urcat la 3,1% în septembrie,** cel mai ridicat nivel din ianuarie 2024. Potrivit relatărilor, benzina a ajuns la 2,20 euro pe litru; un fost participant la mișcarea Vestelor Galbene a comparat prețul cu cel de 1,40 euro din 2018.\n\n• **Estimările preliminare pentru acțiunile de sâmbătă au fost diferite.** O hartă online indica peste 1.000 de acțiuni, iar un alt apel aproximativ 1.500; biroul ministrului de Interne menționa circa 500 de acțiuni și peste 90 de manifestații planificate. Poliția estima 60.000–110.000 de participanți în afara Parisului și 30.000–60.000 în capitală; acestea erau estimări, nu date efective de participare.\n\n• **La prânz, Ministerul de Interne a raportat 140 de acțiuni și 32.800 de participanți în afara Parisului,** precum și 166 de rețineri la nivel național. Până după-amiază, numărul reținerilor a urcat la 272; o sursă din poliție estima aproape 40.000 de participanți la Paris și până la 200.000 în întreaga țară.\n\n• **Sindicatul CGT a estimat la peste 500.000 numărul participanților la protestele de sâmbătă din întreaga țară.** Estimarea depășește considerabil cifra de 32.800 de persoane raportată la prânz de Ministerul de Interne pentru zonele din afara Parisului.\n\n• **Estimările de după-amiază indicau aproximativ 20.000 de manifestanți în Lyon și Nantes și 10.000 în Rennes.** La Bordeaux au fost raportate circa 7.000 de persoane.\n\n• **La Paris, marșul principal a pornit din Place de la République spre Place de Clichy, pe Boulevard Magenta.** Organizatorii ar fi dorit să se îndrepte spre instituțiile de putere, dar nu au primit autorizație; manifestațiile au fost interzise în mai multe zone strategice, iar 25 de stații de metrou au fost închise de la ora 8:00.\n\n• **La Paris au fost raportate 40 de rețineri până la ora 9:30, 61 până la ora 11:00 și 100 în jurul prânzului.** Intervențiile au vizat în principal deținerea de arme sau echipamente de protecție interzise; poliția a efectuat 589 de controale preventive și a dispersat două marșuri neautorizate.\n\n• **După incidentul de la clădirea din Paris care găzduiește redacțiile CNEWS și Europe 1, 21 de persoane au fost reținute.** Potrivit relatărilor, au fost aruncate pietre și alte obiecte, au fost sparte geamuri și răsturnate bariere.\n\n• **La Marsilia, manifestanți au pătruns pentru scurt timp în primărie.** Au spart ușa, au avariat televizoare, au răsturnat bustul Mariannei și au desenat pe perete un simbol anarhist; nu au fost raportate persoane rănite. După incident, au fost trimise încă două unități de poliție în oraș.\n\n• **La Marsilia, manifestanții au blocat circulația pe bulevardul Canebière și au incendiat coșuri de gunoi,** iar o secție de poliție a fost atacată; au fost sparte geamuri și au fost aruncate grenade fumigene în clădire. Bulevardul Prado a fost blocat temporar cu tomberoane și trotinete. Ulterior, mai multe magazine au fost jefuite, iar într-un magazin de încălțăminte sportivă a izbucnit un incendiu.\n\n• **La Lyon, sute de tineri îmbrăcați în negru au ridicat baricade,** iar poliția a dispersat grupuri de manifestanți. Aproape 300 de persoane adunate în fața Universității Lyon 3 au fost dispersate cu gaze lacrimogene; ulterior, biroul de turism al orașului a fost incendiat. Mai multe magazine își baricadaseră preventiv vitrinele.\n\n• **La Bordeaux, manifestația cu aproximativ 7.000 de participanți s-a transformat în confruntări.** Un grup a pătruns în sediul Camerei de Comerț și Industrie și a incendiat coșuri de gunoi, iar poliția a folosit tunuri cu apă și gaze lacrimogene. Au fost semnalate și pagube la clădiri, precum și graffiti pe fațada Muzeului Național al Vămii.\n\n• **La Lille, manifestanți au pătruns în primărie, iar la Grenoble clădirea primăriei a fost avariată.** La Lille, protestatarii mascați au fost scoși din clădire după câteva minute; în oraș au fost ridicate și baricade.\n\n• **Majoritatea marșurilor de marți au fost pașnice, dar poliția a folosit gaze lacrimogene în mai multe orașe.** Au fost raportate intervenții la Paris, Lyon, Strasbourg și Nantes; în centrul Parisului a fost incendiată o mașină, iar la Lyon au fost avariate magazine și o benzinărie și au fost atacați polițiști.\n\n• **De la începutul protestelor au fost răniți 937 de polițiști și jandarmi,** precum și 248 de elevi și 149 de angajați din educație. În urma intervențiilor poliției au fost deschise 36 de anchete; printre răniții grav se numără un adolescent de 14 ani care și-a pierdut o mână și unul de 15 ani care și-a pierdut un ochi după ce a fost lovit de un glonț de cauciuc. Relatările despre evenimentele de sâmbătă au menționat, de asemenea, un protestatar care și-a pierdut o mână după explozia unei grenade de dispersare a mulțimii.\n\n• **Utilizarea grenadelor asurzitoare și a grenadelor paralizante împotriva elevilor a fost suspendată,** dar ministrul de Interne Laurent Nuñez a spus că arme intermediare ar putea fi folosite din nou în cazul unor confruntări grave. Un sindicat al poliției a anunțat că va depune o plângere împotriva statului, susținând că agenții au fost puși în pericol de ordine contradictorii.\n\n• **Guvernul a acuzat LFI că alimentează protestele, iar partidul a respins acuzația.** Premierul Sébastien Lecornu a descris situația drept unul dintre cele mai violente valuri de protest din ultimele decenii, iar Jordan Bardella, liderul Adunării Naționale, a avertizat asupra riscului de haos.\n\n• **Emmanuel Macron a făcut apel la calm și la respectarea oamenilor și a bunurilor.** El a afirmat că dreptul de a manifesta trebuie respectat, dar a calificat drept inacceptabilă participarea celor care urmăresc doar să provoace distrugeri și tulburări.\n\n• **Cercetătorii au explicat apropierea dintre grupurile de protest prin crizele multiple cu care se confruntă tinerii.** Paolo Stuppia a spus că schimbările climatice, precaritatea, dificultatea de a intra pe piața muncii și teama de venirea extremei drepte la putere îi pot apropia pe tineri de revendicări comune; intervenția poliției ar putea crea o punte între elevi și Vestele Galbene.\n\n• **Jean-Luc Mélenchon, liderul LFI, a apărut la unul dintre marșurile din Paris** și a acuzat presa, într-un mesaj pe X, că nu prezintă amploarea reală a brutalității poliției față de manifestanți.\n\n• **Marine Le Pen a cerut ca pagubele produse școlilor să fie plătite de cei care le-au provocat sau de părinții lor.** Un proiect de lege care ar permite acest lucru a fost deja depus în parlament.\n\n• **Protestele au loc pe fondul tensiunilor de pe piața obligațiunilor și al creșterii costurilor de împrumut ale statului.** Potrivit unei relatări, costurile de finanțare ale Franței au ajuns la cel mai ridicat nivel din ultimele două decenii, în timp ce guvernul încearcă să adopte fără majoritate parlamentară un buget cu măsuri de austeritate."
+  },
+  {
+    "group_id": "group_eefa6fb8e1",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Hackerii au accesat contul unui partid german și i-au trimis un e-mail de phishing cancelarului Merz",
+        "link": "https://agerpres.ro/politic-extern/2026/10/17/hackerii-au-accesat-contul-unui-partid-german-si-i-au-trimis-un-e-mail-de-phishing-cancelarului-merz--1604107"
+      }
+    ],
+    "published_at": 1792253832,
+    "title_hu": "Hackerii au accesat contul unui partid german și i-au trimis un e-mail de phishing cancelarului Merz",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Hackerii au accesat contul unui partid german și i-au trimis un e-mail de phishing cancelarului Merz",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_8bf0c8990a",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Radu Papoe s-a calificat în prima sa finală de turneu challenger, la Catania",
+        "link": "https://agerpres.ro/sport-extern/2026/10/17/tenis-radu-papoe-s-a-calificat-in-prima-sa-finala-de-turneu-challenger-la-catania--1604105"
+      }
+    ],
+    "published_at": 1792253832,
+    "title_hu": "Tenis: Radu Papoe s-a calificat în prima sa finală de turneu challenger, la Catania",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Radu Papoe s-a calificat în prima sa finală de turneu challenger, la Catania",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_3d51f82d3d",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/10102026/0de7aa4e-9ace-4bd6-8a27-f1e0fc7631b3.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Decizie oficială în Spania! Ce se întâmplă cu meciul suspendat al echipei lui Andrei Rațiu",
+        "link": "https://www.gsp.ro/international/campionate/decizie-oficiala-in-spania-ce-se-intampla-cu-meciul-suspendat-al-echipei-lui-andrei-ratiu-989223.html"
+      }
+    ],
+    "published_at": 1792253727,
+    "title_hu": "Decizie oficială în Spania! Ce se întâmplă cu meciul suspendat al echipei lui Andrei Rațiu",
+    "lead_hu": "Confruntarea dintre Rayo Vallecano și Athletic Bilbao, contând pentru etapa a opta din La Liga, se va juca fără spectatori în tribune, după ce a fost suspendată pe 10 octombrie din cauza aruncării rep…",
+    "content_hu": "Confruntarea dintre Rayo Vallecano și Athletic Bilbao, contând pentru etapa a opta din La Liga, se va juca fără spectatori în tribune, după ce a fost suspendată pe 10 octombrie din cauza aruncării repetate a diverselor obiecte pe suprafața de joc. Decizia a fost adoptată pe 16 octombrie de către Judecătorul Unic de Competiție din cadrul Federației Regale Spaniole de Fotbal (RFEF). ...",
+    "title_ro": "Decizie oficială în Spania! Ce se întâmplă cu meciul suspendat al echipei lui Andrei Rațiu",
+    "lead_ro": "Confruntarea dintre Rayo Vallecano și Athletic Bilbao, contând pentru etapa a opta din La Liga, se va juca fără spectatori în tribune, după ce a fost suspendată pe 10 octombrie din cauza aruncării rep…",
+    "content_ro": "Confruntarea dintre Rayo Vallecano și Athletic Bilbao, contând pentru etapa a opta din La Liga, se va juca fără spectatori în tribune, după ce a fost suspendată pe 10 octombrie din cauza aruncării repetate a diverselor obiecte pe suprafața de joc. Decizia a fost adoptată pe 16 octombrie de către Judecătorul Unic de Competiție din cadrul Federației Regale Spaniole de Fotbal (RFEF). ..."
+  },
+  {
+    "group_id": "group_44204aa009",
+    "fingerprint": "8d1b5e0780769d975a34b8cde2ebdeaa",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/protest-la-milano-1024x840.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Peste 100.000 de oameni în stradă la Roma. La Milano, protestul a degenerat în violențe",
+        "link": "https://www.mediafax.ro/externe/peste-100-000-de-oameni-in-strada-la-roma-la-milano-protestul-a-degenerat-in-violente-23827276"
+      },
+      {
+        "source": "G4Media",
+        "title": "Proteste în Italia față de costul vieții, organizate de sindicate și opoziție",
+        "link": "https://www.g4media.ro/proteste-in-italia-fata-de-costul-vietii-organizate-de-sindicate-si-opozitie.html"
+      }
+    ],
+    "published_at": 1792253661,
+    "title_hu": "Tömegtüntetések voltak Olaszországban a megélhetési költségek miatt",
+    "lead_hu": "Szakszervezetek és ellenzéki szervezetek felhívására több olasz városban tízezrek tüntettek magasabb béreket és nyugdíjakat, valamint a megélhetési költségek mérséklését követelve. Milánóban összecsapások törtek ki a rendőrökkel, Rómában pedig a szervezők százezer résztvevőről számoltak be.",
+    "content_hu": "• **Szombaton** több olasz városban tízezrek vonultak utcára magasabb béreket és nyugdíjakat, a megélhetési költségek mérséklését és szociális intézkedéseket követelve.\n\n• **Milánóban** több mint ötezren vettek részt az „Italia in Piazza” felhívására rendezett menetben. A demonstráció összecsapásokba torkollott, miután köveket dobtak a rendőrök felé; buszmegállók és épületek kirakatai megrongálódtak, többen megsérültek, fiatalokat pedig őrizetbe vettek.\n\n• **Rómában** az „Insieme sulla Via Maestra” menet szervezői százezer résztvevőt jelentettek. A tüntetők többek között az adók csökkentését, az egészségügy és az oktatás támogatását, a bizonytalan foglalkoztatás visszaszorítását és a lakhatáshoz való hozzáférés javítását sürgették.\n\n• **Maurizio Landini**, a CGIL szakszervezeti vezetője bejelentette, hogy a szervezet november 20-án általános sztrájkot tart.",
+    "title_ro": "Proteste de amploare în Italia împotriva costului vieții",
+    "lead_ro": "Zeci de mii de oameni au protestat în mai multe orașe din Italia, la apelul sindicatelor și al opoziției, cerând salarii și pensii mai mari și măsuri pentru reducerea costului vieții. La Milano au izbucnit ciocniri cu poliția, iar organizatorii manifestației de la Roma au anunțat 100.000 de participanți.",
+    "content_ro": "• **Sâmbătă**, zeci de mii de oameni au ieșit în stradă în mai multe orașe din Italia, cerând salarii și pensii mai mari, reducerea costului vieții și măsuri sociale.\n\n• **La Milano**, peste 5.000 de persoane au participat la marșul organizat la apelul mișcării „Italia in Piazza”. Manifestația a degenerat în ciocniri după ce au fost aruncate pietre spre polițiști; au fost avariate stații de autobuz și vitrine, mai multe persoane au fost rănite, iar unii tineri au fost reținuți.\n\n• **La Roma**, organizatorii marșului „Insieme sulla Via Maestra” au anunțat 100.000 de participanți. Manifestanții au cerut, între altele, taxe mai mici, investiții în sănătate și educație, reducerea muncii precare și acces mai bun la locuințe.\n\n• **Maurizio Landini**, liderul sindicatului CGIL, a anunțat organizarea unei greve generale pe 20 noiembrie."
+  },
+  {
+    "group_id": "group_ad019294ab",
+    "category": "Politika",
+    "image": "https://cdn.adh.reperio.news/image-3/3ff83bf1-6322-41a9-a968-74320be3a885/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Indexarea pensiilor și eliminarea CASS pentru mame și veterani. Ce promite Petre Florin Manole, propunerea PSD pentru Ministerul Muncii",
+        "link": "https://adevarul.ro/politica/indexarea-pensiilor-si-eliminarea-cass-pentru-mame-2564718.html"
+      }
+    ],
+    "published_at": 1792253586,
+    "title_hu": "Indexarea pensiilor și eliminarea CASS pentru mame și veterani. Ce promite Petre Florin Manole, propunerea PSD pentru Ministerul Muncii",
+    "lead_hu": "Petre Florin Manole, propunerea PSD pentru funcția de ministru al Muncii, a anunțat principalele măsuri pe care intenționează să le susțină, printre care indexarea pensiilor, eliminarea contribuției d…",
+    "content_hu": "Petre Florin Manole, propunerea PSD pentru funcția de ministru al Muncii, a anunțat principalele măsuri pe care intenționează să le susțină, printre care indexarea pensiilor, eliminarea contribuției de asigurări sociale de sănătate (CASS) pentru mame și veterani.",
+    "title_ro": "Indexarea pensiilor și eliminarea CASS pentru mame și veterani. Ce promite Petre Florin Manole, propunerea PSD pentru Ministerul Muncii",
+    "lead_ro": "Petre Florin Manole, propunerea PSD pentru funcția de ministru al Muncii, a anunțat principalele măsuri pe care intenționează să le susțină, printre care indexarea pensiilor, eliminarea contribuției d…",
+    "content_ro": "Petre Florin Manole, propunerea PSD pentru funcția de ministru al Muncii, a anunțat principalele măsuri pe care intenționează să le susțină, printre care indexarea pensiilor, eliminarea contribuției de asigurări sociale de sănătate (CASS) pentru mame și veterani."
+  },
+  {
+    "group_id": "group_e52715fe06",
+    "fingerprint": "f92634c358bbb53dda36cb0c65dad3eb",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-d/dbf8f859-3e73-4fbf-8080-eefcc13124b3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Incendiu la CET Iași, după ce un transformator electric a luat foc. Mobilizare de amploare a pompierilor",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/incendiu-la-cet-iasi-dupa-ce-un-transformator-2564704.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Incendiu puternic la CET Iași. Flăcările au cuprins 1.000 de metri pătrați dintr-o hală industrială",
+        "link": "https://www.mediafax.ro/social/incendiu-puternic-la-cet-iasi-flacarile-au-cuprins-1-000-de-metri-patrati-dintr-o-hala-industriala-23827287"
+      }
+    ],
+    "published_at": 1792253462,
+    "title_hu": "Tűz ütött ki a jászvásári CET ipari csarnokában",
+    "lead_hu": "Október 17-én tűz keletkezett a jászvásári CET területén, egy elektromos transzformátornál. A lángok a csarnok mintegy 1000 négyzetméterére terjedtek ki; a helyszínre hét beavatkozó járművet és egységet vezényeltek, áldozatokról nem érkezett jelentés.",
+    "content_hu": "• **Október 17-én** tűz ütött ki a jászvásári CET területén, egy ipari csarnok elektromos transzformátoránál.\n\n• **A tűz mintegy 1000 négyzetmétert érintett** az összesen körülbelül 5000 négyzetméteres csarnok első emeletén.\n\n• **Hét beavatkozó járművet és egységet** riasztottak az 1-es és 2-es jászvásári tűzoltó-alegységtől. A tűzoltók a lángok lokalizálásán és eloltásán, valamint továbbterjedésük megakadályozásán dolgoztak.\n\n• **Az áramszolgáltatást megszakították**, a tűzoltók pedig a lakosságot arra kérték, hogy kerüljék el a beavatkozás helyszínét, tartsanak biztonságos távolságot az elektromos berendezésektől, és kövessék a hatóságok utasításait.\n\n• **A közlések időpontjáig nem jelentettek sérülteket vagy halálos áldozatokat**, a beavatkozás pedig még folyamatban volt.",
+    "title_ro": "Incendiu la o hală industrială din incinta CET Iași",
+    "lead_ro": "Un incendiu a izbucnit pe 17 octombrie la CET Iași, la un transformator electric din incinta unei hale industriale. Flăcările au afectat aproximativ 1.000 de metri pătrați, iar la fața locului au fost mobilizate șapte mijloace de intervenție; până la momentul relatării nu fuseseră raportate victime.",
+    "content_ro": "• **Pe 17 octombrie** a izbucnit un incendiu la un transformator electric din incinta CET Iași, într-o hală industrială.\n\n• **Incendiul a afectat aproximativ 1.000 de metri pătrați** de la etajul întâi al halei, care are o suprafață totală de circa 5.000 de metri pătrați.\n\n• **Șapte mijloace de intervenție** ale Detașamentelor 1 și 2 de Pompieri Iași au fost mobilizate. Pompierii au acționat pentru localizarea și stingerea focului, precum și pentru limitarea propagării acestuia.\n\n• **Alimentarea cu energie electrică a fost întreruptă**, iar autoritățile au recomandat cetățenilor să evite zona intervenției, să păstreze distanța față de instalațiile electrice și să respecte indicațiile pompierilor.\n\n• **Până la momentul relatării nu fuseseră înregistrate victime**, iar intervenția pompierilor era în desfășurare."
+  },
+  {
+    "group_id": "group_2f1c3cc685",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "RomKat",
+        "title": "Missziós lelkülettel",
+        "link": "https://romkat.ro/2026/10/17/misszios-lelkulettel/"
+      }
+    ],
+    "published_at": 1792253079,
+    "title_hu": "Missziós lelkülettel",
+    "lead_hu": "† EVANGÉLIUM Szent Máté könyvéből Abban az időben:A farizeusok félrevonultak és megtanácskozták, hogyan tudnának belekötni Jézus szavaiba. Majd odaküldték hozzá tanítványaikat és a Heródes-pártiakat a…",
+    "content_hu": "† EVANGÉLIUM Szent Máté könyvéből Abban az időben:A farizeusok félrevonultak és megtanácskozták, hogyan tudnának belekötni Jézus szavaiba. Majd odaküldték hozzá tanítványaikat és a Heródes-pártiakat a következő kérdéssel: „Mester! Tudjuk, hogy igazat beszélsz, és az Isten útját az igazsághoz híven tanítod, és nem vagy tekintettel az emberek személyére. Mondd hát meg nekünk, mi a véleményed: Szabad-e […]",
+    "title_ro": "Missziós lelkülettel",
+    "lead_ro": "† EVANGÉLIUM Szent Máté könyvéből Abban az időben:A farizeusok félrevonultak és megtanácskozták, hogyan tudnának belekötni Jézus szavaiba. Majd odaküldték hozzá tanítványaikat és a Heródes-pártiakat a…",
+    "content_ro": "† EVANGÉLIUM Szent Máté könyvéből Abban az időben:A farizeusok félrevonultak és megtanácskozták, hogyan tudnának belekötni Jézus szavaiba. Majd odaküldték hozzá tanítványaikat és a Heródes-pártiakat a következő kérdéssel: „Mester! Tudjuk, hogy igazat beszélsz, és az Isten útját az igazsághoz híven tanítod, és nem vagy tekintettel az emberek személyére. Mondd hát meg nekünk, mi a véleményed: Szabad-e […]"
+  },
+  {
+    "group_id": "group_f860be20fe",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/8128736-mediafax_foto-valentina_sarosi-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Politica este o ușă închisă pentru multe femei”. Diana Buzoianu, despre misoginismul din politică: Trebuie să ne înfurie faptul că e o discriminare",
+        "link": "https://www.mediafax.ro/stirile-zilei/politica-este-o-usa-inchisa-pentru-multe-femei-diana-buzoianu-despre-misoginismul-din-politica-trebuie-sa-ne-infurie-faptul-ca-e-o-discriminare-23827279"
+      }
+    ],
+    "published_at": 1792252741,
+    "title_hu": "„Politica este o ușă închisă pentru multe femei”. Diana Buzoianu, despre misoginismul din politică: Trebuie să ne înfurie faptul că e o discriminare",
+    "lead_hu": "Ministra interimară a Mediului, Diana Buzoianu, a vorbit despre misoginismul din politică, spunând că acest domeniu represintă „o ușă închisă pentru multe femei”, iar că această discriminare „trebuie …",
+    "content_hu": "Ministra interimară a Mediului, Diana Buzoianu, a vorbit despre misoginismul din politică, spunând că acest domeniu represintă „o ușă închisă pentru multe femei”, iar că această discriminare „trebuie să ne înfurie”.",
+    "title_ro": "„Politica este o ușă închisă pentru multe femei”. Diana Buzoianu, despre misoginismul din politică: Trebuie să ne înfurie faptul că e o discriminare",
+    "lead_ro": "Ministra interimară a Mediului, Diana Buzoianu, a vorbit despre misoginismul din politică, spunând că acest domeniu represintă „o ușă închisă pentru multe femei”, iar că această discriminare „trebuie …",
+    "content_ro": "Ministra interimară a Mediului, Diana Buzoianu, a vorbit despre misoginismul din politică, spunând că acest domeniu represintă „o ușă închisă pentru multe femei”, iar că această discriminare „trebuie să ne înfurie”."
   },
   {
     "group_id": "group_aec37ef3bb",
@@ -351,27 +633,6 @@
     "title_ro": "Două petroliere au luat foc în Strâmtoarea Ormuz, potrivit Iranului",
     "lead_ro": "Gardienii Revoluției din Iran au afirmat că două superpetroliere, fiecare transportând peste două milioane de barili de țiței, au lovit mine și au luat foc sâmbătă în Strâmtoarea Ormuz. Pavilionul navelor și originea încărcăturilor nu au fost precizate, iar incidentul s-a produs pe fondul tensiunilor maritime dintre Iran și Statele Unite.",
     "content_ro": "• **Potrivit Gardienilor Revoluției din Iran**, două superpetroliere au lovit mine și au luat foc în Strâmtoarea Ormuz. Conform comunicatului, fiecare navă transporta peste două milioane de barili de țiței brut.\n\n• **Despre primul petrolier, Gardienii au susținut** că încerca să traverseze strâmtoarea cu sprijinul armatei americane și cu sistemele de localizare dezactivate. Nu au precizat locul exact al incidentelor, pavilionul navelor sau originea încărcăturilor.\n\n• **Incidentul are loc pe fondul** restricțiilor impuse de Iran în Strâmtoarea Ormuz și al blocadei navale americane asupra porturilor iraniene. Tot mai multe petroliere încearcă să traverseze ruta strategică sub escortă americană, în timp ce Teheranul revendică dreptul de a controla traficul și amenință cu represalii împotriva navelor care îi încalcă restricțiile.\n\n• **Tensiunile maritime s-au intensificat și în zilele precedente:** Iranul anunțase deja că două petroliere au luat foc în zonă, iar agenții de supraveghere maritimă au semnalat sâmbătă că alte două nave fuseseră lovite în ajun în apele Golfului din largul coastelor saudite."
-  },
-  {
-    "group_id": "group_44204aa009",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/protest-la-milano-1024x840.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Peste 100.000 de oameni în stradă la Roma. La Milano, protestul a degenerat în violențe",
-        "link": "https://www.mediafax.ro/externe/peste-100-000-de-oameni-in-strada-la-roma-la-milano-protestul-a-degenerat-in-violente-23827276"
-      }
-    ],
-    "published_at": 1792252015,
-    "title_hu": "Peste 100.000 de oameni în stradă la Roma. La Milano, protestul a degenerat în violențe",
-    "lead_hu": "Peste 100.000 de oameni au ieșit sâmbătă în stradă la Roma, în timp ce la Milano un protest față de scumpiri s-a transformat în confruntări cu poliția. Manifestanții cer salarii și pensii mai mari, ta…",
-    "content_hu": "Peste 100.000 de oameni au ieșit sâmbătă în stradă la Roma, în timp ce la Milano un protest față de scumpiri s-a transformat în confruntări cu poliția. Manifestanții cer salarii și pensii mai mari, taxe mai mici și investiții în sănătate și educație.",
-    "title_ro": "Peste 100.000 de oameni în stradă la Roma. La Milano, protestul a degenerat în violențe",
-    "lead_ro": "Peste 100.000 de oameni au ieșit sâmbătă în stradă la Roma, în timp ce la Milano un protest față de scumpiri s-a transformat în confruntări cu poliția. Manifestanții cer salarii și pensii mai mari, ta…",
-    "content_ro": "Peste 100.000 de oameni au ieșit sâmbătă în stradă la Roma, în timp ce la Milano un protest față de scumpiri s-a transformat în confruntări cu poliția. Manifestanții cer salarii și pensii mai mari, taxe mai mici și investiții în sănătate și educație."
   },
   {
     "group_id": "group_cda13099eb",
@@ -1051,27 +1312,6 @@
     "content_ro": "• **Decizia PNL** este să susțină printr-un vot condiționat și punctual învestirea guvernului condus de Luca Niculescu, dar să nu intre la guvernare și să treacă în opoziție.\n\n• **Potrivit Oanei Gheorghiu**, învestirea guvernului ar permite o rectificare bugetară urgentă, pe care guvernul interimar, cu atribuții limitate, nu o putea adopta prin ordonanță de urgență. În lipsa acesteia, a avertizat ea, spitalele ar putea rămâne fără bani pentru medicamente și tratamente, iar ambulanțele fără combustibil.\n\n• **Gheorghiu a subliniat** că votul PNL nu reprezintă încredere în PSD sau aprobarea miniștrilor propuși, ci urmărește încheierea blocajului politic. Ea a recunoscut că decizia poate provoca nemulțumire și poate avea un cost politic pentru partid.\n\n• **Alina Gorghiu a întrebat** dacă nu ar fi fost mai bine pentru PNL să susțină guvernul condus de Adrian Veștea, cu miniștri liberali, în loc să contribuie acum la învestirea unui cabinet dominat de PSD și condus de un premier tehnocrat. Ea a afirmat că efectele crizei continuă să fie suportate de țară."
   },
   {
-    "group_id": "group_e52715fe06",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-d/dbf8f859-3e73-4fbf-8080-eefcc13124b3/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Incendiu la CET Iași, după ce un transformator electric a luat foc. Mobilizare de amploare a pompierilor",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/incendiu-la-cet-iasi-dupa-ce-un-transformator-2564704.html"
-      }
-    ],
-    "published_at": 1792249227,
-    "title_hu": "Incendiu la CET Iași, după ce un transformator electric a luat foc. Mobilizare de amploare a pompierilor",
-    "lead_hu": "Un incendiu a izbucnit sâmbtă, 17 octombrie, la un transformator electric din incinta CET Iași. Pompierii au mobilizat șapte mijloace de intervenție, iar operațiunea de stingere este în desfășurare.",
-    "content_hu": "Un incendiu a izbucnit sâmbtă, 17 octombrie, la un transformator electric din incinta CET Iași. Pompierii au mobilizat șapte mijloace de intervenție, iar operațiunea de stingere este în desfășurare.",
-    "title_ro": "Incendiu la CET Iași, după ce un transformator electric a luat foc. Mobilizare de amploare a pompierilor",
-    "lead_ro": "Un incendiu a izbucnit sâmbtă, 17 octombrie, la un transformator electric din incinta CET Iași. Pompierii au mobilizat șapte mijloace de intervenție, iar operațiunea de stingere este în desfășurare.",
-    "content_ro": "Un incendiu a izbucnit sâmbtă, 17 octombrie, la un transformator electric din incinta CET Iași. Pompierii au mobilizat șapte mijloace de intervenție, iar operațiunea de stingere este în desfășurare."
-  },
-  {
     "group_id": "group_2de9e7e6c1",
     "fingerprint": "224e87466434559a7b0e1f0b64b435b9",
     "category": "Általános",
@@ -1607,44 +1847,6 @@
     "title_ro": "Papa Leon al XIV-lea a părăsit Spitalul Gemelli",
     "lead_ro": "Papa Leon al XIV-lea a părăsit sâmbătă după-amiază, 17 octombrie, Spitalul Gemelli din Roma, după ce medicii l-au considerat apt pentru externare în urma analizelor de sânge, a radiografiei toracice și a evaluării clinice. Examenul histologic al lobului inferior al plămânului drept, îndepărtat în timpul operației, a confirmat un adenocarcinom pulmonar, iar recuperarea a decurs conform așteptărilor. Duminică, papa va rosti rugăciunea Angelus de la fereastra apartamentului său apostolic.",
     "content_ro": "• **Sâmbătă, 17 octombrie**, Papa Leon al XIV-lea a părăsit Spitalul Gemelli din Roma la ora 15:30 și s-a întors la Vatican; la ieșirea din clinică i-a salutat pe credincioșii care îl așteptau.\n\n• **Externarea** a fost decisă după ce analizele de sânge, radiografia toracică și evaluarea clinică efectuate sâmbătă dimineață au avut rezultate favorabile.\n\n• **În timpul operației din 13 octombrie**, medicii au îndepărtat printr-o tehnică video-asistată lobul inferior al plămânului drept al papei. Examenul histologic a confirmat un adenocarcinom pulmonar; intervenția a durat aproximativ 90 de minute și s-a desfășurat fără complicații.\n\n• **Extinderea bolii și tratamentul ulterior** nu sunt încă precizate: Vaticanul nu a comunicat dimensiunea tumorii și nici dacă au fost afectați ganglionii limfatici. Sunt așteptate rezultatele unor investigații suplimentare, inclusiv analiza caracteristicilor tumorii.\n\n• **Recuperarea** a decurs conform așteptărilor: rezultatele examinărilor postoperatorii au fost normale, iar radiografia a indicat o regenerare bună a plămânului operat. Papa a făcut fizioterapie respiratorie, a început să meargă și să mănânce regulat și și-a desfășurat singur activitățile zilnice.\n\n• **În timpul spitalizării**, Papa Leon a celebrat liturghia, și-a reluat o parte din activitate și le-a mulțumit medicilor, asistentelor și personalului spitalului pentru îngrijire. Vaticanul a publicat și primele imagini cu papa după operație.\n\n• **În primul său mesaj după operație**, papa le-a mulțumit credincioșilor pentru rugăciuni și le-a cerut să continue să se roage pentru el.\n\n• **Angajamentele publice** ale papei au fost anulate până la 20 octombrie.\n\n• **În privința călătoriei în America de Sud**, papa a spus că dorește să păstreze vizita programată în Uruguay, Argentina și Peru, între 6 și 17 noiembrie; desfășurarea ei depinde de recuperare.\n\n• **Duminică**, papa va rosti rugăciunea Angelus de la fereastra apartamentului apostolic, în fața credincioșilor reuniți în Piața Sfântul Petru."
-  },
-  {
-    "group_id": "group_c2ce22e812",
-    "fingerprint": "c6e852b51bad07dcd8cbe4c16dfe1933",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Proteste de amploare în Franța. Zeci de mii de oameni ies în stradă, iar „Vestele Galbene” revin în prim-plan",
-        "link": "https://stirileprotv.ro/stiri/international/proteste-de-amploare-in-franta-zeci-de-mii-de-oameni-ies-in-strada-iar-vestele-galbene-revin-in-prim-plan.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
-        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Protestele elevilor din Franța iau amploare. Creșterea costului vieții scoate noi manifestanți în stradă",
-        "link": "https://www.mediafax.ro/externe/protestele-elevilor-din-franta-iau-amploare-cresterea-costului-vietii-scoate-noi-manifestanti-in-strada-23827129"
-      },
-      {
-        "source": "Digi24",
-        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
-        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
-      }
-    ],
-    "published_at": 1792248465,
-    "title_hu": "A diáktiltakozások országos, megélhetési válság elleni mozgalommá szélesedtek Franciaországban",
-    "lead_hu": "A francia középiskolások oktatási követeléseihez a Sárga Mellényesek, szakszervezetek és más csoportok is csatlakoztak, így a tiltakozások a megélhetési költségek és a közszolgáltatások állapota elleni szélesebb mozgalommá váltak. Szombaton több városban összecsapások és rongálások történtek: a belügyminisztérium délben 32 800, a délutáni jelentések szerint pedig 272 őrizetbe vett résztvevőt tartott számon.",
-    "content_hu": "• **Kedden mintegy 480 ezren tüntettek Franciaországban** a középiskolások tiltakozási hullámának ötödik országos mobilizációs napján – közölte a szervezői szakszervezeti tömörülés. Az előző keddi demonstráción a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt számoltak.\n\n• **A diákok jobb finanszírozást, több tanárt és kedvezőbb tanulási feltételeket követelnek.** A szeptember 17-én, Párizs térségében indult mozgalom országossá vált; a diákok a Parcoursup felsőoktatási felvételi rendszer ellen is tiltakoznak. Greta Thunberg kedden egy Saint-Denis-i középiskolánál csatlakozott hozzájuk.\n\n• **Kedden 214 középiskola zárt be,** szemben az előző heti 800-zal; az oktatási minisztérium szerint az intézmények 94,2 százaléka nyitva maradt. A parlament eközben 43 milliárd eurós, az államháztartás rendezését célzó költségvetési intézkedésekről vitázott; az államadósság a GDP 112 százaléka.\n\n• **A tiltakozások a megélhetési költségek és a közszolgáltatások állapota elleni mozgalommá szélesedtek.** A Sárga Mellényesek, a diákmozgalmak és a szakszervezetek közös fellépést hirdettek az emelkedő árak és üzemanyagköltségek, az egyenlőtlenségek, az alacsony bérek és nyugdíjak, valamint a közszolgáltatások romlása ellen. A CGT magasabb béreket és nyugdíjakat, alacsonyabb árakat és a közszolgáltatások védelmét követelte.\n\n• **A francia infláció szeptemberben éves alapon 3,1 százalékra emelkedett,** 2024 januárja óta a legmagasabb értékre. A beszámolók szerint a benzin ára literenként 2,20 euróra nőtt; egy korábbi Sárga Mellényes résztvevő ezt a 2018-as, 1,40 eurós árral vetette össze.\n\n• **A szombati akciókra vonatkozó előzetes becslések eltértek.** Egy online térkép több mint 1000, egy másik felhívás mintegy 1500 tervezett akciót jelzett, míg a belügyminiszteri hivatal körülbelül 500 akcióról és több mint 90 tervezett demonstrációról számolt be. A rendőrség Párizson kívül 60–110 ezer, a fővárosban 30–60 ezer résztvevővel számolt; ezek nem tényleges részvételi adatok.\n\n• **A belügyminisztérium szombat délben 140 akcióról és 32 800 résztvevőről számolt be a Párizson kívüli területeken,** országosan pedig 166 őrizetbe vételt jelentett. A délutáni frissítések szerint az őrizetbe vettek száma 272-re emelkedett; a rendőrség egyik forrása Párizsban közel 40 ezres, országosan akár 200 ezres részvételt várt.\n\n• **A délutáni városi becslések szerint Lyonban és Nantes-ban mintegy 20-20 ezren, Rennes-ben 10 ezren tüntettek.** Bordeaux-ban körülbelül 7000 résztvevőről számoltak be.\n\n• **Párizsban a fő menet a République térről indult a Clichy tér felé, a Boulevard Magentán át.** A szervezők a hatalmi intézmények felé vonultak volna, de erre nem kaptak engedélyt; több stratégiai helyszínen tüntetési tilalmat rendeltek el, és 25 metróállomást reggel nyolctól lezártak.\n\n• **Párizsban délelőtt 9:30-ig 40, 11 óráig 61, dél körül pedig 100 őrizetbe vételről számoltak be.** Az intézkedések főként tiltott fegyver vagy védőfelszerelés birtoklásával függtek össze; a rendőrség 589 megelőző ellenőrzést végzett, és két engedély nélküli menetet oszlatott fel.\n\n• **A CNEWS és az Europe 1 szerkesztőségének is otthont adó párizsi épületnél történt incidens után 21 embert vettek őrizetbe.** A beszámolók szerint köveket és más tárgyakat dobáltak, ablakokat törtek be és barikádokat borítottak fel.\n\n• **Marseille-ben tüntetők rövid időre behatoltak a városházára.** Betörték az ajtót, megrongáltak televíziókat, ledöntöttek egy Marianne-mellszobrot és anarchista jelképet festettek a falra; sérültről nem érkezett jelentés. Az incidens után két további rendőri egységet küldtek a városba.\n\n• **Marseille-ben a Canebière sugárúton tüntetők akadályozták a forgalmat és kukákat gyújtottak fel,** egy rendőrségi létesítményt pedig megtámadtak; ablakokat törtek be, és füstgránátokat dobtak az épületbe. A Prado sugárutat rövid időre szemetesekkel és rollerekkel torlaszolták el.\n\n• **Lyonban több száz, feketébe öltözött fiatal barikádokat állított fel,** a rendőrség pedig csoportokat oszlatott fel. A Lyon 3 egyetem előtt összegyűlt közel 300 embert könnygázzal oszlatták fel; később a város turisztikai irodája is kigyulladt. Több üzlet előre bedeszkázta a kirakatait.\n\n• **Bordeaux-ban a mintegy 7000 résztvevővel zajló demonstráció összecsapásokba torkollott.** A beszámolók szerint egy csoport betört a Kereskedelmi és Iparkamara épületébe, kukákat gyújtott fel, a rendőrség pedig vízágyút és könnygázt vetett be. Lille-ben tüntetők megpróbáltak behatolni a városházára.\n\n• **A keddi felvonulások többsége békés volt, de több városban könnygázt vetett be a rendőrség.** Párizsban, Lyonban, Strasbourgban és Nantes-ban is történt könnygázhasználat; Párizs központjában autót gyújtottak fel, Lyonban üzleteket és egy benzinkutat rongáltak meg, és rendőrökre is támadtak.\n\n• **A tiltakozások kezdete óta 937 rendőr és csendőr sérült meg,** emellett 248 diák és 149 oktatási dolgozó is megsérült. A rendőri fellépés miatt 36 vizsgálat indult; a súlyos sérültek között van egy 14 éves, aki elveszítette a kezét, és egy 15 éves, aki gumilövedéktől elveszítette az egyik szemét.\n\n• **A diákok elleni fellépésben felfüggesztették a kábító- és hanggránátok használatát,** de Laurent Nuñez belügyminiszter szerint súlyos összecsapások esetén köztes fegyvereket ismét bevethetnek. A rendőrség egyik szakszervezete panaszt jelentett be az állammal szemben, arra hivatkozva, hogy a rendőrök ellentmondásos utasítások mellett kerültek veszélybe.\n\n• **A kormány azzal vádolta az LFI-t, hogy szítja a tiltakozásokat; a párt visszautasította a vádat.** Sébastien Lecornu miniszterelnök az elmúlt évtizedek egyik legerőszakosabb tiltakozási hullámának nevezte a helyzetet, Jordan Bardella, a Nemzeti Tömörülés vezetője pedig a káosz veszélyére figyelmeztetett.\n\n• **Emmanuel Macron nyugalomra és az emberek, illetve a tulajdon tiszteletben tartására szólított fel.** Azt mondta, a tüntetéshez való jogot tiszteletben kell tartani, de elfogadhatatlan, ha valaki kizárólag rombolás és zavargás okozása céljából vesz részt a megmozdulásokon.\n\n• **A szakértők a tiltakozások összekapcsolódását a fiatalokat érő többes válságokkal magyarázták.** Paolo Stuppia kutató szerint a klímaváltozás, a bizonytalan megélhetés, a munkaerőpiacra való belépés nehézségei és a szélsőjobb hatalomra kerülésétől való félelem közös ügyek felé terelheti a fiatalokat; a rendőri fellépés hidat képezhet a diákok és a Sárga Mellényesek között.\n\n• **Jean-Luc Mélenchon, az LFI vezetője megjelent az egyik párizsi menetben,** és az X-en azzal vádolta a sajtót, hogy nem mutatja be a demonstrálókkal szembeni rendőri brutalitás valódi mértékét.\n\n• **Marine Le Pen a megrongált iskolák javítási költségeinek megtérítését követelte.** Azt mondta, a károkozóknak vagy szüleiknek kellene fizetniük; az ezt lehetővé tevő törvényjavaslat a parlament előtt van.",
-    "title_ro": "Protestele elevilor s-au extins într-o mișcare națională împotriva costului vieții în Franța",
-    "lead_ro": "Revendicărilor elevilor francezi li s-au alăturat Vestele Galbene, sindicatele și alte grupuri, transformând protestele într-o mișcare mai amplă împotriva costului vieții și a degradării serviciilor publice. Sâmbătă au avut loc ciocniri și acte de vandalism în mai multe orașe: Ministerul de Interne a raportat 32.800 de participanți la prânz, iar după-amiaza au fost anunțate 272 de rețineri.",
-    "content_ro": "• **Marți, aproximativ 480.000 de persoane au manifestat în Franța** în a cincea zi de mobilizare națională a elevilor de liceu, potrivit intersindicalei organizatoare. La manifestația de marțea precedentă, autoritățile au numărat 266.000 de participanți, iar organizatorii 450.000.\n\n• **Elevii cer o finanțare mai bună, mai mulți profesori și condiții de studiu îmbunătățite.** Mișcarea, începută pe 17 septembrie în regiunea Parisului, s-a extins în întreaga țară; elevii protestează și împotriva platformei de admitere în învățământul superior Parcoursup. Greta Thunberg li s-a alăturat marți în fața unui liceu din Saint-Denis.\n\n• **Marți au fost închise 214 licee,** față de 800 în săptămâna precedentă; Ministerul Educației a precizat că 94,2% dintre instituții au rămas deschise. În același timp, parlamentul dezbătea măsuri bugetare de 43 de miliarde de euro pentru redresarea finanțelor publice; datoria publică reprezintă 112% din PIB.\n\n• **Protestele s-au extins într-o mișcare împotriva costului vieții și a degradării serviciilor publice.** Vestele Galbene, mișcările studențești și sindicatele au cerut acțiuni comune împotriva creșterii prețurilor și a costurilor carburanților, inegalităților, salariilor și pensiilor mici și deteriorării serviciilor publice. CGT a cerut salarii și pensii mai mari, prețuri mai mici și protejarea serviciilor publice.\n\n• **Inflația anuală din Franța a ajuns la 3,1% în septembrie,** cel mai ridicat nivel din ianuarie 2024. Potrivit relatărilor, benzina a ajuns la 2,20 euro litrul; un fost participant la mișcarea Vestelor Galbene a comparat prețul cu cel de 1,40 euro din 2018.\n\n• **Estimările prealabile privind acțiunile de sâmbătă au variat.** O hartă online indica peste 1.000 de acțiuni, iar un alt apel aproximativ 1.500; biroul ministrului de Interne a menționat circa 500 de acțiuni și peste 90 de manifestații planificate. Poliția estima între 60.000 și 110.000 de participanți în afara Parisului și între 30.000 și 60.000 în capitală; acestea nu erau cifre de participare efectivă.\n\n• **La prânz, Ministerul de Interne a raportat 140 de acțiuni și 32.800 de participanți în afara Parisului,** precum și 166 de rețineri pe teritoriul țării. În actualizările din cursul după-amiezii, numărul reținerilor a ajuns la 272; o sursă din poliție estima aproape 40.000 de participanți la Paris și până la 200.000 la nivel național.\n\n• **Potrivit estimărilor din cursul după-amiezii, la Lyon și Nantes au manifestat aproximativ 20.000 de persoane în fiecare oraș, iar la Rennes 10.000.** La Bordeaux, participanții au fost estimați la circa 7.000.\n\n• **Marșul principal din Paris a pornit din Place de la République spre Place de Clichy, pe Boulevard Magenta.** Organizatorii au dorit să se îndrepte spre instituțiile puterii, dar nu au primit autorizație; manifestațiile au fost interzise în mai multe zone strategice, iar 25 de stații de metrou au fost închise de la ora 8:00.\n\n• **La Paris au fost raportate 40 de rețineri până la 9:30, 61 până la ora 11:00 și 100 în jurul prânzului.** Măsurile au vizat în principal posesia de arme sau echipamente de protecție interzise; poliția a efectuat 589 de controale preventive și a dispersat două marșuri neautorizate.\n\n• **După incidentele din fața clădirii din Paris care găzduiește redacțiile CNEWS și Europe 1, au fost reținute 21 de persoane.** Potrivit relatărilor, au fost aruncate pietre și alte obiecte, au fost sparte geamuri și au fost răsturnate baricade.\n\n• **La Marsilia, protestatarii au pătruns pentru scurt timp în primărie.** Au spart ușa, au deteriorat televizoare, au răsturnat un bust al Mariannei și au desenat un simbol anarhist pe perete; nu au fost raportate persoane rănite. După incident, au fost trimise în oraș încă două unități de poliție.\n\n• **La Marsilia, protestatarii au blocat traficul și au incendiat coșuri de gunoi pe bulevardul Canebière,** iar o secție de poliție a fost atacată; au fost sparte geamuri și au fost aruncate grenade fumigene în clădire. Bulevardul Prado a fost blocat pentru scurt timp cu tomberoane și trotinete.\n\n• **La Lyon, sute de tineri îmbrăcați în negru au ridicat baricade,** iar poliția a dispersat mai multe grupuri. Aproape 300 de persoane adunate în fața Universității Lyon 3 au fost dispersate cu gaze lacrimogene; ulterior, biroul de turism al orașului a fost incendiat. Mai multe magazine își baricadaseră preventiv vitrinele.\n\n• **La Bordeaux, manifestația cu aproximativ 7.000 de participanți s-a transformat în confruntări.** Potrivit relatărilor, un grup a pătruns în sediul Camerei de Comerț și Industrie și a incendiat coșuri de gunoi, iar poliția a folosit tunuri cu apă și gaze lacrimogene. La Lille, protestatarii au încercat să intre în primărie.\n\n• **Majoritatea manifestațiilor de marți au fost pașnice, dar poliția a folosit gaze lacrimogene în mai multe orașe.** Au fost raportate intervenții la Paris, Lyon, Strasbourg și Nantes; în centrul Parisului a fost incendiată o mașină, iar la Lyon au fost vandalizate magazine și o benzinărie și au fost atacați polițiști.\n\n• **De la începutul protestelor au fost răniți 937 de polițiști și jandarmi,** precum și 248 de elevi și 149 de angajați din educație. Au fost deschise 36 de anchete privind intervențiile poliției; printre cei grav răniți se numără un adolescent de 14 ani care și-a pierdut o mână și unul de 15 ani care și-a pierdut un ochi după ce a fost lovit de un glonț de cauciuc.\n\n• **Folosirea grenadelor asurzitoare și paralizante în intervențiile împotriva elevilor a fost suspendată,** însă ministrul de Interne Laurent Nuñez a spus că arme intermediare ar putea fi folosite din nou în cazul unor confruntări grave. Un sindicat al poliției a anunțat că va depune o plângere împotriva statului, susținând că polițiștii au fost puși în pericol de ordine contradictorii.\n\n• **Guvernul a acuzat LFI că alimentează protestele, iar partidul a respins acuzația.** Premierul Sébastien Lecornu a descris situația drept unul dintre cele mai violente valuri de proteste din ultimele decenii, iar Jordan Bardella, liderul Adunării Naționale, a avertizat asupra riscului de haos.\n\n• **Emmanuel Macron a făcut apel la calm și la respectarea persoanelor și a bunurilor.** El a spus că dreptul la manifestație trebuie respectat, dar că este inacceptabil ca cineva să participe doar pentru a provoca distrugeri și tulburări.\n\n• **Cercetătorii explică apropierea dintre mișcări prin crizele multiple care îi afectează pe tineri.** Paolo Stuppia consideră că schimbările climatice, precaritatea, dificultățile de acces pe piața muncii și teama de accederea extremei drepte la putere îi pot aduce pe tineri în jurul unor revendicări comune; intervențiile poliției pot crea o punte între elevi și Vestele Galbene.\n\n• **Jean-Luc Mélenchon, liderul LFI, a participat la unul dintre marșurile din Paris** și a acuzat presa, pe platforma X, că nu arată adevărata amploare a brutalității poliției împotriva manifestanților.\n\n• **Marine Le Pen a cerut ca reparațiile școlilor vandalizate să fie plătite de cei responsabili.** Ea a spus că aceștia sau părinții lor ar trebui să achite costurile; proiectul de lege care ar permite acest lucru se află în parlament."
   },
   {
     "group_id": "group_614a89a860",
@@ -11060,106 +11262,5 @@
     "title_ro": "PSG insistă pentru titularul Barcelonei! Campioana Franței e gata să facă prima ofertă",
     "lead_ro": "Campioana Franței, Paris Saint-Germain, l-a stabilit pe fundașul Barcelonei, Eric Garcia, drept principala sa țintă de transfer pentru vara anului 2027. Conform informațiilor oferite de cotidianul „Le…",
     "content_ro": "Campioana Franței, Paris Saint-Germain, l-a stabilit pe fundașul Barcelonei, Eric Garcia, drept principala sa țintă de transfer pentru vara anului 2027. Conform informațiilor oferite de cotidianul „Le Parisien”, tehnicianul Luis Enrique își dorește cu insistență să colaboreze din nou cu polivalentul fotbalist spaniol, capabil să evolueze la fel de eficient atât în centrul defensivei, cât și în flanc. ..."
-  },
-  {
-    "group_id": "group_f17c5faf16",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/9a2550b5-d8af-4bb4-bec4-45efac7d0531.jpeg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Replica pentru Dumiter a venit imediat după ce a contestat penalty-ul lui Dinamo: „Nu există termen de comparație”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/dinamo-fc-botosani-penalty-andrei-dumiter-replica-florin-prunea-gabi-torje-989023.html"
-      }
-    ],
-    "published_at": 1792210304,
-    "title_hu": "Replica pentru Dumiter a venit imediat după ce a contestat penalty-ul lui Dinamo: „Nu există termen de comparație”",
-    "lead_hu": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81…",
-    "content_hu": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81, la 0-0, Dinamo a primit prima lovitură de penalty din meci, după ce Andrei Mărginean a lovit mingea cu capul, iar portarul Anestis, ieșit pentru a boxa centrarea, a avut un contact cu mijlocașul dinamovist. ...",
-    "title_ro": "Replica pentru Dumiter a venit imediat după ce a contestat penalty-ul lui Dinamo: „Nu există termen de comparație”",
-    "lead_ro": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81…",
-    "content_ro": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81, la 0-0, Dinamo a primit prima lovitură de penalty din meci, după ce Andrei Mărginean a lovit mingea cu capul, iar portarul Anestis, ieșit pentru a boxa centrarea, a avut un contact cu mijlocașul dinamovist. ..."
-  },
-  {
-    "group_id": "group_f8dec8edd9",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/simona-1024x719.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„Parcă sunt date cu aspiratorul!”. Orașul din România care a lăsat o italiancă fără cuvinte",
-        "link": "https://www.mediafax.ro/life-inedit/parca-sunt-date-cu-aspiratorul-orasul-din-romania-care-a-lasat-o-italianca-fara-cuvinte-23826916"
-      }
-    ],
-    "published_at": 1792210202,
-    "title_hu": "„Parcă sunt date cu aspiratorul!”. Orașul din România care a lăsat o italiancă fără cuvinte",
-    "lead_hu": "O turistă din Italia a rămas marcată de liniștea și siguranța pe care le-a găsit pe străzile din Timișoara. Ea a lăudat comportamentul tinerilor din localuri, curățenia și poliția.",
-    "content_hu": "O turistă din Italia a rămas marcată de liniștea și siguranța pe care le-a găsit pe străzile din Timișoara. Ea a lăudat comportamentul tinerilor din localuri, curățenia și poliția.",
-    "title_ro": "„Parcă sunt date cu aspiratorul!”. Orașul din România care a lăsat o italiancă fără cuvinte",
-    "lead_ro": "O turistă din Italia a rămas marcată de liniștea și siguranța pe care le-a găsit pe străzile din Timișoara. Ea a lăudat comportamentul tinerilor din localuri, curățenia și poliția.",
-    "content_ro": "O turistă din Italia a rămas marcată de liniștea și siguranța pe care le-a găsit pe străzile din Timișoara. Ea a lăudat comportamentul tinerilor din localuri, curățenia și poliția."
-  },
-  {
-    "group_id": "group_e587a4711c",
-    "fingerprint": "f370d72d8a29eb4a76bc09a632374742",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20092026/4ff8eefe-c00b-4366-a033-7301aa1ebeea.jfif?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Dinamo - FC Botoșani, „câinii” vor să-și păstreze fotoliul de lider în Superligă » Echipele probabile + cele mai tari cote",
-        "link": "https://www.gsp.ro/fotbal/liga-1/live-dinamo-fc-botosani-etapa-12-superliga-988613.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Dinamo își confirmă poziția de lider al Superligii prin victoria cu FC Botoșani (2-0)",
-        "link": "https://agerpres.ro/sport/2026/10/16/fotbal-dinamo-isi-confirma-pozitia-de-lider-al-superligii-prin-victoria-cu-fc-botosani-2-0--1603988"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Notele GSP la Dinamo - Botoșani » Danny - regele serii și o colecție de repetenți",
-        "link": "https://www.gsp.ro/fotbal/liga-1/notele-gsp-la-dinamo-botosani-danny-regele-serii-si-o-colectie-de-repetenti-988978.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cătălin Cîrjan, moment de sinceritate: „De când sunt la Dinamo...”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/dinamo-fc-botosani-superliga-catalin-cirjan-988951.html"
-      }
-    ],
-    "published_at": 1792210013,
-    "title_hu": "A Dinamo két késői büntetővel győzte le a Botoșanit, és megőrizte vezető helyét",
-    "lead_hu": "A Dinamo București 2–0-ra nyert az FC Botoșani ellen a román Superliga 12. fordulójában, így a játéknap végén is biztosan az élen marad. Armstrong a hajrában, Cîrjan a hosszabbításban értékesített büntetőt; a Dinamo 29 pontra növelte mérlegét, a Botoșani pedig már 17 idegenbeli bajnoki óta nyeretlen.",
-    "content_hu": "• **A Dinamo 2–0-ra győzött** az FC Botoșani ellen péntek este az Arena Naționalén, a Superliga 12. fordulójában; a szünetben még 0–0 volt az állás.\n\n• **Armstrong a 80. percben** büntetőből szerezte meg a vezetést. A tizenegyest azután ítélték meg, hogy Anestis kapus szabálytalankodott Mărgineanen.\n\n• **Cîrjan a 90+2. percben** szintén tizenegyesből állította be a végeredményt; a büntetőt megelőző kezezésért Diaw megkapta a második sárga lapját, így kiállították. Cîrjan lövését Diaw kézzel állította meg.\n\n• **A Dinamo 29 ponttal őrzi első helyét**, és ötödik egymást követő bajnoki sikerét aratta. A mérkőzés előtt 26 ponttal állt, két ponttal megelőzve a Rapidot.\n\n• **A Dinamo a második félidőben átvette az irányítást:** a GSP beszámolója szerint a hazaiak beszorították ellenfelüket, és több helyzetet is kialakítottak; Zandbergennek is voltak nagy lehetőségei.\n\n• **A Dinamo az első félidőben is veszélyes volt:** Karamoko már az első percben helyzetbe került, Cîrjan a 35. percben a kapufát találta el, Diaw pedig a gólvonalról mentett. A GSP szerint az első félidőben összesen 17 lövés, hat kaput találó kísérlet, hat kapusvédés és hét szöglet volt; a meccset 10 249 néző látta.\n\n• **A GSP értékelése szerint Armstrong volt a mezőny legjobbja**, 8-as osztályzatot kapott; a játékvezető 7-es értékelést kapott, a lap szerint mindkét büntetőt helyesen ítélte meg.\n\n• **A Dinamo hazai bajnoki veretlenségi sorozata** a 2026. március 19-i, Universitatea Craiova elleni 0–1-es vereség óta tart: a Botoșani elleni győzelemmel ezalatt kilencszer nyert és egyszer döntetlent játszott.\n\n• **A Botoșani már 17 egymást követő idegenbeli bajnokin maradt nyeretlen** a mérkőzés után; ezeken öt döntetlen és 12 vereség volt a mérlege. Legutóbb 2025. november 30-án, az Unirea Slobozia ellen nyert vendégként.\n\n• **Cîrjan a meccs után azt mondta**, hogy ez a legszebb pillanata, amióta a Dinamónál játszik. Hozzátette, új számára a bal oldali pozíció, a szurkolók támogatása pedig sokat segített a csapatnak; a következő héten akcióból is szeretnének gólt szerezni.\n\n• **A Dinamo és a Botoșani egymás elleni mérlege** az Agerpres által idézett LPF-adatok szerint 31 bajnoki találkozó után 11 Dinamo-győzelem, 11 Botoșani-siker és kilenc döntetlen.\n\n• **Pascual sárga lapja eltiltást jelent**, ezért nem játszhat a Dinamo következő, CFR Cluj elleni mérkőzésén.",
-    "title_ro": "Dinamo a învins-o pe Botoșani cu două penalty-uri pe final și își păstrează primul loc",
-    "lead_ro": "Dinamo București a câștigat cu 2-0 în fața lui FC Botoșani, în etapa a 12-a din Superligă, și este sigură că va rămâne lider la finalul rundei. Armstrong a transformat un penalty în finalul meciului, iar Cîrjan a stabilit scorul în prelungiri; Dinamo a ajuns la 29 de puncte, iar Botoșani este fără victorie în 17 deplasări consecutive de campionat.",
-    "content_ro": "• **Dinamo a câștigat cu 2-0** în fața lui FC Botoșani, vineri seara, pe Arena Națională, într-un meci din etapa a 12-a a Superligii; la pauză scorul era 0-0.\n\n• **Armstrong a deschis scorul în minutul 80**, transformând un penalty acordat după faultul portarului Anestis asupra lui Mărginean.\n\n• **Cîrjan a stabilit scorul în minutul 90+2**, tot din penalty; Diaw a primit al doilea cartonaș galben și a fost eliminat pentru hențul care a precedat lovitura de pedeapsă. Șutul lui Cîrjan a fost oprit cu mâna de Diaw.\n\n• **Dinamo își păstrează primul loc, cu 29 de puncte**, și a obținut a cincea victorie consecutivă în campionat. Înaintea meciului avea 26 de puncte, cu două mai multe decât Rapid.\n\n• **Dinamo a controlat repriza secundă:** potrivit relatării GSP, gazdele și-au împins adversarii în propria jumătate și au creat mai multe ocazii, inclusiv prin Zandbergen.\n\n• **Dinamo a fost periculoasă și în prima repriză:** Karamoko a avut o ocazie încă din minutul 1, Cîrjan a trimis în bară în minutul 35, iar Diaw a respins de pe linia porții. Potrivit GSP, prima repriză a avut 17 șuturi, șase șuturi pe poartă, șase intervenții ale portarilor și șapte cornere; la meci au asistat 10.249 de spectatori.\n\n• **Potrivit notelor GSP, Armstrong a fost cel mai bun jucător**, primind nota 8; arbitrul a primit nota 7, publicația considerând corecte ambele penalty-uri.\n\n• **Seria de invincibilitate a lui Dinamo pe teren propriu** în campionat datează de la înfrângerea cu 0-1 în fața Universității Craiova, din 19 martie 2026. De atunci, Dinamo a obținut nouă victorii și o remiză acasă, inclusiv în fața Botoșaniului.\n\n• **FC Botoșani a ajuns la 17 deplasări consecutive fără victorie** în campionat; bilanțul este de cinci egaluri și 12 înfrângeri. Ultimul succes în deplasare a fost pe 30 noiembrie 2025, cu Unirea Slobozia.\n\n• **Cîrjan a declarat după meci** că este cel mai frumos moment de când joacă la Dinamo. A spus că poziția din stânga este nouă pentru el, le-a mulțumit suporterilor pentru susținere și a adăugat că echipa vrea să înscrie din acțiune în etapa următoare.\n\n• **Bilanțul direct dintre Dinamo și Botoșani**, potrivit datelor LPF citate de Agerpres, este de 31 de meciuri în campionat: 11 victorii pentru Dinamo, 11 pentru Botoșani și nouă remize.\n\n• **Cartonașul galben primit de Pascual aduce o suspendare**, astfel că fundașul va rata următorul meci al lui Dinamo, cu CFR Cluj."
-  },
-  {
-    "group_id": "group_96e7b725ff",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/drone-1024x576.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Noapte albă în nordul Tulcei. Avioane F-18 spaniole au decolat de la Mihail Kogălniceanu",
-        "link": "https://www.mediafax.ro/social/noapte-alba-in-nordul-tulcei-avioane-f-18-spaniole-au-decolat-de-la-mihail-kogalniceanu-23827003"
-      }
-    ],
-    "published_at": 1792209903,
-    "title_hu": "Noapte albă în nordul Tulcei. Avioane F-18 spaniole au decolat de la Mihail Kogălniceanu",
-    "lead_hu": "Radarele MApN au detectat o țintă aeriană în Ucraina, spre granița cu România, la nord de Plauru. Două F-18 spaniole au decolat, iar nordul Tulcei a primit RO-Alert.",
-    "content_hu": "Radarele MApN au detectat o țintă aeriană în Ucraina, spre granița cu România, la nord de Plauru. Două F-18 spaniole au decolat, iar nordul Tulcei a primit RO-Alert.",
-    "title_ro": "Noapte albă în nordul Tulcei. Avioane F-18 spaniole au decolat de la Mihail Kogălniceanu",
-    "lead_ro": "Radarele MApN au detectat o țintă aeriană în Ucraina, spre granița cu România, la nord de Plauru. Două F-18 spaniole au decolat, iar nordul Tulcei a primit RO-Alert.",
-    "content_ro": "Radarele MApN au detectat o țintă aeriană în Ucraina, spre granița cu România, la nord de Plauru. Două F-18 spaniole au decolat, iar nordul Tulcei a primit RO-Alert."
   }
 ]
