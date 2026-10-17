@@ -1,24 +1,233 @@
 [
   {
     "group_id": "group_33b7590464",
+    "fingerprint": "c64fb9bd504108f17a07823acedd48b7",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/17/185854/000-d3lk69v.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C682%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Macron, mesaj ferm în timpul manifestațiilor din Franța: „Vom face bloc în fața celor care seamănă haos”",
         "link": "https://stirileprotv.ro/stiri/international/macron-mesaj-ferm-in-timpul-manifestatiilor-din-franta-vom-face-bloc-in-fata-celor-care-seamana-haos.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Manifestații în Franța: Niciun loc pentru violențe, vom face toți bloc în fața celor care seamănă haos (Macron)",
+        "link": "https://agerpres.ro/politic-extern/2026/10/17/manifestatii-in-franta-niciun-loc-pentru-violente-vom-face-toti-bloc-in-fata-celor-care-seamana-haos--1604132"
       }
     ],
-    "published_at": 1792263559,
-    "title_hu": "Macron, mesaj ferm în timpul manifestațiilor din Franța: „Vom face bloc în fața celor care seamănă haos”",
-    "lead_hu": "Preşedintele francez Emmanuel Macron a declarat sâmbătă că cei care au \"spart\" şi \"jefuit\" în cursul manifestaţiilor vor fi \"urmăriţi şi pedepsiţi\" şi că ţara va face \"bloc în faţa celor care seamănă …",
-    "content_hu": "Preşedintele francez Emmanuel Macron a declarat sâmbătă că cei care au \"spart\" şi \"jefuit\" în cursul manifestaţiilor vor fi \"urmăriţi şi pedepsiţi\" şi că ţara va face \"bloc în faţa celor care seamănă haos şi nu caută decât să dărâme instituţiile noastre”.",
-    "title_ro": "Macron, mesaj ferm în timpul manifestațiilor din Franța: „Vom face bloc în fața celor care seamănă haos”",
-    "lead_ro": "Preşedintele francez Emmanuel Macron a declarat sâmbătă că cei care au \"spart\" şi \"jefuit\" în cursul manifestaţiilor vor fi \"urmăriţi şi pedepsiţi\" şi că ţara va face \"bloc în faţa celor care seamănă …",
-    "content_ro": "Preşedintele francez Emmanuel Macron a declarat sâmbătă că cei care au \"spart\" şi \"jefuit\" în cursul manifestaţiilor vor fi \"urmăriţi şi pedepsiţi\" şi că ţara va face \"bloc în faţa celor care seamănă haos şi nu caută decât să dărâme instituţiile noastre”."
+    "published_at": 1792264425,
+    "title_hu": "Macron fellépést ígért a francia tüntetéseken elkövetett erőszak miatt",
+    "lead_hu": "Emmanuel Macron francia elnök szombaton kijelentette, hogy a tüntetések során rongáló és fosztogató embereket bíróság elé állítják és megbüntetik. Azt mondta, az ország egységesen lép fel azokkal szemben, akik káoszt keltenek és az intézményeket akarják lerombolni.",
+    "content_hu": "• **Emmanuel Macron** szombaton azt írta, hogy a tüntetéseken rongáló, prefektúrákat és üzleteket megtámadó, illetve fosztogató embereket bíróság elé állítják és megbüntetik.\n\n• **Macron** szerint a franciák egységesen lépnek fel azokkal szemben, akik káoszt keltenek, az intézményeket akarják lerombolni, és akadályozzák a békés véleménynyilvánítást.\n\n• **A francia elnök** támogatásáról biztosította a rendvédelmi erőket, amelyek szerinte a tüntetések résztvevőinek békés demonstrációhoz való jogát is garantálják.\n\n• **Sébastien Lecornu miniszterelnök** szintén támogatásáról biztosította a rendvédelmi erőket, és figyelmeztetett: senki nem kényszerítheti rá politikai programját másokra erőszakkal.",
+    "title_ro": "Macron promite măsuri împotriva violențelor de la manifestațiile din Franța",
+    "lead_ro": "Președintele francez Emmanuel Macron a declarat sâmbătă că persoanele care au vandalizat și au jefuit în timpul manifestațiilor vor fi urmărite în justiție și pedepsite. El a spus că țara va acționa unit împotriva celor care provoacă haos și încearcă să dărâme instituțiile.",
+    "content_ro": "• **Emmanuel Macron** a scris sâmbătă că persoanele care au vandalizat, au atacat prefecturi și magazine sau au jefuit în timpul manifestațiilor vor fi urmărite în justiție și pedepsite.\n\n• **Macron** a afirmat că francezii vor face front comun împotriva celor care provoacă haos, încearcă să dărâme instituțiile și îi împiedică pe cei care își exprimă pașnic revendicările.\n\n• **Președintele francez** și-a exprimat sprijinul pentru forțele de ordine, pe care le-a descris drept garante ale dreptului de a manifesta.\n\n• **Premierul Sébastien Lecornu** a transmis, la rândul său, sprijinul pentru forțele de ordine și a avertizat că nimeni nu își va putea impune agenda politică prin violență."
+  },
+  {
+    "group_id": "group_71ec67f58c",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Eșec al formațiunii premierului ceh Andrej Babis în alegerile pentru Senat",
+        "link": "https://agerpres.ro/politic-extern/2026/10/17/esec-al-formatiunii-premierului-ceh-andrej-babis-in-alegerile-pentru-senat--1604131"
+      }
+    ],
+    "published_at": 1792264425,
+    "title_hu": "Eșec al formațiunii premierului ceh Andrej Babis în alegerile pentru Senat",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Eșec al formațiunii premierului ceh Andrej Babis în alegerile pentru Senat",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_5f943ec5de",
+    "fingerprint": "30f229bdcaf526e7f890b2c7442ea30b",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA1JTJGMjk5OTY4NF8yOTk5/Njg0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTRlNjI4MmM4NzIzNDlhOTg4YzRjYjJlODY0OTNmYjky.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Sancțiunile „din iad”, puse pe pauză. Trump suspendă taxele de 500% pentru Rusia cu două zile înainte să intre în vigoare",
+        "link": "https://www.mediafax.ro/externe/sanctiunile-din-iad-puse-pe-pauza-trump-suspenda-taxele-de-500-pentru-rusia-cu-doua-zile-inainte-sa-intre-in-vigoare-23827009"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Nemzeti érdekre hivatkozva Trump felfüggesztette az Oroszországot célzó új szankciós csomagot",
+        "link": "https://transtelex.ro/kulfold/2026/10/17/trump-orosz-szankciocsomag-felfuggesztes-dizel-egyesult-allamok-oroszorszag-olaj"
+      },
+      {
+        "source": "Digi24",
+        "title": "Congresmeni republicani critică suspendarea noilor sancţiuni împotriva Rusiei de către Trump: „Este complet iresponsabil, o eroare”",
+        "link": "https://www.digi24.ro/stiri/externe/sua/congresmeni-republicani-critica-suspendarea-noilor-sanctiuni-impotriva-rusiei-de-catre-trump-este-complet-iresponsabil-o-eroare-3997095"
+      }
+    ],
+    "published_at": 1792264425,
+    "title_hu": "Trump felfüggesztette az Oroszország elleni új szankciókat; republikánusok is bírálták, Moszkva történelmi pillanatról beszél",
+    "lead_hu": "Donald Trump két nappal a hatálybalépés előtt felfüggesztette az általa aláírt, Oroszországot célzó új szankciókat és vámokat, az Egyesült Államok nemzeti érdekére hivatkozva. A döntés az orosz dízelüzlet és az amerikai–ukrán viszony romlása közepette született; a lépést több republikánus politikus is bírálta, Kirill Dmitrijev pedig történelminek nevezte.",
+    "content_hu": "• **Október 16-án** Trump elnöki rendelettel felfüggesztette a Lindsey O. Graham-törvényben előírt szankciókat, korlátozásokat és vámokat, két nappal azok október 18-i hatálybalépése előtt. A törvényt szeptember 18-án írta alá.\n\n• **A törvény célja** az volt, hogy csökkentse a Moszkva ukrajnai háborúját finanszírozó bevételeket. A Szenátus 86–11, a Képviselőház 262–159 arányban fogadta el; ez volt Trump visszatérése óta a Kongresszus első jelentős, Oroszország elleni fellépése.\n\n• **A tervezett vámok** 500 százalékos pótlólagos vámot írtak elő az orosz importárukra, valamint akár 100 százalékos vámot az orosz olaj és gáz legnagyobb vásárlóira, illetve az orosz szankciók kijátszását segítő országokra. Egyes rendelkezések a hatálybalépést követő 30 napban orosz olajat vagy gázt vásárló országokra is vonatkoztak volna.\n\n• **A vámmentesség feltétele** egyes szabályok szerint az lehetett, hogy az ország az orosz gázexport kevesebb mint 15 százalékát importálja, és jelentős lépéseket tegyen a behozatal csökkentésére.\n\n• **A szankciós csomag** orosz tisztviselőket, bankokat, energetikai és védelmi vállalatokat, Putyint és más magas rangú vezetőket, valamint az orosz energiahordozókat szállító árnyékflottát célozta. A tervezett vámok Moszkva nagy energiaügyi partnereit, köztük Kínát és Indiát is érinthették volna.\n\n• **A felfüggesztés jogalapja** a törvény 115. szakasza volt, amely lehetővé teszi az intézkedések elhalasztását, ha a kormányzat igazolja a Kongresszusnak, hogy az az Egyesült Államok nemzeti érdekét szolgálja. Az igazolást benyújtották, de a Fehér Ház nem adott részletes nyilvános indoklást; a korábban végrehajtói rendeletekkel bevezetett szankciók érvényben maradtak, a felfüggesztésnek pedig nincs bejelentett lejárata.\n\n• **A politikai és árpolitikai háttér** is szerepet játszhatott: az intézkedések az elemzők szerint tovább emelhették volna az olajárakat és a megélhetési költségeket. A november 3-i időközi választások előtt a republikánusok a Kongresszus mindkét házában meglévő szűk többségük megtartásáért küzdöttek; a drágulást a beszámolók főként az Irán elleni háborúval hozták összefüggésbe.\n\n• **Az orosz dízelmegállapodás** szerint Oroszország azonnal több mint 300 ezer tonna dízelt szállít, novemberben további 500 ezer tonnát, ezt követően egymillió, majd rövid időn belül további hárommillió tonnát. Az amerikai pénzügyminisztérium a dízelre vonatkozó korlátozásokat 2027. április 7-ig enyhítette.\n\n• **A döntést amerikai politikusok bírálták:** tizenkét szenátor, köztük hat republikánus, a dízelmegállapodás felmondására és a törvény szerinti szankciók alkalmazására kérte Trumpot. Don Beyer azzal vádolta az elnököt, hogy engedett Putyinnak, Elizabeth Warren pedig a Kongresszus erőfeszítéseinek aláásását bírálta; Richard Blumenthal szerint a döntés Putyin érdekeit szolgálja.\n\n• **Republikánus bírálók** is megszólaltak: Thom Tillis „teljesen felelőtlennek” nevezte a döntést, Ted Cruz hibának minősítette, Michael McCaul pedig visszalépésre kérte Trumpot. John Cornyn azt írta, Lindsey Grahamet elszomorítaná a döntés; Chuck Schumer szerint Trump „Putyinnak adta a legszebb születésnapi ajándékot”.\n\n• **Trump az ukrán támadásokat is bírálta:** szégyennek nevezte az orosz finomítók elleni csapásokat, és az üzemanyagárak emelkedésével hozta összefüggésbe azokat. Ukrajna rövid időre eleget tett Washington kérésének, hogy állítsa le a támadásokat, majd újraindította azokat; Oroszország eközben folytatta az ukrán energetikai infrastruktúra bombázását. Egy beszámoló több mint száz civil haláláról számolt be az előző héten.\n\n• **Zelenszkij gyenge döntésnek nevezte** a dízelmegállapodást, és arra figyelmeztetett, hogy az energiabevételek segítik Moszkvát a háború finanszírozásában. Brüsszelben azt mondta, az egyezség nyomán ismét pénz áramlik majd Oroszországba.\n\n• **Az amerikai–ukrán viszony romlott:** Trump azzal vádolta Zelenszkijt, hogy nem tudott megállapodni Putyinnal, és felvetette, hogy Ukrajnának új vezetőre lehet szüksége. Trump az európai pénzből vásárolt amerikai fegyverek átadását és az amerikai hírszerzési információk megosztását is kétségessé tette, utóbbiból visszalépett; a Starlink ukrán katonai használatát rövid időre korlátozták, ami bevetések elhalasztásához vezetett.\n\n• **Európai bírálatok** is érkeztek: António Costa, az Európai Tanács elnöke szerint nem szabad enyhíteni az Oroszország elleni szankciókat, Petteri Orpo finn miniszterelnök bírálta Washington Moszkvához való közeledését, Andrej Babiš cseh miniszterelnök pedig árulásnak nevezte a Putyinnal kötött megállapodást.\n\n• **Kirill Dmitrijev, Putyin gazdasági tárgyalója** történelminek nevezte a törvény felfüggesztését. Azt állította, hogy a jogszabály súlyosan károsította volna az amerikai gazdaságot és a világpiacokat, sőt teljesen leállíthatta volna az orosz–amerikai gazdasági együttműködést; szerinte a szankciók helyét párbeszédnek és kölcsönösen előnyös együttműködésnek kellene átvennie.\n\n• **Lindsey Graham** a törvény névadója és egyik fő kezdeményezője volt; júliusban halt meg, miután korábban Ukrajnában járt. Húga, Darlene Graham, akit a megüresedett szenátusi mandátum hátralévő részére neveztek ki, büszkeségét fejezte ki a törvény elfogadása miatt, de elismerte, hogy alkalmazásáról az elnök dönt.\n\n• **A végrehajtás felügyelete** folytatódik: az amerikai kereskedelmi képviselő, valamint a külügy-, pénzügy- és energiaügyi tárca figyeli az orosz energia vásárlását és a szankciók megkerülését. Putyin pénteken katonai egyenruhában arról beszélt, hogy Oroszország el akarja foglalni Ukrajna fennmaradó részét.",
+    "title_ro": "Trump suspendă noile sancțiuni împotriva Rusiei; este criticat și de republicani, iar Moscova vorbește despre un moment istoric",
+    "lead_ro": "Donald Trump a suspendat, cu două zile înainte de intrarea lor în vigoare, noile sancțiuni și taxe vamale împotriva Rusiei pe care le promulgase, invocând interesul național al SUA. Decizia a venit în contextul acordului privind motorina rusească și al deteriorării relației dintre Washington și Kiev; măsura a fost criticată și de politicieni republicani, iar Kirill Dmitriev a numit-o istorică.",
+    "content_ro": "• **La 16 octombrie**, Trump a suspendat prin decret prezidențial sancțiunile, restricțiile și taxele prevăzute de Legea Lindsey O. Graham, cu două zile înainte ca acestea să intre în vigoare, pe 18 octombrie. Președintele semnase legea pe 18 septembrie.\n\n• **Scopul legii** era reducerea veniturilor care finanțează războiul Rusiei în Ucraina. Senatul a adoptat-o cu 86–11 voturi, iar Camera Reprezentanților cu 262–159; a fost prima acțiune majoră a Congresului împotriva Moscovei de la revenirea lui Trump la putere.\n\n• **Taxele vamale prevăzute** includeau o suprataxă de 500% pentru bunurile importate din Rusia și taxe de până la 100% pentru cei mai mari cumpărători de petrol și gaze rusești, precum și pentru țările care ajută Moscova să ocolească sancțiunile. Unele prevederi vizau și țările care cumpărau petrol sau gaze rusești în cele 30 de zile de după intrarea legii în vigoare.\n\n• **Excepția de la taxe** putea fi aplicată, potrivit unor prevederi, țărilor care importă mai puțin de 15% din exporturile de gaze ale Rusiei și au făcut pași semnificativi pentru reducerea acestor importuri.\n\n• **Pachetul de sancțiuni** viza oficiali ruși, bănci, companii din energie și apărare, pe Putin și alți lideri de rang înalt, precum și flota-fantomă folosită pentru transportul resurselor energetice rusești. Taxele ar fi putut afecta și marii parteneri energetici ai Moscovei, inclusiv China și India.\n\n• **Temeiul suspendării** a fost secțiunea 115 a legii, care permite amânarea măsurilor dacă administrația certifică Congresului că decizia servește interesului național al SUA. Certificarea a fost transmisă, dar Casa Albă nu a oferit o explicație publică detaliată; sancțiunile impuse anterior prin ordine executive au rămas în vigoare, iar suspendarea nu are un termen anunțat de expirare.\n\n• **Contextul politic și al prețurilor** ar fi putut conta: analiștii au avertizat că măsurile puteau duce la creșterea suplimentară a prețurilor la petrol și a costului vieții. Înaintea alegerilor intermediare din 3 noiembrie, republicanii încercau să-și păstreze majoritățile fragile în ambele camere ale Congresului; relatările au legat scumpirile în principal de războiul împotriva Iranului.\n\n• **Acordul privind motorina rusească** prevede livrarea imediată a peste 300.000 de tone, a încă 500.000 de tone în noiembrie, apoi a unui milion de tone și, într-un interval scurt, a altor trei milioane. Trezoreria SUA a relaxat restricțiile privind motorina până la 7 aprilie 2027.\n\n• **Politicieni americani au criticat decizia:** 12 senatori, dintre care șase republicani, i-au cerut lui Trump să renunțe la acordul privind motorina și să aplice sancțiunile din lege. Don Beyer l-a acuzat că a cedat în fața lui Putin, Elizabeth Warren a criticat subminarea eforturilor Congresului, iar Richard Blumenthal a spus că decizia servește intereselor lui Putin.\n\n• **Au criticat măsura și republicani:** Thom Tillis a numit-o „complet iresponsabilă”, Ted Cruz a descris-o drept o greșeală, iar Michael McCaul i-a cerut lui Trump să revină asupra deciziei. John Cornyn a scris că Lindsey Graham ar fi fost întristat; Chuck Schumer a spus că Trump i-a făcut lui Putin „cel mai frumos cadou de ziua lui”.\n\n• **Trump a criticat și atacurile ucrainene:** el a numit o rușine loviturile asupra rafinăriilor rusești și le-a asociat cu scumpirea combustibililor. Ucraina a acceptat pentru scurt timp solicitarea Washingtonului de a opri atacurile, apoi le-a reluat; Rusia a continuat să bombardeze infrastructura energetică ucraineană. O relatare a menționat peste 100 de civili uciși în săptămâna precedentă.\n\n• **Zelenski a numit acordul privind motorina o decizie slabă** și a avertizat că veniturile suplimentare din energie îi permit Moscovei să finanțeze războiul. La Bruxelles, el a spus că, în urma înțelegerii, banii vor începe din nou să ajungă în Rusia.\n\n• **Relațiile dintre SUA și Ucraina s-au deteriorat:** Trump l-a acuzat pe Zelenski că nu a reușit să ajungă la un acord cu Putin și a sugerat că Ucraina ar avea nevoie de un nou lider. A pus sub semnul întrebării livrarea armelor americane cumpărate cu bani europeni și schimbul de informații al serviciilor americane, apoi a revenit asupra acestuia din urmă; accesul armatei ucrainene la Starlink a fost limitat pentru scurt timp, ceea ce a dus la amânarea unor operațiuni.\n\n• **Au venit și critici europene:** António Costa, președintele Consiliului European, a spus că sancțiunile împotriva Rusiei nu trebuie relaxate; premierul finlandez Petteri Orpo a criticat apropierea Washingtonului de Moscova, iar premierul ceh Andrej Babiš a numit acordul cu Putin o trădare.\n\n• **Kirill Dmitriev, negociatorul economic al lui Putin**, a numit suspendarea legii un moment istoric. El a susținut că legea ar fi afectat grav economia americană și piețele mondiale și ar fi putut opri complet cooperarea economică ruso-americană; în opinia sa, sancțiunile ar trebui înlocuite cu dialog și cooperare reciproc avantajoasă.\n\n• **Lindsey Graham** a fost cel care a dat numele legii și unul dintre principalii ei susținători; a murit în iulie, după ce vizitase Ucraina. Sora sa, Darlene Graham, numită să ocupe restul mandatului vacant din Senat, s-a declarat mândră de adoptarea legii, dar a recunoscut că președintele decide dacă o aplică.\n\n• **Monitorizarea aplicării** continuă: reprezentantul comercial al SUA și departamentele de Stat, Trezorerie și Energie urmăresc achizițiile de energie rusească și ocolirea sancțiunilor. Vineri, Putin a apărut în uniformă militară și a declarat că Rusia intenționează să cucerească restul Ucrainei."
+  },
+  {
+    "group_id": "group_42d49e0ab4",
+    "fingerprint": "eb742397f9e6b682f1c78825da5824f2",
+    "category": "Gazdaság",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/istockphoto-909046092-612x612-1.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Horoscop 16 octombrie 2026, cu Neti Sandu. Se rezolvă tensiuni mai vechi și vor exista progrese pentru o zodie",
+        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-16-octombrie-2026-cu-neti-sandu-se-rezolva-tensiuni-mai-vechi-si-vor-exista-progrese-pentru-o-zodie.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Horoscop 16 octombrie 2026. Răbdarea începe să dea roade. O zodie poate câștiga aprecierea șefilor, alta ia o decizie importantă despre bani",
+        "link": "https://www.mediafax.ro/horoscop/horoscop-16-octombrie-2026-rabdarea-incepe-sa-dea-roade-o-zodie-poate-castiga-aprecierea-sefilor-alta-ia-o-decizie-importanta-despre-bani-23826225"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Horoscop carieră azi, 16 octombrie 2026. Lovitură de noroc pentru o zodie! Eforturile din ultima perioadă pot fi răsplătite",
+        "link": "https://www.cancan.ro/horoscop-cariera-azi-16-octombrie-2026-lovitura-de-noroc-pentru-o-zodie-eforturile-din-ultima-perioada-pot-fi-rasplatite-21530699"
+      }
+    ],
+    "published_at": 1792264178,
+    "title_hu": "Október 16-i horoszkópok: türelem, szakmai előrelépés és pénzügyi megfontoltság",
+    "lead_hu": "A három október 16-i horoszkóp-előrejelzés a megfontolt haladást, a türelmet és a gyakorlati döntéseket emeli ki. A cikkek szerint egyesek szakmai elismerésre vagy előrelépésre számíthatnak, miközben a pénzügyekben és a szerződéseknél érdemes kerülni a kapkodást.",
+    "content_hu": "• **Október 16.** A Mediafax, a ProTV és a Cancan horoszkópjai egyaránt a türelmes, átgondolt cselekvést hangsúlyozzák: a kitartó munka és a világos tervezés többet érhet a gyors eredmények hajszolásánál.\n\n• **Szakmai előrelépés.** Az előrejelzések szerint egyesek munkáját és felelősségvállalását a feletteseik is észrevehetik; másoknál új projektek, együttműködések vagy karrierlehetőségek kerülhetnek előtérbe.\n\n• **Pénzügyi megfontoltság.** A horoszkópok pénzügyi előrelépés vagy régóta várt pénz beérkezésének lehetőségét is említik, ugyanakkor óvatosságot javasolnak a befektetéseknél, nagyobb vásárlásoknál és elhamarkodott döntéseknél.\n\n• **Régi feszültségek rendezése.** A ProTV előrejelzése szerint korábbi nézeteltérések tisztázódhatnak, ami szakmai előrelépést és új projektek felé való nyitást is segíthet.\n\n• **Szerződések és együttműködések.** A cikkek kedvezőnek írják le az együttműködést, de a szerződések aláírása vagy egy új ajánlat elfogadása előtt alapos mérlegelést és a részletek ellenőrzését ajánlják.",
+    "title_ro": "Horoscop 16 octombrie: răbdare, progres profesional și prudență financiară",
+    "lead_ro": "Cele trei previziuni astrologice pentru 16 octombrie pun accentul pe răbdare, acțiuni calculate și decizii practice. Potrivit articolelor, unii nativi ar putea primi recunoaștere profesională sau ar putea avansa în proiecte, însă în chestiunile financiare și contractuale este recomandată prudența.",
+    "content_ro": "• **16 octombrie.** Previziunile Mediafax, ProTV și Cancan evidențiază importanța răbdării și a planificării: eforturile susținute și pașii bine calculați pot fi mai folositori decât graba de a obține rezultate imediate.\n\n• **Progres profesional.** Potrivit horoscoapelor, munca și asumarea responsabilităților ar putea fi observate de superiori; pentru unii nativi pot apărea proiecte noi, colaborări sau oportunități de carieră.\n\n• **Prudență financiară.** Previziunile menționează posibilitatea unor progrese financiare sau a încasării unor bani așteptați, dar recomandă atenție la investiții, achiziții importante și decizii luate în grabă.\n\n• **Clarificarea tensiunilor mai vechi.** Horoscopul ProTV anticipează rezolvarea unor neînțelegeri din trecut, ceea ce ar putea susține evoluția profesională și implicarea în proiecte noi.\n\n• **Contracte și colaborări.** Articolele descriu colaborările ca fiind favorizate, dar recomandă analizarea atentă a ofertelor, verificarea detaliilor și evitarea semnării pripite a contractelor."
+  },
+  {
+    "group_id": "group_8e2be36e15",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-b/b5a57144-6275-4906-8cf0-c00cb31d1acd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Un proiect care ar putea interzice ChatGPT pentru spețe juridice stârnește controverse. Antreprenor: „Un monopol absolut”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/un-proiect-care-ar-putea-interzice-chatgpt-pentru-2564736.html"
+      }
+    ],
+    "published_at": 1792264055,
+    "title_hu": "Un proiect care ar putea interzice ChatGPT pentru spețe juridice stârnește controverse. Antreprenor: „Un monopol absolut”",
+    "lead_hu": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”.",
+    "content_hu": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”.",
+    "title_ro": "Un proiect care ar putea interzice ChatGPT pentru spețe juridice stârnește controverse. Antreprenor: „Un monopol absolut”",
+    "lead_ro": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”.",
+    "content_ro": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”."
+  },
+  {
+    "group_id": "group_aa7d2e15f1",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Momentul exploziei de la CET Iași. Orașul rămâne fără apă caldă şi căldură",
+        "link": "https://hotnews.ro/momentul-exploziei-de-la-cet-iasi-orasul-ramane-fara-apa-calda-si-caldura-2378890"
+      }
+    ],
+    "published_at": 1792263991,
+    "title_hu": "Momentul exploziei de la CET Iași. Orașul rămâne fără apă caldă şi căldură",
+    "lead_hu": "Imagini publicate de publicația locală Ziarul de Iași arată momentul exploziei de la Centrală Electrică de Termoficare (CET) Iași din această după-amiază. Explozia a avut loc la un transformator elect…",
+    "content_hu": "Imagini publicate de publicația locală Ziarul de Iași arată momentul exploziei de la Centrală Electrică de Termoficare (CET) Iași din această după-amiază. Explozia a avut loc la un transformator electric situat în incinta CET Iaşi, pe Calea Chişinăului, în municipiul Iaşi. Ea a fost urmată de un incendiu. Conform ISU Iași, incendiul s-a manifestat la …",
+    "title_ro": "Momentul exploziei de la CET Iași. Orașul rămâne fără apă caldă şi căldură",
+    "lead_ro": "Imagini publicate de publicația locală Ziarul de Iași arată momentul exploziei de la Centrală Electrică de Termoficare (CET) Iași din această după-amiază. Explozia a avut loc la un transformator elect…",
+    "content_ro": "Imagini publicate de publicația locală Ziarul de Iași arată momentul exploziei de la Centrală Electrică de Termoficare (CET) Iași din această după-amiază. Explozia a avut loc la un transformator electric situat în incinta CET Iaşi, pe Calea Chişinăului, în municipiul Iaşi. Ea a fost urmată de un incendiu. Conform ISU Iași, incendiul s-a manifestat la …"
+  },
+  {
+    "group_id": "group_8b5da53912",
+    "fingerprint": "fb94c27614912931ce9560d63c3d4757",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/73d36bd7-a853-49d2-ac78-7eef5e112681.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 11,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cristi Chivu, descumpănit după eșecul cu Brugge: „Acest meci nu reprezintă o echipă puternică și ambițioasă”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/cristi-chivu-reactie-esec-inter-club-brugge-liga-campionilor-987842.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivitrivit”",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivitrivit-23824941"
+      },
+      {
+        "source": "G4Media",
+        "title": "”Atacam și uitam să ne mai întoarcem în apărare” / Cristi Chivu, după eșecul lui Inter în Champions League, 3-4 cu Club Brugge, la Milano / „Au fost câteva episoade nefavorabile”",
+        "link": "https://www.g4media.ro/atacam-si-uitam-sa-ne-mai-intoarcem-in-aparare-cristi-chivu-dupa-esecul-lui-inter-in-champions-league-3-4-cu-club-brugge-la-milano-au-fost-cateva-episoade-nefavorabil.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cristi Chivu, după înfrângerea Inter Milano: „Nu reuşesc să găsesc echilibrul potrivit între meciuri”",
+        "link": "https://stirileprotv.ro/stiri/sport/chivu-dupa-infrangerea-inter-milano-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-intre-meciuri.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Echipa lui Cristi Chivu a pierdut cu Bruges, Dennis Man n-a jucat pentru Eindhoven",
+        "link": "https://adevarul.ro/sport/echipa-lui-cristi-chivu-a-pierdut-cu-bruges-2563857.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivit”",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-23824941"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Dezastrul lui Cristi Chivu: dublul golurilor primite față de sezonul trecut » „Inter l-a avut în mână, dar l-a ratat”",
+        "link": "https://www.gsp.ro/international/campionate/cifrele-dezastrului-dublul-golurilor-primite-inter-avut-in-mana-cristian-romero-ratat-transferul-988025.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Lovitură pentru Cristi Chivu: Lautaro Martínez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
+        "link": "https://www.gsp.ro/international/campionate/lautrao-martinez-accidentare-inter-cristi-chivu-988371.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "„Veste teribilă” pentru Chivu la Inter, anunță Gazzetta dello Sport – Căpitanul Lautaro va lipsi următoarele săptămâni",
+        "link": "https://www.g4media.ro/veste-teribila-pentru-chivu-la-inter-capitanul-lautaro-va-lipsi-in-urmatoarea-perioada-anunta-gazzetta-dello-sport.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Lovitură pentru Cristi Chivu: Lautaro Martinez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
+        "link": "https://www.gsp.ro/international/campionate/lautaro-martinez-accidentare-inter-cristi-chivu-988371.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Cristi Chivu nu va putea conta pe Lautaro Martinez în următoarele meciuri",
+        "link": "https://adevarul.ro/sport/cristi-chivu-nu-va-putea-conta-pe-lautaro-martinez-2564269.html"
+      }
+    ],
+    "published_at": 1792263722,
+    "title_hu": "Az Inter Brugge elleni veresége után Chivu önkritikát gyakorolt, a csapat Bolognában javított",
+    "lead_hu": "Az Inter 4–3-ra kikapott a Club Brugge-től, így két forduló után pont nélkül állt a Bajnokok Ligájában. Cristi Chivu magára vállalta a felelősséget, és a taktikai, mentális, valamint védekezési problémák javítását sürgette. A csapat Lautaro Martínez nélkül 3–1-re nyert Bolognában, és 19 ponttal a Serie A élére állt.",
+    "content_hu": "• **Október 13-án** az Inter hazai pályán 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája alapszakaszának második fordulójában; az olasz csapat az első két mérkőzését is elveszítette.\n\n• **Nicolo Tresoldi** mesterhármast szerzett, a győztes gólt a csereként beálló Romeo Vermant jegyezte. Az Inter góljait Lautaro Martínez két találata és Ange-Yoan Bonny késői gólja adta.\n\n• **Cristi Chivu** szerint az Inter jól kezdett, és a szünet után is volt két nagy helyzete, de a Brugge második gólja után elveszítette a higgadtságát és a taktikai egyensúlyát. A játékosok támadás közben késve rendeződtek vissza, a frusztráció és a türelmetlenség pedig tovább rontotta a védekezést.\n\n• **Chivu magára vállalta a felelősséget**, és azt mondta, a változásnak vele kell kezdődnie: jobban kell megszerveznie a csapatot, határozottabban közvetítenie az elvárásokat, és akár a szünetben is több nyugalmat kellett volna adnia a játékosoknak. A csapatnak javítania kell a párharcokon, a labdaszerzéseken, a játékosok közötti távolságokon és a letámadás összehangoltságán, de nem szabad feladnia a támadó szándékot.\n\n• **A védekezési mutatók** szerint az Inter az idény első nyolc Serie A- és BL-mérkőzésén 14 gólt kapott, szemben az előző idény azonos szakaszának hét góljával; a csapat ugyanakkor mindkét időszakban 22 gólt szerzett. A mostani 14 kapott gólból tíz a San Siróban született, és a nyolc mérkőzésből csak kettőt zárt kapott gól nélkül.\n\n• **Lautaro Martínez** a Brugge elleni mérkőzésen a bal combhajlító izmainál sérült meg. Chivu a novemberi válogatott szünet utáni visszatérésről beszélt; a sajtóbecslések szerint a csatár akár hét mérkőzést, köztük az AC Milan elleni derbit is kihagyhatja, de a pontos visszatérési időpont nem volt biztos.\n\n• **Október 17-én** az Inter 3–1-re nyert idegenben a Bologna ellen, miután Tommaso Pobega a 10. percben vezetést szerzett a hazaiaknak. Marcus Thuram a szünet előtt egyenlített, majd Carlos Augusto és Ange-Yoan Bonny talált be; mindkét gólszerző csereként érkezett. Chivu elvesztette a hangját, ezért a sajtótájékoztatón Aleksandar Kolarov másodedző helyettesítette. Az Inter 19 ponttal a tabella élére került.\n\n• **A Bologna elleni mérkőzés előtt** Benjamin Pavard is kiesett, így Chivu a 18 éves Leonardo Boviót is behívta az U23-as csapatból. John Stones ugyancsak nem állt rendelkezésre, Curtis Jones visszatérését pedig a következő fordulóra várták.\n\n• **A BL-szereplés pénzügyi tétje** is jelentős: az Adevărul szerint az Inter a 2025/26-os idényben valamivel kevesebb mint 74 millió eurót kapott az UEFA-tól, míg a döntőbe jutás előtti idényben közel 137 milliót. A nyolcaddöntőbe jutás – akár rájátszáson keresztül – becslések szerint 18–20 millió eurós bevételt jelenthet; a kiesés ezért akár egy fontos játékos eladását is kikényszerítheti.\n\n• **A Bajnokok Ligája folytatásában** az Interre még a Sahtar, a Feyenoord, a Stuttgart, a Borussia Dortmund, a Liverpool és a Slovan Bratislava elleni mérkőzés vár. A klub tulajdonosai kiemelt célnak tekintik a nyolcaddöntőbe jutást.",
+    "title_ro": "După eșecul cu Brugge, Chivu și-a asumat responsabilitatea, iar Inter a revenit la Bologna",
+    "lead_ro": "Inter a pierdut cu 4-3 în fața lui Club Brugge și a rămas fără punct după primele două etape din Liga Campionilor. Cristi Chivu și-a asumat responsabilitatea și a cerut îmbunătățiri tactice, mentale și defensive. Fără Lautaro Martínez, echipa a câștigat cu 3-1 la Bologna și a urcat pe primul loc în Serie A, cu 19 puncte.",
+    "content_ro": "• **Pe 13 octombrie**, Inter a pierdut acasă cu 4-3 în fața lui Club Brugge, în etapa a doua a fazei ligii din Liga Campionilor; echipa italiană a pierdut primele două meciuri.\n\n• **Nicolo Tresoldi** a marcat un hat-trick, iar golul victoriei a fost înscris de rezerva Romeo Vermant. Pentru Inter au marcat de două ori Lautaro Martínez și, în final, Ange-Yoan Bonny.\n\n• **Cristi Chivu** a spus că Inter a început bine și a avut două ocazii mari după pauză, dar și-a pierdut luciditatea și echilibrul tactic după al doilea gol al lui Brugge. Jucătorii atacau fără să se replieze la timp, iar frustrarea și nerăbdarea au afectat suplimentar apărarea.\n\n• **Chivu și-a asumat responsabilitatea**, spunând că schimbarea trebuie să înceapă cu el: trebuie să organizeze mai bine echipa, să transmită mai ferm cerințele și ar fi trebuit să le ofere jucătorilor mai multă liniște la pauză. Echipa trebuie să îmbunătățească duelurile, recuperarea mingii, distanțele dintre jucători și coordonarea presingului, fără să renunțe la intenția ofensivă.\n\n• **Cifrele defensive** arată că Inter a primit 14 goluri în primele opt meciuri din Serie A și Liga Campionilor, față de șapte în aceeași perioadă a sezonului trecut; echipa a marcat însă câte 22 de goluri în ambele intervale. Zece dintre golurile primite în acest sezon au fost încasate pe San Siro, iar Inter a încheiat doar două dintre cele opt meciuri fără gol primit.\n\n• **Lautaro Martínez** s-a accidentat la flexorii coapsei stângi în meciul cu Brugge. Chivu a vorbit despre revenirea atacantului după pauza internațională din noiembrie; estimările presei spuneau că ar putea rata până la șapte partide, inclusiv derby-ul cu AC Milan, însă data revenirii nu era sigură.\n\n• **Pe 17 octombrie**, Inter a câștigat în deplasare cu 3-1 în fața Bolognei, după ce Tommaso Pobega a deschis scorul în minutul 10. Marcus Thuram a egalat înainte de pauză, apoi au marcat Carlos Augusto și Ange-Yoan Bonny, ambii intrați de pe bancă. Chivu și-a pierdut vocea, iar la conferința de presă a fost înlocuit de secundul Aleksandar Kolarov. Inter a ajuns la 19 puncte și a urcat pe primul loc.\n\n• **Înaintea meciului cu Bologna**, Benjamin Pavard s-a accidentat, iar Chivu l-a convocat pe Leonardo Bovio, fundaș de 18 ani de la echipa U23. John Stones nu era disponibil, iar revenirea lui Curtis Jones era așteptată pentru etapa următoare.\n\n• **Miza financiară a parcursului european** este importantă: potrivit Adevărul, Inter a primit puțin sub 74 de milioane de euro de la UEFA în sezonul 2025/26, față de aproape 137 de milioane în sezonul în care a ajuns în finală. Calificarea în optimile de finală, inclusiv prin play-off, este estimată să aducă 18–20 de milioane de euro; ratarea obiectivului ar putea impune vânzarea unui jucător important.\n\n• **În continuarea Ligii Campionilor**, Inter mai are de jucat cu Șahtior, Feyenoord, Stuttgart, Borussia Dortmund, Liverpool și Slovan Bratislava. Proprietarii clubului consideră calificarea în optimile de finală un obiectiv prioritar."
   },
   {
     "group_id": "group_6666140710",
@@ -566,74 +775,6 @@
     "title_ro": "INNA a împlinit 40 de ani, dar pare că are 20! Cum se menține artista într-o formă de invidiat",
     "lead_ro": "INNA este născută pe 16 octombrie 1986, ceea ce înseamnă că vineri a împlinit fix 40 de ani. Artista a marcat această aniversare departe de casă, într-o vacanță în Tokyo, Japonia, împreună cu rapperul…",
     "content_ro": "INNA este născută pe 16 octombrie 1986, ceea ce înseamnă că vineri a împlinit fix 40 de ani. Artista a marcat această aniversare departe de casă, într-o vacanță în Tokyo, Japonia, împreună cu rapperul Deliric. În ultimii ani, INNA își menține aspectul tânăr și silueta aproape perfectă printr-o combinație riguroasă între o alimentație vegană, activitate […]"
-  },
-  {
-    "group_id": "group_8b5da53912",
-    "fingerprint": "091e199e6a65f5ddd7b7ae092017675c",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/73d36bd7-a853-49d2-ac78-7eef5e112681.jpg?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cristi Chivu, descumpănit după eșecul cu Brugge: „Acest meci nu reprezintă o echipă puternică și ambițioasă”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/cristi-chivu-reactie-esec-inter-club-brugge-liga-campionilor-987842.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivitrivit”",
-        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivitrivit-23824941"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivit”",
-        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-23824941"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Dezastrul lui Cristi Chivu: dublul golurilor primite față de sezonul trecut » „Inter l-a avut în mână, dar l-a ratat”",
-        "link": "https://www.gsp.ro/international/campionate/cifrele-dezastrului-dublul-golurilor-primite-inter-avut-in-mana-cristian-romero-ratat-transferul-988025.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Lovitură pentru Cristi Chivu: Lautaro Martínez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
-        "link": "https://www.gsp.ro/international/campionate/lautrao-martinez-accidentare-inter-cristi-chivu-988371.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Lovitură pentru Cristi Chivu: Lautaro Martinez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
-        "link": "https://www.gsp.ro/international/campionate/lautaro-martinez-accidentare-inter-cristi-chivu-988371.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Cristi Chivu nu va putea conta pe Lautaro Martinez în următoarele meciuri",
-        "link": "https://adevarul.ro/sport/cristi-chivu-nu-va-putea-conta-pe-lautaro-martinez-2564269.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "„Ar fi mai simplu să renunţăm”. Cristi Chivu și-a recunoscut greșeala pentru înfrângerea dramatică a lui Inter cu Bruges",
-        "link": "https://stirileprotv.ro/stiri/sport/ar-fi-mai-simplu-sa-renun-am-cristi-chivu-si-a-recunoscut-greseala-pentru-infrangerea-dramatica-a-lui-inter-cu-bruges.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Chivu a chemat de urgență un jucător de la echipa U23, după accidentarea lui Lautaro",
-        "link": "https://www.gsp.ro/international/campionate/inca-o-absenta-chivu-accidentare-pavard-chemat-leonardo-bovio-inter-u23-989036.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Chivu, victorie cu emoții în Serie A. Inter a reușit să întoarcă spectaculos rezultatul, în deplasare",
-        "link": "https://stirileprotv.ro/stiri/sport/chivu-victorie-cu-emotii-in-serie-a-inter-a-reusit-sa-intoarca-spectaculos-rezultatul-in-deplasare.html"
-      }
-    ],
-    "published_at": 1792261483,
-    "title_hu": "Az Inter 3–4-re kikapott a Brugge-től, Chivu vállalta a felelősséget, Lautaro hetekre kidőlt",
-    "lead_hu": "Az Inter október 13-án hazai pályán 4–3-ra kikapott a Club Brugge-től, így két forduló után pont nélkül állt a Bajnokok Ligájában. Cristi Chivu magára vállalta a felelősséget, és a csapat taktikai, védekezési, valamint mentális problémáiról beszélt. Lautaro Martínez sérülése után az Inter 3–1-re fordított Bolognában, és a Serie A tabellájának élére állt.",
-    "content_hu": "• **Október 13-án** az Inter hazai pályán 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája alapszakaszának második fordulójában; az olasz csapat az első két mérkőzését is elveszítette.\n\n• **Nicolo Tresoldi** mesterhármast szerzett, a győztes gólt pedig a csereként beálló Romeo Vermant jegyezte. Az Inter góljait Lautaro Martínez két találata és Ange-Yoan Bonny késői gólja adta.\n\n• **Cristi Chivu** szerint az Inter jól kezdett, de a 2–1-es hátrány után elveszítette az egyensúlyát, a higgadtságát és a taktikai fegyelmét. A játékosok támadás közben késve rendeződtek vissza, és a frusztráció, valamint a türelmetlenség is rontotta a védekezést.\n\n• **Chivu magára vállalta a felelősséget**, és október 16-án azt mondta, a változásnak vele kell kezdődnie: jobban kell megszerveznie és határozottabban kell közvetítenie az elvárásokat. Szerinte a csapatnak taktikai és mentális téren is fejlődnie kell, javítania kell a letámadás összehangoltságán, a játékosok közötti távolságokon és a kommunikáción, de nem szabad feladnia a támadó szándékot.\n\n• **A védekezés sérülékenységére** a GSP összevetése is rámutatott: az Inter az idény első nyolc mérkőzésén 14 gólt kapott a Serie A-ban és a BL-ben, míg az előző idény azonos szakaszában hetet. A beszámoló szerint ebből tíz gólt a San Siróban kapott a csapat.\n\n• **Lautaro Martínez** a Brugge elleni mérkőzésen a bal combhajlító izmainál sérült meg. Chivu a novemberi válogatott szünet utáni visszatérésről beszélt; a sajtóbecslések szerint a csatár akár hét mérkőzést, köztük az AC Milan elleni derbit is kihagyhatja, de a visszatérés időpontja nem volt biztos.\n\n• **Október 17-én** az Inter 3–1-re nyert idegenben a Bologna ellen, miután Tommaso Pobega a 10. percben vezetést szerzett a hazaiaknak. Marcus Thuram a szünet előtt egyenlített, majd Carlos Augusto és Ange-Yoan Bonny talált be; Chivu cseréit az olasz sajtó is méltatta. Az Inter 19 ponttal a tabella élére került.\n\n• **A Bologna elleni mérkőzés előtt** Benjamin Pavard is kiesett, így Chivu a 18 éves Leonardo Boviót is behívta az U23-as csapatból. John Stones ugyancsak nem állt rendelkezésre, Curtis Jones visszatérését pedig a következő fordulóra várták.\n\n• **A Bajnokok Ligája folytatásában** az Interre még a Sahtar, a Feyenoord, a Stuttgart, a Borussia Dortmund, a Liverpool és a Slovan Bratislava elleni mérkőzés vár. Az Adevărul a Tuttosportra hivatkozva arról írt, hogy a nyolcaddöntőbe jutást a klub tulajdonosai kiemelt célnak tekintik; a kiesés pénzügyi következményekkel és akár egy fontos játékos eladásának kényszerével járhat.",
-    "title_ro": "Inter a pierdut cu 3-4 în fața lui Brugge, Chivu și-a asumat responsabilitatea, iar Lautaro va lipsi săptămâni",
-    "lead_ro": "Pe 13 octombrie, Inter a pierdut acasă cu 4-3 în fața lui Club Brugge și a rămas fără punct după primele două etape din Liga Campionilor. Cristi Chivu și-a asumat responsabilitatea și a vorbit despre problemele tactice, defensive și mentale ale echipei. După accidentarea lui Lautaro Martínez, Inter a revenit și a câștigat cu 3-1 la Bologna, urcând pe primul loc în Serie A.",
-    "content_ro": "• **Pe 13 octombrie**, Inter a pierdut acasă cu 4-3 în fața lui Club Brugge, în etapa a doua a fazei ligii din Liga Campionilor; italienii au pierdut ambele prime meciuri.\n\n• **Nicolo Tresoldi** a reușit un hat-trick, iar golul victoriei a fost marcat de rezerva Romeo Vermant. Pentru Inter au înscris de două ori Lautaro Martínez și, în prelungiri, Ange-Yoan Bonny.\n\n• **Cristi Chivu** a spus că Inter a început bine, dar după ce scorul a devenit 2-1 și-a pierdut echilibrul, calmul și disciplina tactică. Jucătorii întârziau să se replieze după atacuri, iar frustrarea și nerăbdarea au afectat organizarea defensivă.\n\n• **Chivu și-a asumat responsabilitatea**, iar pe 16 octombrie a spus că schimbarea trebuie să înceapă cu el: trebuie să organizeze mai bine echipa și să transmită mai clar cerințele. În opinia sa, Inter trebuie să progreseze tactic și mental, să îmbunătățească pressingul, distanțele dintre jucători și comunicarea, fără să renunțe la intenția ofensivă.\n\n• **Vulnerabilitatea defensivei** este evidențiată și de comparația realizată de GSP: Inter a primit 14 goluri în primele opt meciuri ale sezonului, în Serie A și Liga Campionilor, față de șapte în aceeași perioadă a sezonului precedent. Potrivit articolului, zece dintre golurile încasate în acest sezon au fost pe San Siro.\n\n• **Lautaro Martínez** s-a accidentat la flexorii coapsei stângi în meciul cu Brugge. Chivu a vorbit despre revenirea atacantului după pauza internațională din noiembrie; presa a estimat că ar putea rata până la șapte partide, inclusiv derby-ul cu AC Milan, însă data revenirii nu era sigură.\n\n• **Pe 17 octombrie**, Inter a câștigat cu 3-1 în deplasare la Bologna, după ce Tommaso Pobega a deschis scorul în minutul 10. Marcus Thuram a egalat înainte de pauză, apoi au înscris Carlos Augusto și Ange-Yoan Bonny; schimbările lui Chivu au fost lăudate și de presa italiană. Inter a ajuns la 19 puncte și a urcat pe primul loc.\n\n• **Înaintea meciului cu Bologna**, Benjamin Pavard s-a accidentat, iar Chivu l-a convocat și pe tânărul de 18 ani Leonardo Bovio, de la echipa U23. John Stones nu era disponibil, iar Curtis Jones era așteptat să revină pentru etapa următoare.\n\n• **În continuarea Ligii Campionilor**, Inter mai are de jucat cu Șahtior, Feyenoord, Stuttgart, Borussia Dortmund, Liverpool și Slovan Bratislava. Adevărul, citând Tuttosport, a relatat că proprietarii clubului consideră calificarea în optimile de finală un obiectiv important; ratarea acesteia ar putea avea consecințe financiare și ar putea duce la vânzarea unui jucător important."
   },
   {
     "group_id": "group_798f628495",
@@ -5347,79 +5488,6 @@
     "title_ro": "Irina din Iași a dat 6 lei și a cumpărat 2 pungi „antirisipă” din LIDL. Ce era înăuntru, de fapt?",
     "lead_ro": "Pungile antirisipă de la Lidl au devenit din ce în ce mai vânate de către români. În funcție de magazin, clienții pot achiziționa un mix de legume și fructe la un preț fix de 2,5 lei/kilogram. În func…",
     "content_ro": "Pungile antirisipă de la Lidl au devenit din ce în ce mai vânate de către români. În funcție de magazin, clienții pot achiziționa un mix de legume și fructe la un preț fix de 2,5 lei/kilogram. În funcție de ce produse au fost retrase de la raft (deoarece nu mai îndeplinesc standardele estetice), mixul este […]"
-  },
-  {
-    "group_id": "group_5f943ec5de",
-    "fingerprint": "40735f016996e24365ec6d35e5b5f3d1",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA1JTJGMjk5OTY4NF8yOTk5/Njg0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTRlNjI4MmM4NzIzNDlhOTg4YzRjYjJlODY0OTNmYjky.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Trump a suspendat noile sancțiuni împotriva Rusiei pe care le-a promulgat recent, invocând interesul național",
-        "link": "https://www.digi24.ro/stiri/externe/trump-a-suspendat-noile-sanctiuni-impotriva-rusiei-pe-care-le-a-promulgat-recent-invocand-interesul-national-3996443"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Sancțiunile „din iad”, puse pe pauză. Trump suspendă taxele de 500% pentru Rusia cu două zile înainte să intre în vigoare",
-        "link": "https://www.mediafax.ro/externe/sanctiunile-din-iad-puse-pe-pauza-trump-suspenda-taxele-de-500-pentru-rusia-cu-doua-zile-inainte-sa-intre-in-vigoare-23827009"
-      },
-      {
-        "source": "G4Media",
-        "title": "Donald Trump face o nouă concesie pentru Putin: A suspendat noile sancțiuni împotriva oficialilor ruși, a băncilor și a flotei-fantomă de petroliere cu două zile înainte ca legea să intre în vigoare",
-        "link": "https://www.g4media.ro/donald-trump-face-o-noua-concesie-pentru-putin-a-suspendat-noile-sanctiuni-impotriva-oficialilor-rusi-a-bancilor-si-a-flotei-fantoma-de-petroliere-cu-doua-zile-inainte-ca-legea-sa-intre-in-vigoare.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Putin primește o nouă gură de oxigen din partea lui Trump. SUA amână sancțiunile asupra combustibililor din Rusia",
-        "link": "https://stirileprotv.ro/stiri/international/putin-primeste-o-noua-gura-de-oxigen-din-partea-lui-trump-sua-amana-sanctiunile-asupra-combustibililor-rusi.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "SUA: Donald Trump scutește Rusia de noi sancțiuni adoptate de Congres",
-        "link": "https://agerpres.ro/politic-extern/2026/10/17/sua-donald-trump-scuteste-rusia-de-noi-sanctiuni-adoptate-de-congres--1604010"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Nemzeti érdekre hivatkozva Trump felfüggesztette az Oroszországot célzó új szankciós csomagot",
-        "link": "https://transtelex.ro/kulfold/2026/10/17/trump-orosz-szankciocsomag-felfuggesztes-dizel-egyesult-allamok-oroszorszag-olaj"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Scutirea Rusiei de sancțiuni de către Donald Trump este un moment 'istoric' (consilier al lui Putin)",
-        "link": "https://agerpres.ro/politic-extern/2026/10/17/scutirea-rusiei-de-sanctiuni-de-catre-donald-trump-este-un-moment-istoric-consilier-al-lui-putin--1604026"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Ruptura între Kiev şi Washington se adânceşte: Preşedintele Trump suspendă noile sancţiuni împotriva Rusiei, deşi acestea au fost adoptate de Congresul american. ”Prin prezenta, renunţ la aplicarea sancţiunilor, restricţiilor şi taxelor prevăzute de Legea Graham”",
-        "link": "https://www.zf.ro/eveniment/ruptura-intre-kiev-washington-adanceste-presedintele-trump-suspenda-noile-sanctiuni-impotriva-rusiei-acestea-au-adoptate-congresul-american-prezenta-renunt-aplicarea-sanctiunilor-restrictiilor-23262053"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Trump a suspendat noile sancțiuni împotriva Rusiei, adoptate de Congres. Kremlinul jubilează",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/trump-a-suspendat-noile-sanctiuni-impotriva-2564666.html"
-      },
-      {
-        "source": "Economedia",
-        "title": "Președintele american Donald Trump suspendă noile sancțiuni împotriva Rusiei pe care le-a promulgat recent",
-        "link": "https://economedia.ro/presedintele-american-donald-trump-suspenda-noile-sanctiuni-impotriva-rusiei-pe-care-le-a-promulgat-recent.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Reacția Rusiei după ce Donald Trump a decis suspendarea Legii Graham și a sancțiunilor legate de vânzări rusești de combustibili",
-        "link": "https://www.digi24.ro/stiri/externe/reactia-rusiei-dupa-ce-donald-trump-a-decis-suspendarea-legii-graham-si-a-sanctiunilor-legate-de-vanzari-rusesti-de-combustibili-3996807"
-      }
-    ],
-    "published_at": 1792244654,
-    "title_hu": "Trump felfüggesztette az Oroszország elleni új szankciókat; Moszkva történelmi pillanatról beszél",
-    "lead_hu": "Donald Trump október 16-án, két nappal a hatálybalépés előtt felfüggesztette az általa aláírt, Oroszországot célzó új szankciókat és vámokat, az Egyesült Államok nemzeti érdekére hivatkozva. A döntés az orosz dízelüzlet, az ukrán energia-infrastruktúra elleni támadások és a romló amerikai–ukrán viszony közepette született; Kirill Dmitrijev, Putyin gazdasági tárgyalója történelminek nevezte.",
-    "content_hu": "• **Október 16-án** Trump elnöki rendelettel felfüggesztette a Lindsey O. Graham-törvényben előírt szankciókat, korlátozásokat és vámokat, két nappal azok október 18-i hatálybalépése előtt. A törvényt szeptember 18-án írta alá.\n\n• **A törvény célja** az volt, hogy csökkentse a Moszkva ukrajnai háborúját finanszírozó bevételeket. A Szenátus 86–11, a Képviselőház 262–159 arányban fogadta el; ez volt Trump visszatérése óta a Kongresszus első jelentős, Oroszország elleni fellépése.\n\n• **A tervezett vámok** 500 százalékos pótlólagos vámot írtak elő az orosz importárukra, valamint akár 100 százalékos vámot az orosz olaj és gáz legnagyobb vásárlóira, illetve az orosz szankciók kijátszását segítő országokra. Egyes rendelkezések azokra az országokra is vonatkoztak volna, amelyek a hatálybalépés utáni 30 napban orosz olajat vagy gázt vásárolnak; kivételt kaphattak a korlátozott mennyiséget importáló és behozatalukat érdemben csökkentő országok.\n\n• **A szankciós csomag** orosz tisztviselőket, bankokat, energetikai és védelmi vállalatokat, Putyint és más magas rangú vezetőket, valamint az orosz energiahordozókat szállító árnyékflottát célozta. A tervezett vámok Moszkva nagy energiaügyi partnereit, köztük Kínát és Indiát is érinthették volna.\n\n• **A felfüggesztést** a törvény 115. szakasza tette lehetővé, ha a kormányzat igazolja a Kongresszusnak, hogy a mentesség az Egyesült Államok nemzeti érdekét szolgálja. Az igazolást benyújtották, de a Fehér Ház nem adott részletes nyilvános indoklást; a korábban végrehajtói rendeletekkel bevezetett szankciók érvényben maradtak, a felfüggesztésnek pedig nincs bejelentett lejárata.\n\n• **A politikai és árpolitikai háttér** is felmerült: elemzők szerint a szankciók az időközi választások előtt tovább emelhették volna az olajárakat és a megélhetési költségeket. Egy október 1-jén közzétett AP–NORC-felmérés szerint az amerikaiak többsége helytelenítette Trump Irán-politikáját, és őt okolta az árak emelkedéséért; bírálók szerint az üzemanyagárakat főként az Irán elleni háború hajtotta fel.\n\n• **Az orosz dízelmegállapodás** szerint Oroszország azonnal több mint 300 ezer tonna dízelt szállít, novemberben további 500 ezer tonnát, ezt követően egymillió, majd rövid időn belül további hárommillió tonnát. Az amerikai pénzügyminisztérium a dízelre vonatkozó korlátozásokat 2027. április 7-ig enyhítette.\n\n• **A döntést amerikai politikusok bírálták:** tizenkét szenátor, köztük hat republikánus, a dízelmegállapodás felmondására és a törvény szerinti szankciók alkalmazására kérte Trumpot. Don Beyer azzal vádolta az elnököt, hogy engedett Putyinnak, Elizabeth Warren pedig a Kongresszus erőfeszítéseinek aláásását bírálta; Richard Blumenthal szerint a döntés Putyin érdekeit szolgálja.\n\n• **Trump az ukrán támadásokat is bírálta:** szégyennek nevezte az orosz finomítók elleni csapásokat, és az üzemanyagárak emelkedésével hozta összefüggésbe azokat. Ukrajna rövid időre eleget tett Washington kérésének, hogy állítsa le a támadásokat, majd újraindította azokat; Oroszország eközben folytatta az ukrán energetikai infrastruktúra bombázását. Egy beszámoló több mint száz civil haláláról számolt be az előző héten.\n\n• **Zelenszkij gyenge döntésnek nevezte** a dízelmegállapodást, és arra figyelmeztetett, hogy az energiabevételek segítik Moszkvát a háború finanszírozásában. Brüsszelben azt mondta, az egyezség nyomán ismét pénz áramlik majd Oroszországba.\n\n• **Az amerikai–ukrán viszony romlott:** Trump azzal vádolta Zelenszkijt, hogy nem tudott megállapodni Putyinnal, és felvetette, hogy Ukrajnának új vezetőre lehet szüksége. Trump az európai pénzből vásárolt amerikai fegyverek átadását és az amerikai hírszerzési információk megosztását is kétségessé tette, utóbbiból visszalépett; a Starlink ukrán katonai használatát rövid időre korlátozták, ami bevetések elhalasztásához vezetett.\n\n• **Európai bírálatok** is érkeztek: António Costa, az Európai Tanács elnöke szerint nem szabad enyhíteni az Oroszország elleni szankciókat, Petteri Orpo finn miniszterelnök bírálta Washington Moszkvához való közeledését, Andrej Babiš cseh miniszterelnök pedig árulásnak nevezte a Putyinnal kötött megállapodást.\n\n• **Kirill Dmitrijev, Putyin gazdasági tárgyalója** történelminek nevezte a törvény felfüggesztését. Azt állította, hogy a jogszabály súlyosan károsította volna az amerikai gazdaságot és a világpiacokat, sőt teljesen leállíthatta volna az orosz–amerikai gazdasági együttműködést; szerinte a szankciók helyét párbeszédnek és kölcsönösen előnyös együttműködésnek kellene átvennie.\n\n• **Lindsey Graham** a törvény névadója és egyik fő kezdeményezője volt; júliusban halt meg, miután korábban Ukrajnában járt. Húga, Darlene Graham, akit a megüresedett szenátusi mandátum hátralévő részére neveztek ki, büszkeségét fejezte ki a törvény elfogadása miatt, de elismerte, hogy alkalmazásáról az elnök dönt.\n\n• **A végrehajtás felügyelete** folytatódik: az amerikai kereskedelmi képviselő, valamint a külügy-, pénzügy- és energiaügyi tárca figyeli az orosz energia vásárlását és a szankciók megkerülését. Putyin pénteken katonai egyenruhában arról beszélt, hogy Oroszország el akarja foglalni Ukrajna fennmaradó részét.",
-    "title_ro": "Trump suspendă noile sancțiuni împotriva Rusiei; Moscova vorbește despre un moment istoric",
-    "lead_ro": "Donald Trump a suspendat pe 16 octombrie, cu două zile înainte de intrarea lor în vigoare, noile sancțiuni și taxe vamale împotriva Rusiei prevăzute de legea pe care chiar el a promulgat-o, invocând interesul național al SUA. Decizia a venit în contextul acordului privind motorina rusească, al atacurilor asupra infrastructurii energetice ucrainene și al deteriorării relației dintre Washington și Kiev; Kirill Dmitriev, negociator economic al lui Putin, a numit-o istorică.",
-    "content_ro": "• **Pe 16 octombrie**, Trump a suspendat prin decret prezidențial sancțiunile, restricțiile și taxele prevăzute de Legea Lindsey O. Graham, cu două zile înainte de intrarea lor în vigoare, pe 18 octombrie. Președintele semnase legea pe 18 septembrie.\n\n• **Scopul legii** era reducerea veniturilor care finanțează războiul Rusiei împotriva Ucrainei. Senatul a adoptat-o cu 86–11 voturi, iar Camera Reprezentanților cu 262–159; a fost prima acțiune majoră a Congresului împotriva Moscovei de la revenirea lui Trump la putere.\n\n• **Taxele vamale prevăzute** includeau o suprataxă de 500% pentru bunurile importate din Rusia și taxe de până la 100% pentru cei mai mari cumpărători de petrol și gaze rusești, precum și pentru țările care ajută Moscova să ocolească sancțiunile. Unele prevederi vizau și țările care cumpărau petrol sau gaze rusești în primele 30 de zile de la intrarea legii în vigoare; puteau fi exceptate țările cu importuri reduse care luau măsuri semnificative pentru a le diminua.\n\n• **Pachetul de sancțiuni** viza oficiali ruși, bănci, companii din energie și apărare, pe Putin și alți lideri de rang înalt, precum și flota-fantomă care transportă combustibili rusești. Taxele planificate puteau afecta și marii parteneri energetici ai Moscovei, inclusiv China și India.\n\n• **Suspendarea** era permisă de secțiunea 115 a legii dacă administrația certifica în fața Congresului că derogarea este în interesul național al SUA. Certificarea a fost transmisă, dar Casa Albă nu a oferit o explicație publică detaliată; sancțiunile impuse anterior prin ordine executive au rămas în vigoare, iar suspendarea nu are un termen de expirare anunțat.\n\n• **Contextul politic și al prețurilor** a fost invocat de analiști: noile măsuri ar fi putut crește prețurile petrolului și costul vieții înaintea alegerilor de la jumătatea mandatului. Un sondaj AP–NORC publicat pe 1 octombrie arăta că majoritatea americanilor dezaproba politica lui Trump privind Iranul și îl învinovățea pentru scumpiri; criticii spun că războiul împotriva Iranului este principalul factor din spatele prețurilor ridicate la combustibil.\n\n• **Acordul privind motorina rusească** prevede livrarea imediată a peste 300.000 de tone, a încă 500.000 de tone în noiembrie, apoi a unui milion de tone și, la scurt timp, a încă trei milioane. Departamentul Trezoreriei SUA a relaxat restricțiile asupra motorinei rusești până la 7 aprilie 2027.\n\n• **Politicieni americani au criticat decizia:** 12 senatori, dintre care șase republicani, i-au cerut lui Trump să renunțe la acordul privind motorina și să aplice sancțiunile prevăzute de lege. Don Beyer l-a acuzat că a cedat în fața lui Putin, Elizabeth Warren a criticat subminarea eforturilor Congresului, iar Richard Blumenthal a spus că decizia servește interesele lui Putin.\n\n• **Trump a criticat și atacurile ucrainene:** a numit o rușine loviturile asupra rafinăriilor rusești și le-a asociat cu scumpirea combustibililor. Ucraina a acceptat pentru scurt timp solicitarea Washingtonului de a opri atacurile, apoi le-a reluat; Rusia a continuat între timp să bombardeze infrastructura energetică ucraineană. Unul dintre relatări a menționat moartea a peste 100 de civili în săptămâna precedentă.\n\n• **Zelenski a numit slabă** decizia privind motorina și a avertizat că veniturile suplimentare din energie îi permit Moscovei să finanțeze războiul. La Bruxelles, el a spus că, în urma acordului, banii vor începe din nou să curgă către Rusia.\n\n• **Relația dintre SUA și Ucraina s-a deteriorat:** Trump l-a acuzat pe Zelenski că nu a reușit să ajungă la un acord cu Putin și a sugerat că Ucraina ar avea nevoie de un nou lider. Trump a pus sub semnul întrebării livrarea armelor americane cumpărate cu fonduri europene și schimbul de informații al serviciilor americane, deși ulterior a revenit asupra acestei din urmă amenințări; accesul armatei ucrainene la Starlink a fost restricționat pentru scurt timp, ceea ce a dus la amânarea unor operațiuni.\n\n• **Au venit și critici europene:** António Costa, președintele Consiliului European, a spus că sancțiunile împotriva Rusiei nu trebuie relaxate; premierul finlandez Petteri Orpo a criticat apropierea Washingtonului de Moscova, iar premierul ceh Andrej Babiš a numit trădare acordul cu Putin.\n\n• **Kirill Dmitriev, negociatorul economic al lui Putin**, a numit suspendarea legii un moment istoric. El a susținut că legea ar fi provocat pagube grave economiei americane și piețelor mondiale și chiar ar fi putut opri complet cooperarea economică ruso-americană; în opinia sa, sancțiunile ar trebui înlocuite cu dialog și cooperare reciproc avantajoasă.\n\n• **Lindsey Graham** a fost inițiatorul principal și numele legii; a murit în iulie, după ce vizitase anterior Ucraina. Sora sa, Darlene Graham, numită pentru a-i încheia mandatul în Senat, s-a declarat mândră de adoptarea legii, dar a recunoscut că președintele decide dacă o aplică.\n\n• **Supravegherea aplicării sancțiunilor** continuă: reprezentantul SUA pentru Comerț și departamentele de Stat, Trezorerie și Energie vor monitoriza achizițiile de energie rusească și ocolirea sancțiunilor. Vineri, Putin a apărut în uniformă militară și a afirmat că Rusia intenționează să ocupe restul Ucrainei."
   },
   {
     "group_id": "group_3335b84abb",
@@ -10935,169 +11003,5 @@
     "title_ro": "Austeritate la Arsenal: 60 de angajați, afară! » Reacția lui Mikel Arteta, cel mai bine plătit antrenor din Europa",
     "lead_ro": "Și la Arsenal sunt probleme cu banii! La doar câteva zile după ce l-a premiat pe managerul Mikel Arteta cu o mărire substanțială de salariu, campioana Angliei anunță tăierea a 60 de locuri de muncă. D…",
     "content_ro": "Și la Arsenal sunt probleme cu banii! La doar câteva zile după ce l-a premiat pe managerul Mikel Arteta cu o mărire substanțială de salariu, campioana Angliei anunță tăierea a 60 de locuri de muncă. Decizia, care a stârnit controverse, a fost acum apărată public de spaniolul plătit cu 24 de milioane de euro net anual. Nu numai Manchester United și la alte cluburi din Premier League resimt nevoi financiare. ..."
-  },
-  {
-    "group_id": "group_9085e282c8",
-    "fingerprint": "a1844f117d586a6dc2cfab20e9c8e8d7",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA4JTJGMjgzOTA1OF8yODM5/MDU4X1VudGl0bGVkLWRlc2lnbi0xNC5w/bmcmaGFzaD00ZmViZTljN2ZlY2Q0N2NlNDdlNWM5NzYyYTEwYzk5Yg==.png",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Musk a lăsat Ucraina fără Starlink. „Misiuni importante au fost zădărnicite la cererea administrației Trump”",
-        "link": "https://www.digi24.ro/stiri/externe/musk-a-lasat-ucraina-fara-starlink-misiuni-importante-au-fost-zadarnicite-la-cererea-administratiei-trump-3991301"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cum a afectat Elon Musk misiunile armatei ucrainene, după armistițiul Trump-Putin. Gestul său a venit din senin",
-        "link": "https://stirileprotv.ro/stiri/international/cum-a-afectat-elon-musk-misiunile-armatei-ucrainene-dupa-armistitiul-trump-putin-gestul-sau-a-venit-din-senin.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Kemény üzenet volt, ahogy egyik napról a másikra visszavágták az ukrán hadsereg hozzáférését Musk műholdas rendszeréhez",
-        "link": "https://transtelex.ro/kulfold/2026/10/15/starlink-dron-muhold-starshield-ukrajna-korlatozott-hozzaferes-trump-musk-orosz-ukran-haboru"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Trump neagă că ar fi ordonat „încetinirea” Starlink în Ucraina: Nu am fost eu, şi nu cred că a fost Elon",
-        "link": "https://stirileprotv.ro/stiri/international/trump-neaga-ca-ar-fi-ordonat-incetinirea-starlink-in-ucraina-nu-am-fost-eu-si-nu-cred-ca-a-fost-elon.html"
-      }
-    ],
-    "published_at": 1792221143,
-    "title_hu": "Sebességkorlátozás zavarta meg az ukrán drónok Starlink-kapcsolatát",
-    "lead_hu": "Az ukrán tisztviselők szerint a SpaceX műholdas rendszerének sebességkorlátozása több katonai drónműveletet akadályozott, és nehezítette az orosz támadások elleni védekezést. Donald Trump tagadta, hogy ő rendelte volna el a korlátozást, miközben Elon Musk az amerikai kormány felelősségére utalt.",
-    "content_hu": "• **A hét közepén** a SpaceX Starlink, illetve katonai változata, a Starshield egyes ukrajnai termináljainál megszakadt a kapcsolat, ha az eszközök óránként 160 kilométernél gyorsabban haladtak. Az ukrán tisztviselők szerint a változtatás előzetes figyelmeztetés nélkül lépett életbe.\n\n• **Az ukrán katonai műveletek** közül több meghiúsult vagy akadályokba ütközött a korlátozás miatt. A nagy sebességű kapcsolatot használó drónok így kevésbé hatékonyan hajthattak végre támadásokat, illetve vehettek részt az orosz drónok és rakéták elleni védekezésben.\n\n• **A korlátozás időtartamáról** szóló beszámolók szerint a zavar legalább két napig tartott. Ukrán források csütörtökön a frontvonal egyes részein már a drónokra szerelt terminálok kapcsolatának helyreállásáról számoltak be, de nem derült ki, hogy mindenütt visszaállt-e a korábbi működés.\n\n• **Elon Musk** azt írta, hogy a Starshield az Egyesült Államok kormányának tulajdonában és ellenőrzése alatt áll, ezért a használat korlátozása az amerikai hatóságok döntése. A sajtóban megjelent beszámolók ezzel szemben Musk szerepét is felvetették a korlátozás kezdeményezésében.\n\n• **Donald Trump** pénteken tagadta, hogy ő rendelte volna el a hozzáférés korlátozását, és azt mondta, szerinte Musk sem felelős érte. Az ukrán tisztviselők ezzel szemben azt hangsúlyozták, hogy a korlátozás váratlanul érte a hadsereget, és több küldetés meghiúsulásához vezetett.",
-    "title_ro": "Limitarea vitezei a perturbat conexiunea Starlink a dronelor ucrainene",
-    "lead_ro": "Oficiali ucraineni au declarat că limitarea vitezei serviciului satelitar SpaceX a afectat mai multe misiuni militare cu drone și a îngreunat apărarea împotriva atacurilor rusești. Donald Trump a negat că ar fi ordonat restricția, în timp ce Elon Musk a indicat că responsabilitatea aparține guvernului american.",
-    "content_ro": "• **La mijlocul săptămânii**, conexiunea unor terminale Starlink și Starshield din Ucraina s-a întrerupt atunci când dispozitivele se deplasau cu peste 160 de kilometri pe oră. Oficialii ucraineni au afirmat că măsura a fost introdusă fără avertisment prealabil.\n\n• **Mai multe misiuni militare ucrainene** au fost împiedicate sau perturbate de restricție. Dronele care depindeau de o conexiune de mare viteză au fost astfel mai puțin eficiente atât în atacuri, cât și în apărarea împotriva dronelor și rachetelor rusești.\n\n• **Potrivit relatărilor despre durata restricției**, perturbarea a ținut cel puțin două zile. Surse ucrainene au anunțat joi că legătura terminalelor montate pe drone fusese restabilită în unele sectoare ale frontului, însă nu era clar dacă funcționarea normală revenise peste tot.\n\n• **Elon Musk** a scris că Starshield este deținut și controlat de guvernul Statelor Unite, astfel că autoritățile americane decid eventualele restricții de utilizare. Relatări din presă au sugerat, în schimb, că Musk ar fi avut un rol în inițierea măsurii.\n\n• **Donald Trump** a negat vineri că ar fi ordonat limitarea accesului și a spus că nu crede că Musk ar fi responsabil. Oficialii ucraineni au susținut, în schimb, că restricția a luat armata prin surprindere și a dus la eșecul mai multor misiuni."
-  },
-  {
-    "group_id": "group_1255396d2e",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjE4JTJGMjk2NTc4M18yOTY1/NzgzX1BlbnRhZ29udWxfLUZvdG8tUHJv/ZmltZWRpYS5qcGcmaGFzaD0yY2M5NmUx/NDc1YjU5ZDM1YWQ3ODk5YTdiN2NjYWE0Nw==.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Inspectorul General al Pentagonului, chemat de senatori să ancheteze întreruperea funcționării sistemelor Starshield pentru Ucraina",
-        "link": "https://www.digi24.ro/stiri/externe/inspectorul-general-al-pentagonului-chemat-de-senatori-sa-ancheteze-intreruperea-functionarii-sistemelor-starshield-pentru-ucraina-3996551"
-      }
-    ],
-    "published_at": 1792221056,
-    "title_hu": "Inspectorul General al Pentagonului, chemat de senatori să ancheteze întreruperea funcționării sistemelor Starshield pentru Ucraina",
-    "lead_hu": "În această săptămână, senatorii Thom Tillis (Republican) și Jeanne Shaheen (Democrat), copreședinții Grupului de Observatori ai Senatului pentru NATO (SNOG), au condus un grup bipartizan format din șa…",
-    "content_hu": "În această săptămână, senatorii Thom Tillis (Republican) și Jeanne Shaheen (Democrat), copreședinții Grupului de Observatori ai Senatului pentru NATO (SNOG), au condus un grup bipartizan format din șapte senatori care a adresat o scrisoare inspectorului general al Departamentului Apărării, Platte B. Moring III, solicitând o anchetă cu privire la întreruperea funcționării sistemelor Starshield întreținute de SUA pentru partenerii ucraineni, scrie The Hills.",
-    "title_ro": "Inspectorul General al Pentagonului, chemat de senatori să ancheteze întreruperea funcționării sistemelor Starshield pentru Ucraina",
-    "lead_ro": "În această săptămână, senatorii Thom Tillis (Republican) și Jeanne Shaheen (Democrat), copreședinții Grupului de Observatori ai Senatului pentru NATO (SNOG), au condus un grup bipartizan format din șa…",
-    "content_ro": "În această săptămână, senatorii Thom Tillis (Republican) și Jeanne Shaheen (Democrat), copreședinții Grupului de Observatori ai Senatului pentru NATO (SNOG), au condus un grup bipartizan format din șapte senatori care a adresat o scrisoare inspectorului general al Departamentului Apărării, Platte B. Moring III, solicitând o anchetă cu privire la întreruperea funcționării sistemelor Starshield întreținute de SUA pentru partenerii ucraineni, scrie The Hills."
-  },
-  {
-    "group_id": "group_2ee6d63588",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-10.08.14-1024x470.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Harta investițiilor în turism. Câte proiecte de hoteluri și pensiuni se fac în România și ce lanțuri internaționale se extind pe piața locală",
-        "link": "https://economedia.ro/harta-investitiilor-in-turism-cate-proiecte-de-hoteluri-si-pensiuni-se-fac-in-romania-si-ce-lanturi-internationale-se-extind-pe-piata-locala.html"
-      }
-    ],
-    "published_at": 1792220993,
-    "title_hu": "Harta investițiilor în turism. Câte proiecte de hoteluri și pensiuni se fac în România și ce lanțuri internaționale se extind pe piața locală",
-    "lead_hu": "Peste 300 de noi proiecte de hoteluri, pensiuni și vile turistice sunt în lucru la nivel național în acest an, în diverse faze de dezvoltare, arată datele unei companii care urmărește șantierele din R…",
-    "content_hu": "Peste 300 de noi proiecte de hoteluri, pensiuni și vile turistice sunt în lucru la nivel național în acest an, în diverse faze de dezvoltare, arată datele unei companii care urmărește șantierele din România, în timp ce analizele consultanților menționează branduri ale unor lanțuri internaționale care se pregătesc să intre pe piața din România. Chiar […]",
-    "title_ro": "Harta investițiilor în turism. Câte proiecte de hoteluri și pensiuni se fac în România și ce lanțuri internaționale se extind pe piața locală",
-    "lead_ro": "Peste 300 de noi proiecte de hoteluri, pensiuni și vile turistice sunt în lucru la nivel național în acest an, în diverse faze de dezvoltare, arată datele unei companii care urmărește șantierele din R…",
-    "content_ro": "Peste 300 de noi proiecte de hoteluri, pensiuni și vile turistice sunt în lucru la nivel național în acest an, în diverse faze de dezvoltare, arată datele unei companii care urmărește șantierele din România, în timp ce analizele consultanților menționează branduri ale unor lanțuri internaționale care se pregătesc să intre pe piața din România. Chiar […]"
-  },
-  {
-    "group_id": "group_7c8a64e244",
-    "category": "Sport",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fb_img_1791404215637-jpg-1024x682.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "VIDEO | Brian Cristian, deputat USR, despre ChatGPT în Parlament: Mulți parlamentari folosesc deja aproape integral AI",
-        "link": "https://www.mediafax.ro/stirile-zilei/video-brian-cristian-deputat-usr-despre-chatgpt-in-parlament-multi-parlamentari-folosesc-deja-aproape-integral-ai-23821549"
-      }
-    ],
-    "published_at": 1792220990,
-    "title_hu": "VIDEO | Brian Cristian, deputat USR, despre ChatGPT în Parlament: Mulți parlamentari folosesc deja aproape integral AI",
-    "lead_hu": "Brian Cristian, deputat USR de Maramureș și vicepreședinte al Comisiei pentru tineret și sport din Camera Deputaților, intră în Ping-Pong-ul Mediafax și răspunde unor întrebări despre politică, sport …",
-    "content_hu": "Brian Cristian, deputat USR de Maramureș și vicepreședinte al Comisiei pentru tineret și sport din Camera Deputaților, intră în Ping-Pong-ul Mediafax și răspunde unor întrebări despre politică, sport și orașul pe care își propune să îl reprezinte și la nivel local. Absolvent al Universității Babeș-Bolyai din Cluj-Napoca, parlamentarul vorbește despre parcursul său politic, despre implicarea tinerilor și despre modul în care vede schimbarea în administrație.",
-    "title_ro": "VIDEO | Brian Cristian, deputat USR, despre ChatGPT în Parlament: Mulți parlamentari folosesc deja aproape integral AI",
-    "lead_ro": "Brian Cristian, deputat USR de Maramureș și vicepreședinte al Comisiei pentru tineret și sport din Camera Deputaților, intră în Ping-Pong-ul Mediafax și răspunde unor întrebări despre politică, sport …",
-    "content_ro": "Brian Cristian, deputat USR de Maramureș și vicepreședinte al Comisiei pentru tineret și sport din Camera Deputaților, intră în Ping-Pong-ul Mediafax și răspunde unor întrebări despre politică, sport și orașul pe care își propune să îl reprezinte și la nivel local. Absolvent al Universității Babeș-Bolyai din Cluj-Napoca, parlamentarul vorbește despre parcursul său politic, despre implicarea tinerilor și despre modul în care vede schimbarea în administrație."
-  },
-  {
-    "group_id": "group_4450f2df57",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/17/070902/vlcsnap-2026-10-17-10h08m48s108.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Sute de oameni au format o panglică roz în Cluj-Napoca, în semn de solidaritate cu femeile care luptă cu cancerul de sân",
-        "link": "https://stirileprotv.ro/divers/sute-de-oameni-au-format-o-panglica-roz-in-cluj-napoca-in-semn-de-solidaritate-cu-femeile-care-lupta-cu-cancerul-de-san.html"
-      }
-    ],
-    "published_at": 1792220951,
-    "title_hu": "Sute de oameni au format o panglică roz în Cluj-Napoca, în semn de solidaritate cu femeile care luptă cu cancerul de sân",
-    "lead_hu": "Inițiativă unică la Cluj-Napoca, în luna de conștientizare a cancerului de sân. Sute de oameni s-au unit într-o mare panglică roz pentru a transmite un mesaj de solidaritate și speranță.",
-    "content_hu": "Inițiativă unică la Cluj-Napoca, în luna de conștientizare a cancerului de sân. Sute de oameni s-au unit într-o mare panglică roz pentru a transmite un mesaj de solidaritate și speranță.",
-    "title_ro": "Sute de oameni au format o panglică roz în Cluj-Napoca, în semn de solidaritate cu femeile care luptă cu cancerul de sân",
-    "lead_ro": "Inițiativă unică la Cluj-Napoca, în luna de conștientizare a cancerului de sân. Sute de oameni s-au unit într-o mare panglică roz pentru a transmite un mesaj de solidaritate și speranță.",
-    "content_ro": "Inițiativă unică la Cluj-Napoca, în luna de conștientizare a cancerului de sân. Sute de oameni s-au unit într-o mare panglică roz pentru a transmite un mesaj de solidaritate și speranță."
-  },
-  {
-    "group_id": "group_8ff6b706e1",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/1a445fa5-0b94-4e91-8989-c6672503a412.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Incredibil!” » Becali i-a uluit pe jucătorii de la FCSB: „Intră, dă gol, apoi nu mai joacă”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/vlad-chiriches-podcast-fcsb-alexandru-stoian-989044.html"
-      }
-    ],
-    "published_at": 1792220825,
-    "title_hu": "„Incredibil!” » Becali i-a uluit pe jucătorii de la FCSB: „Intră, dă gol, apoi nu mai joacă”",
-    "lead_hu": "Vlad Chiricheș crede că FCSB a mutat inspirat când l-a reangajat antrenor pe Laurențiu Reghecampf. A explicat de ce, la podcastul GSP „2 la 1”. Și a numit un fotbalist nedreptățit de roș-albaștri. Fos…",
-    "content_hu": "Vlad Chiricheș crede că FCSB a mutat inspirat când l-a reangajat antrenor pe Laurențiu Reghecampf. A explicat de ce, la podcastul GSP „2 la 1”. Și a numit un fotbalist nedreptățit de roș-albaștri. Fostul fundaș central al roș-albaștrilor (2012-2013, 2023-2026) simte că „echipa asta avea nevoie de un astfel de antrenor. Reghe e bun”. ...",
-    "title_ro": "„Incredibil!” » Becali i-a uluit pe jucătorii de la FCSB: „Intră, dă gol, apoi nu mai joacă”",
-    "lead_ro": "Vlad Chiricheș crede că FCSB a mutat inspirat când l-a reangajat antrenor pe Laurențiu Reghecampf. A explicat de ce, la podcastul GSP „2 la 1”. Și a numit un fotbalist nedreptățit de roș-albaștri. Fos…",
-    "content_ro": "Vlad Chiricheș crede că FCSB a mutat inspirat când l-a reangajat antrenor pe Laurențiu Reghecampf. A explicat de ce, la podcastul GSP „2 la 1”. Și a numit un fotbalist nedreptățit de roș-albaștri. Fostul fundaș central al roș-albaștrilor (2012-2013, 2023-2026) simte că „echipa asta avea nevoie de un astfel de antrenor. Reghe e bun”. ..."
-  },
-  {
-    "group_id": "group_5715ba6ac0",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8159487-mediafax_foto-mihai_pop_gmn-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Detalii despre cele două săptămâni petrecute de Călin Georgescu în arest. Cine i-ar fi adus zilnic mâncare",
-        "link": "https://www.mediafax.ro/justitie/detalii-despre-cele-doua-saptamani-petrecute-de-calin-georgescu-in-arest-cine-i-ar-fi-adus-zilnic-mancare-23827056"
-      }
-    ],
-    "published_at": 1792220680,
-    "title_hu": "Detalii despre cele două săptămâni petrecute de Călin Georgescu în arest. Cine i-ar fi adus zilnic mâncare",
-    "lead_hu": "Călin Georgescu ar fi refuzat, în cele două săptămâni petrecute în arest preventiv, hrana pusă la dispoziție la Arestul Central al Poliției Capitalei, mâncarea fiindu-i adusă din exterior de gărzile s…",
-    "content_hu": "Călin Georgescu ar fi refuzat, în cele două săptămâni petrecute în arest preventiv, hrana pusă la dispoziție la Arestul Central al Poliției Capitalei, mâncarea fiindu-i adusă din exterior de gărzile sale de corp.",
-    "title_ro": "Detalii despre cele două săptămâni petrecute de Călin Georgescu în arest. Cine i-ar fi adus zilnic mâncare",
-    "lead_ro": "Călin Georgescu ar fi refuzat, în cele două săptămâni petrecute în arest preventiv, hrana pusă la dispoziție la Arestul Central al Poliției Capitalei, mâncarea fiindu-i adusă din exterior de gărzile s…",
-    "content_ro": "Călin Georgescu ar fi refuzat, în cele două săptămâni petrecute în arest preventiv, hrana pusă la dispoziție la Arestul Central al Poliției Capitalei, mâncarea fiindu-i adusă din exterior de gărzile sale de corp."
   }
 ]
