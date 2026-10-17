@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_1a94210a2b",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Politehnica București: A treia ediție a POLISPORT; sâmbătă - în Capitală, pe 24 octombrie - la Pitești",
+        "link": "https://agerpres.ro/educatie-stiinta/2026/10/17/politehnica-bucuresti-a-treia-editie-a-polisport-sambata---in-capitala-pe-24-octombrie---la-pitesti--1603191"
+      }
+    ],
+    "published_at": 1792205277,
+    "title_hu": "Politehnica București: A treia ediție a POLISPORT; sâmbătă - în Capitală, pe 24 octombrie - la Pitești",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Politehnica București: A treia ediție a POLISPORT; sâmbătă - în Capitală, pe 24 octombrie - la Pitești",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_2a271ee49e",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Expoziție de artă sacră - la Muzeul Satului; lucrări pe piatră, sticlă, lemn dedicate Maicii Domnului",
+        "link": "https://agerpres.ro/cultura-media/2026/10/17/expozitie-de-arta-sacra---la-muzeul-satului-lucrari-pe-piatra-sticla-lemn-dedicate-maicii-domnului--1604002"
+      }
+    ],
+    "published_at": 1792205277,
+    "title_hu": "Expoziție de artă sacră - la Muzeul Satului; lucrări pe piatră, sticlă, lemn dedicate Maicii Domnului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Expoziție de artă sacră - la Muzeul Satului; lucrări pe piatră, sticlă, lemn dedicate Maicii Domnului",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
     "group_id": "group_92b8c44e17",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -40,6 +82,59 @@
     "title_ro": "Tururi ghidate gratuite pentru familii în Parcul Natural Văcărești",
     "lead_ro": "",
     "content_ro": ""
+  },
+  {
+    "group_id": "group_d04017b405",
+    "fingerprint": "b311a99887d43ab0e2667fb815a1060f",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23258309/1/7811888-ap-mediafax-foto-ap-michael-probst.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "România, pe primul loc în UE la scumpirea chiriilor: 43,5% într-un an. Cum se compară cu Croația și care sunt explicațiile",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/romania-pe-primul-loc-in-ue-la-scumpirea-chiriilor-435-intr-un-an-cum-se-compara-cu-croatia-si-care-sunt-explicatiile-3987643"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Domeniul economic în care România e la nivelul Germaniei și a depășit Marea Britanie și Cehia",
+        "link": "https://stirileprotv.ro/stiri/financiar/domeniul-economic-in-care-romania-e-la-nivelul-germaniei-si-a-depasit-marea-britanie-si-cehia.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "Bucureștiul a atras până în septembrie doar 29% din investițiile imobiliare comerciale din România, față de 50%, în anii anteriori. Orașele regionale câștigă teren",
+        "link": "https://economedia.ro/bucurestiul-a-atras-pana-in-septembrie-doar-29-din-investitiile-imobiliare-comerciale-din-romania-fata-de-50-in-anii-anteriori-orasele-regionale-castiga-teren.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "România, campioană europeană la scumpirea locuințelor. Cât din salariu ajunge la bancă pentru un apartament",
+        "link": "https://adevarul.ro/economie/romania-campioana-europeana-la-scumpirea-2563745.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "România, ţara cu cea mai mare rată anuală a inflaţiei din UE și în septembrie",
+        "link": "https://economedia.ro/romania-tara-cu-cea-mai-mare-rata-anuala-a-inflatiei-din-ue-si-in-septembrie.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Deficit în scădere, investiții în creștere: România încheie primele nouă luni cu un deficit de 3,82% din PIB și investiții de aproape 108 miliarde de lei",
+        "link": "https://hotnews.ro/deficit-in-scadere-investitii-in-crestere-romania-incheie-primele-noua-luni-cu-un-deficit-de-382-din-pib-si-investitii-de-aproape-108-miliarde-de-lei-2378312"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Banca Mondială: Economia României va scădea în 2026. Inflația și reducerea consumului pun presiune pe populație",
+        "link": "https://adevarul.ro/economie/banca-mondiala-economia-romaniei-va-scadea-in-2564560.html"
+      }
+    ],
+    "published_at": 1792204285,
+    "title_hu": "Közel 20 milliárd euróra nőtt Románia folyó fizetési mérlegének hiánya",
+    "lead_hu": "Románia folyó fizetési mérlegének hiánya 2026 első nyolc hónapjában 19,93 milliárd euróra emelkedett, miközben a külföldi közvetlen befektetések több mint 60 százalékkal visszaestek. A külső adósság 238,08 milliárd euróra nőtt, a rövid lejáratú tartozások devizatartalék-fedezete pedig 100 százalék alá csökkent. Az új adatok a gazdasági lassulás, az infláció, a költségvetési helyzet és a lakhatási költségek alakulását is megvilágítják.",
+    "content_hu": "• **2026 januárja és augusztusa között** a folyó fizetési mérleg hiánya 19,93 milliárd euró volt, szemben az egy évvel korábbi 18,98 milliárd euróval. Ez napi átlagban közel 82 millió eurós nettó pénzkiáramlásnak felel meg.\n\n• **A külföldi közvetlen befektetések** 2,12 milliárd euróra csökkentek az előző év azonos időszakának 5,66 milliárd eurójáról. A befektetések a hiány mintegy 11 százalékát fedezték, míg egy évvel korábban körülbelül 30 százalékát.\n\n• **Az árukereskedelmi mérleg hiánya** 818 millió euróval, 22,39 milliárd euróra nőtt. Románia az első nyolc hónapban 61,5 milliárd euró értékben exportált, és 83,9 milliárd euró értékben importált árut.\n\n• **A külkereskedelmi partnerek mérlege 2026 januárja és májusa között** jelentős eltéréseket mutatott: Németországból 10 milliárd euró értékben érkezett áru, míg a román export 8,1 milliárd eurót tett ki. A legnagyobb kétoldalú hiány Kínával szemben alakult ki: minden 100 eurónyi kínai importra mintegy 8 eurónyi román export jutott. A 11 legfontosabb partner közül csak Franciaország esetében volt többlet, 374 millió euró; összességében az export az import mintegy háromnegyedét fedezte.\n\n• **Az import GDP-hez viszonyított aránya 2025-ben** 40,7 százalék volt, ami 2010 óta a legalacsonyabb érték; 2022-ben ez az arány egyetlen alkalommal 50 százalék fölé emelkedett. A Ziarul Financiar Világbank-adatokra épülő összevetése szerint Romániában az egyik legalacsonyabb az import GDP-arányos súlya Európában. Az export GDP-arányos mutatója is hasonlóan alakult, de kevésbé meredeken csökkent.\n\n• **A szolgáltatások mérlege** 9,34 milliárd eurós többletet mutatott, 712 millió euróval többet, mint egy évvel korábban. Az informatikai és távközlési szolgáltatások 5,1 milliárd, a szállítás 4,6 milliárd euróval járult hozzá; a turizmus mérlege közel 3 milliárd eurós hiányt mutatott. A románok 6,7 milliárd eurót költöttek külföldön, míg a külföldi látogatók 3,7 milliárd eurót hagytak Romániában.\n\n• **A jövedelemmérlegek** közül az elsődleges jövedelmek hiánya 6,67 milliárd euróra nőtt, 295 millió euróval haladva meg az egy évvel korábbit. A másodlagos jövedelmek mérlege a tavalyi 322 millió eurós többletről 219 millió eurós hiányba fordult.\n\n• **Románia teljes külső adóssága** 2026. augusztus 31-én 238,08 milliárd eurót tett ki, 7,45 milliárd euróval meghaladva az év végi értéket. A hosszú lejáratú adósság 184,78 milliárd euró, a teljes összeg 77,6 százaléka volt; ebből 129,5 milliárd euró az állam tartozása.\n\n• **A rövid lejáratú külső adósság** 8,5 százalékkal, 53,29 milliárd euróra emelkedett, miközben a hosszú lejáratú adósság 1,8 százalékkal nőtt.\n\n• **A jegybank devizatartalékainak fedezete** a rövid lejáratú külső adósságra 93,5 százalékra csökkent az év végi 102,8 százalékról. A 100 százalékos szint nem kötelező küszöb, hanem a Greenspan–Guidotti-szabály szerinti viszonyítási pont: ez alatt a tartalékok önmagukban nem fedeznék az egy éven belül esedékes teljes külső adósságot. Az importfedezet 5,9 hónap volt, szemben a 2025. év végi 6 hónappal.\n\n• **Az exportbevételek adósságszolgálatra fordított része** a hosszú lejáratú külső adósság esetében 14,5 euró volt minden 100 eurónyi exportbevételből, a 2025-ös 17 euróval szemben.\n\n• **A költségvetési hiány 2026 első kilenc hónapjában** 78,52 milliárd lej, a GDP 3,82 százaléka volt, szemben az előző év azonos időszakának 5,35 százalékával. A bevételek 11,8 százalékkal nőttek, a kiadások GDP-arányos súlya 29,7-ről 29,2 százalékra csökkent; a beruházási kiadások 107,77 milliárd lejre emelkedtek.\n\n• **A Banca Mondială 2026-os előrejelzése** 0,5 százalékos gazdasági visszaeséssel számol, miután az első félévben a GDP 0,7 százalékkal, a lakossági fogyasztás pedig 2,5 százalékkal csökkent éves összevetésben. Eközben a beruházásokat mérő bruttó állóeszköz-felhalmozás 10,9 százalékkal nőtt, főként az uniós forrásokból finanszírozott infrastruktúra-fejlesztések miatt. A bank 2027-re 1,7 százalékos növekedést vár, és a folyó fizetési mérleg hiányát 2026-ban a GDP 7,6 százalékára becsüli.\n\n• **Az infláció 2026 szeptemberében** az Eurostat harmonizált mutatója szerint 6,5 százalék volt, ezzel Románia vezette az uniós rangsort; az EU átlaga 3,8 százalékot tett ki. A román statisztikai hivatal nemzeti fogyasztóiár-indexe alapján az éves infláció 6,6 százalékra emelkedett az augusztusi 6,17 százalékról.\n\n• **A lakbérek éves növekedése 2026 második negyedévében** Romániában 43,5 százalék volt 2025 azonos időszakához képest, ami a legmagasabb érték az EU-ban. Az inflációval korrigált emelkedés is meghaladta a 30 százalékot. A hatóságok az állami és önkormányzati lakások szabályozott bérleti díjainak emelését nevezték meg okként, egy kutató szerint azonban e lakások kis aránya miatt ez önmagában nem magyarázza a kiugró adatot.\n\n• **A lakásárak 2025-ben** átlagosan 14,4 százalékkal emelkedtek Romániában, ami a vizsgált európai országok közül a legnagyobb növekedés volt; az átlagár elérte az 1917 eurót négyzetméterenként. Egy bukaresti, 117 500 euróra becsült kétszobás lakás jelzáloghitelének havi törlesztése 2026 júliusában az országos nettó átlagbér 55 százalékának felelt meg.\n\n• **A lakásépítések 2016 és 2025 között** összesen 636 310 elkészült otthont jelentettek, vagyis 1000 lakosra 32,9 lakás jutott, közel a németországi 33,6-os arányhoz. Az éves átadások 2022-ben tetőztek 73 300 lakással; 2025-ben 59 000 készült el, 19,5 százalékkal kevesebb a csúcsnál.\n\n• **A kereskedelmi ingatlanbefektetések 2026 első kilenc hónapjában** 654 millió eurót értek el, meghaladva a teljes 2025-ös volument. Bukarest–Ilfov a befektetések 29 százalékát vonzotta, szemben az elmúlt évek jellemzően 50 százalék feletti részarányával; a nyugati régió 33 százalékot képviselt. A befektetett tőke 83 százaléka külföldről érkezett.\n\n• **A külső finanszírozás kockázata** akkor nőhet, ha a külföldi befektetők óvatosabbá válnak: ez megdrágíthatja a finanszírozást, és árfolyam- vagy kamatnyomást okozhat. A hiány önmagában nem feltétlenül jelent válságot, de finanszírozását befektetéseknek vagy hitelfelvételnek kell biztosítania.",
+    "title_ro": "Deficitul de cont curent al României a urcat la aproape 20 de miliarde de euro",
+    "lead_ro": "Deficitul de cont curent al României a ajuns la 19,93 miliarde de euro în primele opt luni din 2026, în timp ce investițiile străine directe au scăzut cu peste 60%. Datoria externă a urcat la 238,08 miliarde de euro, iar rezervele valutare acopereau 93,5% din datoria externă pe termen scurt. Noile date completează tabloul cu evoluția economiei, a inflației, a bugetului și a costurilor locuirii.",
+    "content_ro": "• **În perioada ianuarie–august 2026**, deficitul de cont curent a fost de 19,93 miliarde de euro, față de 18,98 miliarde în aceeași perioadă din 2025. Echivalează cu o ieșire netă de aproape 82 de milioane de euro pe zi.\n\n• **Investițiile străine directe** au scăzut la 2,12 miliarde de euro, de la 5,66 miliarde în primele opt luni din 2025. Acestea au acoperit aproximativ 11% din deficit, față de circa 30% cu un an înainte.\n\n• **Deficitul balanței bunurilor** a crescut cu 818 milioane de euro, la 22,39 miliarde. România a exportat bunuri de 61,5 miliarde de euro și a importat de 83,9 miliarde în primele opt luni.\n\n• **Balanța comercială pe principalii parteneri, în ianuarie–mai 2026**, a înregistrat dezechilibre importante: România a importat din Germania bunuri de 10 miliarde de euro și a exportat acolo de 8,1 miliarde. Cel mai mare deficit bilateral a fost în relația cu China: la fiecare 100 de euro de importuri chinezești au corespuns aproximativ 8 euro de exporturi românești. Franța a fost singurul dintre cei 11 parteneri principali cu care România a avut excedent, de 374 de milioane de euro; per ansamblu, exporturile au acoperit aproximativ trei sferturi din importuri.\n\n• **Ponderea importurilor în PIB în 2025** a fost de 40,7%, cel mai redus nivel din 2010; în 2022 a depășit 50% pentru prima și singura dată. Analiza Ziarul Financiar bazată pe datele Băncii Mondiale arată că România are una dintre cele mai mici ponderi ale importurilor în PIB din Europa. Indicatorul exporturilor a avut o evoluție asemănătoare, dar a scăzut mai puțin abrupt.\n\n• **Balanța serviciilor** a înregistrat un excedent de 9,34 miliarde de euro, cu 712 milioane peste nivelul din anul precedent. Serviciile IT și telecomunicațiile au contribuit cu 5,1 miliarde, iar transporturile cu 4,6 miliarde de euro; turismul a avut un deficit de aproape 3 miliarde. Românii au cheltuit 6,7 miliarde de euro în străinătate, iar vizitatorii străini au lăsat 3,7 miliarde în România.\n\n• **Balanțele veniturilor** au consemnat un deficit al veniturilor primare de 6,67 miliarde de euro, cu 295 de milioane peste nivelul de anul trecut. Balanța veniturilor secundare a trecut de la un excedent de 322 de milioane de euro la un deficit de 219 milioane.\n\n• **Datoria externă totală a României** a ajuns la 238,08 miliarde de euro la 31 august 2026, cu 7,45 miliarde peste nivelul de la sfârșitul anului precedent. Datoria pe termen lung a fost de 184,78 miliarde, reprezentând 77,6% din total; din aceasta, 129,5 miliarde de euro reprezintă datoria statului.\n\n• **Datoria externă pe termen scurt** a crescut cu 8,5%, până la 53,29 miliarde de euro, în timp ce datoria pe termen lung a avansat cu 1,8%.\n\n• **Acoperirea datoriei pe termen scurt cu rezerve valutare** a scăzut la 93,5%, de la 102,8% la sfârșitul anului 2025. Pragul de 100% nu este obligatoriu, ci un reper asociat regulii Greenspan–Guidotti: sub acest nivel, rezervele nu ar acoperi singure întreaga datorie externă scadentă într-un an. Rezervele acopereau 5,9 luni de importuri, față de 6 luni la sfârșitul lui 2025.\n\n• **Ponderea veniturilor din exporturi alocată serviciului datoriei externe pe termen lung** a fost de 14,5 euro la fiecare 100 de euro câștigați din exporturi, față de 17 euro în 2025.\n\n• **Deficitul bugetar în primele nouă luni din 2026** a fost de 78,52 miliarde de lei, echivalentul a 3,82% din PIB, față de 5,35% în aceeași perioadă a anului trecut. Veniturile au crescut cu 11,8%, cheltuielile au scăzut ca pondere în PIB de la 29,7% la 29,2%, iar cheltuielile pentru investiții au ajuns la 107,77 miliarde de lei.\n\n• **Prognoza Băncii Mondiale pentru 2026** indică o contracție economică de 0,5%, după ce PIB-ul a scăzut cu 0,7% în primul semestru, iar consumul populației cu 2,5%, în termeni anuali. În schimb, formarea brută de capital fix, indicator al investițiilor, a crescut cu 10,9%, susținută în principal de infrastructura finanțată din fonduri europene. Pentru 2027, instituția estimează o creștere de 1,7% și un deficit de cont curent de 7,6% din PIB în 2026.\n\n• **Inflația în septembrie 2026**, calculată prin indicele armonizat Eurostat, a fost de 6,5%, cea mai ridicată din UE, unde media a fost de 3,8%. Indicele național al prețurilor de consum, publicat de INS, a indicat o inflație anuală de 6,6%, față de 6,17% în august.\n\n• **Chiriile în România în trimestrul al doilea din 2026** au crescut cu 43,5% față de aceeași perioadă din 2025, cea mai mare majorare din UE. După ajustarea cu inflația, creșterea a depășit 30%. Autoritățile au indicat majorarea chiriilor pentru locuințele publice, dar o cercetătoare a contestat explicația, apreciind că ponderea redusă a acestor locuințe nu justifică singură saltul.\n\n• **Prețurile locuințelor în 2025** au crescut în România cu 14,4%, cea mai mare majorare dintre țările europene analizate, iar prețul mediu a ajuns la 1.917 euro pe metru pătrat. În iulie 2026, rata unui credit pentru un apartament cu două camere din București, evaluat la 117.500 de euro, echivala cu 55% din salariul mediu net la nivel național.\n\n• **Locuințele finalizate între 2016 și 2025** au însumat 636.310, adică 32,9 de locuințe la 1.000 de locuitori, un nivel apropiat de cel din Germania, de 33,6. Livrările anuale au atins un vârf de 73.300 de unități în 2022; în 2025 au fost finalizate 59.000, cu 19,5% mai puține decât la vârf.\n\n• **Investițiile în imobiliare comerciale în primele nouă luni din 2026** au ajuns la 654 de milioane de euro, depășind volumul înregistrat în întregul an 2025. București–Ilfov a atras 29% din investiții, față de o pondere obișnuită de peste 50% în anii anteriori; vestul țării a atras 33%. Capitalul străin a reprezentat 83% din volumul investit.\n\n• **Riscurile finanțării externe** pot crește dacă investitorii străini devin mai prudenți: finanțarea se poate scumpi, iar cursul valutar și dobânzile pot fi puse sub presiune. Deficitul nu înseamnă automat o criză, dar trebuie finanțat prin investiții sau împrumuturi."
   },
   {
     "group_id": "group_65983a6868",
@@ -5032,34 +5127,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_d04017b405",
-    "fingerprint": "82a6f22233d58d463970f8d7a3181d18",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23258309/1/7811888-ap-mediafax-foto-ap-michael-probst.jpg?width=700",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "România are una dintre cele mai mici ponderi a importurilor în PIB din Europa, mai bine stau doar marile puteri. Iar procentul tot scade. E o veste bună sau un semn că scad consumul şi investiţiile?",
-        "link": "https://www.zf.ro/companii/romania-are-una-dintre-cele-mai-mici-ponderi-a-importurilor-in-pib-din-europa-mai-bine-stau-doar-marile-puteri-iar-procentul-tot-scade-e-o-veste-buna-sau-un-semn-ca-scad-consumul-si-investitiile-23258309"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "România, pe minus cu 82 de milioane de euro pe zi. La fiecare 100 de euro din exporturi, 14,5 merg la plata datoriei externe pe termen lung",
-        "link": "https://hotnews.ro/romania-pe-minus-cu-82-de-milioane-de-euro-pe-zi-la-fiecare-100-de-euro-din-exporturi-145-merg-la-plata-datoriei-externe-pe-termen-lung-2376909"
-      }
-    ],
-    "published_at": 1792169296,
-    "title_hu": "Közel 20 milliárd euróra nőtt Románia folyó fizetési mérlegének hiánya",
-    "lead_hu": "Románia folyó fizetési mérlegének hiánya 2026 első nyolc hónapjában 19,93 milliárd euróra emelkedett, miközben a külföldi közvetlen befektetések összege több mint 60 százalékkal visszaesett. A jegybank adatai szerint az ország külső adóssága augusztus végére 238,08 milliárd euróra nőtt, a rövid lejáratú tartozások devizatartalék-fedezete pedig 100 százalék alá csökkent. A friss adatok a szolgáltatások többletének részletei és a rövid lejáratú adósság fedezetének értelmezése mellett az import GDP-arányának európai összevetését is megvilágítják.",
-    "content_hu": "• **2026 januárja és augusztusa között** a folyó fizetési mérleg hiánya 19,93 milliárd euró volt, szemben az egy évvel korábbi 18,98 milliárd euróval. Ez napi átlagban közel 82 millió eurós nettó pénzkiáramlásnak felel meg.\n\n• **A külföldi közvetlen befektetések** 2,12 milliárd euróra csökkentek az előző év azonos időszakának 5,66 milliárd eurójáról. A befektetések a hiány mintegy 11 százalékát fedezték, míg egy évvel korábban körülbelül 30 százalékát.\n\n• **Az árukereskedelmi mérleg hiánya** 818 millió euróval, 22,39 milliárd euróra nőtt. Románia az első nyolc hónapban 61,5 milliárd euró értékben exportált, és 83,9 milliárd euró értékben importált árut.\n\n• **A külkereskedelmi partnerek mérlege 2026 januárja és májusa között** jelentős eltéréseket mutatott: Németországból 10 milliárd euró értékben érkezett áru, míg a román export 8,1 milliárd eurót tett ki. A legnagyobb kétoldalú hiány Kínával szemben alakult ki: minden 100 eurónyi kínai importtal szemben mintegy 8 eurónyi román export állt. A 11 legfontosabb partner közül csak Franciaország esetében volt többlet, 374 millió euró; összességében az export az import mintegy háromnegyedét fedezte.\n\n• **Az import GDP-hez viszonyított aránya 2025-ben** 40,7 százalék volt, ami 2010 óta a legalacsonyabb érték; 2022-ben ez az arány egyetlen alkalommal 50 százalék fölé emelkedett. A Ziarul Financiar Világbank-adatokra épülő összevetése szerint Romániában az egyik legalacsonyabb az import GDP-arányos súlya Európában: csak több nagy gazdaság és Norvégia mutatója alacsonyabb. Az export GDP-arányos mutatója is hasonlóan alakult, de kevésbé meredeken csökkent.\n\n• **A szolgáltatások mérlege** 9,34 milliárd eurós többletet mutatott, 712 millió euróval többet, mint egy évvel korábban. A többlethez az informatikai és távközlési szolgáltatások 5,1 milliárd, a szállítás 4,6 milliárd euróval járult hozzá; a turizmus mérlege közel 3 milliárd eurós hiányt mutatott. A HotNews részletezése szerint a románok 6,7 milliárd eurót költöttek külföldön, míg a külföldi látogatók 3,7 milliárd eurót hagytak Romániában.\n\n• **A jövedelemmérlegek** közül az elsődleges jövedelmek hiánya 6,67 milliárd euróra nőtt, 295 millió euróval haladva meg az egy évvel korábbit. A másodlagos jövedelmek mérlege a tavalyi 322 millió eurós többletről 219 millió eurós hiányba fordult.\n\n• **Románia teljes külső adóssága** 2026. augusztus 31-én 238,08 milliárd eurót tett ki, 7,45 milliárd euróval meghaladva az év végi értéket. A hosszú lejáratú adósság 184,78 milliárd euró, a teljes összeg 77,6 százaléka volt; ebből 129,5 milliárd euró az állam tartozása.\n\n• **A rövid lejáratú külső adósság** 8,5 százalékkal, 53,29 milliárd euróra emelkedett, miközben a hosszú lejáratú adósság 1,8 százalékkal nőtt.\n\n• **A jegybank devizatartalékainak fedezete** a rövid lejáratú külső adósságra 93,5 százalékra csökkent az év végi 102,8 százalékról. A 100 százalékos szint nem kötelező küszöb, de a Greenspan–Guidotti-szabály szerinti biztonsági viszonyítási pont: ez alatt a tartalékok önmagukban már nem fedeznék az egy éven belül esedékes teljes külső adósságot. Az importfedezet 5,9 hónap volt, szemben a 2025. év végi 6 hónappal.\n\n• **Az exportbevételek adósságszolgálatra fordított része** a hosszú lejáratú külső adósság esetében 14,5 euró volt minden 100 eurónyi exportbevételből, a 2025-ös 17 euróval szemben.\n\n• **A külső finanszírozás kockázata** a források elemzése szerint akkor nőhet, ha a külföldi befektetők óvatosabbá válnak: ez megdrágíthatja a finanszírozást, és árfolyam- vagy kamatnyomást okozhat. A hiány önmagában nem feltétlenül jelent válságot, de finanszírozását befektetéseknek vagy hitelfelvételnek kell biztosítania.",
-    "title_ro": "Deficitul de cont curent al României a ajuns aproape de 20 de miliarde de euro",
-    "lead_ro": "Deficitul de cont curent al României a crescut la 19,93 miliarde de euro în primele opt luni din 2026, în timp ce investițiile străine directe au scăzut cu peste 60%. Potrivit datelor BNR, datoria externă a ajuns la 238,08 miliarde de euro la sfârșitul lunii august, iar rezervele valutare acopereau sub 100% din datoria externă pe termen scurt. Datele recente detaliază contribuția serviciilor și semnificația acestui nivel de acoperire, precum și poziția României în comparația europeană privind ponderea importurilor în PIB.",
-    "content_ro": "• **În perioada ianuarie–august 2026**, deficitul de cont curent a fost de 19,93 miliarde de euro, față de 18,98 miliarde de euro în aceeași perioadă a anului precedent. Aceasta înseamnă o ieșire netă medie de aproape 82 de milioane de euro pe zi.\n\n• **Investițiile străine directe** au scăzut la 2,12 miliarde de euro, de la 5,66 miliarde de euro în primele opt luni din anul precedent. Acestea au acoperit aproximativ 11% din deficit, față de circa 30% cu un an înainte.\n\n• **Deficitul balanței bunurilor** a crescut cu 818 milioane de euro, până la 22,39 miliarde de euro. În primele opt luni, România a exportat bunuri în valoare de 61,5 miliarde de euro și a importat de 83,9 miliarde de euro.\n\n• **Balanța comercială cu principalii parteneri, în perioada ianuarie–mai 2026**, a prezentat diferențe importante: România a importat bunuri de 10 miliarde de euro din Germania și a exportat acolo de 8,1 miliarde de euro. Cel mai mare deficit bilateral a fost înregistrat în relația cu China: la fiecare 100 de euro de importuri chinezești au corespuns aproximativ 8 euro de exporturi românești. Dintre cei 11 parteneri principali, doar în relația cu Franța România a avut un excedent, de 374 de milioane de euro; per ansamblu, exporturile au acoperit aproximativ trei sferturi din importuri.\n\n• **Ponderea importurilor în PIB în 2025** a fost de 40,7%, cel mai scăzut nivel din 2010; în 2022, indicatorul a depășit 50% pentru prima și singura dată. Comparația Ziarul Financiar bazată pe datele Băncii Mondiale arată că România are una dintre cele mai mici ponderi ale importurilor în PIB din Europa, fiind depășită doar de câteva economii mari și de Norvegia. Ponderea exporturilor în PIB a avut o evoluție similară, dar declinul a fost mai puțin abrupt.\n\n• **Balanța serviciilor** a înregistrat un excedent de 9,34 miliarde de euro, cu 712 milioane de euro mai mult decât cu un an înainte. Serviciile IT și de telecomunicații au contribuit cu 5,1 miliarde de euro, iar transporturile cu 4,6 miliarde de euro; turismul a avut un deficit de aproape 3 miliarde de euro. Potrivit detaliilor prezentate de HotNews, românii au cheltuit 6,7 miliarde de euro în străinătate, în timp ce vizitatorii străini au cheltuit 3,7 miliarde de euro în România.\n\n• **Balanțele veniturilor** au consemnat un deficit al veniturilor primare de 6,67 miliarde de euro, cu 295 de milioane de euro peste nivelul din anul precedent. Balanța veniturilor secundare a trecut de la un excedent de 322 de milioane de euro anul trecut la un deficit de 219 milioane de euro.\n\n• **Datoria externă totală a României** era de 238,08 miliarde de euro la 31 august 2026, cu 7,45 miliarde de euro peste nivelul de la sfârșitul anului precedent. Datoria pe termen lung însuma 184,78 miliarde de euro, reprezentând 77,6% din total; din aceasta, 129,5 miliarde de euro reveneau statului.\n\n• **Datoria externă pe termen scurt** a crescut cu 8,5%, până la 53,29 miliarde de euro, în timp ce datoria pe termen lung a avansat cu 1,8%.\n\n• **Acoperirea datoriei externe pe termen scurt cu rezervele valutare ale BNR** a scăzut la 93,5%, de la 102,8% la sfârșitul anului. Pragul de 100% nu este o limită obligatorie, dar constituie un reper de siguranță potrivit regulii Greenspan–Guidotti: sub acest nivel, rezervele nu ar mai acoperi singure întreaga datorie externă scadentă într-un an. Rezervele acopereau 5,9 luni de importuri, față de 6 luni la sfârșitul lui 2025.\n\n• **Partea din veniturile din exporturi destinată serviciului datoriei** externe pe termen lung a fost de 14,5 euro la fiecare 100 de euro încasați din exporturi, față de 17 euro în 2025.\n\n• **Riscurile finanțării externe** pot crește dacă investitorii străini devin mai prudenți, ceea ce poate scumpi finanțarea și poate pune presiune asupra cursului de schimb sau a dobânzilor. Deficitul nu înseamnă în mod automat o criză, dar trebuie finanțat prin investiții sau împrumuturi."
-  },
-  {
     "group_id": "group_de8217ac08",
     "category": "Bulvár",
     "image": "https://stirileprotv.ro/img/2026/10/16/164545/sofran.jpg?fm=jpg&q=80&fit=crop&crop=896%2C465%2C0%2C0&w=1280",
@@ -7840,302 +7907,5 @@
     "title_ro": "FOTO. Accident pe DN19, în Botiz. Un șofer de 72 de ani a ajuns la spital după ce a lovit o mașină din fața sa",
     "lead_ro": "Un accident rutier soldat cu rănirea unei persoane s-a produs astăzi, vineri, 16 octombrie 2026, pe Drumul Național 19, în localitatea Botiz, județul Satu Mare. Potrivit informațiilor PresaSM, două au…",
     "content_ro": "Un accident rutier soldat cu rănirea unei persoane s-a produs astăzi, vineri, 16 octombrie 2026, pe Drumul Național 19, în localitatea Botiz, județul Satu Mare. Potrivit informațiilor PresaSM, două autoturisme au fost implicate într-o coliziune, iar unul dintr…"
-  },
-  {
-    "group_id": "group_c25ea71454",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2025/08/20001-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Consultanți: Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă",
-        "link": "https://economedia.ro/consultanti-programul-fiscal-al-guvernului-luca-niculescu-are-directia-corecta-dar-cifrele-pe-2027-nu-se-leaga.html"
-      }
-    ],
-    "published_at": 1792161966,
-    "title_hu": "Consultanți: Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă",
-    "lead_hu": "Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă, arată compania de consultanță fiscală CC Tax Advisory. Programul de guvernare depus în Parlament pr…",
-    "content_hu": "Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă, arată compania de consultanță fiscală CC Tax Advisory. Programul de guvernare depus în Parlament promite ceva ce mediul de afaceri nu a mai auzit de mult: predictibilitate. Ni se promite că nu mai vin taxe surpriză, cota unică rămâne, […]",
-    "title_ro": "Consultanți: Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă",
-    "lead_ro": "Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă, arată compania de consultanță fiscală CC Tax Advisory. Programul de guvernare depus în Parlament pr…",
-    "content_ro": "Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă, arată compania de consultanță fiscală CC Tax Advisory. Programul de guvernare depus în Parlament promite ceva ce mediul de afaceri nu a mai auzit de mult: predictibilitate. Ni se promite că nu mai vin taxe surpriză, cota unică rămâne, […]"
-  },
-  {
-    "group_id": "group_759584a322",
-    "fingerprint": "5aff1b7b10cc2670c03cbba37ae368de",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/15/175510/whatsapp-image-2026-10-15-at-205400.jpeg?fm=jpg&q=80&fit=crop&crop=924%2C883%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Arderi ilegale de deşeuri la Sinteşti. 840 de kilograme de deşeuri de cupru şi aluminiu, confiscate. Au fost date amenzi de peste 320.000 lei",
-        "link": "https://stirileprotv.ro/stiri/actualitate/arderi-ilegale-de-deseuri-la-sintesti-840-de-kilograme-de-deseuri-de-cupru-si-aluminiu-confiscate-au-fost-date-amenzi-de-peste-320-000-lei.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Arderi ilegale de deşeuri la Sinteşti: 840 de kilograme de deşeuri de cupru şi aluminiu confiscate, amenzi de peste 320.000 lei",
-        "link": "https://www.digi24.ro/stiri/actualitate/arderi-ilegale-de-deseuri-la-sintesti-840-de-kilograme-de-deseuri-de-cupru-si-aluminiu-confiscate-amenzi-de-peste-320-000-lei-3994535"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Arderi ilegale de deșeuri în Sintești, descoperite de Garda de Mediu: 840 kg de deșeuri confiscate, amenzi de peste 320.000 lei",
-        "link": "https://www.mediafax.ro/stirile-zilei/arderi-ilegale-de-deseuri-in-sintesti-descoperite-de-garda-de-mediu-840-kg-de-deseuri-confiscate-amenzi-de-peste-320-000-lei-23826241"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Aproape o tonă de deșeuri metalice, confiscate după controalele din Sintești. 300.000 de lei, amenzi pentru arderile ilegale",
-        "link": "https://stirileprotv.ro/stiri/actualitate/aproape-o-tona-de-deseuri-metalice-confiscate-dupa-controalele-din-sintesti-300-000-de-lei-amenzi-pentru-arderile-ilegale.html"
-      }
-    ],
-    "published_at": 1792161885,
-    "title_hu": "840 kilogramm fémet foglaltak le az illegális hulladékégetés elleni sintești-i razzián",
-    "lead_hu": "A hatóságok 27 rendőrt, csendőrt és környezetvédelmi biztost mozgósítottak a Ilfov megyei Sintești térségében tartott ellenőrzéseken. Összesen 840 kilogramm réz- és alumíniumhulladékot foglaltak le, 43 bírságot szabtak ki, összesen 324 ezer lej értékben.",
-    "content_hu": "• **A sintești-i razzián** a Környezetvédelmi Őrség Ilfov megyei kirendeltsége, az Ilfov megyei rendőrség és a csendőrség közösen ellenőrizte a hulladékkezelési szabályok betartását, különösen az illegális égetésekről ismert területeken és a hulladékgyűjtéssel foglalkozó vállalkozásoknál.\n\n• **A hatóságok 840 kilogramm** nemvasfém-hulladékot, köztük rezet és alumíniumot foglaltak le; az elkobzott anyag becsült értéke mintegy 20 ezer lej. Az ellenőrzés során 110 kisteherautót vizsgáltak meg.\n\n• **A razzia eredményeként 43 bírságot** szabtak ki, összesen 324 ezer lej értékben. Az akcióban 27 rendőr, csendőr és környezetvédelmi biztos vett részt.\n\n• **A hatóságok folytatják az ellenőrzéseket** a környezetet és a közegészséget veszélyeztető illegális hulladékégetés visszaszorítására. A Környezetvédelmi Őrség szerint az ilyen esetek miatt egyre több jelzést küldenek a közegészségügyi igazgatóságnak.\n\n• **Sintești térségében régóta problémát jelentenek az illegális égetések:** a fémek visszanyerésére elégetett anyagok füstje Bukarestet is elérheti. A környezetvédelmi miniszter szeptember végén riasztási állapot bevezetését kérte, a prefektúra azonban azt közölte, hogy ennek törvényi feltételei nem teljesülnek.",
-    "title_ro": "840 de kilograme de metale confiscate în urma raziei împotriva arderilor ilegale din Sintești",
-    "lead_ro": "Autoritățile au mobilizat 27 de polițiști, jandarmi și comisari de mediu pentru controalele desfășurate în Sintești, județul Ilfov. Au confiscat 840 de kilograme de deșeuri de cupru și aluminiu și au aplicat 43 de sancțiuni, în valoare totală de 324.000 de lei.",
-    "content_ro": "• **În timpul raziei din Sintești**, Garda Națională de Mediu – Comisariatul Județean Ilfov, IPJ Ilfov și Jandarmeria Ilfov au verificat respectarea legislației privind deșeurile, în special în zonele cunoscute pentru arderi ilegale și la firmele care se ocupă de colectarea deșeurilor.\n\n• **Autoritățile au confiscat 840 de kilograme** de deșeuri neferoase, inclusiv cupru și aluminiu; valoarea materialelor confiscate este estimată la aproximativ 20.000 de lei. În cadrul acțiunii au fost verificate 110 autoutilitare.\n\n• **În urma controalelor au fost aplicate 43 de sancțiuni**, în valoare totală de 324.000 de lei. La acțiune au participat 27 de polițiști, jandarmi și comisari de mediu.\n\n• **Autoritățile anunță că vor continua verificările** pentru a descuraja arderile ilegale, considerate nocive pentru mediu și sănătatea publică. Garda de Mediu spune că numărul sesizărilor transmise către Direcția de Sănătate Publică în legătură cu astfel de fenomene este în creștere.\n\n• **Arderile ilegale sunt o problemă veche în zona Sintești:** materialele sunt incendiate pentru recuperarea metalelor, iar fumul poate ajunge și în București. La sfârșitul lunii septembrie, ministra Mediului a cerut instituirea stării de alertă în zonă, însă Prefectura Ilfov a transmis că nu sunt îndeplinite condițiile legale."
-  },
-  {
-    "group_id": "group_a146881439",
-    "category": "Gazdaság",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNzM3N18zMDE3/Mzc3X0Fkcmlhbi1OaWNhLmpwZyZoYXNo/PWQ1MWZiYmQwNjRhNTUxNmI2OTI0NzhjMTgxMjc5NzA1.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Câți bani se fac din videochat în România. ANAF a aflat răspunsul la ceea ce părea un mister acum două săptămâni",
-        "link": "https://www.digi24.ro/stiri/actualitate/cati-bani-se-fac-din-videochat-in-romania-anaf-a-aflat-raspunsul-la-ceea-ce-parea-un-mister-acum-doua-saptamani-3995763"
-      }
-    ],
-    "published_at": 1792161856,
-    "title_hu": "Câți bani se fac din videochat în România. ANAF a aflat răspunsul la ceea ce părea un mister acum două săptămâni",
-    "lead_hu": "România este țara cu cei mai mulți lucrători în domeniul videochatului la nivel global, după cum arată mai multe statistici. ANAF, întrebat de digi24.ro, nu a știut să ne spună câți bani aduce acest d…",
-    "content_hu": "România este țara cu cei mai mulți lucrători în domeniul videochatului la nivel global, după cum arată mai multe statistici. ANAF, întrebat de digi24.ro, nu a știut să ne spună câți bani aduce acest domeniu la bugetul național. La mai puțin de două săptămâni distanță, șeful aceleiași instituții a dezvăluit în cadrul unui podcast suma fabuloasă despre care este vorba.",
-    "title_ro": "Câți bani se fac din videochat în România. ANAF a aflat răspunsul la ceea ce părea un mister acum două săptămâni",
-    "lead_ro": "România este țara cu cei mai mulți lucrători în domeniul videochatului la nivel global, după cum arată mai multe statistici. ANAF, întrebat de digi24.ro, nu a știut să ne spună câți bani aduce acest d…",
-    "content_ro": "România este țara cu cei mai mulți lucrători în domeniul videochatului la nivel global, după cum arată mai multe statistici. ANAF, întrebat de digi24.ro, nu a știut să ne spună câți bani aduce acest domeniu la bugetul național. La mai puțin de două săptămâni distanță, șeful aceleiași instituții a dezvăluit în cadrul unui podcast suma fabuloasă despre care este vorba."
-  },
-  {
-    "group_id": "group_57c343af21",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Veneția extinde taxa de acces pentru turiști în 2027. Cât vor plăti vizitatorii în 72 de zile ale anului",
-        "link": "https://hotnews.ro/venetia-extinde-taxa-de-acces-pentru-turisti-in-2027-cat-vor-plati-vizitatorii-in-72-de-zile-ale-anului-2378199"
-      }
-    ],
-    "published_at": 1792161852,
-    "title_hu": "Veneția extinde taxa de acces pentru turiști în 2027. Cât vor plăti vizitatorii în 72 de zile ale anului",
-    "lead_hu": "Veneția va taxa anul viitor turiștii cu 10 euro pe zi în 72 de zile între Vinerea Mare și jumătatea lui august, au anunțat vineri autoritățile locale, conform dpa. Consiliul municipal a decis creștere…",
-    "content_hu": "Veneția va taxa anul viitor turiștii cu 10 euro pe zi în 72 de zile între Vinerea Mare și jumătatea lui august, au anunțat vineri autoritățile locale, conform dpa. Consiliul municipal a decis creșterea numărului de zile în care se percepe taxa pentru accesul în una din cele mai populare destinații turistice din Europa. Anul acesta, …",
-    "title_ro": "Veneția extinde taxa de acces pentru turiști în 2027. Cât vor plăti vizitatorii în 72 de zile ale anului",
-    "lead_ro": "Veneția va taxa anul viitor turiștii cu 10 euro pe zi în 72 de zile între Vinerea Mare și jumătatea lui august, au anunțat vineri autoritățile locale, conform dpa. Consiliul municipal a decis creștere…",
-    "content_ro": "Veneția va taxa anul viitor turiștii cu 10 euro pe zi în 72 de zile între Vinerea Mare și jumătatea lui august, au anunțat vineri autoritățile locale, conform dpa. Consiliul municipal a decis creșterea numărului de zile în care se percepe taxa pentru accesul în una din cele mai populare destinații turistice din Europa. Anul acesta, …"
-  },
-  {
-    "group_id": "group_6029620f8a",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/3ae4aa16-91a5-41b3-9fe8-9895458e00e2.png?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cum a caracterizat Sabău jocul prestat de Universitatea Craiova în fața lui Getafe: „Merita să câștige!”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/ioan-ovidiu-sabau-conferinta-craiova-farul-superliga-988851.html"
-      }
-    ],
-    "published_at": 1792161828,
-    "title_hu": "Cum a caracterizat Sabău jocul prestat de Universitatea Craiova în fața lui Getafe: „Merita să câștige!”",
-    "lead_hu": "Ioan Ovidiu Sabău (58 de ani), antrenorul celor de la Farul, a prefațat în cadrul unei conferințe de presă partida pe care echipa lui o va disputa la finalul acestei săptămâni, duminică, în Bănie, pe …",
-    "content_hu": "Ioan Ovidiu Sabău (58 de ani), antrenorul celor de la Farul, a prefațat în cadrul unei conferințe de presă partida pe care echipa lui o va disputa la finalul acestei săptămâni, duminică, în Bănie, pe terenul campioanei Universitatea Craiova. Universitatea Craiova - Farul, în etapa a 12-a din Superliga, se joacă duminică, 18 octombrie, de la ora 21:00. Meciul va fi transmis în format liveTEXT pe GSP. ...",
-    "title_ro": "Cum a caracterizat Sabău jocul prestat de Universitatea Craiova în fața lui Getafe: „Merita să câștige!”",
-    "lead_ro": "Ioan Ovidiu Sabău (58 de ani), antrenorul celor de la Farul, a prefațat în cadrul unei conferințe de presă partida pe care echipa lui o va disputa la finalul acestei săptămâni, duminică, în Bănie, pe …",
-    "content_ro": "Ioan Ovidiu Sabău (58 de ani), antrenorul celor de la Farul, a prefațat în cadrul unei conferințe de presă partida pe care echipa lui o va disputa la finalul acestei săptămâni, duminică, în Bănie, pe terenul campioanei Universitatea Craiova. Universitatea Craiova - Farul, în etapa a 12-a din Superliga, se joacă duminică, 18 octombrie, de la ora 21:00. Meciul va fi transmis în format liveTEXT pe GSP. ..."
-  },
-  {
-    "group_id": "group_122d8bf9c9",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-1/1ad4f024-7247-4e7b-980f-3ea8a7874f67/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Profesorul Marin Dragomiroiu a murit la aproape două săptămâni după incendiul din Slatina",
-        "link": "https://adevarul.ro/stiri-locale/slatina/profesorul-marin-dragomiroiu-a-murit-la-aproape-2564549.html"
-      }
-    ],
-    "published_at": 1792161744,
-    "title_hu": "Profesorul Marin Dragomiroiu a murit la aproape două săptămâni după incendiul din Slatina",
-    "lead_hu": "Bărbatul de 68 de ani surprins în incendiul care, în noaptea de 3/4 octombrie 2026, a mistuit o casă în municipiul Slatina a murit după aproape două săptămâni de spitalizare.",
-    "content_hu": "Bărbatul de 68 de ani surprins în incendiul care, în noaptea de 3/4 octombrie 2026, a mistuit o casă în municipiul Slatina a murit după aproape două săptămâni de spitalizare.",
-    "title_ro": "Profesorul Marin Dragomiroiu a murit la aproape două săptămâni după incendiul din Slatina",
-    "lead_ro": "Bărbatul de 68 de ani surprins în incendiul care, în noaptea de 3/4 octombrie 2026, a mistuit o casă în municipiul Slatina a murit după aproape două săptămâni de spitalizare.",
-    "content_ro": "Bărbatul de 68 de ani surprins în incendiul care, în noaptea de 3/4 octombrie 2026, a mistuit o casă în municipiul Slatina a murit după aproape două săptămâni de spitalizare."
-  },
-  {
-    "group_id": "group_9ef86fb848",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/25082026/780bbefd-e2fe-49e1-a49a-1185d85b8d1f.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Vestea pe care Cătălin Cîrjan nu voia să o audă: „Am fost foarte trist”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/dinamo-catalin-cirjan-zeljko-kopic-nuno-campos-988856.html"
-      }
-    ],
-    "published_at": 1792161713,
-    "title_hu": "Vestea pe care Cătălin Cîrjan nu voia să o audă: „Am fost foarte trist”",
-    "lead_hu": "Cătălin Cîrjan (23 de ani), mijlocaș ofensiv și căpitan la Dinamo, a vorbit despre relația pe care o avea cu Zeljko Kopic, fostul antrenor al „câinilor”. Cătălin Cîrjan a spus că era foarte atașat de …",
-    "content_hu": "Cătălin Cîrjan (23 de ani), mijlocaș ofensiv și căpitan la Dinamo, a vorbit despre relația pe care o avea cu Zeljko Kopic, fostul antrenor al „câinilor”. Cătălin Cîrjan a spus că era foarte atașat de antrenorul croat și a primit cu mare tristețe vestea plecării acestuia. Anunțul oficial venea în luna iunie, când cel care a primit banderola de căpitan chiar de la Kopic se afla în cantonamentul echipei naționale. ...",
-    "title_ro": "Vestea pe care Cătălin Cîrjan nu voia să o audă: „Am fost foarte trist”",
-    "lead_ro": "Cătălin Cîrjan (23 de ani), mijlocaș ofensiv și căpitan la Dinamo, a vorbit despre relația pe care o avea cu Zeljko Kopic, fostul antrenor al „câinilor”. Cătălin Cîrjan a spus că era foarte atașat de …",
-    "content_ro": "Cătălin Cîrjan (23 de ani), mijlocaș ofensiv și căpitan la Dinamo, a vorbit despre relația pe care o avea cu Zeljko Kopic, fostul antrenor al „câinilor”. Cătălin Cîrjan a spus că era foarte atașat de antrenorul croat și a primit cu mare tristețe vestea plecării acestuia. Anunțul oficial venea în luna iunie, când cel care a primit banderola de căpitan chiar de la Kopic se afla în cantonamentul echipei naționale. ..."
-  },
-  {
-    "group_id": "group_cef118f8cc",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Nominalizările la Premiul „Monica Lovinescu” 2026",
-        "link": "https://hotnews.ro/nominalizarile-la-premiul-monica-lovinescu-2026-2378209"
-      }
-    ],
-    "published_at": 1792161645,
-    "title_hu": "Nominalizările la Premiul „Monica Lovinescu” 2026",
-    "lead_hu": "1. Dennis Deletant, România sub comunism. Paradox și degenerare, București, Editura Humanitas, 2025 2. Mircea Mihăieș, Cele patru sinucideri ale Virginiei Woolf. O psihodramă, Iași, Editura Polirom, 2…",
-    "content_hu": "1. Dennis Deletant, România sub comunism. Paradox și degenerare, București, Editura Humanitas, 2025 2. Mircea Mihăieș, Cele patru sinucideri ale Virginiei Woolf. O psihodramă, Iași, Editura Polirom, 2026 3. Alina Pavelescu, Șerban Pavelescu, Istoria orbilor. România în război, 1940–1945, București, Editura Humanitas, 2025 4. Daniela Rațiu, Cenzurat, Chișinău, Editura Cartier, 2026 5. Bogdan-George Rădulescu, Spectrele …",
-    "title_ro": "Nominalizările la Premiul „Monica Lovinescu” 2026",
-    "lead_ro": "1. Dennis Deletant, România sub comunism. Paradox și degenerare, București, Editura Humanitas, 2025 2. Mircea Mihăieș, Cele patru sinucideri ale Virginiei Woolf. O psihodramă, Iași, Editura Polirom, 2…",
-    "content_ro": "1. Dennis Deletant, România sub comunism. Paradox și degenerare, București, Editura Humanitas, 2025 2. Mircea Mihăieș, Cele patru sinucideri ale Virginiei Woolf. O psihodramă, Iași, Editura Polirom, 2026 3. Alina Pavelescu, Șerban Pavelescu, Istoria orbilor. România în război, 1940–1945, București, Editura Humanitas, 2025 4. Daniela Rațiu, Cenzurat, Chișinău, Editura Cartier, 2026 5. Bogdan-George Rădulescu, Spectrele …"
-  },
-  {
-    "group_id": "group_507d2ffdbf",
-    "category": "Gazdaság",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/bolojan-la-pro-tv-1024x507.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Vedetele PRO TV care l-au promovat pe Bolojan, plătite din bani publici la Oradea. Gândul publică sumele",
-        "link": "https://www.mediafax.ro/politic/vedetele-pro-tv-care-l-au-promovat-pe-bolojan-platite-din-bani-publici-la-oradea-gandul-publica-sumele-23826774"
-      }
-    ],
-    "published_at": 1792161639,
-    "title_hu": "Vedetele PRO TV care l-au promovat pe Bolojan, plătite din bani publici la Oradea. Gândul publică sumele",
-    "lead_hu": "Vedete PRO TV, între care Andreea Esca și Horia Brenciu, au fost plătite din bani publici pentru a urca pe scena festivalului FESTIFALL de la Oradea, după o campanie intensă de promovare a lui Ilie Bo…",
-    "content_hu": "Vedete PRO TV, între care Andreea Esca și Horia Brenciu, au fost plătite din bani publici pentru a urca pe scena festivalului FESTIFALL de la Oradea, după o campanie intensă de promovare a lui Ilie Bolojan la postul de televiziune, potrivit Gândul.",
-    "title_ro": "Vedetele PRO TV care l-au promovat pe Bolojan, plătite din bani publici la Oradea. Gândul publică sumele",
-    "lead_ro": "Vedete PRO TV, între care Andreea Esca și Horia Brenciu, au fost plătite din bani publici pentru a urca pe scena festivalului FESTIFALL de la Oradea, după o campanie intensă de promovare a lui Ilie Bo…",
-    "content_ro": "Vedete PRO TV, între care Andreea Esca și Horia Brenciu, au fost plătite din bani publici pentru a urca pe scena festivalului FESTIFALL de la Oradea, după o campanie intensă de promovare a lui Ilie Bolojan la postul de televiziune, potrivit Gândul."
-  },
-  {
-    "group_id": "group_866d170fad",
-    "category": "Erdély",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Vásárhely.ma",
-        "title": "Lopják az agyunkat",
-        "link": "https://www.vasarhely.ma/lopjak-az-agyunkat/"
-      }
-    ],
-    "published_at": 1792161582,
-    "title_hu": "Lopják az agyunkat",
-    "lead_hu": "Az embernek egyszer csak az agyára megy a világ. Modern környezetünk annyira agyközpontú, hogy hajlamosak vagyunk a világegyetemet is egyetlen, szerény eszközeinkkel egyelőre még felmérhetetlen agyköz…",
-    "content_hu": "Az embernek egyszer csak az agyára megy a világ. Modern környezetünk annyira agyközpontú, hogy hajlamosak vagyunk a világegyetemet is egyetlen, szerény eszközeinkkel egyelőre még felmérhetetlen agyközpontként értelmezni, amelynek tekervényei, sőt facsarmányai befogják az abszolútumot, ekként aztán maga a világ az, amely folyamatosan teremti és pusztítja önmagát, a kozmosz sem más, mint maga az alkotó, az […]",
-    "title_ro": "Lopják az agyunkat",
-    "lead_ro": "Az embernek egyszer csak az agyára megy a világ. Modern környezetünk annyira agyközpontú, hogy hajlamosak vagyunk a világegyetemet is egyetlen, szerény eszközeinkkel egyelőre még felmérhetetlen agyköz…",
-    "content_ro": "Az embernek egyszer csak az agyára megy a világ. Modern környezetünk annyira agyközpontú, hogy hajlamosak vagyunk a világegyetemet is egyetlen, szerény eszközeinkkel egyelőre még felmérhetetlen agyközpontként értelmezni, amelynek tekervényei, sőt facsarmányai befogják az abszolútumot, ekként aztán maga a világ az, amely folyamatosan teremti és pusztítja önmagát, a kozmosz sem más, mint maga az alkotó, az […]"
-  },
-  {
-    "group_id": "group_04c836c81e",
-    "category": "Erdély",
-    "image": "https://cdn.adh.reperio.news/image-a/a6d8655a-223c-4878-97a3-1f9c559bcfc7/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Doctorița prinsă băută la volan înainte de gardă, apărată de colegi. Ce măsuri pregătesc aceștia",
-        "link": "https://adevarul.ro/stiri-interne/societate/doctorita-prinsa-bauta-la-volan-inainte-de-garda-2564564.html"
-      }
-    ],
-    "published_at": 1792161443,
-    "title_hu": "Doctorița prinsă băută la volan înainte de gardă, apărată de colegi. Ce măsuri pregătesc aceștia",
-    "lead_hu": "Cazul doctoriței reținute după un accident, când a fost depistată băută la volan, cu puţin timp înainte de a intra în gardă la UPU, a stârnit reacții în rândul colegilor de la Spitalul Alexandria, car…",
-    "content_hu": "Cazul doctoriței reținute după un accident, când a fost depistată băută la volan, cu puţin timp înainte de a intra în gardă la UPU, a stârnit reacții în rândul colegilor de la Spitalul Alexandria, care îi iau apărarea şi anunţă schimbări în organizarea gărzilor pentru protecţia lor şi a pacienţilor",
-    "title_ro": "Doctorița prinsă băută la volan înainte de gardă, apărată de colegi. Ce măsuri pregătesc aceștia",
-    "lead_ro": "Cazul doctoriței reținute după un accident, când a fost depistată băută la volan, cu puţin timp înainte de a intra în gardă la UPU, a stârnit reacții în rândul colegilor de la Spitalul Alexandria, car…",
-    "content_ro": "Cazul doctoriței reținute după un accident, când a fost depistată băută la volan, cu puţin timp înainte de a intra în gardă la UPU, a stârnit reacții în rândul colegilor de la Spitalul Alexandria, care îi iau apărarea şi anunţă schimbări în organizarea gărzilor pentru protecţia lor şi a pacienţilor"
-  },
-  {
-    "group_id": "group_ffc7b059bd",
-    "fingerprint": "29da9927d4e786bbbab6527690d7648c",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-7/75458fe6-03ca-4345-bf03-1116bba0357f/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Tânăra din Constanța care ataca oameni, plasată în arest preventiv. Cum și-a motivat comportamentul violent",
-        "link": "https://www.cancan.ro/tanara-din-constanta-care-ataca-oameni-plasata-in-arest-preventiv-cum-si-a-motivat-comportamentul-violent-21531109"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Tânăra care a agresat femei la întâmplare în Constanța, arestată preventiv: „Mi-am dat seama că pun situația altor oameni în pericol”",
-        "link": "https://adevarul.ro/stiri-locale/constanta/tanara-care-a-agresat-femei-la-intamplare-in-2564555.html"
-      }
-    ],
-    "published_at": 1792161373,
-    "title_hu": "Harminc napra előzetes letartóztatásba helyezték a konstancai támadások gyanúsítottját",
-    "lead_hu": "A rendőrség szerint a 20 éves nő július és október között öt nőt bántalmazott Konstancában, több nyilvános helyen. Az igazságügyi pszichiátriai szakvélemény szerint a cselekmények idején beszámítható volt; a bíróság október 16-án harminc napra előzetes letartóztatásba helyezte.",
-    "content_hu": "• **Július és október között** a rendőrség szerint a 20 éves nő öt nőt bántalmazott Konstancában, utcákon és különböző nyilvános helyszíneken.\n\n• **A bejelentett esetek között** utcai támadás, bevásárlóközpontban történt bántalmazás, valamint egy kávézóban és egy szállodai recepción elkövetett agresszió is szerepel. Az egyik esetben egy 56 éves nőt támadhattak meg egy városi sétányon.\n\n• **A szemtanúk és az áldozatok beszámolói szerint** a bevásárlóközpontban egy nőt hajánál fogva rángattak és hasba ütöttek; a hotelben egy takarítónőt ütöttek meg, a kávézóban pedig széket dobtak a pultos felé és tárgyakat rongáltak meg. A beszámolók szerint az eseteket nem előzte meg konfliktus.\n\n• **Az ügyészség szerint** a támadások hirtelen történtek, és a nő olyan áldozatokat választott, akikkel korábban nem került konfliktusba. A bevásárlóközponti esetben a beszámolók szerint a támadás után a nő csomagokat dobált az üzlet kirakataira és ékszereire.\n\n• **A rendőrség kilenc büntetőügyben vizsgálódik** a nő ellen: öt rendbeli bántalmazás vagy más erőszak, három rendbeli közrend- és köznyugalom-zavarás, valamint egy rongálás gyanúja merült fel.\n\n• **Az október 15-i igazságügyi pszichiátriai szakvélemény** megállapította, hogy a nő a cselekmények elkövetésekor beszámítható volt. A rendőrség 24 órára őrizetbe vette, majd október 16-án a konstancai bíróság harminc napra előzetes letartóztatásba helyezte.\n\n• **A gyanúsított magyarázata szerint** gyermekkori és érzelmi nehézségek, lakhatási gondok, valamint az általa szükségesnek tartott kezeléshez való hozzáférés hiánya is hozzájárult a helyzetéhez. Azt mondta, sajnálja a történteket, és felismerte, hogy másokat veszélyeztetett; beszámolója szerint két éve lakhatási problémái voltak, a kezelés költségét pedig nem tudta fedezni. A Cancan szerint elismerte tiltott szerek fogyasztását, és a tesztje pozitív lett.\n\n• **A nő egészségügyi és gyermekvédelmi előzményeiről** a ProTV azt írta, hogy serdülőkorában személyiségzavart diagnosztizáltak nála, és nevelőintézményben nőtt fel. Az Adevărul beszámolója szerint az előzetes letartóztatása előtt kényszerűen pszichiátriai osztályra is beutalták. Ezek az előzmények önmagukban nem bizonyítják a most vizsgált cselekményeket.",
-    "title_ro": "Tânăra suspectată de atacurile din Constanța, arestată preventiv pentru 30 de zile",
-    "lead_ro": "Potrivit poliției, tânăra de 20 de ani ar fi agresat cinci femei în Constanța, în mai multe spații publice, între iulie și octombrie. Expertiza medico-legală psihiatrică a stabilit că avea discernământ la momentul faptelor, iar instanța a dispus arestarea preventivă pentru 30 de zile, la 16 octombrie.",
-    "content_ro": "• **Între iulie și octombrie**, potrivit poliției, tânăra de 20 de ani ar fi agresat cinci femei în Constanța, pe străzi și în diferite spații publice.\n\n• **Printre incidentele reclamate** se numără un atac pe stradă, o agresiune într-un centru comercial și episoade violente într-o cafenea și la recepția unui hotel. Într-unul dintre cazuri, o femeie de 56 de ani ar fi fost atacată pe o alee din oraș.\n\n• **Potrivit relatărilor martorilor și victimelor**, într-un centru comercial o femeie ar fi fost trasă de păr și lovită în abdomen; la hotel ar fi fost lovită o femeie de serviciu, iar în cafenea ar fi fost aruncat un scaun spre barmaniță și ar fi fost distruse obiecte. Relatările indică faptul că incidentele nu ar fi fost precedate de un conflict.\n\n• **Potrivit procurorilor**, atacurile ar fi fost bruște, iar victimele nu s-ar fi aflat anterior în conflict cu inculpata. În incidentul din centrul comercial, potrivit relatărilor, aceasta ar fi aruncat bagaje peste vitrine și bijuterii după ce a atacat o femeie.\n\n• **Poliția cercetează nouă dosare penale**: cinci infracțiuni de lovire sau alte violențe, trei de tulburare a ordinii și liniștii publice și una de distrugere.\n\n• **Expertiza medico-legală psihiatrică din 15 octombrie** a stabilit că tânăra avea discernământ în momentul comiterii faptelor. Poliția a reținut-o pentru 24 de ore, iar la 16 octombrie Judecătoria Constanța a dispus arestarea preventivă pentru 30 de zile.\n\n• **Potrivit explicațiilor tinerei**, dificultățile din copilărie și emoționale, problemele locative și lipsa accesului la tratamentul pe care îl considera necesar au contribuit la situația sa. Ea a spus că regretă faptele și că și-a dat seama că i-a pus pe alții în pericol; potrivit declarației sale, avea probleme locative de doi ani și nu și-a putut permite costul tratamentului. Cancan relatează că a recunoscut consumul de substanțe interzise, iar testul a fost pozitiv.\n\n• **Despre istoricul său medical și de protecție a copilului**, ProTV a relatat că în adolescență i-a fost diagnosticată o tulburare de personalitate și că a crescut într-un centru de plasament. Potrivit Adevărul, înainte de arestarea preventivă ar fi fost internată involuntar într-o unitate de psihiatrie. Aceste antecedente nu dovedesc, prin ele însele, faptele cercetate în prezent."
-  },
-  {
-    "group_id": "group_9db74619c2",
-    "category": "Sport",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Szatmári sporthírek",
-        "title": "Rangdókkal folytatódik a megyei elitliga",
-        "link": "https://szmsport.ro/labdarugas/rangdokkal-folytatodik-a-megyei-elitliga/"
-      }
-    ],
-    "published_at": 1792161365,
-    "title_hu": "Rangdókkal folytatódik a megyei elitliga",
-    "lead_hu": "Szombaton és vasárnap is rendeznek mérkőzéseket a labdarúgó Liga 4 Elite hetedik fordulójában, és mindkét nap érdekes, rangadóval felillő találkozók fognak zajlani. A Rangdókkal folytatódik a megyei e…",
-    "content_hu": "Szombaton és vasárnap is rendeznek mérkőzéseket a labdarúgó Liga 4 Elite hetedik fordulójában, és mindkét nap érdekes, rangadóval felillő találkozók fognak zajlani. A Rangdókkal folytatódik a megyei elitliga bejegyzés először Szatmári sporthírek, magyarul-én jelent meg.",
-    "title_ro": "Rangdókkal folytatódik a megyei elitliga",
-    "lead_ro": "Szombaton és vasárnap is rendeznek mérkőzéseket a labdarúgó Liga 4 Elite hetedik fordulójában, és mindkét nap érdekes, rangadóval felillő találkozók fognak zajlani. A Rangdókkal folytatódik a megyei e…",
-    "content_ro": "Szombaton és vasárnap is rendeznek mérkőzéseket a labdarúgó Liga 4 Elite hetedik fordulójában, és mindkét nap érdekes, rangadóval felillő találkozók fognak zajlani. A Rangdókkal folytatódik a megyei elitliga bejegyzés először Szatmári sporthírek, magyarul-én jelent meg."
   }
 ]
