@@ -1,22 +1,98 @@
 [
   {
+    "group_id": "group_aca2870c94",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Az RTL bocsánatot kért Gryllus Dorka szereplése miatt",
+        "link": "https://a24.hu/az-rtl-bocsanatot-kert-gryllus-dorka-szereplese-miatt/"
+      }
+    ],
+    "published_at": 1792211546,
+    "title_hu": "Az RTL bocsánatot kért Gryllus Dorka szereplése miatt",
+    "lead_hu": "Az RTL csütörtökön közleményben kért elnézést Gryllus Dorka Reggeli című műsorban látható szereplése miatt. A csatorna azt írta, hogy a jelenet elvonta a figyelmet a kampány lényegéről. Gryllus Dorka …",
+    "content_hu": "Az RTL csütörtökön közleményben kért elnézést Gryllus Dorka Reggeli című műsorban látható szereplése miatt. A csatorna azt írta, hogy a jelenet elvonta a figyelmet a kampány lényegéről. Gryllus Dorka néhány nappal korábban az élő adásban lett rosszul, miközben Barabás Évával a munkáiról beszélt. A 53 éves színésznő hangja és keze remegett, melege volt, és többször […]",
+    "title_ro": "Az RTL bocsánatot kért Gryllus Dorka szereplése miatt",
+    "lead_ro": "Az RTL csütörtökön közleményben kért elnézést Gryllus Dorka Reggeli című műsorban látható szereplése miatt. A csatorna azt írta, hogy a jelenet elvonta a figyelmet a kampány lényegéről. Gryllus Dorka …",
+    "content_ro": "Az RTL csütörtökön közleményben kért elnézést Gryllus Dorka Reggeli című műsorban látható szereplése miatt. A csatorna azt írta, hogy a jelenet elvonta a figyelmet a kampány lényegéről. Gryllus Dorka néhány nappal korábban az élő adásban lett rosszul, miközben Barabás Évával a munkáiról beszélt. A 53 éves színésznő hangja és keze remegett, melege volt, és többször […]"
+  },
+  {
     "group_id": "group_2a4ae616d9",
-    "fingerprint": "c7514581d977f3499aca94043cee1df3",
+    "fingerprint": "26ac965fc746bc3420275ec61976280a",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 17,
     "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: Trei drone, detectate în apropierea localității ucrainene Vâlkove; nu au pătruns în spațiul aerian național",
+        "link": "https://agerpres.ro/social/2026/10/14/mapn-trei-drone-detectate-in-apropierea-localitatii-ucrainene-valkove-nu-au-patruns-in-spatiul-aeria--1602710"
+      },
+      {
+        "source": "Digi24",
+        "title": "Radarele MApN au detectat încă o dronă care a intrat în spațiul aerian național. Aparatul a fost doborât de ucraineni",
+        "link": "https://www.digi24.ro/stiri/actualitate/radarele-mapn-au-detectat-inca-o-drona-care-a-intrat-in-spatiul-aerian-national-aparatul-a-fost-doborat-de-ucraineni-3991583"
+      },
+      {
+        "source": "Digi24",
+        "title": "Două avioane F-16 au fost ridicate în această seară, după ce sistemul radar a detectat o nouă țintă în apropierea Insulei Șerpilor",
+        "link": "https://www.digi24.ro/stiri/actualitate/doua-avioane-f-16-au-fost-ridicate-in-aceasta-seara-dupa-ce-sistemul-radar-a-detectat-o-noua-tinta-in-apropierea-insulei-serpilor-3992577"
+      },
+      {
+        "source": "Adevărul",
+        "title": "A treia încălcare a spațiului aerian al României în mai puțin de 12 ore. O nouă țintă aeriană a ajuns în apropiere de Sulina",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/a-treia-incalcare-a-spatiului-aerian-al-romaniei-2564059.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Noi alerte aeriene în Tulcea și Galați: două ținte au pătruns în spațiul aerian al României",
+        "link": "https://www.mediafax.ro/social/noi-alerte-aeriene-in-tulcea-si-galati-doua-tinte-au-patruns-in-spatiul-aerian-al-romaniei-23825549"
+      },
+      {
+        "source": "Maszol",
+        "title": "Újabb Ro-Alert riasztás: a nap folyamán ez már a negyedik",
+        "link": "https://maszol.ro/belfold/Ujabb-Ro-Alert-riasztas-a-nap-folyaman-ez-mar-a-negyedik"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Dronă detectată în spațiul aerian al României, în apropiere de Sulina. Locuitorii din Tulcea au primit mesaj RO-Alert",
+        "link": "https://stirileprotv.ro/stiri/actualitate/drona-detectata-in-spatiul-aerian-al-romaniei-in-apropiere-de-sulina-locuitorii-din-tulcea-au-primit-mesaj-ro-alert.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "O dronă a pătruns în spațiul aerian al României, joi dimineață, în apropiere de Sulina / O altă dronă a lovit o navă comercială tot în apropiere de Sulina și tot în teritoriu românesc, miercuri seară",
+        "link": "https://www.g4media.ro/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-joi-dimineata-in-apropiere-de-sulina-o-alta-drona-a-lovit-o-nava-comerciala-tot-in-apropiere-de-sulina-si-tot-in-teritoriu-romanesc-miercuri-seara.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "O dronă a pătruns în spațiul aerian al României, vineri dimineață, în apropiere de Sulina / O altă dronă a lovit o navă comercială tot în apropiere de Sulina și tot în teritoriu românesc, joi seară",
+        "link": "https://www.g4media.ro/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-vineri-dimineata-in-apropiere-de-sulina-o-alta-drona-a-lovit-o-nava-comerciala-tot-in-apropiere-de-sulina-si-tot-in-teritoriu-romanesc-joi-seara.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: Dronă detectată în apropierea Insulei Șerpilor; două aeronave F-16 au fost trimise să monitorizeze situația",
+        "link": "https://agerpres.ro/social/2026/10/15/mapn-drona-detectata-in-apropierea-insulei-serpilor-doua-aeronave-f-16-au-fost-trimise-sa-monitorize--1603180"
+      },
+      {
+        "source": "Maszol",
+        "title": "Drónt észleltek a Kígyó-sziget közelében",
+        "link": "https://maszol.ro/belfold/Dront-eszleltek-a-Kigyo-sziget-kozeleben"
+      },
       {
         "source": "Digi24",
         "title": "Patru drone au pătruns în spațiul aerian al Republicii Moldova, autoritățile sunt în alertă: „Pericol pentru cetățeni”",
         "link": "https://www.digi24.ro/stiri/externe/patru-drone-au-patruns-in-spatiul-aerian-al-republicii-moldova-autoritatile-sunt-in-alerta-pericol-pentru-cetateni-3994891"
       },
       {
-        "source": "Mediafax",
-        "title": "O dronă a căzut și a explodat în Republica Moldova, în afara localității Codrenii Noi",
-        "link": "https://www.mediafax.ro/stirile-zilei/o-drona-a-cazut-si-a-explodat-in-republica-moldova-in-afara-localitatii-codrenii-noi-23826838"
+        "source": "Cancan.ro",
+        "title": "Invazie de drone în spațiul aerian al Republicii Moldova. Prima reacție a ministrului Apărării",
+        "link": "https://www.cancan.ro/invazie-de-drone-in-spatiul-aerian-al-republicii-moldova-prima-reactie-a-ministrului-apararii-21530893"
       },
       {
         "source": "Agerpres (HU)",
@@ -32,15 +108,284 @@
         "source": "ProTV Stiri",
         "title": "Încă o alertă de dronă în apropierea graniței cu Ucraina. Două avioane F-18 spaniole au fost ridicate de la sol",
         "link": "https://stirileprotv.ro/stiri/actualitate/inca-o-alerta-de-drona-in-apropierea-granitei-cu-ucraina-doua-avioane-f-18-spaniole-au-fost-ridicate-de-la-sol.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Mesaj RO-Alert în județul Tulcea: două avioane F-18 spaniole, ridicate de la sol, după detectarea unei ținte aeriene",
+        "link": "https://www.digi24.ro/stiri/actualitate/mesaj-ro-alert-in-judetul-tulcea-doua-avioane-f-18-spaniole-ridicate-de-la-sol-dupa-detectarea-unei-tinte-aeriene-3996477"
       }
     ],
-    "published_at": 1792210511,
-    "title_hu": "Drónincidensek sora Tulceában és Moldovában: újabb riasztás Plauru közelében",
-    "lead_hu": "Szerdán több drón miatt riasztották Tulcea és Galați megye lakóit: légi célpontok rövid időre megsértették a román légteret, a román és a spanyol légierő pedig vadászgépeket indított. A következő napokban is voltak riasztások, Moldovában engedély nélküli drón-átrepüléseket jelentettek, egy drón lezuhant és felrobbant. Szombatra virradó éjjel újabb RO-Alertet adtak ki Tulcea megyében, de román légtérsértést nem jelentettek.",
-    "content_hu": "• **Szerda reggel 6:39-kor** RO-Alert üzenetet küldtek Tulcea megye északi részére, miután a radarok három légi célpontot észleltek az ukrajnai Vilkove közelében. A három célpont nem lépett be Románia légterébe; megfigyelésükre két F-16-os és egy IAR-330 SOCAT helikopter szállt fel. A riasztás 7:58 körül ért véget, az ISU Tulcea pedig nem kapott segélyhívást.\n\n• **Szerda délelőtt 10:19-kor** újabb RO-Alertet adtak ki Tulcea megye északi és keleti részére. Egy légi célpont rövid időre belépett a román légtérbe a Sulinától keletre fekvő, Fekete-tenger fölötti térségben, majd visszatért az ukrán légtérbe, ahol az ukrán légvédelem lelőtte. Két román F-16-os szállt fel; a riasztás 11:22-kor ért véget.\n\n• **Szerda délután 17:38-kor** a Kígyó-szigettől mintegy 30 kilométerre keletre észlelt légi célpont Sulinától körülbelül 22 kilométerre északkeletre, a román felségvizek fölött belépett a nemzeti légtérbe, majd 17:46-kor elhagyta azt. Két román F-16-os szállt fel, a Tulcea megye északi és keleti részén élők pedig 17:39-kor RO-Alert üzenetet kaptak. A riasztás 19:03-kor ért véget.\n\n• **Szerda este 20:04-kor** két légi célpont lépett be Románia légterébe a Fekete-tenger fölött. A radar az egyik célponttal később elvesztette a kapcsolatot; a másik 20:13-kor Ukrajna felé távozott, majd az ukrán légvédelem Reni térségében megsemmisítette. A spanyol légierő két F-18-asát riasztották. Tulcea megye északkeleti részére 20:02-kor, Galați megye keleti részére 20:33-kor küldtek RO-Alertet; a riasztás 21:14-kor ért véget.\n\n• **Szerda este, Sulina közelében** egy kereskedelmi hajót is drón találhatott el a román felségvizeken. A hajóval kapcsolatban műszaki ellenőrzést terveztek annak megállapítására, hogy a drón okozta-e a tüzet.\n\n• **Október 14-ről 15-re virradó éjjel 1:34-kor** egy drónt nagyjából egy percig észleltek a román légtérben, Sulinától délkeletre, a román felségvizek fölött, majd eltűnt a radarokról. A Kígyó-sziget közelében észlelt célpontok miatt spanyol F-18-asok, később pedig újabb célpontok észlelése után román F-16-osok is felszálltak. Tulcea megye északi és keleti részére 4:57-kor küldtek RO-Alertet; további légtérsértést nem jelentettek, a riasztás 5:46-kor ért véget.\n\n• **Csütörtök reggel 8:36-kor** újabb RO-Alertet küldtek Tulcea megye keleti részére, miután légi célpontot észleltek a Kígyó-sziget közelében. Két román F-16-os szállt fel, de a hatóságok szerint nem történt légtérsértés; a riasztást 10:27-kor fújták le.\n\n• **A riasztások száma** az év eleje óta Tulcea megyében, az ukrajnai háborúval összefüggésben, meghaladta a Romániában 2023 és 2025 között ugyanezen okból kiadott RO-Alert üzenetek összesített számát.\n\n• **Moldovában, a csütörtökről péntekre virradó éjjel** négy engedély nélküli drón-átrepülést jelentettek. Az első drón 23:02-kor lépett be és 23:20-kor távozott; két másik rövid időre, 3:37-kor, illetve 3:46-kor repült be. A negyedik drón 5:59-kor lépett be, majd 6:09-kor ismét átrepült az ország fölött. A moldovai védelmi miniszter az eseteket a lakosság biztonságára jelentett kockázatként ítélte el.\n\n• **Pénteken 16:22-kor** újabb drón lépett be Moldova légterébe Soroca járásban, majd Dondușeni járásban, Codrenii Noi közelében lezuhant és felrobbant. A hatóságok arra kérték a lakosságot, hogy az ismeretlen tárgyakat és törmelékeket ne érintse meg, hanem hívja a 112-t.\n\n• **A moldovai külügyminisztérium közlése szerint** október 15–16-án hét engedély nélküli drón-átrepülést regisztráltak, ezek közül egy végződött lezuhanással és robbanással. A tárca elítélte a légtérsértéseket, és felszólította Oroszországot az Ukrajna elleni támadások leállítására, valamint Moldova szuverenitásának tiszteletben tartására.\n\n• **Szombatra virradó éjjel 1:54-kor** újabb RO-Alertet küldtek Tulcea megye északi részére, miután a radarok Plauru közelében, Ukrajna területén, a román határ felé tartó légi célpontot észleltek. A spanyol légierő két F-18-asát riasztották; a román hatóságok nem jelentettek légtérsértést, a riasztás 2:30-kor ért véget.",
-    "title_ro": "Incidente repetate cu drone în Tulcea și Republica Moldova: o nouă alertă lângă Plauru",
-    "lead_ro": "Miercuri, locuitorii din județele Tulcea și Galați au fost alertați în repetate rânduri: ținte aeriene au încălcat pentru scurt timp spațiul aerian românesc, iar avioane românești și spaniole au fost ridicate de la sol. În zilele următoare au continuat alertele, iar în Republica Moldova au fost raportate survoluri neautorizate, unul dintre aparate prăbușindu-se și explodând. În noaptea de vineri spre sâmbătă a fost emisă o nouă alertă RO-Alert în județul Tulcea, fără să fie raportată o pătrundere în spațiul aerian românesc.",
-    "content_ro": "• **Miercuri, la ora 6:39**, a fost transmis un mesaj RO-Alert pentru nordul județului Tulcea, după ce radarele au detectat trei ținte aeriene în apropiere de Vâlkove, în Ucraina. Cele trei ținte nu au pătruns în spațiul aerian românesc; pentru monitorizarea lor au decolat două aeronave F-16 și un elicopter IAR-330 SOCAT. Alerta a încetat în jurul orei 7:58, iar ISU Tulcea nu a primit apeluri de urgență.\n\n• **Miercuri, la ora 10:19**, a fost emis un nou mesaj RO-Alert pentru nordul și estul județului Tulcea. O țintă aeriană a pătruns pentru scurt timp în spațiul aerian românesc, deasupra Mării Negre, la est de Sulina, apoi a reintrat în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană a Ucrainei. Au decolat două aeronave F-16 românești, iar alerta a încetat la ora 11:22.\n\n• **Miercuri, la ora 17:38**, o țintă aeriană detectată la aproximativ 30 de kilometri est de Insula Șerpilor a pătruns în spațiul aerian național la circa 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale românești, și l-a părăsit la ora 17:46. Au decolat două aeronave F-16 românești, iar locuitorii din nordul și estul județului Tulcea au primit un mesaj RO-Alert la ora 17:39. Alerta a încetat la ora 19:03.\n\n• **Miercuri, la ora 20:04**, două ținte aeriene au pătruns în spațiul aerian românesc deasupra Mării Negre. Contactul radar cu una dintre ele a fost pierdut; cealaltă a ieșit din spațiul aerian național la ora 20:13, apoi a fost distrusă de apărarea antiaeriană ucraineană în zona Reni. Au fost ridicate de la sol două aeronave spaniole F-18. Mesajele RO-Alert au fost transmise pentru nord-estul județului Tulcea, la ora 20:02, și pentru estul județului Galați, la ora 20:33; alerta a încetat la ora 21:14.\n\n• **Miercuri seară, în apropiere de Sulina**, o navă comercială ar fi fost lovită de o dronă în apele teritoriale românești. Era planificată o verificare tehnică pentru a stabili dacă drona a provocat incendiul.\n\n• **În noaptea de 14 spre 15 octombrie, la ora 1:34**, o dronă a fost detectată timp de aproximativ un minut în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale, după care a dispărut de pe radar. Pentru țintele detectate în apropierea Insulei Șerpilor au decolat avioane spaniole F-18, iar ulterior, după semnalarea altor ținte, și aeronave românești F-16. Un mesaj RO-Alert a fost transmis pentru nordul și estul județului Tulcea la ora 4:57; nu au fost raportate alte pătrunderi, iar alerta a încetat la ora 5:46.\n\n• **Joi, la ora 8:36**, a fost transmis un nou mesaj RO-Alert pentru estul județului Tulcea, după detectarea unei ținte aeriene în apropierea Insulei Șerpilor. Au decolat două aeronave F-16 românești, însă autoritățile au precizat că nu a avut loc o încălcare a spațiului aerian; alerta a fost ridicată la ora 10:27.\n\n• **Numărul alertelor** emise în județul Tulcea de la începutul anului, în contextul războiului din Ucraina, a depășit totalul mesajelor RO-Alert transmise în România din același motiv în perioada 2023–2025.\n\n• **În Republica Moldova, în noaptea de joi spre vineri**, au fost raportate patru survoluri neautorizate cu drone. Prima dronă a intrat la ora 23:02 și a părăsit spațiul aerian la 23:20; alte două au survolat țara pentru scurt timp, la 3:37 și, respectiv, la 3:46. A patra a intrat la 5:59 și a survolat din nou teritoriul la 6:09. Ministrul moldovean al Apărării a condamnat incidentele, avertizând că acestea reprezintă un risc pentru siguranța cetățenilor.\n\n• **Vineri, la ora 16:22**, o altă dronă a intrat în spațiul aerian al Republicii Moldova în raionul Soroca, apoi s-a prăbușit și a explodat în apropiere de Codrenii Noi, raionul Dondușeni. Autoritățile au îndemnat populația să nu atingă obiectele sau fragmentele necunoscute și să sune la 112.\n\n• **Potrivit Ministerului de Externe al Republicii Moldova**, în 15–16 octombrie au fost înregistrate șapte survoluri neautorizate, dintre care unul s-a încheiat cu prăbușirea și explozia unei drone. Ministerul a condamnat încălcările spațiului aerian și a cerut Rusiei să oprească atacurile asupra Ucrainei și să respecte suveranitatea Republicii Moldova.\n\n• **Sâmbătă, la ora 1:54**, a fost transmis un nou mesaj RO-Alert pentru nordul județului Tulcea, după ce radarele au detectat, în apropiere de Plauru, o țintă aeriană aflată pe teritoriul Ucrainei și îndreptându-se spre granița cu România. Au decolat două aeronave spaniole F-18; autoritățile române nu au raportat o pătrundere în spațiul aerian național, iar alerta a încetat la ora 2:30."
+    "published_at": 1792211419,
+    "title_hu": "Drónincidensek a Fekete-tenger térségében: riasztások Romániában és Moldova légterének megsértése",
+    "lead_hu": "Október 14-én több drónriasztást adtak ki Tulcea és Galați megyében: légi célpontok rövid időre megsértették a román légteret, a román és a spanyol légierő pedig vadászgépeket indított. A következő napokban is voltak riasztások; Moldovában engedély nélküli drón-átrepüléseket jelentettek, egy drón lezuhant és felrobbant. Szombatra virradó éjjel Plauru közelében újabb RO-Alertet adtak ki, de román légtérsértést nem jelentettek.",
+    "content_hu": "• **Október 14-én 6:39-kor** RO-Alert üzenetet küldtek Tulcea megye északi részére, miután a radarok három légi célpontot észleltek az ukrajnai Vilkove közelében. A célpontok nem léptek be Románia légterébe; megfigyelésükre két F-16-os és egy IAR-330 SOCAT helikopter szállt fel. A riasztás 7:58 körül ért véget, az ISU Tulcea pedig nem kapott segélyhívást.\n\n• **Október 14-én 10:19-kor** újabb RO-Alertet adtak ki Tulcea megye északi és keleti részére. Egy légi célpont rövid időre belépett a román légtérbe Sulinától keletre, a Fekete-tenger fölött, majd visszatért az ukrán légtérbe, ahol az ukrán légvédelem lelőtte. Két román F-16-os szállt fel; a riasztás 11:22-kor ért véget.\n\n• **Október 14-én 17:38-kor** a Kígyó-szigettől mintegy 30 kilométerre keletre észlelt célpont Sulinától körülbelül 22 kilométerre északkeletre belépett a román légtérbe, a felségvizek fölött, majd 17:46-kor elhagyta azt. Két román F-16-os szállt fel, a lakosság 17:39-kor RO-Alertet kapott. A riasztás 19:03-kor ért véget.\n\n• **Október 14-én 20:04-kor** két légi célpont lépett be Románia légterébe a Fekete-tenger fölött. Az egyik célponttal később elvesztették a radar-kapcsolatot; a másik 20:13-kor Ukrajna felé távozott, majd az ukrán légvédelem Reni térségében megsemmisítette. A spanyol légierő két F-18-asát riasztották. Tulcea megye északkeleti részére 20:02-kor, Galați megye keleti részére 20:33-kor küldtek RO-Alertet; a riasztás 21:14-kor ért véget.\n\n• **A Sulina közelében történt hajóincidensben** egy drón találhatott el egy kereskedelmi hajót román felségvizeken, és tűz ütött ki a fedélzetén. A Comore-szigeteki zászló alatt közlekedő hajó Törökországból indult, és az ukrajnai Izmailba tartott; Constanțába irányították műszaki vizsgálatra, hogy megállapítsák, a drón okozta-e a tüzet.\n\n• **A RO-Alert-üzenetek száma** az év eleje óta Tulcea megyében, az ukrajnai háborúval összefüggésben, meghaladta a Romániában 2023 és 2025 között ugyanezen okból kiadott riasztások összesített számát.\n\n• **Október 14-ről 15-re virradó éjjel 1:34-kor** egy drónt nagyjából egy percig észleltek a román légtérben, Sulinától délkeletre, a román felségvizek fölött, majd eltűnt a radarokról. A Kígyó-sziget közelében és később attól mintegy 77 kilométerre keletre észlelt célpontok miatt előbb spanyol F-18-asok, majd román F-16-osok is felszálltak. Tulcea megye északi és keleti részére 4:57-kor küldtek RO-Alertet; további légtérsértést nem jelentettek, a riasztás 5:46-kor ért véget.\n\n• **Október 15-én 8:36-kor** újabb RO-Alertet küldtek Tulcea megye keleti részére, miután légi célpontot észleltek a Kígyó-sziget közelében. Két román F-16-os szállt fel, de a hatóságok szerint nem történt légtérsértés; a riasztást 10:27-kor fújták le.\n\n• **Moldovában, október 15-ről 16-ra virradó éjjel** négy engedély nélküli drón-átrepülést jelentettek. Az első drón 23:02-kor lépett be és 23:20-kor távozott; két másik rövid időre 3:37-kor, illetve 3:46-kor repült be. A negyedik 5:59-kor lépett be, majd 6:09-kor ismét átrepült az ország fölött. Anatolie Nosatîi védelmi miniszter az eseteket a lakosság biztonságára jelentett kockázatként ítélte el.\n\n• **Október 16-án 16:22-kor** újabb drón lépett be Moldova légterébe Soroca járásban, majd Dondușeni járásban, Codrenii Noi közelében lezuhant és felrobbant. A hatóságok arra kérték a lakosságot, hogy az ismeretlen tárgyakat és törmelékeket ne érintse meg, hanem hívja a 112-t.\n\n• **A moldovai külügyminisztérium közlése szerint** október 15–16-án hét engedély nélküli drón-átrepülést regisztráltak, ezek közül egy végződött lezuhanással és robbanással. A tárca elítélte a légtérsértéseket, és felszólította Oroszországot az Ukrajna elleni támadások leállítására, valamint Moldova szuverenitásának tiszteletben tartására.\n\n• **A Fekete-tenger térségének védelméről** Radu Miruță ügyvivő védelmi miniszter közös NATO-parancsnokság létrehozását javasolta a part menti államok részvételével. A bolgár védelmi miniszterrel közös levelet kezdeményezett a NATO vezetésének; a javaslat szerint a parancsnokság helyszíne és vezetése rotációs lenne, Románia pedig 2028-tól vállalhatná a vezetést.\n\n• **Október 17-ére virradó éjjel 1:54-kor** RO-Alertet küldtek Tulcea megye északi részére, miután a radarok Plauru közelében, Ukrajna területén, a román határ felé tartó légi célpontot észleltek. A spanyol légierő két F-18-asát riasztották; a román hatóságok nem jelentettek légtérsértést, a riasztás 2:30-kor ért véget.",
+    "title_ro": "Incidente cu drone în zona Mării Negre: alerte în România și încălcări ale spațiului aerian al Moldovei",
+    "lead_ro": "La 14 octombrie au fost emise mai multe alerte pentru județele Tulcea și Galați: ținte aeriene au pătruns pentru scurt timp în spațiul aerian românesc, iar avioane de luptă românești și spaniole au fost ridicate de la sol. În zilele următoare au continuat alertele; în Republica Moldova au fost raportate survolări neautorizate, iar o dronă s-a prăbușit și a explodat. În noaptea de vineri spre sâmbătă a fost emisă o nouă alertă RO-Alert în apropiere de Plauru, fără să fie raportată o încălcare a spațiului aerian românesc.",
+    "content_ro": "• **La 14 octombrie, la ora 6:39**, a fost transmis un mesaj RO-Alert pentru nordul județului Tulcea, după ce radarele au detectat trei ținte aeriene în apropiere de Vâlcove, Ucraina. Țintele nu au pătruns în spațiul aerian românesc; pentru monitorizarea situației au decolat două aeronave F-16 și un elicopter IAR-330 SOCAT. Alerta a încetat în jurul orei 7:58, iar ISU Tulcea nu a primit apeluri de urgență.\n\n• **La 14 octombrie, la ora 10:19**, a fost emis un nou mesaj RO-Alert pentru nordul și estul județului Tulcea. O țintă aeriană a pătruns pentru scurt timp în spațiul aerian românesc, la est de Sulina, deasupra Mării Negre, apoi a revenit în spațiul aerian ucrainean, unde a fost doborâtă de apărarea antiaeriană ucraineană. Două aeronave F-16 românești au decolat; alerta a încetat la ora 11:22.\n\n• **La 14 octombrie, la ora 17:38**, o țintă detectată la aproximativ 30 de kilometri est de Insula Șerpilor a intrat în spațiul aerian românesc, la circa 22 de kilometri nord-est de Sulina, deasupra apelor teritoriale, și l-a părăsit la ora 17:46. Două aeronave F-16 românești au decolat, iar populația a primit RO-Alert la ora 17:39. Alerta a încetat la ora 19:03.\n\n• **La 14 octombrie, la ora 20:04**, două ținte aeriene au pătruns în spațiul aerian românesc deasupra Mării Negre. Contactul radar cu una dintre ele a fost pierdut; cealaltă a ieșit la ora 20:13 spre Ucraina, unde a fost distrusă de apărarea antiaeriană ucraineană în zona Reni. Au fost ridicate de la sol două aeronave spaniole F-18. Mesaje RO-Alert au fost transmise în nord-estul județului Tulcea la ora 20:02 și în estul județului Galați la ora 20:33; alerta a încetat la ora 21:14.\n\n• **Incidentul navei din apropierea Sulinei** a implicat o navă comercială care ar fi fost lovită de o dronă în apele teritoriale românești, după care la bord a izbucnit un incendiu. Nava, sub pavilionul Insulelor Comore, plecase din Turcia și se îndrepta spre Ismail, Ucraina; a fost direcționată spre Constanța pentru verificări tehnice, menite să stabilească dacă drona a provocat incendiul.\n\n• **Numărul mesajelor RO-Alert** transmise în județul Tulcea de la începutul anului, în contextul războiului din Ucraina, a depășit totalul alertelor emise în România din același motiv în perioada 2023–2025.\n\n• **În noaptea de 14 spre 15 octombrie, la ora 1:34**, o dronă a fost detectată timp de aproximativ un minut în spațiul aerian românesc, la sud-est de Sulina, deasupra apelor teritoriale, apoi a dispărut de pe radar. După detectarea unor ținte în apropierea Insulei Șerpilor și ulterior la aproximativ 77 de kilometri est de aceasta, au decolat avioane spaniole F-18 și, mai târziu, aeronave românești F-16. Un mesaj RO-Alert a fost transmis pentru nordul și estul județului Tulcea la ora 4:57; nu au fost raportate alte pătrunderi, iar alerta a încetat la 5:46.\n\n• **La 15 octombrie, la ora 8:36**, a fost transmis un nou RO-Alert pentru estul județului Tulcea, după detectarea unei ținte aeriene în apropierea Insulei Șerpilor. Două aeronave F-16 românești au decolat, însă autoritățile au precizat că nu a avut loc o încălcare a spațiului aerian; alerta a încetat la ora 10:27.\n\n• **În noaptea de 15 spre 16 octombrie**, au fost raportate patru survolări neautorizate ale spațiului aerian al Republicii Moldova. Prima dronă a intrat la ora 23:02 și a ieșit la 23:20; alte două au pătruns pentru scurt timp la 3:37 și, respectiv, 3:46. A patra a intrat la 5:59 și a survolat din nou țara la 6:09. Ministrul Apărării, Anatolie Nosatîi, a condamnat incidentele, afirmând că reprezintă un risc pentru siguranța cetățenilor.\n\n• **La 16 octombrie, la ora 16:22**, o altă dronă a intrat în spațiul aerian al Republicii Moldova, în raionul Soroca, apoi s-a prăbușit și a explodat în apropiere de Codrenii Noi, raionul Dondușeni. Autoritățile au cerut populației să nu atingă obiectele sau fragmentele necunoscute și să sune la 112.\n\n• **Potrivit Ministerului de Externe al Republicii Moldova**, în perioada 15–16 octombrie au fost înregistrate șapte survolări neautorizate, dintre care una s-a încheiat cu prăbușirea și explozia unei drone. Ministerul a condamnat încălcările și a cerut Rusiei să oprească atacurile asupra Ucrainei și să respecte suveranitatea Republicii Moldova.\n\n• **Pentru securitatea Mării Negre**, ministrul interimar al Apărării, Radu Miruță, a propus înființarea unui comandament NATO comun cu participarea statelor riverane. El a inițiat, împreună cu omologul bulgar, o scrisoare adresată conducerii NATO; propunerea prevede rotația locației și a conducerii, iar România ar putea prelua conducerea începând din 2028.\n\n• **În noaptea de vineri spre sâmbătă, la ora 1:54**, a fost transmis un mesaj RO-Alert pentru nordul județului Tulcea, după ce radarele au detectat o țintă aeriană pe teritoriul Ucrainei, în apropiere de Plauru, îndreptându-se spre granița cu România. Două aeronave spaniole F-18 au fost ridicate de la sol; autoritățile române nu au raportat pătrunderi în spațiul aerian național, iar alerta a încetat la ora 2:30."
+  },
+  {
+    "group_id": "group_35bba2b0a1",
+    "fingerprint": "e1df0d6f90a8e573680e700e624d3dbf",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNzA3NV8zMDE3/MDc1X3Byb2ZpbWVkaWEtMTE0Mzg1OTEx/OS5qcGcmaGFzaD02OTRmNGU3ODA0MThiZThhOGMyMGQzOGYzZTdlZmU2Nw==.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Premierul Edi Rama acuză implicarea unor forțe străine în violențele din Albania: „Toate acestea sunt lucrarea aceleiași mâini”",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/premierul-edi-rama-acuza-implicarea-unor-forte-straine-in-violentele-din-albania-toate-acestea-sunt-lucrarea-aceleiasi-maini-3995517"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Noi ciocniri violente la Tirana. Premierul Albaniei acuză „forțe străine” că încearcă să blocheze aderarea țării la UE. FOTO",
+        "link": "https://stirileprotv.ro/stiri/international/noi-ciocniri-violente-la-tirana-premierul-albaniei-acuza-forte-straine-ca-incearca-sa-blocheze-aderarea-tarii-la-ue.html"
+      }
+    ],
+    "published_at": 1792211182,
+    "title_hu": "Erőszakos tüntetések Albániában, Rama külföldi erőket vádol",
+    "lead_hu": "Tiranában több napja tartanak az erőszakos kormányellenes tüntetések, amelyeken a demonstrálók Edi Rama miniszterelnök lemondását és az oktatási problémák rendezését követelik. Rama bizonyítékok bemutatása nélkül azt állította, hogy külföldi erők akarják megakadályozni Albánia uniós csatlakozását.",
+    "content_hu": "• **A több napja tartó tüntetések** során a demonstrálók a rossz egyetemi körülmények és a magas tandíjak miatt követelik Edi Rama lemondását; a megmozdulások más városokra is átterjedtek, és diákok egyetemi bojkottokat szerveztek.\n\n• **A tiranai összecsapásokban** a rendőrök könnygázt és vízágyúkat vetettek be, miután a tüntetők kövekkel dobálták őket, égő kukákkal torlaszolták el az utcákat, illetve kormányzati épületekbe próbáltak betörni. Az AFP tudósítója maszkos csoportokat látott üzleteket feltörni és kifosztani.\n\n• **A hatóságok közlése szerint** az összecsapások napjaiban 156 ember sérült meg, köztük 97 rendőr; a rendőrség legalább 160 tüntető őrizetbe vételéről számolt be. A belügyminiszter szerint két rendőrt felfüggesztettek túlzott erő alkalmazása miatt.\n\n• **Edi Rama pénteken** bizonyítékok és konkrétumok megnevezése nélkül azt állította, hogy „külföldi erők” szítják a zavargásokat, és akadályoznák Albánia uniós csatlakozását. A miniszterelnök szerint a tüntetések nem a résztvevők jogos problémáiról szólnak.\n\n• **A tiltakozások korábbi kiváltó okai között** szerepelt egy, Donald Trump családjához kötődő luxusszálloda-projekt; a demonstrációk az állítólagos korrupció és az egyenlőtlenségek elleni fellépés jelképévé is váltak.\n\n• **Az Európai Unió** aggodalmát fejezte ki az erőszak miatt, és vizsgálatot sürgetett a túlzott rendőri erő alkalmazásáról szóló vádak ügyében.",
+    "title_ro": "Proteste violente în Albania; Rama acuză forțe străine",
+    "lead_ro": "Protestele antiguvernamentale violente continuă de mai multe zile la Tirana, unde manifestanții cer demisia premierului Edi Rama și îmbunătățirea condițiilor din învățământ. Rama a susținut, fără să prezinte dovezi, că forțe străine încearcă să împiedice aderarea Albaniei la Uniunea Europeană.",
+    "content_ro": "• **Protestele desfășurate de mai multe zile** au fost declanșate de condițiile precare din universități și de taxele ridicate de școlarizare, manifestanții cerând demisia premierului Edi Rama. Mișcarea s-a extins și în alte orașe, iar studenții au organizat boicoturi universitare.\n\n• **În confruntările de la Tirana**, poliția a folosit gaze lacrimogene și tunuri cu apă după ce manifestanții au aruncat cu pietre și au blocat străzi cu pubele incendiate; unii au încercat să pătrundă în clădiri guvernamentale. Un jurnalist AFP a văzut persoane mascate spărgând și jefuind magazine.\n\n• **Potrivit autorităților**, 156 de persoane au fost rănite în ultimele zile, dintre care 97 de polițiști, iar poliția a anunțat cel puțin 160 de arestări. Ministrul de Interne a precizat că doi polițiști au fost suspendați pentru folosirea excesivă a forței.\n\n• **Vineri, Edi Rama** a acuzat, fără să prezinte dovezi sau să identifice concret pe cineva, „forțe străine” că alimentează tulburările și încearcă să blocheze aderarea Albaniei la UE. Premierul a afirmat că protestele nu au legătură cu problemele legitime ale participanților.\n\n• **Printre cauzele anterioare ale manifestațiilor** s-a numărat un proiect de hotel de lux legat de familia lui Donald Trump; protestele au devenit și un simbol al nemulțumirilor privind presupusa corupție și inegalitățile.\n\n• **Uniunea Europeană** și-a exprimat îngrijorarea față de violențe și a cerut o anchetă privind acuzațiile de folosire excesivă a forței de către poliție."
+  },
+  {
+    "group_id": "group_241f10a610",
+    "fingerprint": "4ff9c5e3bf9f165a422a831dd527d936",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Suspiciuni că ochelarii inteligenți ai Meta și-au înregistrat utilizatorii fără cunoștința lor",
+        "link": "https://hotnews.ro/suspiciuni-ca-ochelarii-inteligenti-ai-meta-si-au-inregistrat-utilizatorii-fara-cunostinta-lor-2376658"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ochelarii inteligenți Ray-Ban Meta au înregistrat conversații fără știrea utilizatorilor. Compania recunoaște eroarea",
+        "link": "https://www.mediafax.ro/tehnologie/ochelarii-inteligenti-ray-ban-meta-au-inregistrat-conversatii-fara-stirea-utilizatorilor-compania-recunoaste-eroarea-23827000"
+      }
+    ],
+    "published_at": 1792211171,
+    "title_hu": "A Ray-Ban Meta szemüvegek a felhasználók tudta nélkül rögzítettek beszélgetéseket",
+    "lead_hu": "Több Ray-Ban Meta-okosszemüveg használója arról számolt be, hogy készüléke hangfelvételeket és átiratokat mentett el anélkül, hogy szándékosan aktiválta volna a „Hey Meta” asszisztenst. A Meta közölte, hogy a hibát kijavította, de nem árulta el annak okát vagy az érintett eszközök számát; az eset ismét adatvédelmi aggályokat vetett fel.",
+    "content_hu": "• **Több Ray-Ban Meta-felhasználó** arról számolt be, hogy szemüvegük hangfelvételeket és azok átiratait mentette el a Meta AI alkalmazás előzményeibe, noha nem adtak hangutasítást az asszisztens aktiválására.\n\n• **Három szemüvegpár és több generáció** is érintett lehetett: egy felhasználó három párnál, köztük második és harmadik generációs modelleknél tapasztalta a jelenséget, annak ellenére, hogy kikapcsolta a „Hey Meta” nélküli aktiválás lehetőségét. Többen hasonló esetről számoltak be a Redditen.\n\n• **A fehér LED is felvillant** az egyik felhasználó beszámolója szerint, miközben hétköznapi beszélgetést folytatott, és nem mondta ki az aktiváló parancsot. Egy másik érintett azt írta, hogy a szokatlan működést egy közelmúltbeli szoftverfrissítés után észlelte, de a Meta nem erősítette meg, hogy a frissítés okozta volna a hibát.\n\n• **A Meta szerint a hibát kijavították.** A vállalat nem közölte, mi váltotta ki a nem szándékos rögzítést, hány készüléket érintett, illetve milyen intézkedésekkel előzné meg a hasonló eseteket. A felhasználók az alkalmazás beállításaiban megtekinthetik és törölhetik a hangfelvételeket.\n\n• **A Meta adatvédelmi tájékoztatója** szerint a hangszolgáltatások véletlenül is aktiválódhatnak, és egyes felvételeket a vállalat munkatársai is ellenőrizhetnek a szolgáltatások fejlesztése érdekében.\n\n• **Korábbi felvételekhez külsős adatfeldolgozók is hozzáfértek:** egy oknyomozó beszámoló szerint a kenyai Sama több mint 30 megkérdezett munkatársa magánjellegű tevékenységeket bemutató felvételekről számolt be. Az ügyben az Egyesült Államokban csoportos keresetet kezdeményeztek, Texas főügyésze pedig vizsgálatot indított.\n\n• **A Meta augusztusban módosította a felvételkészítést:** a szemüveg nem rögzíthet, ha letakarják a felvételt jelző fényt. A mostani eset ugyanakkor arra utal, hogy a készülék a felhasználó szándéka nélkül is rögzíthet, miközben a jelzőfény működik.\n\n• **A szabályozás és a felismerés is napirendre került:** egyes alkalmazásokat okosszemüvegek észlelésére fejlesztenek, több helyen pedig a használat korlátozását mérlegelik; Norvégia például ideiglenes tilalmat fontolgat.",
+    "title_ro": "Ochelarii Ray-Ban Meta au înregistrat conversații fără știrea utilizatorilor",
+    "lead_ro": "Mai mulți utilizatori ai ochelarilor Ray-Ban Meta au relatat că dispozitivele au salvat înregistrări audio și transcrieri fără ca ei să activeze intenționat asistentul „Hey Meta”. Meta a anunțat că a remediat problema, dar nu a precizat cauza sau numărul dispozitivelor afectate, iar incidentul a readus în discuție riscurile pentru viața privată.",
+    "content_ro": "• **Mai mulți utilizatori Ray-Ban Meta** au relatat că ochelarii au salvat înregistrări audio și transcrieri în istoricul aplicației Meta AI, deși nu au dat o comandă vocală pentru activarea asistentului.\n\n• **Problema a fost observată la trei perechi și la mai multe generații:** un utilizator a spus că a întâlnit-o la trei perechi, inclusiv modele din generațiile a doua și a treia, deși dezactivase opțiunea de activare fără comanda „Hey Meta”. Alți utilizatori au descris situații similare pe Reddit.\n\n• **LED-ul alb s-a aprins**, potrivit relatării unui utilizator, în timp ce acesta purta o conversație obișnuită și nu rostise comanda de activare. Un alt utilizator a spus că a observat comportamentul neobișnuit după o actualizare recentă de software, însă Meta nu a confirmat o legătură între actualizare și eroare.\n\n• **Meta afirmă că problema a fost remediată.** Compania nu a explicat ce a declanșat înregistrările neintenționate, câte dispozitive au fost afectate sau ce măsuri va lua pentru a preveni cazuri similare. Utilizatorii pot consulta și șterge înregistrările vocale din setările aplicației.\n\n• **Notificarea de confidențialitate a Meta** menționează că serviciile vocale pot fi activate accidental și că unele înregistrări pot fi analizate de angajații companiei pentru îmbunătățirea serviciilor.\n\n• **Înregistrări anterioare au fost accesate și de colaboratori externi:** potrivit unei anchete jurnalistice, peste 30 de angajați intervievați ai companiei kenyene Sama au relatat că au văzut înregistrări cu activități private. În SUA a fost inițiat un proces pentru obținerea statutului de acțiune colectivă, iar procurorul general al statului Texas a deschis o investigație.\n\n• **Meta a modificat în august funcționarea înregistrării:** ochelarii nu mai permit înregistrarea dacă indicatorul luminos este acoperit. Incidentul recent sugerează însă că dispozitivele pot înregistra fără intenția utilizatorului chiar și atunci când indicatorul funcționează.\n\n• **Detectarea și reglementarea ochelarilor inteligenți sunt tot mai discutate:** au apărut aplicații menite să-i detecteze, iar unele țări analizează limitarea utilizării lor; Norvegia ia în considerare o interdicție temporară."
+  },
+  {
+    "group_id": "group_5f943ec5de",
+    "fingerprint": "673498f9604b9be35af80ecf1d5f0bd9",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjA1JTJGMjk5OTY4NF8yOTk5/Njg0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTRlNjI4MmM4NzIzNDlhOTg4YzRjYjJlODY0OTNmYjky.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Trump a suspendat noile sancțiuni împotriva Rusiei pe care le-a promulgat recent, invocând interesul național",
+        "link": "https://www.digi24.ro/stiri/externe/trump-a-suspendat-noile-sanctiuni-impotriva-rusiei-pe-care-le-a-promulgat-recent-invocand-interesul-national-3996443"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Sancțiunile „din iad”, puse pe pauză. Trump suspendă taxele de 500% pentru Rusia cu două zile înainte să intre în vigoare",
+        "link": "https://www.mediafax.ro/externe/sanctiunile-din-iad-puse-pe-pauza-trump-suspenda-taxele-de-500-pentru-rusia-cu-doua-zile-inainte-sa-intre-in-vigoare-23827009"
+      }
+    ],
+    "published_at": 1792211154,
+    "title_hu": "Trump felfüggesztette az Oroszország elleni új szankciókat a hatálybalépésük előtt",
+    "lead_hu": "Donald Trump felfüggesztette az orosz energiahordozókhoz kapcsolódó új amerikai szankciókat, mindössze két nappal azok hatálybalépése előtt. A törvény lehetővé tette volna többek között az orosz import és az orosz olajat, illetve gázt vásárló országok büntetővámokkal sújtását; Trump a döntést az Egyesült Államok nemzeti érdekével indokolta.",
+    "content_hu": "• **Donald Trump pénteken** rendeletben felfüggesztette a Graham-törvényben előírt szankciókat és vámokat. A Kongresszus által elfogadott, Trump által szeptember 18-án aláírt intézkedések október 18-án léptek volna hatályba.\n\n• **A törvény** 500 százalékos vámot írt elő az orosz importárukra, valamint 100 százalékos vámot a legnagyobb orosz olaj- és gázvásárlókra, illetve az Oroszországot a szankciók kijátszásában segítő országokra. Az intézkedések orosz energetikai és védelmi vállalatokat, pénzügyi intézményeket és az orosz olajat szállító „árnyékflottát” is célozták.\n\n• **Trump a nemzeti érdekre hivatkozott:** a törvény lehetővé teszi a szankciók felfüggesztését, ha a kormányzat ezt az indokot igazolja a Kongresszusnak. Az igazolást benyújtották, de a Fehér Ház nem ismertette nyilvánosan a döntés részletes okait; a korábbi végrehajtói rendeletekkel bevezetett szankciók továbbra is érvényben maradnak.\n\n• **A felfüggesztés előtt egy héttel** Trump megállapodást jelentett be Vlagyimir Putyinnal az orosz dízelüzemanyag exportjáról. Oroszország vállalta, hogy azonnal több mint 300 ezer tonnát, majd novemberben további 500 ezer tonnát szállít; az amerikai pénzügyminisztérium a dízelre vonatkozó korlátozásokat 2027. április 7-ig enyhítette.\n\n• **A döntést bírálatok érték** mindkét amerikai párt egyes politikusai, valamint Volodimir Zelenszkij részéről. Kritikusai szerint az orosz energiahordozók exportjának és a szankciók felfüggesztésének bevételt biztosíthat Moszkvának a háború folytatásához.",
+    "title_ro": "Trump a suspendat noile sancțiuni împotriva Rusiei înainte de intrarea lor în vigoare",
+    "lead_ro": "Donald Trump a suspendat noile sancțiuni americane legate de resursele energetice rusești cu doar două zile înainte ca acestea să intre în vigoare. Legea ar fi permis, printre altele, impunerea unor taxe vamale asupra importurilor rusești și a țărilor care cumpără petrol și gaze din Rusia, iar Trump și-a justificat decizia prin interesul național al SUA.",
+    "content_ro": "• **Donald Trump a semnat vineri** un ordin prin care a suspendat sancțiunile și taxele prevăzute de Legea Graham. Măsurile, aprobate de Congres și promulgate de Trump la 18 septembrie, urmau să intre în vigoare pe 18 octombrie.\n\n• **Legea** prevedea taxe vamale de 500% pentru importurile din Rusia și de 100% pentru cei mai mari cumpărători de petrol și gaze rusești, precum și pentru țările care ajută Moscova să ocolească sancțiunile. Măsurile vizau și companii rusești din sectorul energetic și de apărare, instituții financiare și „flota din umbră” care transportă petrol rusesc.\n\n• **Trump a invocat interesul național:** legea permite suspendarea sancțiunilor dacă administrația certifică acest motiv în fața Congresului. Certificarea a fost transmisă, dar Casa Albă nu a explicat public motivele detaliate ale deciziei; sancțiunile impuse anterior prin alte ordine executive rămân în vigoare.\n\n• **Cu o săptămână înainte de suspendare**, Trump a anunțat un acord cu Vladimir Putin privind exporturile de motorină rusească. Rusia s-a angajat să livreze imediat peste 300.000 de tone și încă 500.000 de tone în noiembrie; Trezoreria SUA a relaxat restricțiile asupra motorinei până la 7 aprilie 2027.\n\n• **Decizia a fost criticată** de politicieni din ambele partide americane și de Volodimir Zelenski. Criticii susțin că exporturile de resurse energetice rusești și suspendarea sancțiunilor pot aduce Moscovei venituri pentru continuarea războiului."
+  },
+  {
+    "group_id": "group_84c18c1340",
+    "fingerprint": "fc42b635b22e115b2790692103989314",
+    "category": "Kultúra",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/tnb-facebook-teatrul-national-piesa-de-teatru-jpg.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Ghidul weekendului 16-18 octombrie în București: Teatru, festivaluri de toamnă, spectacole de lumini și gastronomie artizanală",
+        "link": "https://www.g4media.ro/ghidul-weekendului-16-18-octombrie-in-bucuresti-teatru-festivaluri-de-toamna-spectacole-de-lumini-si-gastronomie-artizanala.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Weekend trending în București, 17-18 octombrie: Ocolul Pământului în Grădina Botanică, Muzeul Sarmalelor la Biblioteca Națională și Destin Basarabean la Sala Palatului",
+        "link": "https://hotnews.ro/weekend-trending-in-bucuresti-17-18-octombrie-ocolul-pamantului-in-gradina-botanica-muzeul-sarmalelor-la-biblioteca-nationala-si-destin-basarabean-la-sala-palatului-2377838"
+      }
+    ],
+    "published_at": 1792211121,
+    "title_hu": "Színház, fényinstallációk és gasztrofesztiválok várják a bukarestieket október 16–18. között",
+    "lead_hu": "Október 16. és 18. között számos kulturális és szabadtéri program várja a bukarestieket. Elindul a 36. Országos Színházi Fesztivál és a Lumina Park, emellett gasztronómiai vásárok, tökfesztivál és természetjáró programok is szerepelnek a kínálatban.",
+    "content_hu": "• **Október 16–18. között** Bukarest több helyszínén rendeznek kulturális, gasztronómiai és családi programokat, köztük fesztiválokat, vásárokat és szabadtéri eseményeket.\n\n• **A 36. Országos Színházi Fesztivál** október 16-án kezdődik, és tíz napon át tart. A programban 88 előadás és több mint 50 kapcsolódó esemény szerepel, több mint 24 helyszínen.\n\n• **A Lumina Park** péntek este nyílik meg a Dimitrie Brândză Botanikus Kertben. A „Föld körül” témájú, mintegy 1,5 kilométeres útvonalon több mint 200 interaktív fényinstalláció várja a látogatókat.\n\n• **Az Artisan Food Market** október 16–18. között a Román Nemzeti Könyvtárban tartja 13. kiadását, mintegy 100 helyi termelő részvételével. A kínálatot kóstolók, főzőbemutatók és gasztronómiai mesterkurzusok egészítik ki; külön belépővel a Sarmale Múzeum több mint 100 kiállított tárgya is megtekinthető.\n\n• **A Titan Pumpkin Fest** a Titan parkban öt tonna tököt kínál faragó- és díszítőfoglalkozásokhoz. A hétvégén koncertek, kézműves vásár és gyermekprogramok is lesznek.\n\n• **A természet iránt érdeklődőknek** vezetett sétát szerveznek a Văcărești Természeti Parkban és a Băneasa-erdőben, a városi biodiverzitás programjai között pedig madárodúkészítés és őszi ültetés is szerepel.",
+    "title_ro": "Teatru, instalații luminoase și festivaluri gastronomice la București, între 16 și 18 octombrie",
+    "lead_ro": "Între 16 și 18 octombrie, bucureștenii au la dispoziție numeroase evenimente culturale și în aer liber. Încep Festivalul Național de Teatru și Lumina Park, iar programul include și târguri gastronomice, un festival al dovlecilor și activități dedicate naturii.",
+    "content_ro": "• **Între 16 și 18 octombrie**, Bucureștiul găzduiește evenimente culturale, gastronomice și pentru familii, în mai multe locuri din oraș.\n\n• **Festivalul Național de Teatru**, ajuns la ediția a 36-a, începe pe 16 octombrie și durează zece zile. Programul cuprinde 88 de reprezentații și peste 50 de evenimente conexe, desfășurate în mai mult de 24 de spații.\n\n• **Lumina Park** se deschide vineri seară în Grădina Botanică „Dimitrie Brândză”. Traseul de aproximativ 1,5 kilometri, cu tema „Ocolul Pământului”, include peste 200 de instalații luminoase interactive.\n\n• **Artisan Food Market** organizează a XIII-a ediție la Biblioteca Națională a României, în perioada 16–18 octombrie, cu aproximativ 100 de producători locali. Programul include degustări, demonstrații de gătit și masterclass-uri; separat, vizitatorii pot vedea peste 100 de exponate la Muzeul Sarmalelor.\n\n• **Titan Pumpkin Fest** aduce în Parcul Titan cinci tone de dovleci pentru ateliere de sculptat și decorat. În program sunt incluse concerte, un târg de artizanat și activități pentru copii.\n\n• **Pentru cei interesați de natură**, sunt organizate tururi ghidate în Parcul Natural Văcărești și în Pădurea Băneasa. Programul dedicat biodiversității urbane include și ateliere de realizat căsuțe pentru păsări și acțiuni de plantare de toamnă."
+  },
+  {
+    "group_id": "group_d09362c095",
+    "fingerprint": "56d279a6de9ac409827866afc7c3d5aa",
+    "category": "Politika",
+    "image": "https://assets.telex.hu/images/20261013/1791897828-temp-3ephf7h5pu7uegdjjbd_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 17,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Már Nicușor Dan is az előrehozott választásokra készül: ha a Niculescu-kormány csütörtökig nem szerez támogatást, feloszlathatja a parlamentet",
+        "link": "https://transtelex.ro/kozelet/2026/10/13/mar-nicusor-dan-is-az-elorehozott-valasztasokra-keszul-ha-a-niculescu-kormany-csutortokig-nem-szerez-tamogatast-feloszlatja-a-parlamentet"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan le-a transmis șefilor de partide că vineri dizolvă Parlamentul, dacă joi nu vor fi ajuns la o înțelegere privind guvernarea",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-le-a-transmis-sefilor-de-partide-ca-vineri-dizolva-parlamentul-daca-joi-nu-vor-fi-ajuns-la-o-intelegere-privind-guvernarea-3990307"
+      },
+      {
+        "source": "G4Media",
+        "title": "SURSE: Președintele Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament / Sorin Grindeanu a condiționat votul pentru guvern de intrarea PNL și UDMR în coaliția guvernamentală",
+        "link": "https://www.g4media.ro/surse-presedintele-nicusor-dan-ia-in-calcul-declansarea-alegerilor-anticipate-daca-guvernul-luca-niculescu-pica-in-parlament-sorin-grindeanu-a-conditionat-votul-pentru-guvern-de-intrarea-pnl-si-udmr.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Planul lui Nicușor Dan. Dacă Guvernul Niculescu nu găsește susținere până joi, președintele „va prezenta vineri decretul de dizolvare a Parlamentului”",
+        "link": "https://hotnews.ro/planul-lui-nicusor-dan-daca-guvernul-niculescu-nu-gaseste-sustinere-pana-joi-presedintele-va-prezenta-vineri-decretul-de-dizolvare-a-parlamentului-2374797"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Panică în partide după amenințarea pe surse cu anticipatele a lui Nicușor Dan. „Pe grupurile parlamentare e neliniște. Toată lumea întreabă dacă e real”",
+        "link": "https://www.mediafax.ro/stirile-zilei/panica-in-partide-dupa-amenintarea-pe-surse-cu-anticipatele-a-lui-nicusor-dan-pe-grupurile-parlamentare-e-neliniste-toata-lumea-intreaba-daca-e-real-23824759"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Schimbare de strategie la Cotroceni. Nicușor Dan a făcut planul într-o ședință restrânsă. Când ar putea dizolva Parlamentul",
+        "link": "https://stirileprotv.ro/stiri/politic/nicusor-dan-si-ar-putea-schimba-strategia-daca-luca-niculescu-pica-la-vot-cele-trei-variante-de-guvern-posibile.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Csoma Botond (UDMR), despre informația că Nicușor Dan ia în calcul dizolvarea Parlamentului: „O simplă speculație. E o cacealma”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/csoma-botond-udmr-despre-informatia-ca-nicusor-dan-ia-in-calcul-dizolvarea-parlamentului-o-simpla-speculatie-e-o-cacealma-3990727"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Grindeanu reacționează la scenariul dizolvării Parlamentului: „PNL și USR fug de alegeri anticipate. PSD va fi pregătit”",
+        "link": "https://www.mediafax.ro/politic/grindeanu-reactioneaza-la-scenariul-dizolvarii-parlamentului-pnl-si-usr-fug-de-alegeri-anticipate-psd-va-fi-pregatit-23824823"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Grindeanu spune că PNL i-a „tratat la mișto” propunerea de „bun simț” de a intra la guvernare: „Nu vor să răspundă de dezastrul pe care l-au făcut”",
+        "link": "https://hotnews.ro/grindeanu-spune-ca-pnl-i-a-tratat-la-misto-propunerea-de-bun-simt-de-a-intra-la-guvernare-nu-vor-sa-raspunda-de-dezastrul-pe-care-l-au-facut-2375165"
+      },
+      {
+        "source": "G4Media",
+        "title": "Grupurile parlamentare ale PNL au decis că vor vota guvernul Luca Niculescu, dar partidul nu va intra în guvern și va trece în opoziție. Decizia finală va fi luată de Biroul Politic Național",
+        "link": "https://www.g4media.ro/grupurile-parlamentare-ale-pnl-au-decis-ca-vor-vota-guvernul-luca-niculescu-dar-partidul-nu-va-intra-in-guvern-si-va-trece-in-opozitie-decizia-finala-va-fi-luata-de-biroul-politic-national.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PNL va vota Guvernul Luca Niculescu, dar nu va intra într-o coaliție cu PSD. Ionel Bogdan: „Dorința noastră este să punem capăt crizei politice”",
+        "link": "https://www.mediafax.ro/politic/pnl-va-vota-guvernul-luca-niculescu-dar-nu-va-intra-intr-o-coalitie-cu-psd-ionel-bogdan-dorinta-noastra-este-sa-punem-capat-crizei-politice-23825239"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Partidele care au anunțat că vor vota guvernul Luca Niculescu. Cine intră la guvernare și cine rămâne în opoziție",
+        "link": "https://stirileprotv.ro/stiri/politic/psd-vrea-din-nou-la-guvernare-dupa-cinci-luni-de-criza-ministrii-care-trec-din-cabinetul-bolojan-in-cabinetul-niculescu.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "PNL decide sâmbătă dacă votează guvernul Nicușor Dan – PSD – Luca Niculescu",
+        "link": "https://www.g4media.ro/pnl-decide-sambata-daca-voteaza-guvernul-nicusor-dan-psd-luca-niculescu.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "„Nu trebuie să fiu eu mulțumit”. Nicușor Dan, întrebat dacă îi place Guvernul Luca Niculescu",
+        "link": "https://www.mediafax.ro/politic/nu-trebuie-sa-fiu-eu-multumit-nicusor-dan-intrebat-daca-ii-place-guvernul-luca-niculescu-23826883"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan, anunț despre soarta Guvernului Niculescu. Ce spune despre votul de învestitură",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-anunt-despre-soarta-guvernului-niculescu-ce-spune-despre-votul-de-investitura-3996041"
+      },
+      {
+        "source": "Maszol",
+        "title": "Nicușor Dan: „nem nekem kell elégedettnek lennem”",
+        "link": "https://maszol.ro/belfold/Nicusor-Dan-nem-nekem-kell-elegedettnek-lennem"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Zi decisivă în PNL: liberalii hotărăsc dacă votează Guvernul Luca Niculescu",
+        "link": "https://www.mediafax.ro/politic/zi-decisiva-in-pnl-liberalii-hotarasc-daca-voteaza-guvernul-luca-niculescu-23827008"
+      }
+    ],
+    "published_at": 1792211098,
+    "title_hu": "Közeledik a Niculescu-kormány beiktatása, de az előrehozott választás lehetősége is napirenden van",
+    "lead_hu": "A PSD egyhangúlag úgy döntött, hogy részt vesz a Luca Niculescu vezette kormányban, a PNL és az RMDSZ pedig kormányzati részvétel nélkül is kész támogatni a kabinet beiktatását. Nicușor Dan pénteken nagyon valószínűnek nevezte a parlamenti jóváhagyást, miközben az előrehozott választásról szóló, elnöki forrásokra hivatkozó értesüléseket a hivatal nem erősítette meg hivatalosan.",
+    "content_hu": "• **A PSD október 14-i döntése** szerint a párt egyhangúlag támogatja a Niculescu-kormányt, és részt is vesz benne. A kabinet összetételéről eltérő számok jelentek meg: egyes beszámolók 11 PSD-s minisztert említenek a 19 tagú kormányban, mások 12 PSD-s és hat független politikust.\n\n• **A PNL parlamenti csoportjai támogatnák a beiktatást, de ellenzik a PSD-vel közös kormányzást:** konzultatív szavazásukon a kabinet beiktatása és egy, Luca Niculescu miniszterelnökkel köthető megállapodás mellett foglaltak állást. A PNL ellenzékben maradna; a végső pártdöntést a szombati országos vezetőségi ülés hozza meg, miközben a párton belül vannak ellenző hangok is.\n\n• **Az RMDSZ a kormány összetételétől függetlenül megszavazná a kabinetet**, és támogatási megállapodást is kész kötni Niculescuval. Csoma Botond szerint ilyen egyezségben többek között a 2027-es költségvetésről, a közalkalmazotti bérezésről és a nyugdíjakról lehetne megállapodni.\n\n• **Az USR nem szavazná meg a kabinetet:** a párt politikai bizottsága egyhangúlag döntött a kormány beiktatása elleni szavazatról, és elutasít minden olyan kormányt, amelyben a PSD vagy annak helyettesítői részt vesznek.\n\n• **A bizalmi szavazást október 20-án, kedden 14 órára tűzték ki:** Niculescu október 15-én benyújtotta a kormányprogramot és a miniszterjelöltek listáját; a jelöltek meghallgatását október 19-re tervezik. Nicușor Dan pénteken nagyon nagynak nevezte a kabinet beiktatásának esélyét, és üdvözölte a miniszterelnök-jelölt és a pártok közötti megállapodásokat.\n\n• **Az előrehozott választás lehetősége elnöki forrásokra hivatkozó sajtóértesülésként került elő:** több beszámoló szerint, ha csütörtökig nem jön létre átlátható többség, és Niculescu visszaadja megbízatását, az államfő pénteken bemutathatná a parlament feloszlatásáról szóló rendeletet. Az elnöki hivatal ezt hivatalosan nem erősítette meg; Csoma Botond spekulációnak és cacealmának nevezte az értesülést, az USR szóvivője pedig PSD-s nyomásgyakorlási kísérletként értékelte.\n\n• **Grindeanu szerint az előrehozott választás nem kívánatos, de a PSD felkészül rá:** a párt belső szervezési előkészületeket indított, miközben a PSD elnöke úgy véli, hogy a PNL és az USR nem akar előrehozott választást. Grindeanu szerint a voksolás gazdasági és politikai bizonytalanságot hosszabbítana meg, és akár más politikai erők is nyerhetnek rajta.\n\n• **A kormányalakítási vita központi kérdése a felelősség megosztása:** Grindeanu azt szorgalmazta, hogy a PNL és az RMDSZ is vállaljon kormányzati szerepet, és ellenezte, hogy a PSD egyedül viselje a politikai terheket. A PNL és az RMDSZ parlamenti támogatást ajánlott, kormányzati részvétel nélkül; Niculescu egy hat hónapos, konkrét célokat rögzítő megállapodást is javasolt.\n\n• **Az előrehozott választás alkotmányos feltételei a beszámolók szerint teljesültek, de a feloszlatás nem automatikus:** az elnöknek előbb konzultálnia kell a parlament két házának elnökével és a frakcióvezetőkkel. A feloszlatás akkor merülhet fel, ha az első kormányalakítási kérelemtől számított 60 napon belül a parlament legalább két beiktatási kísérletet elutasított; a döntés az elnök mérlegelésén múlik.\n\n• **A parlamenti számtan miatt továbbra is meghatározó a PSD támogatása:** a PNL és az RMDSZ együtt 111 képviselővel rendelkezik, az USR-rel együtt pedig 170-nel; a PSD-nek 127 képviselője van. A kormány beiktatásához 233 szavazat szükséges.",
+    "title_ro": "Guvernul Niculescu se apropie de votul de învestitură, dar alegerile anticipate rămân în discuție",
+    "lead_ro": "PSD a decis în unanimitate să participe la guvernul condus de Luca Niculescu, iar PNL și UDMR sunt dispuse să susțină învestirea fără să intre la guvernare. Nicușor Dan a spus vineri că șansele de învestire sunt foarte mari, în timp ce informațiile despre alegeri anticipate, atribuite unor surse apropiate președinției, nu au fost confirmate oficial de Administrația Prezidențială.",
+    "content_ro": "• **Decizia PSD din 14 octombrie** a fost ca partidul să susțină în unanimitate Guvernul Niculescu și să participe la Executiv. Relatările diferă în privința componenței: unele indică 11 miniștri PSD într-un cabinet de 19 membri, iar altele menționează 12 miniștri PSD și șase persoane independente politic.\n\n• **Grupurile parlamentare ale PNL ar susține învestirea, dar resping guvernarea alături de PSD:** votul lor consultativ a fost în favoarea instalării cabinetului și a unui posibil acord cu premierul desemnat Luca Niculescu. PNL ar rămâne în opoziție; decizia finală urma să fie luată de conducerea națională a partidului sâmbătă, în condițiile în care există și voci critice în interiorul formațiunii.\n\n• **UDMR ar vota guvernul indiferent de componența acestuia** și este dispusă să încheie un acord de susținere cu Niculescu. Csoma Botond a spus că acordul ar putea include teme precum bugetul pentru 2027, salarizarea personalului bugetar și pensiile.\n\n• **USR nu va vota învestirea cabinetului:** Comitetul Politic al partidului a decis în unanimitate să voteze împotrivă și respinge orice guvern care include PSD sau formațiuni considerate înlocuitori ai acestuia.\n\n• **Votul de învestitură este programat marți, 20 octombrie, la ora 14:00:** Niculescu a depus pe 15 octombrie programul de guvernare și lista miniștrilor, iar audierile candidaților sunt prevăzute pentru 19 octombrie. Vineri, Nicușor Dan a apreciat că șansele de învestire sunt foarte mari și a salutat acordurile dintre premierul desemnat și partide.\n\n• **Alegerile anticipate au apărut în relatări bazate pe surse apropiate președinției:** potrivit mai multor publicații, dacă până joi nu se formează o majoritate transparentă, iar Niculescu își depune mandatul, președintele ar putea prezenta vineri decretul de dizolvare a Parlamentului. Administrația Prezidențială nu a confirmat oficial informația; Csoma Botond a numit-o speculație și cacealma, iar purtătorul de cuvânt al USR a descris-o drept o încercare de presiune atribuită PSD.\n\n• **Grindeanu consideră alegerile anticipate nedorite, dar spune că PSD se pregătește:** partidul a început demersuri organizatorice interne, iar liderul social-democrat susține că PNL și USR nu își doresc scrutinul. În opinia sa, alegerile ar prelungi incertitudinea politică și economică, iar eventualii câștigători ar putea fi alte forțe politice.\n\n• **Disputa privind formarea guvernului se concentrează pe împărțirea responsabilității:** Grindeanu a cerut ca PNL și UDMR să participe la guvernare și s-a opus ca PSD să suporte singur costurile politice. PNL și UDMR au oferit sprijin parlamentar fără participare la Executiv, iar Niculescu a propus și un acord pe șase luni, cu obiective concrete.\n\n• **Condițiile constituționale pentru alegeri anticipate sunt, potrivit relatărilor, îndeplinite, dar dizolvarea nu este automată:** președintele trebuie să consulte mai întâi președinții celor două Camere și liderii grupurilor parlamentare. Dizolvarea poate fi luată în calcul dacă, în termen de 60 de zile de la prima solicitare de învestitură, Parlamentul a respins cel puțin două solicitări; decizia rămâne la latitudinea președintelui.\n\n• **Aritmetica parlamentară menține decisiv sprijinul PSD:** PNL și UDMR au împreună 111 parlamentari, iar alături de USR ajung la 170; PSD are 127 de parlamentari. Pentru învestirea guvernului sunt necesare 233 de voturi."
+  },
+  {
+    "group_id": "group_826c7abff6",
+    "fingerprint": "b4fc477d5b64c7bec1e135093a4a9771",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8162618-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Avertizare MAE pentru românii care merg în Franța: proteste și posibile perturbări în transporturi",
+        "link": "https://www.mediafax.ro/externe/avertizare-mae-pentru-romanii-care-merg-in-franta-proteste-si-posibile-perturbari-in-transporturi-23826912"
+      },
+      {
+        "source": "G4Media",
+        "title": "Avertizare MAE pentru românii care merg în Franța: Sâmbătă au loc proteste și posibile perturbări în transporturi",
+        "link": "https://www.g4media.ro/avertizare-mae-pentru-romanii-care-merg-in-franta-sambata-au-loc-proteste-si-posibile-perturbari-in-transporturi.html"
+      }
+    ],
+    "published_at": 1792210756,
+    "title_hu": "A román külügyminisztérium franciaországi tiltakozásokra és közlekedési fennakadásokra figyelmeztet",
+    "lead_hu": "A román külügyminisztérium szerint Franciaországban több városban tiltakozásokra, október 17–21. között pedig a légiközlekedési ágazatban sztrájkra lehet számítani. Emiatt a közúti, vasúti, légi és helyi közlekedésben is fennakadások alakulhatnak ki.",
+    "content_hu": "• **Október 17–21. között** a légiközlekedési ágazatban meghirdetett sztrájk érintheti a járatokat.\n\n• **A tiltakozások** városi központokban, többek között útkereszteződésekben, körforgalmakban, benzinkutaknál, vasúti csomópontoknál és olajraktáraknál okozhatnak blokádokat vagy más akciókat.\n\n• **A közlekedésben** a nagyvárosokban és a tiltakozások által érintett létesítmények közelében a közösségi, közúti, vasúti és légi forgalom is akadozhat.\n\n• **A román külügyminisztérium** azt tanácsolja az utazóknak, hogy indulás előtt tájékozódjanak, kövessék a közlekedési szolgáltatók és a repülőterek frissítéseit, valamint szükség esetén használják a minisztérium konzuli segítségnyújtási elérhetőségeit.",
+    "title_ro": "MAE avertizează asupra protestelor și perturbărilor transporturilor în Franța",
+    "lead_ro": "Ministerul Afacerilor Externe din România avertizează că în mai multe orașe din Franța sunt anunțate proteste, iar în perioada 17–21 octombrie este prevăzută o grevă în sectorul aviatic. Acestea ar putea perturba transportul rutier, feroviar, aerian și public.",
+    "content_ro": "• **În perioada 17–21 octombrie**, o grevă anunțată în sectorul aviatic ar putea afecta zborurile.\n\n• **Protestele** ar putea avea loc în centre urbane și ar putea include blocaje sau acțiuni punctuale în intersecții, sensuri giratorii, stații de alimentare, noduri feroviare și depozite petroliere.\n\n• **Transporturile** publice, rutiere, feroviare și aeriene ar putea înregistra perturbări, în special în marile orașe și în apropierea infrastructurilor vizate de proteste.\n\n• **MAE recomandă călătorilor** să verifice informațiile înainte de plecare și să urmărească actualizările operatorilor de transport și ale aeroporturilor; cetățenii români pot solicita asistență consulară prin misiunile diplomatice din Franța."
+  },
+  {
+    "group_id": "group_f17c5faf16",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/9a2550b5-d8af-4bb4-bec4-45efac7d0531.jpeg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Replica pentru Dumiter a venit imediat după ce a contestat penalty-ul lui Dinamo: „Nu există termen de comparație”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/dinamo-fc-botosani-penalty-andrei-dumiter-replica-florin-prunea-gabi-torje-989023.html"
+      }
+    ],
+    "published_at": 1792210304,
+    "title_hu": "Replica pentru Dumiter a venit imediat după ce a contestat penalty-ul lui Dinamo: „Nu există termen de comparație”",
+    "lead_hu": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81…",
+    "content_hu": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81, la 0-0, Dinamo a primit prima lovitură de penalty din meci, după ce Andrei Mărginean a lovit mingea cu capul, iar portarul Anestis, ieșit pentru a boxa centrarea, a avut un contact cu mijlocașul dinamovist. ...",
+    "title_ro": "Replica pentru Dumiter a venit imediat după ce a contestat penalty-ul lui Dinamo: „Nu există termen de comparație”",
+    "lead_ro": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81…",
+    "content_ro": "La finalul meciului dintre Dinamo și FC Botoșani, 2-0, Andrei Dumiter a criticat primul penalty primit de gazde. Imediat după declarație, Florin Prunea și Gabi Torje au venit cu replica. În minutul 81, la 0-0, Dinamo a primit prima lovitură de penalty din meci, după ce Andrei Mărginean a lovit mingea cu capul, iar portarul Anestis, ieșit pentru a boxa centrarea, a avut un contact cu mijlocașul dinamovist. ..."
   },
   {
     "group_id": "group_d04017b405",
@@ -535,34 +880,6 @@
     "title_ro": "A fost elucidat misterul cadavrului găsit într-un butoi în apele secate ale Lacului Mead. Ipotezele poliției au fost date peste cap",
     "lead_ro": "După patru ani, misterul scos la iveală de apele secate ale Lacului Mead a fost elucidat parțial. Rămășițele unui bărbat au fost descoperite într-un butoi, în timpul perioadei secetoase din 2022. De a…",
     "content_ro": "După patru ani, misterul scos la iveală de apele secate ale Lacului Mead a fost elucidat parțial. Rămășițele unui bărbat au fost descoperite într-un butoi, în timpul perioadei secetoase din 2022. De atunci, anchetatorii din Las Vegas au încercat să afle identitatea bărbatului care fusese împușcat în cap cu zeci de ani în urmă. Acum, i-a fost făcut public numele: Edward Lelburian Jackson. Anchetatorii mai au însă de aflat și cine a fost autorul crimei, relatează The Guardian."
-  },
-  {
-    "group_id": "group_241f10a610",
-    "fingerprint": "e805a4f4d7ad96f37857234b4690ff05",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Suspiciuni că ochelarii inteligenți ai Meta și-au înregistrat utilizatorii fără cunoștința lor",
-        "link": "https://hotnews.ro/suspiciuni-ca-ochelarii-inteligenti-ai-meta-si-au-inregistrat-utilizatorii-fara-cunostinta-lor-2376658"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ochelarii inteligenți Ray-Ban Meta au înregistrat conversații fără știrea utilizatorilor. Compania recunoaște eroarea",
-        "link": "https://www.mediafax.ro/tehnologie/ochelarii-inteligenti-ray-ban-meta-au-inregistrat-conversatii-fara-stirea-utilizatorilor-compania-recunoaste-eroarea-23827000"
-      }
-    ],
-    "published_at": 1792209571,
-    "title_hu": "A Ray-Ban Meta szemüvegek a felhasználók tudta nélkül rögzítettek beszélgetéseket",
-    "lead_hu": "Több Ray-Ban Meta-okosszemüveg használója arról számolt be, hogy a készülékek hangfelvételeket és átiratokat mentettek el anélkül, hogy aktiválták volna a „Hey Meta” asszisztenst. A Meta közölte, hogy a hibát kijavította, de nem részletezte annak okát vagy azt, hány eszközt érintett.",
-    "content_hu": "• **Több Ray-Ban Meta-felhasználó** arról számolt be, hogy szemüvegük hangfelvételeket és azok átiratait mentette el a Meta AI alkalmazás előzményeibe, noha nem adtak hangutasítást az asszisztens aktiválására.\n\n• **Egy felhasználó három szemüvegpárnál** tapasztalta a jelenséget, és azt írta, hogy a probléma akkor is előfordult, amikor kikapcsolta a hangasszisztens „Hey Meta” nélküli aktiválásának lehetőségét. Mások a Redditen hasonló tapasztalatokról számoltak be.\n\n• **A Meta szerint a hibát kijavították.** A vállalat nem közölte, mi okozta a nem szándékos rögzítést, hány készüléket érintett, illetve milyen intézkedésekkel előzné meg a hasonló eseteket. A felhasználók az alkalmazás beállításaiban megtekinthetik és törölhetik a hangfelvételeket.\n\n• **A történtek adatvédelmi aggályokat vetnek fel.** Korábbi beszámolók szerint a Meta adatfeldolgozó partnereinek munkatársai hozzáférhettek az okosszemüvegekkel készített felvételekhez, köztük olyanokhoz is, amelyek magánjellegű tevékenységeket mutattak. A Meta korábban arra hivatkozott, hogy a készülékek fényjelzése figyelmeztet a felvételkészítésre.",
-    "title_ro": "Ochelarii Ray-Ban Meta au înregistrat conversații fără știrea utilizatorilor",
-    "lead_ro": "Mai mulți utilizatori ai ochelarilor inteligenți Ray-Ban Meta au spus că dispozitivele au salvat înregistrări audio și transcrieri fără ca asistentul „Hey Meta” să fi fost activat. Meta a declarat că a remediat problema, dar nu a precizat cauza acesteia sau câte dispozitive au fost afectate.",
-    "content_ro": "• **Mai mulți utilizatori Ray-Ban Meta** au relatat că ochelarii au salvat înregistrări audio și transcrierile acestora în istoricul aplicației Meta AI, deși nu au dat o comandă vocală pentru activarea asistentului.\n\n• **Un utilizator a întâmpinat problema la trei perechi de ochelari** și a spus că aceasta s-a produs chiar și după ce a dezactivat opțiunea de activare a asistentului vocal fără comanda „Hey Meta”. Alți utilizatori au descris experiențe similare pe Reddit.\n\n• **Meta a anunțat că eroarea a fost remediată.** Compania nu a precizat ce a provocat înregistrările neintenționate, câte dispozitive au fost afectate sau ce măsuri va lua pentru a preveni situații similare. Utilizatorii pot consulta și șterge înregistrările vocale din setările aplicației.\n\n• **Incidentul ridică preocupări privind confidențialitatea.** Relatări anterioare au arătat că angajați ai unor parteneri de procesare a datelor ai Meta au putut accesa înregistrări realizate cu ochelarii inteligenți, inclusiv imagini cu activități private. Meta a susținut anterior că un indicator luminos avertizează când dispozitivele înregistrează."
   },
   {
     "group_id": "group_b1f633dfc2",
@@ -4570,79 +4887,6 @@
     "content_ro": "• **Prim-ministra japoneză Sanae Takaichi** a declarat în Parlament că activitățile legate de aspectul personal și gospodărie îi ocupă cel puțin trei ore pe zi.\n\n• **În comparație cu un prim-ministru bărbat**, Takaichi estimează că ar putea petrece cu trei sau patru ore mai mult cu aceste activități. Ea a spus și că îi este dificil să găsească timp pentru a se așeza și a se concentra cu mintea limpede.\n\n• **Declarațiile au declanșat o dezbatere în Japonia**, unde împărțirea responsabilităților casnice între femei și bărbați și așteptările privind aspectul femeilor rămân subiecte sensibile.\n\n• **Discuția a vizat și conceptul „midashinami”**, referitor la standardele sociale privind o apariție îngrijită în spațiul public și profesional. Pentru femei, aceste norme pot include machiajul și anumite cerințe vestimentare.\n\n• **Takaichi este prima femeie care ocupă funcția de prim-ministru al Japoniei.** Unii dintre susținătorii săi au apreciat că intervenția atrage atenția asupra presiunilor cu care se confruntă femeile care încearcă să îmbine cariera cu responsabilitățile gospodărești."
   },
   {
-    "group_id": "group_d09362c095",
-    "fingerprint": "8830fae16a88b11e8cd28f0d948a3f45",
-    "category": "Politika",
-    "image": "https://assets.telex.hu/images/20261013/1791897828-temp-3ephf7h5pu7uegdjjbd_cimlap-normal.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Nicușor Dan le-a transmis șefilor de partide că vineri dizolvă Parlamentul, dacă joi nu vor fi ajuns la o înțelegere privind guvernarea",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-le-a-transmis-sefilor-de-partide-ca-vineri-dizolva-parlamentul-daca-joi-nu-vor-fi-ajuns-la-o-intelegere-privind-guvernarea-3990307"
-      },
-      {
-        "source": "G4Media",
-        "title": "SURSE: Președintele Nicușor Dan ia în calcul declanșarea alegerilor anticipate dacă guvernul Luca Niculescu pică în Parlament / Sorin Grindeanu a condiționat votul pentru guvern de intrarea PNL și UDMR în coaliția guvernamentală",
-        "link": "https://www.g4media.ro/surse-presedintele-nicusor-dan-ia-in-calcul-declansarea-alegerilor-anticipate-daca-guvernul-luca-niculescu-pica-in-parlament-sorin-grindeanu-a-conditionat-votul-pentru-guvern-de-intrarea-pnl-si-udmr.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Panică în partide după amenințarea pe surse cu anticipatele a lui Nicușor Dan. „Pe grupurile parlamentare e neliniște. Toată lumea întreabă dacă e real”",
-        "link": "https://www.mediafax.ro/stirile-zilei/panica-in-partide-dupa-amenintarea-pe-surse-cu-anticipatele-a-lui-nicusor-dan-pe-grupurile-parlamentare-e-neliniste-toata-lumea-intreaba-daca-e-real-23824759"
-      },
-      {
-        "source": "Digi24",
-        "title": "Csoma Botond (UDMR), despre informația că Nicușor Dan ia în calcul dizolvarea Parlamentului: „O simplă speculație. E o cacealma”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/csoma-botond-udmr-despre-informatia-ca-nicusor-dan-ia-in-calcul-dizolvarea-parlamentului-o-simpla-speculatie-e-o-cacealma-3990727"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Grindeanu reacționează la scenariul dizolvării Parlamentului: „PNL și USR fug de alegeri anticipate. PSD va fi pregătit”",
-        "link": "https://www.mediafax.ro/politic/grindeanu-reactioneaza-la-scenariul-dizolvarii-parlamentului-pnl-si-usr-fug-de-alegeri-anticipate-psd-va-fi-pregatit-23824823"
-      },
-      {
-        "source": "G4Media",
-        "title": "Grupurile parlamentare ale PNL au decis că vor vota guvernul Luca Niculescu, dar partidul nu va intra în guvern și va trece în opoziție. Decizia finală va fi luată de Biroul Politic Național",
-        "link": "https://www.g4media.ro/grupurile-parlamentare-ale-pnl-au-decis-ca-vor-vota-guvernul-luca-niculescu-dar-partidul-nu-va-intra-in-guvern-si-va-trece-in-opozitie-decizia-finala-va-fi-luata-de-biroul-politic-national.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "PNL va vota Guvernul Luca Niculescu, dar nu va intra într-o coaliție cu PSD. Ionel Bogdan: „Dorința noastră este să punem capăt crizei politice”",
-        "link": "https://www.mediafax.ro/politic/pnl-va-vota-guvernul-luca-niculescu-dar-nu-va-intra-intr-o-coalitie-cu-psd-ionel-bogdan-dorinta-noastra-este-sa-punem-capat-crizei-politice-23825239"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Partidele care au anunțat că vor vota guvernul Luca Niculescu. Cine intră la guvernare și cine rămâne în opoziție",
-        "link": "https://stirileprotv.ro/stiri/politic/psd-vrea-din-nou-la-guvernare-dupa-cinci-luni-de-criza-ministrii-care-trec-din-cabinetul-bolojan-in-cabinetul-niculescu.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Nu trebuie să fiu eu mulțumit”. Nicușor Dan, întrebat dacă îi place Guvernul Luca Niculescu",
-        "link": "https://www.mediafax.ro/politic/nu-trebuie-sa-fiu-eu-multumit-nicusor-dan-intrebat-daca-ii-place-guvernul-luca-niculescu-23826883"
-      },
-      {
-        "source": "Digi24",
-        "title": "Nicușor Dan, anunț despre soarta Guvernului Niculescu. Ce spune despre votul de învestitură",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-anunt-despre-soarta-guvernului-niculescu-ce-spune-despre-votul-de-investitura-3996041"
-      },
-      {
-        "source": "Maszol",
-        "title": "Nicușor Dan: „nem nekem kell elégedettnek lennem”",
-        "link": "https://maszol.ro/belfold/Nicusor-Dan-nem-nekem-kell-elegedettnek-lennem"
-      }
-    ],
-    "published_at": 1792173420,
-    "title_hu": "Megnyílhat az út a Niculescu-kormány előtt, miközben az előrehozott választás lehetősége is napirenden van",
-    "lead_hu": "A PSD október 14-én egyhangúlag úgy döntött, hogy részt vesz a Luca Niculescu vezette kormányban, a PNL és az RMDSZ pedig a kabinet beiktatását támogatná, de ellenzékben maradna. Nicușor Dan pénteken nagyon valószínűnek nevezte a kormány parlamenti jóváhagyását; az előrehozott választásról szóló, elnöki forrásokra hivatkozó értesüléseket ugyanakkor a hivatal nem erősítette meg hivatalosan.",
-    "content_hu": "• **A PSD október 14-i döntése** szerint a párt egyhangúlag támogatja a Niculescu-kormányt, és részt is vesz benne. A kormány összetételéről szóló beszámolók 12 PSD-s és hat politikailag független minisztert említenek.\n\n• **A PNL és az RMDSZ támogatná a beiktatást, de nem lépne koalícióra a PSD-vel:** a liberális parlamenti csoportok konzultatív szavazással támogatták a kabinet beiktatását, elutasították a PSD-vel közös kormányzást, és felvetették egy, a miniszterelnökkel kötendő szakpolitikai megállapodás lehetőségét. A végső pártdöntést a PNL országos vezetése hozza meg. Az RMDSZ jelezte, hogy a kormány összetételétől függetlenül megszavazza azt, és támogatási megállapodásról is kész tárgyalni.\n\n• **Az USR nem szavazná meg a kabinetet:** a párt politikai bizottsága egyhangúlag döntött arról, hogy képviselői és szenátorai a Niculescu-kormány beiktatása ellen voksolnak, ha abban PSD-s miniszterek is lesznek.\n\n• **A bizalmi szavazást október 20-ára, keddre tűzték ki:** Niculescu október 15-én nyújtja be a kormányprogramot és a miniszterjelöltek listáját. Nicușor Dan pénteken nagyon nagynak nevezte a kabinet beiktatásának esélyét, és üdvözölte a miniszterelnök-jelölt és a pártok közötti megállapodásokat.\n\n• **Az előrehozott választás lehetősége elnöki forrásokra hivatkozó sajtóértesülésként került elő:** több beszámoló szerint Nicușor Dan pénteken a parlament feloszlatásáról szóló rendeletet mutathatná be, ha csütörtökig nem jön létre átlátható többség, és Niculescu visszaadja megbízatását. Az elnöki hivatal nem erősítette meg hivatalosan a tervet; Csoma Botond, az RMDSZ frakcióvezetője spekulációnak és „cacealmának” nevezte az értesülést.\n\n• **A PSD nem kívánatosnak, de lehetségesnek tartja az előrehozott választást:** Sorin Grindeanu szerint a párt már megkezdte az előkészületeket, ugyanakkor az elhúzódó politikai és gazdasági bizonytalanság miatt nem tartja jó megoldásnak. Azt is állította, hogy a PNL és az USR nem szeretne előrehozott választást, és egy ilyen voksolás nyertesei akár más politikai erők is lehetnek.\n\n• **A kormányalakítási vita egyik fő kérdése a felelősség megosztása:** Grindeanu korábban azt szorgalmazta, hogy a PNL és az RMDSZ is vállaljon kormányzati szerepet, és ellenezte, hogy a PSD egyedül viselje a kormányzás politikai terheit. A PNL és az RMDSZ ezzel szemben parlamenti támogatást ajánlott, kormányzati részvétel nélkül; a PNL egy hat hónapos időszakra szóló, konkrét célokat rögzítő megállapodás lehetőségét is felvetette.\n\n• **Az előrehozott választás alkotmányos feltételei a beszámolók szerint teljesültek, de a feloszlatás nem automatikus:** az elnöknek előbb konzultálnia kell a parlament két házának elnökével és a frakcióvezetőkkel. A feloszlatás akkor merülhet fel, ha az első kormányalakítási kérelemtől számított 60 napon belül a parlament legalább két beiktatási kísérletet elutasított; a döntés az elnök mérlegelésén múlik.\n\n• **A parlamenti számtan miatt továbbra is meghatározó a PSD támogatása:** a PNL és az RMDSZ együtt 111 képviselővel rendelkezik, az USR-rel együtt pedig 170-nel; a PSD-nek 127 képviselője van. A kormány beiktatásához 233 szavazat szükséges.",
-    "title_ro": "Guvernul Niculescu ar putea trece de Parlament, în timp ce scenariul anticipatelor rămâne în discuție",
-    "lead_ro": "Pe 14 octombrie, PSD a decis în unanimitate să intre în guvernul condus de Luca Niculescu, iar PNL și UDMR ar urma să susțină învestirea fără să participe la guvernare. Vineri, Nicușor Dan a spus că sunt șanse foarte mari ca executivul să treacă de Parlament; informațiile despre o posibilă dizolvare a legislativului nu au fost confirmate oficial de Administrația Prezidențială.",
-    "content_ro": "• **Decizia PSD din 14 octombrie** prevede susținerea unanimă a Guvernului Niculescu și participarea partidului la executiv. Relatările despre componență menționează 12 miniștri PSD și șase independenți politic.\n\n• **PNL și UDMR ar vota învestirea, dar nu ar intra într-o coaliție cu PSD:** grupurile parlamentare liberale au votat consultativ pentru învestirea cabinetului, împotriva guvernării alături de PSD și pentru posibilitatea unui acord politic cu premierul desemnat. Decizia finală aparține conducerii naționale a PNL. UDMR a anunțat că va vota guvernul indiferent de formula acestuia și că este dispusă să negocieze un acord de susținere.\n\n• **USR nu ar vota cabinetul:** conducerea politică a partidului a decis în unanimitate ca parlamentarii săi să voteze împotriva învestirii dacă în guvern vor fi și miniștri PSD.\n\n• **Votul de învestitură este programat pentru marți, 20 octombrie:** Niculescu urmează să depună programul de guvernare și lista miniștrilor pe 15 octombrie. Vineri, Nicușor Dan a apreciat că sunt șanse foarte mari ca guvernul să fie învestit și a salutat acordurile dintre premierul desemnat și partide.\n\n• **Anticipatele au fost invocate în relatări bazate pe surse prezidențiale:** potrivit mai multor publicații, Nicușor Dan ar putea prezenta vineri decretul de dizolvare a Parlamentului dacă până joi nu se conturează o majoritate transparentă, iar Niculescu își depune mandatul. Administrația Prezidențială nu a confirmat oficial planul, iar liderul deputaților UDMR, Csoma Botond, a numit informația o speculație și „o cacealma”.\n\n• **PSD consideră anticipate nedorite, dar posibile:** Sorin Grindeanu a spus că partidul a început pregătirile interne, deși nu consideră scrutinul o soluție bună din cauza instabilității politice și economice pe care ar prelungi-o. El a susținut că PNL și USR nu își doresc alegeri anticipate și că eventualii câștigători ar putea fi alte forțe politice.\n\n• **Disputa privind formarea guvernului vizează și împărțirea responsabilității:** Grindeanu a cerut anterior ca PNL și UDMR să participe la guvernare și a respins varianta în care PSD ar suporta singur costurile politice ale executivului. PNL și UDMR oferă sprijin parlamentar, dar nu participarea la guvern; liberalii au propus și un posibil acord cu obiective concrete, pentru o perioadă de șase luni.\n\n• **Condițiile constituționale pentru anticipate sunt, potrivit relatărilor, îndeplinite, dar dizolvarea nu este automată:** președintele trebuie să consulte președinții celor două Camere și liderii grupurilor parlamentare. Dizolvarea poate fi luată în calcul dacă, în 60 de zile de la prima solicitare de învestitură, Parlamentul a respins cel puțin două solicitări; decizia rămâne la latitudinea președintelui.\n\n• **Aritmetica parlamentară face în continuare decisiv sprijinul PSD:** PNL și UDMR au împreună 111 parlamentari, iar alături de USR ajung la 170; PSD are 127. Pentru învestirea guvernului sunt necesare 233 de voturi."
-  },
-  {
     "group_id": "group_7cd068d9ba",
     "fingerprint": "611a7e22df2731702fb18ce8a48844cd",
     "category": "Sport",
@@ -4736,27 +4980,6 @@
     "title_ro": "De ce a apărut un televizor doar în vila fetelor de la Insula Iubirii. Pentru cine l-au adus producătorii, de fapt",
     "lead_ro": "Sezonul X din Insula Iubirii nu contenește să ne aducă surprize! Se pare că anul acesta, producția a decis să încingă spiritele prin integrarea unui element neașteptat în vila fetelor! În timpul unei …",
     "content_ro": "Sezonul X din Insula Iubirii nu contenește să ne aducă surprize! Se pare că anul acesta, producția a decis să încingă spiritele prin integrarea unui element neașteptat în vila fetelor! În timpul unei petreceri în care voia bună era la ea acasă, fetele s-au trezit față în față cu o plasmă care le-a dat bătăi […]"
-  },
-  {
-    "group_id": "group_826c7abff6",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8162618-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Avertizare MAE pentru românii care merg în Franța: proteste și posibile perturbări în transporturi",
-        "link": "https://www.mediafax.ro/externe/avertizare-mae-pentru-romanii-care-merg-in-franta-proteste-si-posibile-perturbari-in-transporturi-23826912"
-      }
-    ],
-    "published_at": 1792173195,
-    "title_hu": "Avertizare MAE pentru românii care merg în Franța: proteste și posibile perturbări în transporturi",
-    "lead_hu": "Ministerul Afacerilor Externe (MAE) avertizează cetățenii români care se află în Franța, tranzitează țara sau intenționează să călătorească acolo că sâmbătă sunt programate manifestații și acțiuni de …",
-    "content_hu": "Ministerul Afacerilor Externe (MAE) avertizează cetățenii români care se află în Franța, tranzitează țara sau intenționează să călătorească acolo că sâmbătă sunt programate manifestații și acțiuni de protest în mai multe orașe.",
-    "title_ro": "Avertizare MAE pentru românii care merg în Franța: proteste și posibile perturbări în transporturi",
-    "lead_ro": "Ministerul Afacerilor Externe (MAE) avertizează cetățenii români care se află în Franța, tranzitează țara sau intenționează să călătorească acolo că sâmbătă sunt programate manifestații și acțiuni de …",
-    "content_ro": "Ministerul Afacerilor Externe (MAE) avertizează cetățenii români care se află în Franța, tranzitează țara sau intenționează să călătorească acolo că sâmbătă sunt programate manifestații și acțiuni de protest în mai multe orașe."
   },
   {
     "group_id": "group_4075d46489",
@@ -5964,224 +6187,5 @@
     "title_ro": "Bolojan: „Niciun guvern nu va putea evita indexarea pensiilor și salariilor după doi ani de plafonare” / Atac la cei care propun acum legea salarizării: „Trebuie să se întrebe unii când au fost băuți”",
     "lead_ro": "Premierul interimar Ilie Bolojan susține că niciun guvern nu va putea evita indexarea pensiilor și salariilor, după doi ani de plafonare în care inflația a redus puterea de cumpărare. Fostul premier a…",
     "content_ro": "Premierul interimar Ilie Bolojan susține că niciun guvern nu va putea evita indexarea pensiilor și salariilor, după doi ani de plafonare în care inflația a redus puterea de cumpărare. Fostul premier a criticat, totodată, momentul în care este propusă legea salarizării, afirmând că aceasta ar fi trebuit adoptată în august, când România avea de îndeplinit […]"
-  },
-  {
-    "group_id": "group_cd2eb29114",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-b/b2c139e4-fc2d-42b6-88af-a515a86fa628/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "„Dacă nu bați o femeie, nu ești cu adevărat bărbat”. Pedeapsa primită de un influencer pentru incitare la violență",
-        "link": "https://adevarul.ro/stiri-interne/societate/daca-nu-bati-o-femeie-nu-esti-cu-adevarat-2564584.html"
-      }
-    ],
-    "published_at": 1792168355,
-    "title_hu": "„Dacă nu bați o femeie, nu ești cu adevărat bărbat”. Pedeapsa primită de un influencer pentru incitare la violență",
-    "lead_hu": "Un influencer bucureștean de 38 de ani a fost condamnat la 11 luni de închisoare cu suspendare, pentru o transmisiune live pe YouTube, în care îi îndemna pe bărbați să le bată pe femei pentru a le înv…",
-    "content_hu": "Un influencer bucureștean de 38 de ani a fost condamnat la 11 luni de închisoare cu suspendare, pentru o transmisiune live pe YouTube, în care îi îndemna pe bărbați să le bată pe femei pentru a le învăța „cine e șeful\".",
-    "title_ro": "„Dacă nu bați o femeie, nu ești cu adevărat bărbat”. Pedeapsa primită de un influencer pentru incitare la violență",
-    "lead_ro": "Un influencer bucureștean de 38 de ani a fost condamnat la 11 luni de închisoare cu suspendare, pentru o transmisiune live pe YouTube, în care îi îndemna pe bărbați să le bată pe femei pentru a le înv…",
-    "content_ro": "Un influencer bucureștean de 38 de ani a fost condamnat la 11 luni de închisoare cu suspendare, pentru o transmisiune live pe YouTube, în care îi îndemna pe bărbați să le bată pe femei pentru a le învăța „cine e șeful\"."
-  },
-  {
-    "group_id": "group_909117b29c",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cutremur-japonia.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Alerta de cutremur de magnitudine 9,9 care i-a speriat pe japonezi! Ce explicație a oferit Agenția Meteorologică după ce au retras-o",
-        "link": "https://www.cancan.ro/alerta-de-cutremur-de-magnitudine-99-care-i-a-speriat-pe-japonezi-ce-explicatie-a-oferit-agentia-meteorologica-dupa-ce-au-retras-o-21531233"
-      }
-    ],
-    "published_at": 1792168346,
-    "title_hu": "Alerta de cutremur de magnitudine 9,9 care i-a speriat pe japonezi! Ce explicație a oferit Agenția Meteorologică după ce au retras-o",
-    "lead_hu": "Agenția Meteorologică a Japoniei (JMA) a emis o alertă de urgență privind un cutremur la ora 12:36 PM JST, după ce datele automate inițiale indicau un cutremur cu magnitudinea de 9,9, cu potențial cat…",
-    "content_hu": "Agenția Meteorologică a Japoniei (JMA) a emis o alertă de urgență privind un cutremur la ora 12:36 PM JST, după ce datele automate inițiale indicau un cutremur cu magnitudinea de 9,9, cu potențial catastrofal, în apropierea Insulelor Kurile. Alerta avertiza asupra unor posibile cutremure cu intensitate seismică maximă de 7 în anumite zone din Hokkaido, […]",
-    "title_ro": "Alerta de cutremur de magnitudine 9,9 care i-a speriat pe japonezi! Ce explicație a oferit Agenția Meteorologică după ce au retras-o",
-    "lead_ro": "Agenția Meteorologică a Japoniei (JMA) a emis o alertă de urgență privind un cutremur la ora 12:36 PM JST, după ce datele automate inițiale indicau un cutremur cu magnitudinea de 9,9, cu potențial cat…",
-    "content_ro": "Agenția Meteorologică a Japoniei (JMA) a emis o alertă de urgență privind un cutremur la ora 12:36 PM JST, după ce datele automate inițiale indicau un cutremur cu magnitudinea de 9,9, cu potențial catastrofal, în apropierea Insulelor Kurile. Alerta avertiza asupra unor posibile cutremure cu intensitate seismică maximă de 7 în anumite zone din Hokkaido, […]"
-  },
-  {
-    "group_id": "group_6dd4475727",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-16-at-19-28-39-1024x768.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Dan Șucu, la 20 de ani de Mobexpert Băneasa: „Omul vrea mai mult, mai mult, mai mult”",
-        "link": "https://www.mediafax.ro/economic/dan-sucu-la-20-de-ani-de-mobexpert-baneasa-omul-vrea-mai-mult-mai-mult-mai-mult-23826860"
-      }
-    ],
-    "published_at": 1792168246,
-    "title_hu": "Dan Șucu, la 20 de ani de Mobexpert Băneasa: „Omul vrea mai mult, mai mult, mai mult”",
-    "lead_hu": "Dan Șucu a marcat, vineri, 20 de ani de la deschiderea magazinului Mobexpert din Băneasa, unul dintre proiectele prin care antreprenorul a urmărit să aducă în România un concept inspirat din Europa.",
-    "content_hu": "Dan Șucu a marcat, vineri, 20 de ani de la deschiderea magazinului Mobexpert din Băneasa, unul dintre proiectele prin care antreprenorul a urmărit să aducă în România un concept inspirat din Europa.",
-    "title_ro": "Dan Șucu, la 20 de ani de Mobexpert Băneasa: „Omul vrea mai mult, mai mult, mai mult”",
-    "lead_ro": "Dan Șucu a marcat, vineri, 20 de ani de la deschiderea magazinului Mobexpert din Băneasa, unul dintre proiectele prin care antreprenorul a urmărit să aducă în România un concept inspirat din Europa.",
-    "content_ro": "Dan Șucu a marcat, vineri, 20 de ani de la deschiderea magazinului Mobexpert din Băneasa, unul dintre proiectele prin care antreprenorul a urmărit să aducă în România un concept inspirat din Europa."
-  },
-  {
-    "group_id": "group_b4811f62a6",
-    "fingerprint": "c1b3eabc567254c6be6003928f52c83b",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjAyJTJGMTgwOTk1MV8xODA5/OTUxXzExMi1hbWJ1bGFudGEuanBnJmhh/c2g9NjNiODM0Njc4ZDE5ZGI2N2YxZjg3ZmZlNDcxYWEwYmE=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Angajat al Direcţiei Silvice Maramureş, găsit mort, cu răni grave, într-un complex de vânătoare. Ipoteza luată în calcul de anchetatori",
-        "link": "https://www.digi24.ro/stiri/angajat-al-directiei-silvice-maramures-gasit-mort-cu-rani-grave-intr-un-complex-de-vanatoare-ipoteza-luata-in-calcul-de-anchetatori-3994895"
-      },
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Tragedie în județul vecin. Pădurar găsit mort într-un complex de vânătoare. Prima ipoteză a anchetatorilor",
-        "link": "https://www.presasm.ro/tragedie-in-judetul-vecin-padurar-gasit-mort-intr-un-complex-de-vanatoare-prima-ipoteza-a/53808"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Un pădurar, găsit mort după o patrulă în jurul complexului de vânătoare. Autoritățile analizează ipoteza unui atac de cerb",
-        "link": "https://www.mediafax.ro/social/un-padurar-gasit-mort-dupa-o-patrula-in-jurul-complexului-de-vanatoare-autoritatile-analizeaza-ipoteza-unui-atac-de-cerb-23826429"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un pădurar de 50 de ani a fost găsit mort, cu leziuni grave, în Maramureș. Ce l-ar fi ucis pe bărbat",
-        "link": "https://stirileprotv.ro/stiri/actualitate/un-padurar-de-50-de-ani-a-fost-gasit-mort-cu-leziuni-grave-in-maramures-ce-l-ar-fi-ucis-pe-barbat.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Holtan találtak egy erdőőrt egy vadászterületen",
-        "link": "https://maszol.ro/belfold/Holtan-talaltak-egy-erdoort-egy-vadaszteruleten"
-      },
-      {
-        "source": "G4Media",
-        "title": "Un pădurar din Maramureș, găsit mort într-un complex de vânătoare / Ar fi fost ucis de un cerb",
-        "link": "https://www.g4media.ro/un-padurar-din-maramures-gasit-mort-intr-un-complex-de-vanatoare-ar-fi-fost-ucis-de-un-cerb.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Moarte suspectă în pădurile din Maramureș. Un pădurar a fost găsit cu leziuni grave pe corp",
-        "link": "https://adevarul.ro/stiri-locale/baia-mare/moarte-suspecta-in-padurile-din-maramures-un-2564447.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Pădurar găsit mort într-un complex de vânătoare din Maramureș. Ipoteza unui atac de cerb, luată în calcul de anchetatori",
-        "link": "https://stirileprotv.ro/stiri/actualitate/padurar-gasit-mort-intr-un-complex-de-vanatoare-din-maramures-ipoteza-unui-atac-de-cerb-luata-in-calcul-de-anchetatori.html"
-      }
-    ],
-    "published_at": 1792168202,
-    "title_hu": "Holtan találtak egy erdészt Máramarosban; a szarvastámadás továbbra is csak feltevés",
-    "lead_hu": "Egy 50 éves erdészt holtan találtak csütörtök este egy máramarosi vadászterületen, ahová járőrözni indult. A hatóságok vizsgálják a haláleset körülményeit; a lehetséges szarvastámadás egyelőre nem igazolt feltevés. Egy új beszámoló szerint az erdész felesége hívta a 112-t, a szarvasok párzási időszakában pedig a szakértők fokozott óvatosságra intenek.",
-    "content_hu": "• **Csütörtök este, 18 óra után** az erdész elindult otthonról, hogy járőrözzön a mintegy 520 hektáros vadászterületen; találkozója lett volna egy vadászmesterrel.\n\n• **Az erdész 2017 óta dolgozott a Romsilvánál**, a Șomcuta Mare-i erdészet alkalmazottjaként.\n\n• **Este 9 óra körül** súlyos sérülésekkel találtak rá, miután kollégái nem tudták telefonon elérni, és keresni kezdték. Az esetet bejelentették a 112-es segélyhívón, valamint értesítették a munkafelügyeletet.\n\n• **A ProTV egyik beszámolója szerint az erdész felesége hívta a 112-t**, mert nem tudta telefonon elérni a férjét; más beszámolók a kollégák, illetve a vadászmester szerepét emelik ki a keresés és a hatóságok értesítése kapcsán.\n\n• **Az erdészeti körzet vezetőjét is értesítették** a keresés során.\n\n• **A vadászmester is részt vett a keresés elindításában:** a Mediafax beszámolója szerint a megbeszélt közös járőrözésre el nem érkező erdész kollégája értesítette a hatóságokat.\n\n• **A lehetséges szarvastámadás** egyelőre csak vizsgált feltevés: a párzási időszakban a hímek különösen agresszívek lehetnek, de ezt a magyarázatot még nem igazolták.\n\n• **A szarvasok párzási időszaka szeptembertől október végéig tart** – mondta a ProTV-nek egy szakértő; ebben az időszakban a hímek versengenek egymással és területüket védik.\n\n• **A szakértők azt tanácsolják, hogy az emberek tartsanak távolságot a vadon élő szarvasoktól** a párzási időszakban; a Kálimán-hegység Nemzeti Parkban például vezetett megfigyeléseken is csak kis létszámú csoportok vehetnek részt, biztonságos távolságból.\n\n• **A rendőrség gondatlanságból elkövetett emberölés gyanúja miatt** büntetőeljárást indított, hogy tisztázza a haláleset pontos körülményeit; a halál okáról az igazságügyi orvosszakértői vizsgálat eredménye is tájékoztatást adhat.\n\n• **A Romsilva részvétét fejezte ki** az elhunyt családjának, hozzátartozóinak és ismerőseinek.\n\n• **Egy korábbi, különálló esetben, október 3-án** egy 57 éves bihari férfit támadott meg egy szarvas Luncșoara településen; a férfit kórházba szállították. Ez az eset nem igazolja, hogy a máramarosi erdész halálát is szarvastámadás okozta.",
-    "title_ro": "Pădurar găsit mort în Maramureș; ipoteza atacului de cerb nu este confirmată",
-    "lead_ro": "Un pădurar în vârstă de 50 de ani a fost găsit mort joi seară într-un complex de vânătoare din Maramureș, unde plecase în patrulare. Autoritățile cercetează circumstanțele decesului, iar posibilul atac al unui cerb rămâne o ipoteză neconfirmată. Potrivit unei relatări ProTV, soția bărbatului a sunat la 112; specialiștii recomandă prudență în sezonul de împerechere al cerbilor.",
-    "content_ro": "• **Joi seară, după ora 18:00**, pădurarul a plecat de acasă pentru a patrula pe complexul de vânătoare de aproximativ 520 de hectare; urma să se întâlnească cu un maistru de vânătoare.\n\n• **Pădurarul era angajat al Romsilva din 2017**, la Ocolul Silvic Șomcuta Mare.\n\n• **În jurul orei 21:00**, a fost găsit cu leziuni grave, după ce colegii nu au reușit să îl contacteze telefonic și au început să îl caute. Incidentul a fost anunțat la 112 și Inspectoratul Teritorial de Muncă a fost notificat.\n\n• **Potrivit unei relatări ProTV, soția pădurarului a sunat la 112**, deoarece nu reușea să ia legătura cu el; alte relatări evidențiază rolul colegilor și al maistrului de vânătoare în căutări și în anunțarea autorităților.\n\n• **Șeful ocolului silvic a fost informat** în timpul căutărilor.\n\n• **Maistrul de vânătoare a contribuit la declanșarea căutărilor:** potrivit Mediafax, colegul cu care pădurarul urma să patruleze împreună a alertat autoritățile după ce acesta nu s-a prezentat la întâlnire.\n\n• **Posibilul atac al unui cerb** este, deocamdată, doar o ipoteză investigată: masculii pot deveni deosebit de agresivi în sezonul de împerechere, dar această explicație nu a fost confirmată.\n\n• **Sezonul de împerechere al cerbilor durează din septembrie până la sfârșitul lunii octombrie**, a declarat un expert pentru ProTV; în această perioadă, masculii concurează între ei și își apără teritoriul.\n\n• **Specialiștii recomandă păstrarea distanței față de cerbii sălbatici** în perioada de împerechere; de exemplu, excursiile de observare organizate în Parcul Național Călimani se desfășoară în grupuri mici și de la distanță sigură.\n\n• **Poliția a deschis un dosar penal pentru ucidere din culpă**, pentru a stabili circumstanțele exacte ale decesului; concluziile medicilor legiști pot ajuta la clarificarea cauzei morții.\n\n• **Romsilva și-a exprimat condoleanțele** familiei îndoliate, apropiaților și tuturor celor care l-au cunoscut pe angajatul său.\n\n• **Într-un caz separat, petrecut pe 3 octombrie**, un bărbat de 57 de ani din Luncșoara, județul Bihor, a fost atacat de un cerb și transportat la spital. Acest incident nu confirmă că moartea pădurarului din Maramureș a fost provocată tot de un atac de cerb."
-  },
-  {
-    "group_id": "group_47fb69ec71",
-    "fingerprint": "f14da63be3190a3b20dc910697457da9",
-    "category": "Politika",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/poza-sigla-aur-1024x666.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "AUR: Coaliția Sărăciei se reface! PSD se întoarce în brațele lui Bolojan, iar românii vor plăti factura!",
-        "link": "https://www.mediafax.ro/politic/aur-coalitia-saraciei-se-reface-psd-se-intoarce-in-bratele-lui-bolojan-iar-romanii-vor-plati-factura-23825003"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "PSD revine la guvernare cu unele dintre măsurile criticate la Bolojan. Ce păstrează din programul fostului guvern",
-        "link": "https://stirileprotv.ro/stiri/politic/psd-revine-la-guvernare-cu-unele-dintre-masurile-lui-ilie-bolojan-ce-pastreaza-din-programul-fostului-guvern.html"
-      }
-    ],
-    "published_at": 1792168156,
-    "title_hu": "A PSD az új kormányprogramban több, Bolojanhoz kötődő intézkedést is támogat",
-    "lead_hu": "A PSD támogatja az új kormányprogram több olyan elemét, amelyet korábban bírált, köztük az állami vállalatok átalakítását és a magánbefektetők bevonását. A program ingatlanadó-változást is előirányoz, miközben a nyugdíjemelés és több szociális intézkedés megvalósítása a költségvetési forrásoktól függ.",
-    "content_hu": "• **A PSD és az új kormányprogram** – A ProTV beszámolója szerint a PSD támogatja a kijelölt miniszterelnök, Luca Niculescu kormányprogramjának több olyan reformját, amelyeket korábban bírált, és amelyek Ilie Bolojan korábbi javaslataihoz is kapcsolódnak. Az AUR ezzel szemben politikai alkuként és a megszorítások folytatásaként bírálta a PSD és Bolojan közeledését.\n\n• **Az ingatlanadók** – A program szerint az ingatlanadót a piaci érték alapján számíthatják ki. Ez a drágább környékeken lévő lakások tulajdonosainak további adóemelést jelenthet; az adókat januárban már emelték.\n\n• **Az állami vállalatok** – A veszteséges állami cégeket átalakíthatják, befektetők előtt nyithatják meg vagy felszámolhatják, és kisebbségi részvénycsomagok tőzsdei bevezetése is szóba kerül. A PSD közlése szerint a nyereséges vállalatok, például a Hidroelectrica és a Romgaz eladását ellenzi, a veszteséges cégekbe viszont elfogadna befektetőket.\n\n• **A nyugdíjak és a bérek** – A nyugdíjak 2027-től emelkedhetnek, de a program nem határozza meg a növelés mértékét; ez a költségvetéstől és a deficit csökkentésétől függ. A minimálbért évente felülvizsgálnák, a közalkalmazotti bérekre pedig 2027-re új törvényt ígérnek.\n\n• **A tervezett támogatások** – A program segítséget ígér az alacsony jövedelmű családoknak és más, a drágulások vagy a magas energiaszámlák által érintett csoportoknak. A korábban munkába visszatérő szülők bizonyos feltételekkel további három vagy hat hónapig kaphatnák a gyermeknevelési támogatást; a tanulók szociális ösztöndíjat és tanszerekre, ruházatra fordítható utalványokat is kaphatnának.\n\n• **A mezőgazdasági támogatások** – A 2025-ös aszály által sújtott gazdák hektáronként legfeljebb 200 euró támogatást kaphatnának. 2027-től a közvetlen támogatások 3 százalékát visszatartanák az aszálykár elleni biztosításra.\n\n• **A kormány beiktatása** – A miniszterjelöltek meghallgatását hétfőre és kedd délelőttre tervezték, a parlamenti bizalmi szavazást pedig kedd 14 órára. A program intézkedései a kormány beiktatásától, illetve több esetben a rendelkezésre álló költségvetési forrásoktól függenek.",
-    "title_ro": "PSD susține în programul noului guvern mai multe măsuri asociate cu Bolojan",
-    "lead_ro": "PSD susține mai multe prevederi din programul guvernului desemnat condus de Luca Niculescu pe care le criticase anterior, între care restructurarea companiilor de stat și atragerea investitorilor privați. Programul prevede și schimbarea modului de calcul al impozitelor pe proprietate, iar majorarea pensiilor și alte măsuri sociale depind de resursele bugetare.",
-    "content_ro": "• **PSD și programul noului guvern** – Potrivit ProTV, PSD susține mai multe reforme din programul guvernului desemnat condus de Luca Niculescu pe care le-a criticat anterior și care au fost asociate și cu propunerile lui Ilie Bolojan. AUR a criticat apropierea dintre PSD și Bolojan, prezentând-o drept o înțelegere politică și o continuare a austerității.\n\n• **Impozitele pe proprietate** – Programul prevede calcularea impozitelor în funcție de valoarea de piață a locuințelor. Proprietarii din zonele scumpe ar putea plăti mai mult; impozitele pe proprietăți au fost deja majorate în ianuarie.\n\n• **Companiile de stat** – Companiile de stat cu pierderi ar putea fi restructurate, deschise investitorilor sau lichidate, iar programul permite și listarea unor pachete minoritare de acțiuni. PSD afirmă că se opune vânzării companiilor profitabile, precum Hidroelectrica și Romgaz, dar acceptă atragerea de investitori în cele cu pierderi.\n\n• **Pensiile și salariile** – Pensiile ar urma să crească din 2027, însă programul nu precizează procentul, iar majorarea depinde de buget și de reducerea deficitului. Salariul minim ar urma să fie revizuit anual, iar pentru angajații din sectorul public este promisă o nouă lege a salarizării până în 2027.\n\n• **Ajutoarele prevăzute** – Programul promite sprijin pentru familiile cu venituri mici și alte categorii afectate de scumpiri sau de facturile mari la energie. Părinții care revin mai devreme la serviciu ar putea păstra indemnizația pentru creșterea copilului încă trei sau șase luni, în anumite condiții; elevii ar putea primi burse sociale și vouchere pentru rechizite și haine.\n\n• **Sprijinul pentru agricultură** – Fermierii afectați de seceta din 2025 ar putea primi până la 200 de euro pe hectar. Din 2027, 3% din subvențiile directe ar urma să fie reținute pentru asigurarea împotriva secetei.\n\n• **Învestirea guvernului** – Audierile miniștrilor erau programate luni și marți dimineață, iar votul de învestire în Parlament, marți la ora 14. Aplicarea măsurilor depinde de învestirea guvernului și, în mai multe cazuri, de fondurile bugetare disponibile."
-  },
-  {
-    "group_id": "group_cadf8606ae",
-    "fingerprint": "0930ff6d278fbc786d5f73c5870557e4",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/Paolo-Zampolli-vorbeste-la-telefon-cu-Nicusor-Dan.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Doi într-o săptămână. Kimberly Guilfoyle și Paolo Zampolli, aliați ai PSD și ai lui Nicușor Dan în Administrația SUA, dați afară de Trump",
-        "link": "https://www.g4media.ro/doi-intr-o-saptamana-kimberly-guilfoyle-si-paolo-zampolli-aliati-ai-psd-si-ai-lui-nicusor-dan-in-administratia-sua-dati-afara-de-trump.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "„Încearcă să scape de persoane care atrag titluri negative\". De ce au fost îndepărtați Zampolli și Guilfoyle",
-        "link": "https://stirileprotv.ro/stiri/international/adrian-cioroianu-administratia-americana-incearca-sa-scape-de-persoane-care-atrageau-titluri-negative-zampolli-si-guilfoyle-indepartati.html"
-      }
-    ],
-    "published_at": 1792168099,
-    "title_hu": "Zampollit elbocsátották az e-mailes konfliktus után; Guilfoyle és Noem is távozott",
-    "lead_hu": "Paolo Zampolli különmegbízotti megbízatását visszavonták, órákkal azután, hogy nyilvánosságra került a Christopher Landau külügyminiszter-helyettessel folytatott e-mailes vitája. A távozás egy olyan hétre esett, amikor Kimberly Guilfoyle görögországi nagykövet és Kristi Noem különmegbízott is elhagyta tisztségét; a Guilfoyle-lal kapcsolatos sajtóértesülések Romániát is érintő állításokat tartalmaznak.",
-    "content_hu": "• **Zampolli elbocsátása**: egy amerikai tisztviselő megerősítette, hogy visszavonták Paolo Zampolli globális partnerségekért felelős különmegbízotti megbízatását, és már nem dolgozik az amerikai kormánynak. Zampolli azt mondta, egyáltalán nem lepte meg a döntés; megköszönte Donald Trumpnak, Marco Rubio külügyminiszternek és a kormányzati csapatnak a szolgálat lehetőségét, és közölte, hogy visszatér az üzleti élethez. Azt is állította, hogy Trump korábban arra biztatta: a divatipar helyett ingatlanüzlettel foglalkozzon.\n\n• **A Landauval folytatott e-mailes vita**: az elbocsátás néhány órával azután történt, hogy a POLITICO beszámolt Zampolli és Christopher Landau külügyminiszter-helyettes hónapok óta húzódó konfliktusáról. A vita a feladatkörökről és a hivatali alá-fölérendeltségről szólt; Landau arra próbálta szorítani Zampollit, hogy kulturális megbízatására összpontosítson. A POLITICO által megszerzett levelek szerint Zampolli külföldi tisztviselőkkel nem kulturális ügyekről is tárgyalt; több levelezési láncban más kormányzati tisztviselők, köztük Dan Scavino is szerepelt.\n\n• **A The New York Times-cikk miatti vádaskodás**: júniusban Zampolli azzal vádolta Landaut, hogy információkat szivárogtatott ki a lapnak. Landau tagadta ezt, és az állításokat rágalmazónak, illetve nem megfelelőnek nevezte. A vád egy márciusi cikkhez kapcsolódhatott, amely szerint Zampolli az ICE közreműködését kérhette volt partnere, Amanda Ungaro Brazíliába történő kitoloncolásához; Zampolli tagadta, hogy kérte volna a nő őrizetbe vételét vagy kitoloncolását.\n\n• **Zampolli korábbi szerepei**: a Trump család régi ismerőse az 1990-es években modellügynökként dolgozott, képviselte Melania Trumpot, és bemutatta őt Donald Trumpnak. Trump első elnöki ciklusában a Kennedy Center igazgatótanácsába került, második ciklusában pedig 2025 márciusában nevezték ki az Egyesült Államok globális partnerségekért felelős különmegbízottjává. 2026 májusában a sportot a nemzetközi kapcsolatok építésének eszközeként említette, és felvetette, hogy Olaszország váltsa Iránt a világbajnokságon, ha az iráni válogatott nem indulhat.\n\n• **Zampolli romániai kapcsolatai**: 2026. augusztus 27-én részt vett a bukaresti, Donald Trump nevét viselő román–amerikai barátságpark projektjének bemutatóján, amelyet Daniel Băluță, a 4. kerület polgármestere jelentett be. Az eseményen felhívta Nicușor Dan román elnököt, és Trump köszönetét tolmácsolta a parkért. A sajtóban megjelent fotók szerint Zampolli és Dan az elnök egyesült államokbeli látogatásakor is együtt szerepelt. Zampolli 2025 szeptemberében Ilie Bolojan miniszterelnökkel is találkozott; román sajtóértesülések szerint közreműködött Dan és Marco Rubio 2026. februári washingtoni találkozójának megszervezésében.\n\n• **A Victoria Drake által benyújtott polgári kereset**: a modell és technológiai vállalkozó azt állítja, hogy Zampolli 2023 októberében, manhattani otthonában szexuálisan bántalmazta, miután egy tőle kapott ital elfogyasztása után elvesztette az eszméletét. Drake kártérítést és esküdtszéki tárgyalást kér. Zampolli tagadja a vádakat, és azt állítja, hogy a kereset zsarolási kísérlet vagy jó hírnevének károsítására irányul; ezek polgári peres állítások, nem bíróság által megállapított tények.\n\n• **Kimberly Guilfoyle romániai kapcsolatai és a vele kapcsolatos állítások**: a G4Media szerint Guilfoyle-t, az Egyesült Államok görögországi nagykövetét a Fehér Ház kérésére lemondásra kényszerítették. A Wall Street Journal és a Financial Times beszámolóira hivatkozó sajtóértesülések szerint egy görög energiaügyi minisztert azzal fenyegethetett, hogy kormányokat tud megbuktatni, és Romániában is történhetett hasonló; a ProTV szerint a Wall Street Journal azt is írta, hogy az Egyesült Államok szerepet játszhatott a Bolojan-kormány bukásában. Ezek sajtóban közölt állítások. Guilfoyle március 31-én Bukarestben Sorin Grindeanu PSD-elnökkel, Bogdan Ivan energiaügyi miniszterrel és Florin Vlădică elnöki tanácsadóval vacsorázott, és romániai tisztviselők előtt amerikai földgáz értékesítését is népszerűsítette. A G4Media szerint demokraták korrupciós vádak miatt vizsgálatot sürgettek; George Simion azt mondta, Guilfoyle a barátja.\n\n• **Kristi Noem távozása és a politikai értelmezések**: a G4Media és a CNBC-re hivatkozó beszámoló szerint Kristi Noemet is felmentették a Trump-adminisztráció Shield of the Americas különmegbízotti tisztségéből. Noem márciusban kapta a megbízást, miután leváltották a belbiztonsági miniszteri posztról. A ProTV-nek nyilatkozó Adrian Cioroianu történész véleménye szerint az adminisztráció igyekezhet megszabadulni azoktól, akik negatív sajtófigyelmet vonzanak; ez szakértői értékelés, nem hivatalos indoklás.",
-    "title_ro": "Zampolli, demis după disputa pe e-mail; Guilfoyle și Noem au plecat și ele din funcții",
-    "lead_ro": "Mandatul lui Paolo Zampolli de trimis special a fost revocat la câteva ore după ce a devenit public conflictul său prin e-mail cu Christopher Landau, secretarul de stat adjunct. Plecarea sa a avut loc în aceeași săptămână în care Kimberly Guilfoyle, ambasadoarea SUA în Grecia, și Kristi Noem, trimis special, au părăsit funcțiile; relatările despre Guilfoyle includ și afirmații legate de România.",
-    "content_ro": "• **Demisia lui Zampolli**: un oficial american a confirmat că mandatul lui Paolo Zampolli de trimis special pentru Parteneriate Globale a fost revocat și că acesta nu mai lucrează pentru guvernul SUA. Zampolli a spus că nu a fost deloc surprins, i-a mulțumit lui Donald Trump, secretarului de stat Marco Rubio și echipei administrației, și a anunțat că se întoarce la afaceri. El a mai susținut că Trump îl încurajase anterior să renunțe la industria modei și să se ocupe de afaceri imobiliare.\n\n• **Disputa pe e-mail cu Landau**: demiterea a venit la câteva ore după ce POLITICO a relatat despre conflictul de luni de zile dintre Zampolli și Christopher Landau, secretarul de stat adjunct. Cei doi s-au certat în privința atribuțiilor și a ierarhiei, Landau încercând să-l mențină pe Zampolli concentrat asupra misiunii sale culturale. Potrivit e-mailurilor obținute de POLITICO, Zampolli s-a întâlnit cu oficiali străini și pentru a discuta subiecte fără legătură cu domeniul cultural; în unele lanțuri de corespondență au fost incluși și alți oficiali, între care Dan Scavino.\n\n• **Acuzația privind articolul din The New York Times**: în iunie, Zampolli l-a acuzat pe Landau că a divulgat informații publicației. Landau a negat și a calificat acuzațiile drept defăimătoare și nepotrivite. Acuzația ar fi avut legătură cu un articol din martie, potrivit căruia Zampolli ar fi cerut intervenția ICE pentru deportarea în Brazilia a fostei sale partenere, Amanda Ungaro; Zampolli a negat că ar fi cerut reținerea sau deportarea acesteia.\n\n• **Rolurile anterioare ale lui Zampolli**: apropiat al familiei Trump, a lucrat ca agent în industria modelingului în anii 1990, a reprezentat-o pe Melania Trump și i-a făcut cunoștință cu Donald Trump. În primul mandat al lui Trump a fost numit în consiliul de administrație al Kennedy Center, iar în martie 2025 a devenit trimis special al SUA pentru Parteneriate Globale. În mai 2026 a prezentat sportul drept un mijloc de a construi relații internaționale și a sugerat ca Italia să înlocuiască Iranul la Cupa Mondială, dacă echipa iraniană nu ar putea participa.\n\n• **Legăturile lui Zampolli cu România**: la 27 august 2026, a participat la prezentarea proiectului parcului româno-american „Donald Trump” din București, anunțat de primarul Sectorului 4, Daniel Băluță. În timpul evenimentului l-a sunat pe președintele Nicușor Dan și i-a transmis mulțumirile lui Trump pentru proiect. Fotografii publicate în presă îi arată pe Zampolli și Dan împreună și în timpul vizitei președintelui român în Statele Unite. Zampolli s-a întâlnit și cu premierul Ilie Bolojan în septembrie 2025; potrivit presei românești, ar fi contribuit la organizarea întâlnirii de la Washington dintre Dan și Marco Rubio, în februarie 2026.\n\n• **Procesul civil intentat de Victoria Drake**: modelul și antreprenoarea din domeniul tehnologiei susține că Zampolli a agresat-o sexual în locuința sa din Manhattan, în octombrie 2023, după ce și-ar fi pierdut cunoștința în urma consumării unei băuturi primite de la acesta. Drake cere despăgubiri și un proces cu juriu. Zampolli neagă acuzațiile și afirmă că plângerea ar fi o tentativă de șantaj sau de afectare a reputației sale; acestea sunt susțineri dintr-un proces civil, nu fapte stabilite de instanță.\n\n• **Legăturile lui Kimberly Guilfoyle cu România și acuzațiile relatate**: potrivit G4Media, Guilfoyle, ambasadoarea SUA în Grecia, a fost constrânsă de Casa Albă să demisioneze. Relatări de presă care citează Wall Street Journal și Financial Times susțin că ea ar fi amenințat un ministru grec al Energiei că poate răsturna guverne și că ar fi sugerat că ar putea avea loc schimbări similare și în România. ProTV a relatat că Wall Street Journal a scris și că SUA ar fi contribuit la căderea guvernului Bolojan. Acestea sunt afirmații apărute în presă. La 31 martie, Guilfoyle a luat masa la București cu liderul PSD Sorin Grindeanu, ministrul Energiei Bogdan Ivan și consilierul prezidențial Florin Vlădică; ea ar fi promovat și vânzarea gazelor naturale americane în fața unor oficiali români. G4Media a relatat că democrați au cerut o anchetă privind acuzații de corupție, iar George Simion a spus că Guilfoyle este prietena sa.\n\n• **Plecarea lui Kristi Noem și interpretările politice**: G4Media, citând CNBC, a relatat că Kristi Noem a fost înlăturată și din funcția de trimis special al administrației Trump pentru inițiativa Shield of the Americas. Noem primise această însărcinare în martie, după ce fusese înlocuită din funcția de secretar al Securității Interne. Istoricul Adrian Cioroianu a declarat pentru ProTV că administrația ar putea încerca să se distanțeze de persoane care atrag titluri negative; aceasta este o interpretare a expertului, nu o justificare oficială."
-  },
-  {
-    "group_id": "group_86e8009f0e",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/35a2ecaf-394c-4fa9-824d-de9b00c946da.png?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Deși este pe podium în Liga 2, Dorinel Munteanu își face griji: „Trebuie să fim mai atenți!”",
-        "link": "https://www.gsp.ro/fotbal/liga-2/dorinel-munteanu-csm-resita-cetatea-suceva-liga-2-988898.html"
-      }
-    ],
-    "published_at": 1792167915,
-    "title_hu": "Deși este pe podium în Liga 2, Dorinel Munteanu își face griji: „Trebuie să fim mai atenți!”",
-    "lead_hu": "Dorinel Munteanu, antrenorul celor de la CSM Reșița, a susținut conferința de presă premergătoare meciului cu Cetatea Suceva, care se va juca sâmbătă, de la 11:00, în runda cu numărul 10 din Liga 2. C…",
-    "content_hu": "Dorinel Munteanu, antrenorul celor de la CSM Reșița, a susținut conferința de presă premergătoare meciului cu Cetatea Suceva, care se va juca sâmbătă, de la 11:00, în runda cu numărul 10 din Liga 2. CSM Reșița este pe locul 3, la un punct în spatele liderului CSM Slatina, pe care l-a învins etapa trecută, însă Dorinel Munteanu nu vrea să vorbească momentan despre obiective îndrăznețe. A spus că echipa lui mai are de lucrat la fazele fixe. ...",
-    "title_ro": "Deși este pe podium în Liga 2, Dorinel Munteanu își face griji: „Trebuie să fim mai atenți!”",
-    "lead_ro": "Dorinel Munteanu, antrenorul celor de la CSM Reșița, a susținut conferința de presă premergătoare meciului cu Cetatea Suceva, care se va juca sâmbătă, de la 11:00, în runda cu numărul 10 din Liga 2. C…",
-    "content_ro": "Dorinel Munteanu, antrenorul celor de la CSM Reșița, a susținut conferința de presă premergătoare meciului cu Cetatea Suceva, care se va juca sâmbătă, de la 11:00, în runda cu numărul 10 din Liga 2. CSM Reșița este pe locul 3, la un punct în spatele liderului CSM Slatina, pe care l-a învins etapa trecută, însă Dorinel Munteanu nu vrea să vorbească momentan despre obiective îndrăznețe. A spus că echipa lui mai are de lucrat la fazele fixe. ..."
-  },
-  {
-    "group_id": "group_3167f6de03",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/18052025/09c3a7d6-56f4-466a-99e2-a7294936171a.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Pilotul din Formula 1, apel disperat către fanii săi: „Nu mă ajutați nici pe mine, nici viitorul meu”",
-        "link": "https://www.gsp.ro/sporturi/formula-1/franco-colapinto-mesaj-fani-formula-1-988886.html"
-      }
-    ],
-    "published_at": 1792167552,
-    "title_hu": "Pilotul din Formula 1, apel disperat către fanii săi: „Nu mă ajutați nici pe mine, nici viitorul meu”",
-    "lead_hu": "Franco Colapinto, pilotul argentinian al celor de la Alpine, a transmis un mesaj pe rețelele de socializare către fanii săi care pe parcursul acestui sezon au avut derapaje în mod repetat. Franco Cola…",
-    "content_hu": "Franco Colapinto, pilotul argentinian al celor de la Alpine, a transmis un mesaj pe rețelele de socializare către fanii săi care pe parcursul acestui sezon au avut derapaje în mod repetat. Franco Colapinto este reprezentantul Argentinei în „Marele Circ”, iar fanii sud-americani au obișnuit pe parcursul acestui an cu abuzuri verbale, dar și comentarii pline de ură în mediul online, ajungându-se până la amenințări cu moartea. ...",
-    "title_ro": "Pilotul din Formula 1, apel disperat către fanii săi: „Nu mă ajutați nici pe mine, nici viitorul meu”",
-    "lead_ro": "Franco Colapinto, pilotul argentinian al celor de la Alpine, a transmis un mesaj pe rețelele de socializare către fanii săi care pe parcursul acestui sezon au avut derapaje în mod repetat. Franco Cola…",
-    "content_ro": "Franco Colapinto, pilotul argentinian al celor de la Alpine, a transmis un mesaj pe rețelele de socializare către fanii săi care pe parcursul acestui sezon au avut derapaje în mod repetat. Franco Colapinto este reprezentantul Argentinei în „Marele Circ”, iar fanii sud-americani au obișnuit pe parcursul acestui an cu abuzuri verbale, dar și comentarii pline de ură în mediul online, ajungându-se până la amenințări cu moartea. ..."
   }
 ]
