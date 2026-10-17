@@ -1,5 +1,468 @@
 [
   {
+    "group_id": "group_afd1990342",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNjEyNl8zMDE2/MTI2X3Byb2ZpbWVkaWEtMDI1OTQ5MjQ2/Mi5qcGcmaGFzaD0xNjJhZDAxZGY3MGY5ZmQ1NDU5MmQ2MzZhYjU4ZmE3MQ==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Canada: Alegătorii din provincia Alberta vor fi consultaţi luni în legătură cu începerea separării de restul ţării",
+        "link": "https://www.digi24.ro/stiri/externe/canada-alegatorii-din-provincia-alberta-vor-fi-consultati-luni-in-legatura-cu-inceperea-separarii-de-restul-tarii-3994573"
+      }
+    ],
+    "published_at": 1792209655,
+    "title_hu": "Canada: Alegătorii din provincia Alberta vor fi consultaţi luni în legătură cu începerea separării de restul ţării",
+    "lead_hu": "Alegătorii din provincia canadiană Alberta se vor pronunţa luni asupra începerii sau nu a procesului de separare de restul Canadei, în cadrul unei consultări populare considerate o adevărată provocare…",
+    "content_hu": "Alegătorii din provincia canadiană Alberta se vor pronunţa luni asupra începerii sau nu a procesului de separare de restul Canadei, în cadrul unei consultări populare considerate o adevărată provocare pentru ţara aflată în plin conflict comercial cu Statele Unite, notează joi AFP.",
+    "title_ro": "Canada: Alegătorii din provincia Alberta vor fi consultaţi luni în legătură cu începerea separării de restul ţării",
+    "lead_ro": "Alegătorii din provincia canadiană Alberta se vor pronunţa luni asupra începerii sau nu a procesului de separare de restul Canadei, în cadrul unei consultări populare considerate o adevărată provocare…",
+    "content_ro": "Alegătorii din provincia canadiană Alberta se vor pronunţa luni asupra începerii sau nu a procesului de separare de restul Canadei, în cadrul unei consultări populare considerate o adevărată provocare pentru ţara aflată în plin conflict comercial cu Statele Unite, notează joi AFP."
+  },
+  {
+    "group_id": "group_7828f76de9",
+    "fingerprint": "63f199ffbcb934cbe344f2461e983412",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "VIDEO Decizia luată de grupurile parlamentare ale PNL în privința Guvernului Niculescu: „Sunt peste 160 de zile de când avem guvern interimar”",
+        "link": "https://hotnews.ro/video-decizia-luata-de-grupurile-parlamentare-ale-pnl-in-privinta-guvernului-niculescu-sunt-peste-160-de-zile-de-cand-avem-guvern-interimar-2375865"
+      },
+      {
+        "source": "Economedia",
+        "title": "Ilie Bolojan: PNL ar putea vota învestirea Guvernului Luca Niculescu, dar nu va reface coaliția și va rămâne în opoziție",
+        "link": "https://economedia.ro/ilie-bolojan-pnl-ar-putea-vota-investirea-guvernului-luca-niculescu-dar-nu-va-reface-coalitia-si-va-ramane-in-opozitie.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Parlament/ Ședință a Birourilor permanente, joi seara, pentru stabilirea calendarului de învestire a Guvernului Luca Niculescu",
+        "link": "https://agerpres.ro/politic/2026/10/15/parlament-sedinta-a-birourilor-permanente-joi-seara-pentru-stabilirea-calendarului-de-investire-a-gu--1603495"
+      },
+      {
+        "source": "Digi24",
+        "title": "În ce condiții ar putea PNL să voteze Guvernul Niculescu. Ilie Bolojan: Voi propune un „vot de necesitate”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/in-ce-conditii-ar-putea-pnl-sa-voteze-guvernul-niculescu-ilie-bolojan-voi-propune-un-vot-de-necesitate-3995923"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Revoltă în PNL. Mai mulți lideri nu vor să voteze pentru Luca Niculescu SURSE",
+        "link": "https://adevarul.ro/politica/revolta-in-pnl-mai-multi-lideri-nu-vor-sa-voteze-2564586.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "PNL decide sâmbătă dacă votează Guvernul Niculescu. Ilie Bolojan: „Votul ar putea să ne coste nu doar politic, ci și personal”",
+        "link": "https://stirileprotv.ro/stiri/politic/pnl-decide-sambata-daca-voteaza-guvernul-niculescu-ilie-bolojan-votul-ar-putea-sa-ne-coste-nu-doar-politic-ci-si-personal.html"
+      }
+    ],
+    "published_at": 1792209647,
+    "title_hu": "Bolojan feltételes PNL-támogatást javasol a Niculescu-kormánynak, a végső döntés szombaton várható",
+    "lead_hu": "Ilie Bolojan szerint a PNL a politikai válság lezárása érdekében megszavazhatja Luca Niculescu kormányának beiktatását, de a liberálisok nem lépnek be a kabinetbe, és ellenzékben maradnak. A párt parlamenti frakciói konzultatívan a támogatás mellett foglaltak állást; a végső döntést szombaton hozza meg a PNL országos vezetősége, a parlamenti beiktatási szavazást pedig október 20-ára tervezik.",
+    "content_hu": "• **A kétoldalú megállapodás** lehetőségét Bolojan Luca Niculescu kijelölt miniszterelnökkel vetette fel. A dokumentum nem lenne koalíciós szerződés, nem jelentené a PNL kormányra lépését, és a liberálisok ellenzékben maradnának; a megállapodás mintegy hat hónapra, illetve a 2027-es költségvetés elfogadásáig, 2027 tavaszáig szabhatna kereteket az együttműködésnek.\n\n• **A PNL támogatásának feltételei** között szerepel a hiánycél és a fiskális fegyelem betartása, a reális bevételekre épülő kiadáspolitika, a beruházások védelme, a közpénzek felelős felhasználása, a reformok folytatása és az európai kötelezettségek teljesítése. Bolojan szerint a liberálisok a kormány intézkedéseit egyenként mérlegelik: a hasznosakat támogatják, a hibásakat bírálják.\n\n• **A 2027-es költségvetést** a PNL kész támogatni és megszavazni, ha az ténylegesen beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tartalmaz fedezet nélküli kiadásnövelést.\n\n• **A bizalmatlansági indítványokról** Bolojan azt vállalná, hogy a PNL az első hat hónapban nem kezdeményez és nem szavaz meg ilyet, amíg a kormány betartja a megállapodást. A feltételek megszegése esetén a párt fenntartaná a bizalmatlansági indítvány támogatásának lehetőségét.\n\n• **A PNL parlamenti frakciói szerdán** három konzultatív szavazással támogatták a kormány beiktatását, az ellenzékben maradást és a Niculescuval kötendő, világos célokat rögzítő megállapodást. Ionel Bogdan szóvivő hangsúlyozta, hogy ezek nem végleges döntések; a PNL országos politikai vezetősége szombaton, online ülésen határoz a párt parlamenti szavazatáról.\n\n• **A beiktatási szavazatot** Bolojan felelősségi és szükségességi döntésként indokolja, nem a kabinet összetételének jóváhagyásaként vagy politikai bizalmi szavazatként. Elismerte, hogy a támogatás politikai, sőt személyes költséggel is járhat, de szerinte a párt nem helyezheti saját érdekeit az ország működőképessége elé. A kormány összetételéért a kijelölt miniszterelnök és a jelöléseket adó pártok felelnek; Bolojan szerint tisztségekről és minisztériumokról nem tárgyaltak.\n\n• **A válság elhúzódásának kockázataira** hivatkozva Bolojan gyors költségvetési kiigazítást sürgetett. Állítása szerint a Floreasca kórház sürgősségi osztályának 2025-ös, 10 millió lejes kezdeti kerete 2026-ban 5 millió lejre csökkent, a marosvásárhelyi UPU pedig a korábbi 8 millió lej helyett 4 millió lejnél kevesebbet kapott. Azt is mondta, hogy az üzemanyagárak 20–30 százalékos emelkedése miatt egyes intézmények kerete nem tarthat ki év végéig, az ügyvivő kormány pedig nem tud sürgősségi rendelettel költségvetési kiigazítást elfogadni. Szerinte a bizonytalanság a közszolgáltatásokat és az állami hitelfelvétel feltételeit is veszélyezteti.\n\n• **A több mint 160 napja tartó politikai válság** és az ügyvivő kormány korlátozott jogkörei Bolojan érvelésének központi elemei: szerinte a teljes jogkörű kabinet hiánya akadályozza az új intézkedéseket, a költségvetés előkészítését és a közszolgáltatások finanszírozását.\n\n• **A PNL-n belüli ellenállás** továbbra is jelentős: sajtóértesülések szerint Adrian Cozma, Dragoș Ciobotaru, Virgil Guran és Octavian Oprea is ellenezheti egy jelentős részben PSD-s miniszterekből álló kormány beiktatását. Bolojan elismerte, hogy több párttársának fenntartásai vannak; Alina Gorghiu és Lucian Bode is bírálatokat, illetve kételyeket fogalmazott meg.\n\n• **A Niculescu-kabinet tervezett összetétele** a csütörtök este benyújtott névsor szerint 18 minisztert tartalmaz, köztük két delegált minisztert. A parlamenti meghallgatásokat hétfőre és kedd délelőttre, a plenáris beiktatási szavazást keddre, október 20-ára ütemezték.\n\n• **A USR álláspontja** eltér: Dominic Fritz szerint a párt nem támogathat olyan kormányt, amelynek parlamenti többsége nem világos, és amelyben PSD-s miniszterek is vannak. A USR a beiktatás ellen szavazna; Fritz a kabinet hat hónapos fennmaradásával kapcsolatban is szkeptikus volt.\n\n• **Bolojan brüsszeli tájékoztatása szerint** a PNL ellenzékben marad, és a jövőbeli kormányt intézkedései és eredményei alapján értékeli. A liberális vezető szerint a jó intézkedéseket támogatják, az általuk hibásnak tartottakat bírálják.",
+    "title_ro": "Bolojan propune un vot condiționat al PNL pentru Guvernul Niculescu; decizia finală este așteptată sâmbătă",
+    "lead_ro": "Ilie Bolojan spune că PNL ar putea vota învestirea Guvernului Luca Niculescu pentru a contribui la încheierea crizei politice, fără să intre însă la guvernare și fără să ofere susținere necondiționată. Grupurile parlamentare liberale au recomandat consultativ votul favorabil, iar decizia finală urmează să fie luată sâmbătă de conducerea partidului; votul de învestitură este programat pentru 20 octombrie.",
+    "content_ro": "• **Acordul politic bilateral** propus de Bolojan premierului desemnat Luca Niculescu nu ar fi un acord de coaliție și nu ar presupune intrarea PNL la guvernare. Liberalii ar rămâne în opoziție, iar înțelegerea ar stabili condițiile unei colaborări limitate, pentru aproximativ șase luni sau până la adoptarea bugetului pentru 2027, în primăvara acelui an.\n\n• **Condițiile susținerii PNL** includ respectarea țintei de deficit și a disciplinei fiscale, cheltuieli fundamentate pe venituri realiste, protejarea investițiilor, folosirea responsabilă a banului public, continuarea reformelor și respectarea angajamentelor europene. Bolojan spune că liberalii vor evalua măsurile Guvernului pe rând: le vor sprijini pe cele bune și le vor critica pe cele pe care le consideră greșite.\n\n• **Bugetul de stat pentru 2027** va fi susținut și votat de PNL dacă este realist, se bazează pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și evită creșterea cheltuielilor fără acoperire.\n\n• **Moțiunile de cenzură** nu vor fi inițiate și votate de PNL în primele șase luni, atât timp cât Guvernul respectă principiile și obiectivele acordului, a anunțat Bolojan. Dacă prevederile sunt încălcate, liberalii își rezervă posibilitatea de a susține o moțiune.\n\n• **Grupurile parlamentare ale PNL au decis miercuri**, prin trei voturi consultative, să susțină învestirea Guvernului, trecerea partidului în opoziție și posibilitatea unui acord cu Niculescu, cu obiective clare. Purtătorul de cuvânt Ionel Bogdan a precizat că voturile nu sunt definitive; Biroul Politic Național se va reuni sâmbătă, online, pentru decizia finală privind votul parlamentar.\n\n• **Votul de învestitură** este prezentat de Bolojan drept unul de responsabilitate și necesitate, nu drept un vot de încredere, o garanție politică sau o aprobare a componenței Cabinetului. Liderul PNL a recunoscut că decizia ar putea avea costuri politice și chiar personale, dar a susținut că interesul țării trebuie să primeze. Responsabilitatea pentru echipa guvernamentală îi revine premierului desemnat și partidelor care propun miniștri; Bolojan afirmă că nu s-au negociat funcții sau ministere.\n\n• **Riscurile prelungirii crizei** sunt invocate de Bolojan în sprijinul unei rectificări bugetare rapide. Potrivit acestuia, alocarea inițială pentru UPU Floreasca a scăzut de la 10 milioane de lei în 2025 la 5 milioane în 2026, iar cea pentru UPU Târgu Mureș, de la 8 milioane la mai puțin de 4 milioane de lei. Bolojan a mai spus că scumpirea combustibililor cu 20–30% poate face ca bugetele unor instituții să nu ajungă până la sfârșitul anului și că Guvernul interimar nu poate adopta o rectificare prin ordonanță. În opinia sa, incertitudinea afectează serviciile publice și condițiile de împrumut ale statului.\n\n• **Criza politică de peste 160 de zile** și atribuțiile limitate ale Guvernului interimar sunt argumente centrale ale lui Bolojan: lipsa unui Executiv cu puteri depline ar îngreuna adoptarea de măsuri noi, pregătirea bugetului și finanțarea serviciilor publice.\n\n• **Opoziția internă din PNL** rămâne semnificativă. Potrivit relatărilor de presă, Adrian Cozma, Dragoș Ciobotaru, Virgil Guran și Octavian Oprea s-ar putea opune învestirii unui guvern format în mare parte din miniștri PSD. Bolojan a recunoscut că există rezerve în partid; Alina Gorghiu și Lucian Bode au formulat, de asemenea, critici sau îndoieli.\n\n• **Cabinetul propus de Luca Niculescu** are 18 miniștri, dintre care doi miniștri delegați, potrivit listei depuse joi seara. Audierile parlamentare sunt programate luni și marți dimineață, iar votul de învestitură în plen este stabilit pentru marți, 20 octombrie.\n\n• **Poziția USR este diferită:** Dominic Fritz a spus că partidul nu poate susține un guvern fără o majoritate parlamentară clară și care include miniștri PSD. USR intenționează să voteze împotriva învestirii, iar Fritz s-a declarat sceptic că Executivul ar rezista șase luni.\n\n• **La Bruxelles, Bolojan a reiterat** că PNL va rămâne în opoziție și va evalua viitorul Guvern după măsurile și rezultatele sale. Liberalii vor susține deciziile pe care le consideră bune pentru România și se vor opune celor pe care le consideră greșite."
+  },
+  {
+    "group_id": "group_7b8a114c9b",
+    "fingerprint": "c3216f62775800ab49c269e77f1b06a3",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwODQwN18zMDA4/NDA3X0FkdWNlcmVhLW1vYXN0ZWxvci1T/ZmFudHVsdWktQXBvc3RvbC1BbmRyZWkt/bGEtSWFzaV8tU3Vyc2EtRm90by1HZXR0/eS1JbWFnZXMuanBnJmhhc2g9YWM4ZGIz/ZDNjMDgxOGUzOGJjODk1Yzc4Njc3OWE4MTY=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Sfântul Dimitrie cel Nou 2026. Programul pelerinajului și al procesiunilor din București",
+        "link": "https://stirileprotv.ro/divers/sfantul-dimitrie-cel-nou-2026-programul-pelerinajului-si-al-procesiunilor-din-bucuresti.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Când începe pelerinajul de Sfântul Dimitrie 2026. Ce moaște vor fi aduse în București și care este programul",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cand-incepe-pelerinajul-de-sfantul-dimitrie-2026-ce-moaste-vor-fi-aduse-in-bucuresti-si-care-este-programul-3995493"
+      }
+    ],
+    "published_at": 1792209646,
+    "title_hu": "Október 18–28. között tartják a bukaresti Szent Dimitrie-peregrinációt",
+    "lead_hu": "A bukaresti Szent Dimitrie cel Nou tiszteletére rendezett zarándoklat 2026. október 18. és 28. között zajlik a Patriarchális Székesegyháznál. Október 24-én tartják a Calea Sfinților körmenetet, október 27-én pedig a fő ünnepi liturgiát.",
+    "content_hu": "• **Október 18–28. között** rendezik meg Bukarestben a Szent Dimitrie cel Nou, a főváros védőszentje tiszteletére tartott zarándoklatot a Patriarchális Székesegyháznál.\n\n• **Október 18–23. között** a hívek naponta 7 és 21 óra között tekinthetik meg az ereklyéket a történelmi Patriarchális Székesegyházban; a helyszínt a templom tornácán zajló festményrestaurálás miatt jelölték ki.\n\n• **A kiállított ereklyék között** lesz Szent Dimitrie cel Nou, Szent Demeter, a mirhából fakadó nagyvértanú, Konstantin és Ilona szent császárok, valamint Szent Nektáriosz ereklyéje.\n\n• **Október 24-én, szombaton 12 órától** tartják a Calea Sfinților körmenetet. A két menetoszlop a Patriarchális Székesegyháztól, illetve a Sfântul Spiridon-Nou metropolita székesegyháztól indul, majd a Patriarchátus dombjának lábánál egyesül, és együtt vonul fel a székesegyházhoz.\n\n• **A körmenetben** Szent Erzsébet de la Pasărea ereklyéit is viszik; 12:45-kor Daniel pátriárka fogadja az ereklyetartókat, majd azokat a Patriarchátus dombján, a Szentek baldachinja alatt helyezik el a zarándokok tiszteletére.\n\n• **Október 27-én** tartják Szent Dimitrie cel Nou ünnepét; a program központi eseménye a Daniel pátriárka által püspökök, papok és diakónusok közreműködésével bemutatott főpapi liturgia lesz.",
+    "title_ro": "Pelerinajul Sfântului Dimitrie cel Nou va avea loc la București între 18 și 28 octombrie",
+    "lead_ro": "Pelerinajul organizat la București în cinstea Sfântului Cuvios Dimitrie cel Nou se va desfășura între 18 și 28 octombrie 2026, la Catedrala Patriarhală. Procesiunea Calea Sfinților este programată pe 24 octombrie, iar sărbătoarea principală, pe 27 octombrie.",
+    "content_ro": "• **În perioada 18–28 octombrie** va avea loc la București pelerinajul dedicat Sfântului Cuvios Dimitrie cel Nou, ocrotitorul Capitalei, la Catedrala Patriarhală.\n\n• **Între 18 și 23 octombrie**, credincioșii vor putea să se închine zilnic, între orele 07:00 și 21:00, la moaștele expuse în interiorul Catedralei Patriarhale istorice. Măsura este legată de lucrările de restaurare a picturii din pridvor.\n\n• **Moaștele expuse** vor fi ale Sfântului Cuvios Dimitrie cel Nou, ale Sfântului Mare Mucenic Dimitrie, Izvorâtorul de Mir, ale Sfinților Împărați Constantin și Elena și ale Sfântului Ierarh Nectarie.\n\n• **Sâmbătă, 24 octombrie, de la ora 12:00**, va avea loc procesiunea Calea Sfinților. Cele două coloane vor porni de la Catedrala Patriarhală și de la Catedrala Mitropolitană „Sfântul Spiridon”–Nou, se vor reuni la baza Dealului Patriarhiei și vor urca împreună spre catedrală.\n\n• **În procesiune** vor fi purtate și moaștele Sfintei Cuvioase Elisabeta de la Pasărea. La ora 12:45, Patriarhul Daniel va întâmpina raclele, care vor fi așezate apoi spre închinare în Baldachinul Sfinților de pe Colina Patriarhiei.\n\n• **Pe 27 octombrie** este sărbătorit Sfântul Cuvios Dimitrie cel Nou. Momentul central al manifestărilor va fi Sfânta Liturghie arhierească, oficiată de Patriarhul Daniel alături de ierarhi, preoți și diaconi."
+  },
+  {
+    "group_id": "group_cd1fa4f0a9",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNjk5Nl8zMDE2/OTk2X0NlLWVzdGUtZmVub21lbnVsLV9m/b29kLW5vaXNlXy1TdXJzYS1Gb3RvLUdl/dHR5LUltYWdlcy5qcGcmaGFzaD1hYjY0/YjhkNDE0ZjRiYmQyYjUwODdhMmQwYzQ0YjU3Mw==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ce este „food noise”, fenomenul care poate îngreuna slăbitul. Obiceiurile care îl pot accentua, explicate de specialiști",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/ce-este-food-noise-fenomenul-care-poate-ingreuna-slabitul-obiceiurile-care-il-pot-accentua-explicate-de-specialisti-3995393"
+      }
+    ],
+    "published_at": 1792209646,
+    "title_hu": "Ce este „food noise”, fenomenul care poate îngreuna slăbitul. Obiceiurile care îl pot accentua, explicate de specialiști",
+    "lead_hu": "Gândurile despre mâncare pot deveni o preocupare constantă, chiar și în absența foamei fizice. Cunoscut sub denumirea de „food noise”, fenomenul poate influența comportamentul alimentar și îngreuna co…",
+    "content_hu": "Gândurile despre mâncare pot deveni o preocupare constantă, chiar și în absența foamei fizice. Cunoscut sub denumirea de „food noise”, fenomenul poate influența comportamentul alimentar și îngreuna controlul greutății.",
+    "title_ro": "Ce este „food noise”, fenomenul care poate îngreuna slăbitul. Obiceiurile care îl pot accentua, explicate de specialiști",
+    "lead_ro": "Gândurile despre mâncare pot deveni o preocupare constantă, chiar și în absența foamei fizice. Cunoscut sub denumirea de „food noise”, fenomenul poate influența comportamentul alimentar și îngreuna co…",
+    "content_ro": "Gândurile despre mâncare pot deveni o preocupare constantă, chiar și în absența foamei fizice. Cunoscut sub denumirea de „food noise”, fenomenul poate influența comportamentul alimentar și îngreuna controlul greutății."
+  },
+  {
+    "group_id": "group_c948336c54",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNjQ4MF8zMDE2/NDgwX3Byb2ZpbWVkaWEtMTEzNTMxMDEw/Ny5qcGcmaGFzaD0xNjcxZTIyNzVkZGMyM2I1MDQzZTk3OWM5ZDNlNmU2OA==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Au fugit de Putin, dar Occidentul îi trimite înapoi în Rusia. Ce se întâmplă cu cetățenii ruși deportați din SUA și Europa",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/au-fugit-de-putin-dar-occidentul-ii-trimite-inapoi-in-rusia-ce-se-intampla-cu-cetatenii-rusi-deportati-din-sua-si-europa-3994995"
+      }
+    ],
+    "published_at": 1792209646,
+    "title_hu": "Au fugit de Putin, dar Occidentul îi trimite înapoi în Rusia. Ce se întâmplă cu cetățenii ruși deportați din SUA și Europa",
+    "lead_hu": "Au fugit de Putin, dar Occidentul îi trimite înapoi în Rusia. Ce se întâmplă cu cetățenii ruși deportați din SUA și Europa",
+    "content_hu": "Au fugit de Putin, dar Occidentul îi trimite înapoi în Rusia. Ce se întâmplă cu cetățenii ruși deportați din SUA și Europa",
+    "title_ro": "Au fugit de Putin, dar Occidentul îi trimite înapoi în Rusia. Ce se întâmplă cu cetățenii ruși deportați din SUA și Europa",
+    "lead_ro": "Au fugit de Putin, dar Occidentul îi trimite înapoi în Rusia. Ce se întâmplă cu cetățenii ruși deportați din SUA și Europa",
+    "content_ro": "Au fugit de Putin, dar Occidentul îi trimite înapoi în Rusia. Ce se întâmplă cu cetățenii ruși deportați din SUA și Europa"
+  },
+  {
+    "group_id": "group_0c0eba9266",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNzI3NF8zMDE3/Mjc0X1ZpdGV6YS1tYXhpbWEtaW4tbG9j/YWxpdGF0ZV8tSW5xdWFtLVBob3Rvcy1D/b3JuZWwtUHV0YW4uanBnJmhhc2g9OGNl/MmU2Y2MzZWZhY2Y2N2UwOTM5NjAzYzQ2OWJkYWQ=.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Regula rutieră pe care mulți șoferi o ignoră: Ce se întâmplă cu limita de viteză de la intrarea în localitate după prima intersecție",
+        "link": "https://www.digi24.ro/stiri/sci-tech/auto/regula-rutiera-pe-care-multi-soferi-o-ignora-ce-se-intampla-cu-limita-de-viteza-de-la-intrarea-in-localitate-dupa-prima-intersectie-3995627"
+      }
+    ],
+    "published_at": 1792209637,
+    "title_hu": "Regula rutieră pe care mulți șoferi o ignoră: Ce se întâmplă cu limita de viteză de la intrarea în localitate după prima intersecție",
+    "lead_hu": "Deși regula generală anulează majoritatea restricțiilor de circulație la primul nod rutier, legea prevede o excepție clară pentru acest caz: reducerea de viteză se aplică pe tot sectorul de drum până …",
+    "content_hu": "Deși regula generală anulează majoritatea restricțiilor de circulație la primul nod rutier, legea prevede o excepție clară pentru acest caz: reducerea de viteză se aplică pe tot sectorul de drum până la ieșirea din localitate, dacă nu este modificată de alte indicatoare.",
+    "title_ro": "Regula rutieră pe care mulți șoferi o ignoră: Ce se întâmplă cu limita de viteză de la intrarea în localitate după prima intersecție",
+    "lead_ro": "Deși regula generală anulează majoritatea restricțiilor de circulație la primul nod rutier, legea prevede o excepție clară pentru acest caz: reducerea de viteză se aplică pe tot sectorul de drum până …",
+    "content_ro": "Deși regula generală anulează majoritatea restricțiilor de circulație la primul nod rutier, legea prevede o excepție clară pentru acest caz: reducerea de viteză se aplică pe tot sectorul de drum până la ieșirea din localitate, dacă nu este modificată de alte indicatoare."
+  },
+  {
+    "group_id": "group_c540f57bce",
+    "fingerprint": "582f4c005a178ef41687418f63443d7c",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/13/cikk_Trump_Zelenszkij__president-gov-ua.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Rusia lovește tot mai puternic înainte de iarnă. Cu ce problemă majoră se confruntă Ucraina în fața atacurilor",
+        "link": "https://www.mediafax.ro/externe/rusia-loveste-tot-mai-puternic-inainte-de-iarna-cu-ce-problema-majora-se-confrunta-ucraina-in-fata-atacurilor-23826445"
+      },
+      {
+        "source": "Digi24",
+        "title": "1.000 de rachete, drone și bombe. Cum vrea Putin să cufunde marile orașe din Ucraina în întuneric și frig în această iarnă",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/1-000-de-rachete-drone-si-bombe-cum-vrea-putin-sa-cufunde-marile-orase-din-ucraina-in-intuneric-si-frig-in-aceasta-iarna-3994987"
+      }
+    ],
+    "published_at": 1792209627,
+    "title_hu": "Téli orosz támadások fenyegetik Ukrajna energetikai rendszerét, fogynak a Patriot-rakéták",
+    "lead_hu": "Oroszország fokozza az ukrán energetikai infrastruktúra elleni támadásokat a tél előtt, miközben Ukrajna légvédelmi rakétakészletei kritikusan alacsony szintre kerültek. Egy ukrán tisztviselők által bemutatott, de függetlenül nem hitelesített dokumentum akár ezer rakétával, drónnal és bombával számoló téli hadjárat tervét vázolja fel.",
+    "content_hu": "• **A tél előtt erősödnek az energetikai létesítmények elleni orosz támadások:** a beszámolók szerint a csapások az áram-, fűtés- és vízellátást veszélyeztetik, és a civil lakosságot is súlyosan érintik.\n\n• **Kritikus szintre csökkentek az ukrán Patriot-rakétakészletek:** egy, a The Washington Postnak nyilatkozó ukrán tisztviselő szerint október 7-én már csak tíz elfogórakéta állt rendelkezésre, amelyeket a későbbi támadások során felhasználtak; jelenleg csupán néhány maradhatott. A CNN szerint a legutóbbi orosz támadásban kilőtt ballisztikus rakéták közül csaknem mind célba ért.\n\n• **Három kijevi erőművet is találat ért:** a Mediafax által idézett beszámoló szerint a támadásban négy ember meghalt, huszonöt pedig megsebesült. A Patriot-elfogórakéták hiánya különösen megnehezíti a kritikus infrastruktúra védelmét a ballisztikus rakétákkal szemben.\n\n• **Akár ezer fegyver bevetésével számoló orosz téli tervről is beszámoltak:** az ukrán energiaügyi miniszter európai partnerekkel ismertetett egy elfogott dokumentumot, amely erőművek, alállomások és vízellátó létesítmények támadását vázolja fel. A New York Times nem tudta függetlenül ellenőrizni a dokumentum hitelességét; a terv Kijevet, Harkivot és Odesszát jelöli meg kiemelt célpontként.\n\n• **A légvédelmi lőszerekért folytatott verseny tovább nehezíti az utánpótlást:** a közel-keleti konfliktus is terheli a Patriot- és THAAD-rakéták készleteit. A NATO egyik tisztviselője szerint a PURL-mechanizmuson keresztüli szállítások folytatódnak, ukrán források viszont rendszertelennek nevezték az ellátást, és nem látnak garanciát a következő szállítmányok érkezésére.",
+    "title_ro": "Atacurile rusești asupra infrastructurii energetice se intensifică, iar Ucraina rămâne fără interceptoare Patriot",
+    "lead_ro": "Rusia își intensifică atacurile asupra infrastructurii energetice ucrainene înainte de iarnă, în timp ce stocurile de rachete antiaeriene ale Ucrainei au ajuns la un nivel critic. Un document prezentat de oficiali ucraineni, dar neverificat independent, descrie un plan pentru o campanie de iarnă care ar putea folosi până la o mie de rachete, drone și bombe.",
+    "content_ro": "• **Atacurile rusești asupra infrastructurii energetice se intensifică înainte de iarnă:** potrivit relatărilor, loviturile amenință alimentarea cu electricitate, căldură și apă și afectează grav populația civilă.\n\n• **Stocurile ucrainene de rachete Patriot au ajuns la un nivel critic:** un oficial ucrainean citat de The Washington Post a declarat că la 7 octombrie mai existau doar zece rachete interceptoare, folosite în atacurile ulterioare, iar în prezent ar mai fi disponibile doar câteva. CNN a relatat că aproape toate rachetele balistice lansate în cel mai recent atac rusesc nu au fost interceptate.\n\n• **Trei centrale electrice din Kiev au fost lovite:** potrivit informațiilor citate de Mediafax, atacul s-a soldat cu patru morți și 25 de răniți. Lipsa interceptoarelor Patriot îngreunează în mod deosebit protejarea infrastructurii critice împotriva rachetelor balistice.\n\n• **Un presupus plan rusesc de iarnă prevede folosirea a până la o mie de arme:** ministrul ucrainean al Energiei a prezentat partenerilor europeni un document interceptat, care descrie atacuri asupra centralelor electrice, stațiilor electrice și instalațiilor de alimentare cu apă. The New York Times nu a putut verifica independent autenticitatea documentului; Kievul, Harkovul și Odesa sunt indicate drept ținte prioritare.\n\n• **Concurența pentru munițiile antiaeriene complică reaprovizionarea Ucrainei:** conflictul din Orientul Mijlociu pune presiune suplimentară asupra stocurilor de rachete Patriot și THAAD. Un oficial NATO a declarat că livrările prin mecanismul PURL continuă, însă surse ucrainene au descris aprovizionarea drept neregulată și au spus că nu există garanții privind sosirea următoarelor transporturi."
+  },
+  {
+    "group_id": "group_bf12b873c8",
+    "category": "Gazdaság",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE3JTJGMzAxNzc1Nl8zMDE3/NzU2X0NyaXN0ZWxhLU1BUklPLmpwZyZo/YXNoPTFhNTY0YjEzM2M0Nzk3NDU5OGQwNzMxNWI1ODNlZmEw.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "„So much bruiaj\". Cristela cere intervenția SUA pentru eliberarea lui Călin Georgescu. Interviu cu un influencer care ar fi spălat bani",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/so-much-bruiaj-cristela-cere-interventia-sua-pentru-eliberarea-lui-calin-georgescu-interviu-cu-un-influencer-care-ar-fi-spalat-bani-3996433"
+      }
+    ],
+    "published_at": 1792209616,
+    "title_hu": "„So much bruiaj\". Cristela cere intervenția SUA pentru eliberarea lui Călin Georgescu. Interviu cu un influencer care ar fi spălat bani",
+    "lead_hu": "Soția fostului candidat la prezidențiale, Călin Georgescu, a oferit un interviu în engleză unuia dintre cei mai controversați influenceri „MAGA” din Stalele Unite. Cristela Georgescu, devenită noua po…",
+    "content_hu": "Soția fostului candidat la prezidențiale, Călin Georgescu, a oferit un interviu în engleză unuia dintre cei mai controversați influenceri „MAGA” din Stalele Unite. Cristela Georgescu, devenită noua portavoce a așa numitului curent „suveranism” după ce soțul său a fost reținut pentru 30 de zile, a avut o discuție de peste 40 de minute cu Mario Nawfal. Cristela a perorat aceleași teze fără să aducă dovezi. De la „eurostalinism” până la „liveurile susținătorilor sunt bruiate”.",
+    "title_ro": "„So much bruiaj\". Cristela cere intervenția SUA pentru eliberarea lui Călin Georgescu. Interviu cu un influencer care ar fi spălat bani",
+    "lead_ro": "Soția fostului candidat la prezidențiale, Călin Georgescu, a oferit un interviu în engleză unuia dintre cei mai controversați influenceri „MAGA” din Stalele Unite. Cristela Georgescu, devenită noua po…",
+    "content_ro": "Soția fostului candidat la prezidențiale, Călin Georgescu, a oferit un interviu în engleză unuia dintre cei mai controversați influenceri „MAGA” din Stalele Unite. Cristela Georgescu, devenită noua portavoce a așa numitului curent „suveranism” după ce soțul său a fost reținut pentru 30 de zile, a avut o discuție de peste 40 de minute cu Mario Nawfal. Cristela a perorat aceleași teze fără să aducă dovezi. De la „eurostalinism” până la „liveurile susținătorilor sunt bruiate”."
+  },
+  {
+    "group_id": "group_cdd7a87fd0",
+    "fingerprint": "690c5da7843d647e0a774d7a50fb9890",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17072026/d14b479f-60fc-407a-82c2-b4b20ed08039.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Premiul pentru Pace, unicat la FIFA? » Ce se întâmplă cu distincția acordată exclusiv lui Donald Trump",
+        "link": "https://www.gsp.ro/international/campionate/premiul-pentru-pace-unicat-fifa-ce-se-intampla-distinctia-acordata-exclusiv-donald-trump-988937.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Donald Trump ar putea rămâne singurul politician recompensat cu Premiul FIFA pentru Pace",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/donald-trump-ar-putea-ramane-singurul-politician-recompensat-cu-premiul-fifa-pentru-pace-3995243"
+      }
+    ],
+    "published_at": 1792209614,
+    "title_hu": "A FIFA felülvizsgálja a Trumpnak ítélt békedíj jövőjét",
+    "lead_hu": "A FIFA társadalmi felelősségvállalási bizottsága azt vizsgálja, hogy átalakítsák, politikusok előtt lezárják vagy megszüntessék-e a békedíjat, amelyet elsőként Donald Trump kapott meg 2025 decemberében. A bizottság a FIFA december 16-i dohai tanácsülése előtt tesz javaslatot.",
+    "content_hu": "• **Donald Trump** kapta meg elsőként a FIFA békedíját 2025 decemberében, a 2026-os férfi-világbajnokság sorsolásához kapcsolódó eseményen Washingtonban. A díj odaítélésének módját nem hozták nyilvánosságra.\n\n• **A FIFA 22 tagú társadalmi felelősségvállalási bizottsága** vizsgálja a díj jövőjét, miután a szervezet tanácsának több tagja változtatást vagy akár a díj megszüntetését sürgette.\n\n• **A díj Trumpnak történő odaítélése** azért váltott ki bírálatokat, mert a FIFA alapszabályának 2. cikke tiltja a politikai vagy kormányzati beavatkozást a labdarúgásba. A tanács tagjai közül többen úgy vélik, hogy a kitüntetés jelenlegi formáját kompromittálta a politikushoz való kapcsolódás.\n\n• **A lehetséges változtatások** között szerepel, hogy a díjat a labdarúgás világában tevékenykedő, a társadalmi harmóniáért és felelősségért kiemelkedő munkát végző személy kaphassa, politikusok pedig ne legyenek jelölhetők. A bizottság a jelölési és kiválasztási eljárás szabályozására is javaslatot tehet.\n\n• **A következő lépés** a bizottság ajánlása, amelyet a FIFA december 16-i, dohai tanácsülése előtt várnak. A díj megszüntetéséről is felmerült javaslat, de a tanácsban széles körű egyetértés van abban, hogy legalább változtatásokra szükség van.",
+    "title_ro": "FIFA reevaluează viitorul premiului pentru pace acordat lui Trump",
+    "lead_ro": "Comisia FIFA pentru responsabilitate socială analizează dacă premiul pentru pace, acordat pentru prima dată lui Donald Trump în decembrie 2025, ar trebui modificat, rezervat persoanelor care nu sunt politicieni sau desființat. Comisia urmează să formuleze o recomandare înaintea reuniunii Consiliului FIFA din 16 decembrie, la Doha.",
+    "content_ro": "• **Donald Trump** a primit primul Premiu FIFA pentru Pace în decembrie 2025, în cadrul unui eveniment organizat la Washington cu ocazia tragerii la sorți pentru Cupa Mondială masculină din 2026. Procedura prin care a fost ales câștigătorul nu a fost făcută publică.\n\n• **Comisia FIFA pentru responsabilitate socială, formată din 22 de membri,** analizează viitorul premiului, după ce mai mulți membri ai Consiliului FIFA au cerut modificarea sau chiar desființarea distincției.\n\n• **Acordarea premiului lui Trump** a provocat critici deoarece articolul 2 din Statutul FIFA interzice ingerința politică sau guvernamentală în fotbal. Mai mulți membri ai Consiliului consideră că asocierea cu un politician a compromis distincția în forma sa actuală.\n\n• **Printre posibilele modificări** se numără acordarea premiului unei persoane din lumea fotbalului care a contribuit în mod excepțional la armonia socială și responsabilitate, cu reguli care să excludă politicienii. Comisia ar urma să propună și norme pentru nominalizarea și selectarea laureaților.\n\n• **Următorul pas** este recomandarea comisiei, așteptată înaintea reuniunii Consiliului FIFA din 16 decembrie, la Doha. Desființarea premiului a fost propusă, însă există un consens larg în Consiliu că sunt necesare cel puțin unele schimbări."
+  },
+  {
+    "group_id": "group_be0112e790",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "INTERVIU. Arundhati Roy, una dintre marile scriitoare ale lumii, despre felul în care părinții ne fac „daruri învelite în sârmă ghimpată”",
+        "link": "https://hotnews.ro/interviu-arundhati-roy-una-dintre-marile-scriitoare-ale-lumii-despre-felul-in-care-parintii-ne-fac-daruri-invelite-in-sarma-ghimpata-2371961"
+      }
+    ],
+    "published_at": 1792209609,
+    "title_hu": "INTERVIU. Arundhati Roy, una dintre marile scriitoare ale lumii, despre felul în care părinții ne fac „daruri învelite în sârmă ghimpată”",
+    "lead_hu": "„Am crescut cu sentimentul că, de fiecare dată când eram lăudată, undeva, în camera alăturată, cineva liniștit era bătut. Și este adevărat, întotdeauna este cineva”, spune câștigătoarea Booker Prize A…",
+    "content_hu": "„Am crescut cu sentimentul că, de fiecare dată când eram lăudată, undeva, în camera alăturată, cineva liniștit era bătut. Și este adevărat, întotdeauna este cineva”, spune câștigătoarea Booker Prize Arundhati Roy, într-un interviu pentru HotNews. Una dintre cele mai talentate și cunoscute autoare din lume și-a lansat anul trecut primul volum de memorii, „Refugiul meu, …",
+    "title_ro": "INTERVIU. Arundhati Roy, una dintre marile scriitoare ale lumii, despre felul în care părinții ne fac „daruri învelite în sârmă ghimpată”",
+    "lead_ro": "„Am crescut cu sentimentul că, de fiecare dată când eram lăudată, undeva, în camera alăturată, cineva liniștit era bătut. Și este adevărat, întotdeauna este cineva”, spune câștigătoarea Booker Prize A…",
+    "content_ro": "„Am crescut cu sentimentul că, de fiecare dată când eram lăudată, undeva, în camera alăturată, cineva liniștit era bătut. Și este adevărat, întotdeauna este cineva”, spune câștigătoarea Booker Prize Arundhati Roy, într-un interviu pentru HotNews. Una dintre cele mai talentate și cunoscute autoare din lume și-a lansat anul trecut primul volum de memorii, „Refugiul meu, …"
+  },
+  {
+    "group_id": "group_bb4e90dfb7",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE2JTJGMzAxNjgxOF8zMDE2/ODE4X2Vkd2FyZC5qcGcmaGFzaD1mNTli/NDYzNGNiY2MyMWRmZWE2YjJlYzgwMTYzYzdmNA==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "A fost elucidat misterul cadavrului găsit într-un butoi în apele secate ale Lacului Mead. Ipotezele poliției au fost date peste cap",
+        "link": "https://www.digi24.ro/stiri/externe/a-fost-elucidat-misterul-cadavrului-gasit-intr-un-butoi-in-apele-secate-ale-lacului-mead-ipotezele-politiei-au-fost-date-peste-cap-3995247"
+      }
+    ],
+    "published_at": 1792209600,
+    "title_hu": "A fost elucidat misterul cadavrului găsit într-un butoi în apele secate ale Lacului Mead. Ipotezele poliției au fost date peste cap",
+    "lead_hu": "După patru ani, misterul scos la iveală de apele secate ale Lacului Mead a fost elucidat parțial. Rămășițele unui bărbat au fost descoperite într-un butoi, în timpul perioadei secetoase din 2022. De a…",
+    "content_hu": "După patru ani, misterul scos la iveală de apele secate ale Lacului Mead a fost elucidat parțial. Rămășițele unui bărbat au fost descoperite într-un butoi, în timpul perioadei secetoase din 2022. De atunci, anchetatorii din Las Vegas au încercat să afle identitatea bărbatului care fusese împușcat în cap cu zeci de ani în urmă. Acum, i-a fost făcut public numele: Edward Lelburian Jackson. Anchetatorii mai au însă de aflat și cine a fost autorul crimei, relatează The Guardian.",
+    "title_ro": "A fost elucidat misterul cadavrului găsit într-un butoi în apele secate ale Lacului Mead. Ipotezele poliției au fost date peste cap",
+    "lead_ro": "După patru ani, misterul scos la iveală de apele secate ale Lacului Mead a fost elucidat parțial. Rămășițele unui bărbat au fost descoperite într-un butoi, în timpul perioadei secetoase din 2022. De a…",
+    "content_ro": "După patru ani, misterul scos la iveală de apele secate ale Lacului Mead a fost elucidat parțial. Rămășițele unui bărbat au fost descoperite într-un butoi, în timpul perioadei secetoase din 2022. De atunci, anchetatorii din Las Vegas au încercat să afle identitatea bărbatului care fusese împușcat în cap cu zeci de ani în urmă. Acum, i-a fost făcut public numele: Edward Lelburian Jackson. Anchetatorii mai au însă de aflat și cine a fost autorul crimei, relatează The Guardian."
+  },
+  {
+    "group_id": "group_241f10a610",
+    "fingerprint": "e805a4f4d7ad96f37857234b4690ff05",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Suspiciuni că ochelarii inteligenți ai Meta și-au înregistrat utilizatorii fără cunoștința lor",
+        "link": "https://hotnews.ro/suspiciuni-ca-ochelarii-inteligenti-ai-meta-si-au-inregistrat-utilizatorii-fara-cunostinta-lor-2376658"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ochelarii inteligenți Ray-Ban Meta au înregistrat conversații fără știrea utilizatorilor. Compania recunoaște eroarea",
+        "link": "https://www.mediafax.ro/tehnologie/ochelarii-inteligenti-ray-ban-meta-au-inregistrat-conversatii-fara-stirea-utilizatorilor-compania-recunoaste-eroarea-23827000"
+      }
+    ],
+    "published_at": 1792209571,
+    "title_hu": "A Ray-Ban Meta szemüvegek a felhasználók tudta nélkül rögzítettek beszélgetéseket",
+    "lead_hu": "Több Ray-Ban Meta-okosszemüveg használója arról számolt be, hogy a készülékek hangfelvételeket és átiratokat mentettek el anélkül, hogy aktiválták volna a „Hey Meta” asszisztenst. A Meta közölte, hogy a hibát kijavította, de nem részletezte annak okát vagy azt, hány eszközt érintett.",
+    "content_hu": "• **Több Ray-Ban Meta-felhasználó** arról számolt be, hogy szemüvegük hangfelvételeket és azok átiratait mentette el a Meta AI alkalmazás előzményeibe, noha nem adtak hangutasítást az asszisztens aktiválására.\n\n• **Egy felhasználó három szemüvegpárnál** tapasztalta a jelenséget, és azt írta, hogy a probléma akkor is előfordult, amikor kikapcsolta a hangasszisztens „Hey Meta” nélküli aktiválásának lehetőségét. Mások a Redditen hasonló tapasztalatokról számoltak be.\n\n• **A Meta szerint a hibát kijavították.** A vállalat nem közölte, mi okozta a nem szándékos rögzítést, hány készüléket érintett, illetve milyen intézkedésekkel előzné meg a hasonló eseteket. A felhasználók az alkalmazás beállításaiban megtekinthetik és törölhetik a hangfelvételeket.\n\n• **A történtek adatvédelmi aggályokat vetnek fel.** Korábbi beszámolók szerint a Meta adatfeldolgozó partnereinek munkatársai hozzáférhettek az okosszemüvegekkel készített felvételekhez, köztük olyanokhoz is, amelyek magánjellegű tevékenységeket mutattak. A Meta korábban arra hivatkozott, hogy a készülékek fényjelzése figyelmeztet a felvételkészítésre.",
+    "title_ro": "Ochelarii Ray-Ban Meta au înregistrat conversații fără știrea utilizatorilor",
+    "lead_ro": "Mai mulți utilizatori ai ochelarilor inteligenți Ray-Ban Meta au spus că dispozitivele au salvat înregistrări audio și transcrieri fără ca asistentul „Hey Meta” să fi fost activat. Meta a declarat că a remediat problema, dar nu a precizat cauza acesteia sau câte dispozitive au fost afectate.",
+    "content_ro": "• **Mai mulți utilizatori Ray-Ban Meta** au relatat că ochelarii au salvat înregistrări audio și transcrierile acestora în istoricul aplicației Meta AI, deși nu au dat o comandă vocală pentru activarea asistentului.\n\n• **Un utilizator a întâmpinat problema la trei perechi de ochelari** și a spus că aceasta s-a produs chiar și după ce a dezactivat opțiunea de activare a asistentului vocal fără comanda „Hey Meta”. Alți utilizatori au descris experiențe similare pe Reddit.\n\n• **Meta a anunțat că eroarea a fost remediată.** Compania nu a precizat ce a provocat înregistrările neintenționate, câte dispozitive au fost afectate sau ce măsuri va lua pentru a preveni situații similare. Utilizatorii pot consulta și șterge înregistrările vocale din setările aplicației.\n\n• **Incidentul ridică preocupări privind confidențialitatea.** Relatări anterioare au arătat că angajați ai unor parteneri de procesare a datelor ai Meta au putut accesa înregistrări realizate cu ochelarii inteligenți, inclusiv imagini cu activități private. Meta a susținut anterior că un indicator luminos avertizează când dispozitivele înregistrează."
+  },
+  {
+    "group_id": "group_b1f633dfc2",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-5/548d02f0-9e60-432b-8f4c-cf9e78e6e8f6/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Piste de biciclete tot mai multe, scandaluri fără sfârșit în trafic. Fenomenul „Go Rider” și conflictele dintre șoferi și bicicliști",
+        "link": "https://adevarul.ro/stiri-interne/societate/piste-de-biciclete-tot-mai-multe-scandaluri-fara-2564551.html"
+      }
+    ],
+    "published_at": 1792209505,
+    "title_hu": "Piste de biciclete tot mai multe, scandaluri fără sfârșit în trafic. Fenomenul „Go Rider” și conflictele dintre șoferi și bicicliști",
+    "lead_hu": "Pistele de biciclete s-au înmulțit în România, ajungând chiar și în sate montane aproape pustii. În orașe, conflictele dintre bicicliști și șoferi provoacă frecvent reacții aprinse pe internet, unde r…",
+    "content_hu": "Pistele de biciclete s-au înmulțit în România, ajungând chiar și în sate montane aproape pustii. În orașe, conflictele dintre bicicliști și șoferi provoacă frecvent reacții aprinse pe internet, unde românii se acuză reciproc de încălcarea regulilor de circulație.",
+    "title_ro": "Piste de biciclete tot mai multe, scandaluri fără sfârșit în trafic. Fenomenul „Go Rider” și conflictele dintre șoferi și bicicliști",
+    "lead_ro": "Pistele de biciclete s-au înmulțit în România, ajungând chiar și în sate montane aproape pustii. În orașe, conflictele dintre bicicliști și șoferi provoacă frecvent reacții aprinse pe internet, unde r…",
+    "content_ro": "Pistele de biciclete s-au înmulțit în România, ajungând chiar și în sate montane aproape pustii. În orașe, conflictele dintre bicicliști și șoferi provoacă frecvent reacții aprinse pe internet, unde românii se acuză reciproc de încălcarea regulilor de circulație."
+  },
+  {
+    "group_id": "group_62c690e725",
+    "fingerprint": "a2c80d608179cb2cb3003c0efa193897",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8121074-mediafax_foto-dpa_hepta-1024x737.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Românii au consumat cea mai mare parte a stocurilor pentru două vaccinuri antigripale. Noi livrări, în octombrie",
+        "link": "https://www.mediafax.ro/sanatate/romanii-au-consumat-cea-mai-mare-parte-a-stocurilor-pentru-doua-vaccinuri-antigripale-noi-livrari-in-octombrie-23826781"
+      },
+      {
+        "source": "G4Media",
+        "title": "Stocuri limitate în farmacii de vaccinuri gripale injectabile. Următoarea tranșă de doze va fi disponibilă la finalul lunii octombrie, anunță Ministerul Sănătății / Peste 250.000 de români s-au vaccinat deja împotriva gripei sezoniere",
+        "link": "https://www.g4media.ro/stocuri-limitate-in-farmacii-de-vaccinuri-gripale-injectabile-urmatoarea-transa-de-doze-va-fi-disponibila-la-finalul-lunii-octombrie-anunta-ministerul-sanatatii-peste-250-000-de-romani-s-au-vaccin.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Peste 350.000 de doze de vaccin antigripal intră în farmaciile din România. Numărul mai crește până la finalul lunii",
+        "link": "https://hotnews.ro/peste-350-000-de-doze-de-vaccin-antigripal-intra-in-farmaciile-din-romania-numarul-mai-creste-pana-la-finalul-lunii-2378257"
+      },
+      {
+        "source": "Maszol",
+        "title": "Kiosztják a második adag influenza elleni védőoltást",
+        "link": "https://maszol.ro/belfold/Kiosztjak-a-masodik-adag-influenza-elleni-vedooltast"
+      },
+      {
+        "source": "Digi24",
+        "title": "Patru vaccinuri antigripale pe piață, dar cererea crește: ce trebuie să știi despre acces, stocuri și priorități",
+        "link": "https://www.digi24.ro/stiri/patru-vaccinuri-antigripale-pe-piata-dar-cererea-creste-ce-trebuie-sa-stii-despre-acces-stocuri-si-prioritati-3995921"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Vaccinul antigripal, de negăsit în farmacii. Ministerul Sănătății susține că sunt stocuri. 256.000 de persoane s-au vaccinat împotriva gripei în România",
+        "link": "https://hotnews.ro/vaccinul-antigripal-de-negasit-in-farmacii-ministerul-sanatatii-sustine-ca-sunt-stocuri-256-000-de-persoane-s-au-vaccinat-impotriva-gripei-in-romania-2378368"
+      }
+    ],
+    "published_at": 1792209310,
+    "title_hu": "Korlátozott az injekciós influenzaoltások készlete, október végéig több mint 600 ezer adag érkezik",
+    "lead_hu": "A Vaxigrip és az Influvac szeptemberben kiosztott adagjainak nagy részét felhasználták, a gyógyszertárakban országosan mintegy 45 ezer dózis maradt. Október végéig több mint 600 ezer újabb adag érkezik, ugyanakkor egy budapesti gyógyszertárakat felkereső beszámoló szerint ott egyik típusból sem lehetett oltást kapni. Október 11-ig 256 ezren oltatták be magukat Romániában.",
+    "content_hu": "• **Mintegy 45 ezer adag** maradt országosan a gyógyszertárakban a két injekciós influenzaoltásból, a Vaxigripből és az Influvacból; a szeptemberben kiosztott készlet nagy részét már felhasználták.\n\n• **A jövő héten indul a következő szállítmány:** először több mint 350 ezer adag érkezik az egyik injekciós vakcinából, majd október végéig további 250 ezer adag a másikból.\n\n• **A négy engedélyezett vakcina közül** a gyermekeknek és serdülőknek szánt, orrspray formájú Fluenz, valamint a 60 év felettieknek ajánlott Efluelda készlete a minisztérium szerint elegendő a gyógyszertárakban és a nagykereskedőknél.\n\n• **Október 11-ig 256 ezer ember** kapott szezonális influenzaoltást Romániában. A hatóságok szerint a 2026–2027-es szezonra az előző évben felhasználtnál nagyobb mennyiséget osztottak ki az országnak.\n\n• **Három gyártóval egyeztetett az ANMDMR** a további szállítások előkészítéséről. A vakcinák előállítása és minőségellenőrzése különleges követelményekhez kötött, az országonkénti adagokat pedig előre határozzák meg.\n\n• **A budapesti gyógyszertárakban a HotNews beszámolója szerint** több mint 15, különböző hálózathoz tartozó patikában semmilyen influenzaoltás nem volt elérhető, beleértve a Fluenzet és az Efluelda oltást is. Ez eltér a minisztérium országos készletjelentésétől; a beszámoló szerint egyes gyógyszertárakban a kapott adagok két nap alatt elfogytak, az újabb készletet pedig október 20-a utánra vagy a hónap végére várták.\n\n• **Az oltás kiváltásának és beadásának rendje** szerint a támogatott oltáshoz orvosi recept szükséges, a vakcinát a patikában kell kiváltani, majd rendszerint vissza kell vinni az orvosi rendelőbe beadásra. Csak kevés gyógyszertárban adják be helyben; a receptet háziorvos és szakorvos is felírhatja.\n\n• **Az oltás ára és támogatása** a HotNews szerint: a támogatásra nem jogosultaknak egy adag körülbelül 80 lejbe kerül, a 45–65 év közötti, krónikus betegség nélküli személyek pedig 50 százalékos támogatással válthatják ki. A patikai kiváltásra épülő eljárás 2026-ban már negyedik éve van érvényben.\n\n• **Az első igazolt halálos áldozat** egy Kolozs megyei, krónikus betegségekkel küzdő, beoltatlan férfi volt. Életkoráról eltérő adat jelent meg: a Maszol 65 év felettiként, a Digi24 65 év alattiként írta le.\n\n• **A múlt héten 201 klinikai influenzás esetet** és 12 laboratóriumilag igazolt influenzás megbetegedést jelentettek országosan.",
+    "title_ro": "Stocuri limitate de vaccinuri antigripale injectabile; peste 600.000 de doze urmează să ajungă până la sfârșitul lui octombrie",
+    "lead_ro": "Cea mai mare parte a dozelor de Vaxigrip și Influvac distribuite în septembrie a fost consumată, iar în farmacii mai sunt aproximativ 45.000 de doze la nivel național. Peste 600.000 de doze suplimentare urmează să fie livrate până la sfârșitul lunii octombrie, însă o relatare despre farmacii din București arată că acolo nu era disponibil niciun tip de vaccin. Până la 11 octombrie, 256.000 de persoane se vaccinaseră în România.",
+    "content_ro": "• **Aproximativ 45.000 de doze** de Vaxigrip și Influvac mai sunt disponibile în farmacii la nivel național; cea mai mare parte a cantităților distribuite în septembrie a fost consumată.\n\n• **Următoarea tranșă începe să fie livrată săptămâna viitoare:** peste 350.000 de doze dintr-unul dintre vaccinurile injectabile, apoi alte 250.000 din celălalt produs, disponibile până la sfârșitul lunii octombrie.\n\n• **Dintre cele patru vaccinuri autorizate,** Fluenz, administrat intranazal copiilor și adolescenților, și Efluelda, destinat persoanelor de peste 60 de ani, sunt disponibile în cantități suficiente în farmacii și la distribuitori, potrivit ministerului.\n\n• **Până la 11 octombrie, 256.000 de persoane** se vaccinaseră împotriva gripei sezoniere în România. Autoritățile afirmă că pentru sezonul 2026–2027 au fost alocate cantități mai mari decât cele utilizate în sezonul precedent.\n\n• **ANMDMR a colaborat cu trei producători** pentru pregătirea livrărilor suplimentare. Producția și controlul calității vaccinurilor presupun cerințe speciale, iar cantitățile alocate fiecărei țări sunt stabilite în avans.\n\n• **În farmaciile din București, potrivit relatării HotNews,** niciuna dintre cele peste 15 farmacii vizitate, aparținând unor lanțuri diferite, nu avea vreun vaccin antigripal disponibil, inclusiv Fluenz sau Efluelda. Relatarea contrastează cu situația stocurilor comunicată la nivel național de minister; unele farmacii au spus că dozele primite s-au epuizat în două zile și că așteaptă noi stocuri după 20 octombrie sau la finalul lunii.\n\n• **Procedura de eliberare și administrare** presupune o rețetă medicală pentru vaccinurile compensate, ridicarea vaccinului din farmacie și, de regulă, revenirea la cabinet pentru administrare. Doar puține farmacii administrează vaccinul pe loc; rețeta poate fi prescrisă atât de medicul de familie, cât și de un medic specialist.\n\n• **Costul și compensarea vaccinului:** potrivit HotNews, o doză costă aproximativ 80 de lei pentru persoanele care nu beneficiază de compensare, iar persoanele între 45 și 65 de ani fără boli cronice beneficiază de o compensare de 50%. Procedura prin care vaccinul este ridicat din farmacie este în vigoare pentru al patrulea an consecutiv, în 2026.\n\n• **Prima persoană decedată confirmată cu gripă** în acest sezon a fost un bărbat nevaccinat din județul Cluj, cu afecțiuni cronice. Vârsta sa este relatată diferit: Maszol îl descrie ca având peste 65 de ani, iar Digi24 ca având sub 65 de ani.\n\n• **Săptămâna trecută au fost raportate 201 cazuri de gripă clinică** și 12 cazuri de gripă confirmate în laborator la nivel național."
+  },
+  {
+    "group_id": "group_c99853d22f",
+    "fingerprint": "cdfbd14c4070256551c62448ff532e35",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "O nouă specie de dinozaur, descoperită pe baza unei fosile ''trecută cu vederea'' timp de 100 de ani",
+        "link": "https://agerpres.ro/stiinta/2026/10/14/o-noua-specie-de-dinozaur-descoperita-pe-baza-unei-fosile-trecuta-cu-vederea-timp-de-100-de-ani--1602821"
+      },
+      {
+        "source": "Mediafax",
+        "title": "100 de ani într-un sertar: descoperire neașteptată într-un muzeu din Marea Britanie",
+        "link": "https://www.mediafax.ro/stiinta-sanatate/100-de-ani-intr-un-sertar-descoperire-neasteptata-intr-un-muzeu-din-marea-britanie-23826997"
+      }
+    ],
+    "published_at": 1792209309,
+    "title_hu": "Egy évszázada múzeumi fiókban őrzött fosszíliából azonosítottak új dinoszauruszfajt",
+    "lead_hu": "Egy, az angliai Wight-szigeten 1924-ben talált koponyatöredék alapján a kutatók új megaraptorán dinoszauruszfajt azonosítottak. Az Invictibellatrix amberina mintegy 120 millió éve élt, és a csoport első olyan képviselője, amelynek európai jelenlétét megerősítették.",
+    "content_hu": "• **Az Invictibellatrix amberina** fosszíliáját 1924-ben találták meg a Wight-szigeten; a koponyatöredék később a londoni Természettudományi Múzeum gyűjteményébe került, ahol csaknem egy évszázadon át őrizték anélkül, hogy felismerték volna a jelentőségét.\n\n• **A mintegy 120 millió éve élt faj** a két lábon járó, húsevő megaraptoránok közé tartozott. A kutatók becslése szerint három-négy méter hosszú és körülbelül másfél méter magas lehetett, karmai pedig elérhették a 10–20 centimétert.\n\n• **A kutatók szerint** kisebb dinoszauruszokra, hüllőkre és emlősökre vadászhatott. Cassius Morrison, a tanulmány vezető szerzője úgy vélte, az ember megfelelő méretű zsákmány lett volna számára, míg egy T. rex valószínűleg túl kicsinek találta volna.\n\n• **A felfedezés** a megaraptoránok első megerősített európai előfordulása. A kutatók szerint a csoport Ázsiából terjedhetett el Európa felé, de a vándorlás pontos útvonala továbbra sem ismert.\n\n• **A faj neve** az „Invictibellatrix” elnevezésben a „legyőzhetetlen harcosra” utal; az „amberina” a fosszíliát rejtő földtani rétegekben található borostyánra vonatkozik.",
+    "title_ro": "Fosila păstrată aproape un secol într-un muzeu a dus la identificarea unei noi specii de dinozaur",
+    "lead_ro": "Cercetătorii au identificat o nouă specie de megaraptoran pe baza unui fragment de craniu descoperit în 1924 pe Insula Wight, în Anglia. Invictibellatrix amberina a trăit în urmă cu aproximativ 120 de milioane de ani și este primul reprezentant al grupului a cărui prezență în Europa a fost confirmată.",
+    "content_ro": "• **Fosila de Invictibellatrix amberina** a fost găsită în 1924 pe Insula Wight, iar fragmentul de craniu a ajuns ulterior în colecțiile Muzeului de Istorie Naturală din Londra, unde a fost păstrat aproape un secol fără ca importanța sa să fie recunoscută.\n\n• **Specia, care a trăit în urmă cu circa 120 de milioane de ani**, făcea parte din grupul megaraptoranilor, dinozauri carnivori care se deplasau pe două picioare. Cercetătorii estimează că avea între trei și patru metri lungime, aproximativ un metru și jumătate înălțime și gheare de 10–20 de centimetri.\n\n• **Potrivit cercetătorilor**, se hrănea probabil cu dinozauri mici, reptile și mamifere. Cassius Morrison, autorul principal al studiului, a spus că oamenii ar fi avut dimensiunea potrivită pentru a deveni prada acestui animal, în timp ce un T. rex i-ar fi putut considera prea mici.\n\n• **Descoperirea** confirmă pentru prima dată prezența megaraptoranilor în Europa. Cercetătorii cred că grupul ar fi apărut în Asia și s-ar fi răspândit ulterior spre Europa, însă traseul exact al migrației rămâne necunoscut.\n\n• **Numele speciei** include termenul „Invictibellatrix”, cu sensul de „războinica neînvinsă”; „amberina” face trimitere la chihlimbarul din straturile geologice în care a fost găsită fosila."
+  },
+  {
+    "group_id": "group_2392b56c94",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Cum-au-fost-fotografiati-Mario-Fresh-si-iubita-lui-Miruna-pe-strazile-Capitalei.-El-mestereste-ea-se-dichiseste-1200x675.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Cum au fost fotografiați Mario Fresh și iubita lui, Miruna, pe străzile Capitalei. El „meșterește, ea se dichisește”",
+        "link": "https://www.cancan.ro/cum-au-fost-fotografiati-mario-fresh-si-iubita-lui-miruna-pe-strazile-capitalei-el-mestereste-ea-se-dichiseste-21531009"
+      }
+    ],
+    "published_at": 1792209033,
+    "title_hu": "Cum au fost fotografiați Mario Fresh și iubita lui, Miruna, pe străzile Capitalei. El „meșterește, ea se dichisește”",
+    "lead_hu": "Gata cu romantismul, s-a revenit la pragmatism! După problemele de sănătate de la Paris, unde l-a chinuit o enterocolită, Mario Fresh s-a întors în țară și și-a reluat programul obișnuit. A fost bine …",
+    "content_hu": "Gata cu romantismul, s-a revenit la pragmatism! După problemele de sănătate de la Paris, unde l-a chinuit o enterocolită, Mario Fresh s-a întors în țară și și-a reluat programul obișnuit. A fost bine și romantic la concertul Celine Dion, dar visul s-a terminat și Mario Fresh trebuie să revină la propriile concerte. Împreună cu iubita lui, […]",
+    "title_ro": "Cum au fost fotografiați Mario Fresh și iubita lui, Miruna, pe străzile Capitalei. El „meșterește, ea se dichisește”",
+    "lead_ro": "Gata cu romantismul, s-a revenit la pragmatism! După problemele de sănătate de la Paris, unde l-a chinuit o enterocolită, Mario Fresh s-a întors în țară și și-a reluat programul obișnuit. A fost bine …",
+    "content_ro": "Gata cu romantismul, s-a revenit la pragmatism! După problemele de sănătate de la Paris, unde l-a chinuit o enterocolită, Mario Fresh s-a întors în țară și și-a reluat programul obișnuit. A fost bine și romantic la concertul Celine Dion, dar visul s-a terminat și Mario Fresh trebuie să revină la propriile concerte. Împreună cu iubita lui, […]"
+  },
+  {
+    "group_id": "group_7aa1f93b45",
+    "fingerprint": "02ea69b2a943ef2b9b247470a4ef23af",
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-14-at-18-25-25-1024x682.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Controversele din jurul lui Marian Neacșu, viitor vicepremier și ministru de Interne",
+        "link": "https://www.mediafax.ro/politic/controversele-din-jurul-lui-marian-neacsu-viitor-vicepremier-si-ministru-de-interne-23825424"
+      },
+      {
+        "source": "G4Media",
+        "title": "Premieră în guvernul Niculescu: Marian Neacșu (PSD) va fi primul ministru al Internelor condamnat definitiv la închisoare cu suspendare / Grindeanu cerea acum câteva zile ”fără penali în funcții publice” și demisia lui Fritz din USR",
+        "link": "https://www.g4media.ro/premiera-in-guvernul-niculescu-marian-neacsu-psd-va-fi-primul-ministru-al-internelor-condamnat-definitiv-la-inchisoare-cu-suspendare-grindeanu-cerea-acum-cateva-zile-fara-penali-in-funct.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Trecutul propunerii de ministru al Internelor. Condamnat penal definitiv la șase luni de închisoare cu suspendare, între timp reabilitat",
+        "link": "https://hotnews.ro/trecutul-noului-ministru-al-internelor-condamnat-penal-definitiv-la-sase-luni-de-inchisoare-cu-suspendare-intre-timp-reabilitat-2376282"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ce spune Luca Niculescu despre miniștrii PSD din guvernul său. Motivele pentru care Marian Neacșu va fi vicepremier",
+        "link": "https://stirileprotv.ro/stiri/politic/ce-spune-luca-niculescu-despre-ministrii-psd-din-guvern-sau-motivul-pentru-care-marian-neacsu-va-fi-vicepremer.html"
+      }
+    ],
+    "published_at": 1792208773,
+    "title_hu": "Marian Neacșu lehet a Niculescu-kormány belügyminisztere és egyetlen miniszterelnök-helyettese",
+    "lead_hu": "A PSD Marian Neacșut jelölte a belügyi tárca élére és miniszterelnök-helyettesnek a Luca Niculescu vezette kormányba. Neacșut 2016-ban jogerősen hat hónap felfüggesztett börtönbüntetésre ítélték összeférhetetlenség miatt, később rehabilitálták; jelölése politikai vitát váltott ki.",
+    "content_hu": "• **A PSD jelölése szerint** Marian Neacșu veheti át a belügyminiszteri tisztséget, és ő lehet a Luca Niculescu vezette kormány egyetlen miniszterelnök-helyettese. A kinevezéshez a parlamenti beiktatás szükséges.\n\n• **2016-ban** Neacșut jogerősen hat hónap felfüggesztett börtönbüntetésre ítélték összeférhetetlenség miatt, mert parlamenti képviselőként a saját kabinetjébe alkalmazta a lányát. Később rehabilitálták.\n\n• **Luca Niculescu** miniszterelnök-jelölt azzal indokolta Neacșu kormányzati szerepét, hogy tapasztalt és kompetens a román közigazgatásban, és korábbi kormányokban is miniszteri tisztséget töltött be.\n\n• **A jelölés politikai vitát váltott ki:** a sajtó a korábbi elítélés mellett arra is rámutatott, hogy Sorin Grindeanu, a PSD vezetője nemrég a „büntetleneket a közéletbe” elvét hangoztatta. Neacșu korábbi ANRE-alelnöki kinevezését az USR is megtámadta, többek között szakmai alkalmasságát vitatva.",
+    "title_ro": "Marian Neacșu ar putea deveni ministru de Interne și singurul vicepremier al guvernului Niculescu",
+    "lead_ro": "PSD l-a propus pe Marian Neacșu pentru conducerea Ministerului Afacerilor Interne și pentru funcția de vicepremier în guvernul condus de Luca Niculescu. Neacșu a fost condamnat definitiv în 2016 la șase luni de închisoare cu suspendare pentru conflict de interese și a fost reabilitat ulterior; nominalizarea sa a generat controverse politice.",
+    "content_ro": "• **Potrivit nominalizării PSD**, Marian Neacșu ar urma să preia portofoliul Afacerilor Interne și să devină singurul vicepremier al guvernului condus de Luca Niculescu. Numirea depinde de învestirea guvernului de către Parlament.\n\n• **În 2016**, Neacșu a fost condamnat definitiv la șase luni de închisoare cu suspendare pentru conflict de interese, după ce, în calitate de deputat, și-a angajat fiica la propriul cabinet parlamentar. Ulterior, a fost reabilitat.\n\n• **Luca Niculescu**, premier desemnat, a justificat rolul lui Neacșu în guvern prin experiența și competența acestuia în administrația românească și a amintit că a ocupat funcții ministeriale în guverne anterioare.\n\n• **Nominalizarea a provocat controverse politice:** presa a remarcat condamnarea anterioară și faptul că Sorin Grindeanu, liderul PSD, susținuse recent principiul „fără penali în funcții publice”. Numirea anterioară a lui Neacșu ca vicepreședinte al ANRE a fost contestată și de USR, inclusiv pe motivul experienței sale profesionale."
+  },
+  {
     "group_id": "group_3abeb4c9f1",
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-d/dd3470b9-a0e2-4fa9-922f-0d7cf21509d5/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -1909,27 +2372,6 @@
     "content_ro": "• **În convorbirea telefonică din 16 octombrie 2026**, Papa Leon și-a exprimat îngrijorarea cu privire la gravitatea situației umanitare din Oleşkî. Potrivit Vaticanului, el a cerut un armistițiu care să permită evacuarea voluntară și în siguranță a civililor, precum și livrarea ajutoarelor și alimentelor.\n\n• **Kremlinul a anunțat că este dispus să coopereze** pentru crearea condițiilor necesare siguranței populației și aprovizionării cu bunuri de primă necesitate. Comunicatul nu a menționat un armistițiu și nu a precizat când ar putea fi reluate livrările, dar a salutat inițiativa umanitară a Vaticanului.\n\n• **Cardinalul Pietro Parolin**, secretarul de stat al Vaticanului, a declarat că Papa Leon a inițiat apelul pentru a pleda în favoarea locuitorilor orașului asediat. Rusia a recunoscut existența unor probleme grave privind aprovizionarea cu alimente și medicamente și a afirmat că armata sa lucrează pentru a le rezolva.\n\n• **Rusia și Ucraina se acuză reciproc** că împiedică aprovizionarea: Rusia susține că Ucraina blochează transporturile, iar Ucraina afirmă că Rusia împiedică livrările de alimente. Din 26 mai nu au mai ajuns livrări de alimente în Oleşkî.\n\n• **Papa a vorbit din spitalul Gemelli**, unde se recuperează după îndepărtarea unui adenocarcinom pulmonar. Potrivit Vaticanului, starea sa se îmbunătățește constant și poate lucra și desfășura activitățile zilnice obișnuite. Putin i-a urat însănătoșire grabnică și completă; Papa Leon are 71 de ani.\n\n• **Populația din Oleşkî**: autoritățile ucrainene au declarat anterior că, din populația de aproximativ 24.000 de locuitori de dinaintea războiului, au mai rămas circa 2.000. Potrivit șefei Misiunii ONU de monitorizare a drepturilor omului în Ucraina, în prezent trăiesc acolo aproximativ 1.700 de persoane, inclusiv 47 de copii.\n\n• **Situația umanitară din Oleşkî** este deosebit de gravă în localitatea de pe malul stâng al Niprului, vizavi de Herson. Orașul este ocupat de forțele ruse din februarie 2022, iar după distrugerea barajului de la Kahovka, în 2023, o mare parte a fost inundată. În 2026, ONU a documentat cel puțin 29 de civili uciși și 54 răniți în Oleşkî și Hola Prîstan, majoritatea în atacuri cu drone.\n\n• **Uniunea Europeană** a avertizat la OSCE că dronele și minele împiedică evacuările și că forțele ruse ar fi oprit localnici să plece.\n\n• **Dialogul dintre Vatican și Biserica Ortodoxă Rusă** a fost, de asemenea, abordat, iar ambele părți și-au exprimat interesul de a-l continua. Potrivit Kremlinului, Putin a subliniat importanța cooperării ruso-vaticane și a protejării creștinilor și a lăcașurilor de cult creștine.\n\n• **Vizitele trimișilor papali la Moscova** au avut loc la sfârșitul lunii august și la sfârșitul lunii septembrie: mai întâi a mers arhiepiscopul Paul Richard Gallagher, secretarul pentru relațiile cu statele, apoi cardinalul Matteo Zuppi, trimis pentru chestiuni umanitare.\n\n• **Papa Leon și Putin** au mai vorbit la telefon pe 4 iunie 2025. Papa a oferit Vaticanul ca posibil loc pentru negocierile de pace dintre Rusia și Ucraina."
   },
   {
-    "group_id": "group_cdd7a87fd0",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17072026/d14b479f-60fc-407a-82c2-b4b20ed08039.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Premiul pentru Pace, unicat la FIFA? » Ce se întâmplă cu distincția acordată exclusiv lui Donald Trump",
-        "link": "https://www.gsp.ro/international/campionate/premiul-pentru-pace-unicat-fifa-ce-se-intampla-distinctia-acordata-exclusiv-donald-trump-988937.html"
-      }
-    ],
-    "published_at": 1792180717,
-    "title_hu": "Premiul pentru Pace, unicat la FIFA? » Ce se întâmplă cu distincția acordată exclusiv lui Donald Trump",
-    "lead_hu": "Donald Trump a primit primul Premiu pentru Pace acordat de FIFA, în decembrie 2025. Președintele SUA a fost primul și ar putea rămâne și singurul laureat. Comitetul de responsabilitate socială va deci…",
-    "content_hu": "Donald Trump a primit primul Premiu pentru Pace acordat de FIFA, în decembrie 2025. Președintele SUA a fost primul și ar putea rămâne și singurul laureat. Comitetul de responsabilitate socială va decide viitorul distincției acordate. Comitetul din cadrul forului mondial va analiza oportunitatea menținerii distincției, luând în calcul și interzicerea acordării acesteia către lideri politici sau chiar anularea ei definitivă. ...",
-    "title_ro": "Premiul pentru Pace, unicat la FIFA? » Ce se întâmplă cu distincția acordată exclusiv lui Donald Trump",
-    "lead_ro": "Donald Trump a primit primul Premiu pentru Pace acordat de FIFA, în decembrie 2025. Președintele SUA a fost primul și ar putea rămâne și singurul laureat. Comitetul de responsabilitate socială va deci…",
-    "content_ro": "Donald Trump a primit primul Premiu pentru Pace acordat de FIFA, în decembrie 2025. Președintele SUA a fost primul și ar putea rămâne și singurul laureat. Comitetul de responsabilitate socială va decide viitorul distincției acordate. Comitetul din cadrul forului mondial va analiza oportunitatea menținerii distincției, luând în calcul și interzicerea acordării acesteia către lideri politici sau chiar anularea ei definitivă. ..."
-  },
-  {
     "group_id": "group_ae51ec87ed",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Schimb-de-garda-la-Alba-Iulia.-Sursa-foto-Ionut-Vaidean-via-Palatul-Principilo-4.jpeg",
@@ -3362,79 +3804,6 @@
     "title_ro": "Tribunalul a dispus arest la domiciliu pentru Georgescu, dar acesta rămâne în arest până la soluționarea contestației",
     "lead_ro": "Tribunalul București a înlocuit, pe 13 octombrie, arestul preventiv al lui Călin Georgescu cu arestul la domiciliu pentru 30 de zile, însă hotărârea nu este definitivă și nici executorie. În urma contestației DIICOT, Georgescu rămâne în arestul central până la decizia definitivă a Curții de Apel București. Judecătorul a considerat că arestul la domiciliu este suficient pentru desfășurarea procesului; între timp, DIICOT a verificat și telefonul unui martor.",
     "content_ro": "• **La 13 octombrie 2026**, Tribunalul București a admis cererea lui Călin Georgescu și a înlocuit arestul preventiv cu arestul la domiciliu pentru 30 de zile. Cererea a fost analizată pe 12 octombrie, iar pronunțarea a fost amânată pentru ziua următoare; cele 30 de zile încep de la data rămânerii definitive a încheierii.\n\n• **Decizia nu este definitivă și nici executorie:** putea fi contestată în termen de 48 de ore de la comunicare. Potrivit clarificării reprezentanților lui Georgescu din 16 octombrie, DIICOT a formulat contestația pe 15 octombrie; încheierea motivată urmează să fie trimisă Curții de Apel București, care va decide definitiv.\n\n• **Georgescu rămâne deocamdată în arest preventiv** și nu poate părăsi Arestul Central până la decizia Curții de Apel București. Arestul la domiciliu va intra în vigoare numai dacă hotărârea tribunalului rămâne definitivă; potrivit ProTV, Curtea de Apel ar putea decide în săptămâna următoare.\n\n• **Obligațiile arestului la domiciliu** prevăd ca Georgescu să se prezinte la orice chemare a organelor de urmărire penală sau a instanței, să nu comunice cu persoana vătămată, familia acesteia, martorii, experții și ceilalți participanți la dosar și să ofere periodic informații despre mijloacele sale de existență.\n\n• **Potrivit motivării judecătorului Vlad Andriescu**, suspiciunea rezonabilă se menține, însă dosarul vizează fapte economice comise fără violență, iar administrarea probelor a avansat corespunzător. Judecătorul a considerat că arestul preventiv nu mai este proporțional și că arestul la domiciliu poate fi suficient pentru desfășurarea procesului și gestionarea riscului de sustragere.\n\n• **La evaluarea riscului de sustragere**, judecătorul a ținut cont de faptul că Georgescu a fost liber timp de câteva luni, nu a fugit, s-a întors din străinătate și s-a prezentat la chemările autorităților. Potrivit motivării, nu a încălcat obligațiile controlului judiciar, iar în celelalte dosare care îl vizează nu mai este supus unei măsuri preventive.\n\n• **Progresele anchetei** au fost menționate în motivare: au fost efectuate audieri, interceptări, verificări ale comunicațiilor electronice, investigații informatice, comisii rogatorii și analiza transferurilor de bani. Judecătorul a apreciat că probele au fost administrate corespunzător și că nu există date că Georgescu ar fi comis sau pregătit fapte similare după sesizările din dosar.\n\n• **Datele presupuselor fapte** sunt, potrivit motivării, 22 și 28 decembrie 2021 și 20 ianuarie 2022. Judecătorul a menționat că sesizările au fost depuse la 19 iulie 2022 și 27 mai 2024. În opinia sa, motivele care au justificat arestarea se pot atenua în timp, iar gravitatea acuzației, singură, nu justifică menținerea celei mai severe măsuri preventive.\n\n• **Circumstanțele personale ale lui Georgescu** evidențiate de judecător sunt vârsta de 64 de ani, lipsa antecedentelor penale, domiciliul stabil, integrarea socială, studiile superioare, căsătoria și cei doi copii minori. Judecătorul a apreciat că acestea, împreună cu restricțiile arestului la domiciliu, oferă garanții suficiente pentru buna desfășurare a procesului.\n\n• **Natura măsurilor preventive** a fost, de asemenea, invocată: potrivit jurisprudenței Curții Constituționale, atât arestul preventiv, cât și arestul la domiciliu restrâng semnificativ libertatea individuală. Motivarea arată că menținerea detenției trebuie susținută, în timp, prin motive noi sau prin motive concrete care continuă să existe.\n\n• **La decizia anterioară de arestare**, Curtea de Apel București a analizat și indicii privind o posibilă fugă, inclusiv informații despre căutarea unei locuințe în străinătate. Unul dintre judecători a opinat separat că intenția de a cumpăra un imobil în străinătate nu dovedește, prin ea însăși, intenția de a fugi.\n\n• **Deciziile anterioare ale lui Andriescu:** pe 22 septembrie, acesta a respins prima propunere DIICOT de arestare preventivă și l-a plasat pe Georgescu sub control judiciar pentru 60 de zile. În urma contestației procurorilor, Curtea de Apel București a dispus pe 29 septembrie arestarea preventivă pentru 30 de zile; întrucât cei doi judecători inițiali nu au fost de acord, a decis un complet de trei judecători.\n\n• **Un nou detaliu al anchetei:** potrivit ProTV, DIICOT a efectuat verificări informatice și asupra telefonului lui Ion Negoescu, martor în dosar. Anchetatorii susțin că Negoescu i l-a prezentat pe Georgescu omului de afaceri Răzvan Leu.\n\n• **Persoana vătămată este, potrivit anchetei, omul de afaceri Răzvan Leu**, care ar fi fost convins să transfere bani prin promisiunea unei linii de credit de șase milioane de euro pentru o afacere cu metale prețioase. Potrivit dosarului, Georgescu l-ar fi îndrumat către Ionel Rusen, care i l-ar fi prezentat pe italianul Massimiliano Arena, descris de acuzare drept reprezentant al unei bănci elvețiene.\n\n• **Prejudiciul presupus este de 1,1 milioane de euro:** procurorii susțin că pentru obținerea creditului s-ar fi cerut o garanție de un milion de euro, din care 100.000 de euro ar fi urmat să fie folosiți pentru campania prezidențială a lui Georgescu. Ulterior, persoana vătămată ar fi fost convinsă să transfere încă 100.000 de euro, cu promisiunea majorării liniei de credit la 15 milioane de euro; finanțarea nu s-a concretizat.\n\n• **Fostul premier Victor Ponta** a calificat decizia drept „corectă, legală și rațională” și a susținut că aceasta ar corecta un abuz anterior. Aceasta este opinia lui Ponta, nu o constatare a instanței.\n\n• **Dosarul** vizează suspiciuni de constituire a unui grup infracțional organizat și înșelăciune cu consecințe deosebit de grave. Georgescu și celelalte persoane cercetate beneficiază de prezumția de nevinovăție până la o hotărâre judecătorească definitivă."
-  },
-  {
-    "group_id": "group_7828f76de9",
-    "fingerprint": "240d54b580bf855e0dfa20374de3a57e",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ilie Bolojan anunță că e dispus să semneze un acord cu premierul desemnat Luca Niculescu, iar PNL va rămâne în opoziție",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-e-dispus-sa-semneze-un-acord-cu-premierul-desemnat-luca-niculescu-iar-pnl-va-ramane-in-opozitie-3990141"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Liderul USR, după ce PNL a spus că ia în calcul un acord politic cu Luca Niculescu: „Nu putem să facem parte din tot felul de aranjamente de culise”",
-        "link": "https://hotnews.ro/liderul-usr-dupa-ce-pnl-a-spus-ca-ia-in-calcul-un-acord-politic-cu-luca-niculescu-nu-putem-sa-facem-parte-din-tot-felul-de-aranjamente-de-culise-2374909"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ionel Bogdan (PNL): Suntem dispuși să semnăm cu Luca Niculescu un acord care să prevadă lucruri de la care noi nu facem rabat",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ionel-bogdan-pnl-suntem-dispusi-sa-semnam-cu-luca-niculescu-un-acord-care-sa-prevada-lucruri-de-la-care-noi-nu-facem-rabat-3990741"
-      },
-      {
-        "source": "Digi24",
-        "title": "Guvernul propus de Luca Niculescu ar putea primi votul în Parlament în această săptămână. Calendarul discutat de partide (surse)",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-propus-de-luca-niculescu-ar-putea-primi-votul-in-parlament-in-aceasta-saptamana-calendarul-discutat-de-partide-surse-3991415"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "VIDEO Decizia luată de grupurile parlamentare ale PNL în privința Guvernului Niculescu: „Sunt peste 160 de zile de când avem guvern interimar”",
-        "link": "https://hotnews.ro/video-decizia-luata-de-grupurile-parlamentare-ale-pnl-in-privinta-guvernului-niculescu-sunt-peste-160-de-zile-de-cand-avem-guvern-interimar-2375865"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Calendar accelerat pentru învestirea Guvernului Niculescu–PSD. Vineri ar urma să fie votat și să depună jurământul",
-        "link": "https://www.mediafax.ro/politic/calendar-accelerat-pentru-investirea-guvernului-niculescu-psd-vineri-ar-urma-sa-fie-votat-si-sa-depuna-juramantul-23825280"
-      },
-      {
-        "source": "Economedia",
-        "title": "Ilie Bolojan: PNL ar putea vota învestirea Guvernului Luca Niculescu, dar nu va reface coaliția și va rămâne în opoziție",
-        "link": "https://economedia.ro/ilie-bolojan-pnl-ar-putea-vota-investirea-guvernului-luca-niculescu-dar-nu-va-reface-coalitia-si-va-ramane-in-opozitie.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "În ce condiții ar putea PNL să voteze Guvernul Niculescu. Ilie Bolojan: Voi propune un „vot de necesitate”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/in-ce-conditii-ar-putea-pnl-sa-voteze-guvernul-niculescu-ilie-bolojan-voi-propune-un-vot-de-necesitate-3995923"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Revoltă în PNL. Mai mulți lideri nu vor să voteze pentru Luca Niculescu SURSE",
-        "link": "https://adevarul.ro/politica/revolta-in-pnl-mai-multi-lideri-nu-vor-sa-voteze-2564586.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "PNL intră în opoziție. Bolojan, mesaj pentru liberalii care refuză să voteze Guvernul Niculescu",
-        "link": "https://www.mediafax.ro/politic/pnl-intra-in-opozitie-bolojan-mesaj-pentru-liberalii-care-refuza-sa-voteze-guvernul-niculescu-23826856"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Ilie Bolojan anunță că va propune PNL să voteze Guvernul Niculescu-PSD: „Am ales responsabilitatea pentru țară”",
-        "link": "https://www.ebihoreanul.ro/stiri/ilie-bolojan-anunta-ca-va-propune-pnl-sa-voteze-guvernul-niculescu-psd-am-ales-responsabilitatea-pentru-tara-205889.html"
-      }
-    ],
-    "published_at": 1792174440,
-    "title_hu": "Bolojan feltételekhez kötné a Niculescu-kormány beiktatását támogató PNL-szavazatot",
-    "lead_hu": "Ilie Bolojan szerint a PNL megszavazhatja Luca Niculescu kormányának beiktatását, de ez nem jelent bizalmi szavazatot, koalíciós visszatérést vagy feltétel nélküli támogatást. A liberálisok ellenzékben maradnának, és egy költségvetési, reform- és kormányzási célokat rögzítő, időben korlátozott megállapodást kötnének a kijelölt miniszterelnökkel. A frakciók támogató szavazatai konzultatívak; a párt végleges döntését a vezetőség hozza meg.",
-    "content_hu": "• **A kétoldalú megállapodás** lehetőségét Bolojan kedden vetette fel Luca Niculescu kijelölt miniszterelnökkel. A dokumentum nem lenne koalíciós szerződés, és nem jelentené a PNL kormányra lépését: a liberálisok ellenzékben maradnának, és az ország stabilitásához, illetve a válság lezárásához járulnának hozzá.\n\n• **A PNL támogatásának feltételei** között szerepel a hiánycél és a fiskális fegyelem betartása, a reális bevételekre épülő kiadáspolitika, a beruházások védelme, a közpénzek felelős felhasználása, a reformok folytatása és az európai kötelezettségek teljesítése. Bolojan szerint a megállapodás a 2027-es költségvetés elfogadásáig, január–februárig, illetve 2027 tavaszáig tarthat.\n\n• **A 2027-es költségvetést** a PNL kész támogatni és megszavazni, ha az reális, ténylegesen beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tartalmaz fedezet nélküli kiadásnövelést.\n\n• **A bizalmatlansági indítványokról** Bolojan azt vállalná, hogy a PNL az első hat hónapban nem kezdeményez és nem szavaz meg ilyet, amíg a kormány betartja a megállapodást. A feltételek megszegése esetén a párt fenntartaná a bizalmatlansági indítvány támogatásának lehetőségét.\n\n• **A PNL parlamenti frakciói szerdán** három konzultatív szavazással támogatták a kormány beiktatását, az ellenzékben maradást és a Niculescuval kötendő, világos célokat rögzítő megállapodás lehetőségét. Ionel Bogdan szóvivő közölte, hogy a végleges döntést az országos politikai vezetőség hozza meg; Bolojan szombatra jelezte a döntő ülést.\n\n• **Bolojan a beiktatási szavazatot** felelősségi és szükségességi döntésként indokolta, nem a kabinet összetételének jóváhagyásaként vagy politikai garanciaként. Azt mondta, nem tárgyaltak tisztségekről vagy minisztériumokról, a kormány összetételéért pedig a kijelölt miniszterelnök és a jelöléseket adó pártok felelnek.\n\n• **A válság elhúzódásának kockázataira** hivatkozva Bolojan gyors költségvetési kiigazítást sürgetett. Állítása szerint a Floreasca kórház sürgősségi osztályának 2025-ös, 10 millió lejes kezdeti kerete 2026-ban 5 millió lejre csökkent, a marosvásárhelyi UPU pedig a korábbi 8 millió lej helyett 4 millió lejnél kevesebbet kapott. Azt is mondta, hogy az üzemanyagárak 20–30 százalékos emelkedése miatt egyes intézmények kerete nem tarthat ki év végéig, az ügyvivő kormány pedig nem tud sürgősségi rendelettel költségvetési kiigazítást elfogadni. Szerinte a bizonytalanság a közszolgáltatásokat és az állami hitelfelvétel feltételeit is veszélyezteti.\n\n• **A PNL-n belüli ellenállás** továbbra is jelentős: sajtóértesülések szerint Adrian Cozma, Dragoș Ciobotaru, Virgil Guran és Octavian Oprea is ellenezheti egy jelentős részben PSD-s miniszterekből álló kormány beiktatását. Bolojan elismerte, hogy több párttársának fenntartásai vannak.\n\n• **A USR álláspontja** eltér: Dominic Fritz szerint a párt nem támogathat olyan kormányt, amelynek parlamenti többsége nem világos, és amelyben PSD-s miniszterek is vannak. A USR a beiktatás ellen szavazna; Fritz a kabinet hat hónapos fennmaradásával kapcsolatban is szkeptikus volt.\n\n• **A beiktatás menetrendje** szerint Niculescu csütörtök este benyújtotta a kormányprogramot és a miniszterjelöltek listáját, a két ház állandó bizottságai pedig 20:30-ra egyeztetést hívtak össze az eljárásról. A szavazást későbbi beszámolók október 20-ára, keddre tervezték.\n\n• **Bolojan brüsszeli tájékoztatása szerint** a PNL ellenzékben marad, és a jövőbeli kormányt intézkedései és eredményei alapján értékeli: a jó intézkedéseket támogatja, az általa hibásnak tartottakat bírálja. Elismerte, hogy a beiktatási szavazat politikai költséggel járhat a pártnak.",
-    "title_ro": "Bolojan condiționează votul PNL pentru învestirea Guvernului Niculescu",
-    "lead_ro": "Ilie Bolojan spune că PNL ar putea vota învestirea Guvernului Luca Niculescu, fără ca votul să însemne încredere politică, revenirea la coaliție sau susținere necondiționată. Liberalii ar rămâne în opoziție și ar încheia cu premierul desemnat un acord limitat, cu obiective bugetare și de guvernare. Voturile consultative ale grupurilor parlamentare nu sunt decizia finală a partidului, care urmează să fie luată de conducerea PNL.",
-    "content_ro": "• **Acordul bilateral** cu premierul desemnat Luca Niculescu a fost propus marți de Ilie Bolojan. Documentul nu ar fi un acord de coaliție și nu ar presupune intrarea PNL la guvernare: liberalii ar rămâne în opoziție și ar contribui la stabilitatea țării și la încheierea crizei.\n\n• **Condițiile susținerii PNL** includ respectarea țintei de deficit și a disciplinei fiscale, cheltuieli fundamentate pe venituri realiste, protejarea investițiilor, utilizarea responsabilă a banului public, continuarea reformelor și respectarea angajamentelor europene. Bolojan a indicat că acordul ar putea fi valabil până la adoptarea bugetului pentru 2027, în ianuarie–februarie, sau până în primăvara anului viitor.\n\n• **Bugetul pentru 2027** ar putea fi susținut și votat de PNL dacă este realist și se bazează pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și evită cheltuielile fără acoperire.\n\n• **Moțiunile de cenzură**: Bolojan a spus că PNL nu va iniția și nu va vota o moțiune împotriva Guvernului Niculescu în primele șase luni, atât timp cât acesta respectă acordul. Dacă prevederile sunt încălcate, liberalii își rezervă posibilitatea de a susține o moțiune.\n\n• **Grupurile parlamentare ale PNL au votat consultativ miercuri** în favoarea învestirii Guvernului Niculescu, a trecerii în opoziție și a posibilității unui acord cu premierul desemnat, cu obiective clare. Purtătorul de cuvânt Ionel Bogdan a precizat că decizia finală revine conducerii naționale; Bolojan a anunțat pentru sâmbătă ședința decisivă.\n\n• **Bolojan a prezentat votul de învestitură** drept o decizie de responsabilitate și necesitate, nu o aprobare a componenței Cabinetului sau o garanție politică. El a spus că nu s-au negociat funcții ori ministere și că responsabilitatea pentru componența Guvernului revine premierului desemnat și partidelor care fac nominalizările.\n\n• **Riscurile prelungirii crizei** au fost invocate de Bolojan în sprijinul unei rectificări bugetare rapide. Potrivit acestuia, alocarea inițială pentru UPU Floreasca a scăzut de la 10 milioane de lei în 2025 la 5 milioane în 2026, iar cea pentru UPU Târgu Mureș, de la 8 milioane la mai puțin de 4 milioane de lei. El a mai afirmat că scumpirea combustibililor cu 20–30% poate face insuficiente bugetele unor instituții până la sfârșitul anului, iar Guvernul interimar nu poate adopta o rectificare prin ordonanță de urgență. În opinia sa, incertitudinea amenință serviciile publice și condițiile de împrumut ale statului.\n\n• **Opoziția din interiorul PNL** rămâne importantă: potrivit relatărilor de presă, Adrian Cozma, Dragoș Ciobotaru, Virgil Guran și Octavian Oprea s-ar putea opune învestirii unui Guvern cu numeroși miniștri PSD. Bolojan a recunoscut că mai mulți colegi au rezerve.\n\n• **USR are o poziție diferită**: Dominic Fritz a spus că partidul nu poate susține un Guvern fără o majoritate parlamentară clară și cu miniștri PSD. USR ar urma să voteze împotriva învestirii, iar Fritz s-a declarat sceptic și în privința supraviețuirii Cabinetului timp de șase luni.\n\n• **Calendarul învestirii**: Niculescu a depus joi seara programul de guvernare și lista miniștrilor, iar Birourile permanente reunite au convocat o ședință la 20:30 pentru stabilirea procedurii. Relatări ulterioare au indicat că votul era programat pentru marți, 20 octombrie.\n\n• **La Bruxelles, Bolojan a reiterat** că PNL va rămâne în opoziție și va evalua viitorul Guvern în funcție de măsuri și rezultate: le va susține pe cele bune și le va critica pe cele considerate greșite. El a recunoscut că votul de învestitură ar putea avea un cost politic pentru partid."
   },
   {
     "group_id": "group_dfd5ad472a",
@@ -5855,34 +6224,6 @@
     "content_ro": "• **Programul Guvernului Luca Niculescu** urmărește reducerea deficitului concomitent cu sprijinirea investițiilor și a gospodăriilor. O parte dintre angajamente depinde de resursele disponibile la buget; programul vizează coborârea deficitului public sub 3% din PIB până în 2030.\n\n• **Proiectul noii legi a salarizării în sectorul public ar urma să fie elaborat în 2027**, împreună cu sindicatele și instituțiile publice. Reforma vizează corectarea inechităților dintre categorii profesionale, clarificarea grilelor și sporurilor și un sistem de remunerare mai predictibil, legat și de performanță. Majorările generale sunt condiționate de spațiul fiscal validat de Ministerul Finanțelor; programul nu promite creșteri generale ale salariilor bugetarilor de la 1 ianuarie 2027.\n\n• **Indexarea pensiilor ar urma să fie reluată în 2027**, pentru protejarea puterii de cumpărare. Programul nu stabilește un procent de majorare, iar măsura trebuie să se încadreze în resursele bugetare și în traiectoria de reducere a deficitului. Cheltuielile de asistență socială ar urma să rămână sub 12,2% din PIB, iar celelalte beneficii sociale nu ar putea crește mai repede decât PIB-ul nominal.\n\n• **Salariul minim ar urma să fie actualizat la fiecare 12 luni**, în funcție de datele economice și de consultările dintre guvern, angajatori și sindicate. Pentru 2027 este pregătit un pachet de solidaritate destinat persoanelor afectate de scumpirea energiei, cu sprijin direcționat în funcție de venituri și nevoi, în special pentru familiile cu cel puțin trei copii, cele monoparentale, veterani și persoanele cu dizabilități.\n\n• **Sprijinul pentru familiile cu copii mici** ar include continuarea indemnizației de creștere a copilului timp de trei sau șase luni pentru părinții care revin mai devreme la muncă, în funcție de vârsta copilului. Cu acordul părinților, bunicii angajați ar putea prelua concediul pentru creșterea copilului. Mamele cu copii sub doi ani ar putea fi scutite de contribuția la asigurările de sănătate dacă veniturile bugetare pierdute sunt compensate; programul de fertilizare in vitro ar urma să continue, cu cel mult 10.000 de beneficiari anual și o finanțare de maximum 15.000 de lei pentru fiecare.\n\n• **Sistemul de asistență socială ar urma să fie reevaluat:** în șase luni, autoritățile ar analiza regulile venitului minim de incluziune și ar putea modifica pragurile de venit, simplifica accesul în mediul rural și introduce plata pe card, acolo unde este posibil. Beneficiarii apți de muncă ar urma să fie conectați la cursuri de formare și programe de integrare profesională, iar sprijinul pentru persoanele fără capacitate de muncă ar fi menținut.\n\n• **Pentru persoanele cu dizabilități** sunt prevăzute evaluări mai accesibile și digitalizate, soluționarea mai rapidă a contestațiilor, servicii comunitare, locuințe asistate și asistență personală. Prin programul TECH ASSIST, cel puțin 4.307 copii și adulți ar putea primi vouchere de până la 8.000 de euro pentru tehnologii asistive. Guvernul ar urma să formeze 1.500 de asistenți personali profesioniști în 24 de luni și să extindă echipele comunitare din mediul rural.\n\n• **Ocuparea tinerilor** ar fi sprijinită prin programul european „Primul loc de muncă”, destinat unui număr de aproximativ 21.000 de tineri, cu o finanțare de 170 de milioane de euro. În 2027–2028 ar urma să fie extinse programele de ucenicie și internship pentru 5.000 de persoane. Inspecția Muncii ar urma să fie digitalizată, controalele împotriva muncii nedeclarate intensificate, iar în 45 de zile de la învestire ar trebui finalizat un proiect de lege privind drepturile lucrătorilor de pe platformele digitale.\n\n• **Reducerea cheltuielilor statului** ar începe cu evaluarea ministerelor și a instituțiilor subordonate în primele șase luni, urmată de comasarea atribuțiilor paralele și adaptarea numărului de angajați la volumul real de muncă. Ponderea cheltuielilor de personal în PIB ar urma să scadă de la 9,3% în 2024 la 7,9% în 2031. Autoritățile locale mici ar fi încurajate să organizeze servicii comune și să se comaseze voluntar; localitățile cu cel mult 1.500 de locuitori ar putea primi prioritate la finanțarea investițiilor.\n\n• **Politica fiscală urmărește evitarea majorării taxelor**, însă Niculescu nu a garantat că acestea nu vor crește în 2027 și nici nu a promis reducerea TVA. Programul menține cota unică și prevede eliminarea, de la 1 ianuarie 2027, a impozitului minim pe cifra de afaceri, fără amânarea termenului. Facilitățile fiscale care nu și-au atins obiectivele ar putea fi eliminate, iar impozitarea proprietăților ar urma să țină treptat cont de valoarea de piață. Controalele fiscale s-ar concentra asupra firmelor cu risc ridicat, în timp ce companiile conforme ar beneficia de proceduri mai simple și rambursări mai rapide.\n\n• **Rectificarea bugetară este o urgență:** Niculescu a declarat că aceasta trebuie făcută după instalarea Guvernului, iar bugetul pentru anul următor trebuie adoptat cât mai repede. Întârzierea ar putea afecta spitalele, serviciile de ambulanță și primăriile; premierul interimar Ilie Bolojan a avertizat, la rândul său, că unele servicii esențiale ar putea rămâne fără bani până la sfârșitul anului. O decizie judecătorească definitivă privind salariile restante ale magistraților ar putea adăuga bugetului o cheltuială de aproximativ un miliard de euro.\n\n• **Familiile și serviciile publice** ar fi sprijinite prin extinderea treptată a mesei gratuite în școli, generalizată în anul școlar 2029–2030, dezvoltarea programelor after-school și consolidarea medicinei de familie, a screeningului și a serviciilor ambulatorii. Pentru atragerea medicilor în mediul rural sunt prevăzute locuințe de serviciu și sprijin financiar. Programul reafirmă protejarea drepturilor la folosirea limbii materne și la educație în limba maternă.\n\n• **Investițiile planificate** includ extinderea rețelei de autostrăzi și drumuri expres la peste 2.000 de kilometri până în 2028 și crearea a aproximativ 5.800 MW de noi capacități de producție a energiei până la sfârșitul lui 2027, inclusiv din surse regenerabile și centrale pe gaz. Guvernul ar urma să dezvolte stocarea energiei, să continue investițiile de la centrala nucleară de la Cernavodă și să reducă dependența de importuri prin exploatarea gazelor din Marea Neagră."
   },
   {
-    "group_id": "group_62c690e725",
-    "fingerprint": "c6ec652f058a147bd83923f4934b6a9e",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8121074-mediafax_foto-dpa_hepta-1024x737.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Kiosztják a második adag influenza elleni védőoltást",
-        "link": "https://maszol.ro/belfold/Kiosztjak-a-masodik-adag-influenza-elleni-vedooltast"
-      },
-      {
-        "source": "Digi24",
-        "title": "Patru vaccinuri antigripale pe piață, dar cererea crește: ce trebuie să știi despre acces, stocuri și priorități",
-        "link": "https://www.digi24.ro/stiri/patru-vaccinuri-antigripale-pe-piata-dar-cererea-creste-ce-trebuie-sa-stii-despre-acces-stocuri-si-prioritati-3995921"
-      }
-    ],
-    "published_at": 1792166846,
-    "title_hu": "Korlátozott az injekciós influenzaoltások készlete, október végéig több mint 600 ezer adag érkezik",
-    "lead_hu": "A Vaxigrip és az Influvac szeptemberben kiosztott adagjainak nagy részét már felhasználták, a gyógyszertárakban összesen mintegy 45 ezer dózis maradt. Október végéig több mint 600 ezer újabb adag érkezik; október 11-ig 256 ezren kaptak influenzaoltást Romániában. Az INSP szerint az első igazolt halálos áldozat nem volt beoltva, a múlt héten pedig 201 klinikai influenzás esetet és 12 laboratóriumilag igazolt fertőzést jelentettek.",
-    "content_hu": "• **Mintegy 45 ezer adag** maradt a gyógyszertárakban a két injekciós influenzaoltásból, a Vaxigripből és az Influvacból; a szeptemberben kiosztott készlet nagy részét már felhasználták.\n\n• **A jövő héten indul a következő szállítmány:** először több mint 350 ezer adag érkezik az egyik injekciós vakcinából, majd október végéig további 250 ezer adag a másikból.\n\n• **A négy engedélyezett vakcina közül** a gyermekeknek és serdülőknek szánt, orrspray formájú Fluenz, valamint a 60 év felettieknek ajánlott Efluelda készlete elegendő a gyógyszertárakban és a gyógyszer-nagykereskedőknél.\n\n• **Október 11-ig 256 ezer ember** kapott szezonális influenzaoltást Romániában. A hatóságok szerint a 2026–2027-es szezonra az előző évben felhasználtnál nagyobb mennyiséget osztottak ki az országnak.\n\n• **Három gyártóval egyeztetett az ANMDMR** a további szállítások előkészítéséről. A vakcinák előállítása és minőségellenőrzése különleges követelményekhez kötött, az országonkénti adagokat pedig előre határozzák meg.\n\n• **Az első igazolt halálos áldozat** egy Kolozs megyei, krónikus betegségekkel küzdő férfi volt, aki nem volt beoltva. Életkoráról eltérő adat jelent meg: a Maszol 65 év felettiként, a Digi24 65 év alattiként írta le.\n\n• **A múlt héten 201 klinikai influenzás esetet** és 12 laboratóriumilag igazolt influenzás megbetegedést jelentettek országosan.",
-    "title_ro": "Stocuri limitate de vaccinuri antigripale injectabile; peste 600.000 de doze vor ajunge până la sfârșitul lunii octombrie",
-    "lead_ro": "Cea mai mare parte a vaccinurilor Vaxigrip și Influvac distribuite în septembrie a fost deja consumată, iar în farmacii au rămas aproximativ 45.000 de doze. Peste 600.000 de doze suplimentare vor ajunge până la sfârșitul lunii octombrie; până la 11 octombrie, 256.000 de persoane se vaccinaseră în România. Potrivit INSP, prima persoană confirmată decedată nu era vaccinată, iar săptămâna trecută au fost raportate 201 cazuri de gripă clinică și 12 cazuri confirmate în laborator.",
-    "content_ro": "• **Aproximativ 45.000 de doze** din vaccinurile injectabile Vaxigrip și Influvac mai sunt disponibile în farmacii; cea mai mare parte a stocurilor distribuite în septembrie a fost consumată.\n\n• **Următoarea tranșă va începe să fie livrată săptămâna viitoare:** peste 350.000 de doze dintr-un vaccin injectabil vor fi distribuite inițial, urmate de alte 250.000 de doze din celălalt produs, până la sfârșitul lunii octombrie.\n\n• **Dintre cele patru vaccinuri autorizate**, Fluenz, administrat intranazal copiilor și adolescenților, și Efluelda, destinat persoanelor de peste 60 de ani, sunt disponibile în stocuri suficiente în farmacii și la distribuitorii de medicamente.\n\n• **Până la 11 octombrie, 256.000 de persoane** se vaccinaseră împotriva gripei sezoniere în România. Autoritățile spun că pentru sezonul 2026–2027 țării i-au fost alocate cantități mai mari decât cele utilizate în sezonul precedent.\n\n• **ANMDMR a colaborat cu trei producători** pentru pregătirea livrărilor suplimentare. Vaccinurile au cerințe speciale de producție și control al calității, iar cantitățile alocate fiecărei țări sunt stabilite în avans.\n\n• **Prima persoană confirmată decedată** în acest sezon era un bărbat din județul Cluj, cu afecțiuni cronice, care nu era vaccinat. Vârsta sa este relatată diferit: Maszol îl descrie ca având peste 65 de ani, iar Digi24 ca având sub 65 de ani.\n\n• **Săptămâna trecută au fost raportate 201 cazuri de gripă clinică** și 12 cazuri de gripă confirmate în laborator la nivel național."
-  },
-  {
     "group_id": "group_4c9fc4d07a",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/andreea-popescu-1200x675.png",
@@ -5977,447 +6318,5 @@
     "title_ro": "O ursoaică a atacat o mamă care își ducea copilul la școală în Zălan; elevii sunt transportați cu microbuzul școlar",
     "lead_ro": "Joi dimineață, în jurul orei 7:50, un urs a atacat o femeie în Zălan, județul Covasna, în timp ce își ducea fiul la școală. Băiatul de șapte ani a fugit într-o curte din apropiere, iar mama sa a fost transportată la spital. Ursul este în continuare căutat, iar autoritățile locale îi transportă pe elevi cu microbuzul școlar.",
     "content_ro": "• **Joi dimineață, în jurul orei 7:50**, un urs a atacat o femeie în Zălan, localitate care aparține de comuna Bodoc, județul Covasna, în timp ce aceasta își ducea copilul la școală.\n\n• **Înaintea atacului**, prezența ursului fusese deja semnalată autorităților, iar echipele de intervenție erau în alertă.\n\n• **Femeia** a încercat să fugă în direcția opusă copilului, dar ursul a ajuns-o din urmă și a doborât-o din spate. A suferit răni adânci provocate de gheare la brațe, șold și coapsă; nu a fost mușcată și a fost transportată la spital.\n\n• **Băiatul de șapte ani** a fugit în curtea unui vecin din apropiere și a scăpat nevătămat.\n\n• **Localnicii și echipele de intervenție** au fost alertați de strigătele femeii; la fața locului au ajuns echipaje medicale, jandarmi, reprezentanți ai asociației de vânătoare, medicul veterinar și primarul.\n\n• **Ursul** s-a retras după atac într-o livadă din apropiere. Autoritățile au montat o capcană cu hrană, iar paznicii de vânătoare monitorizează permanent zona, însă până vineri seara animalul nu fusese prins sau împușcat. Primele informații indică un exemplar în vârstă de aproximativ trei-patru ani.\n\n• **Fodor István, primarul comunei Bodoc**, a declarat că ursul care reprezintă un pericol în localitate va fi împușcat; potrivit acestuia, nu intenționează să îl tranchilizeze și să îl relocheze și își asumă decizia.\n\n• **Microbuzul școlar** îi preia pe toți elevii din Zălan, inclusiv pe cei de pe străzile mai izolate, și îi transportă la școală."
-  },
-  {
-    "group_id": "group_030a65d252",
-    "fingerprint": "6bfd03c3f669564a4e7c0fb5ab309cf5",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjAzJTJGMjk5Njc5OV8yOTk2/Nzk5X2ZnYnhjZmJjLmpwZyZoYXNoPWNi/MWQ0Zjk0MmU4OGQ2NTEzOGQ5MTMyY2EyMDMyZDNh.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Premierul interimar, Ilie Bolojan, interviu exclusiv la Digi24",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/premierul-interimar-ilie-bolojan-interviu-exclusiv-la-digi24-3994971"
-      },
-      {
-        "source": "G4Media",
-        "title": "Ilie Bolojan, interviu la Digi24",
-        "link": "https://www.g4media.ro/ilie-bolojan-interviu-la-digi24.html"
-      }
-    ],
-    "published_at": 1792166473,
-    "title_hu": "Ilie Bolojan 19 órától interjút ad a Digi24-nek",
-    "lead_hu": "A PNL vezetője és ügyvivő miniszterelnök, Ilie Bolojan ma 19 órától Cristian Citre vendége lesz a Digi24 élő interjújában. A beszélgetés középpontjában a kormányalakítás, a PNL politikai álláspontja és a párt szövetségi kapcsolatai állnak.",
-    "content_hu": "• **Ilie Bolojan** ma 19 órától élő interjút ad a Digi24-nek; a beszélgetést Cristian Citre újságíró vezeti.\n\n• **A kormányalakítás** is téma lesz: szóba kerül, miért támogatja a PNL Luca Niculescu kormányának beiktatását úgy, hogy nem vesz részt abban, valamint milyen megállapodást köt Bolojan Niculescuval.\n\n• **A PNL politikai irányáról** Bolojan várhatóan beszél a párt „vörös vonalairól”, támogatott ügyekről és az ellenzéki szerepvállalásról.\n\n• **A politikai kapcsolatok** között a Nicușor Dan elnökkel való viszonyt, valamint a PNL, az USR és az UDMR szövetségének jövőjét is érintik; a párton belüli esetleges szakadás kérdése szintén felmerül.\n\n• **A Digi24 közvetítése** mellett a G4Media élő szöveges követést ígér az interjú főbb kijelentéseiről.",
-    "title_ro": "Ilie Bolojan acordă un interviu la Digi24, de la ora 19:00",
-    "lead_ro": "Liderul PNL și premierul interimar Ilie Bolojan va fi invitatul jurnalistului Cristian Citre într-un interviu în direct la Digi24, programat astăzi, de la ora 19:00. Discuția va aborda formarea guvernului, pozițiile politice ale PNL și relațiile partidului cu aliații săi.",
-    "content_ro": "• **Ilie Bolojan** va acorda astăzi, de la ora 19:00, un interviu în direct la Digi24, realizat de jurnalistul Cristian Citre.\n\n• **Formarea guvernului** va fi unul dintre subiecte: Bolojan va fi întrebat de ce PNL susține învestirea guvernului condus de Luca Niculescu fără să facă parte din acesta și ce pact va semna cu Niculescu.\n\n• **Direcția politică a PNL** va fi abordată prin întrebări despre liniile roșii ale partidului, temele pe care le susține și cele în care va face opoziție.\n\n• **Relațiile politice** discutate vor include raportul cu președintele Nicușor Dan, viitorul alianței PNL–USR–UDMR și posibilitatea unei scindări a PNL.\n\n• **G4Media** anunță că va urmări în format LIVE TEXT principalele declarații din interviu."
-  },
-  {
-    "group_id": "group_c330f15252",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/Dan-Burlac.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Povestea lui Dan Burlac, „copilul muntelui” care s-a întors acasă / Video-story de vineri seara",
-        "link": "https://www.g4media.ro/povestea-lui-dan-burlac-copilul-muntelui-care-s-a-intors-acasa-video-story-de-vineri-seara.html"
-      }
-    ],
-    "published_at": 1792166464,
-    "title_hu": "Povestea lui Dan Burlac, „copilul muntelui” care s-a întors acasă / Video-story de vineri seara",
-    "lead_hu": "O producție G4Media.ro / Documentar realizat de Ruxandra Hurezean / Filmare și montaj: Anastasia Sucitu / Producție: Sorin Mărghitaș Dan Burlac, producător și promotor al Noului Val cinematografic rom…",
-    "content_hu": "O producție G4Media.ro / Documentar realizat de Ruxandra Hurezean / Filmare și montaj: Anastasia Sucitu / Producție: Sorin Mărghitaș Dan Burlac, producător și promotor al Noului Val cinematografic românesc, a contribuit la realizarea și promovarea unor filme premiate la Cannes, precum „A fost sau n-a fost?” și „4 luni, 3 săptămâni și 2 zile”. Absolvent […] © G4Media.ro.",
-    "title_ro": "Povestea lui Dan Burlac, „copilul muntelui” care s-a întors acasă / Video-story de vineri seara",
-    "lead_ro": "O producție G4Media.ro / Documentar realizat de Ruxandra Hurezean / Filmare și montaj: Anastasia Sucitu / Producție: Sorin Mărghitaș Dan Burlac, producător și promotor al Noului Val cinematografic rom…",
-    "content_ro": "O producție G4Media.ro / Documentar realizat de Ruxandra Hurezean / Filmare și montaj: Anastasia Sucitu / Producție: Sorin Mărghitaș Dan Burlac, producător și promotor al Noului Val cinematografic românesc, a contribuit la realizarea și promovarea unor filme premiate la Cannes, precum „A fost sau n-a fost?” și „4 luni, 3 săptămâni și 2 zile”. Absolvent […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_abef3d6128",
-    "fingerprint": "c586d8e307b989dbcaf0dffd71a71cd7",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAxMDQwOV8zMDEw/NDA5X3Byb2ZpbWVkaWEtMDE1MjUwMjky/OS5qcGcmaGFzaD01NDY3ZjY0NjQ5MDdhMjkwNDdjZmU4OTFmN2E5MGFhNw==.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "O femeie din Rusia și-a speriat vecinii cu o imagine cu un urs, generată cu ChatGPT. Farsa a costat-o scump",
-        "link": "https://www.digi24.ro/stiri/externe/rusia/o-femeie-din-rusia-si-a-speriat-vecinii-cu-o-imagine-cu-un-urs-generata-cu-chatgpt-farsa-a-costat-o-scump-3990131"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce amendă a primit o femeie din Rusia după ce şi-a speriat vecinii cu o fotografie cu un urs generată de inteligenţa artificială",
-        "link": "https://stirileprotv.ro/stiri/international/ce-amenda-a-primit-o-femeie-din-rusia-dupa-ce-si-a-speriat-vecinii-cu-o-fotografie-cu-un-urs-generata-de-inteligen-a-artificiala.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Un urs generat cu inteligența artificială a provocat panică. Apeluri disperate și autorități în alertă pe urmele „fiarei”",
-        "link": "https://adevarul.ro/stiri-externe/rusia/un-urs-generat-cu-inteligenta-artificiala-a-2564575.html"
-      }
-    ],
-    "published_at": 1792166435,
-    "title_hu": "AI-val készített medvefotó miatt bírságoltak meg egy orosz nőt",
-    "lead_hu": "Egy amuri régióbeli bíróság 15 ezer rubelre bírságolt egy nőt, aki ChatGPT-vel készített medvét ábrázoló képet osztott meg, és ezzel riadalmat keltett. A kép elterjedése után a lakosok a rendőrséget hívták, a hatóságok pedig keresőcsapatokat mozgósítottak.",
-    "content_hu": "• **A bíróság 15 ezer rubelre** – mintegy 179 dollárra – büntette a Magdagacsi településen élő nőt, aki mesterséges intelligenciával készült medvefotót tett közzé.\n\n• **A nő szeptemberben, tréfából** készítette el ChatGPT-vel a képet, amelyen egy medve látszott egy helyi utcán, majd elküldte egy barátjának. A fotó továbbterjedt az interneten és az üzenetküldő alkalmazásokban.\n\n• **A kép miatt pánik tört ki:** több lakos a rendőrséget hívta, egy helyi lakos pedig arról számolt be, hogy a látottak miatt ki sem mert menni bevásárolni. A hatóságok vadászokat, rangereket és szakembereket mozgósítottak a nem létező állat felkutatására.\n\n• **A nő később elismerte**, hogy a képet mesterséges intelligencia készítette, és a bíróságon megbánta a történteket. A beismerést és a megbánást enyhítő körülményként vették figyelembe; a törvény szerinti 30 ezer rubeles bírságot csökkentették, a telefonját pedig nem kobozták el.\n\n• **Az esetet az oroszországi medvetámadások miatt kezelték komolyan:** a beszámolók szerint tavasz óta legalább 26 ember halt meg medvetámadásban. A Krasznojarszki és az irkutszki régióban egyaránt hét halálos áldozatról számoltak be.",
-    "title_ro": "O femeie din Rusia, amendată după ce o imagine cu un urs generată de AI a provocat panică",
-    "lead_ro": "Un tribunal din regiunea Amur a amendat cu 15.000 de ruble o femeie care a distribuit o imagine cu un urs, creată cu ChatGPT, și a provocat panică. După răspândirea fotografiei, locuitorii au sunat la poliție, iar autoritățile au mobilizat echipe pentru a căuta animalul inexistent.",
-    "content_ro": "• **Tribunalul a amendat-o cu 15.000 de ruble** – aproximativ 179 de dolari – pe femeia din localitatea Magdagachi care a publicat o fotografie cu un urs generată cu ajutorul inteligenței artificiale.\n\n• **În septembrie, femeia a creat imaginea cu ChatGPT, în glumă**, și a trimis-o unei prietene. Fotografia înfățișa un urs pe o stradă din localitate și s-a răspândit ulterior pe internet și în aplicațiile de mesagerie.\n\n• **Imaginea a provocat panică:** mai mulți locuitori au sunat la poliție, iar o localnică a spus că nu a îndrăznit să iasă din casă pentru a merge la cumpărături. Autoritățile au mobilizat vânători, rangeri și specialiști pentru a căuta animalul care nu exista.\n\n• **Femeia a recunoscut ulterior** că fotografia fusese generată artificial și și-a exprimat regretul în instanță. Mărturisirea și remușcările au fost considerate circumstanțe atenuante: amenda prevăzută de lege, de 30.000 de ruble, a fost redusă, iar telefonul nu i-a fost confiscat.\n\n• **Autoritățile au tratat cazul cu seriozitate pe fondul atacurilor urșilor din Rusia:** potrivit relatărilor, cel puțin 26 de persoane au murit în atacuri începând din primăvară. Regiunile Krasnoiarsk și Irkuțk au înregistrat câte șapte victime."
-  },
-  {
-    "group_id": "group_942fc2ef41",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10369/23261646/1/66-fini-fini-nou-2.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Criza imobiliară din Occident - preţuri foarte mari la apartamente, chirii foarte mari – va deveni subiect de discuţie şi la noi",
-        "link": "https://www.zf.ro/opinii/criza-imobiliara-din-occident-preturi-foarte-mari-la-apartamente-chirii-foarte-mari-va-deveni-subiect-de-discutie-si-la-noi-23261646"
-      }
-    ],
-    "published_at": 1792166400,
-    "title_hu": "Criza imobiliară din Occident - preţuri foarte mari la apartamente, chirii foarte mari – va deveni subiect de discuţie şi la noi",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Criza imobiliară din Occident - preţuri foarte mari la apartamente, chirii foarte mari – va deveni subiect de discuţie şi la noi",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_2245e3f5ef",
-    "fingerprint": "7ecf64b38e99fb748c7c5d2c21daa6fd",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-13-at-20-11-36-1024x576.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Radu Miruță, despre mesajul comandantului NATO: Alianța nu caută confruntarea, dar este pregătită să apere fiecare centimetru pătrat de teritoriu aliat",
-        "link": "https://www.mediafax.ro/stirile-zilei/radu-miruta-despre-mesajul-comandantului-nato-alianta-nu-cauta-confruntarea-dar-este-pregatita-sa-apere-fiecare-centimetru-patrat-de-teritoriu-aliat-23824797"
-      },
-      {
-        "source": "G4Media",
-        "title": "Mark Rutte: NATO se va apăra dacă Rusia va fi „suficient de proastă” să atace",
-        "link": "https://www.g4media.ro/mark-rutte-nato-se-va-apara-daca-rusia-va-fi-suficient-de-proasta-sa-atace.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Comandantul NATO e sigur că Putin nu va ataca convențional Europa, Alianța e mult prea puternică. Se mulțumește cu sabotaje",
-        "link": "https://stirileprotv.ro/stiri/international/comandantul-nato-e-sigur-ca-putin-nu-va-ataca-conventional-europa-alianta-e-mult-prea-puternica-se-multumeste-cu-sabotaje.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "NATO este mult superioară Rusiei din punct de vedere militar, afirmă comandantul suprem al alianței",
-        "link": "https://www.g4media.ro/nato-este-mult-superioara-rusiei-din-punct-de-vedere-militar-afirma-comandantul-suprem-al-aliantei.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Rusia pune la îndoială dezminţirea NATO privind planurile de blocare a enclavei Kaliningrad și amenință: „Războiul va fi scurt”",
-        "link": "https://www.digi24.ro/stiri/externe/rusia/rusia-pune-la-indoiala-dezmintirea-nato-privind-planurile-de-blocare-a-enclavei-kaliningrad-si-ameninta-razboiul-va-fi-scurt-3995903"
-      }
-    ],
-    "published_at": 1792166300,
-    "title_hu": "Rutte: a NATO megvédi magát, ha Oroszország megtámadja",
-    "lead_hu": "Mark Rutte NATO-főtitkár Tallinnban kijelentette, hogy a szövetség nem lát közvetlen fenyegetést a területe ellen, de megvédi tagállamait, ha Oroszország támadást indít. A NATO európai főparancsnoka szerint a szövetség katonai képességei jelentősen meghaladják Oroszországét; a román ügyvivő védelmi miniszter pedig a keleti szárny és a drónok elleni védekezés erősítéséről számolt be. Moszkva közben azzal vádolta a NATO-t, hogy nem mond igazat a kalinyingrádi enklávé blokádjára vonatkozó tervekről, és rövid háborút helyezett kilátásba.",
-    "content_hu": "• **Mark Rutte tallinni beszédében** arra figyelmeztetett, hogy Oroszország támadása esetén a NATO válaszolni fog. A főtitkár úgy fogalmazott: ha az oroszok „elég ostobák” lennének ahhoz, hogy támadjanak, a szövetség reakcióját majd akkor látják.\n\n• **A NATO válaszáról** Rutte nem közölt részleteket, de biztosította a tagállamokat arról, hogy a szövetség megvédi őket.\n\n• **A szövetség jelenlegi helyzetéről** Rutte azt mondta, nem lát közvetlen fenyegetést a NATO területével szemben.\n\n• **A NATO szerepéről** a főtitkár hangsúlyozta, hogy a szövetség védelmi jellegű, és soha nem indít támadást más ország ellen. Célja a tagállamok életmódjának, érdekeinek és értékeinek védelme.\n\n• **Radu Miruță román ügyvivő védelmi miniszter** Alexus G. Grynkewich NATO-főparancsnokkal a keleti szárny biztonságáról és a drónok elleni fellépés technikai feladatairól egyeztetett. Miruță szerint Románia elvégezte a korábban elmaradt feladatait, és a NATO készen áll a szövetséges terület minden négyzetcentiméterének megvédésére. Hozzátette: Románia katonái felkészítésével és védelmi képességei fejlesztésével maga is hozzájárul a biztonsághoz.\n\n• **Alexus Grynkewich szerint** a NATO jelentős katonai fölényben van Oroszországgal szemben; példaként említette, hogy Oroszországnak nincs F-35-ös vadászgépe, illetve a NATO-éhoz mérhető számú modern rombolója és tengeralattjárója. Úgy véli, Moszkva nem indít nagyszabású hagyományos támadást Európa ellen, inkább szabotázshoz folyamodik, mert nem akar közvetlen konfliktust a NATO-val.\n\n• **A NATO elrettentő erejének fenntartásához** Grynkewich a haderők modernizálását, nagyszabású hadgyakorlatokat és a katonai képességek demonstrálását tartja szükségesnek. A tábornok szerint Putyin azzal próbálja befolyásolni a nyugati közvéleményt, hogy veszélyesnek állítja be Ukrajna támogatását. A „hibrid támadás” kifejezést túl általánosnak nevezte; szerinte pontosan kell megnevezni a szabotázst, a gyújtogatást és a terrorcselekményeket.\n\n• **A NATO lehetséges válaszáról** Grynkewich azt mondta, hogy egy tagállam elleni támadást megállítanának, és nemcsak a támadó csapatokat, hanem az azokat támogató teljes rendszert is semlegesítenék. Hozzátette: ha valaki mégis megtámadná a szövetséget, a NATO harcolni fog.\n\n• **Maria Zaharova orosz külügyi szóvivő** kétségbe vonta a NATO azon tagadását, hogy a szövetség Kalinyingrád blokádját tervezné. Azt állította, hogy Lengyelország megelőző csapásokat tervezhet az enklávé ellen HIMARS- és Homar-K-rakétákkal, utóbbiak akár 300 kilométeres hatótávolságával, valamint F-16-os repülőgépekkel; az állításokat a forrás nem támasztja alá függetlenül.\n\n• **Moszkva figyelmeztetése szerint** Oroszország minden rendelkezésére álló eszközzel megvédené Kalinyingrádot, Zaharova pedig azt mondta, hogy „a háború rövid lesz”.",
-    "title_ro": "Rutte: NATO se va apăra dacă Rusia atacă",
-    "lead_ro": "Mark Rutte, secretarul general al NATO, a declarat la Tallinn că Alianța nu vede o amenințare iminentă la adresa teritoriului său, dar își va apăra membrii în cazul unui atac rusesc. Comandantul suprem aliat în Europa afirmă că NATO are o superioritate militară considerabilă față de Rusia, iar ministrul interimar al Apărării din România a vorbit despre întărirea flancului estic și apărarea împotriva dronelor. Între timp, Moscova a acuzat NATO că nu spune adevărul despre planurile privind Kaliningradul și a amenințat că un război ar fi scurt.",
-    "content_ro": "• **În discursul susținut la Tallinn, Mark Rutte** a avertizat că NATO va răspunde dacă Rusia atacă. Secretarul general a spus că, dacă rușii ar fi „suficient de proști” să atace, răspunsul Alianței se va vedea atunci.\n\n• **Despre răspunsul NATO**, Rutte nu a oferit detalii, dar a dat asigurări că Alianța își va apăra statele membre.\n\n• **Despre situația actuală a Alianței**, Rutte a spus că nu vede o amenințare iminentă la adresa teritoriului NATO.\n\n• **Despre rolul NATO**, secretarul general a subliniat că Alianța are un caracter defensiv și nu va lansa niciodată un atac împotriva altui stat. Scopul său este să protejeze modul de viață, interesele și valorile statelor membre.\n\n• **Radu Miruță, ministrul interimar al Apărării din România,** s-a întâlnit cu comandantul suprem aliat Alexus G. Grynkewich pentru a discuta securitatea flancului estic și aspectele tehnice ale combaterii dronelor. Miruță a afirmat că România și-a îndeplinit sarcinile restante și că NATO este pregătită să apere fiecare centimetru pătrat de teritoriu aliat. El a adăugat că România contribuie la securitate prin pregătirea militarilor și dezvoltarea capacităților de apărare.\n\n• **Potrivit lui Alexus Grynkewich,** NATO are o superioritate militară considerabilă față de Rusia. Ca exemple, a menționat că Rusia nu are avioane de luptă F-35 și nici un număr comparabil de distrugătoare și submarine moderne. Generalul consideră că Moscova nu va lansa un atac convențional de amploare asupra Europei, ci recurge la sabotaj, deoarece nu dorește un conflict direct cu NATO.\n\n• **Pentru menținerea descurajării**, Grynkewich consideră necesare modernizarea forțelor armate, exercițiile militare ample și demonstrarea capacităților Alianței. Generalul a spus că Putin încearcă să influențeze opinia publică occidentală, prezentând sprijinul pentru Ucraina drept periculos. El a numit termenul „atacuri hibride” prea general și a susținut că sabotajul, incendierea și atacurile teroriste trebuie numite precis.\n\n• **Despre un posibil răspuns al NATO**, Grynkewich a spus că orice atac asupra unui stat membru va fi oprit și că Alianța ar neutraliza nu doar trupele agresoare, ci și întregul sistem care le susține. El a adăugat că NATO va lupta dacă este atacată.\n\n• **Maria Zaharova, purtătoarea de cuvânt a Ministerului rus de Externe,** a pus sub semnul întrebării dezmințirea NATO privind presupusele planuri de blocare a Kaliningradului. Ea a afirmat că Polonia ar putea planifica lovituri preventive asupra enclavei cu rachete HIMARS și Homar-K, acestea din urmă având o rază de până la 300 de kilometri, precum și cu avioane F-16; sursa nu confirmă independent aceste afirmații.\n\n• **Potrivit avertismentului Moscovei,** Rusia ar folosi toate mijloacele disponibile pentru a apăra Kaliningradul, iar Zaharova a spus că „războiul va fi scurt”."
-  },
-  {
-    "group_id": "group_ac43db93d2",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/98641706-efe7-4c62-9bfd-99aba8a692db.png?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Petre Grigoraș, înaintea deplasării de 630 km din Liga 2: „Cea mai lungă din campionat”",
-        "link": "https://www.gsp.ro/fotbal/liga-2/petre-grigoras-csm-resita-cetatea-suceava-liga-2-988882.html"
-      }
-    ],
-    "published_at": 1792166247,
-    "title_hu": "Petre Grigoraș, înaintea deplasării de 630 km din Liga 2: „Cea mai lungă din campionat”",
-    "lead_hu": "Petre Grigoraș, antrenorul celor de la Cetatea Suceava, a vorbit la conferința de presă premergătoare meciului cu CSM Reșița, din runda cu numărul 10 din Liga 2. Meciul Cetatea Suceva - CSM Reșița se …",
-    "content_hu": "Petre Grigoraș, antrenorul celor de la Cetatea Suceava, a vorbit la conferința de presă premergătoare meciului cu CSM Reșița, din runda cu numărul 10 din Liga 2. Meciul Cetatea Suceva - CSM Reșița se va juca sâmbătă, de la 11:00, iar pentru echipa lui Petre Grigoraș va fi cea mai lungă deplasare din această stagiune. Nu mai puțin de 630 de kilometri sunt între Suceva și Reșița. ...",
-    "title_ro": "Petre Grigoraș, înaintea deplasării de 630 km din Liga 2: „Cea mai lungă din campionat”",
-    "lead_ro": "Petre Grigoraș, antrenorul celor de la Cetatea Suceava, a vorbit la conferința de presă premergătoare meciului cu CSM Reșița, din runda cu numărul 10 din Liga 2. Meciul Cetatea Suceva - CSM Reșița se …",
-    "content_ro": "Petre Grigoraș, antrenorul celor de la Cetatea Suceava, a vorbit la conferința de presă premergătoare meciului cu CSM Reșița, din runda cu numărul 10 din Liga 2. Meciul Cetatea Suceva - CSM Reșița se va juca sâmbătă, de la 11:00, iar pentru echipa lui Petre Grigoraș va fi cea mai lungă deplasare din această stagiune. Nu mai puțin de 630 de kilometri sunt între Suceva și Reșița. ..."
-  },
-  {
-    "group_id": "group_af3b05da7a",
-    "fingerprint": "da71066686cc26e7229b66ac0e9c77c5",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "SUA face planuri pentru a lovi Iranul cu „mama tuturor bombelor”",
-        "link": "https://hotnews.ro/sua-face-planuri-pentru-a-lovi-iranul-cu-mama-tuturor-bombelor-2376483"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Trump ia în calcul folosirea „mamei tuturor bombelor” împotriva Iranului. Planurile armatei SUA vizează infrastructura energetică și obiective nucleare",
-        "link": "https://www.mediafax.ro/externe/trump-ia-in-calcul-folosirea-mamei-tuturor-bombelor-impotriva-iranului-planurile-armatei-sua-vizeaza-infrastructura-energetica-si-obiective-nucleare-23825664"
-      },
-      {
-        "source": "Digi24",
-        "title": "Armata SUA ar putea lansa „mama tuturor bombelor” în eventuale atacuri viitoare asupra Iranului",
-        "link": "https://www.digi24.ro/stiri/externe/armata-sua-ar-putea-lansa-mama-tuturor-bombelor-in-eventuale-atacuri-viitoare-asupra-iranului-3993153"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Planuri secrete la Pentagon: Trump ar putea folosi „mama tuturor bombelor” în Iran",
-        "link": "https://adevarul.ro/stiri-externe/sua/planuri-secrete-la-pentagon-trump-ar-putea-folosi-2564153.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "CNN: Armata SUA ia în calcul folosirea „mamei tuturor bombelor” împotriva Iranului",
-        "link": "https://www.g4media.ro/cnn-armata-sua-ia-in-calcul-folosirea-mamei-tuturor-bombelor-impotriva-iranului.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Donald Trump afirmă că nu va folosi bombe nucleare sau trupe pe teren în Iran. Totuși: „Mama tuturor bombelor nu este nucleară”",
-        "link": "https://www.digi24.ro/stiri/externe/sua/donald-trump-afirma-ca-nu-va-folosi-bombe-nucleare-sau-trupe-pe-teren-in-iran-totusi-mama-tuturor-bombelor-nu-este-nucleara-3995813"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Trump exclude un atac nuclear asupra Iranului, dar ia în calcul folosirea celei mai puternice bombe convenționale",
-        "link": "https://adevarul.ro/stiri-externe/sua/trump-exclude-un-atac-nuclear-asupra-iranului-dar-2564576.html"
-      }
-    ],
-    "published_at": 1792165957,
-    "title_hu": "A Pentagon a MOAB bevetését is mérlegeli egy esetleges iráni támadásnál",
-    "lead_hu": "Amerikai tisztviselők szerint a Pentagon olyan terveket dolgozott ki, amelyekben a MOAB bevetése is szerepelhet iráni energetikai és nukleáris célpontok ellen, ha Donald Trump elrendeli a harci műveletek újraindítását. Trump azt mondta, nem vetne be nukleáris fegyvert, a MOAB lehetőségét viszont nem zárta ki; a bomba hatékonysága a mélyen föld alá telepített létesítmények ellen bizonytalan.",
-    "content_hu": "• **Az amerikai hadsereg tervei** között szerepel a GBU-43/B MOAB, vagyis a „bombák anyja” lehetséges alkalmazása iráni energetikai infrastruktúra és nukleáris létesítmények ellen, ha Donald Trump elrendeli a harci műveletek újraindítását.\n\n• **A végső döntés Trumpé:** a CNN által idézett források szerint a csapásokra a november 3-i félidős választások előtt vagy után, illetve az amerikai erők CENTCOM-térségből való kivonása előtt is sor kerülhet. Trump nyilvánosan azt mondta, hogy a választás előtt nem rendel el új támadásokat, de tanácsadói a beszámolók szerint nem tudták, végleges-e ez az álláspont. A tervek létezése önmagában nem jelent bevetési döntést.\n\n• **A MOAB hatása és korlátai:** a mintegy 9,8 tonnás, az Egyesült Államok legnagyobb nem nukleáris bombájaként számon tartott fegyver nagy kiterjedésű felszíni pusztításra készült, robbanása akár kilenc városnegyednyi területet is érinthet. Nem mélyen fekvő, vastag kőzetrétegekkel védett célpontok átütésére tervezték, ezért a Pickaxe Mountainhez hasonló létesítmények ellen a hatékonysága bizonytalan.\n\n• **A bevetés kockázatai és szerepe:** a nagy robbanási sugár miatt lakott területek vagy polgári infrastruktúra közelében súlyos civil áldozatok veszélye merülne fel. Egyes tisztviselők szerint a fegyvernek pszichológiai, erődemonstráló szerepe is lehet, de alkalmazása nem garantálná Irán kapitulációját vagy az amerikai stratégiai célok teljesülését.\n\n• **Trump nyilatkozata:** az elnök kijelentette, hogy nem vetne be nukleáris fegyvert Irán ellen, és a szárazföldi csapatok küldését sem tartja jelenleg valószínűnek. A MOAB-ról azt mondta, hogy nem nukleáris fegyver, ugyanakkor nem cáfolta a lehetséges bevetéséről szóló értesüléseket, és nem tisztázta, engedélyezte-e azt.\n\n• **A MOAB alkalmazásának feltételei és előzménye:** a bombát katonai Hercules szállítógépről kell indítani, ami gondos tervezést és légi támogatást igényel. Az Egyesült Államok 2017-ben, Afganisztánban vetette be először: afgán tisztviselők szerint 36 Iszlám Állam-harcost ölt meg és három alagutat rombolt le; civil áldozatokról nem számoltak be.\n\n• **A háború lezárása továbbra is bizonytalan:** amerikai tisztviselők kételkednek abban, hogy a tervezett csapások világos stratégiához vezetnének, miközben több mint hat hónapnyi amerikai bombázás után sincs jele közeli megállapodásnak. A Fehér Házban olyan lehetőségeket is vizsgáltak, amelyekkel a műveletek lezárását győzelemként lehetne bemutatni, majd gyorsan kivonni az amerikai erőket. A szárazföldi beavatkozás jelentős amerikai veszteségekkel járhatna, és a beszámolók szerint jelenleg nincs rá egyértelmű kormányzati támogatás.\n\n• **A Hormuzi-szorosban fokozódó hajótámadások:** a HotNews által idézett Reuters-források szerint Irán mintegy tíz napja új taktikákat alkalmaz a szoroson áthaladó, korlátozásait megszegőnek tekintett hajók ellen. A források szerint a stratégia célja az olajárak magasan tartása és az amerikai választások befolyásolása; a független adatok alapján a kereskedelmi hajók elleni támadások az utóbbi napokban a háború kezdete óta nem látott szintet értek el.",
-    "title_ro": "Pentagonul ia în calcul folosirea MOAB într-un posibil atac asupra Iranului",
-    "lead_ro": "Potrivit unor oficiali americani, Pentagonul a elaborat planuri care includ posibilitatea folosirii bombei MOAB împotriva infrastructurii energetice și a unor obiective nucleare iraniene, dacă Donald Trump ordonă reluarea operațiunilor de luptă. Trump a declarat că nu va folosi arme nucleare, dar nu a exclus MOAB; eficiența acesteia împotriva instalațiilor aflate la mare adâncime rămâne incertă.",
-    "content_ro": "• **Planurile armatei americane** includ posibila folosire a bombei GBU-43/B MOAB, supranumită „mama tuturor bombelor”, împotriva infrastructurii energetice și a unor instalații nucleare iraniene, dacă Donald Trump ordonă reluarea operațiunilor de luptă.\n\n• **Decizia finală îi aparține lui Trump:** potrivit surselor citate de CNN, atacurile ar putea avea loc înainte sau după alegerile de la jumătatea mandatului, din 3 noiembrie, ori înainte de retragerea forțelor americane din zona CENTCOM. Trump a declarat public că nu va ordona noi atacuri înaintea alegerilor, însă consilierii săi nu știau, potrivit relatărilor, dacă poziția este definitivă. Existența planurilor nu înseamnă că folosirea bombei a fost autorizată.\n\n• **Efectele și limitele MOAB:** bomba cântărește aproximativ 9.800 de kilograme și este considerată cea mai mare armă non-nucleară din arsenalul SUA. Este concepută pentru distrugeri extinse la suprafață, efectele putând acoperi o zonă echivalentă cu aproximativ nouă cvartale urbane. Nu a fost proiectată să penetreze straturi groase de rocă, astfel că eficiența sa împotriva unor obiective precum Pickaxe Mountain rămâne incertă.\n\n• **Riscurile și rolul posibil al bombei:** raza mare a exploziei ar putea provoca victime civile grave dacă țintele s-ar afla în apropierea zonelor locuite sau a infrastructurii nemilitare. Unii oficiali consideră că arma ar putea avea un rol psihologic și de demonstrație a forței, dar folosirea ei nu ar garanta capitularea Iranului sau atingerea obiectivelor strategice americane.\n\n• **Declarațiile lui Trump:** președintele a spus că nu va folosi arme nucleare împotriva Iranului și că nu vede, în prezent, trimiterea trupelor terestre în țară. Despre MOAB a afirmat că nu este o bombă nucleară, însă nu a infirmat informațiile privind o posibilă utilizare și nu a precizat dacă a autorizat-o.\n\n• **Condițiile de utilizare și precedentul:** MOAB trebuie lansată de pe un avion militar de transport Hercules, ceea ce necesită planificare atentă și sprijin aerian. SUA au folosit-o pentru prima dată în Afganistan, în 2017. Potrivit oficialilor afgani, atacul a ucis 36 de combatanți ai Statului Islamic și a distrus trei tuneluri; nu au fost raportate victime civile.\n\n• **Încheierea războiului rămâne incertă:** oficiali americani se îndoiesc că noile atacuri ar face parte dintr-o strategie clară de încheiere a conflictului. După mai mult de șase luni de bombardamente americane, nu există indicii că Washingtonul și Teheranul sunt aproape de un acord. La Casa Albă au fost analizate și scenarii care ar permite prezentarea încheierii operațiunilor drept o victorie, urmată de retragerea rapidă a forțelor americane. O intervenție terestră ar putea provoca pierderi importante în rândul militarilor americani și, potrivit relatărilor, nu are în prezent o susținere clară în administrație.\n\n• **Intensificarea atacurilor asupra navelor din Strâmtoarea Ormuz:** potrivit surselor Reuters citate de HotNews, Iranul a început în urmă cu aproximativ zece zile să folosească noi tactici împotriva navelor despre care consideră că îi încalcă restricțiile. Sursele au spus că strategia urmărește menținerea prețurilor petrolului la un nivel ridicat și influențarea alegerilor din SUA; date independente arată că atacurile asupra navelor comerciale au atins în ultimele zile cel mai ridicat nivel de la începutul războiului."
-  },
-  {
-    "group_id": "group_47f4e99874",
-    "fingerprint": "c91dc68490372d288a246e310f5ebceb",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/03/8101748-Mediafax_Foto-DPA_Hepta.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "VIDEO: Tabloul semifinalelor ATP de la Shanghai – Rusul Medvedev, ultimul calificat",
-        "link": "https://www.g4media.ro/video-tabloul-semifinalelor-atp-de-la-shanghai-rusul-medvedev-ultimul-calificat.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Daniil Medvedev revine în semifinalele Mastersului de la Shanghai. Adversar-surpriză pentru fostul lider mondial",
-        "link": "https://www.mediafax.ro/sport/daniil-medvedev-revine-in-semifinalele-mastersului-de-la-shanghai-adversar-surpriza-pentru-fostul-lider-mondial-23826692"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Daniil Medvedev, din nou în semifinalele Masters-ului 1000 de la Shanghai și mai aproape de ATP Finals",
-        "link": "https://www.gsp.ro/sporturi/tenis/daniil-medvedev-din-nou-in-semifinalele-masters-ului-1000-de-la-shanghai-si-mai-aproape-de-atp-finals-988880.html"
-      }
-    ],
-    "published_at": 1792165954,
-    "title_hu": "Medvegyev és Jódar jutott be a sanghaji Masters elődöntőjébe",
-    "lead_hu": "Danyiil Medvegyev három játszmában legyőzte Tommy Pault, Rafael Jódar pedig Casper Ruudot búcsúztatta a sanghaji Masters negyeddöntőjében. Medvegyev az elődöntőben a 20 éves spanyol játékossal találkozik; a másik ágon Alexander Zverev Alejandro Davidovich Fokinával mérkőzik meg.",
-    "content_hu": "• **Medvegyev győzelme:** A 30 éves orosz 6–3, 1–6, 6–3-ra verte az amerikai Tommy Pault a negyeddöntőben; a mérkőzés két óra kilenc percig tartott.\n\n• **A döntő játszma:** Paul az utolsó szettben első adogatásainak mindössze 47 százalékát ütötte be, és 17 ki nem kényszerített hibát vétett. Medvegyev 31 nyerőt és 33 ki nem kényszerített hibát jegyzett, míg Paulnál ezek a számok 27 és 37 voltak.\n\n• **Jódar továbbjutása:** A 12. kiemelt spanyol 4–6, 6–4, 6–3-ra győzte le a 20. kiemelt Casper Ruudot. A 20 éves Jódar a torna egyik meglepetése.\n\n• **Az elődöntők párosítása:** Medvegyev Jódárral találkozik, a másik ágon Alexander Zverev Alejandro Davidovich Fokinával játszik.\n\n• **Medvegyev sanghaji múltja:** Az orosz 2019-ben megnyerte a tornát, és az idei mezőny egyetlen korábbi sanghaji bajnoka. Ez a harmadik Masters 1000-es elődöntője 2026-ban.\n\n• **Versenyfutás a torinói ATP-világbajnokságért:** Medvegyev a Race to Turin élő rangsorában a hatodik helyre lépett, 540 ponttal megelőzve a tizedik Alex de Minaurt. Az orosz idén Hangcsouban tornát nyert, Pekingben pedig elődöntőbe jutott, de kizárása miatt nem kapta meg az ezért járó pontokat.\n\n• **A másik elődöntőző:** Jódár legyőzött ellenfele, Ruud háromszoros Grand Slam-döntős: a Roland Garroson 2022-ben és 2023-ban, a US Openen pedig 2022-ben jutott fináléba.",
-    "title_ro": "Medvedev și Jódar s-au calificat în semifinalele Mastersului de la Shanghai",
-    "lead_ro": "Daniil Medvedev l-a învins în trei seturi pe Tommy Paul, iar Rafael Jódar l-a eliminat pe Casper Ruud în sferturile de finală de la Shanghai. Medvedev îl va întâlni în semifinale pe spaniolul de 20 de ani; în cealaltă partidă se vor înfrunta Alexander Zverev și Alejandro Davidovich Fokina.",
-    "content_ro": "• **Victoria lui Medvedev:** Rusul în vârstă de 30 de ani l-a învins pe americanul Tommy Paul cu 6-3, 1-6, 6-3 în sferturi; meciul a durat două ore și nouă minute.\n\n• **Setul decisiv:** Paul a reușit să pună în teren doar 47% dintre primele servicii în actul decisiv și a comis 17 erori neforțate. Medvedev a avut 31 de lovituri câștigătoare și 33 de erori neforțate, iar Paul a înregistrat 27, respectiv 37.\n\n• **Calificarea lui Jódar:** Spaniolul, cap de serie numărul 12, l-a învins cu 4-6, 6-4, 6-3 pe Casper Ruud, cap de serie numărul 20. Jódar, în vârstă de 20 de ani, este una dintre revelațiile turneului.\n\n• **Tabloul semifinalelor:** Medvedev îl va întâlni pe Jódar, iar în cealaltă semifinală Alexander Zverev va juca împotriva lui Alejandro Davidovich Fokina.\n\n• **Bilanțul lui Medvedev la Shanghai:** Rusul a câștigat turneul în 2019 și este singurul fost campion de la Shanghai rămas în competiția din acest an. Este a treia sa semifinală de Masters 1000 din 2026.\n\n• **Lupta pentru ATP Finals de la Torino:** Medvedev a urcat pe locul al șaselea în clasamentul live Race to Turin, cu un avans de 540 de puncte față de Alex de Minaur, ocupantul poziției a zecea. Rusul a câștigat turneul de la Hangzhou în acest an și a ajuns în semifinale la Beijing, dar a fost descalificat și nu a primit punctele aferente acelei performanțe.\n\n• **Adversarul eliminat de Jódar:** Ruud, învinsul spaniolului, a jucat trei finale de Grand Slam: la Roland Garros în 2022 și 2023 și la US Open în 2022."
-  },
-  {
-    "group_id": "group_4532130f76",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/val-gardena-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Unde se schiază cel mai bine în această iarnă? Topul mondial istoric în care Italia a zdrobit destinații celebre din Austria și Franța",
-        "link": "https://www.mediafax.ro/turism/unde-se-schiaza-cel-mai-bine-in-aceasta-iarna-topul-mondial-istoric-in-care-italia-a-zdrobit-destinatii-celebre-din-austria-si-franta-23826834"
-      }
-    ],
-    "published_at": 1792165937,
-    "title_hu": "Unde se schiază cel mai bine în această iarnă? Topul mondial istoric în care Italia a zdrobit destinații celebre din Austria și Franța",
-    "lead_hu": "Cititorii prestigioasei reviste Condé Nast au dat verdictul oficial pentru sezonul de schi 2026. Patru stațiuni legendare din Italia au intrat direct în topul celor mai bune 20 de locuri din Europa, i…",
-    "content_hu": "Cititorii prestigioasei reviste Condé Nast au dat verdictul oficial pentru sezonul de schi 2026. Patru stațiuni legendare din Italia au intrat direct în topul celor mai bune 20 de locuri din Europa, iar una dintre ele a prins o poziție de top la nivel global. Iată harta completă a pârtiilor de vis și unde se află numărul 1 mondial.",
-    "title_ro": "Unde se schiază cel mai bine în această iarnă? Topul mondial istoric în care Italia a zdrobit destinații celebre din Austria și Franța",
-    "lead_ro": "Cititorii prestigioasei reviste Condé Nast au dat verdictul oficial pentru sezonul de schi 2026. Patru stațiuni legendare din Italia au intrat direct în topul celor mai bune 20 de locuri din Europa, i…",
-    "content_ro": "Cititorii prestigioasei reviste Condé Nast au dat verdictul oficial pentru sezonul de schi 2026. Patru stațiuni legendare din Italia au intrat direct în topul celor mai bune 20 de locuri din Europa, iar una dintre ele a prins o poziție de top la nivel global. Iată harta completă a pârtiilor de vis și unde se află numărul 1 mondial."
-  },
-  {
-    "group_id": "group_668a12442a",
-    "category": "Erdély",
-    "image": "https://maszol.ro/resized/2026_oktober/16/cikk_apor_pter01.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Költözés és korszerű gépek az Apor Péter Szaklíceumban – Folytatódik az iskola felújítása",
-        "link": "https://maszol.ro/belfold/Koltozes-es-korszeru-gepek-az-Apor-Peter-Szakliceumban-Folytatodik-az-iskola-felujitasa"
-      }
-    ],
-    "published_at": 1792165920,
-    "title_hu": "Költözés és korszerű gépek az Apor Péter Szaklíceumban – Folytatódik az iskola felújítása",
-    "lead_hu": "Újabb szakaszához érkezett a kézdivásárhelyi Apor Péter Mezőgazdasági Szaklíceum felújítása.",
-    "content_hu": "Újabb szakaszához érkezett a kézdivásárhelyi Apor Péter Mezőgazdasági Szaklíceum felújítása.",
-    "title_ro": "Költözés és korszerű gépek az Apor Péter Szaklíceumban – Folytatódik az iskola felújítása",
-    "lead_ro": "Újabb szakaszához érkezett a kézdivásárhelyi Apor Péter Mezőgazdasági Szaklíceum felújítása.",
-    "content_ro": "Újabb szakaszához érkezett a kézdivásárhelyi Apor Péter Mezőgazdasági Szaklíceum felújítása."
-  },
-  {
-    "group_id": "group_2b2319f5b2",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMiUyRjIxJTJGMTg2NTQyNF8xODY1/NDI0X0FsZnJlZC1TaW1vbmlzX2F2YXRh/cl8xNzAzMTUzNzY5LmpwZyZoYXNoPTAx/MDlmN2Q3ZWFhMmJlYWQ1MDcxMjFjZmExNTIzZWI2.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Simonis, despre dosarul DNA privind banii pe care Primăria Timișoara trebuia să-i dea Colterm: în loc să dubleze suma, a plătit datorii",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/simonis-despre-dosarul-dna-privind-banii-pe-care-primaria-timisoara-trebuia-sa-i-dea-colterm-in-loc-sa-dubleze-suma-a-platit-datorii-3995899"
-      }
-    ],
-    "published_at": 1792165919,
-    "title_hu": "Simonis, despre dosarul DNA privind banii pe care Primăria Timișoara trebuia să-i dea Colterm: în loc să dubleze suma, a plătit datorii",
-    "lead_hu": "Preşedintele Consiliului Judeţean Timiş, social-democratul Alfred Simonis, a explicat cum administraţia Fritz a greşit în finanţarea Colterm, compania de termoficare din Timişoara. El a spus că Primăr…",
-    "content_hu": "Preşedintele Consiliului Judeţean Timiş, social-democratul Alfred Simonis, a explicat cum administraţia Fritz a greşit în finanţarea Colterm, compania de termoficare din Timişoara. El a spus că Primăria a luat banii de la Guvern şi, în loc să dubleze suma, şi-a plătit cu aceşti bani facturile restante.",
-    "title_ro": "Simonis, despre dosarul DNA privind banii pe care Primăria Timișoara trebuia să-i dea Colterm: în loc să dubleze suma, a plătit datorii",
-    "lead_ro": "Preşedintele Consiliului Judeţean Timiş, social-democratul Alfred Simonis, a explicat cum administraţia Fritz a greşit în finanţarea Colterm, compania de termoficare din Timişoara. El a spus că Primăr…",
-    "content_ro": "Preşedintele Consiliului Judeţean Timiş, social-democratul Alfred Simonis, a explicat cum administraţia Fritz a greşit în finanţarea Colterm, compania de termoficare din Timişoara. El a spus că Primăria a luat banii de la Guvern şi, în loc să dubleze suma, şi-a plătit cu aceşti bani facturile restante."
-  },
-  {
-    "group_id": "group_fe3c53e925",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNCUyRjA5JTJGMTMxMTI5N18xMzEx/Mjk3X2NyaXphLWFsaW1lbnRhcmEtaWx1/c3RyYXRpdi1tYXItZGVzZXItZ2V0dHku/anBnJmhhc2g9OTczMzFlOTdkNDYzNDBkMDY3MjVhMTdhYWY1NzY2Nzk=.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Criza alimentară globală e tot mai aproape. ONU avertizează că scumpirea energiei și a îngrășămintelor va majora prețurile alimentelor",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/criza-alimentara-globala-e-tot-mai-aproape-onu-avertizeaza-ca-scumpirea-energiei-si-a-ingrasamintelor-va-majora-preturile-alimentelor-3995869"
-      }
-    ],
-    "published_at": 1792165776,
-    "title_hu": "Criza alimentară globală e tot mai aproape. ONU avertizează că scumpirea energiei și a îngrășămintelor va majora prețurile alimentelor",
-    "lead_hu": "O criză alimentară globală se profilează pe fondul creșterii prețurilor la energie, combustibili și îngrășăminte, avertizează Fondul Internațional pentru Dezvoltare Agricolă (IFAD), o agenție speciali…",
-    "content_hu": "O criză alimentară globală se profilează pe fondul creșterii prețurilor la energie, combustibili și îngrășăminte, avertizează Fondul Internațional pentru Dezvoltare Agricolă (IFAD), o agenție specializată a ONU. Prețurile alimentelor ar putea continua să crească în următoarele șase până la nouă luni, iar cele mai afectate vor fi populațiile vulnerabile, care își permit deja cu greu o alimentație sănătoasă, anunță France24.",
-    "title_ro": "Criza alimentară globală e tot mai aproape. ONU avertizează că scumpirea energiei și a îngrășămintelor va majora prețurile alimentelor",
-    "lead_ro": "O criză alimentară globală se profilează pe fondul creșterii prețurilor la energie, combustibili și îngrășăminte, avertizează Fondul Internațional pentru Dezvoltare Agricolă (IFAD), o agenție speciali…",
-    "content_ro": "O criză alimentară globală se profilează pe fondul creșterii prețurilor la energie, combustibili și îngrășăminte, avertizează Fondul Internațional pentru Dezvoltare Agricolă (IFAD), o agenție specializată a ONU. Prețurile alimentelor ar putea continua să crească în următoarele șase până la nouă luni, iar cele mai afectate vor fi populațiile vulnerabile, care își permit deja cu greu o alimentație sănătoasă, anunță France24."
-  },
-  {
-    "group_id": "group_abc86bb44d",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/70360c43-d6ab-4f63-a71d-dd1eb596ac68.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Noul stadion al echipei din Superliga „capătă tot mai mult forma finală” » Imagini la zi cu șantierul",
-        "link": "https://www.gsp.ro/fotbal/liga-1/noul-stadion-nicolae-dobrin-de-la-pitesti-imagini-santier-988876.html"
-      }
-    ],
-    "published_at": 1792165736,
-    "title_hu": "Noul stadion al echipei din Superliga „capătă tot mai mult forma finală” » Imagini la zi cu șantierul",
-    "lead_hu": "În locul fostului stadion „Nicolae Dobrin”, la Pitești se lucrează de zor ridicarea unei noi arene. Cele mai recente imagini publicate de pe șantier arată că lucrurile au evoluat în ultima perioadă, i…",
-    "content_hu": "În locul fostului stadion „Nicolae Dobrin”, la Pitești se lucrează de zor ridicarea unei noi arene. Cele mai recente imagini publicate de pe șantier arată că lucrurile au evoluat în ultima perioadă, iar forma finală a stadionului, așa cum este el prezentat în randări, începe să se distingă tot mai mult. Noua arenă va fi clasificată la standardul UEFA 4 și va avea o capacitate de 15.200 de locuri, toate acoperite. ...",
-    "title_ro": "Noul stadion al echipei din Superliga „capătă tot mai mult forma finală” » Imagini la zi cu șantierul",
-    "lead_ro": "În locul fostului stadion „Nicolae Dobrin”, la Pitești se lucrează de zor ridicarea unei noi arene. Cele mai recente imagini publicate de pe șantier arată că lucrurile au evoluat în ultima perioadă, i…",
-    "content_ro": "În locul fostului stadion „Nicolae Dobrin”, la Pitești se lucrează de zor ridicarea unei noi arene. Cele mai recente imagini publicate de pe șantier arată că lucrurile au evoluat în ultima perioadă, iar forma finală a stadionului, așa cum este el prezentat în randări, începe să se distingă tot mai mult. Noua arenă va fi clasificată la standardul UEFA 4 și va avea o capacitate de 15.200 de locuri, toate acoperite. ..."
-  },
-  {
-    "group_id": "group_ed63e36315",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/conferinta-ministerul-transporturilor-1024x585.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "România, la intersecția coridoarelor strategice ale Europei. Portul Constanța capătă o miză tot mai mare",
-        "link": "https://www.mediafax.ro/social/romania-la-intersectia-coridoarelor-strategice-ale-europei-portul-constanta-capata-o-miza-tot-mai-mare-23826830"
-      }
-    ],
-    "published_at": 1792165710,
-    "title_hu": "România, la intersecția coridoarelor strategice ale Europei. Portul Constanța capătă o miză tot mai mare",
-    "lead_hu": "Portul Constanța își consolidează poziția de nod strategic în rețeaua europeană de transport, în contextul dezvoltării coridoarelor care leagă Europa Centrală, de Est și de Sud-Est.",
-    "content_hu": "Portul Constanța își consolidează poziția de nod strategic în rețeaua europeană de transport, în contextul dezvoltării coridoarelor care leagă Europa Centrală, de Est și de Sud-Est.",
-    "title_ro": "România, la intersecția coridoarelor strategice ale Europei. Portul Constanța capătă o miză tot mai mare",
-    "lead_ro": "Portul Constanța își consolidează poziția de nod strategic în rețeaua europeană de transport, în contextul dezvoltării coridoarelor care leagă Europa Centrală, de Est și de Sud-Est.",
-    "content_ro": "Portul Constanța își consolidează poziția de nod strategic în rețeaua europeană de transport, în contextul dezvoltării coridoarelor care leagă Europa Centrală, de Est și de Sud-Est."
-  },
-  {
-    "group_id": "group_84c18c1340",
-    "category": "Kultúra",
-    "image": "https://www.g4media.ro//wp-content/uploads/2024/04/adam-whitlock-I9j8Rk-JYFM-unsplash.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "România de weekend (16-18 octombrie 2026): Ghidul marilor evenimente urbane din țară",
-        "link": "https://www.g4media.ro/romania-de-weekend-16-18-octombrie-2026-ghidul-marilor-evenimente-urbane-din-tara.html"
-      }
-    ],
-    "published_at": 1792165689,
-    "title_hu": "România de weekend (16-18 octombrie 2026): Ghidul marilor evenimente urbane din țară",
-    "lead_hu": "În weekendul 16-18 octombrie 2026, locuitorii din Sibiu, Cluj-Napoca, Timișoara, Iași, Brașov și Constanța au la dispoziție o selecție variată de manifestări: de la festivaluri de film documentar, fes…",
-    "content_hu": "În weekendul 16-18 octombrie 2026, locuitorii din Sibiu, Cluj-Napoca, Timișoara, Iași, Brașov și Constanța au la dispoziție o selecție variată de manifestări: de la festivaluri de film documentar, festivaluri medievale cu turniruri și concerte de muzică veche, până la festivaluri internaționale de chitară, teatru independent și sărbători folclorice. Sibiu Astra Film Festival 2026 Cinematografia documentară […] © G4Media.ro.",
-    "title_ro": "România de weekend (16-18 octombrie 2026): Ghidul marilor evenimente urbane din țară",
-    "lead_ro": "În weekendul 16-18 octombrie 2026, locuitorii din Sibiu, Cluj-Napoca, Timișoara, Iași, Brașov și Constanța au la dispoziție o selecție variată de manifestări: de la festivaluri de film documentar, fes…",
-    "content_ro": "În weekendul 16-18 octombrie 2026, locuitorii din Sibiu, Cluj-Napoca, Timișoara, Iași, Brașov și Constanța au la dispoziție o selecție variată de manifestări: de la festivaluri de film documentar, festivaluri medievale cu turniruri și concerte de muzică veche, până la festivaluri internaționale de chitară, teatru independent și sărbători folclorice. Sibiu Astra Film Festival 2026 Cinematografia documentară […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_13d3f48c65",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/c8148085-d97e-4f1e-8e44-87f08b9081af.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "S-a judecat apelul făcut de Real Madrid » Câte meciuri din La Liga va fi suspendat până la urmă Vinicius Junior",
-        "link": "https://www.gsp.ro/international/campionate/s-a-judecat-apelul-real-madrid-cate-meciuri-va-fi-suspendat-vinicius-junior-eliminare-villarreal-988854.html"
-      }
-    ],
-    "published_at": 1792165688,
-    "title_hu": "S-a judecat apelul făcut de Real Madrid » Câte meciuri din La Liga va fi suspendat până la urmă Vinicius Junior",
-    "lead_hu": "Suspendarea pentru patru meciuri primită de Vinicius Junior rămâne în vigoare, după ce Comisia de Apel din cadrul Federației Spaniole de Fotbal (RFEF) a respins contestația depusă de Real Madrid, în d…",
-    "content_hu": "Suspendarea pentru patru meciuri primită de Vinicius Junior rămâne în vigoare, după ce Comisia de Apel din cadrul Federației Spaniole de Fotbal (RFEF) a respins contestația depusă de Real Madrid, în dorința de a-l avea mai devreme disponibil pe brazilianul indisciplinat. ...",
-    "title_ro": "S-a judecat apelul făcut de Real Madrid » Câte meciuri din La Liga va fi suspendat până la urmă Vinicius Junior",
-    "lead_ro": "Suspendarea pentru patru meciuri primită de Vinicius Junior rămâne în vigoare, după ce Comisia de Apel din cadrul Federației Spaniole de Fotbal (RFEF) a respins contestația depusă de Real Madrid, în d…",
-    "content_ro": "Suspendarea pentru patru meciuri primită de Vinicius Junior rămâne în vigoare, după ce Comisia de Apel din cadrul Federației Spaniole de Fotbal (RFEF) a respins contestația depusă de Real Madrid, în dorința de a-l avea mai devreme disponibil pe brazilianul indisciplinat. ..."
-  },
-  {
-    "group_id": "group_8fb2a3d9d0",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/f2a05f6b-27ce-4a5e-8867-70d58b605924.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Incredibil!” » Vlad Chiricheș, uluit de mesajul primit de la staff: „Nu se poate! Își bat joc de mine! M-am dus la soție să îi spun”",
-        "link": "https://www.gsp.ro/fotbal/nationala/vlad-chiriches-euro2024-podcast-988860.html"
-      }
-    ],
-    "published_at": 1792165661,
-    "title_hu": "„Incredibil!” » Vlad Chiricheș, uluit de mesajul primit de la staff: „Nu se poate! Își bat joc de mine! M-am dus la soție să îi spun”",
-    "lead_hu": "Pe Vlad Chiricheș l-a afectat că nu a prins Euro 2024. Și l-a deranjat și mai tare modul de abordare al staff-ului condus atunci de Edi Iordănescu: „Am primit doar un mesaj. Știți ce era în capul meu?…",
-    "content_hu": "Pe Vlad Chiricheș l-a afectat că nu a prins Euro 2024. Și l-a deranjat și mai tare modul de abordare al staff-ului condus atunci de Edi Iordănescu: „Am primit doar un mesaj. Știți ce era în capul meu?”. Chiricheș a jucat la FCSB în sezonul premergător Europeanului din Germania, 13 meciuri în toate competițiile. A câștigat titlul cu roș-albaștrii, dar a lipsit perioade lungi din cauza problemelor medicale. ...",
-    "title_ro": "„Incredibil!” » Vlad Chiricheș, uluit de mesajul primit de la staff: „Nu se poate! Își bat joc de mine! M-am dus la soție să îi spun”",
-    "lead_ro": "Pe Vlad Chiricheș l-a afectat că nu a prins Euro 2024. Și l-a deranjat și mai tare modul de abordare al staff-ului condus atunci de Edi Iordănescu: „Am primit doar un mesaj. Știți ce era în capul meu?…",
-    "content_ro": "Pe Vlad Chiricheș l-a afectat că nu a prins Euro 2024. Și l-a deranjat și mai tare modul de abordare al staff-ului condus atunci de Edi Iordănescu: „Am primit doar un mesaj. Știți ce era în capul meu?”. Chiricheș a jucat la FCSB în sezonul premergător Europeanului din Germania, 13 meciuri în toate competițiile. A câștigat titlul cu roș-albaștrii, dar a lipsit perioade lungi din cauza problemelor medicale. ..."
   }
 ]
