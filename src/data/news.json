@@ -1,18 +1,34 @@
 [
   {
+    "group_id": "group_beed3ce15a",
+    "category": "Általános",
+    "image": "https://www.go4it.ro/wp-content/uploads/2026/09/Screenshot-Apple-unveils-iPhone-Duo.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Go4IT",
+        "title": "iPhone Duo se vinde foarte bine, dar testează limitele financiare ale consumatorilor pe piața telefoanelor pliabile de lux",
+        "link": "https://www.go4it.ro/content/telefoane-mobile/iphone-duo-se-vinde-foarte-bine-dar-testeaza-limitele-financiare-ale-consumatorilor-pe-piata-telefoanelor-pliabile-de-lux-19288066/"
+      }
+    ],
+    "published_at": 1792233020,
+    "title_hu": "iPhone Duo se vinde foarte bine, dar testează limitele financiare ale consumatorilor pe piața telefoanelor pliabile de lux",
+    "lead_hu": "Odată cu lansarea lui iPhone Duo, cel mai scump smartphone din istoria companiei, gigantul tehnologic Apple testează într-un mod agresiv limitele financiare ale publicului și măsura în care consumator…",
+    "content_hu": "Odată cu lansarea lui iPhone Duo, cel mai scump smartphone din istoria companiei, gigantul tehnologic Apple testează într-un mod agresiv limitele financiare ale publicului și măsura în care consumatorii sunt dispuși să plătească sume astronomice […] Articolul iPhone Duo se vinde foarte bine, dar testează limitele financiare ale consumatorilor pe piața telefoanelor pliabile de lux apare prima dată în Go4IT.",
+    "title_ro": "iPhone Duo se vinde foarte bine, dar testează limitele financiare ale consumatorilor pe piața telefoanelor pliabile de lux",
+    "lead_ro": "Odată cu lansarea lui iPhone Duo, cel mai scump smartphone din istoria companiei, gigantul tehnologic Apple testează într-un mod agresiv limitele financiare ale publicului și măsura în care consumator…",
+    "content_ro": "Odată cu lansarea lui iPhone Duo, cel mai scump smartphone din istoria companiei, gigantul tehnologic Apple testează într-un mod agresiv limitele financiare ale publicului și măsura în care consumatorii sunt dispuși să plătească sume astronomice […] Articolul iPhone Duo se vinde foarte bine, dar testează limitele financiare ale consumatorilor pe piața telefoanelor pliabile de lux apare prima dată în Go4IT."
+  },
+  {
     "group_id": "group_7828f76de9",
-    "fingerprint": "6a4b5e0cc7822a18ee81f0faa1df76d2",
+    "fingerprint": "b2aed99b6b4045364d9b90282e126f9e",
     "category": "Politika",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 13,
+    "sources_count": 11,
     "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ilie Bolojan anunță că e dispus să semneze un acord cu premierul desemnat Luca Niculescu, iar PNL va rămâne în opoziție",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-e-dispus-sa-semneze-un-acord-cu-premierul-desemnat-luca-niculescu-iar-pnl-va-ramane-in-opozitie-3990141"
-      },
       {
         "source": "HotNews.ro",
         "title": "Liderul USR, după ce PNL a spus că ia în calcul un acord politic cu Luca Niculescu: „Nu putem să facem parte din tot felul de aranjamente de culise”",
@@ -24,9 +40,9 @@
         "link": "https://www.digi24.ro/stiri/actualitate/politica/ionel-bogdan-pnl-suntem-dispusi-sa-semnam-cu-luca-niculescu-un-acord-care-sa-prevada-lucruri-de-la-care-noi-nu-facem-rabat-3990741"
       },
       {
-        "source": "HotNews.ro",
-        "title": "VIDEO Decizia luată de grupurile parlamentare ale PNL în privința Guvernului Niculescu: „Sunt peste 160 de zile de când avem guvern interimar”",
-        "link": "https://hotnews.ro/video-decizia-luata-de-grupurile-parlamentare-ale-pnl-in-privinta-guvernului-niculescu-sunt-peste-160-de-zile-de-cand-avem-guvern-interimar-2375865"
+        "source": "Digi24",
+        "title": "Guvernul propus de Luca Niculescu ar putea primi votul în Parlament în această săptămână. Calendarul discutat de partide (surse)",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-propus-de-luca-niculescu-ar-putea-primi-votul-in-parlament-in-aceasta-saptamana-calendarul-discutat-de-partide-surse-3991415"
       },
       {
         "source": "Economedia",
@@ -34,9 +50,9 @@
         "link": "https://economedia.ro/ilie-bolojan-pnl-ar-putea-vota-investirea-guvernului-luca-niculescu-dar-nu-va-reface-coalitia-si-va-ramane-in-opozitie.html"
       },
       {
-        "source": "Agerpres (HU)",
-        "title": "Parlament/ Ședință a Birourilor permanente, joi seara, pentru stabilirea calendarului de învestire a Guvernului Luca Niculescu",
-        "link": "https://agerpres.ro/politic/2026/10/15/parlament-sedinta-a-birourilor-permanente-joi-seara-pentru-stabilirea-calendarului-de-investire-a-gu--1603495"
+        "source": "Mediafax",
+        "title": "Bolojan pregătește terenul pentru votarea Guvernului Niculescu: „Ieșim din ipocrizie”",
+        "link": "https://www.mediafax.ro/politic/bolojan-pregateste-terenul-pentru-votarea-guvernului-niculescu-iesim-din-ipocrizie-23825959"
       },
       {
         "source": "Digi24",
@@ -54,33 +70,341 @@
         "link": "https://stirileprotv.ro/stiri/politic/pnl-decide-sambata-daca-voteaza-guvernul-niculescu-ilie-bolojan-votul-ar-putea-sa-ne-coste-nu-doar-politic-ci-si-personal.html"
       },
       {
-        "source": "HotNews.ro",
-        "title": "INTERVIU PNL ia astăzi decizia finală în privința votului pentru guvernul Niculescu. Semnale că nu toată lumea e de acord cu propunerea lui Bolojan",
-        "link": "https://hotnews.ro/interviu-pnl-ia-astazi-decizia-finala-in-privinta-votului-pentru-guvernul-niculescu-semne-ca-nu-toata-lumea-e-de-acord-cu-propunerea-lui-bolojan-2378328"
-      },
-      {
         "source": "Adevărul",
         "title": "PNL decide soarta Guvernului Niculescu. Bolojan avertizează asupra riscurilor, mai mulți parlamentari refuză susținerea",
         "link": "https://adevarul.ro/politica/pnl-decide-soarta-guvernului-niculescu-bolojan-2564639.html"
       },
       {
-        "source": "Mediafax",
-        "title": "PNL Iași spune „nu” Guvernului Niculescu. Bolojan cere vot pentru învestire, liberalii ieșeni cer alegeri anticipate",
-        "link": "https://www.mediafax.ro/politic/pnl-iasi-spune-nu-guvernului-niculescu-bolojan-cere-vot-pentru-investire-liberalii-ieseni-cer-alegeri-anticipate-23827098"
-      },
-      {
         "source": "Ebihoreanul (Nagyvárad/Bihar)",
         "title": "Fierbe PNL înaintea votului pentru Guvernul Niculescu. Două filiale se opun, iar unii liberali cer anticipate",
         "link": "https://www.ebihoreanul.ro/stiri/fierbe-pnl-inaintea-votului-pentru-guvernul-niculescu-doua-filiale-se-opun-iar-unii-liberali-cer-anticipate-205896.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Câte voturi ar avea Guvernul Niculescu după ședința PNL. Simulare Mediafax pentru votul de marți",
+        "link": "https://www.mediafax.ro/politic/cate-voturi-ar-avea-guvernul-niculescu-dupa-sedinta-pnl-simulare-mediafax-pentru-votul-de-marti-23827158"
       }
     ],
-    "published_at": 1792232228,
-    "title_hu": "Bolojan a Niculescu-kormány beiktatási szavazatát javasolja, de éleződik a vita a PNL-ben",
-    "lead_hu": "Ilie Bolojan azt javasolja, hogy a PNL támogassa Luca Niculescu kormányának beiktatását, de ne lépjen be a kabinetbe, hanem maradjon ellenzékben. A párt parlamenti frakciói konzultatív szavazással támogatták ezt az irányt, a végső döntést szombaton hozza meg az országos vezetőség; több megyei szervezet és politikus viszont ellenzi a PSD-domináns kormány megszavazását.",
-    "content_hu": "• **A PNL szombati döntése** A párt országos vezetősége október 17-én, 13 órakor, online ülésen határoz a Niculescu-kormány beiktatási szavazatáról. A parlamenti frakciók szerdai, konzultatív szavazása a kabinet megszavazását, az ellenzékbe vonulást és a kijelölt miniszterelnökkel kötendő megállapodás lehetőségét támogatta; Ionel Bogdan szóvivő szerint a válság már több mint 160 napja tart.\n\n• **Bolojan felelősségi és szükségességi szavazatot javasol** Szerinte a PNL voksa nem bizalmi szavazat, nem jelenti a kormány összetételének jóváhagyását vagy a koalíció újjáalakítását, hanem a válság lezárását szolgálná. A PNL a beiktatás után ellenzékben marad, és nem kér kormányzati tisztségeket vagy minisztériumokat.\n\n• **A Niculescuval tervezett kétoldalú megállapodás** Nem koalíciós szerződés lenne, hanem a támogatás feltételeit és határait rögzítené. Bolojan szerint a tárgyalások lényegében lezárultak; a dokumentum költségvetési célokra, átláthatóságra, jó kormányzásra és parlamentáris demokráciára vonatkozó elveket tartalmazna. A megállapodás érvényességét 2027 tavaszához, illetve a 2027-es költségvetés elfogadásához – Bolojan pénteki nyilatkozata szerint akár annak január–februári elfogadásáig – kötnék.\n\n• **A támogatás gazdasági feltételei** A PNL elvárásai között szerepel a hiánycél és a fiskális fegyelem betartása, a beruházások védelme, a közpénzek felelős felhasználása, a reformok folytatása és az európai kötelezettségek teljesítése. A párt csak ténylegesen beszedhető bevételekre alapozott, reális 2027-es költségvetést támogatna, és ellenzi a fedezet nélküli kiadásnövelést.\n\n• **A bizalmatlansági indítványokra vonatkozó vállalás** Bolojan szerint az első hat hónapban a PNL nem kezdeményez és nem szavaz meg bizalmatlansági indítványt, amíg a kormány betartja a megállapodásban vállalt elveket és célokat. A feltételek megszegése esetén a párt fenntartaná a bizalmatlansági indítvány támogatásának lehetőségét.\n\n• **Bolojan a gyors rendezést az ügyvivő kormány korlátozott jogköreivel indokolja** Szerinte a teljes jogkörű kabinet hiánya akadályozza a költségvetési kiigazítást, veszélyeztetheti egyes közszolgáltatások finanszírozását, és megnehezítheti az állami hitelfelvételt. A Floreasca kórház sürgősségi osztálya 2026-ra kezdetben 5 millió lejt kapott az előző évi 10 millió után, a marosvásárhelyi sürgősségi osztály pedig kevesebb mint 4 milliót az előző évi 8 millió után. Bolojan a dráguló üzemanyag miatt egyes intézményeknél 20–30 százalékos költségnövekedésre és az ambulanciák működési nehézségeinek kockázatára is figyelmeztetett.\n\n• **Bolojan politikai és személyes kockázatot is említ** Elismerte, hogy a PNL-t a jövőbeli kormány hibáiért is bírálhatják, noha a párt ellenzékben marad, és a voksa politikai ára akár személyesen is érintheti. Azt mondta, a kabinet összetételéért a kijelölt miniszterelnök és a jelöléseket adó pártok felelnek; a PNL szavazata nem jelenti a kormány politikai garantálását.\n\n• **Megosztott a PNL** Több politikus és pártvezető ellenzi a PSD-domináns kabinet beiktatását; a kritikusok között van Adrian Cozma, Dragoș Ciobotaru, Virgil Guran, Octavian Oprea, Alina Gorghiu és Lucian Bode, valamint Mihai Pașca aradi prefektus. A PNL Iași megyei szervezete egyhangúlag a kabinet ellen foglalt állást: szerintük a PSD-től való függés, a vitatott miniszterjelöltek és a Niculescu saját parlamenti hátterének hiánya miatt a megállapodás biankó csekk lenne. Inkább reformpárti többséget vagy előrehozott választást sürgetnek. Alin Tișe szerint a PNL saját korábbi döntései miatt került olyan helyzetbe, amelyben bármelyik választás politikai veszteséggel járhat.\n\n• **A PNL szóvivője a megállapodás mellett érvelt** Ionel Bogdan szerint a liberálisok készek támogatni a beiktatást és Luca Niculescuval, nem pedig a PSD-vel megállapodni; a párt a pénzügyi fegyelemhez, a hiány csökkentéséhez és a vállalt kötelezettségekhez ragaszkodik. Azt is jelezte, hogy a PNL a következő hat hónap fejleményei alapján dönt majd a további lépésekről.\n\n• **A USR nem támogatja a beiktatást** Dominic Fritz szerint nem világos, milyen parlamenti többségre támaszkodhatna a kabinet, és a párt nem szavaz meg olyan kormányt, amelyben PSD-s miniszterek vannak. A USR egyhangúlag a kabinet ellen szavazott; Fritz a hat hónapos fennmaradást is optimista forgatókönyvnek nevezte.\n\n• **A beiktatás menetrendje és a parlamenti támogatás** Luca Niculescu csütörtök este benyújtotta a parlamentnek a kormányprogramot és a miniszterjelöltek névsorát. A bizottsági meghallgatásokat hétfőre és kedd délelőttre, a plenáris beiktatási szavazást október 20-ára, kedd 14 órára tűzték ki. A Mediafax szerint az UDMR is a beiktatás mellett készül szavazni.\n\n• **Bolojan Brüsszelben is megerősítette az ellenzéki szerepet** A PPE vezetőivel folytatott találkozóján azt mondta, a PNL ellenzékben marad, és a jövőbeli kormány intézkedései és eredményei alapján értékeli majd a kabinetet: a Románia érdekét szolgáló lépéseket támogatja, a vállalásokkal ellentéteseket pedig ellenzi. Bolojan emellett a PNL és az USR 2028-as választásokra szóló lehetséges együttműködésének komoly megvizsgálását is szorgalmazta.",
-    "title_ro": "Bolojan propune ca PNL să voteze învestirea Guvernului Niculescu, dar partidul este divizat",
-    "lead_ro": "Ilie Bolojan propune ca PNL să voteze învestirea Guvernului Luca Niculescu, fără să intre la guvernare și păstrându-și statutul de partid de opoziție. Grupurile parlamentare liberale au susținut consultativ această direcție, însă decizia finală urmează să fie luată sâmbătă de conducerea națională; mai multe organizații și voci din partid se opun votării unui guvern dominat de PSD.",
-    "content_ro": "• **Decizia PNL de sâmbătă** Biroul Politic Național al partidului se reunește online pe 17 octombrie, la ora 13:00, pentru a decide votul privind învestirea Guvernului Niculescu. Votul consultativ al grupurilor parlamentare de miercuri a susținut învestirea, trecerea în opoziție și posibilitatea unui acord cu premierul desemnat; purtătorul de cuvânt Ionel Bogdan a spus că criza durează de peste 160 de zile.\n\n• **Bolojan propune un vot de responsabilitate și necesitate** În opinia sa, votul PNL nu ar fi unul de încredere, nu ar valida componența Guvernului și nu ar reface coaliția, ci ar urmări încheierea crizei. După învestire, PNL ar rămâne în opoziție și nu ar cere funcții guvernamentale sau ministere.\n\n• **Acordul bilateral avut în vedere cu Niculescu** Nu ar fi un acord de coaliție, ci un document care ar stabili condițiile și limitele sprijinului liberal. Bolojan a spus că negocierile sunt în mare parte încheiate; acordul ar cuprinde obiective bugetare și principii privind transparența, buna guvernare și democrația parlamentară. Valabilitatea ar urma să fie legată de primăvara lui 2027 și de adoptarea bugetului pentru 2027 – potrivit declarației de vineri a lui Bolojan, posibil până la aprobarea bugetului în ianuarie-februarie.\n\n• **Condițiile economice ale susținerii** PNL cere respectarea țintei de deficit și a disciplinei fiscale, protejarea investițiilor, folosirea responsabilă a banului public, continuarea reformelor și respectarea angajamentelor europene. Liberalii sunt pregătiți să voteze un buget realist pentru 2027, bazat pe venituri care pot fi încasate, și se opun creșterii cheltuielilor fără acoperire.\n\n• **Angajamentul privind moțiunile de cenzură** Bolojan a spus că, în primele șase luni, PNL nu va iniția și nu va vota o moțiune de cenzură atât timp cât Guvernul respectă principiile și obiectivele acordului. Dacă acestea sunt încălcate, partidul își rezervă posibilitatea de a susține o moțiune.\n\n• **Bolojan justifică grăbirea unei soluții prin atribuțiile limitate ale Guvernului interimar** El susține că lipsa unui Executiv cu puteri depline blochează rectificarea bugetară, poate afecta finanțarea unor servicii publice și îngreunează împrumuturile statului. Unitatea de primiri urgențe a Spitalului Floreasca a primit inițial 5 milioane de lei pentru 2026, față de 10 milioane în anul precedent, iar cea din Târgu Mureș, sub 4 milioane, față de 8 milioane. Bolojan a avertizat și că scumpirea combustibilului ar putea majora cu 20–30% costurile unor instituții și crea dificultăți de funcționare pentru serviciile de ambulanță.\n\n• **Bolojan admite riscuri politice și personale** El a recunoscut că PNL ar putea fi criticat pentru eventualele greșeli ale viitorului Guvern, chiar dacă va rămâne în opoziție, iar votul ar putea avea un cost politic și personal. Potrivit lui, responsabilitatea pentru componența Cabinetului revine premierului desemnat și partidelor care fac nominalizările; votul PNL nu ar însemna garantarea politică a Guvernului.\n\n• **PNL este divizat** Mai mulți lideri și parlamentari se opun învestirii unui Cabinet dominat de PSD. Printre critici se numără Adrian Cozma, Dragoș Ciobotaru, Virgil Guran, Octavian Oprea, Alina Gorghiu și Lucian Bode, precum și prefectul liberal de Arad, Mihai Pașca. Organizația PNL Iași a decis în unanimitate să nu susțină Guvernul: aceasta consideră că dependența de PSD, nominalizările controversate și lipsa unei baze parlamentare proprii a lui Niculescu transformă acordul într-un cec în alb. Filiala cere o majoritate reformistă sau, în lipsa acesteia, alegeri anticipate. Alin Tișe a spus că partidul a ajuns, prin propriile decizii, într-o situație în care oricare opțiune îi poate aduce pierderi politice.\n\n• **Purtătorul de cuvânt al PNL susține acordul** Ionel Bogdan a declarat că liberalii sunt dispuși să voteze învestirea și să încheie un acord cu Luca Niculescu, nu cu PSD. PNL va insista asupra disciplinei financiare, reducerii deficitului și respectării angajamentelor asumate, iar deciziile ulterioare vor depinde de evoluțiile din următoarele șase luni.\n\n• **USR nu susține învestirea** Dominic Fritz a spus că nu este clar pe ce majoritate parlamentară s-ar putea baza Guvernul și că partidul său nu va vota un Cabinet din care fac parte miniștri PSD. USR a decis în unanimitate să voteze împotrivă; Fritz a numit chiar și rezistența Guvernului timp de șase luni un scenariu optimist.\n\n• **Calendarul învestirii și sprijinul parlamentar** Luca Niculescu a depus joi seara la Parlament programul de guvernare și lista candidaților la funcțiile ministeriale. Audierile în comisiile parlamentare sunt programate luni și marți dimineața, iar votul de învestitură în plenul reunit este stabilit pentru marți, 20 octombrie, la ora 14:00. Potrivit Mediafax, și UDMR se pregătește să voteze în favoarea învestirii.\n\n• **Bolojan a reafirmat la Bruxelles că PNL va fi în opoziție** La întâlnirea cu liderii PPE, el a spus că partidul va evalua viitorul Guvern în funcție de măsurile și rezultatele sale: va susține politicile în interesul României și se va opune celor care contravin angajamentelor asumate. Bolojan a pledat și pentru analizarea serioasă a unei posibile colaborări PNL–USR la alegerile din 2028."
+    "published_at": 1792233000,
+    "title_hu": "Bolojan a Niculescu-kormány beiktatási szavazatát javasolja, miközben éleződik a vita a PNL-ben",
+    "lead_hu": "Ilie Bolojan azt javasolja, hogy a PNL támogassa Luca Niculescu kormányának beiktatását, de ne lépjen be a kabinetbe, hanem maradjon ellenzékben. A parlamenti frakciók konzultatív szavazással támogatták ezt az irányt, a végső döntést szombaton hozza meg az országos vezetőség; több megyei szervezet és politikus viszont ellenzi a PSD-domináns kormány megszavazását.",
+    "content_hu": "• **A PNL szombati döntése** A párt országos vezetősége október 17-én, 13 órakor, online ülésen határoz a Niculescu-kormány beiktatási szavazatáról. A parlamenti frakciók szerdai, konzultatív szavazása a kabinet megszavazását, az ellenzékbe vonulást és a kijelölt miniszterelnökkel kötendő megállapodás lehetőségét támogatta; Ionel Bogdan szóvivő szerint a válság már több mint 160 napja tart.\n\n• **Bolojan felelősségi és szükségességi szavazatot javasol** Szerinte a PNL voksa nem bizalmi szavazat, nem jelenti a kormány összetételének jóváhagyását vagy a koalíció újjáalakítását, hanem a válság lezárását szolgálná. A PNL a beiktatás után ellenzékben marad, és nem kér kormányzati tisztségeket vagy minisztériumokat.\n\n• **A Niculescuval tervezett kétoldalú megállapodás** Nem koalíciós szerződés lenne, hanem a támogatás feltételeit és határait rögzítené. Bolojan szerint a tárgyalások lényegében lezárultak; a dokumentum költségvetési célokra, átláthatóságra, jó kormányzásra és parlamentáris demokráciára vonatkozó elveket tartalmazna. Érvényességét 2027 tavaszához, illetve a 2027-es költségvetés elfogadásához – akár annak január–februári elfogadásáig – kötnék.\n\n• **A támogatás gazdasági feltételei** A PNL elvárásai között szerepel a hiánycél és a fiskális fegyelem betartása, a beruházások védelme, a közpénzek felelős felhasználása, a reformok folytatása és az európai kötelezettségek teljesítése. A párt csak ténylegesen beszedhető bevételekre alapozott, reális 2027-es költségvetést támogatna, és ellenzi a fedezet nélküli kiadásnövelést.\n\n• **A bizalmatlansági indítványokra vonatkozó vállalás** Bolojan szerint az első hat hónapban a PNL nem kezdeményez és nem szavaz meg bizalmatlansági indítványt, amíg a kormány betartja a megállapodásban vállalt elveket és célokat. A feltételek megszegése esetén a párt fenntartaná a bizalmatlansági indítvány támogatásának lehetőségét.\n\n• **Bolojan a gyors rendezést a közszolgáltatások kockázataival indokolja** Szerinte a teljes jogkörű kabinet hiánya akadályozza a költségvetési kiigazítást, veszélyeztetheti egyes közszolgáltatások finanszírozását, és megnehezítheti az állami hitelfelvételt. A Floreasca kórház sürgősségi osztálya 2026-ra kezdetben 5 millió lejt kapott az előző évi 10 millió után, a marosvásárhelyi sürgősségi osztály pedig kevesebb mint 4 milliót az előző évi 8 millió után. Bolojan az üzemanyag drágulása miatt egyes intézményeknél 20–30 százalékos költségnövekedésre és az ambulanciák működési nehézségeinek kockázatára is figyelmeztetett.\n\n• **Bolojan politikai és személyes kockázatot is említ** Elismerte, hogy a PNL-t a jövőbeli kormány hibáiért is bírálhatják, noha a párt ellenzékben marad, és a voksa politikai ára akár személyesen is érintheti. A kabinet összetételéért a kijelölt miniszterelnök és a jelöléseket adó pártok felelnek; a PNL szavazata nem jelenti a kormány politikai garantálását.\n\n• **Megosztott a PNL** Több politikus és pártvezető ellenzi a PSD-domináns kabinet beiktatását; a kritikusok között van Adrian Cozma, Dragoș Ciobotaru, Virgil Guran, Octavian Oprea, Alina Gorghiu és Lucian Bode, valamint Mihai Pașca aradi prefektus. A PNL Iași megyei szervezete egyhangúlag a kabinet ellen foglalt állást: szerintük a PSD-től való függés, a vitatott miniszterjelöltek és Niculescu saját parlamenti hátterének hiánya miatt a megállapodás biankó csekk lenne. Reformpárti többséget vagy előrehozott választást sürgetnek. Alin Tișe szerint a PNL saját korábbi döntései miatt került olyan helyzetbe, amelyben bármelyik választás politikai veszteséggel járhat.\n\n• **A PNL szóvivője a megállapodás mellett érvelt** Ionel Bogdan szerint a liberálisok készek támogatni a beiktatást és Luca Niculescuval, nem pedig a PSD-vel megállapodni; a párt a pénzügyi fegyelemhez, a hiány csökkentéséhez és a vállalt kötelezettségekhez ragaszkodik. Azt is jelezte, hogy a PNL a következő hat hónap fejleményei alapján dönt majd a további lépésekről.\n\n• **A USR nem támogatja a beiktatást** Dominic Fritz szerint nem világos, milyen parlamenti többségre támaszkodhatna a kabinet, és a párt nem szavaz meg olyan kormányt, amelyben PSD-s miniszterek vannak. A USR egyhangúlag a kabinet ellen szavazott; Fritz a hat hónapos fennmaradást is optimista forgatókönyvnek nevezte.\n\n• **A beiktatás menetrendje és a parlamenti támogatás** Luca Niculescu csütörtök este benyújtotta a parlamentnek a kormányprogramot és a miniszterjelöltek névsorát. A bizottsági meghallgatásokat hétfőre és kedd délelőttre, a plenáris beiktatási szavazást október 20-ára, kedd 14 órára tűzték ki. A Mediafax becslése szerint a PSD, a PNL, az UDMR, a nemzeti kisebbségek és az Uniți pentru România együtt 273 szavazatot adhatna a szükséges 233-ból; a kabinet PNL-szavazatok nélkül még a 22 független és a PACE hét képviselőjének támogatásával is csak 221 voksra számíthatna. Az UDMR támogatást ígért.\n\n• **Bolojan Brüsszelben is megerősítette az ellenzéki szerepet** A PPE vezetőivel folytatott találkozóján azt mondta, a PNL ellenzékben marad, és a jövőbeli kormány intézkedései és eredményei alapján értékeli majd a kabinetet: a Románia érdekét szolgáló lépéseket támogatja, a vállalásokkal ellentéteseket pedig ellenzi. Bolojan a PNL és az USR 2028-as választásokra szóló lehetséges együttműködésének komoly megvizsgálását is szorgalmazta.",
+    "title_ro": "Bolojan propune ca PNL să voteze Guvernul Niculescu, în timp ce disputa din partid se intensifică",
+    "lead_ro": "Ilie Bolojan propune ca PNL să voteze învestirea Guvernului Luca Niculescu, dar să nu intre în Executiv și să rămână în opoziție. Grupurile parlamentare au susținut consultativ această direcție, iar decizia finală urmează să fie luată sâmbătă de conducerea națională; mai multe filiale și voci liberale se opun însă votării unui guvern dominat de PSD.",
+    "content_ro": "• **Decizia PNL de sâmbătă** Conducerea națională a partidului urmează să decidă pe 17 octombrie, de la ora 13:00, într-o ședință online, cum va vota la învestirea Guvernului Niculescu. Votul consultativ de miercuri al grupurilor parlamentare a susținut învestirea, trecerea în opoziție și posibilitatea unui acord cu premierul desemnat; purtătorul de cuvânt Ionel Bogdan a spus că criza durează de peste 160 de zile.\n\n• **Bolojan propune un vot de responsabilitate și necesitate** În opinia sa, votul PNL nu ar fi un vot de încredere și nu ar însemna aprobarea componenței Guvernului sau refacerea coaliției, ci ar urmări încheierea crizei. După învestire, PNL ar rămâne în opoziție și nu ar cere funcții guvernamentale sau ministere.\n\n• **Acordul bilateral avut în vedere cu Niculescu** Nu ar fi un acord de coaliție, ci ar stabili condițiile și limitele sprijinului liberal. Bolojan a spus că negocierile sunt practic încheiate; documentul ar viza obiective bugetare, transparență, bună guvernare și democrație parlamentară. Valabilitatea ar fi legată de primăvara lui 2027 sau de adoptarea bugetului pentru 2027, posibil în ianuarie-februarie.\n\n• **Condițiile economice ale sprijinului** Printre cerințele PNL se numără respectarea țintei de deficit și a disciplinei fiscale, protejarea investițiilor, folosirea responsabilă a banului public, continuarea reformelor și respectarea angajamentelor europene. Liberalii ar susține un buget realist pentru 2027, bazat pe venituri care pot fi încasate, și se opun creșterii cheltuielilor fără acoperire.\n\n• **Angajamentul privind moțiunile de cenzură** Bolojan a spus că, în primele șase luni, PNL nu va iniția și nu va vota o moțiune de cenzură atât timp cât Guvernul respectă principiile și obiectivele acordului. Dacă acestea sunt încălcate, partidul își rezervă posibilitatea de a susține o moțiune.\n\n• **Bolojan justifică deblocarea prin riscurile pentru serviciile publice** El susține că lipsa unui Guvern cu puteri depline împiedică rectificarea bugetară, poate pune în pericol finanțarea unor servicii publice și îngreunează împrumuturile statului. Unitatea de primiri urgențe de la Floreasca a primit inițial 5 milioane de lei pentru 2026, față de 10 milioane în anul precedent, iar cea din Târgu Mureș, sub 4 milioane, față de 8 milioane. Bolojan a avertizat și că scumpirea combustibilului ar putea majora cu 20–30% costurile unor instituții și afecta funcționarea ambulanțelor.\n\n• **Bolojan admite riscuri politice și personale** Liderul PNL a recunoscut că partidul ar putea fi criticat pentru greșelile viitorului Guvern, chiar dacă va rămâne în opoziție, iar votul l-ar putea costa și personal. Responsabilitatea pentru componența Cabinetului, a spus el, aparține premierului desemnat și partidelor care fac nominalizările; votul PNL nu reprezintă o garanție politică pentru Guvern.\n\n• **PNL este divizat** Mai mulți politicieni și lideri liberali se opun învestirii unui Cabinet dominat de PSD. Printre critici se numără Adrian Cozma, Dragoș Ciobotaru, Virgil Guran, Octavian Oprea, Alina Gorghiu și Lucian Bode, precum și prefectul de Arad Mihai Pașca. Filiala PNL Iași s-a pronunțat în unanimitate împotriva Cabinetului: consideră că dependența de PSD, nominalizările controversate și lipsa unei baze parlamentare proprii a lui Niculescu ar transforma acordul într-un cec în alb. Filiala cere o majoritate reformistă sau alegeri anticipate. Alin Tișe a spus că deciziile anterioare ale PNL au adus partidul într-o situație în care orice opțiune poate avea un cost politic.\n\n• **Purtătorul de cuvânt al PNL susține acordul** Ionel Bogdan a declarat că liberalii sunt pregătiți să voteze învestirea și să încheie un acord cu Luca Niculescu, nu cu PSD. PNL insistă asupra disciplinei financiare, reducerii deficitului și respectării angajamentelor; Bogdan a spus că partidul va decide pașii următori în funcție de evoluțiile din următoarele șase luni.\n\n• **USR nu susține învestirea** Dominic Fritz a afirmat că nu este clar pe ce majoritate parlamentară s-ar baza Cabinetul și că USR nu va vota un Guvern din care fac parte miniștri PSD. Partidul a decis în unanimitate să voteze împotrivă, iar Fritz a numit supraviețuirea Guvernului timp de șase luni un scenariu optimist.\n\n• **Calendarul învestirii și calculele parlamentare** Luca Niculescu a depus joi seara la Parlament programul de guvernare și lista miniștrilor. Audierile în comisii sunt programate luni și marți dimineață, iar votul în plen, pe 20 octombrie, la ora 14:00. Potrivit unei simulări Mediafax, PSD, PNL, UDMR, minoritățile naționale și Uniți pentru România ar totaliza 273 de voturi, peste pragul necesar de 233; fără voturile PNL, Guvernul ar avea cel mult 221 chiar și cu sprijinul celor 22 de neafiliați și al celor șapte parlamentari PACE. UDMR a anunțat că va susține învestirea.\n\n• **Bolojan a reafirmat la Bruxelles că PNL va rămâne în opoziție** La întâlnirea cu liderii PPE, el a spus că partidul va evalua activitatea viitorului Guvern în funcție de măsuri și rezultate: va sprijini ceea ce servește intereselor României și se va opune încălcării angajamentelor. Bolojan a cerut și analizarea serioasă a unei posibile colaborări PNL-USR pentru alegerile din 2028."
+  },
+  {
+    "group_id": "group_9910a68698",
+    "fingerprint": "f80714a1be7087c0525ef4591b26ec84",
+    "category": "Kultúra",
+    "image": "https://maszol.ro/resized/2026_oktober/16/cikk_848774451_30032933246296327_4897975565778146599_n.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Idősek szemével Kézdivásárhely – Különleges fotókiállítás nyílt a múzeumban",
+        "link": "https://maszol.ro/belfold/Idosek-szemevel-Kezdivasarhely-Kulonleges-fotokiallitas-nyilt-a-muzeumban"
+      },
+      {
+        "source": "RomKat",
+        "title": "Kézdivásárhely idősek szemével és okostelefonjával",
+        "link": "https://romkat.ro/2026/10/17/kezdivasarhely-idosek-szemevel-es-okostelefonjaval/"
+      }
+    ],
+    "published_at": 1792232940,
+    "title_hu": "Kézdivásárhely idősei 49 fotón mutatják be a várost",
+    "lead_hu": "Huszonhárom kézdivásárhelyi idős alkotó 49 mobilfotójából nyílt kiállítás az Incze László Céhtörténeti Múzeumban. A Caritas és a múzeum közös kezdeményezése a város értékeinek felfedezése mellett az idősek közösségi részvételét és a generációk közötti kapcsolatokat is erősíti.",
+    "content_hu": "• **Huszonhárom kézdivásárhelyi idős alkotó 49 fényképe** látható az Incze László Céhtörténeti Múzeum „Városunk, ahogy az idősebbek látják” című időszakos kiállításán. A mobiltelefonnal készült képek a város ismert és kevésbé észrevett részleteit mutatják be az alkotók saját nézőpontjából.\n\n• **A kiállítást a Gyulafehérvári Caritas kézdivásárhelyi közösségi központja és a múzeum közösen szervezte.** A kezdeményezés célja az volt, hogy az idősek ne csupán résztvevői, hanem alkotói is legyenek a közösségi életnek, és új szemmel fedezzék fel megszokott környezetüket.\n\n• **A fényképek elkészítését fotós foglalkozások előzték meg.** A résztvevők fiatalok segítségével ismerkedtek meg a mobiltelefonos fényképezés alapjaival; a RomKat beszámolója szerint a műhelymunkákon több mint hatvan idős ember vett részt.\n\n• **A tárlat november 15-ig látogatható** a múzeum nyitvatartási idejében. A szervezők egyéni látogatókat, családokat és csoportokat is várnak; a kiállítás a fiataloknak és az időseknek is alkalmat ad arra, hogy Kézdivásárhely múltjáról, jelenéről és értékeiről beszélgessenek.",
+    "title_ro": "Seniorii din Târgu Secuiesc prezintă orașul în 49 de fotografii",
+    "lead_ro": "La Muzeul Breslelor „Incze László” s-a deschis o expoziție cu 49 de fotografii realizate cu telefonul mobil de 23 de autori vârstnici din Târgu Secuiesc. Inițiativa comună a Caritasului și muzeului pune în valoare orașul și încurajează participarea seniorilor la viața comunității și legăturile dintre generații.",
+    "content_ro": "• **Cele 49 de fotografii realizate de 23 de autori vârstnici din Târgu Secuiesc** sunt prezentate în expoziția temporară „Orașul nostru, așa cum îl văd seniorii”, găzduită de Muzeul Breslelor „Incze László”. Imaginile realizate cu telefonul mobil surprind locuri cunoscute și detalii mai puțin observate, din perspectiva autorilor.\n\n• **Expoziția a fost organizată în comun de Centrul Comunitar Caritas din Târgu Secuiesc și muzeu.** Inițiativa și-a propus ca seniorii să fie nu doar participanți, ci și creatori, și să-și redescopere mediul cotidian dintr-o perspectivă nouă.\n\n• **Fotografiile au fost precedate de ateliere de fotografie.** Cu ajutorul tinerilor, participanții au învățat noțiuni de bază despre fotografierea cu telefonul mobil; potrivit RomKat, la ateliere au luat parte peste 60 de persoane vârstnice.\n\n• **Expoziția poate fi vizitată până la 15 noiembrie**, în programul de funcționare al muzeului. Organizatorii îi așteaptă pe vizitatorii individuali, familii și grupuri; expoziția oferă tinerilor și seniorilor prilejul de a discuta despre trecutul, prezentul și valorile orașului Târgu Secuiesc."
+  },
+  {
+    "group_id": "group_68b2b46ab7",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/17/cikk_konyvkocko.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Rongálás miatt felszámolták a kézdivásárhelyi Wegener-park szabadtéri könyvtárát",
+        "link": "https://maszol.ro/belfold/Rongalas-miatt-felszamoltak-a-kezdivasarhelyi-Wegener-park-szabadteri-konyvtarat"
+      }
+    ],
+    "published_at": 1792232880,
+    "title_hu": "Rongálás miatt felszámolták a kézdivásárhelyi Wegener-park szabadtéri könyvtárát",
+    "lead_hu": "Már nem válogathatnak szabadon az olvasnivalók között a kézdivásárhelyi Wegener-park látogatói.",
+    "content_hu": "Már nem válogathatnak szabadon az olvasnivalók között a kézdivásárhelyi Wegener-park látogatói.",
+    "title_ro": "Rongálás miatt felszámolták a kézdivásárhelyi Wegener-park szabadtéri könyvtárát",
+    "lead_ro": "Már nem válogathatnak szabadon az olvasnivalók között a kézdivásárhelyi Wegener-park látogatói.",
+    "content_ro": "Már nem válogathatnak szabadon az olvasnivalók között a kézdivásárhelyi Wegener-park látogatói."
+  },
+  {
+    "group_id": "group_0023381096",
+    "fingerprint": "daf57f29253b82e3b746818b2b1e2906",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 18,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Trump susține că Putin vrea pace mai mult decât Zelenski, în timp ce atacurile rusești continuă în Ucraina",
+        "link": "https://www.digi24.ro/stiri/externe/trump-sustine-ca-putin-vrea-pace-mai-mult-decat-zelenski-in-timp-ce-atacurile-rusesti-continua-in-ucraina-3989527"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "SUA ar fi oferit Rusiei acordul pentru motorină ca să-l „înmoaie” pe Putin în negocierile de pace: „E rândul tău să dai ceva”",
+        "link": "https://stirileprotv.ro/stiri/international/sua-ar-fi-oferit-rusiei-acordul-pentru-motorina-ca-sa-l-inmoaie-pe-putin-in-negocierile-de-pace-e-randul-tau-sa-dai-ceva.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
+        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
+        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
+        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Zelenski acuză Rusia de 'dispreț' față de SUA, după atacurile asupra infrastructurii energetice din #Ucraina",
+        "link": "https://agerpres.ro/politic-extern/2026/10/14/zelenski-acuza-rusia-de-dispret-fata-de-sua-dupa-atacurile-asupra-infrastructurii-energetice-din-ucr--1602809"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Semnal de la Kremlin: Ce cale deschide acordul cu SUA pentru motorina rusească",
+        "link": "https://hotnews.ro/semnal-de-la-kremlin-ce-cale-deschide-acordul-cu-sua-pentru-motorina-ruseasca-2376026"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Putin râde”. Volodimir Zelenski îl acuză pe Donald Trump că a slăbit presiunea asupra Rusiei prin acordul privind motorina",
+        "link": "https://www.digi24.ro/stiri/externe/ue/putin-rade-volodimir-zelenski-il-acuza-pe-donald-trump-ca-a-slabit-presiunea-asupra-rusiei-prin-acordul-privind-motorina-3992807"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Răbufnire a lui Zelenski după ultimele decizii ale SUA: „Am terminat-o cu asta”",
+        "link": "https://hotnews.ro/rabufnire-a-lui-zelenski-dupa-ultimele-decizii-ale-sua-am-terminat-o-cu-asta-2376510"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zelenski anunţă că Ucraina va relua atacurile asupra rafinăriilor ruseşti: „Interdicţia a fost ridicată”",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-anunta-ca-ucraina-va-relua-atacurile-2564144.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Moscova îl acuză pe Zelenski că sabotează „armistițiul energetic” al lui Trump: Kievul sfidează SUA",
+        "link": "https://stirileprotv.ro/stiri/international/moscova-il-acuza-pe-zelenski-ca-saboteaza-armistitiul-energetic-al-lui-trump-kievul-sfideaza-sua.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "După acordul lui Trump cu Rusia, Ucraina găsește noi ținte pentru a lovi economia lui Putin. Ce cărți are în mână Zelenski - Analiză The Atlantic",
+        "link": "https://adevarul.ro/stiri-externe/europa/dupa-acordul-lui-trump-cu-rusia-ucraina-gaseste-2564294.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Trump susține că reluarea atacurilor Ucrainei asupra rafinăriilor ruseşti este o ”ruşine” / ”E mai dificil să lucrezi cu Zelenski decât cu Putin”",
+        "link": "https://www.g4media.ro/trump-sustine-ca-reluarea-atacurilor-ucrainei-asupra-rafinariilor-rusesti-este-o-rusine-e-mai-dificil-sa-lucrezi-cu-zelenski-decat-cu-putin.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zelenski, întrebat dacă Trump îl transformă în „țap ispășitor” pentru războiul din Iran. Răspunsul ironic al liderului ucrainean",
+        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-intrebat-daca-trump-il-transforma-in-2564553.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ucraina cere încă 70 de miliarde de euro de la UE. Zelenski, despre acordul lui Trump cu Rusia: „Mai mulți bani în buzunarul lui Putin”",
+        "link": "https://www.mediafax.ro/externe/ucraina-cere-inca-70-de-miliarde-de-euro-de-la-ue-zelenski-despre-acordul-lui-trump-cu-rusia-mai-multi-bani-in-buzunarul-lui-putin-23826965"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Mutarea lui Trump după replicile dure cu Volodimir Zelenski: Cum scapă Moscova în ultima clipă de noul val de sancțiuni",
+        "link": "https://hotnews.ro/mutarea-lui-trump-dupa-replicile-dure-cu-volodimir-zelenski-cum-scapa-moscova-in-ultima-clipa-de-noul-val-de-sanctiuni-2378524"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Zelenski anunță unul dintre cele mai ample atacuri asupra energiei Ucrainei: „Rusia încearcă să provoace un blackout”",
+        "link": "https://www.mediafax.ro/externe/zelenski-anunta-unul-dintre-cele-mai-ample-atacuri-asupra-energiei-ucrainei-rusia-incearca-sa-provoace-un-blackout-23827153"
+      }
+    ],
+    "published_at": 1792232824,
+    "title_hu": "Az energiafegyverszünet összeomlása tovább mélyíti a Trump–Zelenszkij-konfliktust",
+    "lead_hu": "Trump Putyint készségesebb békepartnernek nevezte, a finomítótámadások újraindítását pedig szégyennek mondta, miközben Moszkva folytatta az ukrán energetikai infrastruktúra támadását. Kijev szerint három napig szüneteltette az orosz energetikai célpontok elleni csapásokat, de a tűzszünet feltételei tisztázatlanok maradtak; a dízelalku, az amerikai támogatás körüli bizonytalanság és az újabb orosz támadások tovább élezték a konfliktust.",
+    "content_hu": "• **Trump Putyint békére készebbnek mondta Zelenszkijnél**: Az amerikai elnök szerint mindkét fél megsértette az energetikai tűzszünetet, de nem helyezett kilátásba nagyobb nyomást Moszkvára. Azt mondta, Putyin jobban akar megállapodást, Zelenszkijt pedig nehezebb partnernek tartja.\n\n• **A tűzszünet feltételei továbbra sem tisztázottak**: Trump közösségi médiában jelentette be az energetikai célpontok elleni támadások leállítását, Kijev szerint azonban nem egyeztetett előzetesen. Zelenszkij azt mondta, közvetlenül a bejelentés után orosz támadás érte a harkivi erőművet; a Kreml szerint nem véglegesítették a feltételeket, egy fehér házi tanácsadó pedig azt állította, hogy a szünet csak az olajfinomítókra vonatkozott.\n\n• **Az orosz csapások súlyos károkat okoztak az ukrán energetikai infrastruktúrában**: Zelenszkij szerint egy támadásban 39 ballisztikus rakétát és több mint 120 drónt vetettek be; több mint 600 ezer ember maradt áram nélkül, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg. Halálos áldozatokról és sebesültekről is beszámoltak; Zelenszkij az esetet az Egyesült Államokkal szembeni „látványos tiszteletlenségnek” nevezte.\n\n• **Egy későbbi, kiterjedt támadáshullám a blackout veszélyét vetette fel**: Zelenszkij közlése szerint egy 12 órás időszakban több mint 320 drónt, valamint cirkáló- és ballisztikus rakétákat vetettek be; több mint 15 kritikus energetikai létesítményt értek találatok. Az ukrán elnök szerint Moszkva a tél előtt az ország áram- és fűtésellátásának megbénítására törekszik.\n\n• **Ukrajna három nap után újraindította a finomítók elleni csapásokat**: Zelenszkij szerint Kijev amerikai kérésre tartott szünetet, miközben Oroszország folytatta az ukrán energetikai célpontok támadását. Egy ukrán dróntámadás tüzet okozott a rjazanyi finomítónál, amely az orosz finomítókapacitás közel 5 százalékát adja; a károk mértékét vizsgálták.\n\n• **Trump „szégyennek” nevezte a támadások újraindítását**: Szerinte Ukrajnának más célpontokat kellene választania, Zelenszkijjel pedig nehezebb együtt dolgozni, mint Putyinnal. Azt is mondta, hogy nem kedveli az ukrán elnököt, és az ukrán támadásokat okolta a világpiaci olajárak emelkedéséért.\n\n• **A Kreml Kijevet vádolja a békekísérletek akadályozásával**: Dmitrij Peszkov szerint az orosz finomítók elleni ukrán támadások szembemennek az amerikai békeerőfeszítésekkel, és Zelenszkij személyes felelősségét hangsúlyozta. Moszkva közben azt állította, hogy Ukrajna támadásaival az energetikai tűzszünetet ássa alá.\n\n• **A dízelalku árhatása korlátozott, politikai jelentősége viszont nagy lehet**: A bejelentett szállítások kezdetben több mint 300 ezer tonnáról szóltak, a teljes mennyiséget pedig 4,8 millió tonnára becsülték. Elemzők szerint ez csekély enyhülést hozhat az árakban; az iráni háború és a Hormuzi-szoros zavarai fontosabb tényezők. Az amerikai dízel ára gallononként 6,28 dollárra emelkedett, 72 százalékkal az előző év azonos időszaka fölé.\n\n• **A dízelmegállapodást a tárgyalások újraindításának eszközeként mutatták be**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón azzal érvelt, hogy az orosz dízelexport az amerikai együttműködési készség jelzése lehet, és visszacsábíthatja Moszkvát a tárgyalóasztalhoz. Biztonsági garanciákról és újjáépítésről is szó esett, de megállapodás nem született; a források szerint az amerikai támogatás megvonásával nem fenyegették Kijevet.\n\n• **Tizenkét szenátor kérte az alku visszavonását**: A hat demokrata és hat republikánus szenátor szerint a megállapodás alig mérsékelné az üzemanyagárakat, miközben bevételt adna Moszkvának. Azt kérték Trumptól, vonja vissza az ügyletet és a 135. számú általános engedélyt, valamint alkalmazza a 2026-os Lindsey Graham-szankciós törvény rendelkezéseit.\n\n• **Trump felfüggesztette a kongresszusi szankciós intézkedések nagy részét**: A pénteken kiadott rendeletben a döntést az Egyesült Államok „nemzeti érdekével” indokolta. A kongresszusi törvény többek között orosz tisztviselőket, bankokat és a „flottát” célzó intézkedéseket, valamint az orosz olaj és gáz nagy vásárlóira kivethető vámokat tett lehetővé.\n\n• **Moszkva további gazdasági megállapodásokban bízik**: Kirill Dmitrijev szerint a dízelalku más amerikai–orosz gazdasági és beruházási megállapodások mintája lehet. Alekszandr Novak a korábbi, havi 3–3,5 millió tonnás exportvolumen visszaállításáról beszélt.\n\n• **Zelenszkij árulásként élte meg Trump fordulatát**: Az ukrán elnök azt mondta, fájdalmas, hogy Trump az ellenfél oldalára állt, és sajnálja, hogy Ukrajna egy erős partnert veszít el. Szerinte a dízelalku Putyin győzelme, és az Egyesült Államok „nem a történelem helyes oldalán” áll.\n\n• **A hírszerzési és kommunikációs támogatás is a vita része**: Zelenszkij szerint ukrán katonai tisztviselőket arra figyelmeztettek, hogy a finomítótámadások folytatása esetén korlátozhatják a hírszerzési információk megosztását. Azt is állította, hogy a szünet alatt nem kaptak korai figyelmeztetést orosz ballisztikus rakétákról, a Starlink lassulása pedig katonai műveleteket zavart; Trump tagadta, hogy a Fehér Ház korlátozta volna a szolgáltatást, Elon Musk pedig azt mondta, a katonai Starshield-rendszerekről az amerikai kormány dönt.\n\n• **Zelenszkij a tűzszünetet kölcsönösséghez és légvédelmi segítséghez köti**: Az ukrán elnök szerint Ukrajna csak akkor állítaná le az orosz energetikai célpontok elleni csapásokat, ha Moszkva is leállítja támadásait. Később további Patriot elfogórakétákat nevezett meg minimális feltételként.\n\n• **A választások feltétele egy 60 napos teljes tűzszünet lehet**: Trump új ukrán vezetőt sürgetett, aki meg tud állapodni. Zelenszkij erre azt mondta, Ukrajna akkor tarthat választást, ha Oroszország 60 napra teljes tűzszünetet vállal. A lehetséges jelöltek között Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót emlegették.\n\n• **Meloni kockázatosnak nevezte a dízelalkut, és európai tárgyalási képviseletet sürgetett**: Az olasz miniszterelnök szerint a megállapodás legitimitást és bevételt ad Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-csoportnak; az európai vezetők a szankciók fenntartását és az orosz hibrid támadások elleni fellépést is sürgették.\n\n• **Ukrajna más gazdasági célpontokra is áthelyezheti a nyomást**: A The Atlantic elemzése szerint ukrán drónok orosz repülőtereket és adatközpontokat is támadtak. A moszkvai repülőtereken egy hét alatt 345 járatot töröltek, október 8. óta pedig legalább négy adatközpontot ért támadás. Az elemzés szerint ezek a műveletek zavarokat okozhatnak, de önmagukban nem kényszerítik a Kremlt tűzszünetre.\n\n• **Ukrajna 70 milliárd eurónyi további uniós támogatást kér 2027-re**: Zelenszkij szerint a háború jövő évi költsége 155 milliárd euró lehet, és legalább 70 milliárd euróra van szükség védelemre, fegyverekre és az ellenálló képesség fenntartására. Az észt miniszterelnök egy újabb uniós hitel lehetőségét is felvetette; az EU vezetői arra kérték a Bizottságot, tegyen javaslatot Ukrajna további finanszírozására.\n\n• **Kijev nehéz választás előtt áll**: A Trump elleni nyílt fellépés veszélyeztetheti a megmaradt amerikai katonai és hírszerzési támogatást, Washington feltételeinek elfogadása viszont gyengítheti Ukrajna biztonságát. Zelenszkij egy brüsszeli sajtótájékoztatón ironikus mosollyal reagált arra a kérdésre, hogy Trump belpolitikai problémáinak bűnbakjává vált-e.",
+    "title_ro": "Prăbușirea armistițiului energetic adâncește conflictul dintre Trump și Zelenski",
+    "lead_ro": "Trump l-a prezentat pe Putin drept mai dornic de pace decât Zelenski și a numit o rușine reluarea atacurilor asupra rafinăriilor, în timp ce Rusia a continuat să lovească infrastructura energetică ucraineană. Kievul spune că a suspendat timp de trei zile atacurile asupra țintelor energetice rusești, însă condițiile armistițiului au rămas neclare; acordul privind motorina, incertitudinea sprijinului american și noile atacuri rusești au amplificat tensiunile.",
+    "content_ro": "• **Trump spune că Putin dorește pacea mai mult decât Zelenski**: Președintele american a afirmat că ambele părți au încălcat armistițiul energetic, dar nu a anunțat presiuni suplimentare asupra Moscovei. El a spus că Putin vrea mai mult să ajungă la un acord și că Zelenski este un partener mai dificil.\n\n• **Condițiile armistițiului rămân neclare**: Trump a anunțat pe rețelele sociale oprirea atacurilor asupra țintelor energetice, însă Kievul spune că nu a fost consultat în prealabil. Zelenski a afirmat că, imediat după anunț, Rusia a atacat o centrală electrică din Harkov; Kremlinul a spus că termenii nu au fost finalizați, iar un consilier al Casei Albe a susținut că pauza viza doar rafinăriile de petrol.\n\n• **Atacurile rusești au provocat pagube grave infrastructurii energetice ucrainene**: Potrivit lui Zelenski, într-un atac au fost folosite 39 de rachete balistice și peste 120 de drone; peste 600.000 de persoane au rămas fără electricitate, iar 26 de instalații energetice și patru obiective din sectorul petrolier și al gazelor au fost avariate. Au fost raportate victime și persoane rănite; Zelenski a numit atacul o „lipsă ostentativă de respect” față de Statele Unite.\n\n• **Un val ulterior de atacuri a ridicat riscul unui blackout**: Potrivit lui Zelenski, într-un interval de 12 ore Rusia a folosit peste 320 de drone, precum și rachete de croazieră și balistice; au fost lovite peste 15 instalații energetice critice. Președintele ucrainean afirmă că Moscova încearcă să paralizeze alimentarea cu electricitate și încălzire înainte de iarnă.\n\n• **Ucraina a reluat atacurile asupra rafinăriilor după trei zile de pauză**: Zelenski spune că Kievul a suspendat loviturile la solicitarea SUA, în timp ce Rusia a continuat atacurile asupra țintelor energetice ucrainene. Un atac cu drone ucrainene a provocat un incendiu la rafinăria din Reazan, care reprezintă aproape 5% din capacitatea totală de rafinare a Rusiei; amploarea pagubelor era în curs de evaluare.\n\n• **Trump a numit „o rușine” reluarea atacurilor**: El a spus că Ucraina ar trebui să aleagă alte ținte și că este mai dificil să lucreze cu Zelenski decât cu Putin. A afirmat, de asemenea, că nu îl place pe liderul ucrainean și a pus creșterea prețurilor mondiale la petrol pe seama atacurilor Ucrainei.\n\n• **Kremlinul acuză Kievul că sabotează eforturile de pace**: Dmitri Peskov a afirmat că atacurile ucrainene asupra rafinăriilor rusești contravin eforturilor americane de pace și l-a învinuit personal pe Zelenski. Moscova a susținut, de asemenea, că loviturile ucrainene subminează armistițiul energetic.\n\n• **Acordul privind motorina ar putea avea un efect limitat asupra prețurilor, dar o miză politică importantă**: Livrările anunțate urmau să înceapă cu peste 300.000 de tone, iar cantitatea totală a fost estimată la 4,8 milioane de tone. Analiștii consideră că efectul asupra prețurilor ar putea fi redus; războiul din Iran și perturbările din Strâmtoarea Ormuz sunt factori mai importanți. Motorina în SUA a ajuns la 6,28 dolari pe galon, cu 72% peste nivelul din aceeași perioadă a anului precedent.\n\n• **Acordul a fost prezentat drept o modalitate de relansare a negocierilor**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner au susținut la întâlnirea de la Miami că exporturile rusești de motorină ar putea semnala disponibilitatea SUA de a coopera și ar putea readuce Moscova la masa negocierilor. Au fost discutate și garanții de securitate și reconstrucția Ucrainei, dar nu s-a ajuns la un acord; sursele au spus că Kievul nu a fost amenințat cu retragerea sprijinului american.\n\n• **Doisprezece senatori au cerut anularea acordului**: Cei șase democrați și șase republicani susțin că înțelegerea ar avea un efect minim asupra prețurilor la combustibil, dar ar aduce venituri Moscovei. Ei i-au cerut lui Trump să anuleze acordul și Licența generală nr. 135 și să aplice prevederile legii de sancționare a Rusiei susținute de Lindsey Graham în 2026.\n\n• **Trump a suspendat majoritatea măsurilor de sancționare adoptate de Congres**: În decretul emis vineri, el a justificat decizia prin „interesul național” al Statelor Unite. Legea Congresului permitea măsuri împotriva oficialilor și băncilor rusești, a „flotei-fantomă” și tarife asupra marilor cumpărători de petrol și gaze rusești.\n\n• **Moscova speră la noi acorduri economice**: Kirill Dmitriev a spus că înțelegerea privind motorina ar putea deveni un model pentru alte acorduri economice și de investiții ruso-americane. Aleksandr Novak a vorbit despre revenirea la exporturi de 3–3,5 milioane de tone pe lună.\n\n• **Zelenski spune că s-a simțit trădat de schimbarea lui Trump**: Președintele ucrainean a afirmat că este dureros că Trump a ales tabăra adversă și că regretă pierderea unui partener puternic. El consideră acordul privind motorina o victorie pentru Putin și spune că Statele Unite nu se află „de partea corectă a istoriei”.\n\n• **Schimbul de informații și comunicațiile au devenit parte a disputei**: Zelenski a spus că oficiali militari ucraineni au fost avertizați că schimbul de informații ar putea fi restricționat dacă atacurile asupra rafinăriilor continuă. El a mai afirmat că Ucraina nu a primit avertizări timpurii privind rachetele balistice rusești, iar încetinirea Starlink a perturbat operațiuni militare; Trump a negat că Casa Albă ar fi restricționat serviciul, iar Elon Musk a spus că guvernul american controlează sistemele militare Starshield.\n\n• **Zelenski condiționează armistițiul de reciprocitate și de ajutor antiaerian**: Potrivit președintelui ucrainean, Kievul ar opri atacurile asupra țintelor energetice rusești doar dacă Moscova își oprește atacurile. Ulterior, el a indicat furnizarea unor interceptoare Patriot suplimentare drept condiție minimă.\n\n• **Un armistițiu total de 60 de zile ar putea permite organizarea alegerilor**: Trump a cerut un nou lider ucrainean capabil să ajungă la un acord. Zelenski a răspuns că Ucraina poate organiza alegeri dacă Rusia acceptă o încetare totală a focului timp de 60 de zile. Printre potențialii candidați menționați se numără Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko.\n\n• **Meloni a numit acordul riscant și a cerut o reprezentare europeană la negocieri**: Premierul italian spune că înțelegerea oferă Moscovei legitimitate și venituri, slăbind sancțiunile. Ea a propus ca UE să acorde un mandat oficial unui reprezentant european, eventual grupului E3; liderii europeni au cerut și menținerea sancțiunilor și combaterea atacurilor hibride rusești.\n\n• **Ucraina ar putea muta presiunea către alte ținte economice rusești**: Potrivit unei analize din The Atlantic, dronele ucrainene au vizat aeroporturi și centre de date din Rusia. Aeroporturile din Moscova au anulat 345 de zboruri într-o săptămână, iar cel puțin patru centre de date au fost atacate din 8 octombrie. Analiza avertizează că astfel de operațiuni pot provoca perturbări, dar nu sunt suficiente, singure, pentru a forța Kremlinul să accepte un armistițiu.\n\n• **Ucraina cere încă 70 de miliarde de euro de la UE pentru 2027**: Zelenski estimează costul războiului pentru anul viitor la 155 de miliarde de euro și spune că sunt necesare cel puțin 70 de miliarde pentru apărare, arme și menținerea rezistenței. Premierul Estoniei a evocat un nou împrumut european, iar liderii UE au cerut Comisiei să propună o finanțare suplimentară pentru Ucraina.\n\n• **Kievul se confruntă cu o alegere dificilă**: O confruntare deschisă cu Trump ar putea pune în pericol sprijinul militar și informațional american rămas, în timp ce acceptarea condițiilor Washingtonului ar putea slăbi securitatea Ucrainei. La Bruxelles, Zelenski a răspuns cu un zâmbet ironic când a fost întrebat dacă a devenit țap ispășitor pentru problemele interne ale lui Trump."
+  },
+  {
+    "group_id": "group_74f1d6e7a0",
+    "fingerprint": "1df569fd12c064ecf12c31289427184c",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/masina-2-1024x614.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Mașină de lux, căutată în Suedia, descoperită în Portul Constanța. Unde urma să ajungă autoturismul de 70.000 de euro",
+        "link": "https://www.mediafax.ro/social/masina-de-lux-cautata-in-suedia-descoperita-in-portul-constanta-unde-urma-sa-ajunga-autoturismul-de-70-000-de-euro-23827082"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Mașină de lux de 70.000 de euro, căutată în Suedia, descoperită în Portul Constanța. Unde urma să ajungă",
+        "link": "https://adevarul.ro/stiri-interne/societate/masina-de-lux-de-70000-de-euro-cautata-in-2564669.html"
+      }
+    ],
+    "published_at": 1792232697,
+    "title_hu": "Svédország által keresett, 70 ezer eurós luxusautót találtak a konstancai kikötőben",
+    "lead_hu": "A román határőrök október 16-án a konstancai kikötő Constanța Sud–Agigea határátkelőhelyén egy, a svéd hatóságok által elkobzásra keresett, mintegy 70 ezer eurót érő luxusautót találtak. A járművet Georgiába akarták exportálni; lefoglalták, az ügyben büntetőeljárás indult.",
+    "content_hu": "• **Október 16-án, a Constanța Sud–Agigea határátkelőhelyen** a határőrök egy üzbég állampolgár által vezetett közúti szerelvény félpótkocsijában találták meg a luxusautót.\n\n• **A svéd hatóságok** nyilvántartása szerint a jármű elkobzás céljából keresett volt; értékét mintegy 70 ezer euróra becsülték.\n\n• **Az autót Georgiába** akarták szállítani egy RO-RO típusú hajóval, amelyet áruk szállítására, rámpás be- és kirakodásra alakítottak ki.\n\n• **A határőrség lefoglalta a járművet**, és büntetőeljárást indított tăinuire, vagyis orgazdaság gyanúja miatt, a román büntető törvénykönyv 270. cikkének (1) bekezdése alapján.",
+    "title_ro": "Mașină de lux de 70.000 de euro, căutată în Suedia, descoperită în Portul Constanța",
+    "lead_ro": "Polițiștii de frontieră au descoperit, pe 16 octombrie, la Punctul de Trecere a Frontierei Constanța Sud–Agigea, un autoturism de lux evaluat la aproximativ 70.000 de euro și căutat de autoritățile suedeze în vederea confiscării. Mașina urma să fie exportată în Georgia; a fost indisponibilizată, iar în acest caz a fost deschis un dosar penal.",
+    "content_ro": "• **Pe 16 octombrie, la Punctul de Trecere a Frontierei Constanța Sud–Agigea**, polițiștii de frontieră au găsit autoturismul de lux în semiremorca unui ansamblu rutier condus de un cetățean uzbek.\n\n• **Autoritățile suedeze** semnalaseră autoturismul în vederea confiscării; valoarea acestuia a fost estimată la aproximativ 70.000 de euro.\n\n• **Mașina urma să fie exportată în Georgia** cu o navă de tip RO-RO, folosită pentru transportul mărfurilor și prevăzută cu rampe de încărcare și descărcare.\n\n• **Polițiștii de frontieră au indisponibilizat autoturismul** și au deschis un dosar penal pentru tăinuire, infracțiune prevăzută la articolul 270, alineatul (1), din Codul penal."
+  },
+  {
+    "group_id": "group_c2ce22e812",
+    "fingerprint": "622a5034638de0f477793a77d8bf6e3c",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
+        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
+      },
+      {
+        "source": "G4Media",
+        "title": "O nouă zi de proteste ale elevilor în Franța: aproximativ 480.000 de participanți, potrivit organizatorilor",
+        "link": "https://www.g4media.ro/o-noua-zi-de-proteste-ale-elevilor-in-franta-aproximativ-480-000-de-participanti-potrivit-organizatorilor.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Vestele Galbene, mişcarea socială de amploare din Franţa din anii 2018 şi 2019, şi liceenii organizează o mie de acţiuni comune de protest sâmbătă faţă de creşterea costului vieţii",
+        "link": "https://www.g4media.ro/vestele-galbene-miscarea-sociala-de-amploare-din-franta-din-anii-2018-si-2019-si-liceenii-organizeaza-o-mie-de-actiuni-comune-de-protest-sambata-fata-de-cresterea-costului-vietii.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Proteste de amploare în Franța. Zeci de mii de oameni ies în stradă, iar „Vestele Galbene” revin în prim-plan",
+        "link": "https://stirileprotv.ro/stiri/international/proteste-de-amploare-in-franta-zeci-de-mii-de-oameni-ies-in-strada-iar-vestele-galbene-revin-in-prim-plan.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
+        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Stare de alertă în Franța: Zeci de mii de oameni ies azi în 500 de proteste împotriva costului vieții / Autoritățile se tem de violențe",
+        "link": "https://hotnews.ro/stare-de-alerta-in-franta-zeci-de-mii-de-oameni-ies-azi-in-500-de-proteste-impotriva-costului-vietii-autoritatile-se-tem-de-violente-2378558"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Protestele elevilor din Franța iau amploare. Creșterea costului vieții scoate noi manifestanți în stradă",
+        "link": "https://www.mediafax.ro/externe/protestele-elevilor-din-franta-iau-amploare-cresterea-costului-vietii-scoate-noi-manifestanti-in-strada-23827129"
+      },
+      {
+        "source": "Digi24",
+        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
+        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
+      }
+    ],
+    "published_at": 1792232472,
+    "title_hu": "A francia diáktiltakozások a megélhetési válsággal és a Sárga Mellényesek mozgalmával kapcsolódnak össze",
+    "lead_hu": "A szervezők szerint mintegy 480 ezren vettek részt a francia középiskolások keddi országos tiltakozásán, amely jobb iskolai finanszírozást, több tanárt és kedvezőbb tanulási feltételeket követel. Szombaton diákok, szakszervezetek és a Sárga Mellényesek a megélhetési költségek emelkedése ellen is utcára vonultak; a hatóságok előzetesen több tízezer résztvevőre és erőszakos incidensekre számítottak.",
+    "content_hu": "• **Mintegy 480 ezren tüntettek kedden Franciaországban** a középiskolások tiltakozási hullámának ötödik országos mobilizációs napján – közölte a diák- és diákszervezetek szakszervezeti tömörülése. Az előző keddi demonstráción a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt számoltak.\n\n• **A diákok jobb finanszírozást, több tanárt és kedvezőbb tanulási feltételeket követelnek.** A szeptember 17-én, Párizs térségében indult mozgalom országossá vált, és diákok, valamint egyes szakszervezetek is támogatják.\n\n• **Kedden 214 középiskola zárt be**, míg egy héttel korábban 800 intézmény volt zárva; az oktatási minisztérium szerint az iskolák 94,2 százaléka nyitva maradt.\n\n• **A tiltakozások idején a parlament a költségvetési tervezetről vitázott.** A javaslat 43 milliárd eurót irányoz elő a pénzügyek rendezését célzó intézkedésekre, miközben az államadósság a GDP 112 százalékát teszi ki.\n\n• **A keddi felvonulások többsége békés volt, de több városban könnygázt vetett be a rendőrség.** Párizsban, Lyonban, Strasbourgban és Nantes-ban is alkalmaztak könnygázt; a főváros központjában autót gyújtottak fel, Lyonban pedig üzleteket és egy benzinkutat rongáltak meg, és rendőrökre is támadtak.\n\n• **A tiltakozások politikai bizonytalanságot és polarizációt erősítenek a hat hónapon belül esedékes elnökválasztás előtt.** A közvélemény-kutatásokban Marine Le Pen, a szélsőjobboldali Nemzeti Tömörülés jelöltje vezet.\n\n• **Jean-Luc Mélenchon, a radikális baloldali Engedetlen Franciaország (LFI) vezetője megjelent az egyik párizsi menetben.** Az X-en azzal vádolta a sajtót, hogy nem mutatja be a demonstrálókkal szembeni rendőri brutalitás valódi mértékét.\n\n• **Marine Le Pen a megrongált iskolák javítási költségeinek megtérítését követelte.** Azt mondta, a károkozóknak vagy szüleiknek kellene fizetniük; az ezt lehetővé tevő törvényjavaslat a parlament előtt van.\n\n• **Greta Thunberg klímaaktivista kedden egy Saint-Denis-i középiskolánál csatlakozott a diákokhoz.** A tiltakozók az oktatási feltételek javítása mellett a felsőoktatási felvételi rendszer, a Parcoursup ellen is felléptek.\n\n• **A Sárga Mellényesek, a diákmozgalmak és a szakszervezetek szombatra közös tiltakozásokat hirdettek.** A felhívások a megélhetési költségek és az üzemanyagárak emelkedése, az egyenlőtlenségek, az alacsony bérek és nyugdíjak, valamint a közszolgáltatások romlása ellen szólnak. A francia infláció szeptemberben éves alapon 3,1 százalékra emelkedett, ami 2024 januárja óta a legmagasabb érték.\n\n• **A benzin ára a beszámolók szerint literenként 2,20 euróra emelkedett.** A Sárga Mellényesek mozgalmának egyik korábbi résztvevője ezt azzal vetette össze, hogy 2018-as tiltakozásakor még 1,40 euróba került egy liter üzemanyag.\n\n• **A szombati akciókról eltérő számok jelentek meg:** egy közös online térkép több mint 1000, másik felhívás körülbelül 1500 tervezett akciót jelzett, míg a belügyminiszteri hivatal nagyjából 500 tervezett akcióról és több mint 90 demonstrációról számolt be. A rendőrségi becslés az ország többi részén 60–110 ezer, Párizsban pedig 30–60 ezer résztvevővel számolt; az online listák önmagukban nem jelzik a tényleges részvételt.\n\n• **Párizsban délelőtt 9:30-ig 40 embert vettek őrizetbe, 11 óráig pedig 61-re nőtt az előállítottak száma.** A rendőrség szerint az intézkedések főként tiltott fegyver vagy védőfelszerelés birtoklásával függtek össze; délelőtt 589 megelőző ellenőrzést is végeztek. Huszonöt metróállomást reggel nyolctól lezártak, két engedély nélküli menetet pedig feloszlattak.\n\n• **A párizsi rendőrség 21 embert vett őrizetbe a CNEWS és az Europe 1 szerkesztőségének is otthont adó épületnél történt incidensek után.** A beszámolók szerint köveket és más tárgyakat dobáltak, ablakokat törtek be és barikádokat borítottak fel.\n\n• **Lyonban üzletek bedeszkázták kirakataikat a korábbi zavargások után.** A hatóságok egy körülbelül százfős, általuk ellenségesnek nevezett csoport jelenlétéről számoltak be; egy 40 fős csoportot korábban a Guillotière hídnál, forgalomakadályozási kísérlet közben oszlattak fel.\n\n• **Szombaton Lyonban több száz, feketébe öltözött fiatal barikádokat állított fel, a rendőrség pedig csoportokat oszlatott fel.** A városban közel 300, a Lyon 3 egyetem előtt összegyűlt embert könnygázzal oszlattak fel.\n\n• **Marseille-ben tüntetők akadályozták a forgalmat a Canebière sugárúton, kukákat gyújtottak fel, és megtámadtak egy rendőrőrsöt.** A helyszínről szóló beszámolók betört ablakokról és az épületbe dobott füstgránátokról is szóltak; a Prado sugárutat is rövid időre eltorlaszolták.\n\n• **A tiltakozások kezdete óta 937 rendőr és csendőr sérült meg**, emellett 248 diák és 149 oktatási dolgozó is megsérült. A rendőri fellépés miatt 36 vizsgálat indult; a súlyos sérültek között van egy 14 éves, aki elveszítette a kezét, és egy 15 éves, aki gumilövedéktől elveszítette az egyik szemét.\n\n• **A kábító- és hanggránátok használatát felfüggesztették a diákok elleni fellépésben, de súlyos városi erőszak esetén ismét engedélyezhetik.** Laurent Nuñez belügyminiszter szerint összecsapások esetén köztes fegyvereket is bevethetnek. A rendőrség egyik szakszervezete panaszt jelentett be az állammal szemben, arra hivatkozva, hogy a rendőrök ellentmondásos utasítások mellett kerültek veszélybe.\n\n• **A kormány azzal vádolta az LFI-t, hogy szítja a tiltakozásokat; a párt visszautasította a vádat.** Sébastien Lecornu miniszterelnök a tiltakozási hullámot az elmúlt évtizedek egyik legerőszakosabbjának nevezte, Jordan Bardella, a Nemzeti Tömörülés vezetője pedig a káosz veszélyére figyelmeztetett.\n\n• **Emmanuel Macron nyugalomra és az emberek, illetve a tulajdon tiszteletben tartására szólított fel.** Azt mondta, elfogadhatatlan, ha valaki kizárólag azért vesz részt a tüntetéseken, hogy rombolást és zavargást okozzon.",
+    "title_ro": "Protestele elevilor din Franța se intersectează cu criza costului vieții și mișcarea Vestele Galbene",
+    "lead_ro": "Organizatorii afirmă că aproximativ 480.000 de persoane au participat marți la protestul național al liceenilor din Franța, care cer finanțare mai bună pentru școli, mai mulți profesori și condiții de studiu îmbunătățite. Sâmbătă, elevi, sindicate și membri ai mișcării Vestele Galbene au ieșit în stradă și împotriva creșterii costului vieții; autoritățile se așteptau la zeci de mii de participanți și la posibile violențe.",
+    "content_ro": "• **Aproximativ 480.000 de persoane au manifestat marți în Franța**, în a cincea zi națională de mobilizare a liceenilor, potrivit intersindicatei organizațiilor studențești și de liceeni. Marțea precedentă, autoritățile au numărat 266.000 de participanți, iar organizatorii 450.000.\n\n• **Elevii cer finanțare mai bună pentru licee, suplimentarea numărului de profesori și condiții de studiu îmbunătățite.** Mișcarea, începută pe 17 septembrie în regiunea pariziană, s-a extins în întreaga țară și este susținută de studenți și de unele sindicate.\n\n• **Marți au fost închise 214 licee**, față de 800 cu o săptămână înainte; Ministerul Educației a precizat că 94,2% dintre licee au rămas deschise.\n\n• **Protestele au avut loc în timp ce parlamentul dezbătea proiectul de buget.** Acesta prevede 43 de miliarde de euro pentru măsuri de redresare a finanțelor, în condițiile în care datoria publică ajunge la 112% din PIB.\n\n• **Majoritatea manifestațiilor de marți au fost pașnice, dar poliția a folosit gaze lacrimogene în mai multe orașe.** Acestea au fost utilizate la Paris, Lyon, Strasbourg și Nantes; în centrul Parisului a fost incendiată o mașină, iar la Lyon au fost vandalizate magazine și o benzinărie și au fost atacați polițiști.\n\n• **Protestele amplifică incertitudinea și polarizarea politică înaintea alegerilor prezidențiale, programate peste șase luni.** Marine Le Pen, candidata formațiunii de extremă dreapta Adunarea Națională, conduce în sondaje.\n\n• **Jean-Luc Mélenchon, liderul partidului de stânga radicală Franța Nesupusă (LFI), a participat la unul dintre marșurile din Paris.** Pe platforma X, el a acuzat presa că nu prezintă amploarea reală a brutalității poliției față de manifestanți.\n\n• **Marine Le Pen a cerut ca pagubele provocate liceelor să fie plătite de cei care le-au produs sau de părinții lor.** Un proiect de lege care ar permite acest lucru se află în parlament.\n\n• **Activista pentru climă Greta Thunberg li s-a alăturat marți elevilor la un liceu din Saint-Denis.** Pe lângă condițiile de învățare, protestatarii s-au mobilizat și împotriva sistemului de admitere în învățământul superior Parcoursup.\n\n• **Vestele Galbene, grupurile de elevi și sindicatele au organizat proteste comune sâmbătă.** Apelurile vizează costul vieții și creșterea prețurilor la combustibili, inegalitățile, salariile și pensiile mici și deteriorarea serviciilor publice. Inflația anuală din Franța a ajuns la 3,1% în septembrie, cel mai ridicat nivel din ianuarie 2024.\n\n• **Prețul benzinei a ajuns, potrivit relatărilor, la 2,20 euro pe litru.** Un fost participant la mișcarea Vestele Galbene a comparat suma cu prețul de 1,40 euro pe litru din perioada protestelor din 2018.\n\n• **Estimările privind acțiunile de sâmbătă au variat:** o hartă comună indica peste 1.000 de acțiuni, un alt apel aproximativ 1.500, iar biroul ministrului de Interne circa 500 de acțiuni planificate și peste 90 de manifestații. O estimare a poliției anticipa 60.000–110.000 de participanți în restul țării și 30.000–60.000 la Paris; listele online nu indică numărul real al celor care vor ieși în stradă.\n\n• **La Paris au fost efectuate 40 de arestări până la ora 9:30, iar numărul persoanelor reținute a ajuns la 61 până la ora 11:00.** Potrivit poliției, măsurile au vizat în principal posesia de arme sau echipamente de protecție interzise; au fost efectuate și 589 de controale preventive. Douăzeci și cinci de stații de metrou au fost închise de la ora 8:00, iar două marșuri neautorizate au fost dispersate.\n\n• **Poliția din Paris a reținut 21 de persoane după incidente în fața clădirii care găzduiește redacțiile CNEWS și Europe 1.** Potrivit relatărilor, protestatarii au aruncat cu obiecte, au spart geamuri și au răsturnat baricade.\n\n• **La Lyon, magazinele și-au baricadat vitrinele după incidentele anterioare.** Autoritățile au semnalat prezența unui grup de aproximativ o sută de persoane, descris drept ostil; anterior, un grup de 40 de persoane care încerca să blocheze traficul la podul Guillotière fusese dispersat.\n\n• **Sâmbătă, la Lyon, sute de tineri îmbrăcați în negru au ridicat baricade, iar poliția a dispersat grupuri de manifestanți.** Aproape 300 de persoane adunate în fața Universității Lyon 3 au fost dispersate cu gaze lacrimogene.\n\n• **La Marsilia, protestatarii au blocat traficul pe bulevardul Canebière, au incendiat pubele și au atacat o secție de poliție.** Relatările au menționat geamuri sparte și grenade fumigene aruncate în clădire; bulevardul Prado a fost, de asemenea, blocat temporar.\n\n• **De la începutul protestelor au fost răniți 937 de polițiști și jandarmi**, precum și 248 de elevi și 149 de angajați din învățământ. Au fost deschise 36 de anchete privind intervențiile poliției; printre victimele grav rănite se numără un adolescent de 14 ani care și-a pierdut o mână și unul de 15 ani care și-a pierdut un ochi după ce a fost lovit de un glonț de cauciuc.\n\n• **Folosirea grenadelor paralizante și asurzitoare împotriva elevilor a fost suspendată, dar ar putea fi autorizată din nou în cazul unor violențe urbane grave.** Ministrul de Interne Laurent Nuñez a declarat că, în cazul unor confruntări, pot fi folosite arme intermediare. Un sindicat al poliției a anunțat o plângere împotriva statului, susținând că polițiștii au fost puși în pericol prin ordine contradictorii.\n\n• **Guvernul a acuzat LFI că alimentează protestele, iar partidul a respins acuzația.** Premierul Sébastien Lecornu a descris valul de proteste drept unul dintre cele mai violente din ultimele decenii, în timp ce Jordan Bardella, liderul partidului Adunarea Națională, a avertizat asupra riscului de haos.\n\n• **Emmanuel Macron a făcut apel la calm și la respectarea persoanelor și a bunurilor.** Președintele a declarat că este inacceptabil ca cineva să participe la manifestații doar pentru a provoca distrugeri și tulburări."
+  },
+  {
+    "group_id": "group_8eff2eedbc",
+    "fingerprint": "8121ca2f5a456f5272436e476bf1058e",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/df3742f3-1eb9-4528-9e5c-b008c623ce2a.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Rol inedit pentru Jude Law: îl va interpreta pe legendarul antrenor",
+        "link": "https://www.gsp.ro/international/campionate/rol-inedit-pentru-jude-law-antrenor-liverpool-bill-shankly-989093.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Jude Law îl va interpreta pe Bill Shankly într-un serial monumental despre antrenorul care a schimbat istoria Liverpool",
+        "link": "https://www.mediafax.ro/life-entertaiment/jude-law-il-va-interpreta-pe-bill-shankly-intr-un-serial-monumental-despre-antrenorul-care-a-schimbat-istoria-liverpool-23827154"
+      }
+    ],
+    "published_at": 1792232416,
+    "title_hu": "Jude Law alakítja Bill Shanklyt a Liverpool legendás edzőjéről szóló sorozatban",
+    "lead_hu": "Jude Law játssza Bill Shanklyt egy készülő sorozatban, amely az edző Liverpoolra és a város közösségére gyakorolt hatását mutatja be. A forgatókönyv első két epizódja elkészült, a sorozat megjelenési időpontját még nem jelentették be.",
+    "content_hu": "• **Jude Law** alakítja Bill Shanklyt, a Liverpool meghatározó edzőjét a róla készülő sorozatban. Law a Tottenham ismert szurkolója.\n\n• **A sorozat** a klub és a helyi közösség kapcsolatát, valamint Liverpool 1960-as évekbeli zenei és kulturális életét is bemutatja. A történet középpontjában Shankly öröksége áll, többek között az, ahogyan a „You’ll Never Walk Alone” a klub himnuszává vált.\n\n• **A produkció** első két epizódjának forgatókönyvét Jack Thorne írta. A forgatás Liverpoolban és az Anfield stadionban zajlik majd; Shankly unokahúga, Karen Gill is részt vesz a projektben. A sorozat premierjének időpontját még nem közölték.\n\n• **Bill Shankly** 1959 és 1974 között irányította a Liverpoolt. Vezetésével a csapat három bajnoki címet és két FA-kupát nyert, valamint elhódította az UEFA-kupát; Shankly 1981-ben, 68 évesen hunyt el.\n\n• **A sorozat folytatása** siker esetén az 1989-es hillsborough-i tragédiát is feldolgozhatja, amelyben 97 Liverpool-szurkoló vesztette életét. A klub vezetése televíziós csatornákkal és streamingplatformokkal kezdett tárgyalásokat.",
+    "title_ro": "Jude Law îl va interpreta pe Bill Shankly într-un serial despre legenda lui Liverpool",
+    "lead_ro": "Jude Law va juca rolul lui Bill Shankly într-un serial despre impactul antrenorului asupra clubului Liverpool și a comunității locale. Primele două episoade au fost scrise, însă data lansării nu a fost anunțată.",
+    "content_ro": "• **Jude Law** îl va interpreta pe Bill Shankly, antrenorul emblematic al lui Liverpool, în serialul dedicat acestuia. Law este cunoscut ca suporter al echipei Tottenham.\n\n• **Serialul** va prezenta relația dintre club și comunitatea locală, precum și viața muzicală și culturală a orașului Liverpool în anii 1960. Povestea va aborda moștenirea lui Shankly, inclusiv contribuția sa la transformarea piesei „You’ll Never Walk Alone” în imnul clubului.\n\n• **Producția** are primele două episoade scrise de Jack Thorne. Filmările sunt prevăzute în Liverpool și pe stadionul Anfield, iar Karen Gill, nepoata lui Shankly, este implicată în proiect. Data lansării nu a fost încă anunțată.\n\n• **Bill Shankly** a condus Liverpool între 1959 și 1974. În timpul mandatului său, echipa a câștigat trei titluri de campioană, două Cupe ale Angliei și Cupa UEFA; Shankly a murit în 1981, la 68 de ani.\n\n• **O eventuală continuare** ar putea aborda tragedia de la Hillsborough din 1989, în care au murit 97 de suporteri ai lui Liverpool. Conducerea clubului a început discuțiile cu televiziuni și platforme de streaming."
+  },
+  {
+    "group_id": "group_5bf2048ac3",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/74c50f36-ef99-4bd2-9a84-78a50b5a1aec.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Prim pas spre noua arenă » A început demolarea stadionului de tradiție din România",
+        "link": "https://www.gsp.ro/fotbal/liga-4/a-inceput-demolarea-stadionului-de-traditie-brasov-989107.html"
+      }
+    ],
+    "published_at": 1792232334,
+    "title_hu": "Prim pas spre noua arenă » A început demolarea stadionului de tradiție din România",
+    "lead_hu": "Demontarea stâlpilor instalației de nocturnă reprezintă primul pas tehnic în operațiunile de demolare demarate de Primăria Brașov la Stadionul „Tineretului”, în locul căruia se va ridica o nouă arenă …",
+    "content_hu": "Demontarea stâlpilor instalației de nocturnă reprezintă primul pas tehnic în operațiunile de demolare demarate de Primăria Brașov la Stadionul „Tineretului”, în locul căruia se va ridica o nouă arenă modernă. Pentru a permite demararea unei investiții majore coordonate de Compania Națională de Investiții, terenul va fi pregătit în vederea predării către constructor. FOTO. ...",
+    "title_ro": "Prim pas spre noua arenă » A început demolarea stadionului de tradiție din România",
+    "lead_ro": "Demontarea stâlpilor instalației de nocturnă reprezintă primul pas tehnic în operațiunile de demolare demarate de Primăria Brașov la Stadionul „Tineretului”, în locul căruia se va ridica o nouă arenă …",
+    "content_ro": "Demontarea stâlpilor instalației de nocturnă reprezintă primul pas tehnic în operațiunile de demolare demarate de Primăria Brașov la Stadionul „Tineretului”, în locul căruia se va ridica o nouă arenă modernă. Pentru a permite demararea unei investiții majore coordonate de Compania Națională de Investiții, terenul va fi pregătit în vederea predării către constructor. FOTO. ..."
+  },
+  {
+    "group_id": "group_53c4b66579",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/3eefd60c-82d2-4b11-9b6e-8f442aac0b25.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Fostul star al lui Real Madrid a venit să joace în România, dar a greșit orașul! Gafă monumentală",
+        "link": "https://www.gsp.ro/international/conference-league/universitatea-craiova-getafe-borja-mayoral-gafa-cracovia-989106.html"
+      }
+    ],
+    "published_at": 1792232318,
+    "title_hu": "Fostul star al lui Real Madrid a venit să joace în România, dar a greșit orașul! Gafă monumentală",
+    "lead_hu": "Integralist în Universitatea Craiova - Getafe 1-1, atacantul Borja Mayoral (29 de ani) și-a dat „check-in” din orașul greșit! Campioana României a început noul sezon de Conference League, faza princip…",
+    "content_hu": "Integralist în Universitatea Craiova - Getafe 1-1, atacantul Borja Mayoral (29 de ani) și-a dat „check-in” din orașul greșit! Campioana României a început noul sezon de Conference League, faza principală, primind vizita celor de la Getafe, locul 7 în Spania în precedenta stagiune. La echipa din preajma Madridului, atacantul Borja Mayoral a fost integralist. Vârful în vârstă de 29 de ani este una dintre vedetele echipei. ...",
+    "title_ro": "Fostul star al lui Real Madrid a venit să joace în România, dar a greșit orașul! Gafă monumentală",
+    "lead_ro": "Integralist în Universitatea Craiova - Getafe 1-1, atacantul Borja Mayoral (29 de ani) și-a dat „check-in” din orașul greșit! Campioana României a început noul sezon de Conference League, faza princip…",
+    "content_ro": "Integralist în Universitatea Craiova - Getafe 1-1, atacantul Borja Mayoral (29 de ani) și-a dat „check-in” din orașul greșit! Campioana României a început noul sezon de Conference League, faza principală, primind vizita celor de la Getafe, locul 7 în Spania în precedenta stagiune. La echipa din preajma Madridului, atacantul Borja Mayoral a fost integralist. Vârful în vârstă de 29 de ani este una dintre vedetele echipei. ..."
   },
   {
     "group_id": "group_0a7bff913c",
@@ -154,6 +478,27 @@
     "content_ro": "• **În zilele de 17 și 18 octombrie**, sunt așteptate ploi torențiale și vânt puternic în regiunea Istanbulului, iar autoritățile turce au emis cod roșu de vreme rea.\n\n• **Fenomenele prognozate** pot provoca inundații, alunecări de teren, blocaje rutiere, întreruperi ale transportului public și perturbări ale traficului pe cele două aeroporturi din Istanbul.\n\n• **Ministerul român de Externe** îi sfătuiește pe cetățenii români aflați în Istanbul sau care intenționează să călătorească acolo să respecte indicațiile autorităților turce și să evite deplasările neesențiale.\n\n• **Pasagerii cu zboruri spre Istanbul** sunt îndemnați să verifice în prealabil starea curselor la companiile aeriene sau pe site-urile oficiale ale celor două aeroporturi.\n\n• **Inundațiile care au precedat alerta** s-au soldat cu cel puțin trei morți și patru persoane dispărute; peste 2.700 de oameni blocați de ape au fost evacuați. La Aeroportul Istanbul, 51 de zboruri au fost redirecționate către alte aeroporturi, iar 19 au fost anulate."
   },
   {
+    "group_id": "group_6e97156b16",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/narcis-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Narcis Bujor a „muncit” din greu la Insula Iubirii: „Am ieșit obosit și fizic și psihic. A fost foarte epuizant”",
+        "link": "https://www.cancan.ro/narcis-bujor-a-muncit-din-greu-la-insula-iubirii-am-iesit-obosit-si-fizic-si-psihic-a-fost-foarte-epuizant-21531577"
+      }
+    ],
+    "published_at": 1792232123,
+    "title_hu": "Narcis Bujor a „muncit” din greu la Insula Iubirii: „Am ieșit obosit și fizic și psihic. A fost foarte epuizant”",
+    "lead_hu": "Narcis Bujor a fost una dintre surprizele actualului sezon Insula Iubirii. Fanele emisiunii au fost extrem de încântate să îl vadă, din nou, în postura de ispită. Iar spre deosebire de sezonul trecut,…",
+    "content_hu": "Narcis Bujor a fost una dintre surprizele actualului sezon Insula Iubirii. Fanele emisiunii au fost extrem de încântate să îl vadă, din nou, în postura de ispită. Iar spre deosebire de sezonul trecut, se pare că de această dată Narcis a „muncit” mult mai mult la Insula Iubirii. Concurentele din acest sezon nu l-au neglijat […]",
+    "title_ro": "Narcis Bujor a „muncit” din greu la Insula Iubirii: „Am ieșit obosit și fizic și psihic. A fost foarte epuizant”",
+    "lead_ro": "Narcis Bujor a fost una dintre surprizele actualului sezon Insula Iubirii. Fanele emisiunii au fost extrem de încântate să îl vadă, din nou, în postura de ispită. Iar spre deosebire de sezonul trecut,…",
+    "content_ro": "Narcis Bujor a fost una dintre surprizele actualului sezon Insula Iubirii. Fanele emisiunii au fost extrem de încântate să îl vadă, din nou, în postura de ispită. Iar spre deosebire de sezonul trecut, se pare că de această dată Narcis a „muncit” mult mai mult la Insula Iubirii. Concurentele din acest sezon nu l-au neglijat […]"
+  },
+  {
     "group_id": "group_33ccc6ecc6",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/olivia-steer.jpg-1200x675.jpeg",
@@ -175,37 +520,32 @@
     "content_ro": "Olivia Steer, fosta soție a lui Andi Moisecu, și rudele acesteia s-au luptat timp de șapte ani cu autoritățile localității Căuaș, din județul Satu Mare. În urmă cu două săptămâni, instanța a luat decizia definitivă, astfel că acum, angajații primăriei sunt nevoiți să îi ofere Oliviei o moștenire impresionantă. După șapte ani de procese și […]"
   },
   {
-    "group_id": "group_74f1d6e7a0",
-    "fingerprint": "9f8e4a19fa29f92a90b6ba2c6648460a",
+    "group_id": "group_33c7fc2c96",
+    "fingerprint": "659385f4569b2f2c042c8bae49beb7ca",
     "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/masina-2-1024x614.jpeg",
+    "image": "https://stirileprotv.ro/img/2023/10/01/210000/62391168.jpg?fm=jpg&q=80&fit=crop&crop=5950%2C3959%2C0%2C0&w=1280",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 2,
     "sources": [
       {
-        "source": "Mediafax",
-        "title": "Mașină de lux, căutată în Suedia, descoperită în Portul Constanța. Unde urma să ajungă autoturismul de 70.000 de euro",
-        "link": "https://www.mediafax.ro/social/masina-de-lux-cautata-in-suedia-descoperita-in-portul-constanta-unde-urma-sa-ajunga-autoturismul-de-70-000-de-euro-23827082"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Mașină de lux de 70.000 de euro, căutată în Suedia, descoperită în Portul Constanța. Unde urma să ajungă",
-        "link": "https://adevarul.ro/stiri-interne/societate/masina-de-lux-de-70000-de-euro-cautata-in-2564669.html"
-      },
-      {
         "source": "ProTV Stiri",
-        "title": "O mașină de lux de 70.000 de euro, căutată de autoritățile din Suedia, a fost descoperită în Constanța. Unde ar fi ajuns",
-        "link": "https://stirileprotv.ro/stiri/actualitate/o-masina-de-lux-de-70-000-de-euro-cautata-de-autoritatile-din-suedia-a-fost-descoperita-in-constanta-unde-ar-fi-ajuns.html"
+        "title": "Când trecem la ora de iarnă în 2026. Data la care se schimbă ceasurile în România",
+        "link": "https://stirileprotv.ro/divers/cand-trecem-la-ora-de-iarna-in-2026-data-la-care-se-schimba-ceasurile-in-romania.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Közeleg az óraátállítás ideje – Mikor váltunk téli időszámításra?",
+        "link": "https://maszol.ro/eletmod/Kozeleg-az-oraatallitas-ideje-Mikor-valtunk-teli-idoszamitasra"
       }
     ],
-    "published_at": 1792231771,
-    "title_hu": "Svéd hatóságok által keresett, 70 ezer eurós luxusautót találtak a konstancai kikötőben",
-    "lead_hu": "A román határőrség a konstancai kikötőben egy, a svéd hatóságok által elkobzásra keresett, mintegy 70 ezer eurót érő luxusautót talált. A járművet Georgiába akarták exportálni; az autót lefoglalták, az ügyben büntetőeljárás indult.",
-    "content_hu": "• **A konstancai kikötőben** a határőrök egy üzbég állampolgár által vezetett közúti szerelvény félpótkocsijában találták meg a luxusautót.\n\n• **A svéd hatóságok** nyilvántartása szerint a jármű elkobzás céljából keresett volt; értékét mintegy 70 ezer euróra becsülték.\n\n• **Az autót Georgiába** akarták szállítani egy RO-RO típusú hajóval, amelyet járművek és más áruk fel- és lerakodására alakítottak ki.\n\n• **A határőrség lefoglalta a járművet**, és büntetőeljárást indított orgazdaság gyanúja miatt.",
-    "title_ro": "Mașină de lux căutată de autoritățile suedeze, descoperită în Portul Constanța",
-    "lead_ro": "Polițiștii de frontieră au găsit în Portul Constanța un autoturism de lux, evaluat la aproximativ 70.000 de euro, căutat de autoritățile suedeze în vederea confiscării. Mașina urma să fie exportată în Georgia; a fost indisponibilizată, iar în acest caz a fost deschis un dosar penal.",
-    "content_ro": "• **În Portul Constanța**, polițiștii de frontieră au găsit autoturismul în semiremorca unui ansamblu rutier condus de un cetățean uzbek.\n\n• **Autoritățile suedeze** semnalaseră mașina în vederea confiscării; valoarea acesteia este estimată la aproximativ 70.000 de euro.\n\n• **Autoturismul urma să ajungă în Georgia**, fiind destinat transportului cu o navă de tip RO-RO, folosită pentru încărcarea și descărcarea vehiculelor și mărfurilor.\n\n• **Polițiștii de frontieră au indisponibilizat mașina** și au deschis un dosar penal pentru tăinuire."
+    "published_at": 1792231680,
+    "title_hu": "Október 25-én állunk át a téli időszámításra Romániában",
+    "lead_hu": "Romániában október utolsó vasárnapján véget ér a nyári időszámítás: 2026-ban az órákat október 24-ről 25-re virradó éjszaka kell visszaállítani. A digitális eszközök általában automatikusan frissülnek, a kézi órákat viszont külön kell átállítani.",
+    "content_hu": "• **2026. október 25-én** Románia visszatér a téli, vagyis standard időszámításhoz; az átállítás az október 24-ről 25-re virradó éjszaka történik.\n\n• **Hajnali 4 órakor** az órákat 3 órára kell visszaállítani, így az éjszaka egy órával hosszabb lesz. Az internethez csatlakozó telefonok és más eszközök rendszerint automatikusan frissülnek, az analóg órákat kézzel kell átállítani.\n\n• **Az átállás után** reggel később lesz világos, este pedig korábban sötétedik a kijelzett idő szerint. A szervezet alkalmazkodása több napig is eltarthat; a Maszol által idézett szakemberek szerint a változás hatása akár 7–10 napig fennmaradhat.\n\n• **Az Európai Unióban** továbbra is érvényben van az évi kétszeri óraátállítás rendszere, noha annak eltörléséről már évek óta vita folyik.",
+    "title_ro": "România trece la ora de iarnă pe 25 octombrie",
+    "lead_ro": "România revine la ora standard în ultima duminică din octombrie: în 2026, ceasurile se dau înapoi în noaptea de 24 spre 25 octombrie. Dispozitivele digitale se actualizează de regulă automat, în timp ce ceasurile analogice trebuie reglate manual.",
+    "content_ro": "• **Pe 25 octombrie 2026**, România revine la ora de iarnă, adică la ora standard; schimbarea are loc în noaptea de 24 spre 25 octombrie.\n\n• **La ora 4:00**, ceasurile se dau înapoi la 3:00, iar noaptea va fi cu o oră mai lungă. Telefoanele și alte dispozitive conectate la internet se actualizează, de regulă, automat; ceasurile analogice trebuie reglate manual.\n\n• **După schimbarea orei**, diminețile vor fi mai luminoase la aceeași oră afișată, iar seara se va întuneca mai devreme. Adaptarea organismului poate dura câteva zile; potrivit specialiștilor citați de Maszol, efectele schimbării pot persista 7–10 zile.\n\n• **În Uniunea Europeană**, sistemul schimbării orei de două ori pe an este încă în vigoare, deși eliminarea lui este discutată de mai mulți ani."
   },
   {
     "group_id": "group_4790a3890c",
@@ -729,27 +1069,6 @@
     "content_ro": "• **Aproximativ 45.000 de doze** din vaccinurile injectabile Vaxigrip și Influvac mai erau disponibile în farmaciile din țară; cea mai mare parte a stocurilor livrate în septembrie fusese deja consumată.\n\n• **Următoarea tranșă va începe să fie livrată săptămâna viitoare:** peste 350.000 de doze dintr-un vaccin injectabil vor fi distribuite mai întâi, urmate de alte 250.000 de doze din celălalt produs, disponibile până la sfârșitul lunii octombrie.\n\n• **Dintre cele patru vaccinuri autorizate**, Fluenz, administrat intranazal copiilor și adolescenților, și Efluelda, destinat persoanelor de peste 60 de ani, sunt disponibile în cantități suficiente în farmacii și la distribuitori, potrivit ministerului.\n\n• **Până la 11 octombrie, 256.000 de persoane** se vaccinaseră împotriva gripei sezoniere în România. Autoritățile spun că pentru sezonul 2026–2027 țării i-au fost alocate cantități mai mari decât cele utilizate în sezonul precedent.\n\n• **ANMDMR a colaborat cu trei producători** pentru pregătirea livrărilor suplimentare. Producția și controlul calității vaccinurilor presupun cerințe speciale, iar cantitățile alocate fiecărei țări sunt stabilite în avans.\n\n• **Livrările se fac în trei tranșe:** potrivit ProTV, prima tranșă, sosită în septembrie, a fost cea mai mică. Ministerul recomandase începerea campaniei de vaccinare la 1 octombrie.\n\n• **În farmaciile din București, potrivit verificărilor HotNews,** peste 15 unități aparținând unor lanțuri diferite nu aveau niciun fel de vaccin antigripal, inclusiv Fluenz și Efluelda. Situația diferă de raportarea națională a ministerului; unele farmacii au spus că dozele primite s-au epuizat în două zile, iar următoarele stocuri erau așteptate după 20 octombrie sau spre sfârșitul lunii.\n\n• **Raportarea stocurilor din 15 octombrie** precizează că farmaciile se aprovizionează direct de la furnizori, prin circuitul obișnuit al medicamentelor.\n\n• **Procedura de eliberare și administrare** presupune rețetă medicală pentru vaccinurile compensate: doza se ridică din farmacie și, de regulă, se duce la cabinetul medical pentru administrare. Persoanele care nu beneficiază de compensare îl pot cumpăra fără rețetă, la preț întreg; numai puține farmacii îl administrează pe loc. Rețeta poate fi eliberată atât de medicul de familie, cât și de un medic specialist.\n\n• **Prețul și compensarea vaccinului:** potrivit HotNews, o doză costă aproximativ 80 de lei pentru persoanele fără drept la compensare, iar persoanele între 45 și 65 de ani fără boli cronice beneficiază de compensare de 50%. Procedura de ridicare a vaccinului din farmacie este în vigoare pentru al patrulea an consecutiv, în 2026.\n\n• **Primul deces confirmat** a fost al unui bărbat nevaccinat din județul Cluj, cu boli cronice. Sursele indică vârste diferite: Maszol îl descrie ca având peste 65 de ani, iar Digi24 ca având sub 65 de ani.\n\n• **În săptămâna precedentă au fost raportate 82.363 de infecții respiratorii** în România, dintre care 201 cazuri de gripă clinică și 12 confirmate în laborator. La persoana decedată a fost identificată tulpina gripală A.\n\n• **Sezonul gripal a început mai devreme decât în anii precedenți:** un medic intervievat de Digi24 a spus că au existat cazuri de gripă încă din septembrie. Până în prezent, nu a fost semnalată o tulpină nouă.\n\n• **Medicii recomandă vaccinarea cât mai rapidă și consultarea medicului:** specialistul în boli infecțioase intervievat de Digi24 spune că medicul de familie poate îndruma pacienții spre tipul potrivit de vaccin; pentru vârstnici poate fi indicat vaccinul cu doză mai mare de antigen, iar pentru copii, cel intranazal. Medicul poate evalua simptomele și decide dacă este necesară îndrumarea către spital. Gripa, a subliniat specialistul, nu este doar o viroză respiratorie, ci o boală sistemică ce poate evolua grav."
   },
   {
-    "group_id": "group_8eff2eedbc",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/df3742f3-1eb9-4528-9e5c-b008c623ce2a.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Rol inedit pentru Jude Law: îl va interpreta pe legendarul antrenor",
-        "link": "https://www.gsp.ro/international/campionate/rol-inedit-pentru-jude-law-antrenor-liverpool-bill-shankly-989093.html"
-      }
-    ],
-    "published_at": 1792230559,
-    "title_hu": "Rol inedit pentru Jude Law: îl va interpreta pe legendarul antrenor",
-    "lead_hu": "Cunoscutul actor Jude Law (53 de ani) va interpreta rolul lui Bill Shankly, unul dintre cei mai reprezentativi antrenori din istoria lui Liverpool, într-un serial despre impactul acestuia asupra echip…",
-    "content_hu": "Cunoscutul actor Jude Law (53 de ani) va interpreta rolul lui Bill Shankly, unul dintre cei mai reprezentativi antrenori din istoria lui Liverpool, într-un serial despre impactul acestuia asupra echipei și comunității locale. Data de lansare a serialului nu a fost anunțată, dar scenariul pentru primele două episoade a fost deja scris. ...",
-    "title_ro": "Rol inedit pentru Jude Law: îl va interpreta pe legendarul antrenor",
-    "lead_ro": "Cunoscutul actor Jude Law (53 de ani) va interpreta rolul lui Bill Shankly, unul dintre cei mai reprezentativi antrenori din istoria lui Liverpool, într-un serial despre impactul acestuia asupra echip…",
-    "content_ro": "Cunoscutul actor Jude Law (53 de ani) va interpreta rolul lui Bill Shankly, unul dintre cei mai reprezentativi antrenori din istoria lui Liverpool, într-un serial despre impactul acestuia asupra echipei și comunității locale. Data de lansare a serialului nu a fost anunțată, dar scenariul pentru primele două episoade a fost deja scris. ..."
-  },
-  {
     "group_id": "group_b86fc6907f",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2026/05/8126581-Mediafax_Foto-DPA_Hepta.jpg",
@@ -790,54 +1109,6 @@
     "title_ro": "Mihai Chirica, atac la PNL Iași după ce filiala a anunțat că nu susține Guvernul Niculescu: „Blochează orice șansă de stabilizare a țării”",
     "lead_ro": "Primarul municipiului Iași, Mihai Chirica, a reclamat sâmbătă că „PNL Iaşi blochează orice şansă de stabilizare a ţării”, după decizia filialei de a nu susține învestirea guvernului condus de Luca Nic…",
     "content_ro": "Primarul municipiului Iași, Mihai Chirica, a reclamat sâmbătă că „PNL Iaşi blochează orice şansă de stabilizare a ţării”, după decizia filialei de a nu susține învestirea guvernului condus de Luca Niculescu. Edilul l-a acuzat pe liderul organizaţiei Alexandru Muraru că trăieşte „complet izolat de lumea reală” și că „joacă politic pe umerii unei ţări aflate …"
-  },
-  {
-    "group_id": "group_c2ce22e812",
-    "fingerprint": "473dd37f002d6018834671a70478b9fb",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
-      },
-      {
-        "source": "G4Media",
-        "title": "Vestele Galbene, mişcarea socială de amploare din Franţa din anii 2018 şi 2019, şi liceenii organizează o mie de acţiuni comune de protest sâmbătă faţă de creşterea costului vieţii",
-        "link": "https://www.g4media.ro/vestele-galbene-miscarea-sociala-de-amploare-din-franta-din-anii-2018-si-2019-si-liceenii-organizeaza-o-mie-de-actiuni-comune-de-protest-sambata-fata-de-cresterea-costului-vietii.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Proteste de amploare în Franța. Zeci de mii de oameni ies în stradă, iar „Vestele Galbene” revin în prim-plan",
-        "link": "https://stirileprotv.ro/stiri/international/proteste-de-amploare-in-franta-zeci-de-mii-de-oameni-ies-in-strada-iar-vestele-galbene-revin-in-prim-plan.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
-        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Stare de alertă în Franța: Zeci de mii de oameni ies azi în 500 de proteste împotriva costului vieții / Autoritățile se tem de violențe",
-        "link": "https://hotnews.ro/stare-de-alerta-in-franta-zeci-de-mii-de-oameni-ies-azi-in-500-de-proteste-impotriva-costului-vietii-autoritatile-se-tem-de-violente-2378558"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Protestele elevilor din Franța iau amploare. Creșterea costului vieții scoate noi manifestanți în stradă",
-        "link": "https://www.mediafax.ro/externe/protestele-elevilor-din-franta-iau-amploare-cresterea-costului-vietii-scoate-noi-manifestanti-in-strada-23827129"
-      }
-    ],
-    "published_at": 1792230197,
-    "title_hu": "A francia diáktiltakozások a megélhetési válság és a Sárga Mellényesek mozgalmával kapcsolódnak össze",
-    "lead_hu": "A szervezők szerint mintegy 480 ezren vettek részt a francia középiskolások keddi országos tiltakozásán, amely jobb iskolai finanszírozást, több tanárt és kedvezőbb tanulási feltételeket követel. Szombaton diákok, szakszervezetek és a Sárga Mellényesek a megélhetési költségek emelkedése ellen is utcára hívták az embereket; Párizsban délelőtt 40 őrizetbe vétel történt, majd 11 óráig 61-re nőtt az előállítottak száma.",
-    "content_hu": "• **Mintegy 480 ezren tüntettek kedden Franciaországban** a középiskolások tiltakozási hullámának ötödik országos mobilizációs napján – közölte a diák- és diákszervezetek szakszervezeti tömörülése. Az előző keddi demonstráción a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt számoltak.\n\n• **A diákok jobb finanszírozást, több tanárt és kedvezőbb tanulási feltételeket követelnek.** A szeptember 17-én, Párizs térségében indult mozgalom országossá vált, és diákok, valamint egyes szakszervezetek is támogatják.\n\n• **Kedden 214 középiskola zárt be**, míg egy héttel korábban 800 intézmény volt zárva; az oktatási minisztérium szerint az iskolák 94,2 százaléka nyitva maradt.\n\n• **A tiltakozások idején a parlament a költségvetési tervezetről vitázott.** A javaslat 43 milliárd eurót irányoz elő a pénzügyek rendezését célzó intézkedésekre, miközben az államadósság a GDP 112 százalékát teszi ki.\n\n• **A keddi felvonulások többsége békés volt, de több városban könnygázt vetett be a rendőrség.** Párizsban, Lyonban, Strasbourgban és Nantes-ban is alkalmaztak könnygázt; a főváros központjában autót gyújtottak fel, Lyonban pedig üzleteket és egy benzinkutat rongáltak meg, és rendőrökre is támadtak.\n\n• **A tiltakozások az elnökválasztás előtt politikai bizonytalanságot és polarizációt erősítenek.** A választás hat hónapon belül esedékes; a közvélemény-kutatásokban Marine Le Pen, a szélsőjobboldali Nemzeti Tömörülés jelöltje vezet.\n\n• **Jean-Luc Mélenchon, a radikális baloldali Engedetlen Franciaország (LFI) vezetője megjelent az egyik párizsi menetben.** Az X-en azzal vádolta a sajtót, hogy nem mutatja be a demonstrálókkal szembeni rendőri brutalitás valódi mértékét.\n\n• **Marine Le Pen a megrongált iskolák javítási költségeinek megtérítését követelte.** Azt mondta, a károkozóknak vagy szüleiknek kellene fizetniük; az ezt lehetővé tevő törvényjavaslat a parlament előtt van.\n\n• **A Sárga Mellényesek és a diákmozgalmak szombatra közös tiltakozásokat hirdettek.** A felhívások a megélhetési költségek és az üzemanyagárak emelkedése, az egyenlőtlenségek, az alacsony bérek és nyugdíjak, valamint a közszolgáltatások romlása ellen szólnak. A francia infláció szeptemberben éves alapon 3,1 százalékra emelkedett, ami 2024 januárja óta a legmagasabb érték.\n\n• **A szombati akciókról eltérő számok jelentek meg:** egy közös online térkép több mint 1000, másik felhívás körülbelül 1500 tervezett akciót jelzett, míg a belügyminiszteri hivatal nagyjából 500 tervezett akcióról és több mint 90 demonstrációról számolt be. Az online listák nem mutatják meg, hányan vesznek majd részt ténylegesen.\n\n• **Párizsban délelőtt 9:30-ig 40 embert vettek őrizetbe, 11 óráig pedig 61-re nőtt az előállítottak száma.** A rendőrség szerint az őrizetbe vételek főként tiltott fegyver vagy védőfelszerelés birtoklásával függtek össze; délelőtt 589 megelőző ellenőrzést is végeztek. Huszonöt metróállomást reggel nyolctól lezártak, két engedély nélküli menetet pedig feloszlattak.\n\n• **Lyonban üzletek bedeszkázták kirakataikat a korábbi zavargások után.** A szombati akciók előtt a rendőrség egy körülbelül százfős, „ellenségesnek” nevezett csoport jelenlétéről számolt be; korábban egy 40 fős csoportot oszlattak fel, amely a Guillotière hídnál próbálta akadályozni a forgalmat.\n\n• **Párizsban a CNEWS és az Europe 1 szerkesztőségének otthont adó épületnél is incidensek történtek.** A beszámolók szerint köveket dobtak, ablakokat törtek be és barikádokat borítottak fel; a rendőrség 21 embert vett őrizetbe.\n\n• **A tiltakozások kezdete óta 937 rendőr és csendőr sérült meg**, emellett 248 diák és 149 oktatási dolgozó is megsérült a HotNews által közölt adatok szerint. A rendőri fellépés miatt 36 vizsgálat indult; a súlyos sérültek között van egy 14 éves, aki elveszítette a kezét, és egy 15 éves, aki gumilövedéktől elveszítette az egyik szemét.\n\n• **A kábító- és hanggránátok használatát felfüggesztették a diákok elleni fellépésben, de súlyos városi erőszak esetén ismét engedélyezhetik.** Laurent Nuñez belügyminiszter erre figyelmeztetett; a rendőrség egyik szakszervezete pedig panaszt jelentett be az állammal szemben, arra hivatkozva, hogy a rendőrök ellentmondásos utasítások mellett kerültek veszélybe.\n\n• **Emmanuel Macron nyugalomra és a személyek, illetve a tulajdon tiszteletben tartására szólított fel.** Sébastien Lecornu miniszterelnök a tiltakozási hullámot az elmúlt évtizedek egyik legerőszakosabbjának nevezte, a kormány pedig attól tart, hogy a szombati megmozdulások tovább fokozzák az erőszakot.",
-    "title_ro": "Protestele elevilor din Franța se alătură nemulțumirilor privind costul vieții și mișcării Vestelor Galbene",
-    "lead_ro": "Potrivit organizatorilor, aproximativ 480.000 de persoane au participat marți la mobilizarea națională a liceenilor din Franța, care cer finanțare mai bună pentru școli, mai mulți profesori și condiții de studiu îmbunătățite. Sâmbătă, elevi, sindicate și membri ai Vestelor Galbene au chemat la proteste împotriva creșterii costului vieții; la Paris au fost efectuate 40 de arestări până la ora 9:30, iar numărul persoanelor reținute a ajuns la 61 până la ora 11:00.",
-    "content_ro": "• **Aproximativ 480.000 de persoane au manifestat marți în Franța** în cea de-a cincea zi națională de mobilizare a liceenilor, potrivit organizației sindicale a studenților și elevilor de liceu. La demonstrația de marțea trecută, autoritățile au estimat 266.000 de participanți, iar organizatorii, 450.000.\n\n• **Elevii cer finanțare mai bună, mai mulți profesori și condiții de studiu îmbunătățite.** Mișcarea, începută pe 17 septembrie în regiunea Parisului, s-a extins la nivel național și este susținută de studenți și de unele sindicate.\n\n• **Marți au fost închise 214 licee**, față de 800 cu o săptămână înainte; potrivit Ministerului Educației, 94,2% dintre licee au rămas deschise.\n\n• **Protestele au avut loc în timp ce parlamentul dezbătea proiectul de buget.** Acesta prevede 43 de miliarde de euro pentru măsuri de redresare a finanțelor, în condițiile în care datoria publică reprezintă 112% din PIB.\n\n• **Majoritatea marșurilor de marți au fost pașnice, dar poliția a folosit gaze lacrimogene în mai multe orașe.** Acestea au fost folosite la Paris, Lyon, Strasbourg și Nantes; în centrul capitalei a fost incendiată o mașină, iar la Lyon au fost vandalizate magazine și o benzinărie și au fost atacați polițiști.\n\n• **Protestele amplifică incertitudinea și polarizarea politică înaintea alegerilor prezidențiale.** Scrutinul este așteptat în șase luni, iar Marine Le Pen, candidata partidului de extremă dreaptă Adunarea Națională, conduce în sondaje.\n\n• **Jean-Luc Mélenchon, liderul formațiunii de stânga radicală La France insoumise (LFI), a participat la unul dintre marșurile din Paris.** Pe platforma X, el a acuzat presa că nu reflectă amploarea reală a brutalității poliției împotriva manifestanților.\n\n• **Marine Le Pen a cerut ca pagubele provocate liceelor să fie plătite de cei care le-au avariat sau de părinții lor.** Un proiect de lege care ar permite acest lucru se află în prezent în parlament.\n\n• **Vestele Galbene și mișcările elevilor au anunțat proteste comune pentru sâmbătă.** Apelurile vizează creșterea costului vieții și a prețurilor la combustibili, inegalitățile, salariile și pensiile mici, precum și deteriorarea serviciilor publice. Inflația anuală din Franța a ajuns la 3,1% în septembrie, cel mai ridicat nivel din ianuarie 2024.\n\n• **Estimările privind acțiunile de sâmbătă sunt diferite:** o hartă online comună indica peste 1.000, iar un alt apel aproximativ 1.500 de acțiuni planificate; biroul ministrului de Interne a menționat circa 500 de acțiuni și peste 90 de manifestații. Listele online nu arată câți oameni vor participa efectiv.\n\n• **La Paris au fost efectuate 40 de arestări până la ora 9:30 și 61 până la ora 11:00.** Potrivit poliției, majoritatea au fost pentru port de arme sau echipament de protecție interzise; au fost efectuate și 589 de controale preventive. 25 de stații de metrou au fost închise începând cu ora 8:00, iar două marșuri neautorizate au fost dispersate.\n\n• **La Lyon, magazinele și-au baricadat vitrinele după incidentele anterioare.** Înaintea acțiunilor de sâmbătă, poliția a semnalat prezența unui grup de aproximativ o sută de persoane descris drept „ostil”; anterior, a dispersat un grup de 40 de persoane care încerca să blocheze traficul la podul Guillotière.\n\n• **La Paris au avut loc incidente în apropierea sediului care găzduiește redacțiile CNEWS și Europe 1.** Potrivit relatărilor, au fost aruncate proiectile, au fost sparte geamuri și răsturnate bariere; poliția a arestat 21 de persoane.\n\n• **De la începutul protestelor au fost răniți 937 de polițiști și jandarmi**, precum și 248 de elevi și 149 de angajați din învățământ, potrivit datelor citate de HotNews. Au fost deschise 36 de anchete privind presupuse violențe ale poliției; printre răniții grav se numără un adolescent de 14 ani care și-a pierdut o mână și unul de 15 ani care și-a pierdut un ochi după ce a fost lovit de un glonț de cauciuc.\n\n• **Folosirea grenadelor asurzitoare și paralizante a fost suspendată în intervențiile împotriva elevilor, dar ar putea fi din nou permisă în caz de violențe urbane grave.** Ministrul de Interne Laurent Nuñez a avertizat în acest sens; un sindicat al poliției a anunțat, la rândul său, că va depune o plângere împotriva statului, susținând că polițiștii au fost expuși pericolului și au primit ordine contradictorii.\n\n• **Emmanuel Macron a făcut apel la calm și la respectarea persoanelor și a bunurilor.** Premierul Sébastien Lecornu a descris valul de proteste drept unul dintre cele mai violente din ultimele decenii, iar guvernul se teme de o intensificare a violențelor în timpul manifestațiilor de sâmbătă."
   },
   {
     "group_id": "group_dc7fcabe9e",
@@ -3168,119 +3439,6 @@
     "title_ro": "Reclame online folosite pentru distribuirea de spyware prin intermediul Discover-Tech",
     "lead_ro": "Cercetătorii afirmă că rețeaua de publicitate online a companiei israeliene Discover-Tech a fost folosită pentru urmărirea unor ținte și facilitarea distribuirii spyware-ului Candiru. Citizen Lab a confirmat compromiterea a 45 de dispozitive Windows utilizate de Al Jazeera, în perioada 2024–2025; simpla afișare a reclamelor la scară largă nu dovedește însă infectarea tuturor utilizatorilor.",
     "content_ro": "• **Rețeaua de publicitate Discover-Tech** putea fi folosită, potrivit Citizen Lab și Confiant, pentru identificarea și urmărirea utilizatorilor, precum și pentru facilitarea atacurilor cu spyware asupra unor ținte selectate. Reclamele puteau promova produse obișnuite, iar încărcarea lor putea declanșa procesul de atac.\n\n• **Spyware-ul Candiru** putea ajunge la dispozitivele selectate prin intermediul reclamelor, fără un clic sau o altă acțiune directă din partea utilizatorului. Programul putea colecta date sensibile, precum fișiere, informații de navigare, mesaje, capturi de ecran și înregistrări audio.\n\n• **45 de dispozitive Windows folosite de Al Jazeera au fost compromise între 2024 și 2025**, potrivit cercetătorilor. După verificările interne ale rețelei, Citizen Lab a confirmat prezența spyware-ului Candiru pe baza jurnalelor de rețea; Al Jazeera a condamnat atacurile care au vizat angajații săi.\n\n• **Reclamele Discover-Tech** au apărut pe peste 120.000 de site-uri și în aproximativ 75.000 de aplicații, conform datelor Citizen Lab. Confiant a estimat că firma difuza cel puțin 10 milioane de reclame pe zi, iar cercetătorii au apreciat că activitatea acesteia ar fi putut afecta sute de milioane de persoane. Afișarea unei reclame nu demonstrează, de una singură, că utilizatorul a fost vizat sau infectat.\n\n• **Reclame au fost detectate și în rețele asociate unor organizații sensibile**, inclusiv Pentagonul, ONU, NATO și Comisia Europeană. Potrivit relatărilor, Discover-Tech a fost eliminată sau suspendată de pe unele platforme și liste de furnizori; Google, Beeswax, divizia de tehnologie publicitară a Comcast, și IAB Europe au luat măsuri."
-  },
-  {
-    "group_id": "group_0023381096",
-    "fingerprint": "da144fe2727860072a00f8811fa3ebda",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 19,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Trump susține că Putin vrea pace mai mult decât Zelenski, în timp ce atacurile rusești continuă în Ucraina",
-        "link": "https://www.digi24.ro/stiri/externe/trump-sustine-ca-putin-vrea-pace-mai-mult-decat-zelenski-in-timp-ce-atacurile-rusesti-continua-in-ucraina-3989527"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SUA ar fi oferit Rusiei acordul pentru motorină ca să-l „înmoaie” pe Putin în negocierile de pace: „E rândul tău să dai ceva”",
-        "link": "https://stirileprotv.ro/stiri/international/sua-ar-fi-oferit-rusiei-acordul-pentru-motorina-ca-sa-l-inmoaie-pe-putin-in-negocierile-de-pace-e-randul-tau-sa-dai-ceva.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Trump megint Putyint cirógatja, Zelenszkijt pedig lazán a víz alá nyomná",
-        "link": "https://transtelex.ro/kulfold/2026/10/13/trump-putyin-dizel-megallapodas-ukrajna-zelenszkij-energetikai-tuzszunet-bejelentes-tamadasok-orosz-ukran-haboru"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Zelenski, prins între Trump și Putin. Dacă ripostează, Ucraina riscă să piardă sprijinul american",
-        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-prins-intre-trump-si-putin-daca-2563781.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Senatorii americani îi cer lui Trump să anuleze acordul privind motorina din Rusia: „Acordul reprezintă un cadou pentru adversarul nostru și o trădare a aliaților noștri, ar trebui anulat”",
-        "link": "https://www.g4media.ro/senatorii-americani-ii-cer-lui-trump-sa-anuleze-acordul-privind-motorina-din-rusia-acordul-reprezinta-un-cadou-pentru-adversarul-nostru-si-o-tradare-a-aliatilor-nostri-ar-trebui-anulat.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Motivul pentru care Trump „a sărit la gâtul” lui Zelenski. Liderul ucrainean, scos țap ispășitor pentru o problemă creată de Washington",
-        "link": "https://www.digi24.ro/stiri/externe/motivul-pentru-care-trump-a-sarit-la-gatul-lui-zelenski-liderul-ucrainean-scos-tap-ispasitor-pentru-o-problema-creata-de-washington-3990857"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski acuză Rusia că încalcă „armistițiul energetic” anunțat de Trump: „Lipsă de respect ostentativă față de Statele Unite”",
-        "link": "https://www.digi24.ro/stiri/externe/zelenski-acuza-rusia-ca-incalca-armistitiul-energetic-anuntat-de-trump-lipsa-de-respect-ostentativa-fata-de-statele-unite-3991283"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Meloni critică acordul dintre SUA și Rusia privind furnizarea de motorină: „O alegere foarte riscantă”",
-        "link": "https://www.mediafax.ro/externe/meloni-critica-acordul-dintre-sua-si-rusia-privind-furnizarea-de-motorina-o-alegere-foarte-riscanta-23825051"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Volodimir Zelenski a dezvăluit cu ce a fost Ucraina amenințată de către Statele Unite",
-        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-a-dezvaluit-cu-ce-a-fost-ucraina-amenintata-de-catre-statele-unite-23825122"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Semnal de la Kremlin: Ce cale deschide acordul cu SUA pentru motorina rusească",
-        "link": "https://hotnews.ro/semnal-de-la-kremlin-ce-cale-deschide-acordul-cu-sua-pentru-motorina-ruseasca-2376026"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski spune că se simte trădat de Trump: „Dacă te afli la mijloc, trebuie să rămâi la mijloc. E păcat că pierdem un partener”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/zelenski-spune-ca-se-simte-tradat-de-trump-daca-te-afli-la-mijloc-trebuie-sa-ramai-la-mijloc-e-pacat-ca-pierdem-un-partener-3992641"
-      },
-      {
-        "source": "G4Media",
-        "title": "Zelenski, atac frontal la Trump după acordul cu Rusia: „Nu este de partea corectă a istoriei”",
-        "link": "https://www.g4media.ro/zelenski-atac-frontal-la-trump-dupa-acordul-cu-rusia-nu-este-de-partea-corecta-a-istoriei.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Zelenski anunță că Ucraina va relua atacurilor asupra rafinăriilor rusești: „Interdicția a fost ridicată”",
-        "link": "https://www.digi24.ro/stiri/externe/zelenski-anunta-ca-ucraina-va-relua-atacurilor-asupra-rafinariilor-rusesti-interdictia-a-fost-ridicata-3993079"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Zelenski anunţă că Ucraina va relua atacurile asupra rafinăriilor ruseşti: „Interdicţia a fost ridicată”",
-        "link": "https://adevarul.ro/stiri-externe/europa/zelenski-anunta-ca-ucraina-va-relua-atacurile-2564144.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "După acordul lui Trump cu Rusia, Ucraina găsește noi ținte pentru a lovi economia lui Putin. Ce cărți are în mână Zelenski - Analiză The Atlantic",
-        "link": "https://adevarul.ro/stiri-externe/europa/dupa-acordul-lui-trump-cu-rusia-ucraina-gaseste-2564294.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Trump susține că reluarea atacurilor Ucrainei asupra rafinăriilor ruseşti este o ”ruşine” / ”E mai dificil să lucrezi cu Zelenski decât cu Putin”",
-        "link": "https://www.g4media.ro/trump-sustine-ca-reluarea-atacurilor-ucrainei-asupra-rafinariilor-rusesti-este-o-rusine-e-mai-dificil-sa-lucrezi-cu-zelenski-decat-cu-putin.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "VIDEO Zelenski a fost întrebat dacă Trump îl folosește drept „țap ispășitor”. Răspunsul liderului ucrainean a stârnit hohote de râs la summitul UE",
-        "link": "https://hotnews.ro/video-zelenski-a-fost-intrebat-daca-trump-il-foloseste-drept-tap-ispasitor-raspunsul-liderului-ucrainean-a-starnit-hohote-de-ras-la-summitul-ue-2378103"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ucraina cere încă 70 de miliarde de euro de la UE. Zelenski, despre acordul lui Trump cu Rusia: „Mai mulți bani în buzunarul lui Putin”",
-        "link": "https://www.mediafax.ro/externe/ucraina-cere-inca-70-de-miliarde-de-euro-de-la-ue-zelenski-despre-acordul-lui-trump-cu-rusia-mai-multi-bani-in-buzunarul-lui-putin-23826965"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Mutarea lui Trump după replicile dure cu Volodimir Zelenski: Cum scapă Moscova în ultima clipă de noul val de sancțiuni",
-        "link": "https://hotnews.ro/mutarea-lui-trump-dupa-replicile-dure-cu-volodimir-zelenski-cum-scapa-moscova-in-ultima-clipa-de-noul-val-de-sanctiuni-2378524"
-      }
-    ],
-    "published_at": 1792223349,
-    "title_hu": "Az energiafegyverszünet összeomlása tovább mélyíti a Trump–Zelenszkij-konfliktust",
-    "lead_hu": "Trump ismét azt állította, hogy Putyin jobban akar békét, mint Zelenszkij, majd szégyennek nevezte az ukrán finomítótámadások újraindítását. Kijev szerint három napig visszafogta az orosz energetikai célpontok elleni csapásokat, de Moszkva folytatta az ukrán infrastruktúra támadását; a tűzszünet feltételei nem tisztázottak. A dízelalku, a szankciók körüli vita és az amerikai támogatás bizonytalansága tovább élezi a feszültséget, miközben Ukrajna 70 milliárd eurónyi további uniós támogatást kér 2027-re.",
-    "content_hu": "• **Trump Putyint békére készebbnek mondta Zelenszkijnél**: Az amerikai elnök szerint mindkét fél megsértette a tűzszünetet, de nem helyezett kilátásba nagyobb nyomást Moszkvára. Azt mondta, Putyin jobban akar megállapodást, Zelenszkij pedig nehezebb partner; később azt is kijelentette, hogy nem kedveli az ukrán elnököt.\n\n• **A tűzszünet feltételei továbbra sem tisztázottak**: Trump közösségi médiában jelentette be az energetikai célpontok elleni támadások leállítását, Kijev szerint azonban nem egyeztetett előzetesen. A Kreml azt közölte, hogy a feltételeket nem véglegesítették; egy fehér házi tanácsadó szerint a szünet csak az olajfinomítókra vonatkozott.\n\n• **Az orosz támadások súlyos károkat okoztak Ukrajna energetikai infrastruktúrájában**: Zelenszkij szerint egy támadásban 39 ballisztikus rakétát és több mint 120 drónt vetettek be; több mint 600 ezer ember maradt áram nélkül, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg. A beszámolók halálos áldozatokról és sebesültekről is szóltak; Zelenszkij az esetet az Egyesült Államokkal szembeni „látványos tiszteletlenségnek” nevezte.\n\n• **Ukrajna három nap után újraindította a finomítók elleni csapásokat**: Zelenszkij szerint Kijev amerikai kérésre tartott szünetet, miközben Oroszország folytatta az ukrán energetikai célpontok támadását. Egy ukrán dróntámadás tüzet okozott a rjazanyi finomítónál, amely az orosz finomítókapacitás közel 5 százalékát adja; a károk mértékét vizsgálták.\n\n• **Trump „szégyennek” nevezte a támadások újraindítását**: Szerinte Ukrajnának más célpontokat kellene választania, Zelenszkijjel pedig nehezebb együtt dolgozni, mint Putyinnal. A Kreml Kijevet tette felelőssé a diplomáciai elakadásért, Ukrajna viszont azt mondja, csak akkor áll le, ha Oroszország is beszünteti az ukrán infrastruktúra bombázását.\n\n• **A dízelalku korlátozott árhatású lehet, politikai jelentősége viszont nagy**: A bejelentett szállítások kezdetben több mint 300 ezer tonnáról szóltak, a teljes mennyiséget pedig 4,8 millió tonnára becsülték. Elemzők szerint ez csekély enyhülést hozhat az árakban; az iráni háború és a Hormuzi-szoros zavarai fontosabb tényezők. Az amerikai dízel ára gallononként 6,28 dollárra emelkedett, 72 százalékkal az előző év azonos időszaka fölé.\n\n• **A dízelmegállapodást a tárgyalások újraindításának eszközeként mutatták be**: Reuters-források szerint Steve Witkoff és Jared Kushner a miami találkozón azzal érvelt, hogy az orosz dízelexport Trump együttműködési készségét jelezheti, és visszacsábíthatja Moszkvát a tárgyalóasztalhoz. Biztonsági garanciákról és újjáépítésről is szó esett, de megállapodás nem született; a források szerint az amerikai támogatás megvonásával nem fenyegették Kijevet.\n\n• **Kétpárti szenátori csoport kérte az alku visszavonását**: A szenátorok szerint az orosz dízel alig mérsékelné az üzemanyagárakat, miközben bevételt adna Moszkvának. Azt kérték Trumptól, vonja vissza a megállapodást és a 135. számú általános engedélyt, valamint hajtsa végre a 2026-os Lindsey Graham-szankciós törvényt.\n\n• **Trump felfüggesztette a kongresszusi szankciós intézkedések nagy részét**: Egy pénteken kiadott rendeletben a döntést az Egyesült Államok „nemzeti érdekével” indokolta. A kongresszusi törvény többek között orosz tisztviselőket, bankokat és a „flottát” célzó intézkedéseket, valamint az orosz olaj és gáz nagy vásárlóira kivethető vámokat tett lehetővé.\n\n• **Moszkva további gazdasági megállapodásokban bízik**: Kirill Dmitrijev szerint a dízelalku más amerikai–orosz gazdasági és beruházási megállapodások mintája lehet. Alekszandr Novak a korábbi, havi 3–3,5 millió tonnás exportvolumen visszaállításáról beszélt.\n\n• **Zelenszkij árulásként élte meg Trump fordulatát**: Az ukrán elnök azt mondta, fájdalmas, hogy Trump az ellenfél oldalára állt, és sajnálja, hogy Ukrajna egy erős partnert veszít el. Szerinte a dízelalku Putyin győzelme, és az Egyesült Államok „nem a történelem helyes oldalán” áll.\n\n• **Az amerikai hírszerzési és kommunikációs támogatás is a vita része**: Zelenszkij szerint ukrán katonai tisztviselőket arra figyelmeztettek, hogy a finomítótámadások folytatása esetén korlátozhatják a hírszerzési információk megosztását. Azt is állította, hogy a szünet alatt nem kaptak korai figyelmeztetést orosz ballisztikus rakétákról, a Starlink lassulása pedig katonai műveleteket zavart. Trump tagadta, hogy a Fehér Ház korlátozta volna a Starlinket; Elon Musk szerint a katonai Starshield-rendszerekről az amerikai kormány dönt.\n\n• **Zelenszkij a tűzszünetet kölcsönösséghez és légvédelmi segítséghez köti**: Az ukrán elnök szerint Ukrajna csak akkor állítaná le az orosz energetikai célpontok elleni csapásokat, ha Moszkva is leállítja támadásait. Később azt mondta, további Patriot elfogórakéták biztosítása a minimumfeltétele; állítása szerint az Ukrajnának szánt készletek szűkösek, egy részüket pedig a Közel-Keletre irányítják.\n\n• **A választások feltétele egy 60 napos teljes tűzszünet lehet**: Trump új ukrán vezetőt sürgetett, aki meg tud állapodni. Zelenszkij erre azt mondta, Ukrajna akkor tarthat választást, ha Oroszország 60 napra teljes tűzszünetet vállal. A lehetséges jelöltek között Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót emlegették.\n\n• **Meloni kockázatosnak nevezte a dízelalkut, és európai tárgyalási képviseletet sürgetett**: Az olasz miniszterelnök szerint a megállapodás legitimitást és bevételt ad Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-csoportnak; a kritikus infrastruktúra védelmét és az orosz hibrid támadások elleni fellépést is sürgette.\n\n• **Ukrajna más gazdasági célpontokra is áthelyezheti a nyomást**: A The Atlantic elemzése szerint ukrán drónok orosz repülőtereket és adatközpontokat is támadtak. A moszkvai repülőtereken egy hét alatt 345 járatot töröltek, október 8. óta pedig legalább négy adatközpontot ért támadás. Az elemzés szerint ezek a műveletek zavarokat okozhatnak, de önmagukban nem kényszerítik a Kremlt tűzszünetre.\n\n• **Ukrajna 70 milliárd eurónyi további uniós támogatást kér 2027-re**: Zelenszkij szerint a háború jövő évi költsége 155 milliárd euró lehet, és legalább 70 milliárd euróra van szükség védelemre, fegyverekre és az ellenálló képesség fenntartására. Az észt miniszterelnök egy újabb uniós hitel lehetőségét is felvetette; az EU vezetői arra kérték a Bizottságot, tegyen javaslatot Ukrajna további finanszírozására.\n\n• **Kijev nehéz választás előtt áll**: A Trump elleni nyílt fellépés veszélyeztetheti a megmaradt amerikai katonai és hírszerzési támogatást, Washington feltételeinek elfogadása viszont gyengítheti Ukrajna biztonságát. Zelenszkij egy brüsszeli sajtótájékoztatón ironikus mosollyal reagált arra a kérdésre, hogy Trump belpolitikai problémáinak bűnbakjává vált-e.",
-    "title_ro": "Prăbușirea armistițiului energetic adâncește conflictul dintre Trump și Zelenski",
-    "lead_ro": "Trump a susținut din nou că Putin își dorește pacea mai mult decât Zelenski, apoi a numit „o rușine” reluarea atacurilor ucrainene asupra rafinăriilor rusești. Kievul afirmă că a suspendat timp de trei zile loviturile asupra țintelor energetice rusești, în timp ce Moscova a continuat să atace infrastructura ucraineană, iar condițiile armistițiului rămân neclare. Acordul privind motorina, disputa privind sancțiunile și incertitudinea sprijinului american amplifică tensiunile, în timp ce Ucraina cere încă 70 de miliarde de euro de la UE pentru 2027.",
-    "content_ro": "• **Trump spune că Putin vrea pace mai mult decât Zelenski**: Președintele american a afirmat că ambele părți au încălcat armistițiul, dar nu a anunțat presiuni suplimentare asupra Moscovei. A spus că Putin își dorește mai mult un acord, iar Zelenski este un partener mai dificil; ulterior a declarat că nu îl place pe liderul ucrainean.\n\n• **Condițiile armistițiului rămân neclare**: Trump a anunțat pe rețelele sociale oprirea atacurilor asupra țintelor energetice, însă Kievul afirmă că nu a fost consultat în prealabil. Kremlinul a spus că termenii nu au fost finalizați; un consilier de la Casa Albă a afirmat că pauza se referea doar la rafinăriile de petrol.\n\n• **Atacurile rusești au provocat pagube grave infrastructurii energetice a Ucrainei**: Potrivit lui Zelenski, Rusia a lansat 39 de rachete balistice și peste 120 de drone; peste 600.000 de oameni au rămas fără electricitate, iar 26 de obiective energetice și patru instalații din sectorul petrolier și gazier au fost avariate. Au fost raportate victime și persoane rănite; Zelenski a numit atacul o „lipsă ostentativă de respect” față de Statele Unite.\n\n• **Ucraina a reluat atacurile asupra rafinăriilor după trei zile**: Zelenski spune că Kievul a întrerupt loviturile la cererea SUA, în timp ce Rusia a continuat să atace infrastructura energetică ucraineană. Un atac cu drone ucrainene a provocat un incendiu la rafinăria din Riazan, care asigură aproape 5% din capacitatea de rafinare a Rusiei; pagubele erau în curs de evaluare.\n\n• **Trump a numit „o rușine” reluarea atacurilor**: El a spus că Ucraina ar trebui să aleagă alte ținte și că este mai dificil să lucreze cu Zelenski decât cu Putin. Kremlinul a acuzat Kievul pentru blocajul diplomatic, în timp ce Ucraina afirmă că va opri atacurile numai dacă Rusia încetează bombardarea infrastructurii ucrainene.\n\n• **Acordul privind motorina poate avea un efect limitat asupra prețurilor, dar o miză politică importantă**: Livrările anunțate au început cu peste 300.000 de tone, iar volumul total a fost estimat la 4,8 milioane de tone. Analiștii consideră că impactul asupra prețurilor va fi redus; războiul din Iran și perturbările din Strâmtoarea Ormuz sunt factori mai importanți. Motorina în SUA a ajuns la 6,28 dolari pe galon, cu 72% peste nivelul din aceeași perioadă a anului precedent.\n\n• **Acordul privind motorina a fost prezentat ca un instrument pentru reluarea negocierilor**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea din Miami, că exporturile rusești de motorină ar putea semnala disponibilitatea lui Trump de a coopera cu Moscova și ar putea readuce Rusia la masa negocierilor. Au fost discutate și garanții de securitate și reconstrucția Ucrainei, dar nu s-a ajuns la un acord; sursele au spus că Kievul nu a fost amenințat cu retragerea sprijinului american la acea întâlnire.\n\n• **Un grup bipartizan de senatori a cerut anularea acordului**: Senatorii susțin că motorina rusească ar reduce foarte puțin prețurile, oferindu-i în același timp venituri Moscovei. Ei i-au cerut lui Trump să anuleze acordul și Licența Generală nr. 135 și să aplice legea din 2026 privind sancționarea Rusiei, asociată lui Lindsey Graham.\n\n• **Trump a suspendat o mare parte din măsurile de sancționare adoptate de Congres**: Într-un decret emis vineri, el a justificat decizia prin „interesul național” al SUA. Legea Congresului permitea măsuri împotriva unor oficiali ruși, bănci și „flotei-fantomă”, precum și taxe vamale asupra principalilor cumpărători de petrol și gaze rusești.\n\n• **Moscova speră la noi acorduri economice**: Kirill Dmitriev a spus că acordul privind motorina ar putea deveni un model pentru alte înțelegeri economice și de investiții între SUA și Rusia. Aleksandr Novak a vorbit despre revenirea la exporturi de 3–3,5 milioane de tone pe lună.\n\n• **Zelenski spune că s-a simțit trădat de schimbarea de poziție a lui Trump**: Președintele ucrainean a spus că îl doare faptul că Trump a ales tabăra adversă și că este regretabil că Ucraina pierde un partener puternic. În opinia sa, acordul privind motorina este o victorie pentru Putin, iar Washingtonul nu se află „de partea corectă a istoriei”.\n\n• **Schimbul de informații și comunicațiile americane sunt, de asemenea, în centrul disputei**: Zelenski afirmă că oficiali militari ucraineni au fost avertizați că schimbul de informații ar putea fi restricționat dacă atacurile asupra rafinăriilor continuă. El a spus și că Ucraina nu a primit avertizări timpurii despre rachetele balistice rusești, iar încetinirea Starlink a perturbat operațiuni militare. Trump a negat că Casa Albă ar fi restricționat Starlink; Elon Musk a spus că sistemele militare Starshield sunt controlate de guvernul SUA.\n\n• **Zelenski condiționează armistițiul de reciprocitate și de ajutor antiaerian**: Liderul ucrainean spune că Ucraina va opri atacurile asupra țintelor energetice rusești numai dacă Moscova își încetează, la rândul său, atacurile. Ulterior, a afirmat că livrarea unor rachete interceptoare Patriot suplimentare este condiția minimă; potrivit lui, stocurile pentru Ucraina sunt limitate, iar o parte este trimisă în Orientul Mijlociu.\n\n• **Alegerile ar putea fi organizate după 60 de zile de armistițiu total**: Trump a cerut alegerea unui nou lider ucrainean care să poată încheia un acord. Zelenski a răspuns că Ucraina poate organiza alegeri dacă Rusia acceptă o încetare totală a focului timp de 60 de zile. Printre potențialii candidați menționați se numără Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko.\n\n• **Meloni a numit acordul privind motorina riscant și a cerut reprezentare europeană la negocieri**: Premierul italian consideră că înțelegerea legitimează Moscova și îi aduce venituri pentru război, slăbind totodată sancțiunile. Ea a propus ca UE să acorde un mandat oficial unui reprezentant european, eventual grupului E3, și a cerut protejarea infrastructurii critice și măsuri împotriva atacurilor hibride rusești.\n\n• **Ucraina ar putea muta presiunea asupra altor ținte economice rusești**: Potrivit unei analize The Atlantic, dronele ucrainene au vizat și aeroporturi și centre de date din Rusia. Într-o săptămână au fost anulate 345 de zboruri pe aeroporturile din Moscova, iar din 8 octombrie au fost atacate cel puțin patru centre de date. Analiza apreciază că aceste operațiuni pot provoca perturbări, dar nu îl obligă singure pe Kremlin să accepte un armistițiu.\n\n• **Ucraina cere încă 70 de miliarde de euro de la UE pentru 2027**: Zelenski estimează costul războiului pentru anul viitor la 155 de miliarde de euro și spune că are nevoie de cel puțin 70 de miliarde pentru apărare, arme și menținerea capacității de rezistență. Premierul Estoniei a evocat un nou împrumut al UE, iar liderii europeni au cerut Comisiei să propună o soluție pentru finanțarea suplimentară a Ucrainei.\n\n• **Kievul se confruntă cu o alegere dificilă**: O confruntare deschisă cu Trump poate pune în pericol sprijinul militar și de informații american rămas, însă acceptarea condițiilor Washingtonului poate slăbi securitatea Ucrainei. La o conferință de presă la Bruxelles, Zelenski a răspuns cu un zâmbet ironic când a fost întrebat dacă a devenit țap ispășitor pentru problemele interne ale lui Trump."
   },
   {
     "group_id": "group_9b38477a48",
