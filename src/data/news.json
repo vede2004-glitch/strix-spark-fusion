@@ -1,5 +1,38 @@
 [
   {
+    "group_id": "group_24ee290a25",
+    "fingerprint": "106b0b579cffc631dce53ca4a54f6a4f",
+    "category": "Általános",
+    "image": "https://assets.telex.hu/images/20261015/1792035659-temp-s9elh9eetu900obodoi_cimlap-normal.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Zelenszkij szerint Trump négy év háború után a másik oldalra állt",
+        "link": "https://transtelex.ro/kulfold/2026/10/15/zelenszkij-szerint-trump-elarulta"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Trump a blocat pe ascuns accesul Ucrainei la sateliții care ghidează dronele pentru a proteja Rusia. „Vor muri mai mulți”",
+        "link": "https://stirileprotv.ro/stiri/international/trump-a-blocat-pe-ascuns-accesul-ucrainei-la-satelitii-care-ghideaza-dronele-pentru-a-proteja-rusia-vor-muri-mai-multi.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Starlink, vital pentru armata ucraineană. Ce s-ar întâmpla dacă Trump ar întrerupe comunicațiile prin satelit",
+        "link": "https://adevarul.ro/stiri-externe/europa/starlink-vital-pentru-armata-ucraineana-ce-s-ar-2564707.html"
+      }
+    ],
+    "published_at": 1792272625,
+    "title_hu": "Starlink-korlátozások és amerikai–ukrán feszültség: Zelenszkij szerint Trump Kijev ellen fordult",
+    "lead_hu": "Az ukrán vezetés szerint a Starlink műholdas kapcsolatainak korlátozása fennakadásokat okozott a hadsereg kommunikációjában és a drónműveletekben. A döntés hátteréről és pontos menetéről eltérő részletek jelentek meg, de ukrán és sajtóértesülések az amerikai kormány szerepét említették; Zelenszkij úgy vélte, a lépés emberéleteket veszélyeztet, és tovább rontja az amerikai–ukrán viszonyt.",
+    "content_hu": "• **Október 14-én** az ukrán katonai parancsnokság arról számolt be, hogy a Starlink-terminálokkal felszerelt drónok 160 kilométer/óránál nagyobb sebességnél elveszítették a kapcsolatot, ami több műveletet is meghiúsított. Egy román beszámoló ennél szigorúbb, átmeneti korlátozásokról is írt, majd arról, hogy a kapcsolat megbízhatósága október 15-re helyreállt 160 kilométer/órás sebességig.\n\n• **A Starlink kulcsfontosságú az ukrán hadsereg számára:** az egységek közötti kommunikációt és parancsnoki koordinációt segíti, emellett drónok és távirányítású földi járművek működtetésében is szerepet kap. Zelenszkij szerint a korlátozás miatt az ukránok nehezebben tudnak védekezni, és emberek halhatnak meg.\n\n• **Az amerikai kormány szerepéről eltérő részletek jelentek meg.** A sajtóban idézett amerikai források szerint a korlátozásról szóló utasítás a Fehér Házból érkezett; Elon Musk viszont azt mondta, hogy a Starlinkkel kapcsolatos döntéseket az amerikai hadügyminisztérium és az elnök hozza. Az ukrán tisztviselők beszámolói szerint a sebességhatár módosult, Mihajlo Fedorov korábbi védelmi miniszter pedig megköszönte Musknak a kapcsolat helyreállítását.\n\n• **Zelenszkij a korlátozást az Egyesült Államokkal fennálló feszültségek részeként értékelte.** Azt mondta, elárulva érzi magát, és úgy látja, Trump négy év háború után „a másik oldalra állt”. Az ukrán elnök arra is figyelmeztetett, hogy a döntés véglegesen ronthatja az ukrán–amerikai kapcsolatokat.\n\n• **A vita egy szélesebb nézeteltérésbe illeszkedik:** Ukrajna az orosz energetikai létesítmények elleni támadások folytatásával fenyegetőzött, arra hivatkozva, hogy Oroszország továbbra is az ukrán energetikai infrastruktúrát támadja. Zelenszkij amerikai légvédelmi rakétákat is kért, és azt mondta, Ukrajnának védekezési eszközökre van szüksége, ha az amerikai kérésre visszafogja a válaszcsapásokat.",
+    "title_ro": "Restricțiile Starlink tensionează relația dintre Washington și Kiev; Zelenski spune că Trump s-a întors împotriva Ucrainei",
+    "lead_ro": "Conducerea ucraineană afirmă că restricționarea conexiunilor prin satelit Starlink a provocat probleme de comunicare în armată și a afectat operațiunile cu drone. Detaliile privind decizia și modul în care a fost aplicată diferă, însă surse citate de presă au indicat un rol al administrației americane; Zelenski a avertizat că măsura pune vieți în pericol și agravează relațiile dintre Kiev și Washington.",
+    "content_ro": "• **La 14 octombrie**, comandamentul militar ucrainean a raportat că dronele echipate cu terminale Starlink pierdeau conexiunea la viteze de peste 160 km/h, ceea ce a dus la eșecul unor operațiuni. O relatare din presa română a menționat și restricții temporare mai severe, apoi restabilirea, până la 15 octombrie, a unei conexiuni fiabile la viteze de până la 160 km/h.\n\n• **Starlink este esențial pentru armata ucraineană:** ajută la comunicațiile și coordonarea dintre unități și este folosit pentru controlul dronelor și al vehiculelor terestre telecomandate. Zelenski a afirmat că restricțiile îngreunează apărarea Ucrainei și pot provoca pierderi de vieți omenești.\n\n• **Au apărut relatări diferite despre rolul administrației americane.** Surse americane citate de presă au spus că ordinul privind restricțiile a venit de la Casa Albă, iar Elon Musk a declarat că deciziile privind Starlink sunt luate de Departamentul de Război al SUA și de președinte. Potrivit unor oficiali ucraineni, limita de viteză s-a modificat; fostul ministru al Apărării Mihail Fedorov i-a mulțumit lui Musk pentru restabilirea conexiunii.\n\n• **Zelenski a prezentat restricțiile ca parte a tensiunilor cu Statele Unite.** El a spus că se simte trădat și că, după patru ani de război, Trump „a trecut de cealaltă parte”. Președintele ucrainean a avertizat că decizia riscă să deterioreze definitiv relațiile dintre Kiev și Washington.\n\n• **Disputa se înscrie într-un dezacord mai amplu:** Ucraina a amenințat că va relua atacurile asupra infrastructurii energetice rusești, argumentând că Rusia continuă să lovească instalațiile energetice ucrainene. Zelenski a cerut și rachete interceptoare americane, afirmând că Ucraina are nevoie de mijloace de apărare dacă, la solicitarea SUA, își limitează atacurile de represalii."
+  },
+  {
     "group_id": "group_1ce45ced01",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17092026/dc964139-22e9-4829-b5db-ce9ceddac480.jpg?width=290&height=208",
@@ -9298,159 +9331,5 @@
     "title_ro": "Stocuri limitate de vaccinuri antigripale injectabile; peste 600.000 de doze vor ajunge până la sfârșitul lunii octombrie",
     "lead_ro": "Cea mai mare parte a dozelor de Vaxigrip și Influvac livrate în septembrie a fost consumată, iar raportările din 15 octombrie indicau aproximativ 45.000 de doze rămase la nivel național. Până la finalul lunii octombrie sunt așteptate peste 600.000 de doze suplimentare, în timp ce HotNews nu a găsit niciun tip de vaccin în peste 15 farmacii din București. Sezonul gripal a început mai devreme decât în anii precedenți, iar medicii recomandă vaccinarea cât mai rapidă și consultarea medicului de familie.",
     "content_ro": "• **Aproximativ 45.000 de doze** din vaccinurile injectabile Vaxigrip și Influvac mai erau disponibile în farmaciile din țară; cea mai mare parte a stocurilor livrate în septembrie fusese deja consumată.\n\n• **Următoarea tranșă va începe să fie livrată săptămâna viitoare:** peste 350.000 de doze dintr-un vaccin injectabil vor fi distribuite mai întâi, urmate de alte 250.000 de doze din celălalt produs, disponibile până la sfârșitul lunii octombrie.\n\n• **Dintre cele patru vaccinuri autorizate**, Fluenz, administrat intranazal copiilor și adolescenților, și Efluelda, destinat persoanelor de peste 60 de ani, sunt disponibile în cantități suficiente în farmacii și la distribuitori, potrivit ministerului.\n\n• **Până la 11 octombrie, 256.000 de persoane** se vaccinaseră împotriva gripei sezoniere în România. Autoritățile spun că pentru sezonul 2026–2027 țării i-au fost alocate cantități mai mari decât cele utilizate în sezonul precedent.\n\n• **ANMDMR a colaborat cu trei producători** pentru pregătirea livrărilor suplimentare. Producția și controlul calității vaccinurilor presupun cerințe speciale, iar cantitățile alocate fiecărei țări sunt stabilite în avans.\n\n• **Livrările se fac în trei tranșe:** potrivit ProTV, prima tranșă, sosită în septembrie, a fost cea mai mică. Ministerul recomandase începerea campaniei de vaccinare la 1 octombrie.\n\n• **În farmaciile din București, potrivit verificărilor HotNews,** peste 15 unități aparținând unor lanțuri diferite nu aveau niciun fel de vaccin antigripal, inclusiv Fluenz și Efluelda. Situația diferă de raportarea națională a ministerului; unele farmacii au spus că dozele primite s-au epuizat în două zile, iar următoarele stocuri erau așteptate după 20 octombrie sau spre sfârșitul lunii.\n\n• **Raportarea stocurilor din 15 octombrie** precizează că farmaciile se aprovizionează direct de la furnizori, prin circuitul obișnuit al medicamentelor.\n\n• **Procedura de eliberare și administrare** presupune rețetă medicală pentru vaccinurile compensate: doza se ridică din farmacie și, de regulă, se duce la cabinetul medical pentru administrare. Persoanele care nu beneficiază de compensare îl pot cumpăra fără rețetă, la preț întreg; numai puține farmacii îl administrează pe loc. Rețeta poate fi eliberată atât de medicul de familie, cât și de un medic specialist.\n\n• **Prețul și compensarea vaccinului:** potrivit HotNews, o doză costă aproximativ 80 de lei pentru persoanele fără drept la compensare, iar persoanele între 45 și 65 de ani fără boli cronice beneficiază de compensare de 50%. Procedura de ridicare a vaccinului din farmacie este în vigoare pentru al patrulea an consecutiv, în 2026.\n\n• **Primul deces confirmat** a fost al unui bărbat nevaccinat din județul Cluj, cu boli cronice. Sursele indică vârste diferite: Maszol îl descrie ca având peste 65 de ani, iar Digi24 ca având sub 65 de ani.\n\n• **În săptămâna precedentă au fost raportate 82.363 de infecții respiratorii** în România, dintre care 201 cazuri de gripă clinică și 12 confirmate în laborator. La persoana decedată a fost identificată tulpina gripală A.\n\n• **Sezonul gripal a început mai devreme decât în anii precedenți:** un medic intervievat de Digi24 a spus că au existat cazuri de gripă încă din septembrie. Până în prezent, nu a fost semnalată o tulpină nouă.\n\n• **Medicii recomandă vaccinarea cât mai rapidă și consultarea medicului:** specialistul în boli infecțioase intervievat de Digi24 spune că medicul de familie poate îndruma pacienții spre tipul potrivit de vaccin; pentru vârstnici poate fi indicat vaccinul cu doză mai mare de antigen, iar pentru copii, cel intranazal. Medicul poate evalua simptomele și decide dacă este necesară îndrumarea către spital. Gripa, a subliniat specialistul, nu este doar o viroză respiratorie, ci o boală sistemică ce poate evolua grav."
-  },
-  {
-    "group_id": "group_b86fc6907f",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/8126581-Mediafax_Foto-DPA_Hepta.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "O fostă strategă din Formula 1, verdict clar în relația Ferrari – Lewis Hamilton: „Nu are încredere în echipă”",
-        "link": "https://www.g4media.ro/o-fosta-stratega-din-formula-1-verdict-clar-in-relatia-ferrari-lewis-hamilton-nu-are-incredere-in-echipa.html"
-      }
-    ],
-    "published_at": 1792230397,
-    "title_hu": "O fostă strategă din Formula 1, verdict clar în relația Ferrari – Lewis Hamilton: „Nu are încredere în echipă”",
-    "lead_hu": "Fosta strategă din Formula 1 Bernie Collins a sugerat că Ferrari și Lewis Hamilton au nevoie de o discuție internă amplă, după ce a declarat că septuplul campion mondial și-a pierdut încrederea în dec…",
-    "content_hu": "Fosta strategă din Formula 1 Bernie Collins a sugerat că Ferrari și Lewis Hamilton au nevoie de o discuție internă amplă, după ce a declarat că septuplul campion mondial și-a pierdut încrederea în deciziile luate de echipă, în urma mai multor neînțelegeri. Declarațiile lui Collins vin după decizia costisitoare a lui Hamilton de a ignora […] © G4Media.ro.",
-    "title_ro": "O fostă strategă din Formula 1, verdict clar în relația Ferrari – Lewis Hamilton: „Nu are încredere în echipă”",
-    "lead_ro": "Fosta strategă din Formula 1 Bernie Collins a sugerat că Ferrari și Lewis Hamilton au nevoie de o discuție internă amplă, după ce a declarat că septuplul campion mondial și-a pierdut încrederea în dec…",
-    "content_ro": "Fosta strategă din Formula 1 Bernie Collins a sugerat că Ferrari și Lewis Hamilton au nevoie de o discuție internă amplă, după ce a declarat că septuplul campion mondial și-a pierdut încrederea în deciziile luate de echipă, în urma mai multor neînțelegeri. Declarațiile lui Collins vin după decizia costisitoare a lui Hamilton de a ignora […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_0e3e8a1bda",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Mihai Chirica, atac la PNL Iași după ce filiala a anunțat că nu susține Guvernul Niculescu: „Blochează orice șansă de stabilizare a țării”",
-        "link": "https://hotnews.ro/mihai-chirica-atac-la-pnl-iasi-dupa-ce-filiala-a-anuntat-ca-nu-sustine-guvernul-niculescu-blocheaza-orice-sansa-de-stabilizare-a-tarii-2378565"
-      }
-    ],
-    "published_at": 1792230309,
-    "title_hu": "Mihai Chirica, atac la PNL Iași după ce filiala a anunțat că nu susține Guvernul Niculescu: „Blochează orice șansă de stabilizare a țării”",
-    "lead_hu": "Primarul municipiului Iași, Mihai Chirica, a reclamat sâmbătă că „PNL Iaşi blochează orice şansă de stabilizare a ţării”, după decizia filialei de a nu susține învestirea guvernului condus de Luca Nic…",
-    "content_hu": "Primarul municipiului Iași, Mihai Chirica, a reclamat sâmbătă că „PNL Iaşi blochează orice şansă de stabilizare a ţării”, după decizia filialei de a nu susține învestirea guvernului condus de Luca Niculescu. Edilul l-a acuzat pe liderul organizaţiei Alexandru Muraru că trăieşte „complet izolat de lumea reală” și că „joacă politic pe umerii unei ţări aflate …",
-    "title_ro": "Mihai Chirica, atac la PNL Iași după ce filiala a anunțat că nu susține Guvernul Niculescu: „Blochează orice șansă de stabilizare a țării”",
-    "lead_ro": "Primarul municipiului Iași, Mihai Chirica, a reclamat sâmbătă că „PNL Iaşi blochează orice şansă de stabilizare a ţării”, după decizia filialei de a nu susține învestirea guvernului condus de Luca Nic…",
-    "content_ro": "Primarul municipiului Iași, Mihai Chirica, a reclamat sâmbătă că „PNL Iaşi blochează orice şansă de stabilizare a ţării”, după decizia filialei de a nu susține învestirea guvernului condus de Luca Niculescu. Edilul l-a acuzat pe liderul organizaţiei Alexandru Muraru că trăieşte „complet izolat de lumea reală” și că „joacă politic pe umerii unei ţări aflate …"
-  },
-  {
-    "group_id": "group_dc7fcabe9e",
-    "fingerprint": "9a267c3775ee2d9c3cd82b6225e065f6",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2025/08/11/210000/62566639.jpg?fm=jpg&q=80&fit=crop&crop=3841%2C2161%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Surpriză. Un lider european, considerat pro-rus, îl acuza pe Trump de trădare deoarece a semnat acordul cu Putin",
-        "link": "https://www.mediafax.ro/politic/surpriza-un-lider-european-considerat-pro-rus-il-acuza-pe-trump-de-tradare-deoarece-a-semnat-acordul-cu-putin-23826594"
-      },
-      {
-        "source": "G4Media",
-        "title": "Premierul ceh Andrej Babiš, considerat pro-rus, îl acuza pe Trump de trădare deoarece a semnat acordul cu Putin",
-        "link": "https://www.g4media.ro/premierul-ceh-andrej-babis-considerat-pro-rus-il-acuza-pe-trump-de-tradare-deoarece-a-semnat-acordul-cu-putin.html"
-      }
-    ],
-    "published_at": 1792230057,
-    "title_hu": "Andrej Babiš árulásnak nevezte Trump Putyinnal kötött dízelüzletét",
-    "lead_hu": "Andrej Babiš cseh miniszterelnök az uniós csúcstalálkozón azzal vádolta Donald Trumpot, hogy elárulta a szövetségeseket az Oroszországgal kötött dízelmegállapodással. Az amerikai hatóságok a megállapodás nyomán 2027 áprilisáig levették az orosz üzemanyag-szállításokat a szankciós listáról.",
-    "content_hu": "• **Andrej Babiš cseh miniszterelnök** az uniós csúcstalálkozón árulásnak nevezte Donald Trump Vlagyimir Putyinnal kötött megállapodását az orosz dízelről. „Ezzel a Putyinnal kötött egyezséggel valójában elárult minket, és tennünk kell valamit” – mondta.\n\n• **A megállapodás értelmében** az Egyesült Államok 2027 áprilisáig mentesítette az orosz üzemanyag-szállításokat a szankciók alól.\n\n• **A vita előzménye**, hogy Volodimir Zelenszkij ukrán elnök bírálta Trumpot az egyezség miatt. Trump erre Zelenszkij lemondását követelte, és felvetette az Ukrajnának nyújtott amerikai katonai segítség leállítását.",
-    "title_ro": "Andrej Babiš a numit trădare acordul lui Trump cu Putin privind motorina",
-    "lead_ro": "Premierul ceh Andrej Babiš l-a acuzat pe Donald Trump că i-a trădat pe aliați prin acordul încheiat cu Rusia privind motorina. În urma înțelegerii, autoritățile americane au scos livrările de combustibil rusesc de pe lista sancțiunilor până în aprilie 2027.",
-    "content_ro": "• **Premierul ceh Andrej Babiš** a numit trădare, în timpul summitului UE, acordul încheiat de Donald Trump cu Vladimir Putin privind motorina rusească. „Prin această înțelegere cu Putin, el, de fapt, ne-a trădat și trebuie să facem ceva”, a declarat Babiš.\n\n• **În urma acordului**, Statele Unite au exceptat livrările de combustibil rusesc de la sancțiuni până în aprilie 2027.\n\n• **Disputa a fost precedată de** criticile președintelui ucrainean Volodimir Zelenski la adresa înțelegerii. Trump i-a cerut apoi lui Zelenski să demisioneze și a sugerat că ar putea opri ajutorul militar american pentru Ucraina."
-  },
-  {
-    "group_id": "group_0a78ad4756",
-    "category": "Gazdaság",
-    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/tunel-a1-1-1024x613.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Galerie FOTO | A1 Margina – Holdea: continuă lucrările la tuneluri, stadiul lucrărilor a ajuns la 80%",
-        "link": "https://economedia.ro/galerie-foto-a1-margina-holdea-continua-lucrarile-la-tuneluri-stadiul-lucrarilor-a-ajuns-la-80.html"
-      }
-    ],
-    "published_at": 1792229818,
-    "title_hu": "Galerie FOTO | A1 Margina – Holdea: continuă lucrările la tuneluri, stadiul lucrărilor a ajuns la 80%",
-    "lead_hu": "Pe șantierul A1 Margina – Holdea se lucrează în continuare în regim permanent la structura de rezistență a ambelor galerii ale tunelului 2 – cel mai lung dintre cele două tuneluri de pe sector, transm…",
-    "content_hu": "Pe șantierul A1 Margina – Holdea se lucrează în continuare în regim permanent la structura de rezistență a ambelor galerii ale tunelului 2 – cel mai lung dintre cele două tuneluri de pe sector, transmite Direcția Regională de Drumuri și Poduri (DRPD) Timișoara. Odată cu finalizarea excavațiilor, șantierul este în următoarele etape, adică realizarea radierului, […]",
-    "title_ro": "Galerie FOTO | A1 Margina – Holdea: continuă lucrările la tuneluri, stadiul lucrărilor a ajuns la 80%",
-    "lead_ro": "Pe șantierul A1 Margina – Holdea se lucrează în continuare în regim permanent la structura de rezistență a ambelor galerii ale tunelului 2 – cel mai lung dintre cele două tuneluri de pe sector, transm…",
-    "content_ro": "Pe șantierul A1 Margina – Holdea se lucrează în continuare în regim permanent la structura de rezistență a ambelor galerii ale tunelului 2 – cel mai lung dintre cele două tuneluri de pe sector, transmite Direcția Regională de Drumuri și Poduri (DRPD) Timișoara. Odată cu finalizarea excavațiilor, șantierul este în următoarele etape, adică realizarea radierului, […]"
-  },
-  {
-    "group_id": "group_391d83f703",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20092026/0d6f9978-064a-4b8e-9bdd-192d90ff394b.jfif?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Martin Pascual, vedetă în Marca: „Impresionează în fotbalul românesc: fundașul central transformat în golgheter”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/martin-pascual-dinamo-spania-articol-marca-989090.html"
-      }
-    ],
-    "published_at": 1792229766,
-    "title_hu": "Martin Pascual, vedetă în Marca: „Impresionează în fotbalul românesc: fundașul central transformat în golgheter”",
-    "lead_hu": "Venit în vară la Dinamo, fundașul central Martin Pascual (27 de ani) a devenit piesă de bază în formația lui Nuno Campos. Și a atras atenția jurnaliștilor de la Marca. Apărătorul născut în Madrid, car…",
-    "content_hu": "Venit în vară la Dinamo, fundașul central Martin Pascual (27 de ani) a devenit piesă de bază în formația lui Nuno Campos. Și a atras atenția jurnaliștilor de la Marca. Apărătorul născut în Madrid, care impresionează prin fizicul său (1,90 m), a venit liber la Dinamo și a devenit titular, jucând în fiecare etapă. Pe lângă forța defensivă, ibericul a arătat și valențe ofensive, marcând de 5 ori. ...",
-    "title_ro": "Martin Pascual, vedetă în Marca: „Impresionează în fotbalul românesc: fundașul central transformat în golgheter”",
-    "lead_ro": "Venit în vară la Dinamo, fundașul central Martin Pascual (27 de ani) a devenit piesă de bază în formația lui Nuno Campos. Și a atras atenția jurnaliștilor de la Marca. Apărătorul născut în Madrid, car…",
-    "content_ro": "Venit în vară la Dinamo, fundașul central Martin Pascual (27 de ani) a devenit piesă de bază în formația lui Nuno Campos. Și a atras atenția jurnaliștilor de la Marca. Apărătorul născut în Madrid, care impresionează prin fizicul său (1,90 m), a venit liber la Dinamo și a devenit titular, jucând în fiecare etapă. Pe lângă forța defensivă, ibericul a arătat și valențe ofensive, marcând de 5 ori. ..."
-  },
-  {
-    "group_id": "group_d9bc34bfd5",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Manna",
-        "title": "Vadmacskát rögzített a kamera a Gerecsei Tájvédelmi Körzetben",
-        "link": "https://a24.hu/vadmacskat-rogzitett-a-kamera-a-gerecsei-tajvedelmi-korzetben/"
-      }
-    ],
-    "published_at": 1792229665,
-    "title_hu": "Vadmacskát rögzített a kamera a Gerecsei Tájvédelmi Körzetben",
-    "lead_hu": "Vadmacskát vett fel egy éjszakai kameracsapda a Gerecsei Tájvédelmi Körzetben, a Duna–Ipoly Nemzeti Park pedig a videót közzétette a Facebook-oldalán. A felvételen látható állat először megszimatolja …",
-    "content_hu": "Vadmacskát vett fel egy éjszakai kameracsapda a Gerecsei Tájvédelmi Körzetben, a Duna–Ipoly Nemzeti Park pedig a videót közzétette a Facebook-oldalán. A felvételen látható állat először megszimatolja a kihelyezett csalit, majd játszani kezd vele. A nemzeti park tájékoztatása szerint folyamatosan kutatják ezt a ritka, fokozottan védett ragadozót, hogy pontosabban feltérképezzék az állományát és a mozgási körzetét. […]",
-    "title_ro": "Vadmacskát rögzített a kamera a Gerecsei Tájvédelmi Körzetben",
-    "lead_ro": "Vadmacskát vett fel egy éjszakai kameracsapda a Gerecsei Tájvédelmi Körzetben, a Duna–Ipoly Nemzeti Park pedig a videót közzétette a Facebook-oldalán. A felvételen látható állat először megszimatolja …",
-    "content_ro": "Vadmacskát vett fel egy éjszakai kameracsapda a Gerecsei Tájvédelmi Körzetben, a Duna–Ipoly Nemzeti Park pedig a videót közzétette a Facebook-oldalán. A felvételen látható állat először megszimatolja a kihelyezett csalit, majd játszani kezd vele. A nemzeti park tájékoztatása szerint folyamatosan kutatják ezt a ritka, fokozottan védett ragadozót, hogy pontosabban feltérképezzék az állományát és a mozgási körzetét. […]"
-  },
-  {
-    "group_id": "group_7d9a92441b",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/baschetbalisti-gemeni-1024x607.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Situație suprarealistă în NBA: Dallas Mavericks a legitimat și a dat afară doi frați gemeni în doar trei zile",
-        "link": "https://www.mediafax.ro/sport/situatie-suprarealista-in-nba-dallas-mavericks-a-legitimat-si-a-dat-afara-doi-frati-gemeni-in-doar-trei-zile-23827126"
-      }
-    ],
-    "published_at": 1792229566,
-    "title_hu": "Situație suprarealistă în NBA: Dallas Mavericks a legitimat și a dat afară doi frați gemeni în doar trei zile",
-    "lead_hu": "Gemenii spanioli Jorge și Guillermo Díaz-Graham au trecut pe rând prin lotul lui Dallas Mavericks, care i-a legitimat și a renunțat la ei în doar câteva zile, într-o serie de mutări care pare suprarea…",
-    "content_hu": "Gemenii spanioli Jorge și Guillermo Díaz-Graham au trecut pe rând prin lotul lui Dallas Mavericks, care i-a legitimat și a renunțat la ei în doar câteva zile, într-o serie de mutări care pare suprarealistă, dar are o explicație simplă în regulile NBA.",
-    "title_ro": "Situație suprarealistă în NBA: Dallas Mavericks a legitimat și a dat afară doi frați gemeni în doar trei zile",
-    "lead_ro": "Gemenii spanioli Jorge și Guillermo Díaz-Graham au trecut pe rând prin lotul lui Dallas Mavericks, care i-a legitimat și a renunțat la ei în doar câteva zile, într-o serie de mutări care pare suprarea…",
-    "content_ro": "Gemenii spanioli Jorge și Guillermo Díaz-Graham au trecut pe rând prin lotul lui Dallas Mavericks, care i-a legitimat și a renunțat la ei în doar câteva zile, într-o serie de mutări care pare suprarealistă, dar are o explicație simplă în regulile NBA."
   }
 ]
