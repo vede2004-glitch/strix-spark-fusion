@@ -1,5 +1,202 @@
 [
   {
+    "group_id": "group_0b28f0af09",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "VGP dezvoltă un nou hub logistic la Oradea, pe un teren de 29,4 hectare. Tranzacția, realizată prin Sapient Group, iar proiectarea este semnată de Sapient Design (FOTO)",
+        "link": "https://www.ebihoreanul.ro/stiri/vgp-dezvolta-un-nou-hub-logistic-la-oradea-pe-un-teren-de-294-hectare-tranzactia-realizata-prin-sapient-group-iar-proiectarea-este-semnata-de-sapient-design-205877.html"
+      }
+    ],
+    "published_at": 1792215131,
+    "title_hu": "VGP dezvoltă un nou hub logistic la Oradea, pe un teren de 29,4 hectare. Tranzacția, realizată prin Sapient Group, iar proiectarea este semnată de Sapient Design (FOTO)",
+    "lead_hu": "Dezvoltatorul imobiliar VGP a achiziționat un teren de 294.000 de metri pătrați, aproximativ 29,4 hectare, în zona Oradea, unde urmează să dezvolte VGP Park Oradea, un nou hub logistic și industrial.",
+    "content_hu": "Dezvoltatorul imobiliar VGP a achiziționat un teren de 294.000 de metri pătrați, aproximativ 29,4 hectare, în zona Oradea, unde urmează să dezvolte VGP Park Oradea, un nou hub logistic și industrial.",
+    "title_ro": "VGP dezvoltă un nou hub logistic la Oradea, pe un teren de 29,4 hectare. Tranzacția, realizată prin Sapient Group, iar proiectarea este semnată de Sapient Design (FOTO)",
+    "lead_ro": "Dezvoltatorul imobiliar VGP a achiziționat un teren de 294.000 de metri pătrați, aproximativ 29,4 hectare, în zona Oradea, unde urmează să dezvolte VGP Park Oradea, un nou hub logistic și industrial.",
+    "content_ro": "Dezvoltatorul imobiliar VGP a achiziționat un teren de 294.000 de metri pătrați, aproximativ 29,4 hectare, în zona Oradea, unde urmează să dezvolte VGP Park Oradea, un nou hub logistic și industrial."
+  },
+  {
+    "group_id": "group_7fa640c6c1",
+    "fingerprint": "c75ce93f6406ff7506250e8776f1cafa",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Tesla a prezentat prima mașină zburătoare din lume",
+        "link": "https://www.gsp.ro/sporturi/noutati-auto/tesla-model-roadster-prima-masina-zburatoare-elon-musk-988645.html"
+      },
+      {
+        "source": "Go4IT",
+        "title": "VIDEO: Noul Tesla Roadster sfidează gravitația, dar producția este amânată până în 2028",
+        "link": "https://www.go4it.ro/content/auto/video-noul-tesla-roadster-sfideaza-gravitatia-dar-productia-este-amanata-pana-in-2028-19288018/"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Imagini spectaculoase de la noua lansare Tesla: Musk a prezentat Roadster, mașina care „zboară” și face acrobații în aer",
+        "link": "https://hotnews.ro/imagini-spectaculoase-de-la-noua-lansare-tesla-musk-a-prezentat-roadster-masina-care-zboara-si-face-acrobatii-in-aer-2377690"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Elon Musk promite un automobil cum nu s-a mai văzut: acceleraţie de la 0 la 100 km/h în mai puţin de o secundă, peste 370 km/h şi propulsoare inspirate de rachete. Noul Tesla Roadster ar urma să intre în producţie în 2028",
+        "link": "https://www.zf.ro/business-international/elon-musk-promite-automobil-s-vazut-acceleratie-0-100-km-h-putin-secunda-peste-370-km-h-propulsoare-inspirate-rachete-noul-tesla-roadster-ar-urma-intre-productie-2028-23261501"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Tesla Roadster se poate rezerva şi din România: varianta “de mijloc” costă peste 230.000 de euro. Preţul final nu se cunaşte încă, iar producţia începe abia în 2028",
+        "link": "https://www.zf.ro/auto/tesla-roadster-se-poate-rezerva-si-din-romania-varianta-de-mijloc-costa-peste-230-000-de-euro-pretul-final-nu-se-cunaste-inca-iar-productia-incepe-abia-in-2028-23261747"
+      },
+      {
+        "source": "Adevărul",
+        "title": "„E o farsă, nu-i așa?” Mașina zburătoare Tesla a lui Elon Musk stârnește uimire și neîncredere",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/e-o-farsa-nu-i-asa-masina-zburatoare-tesla-a-2564609.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Noua mașină zburătoare „Roadster” a Tesla nu poate circula pe șosele. Motivul pentru care nu poate fi utilizată pe drumurile publice",
+        "link": "https://www.mediafax.ro/stirile-zilei/noua-masina-zburatoare-roadster-a-tesla-nu-poate-circula-pe-sosele-motivul-pentru-care-nu-poate-fi-utilizata-pe-drumurile-publice-23826934"
+      }
+    ],
+    "published_at": 1792214859,
+    "title_hu": "A Tesla légi manővereket végző Roadster-prototípust mutatott be; a gyártáskezdetet 2028-ra ígéri",
+    "lead_hu": "A Tesla október 15-én, a texasi McGregorban légi manővereket végző Roadster-prototípust mutatott be. A közölt teljesítményadatokat függetlenül nem ellenőrizték, a sorozatgyártás kezdetét 2028-ra tervezik, a végleges ár pedig nem ismert. A romániai foglalási összegek – a Performance esetében mintegy 46 406, a Thrustnál 232 023 euró – nem vételárak; a Rocket nem közúti használatra homologizált.",
+    "content_hu": "• **2026. október 15.** A Roadster-prototípus egy rámpán felhajtott, a levegőben megfordult és forgásokat végzett, majd kontrolláltan landolt; később Tesla-autók és egy teherautó fölött is átugrott. A bemutatót a SpaceX McGregorban található tesztközpontjában tartották; egyes beszámolók Wacót nevezik meg helyszínként.\n\n• **Vezető nélküli bemutató.** Elon Musk szerint azért nem ült senki az autóban, hogy ne veszélyeztessenek embereket. A közönség jelenlétét azzal indokolta, hogy a nézők tanúsíthassák: nem mesterséges intelligenciával készített felvételt látnak.\n\n• **Gyorsulási adat.** Egy bemutatott mérés 0,81 másodperces 0–60 mérföld/órás eredményt közölt, ami körülbelül 97 km/órának felel meg. Lars Moravy, a Tesla járműmérnöki vezetője egy másik beszámoló szerint 100 km/órára egy másodpercnél rövidebb gyorsulást állított; a prototípus eredményeit függetlenül nem ellenőrizték.\n\n• **Sűrített levegős hajtóművek és leszorítóerő.** Musk 80 kilonewton tolóerőt állított, és azt mondta, a rendszernek nincs szüksége külön üzemanyagra. A Go4IT tíz hideggáz-hajtóműről és két, egyenként 600 literes tartályról számolt be; a Tesla állítása szerint menet közben a levegőből újratölthetők. Musk szerint az autó alatti szívórendszer a gravitációs gyorsulás kétszeresét meghaladó erőt is létrehozhat, így a Roadster fejjel lefelé haladhat. A részleteket nem támasztja alá teljes, hivatalos műszaki dokumentáció.\n\n• **Rövid ugrások, nem tartós repülés.** Roger Conner, a Smithsonian Nemzeti Légi- és Űrmúzeumának szakértője a CNN-nek azt mondta, a bemutató rövid ugrásokat, nem tartós repülést mutatott. Szerinte a közúti autók és a repülőgépek eltérő súly- és biztonsági követelményei miatt a hibrid mindkét szerepben korlátozott teljesítményű és drága lehet. Jim Dukhovny, az Alef vezetője megvalósíthatónak nevezte a felemelkedést, de az előrehaladásra való átmenetet és a stabilitást tartotta nehéz feladatnak.\n\n• **Három változat.** A Performance kétüléses, közúti használatra szánt modell; a Thrust kétüléses, pályára szánt változat; az egyszemélyes Rocketet légi manőverekre tervezték, és a beszámolók szerint ez kapja meg a repüléshez szükséges hajtóműveket. A közölt 0–100 km/órás gyorsulási célok rendre 1,6, 0,9 és 0,59 másodperc alattiak; mindhárom változathoz 480 kilométer feletti hatótávot állítanak.\n\n• **Sebesség, hatótáv és a korábbi célok.** A Rockethez 370 km/órás végsebességet közöltek, Musk pedig a Mach 0,5-ös, hozzávetőleg 616 km/órás célt is említette. A Tesla járműmérnöki vezetője 370 km/óra feletti sebességet és 480 kilométer feletti hatótávot jelzett. A 2017-ben említett, mintegy 998 kilométeres hatótáv több mint kétszerese a most közölt értéknek; a korábbi 1,9 másodperces gyorsulás és körülbelül 402 km/órás végsebesség szintén célérték volt, nem megerősített sorozatgyártási adat.\n\n• **Külső és nyilvánosságra nem hozott adatok.** A Go4IT szerint a forma szögletesebb lett a 2017-es változaténál, és steer-by-wire, brake-by-wire, throttle-by-wire rendszereket, valamint menet közben állítható hátsó szárnyat kaphat. A Tesla nem közölt teljes adatokat többek között a teljesítményről, a motorok elrendezéséről, az akkumulátor kapacitásáról, a gyártás helyszínéről és a tervezett darabszámokról.\n\n• **Foglalási összegek Romániában.** A Ziarul Financiar szerint a Performance foglalása összesen mintegy 46 406 euró: ebből 4 641 euró az első, visszatéríthető befizetés, a további 41 765 eurót tíz napon belül kell átutalni, különben a foglalást törlik. A Thrust foglalása körülbelül 232 023 euró, az első befizetés után további 227 382 euró esedékes tíz napon belül. A Thrustot korlátozott szériaként hirdetik, ügyfelenként egy rendelést fogadnak; a Rocket csak meghívással érhető el. Ezek az összegek nem végleges vételárak.\n\n• **Amerikai foglalások és ár.** Az Egyesült Államokban a Performance foglalásához 50 000 dollárt, a Thrustéhoz 250 000 dollárt kérnek; a Rocket csak meghívással érhető el. Végleges árat nem jelentettek be, egyes becslések szerint az meghaladhatja a 250 000 dollárt. A korábban foglalók befizetéseinek helyzete továbbra sem tisztázott.\n\n• **Közúti engedélyezés.** A Tesla termékoldala szerint a Rocket nem homologizált közúti használatra, és nem minden régióban lesz elérhető. Musk azt mondta, nem biztos, hogy minden joghatóságban legális lesz; a légi manőverek szabályozási kerete sem tisztázott. A bemutatott rövid ugrások önmagukban nem bizonyítják, hogy az autó tartós repülésre képes.\n\n• **A 2017-es terv és a Roadster előzményei.** A Tesla 2017-ben mutatta be a második generáció prototípusát, 200 000 dolláros bejelentett indulóárral és 2020-ra ígért kiszállításokkal. Az 1000 darabos Founders Series változatért 250 000 dollárt kellett teljes egészében előre fizetni. Musk 2018-ban már beszélt a SpaceX-szel közösen fejlesztett sűrített levegős hajtóművekről; 2017-ben ugyanakkor a repülő autók széles körű gyakorlati alkalmazhatóságával és biztonságával kapcsolatban is kételyeket fogalmazott meg. Az eredeti Roadster 2008 és 2012 között volt forgalomban, Lotus Elise-alapú alvázra épült, és a Tesla első elektromos autója volt. 2018-ban egy piros példányt a Falcon Heavy rakétával az űrbe juttattak, a volánnál a Starman nevű próbabábuval.\n\n• **Fogadtatás és szkepticizmus.** A közösségi médiában lelkes és kétkedő reakciók egyaránt megjelentek. Marques Brownlee technológiai tartalomkészítő megkérdőjelezte, hogy egy 1,8 tonnánál nehezebb autó végre tudja-e hajtani a bemutatott manővereket, illetve hogy a beígért teljesítmény sorozatgyártásban is elérhető lesz-e. Demis Hassabis és Sundar Pichai gratulált Musk-nak a bemutatóhoz.\n\n• **A modell szerepe és várható eladásai.** Musk 2023-ban azt mondta, a modellnek nem lesz jelentős pénzügyi hatása a Teslára. A Morningstar elemzője, Seth Goldstein évi körülbelül 2000 eladott autóra számít, és a Roadstert a Tesla mérnöki-technológiai képességeit bemutató csúcsmodellnek nevezte. Gene Munster elemző a bemutatót közvetlen kereskedelmi érték nélküli mérnöki erődemonstrációnak minősítette.\n\n• **A Tesla stratégiája és pénzügyi helyzete.** A vállalat egyre inkább az önvezetés, a mesterséges intelligencia és a robotika felé fordul. 2026-ban leállította a Model S és Model X értékesítését, hogy helyet adjon az Optimus robotok gyártásának, és bemutatta a kézi kezelőszervek nélküli Cybercab robotaxit. A Tesla október 21-én teszi közzé harmadik negyedéves eredményeit; az autóeladások az elmúlt két évben csökkentek, bár a magasabb üzemanyagárak hozzájárultak a harmadik negyedéves kiszállítások növekedéséhez.",
+    "title_ro": "Tesla a prezentat prototipul Roadster cu manevre aeriene; producția ar urma să înceapă în 2028",
+    "lead_ro": "Tesla a prezentat pe 15 octombrie, la McGregor, în Texas, un prototip Roadster care a executat manevre aeriene. Performanțele anunțate nu au fost verificate independent, producția de serie este programată să înceapă în 2028, iar prețul final nu este cunoscut. Sumele de rezervare din România — aproximativ 46.406 euro pentru Performance și 232.023 de euro pentru Thrust — nu sunt prețuri de vânzare; versiunea Rocket nu este omologată pentru drumurile publice.",
+    "content_ro": "• **15 octombrie 2026.** Prototipul Roadster a urcat pe o rampă, s-a răsturnat și s-a rotit în aer, apoi a aterizat controlat; ulterior a sărit peste automobile Tesla și un camion. Demonstrația a avut loc la centrul de testare SpaceX din McGregor, Texas, deși unele relatări indică Waco drept locul evenimentului.\n\n• **Demonstrație fără șofer.** Elon Musk a spus că mașina a fost lansată fără șofer pentru a nu pune pe nimeni în pericol. El a explicat prezența publicului prin nevoia de martori care să confirme că imaginile nu sunt generate de inteligența artificială.\n\n• **Accelerație.** O măsurătoare prezentată a indicat 0,81 secunde pentru 0–60 mile/oră, adică aproximativ 97 km/h. Lars Moravy, responsabilul Tesla pentru ingineria vehiculelor, ar fi afirmat separat că mașina accelerează la 100 km/h în mai puțin de o secundă; rezultatele prototipului nu au fost verificate independent.\n\n• **Propulsoare cu aer comprimat și apăsare aerodinamică.** Musk a susținut că propulsoarele generează 80 de kilonewtoni și nu au nevoie de combustibil separat. Go4IT a relatat că sistemul are zece propulsoare cu gaz rece și două rezervoare de câte 600 de litri, care, potrivit afirmațiilor companiei, pot fi reumplute cu aer în timpul mersului. Musk a mai spus că sistemul de aspirație de sub mașină poate genera o forță de peste două ori mai mare decât accelerația gravitațională, permițând deplasarea cu roțile în sus. Nu există o documentație tehnică oficială completă care să confirme detaliile.\n\n• **Salturi scurte, nu zbor susținut.** Roger Conner, expert la Muzeul Național al Aerului și Spațiului al Smithsonian, a declarat pentru CNN că demonstrația a arătat salturi scurte, nu zbor susținut. În opinia sa, cerințele diferite de greutate și siguranță ale automobilelor și aeronavelor ar putea face ca un hibrid să fie costisitor și limitat în ambele roluri. Jim Dukhovny, CEO-ul Alef, a numit posibilă ridicarea de la sol, dar a indicat trecerea la deplasarea înainte și stabilitatea drept provocări.\n\n• **Trei versiuni.** Performance este un model cu două locuri destinat drumurilor publice; Thrust este o versiune cu două locuri orientată spre circuit; Rocket, cu un singur loc, este concepută pentru manevre aeriene și, potrivit relatărilor, va avea propulsoarele necesare zborului. Tesla indică ținte de accelerație 0–100 km/h de sub 1,6 secunde pentru Performance, sub 0,9 secunde pentru Thrust și sub 0,59 secunde pentru Rocket. Pentru toate versiunile este anunțată o autonomie de peste 480 km.\n\n• **Viteză, autonomie și țintele din trecut.** Pentru Rocket a fost comunicată o viteză maximă de 370 km/h, iar Musk a menționat și ținta Mach 0,5, aproximativ 616 km/h. Responsabilul Tesla pentru ingineria vehiculelor a indicat o viteză de peste 370 km/h și o autonomie de peste 480 km. Autonomia de aproximativ 998 km anunțată în 2017 era de peste două ori mai mare; accelerația de 1,9 secunde și viteza maximă de aproximativ 402 km/h menționate atunci erau, de asemenea, ținte, nu date confirmate pentru un model de serie.\n\n• **Design și informații tehnice necomunicate.** Potrivit Go4IT, designul este mai angular decât cel prezentat în 2017 și ar putea include sisteme steer-by-wire, brake-by-wire și throttle-by-wire, precum și un eleron spate reglabil în mers. Tesla nu a publicat date complete despre putere, configurația motoarelor, capacitatea bateriei, locul producției sau volumele planificate.\n\n• **Rezervări în România.** Ziarul Financiar relatează că rezervarea versiunii Performance ajunge la aproximativ 46.406 euro: 4.641 de euro reprezintă prima plată, rambursabilă, iar alți 41.765 de euro trebuie transferați în zece zile, în caz contrar rezervarea fiind anulată. Pentru Thrust, totalul rezervării este de circa 232.023 de euro, cu încă 227.382 de euro de plătit în zece zile după prima tranșă. Thrust este prezentată ca ediție limitată, cu o singură comandă acceptată per client; Rocket este disponibilă doar pe bază de invitație. Aceste sume nu reprezintă prețurile finale ale mașinilor.\n\n• **Rezervări în SUA și prețul.** În Statele Unite, rezervarea costă 50.000 de dolari pentru Performance și 250.000 de dolari pentru Thrust; Rocket este disponibilă doar pe bază de invitație. Tesla nu a anunțat prețurile finale, iar unele estimări indică un preț de peste 250.000 de dolari. Situația depozitelor plătite de clienții care au rezervat modelul în trecut rămâne neclară.\n\n• **Omologare rutieră.** Pagina Tesla precizează că Rocket nu este omologată pentru utilizarea pe drumurile publice și nu va fi disponibilă în toate regiunile. Musk a spus că nu este sigur că modelul va fi legal în toate jurisdicțiile; nici reglementarea manevrelor aeriene nu este clară. Salturile scurte prezentate nu demonstrează, prin ele însele, capacitatea de zbor susținut.\n\n• **Planul din 2017 și istoricul Roadsterului.** Tesla a prezentat prototipul celei de-a doua generații în 2017, cu un preț de pornire anunțat de 200.000 de dolari și livrări promise pentru 2020. Cele 1.000 de exemplare Founders Series urmau să coste 250.000 de dolari, plătiți integral în avans. În 2018, Musk vorbea deja despre propulsoare cu aer comprimat dezvoltate împreună cu SpaceX; în 2017 exprimase însă și îndoieli privind utilitatea practică pe scară largă și siguranța mașinilor zburătoare. Roadsterul original a fost comercializat între 2008 și 2012, pe un șasiu Lotus Elise, și a fost primul automobil electric Tesla. În 2018, un exemplar roșu a fost trimis în spațiu cu racheta Falcon Heavy, având la volan manechinul Starman.\n\n• **Reacții și scepticism.** Reacțiile de pe rețelele sociale au fost împărțite între entuziasm și neîncredere. Creatorul de conținut tehnologic Marques Brownlee a pus la îndoială posibilitatea ca o mașină de peste 1,8 tone să execute manevrele prezentate și ca performanțele promise să fie disponibile în producția de serie. Demis Hassabis și Sundar Pichai l-au felicitat pe Musk pentru demonstrație.\n\n• **Rolul modelului și vânzările estimate.** Musk a declarat în 2023 că modelul nu va avea un impact financiar semnificativ asupra Tesla. Analistul Morningstar Seth Goldstein estimează vânzări de aproximativ 2.000 de mașini pe an și descrie Roadsterul drept un model emblematic care evidențiază capacitățile inginerești și tehnologice ale companiei. Analistul Gene Munster a numit prezentarea o demonstrație de forță inginerească fără valoare comercială directă.\n\n• **Strategia și situația financiară a Tesla.** Compania își mută tot mai mult atenția spre conducerea autonomă, inteligența artificială și robotică. În 2026 a oprit vânzările modelelor Model S și Model X pentru a face loc producției roboților Optimus și a prezentat robotaxiul Cybercab, fără comenzi manuale. Tesla urmează să publice rezultatele pentru trimestrul al treilea pe 21 octombrie; vânzările de automobile au scăzut în ultimii doi ani, deși prețurile ridicate ale carburanților au contribuit la creșterea livrărilor în trimestrul al treilea."
+  },
+  {
+    "group_id": "group_e90f9f6510",
+    "fingerprint": "401dc25360c8c48a69c16910074bddde",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/04/profimedia-0989517624.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Lotul cu care România va aborda Campionatele Mondiale de gimnastică de la Rotterdam",
+        "link": "https://www.g4media.ro/lotul-cu-care-romania-va-aborda-campionatele-mondiale-de-gimnastica-de-la-rotterdam.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Șapte gimnaști reprezintă România la Campionatele Mondiale de la Rotterdam. Cine face parte din lot",
+        "link": "https://www.mediafax.ro/sport/sapte-gimnasti-reprezinta-romania-la-campionatele-mondiale-de-la-rotterdam-cine-face-parte-din-lot-23824702"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Mondialele de gimnastică de la Rotterdam: când evoluează România și unde pot fi urmărite concursurile",
+        "link": "https://www.mediafax.ro/sport/mondialele-de-gimnastica-de-la-rotterdam-cand-evolueaza-romania-si-unde-pot-fi-urmarite-concursurile-23825527"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Campionatele Mondiale încep sâmbătă la Rotterdam » Când concurează românii",
+        "link": "https://www.gsp.ro/sporturi/gimnastica/campionatele-mondiale-incep-sambata-la-rotterdam-cand-concureaza-romanii-988803.html"
+      }
+    ],
+    "published_at": 1792214814,
+    "title_hu": "Hét román tornász indul a rotterdami világbajnokságon",
+    "lead_hu": "Október 17. és 25. között rendezik Rotterdam Ahoyban a 54. művészi torna-világbajnokságot, amelyen Romániát hat női tornász és Nicholas Țarcă képviseli. A csapatversenyek első három helyezettje olimpiai kvótát szerez a 2028-as Los Angeles-i játékokra.",
+    "content_hu": "• **Október 17–25. között** rendezik meg a 54. művészi torna-világbajnokságot a rotterdami Ahoy Arénában; a mezőnyben 83 ország 457 tornásza szerepel.\n\n• **Románia hét versenyzővel** vesz részt: a női csapatot Sabrina Maneca Voinea, Ariana Cotu, Alexia Blănaru, Daria Tănasă, Iris Iordache és Anamaria Mihăescu alkotja, a férfiaknál pedig Nicholas Țarcă indul.\n\n• **Nicholas Țarcă október 17-én, szombaton** 17:00 és 18:50 között versenyez a férfi selejtezőben. A román női csapat október 18-án, vasárnap 17:00 és 18:20 között kezdi a selejtezőt, az Egyesült Államokkal és Németországgal együtt.\n\n• **A csapatversenyek első három helyezettje olimpiai kvótát szerez** a 2028-as Los Angeles-i játékokra. A selejtezőkből a legjobb nyolc csapat jut a csapatdöntőbe.\n\n• **A versenyt ingyenesen közvetíti** az Eurovision Sport platformja.",
+    "title_ro": "Șapte gimnaști români participă la Mondialele de la Rotterdam",
+    "lead_ro": "Campionatele Mondiale de gimnastică artistică, ediția a 54-a, se desfășoară la Rotterdam Ahoy între 17 și 25 octombrie. România este reprezentată de șase gimnaste și de Nicholas Țarcă, iar primele trei echipe din finalele pe echipe obțin calificarea la Jocurile Olimpice din 2028.",
+    "content_ro": "• **Între 17 și 25 octombrie** are loc la Rotterdam Ahoy cea de-a 54-a ediție a Campionatelor Mondiale de gimnastică artistică, cu 457 de sportivi din 83 de federații naționale.\n\n• **România participă cu șapte gimnaști**: Sabrina Maneca Voinea, Ariana Cotu, Alexia Blănaru, Daria Tănasă, Iris Iordache și Anamaria Mihăescu în competiția feminină, respectiv Nicholas Țarcă în cea masculină.\n\n• **Nicholas Țarcă intră în calificări sâmbătă, 17 octombrie**, între orele 17:00 și 18:50. Echipa feminină a României concurează duminică, 18 octombrie, între 17:00 și 18:20, alături de Statele Unite și Germania.\n\n• **Primele trei echipe clasate în finalele pe echipe obțin calificarea** la Jocurile Olimpice de la Los Angeles din 2028. Primele opt echipe din calificări avansează în finala pe echipe.\n\n• **Competiția va putea fi urmărită gratuit** pe platforma Eurovision Sport."
+  },
+  {
+    "group_id": "group_74f579df43",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-09.00.42-1024x651.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "O cooperativă agricolă din Giurgiu a deschis un aprozar la Sibiu",
+        "link": "https://economedia.ro/o-cooperativa-agricola-din-giurgiu-a-deschis-un-aprozar-la-sibiu.html"
+      }
+    ],
+    "published_at": 1792214616,
+    "title_hu": "O cooperativă agricolă din Giurgiu a deschis un aprozar la Sibiu",
+    "lead_hu": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a deschis un aprozar la Sibiu. Investiția inițială a fost de aproximativ 20.000 de euro, din fonduri proprii, iar …",
+    "content_hu": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a deschis un aprozar la Sibiu. Investiția inițială a fost de aproximativ 20.000 de euro, din fonduri proprii, iar chiria lunară este de circa 2.700 de euro, relatează Turnul Sfatului. Magazinul a fost inaugurat duminică, 11 octombrie, pe bulevardul Mihai Viteazu, și […]",
+    "title_ro": "O cooperativă agricolă din Giurgiu a deschis un aprozar la Sibiu",
+    "lead_ro": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a deschis un aprozar la Sibiu. Investiția inițială a fost de aproximativ 20.000 de euro, din fonduri proprii, iar …",
+    "content_ro": "O cooperativă agricolă din județul Giurgiu, formată din 75 de familii de producători, a deschis un aprozar la Sibiu. Investiția inițială a fost de aproximativ 20.000 de euro, din fonduri proprii, iar chiria lunară este de circa 2.700 de euro, relatează Turnul Sfatului. Magazinul a fost inaugurat duminică, 11 octombrie, pe bulevardul Mihai Viteazu, și […]"
+  },
+  {
+    "group_id": "group_d9b4947e82",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Rákay Philip: az őt ért támadások Orbán Viktort célozzák",
+        "link": "https://a24.hu/rakay-philip-az-ot-ert-tamadasok-orban-viktort-celozzak/"
+      }
+    ],
+    "published_at": 1792214488,
+    "title_hu": "Rákay Philip: az őt ért támadások Orbán Viktort célozzák",
+    "lead_hu": "Rákay Philip szerint az április 12-i választási vereség után őt ért támadások valójában Orbán Viktor és a jobboldali közösség ellen irányulnak. A producer erről az első Országos DPK Tábor kapcsán besz…",
+    "content_hu": "Rákay Philip szerint az április 12-i választási vereség után őt ért támadások valójában Orbán Viktor és a jobboldali közösség ellen irányulnak. A producer erről az első Országos DPK Tábor kapcsán beszélt, amelyet Lakiteleken tartanak. Rákay azt mondta, a vereség sokként érte a nemzeti, konzervatív, keresztény és patrióta közösséget, de a kudarc után több ezer ember […]",
+    "title_ro": "Rákay Philip: az őt ért támadások Orbán Viktort célozzák",
+    "lead_ro": "Rákay Philip szerint az április 12-i választási vereség után őt ért támadások valójában Orbán Viktor és a jobboldali közösség ellen irányulnak. A producer erről az első Országos DPK Tábor kapcsán besz…",
+    "content_ro": "Rákay Philip szerint az április 12-i választási vereség után őt ért támadások valójában Orbán Viktor és a jobboldali közösség ellen irányulnak. A producer erről az első Országos DPK Tábor kapcsán beszélt, amelyet Lakiteleken tartanak. Rákay azt mondta, a vereség sokként érte a nemzeti, konzervatív, keresztény és patrióta közösséget, de a kudarc után több ezer ember […]"
+  },
+  {
+    "group_id": "group_3f1eb5b80f",
+    "fingerprint": "4cc66f13ba2352c3dbe6c7dfd9ebb7b3",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/63559127_2367084603335165_8180443575251632128_n-1024x449.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Haos pe aeroporturile din Italia: Zboruri anulate și întârzieri masive după o defecțiune majoră",
+        "link": "https://www.mediafax.ro/externe/haos-pe-aeroporturile-din-italia-zboruri-anulate-si-intarzieri-masive-dupa-o-defectiune-majora-23826435"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Traficul aerian e perturbat în toată Italia după o problemă apărută în timpul nopții",
+        "link": "https://hotnews.ro/traficul-aerian-e-perturbat-in-intreaga-italie-dupa-o-problema-aparuta-in-timpul-noptii-2377732"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Probleme tehnice în controlul traficului aerian din Italia. Zboruri întârziate și anulate pe aeroporturile din țară",
+        "link": "https://www.mediafax.ro/externe/probleme-tehnice-in-controlul-traficului-aerian-din-italia-zboruri-intarziate-si-anulate-pe-aeroporturile-din-tara-23826504"
+      },
+      {
+        "source": "G4Media",
+        "title": "Haos în traficul aerian din Italia / Avioanele au rămas la sol timp de două ore în toată țara /„Anomalii în rețeaua de transmisie a datelor, dar nu e vorba de sabotaj”",
+        "link": "https://www.g4media.ro/haos-in-traficul-aerian-din-italia-avioanele-au-ramas-la-sol-timp-de-doua-ore-in-toata-tara-anomalii-in-reteaua-de-transmisie-a-datelor-dar-nu-e-vorba-de-sabotaj.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Italia a redus a jumătate traficul aerian din cauza unei probleme legate de transmisia datelor",
+        "link": "https://www.digi24.ro/stiri/externe/italia-a-redus-a-jumatate-traficul-aerian-din-cauza-unei-probleme-legate-de-transmisia-datelor-3996499"
+      }
+    ],
+    "published_at": 1792214442,
+    "title_hu": "Adathálózati hiba miatt korlátozták az olasz légiforgalmat",
+    "lead_hu": "Egy, az országos légiforgalmi irányítást támogató adatátviteli hálózatban észlelt műszaki hiba miatt pénteken járatkésések és -törlések voltak Olaszországban. Az ENAV ideiglenesen a felére csökkentette a forgalomkezelési kapacitást; a hatóságok szerint nem szándékos beavatkozás okozta a problémát.",
+    "content_hu": "• **Az éjszaka észlelt műszaki hiba** az olasz légiforgalmi irányítás országos adatátviteli hálózatát érintette, ezért az ENAV ideiglenes forgalmi korlátozásokat vezetett be.\n\n• **A kapacitás mintegy 50 százalékra csökkent**; a korlátozások a reggeli forgalom növekedésekor léptek életbe, és több járat késéséhez, illetve törléséhez vezettek.\n\n• **A római Fiumicino repülőtéren** négy járatot töröltek, körülbelül húsz pedig akár egyórás késést szenvedett. Más repülőtereken ennél hosszabb várakozásokról is beszámoltak.\n\n• **Az ENAV kizárta a rosszindulatú beavatkozást**, és közölte, hogy a hiba forrását azonosították, a rendszerek teljes helyreállításán pedig dolgoznak. A hatóságok a biztonság fenntartását nevezték elsődlegesnek.\n\n• **A járatindulás előtt érdemes tájékozódni:** a római és milánói repülőtér-üzemeltetők is arra kérték az utasokat, hogy ellenőrizzék a légitársaságok friss tájékoztatását. A fennakadásokat az easyJet dolgozóinak aznapra meghirdetett sztrájkja is súlyosbíthatta.",
+    "title_ro": "O defecțiune a rețelei de date a dus la restricții în traficul aerian din Italia",
+    "lead_ro": "O problemă tehnică la rețeaua de transmisie a datelor care susține controlul traficului aerian a provocat vineri întârzieri și anulări de zboruri în Italia. ENAV a redus temporar la jumătate capacitatea de gestionare a traficului, iar autoritățile au exclus o cauză rău intenționată.",
+    "content_ro": "• **Defecțiunea tehnică detectată în timpul nopții** a afectat rețeaua națională de transmitere a datelor folosită de sistemele de control al traficului aerian, iar ENAV a introdus restricții temporare.\n\n• **Capacitatea de gestionare a traficului a fost redusă la aproximativ 50%**; măsurile au intrat în vigoare odată cu creșterea traficului de dimineață și au dus la întârzieri și anulări.\n\n• **Pe aeroportul Roma Fiumicino** au fost anulate patru zboruri, iar aproximativ 20 au înregistrat întârzieri de până la o oră. Pe alte aeroporturi au fost raportate perioade de așteptare mai lungi.\n\n• **ENAV a exclus o cauză rău intenționată** și a anunțat că a identificat sursa problemei și lucrează la restabilirea completă a sistemelor. Autoritatea a precizat că siguranța operațiunilor rămâne prioritară.\n\n• **Pasagerii au fost îndemnați să verifice informațiile înainte de plecare:** operatorii aeroporturilor din Roma și Milano le-au recomandat să urmărească actualizările companiilor aeriene. Situația putea fi complicată și de greva angajaților easyJet anunțată pentru aceeași zi."
+  },
+  {
     "group_id": "group_7e0e93ff7c",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -4086,64 +4283,6 @@
     "content_ro": "• **Până la sfârșitul anului**, noul Guvern trebuie să gestioneze restanțe importante și necesarul de finanțare al statului. Pentru funcționarea sistemului de sănătate, serviciile de urgență, ambulanță și plata salariilor ar fi necesare peste 7 miliarde de lei, iar Casa Națională de Asigurări de Sănătate ar avea nevoie de încă 6,4 miliarde de lei.\n\n• **Spitalele și programele naționale de sănătate** se confruntă cu lipsa fondurilor, iar fără bani suplimentari sunt posibile blocaje în funcționare și în achizițiile de medicamente și materiale sanitare. Reprezentanții pacienților consideră urgentă rectificarea bugetară, avertizând că finanțarea unor programe și unități medicale ar putea deveni insuficientă în ultimele luni ale anului.\n\n• **Programul de guvernare** propune extinderea prevenției, dezvoltarea medicinei primare și a serviciilor comunitare, reorganizarea rețelei de spitale, acces mai rapid la medicamente și modernizarea sistemelor digitale de sănătate. Unele măsuri au termene concrete: printre obiective se numără extinderea screeningului neonatal la nivel național în 2027 și un plan pentru sănătatea mintală a copiilor și adolescenților.\n\n• **Finanțarea și aplicarea programului** rămân neclare în mai multe domenii: pentru numeroase obiective nu sunt precizate bugete, ținte concrete sau calendare detaliate, iar unele măsuri depind de resursele disponibile. Organizațiile de pacienți spun că implementarea presupune atât bani și personal medical suficient, cât și baze de date interoperabile.\n\n• **Rectificarea bugetară și distribuirea fondurilor** reprezintă, astfel, o probă imediată pentru noul Guvern. Statul trebuie să finanțeze în paralel funcționarea instituțiilor, salariile, pensiile și alte obligații restante; o parte din necesar ar putea fi acoperită prin împrumuturi, în condițiile unor costuri ridicate de finanțare."
   },
   {
-    "group_id": "group_7fa640c6c1",
-    "fingerprint": "f3cb92113886c80b2455990b29b73142",
-    "category": "Sport",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Tesla a prezentat prima mașină zburătoare din lume",
-        "link": "https://www.gsp.ro/sporturi/noutati-auto/tesla-model-roadster-prima-masina-zburatoare-elon-musk-988645.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Elon Musk a prezentat mașina care zboară, se răsucește în aer și sare peste alte vehicule. Ce poate face noul Tesla Roadster",
-        "link": "https://www.mediafax.ro/externe/elon-musk-a-prezentat-masina-care-zboara-se-rasuceste-in-aer-si-sare-peste-alte-vehicule-ce-poate-face-noul-tesla-roadster-23826382"
-      },
-      {
-        "source": "Go4IT",
-        "title": "VIDEO: Noul Tesla Roadster sfidează gravitația, dar producția este amânată până în 2028",
-        "link": "https://www.go4it.ro/content/auto/video-noul-tesla-roadster-sfideaza-gravitatia-dar-productia-este-amanata-pana-in-2028-19288018/"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Imagini spectaculoase de la noua lansare Tesla: Musk a prezentat Roadster, mașina care „zboară” și face acrobații în aer",
-        "link": "https://hotnews.ro/imagini-spectaculoase-de-la-noua-lansare-tesla-musk-a-prezentat-roadster-masina-care-zboara-si-face-acrobatii-in-aer-2377690"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Elon Musk promite un automobil cum nu s-a mai văzut: acceleraţie de la 0 la 100 km/h în mai puţin de o secundă, peste 370 km/h şi propulsoare inspirate de rachete. Noul Tesla Roadster ar urma să intre în producţie în 2028",
-        "link": "https://www.zf.ro/business-international/elon-musk-promite-automobil-s-vazut-acceleratie-0-100-km-h-putin-secunda-peste-370-km-h-propulsoare-inspirate-rachete-noul-tesla-roadster-ar-urma-intre-productie-2028-23261501"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Tesla Roadster se poate rezerva şi din România: varianta “de mijloc” costă peste 230.000 de euro. Preţul final nu se cunaşte încă, iar producţia începe abia în 2028",
-        "link": "https://www.zf.ro/auto/tesla-roadster-se-poate-rezerva-si-din-romania-varianta-de-mijloc-costa-peste-230-000-de-euro-pretul-final-nu-se-cunaste-inca-iar-productia-incepe-abia-in-2028-23261747"
-      },
-      {
-        "source": "Adevărul",
-        "title": "„E o farsă, nu-i așa?” Mașina zburătoare Tesla a lui Elon Musk stârnește uimire și neîncredere",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/e-o-farsa-nu-i-asa-masina-zburatoare-tesla-a-2564609.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Noua mașină zburătoare „Roadster” a Tesla nu poate circula pe șosele. Motivul pentru care nu poate fi utilizată pe drumurile publice",
-        "link": "https://www.mediafax.ro/stirile-zilei/noua-masina-zburatoare-roadster-a-tesla-nu-poate-circula-pe-sosele-motivul-pentru-care-nu-poate-fi-utilizata-pe-drumurile-publice-23826934"
-      }
-    ],
-    "published_at": 1792176057,
-    "title_hu": "A Tesla légi manővereket végző Roadster-prototípust mutatott be; a gyártást 2028-ra ígéri",
-    "lead_hu": "A Tesla október 15-én, a texasi McGregorban tartott bemutatón rövid légi manővereket végző Roadster-prototípust mutatott be. A teljesítményadatokat függetlenül nem ellenőrizték, a sorozatgyártást 2028-ra tervezik, a végleges ár pedig nem ismert. A romániai foglalási oldal alapján a Performance változat foglalási összege mintegy 46 406 euró, a Thrusté 232 023 euró, de ezek nem a végleges vételárak; a Rocket jelenleg nem közúti engedélyezésű.",
-    "content_hu": "• **2026. október 15.** A Roadster-prototípus egy rámpán felhajtott, a levegőben megfordult és forgásokat végzett, majd kontrolláltan landolt; később Tesla-autók és egy teherautó fölött is átugrott. A bemutatót a SpaceX McGregorban, Texasban található tesztközpontjában tartották; egyes beszámolók Wacót jelölik meg helyszínként.\n\n• **Vezető nélküli bemutató.** Elon Musk szerint az autót azért indították el vezető nélkül, hogy senkit ne veszélyeztessenek; a teszt sikere sem volt garantált. A közönség jelenlétét azzal indokolta, hogy tanúk igazolhassák: nem mesterséges intelligenciával készített felvételt látnak.\n\n• **Gyorsulási adat.** Egy bemutatott mérés 0,81 másodperces 0–60 mérföld/órás eredményt közölt, ami körülbelül 97 km/órának felel meg. Lars Moravy, a Tesla járműmérnöki vezetője egy másik beszámoló szerint 100 km/órára egy másodpercnél rövidebb gyorsulást állított; az adat prototípusra vonatkozik, független ellenőrzés és teljes műszaki dokumentáció nélkül.\n\n• **Sűrített levegős hajtóművek.** Musk 80 kilonewton tolóerőt állított, és azt mondta, külön üzemanyagra nincs szükség. A Go4IT tíz hideggáz-hajtóműről és két, egyenként 600 literes tartályról számolt be; állítása szerint a rendszer menet közben a levegőből újratöltheti a tartályokat. A részleteket teljes, hivatalos műszaki dokumentáció nem erősítette meg.\n\n• **Leszorítóerő.** Musk szerint az autó alatti szívórendszer a gravitációs gyorsulás kétszeresét meghaladó erőt hozhat létre, így a Roadster fejjel lefelé is haladhat. A gyártói állításokat függetlenül nem ellenőrizték.\n\n• **Rövid ugrások, nem tartós repülés.** Roger Conner, a Smithsonian Nemzeti Légi- és Űrmúzeumának szakértője a CNN-nek azt mondta, a bemutató rövid ugrásokat, nem tartós repülést mutatott. Szerinte a közúti autók és a repülőgépek eltérő súly- és biztonsági követelményei miatt egy ilyen hibrid mindkét szerepben korlátozott teljesítményű és drága lehet. Jim Dukhovny, az Alef vezetője megvalósíthatónak nevezte a felemelkedést, de a függőleges emelkedésből az előrehaladásba való átmenetet és a stabilitást tartotta nehéz feladatnak.\n\n• **Három változat.** A Performance kétüléses, közúti használatra szánt modell; a Thrust kétüléses, pályára szánt változat; az egyszemélyes Rocketet légi manőverekre tervezték, és a beszámolók szerint ez kapja meg a repüléshez szükséges hajtóműveket. A közölt 0–100 km/órás gyorsulási célok rendre 1,6, 0,9 és 0,59 másodperc alattiak; mindhárom változathoz 480 kilométer feletti hatótávot állítanak.\n\n• **Sebesség és hatótáv.** A Rockethez 370 km/órás végsebességet közöltek, Musk pedig a Mach 0,5-ös, hozzávetőleg 616 km/órás célt is említette. A Tesla járműmérnöki vezetője 370 km/óra feletti sebességet és 480 kilométer feletti hatótávot jelzett. Ezek nem függetlenül ellenőrzött, sorozatgyártású adatok.\n\n• **Eltérés a 2017-es céloktól.** Az akkori, mintegy 998 kilométeres hatótáv kevesebb mint fele a most közölt, 480 kilométert meghaladó értéknek. A korábbi generációra 1,9 másodperces 0–60 mérföld/órás gyorsulást és körülbelül 402 km/órás végsebességet is célként adtak meg; ezek nem a jelenlegi sorozatmodell megerősített adatai.\n\n• **A 2017-es változat és a Founders Series.** A korábbi terv négyüléses Roadsterről szólt. A 200 000 dolláros indulóár mellett az 1000 darabos Founders Series változatot 250 000 dolláros, teljes egészében előre fizetendő összegért kínálták; a mostani Thrust foglalási összege ezzel szemben 250 000 dollár.\n\n• **Külső és műszaki részletek.** A Go4IT szerint a 2017-es változathoz képest szögletesebb lett a Roadster formaterve, és steer-by-wire, brake-by-wire, valamint throttle-by-wire rendszert, továbbá menet közben állítható hátsó szárnyat kaphat. A Tesla nem közölt teljes adatokat többek között a teljesítményről, a motorok elrendezéséről, az akkumulátor kapacitásáról, a gyártás helyszínéről és a tervezett darabszámokról.\n\n• **Gyártás és engedélyezés.** A Tesla 2028-at jelölte meg a gyártás kezdeteként. A Rocket közúti homologizációja, a légi manőverek szabályozása és az egyes országokban való elérhetősége továbbra sem tisztázott; Musk is elismerte, hogy az autó nem feltétlenül lesz legális minden joghatóságban. A Tesla termékoldala szerint a Rocket nem közúti használatra homologizált, és nem minden régióban lesz elérhető. A repülő autókra vonatkozó szabályozási keret sem egyértelmű.\n\n• **Foglalási összegek Romániában.** A Ziarul Financiar szerint a Performance foglalása összesen körülbelül 46 406 euró: ebből mintegy 4 641 euró az első, visszatéríthető befizetés, a további 41 765 eurót pedig tíz napon belül kell átutalni, különben a foglalást törlik. A Thrust foglalási összege összesen mintegy 232 023 euró, az első 4 641 eurós befizetés után tíz napon belül további 227 382 euró esedékes. Ezek nem végleges vételárak; a Thrust esetében egy ügyféltől egy rendelést fogadnak, a Rocket pedig csak meghívással érhető el.\n\n• **Amerikai foglalások és becsült ár.** Az Egyesült Államokban a Performance változathoz 50 000 dolláros, a Thrusthoz 250 000 dolláros befizetés tartozik; a Rocket csak meghívással érhető el. Végleges árat nem jelentettek be, egyes becslések szerint az meghaladhatja a 250 000 dollárt. A korábban foglalók befizetéseinek helyzete továbbra sem tisztázott.\n\n• **A Roadster előzménye.** A Tesla 2017-ben mutatta be a második generáció prototípusát, 200 000 dolláros bejelentett árral és 2020-ra ígért kiszállításokkal. Elon Musk 2018-ban már beszélt a SpaceX-szel közösen fejlesztett, sűrített levegős hajtóművekről és arról, hogy ezek akár lebegést is lehetővé tehetnek. Az eredeti Roadster 2008 és 2012 között volt forgalomban, Lotus Elise-alapú alvázra épült, és a Tesla első elektromos autója volt; 2018-ban egy piros példányt a Falcon Heavy rakétával az űrbe juttattak, a volánnál a Starman nevű próbabábuval.\n\n• **A modell szerepe és várható eladásai.** Musk 2023-ban azt mondta, hogy a modellnek nem lesz jelentős pénzügyi hatása a Teslára. A Morningstar elemzője, Seth Goldstein évi körülbelül 2000 eladott autóra számít, és a Roadstert a Tesla mérnöki-technológiai képességeit bemutató csúcsmodellnek nevezte. Gene Munster elemző a bemutatót közvetlen kereskedelmi érték nélküli mérnöki erődemonstrációnak minősítette.\n\n• **Fogadtatás és szkepticizmus.** A bemutató után a közösségi médiában lelkes és kétkedő reakciók egyaránt megjelentek. A technológiai tartalomkészítő Marques Brownlee kétségbe vonta, hogy egy több mint 1,8 tonnás autó a bemutatott ugrásokat és forgásokat végre tudja hajtani, illetve hogy a beígért teljesítmény sorozatgyártásban is elérhető lesz.\n\n• **A Tesla stratégiája és pénzügyi helyzete.** A vállalat egyre inkább az önvezetés, a mesterséges intelligencia és a robotika felé fordul. 2026-ban leállította a Model S és Model X értékesítését, hogy helyet adjon az Optimus robotok gyártásának, és bemutatta a kézi kezelőszervek nélküli Cybercab robotaxit. A Tesla október 21-én teszi közzé harmadik negyedéves eredményeit; az autóeladások az elmúlt két évben csökkentek, bár a magasabb üzemanyagárak hozzájárultak a harmadik negyedéves kiszállítások növekedéséhez.",
-    "title_ro": "Tesla a prezentat prototipul Roadster care execută manevre aeriene; producția este promisă pentru 2028",
-    "lead_ro": "Tesla a prezentat pe 15 octombrie, la un eveniment organizat în McGregor, Texas, un prototip Roadster care a executat scurte manevre aeriene. Performanțele anunțate nu au fost verificate independent, producția de serie este planificată pentru 2028, iar prețul final nu este cunoscut. Potrivit paginii Tesla din România, rezervarea versiunii Performance ajunge la aproximativ 46.406 euro, iar cea pentru Thrust la 232.023 de euro, însă aceste sume nu reprezintă prețurile finale; varianta Rocket nu este omologată în prezent pentru drumurile publice.",
-    "content_ro": "• **15 octombrie 2026.** Prototipul Roadster a urcat pe o rampă, s-a răsturnat și s-a rotit în aer, apoi a aterizat controlat; ulterior, a sărit peste mai multe automobile Tesla și un camion. Evenimentul a avut loc la centrul de testare SpaceX din McGregor, Texas; unele relatări au indicat Waco drept loc al prezentării.\n\n• **Demonstrație fără șofer.** Elon Musk a spus că automobilul a fost lansat fără șofer pentru a nu pune pe nimeni în pericol și că reușita testului nu era garantată. El a justificat prezența publicului spunând că martorii puteau confirma că nu urmăreau imagini generate de inteligența artificială.\n\n• **Accelerația.** O măsurătoare prezentată la eveniment a indicat 0,81 secunde pentru 0–60 mile/oră, echivalentul a aproximativ 97 km/h. Lars Moravy, responsabilul Tesla pentru ingineria vehiculelor, a afirmat într-o altă relatare că mașina poate ajunge la 100 km/h în mai puțin de o secundă; datele privesc un prototip și nu au fost însoțite de verificare independentă sau de documentație tehnică completă.\n\n• **Propulsoare cu aer comprimat.** Musk a afirmat că sistemul generează o forță de împingere de 80 de kilonewtoni și nu necesită combustibil separat. Go4IT a relatat despre zece propulsoare cu gaz rece și două rezervoare de câte 600 de litri; potrivit publicației, sistemul poate reumple rezervoarele din aer în timpul deplasării. Detaliile nu au fost confirmate printr-o documentație tehnică oficială completă.\n\n• **Forța de apăsare.** Potrivit lui Musk, sistemul de aspirație de sub automobil poate genera o forță mai mare de două ori decât accelerația gravitațională, ceea ce i-ar permite Roadsterului să ruleze cu roțile în sus. Afirmațiile producătorului nu au fost verificate independent.\n\n• **Salturi scurte, nu zbor susținut.** Roger Conner, expert la Muzeul Național al Aerului și Spațiului al Smithsonian, a declarat pentru CNN că demonstrația a arătat salturi scurte, nu zbor susținut. El a spus că diferențele dintre cerințele de greutate și siguranță ale automobilelor și aeronavelor ar putea face ca un astfel de hibrid să aibă performanțe limitate în ambele roluri și să fie scump. Jim Dukhovny, directorul Alef, a considerat posibilă ridicarea de la sol, dar a indicat drept provocări trecerea de la urcarea verticală la deplasarea înainte și stabilitatea.\n\n• **Trei versiuni.** Performance este un model cu două locuri, destinat drumurilor publice; Thrust este o versiune cu două locuri, orientată către circuit; Rocket, cu un singur loc, este proiectată pentru manevre aeriene și, potrivit relatărilor, va primi propulsoarele necesare zborului. Țintele de accelerație anunțate pentru 0–100 km/h sunt sub 1,6, 0,9 și, respectiv, 0,59 secunde; pentru toate versiunile este indicată o autonomie de peste 480 km.\n\n• **Viteza și autonomia.** Pentru Rocket a fost anunțată o viteză maximă de 370 km/h, iar Musk a menționat și ținta Mach 0,5, aproximativ 616 km/h. Responsabilul Tesla pentru ingineria vehiculelor a indicat o viteză de peste 370 km/h și o autonomie de peste 480 km. Acestea nu sunt date confirmate independent pentru un model produs în serie.\n\n• **Diferențe față de țintele din 2017.** Autonomia de aproximativ 998 km promisă atunci este de peste două ori mai mare decât valoarea de peste 480 km comunicată acum. Pentru generația precedentă fuseseră menționate ca obiective o accelerație 0–60 mile/oră în 1,9 secunde și o viteză maximă de aproximativ 402 km/h; acestea nu sunt specificații confirmate ale modelului actual de serie.\n\n• **Versiunea din 2017 și Founders Series.** Planul inițial prevedea un Roadster cu patru locuri. Pe lângă prețul de pornire anunțat de 200.000 de dolari, Tesla a oferit ediția Founders Series, limitată la 1.000 de exemplare, la 250.000 de dolari, sumă achitată integral în avans; rezervarea actuală pentru Thrust este tot de 250.000 de dolari.\n\n• **Design și detalii tehnice.** Potrivit Go4IT, designul Roadsterului este mai angular decât cel prezentat în 2017 și ar putea include sisteme steer-by-wire, brake-by-wire și throttle-by-wire, precum și un eleron spate reglabil în mers. Tesla nu a oferit informații complete despre putere, configurația motoarelor, capacitatea bateriei, locul producției sau volumele planificate.\n\n• **Producție și omologare.** Tesla a indicat anul 2028 pentru începerea producției. Omologarea Rocket pentru drumurile publice, reglementarea manevrelor aeriene și disponibilitatea în diferite țări rămân neclare; Musk a recunoscut că vehiculul nu va fi neapărat legal în toate jurisdicțiile. Pagina de produs Tesla precizează că Rocket nu este omologat pentru drumurile publice și nu va fi disponibil în toate regiunile. Nici cadrul de reglementare pentru mașinile zburătoare nu este clar.\n\n• **Sumele de rezervare din România.** Ziarul Financiar scrie că rezervarea pentru Performance ajunge în total la aproximativ 46.406 euro: circa 4.641 de euro reprezintă prima plată, rambursabilă, iar alți 41.765 de euro trebuie virați în zece zile, în caz contrar rezervarea fiind anulată. Pentru Thrust, suma totală de rezervare este de aproximativ 232.023 de euro: după prima plată de 4.641 de euro, încă 227.382 de euro sunt scadenți în zece zile. Aceste sume nu sunt prețuri finale; pentru Thrust se acceptă o singură comandă per client, iar Rocket este disponibil doar pe bază de invitație.\n\n• **Rezervări în SUA și preț estimat.** În Statele Unite, rezervarea pentru Performance presupune o plată de 50.000 de dolari, iar pentru Thrust, de 250.000 de dolari; Rocket este disponibil doar pe bază de invitație. Tesla nu a anunțat prețurile finale, iar unele estimări indică un preț de peste 250.000 de dolari. Situația sumelor plătite de clienții care au rezervat anterior nu este clarificată.\n\n• **Istoricul Roadsterului.** Tesla a prezentat în 2017 prototipul celei de-a doua generații, cu un preț anunțat de 200.000 de dolari și livrări promise pentru 2020. În 2018, Elon Musk vorbea deja despre propulsoare cu aer comprimat dezvoltate împreună cu SpaceX și despre posibilitatea ca acestea să permită automobilului să plutească. Primul Roadster, comercializat între 2008 și 2012, folosea un șasiu Lotus Elise și a fost primul automobil electric Tesla; în 2018, un exemplar roșu a fost trimis în spațiu cu racheta Falcon Heavy, având la volan manechinul Starman.\n\n• **Rolul modelului și vânzările estimate.** În 2023, Musk a spus că modelul nu va avea un impact financiar semnificativ asupra Tesla. Seth Goldstein, analist Morningstar, estimează vânzări de aproximativ 2.000 de automobile pe an și descrie Roadsterul ca pe un model de vârf care să ilustreze capacitățile inginerești și tehnologice ale Tesla. Analistul Gene Munster a numit demonstrația o etalare de forță inginerească fără valoare comercială directă.\n\n• **Reacții și scepticism.** După prezentare, pe rețelele sociale au apărut atât reacții entuziaste, cât și sceptice. Marques Brownlee, creator de conținut din domeniul tehnologiei, s-a îndoit că o mașină de peste 1,8 tone poate executa salturile și rotațiile prezentate și că performanțele promise vor fi realizate în producția de serie.\n\n• **Strategia și situația financiară a Tesla.** Compania își mută tot mai mult atenția spre conducerea autonomă, inteligența artificială și robotică. În 2026, a oprit vânzările modelelor Model S și Model X pentru a face loc producției roboților Optimus și a prezentat Cybercab, un robotaxi fără comenzi manuale. Tesla va publica rezultatele pentru trimestrul al treilea pe 21 octombrie; vânzările de automobile au scăzut în ultimii doi ani, deși prețurile mai mari la carburanți au contribuit la creșterea livrărilor din trimestrul al treilea."
-  },
-  {
     "group_id": "group_e9458010d6",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/femeie-moarta.jpg-1200x675.jpeg",
@@ -5542,211 +5681,5 @@
     "title_ro": "Bolojan propune susținerea învestirii Guvernului Niculescu, în timp ce PNL trebuie să returneze 14 milioane de lei",
     "lead_ro": "Ilie Bolojan spune că PNL ar putea vota învestirea Guvernului Luca Niculescu în baza unui acord limitat, dar nu va reface coaliția și va rămâne în opoziție. Între timp, Înalta Curte a respins definitiv recursul partidului în procesul cu AEP, obligând PNL să returneze 14 milioane de lei; Bolojan cere stabilizarea finanțelor partidului și asumarea răspunderii.",
     "content_ro": "• **Argumentul lui Bolojan de joi** este că votul pentru învestirea Guvernului Niculescu ar putea costa PNL politic și personal, însă România are nevoie de un guvern funcțional. Guvernul a fost demis pe 5 mai prin moțiunea de cenzură PSD-AUR.\n\n• **Grupurile parlamentare ale PNL** au recomandat miercuri, prin vot consultativ, susținerea învestirii în baza unui acord cu Luca Niculescu. Vineri seara, Bolojan a anunțat că va propune Biroului Politic Național ca liberalii să voteze Guvernul „într-o anumită formulă”, fără ca aceasta să constituie o garanție politică. Decizia finală aparține conducerii partidului.\n\n• **Acordul avut în vedere** ar limita susținerea la obiective bugetare, transparență, bună guvernare și democrație parlamentară și ar fi valabil până în primăvara anului 2027. Bolojan spune că PNL își rezervă posibilitatea de a vota o moțiune de cenzură dacă angajamentele sunt încălcate.\n\n• **PNL ar rămâne în opoziție:** Bolojan a exclus refacerea coaliției și susținerea necondiționată. Responsabilitatea pentru componența cabinetului i-ar reveni exclusiv premierului desemnat.\n\n• **Bolojan a avertizat asupra consecințelor crizei politice:** fără un guvern cu puteri depline și o rectificare bugetară rapidă, ar putea fi afectate domenii esențiale, inclusiv sănătatea. Potrivit acestuia, unele unități de primiri urgențe se confruntau încă din vară cu lipsa banilor, iar posibilitățile de realocare din buget s-au epuizat. Lipsa finanțării ar putea afecta și riscul de țară, precum și condițiile de împrumut.\n\n• **PSD a propus miniștri pentru 11 dintre cele 17 portofolii**, iar celelalte șase ar urma să revină unor tehnocrați. Bolojan susține că un eventual vot al PNL pentru învestire nu face partidul responsabil pentru componența cabinetului.\n\n• **Susținerea învestirii a provocat diviziuni:** potrivit relatărilor din presă, există nemulțumiri și în interiorul PNL. Comitetul Politic al USR a decis vineri, în unanimitate, ca parlamentarii partidului să voteze împotriva Guvernului. Președintele Nicușor Dan consideră că sunt șanse mari ca Executivul să treacă marți de Parlament.\n\n• **Decizia definitivă a Înaltei Curți** obligă PNL să returneze 14 milioane de lei Autorității Electorale Permanente (AEP). Suma este legată de cheltuielile campaniei prezidențiale din 2024: cheltuielile partidului din subvenția de stat, inclusiv promovarea cărții lui Nicolae Ciucă și a afișelor electorale, nu puteau fi rambursate încă o dată din bani publici.\n\n• **Bolojan a cerut stabilizarea finanțelor partidului:** el a declarat că a preluat PNL la sfârșitul anului 2024 cu datorii importante și că partidul va încerca să-și echilibreze bugetul prin contribuțiile membrilor. Le-a recomandat celor care au gestionat finanțele campaniei „o perioadă de penitență și de decență” și a cerut mecanisme care să împiedice repetarea unor astfel de situații.\n\n• **Bolojan susține apropierea dintre PNL și USR:** în opinia sa, cele două partide și alte formațiuni ar trebui să construiască un pol politic de modernizare. El consideră că posibilitatea unei alianțe electorale viitoare merită analizată serios."
-  },
-  {
-    "group_id": "group_49d464bd59",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/A-plecat-de-la-PRO-TV-si-a-semnat-cu-Antena-1-In-ce-productie-il-vei-revedea-pe-indragitul-actor--1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "A plecat de la PRO TV și a semnat cu Antena 1! În ce producție îl vei revedea pe îndrăgitul actor",
-        "link": "https://www.cancan.ro/a-plecat-de-la-pro-tv-si-a-semnat-cu-antena-1-in-ce-productie-il-vei-revedea-pe-indragitul-actor-21531262"
-      }
-    ],
-    "published_at": 1792171902,
-    "title_hu": "A plecat de la PRO TV și a semnat cu Antena 1! În ce producție îl vei revedea pe îndrăgitul actor",
-    "lead_hu": "O nouă mutare surprinzătoare are loc în televiziunea din România! Actorul Mihai Călin ar fi părăsit PRO TV pentru a reveni la Antena 1. Acesta ar urma să facă parte din distribuția unui nou serial car…",
-    "content_hu": "O nouă mutare surprinzătoare are loc în televiziunea din România! Actorul Mihai Călin ar fi părăsit PRO TV pentru a reveni la Antena 1. Acesta ar urma să facă parte din distribuția unui nou serial care va apărea pe micile ecrane, fără a avea momentan o dată de difuzare anunțată. Potrivit Libertatea.ro, actorul va juca […]",
-    "title_ro": "A plecat de la PRO TV și a semnat cu Antena 1! În ce producție îl vei revedea pe îndrăgitul actor",
-    "lead_ro": "O nouă mutare surprinzătoare are loc în televiziunea din România! Actorul Mihai Călin ar fi părăsit PRO TV pentru a reveni la Antena 1. Acesta ar urma să facă parte din distribuția unui nou serial car…",
-    "content_ro": "O nouă mutare surprinzătoare are loc în televiziunea din România! Actorul Mihai Călin ar fi părăsit PRO TV pentru a reveni la Antena 1. Acesta ar urma să facă parte din distribuția unui nou serial care va apărea pe micile ecrane, fără a avea momentan o dată de difuzare anunțată. Potrivit Libertatea.ro, actorul va juca […]"
-  },
-  {
-    "group_id": "group_bce8b3f1fa",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/16102026/e7c0b014-fcb3-40a7-9119-744cfb0167c9.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Valentin Suciu, după meciul „nebun” de la Galați: „Nu o să aflăm, din păcate”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/valentin-suciu-reactie-dupa-otelul-galati-csikszereda-988914.html"
-      }
-    ],
-    "published_at": 1792171898,
-    "title_hu": "Valentin Suciu, după meciul „nebun” de la Galați: „Nu o să aflăm, din păcate”",
-    "lead_hu": "Valentin Suciu (46 de ani), antrenorul celor de la Csikszereda, a tras primele concluzii la flash-interviu, după ce echipa lui a reușit să scoată un punct uriaș în deplasarea de la Oțelul Galați, înch…",
-    "content_hu": "Valentin Suciu (46 de ani), antrenorul celor de la Csikszereda, a tras primele concluzii la flash-interviu, după ce echipa lui a reușit să scoată un punct uriaș în deplasarea de la Oțelul Galați, încheiată la egalitate, scor 1-1, deși ciucanii au evoluat pe final în 9 oameni. Suciu s-a arătat mulțumit de evoluția elevilor lui și de faptul că echipa nu se întoarce cu mâna goală din acest meci. ...",
-    "title_ro": "Valentin Suciu, după meciul „nebun” de la Galați: „Nu o să aflăm, din păcate”",
-    "lead_ro": "Valentin Suciu (46 de ani), antrenorul celor de la Csikszereda, a tras primele concluzii la flash-interviu, după ce echipa lui a reușit să scoată un punct uriaș în deplasarea de la Oțelul Galați, înch…",
-    "content_ro": "Valentin Suciu (46 de ani), antrenorul celor de la Csikszereda, a tras primele concluzii la flash-interviu, după ce echipa lui a reușit să scoată un punct uriaș în deplasarea de la Oțelul Galați, încheiată la egalitate, scor 1-1, deși ciucanii au evoluat pe final în 9 oameni. Suciu s-a arătat mulțumit de evoluția elevilor lui și de faptul că echipa nu se întoarce cu mâna goală din acest meci. ..."
-  },
-  {
-    "group_id": "group_42d49e0ab4",
-    "fingerprint": "86bcc4167bc7d05ec23ebe563f36e6dc",
-    "category": "Gazdaság",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/istockphoto-909046092-612x612-1.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Horoscop 14 octombrie 2026. Se deschid uși exact când unele zodii se așteaptă mai puțin. Bani, vești bune și un ajutor venit din umbră",
-        "link": "https://www.mediafax.ro/horoscop/horoscop-14-octombrie-2026-se-deschid-usi-exact-cand-unele-zodii-se-asteapta-mai-putin-bani-vesti-bune-si-un-ajutor-venit-din-umbra-23824813"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 14 octombrie 2026, cu Neti Sandu. Zodia pentru care se înmulțesc banii în cont",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-14-octombrie-2026-cu-neti-sandu-zodia-pentru-care-se-inmultesc-banii-in-cont.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Horoscop carieră azi, 14 octombrie 2026. Banii și succesul sunt în joc! O zodie poate avea rezultate peste toate așteptările",
-        "link": "https://www.cancan.ro/horoscop-cariera-azi-14-octombrie-2026-banii-si-succesul-sunt-in-joc-o-zodie-poate-avea-rezultate-peste-toate-asteptarile-21529651"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Vin bani pentru 4 zodii până la finalul lunii octombrie 2026! Scapă de datorii și își recapătă liniștea financiară",
-        "link": "https://www.cancan.ro/vin-bani-pentru-4-zodii-pana-la-finalul-lunii-octombrie-2026-scapa-de-datorii-si-isi-recapata-linistea-financiara-21530225"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 15 octombrie 2026, cu Neti Sandu. O zodie primește o confirmare intră bani",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-15-octombrie-2026-cu-neti-sandu-o-zodie-primeste-o-confirmare-intra-bani.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop. Previziuni astrale pentru a doua jumătate a lunii octombrie 2026. Decizii ferme și clarificări pentru zodii",
-        "link": "https://stirileprotv.ro/divers/horoscop-previziuni-astrale-pentru-a-doua-jumatate-a-lunii-octombrie-2026-decizii-ferme-si-clarificari-pentru-zodii.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 16 octombrie 2026, cu Neti Sandu. Se rezolvă tensiuni mai vechi și vor exista progrese pentru o zodie",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-16-octombrie-2026-cu-neti-sandu-se-rezolva-tensiuni-mai-vechi-si-vor-exista-progrese-pentru-o-zodie.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Horoscop 16 octombrie 2026. Răbdarea începe să dea roade. O zodie poate câștiga aprecierea șefilor, alta ia o decizie importantă despre bani",
-        "link": "https://www.mediafax.ro/horoscop/horoscop-16-octombrie-2026-rabdarea-incepe-sa-dea-roade-o-zodie-poate-castiga-aprecierea-sefilor-alta-ia-o-decizie-importanta-despre-bani-23826225"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Horoscop carieră azi, 16 octombrie 2026. Lovitură de noroc pentru o zodie! Eforturile din ultima perioadă pot fi răsplătite",
-        "link": "https://www.cancan.ro/horoscop-cariera-azi-16-octombrie-2026-lovitura-de-noroc-pentru-o-zodie-eforturile-din-ultima-perioada-pot-fi-rasplatite-21530699"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 17 octombrie 2026, cu Neti Sandu. O zodie ca încasa o sumă de bani",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-17-octombrie-2026-cu-neti-sandu-o-zodie-ca-incasa-o-suma-de-bani.html"
-      }
-    ],
-    "published_at": 1792171685,
-    "title_hu": "Október 14–26-i horoszkópok: pénzügyi hírek, szakmai lehetőségek és fontos dátumok",
-    "lead_hu": "Az új előrejelzések az október 14–17-i napokra pénzbeérkezést, szakmai lehetőségeket és régi feszültségek rendezését jósolják, miközben a fontos szerződések és befektetések átgondolását javasolják. Október végéig a Kos, az Ikrek, a Mérleg és a Vízöntő számára jeleznek pénzügyi könnyebbséget. A hónap második felének kiemelt asztrológiai dátumai között szerepel a Plútó direkt mozgásba fordulása, a Merkúr retrográd kezdete és a Bika teliholdja.",
-    "content_hu": "• **2026. október 14.** A horoszkópok több jegy számára kedvező szakmai fejleményeket, együttműködéseket és előrelépési lehetőségeket jeleznek. A kezdeményezőkészség, a vezetői képességek, a kitartás és a jó munkahelyi kapcsolatok segíthetik a célok elérését.\n\n• **Szakmai lehetőségek és munkaszervezés.** Új együttműködések, otthoni munkavégzés vagy a feladatok kényelmesebb átszervezése is szóba kerülhet. A források a fegyelmet, a kapacitáshoz igazított feladatvállalást és a tapasztaltabbak tanácsainak megfontolását hangsúlyozzák; a Bakoknak különösen azt javasolják, hogy ne feltétlenül többet, hanem okosabban dolgozzanak. A karrierhoroszkópok a Kos vezetői kezdeményezését, a Bikák megfontolt terhelésvállalását, valamint az Oroszlánok, Nyilasok és Vízöntők szakmai optimizmusát emelik ki.\n\n• **Október 14-i pénzügyi kilátások.** A Neti Sandu-féle előrejelzés szerint régebben elmaradt pénz érkezhet meg, jóváhagyhatnak hitelt vagy más finanszírozást, illetve bónusz, kiegészítő jövedelem vagy hosszabb távon jövedelmező partnerség is felmerülhet. Új üzleti ötlet, korábban megkezdett projekt vagy második esély is hozhat bevételt; befektetés vagy ajánlat előtt azonban mérlegelést javasolnak.\n\n• **Kapcsolatokból érkező lehetőségek.** Barát, partner, rokon, kolléga vagy más ismerős támogathat egy tervet, jó hírt hozhat, illetve hasznos pénzügyi vagy szakmai információt oszthat meg. A segítség akár váratlan, kevésbé nyilvánvaló forrásból is érkezhet; egy beszélgetés vagy új kapcsolat kreatív ötleteket adhat.\n\n• **Otthon, család és kreativitás.** Az előrejelzések az otthoni változtatásokat, a családdal töltött időt és a közös kreatív tevékenységeket is kedvezőnek tartják. A romantikus kapcsolatokban az őszinte beszélgetések közelebb hozhatják egymáshoz a feleket.\n\n• **Október 15-i előrejelzések.** A Neti Sandu-féle horoszkóp pénz beérkezését, pénzügyi megerősítést, szerződéshosszabbítást, magasabb munkahelyi pozíciót vagy kiegészítő munkából származó bevételt is felvet. A hónap második felére szóló előrejelzés szerint a Nap és a Jupiter kedvező fényszöge támogathatja a terveket, a Plútó pedig október 15-én direkt mozgásba fordul a Vízöntőben, segítve a hosszú távú tervek újragondolását.\n\n• **Október 16-i előrejelzések.** A horoszkópok régi feszültségek rendezését, régóta várt pénz beérkezését és szakmai előrelépést jeleznek. A türelmes, fokozatos munkavégzés eredményes lehet, a vezetők észrevehetik az erőfeszítéseket; ugyanakkor sürgetett szerződés vagy nagyobb pénzügyi döntés előtt további mérlegelést javasolnak. A pénzügyi előrejelzés szerint nagyobb vásárlás előtt érdemes összevetni a lehetőségeket, nem pedig elhamarkodottan költeni. A Vízöntők szakmai előrelépésre, a Bakok új profitkilátásokra, a Bikák pedig csapatmunkából származó eredményekre számíthatnak a karrierhoroszkóp szerint.\n\n• **Október 17-i előrejelzés.** Neti Sandu horoszkópja szerint egyesek régóta várt pénzhez juthatnak, és a pénzügyi döntéseknél körültekintőbb költekezést javasol. Régi érzelmi ügyek is rendeződhetnek egy őszinte beszélgetés nyomán.\n\n• **Október végéig szóló pénzügyi előrejelzés.** A Kos, az Ikrek, a Mérleg és a Vízöntő számára jöhet pénzügyi könnyebbség vagy új lehetőség. Egy korábbi ügyfél, projekt vagy együttműködés is újra előkerülhet; a Kosnak azt tanácsolják, hogy ne vállaljon egyszerre túl sok projektet, az Ikreknek pedig, hogy a múltbeli munkahelyi lehetőségek újbóli felbukkanását ne tekintse automatikusan visszatérésre szóló jelnek. A Mérleg régi együttműködéseket és díjait értékelheti újra, a Vízöntő pedig ne fogadjon el minden ajánlatot.\n\n• **Október 15–26-i asztrológiai dátumok.** Október 20-a körül a Vénusz retrográd mozgása és a Plútó feszült kapcsolata pénzügyi és kapcsolati kérdéseket, valamint a kontroll igényét hozhatja előtérbe. A Nap október 23-án lép a Skorpióba, a Merkúr pedig október 24-én kezd retrográd mozgást ugyanebben a jegyben; a közös pénzek, befektetések és rendezetlen elszámolások felülvizsgálata válhat fontossá. A Vénusz október 25-én visszatér a Mérlegbe, ami a kapcsolatok és együttműködések újraértékelését hozhatja, október 26-án pedig a Bika teliholdja a pénzügyi stabilitásra és az eddigi erőfeszítések eredményeire irányítja a figyelmet.",
-    "title_ro": "Horoscoape pentru 14–26 octombrie: vești financiare, oportunități profesionale și date importante",
-    "lead_ro": "Noile previziuni pentru perioada 14–17 octombrie anunță bani care pot ajunge la destinatari, oportunități profesionale și rezolvarea unor tensiuni mai vechi, dar recomandă analizarea atentă a contractelor și investițiilor. Până la finalul lunii, Berbecii, Gemenii, Balanțele și Vărsătorii ar putea avea parte de o perioadă financiară mai ușoară. Printre datele astrologice importante ale celei de-a doua jumătăți a lunii se numără revenirea lui Pluton la mișcarea directă, retrogradarea lui Mercur și Luna Plină în Taur.",
-    "content_ro": "• **14 octombrie 2026.** Horoscoapele indică evoluții profesionale favorabile, colaborări și oportunități de avansare pentru mai multe zodii. Inițiativa, calitățile de lider, perseverența și relațiile bune de la serviciu pot contribui la atingerea obiectivelor.\n\n• **Oportunități profesionale și organizarea muncii.** Sunt posibile colaborări noi, munca de acasă sau reorganizarea activității pentru mai mult confort. Previziunile recomandă disciplină, asumarea sarcinilor în funcție de capacitate și luarea în considerare a sfaturilor persoanelor cu experiență; Capricornilor li se sugerează în special să lucreze mai inteligent, nu neapărat mai mult. Horoscoapele carierei evidențiază inițiativa Berbecilor, asumarea cumpătată a responsabilităților de către Tauri și optimismul profesional al Leilor, Săgetătorilor și Vărsătorilor.\n\n• **Perspective financiare pentru 14 octombrie.** Potrivit previziunii lui Neti Sandu, pot fi recuperați bani întârziați, poate fi aprobat un credit sau o altă finanțare și pot apărea bonusuri, venituri suplimentare ori parteneriate profitabile pe termen lung. O idee de afaceri, un proiect început anterior sau o a doua șansă pot aduce venituri; înaintea unei investiții sau a acceptării unei oferte este recomandată însă o analiză atentă.\n\n• **Oportunități prin relații.** Un prieten, partener, membru al familiei, coleg sau altă cunoștință poate sprijini un plan, poate aduce vești bune ori poate împărtăși informații utile despre bani sau carieră. Ajutorul poate veni și dintr-o sursă neașteptată sau mai puțin vizibilă, iar o conversație ori o nouă cunoștință poate aduce idei creative.\n\n• **Casă, familie și creativitate.** Previziunile consideră favorabile schimbările în locuință, timpul petrecut cu familia și activitățile creative desfășurate împreună. În relațiile romantice, conversațiile sincere îi pot apropia pe parteneri.\n\n• **Previziuni pentru 15 octombrie.** Horoscopul lui Neti Sandu menționează bani care intră, mai multă siguranță financiară, prelungirea unor contracte, o poziție mai înaltă la serviciu sau venituri dintr-o activitate suplimentară. Potrivit previziunilor pentru a doua jumătate a lunii, aspectul favorabil dintre Soare și Jupiter poate susține planurile, iar Pluton revine la mișcarea directă în Vărsător pe 15 octombrie, favorizând reevaluarea planurilor pe termen lung.\n\n• **Previziuni pentru 16 octombrie.** Horoscoapele anunță rezolvarea unor tensiuni mai vechi, încasarea unor bani așteptați de mult și progrese profesionale. Munca răbdătoare și treptată poate da rezultate, iar eforturile pot fi observate de superiori; totuși, se recomandă o analiză suplimentară înainte de semnarea unui contract în grabă sau de luarea unei decizii financiare importante. Previziunile financiare sugerează compararea opțiunilor înaintea unei achiziții majore, nu cheltuieli pripite. Potrivit horoscopului carierei, Vărsătorii pot avansa profesional, Capricornii pot descoperi noi perspective de profit, iar Taurii pot obține rezultate prin munca în echipă.\n\n• **Previziuni pentru 17 octombrie.** Horoscopul lui Neti Sandu spune că unii nativi pot încasa bani așteptați de multă vreme și recomandă mai multă cumpătare în cheltuieli. O conversație sinceră poate ajuta și la rezolvarea unor probleme emoționale mai vechi.\n\n• **Previziuni financiare până la finalul lunii octombrie.** Berbecii, Gemenii, Balanțele și Vărsătorii ar putea avea parte de o perioadă financiară mai ușoară sau de o nouă oportunitate. Un client, proiect sau parteneriat din trecut poate reveni; Berbecii sunt sfătuiți să nu înceapă prea multe proiecte simultan, iar Gemenii să nu considere automat reapariția unei oportunități profesionale din trecut drept un semn că trebuie să se întoarcă. Balanțele își pot reevalua colaborările și tarifele, în timp ce Vărsătorii sunt îndemnați să nu accepte orice ofertă.\n\n• **Date astrologice între 15 și 26 octombrie.** În jurul datei de 20 octombrie, aspectul tensionat dintre Venus retrogradă și Pluton poate scoate în evidență chestiuni financiare și relaționale, precum și nevoia de control. Soarele intră în Scorpion pe 23 octombrie, iar Mercur începe să retrogradeze în același semn pe 24 octombrie; banii la comun, investițiile și socotelile nerezolvate pot necesita o revizuire. Venus revine în Balanță pe 25 octombrie, favorizând reevaluarea relațiilor și parteneriatelor, iar Luna Plină în Taur din 26 octombrie pune accentul pe stabilitatea financiară și pe rezultatele eforturilor depuse."
-  },
-  {
-    "group_id": "group_f992ac36a4",
-    "fingerprint": "938351e6be5b5d6389abcf4da9dfb99b",
-    "category": "Gazdaság",
-    "image": "https://cdn.adh.reperio.news/image-1/1186cf68-34a3-4dde-8402-6402a31256ae/index.png?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.315%252C1%252C0.397%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Record la cerșit de Sfânta Parascheva: peste 9.000 de lei adunați în 8 ore de un bărbat care conducea Lexus",
-        "link": "https://adevarul.ro/stiri-locale/iasi/record-la-cersit-de-sfanta-parascheva-peste-9000-2564266.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Suma uriașă strânsă de „cerșetorul cu mașina de lux”, în timpul pelerinajului de Sfânta Parascheva",
-        "link": "https://stirileprotv.ro/stiri/actualitate/suma-uriasa-stransa-de-cersetorul-cu-masina-de-lux-in-timpul-pelerinajului-de-sfanta-parascheva.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Amenda primită de „cerșetorul cu mașină de lux” după pelerinajul de Sfânta Parascheva. Cum atrăgea mila pelerinilor",
-        "link": "https://stirileprotv.ro/justitie/amenda-primita-de-cersetorul-cu-masina-de-lux-dupa-pelerinajul-de-sfanta-parascheva-cum-atragea-mila-pelerinilor.html"
-      }
-    ],
-    "published_at": 1792171577,
-    "title_hu": "9147 lejt találtak a jászvásári, luxusautóval közlekedő koldusnál",
-    "lead_hu": "A Szent Paraszkeva-zarándoklat idején a helyi rendőrök 9147 lejt találtak egy 59 éves, kolduló férfinál; a hatóságok szerint az összeget nyolc óra alatt gyűjtötte össze. A férfit 1000 lejre bírságolták, a pénzt lefoglalták, az ügyben pedig vizsgálat indult.",
-    "content_hu": "• **A zarándoklat idején** a jászvásári helyi rendőrök 9147 lejt találtak egy férfinál; a hatóságok szerint az összeget nyolc óra alatt szedte össze a járókelőktől és a zarándokoktól.\n\n• **Az 59 éves férfi** a ProTV beszámolója szerint Huși városából, Vaslui megyéből származik, és a Mitropólia környékén koldult. Kerekesszékben ülve vallásos énekeket dúdolt mikrofonba, miközben pénzt kért a zarándokoktól; a hatóságok szerint ételt és ruhát nem fogadott el, csak pénzt.\n\n• **A luxusautó** a beszámolók szerint egy Lexus; a rendőrség azt is közölte, hogy a férfi korábban is ismert volt előttük. A ProTV szerint több autója is lehet.\n\n• **A rendőri intézkedés** szabálysértési jegyzőkönyv felvételével és 1000 lejes bírsággal járt. Az intézkedés a 61/1991-es törvény és a 2/2001-es kormányrendelet alapján történt; a 9147 lejt lefoglalták, és a ProTV szerint vizsgálat is indult az ügyben.",
-    "title_ro": "9.147 de lei găsiți asupra unui cerșetor din Iași care conducea un Lexus",
-    "lead_ro": "În timpul pelerinajului de Sfânta Parascheva, polițiștii locali au găsit asupra unui bărbat de 59 de ani suma de 9.147 de lei, despre care autoritățile spun că a fost strânsă în opt ore. Bărbatul a fost amendat cu 1.000 de lei, banii au fost ridicați în vederea confiscării, iar cazul este anchetat.",
-    "content_ro": "• **În timpul pelerinajului** de la Iași, polițiștii locali au găsit asupra unui bărbat 9.147 de lei; potrivit autorităților, suma ar fi fost strânsă de la trecători și pelerini în numai opt ore.\n\n• **Bărbatul de 59 de ani** este din Huși, județul Vaslui, potrivit ProTV, și cerșea în zona Mitropoliei. Se așeza într-un scaun cu rotile și fredona cântece religioase la microfon în timp ce le cerea bani pelerinilor; autoritățile spun că refuza ajutoarele alimentare și hainele și accepta doar bani.\n\n• **Autoturismul de lux** asociat bărbatului este un Lexus, potrivit relatărilor. Poliția Locală a precizat că acesta era cunoscut de oamenii legii, iar ProTV a relatat că ar deține mai multe autoturisme.\n\n• **Sancțiunea** a constat în întocmirea unui proces-verbal și aplicarea unei amenzi de 1.000 de lei. Măsura a fost luată în baza Legii nr. 61/1991 și a O.G. nr. 2/2001; cei 9.147 de lei au fost ridicați în vederea confiscării, iar ProTV a relatat că a fost deschisă o anchetă."
-  },
-  {
-    "group_id": "group_f916d5cc85",
-    "category": "Általános",
-    "image": "https://maszol.ro/resized/2026_oktober/16/cikk_854416473_1002590482857433_6176982470788748728_n.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Bronzérem női párosban, egyéniben negyeddöntőre készülhet Szőcs Berni",
-        "link": "https://maszol.ro/sport/Bronzerem-noi-parosban-egyeniben-negyeddontore-keszulhet-Szocs-Berni"
-      }
-    ],
-    "published_at": 1792171200,
-    "title_hu": "Bronzérem női párosban, egyéniben negyeddöntőre készülhet Szőcs Berni",
-    "lead_hu": "A vegyes párosban szerezett bronzérem után pénteken női párosban is bronzéremmel „maradt” Románia asztalitenisz-válogatottja a Szlovéniában zajló Európa-bajnokságon.",
-    "content_hu": "A vegyes párosban szerezett bronzérem után pénteken női párosban is bronzéremmel „maradt” Románia asztalitenisz-válogatottja a Szlovéniában zajló Európa-bajnokságon.",
-    "title_ro": "Bronzérem női párosban, egyéniben negyeddöntőre készülhet Szőcs Berni",
-    "lead_ro": "A vegyes párosban szerezett bronzérem után pénteken női párosban is bronzéremmel „maradt” Románia asztalitenisz-válogatottja a Szlovéniában zajló Európa-bajnokságon.",
-    "content_ro": "A vegyes párosban szerezett bronzérem után pénteken női párosban is bronzéremmel „maradt” Románia asztalitenisz-válogatottja a Szlovéniában zajló Európa-bajnokságon."
-  },
-  {
-    "group_id": "group_6abae82560",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21335/23261756/1/185333116-l.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Cel mai nou pariu al familiei care deţine Auchan, Decathlon şi Leroy Merlin: Spitalele de psihiatrie",
-        "link": "https://www.zf.ro/companii/retail-agrobusiness/cel-mai-nou-pariu-al-familiei-care-detine-auchan-decathlon-si-leroy-merlin-spitalele-de-psihiatrie-23261756"
-      }
-    ],
-    "published_at": 1792171186,
-    "title_hu": "Cel mai nou pariu al familiei care deţine Auchan, Decathlon şi Leroy Merlin: Spitalele de psihiatrie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Cel mai nou pariu al familiei care deţine Auchan, Decathlon şi Leroy Merlin: Spitalele de psihiatrie",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_fc26eab4ea",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/06/cancan-3_maurice-munteanu-1200x850.png",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Câte relații a avut Maurice Munteanu, de fapt, și care au fost cele mai dureroase două despărțiri din viața lui",
-        "link": "https://www.cancan.ro/cate-relatii-a-avut-maurice-munteanu-de-fapt-si-care-au-fost-cele-mai-dureroase-doua-despartiri-din-viata-lui-21531254"
-      }
-    ],
-    "published_at": 1792171136,
-    "title_hu": "Câte relații a avut Maurice Munteanu, de fapt, și care au fost cele mai dureroase două despărțiri din viața lui",
-    "lead_hu": "Maurice Munteanu și-a pus sufletul „pe tavă” în fața unei lumi întregi. Concurentul de la Asia Express a acceptat invitația lui Cătălin Măruță în emisiunea „Furnicuțele”, moment în care și-a amintit d…",
-    "content_hu": "Maurice Munteanu și-a pus sufletul „pe tavă” în fața unei lumi întregi. Concurentul de la Asia Express a acceptat invitația lui Cătălin Măruță în emisiunea „Furnicuțele”, moment în care și-a amintit de unele dintre cele mai dureroase momente din trecutul său, dar și despre cele mai dureroase despărțiri din viața lui. În ediția de vineri, […]",
-    "title_ro": "Câte relații a avut Maurice Munteanu, de fapt, și care au fost cele mai dureroase două despărțiri din viața lui",
-    "lead_ro": "Maurice Munteanu și-a pus sufletul „pe tavă” în fața unei lumi întregi. Concurentul de la Asia Express a acceptat invitația lui Cătălin Măruță în emisiunea „Furnicuțele”, moment în care și-a amintit d…",
-    "content_ro": "Maurice Munteanu și-a pus sufletul „pe tavă” în fața unei lumi întregi. Concurentul de la Asia Express a acceptat invitația lui Cătălin Măruță în emisiunea „Furnicuțele”, moment în care și-a amintit de unele dintre cele mai dureroase momente din trecutul său, dar și despre cele mai dureroase despărțiri din viața lui. În ediția de vineri, […]"
   }
 ]
