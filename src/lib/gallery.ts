@@ -59,7 +59,7 @@ const isPlaceholder = (url: string) => /via\.placeholder\.com|placehold|Nincs\+K
 export function newsImage(n: NewsItem): string | null {
   if (n.image && !isPlaceholder(n.image)) return n.image;
   const folder = folderFor[n.category] ?? "altalanos";
-  const pool = (byFolder[folder]?.length ? byFolder[folder] : byFolder["altalanos"]) ?? [];
+  const pool = (byFolderShuffled[folder]?.length ? byFolderShuffled[folder] : byFolderShuffled["altalanos"]) ?? [];
   if (!pool.length) return null;
   return pool[hash(n.group_id) % pool.length] ?? null;
 }
