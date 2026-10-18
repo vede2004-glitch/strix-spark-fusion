@@ -33,7 +33,7 @@ const hash = (s: string) => {
 export function newsImage(n: NewsItem): string | null {
   if (n.image) return n.image;
   const folder = folderFor[n.category] ?? "altalanos";
-  const pool = byFolder[folder]?.length ? byFolder[folder] : byFolder["altalanos"];
-  if (!pool?.length) return null;
-  return pool[hash(n.group_id) % pool.length];
+  const pool = (byFolder[folder]?.length ? byFolder[folder] : byFolder["altalanos"]) ?? [];
+  if (!pool.length) return null;
+  return pool[hash(n.group_id) % pool.length] ?? null;
 }
