@@ -1,5 +1,564 @@
 [
   {
+    "group_id": "group_8b5da53912",
+    "fingerprint": "13a593f7fbd49305f7e47ae1605cd58c",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/73d36bd7-a853-49d2-ac78-7eef5e112681.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 15,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cristi Chivu, descumpănit după eșecul cu Brugge: „Acest meci nu reprezintă o echipă puternică și ambițioasă”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/cristi-chivu-reactie-esec-inter-club-brugge-liga-campionilor-987842.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivitrivit”",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivitrivit-23824941"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cristi Chivu, după înfrângerea Inter Milano: „Nu reuşesc să găsesc echilibrul potrivit între meciuri”",
+        "link": "https://stirileprotv.ro/stiri/sport/chivu-dupa-infrangerea-inter-milano-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-intre-meciuri.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivit”",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-23824941"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Dezastrul lui Cristi Chivu: dublul golurilor primite față de sezonul trecut » „Inter l-a avut în mână, dar l-a ratat”",
+        "link": "https://www.gsp.ro/international/campionate/cifrele-dezastrului-dublul-golurilor-primite-inter-avut-in-mana-cristian-romero-ratat-transferul-988025.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Lovitură pentru Cristi Chivu: Lautaro Martínez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
+        "link": "https://www.gsp.ro/international/campionate/lautrao-martinez-accidentare-inter-cristi-chivu-988371.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "„Veste teribilă” pentru Chivu la Inter, anunță Gazzetta dello Sport – Căpitanul Lautaro va lipsi următoarele săptămâni",
+        "link": "https://www.g4media.ro/veste-teribila-pentru-chivu-la-inter-capitanul-lautaro-va-lipsi-in-urmatoarea-perioada-anunta-gazzetta-dello-sport.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Lovitură pentru Cristi Chivu: Lautaro Martinez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
+        "link": "https://www.gsp.ro/international/campionate/lautaro-martinez-accidentare-inter-cristi-chivu-988371.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Cristi Chivu nu va putea conta pe Lautaro Martinez în următoarele meciuri",
+        "link": "https://adevarul.ro/sport/cristi-chivu-nu-va-putea-conta-pe-lautaro-martinez-2564269.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cristi Chivu și-a însușit criticile: „Schimbarea trebuie să înceapă chiar cu mine. Pot să mă organizez mai bine”",
+        "link": "https://www.gsp.ro/international/campionate/chivu-insusit-criticile-nter-schimbarea-trebuie-sa-inceapa-cu-mine-pot-sa-ma-organizez-mai-bine-988822.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "„Ar fi mai simplu să renunţăm”. Cristi Chivu și-a recunoscut greșeala pentru înfrângerea dramatică a lui Inter cu Bruges",
+        "link": "https://stirileprotv.ro/stiri/sport/ar-fi-mai-simplu-sa-renun-am-cristi-chivu-si-a-recunoscut-greseala-pentru-infrangerea-dramatica-a-lui-inter-cu-bruges.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Chivu a chemat de urgență un jucător de la echipa U23, după accidentarea lui Lautaro",
+        "link": "https://www.gsp.ro/international/campionate/inca-o-absenta-chivu-accidentare-pavard-chemat-leonardo-bovio-inter-u23-989036.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Chivu, victorie cu emoții în Serie A. Inter a reușit să întoarcă spectaculos rezultatul, în deplasare",
+        "link": "https://stirileprotv.ro/stiri/sport/chivu-victorie-cu-emotii-in-serie-a-inter-a-reusit-sa-intoarca-spectaculos-rezultatul-in-deplasare.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Chivu n-a venit la conferință, după Bologna - Inter!",
+        "link": "https://www.gsp.ro/international/campionate/chivu-n-a-venit-la-conferinta-dupa-bologna-inter-989288.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Genoa lui Șucu a rezistat o repriză pe terenul Romei, care ține aproape de Interul lui Chivu",
+        "link": "https://www.gsp.ro/international/campionate/as-roma-victorie-genoa-dan-sucu-serie-a-989330.html"
+      }
+    ],
+    "published_at": 1792309550,
+    "title_hu": "Chivu önkritikát gyakorolt a Brugge elleni vereség után, az Inter Bolognában fordított, de Lautaro kiesett",
+    "lead_hu": "Az Inter 4–3-ra kikapott a Club Brugge-től, így két forduló után pont nélkül állt a Bajnokok Ligájában. Cristi Chivu magára vállalta a felelősséget, a taktikai és mentális egyensúly javítását sürgette, majd csapata Lautaro Martínez nélkül 3–1-re nyert Bolognában, és 19 ponttal a Serie A élére állt. A sérült csapatkapitány várhatóan a novemberi válogatott szünet után térhet vissza, és akár hét mérkőzést is kihagyhat.",
+    "content_hu": "• **Október 13-án** az Inter hazai pályán 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája alapszakaszának második fordulójában; az olasz csapat az első két mérkőzését is elveszítette, a következő hat találkozón kell javítania.\n\n• **Nicolo Tresoldi** mesterhármast szerzett, a győztes gólt a csereként beálló Romeo Vermant jegyezte. Az Inter góljait Lautaro Martínez két találata és Ange-Yoan Bonny hosszabbításban szerzett gólja adta. Lautaro a sorozat nyolcadik egymást követő idényében is betalált, és 27 góljával a harmadik legeredményesebb argentin a BL-ben.\n\n• **Cristi Chivu** szerint az Inter jól kezdett, és a szünet után is volt két nagy helyzete, de a Brugge második gólja után elveszítette a higgadtságát és a taktikai egyensúlyát. A frusztráció és a türelmetlenség miatt támadás közben késve rendeződtek vissza, nem tartották a tervet, és a román edző megfogalmazásával „támadtak, de elfelejtettek visszazárni”.\n\n• **Chivu magára vállalta a felelősséget**, és azt mondta, a változásnak vele kell kezdődnie: jobban kell megszerveznie a csapatot, határozottabban kell közvetítenie az elvárásokat, és a szünetben több nyugalmat kellett volna adnia a játékosoknak. A párharcok, a labdaszerzések, a játékosok közötti távolságok és a letámadás összehangoltságának javítását sürgette, de nem akar lemondani a letámadásról és a támadó szándékról.\n\n• **A védekezési mutatók** szerint az Inter az idény első nyolc Serie A- és BL-mérkőzésén 14 gólt kapott, szemben az előző idény azonos szakaszának hét góljával; mindkét időszakban 22 gólt szerzett. A mostani 14 kapott gólból tíz a San Siróban született, és a nyolc mérkőzésből csak kettőt zárt kapott gól nélkül. A sajtó Josep Martínezt is bírálta: az Inter öt meccsén legalább két gólt kapott.\n\n• **A védősor állapotáról szóló sajtóelemzések** egyéni hibákat, a kompakt védekezés és a küzdőszellem hiányát emelték ki. A Sportmediaset szerint Manuel Akanji lassabbnak tűnt, Alessandro Bastoni gyengén játszott a Brugge ellen, Benjamin Pavard pedig nehézségekkel küzdött; John Stones korán megsérült. Az elemzés szerint az Internek hiányzik egy olyan kemény, vezéregyéniségű védő, mint Cristian „Cuti” Romero, akit a klub végül az Atlético Madridhoz engedett.\n\n• **Lautaro Martínez** a Brugge elleni mérkőzésen a bal combhajlító izmainál sérült meg; a klub vizsgálatai izompanaszt mutattak ki. Chivu a novemberi válogatott szünet utáni visszatérésről beszélt, a sajtó legalább háromhetes, nagyjából egy hónapos vagy akár hathetes kihagyást is említett. A visszatérés időpontja nem biztos, de a becslések szerint akár hét mérkőzést is kihagyhat: a Bologna, a Sahtar, a Fiorentina, a Venezia, az AC Milan, a Feyenoord és a Como ellenit.\n\n• **Lautaro pótlására** Marcus Thuram, Pio Esposito és Ange-Yoan Bonny áll Chivu rendelkezésére; a sajtó a Thuram–Esposito párost tartotta a legvalószínűbb kezdőfelállásnak. Chivu Bonnyt is méltatta: szerinte a támadó már bizonyította a minőségét, és a csereként nyújtott teljesítményével elégedettek.\n\n• **Október 17-én** az Inter 3–1-re nyert idegenben a Bologna ellen, miután Tommaso Pobega a 10. percben vezetést szerzett a hazaiaknak. Marcus Thuram a 44. percben egyenlített, majd Carlos Augusto és Ange-Yoan Bonny talált be a második félidőben, mindketten csereként. Chivu a sajtóbeszámolók szerint a szünetben különösen hevesen bírálta a csapatot; a kiabálástól elveszítette a hangját, ezért a sajtótájékoztatón Aleksandar Kolarov másodedző helyettesítette.\n\n• **A Bologna elleni fordítás után** az olasz sajtó dicsérte Chivu cseréit: az Eurosport.it 7-es osztályzatot adott neki, és „kivételesnek” nevezte a döntéseit. A Gazzetta dello Sport szerint a cserék segítették az Intert a fordításban. Az Inter a szezonban már negyedszer fordított a Serie A-ban, miután hátrányba került.\n\n• **A Bologna elleni mérkőzés előtt** Benjamin Pavard is kiesett; John Stones továbbra sem volt bevethető, Curtis Jones visszatérését pedig a következő fordulóra várták. Chivu a 18 éves Leonardo Boviót is behívta az U23-as csapatból.\n\n• **A Serie A-ban** az Inter hét mérkőzés után 19 ponttal állt az élen. A Roma 17 ponttal, két pont hátránnyal követte, miután legyőzte a Genoát.\n\n• **A BL-szereplés pénzügyi tétje** is jelentős: az Adevărul szerint az Inter a 2025/26-os idényben valamivel kevesebb mint 74 millió eurót kapott az UEFA-tól, míg a döntőbe jutás előtti idényben közel 137 milliót. A nyolcaddöntőbe jutás – akár rájátszáson keresztül – becslések szerint 18–20 millió eurós bevételt jelenthet; a kiesés ezért akár egy fontos játékos eladását is kikényszerítheti.\n\n• **A Bajnokok Ligája folytatásában** az Interre még a Sahtar, a Feyenoord, a Stuttgart, a Borussia Dortmund, a Liverpool és a Slovan Bratislava elleni mérkőzés vár. A klub tulajdonosai kiemelt célnak tekintik a nyolcaddöntőbe jutást.",
+    "title_ro": "Chivu și-a asumat înfrângerea cu Brugge, Inter a întors scorul la Bologna, dar Lautaro s-a accidentat",
+    "lead_ro": "Inter a pierdut cu 4-3 în fața lui Club Brugge și a rămas fără punct după primele două etape din Liga Campionilor. Cristi Chivu și-a asumat responsabilitatea și a cerut îmbunătățirea echilibrului tactic și mental; apoi, echipa sa a învins Bologna cu 3-1 fără Lautaro Martínez și a ajuns la 19 puncte, pe primul loc în Serie A. Căpitanul accidentat ar urma să revină după pauza internațională din noiembrie și ar putea rata până la șapte meciuri.",
+    "content_ro": "• **Pe 13 octombrie**, Inter a pierdut acasă, cu 4-3, în fața lui Club Brugge, în etapa a doua a fazei ligii din Liga Campionilor; echipa italiană a înregistrat două înfrângeri în primele două partide și mai are șase meciuri pentru a recupera punctele.\n\n• **Nicolo Tresoldi** a reușit un hat-trick, iar golul victoriei a fost marcat de rezerva Romeo Vermant. Pentru Inter au înscris de două ori Lautaro Martínez și, în prelungiri, Ange-Yoan Bonny. Lautaro a marcat în al optulea sezon consecutiv în Liga Campionilor și, cu 27 de goluri, este al treilea argentinian în clasamentul marcatorilor competiției.\n\n• **Cristi Chivu** a spus că Inter a început bine și a avut două ocazii importante după pauză, dar și-a pierdut calmul și echilibrul tactic după al doilea gol al lui Brugge. Frustrarea și nerăbdarea au făcut ca jucătorii să întârzie revenirea în apărare și să nu mai respecte planul; în cuvintele antrenorului, „atacam și uitam să ne mai întoarcem în apărare”.\n\n• **Chivu și-a asumat responsabilitatea**, spunând că schimbarea trebuie să înceapă cu el: trebuie să organizeze mai bine echipa, să transmită mai ferm cerințele și să le fi oferit jucătorilor mai multă liniște la pauză. A cerut îmbunătățirea duelurilor, recuperării mingii, distanțelor dintre jucători și coordonării presingului, dar a precizat că nu vrea să renunțe la presing și la jocul ofensiv.\n\n• **Bilanțul defensiv** arată că Inter a primit 14 goluri în primele opt meciuri din Serie A și Liga Campionilor, față de șapte în același interval al sezonului trecut; în ambele perioade a marcat 22 de goluri. Zece dintre cele 14 goluri încasate în acest sezon au venit pe San Siro, iar echipa a încheiat doar două dintre cele opt partide fără gol primit. Presa l-a criticat și pe Josep Martínez: Inter a primit cel puțin două goluri în cinci meciuri.\n\n• **Analizele din presă despre apărare** au evidențiat erorile individuale și lipsa de compactitate și de spirit de luptă. Sportmediaset a scris că Manuel Akanji pare mai lent, Alessandro Bastoni a avut o prestație slabă contra lui Brugge, iar Benjamin Pavard întâmpină dificultăți; John Stones s-a accidentat devreme. Potrivit analizei, Inter duce lipsa unui fundaș cu profil de lider și duritatea lui Cristian „Cuti” Romero, pe care clubul l-a lăsat să plece la Atlético Madrid.\n\n• **Lautaro Martínez** s-a accidentat la flexorii coapsei stângi în partida cu Brugge; examinările clubului au indicat o problemă musculară. Chivu a vorbit despre revenirea după pauza internațională din noiembrie, iar presa a estimat o absență de cel puțin trei săptămâni, aproximativ o lună sau chiar șase săptămâni. Data revenirii nu este sigură, dar atacantul ar putea rata până la șapte partide: cu Bologna, Șahtior, Fiorentina, Venezia, AC Milan, Feyenoord și Como.\n\n• **Pentru a-l înlocui pe Lautaro**, Chivu îi are la dispoziție pe Marcus Thuram, Pio Esposito și Ange-Yoan Bonny; presa a considerat cel mai probabil cuplul Thuram–Esposito. Chivu l-a lăudat și pe Bonny, spunând că atacantul și-a demonstrat calitatea și că echipa este mulțumită de contribuțiile sale din postura de rezervă.\n\n• **Pe 17 octombrie**, Inter a câștigat cu 3-1 în deplasare la Bologna, după ce Tommaso Pobega a deschis scorul în minutul 10. Marcus Thuram a egalat în minutul 44, iar în repriza a doua au înscris Carlos Augusto și Ange-Yoan Bonny, ambii intrați de pe bancă. Potrivit relatărilor din presă, Chivu și-a criticat vehement echipa la pauză și și-a pierdut vocea; secundul Aleksandar Kolarov l-a înlocuit la conferința de presă.\n\n• **După revenirea de la Bologna**, presa italiană a lăudat schimbările lui Chivu: Eurosport.it i-a acordat nota 7 și a descris deciziile sale drept „excepționale”. Gazzetta dello Sport a scris că înlocuirile au ajutat Inter să întoarcă rezultatul. Echipa a reușit astfel a patra revenire în acest sezon de Serie A după ce a fost condusă.\n\n• **Înaintea meciului cu Bologna**, Benjamin Pavard a devenit indisponibil; John Stones era în continuare accidentat, iar Curtis Jones era așteptat să revină pentru etapa următoare. Chivu l-a convocat și pe Leonardo Bovio, fundașul de 18 ani al echipei U23.\n\n• **În Serie A**, Inter se afla pe primul loc, cu 19 puncte după șapte meciuri. Roma, care a învins Genoa, avea 17 puncte, cu două mai puține.\n\n• **Miza financiară a parcursului european** este importantă: potrivit Adevărul, Inter a primit puțin sub 74 de milioane de euro de la UEFA în sezonul 2025/26, față de aproape 137 de milioane în sezonul în care a ajuns în finală. Calificarea în optimi, inclusiv prin play-off, ar putea aduce venituri estimate la 18–20 de milioane de euro; ratarea obiectivului ar putea obliga clubul să vândă un jucător important.\n\n• **În continuarea Ligii Campionilor**, Inter mai are de jucat cu Șahtior, Feyenoord, Stuttgart, Borussia Dortmund, Liverpool și Slovan Bratislava. Proprietarii clubului consideră calificarea în optimile de finală un obiectiv prioritar."
+  },
+  {
+    "group_id": "group_38bd81efbc",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEzJTJGMzAxMDgyMF8zMDEw/ODIwX2hhbnotdm9uLWZvZXJzdGVyLWFw/b2NhbGlwc2Etc3R1ZGl1LXN1cHJhcG9w/dWxhcmUuanBnJmhhc2g9ZjViZDU5NmI3MWNkYTU1ZTFiZmQzZTMwZjZjYmVlMDE=.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "„Apocalipsa: vineri, 13 noiembrie 2026”. De ce a prezis un grup de cercetători în anii ‘60 că aceasta este data când se va sfârși lumea",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/apocalipsa-vineri-13-noiembrie-2026-de-ce-a-prezis-un-grup-de-cercetatori-in-anii-60-ca-aceasta-este-data-cand-se-va-sfarsi-lumea-3990245"
+      }
+    ],
+    "published_at": 1792309502,
+    "title_hu": "„Apocalipsa: vineri, 13 noiembrie 2026”. De ce a prezis un grup de cercetători în anii ‘60 că aceasta este data când se va sfârși lumea",
+    "lead_hu": "Sfârșitul lumii ar trebui să aibă loc luna viitoare, potrivit unui studiu publicat în revista Science acum 66 de ani. Analizând tendințele demografice istorice, fizicianul americano-austriac Heinz von…",
+    "content_hu": "Sfârșitul lumii ar trebui să aibă loc luna viitoare, potrivit unui studiu publicat în revista Science acum 66 de ani. Analizând tendințele demografice istorice, fizicianul americano-austriac Heinz von Foerster și colegii lui de la Universitatea Illinois au calculat data apocalipsei ca fiind vineri, 13 noiembrie 2026.",
+    "title_ro": "„Apocalipsa: vineri, 13 noiembrie 2026”. De ce a prezis un grup de cercetători în anii ‘60 că aceasta este data când se va sfârși lumea",
+    "lead_ro": "Sfârșitul lumii ar trebui să aibă loc luna viitoare, potrivit unui studiu publicat în revista Science acum 66 de ani. Analizând tendințele demografice istorice, fizicianul americano-austriac Heinz von…",
+    "content_ro": "Sfârșitul lumii ar trebui să aibă loc luna viitoare, potrivit unui studiu publicat în revista Science acum 66 de ani. Analizând tendințele demografice istorice, fizicianul americano-austriac Heinz von Foerster și colegii lui de la Universitatea Illinois au calculat data apocalipsei ca fiind vineri, 13 noiembrie 2026."
+  },
+  {
+    "group_id": "group_2a4ae616d9",
+    "fingerprint": "77971a2468afe9b94629a584cfe6e8a3",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Dronă detectată în spațiul aerian al României, în apropiere de Sulina. Locuitorii din Tulcea au primit mesaj RO-Alert",
+        "link": "https://stirileprotv.ro/stiri/actualitate/drona-detectata-in-spatiul-aerian-al-romaniei-in-apropiere-de-sulina-locuitorii-din-tulcea-au-primit-mesaj-ro-alert.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: Dronă detectată în apropierea Insulei Șerpilor; două aeronave F-16 au fost trimise să monitorizeze situația",
+        "link": "https://agerpres.ro/social/2026/10/15/mapn-drona-detectata-in-apropierea-insulei-serpilor-doua-aeronave-f-16-au-fost-trimise-sa-monitorize--1603180"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Invazie de drone în spațiul aerian al Republicii Moldova. Prima reacție a ministrului Apărării",
+        "link": "https://www.cancan.ro/invazie-de-drone-in-spatiul-aerian-al-republicii-moldova-prima-reactie-a-ministrului-apararii-21530893"
+      },
+      {
+        "source": "G4Media",
+        "title": "RO-Alert de dronă în nordul județului Tulcea / Două F-18 ale Forțelor Aeriene Spaniole, ridicate de la sol din Baza Mihail Kogălniceanu",
+        "link": "https://www.g4media.ro/ro-alert-de-drona-in-nordul-judetului-tulcea-doua-f-18-ale-fortelor-aeriene-spaniole-ridicate-de-la-sol-din-baza-mihail-kogalniceanu.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Încă o alertă de dronă în apropierea graniței cu Ucraina. Două avioane F-18 spaniole au fost ridicate de la sol",
+        "link": "https://stirileprotv.ro/stiri/actualitate/inca-o-alerta-de-drona-in-apropierea-granitei-cu-ucraina-doua-avioane-f-18-spaniole-au-fost-ridicate-de-la-sol.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Drone doborâte de avioane F-16. Ministrul Apărării, detalii despre misiunea piloților români",
+        "link": "https://hotnews.ro/drone-doborate-de-avioane-f-16-ministrul-apararii-detalii-despre-misiunea-pilotilor-romani-2378813"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Două drone intrate în spațiul aerian al României, doborâte de piloți români de F-16 deasupra Mării Negre",
+        "link": "https://www.mediafax.ro/social/doua-drone-intrate-in-spatiul-aerian-al-romaniei-doborate-de-piloti-romani-de-f-16-deasupra-marii-negre-23827281"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Miruță: Două drone aeriene - angajate și doborâte de piloții militari români deasupra Mării Negre",
+        "link": "https://agerpres.ro/social/2026/10/17/miruta-doua-drone-aeriene---angajate-si-doborate-de-pilotii-militari-romani-deasupra-marii-negre--1604106"
+      },
+      {
+        "source": "Maszol",
+        "title": "Geran típusú támadó drónokat lőttek le Románia légterében szombaton",
+        "link": "https://maszol.ro/belfold/Geran-tipusu-tamado-dronokat-lottek-le-Romania-legtereben-szombaton"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Momentul în care piloții români au neutralizat dronele pătrunse în România, surprins în imagini",
+        "link": "https://www.mediafax.ro/social/momentul-in-care-pilotii-romani-au-neutralizat-dronele-patrunse-in-romania-surprins-in-imagini-23827469"
+      }
+    ],
+    "published_at": 1792309361,
+    "title_hu": "Román F-16-osok két Geran drónt lőttek le a Fekete-tenger felett",
+    "lead_hu": "Október 17-én román F-16-os vadászgépek két, a román légtérbe behatoló, sugárhajtású Geran drónt semmisítettek meg Sulina közelében, a Fekete-tenger felett. Az előző héten több légtérsértés és riasztás történt a román–ukrán határ közelében; október 14-én négy riasztást adtak ki, és spanyol F-18-asok is felszálltak.",
+    "content_hu": "• **Október 17-én, szombaton** a román védelmi minisztérium radarrendszere a Kígyó-szigettől mintegy 120 kilométerre keletre, délnyugati irányba haladó légi célokat észlelt.\n\n• **Két román F-16-os** 17:43-kor szállt fel a borceai 86-os légibázisról a célpontok elfogására.\n\n• **Az első drón** 17:59-kor lépett be Románia légterébe, és az egyik F-16-os 18:01-kor, Sulinától délkeletre lőtte le. **A második drón** 18:01-kor hatolt be a légtérbe, és a másik vadászgép 18:05-kor, Sulinától keletre semmisítette meg. Mindkét drónt Románia felségvizei felett lőtték le.\n\n• **A román védelmi minisztérium** szerint mindkét célpont a Geran típuscsaládba tartozó, sugárhajtású támadó drón volt; a tárca nem nevezett meg származási országot. Radu Miruță ügyvivő védelmi miniszter televíziós nyilatkozatában orosz eredetűnek mondta az eszközöket.\n\n• **A minisztérium adatai szerint** az esetet megelőző héten nyolc alkalommal észleltek Ukrajna légterében, a román határ közelében haladó légi célokat. Ezek közül négy esetben pilóta nélküli eszközök rövid időre beléptek Románia légterébe.\n\n• **Október 14-én reggel** három légi célt észleltek az ukrajnai Vilkove közelében. Két F-16-os és egy IAR-330 SOCAT helikopter szállt fel megfigyelésre; a célpontok nem léptek be a román légtérbe. Az észak-Tulcea megyére 6:39-kor küldött RO-Alertet körülbelül 7:58-kor oldották fel.\n\n• **Október 14-én 10:19-kor** újabb RO-Alertet adtak ki, miután egy drón rövid időre belépett a román légtérbe Sulinától keletre, a Fekete-tenger felett, majd visszatért Ukrajnába. Az ukrán légvédelem később lelőtte; a riasztás 11:22-kor ért véget.\n\n• **Október 14-én délután** egy célpontot a Kígyó-szigettől mintegy 30 kilométerre keletre észleltek. 17:38-kor, Sulinától északkeletre belépett a román légtérbe, majd 17:46-kor távozott. Két román F-16-os szállt fel, a RO-Alert 19:03-kor ért véget.\n\n• **Október 14-én este** két célpont 20:04-kor lépett be a román légtérbe. Az egyik fölött megszűnt a radaros kapcsolat, a másik 20:13-kor Ukrajna felé távozott, majd Reni közelében az ukrán légvédelem megsemmisítette. Spanyol F-18-asok is felszálltak a Mihail Kogălniceanu légibázisról. A Tulcea megye északkeleti részére 20:02-kor, Galați megye keleti részére 20:33-kor küldött riasztást 21:14-kor oldották fel.\n\n• **Október 14-ről 15-re virradó éjjel** egy drónt 1:34-kor, körülbelül egy percig észleltek a román légtérben, Sulinától délkeletre, majd eltűnt a radarokról. Két spanyol F-18-as szállt fel a Mihail Kogălniceanu légibázisról; később, a Kígyó-szigettől mintegy 77 kilométerre észlelt további célok miatt két román F-16-os is felszállt a fetesti légibázisról. A Tulcea megye északi és keleti részére 4:57-kor küldött riasztás 5:46-kor ért véget; további légtérsértést nem jelentettek.\n\n• **Október 15-én reggel** a Kígyó-sziget közelében észlelt célpont miatt két román F-16-os szállt fel. A kelet-Tulcea megyére 8:36-kor küldött RO-Alertet 10:27-kor oldották fel; légtérsértést nem jelentettek.\n\n• **Október 15–16-án Moldovában** hét pilóta nélküli eszköz jogosulatlan átrepülését regisztrálták; az egyik drón lezuhant és felrobbant a Dondușeni járásban. A moldovai védelmi miniszter veszélyesnek nevezte a légtérsértéseket; a külügyminisztérium elítélte azokat, és felszólította Oroszországot az ukrajnai támadások leállítására, valamint Moldova szuverenitásának tiszteletben tartására.\n\n• **A román védelmi minisztérium vasárnap** képeket tett közzé a szombati F-16-os bevetésről, amelyen a két drónt megsemmisítették.\n\n• **A RO-Alert-üzenetek száma** az év eleje óta Tulcea megyében már meghaladta az Ukrajnában zajló háborúval összefüggésben Romániában 2023 és 2025 között kiadott riasztások összesített számát.",
+    "title_ro": "Avioane F-16 românești au doborât două drone Geran deasupra Mării Negre",
+    "lead_ro": "Pe 17 octombrie, avioane F-16 românești au doborât, în apropiere de Sulina, două drone Geran cu propulsie cu reacție care pătrunseseră în spațiul aerian al României. În săptămâna precedentă au avut loc mai multe incidente și alerte în apropierea graniței româno-ucrainene; pe 14 octombrie au fost emise patru alerte, iar avioane spaniole F-18 au fost ridicate de la sol.",
+    "content_ro": "• **Sâmbătă, 17 octombrie,** sistemele radar ale Ministerului Apărării Naționale au detectat ținte aeriene care se deplasau spre sud-vest, la aproximativ 120 de kilometri est de Insula Șerpilor.\n\n• **Două aeronave F-16 românești** au decolat la ora 17:43 de la Baza 86 Aeriană Borcea pentru interceptarea țintelor.\n\n• **Prima dronă** a intrat în spațiul aerian al României la ora 17:59 și a fost doborâtă de un F-16 la 18:01, la sud-est de Sulina. **A doua dronă** a pătruns în spațiul aerian la 18:01 și a fost doborâtă de cealaltă aeronavă la 18:05, la est de Sulina. Ambele au fost doborâte deasupra apelor teritoriale ale României.\n\n• **Potrivit MApN,** ambele ținte erau drone de atac din familia Geran, cu propulsie cu reacție; ministerul nu a precizat țara de origine. Ministrul interimar al Apărării, Radu Miruță, le-a descris într-o declarație televizată ca fiind de origine rusă.\n\n• **În săptămâna anterioară incidentului,** radarele au detectat în opt situații ținte aeriene care evoluau în spațiul aerian ucrainean, în apropierea graniței cu România. În patru dintre cazuri, aparate fără pilot au pătruns pentru scurt timp în spațiul aerian național.\n\n• **În dimineața de 14 octombrie,** au fost detectate trei ținte aeriene în apropierea localității Vâlkove din Ucraina. Două aeronave F-16 și un elicopter IAR-330 SOCAT au fost ridicate pentru monitorizare; țintele nu au pătruns în spațiul aerian românesc. Mesajul RO-Alert pentru nordul județului Tulcea a fost transmis la 6:39 și ridicat în jurul orei 7:58.\n\n• **La 10:19, pe 14 octombrie,** a fost emis un nou RO-Alert după ce o dronă a pătruns pentru scurt timp în spațiul aerian românesc, la est de Sulina, deasupra Mării Negre, apoi a revenit în Ucraina. Drona a fost doborâtă ulterior de apărarea antiaeriană ucraineană, iar alerta a încetat la 11:22.\n\n• **În după-amiaza de 14 octombrie,** o țintă a fost detectată la aproximativ 30 de kilometri est de Insula Șerpilor. A intrat în spațiul aerian românesc la 17:38, la nord-est de Sulina, și l-a părăsit la 17:46. Două aeronave F-16 românești au decolat, iar alerta RO-Alert a încetat la 19:03.\n\n• **În seara de 14 octombrie,** două ținte au pătruns în spațiul aerian național la 20:04. Contactul radar cu una dintre ele a fost pierdut, iar cealaltă a ieșit în Ucraina la 20:13 și a fost distrusă de apărarea antiaeriană ucraineană în apropiere de Reni. Au decolat și aeronave spaniole F-18 de la Baza Mihail Kogălniceanu. Alertele pentru nord-estul județului Tulcea și estul județului Galați, transmise la 20:02 și, respectiv, 20:33, au încetat la 21:14.\n\n• **În noaptea de 14 spre 15 octombrie,** o dronă a fost detectată timp de aproximativ un minut în spațiul aerian românesc, la sud-est de Sulina, apoi a dispărut de pe radar. Două aeronave spaniole F-18 au decolat de la Baza Mihail Kogălniceanu; după detectarea altor ținte la circa 77 de kilometri est de Insula Șerpilor, au decolat și două F-16 românești de la Baza Fetești. Alerta pentru nordul și estul județului Tulcea, transmisă la 4:57, a încetat la 5:46; nu au fost raportate alte pătrunderi.\n\n• **În dimineața de 15 octombrie,** două aeronave F-16 românești au decolat după detectarea unei ținte în apropierea Insulei Șerpilor. RO-Alertul pentru estul județului Tulcea a fost transmis la 8:36 și a încetat la 10:27; nu au fost raportate pătrunderi în spațiul aerian național.\n\n• **În perioada 15–16 octombrie, în Republica Moldova,** au fost înregistrate șapte survolări neautorizate cu aparate fără pilot; una dintre drone s-a prăbușit și a explodat în raionul Dondușeni. Ministrul moldovean al Apărării a avertizat că incursiunile pun în pericol siguranța cetățenilor, iar Ministerul de Externe le-a condamnat și a cerut Rusiei să oprească atacurile asupra Ucrainei și să respecte suveranitatea Republicii Moldova.\n\n• **Duminică, Ministerul român al Apărării** a publicat imagini surprinse în timpul misiunii de sâmbătă, în care cele două drone au fost doborâte de piloții F-16.\n\n• **Numărul mesajelor RO-Alert** transmise în județul Tulcea de la începutul anului a depășit deja totalul alertelor emise în România, din cauza războiului din Ucraina, în perioada 2023–2025."
+  },
+  {
+    "group_id": "group_80716c69bc",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/13/132610/shutterstock-doctor-spital-romania.jpg?fm=jpg&q=80&fit=crop&crop=4860%2C3219%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "De ce atacă anticorpii creierul. Comportamenul bizar sau crizele epileptice, printre simptome",
+        "link": "https://stirileprotv.ro/stiri/doctor-de-bine/de-ce-araca-anticorpii-uneori-creierul-pot-determina-comportamente-bizare-si-crize-epileptice.html"
+      }
+    ],
+    "published_at": 1792309274,
+    "title_hu": "De ce atacă anticorpii creierul. Comportamenul bizar sau crizele epileptice, printre simptome",
+    "lead_hu": "Ne uităm la creier și suntem atenți tot la inflamație. De cele mai multe ori, inflamația la nivel cerebral se traduce prin crize epileptice. Explicăm.",
+    "content_hu": "Ne uităm la creier și suntem atenți tot la inflamație. De cele mai multe ori, inflamația la nivel cerebral se traduce prin crize epileptice. Explicăm.",
+    "title_ro": "De ce atacă anticorpii creierul. Comportamenul bizar sau crizele epileptice, printre simptome",
+    "lead_ro": "Ne uităm la creier și suntem atenți tot la inflamație. De cele mai multe ori, inflamația la nivel cerebral se traduce prin crize epileptice. Explicăm.",
+    "content_ro": "Ne uităm la creier și suntem atenți tot la inflamație. De cele mai multe ori, inflamația la nivel cerebral se traduce prin crize epileptice. Explicăm."
+  },
+  {
+    "group_id": "group_42c3daf30e",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/12092026/8d634f3c-57e5-4f52-b9b9-cc02df2abc4d.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Șansă pentru Daniel Bîrligea » Juventus monitorizează atent situația rivalului pe post",
+        "link": "https://www.gsp.ro/international/campionate/sansa-daniel-birligea-juventus-trasnfer-rival-post-989403.html"
+      }
+    ],
+    "published_at": 1792309142,
+    "title_hu": "Șansă pentru Daniel Bîrligea » Juventus monitorizează atent situația rivalului pe post",
+    "lead_hu": "Antonio Raimondo (22 de ani) a devenit una dintre cele mai atractive ținte din fotbalul italian. Atacantul aparținând de Bologna, dar împrumutat la Frosinone, impresionează prin evoluțiile recente și …",
+    "content_hu": "Antonio Raimondo (22 de ani) a devenit una dintre cele mai atractive ținte din fotbalul italian. Atacantul aparținând de Bologna, dar împrumutat la Frosinone, impresionează prin evoluțiile recente și ar putea deveni o țintă pentru Juventus. „Bătrâna Doamnă” va încerca să îl aducă la Torino în perioada de transferuri de iarnă, potrivit gazzetta.it. ...",
+    "title_ro": "Șansă pentru Daniel Bîrligea » Juventus monitorizează atent situația rivalului pe post",
+    "lead_ro": "Antonio Raimondo (22 de ani) a devenit una dintre cele mai atractive ținte din fotbalul italian. Atacantul aparținând de Bologna, dar împrumutat la Frosinone, impresionează prin evoluțiile recente și …",
+    "content_ro": "Antonio Raimondo (22 de ani) a devenit una dintre cele mai atractive ținte din fotbalul italian. Atacantul aparținând de Bologna, dar împrumutat la Frosinone, impresionează prin evoluțiile recente și ar putea deveni o țintă pentru Juventus. „Bătrâna Doamnă” va încerca să îl aducă la Torino în perioada de transferuri de iarnă, potrivit gazzetta.it. ..."
+  },
+  {
+    "group_id": "group_861dfd4980",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/18/cikk_gaz_Pixabay_(1).jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Még mindig Magyarország a legnagyobb orosz vezetékesgáz-felvásárló az EU-ban",
+        "link": "https://maszol.ro/gazdasag/Meg-mindig-Magyarorszag-a-legnagyobb-orosz-vezetekesgaz-felvasarlo-az-EU-ban"
+      }
+    ],
+    "published_at": 1792309140,
+    "title_hu": "Még mindig Magyarország a legnagyobb orosz vezetékesgáz-felvásárló az EU-ban",
+    "lead_hu": "Magyarország értékben 10 százalékkal csökkentette az orosz vezetékesföldgáz-beszerzését az idei első nyolc hónapan, de így is a legnagyobb vásárló maradt az EU-ban.",
+    "content_hu": "Magyarország értékben 10 százalékkal csökkentette az orosz vezetékesföldgáz-beszerzését az idei első nyolc hónapan, de így is a legnagyobb vásárló maradt az EU-ban.",
+    "title_ro": "Még mindig Magyarország a legnagyobb orosz vezetékesgáz-felvásárló az EU-ban",
+    "lead_ro": "Magyarország értékben 10 százalékkal csökkentette az orosz vezetékesföldgáz-beszerzését az idei első nyolc hónapan, de így is a legnagyobb vásárló maradt az EU-ban.",
+    "content_ro": "Magyarország értékben 10 százalékkal csökkentette az orosz vezetékesföldgáz-beszerzését az idei első nyolc hónapan, de így is a legnagyobb vásárló maradt az EU-ban."
+  },
+  {
+    "group_id": "group_8929b8b020",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/02/13/082338/tigari.jpg?fm=jpg&q=80&fit=crop&crop=3500%2C2334%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "O singură țigară poate crește riscul de tumori ale vezicii urinare. De ce pericolul persistă și după renunțarea la fumat",
+        "link": "https://stirileprotv.ro/stiri/doctor-de-bine/o-singura-tigara-poate-creste-riscul-de-tumori-ale-vezicii-urinare-de-ce-pericolul-persista-si-dupa-renuntarea-la-fumat.html"
+      }
+    ],
+    "published_at": 1792309140,
+    "title_hu": "O singură țigară poate crește riscul de tumori ale vezicii urinare. De ce pericolul persistă și după renunțarea la fumat",
+    "lead_hu": "Substanțele din țigări intră în sânge și se elimină prin rinichi. În aparatul renal, toate țigările fac leziuni indiferent de numărul acestor dintr-o zi. Cea mai mare suferință o vedem în vezica urina…",
+    "content_hu": "Substanțele din țigări intră în sânge și se elimină prin rinichi. În aparatul renal, toate țigările fac leziuni indiferent de numărul acestor dintr-o zi. Cea mai mare suferință o vedem în vezica urinară.",
+    "title_ro": "O singură țigară poate crește riscul de tumori ale vezicii urinare. De ce pericolul persistă și după renunțarea la fumat",
+    "lead_ro": "Substanțele din țigări intră în sânge și se elimină prin rinichi. În aparatul renal, toate țigările fac leziuni indiferent de numărul acestor dintr-o zi. Cea mai mare suferință o vedem în vezica urina…",
+    "content_ro": "Substanțele din țigări intră în sânge și se elimină prin rinichi. În aparatul renal, toate țigările fac leziuni indiferent de numărul acestor dintr-o zi. Cea mai mare suferință o vedem în vezica urinară."
+  },
+  {
+    "group_id": "group_1f2fbce206",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/07/04/105549/pauza-de-masa.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un obicei simplu după masă poate reduce rezistența la insulină. Ce recomandă medicii pentru combaterea inflamației",
+        "link": "https://stirileprotv.ro/stiri/doctor-de-bine/un-obicei-simplu-dupa-masa-poate-reduce-rezistenta-la-insulina-ce-recomanda-medicii-pentru-combaterea-inflamatiei.html"
+      }
+    ],
+    "published_at": 1792308916,
+    "title_hu": "Un obicei simplu după masă poate reduce rezistența la insulină. Ce recomandă medicii pentru combaterea inflamației",
+    "lead_hu": "Se numesc proteina C reactivă, fibrinogen și interleukina 6 și sunt testele de sânge care arată inflamația din organism. Interleukina 6 produsă de mușchii care se mișcă este anti-inflamatoare.",
+    "content_hu": "Se numesc proteina C reactivă, fibrinogen și interleukina 6 și sunt testele de sânge care arată inflamația din organism. Interleukina 6 produsă de mușchii care se mișcă este anti-inflamatoare.",
+    "title_ro": "Un obicei simplu după masă poate reduce rezistența la insulină. Ce recomandă medicii pentru combaterea inflamației",
+    "lead_ro": "Se numesc proteina C reactivă, fibrinogen și interleukina 6 și sunt testele de sânge care arată inflamația din organism. Interleukina 6 produsă de mușchii care se mișcă este anti-inflamatoare.",
+    "content_ro": "Se numesc proteina C reactivă, fibrinogen și interleukina 6 și sunt testele de sânge care arată inflamația din organism. Interleukina 6 produsă de mușchii care se mișcă este anti-inflamatoare."
+  },
+  {
+    "group_id": "group_1a9be9c00e",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/18102026/8e001a72-064b-4feb-bbe1-f4f86be0c983.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Probleme pentru Dinamo! Nuno Campos a pierdut un jucător pentru următoarele două săptămâni",
+        "link": "https://www.gsp.ro/fotbal/liga-1/dinamo-matthias-verreth-accidentare-989404.html"
+      }
+    ],
+    "published_at": 1792308908,
+    "title_hu": "Probleme pentru Dinamo! Nuno Campos a pierdut un jucător pentru următoarele două săptămâni",
+    "lead_hu": "Dinamo a învins-o pe FC Botoșani, scor 2-0, în etapa a 12-a din Superliga, însă Nuno Campos (51 de ani) a primit și o veste proastă. Înaintea partidei, Matthias Verreth (28 de ani), mijlocașul belgian…",
+    "content_hu": "Dinamo a învins-o pe FC Botoșani, scor 2-0, în etapa a 12-a din Superliga, însă Nuno Campos (51 de ani) a primit și o veste proastă. Înaintea partidei, Matthias Verreth (28 de ani), mijlocașul belgian transferat în această vară de la Bari, a suferit o accidentare musculară și va lipsi aproximativ două săptămâni. ...",
+    "title_ro": "Probleme pentru Dinamo! Nuno Campos a pierdut un jucător pentru următoarele două săptămâni",
+    "lead_ro": "Dinamo a învins-o pe FC Botoșani, scor 2-0, în etapa a 12-a din Superliga, însă Nuno Campos (51 de ani) a primit și o veste proastă. Înaintea partidei, Matthias Verreth (28 de ani), mijlocașul belgian…",
+    "content_ro": "Dinamo a învins-o pe FC Botoșani, scor 2-0, în etapa a 12-a din Superliga, însă Nuno Campos (51 de ani) a primit și o veste proastă. Înaintea partidei, Matthias Verreth (28 de ani), mijlocașul belgian transferat în această vară de la Bari, a suferit o accidentare musculară și va lipsi aproximativ două săptămâni. ..."
+  },
+  {
+    "group_id": "group_73854fb20a",
+    "fingerprint": "ce31064f4ddb0afa4b54573ccf63419d",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwODg2OV8zMDA4/ODY5X0NpdXBlcmNhLmpwZyZoYXNoPTIw/MTUyZGJhZTVmYzNiOTVkNDNhMmJlZTViMTRjZDYy.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Un culegător de ciuperci polonez a găsit „Viagra din Himalaya”, o trufă rară care poate ajunge la 100.000 de dolari pe kilogram",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/un-culegator-de-ciuperci-polonez-a-gasit-viagra-din-himalaya-o-trufa-rara-care-poate-ajunge-la-100-000-de-dolari-pe-kilogram-3988953"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un polonez a găsit în Himalaya una dintre cele mai scumpe ciuperci din lume. Un kilogram poate costa peste 100.000 de dolari",
+        "link": "https://stirileprotv.ro/stiri/international/un-polonez-a-gasit-in-himalaya-una-dintre-cele-mai-scumpe-ciuperci-din-lume-un-kilogram-poate-costa-peste-100-000-de-dolari.html"
+      }
+    ],
+    "published_at": 1792308903,
+    "title_hu": "Lengyel gombász ritka jársagumbát talált a Himalájában",
+    "lead_hu": "Piotr Grześ lengyel gombász Nepálban egy vadon élő jársagumbát, más néven hernyógombát talált. A különösen jó minőségű példányok ára Kínában kilogrammonként meghaladhatja a 100 ezer dollárt, miközben a faj állománya fogyatkozik.",
+    "content_hu": "• **Piotr Grześ** lengyel gombász Nepálban, a Gangapurna és az Annapurna lábánál találta meg a jársagumba (Ophiocordyceps sinensis) vadon élő példányát. A tibeti elnevezés jelentése „nyári fű, téli féreg”, ami a gomba szokatlan életciklusára utal.\n\n• **A jársagumba** parazitaként fertőzi meg a föld alatt élő molylepkehernyókat, majd a gazdaállat testéből nő ki. A hagyományos kínai gyógyászatban tonikként és afrodiziákumként használják, ezért „a Himalája Viagrájaként” is emlegetik; a legjobb minőségű példányok ára a beszámolók szerint kilogrammonként 100 ezer dollár fölé is emelkedhet.\n\n• **A nepáli gyűjtők** a végső árnak csak töredékét kapják, a betakarítás mégis létfontosságú bevételt biztosít a hegyvidéki térségek több ezer családjának. A vadon élő gomba egyre ritkább: a Természetvédelmi Világszövetség 2020-ban sebezhetőnek minősítette, és 15 év alatt több mint 30 százalékos állománycsökkenést becsült, amelyhez főként a túlzott gyűjtés járul hozzá.\n\n• **A gomba egészségügyi hatásait** illetően a tudományos bizonyítékok korlátozottak és nem meggyőzőek; a kutatások jelentős része laboratóriumi vagy állatkísérletekből származik. Grześ ugyanazon az útján, 4000 méter feletti magasságban egy apró, egy kék juh koponyájának szarvából kinövő gombát is talált.",
+    "title_ro": "Un culegător polonez a găsit yarsagumba sălbatică în Himalaya",
+    "lead_ro": "Piotr Grześ, un pasionat polonez de ciuperci, a găsit în Nepal un exemplar sălbatic de yarsagumba, cunoscută și drept ciuperca omizilor. Exemplarele de cea mai bună calitate pot depăși 100.000 de dolari pe kilogram în China, în timp ce populația speciei este în scădere.",
+    "content_ro": "• **Piotr Grześ** a găsit exemplarul sălbatic de yarsagumba (Ophiocordyceps sinensis) în Nepal, la poalele munților Gangapurna și Annapurna. Denumirea tibetană înseamnă „iarbă de vară, vierme de iarnă” și face trimitere la ciclul neobișnuit de viață al ciupercii.\n\n• **Yarsagumba** parazitează omizile moliilor aflate sub pământ, apoi crește din corpul gazdei. Este folosită în medicina tradițională chineză ca tonic și afrodisiac, de unde și porecla „Viagra din Himalaya”; potrivit relatărilor, exemplarele de cea mai bună calitate pot costa peste 100.000 de dolari kilogramul.\n\n• **Culegătorii din Nepal** primesc doar o mică parte din prețul final, însă recoltarea rămâne o sursă vitală de venit pentru mii de familii din zonele montane. Ciuperca sălbatică este tot mai greu de găsit: Uniunea Internațională pentru Conservarea Naturii a clasificat specia drept vulnerabilă în 2020 și a estimat o scădere a populației de peste 30% în 15 ani, cauzată în mare parte de recoltarea excesivă.\n\n• **Dovezile privind beneficiile pentru sănătate** sunt limitate și neconcludente, o mare parte din cercetări provenind din studii de laborator sau pe animale. În aceeași călătorie, la peste 4.000 de metri altitudine, Grześ a găsit și o ciupercă minusculă care creștea din coarnele unui craniu despre care a spus că aparținea unei oi albastre."
+  },
+  {
+    "group_id": "group_98f73b3739",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/andreea-rebeca-1200x686.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Sărutul pe care nimeni nu l-a văzut la Insula Iubirii. În afară de Bibi-Narcis și Remi-Daniela, a existat și al treilea sărut. Și noi avem imaginile",
+        "link": "https://www.cancan.ro/sarutul-pe-care-nimeni-nu-l-a-vazut-la-insula-iubirii-in-afara-de-bibi-narcis-si-remi-daniela-a-existat-si-al-treilea-sarut-si-noi-avem-imaginile-21531975"
+      }
+    ],
+    "published_at": 1792308891,
+    "title_hu": "Sărutul pe care nimeni nu l-a văzut la Insula Iubirii. În afară de Bibi-Narcis și Remi-Daniela, a existat și al treilea sărut. Și noi avem imaginile",
+    "lead_hu": "Concurenții de la Insula Iubirii au trecut de jumătatea testului, iar spiritele deja încep să se aprindă serios. Unii au renunțat la inhibiții, au uitat că au venit într-o relație și au picat în ispit…",
+    "content_hu": "Concurenții de la Insula Iubirii au trecut de jumătatea testului, iar spiritele deja încep să se aprindă serios. Unii au renunțat la inhibiții, au uitat că au venit într-o relație și au picat în ispită. Bianca Iotu a concretizat apropierea de Narcis, Remi și Daniela s-au sărutat, însă asta nu e tot. A mai existat […]",
+    "title_ro": "Sărutul pe care nimeni nu l-a văzut la Insula Iubirii. În afară de Bibi-Narcis și Remi-Daniela, a existat și al treilea sărut. Și noi avem imaginile",
+    "lead_ro": "Concurenții de la Insula Iubirii au trecut de jumătatea testului, iar spiritele deja încep să se aprindă serios. Unii au renunțat la inhibiții, au uitat că au venit într-o relație și au picat în ispit…",
+    "content_ro": "Concurenții de la Insula Iubirii au trecut de jumătatea testului, iar spiritele deja încep să se aprindă serios. Unii au renunțat la inhibiții, au uitat că au venit într-o relație și au picat în ispită. Bianca Iotu a concretizat apropierea de Narcis, Remi și Daniela s-au sărutat, însă asta nu e tot. A mai existat […]"
+  },
+  {
+    "group_id": "group_33c7fc2c96",
+    "fingerprint": "4a6feb45ccdd50367ceb9df8ea7cd0c5",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2023/10/01/210000/62391168.jpg?fm=jpg&q=80&fit=crop&crop=5950%2C3959%2C0%2C0&w=1280",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Când trecem la ora de iarnă în 2026. Data la care se schimbă ceasurile în România",
+        "link": "https://stirileprotv.ro/divers/cand-trecem-la-ora-de-iarna-in-2026-data-la-care-se-schimba-ceasurile-in-romania.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Közeleg az óraátállítás ideje – Mikor váltunk téli időszámításra?",
+        "link": "https://maszol.ro/eletmod/Kozeleg-az-oraatallitas-ideje-Mikor-valtunk-teli-idoszamitasra"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Când trece România la ora de iarnă 2026. Data exactă la care dăm ceasurile în urmă",
+        "link": "https://www.mediafax.ro/stirile-zilei/cand-trece-romania-la-ora-de-iarna-2026-data-exacta-la-care-dam-ceasurile-in-urma-23827468"
+      }
+    ],
+    "published_at": 1792308879,
+    "title_hu": "Október 25-én áll át Románia a téli időszámításra",
+    "lead_hu": "Romániában 2026. október 24-ről 25-re virradó éjszaka kezdődik a téli időszámítás: az órákat hajnali 4-ről 3 órára kell visszaállítani. A digitális eszközök általában automatikusan frissülnek, az analóg órákat kézzel kell átállítani.",
+    "content_hu": "• **2026. október 24-ről 25-re virradó éjszaka** Románia visszatér a téli, vagyis standard időszámításhoz.\n\n• **Hajnali 4 órakor** az órákat 3 órára kell visszaállítani, így az átállás éjszakáján egy órával hosszabb lesz az idő.\n\n• **A digitális eszközök** – például az internethez kapcsolódó telefonok és számítógépek – rendszerint automatikusan átállnak; az analóg órákat kézzel kell beállítani.\n\n• **Az átállás hatásai** az alvást és a napi rutint is érinthetik. A biológiai órának a Maszol szerint akár 7–10 napra is szüksége lehet az alkalmazkodáshoz.\n\n• **A téli időszámítás** a standard időnek felel meg. Az Európai Unióban évek óta napirenden van az évi kétszeri óraátállítás megszüntetése, de a tagállamok még nem jutottak konszenzusra.",
+    "title_ro": "România trece la ora de iarnă în noaptea de 24 spre 25 octombrie",
+    "lead_ro": "România revine la ora standard în noaptea de 24 spre 25 octombrie 2026, când ceasurile se dau înapoi de la ora 04:00 la 03:00. Dispozitivele digitale se actualizează, de regulă, automat, în timp ce ceasurile analogice trebuie reglate manual.",
+    "content_ro": "• **În noaptea de 24 spre 25 octombrie 2026**, România revine la ora de iarnă, adică la ora standard.\n\n• **La ora 04:00**, ceasurile se dau înapoi la 03:00, astfel că noaptea schimbării orei are o oră în plus.\n\n• **Dispozitivele digitale** conectate la internet, precum telefoanele și calculatoarele, se actualizează de regulă automat; ceasurile analogice trebuie reglate manual.\n\n• **Schimbarea orei** poate influența somnul și rutina zilnică. Potrivit Maszol, organismului îi pot trebui 7–10 zile pentru a se adapta.\n\n• **Ora de iarnă** este ora standard. În Uniunea Europeană se discută de mai mulți ani renunțarea la schimbarea sezonieră a orei, însă statele membre nu au ajuns încă la un consens."
+  },
+  {
+    "group_id": "group_7e74371e93",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/fb_img_1791984329660_edit_844864363013958-jpg-1024x891.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "VIDEO | Florina Presadă: De ce sunt atât de mulți oameni săraci într-o țară care este la apogeul dezvoltării sale?",
+        "link": "https://www.mediafax.ro/stirile-zilei/video-florina-presada-de-ce-sunt-atat-de-multi-oameni-saraci-intr-o-tara-care-este-la-apogeul-dezvoltarii-sale-23825345"
+      }
+    ],
+    "published_at": 1792308809,
+    "title_hu": "VIDEO | Florina Presadă: De ce sunt atât de mulți oameni săraci într-o țară care este la apogeul dezvoltării sale?",
+    "lead_hu": "De ce continuă să existe atât de multă sărăcie într-o Românie care se dezvoltă și ce spune acest paradox despre societatea în care trăim? Florina Presadă aduce în discuție una dintre întrebările incom…",
+    "content_hu": "De ce continuă să existe atât de multă sărăcie într-o Românie care se dezvoltă și ce spune acest paradox despre societatea în care trăim? Florina Presadă aduce în discuție una dintre întrebările incomode despre România, într-un nou episod al interviurilor Ping-Pong Mediafax, în care răspunde provocărilor despre politică, responsabilitate publică și schimbările de care societatea are nevoie.",
+    "title_ro": "VIDEO | Florina Presadă: De ce sunt atât de mulți oameni săraci într-o țară care este la apogeul dezvoltării sale?",
+    "lead_ro": "De ce continuă să existe atât de multă sărăcie într-o Românie care se dezvoltă și ce spune acest paradox despre societatea în care trăim? Florina Presadă aduce în discuție una dintre întrebările incom…",
+    "content_ro": "De ce continuă să existe atât de multă sărăcie într-o Românie care se dezvoltă și ce spune acest paradox despre societatea în care trăim? Florina Presadă aduce în discuție una dintre întrebările incomode despre România, într-un nou episod al interviurilor Ping-Pong Mediafax, în care răspunde provocărilor despre politică, responsabilitate publică și schimbările de care societatea are nevoie."
+  },
+  {
+    "group_id": "group_3c009f782d",
+    "fingerprint": "32d164950bcd018fdae6164d6b9bf200",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/08/FotoJet-2026-08-11T175430.903-1200x675.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 12,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza ANM dă peste cap așteptările! Cum va fi vremea până în noiembrie",
+        "link": "https://www.cancan.ro/prognoza-anm-da-peste-cap-asteptarile-cum-va-fi-vremea-pana-in-noiembrie-21529355"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 13 octombrie. Ploi abundente, frig și vânt puternic în România, iar la munte sunt așteptate ninsori",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-13-octombrie-ploi-abundente-frig-si-vant-puternic-in-romania-iar-la-munte-sunt-asteptate-ninsori.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza meteo azi, 14 octombrie 2026. Ploi în sud, vânt puternic în est și frig pătrunzător peste noapte",
+        "link": "https://www.cancan.ro/prognoza-meteo-azi-14-octombrie-2026-ploi-in-sud-vant-puternic-in-est-si-frig-patrunzator-peste-noapte-21529290"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 14 octombrie. Temperaturile cresc ușor, dar frigul persistă în mare parte din țară. Cum va fi în București",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-14-octombrie-temperaturile-cresc-usor-dar-frigul-persista-in-mare-parte-din-tara-cum-va-fi-in-bucuresti.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cum va fi vremea în București, până sâmbătă. Temperaturile coboară până spre 2 grade",
+        "link": "https://hotnews.ro/cum-va-fi-vremea-in-bucuresti-pana-sambata-temperaturile-coboara-pana-spre-2-grade-2375536"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Vremea se schimbă radical în România: ninsori la munte și vijelii în jumătate de țară. Ce urmează în București",
+        "link": "https://adevarul.ro/stiri-interne/meteo/vremea-se-schimba-radical-in-romania-ninsori-la-2563921.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Prognoza meteo joi, 15 octombrie. Ploi în mai multe regiuni și ninsori la munte, unde se va depune strat de zăpadă",
+        "link": "https://adevarul.ro/stiri-interne/meteo/prognoza-meteo-joi-15-octombrie-ploi-in-mai-2564098.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 15 octombrie. Ploi în aproape toată țara și temperaturi mai mici decât normalul perioadei",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-15-octombrie-ploi-in-aproape-toata-tara-si-temperaturi-mai-mici-decat-normalul-perioadei.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 16 octombrie. Este o zi cam rece, cu ploi slabe în multe zone, lapoviță și ninsoare la munte",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-16-octombrie-este-o-zi-cam-rece-cu-ploi-slabe-in-multe-zone-lapovita-si-ninsoare-la-munte.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 17 octombrie. Ploi și temperaturi scăzute în aproape toată țara. Unde va fi cel mai frig",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-17-octombrie-ploi-si-temperaturi-scazute-in-aproape-toata-tara-unde-va-fi-cel-mai-frig.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "A hideg és az eső után akár 25 fokra is felmelegedhet az idő",
+        "link": "https://maszol.ro/belfold/A-hideg-es-az-eso-utan-akar-25-fokra-is-felmelegedhet-az-ido"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vreme capricioasă în Capitală. ANM anunță ploi și temperaturi de până la 19 grade",
+        "link": "https://www.mediafax.ro/meteo/vreme-capricioasa-in-capitala-anm-anunta-ploi-si-temperaturi-de-pana-la-19-grade-23827474"
+      }
+    ],
+    "published_at": 1792308777,
+    "title_hu": "Hideg, esős idő és havazás a hegyekben, majd felmelegedés Romániában",
+    "lead_hu": "Október 13–17. között az átlagosnál hidegebb, többfelé esős idő jellemezte Romániát; a magasabb hegyekben havas eső és havazás is várható volt. Az előrejelzések október 20-a után jelentős felmelegedést jeleztek, miközben az ANM hosszabb távú kilátása szerint október nagy részében és november elején az átlagosnál hűvösebb maradhat az idő.",
+    "content_hu": "• **Október 13–17. között** az ország nagy részén az évszakos átlagnál hűvösebb időt jeleztek előre. A lehűlés a korábbi szokatlanul meleg napokat követte; a nappali maximumok többnyire 8–18 fok között alakultak, Olteniában helyenként 20 fokot is elérhettek.\n\n• **A csapadék területi eloszlása napról napra változott:** október 13-án többek között a középső és déli országrészekben, 15–17-én pedig Erdélyben, Moldvában, Máramarosban és Havasalföldön is esőre számítottak. Október 15-én helyenként 10 litert meghaladó, 17-én pedig Moldvában 15 litert is meghaladó csapadékmennyiséget jeleztek előre négyzetméterenként.\n\n• **A magasabb hegyvidéki területeken havas eső és havazás volt várható.** Az előrejelzések 1500 méter felett vegyes halmazállapotú csapadékot jeleztek; a Déli- és Kárpátkanyar-hegységben, illetve a Keleti-Kárpátokban helyenként 5–15 centiméteres hóréteg alakulhatott ki.\n\n• **A hegygerinceken és az ország keleti, délkeleti részein megerősödött a szél.** A magashegyi széllökések elérhették a 60–80 km/órát, míg Moldva, Dobrudzsa és Havasalföld keleti részén több előrejelzés 40–55 km/órás széllökéseket valószínűsített.\n\n• **A hideg éjszakákon helyenként fagy, dér és köd is kialakulhatott.** A Keleti-Kárpátok mélyebben fekvő medencéiben akár mínusz 5 fokot jeleztek előre; Bukarest térségében a külvárosokban nagyjából 2 fokig süllyedhetett a hőmérséklet. A fővárosban október 17–18-án 14–15 fokos nappali maximum és gyenge eső szerepelt az előrejelzésben.\n\n• **Október 20–24. között jelentős felmelegedés következhetett.** A Maszol által ismertetett előrejelzés szerint október 21-én Bánságban és Körösvidéken 24–25 fokot is mérhettek, október 22-én pedig az ország nagy részén 17–23 fokos maximumokat vártak. Október 23–24-én enyhe lehűlést és helyenként csapadékot jeleztek, a magas hegyekben esőből havas eső vagy havazás is lehetett.\n\n• **Az ANM hosszabb távú, október 12. és november 9. közötti kilátása** a legtöbb héten az átlagosnál alacsonyabb hőmérsékleteket valószínűsített, október vége felé és november elején is. Az október 12–19-i időszakra délkeleten az átlagosnál több, az ország más részein kevesebb csapadékot jeleztek; október 19. és november 2. között a csapadék mennyisége jellemzően a sokéves átlag közelében alakulhatott.\n\n• **Bukarestben október 18–20. között enyhe melegedést és gyenge esőt vártak.** Az ANM szerint a nappali csúcshőmérséklet vasárnap 16–17, hétfőn 18–19 fok körül alakulhatott; estére és éjszakára 1–5 milliméter, helyenként ennél több csapadékot jeleztek előre.",
+    "title_ro": "Vreme rece și ploi, cu ninsoare la munte, urmate de o încălzire în România",
+    "lead_ro": "Între 13 și 17 octombrie, în România au fost prognozate temperaturi sub cele obișnuite și ploi în mai multe regiuni, iar la altitudini mari, lapoviță și ninsoare. Prognozele indicau o încălzire semnificativă după 20 octombrie, în timp ce estimarea ANM pe termen mai lung arăta temperaturi sub medie în cea mai mare parte a lunii octombrie și la începutul lunii noiembrie.",
+    "content_ro": "• **În perioada 13–17 octombrie**, în cea mai mare parte a țării au fost prognozate temperaturi mai scăzute decât cele specifice perioadei. Răcirea a urmat unor zile neobișnuit de calde; maximele diurne s-au situat, în general, între 8 și 18 grade, iar în unele zone din Oltenia puteau ajunge la 20 de grade.\n\n• **Precipitațiile au avut o distribuție diferită de la o zi la alta:** pe 13 octombrie erau așteptate, între altele, în centrul și sudul țării, iar în perioada 15–17 octombrie și în Transilvania, Moldova, Maramureș și Muntenia. Pe 15 octombrie, local se estimau cantități de peste 10 litri pe metru pătrat, iar pe 17 octombrie, în Moldova, de peste 15 litri pe metru pătrat.\n\n• **La altitudini mari, la munte, erau prognozate lapoviță și ninsoare.** Estimările indicau precipitații mixte la peste 1.500 de metri; în Carpații Meridionali, Carpații de Curbură și Carpații Orientali se putea depune local un strat de zăpadă de 5–15 centimetri.\n\n• **Vântul s-a intensificat pe creste și în regiunile estice și sud-estice ale țării.** Rafalele la altitudini mari puteau atinge 60–80 km/h, iar în Moldova, Dobrogea și estul Munteniei mai multe prognoze indicau rafale de 40–55 km/h.\n\n• **În nopțile reci se puteau forma local brumă, îngheț și ceață.** În depresiunile din Carpații Orientali erau prognozate temperaturi de până la -5 grade; în zona periurbană a Bucureștiului, acestea puteau coborî până în jur de 2 grade. Pentru Capitală, în perioada 17–18 octombrie, prognoza indica maxime de 14–15 grade și ploi slabe.\n\n• **În perioada 20–24 octombrie putea urma o încălzire semnificativă.** Potrivit prognozei prezentate de Maszol, pe 21 octombrie temperaturile puteau ajunge la 24–25 de grade în Banat și Crișana, iar pe 22 octombrie se așteptau maxime de 17–23 de grade în cea mai mare parte a țării. Pentru 23–24 octombrie era prognozată o răcire ușoară și precipitații locale; la altitudini mari, ploaia putea deveni lapoviță sau ninsoare.\n\n• **Estimarea ANM pe termen mai lung, pentru intervalul 12 octombrie–9 noiembrie**, indica temperaturi sub valorile obișnuite în majoritatea săptămânilor, inclusiv spre sfârșitul lui octombrie și începutul lui noiembrie. Pentru 12–19 octombrie se prognozau precipitații peste medie în sud-est și sub medie în restul țării; între 19 octombrie și 2 noiembrie, cantitățile urmau să fie, în general, apropiate de valorile climatologice.\n\n• **În București, pentru 18–20 octombrie erau prognozate o încălzire ușoară și ploi slabe.** Potrivit ANM, maximele puteau ajunge la 16–17 grade duminică și la 18–19 grade luni; seara și noaptea erau estimate cantități de 1–5 litri de precipitații, local mai mari."
+  },
+  {
+    "group_id": "group_49b09cf325",
+    "fingerprint": "4c3fa54379fd93b7bfc7b78b9790ec0d",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjExJTJGMjMwNDAwOV8yMzA0/MDA5X0tpbS1Kb25nLVVuLmpwZyZoYXNo/PTM0OTA3NjE0OGE3NDk4ODY1Nzk3NjhmMzUwOGQzNGZh.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ambarcaţiune de lux, dotată cu o piscină de 50 de metri şi tobogane acvatice, văzută în apropierea reşedinţei de vară a lui Kim Jong Un",
+        "link": "https://www.digi24.ro/stiri/externe/ambarcatiune-de-lux-dotata-cu-o-piscina-de-50-de-metri-si-tobogane-acvatice-vazuta-in-apropierea-resedintei-de-vara-a-lui-kim-jong-un-3997297"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Imagini din satelit: Cum arată iahtul de lux al lui Kim Jong Un, dotat cu piscină olimpică și tobogane acvatice",
+        "link": "https://hotnews.ro/imagini-din-satelit-cum-arata-iahtul-de-lux-de-80-de-metri-al-lui-kim-jong-un-dotat-cu-piscina-olimpica-si-tobogane-acvatice-2379048"
+      }
+    ],
+    "published_at": 1792308736,
+    "title_hu": "Műholdképeken tűnt fel Kim luxusjachtja Wonsan közelében",
+    "lead_hu": "Egy 80 méter hosszú, medencével és vízicsúszdákkal felszerelt hajót több alkalommal is észleltek műholdfelvételeken Észak-Korea partjainál, Wonsan közelében. Szakértők és volt észak-koreai tisztviselők szerint a hajót Kim Dzsong Un és családja használhatja.",
+    "content_hu": "• **A 80 méter hosszú hajót július és október közepe között** többször észlelték műholdfelvételeken Wonsan partjainál, ahol Kim Dzsong Un családjának nyári rezidenciája található.\n\n• **A jacht fedélzetén egy 50 méteres medence és vízicsúszdák vannak**; a Kalma-félsziget közelében más nagy hajókat is megfigyeltek.\n\n• **Szakértők, volt tisztviselők és disszidensek szerint** a hajókat Kim családja használja, és a rezsim vezetéséhez nem kötődő emberek aligha férhetnének hozzájuk szabadon.\n\n• **Ri Jong Ho, a Munkapárt egykori tisztviselője** azt mondta, a hajókat télen hajógyárban tartották, nyáron pedig Kim villájához vagy Kalma térségébe vitték, ahol úszásra és kikapcsolódásra használták.\n\n• **Wonsan a Kim családhoz kötődő üdülőhely**: Kim Dzsong Un gyermekkorának egy részét is ott töltötte, az állami média pedig azt állítja, hogy a település csaknem 20 ezer látogatót tud fogadni.",
+    "title_ro": "Iahtul de lux al lui Kim Jong Un, surprins în imagini din satelit lângă Wonsan",
+    "lead_ro": "O ambarcațiune de 80 de metri, dotată cu piscină și tobogane acvatice, a fost observată de mai multe ori în imagini din satelit în largul orașului Wonsan, în Coreea de Nord. Experți și foști oficiali nord-coreeni afirmă că nava ar putea fi folosită de Kim Jong Un și familia sa.",
+    "content_ro": "• **Ambarcațiunea de 80 de metri a fost observată între iulie și jumătatea lunii octombrie** în largul orașului Wonsan, unde se află reședința de vară a familiei lui Kim Jong Un.\n\n• **Iahtul are pe punte o piscină de 50 de metri și tobogane acvatice**; în apropierea Peninsulei Kalma au fost observate și alte nave mari.\n\n• **Experți, foști oficiali și transfugi nord-coreeni afirmă** că ambarcațiunile sunt folosite de familia lui Kim și că persoanele fără legături cu conducerea regimului ar avea cu greu acces la ele.\n\n• **Ri Jong Ho, fost oficial al Partidului Muncitorilor**, a spus că navele erau ținute iarna la șantierul naval, iar vara erau mutate la vila lui Kim sau în zona Kalma, unde erau folosite pentru înot și agrement.\n\n• **Wonsan este asociat cu familia conducătoare**: Kim Jong Un și-a petrecut acolo o parte din copilărie, iar presa de stat susține că stațiunea poate găzdui aproape 20.000 de vizitatori."
+  },
+  {
+    "group_id": "group_bf7901d0a2",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/gem-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cum pot rețetele de familie să păstreze vie memoria celor dragi? Gemul, un mod de a ne aminti de părinții sau bunicii noștri",
+        "link": "https://www.mediafax.ro/life-inedit/cum-pot-retetele-de-familie-sa-pastreze-vie-memoria-celor-dragi-gemul-un-mod-de-a-ne-aminti-de-parintii-sau-bunicii-nostri-23826766"
+      }
+    ],
+    "published_at": 1792308660,
+    "title_hu": "Cum pot rețetele de familie să păstreze vie memoria celor dragi? Gemul, un mod de a ne aminti de părinții sau bunicii noștri",
+    "lead_hu": "Rețetele de familie pot păstra vie amintirea celor dragi. Indiferent că este vorba despre gemuri, prăjituri sau orice alt fel de mâncare, gustul copilăriei ne poate duce într-o călătorie în trecut sau…",
+    "content_hu": "Rețetele de familie pot păstra vie amintirea celor dragi. Indiferent că este vorba despre gemuri, prăjituri sau orice alt fel de mâncare, gustul copilăriei ne poate duce într-o călătorie în trecut sau poate să ne aducă aminte de «casă», în cazul celor plecați în diaspora.",
+    "title_ro": "Cum pot rețetele de familie să păstreze vie memoria celor dragi? Gemul, un mod de a ne aminti de părinții sau bunicii noștri",
+    "lead_ro": "Rețetele de familie pot păstra vie amintirea celor dragi. Indiferent că este vorba despre gemuri, prăjituri sau orice alt fel de mâncare, gustul copilăriei ne poate duce într-o călătorie în trecut sau…",
+    "content_ro": "Rețetele de familie pot păstra vie amintirea celor dragi. Indiferent că este vorba despre gemuri, prăjituri sau orice alt fel de mâncare, gustul copilăriei ne poate duce într-o călătorie în trecut sau poate să ne aducă aminte de «casă», în cazul celor plecați în diaspora."
+  },
+  {
+    "group_id": "group_57090ca8c4",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/11102026/3f58c9c2-b059-4a67-83df-e0b03aff0238.jpeg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "CSM București - Sola, în Liga Campionilor » Cu o victorie, româncele urcă pe locul 3 în grupă",
+        "link": "https://www.gsp.ro/sporturi/handbal/live-csm-bucuresti-sola-in-liga-campionilor-handbal-feminin-989407.html"
+      }
+    ],
+    "published_at": 1792308612,
+    "title_hu": "CSM București - Sola, în Liga Campionilor » Cu o victorie, româncele urcă pe locul 3 în grupă",
+    "lead_hu": "CSM București joacă astăzi în Sala Polivalentă de la ora 17:00 cu formația norvegiană Sola în etapa a 6 din Liga Campionilor. Meciul va fi transmis în format liveTEXT pe GSP.ro și în direct la TV pe D…",
+    "content_hu": "CSM București joacă astăzi în Sala Polivalentă de la ora 17:00 cu formația norvegiană Sola în etapa a 6 din Liga Campionilor. Meciul va fi transmis în format liveTEXT pe GSP.ro și în direct la TV pe Digi Sport 2 și Prima Sport 2. După primele 5 etape, CSM București este pe locul 4 în grupă cu 6 puncte și are nevoie de victorie pentru a urca pe locul 3 în clasament. ...",
+    "title_ro": "CSM București - Sola, în Liga Campionilor » Cu o victorie, româncele urcă pe locul 3 în grupă",
+    "lead_ro": "CSM București joacă astăzi în Sala Polivalentă de la ora 17:00 cu formația norvegiană Sola în etapa a 6 din Liga Campionilor. Meciul va fi transmis în format liveTEXT pe GSP.ro și în direct la TV pe D…",
+    "content_ro": "CSM București joacă astăzi în Sala Polivalentă de la ora 17:00 cu formația norvegiană Sola în etapa a 6 din Liga Campionilor. Meciul va fi transmis în format liveTEXT pe GSP.ro și în direct la TV pe Digi Sport 2 și Prima Sport 2. După primele 5 etape, CSM București este pe locul 4 în grupă cu 6 puncte și are nevoie de victorie pentru a urca pe locul 3 în clasament. ..."
+  },
+  {
     "group_id": "group_7bcb215fad",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -193,84 +752,6 @@
     "title_ro": "Rețetele bunicilor, readuse în farfurie de elevi din toată țara. Ce preparate au fost prezentate la un concurs de la Iași",
     "lead_ro": "Borș de fasole cu costiță afumată, turte coapte pe plită, sarmale din păsat și deserturi reinterpretate. Este o parte din meniul pe care peste 200 de elevi și profesori l-au adus la Iași, în cadrul un…",
     "content_ro": "Borș de fasole cu costiță afumată, turte coapte pe plită, sarmale din păsat și deserturi reinterpretate. Este o parte din meniul pe care peste 200 de elevi și profesori l-au adus la Iași, în cadrul unui concurs care promovează gastronomia românească."
-  },
-  {
-    "group_id": "group_2a4ae616d9",
-    "fingerprint": "4c1ff60dcb224466912e035027bbebe9",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NjIzM18yOTc2/MjMzX2Ryb25hLXJ1c2Vhc2NhLXByb2Zp/bWVkaWEuanBnJmhhc2g9MzA1YWUzZjE4MWI3YjVkODM4YjM1M2U1YjY2NjIxNTQ=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 12,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Radarele MApN au detectat încă o dronă care a intrat în spațiul aerian național. Aparatul a fost doborât de ucraineni",
-        "link": "https://www.digi24.ro/stiri/actualitate/radarele-mapn-au-detectat-inca-o-drona-care-a-intrat-in-spatiul-aerian-national-aparatul-a-fost-doborat-de-ucraineni-3991583"
-      },
-      {
-        "source": "Digi24",
-        "title": "Două avioane F-16 au fost ridicate în această seară, după ce sistemul radar a detectat o nouă țintă în apropierea Insulei Șerpilor",
-        "link": "https://www.digi24.ro/stiri/actualitate/doua-avioane-f-16-au-fost-ridicate-in-aceasta-seara-dupa-ce-sistemul-radar-a-detectat-o-noua-tinta-in-apropierea-insulei-serpilor-3992577"
-      },
-      {
-        "source": "G4Media",
-        "title": "MApN: Sistemul de supraveghere radar a detectat un grup de ținte aeriene în largul Mării Negre. Ținta a fost distrusă de apărarea aeriană ucraineană în zona localității Reni, la nord de brațul Chilia",
-        "link": "https://www.g4media.ro/ministerul-apararii-nationale-sistemul-de-supraveghere-radar-a-detectat-un-grup-de-tinte-aeriene-in-largul-marii-negre-tinta-a-fost-distrusa-de-apararea-aeriana-ucraineana-in-zona-localitatii-reni.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "O dronă a pătruns în spațiul aerian al României. Avioane de luptă ridicate de la sol și mesaj RO-Alert în Tulcea",
-        "link": "https://www.mediafax.ro/politic/o-drona-a-patruns-in-spatiul-aerian-al-romaniei-avioane-de-lupta-ridicate-de-la-sol-si-mesaj-ro-alert-in-tulcea-23825640"
-      },
-      {
-        "source": "Digi24",
-        "title": "Dronă detectată în apropierea Insulei Şerpilor. MApN anunță că două avioane F-16 au fost trimise să monitorizeze situaţia",
-        "link": "https://www.digi24.ro/stiri/actualitate/drona-detectata-in-apropierea-insulei-serpilor-mapn-anunta-ca-doua-avioane-f-16-au-fost-trimise-sa-monitorizeze-situatia-3993245"
-      },
-      {
-        "source": "Digi24",
-        "title": "Patru drone au pătruns în spațiul aerian al Republicii Moldova, autoritățile sunt în alertă: „Pericol pentru cetățeni”",
-        "link": "https://www.digi24.ro/stiri/externe/patru-drone-au-patruns-in-spatiul-aerian-al-republicii-moldova-autoritatile-sunt-in-alerta-pericol-pentru-cetateni-3994891"
-      },
-      {
-        "source": "Mediafax",
-        "title": "O dronă a căzut și a explodat în Republica Moldova, în afara localității Codrenii Noi",
-        "link": "https://www.mediafax.ro/stirile-zilei/o-drona-a-cazut-si-a-explodat-in-republica-moldova-in-afara-localitatii-codrenii-noi-23826838"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "O nouă dronă, intrată ilegal, a explodat în R. Moldova: MAE de la Chișinău cere Rusiei să respecte normele dreptului internațional",
-        "link": "https://agerpres.ro/politic-extern/2026/10/16/o-noua-drona-intrata-ilegal-a-explodat-in-r-moldova-mae-de-la-chisinau-cere-rusiei-sa-respecte-norme--1603952"
-      },
-      {
-        "source": "Digi24",
-        "title": "Două drone aeriene, angajate şi doborâte de piloţii militari români deasupra Mării Negre. Declarația ministrului Apărării",
-        "link": "https://www.digi24.ro/stiri/doua-drone-aeriene-angajate-si-doborate-de-pilotii-militari-romani-deasupra-marii-negre-declaratia-ministrului-apararii-3996935"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Două drone aeriene, doborâte sâmbătă seara de piloţii militari români deasupra Mării Negre. Anunțul făcut de MApN",
-        "link": "https://stirileprotv.ro/stiri/actualitate/doua-drone-aeriene-doborate-sambata-seara-de-pilo-ii-militari-romani-deasupra-marii-negre.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING Imagini în premieră cu avioanele F-16 românești care lovesc o dronă rusească Geran",
-        "link": "https://www.g4media.ro/breaking-imagini-in-premiera-cu-avioanele-f-16-romanesti-care-lovesc-o-drona-ruseasca-geran.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Momentul în care piloții români au neutralizat dronele pătrunse în România, surprins în imagini",
-        "link": "https://www.mediafax.ro/social/momentul-in-care-pilotii-romani-au-neutralizat-dronele-patrunse-in-romania-surprins-in-imagini-23827469"
-      }
-    ],
-    "published_at": 1792308028,
-    "title_hu": "Román F-16-osok két Geran drónt lőttek le a Fekete-tenger felett",
-    "lead_hu": "Október 17-én román F-16-os vadászgépek két, a román légtérbe behatoló, sugárhajtású Geran drónt semmisítettek meg a Fekete-tenger felett, Sulina közelében. A védelmi minisztérium szerint az előző héten több légtérsértés és riasztás történt a román–ukrán határ közelében; október 14-én egy nap alatt több légi incidens is volt.",
-    "content_hu": "• **Október 17-én, szombaton** a román védelmi minisztérium radarrendszere a Kígyó-szigettől mintegy 120 kilométerre keletre, délnyugati irányban haladó légi célokat észlelt.\n\n• **Két román F-16-os** 17:43-kor szállt fel a borceai 86-os légibázisról a célpontok elfogására.\n\n• **Az első drón** 17:59-kor lépett be Románia légterébe, és az egyik F-16-os 18:01-kor, Sulinától délkeletre lőtte le. **A második drón** 18:01-kor hatolt be a légtérbe, és a másik vadászgép 18:05-kor, Sulinától keletre semmisítette meg.\n\n• **A román védelmi minisztérium** szerint mindkét célpont a Geran típuscsaládba tartozó, sugárhajtású támadó drón volt; a tárca nem nevezett meg származási országot. Radu Miruță ügyvivő védelmi miniszter egy televíziós nyilatkozatában orosz eredetűnek mondta az eszközöket.\n\n• **A minisztérium adatai szerint** az esetet megelőző héten nyolc alkalommal észleltek Ukrajna légterében, a román határ közelében haladó légi célokat. Ezek közül négy esetben pilóta nélküli eszközök rövid időre beléptek Románia légterébe.\n\n• **Október 14-én reggel** három légi célt észleltek az ukrajnai Vilkove közelében. Két F-16-os és egy IAR-330 SOCAT helikopter szállt fel megfigyelésre; a célpontok nem léptek be a román légtérbe. Az észak-Tulcea megyei RO-Alertet 6:39-kor küldték ki, és körülbelül 7:58-kor oldották fel.\n\n• **Október 14-én 10:19-kor** újabb RO-Alertet adtak ki, miután egy drón rövid időre belépett a román légtérbe Sulinától keletre, a Fekete-tenger felett, majd visszatért Ukrajnába. Az ukrán légvédelem később lelőtte; a riasztás 11:22-kor ért véget.\n\n• **Október 14-én délután** egy célpontot a Kígyó-szigettől mintegy 30 kilométerre keletre észleltek. 17:38-kor, Sulinától északkeletre belépett a román légtérbe, majd 17:46-kor távozott; a két F-16-os felszállása után kiadott RO-Alert 19:03-kor ért véget.\n\n• **Október 14-én este** két célpont 20:04-kor lépett be a román légtérbe. Az egyik fölött megszűnt a radaros kapcsolat, a másik 20:13-kor Ukrajna felé távozott, majd Reni közelében az ukrán légvédelem megsemmisítette. A Tulcea megye északkeleti részére 20:02-kor, Galați megye keleti részére 20:33-kor küldött riasztást 21:14-kor oldották fel.\n\n• **Október 14-ről 15-re virradó éjjel** egy drónt 1:34-kor, körülbelül egy percig észleltek a román légtérben, Sulinától délkeletre, majd eltűnt a radarokról. Spanyol F-18-asok és román F-16-osok is felszálltak; az észak- és kelet-Tulcea megyére 4:57-kor küldött riasztás 5:46-kor ért véget, további légtérsértést nem jelentettek.\n\n• **Október 15-én reggel** a Kígyó-sziget közelében észlelt célpont miatt két román F-16-os szállt fel, és RO-Alertet küldtek Tulcea megye keleti részére. Légtérsértést nem jelentettek; a riasztás 10:27-kor ért véget.\n\n• **Október 15–16-án Moldovában** hét pilóta nélküli eszköz jogosulatlan átrepülését regisztrálták; az egyik drón lezuhant és felrobbant a Dondușeni járásban. A moldovai külügyminisztérium elítélte a légtérsértéseket, és felszólította Oroszországot az ukrajnai támadások leállítására, valamint Moldova szuverenitásának tiszteletben tartására.\n\n• **A román védelmi minisztérium vasárnap** közzétett képeket a szombati F-16-os bevetésről, amelyen a két drónt megsemmisítették.\n\n• **A RO-Alert-üzenetek száma** az év eleje óta Tulcea megyében már meghaladta az Ukrajnában zajló háborúval összefüggésben Romániában 2023 és 2025 között kiadott riasztások összesített számát.",
-    "title_ro": "Avioane F-16 românești au doborât două drone Geran deasupra Mării Negre",
-    "lead_ro": "Pe 17 octombrie, avioane F-16 românești au doborât deasupra Mării Negre, în apropiere de Sulina, două drone Geran cu propulsie cu reacție care pătrunseseră în spațiul aerian al României. Potrivit Ministerului Apărării, în săptămâna precedentă au avut loc mai multe încălcări ale spațiului aerian și alerte în apropierea graniței româno-ucrainene; pe 14 octombrie au fost raportate mai multe incidente aeriene într-o singură zi.",
-    "content_ro": "• **Sâmbătă, 17 octombrie**, sistemul radar al Ministerului Apărării Naționale a detectat ținte aeriene care se deplasau spre sud-vest, la aproximativ 120 de kilometri est de Insula Șerpilor.\n\n• **Două aeronave F-16 românești** au decolat la ora 17:43 de la Baza 86 Aeriană Borcea pentru interceptarea țintelor.\n\n• **Prima dronă** a intrat în spațiul aerian al României la 17:59 și a fost doborâtă de un F-16 la 18:01, la sud-est de Sulina. **A doua dronă** a pătruns la 18:01 și a fost distrusă de celălalt avion la 18:05, la est de Sulina.\n\n• **Potrivit Ministerului Apărării**, ambele ținte erau drone de atac din familia Geran, cu propulsie cu reacție; instituția nu a precizat țara de origine. Ministrul interimar al Apărării, Radu Miruță, le-a atribuit Rusiei într-o declarație televizată.\n\n• **Conform datelor ministerului**, în săptămâna anterioară incidentului au fost detectate, în opt situații distincte, ținte aeriene în spațiul aerian ucrainean, în apropierea graniței cu România. În patru cazuri, aparate fără pilot au pătruns pentru scurt timp în spațiul aerian românesc.\n\n• **În dimineața de 14 octombrie**, au fost detectate trei ținte aeriene în apropiere de Vâlkove, în Ucraina. Două aeronave F-16 și un elicopter IAR-330 SOCAT au decolat pentru monitorizare; țintele nu au intrat în spațiul aerian național. RO-Alertul pentru nordul județului Tulcea a fost transmis la 6:39 și ridicat în jurul orei 7:58.\n\n• **La 10:19, pe 14 octombrie**, a fost transmis un nou RO-Alert, după ce o dronă a intrat pentru scurt timp în spațiul aerian românesc, la est de Sulina, deasupra Mării Negre, apoi a revenit în Ucraina. Apărarea antiaeriană ucraineană a doborât-o ulterior; alerta a încetat la 11:22.\n\n• **În după-amiaza de 14 octombrie**, o țintă a fost detectată la aproximativ 30 de kilometri est de Insula Șerpilor. A intrat în spațiul aerian românesc la 17:38, la nord-est de Sulina, și l-a părăsit la 17:46. RO-Alertul transmis după decolarea a două F-16 a încetat la 19:03.\n\n• **În seara de 14 octombrie**, două ținte au intrat în spațiul aerian național la 20:04. Contactul radar cu una dintre ele a fost pierdut deasupra mării; cealaltă a ieșit spre Ucraina la 20:13 și a fost distrusă de apărarea antiaeriană ucraineană în apropiere de Reni. Alertele transmise la 20:02 pentru nord-estul județului Tulcea și la 20:33 pentru estul județului Galați au încetat la 21:14.\n\n• **În noaptea de 14 spre 15 octombrie**, o dronă a fost detectată timp de aproximativ un minut în spațiul aerian românesc, la sud-est de Sulina, la ora 1:34, după care a dispărut de pe radar. Au decolat aeronave spaniole F-18 și românești F-16; RO-Alertul transmis la 4:57 pentru nordul și estul județului Tulcea a încetat la 5:46. Nu au fost raportate alte pătrunderi.\n\n• **În dimineața de 15 octombrie**, două aeronave F-16 românești au decolat după detectarea unei ținte în apropierea Insulei Șerpilor, iar populația din estul județului Tulcea a primit un RO-Alert. Nu au fost raportate încălcări ale spațiului aerian; alerta a încetat la 10:27.\n\n• **În perioada 15–16 octombrie, în Republica Moldova**, au fost înregistrate șapte survolări neautorizate de aparate fără pilot; una dintre drone s-a prăbușit și a explodat în raionul Dondușeni. Ministerul moldovean de Externe a condamnat încălcările și a cerut Rusiei să oprească atacurile asupra Ucrainei și să respecte suveranitatea Republicii Moldova.\n\n• **Duminică, Ministerul Apărării din România** a publicat imagini surprinse în timpul misiunii de sâmbătă, în care avioanele F-16 au neutralizat cele două drone.\n\n• **Numărul mesajelor RO-Alert** transmise în județul Tulcea de la începutul anului a depășit totalul alertelor emise în România, din cauza războiului din Ucraina, în perioada 2023–2025."
   },
   {
     "group_id": "group_d9a766f32f",
@@ -961,74 +1442,6 @@
     "title_ro": "SONDAJ: Obezitatea este o boală sau este doar o consecință a stilului de viață? Care sunt implicațiile pentru organism? Dar soluțiile?",
     "lead_ro": "Scăderea în greutate și menținerea unui stil de viață sănătos au devenit priorități, dar și provocări majore pentru mulți dintre noi, în condițiile în care tot mai multe persoane se confruntă cu obezi…",
     "content_ro": "Scăderea în greutate și menținerea unui stil de viață sănătos au devenit priorități, dar și provocări majore pentru mulți dintre noi, în condițiile în care tot mai multe persoane se confruntă cu obezitatea. G4Media continuă seria G4Debate cu dezbaterea „Controlul greutății – Implicațiile mai puțin cunoscute ale obezității și soluțiile disponibile”, care va avea loc […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_3c009f782d",
-    "fingerprint": "72a2aa0a5fe1f84554422d9acd43d415",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/08/FotoJet-2026-08-11T175430.903-1200x675.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Prognoza ANM dă peste cap așteptările! Cum va fi vremea până în noiembrie",
-        "link": "https://www.cancan.ro/prognoza-anm-da-peste-cap-asteptarile-cum-va-fi-vremea-pana-in-noiembrie-21529355"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 13 octombrie. Ploi abundente, frig și vânt puternic în România, iar la munte sunt așteptate ninsori",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-13-octombrie-ploi-abundente-frig-si-vant-puternic-in-romania-iar-la-munte-sunt-asteptate-ninsori.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Prognoza meteo azi, 14 octombrie 2026. Ploi în sud, vânt puternic în est și frig pătrunzător peste noapte",
-        "link": "https://www.cancan.ro/prognoza-meteo-azi-14-octombrie-2026-ploi-in-sud-vant-puternic-in-est-si-frig-patrunzator-peste-noapte-21529290"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 14 octombrie. Temperaturile cresc ușor, dar frigul persistă în mare parte din țară. Cum va fi în București",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-14-octombrie-temperaturile-cresc-usor-dar-frigul-persista-in-mare-parte-din-tara-cum-va-fi-in-bucuresti.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Cum va fi vremea în București, până sâmbătă. Temperaturile coboară până spre 2 grade",
-        "link": "https://hotnews.ro/cum-va-fi-vremea-in-bucuresti-pana-sambata-temperaturile-coboara-pana-spre-2-grade-2375536"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Vremea se schimbă radical în România: ninsori la munte și vijelii în jumătate de țară. Ce urmează în București",
-        "link": "https://adevarul.ro/stiri-interne/meteo/vremea-se-schimba-radical-in-romania-ninsori-la-2563921.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Prognoza meteo joi, 15 octombrie. Ploi în mai multe regiuni și ninsori la munte, unde se va depune strat de zăpadă",
-        "link": "https://adevarul.ro/stiri-interne/meteo/prognoza-meteo-joi-15-octombrie-ploi-in-mai-2564098.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 15 octombrie. Ploi în aproape toată țara și temperaturi mai mici decât normalul perioadei",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-15-octombrie-ploi-in-aproape-toata-tara-si-temperaturi-mai-mici-decat-normalul-perioadei.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 16 octombrie. Este o zi cam rece, cu ploi slabe în multe zone, lapoviță și ninsoare la munte",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-16-octombrie-este-o-zi-cam-rece-cu-ploi-slabe-in-multe-zone-lapovita-si-ninsoare-la-munte.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 17 octombrie. Ploi și temperaturi scăzute în aproape toată țara. Unde va fi cel mai frig",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-17-octombrie-ploi-si-temperaturi-scazute-in-aproape-toata-tara-unde-va-fi-cel-mai-frig.html"
-      }
-    ],
-    "published_at": 1792307100,
-    "title_hu": "Hideg, esős idő és havazás a hegyekben Romániában",
-    "lead_hu": "Október 13. és 17. között az átlagosnál hidegebb idő, több térségben eső és a magasabb hegyekben havas eső, illetve havazás jellemezte Romániát. A hegyvidéken és keleten erős széllökésekre is figyelmeztettek; a hegyekben néhány centiméteres hótakaró kialakulását jelezték előre.",
-    "content_hu": "• **Október 13–17. között** az ország nagy részén az évszakos átlagnál hűvösebb időt jeleztek előre. A lehűlés a korábbi szokatlanul meleg napokat követte; a nappali maximumok térségtől és naptól függően többnyire 8–18 fok között alakultak, Olteniában helyenként 20 fokot is elérhettek.\n\n• **Az eső több napon át több térséget érintett vagy érinthetett:** október 13-án főként a középső és déli országrészekben, a következő napokban pedig Erdélyben, Moldvában, Máramarosban és Havasalföldön is számítottak csapadékra. A záporok területi eloszlása változó volt, és egyes térségekben csak elszórtan jeleztek esőt.\n\n• **A magasabb hegyvidéki területeken havas eső és havazás volt várható.** Az előrejelzések szerint 1500 méter felett hullhatott vegyes halmazállapotú csapadék; a Déli- és Kárpátkanyar-hegységben helyenként 5–15 centiméteres hóréteg kialakulását jelezték előre.\n\n• **A szél a hegygerinceken, valamint az ország keleti és délkeleti részein erősödött meg.** A hegyvidéki széllökések elérhették a 60–80 km/órát, míg Moldva, Dobrudzsa és Havasalföld keleti részén több előrejelzés 40–55 km/órás széllökéseket valószínűsített.\n\n• **A hideg éjszakákon helyenként fagy, dér és köd is kialakulhatott.** A Kárpátok keleti részének mélyebben fekvő medencéiben akár mínusz 5 fokot, Bukarest környékén pedig a külvárosi térségekben nagyjából 2 fokot jeleztek előre.",
-    "title_ro": "Vreme rece și ploioasă în România, cu ninsori la munte",
-    "lead_ro": "Între 13 și 17 octombrie, în cea mai mare parte a României s-au prognozat temperaturi sub cele obișnuite pentru această perioadă, ploi în mai multe regiuni și precipitații mixte la altitudini mari. Meteorologii au avertizat și asupra rafalelor puternice de vânt, iar la munte au estimat depunerea unui strat de zăpadă de câțiva centimetri.",
-    "content_ro": "• **În perioada 13–17 octombrie**, prognozele au indicat vreme mai rece decât media sezonieră în cea mai mare parte a țării. Răcirea a urmat unor zile neobișnuit de calde; maximele diurne au fost, în funcție de regiune și de zi, în general între 8 și 18 grade, cu valori locale de până la 20 de grade în Oltenia.\n\n• **Ploile au fost prognozate în mai multe regiuni, în zile succesive:** pe 13 octombrie, mai ales în centrul și sudul țării, iar în zilele următoare și în Transilvania, Moldova, Maramureș și Muntenia. Precipitațiile au fost distribuite neuniform, în unele zone fiind așteptate doar ploi izolate.\n\n• **La altitudini mari, precipitațiile urmau să fie lapoviță și ninsoare.** Prognozele au indicat precipitații mixte peste 1.500 de metri și posibilitatea depunerii unui strat de zăpadă de 5–15 centimetri, local, în Carpații Meridionali și Carpații de Curbură.\n\n• **Vântul urma să se intensifice pe creste și în regiunile estice și sud-estice.** Rafalele de la munte puteau ajunge la 60–80 km/h, iar în Moldova, Dobrogea și estul Munteniei au fost prognozate rafale de 40–55 km/h.\n\n• **Nopțile reci puteau aduce local îngheț, brumă și ceață.** În depresiunile din Carpații Orientali, temperaturile puteau coborî până la minus 5 grade, iar în zona periurbană a Bucureștiului erau prognozate valori de aproximativ 2 grade."
   },
   {
     "group_id": "group_c2ce22e812",
@@ -1792,84 +2205,6 @@
     "content_ro": "• **Trump îl consideră pe Putin mai dornic de pace**: Președintele american a spus că Putin vrea un acord mai mult decât Zelenski și a susținut că ambele părți au încălcat armistițiul. Nu a criticat Kremlinul pentru atacurile rusești.\n\n• **Trump a numit „o rușine” reluarea atacurilor ucrainene asupra rafinăriilor**: El a afirmat că loviturile lui Zelenski cresc prețurile mondiale la petrol și că există și alte ținte. A spus că este mai dificil să lucreze cu Zelenski decât cu Putin și că nu îl place pe liderul ucrainean.\n\n• **Zelenski spune că se simte trădat de Trump**: Liderul ucrainean a declarat că este dureros când președintele american nu rămâne la mijloc, ci pare să aleagă partea adversă; a spus că este păcat că Ucraina pierde un partener puternic. El a subliniat că țara sa nu este obiectul unei tranzacții comerciale.\n\n• **Condițiile armistițiului energetic rămân neclare**: Trump a anunțat oprirea atacurilor pe rețelele sociale, iar Kievul spune că nu fusese consultat în prealabil. Zelenski a afirmat că Ucraina a respectat pauza timp de trei zile, în timp ce Rusia a continuat să atace infrastructura energetică ucraineană; Kremlinul spune că nu a fost finalizat niciun acord.\n\n• **Atacurile rusești au provocat pagube grave și pene de curent**: Zelenski a anunțat că, într-un val de atacuri, Rusia a folosit 39 de rachete balistice și peste 120 de drone; potrivit lui, peste 600.000 de persoane au rămas fără electricitate, iar 26 de instalații energetice și patru obiective din sectorul petrolier și gazier au fost avariate. Într-un alt atac de 12 ore au fost folosite peste 320 de drone și rachete, iar peste 15 instalații energetice au fost lovite; după un alt val de atacuri, autoritățile ucrainene au raportat șapte morți și aproximativ 90 de răniți.\n\n• **Ucraina a reluat atacurile asupra rafinăriilor**: Potrivit lui Zelenski, Kievul a suspendat timp de trei zile atacurile asupra infrastructurii energetice rusești la cererea SUA, dar Moscova nu a oprit loviturile. După pauză, un atac cu drone a provocat un incendiu la rafinăria Rosneft din Reazan, care reprezintă aproape 5% din capacitatea de rafinare a Rusiei; evaluarea pagubelor era în curs.\n\n• **Zelenski condiționează o nouă pauză de reciprocitate**: Ucraina ar opri din nou atacurile asupra țintelor energetice numai dacă Rusia își încetează, la rândul ei, loviturile. El a spus și că livrarea unor rachete interceptoare Patriot suplimentare ar fi minimul cerut în schimbul suspendării atacurilor.\n\n• **Trump a cerut un nou președinte în Ucraina, iar Zelenski a propus alegeri condiționate**: Trump a spus că Kievul ar trebui să aleagă un lider capabil să încheie un acord. Zelenski a răspuns că Ucraina poate organiza alegeri dacă Rusia acceptă o încetare totală a focului timp de 60 de zile; o relatare de presă a menționat patru potențiali candidați, între care Valeri Zalujnîi și Kirilo Budanov.\n\n• **Acordul privind motorina a fost prezentat ca un semnal pentru readucerea Rusiei la negocieri**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni, la întâlnirea de la Miami, că exporturile rusești de motorină ar putea semnala disponibilitatea Washingtonului de a coopera cu Moscova și ar putea readuce Rusia la masa negocierilor. Au fost discutate și garanțiile de securitate și reconstrucția, dar nu s-a ajuns la un acord.\n\n• **Efectul acordului asupra prețurilor ar putea fi limitat**: Analiștii spun că livrările planificate ar putea reduce puțin prețurile; volumele programate pentru octombrie și noiembrie acoperă doar o fracțiune din consumul SUA. Zelenski și analiștii au indicat războiul din Iran și perturbările din Strâmtoarea Ormuz drept principalele cauze ale scumpirilor; prețul mediu al motorinei în SUA a ajuns la 6,28 dolari pe galon, cu 72% peste nivelul de acum un an.\n\n• **Un grup bipartizan de senatori a cerut anularea acordului**: Senatorii au susținut că înțelegerea ar reduce foarte puțin prețurile la combustibil, oferind în același timp venituri Moscovei. Ei au cerut revocarea Licenței Generale nr. 135 și aplicarea prevederilor legii de sancțiuni Lindsey Graham.\n\n• **Trump a suspendat cea mai mare parte a noilor sancțiuni**: Legea Congresului viza oficiali și bănci rusești, flota-fantomă și permitea taxe asupra celor mai mari cumpărători de petrol și gaze rusești. Trump a suspendat majoritatea prevederilor înainte de intrarea lor în vigoare, invocând interesul național; Zelenski avertizează că relaxarea presiunii l-ar putea încuraja pe Putin să continue atacurile.\n\n• **Meloni a numit acordul riscant și a cerut o reprezentare europeană în negocieri**: Premierul italian a spus că înțelegerea oferă legitimitate și venituri Moscovei, slăbind sancțiunile. Ea a propus ca UE să acorde un mandat oficial unui reprezentant european, eventual grupului E3; UE pregătește și noi sancțiuni împotriva industriei militare ruse.\n\n• **Moscova vede acordul privind motorina ca pe un model de cooperare economică mai amplă**: Kirill Dmitriev a afirmat că înțelegerea poate deschide calea altor acorduri comerciale și de investiții între SUA și Rusia. Aleksandr Novak a vorbit ulterior despre livrări de până la 3–3,5 milioane de tone pe lună.\n\n• **Disputa privind informațiile și Starlink a amplificat tensiunile**: Zelenski spune că oficiali militari americani au avertizat Ucraina că schimbul de informații ar putea fi limitat dacă atacurile asupra rafinăriilor continuă. El a afirmat și că încetinirea Starlink a perturbat operațiunile ucrainene; Elon Musk a spus că restricțiile privind Starshield, sistemul militar, țin de deciziile guvernului american.\n\n• **Kremlinul acuză Ucraina că subminează eforturile de pace**: Dmitri Peskov a susținut că atacurile ucrainene asupra rafinăriilor rusești contravin inițiativei americane de pace și că Kievul și Zelenski refuză calea negocierilor. Moscova afirmase însă anterior că termenii armistițiului energetic nu au fost stabiliți.\n\n• **Ucraina cere sprijin european și mai multă apărare antiaeriană**: Zelenski a estimat costul războiului pentru anul următor la 155 de miliarde de euro și a cerut cel puțin 70 de miliarde pentru apărare, armament și reziliență. Kievul solicită rachete interceptoare Patriot suplimentare; stocurile sunt limitate, iar cererea din Orientul Mijlociu concurează pentru aceleași resurse.\n\n• **Ucraina intră în iarnă cu rezerve importante de gaze**: Potrivit relatărilor, depozitele subterane conțin 16 miliarde de metri cubi de gaze naturale, cel mai ridicat nivel din 2020, în pofida atacurilor rusești asupra infrastructurii energetice.\n\n• **Ar putea fi în pregătire un plan de pace mai amplu**: Propunerea prezentată de Foreign Policy ar include finanțarea reconstrucției, garanții de securitate pentru Ucraina comparate cu articolul 5 al NATO, cooperare energetică și economică și o încetare a focului de-a lungul actualei linii a frontului. Aceasta ar însemna acceptarea de facto a controlului rus asupra teritoriilor ocupate; planul nu este un acord final.\n\n• **Ucraina își poate muta presiunea către alte ținte economice**: Potrivit unei analize The Atlantic, dronele ucrainene au vizat aeroporturi și centre de date rusești; într-o săptămână au fost anulate 345 de zboruri pe aeroporturile din Moscova, iar din 8 octombrie au fost atacate cel puțin patru centre de date. Analiza spune că aceste lovituri pot provoca perturbări, dar nu sunt suficiente singure pentru a forța Kremlinul să accepte un armistițiu.\n\n• **Un atac rusesc a vizat și combinatul siderurgic din Krivoi Rog**: Ministerul rus al Apărării a afirmat că atacurile nocturne au lovit infrastructura energetică și industrială ucraineană, inclusiv combinatul ArcelorMittal, oprit anterior. Moscova l-a descris drept furnizor pentru industria militară, dar Reuters nu a putut verifica independent aceste informații.\n\n• **Kievul se confruntă cu o alegere dificilă**: O confruntare deschisă cu Trump poate pune în pericol sprijinul militar și de informații american rămas, în timp ce acceptarea condițiilor Washingtonului ar putea slăbi securitatea Ucrainei. La Bruxelles, Zelenski a răspuns zâmbind ironic la întrebarea dacă a devenit țap ispășitor pentru problemele interne ale lui Trump."
   },
   {
-    "group_id": "group_8b5da53912",
-    "fingerprint": "1656fe1ac973e77730fc0e0a712be212",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/73d36bd7-a853-49d2-ac78-7eef5e112681.jpg?width=290&height=208",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 12,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cristi Chivu, descumpănit după eșecul cu Brugge: „Acest meci nu reprezintă o echipă puternică și ambițioasă”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/cristi-chivu-reactie-esec-inter-club-brugge-liga-campionilor-987842.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Echipa lui Cristi Chivu a pierdut cu Bruges, Dennis Man n-a jucat pentru Eindhoven",
-        "link": "https://adevarul.ro/sport/echipa-lui-cristi-chivu-a-pierdut-cu-bruges-2563857.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cristi Chivu, după eșecul lui Inter în Champions League: „Îmi asum responsabilitatea. Nu reușesc să găsesc echilibrul potrivit”",
-        "link": "https://www.mediafax.ro/sport/cristi-chivu-dupa-esecul-lui-inter-in-champions-league-imi-asum-responsabilitatea-nu-reusesc-sa-gasesc-echilibrul-potrivit-23824941"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Dezastrul lui Cristi Chivu: dublul golurilor primite față de sezonul trecut » „Inter l-a avut în mână, dar l-a ratat”",
-        "link": "https://www.gsp.ro/international/campionate/cifrele-dezastrului-dublul-golurilor-primite-inter-avut-in-mana-cristian-romero-ratat-transferul-988025.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Lovitură pentru Cristi Chivu: Lautaro Martínez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
-        "link": "https://www.gsp.ro/international/campionate/lautrao-martinez-accidentare-inter-cristi-chivu-988371.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Lovitură pentru Cristi Chivu: Lautaro Martinez s-a accidentat și va lipsi o perioadă mai lungă » Va rata derby-ul cu AC Milan",
-        "link": "https://www.gsp.ro/international/campionate/lautaro-martinez-accidentare-inter-cristi-chivu-988371.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Cristi Chivu nu va putea conta pe Lautaro Martinez în următoarele meciuri",
-        "link": "https://adevarul.ro/sport/cristi-chivu-nu-va-putea-conta-pe-lautaro-martinez-2564269.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cristi Chivu și-a însușit criticile: „Schimbarea trebuie să înceapă chiar cu mine. Pot să mă organizez mai bine”",
-        "link": "https://www.gsp.ro/international/campionate/chivu-insusit-criticile-nter-schimbarea-trebuie-sa-inceapa-cu-mine-pot-sa-ma-organizez-mai-bine-988822.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "„Ar fi mai simplu să renunţăm”. Cristi Chivu și-a recunoscut greșeala pentru înfrângerea dramatică a lui Inter cu Bruges",
-        "link": "https://stirileprotv.ro/stiri/sport/ar-fi-mai-simplu-sa-renun-am-cristi-chivu-si-a-recunoscut-greseala-pentru-infrangerea-dramatica-a-lui-inter-cu-bruges.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Chivu, victorie cu emoții în Serie A. Inter a reușit să întoarcă spectaculos rezultatul, în deplasare",
-        "link": "https://stirileprotv.ro/stiri/sport/chivu-victorie-cu-emotii-in-serie-a-inter-a-reusit-sa-intoarca-spectaculos-rezultatul-in-deplasare.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cu ce i-a dat gata Chivu pe italieni: „Excepțional!”",
-        "link": "https://www.gsp.ro/international/campionate/cristi-chivu-inter-milano-bologna-serie-a-989276.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Chivu n-a venit la conferință, după Bologna - Inter!",
-        "link": "https://www.gsp.ro/international/campionate/chivu-n-a-venit-la-conferinta-dupa-bologna-inter-989288.html"
-      }
-    ],
-    "published_at": 1792305111,
-    "title_hu": "Chivu önkritikát gyakorolt a Brugge elleni vereség után, az Inter Bolognában javított, de Lautaro kiesett",
-    "lead_hu": "Az Inter 4–3-ra kikapott a Club Brugge-től, így két forduló után pont nélkül állt a Bajnokok Ligájában. Cristi Chivu magára vállalta a felelősséget, és a taktikai, mentális, valamint védekezési problémák javítását sürgette; csapata Lautaro Martínez nélkül 3–1-re nyert Bolognában, és 19 ponttal a Serie A élére állt. A csatár a novemberi válogatott szünet után térhet vissza, a becslések szerint akár hét mérkőzést is kihagyhat.",
-    "content_hu": "• **Október 13-án** az Inter hazai pályán 4–3-ra kikapott a Club Brugge-től a Bajnokok Ligája alapszakaszának második fordulójában; az olasz csapat az első két mérkőzését is elveszítette.\n\n• **Nicolo Tresoldi** mesterhármast szerzett, a győztes gólt a csereként beálló Romeo Vermant jegyezte. Az Inter góljait Lautaro Martínez két találata és Ange-Yoan Bonny késői gólja adta. Lautaro a sorozat nyolcadik egymást követő idényében is betalált, és 27 góljával a harmadik legeredményesebb argentin a BL-ben.\n\n• **Cristi Chivu** szerint az Inter jól kezdett, és a szünet után is volt két nagy helyzete, de a Brugge második gólja után elveszítette a higgadtságát és a taktikai egyensúlyát. A frusztráció és a türelmetlenség miatt a játékosok támadás közben késve rendeződtek vissza, a csapat pedig improvizálni kezdett és nem tartotta be a tervet.\n\n• **Chivu magára vállalta a felelősséget**, és azt mondta, a változásnak vele kell kezdődnie: jobban kell megszerveznie a csapatot, határozottabban közvetítenie az elvárásokat, és akár a szünetben is több nyugalmat kellett volna adnia a játékosoknak. A párharcok, a labdaszerzések, a játékosok közötti távolságok és a letámadás összehangoltságának javítását sürgette, de nem akar lemondani a letámadásról és a támadó szándékról.\n\n• **A védekezési mutatók** szerint az Inter az idény első nyolc Serie A- és BL-mérkőzésén 14 gólt kapott, szemben az előző idény azonos szakaszának hét góljával; mindkét időszakban 22 gólt szerzett. A mostani 14 kapott gólból tíz a San Siróban született, és a nyolc mérkőzésből csak kettőt zárt kapott gól nélkül.\n\n• **Lautaro Martínez** a Brugge elleni mérkőzésen a bal combhajlító izmainál sérült meg; a klub vizsgálatai izompanaszt mutattak ki. Chivu a novemberi válogatott szünet utáni visszatérésről beszélt, az olasz sajtó körülbelül egy hónapos kihagyást és akár hét elmulasztott mérkőzést becsült, köztük az AC Milan elleni derbit. A pontos visszatérési időpont nem biztos.\n\n• **A Lautaro nélküli támadósorban** Marcus Thuram, Pio Esposito és Ange-Yoan Bonny áll Chivu rendelkezésére; a sajtó a Thuram–Esposito párost tartotta a legvalószínűbb kezdőfelállásnak. Chivu Bonnyt is méltatta, és azt mondta, a támadó már bizonyította a minőségét, miközben a csereként nyújtott teljesítményével elégedettek.\n\n• **Október 17-én** az Inter 3–1-re nyert idegenben a Bologna ellen, miután Tommaso Pobega a 10. percben vezetést szerzett a hazaiaknak. Marcus Thuram a szünet előtt egyenlített, majd Carlos Augusto és Ange-Yoan Bonny talált be; mindkét gólszerző csereként érkezett. Az olasz sajtó 7-es osztályzatokkal és az ihletett cserék dicséretével értékelte Chivu munkáját.\n\n• **A Bologna elleni mérkőzés előtt** Benjamin Pavard is kiesett, John Stones továbbra sem volt bevethető, Curtis Jones visszatérését pedig a következő fordulóra várták. Chivu a 18 éves Leonardo Boviót is behívta az U23-as csapatból. Chivu a győzelem után elvesztette a hangját, ezért a sajtótájékoztatón Aleksandar Kolarov másodedző helyettesítette.\n\n• **A Serie A-ban** az Inter hét mérkőzés után 19 ponttal állt az élen. A Roma 17 ponttal, két pont hátránnyal követte, miután legyőzte a Genoát.\n\n• **A BL-szereplés pénzügyi tétje** is jelentős: az Adevărul szerint az Inter a 2025/26-os idényben valamivel kevesebb mint 74 millió eurót kapott az UEFA-tól, míg a döntőbe jutás előtti idényben közel 137 milliót. A nyolcaddöntőbe jutás – akár rájátszáson keresztül – becslések szerint 18–20 millió eurós bevételt jelenthet; a kiesés ezért akár egy fontos játékos eladását is kikényszerítheti.\n\n• **A Bajnokok Ligája folytatásában** az Interre még a Sahtar, a Feyenoord, a Stuttgart, a Borussia Dortmund, a Liverpool és a Slovan Bratislava elleni mérkőzés vár. A klub tulajdonosai kiemelt célnak tekintik a nyolcaddöntőbe jutást.",
-    "title_ro": "Chivu și-a asumat eșecul cu Brugge, Inter a revenit la Bologna, dar Lautaro s-a accidentat",
-    "lead_ro": "Inter a pierdut cu 4-3 în fața lui Club Brugge și a rămas fără punct după primele două etape din Liga Campionilor. Cristi Chivu și-a asumat responsabilitatea și a cerut corectarea problemelor tactice, mentale și defensive; echipa sa a câștigat apoi cu 3-1 la Bologna, fără Lautaro Martinez, și a urcat pe primul loc în Serie A, cu 19 puncte. Atacantul ar putea reveni după pauza internațională din noiembrie și ar putea rata până la șapte meciuri.",
-    "content_ro": "• **Pe 13 octombrie**, Inter a pierdut acasă cu 4-3 în fața lui Club Brugge, în etapa a doua a fazei ligii din Liga Campionilor; italienii au două înfrângeri după primele două partide.\n\n• **Nicolo Tresoldi** a înscris un hat-trick, iar golul victoriei a fost marcat de rezerva Romeo Vermant. Pentru Inter au punctat de două ori Lautaro Martinez și, în prelungiri, Ange-Yoan Bonny. Lautaro a înscris în al optulea sezon consecutiv de Liga Campionilor și, cu 27 de goluri, este al treilea marcator argentinian din competiție.\n\n• **Cristi Chivu** a spus că Inter a început bine și a avut două ocazii mari după pauză, dar și-a pierdut luciditatea și echilibrul tactic după al doilea gol al lui Brugge. Frustrarea și nerăbdarea au făcut ca jucătorii să întârzie revenirea în apărare, iar echipa a început să improvizeze și nu a mai respectat planul de joc.\n\n• **Chivu și-a asumat responsabilitatea**, afirmând că schimbarea trebuie să înceapă cu el: trebuie să organizeze mai bine echipa, să transmită mai clar cerințele și ar fi putut să le ofere jucătorilor mai multă liniște la pauză. El a cerut îmbunătățirea duelurilor, recuperării mingii, distanțelor dintre jucători și coordonării presingului, dar a spus că nu vrea să renunțe nici la presing, nici la intenția ofensivă.\n\n• **Bilanțul defensiv** arată că Inter a primit 14 goluri în primele opt meciuri din Serie A și Liga Campionilor, față de șapte în aceeași perioadă a sezonului trecut; în ambele intervale a marcat 22 de goluri. Zece dintre cele 14 goluri primite în acest sezon au fost încasate pe San Siro, iar Inter a încheiat doar două dintre cele opt partide fără gol primit.\n\n• **Lautaro Martinez** s-a accidentat la flexorii coapsei stângi în meciul cu Brugge; examinările clubului au depistat o problemă musculară. Chivu a vorbit despre revenirea după pauza internațională din noiembrie, iar presa italiană a estimat o absență de aproximativ o lună și până la șapte meciuri ratate, inclusiv derby-ul cu AC Milan. Data exactă a revenirii nu este sigură.\n\n• **În atac, în lipsa lui Lautaro**, Chivu îi are la dispoziție pe Marcus Thuram, Pio Esposito și Ange-Yoan Bonny; presa a considerat cel mai probabil un cuplu Thuram–Esposito. Chivu l-a lăudat și pe Bonny, afirmând că atacantul și-a demonstrat calitatea, iar echipa este mulțumită de contribuția sa ca rezervă.\n\n• **Pe 17 octombrie**, Inter a câștigat cu 3-1 în deplasare la Bologna, după ce Tommaso Pobega a deschis scorul în minutul 10. Marcus Thuram a egalat înainte de pauză, apoi au înscris Carlos Augusto și Ange-Yoan Bonny, ambii intrați de pe bancă. Presa italiană i-a acordat lui Chivu note de 7 și a apreciat schimbările inspirate.\n\n• **Înaintea meciului cu Bologna**, Benjamin Pavard a devenit indisponibil, John Stones era în continuare accidentat, iar Curtis Jones era așteptat să revină în etapa următoare. Chivu l-a convocat și pe Leonardo Bovio, fundaș de 18 ani de la echipa U23. După victorie, Chivu și-a pierdut vocea, iar la conferința de presă l-a înlocuit secundul Aleksandar Kolarov.\n\n• **În Serie A**, Inter avea 19 puncte după șapte etape și ocupa primul loc. Roma, care a învins-o pe Genoa, era pe locul al doilea, la două puncte în urmă.\n\n• **Miza financiară a parcursului european** este importantă: potrivit Adevărul, Inter a primit puțin sub 74 de milioane de euro de la UEFA în sezonul 2025/26, față de aproape 137 de milioane în sezonul în care a ajuns în finală. Calificarea în optimile de finală, inclusiv prin play-off, ar putea aduce 18–20 de milioane de euro; ratarea obiectivului ar putea forța vânzarea unui jucător important.\n\n• **În continuarea Ligii Campionilor**, Inter mai are de jucat cu Șahtior, Feyenoord, Stuttgart, Borussia Dortmund, Liverpool și Slovan Bratislava. Proprietarii clubului consideră calificarea în optimile de finală un obiectiv prioritar."
-  },
-  {
     "group_id": "group_58afc596aa",
     "fingerprint": "e2c54585bb10bbd01f4e7f57e78fcc5a",
     "category": "Általános",
@@ -2372,27 +2707,6 @@
     "title_ro": "Agresorul lui Lamine Yamal își cere scuze » „Trebuia să mă controlez”",
     "lead_ro": "Facundo Bernal, cel care l-a lovit pe Lamine Yamal în Betis - Barcelona 2-5, fiind eliminat, a „ieșit” ulterior pe rețelele de socializare. Incidentul s-a petrecut în minutul 54, la puțin timp după go…",
     "content_ro": "Facundo Bernal, cel care l-a lovit pe Lamine Yamal în Betis - Barcelona 2-5, fiind eliminat, a „ieșit” ulterior pe rețelele de socializare. Incidentul s-a petrecut în minutul 54, la puțin timp după golul de 2-3 al lui Ezzalzouli. Fermin Lopez zăcea la pământ, accidentat, mai mulți jucători ai lui Beits voiau să-l ridice și atunci a intervenit Lamine Yamal. ..."
-  },
-  {
-    "group_id": "group_49b09cf325",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjExJTJGMjMwNDAwOV8yMzA0/MDA5X0tpbS1Kb25nLVVuLmpwZyZoYXNo/PTM0OTA3NjE0OGE3NDk4ODY1Nzk3NjhmMzUwOGQzNGZh.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ambarcaţiune de lux, dotată cu o piscină de 50 de metri şi tobogane acvatice, văzută în apropierea reşedinţei de vară a lui Kim Jong Un",
-        "link": "https://www.digi24.ro/stiri/externe/ambarcatiune-de-lux-dotata-cu-o-piscina-de-50-de-metri-si-tobogane-acvatice-vazuta-in-apropierea-resedintei-de-vara-a-lui-kim-jong-un-3997297"
-      }
-    ],
-    "published_at": 1792303216,
-    "title_hu": "Ambarcaţiune de lux, dotată cu o piscină de 50 de metri şi tobogane acvatice, văzută în apropierea reşedinţei de vară a lui Kim Jong Un",
-    "lead_hu": "O ambarcaţiune de lux cu o lungime de 80 de metri a fost observată în repetate rânduri, în perioada iulie - jumătatea lunii octombrie a acestui an, în imagini din satelit în largul coastei oraşului Wo…",
-    "content_hu": "O ambarcaţiune de lux cu o lungime de 80 de metri a fost observată în repetate rânduri, în perioada iulie - jumătatea lunii octombrie a acestui an, în imagini din satelit în largul coastei oraşului Wonsan, din Coreea de Nord, unde se află o vilă folosită de liderul nord-coreean Kim Jong Un şi de familia sa.",
-    "title_ro": "Ambarcaţiune de lux, dotată cu o piscină de 50 de metri şi tobogane acvatice, văzută în apropierea reşedinţei de vară a lui Kim Jong Un",
-    "lead_ro": "O ambarcaţiune de lux cu o lungime de 80 de metri a fost observată în repetate rânduri, în perioada iulie - jumătatea lunii octombrie a acestui an, în imagini din satelit în largul coastei oraşului Wo…",
-    "content_ro": "O ambarcaţiune de lux cu o lungime de 80 de metri a fost observată în repetate rânduri, în perioada iulie - jumătatea lunii octombrie a acestui an, în imagini din satelit în largul coastei oraşului Wonsan, din Coreea de Nord, unde se află o vilă folosită de liderul nord-coreean Kim Jong Un şi de familia sa."
   },
   {
     "group_id": "group_c89558ef12",
@@ -3799,27 +4113,6 @@
     "content_ro": "• **16 octombrie.** Previziunile Mediafax, ProTV și Cancan pun accentul pe acțiuni răbdătoare și bine gândite: munca susținută și planificarea pot conta mai mult decât graba de a obține rezultate rapide.\n\n• **Progres profesional și apreciere.** Potrivit previziunilor, superiorii ar putea observa munca, asumarea responsabilităților și calitățile de lider ale unor nativi. Pot apărea proiecte noi, colaborări sau oportunități care implică responsabilități mai mari.\n\n• **Rezolvarea tensiunilor mai vechi.** ProTV arată că unele neînțelegeri din trecut se pot clarifica, ceea ce ar putea favoriza progresul profesional și lansarea unor proiecte noi. Previziunea menționează și recuperarea unor bani așteptați de multă vreme, precum și revendicarea propriilor drepturi.\n\n• **Prudență financiară.** Horoscoapele menționează posibilitatea unor câștiguri sau a recuperării unor sume așteptate, dar recomandă analiză atentă înaintea unei achiziții importante ori a unei investiții. Mediafax sugerează compararea opțiunilor și parcurgerea tuturor etapelor necesare.\n\n• **Contracte și colaborări.** Colaborările pot fi favorizate, însă detaliile trebuie verificate înainte de semnarea unui contract sau acceptarea unei oferte. Cancan recomandă evitarea conflictelor la locul de muncă, organizarea sarcinilor și luarea deciziilor fără grabă.\n\n• **Perspective pentru anumite zodii.** Horoscopul de carieră Cancan indică posibile progrese profesionale pentru Vărsători, noi oportunități de profit pentru Capricorni și rezultate mai bune pentru Tauri prin munca în echipă.\n\n• **Strategie și pași calculați.** Potrivit previziunii Mediafax, răbdarea și planificarea conștientă pot sprijini obiectivele legate de studiu, comunicare și dezvoltare profesională. Unele sarcini pot avansa mai bine dacă sunt realizate discret, iar construirea unei baze solide este preferabilă grabei după rezultate imediate."
   },
   {
-    "group_id": "group_73854fb20a",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwODg2OV8zMDA4/ODY5X0NpdXBlcmNhLmpwZyZoYXNoPTIw/MTUyZGJhZTVmYzNiOTVkNDNhMmJlZTViMTRjZDYy.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Un culegător de ciuperci polonez a găsit „Viagra din Himalaya”, o trufă rară care poate ajunge la 100.000 de dolari pe kilogram",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/un-culegator-de-ciuperci-polonez-a-gasit-viagra-din-himalaya-o-trufa-rara-care-poate-ajunge-la-100-000-de-dolari-pe-kilogram-3988953"
-      }
-    ],
-    "published_at": 1792296006,
-    "title_hu": "Un culegător de ciuperci polonez a găsit „Viagra din Himalaya”, o trufă rară care poate ajunge la 100.000 de dolari pe kilogram",
-    "lead_hu": "Un pasionat de ciuperci din Polonia a pus mâna pe ceea ce el numește „premiul suprem” din Himalaya: un exemplar sălbatic al uneia dintre cele mai scumpe ciuperci de pe Pământ.",
-    "content_hu": "Un pasionat de ciuperci din Polonia a pus mâna pe ceea ce el numește „premiul suprem” din Himalaya: un exemplar sălbatic al uneia dintre cele mai scumpe ciuperci de pe Pământ.",
-    "title_ro": "Un culegător de ciuperci polonez a găsit „Viagra din Himalaya”, o trufă rară care poate ajunge la 100.000 de dolari pe kilogram",
-    "lead_ro": "Un pasionat de ciuperci din Polonia a pus mâna pe ceea ce el numește „premiul suprem” din Himalaya: un exemplar sălbatic al uneia dintre cele mai scumpe ciuperci de pe Pământ.",
-    "content_ro": "Un pasionat de ciuperci din Polonia a pus mâna pe ceea ce el numește „premiul suprem” din Himalaya: un exemplar sălbatic al uneia dintre cele mai scumpe ciuperci de pe Pământ."
-  },
-  {
     "group_id": "group_3070646b78",
     "category": "Általános",
     "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
@@ -4809,189 +5102,5 @@
     "title_ro": "Ce l-a dat pe spate pe Hansi Flick, după Betis - Barcelona: „Este incredibil!”",
     "lead_ro": "Hansi Flick, antrenorul celor de la Barcelona, a vorbit la conferința de presă de la finalul succesului categoric în fața celor de la Betis, scor 5-2, din runda cu numărul 9 din La Liga. Hansi Flick c…",
     "content_ro": "Hansi Flick, antrenorul celor de la Barcelona, a vorbit la conferința de presă de la finalul succesului categoric în fața celor de la Betis, scor 5-2, din runda cu numărul 9 din La Liga. Hansi Flick consideră că echipa lui a făcut un meci foarte bun, chiar dacă a jucat pe terenul lui Betis, care travsersează o formă bună, clasându-se pe locul 3. ..."
-  },
-  {
-    "group_id": "group_4bd974bfaa",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-e/e6ab581b-de5e-4a8a-b93e-23cdf9b34250/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Mărul, de la livezile sălbatice din Asia Centrală la marile mituri ale omenirii. De ce a fost asociat cu fructul interzis, cu toate că Biblia nu îl menționează",
-        "link": "https://adevarul.ro/stil-de-viata/magazin/marul-de-la-livezile-salbatice-din-asia-centrala-2564568.html"
-      }
-    ],
-    "published_at": 1792266325,
-    "title_hu": "Mărul, de la livezile sălbatice din Asia Centrală la marile mituri ale omenirii. De ce a fost asociat cu fructul interzis, cu toate că Biblia nu îl menționează",
-    "lead_hu": "A fost ținut în mână de zeiţa discordiei, de un arcaş elveţian, de o regină invidioasă şi de o companie din California. Unui savant, se spune, i-a căzut în cap, iar zeci de pictori l-au pus pe pânză. …",
-    "content_hu": "A fost ținut în mână de zeiţa discordiei, de un arcaş elveţian, de o regină invidioasă şi de o companie din California. Unui savant, se spune, i-a căzut în cap, iar zeci de pictori l-au pus pe pânză. Mărul, care se laudă că ține doctorul departe, este un fruct cu peste 7.500 de soiuri.",
-    "title_ro": "Mărul, de la livezile sălbatice din Asia Centrală la marile mituri ale omenirii. De ce a fost asociat cu fructul interzis, cu toate că Biblia nu îl menționează",
-    "lead_ro": "A fost ținut în mână de zeiţa discordiei, de un arcaş elveţian, de o regină invidioasă şi de o companie din California. Unui savant, se spune, i-a căzut în cap, iar zeci de pictori l-au pus pe pânză. …",
-    "content_ro": "A fost ținut în mână de zeiţa discordiei, de un arcaş elveţian, de o regină invidioasă şi de o companie din California. Unui savant, se spune, i-a căzut în cap, iar zeci de pictori l-au pus pe pânză. Mărul, care se laudă că ține doctorul departe, este un fruct cu peste 7.500 de soiuri."
-  },
-  {
-    "group_id": "group_4d16c796c9",
-    "fingerprint": "233be482d89012851b0bb15b3b866375",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjE2JTJGMjc4OTk3MF8yNzg5/OTcwX01DWm9ZWE5vUFdRd1pqQTFOMkZo/WW1RME9XTXpOemRpWWpnek1UWmhNekUy/WkRnelpUWTVfdGh1bWJfLTEuanBnJmhh/c2g9Njc1OGIwOTRiOWNiYzI2MGRiYWFjYmRjMTU3NWUxN2Y=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Peiu: Parlamentarii AUR ar putea ieși din sală la votul pe guvernul Niculescu: „Dacă se face majoritatea, va fi foarte fragilă”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/peiu-parlamentarii-aur-ar-putea-iesi-din-sala-la-votul-pe-guvernul-niculescu-daca-se-face-majoritatea-va-fi-foarte-fragila-3989889"
-      },
-      {
-        "source": "Digi24",
-        "title": "Vasile Dîncu consideră că Guvernul Niculescu va trece de Parlament, însă temperează așteptările: „Nu știm cât va dura”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/vasile-dincu-considera-ca-guvernul-niculescu-va-trece-de-parlament-insa-tempereaza-asteptarile-nu-stim-cat-va-dura-3991931"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Victor Negrescu, despre intrarea PSD la guvernare: „Nu este o situație ideală”. Avertisment privind miliardele de euro de la UE",
-        "link": "https://www.mediafax.ro/politic/victor-negrescu-despre-intrarea-psd-la-guvernare-nu-este-o-situatie-ideala-avertisment-privind-miliardele-de-euro-de-la-ue-23825512"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Regretă Victoria Stoiciu plecarea din PSD? Senatoarea explică aranjamentele din Parlament premergătoare Guvernului Niculescu: „AUR nu va vota din dragoste”",
-        "link": "https://adevarul.ro/politica/regreta-victoria-stoiciu-plecarea-din-psd-2564738.html"
-      }
-    ],
-    "published_at": 1792266276,
-    "title_hu": "Megosztottak a pártok a Niculescu-kormány parlamenti támogatásáról",
-    "lead_hu": "A PSD részvétele és a kormány parlamenti beiktatása valószínűnek tűnik, de a kabinet várhatóan korlátozott mandátummal és törékeny támogatással működhet. A megszólalók eltérően ítélik meg az esélyeit, miközben az AUR szerepe és az uniós források védelme is a vita középpontjába került.",
-    "content_hu": "• **A PSD részvétele** a Luca Niculescu vezette kormányban valószínű: Vasile Dîncu szerint a párt vegyes, politikusokból és szakértőkből álló kabinetet támogathat, Victor Negrescu pedig azt közölte, hogy a párt 11 minisztert jelölt a 17 fős kormányba.\n\n• **Dîncu várakozása szerint** a parlament megszavazhatja a kormányt, de a kabinet mandátuma korlátozott lesz: a költségvetési korrekció és a költségvetés elfogadása mellett a jövőbeli irányok kijelölése lehet a feladata, és nem feltétlenül marad hivatalban 2028-ig.\n\n• **Petrișor Peiu, az AUR szenátusi frakcióvezetője** szerint pártja mérlegeli, hogy kivonul a szavazásról, ha Niculescu kormányát a parlament elé terjesztik. Úgy vélte, egy esetlegesen létrejövő többség törékeny lenne, és azt is kétségesnek tartotta, hogy a kabinet egyáltalán eljut a beiktatási szavazásig.\n\n• **Victor Negrescu a kormányzati részvételt kompromisszumnak nevezte**, amely szerinte a lakossági jövedelmek védelmét, a gazdaság élénkítését, az energiaköltségek kezelését és a beruházások folytatását szolgálhatja. Arra is figyelmeztetett, hogy a politikai instabilitás veszélyeztetheti Románia érdekeinek képviseletét az EU következő költségvetéséről szóló tárgyalásokon.\n\n• **Victoria Stoiciu szenátor attól tart**, hogy a kisebbségi PSD-kormány parlamenti támogatása az AUR-tól függhet; szerinte ez a pártnak úgy hozhat előnyöket, hogy közben ellenzékben marad. Ez az ő politikai értékelése, míg Peiu az AUR esetleges kivonulását vetette fel.",
-    "title_ro": "Sprijin incert și fragil pentru învestirea Guvernului Niculescu",
-    "lead_ro": "Participarea PSD la guvernare și învestirea cabinetului condus de Luca Niculescu par posibile, însă guvernul ar putea avea un mandat limitat și un sprijin parlamentar fragil. Declarațiile politicienilor diferă în privința șanselor cabinetului, iar rolul AUR și apărarea fondurilor europene se numără printre temele centrale.",
-    "content_ro": "• **Participarea PSD** la guvernul condus de Luca Niculescu pare probabilă: Vasile Dîncu a spus că partidul ar putea susține o formulă mixtă, cu politicieni și tehnocrați, iar Victor Negrescu a anunțat că PSD a validat 11 miniștri dintr-un cabinet de 17 membri.\n\n• **În opinia lui Dîncu**, Parlamentul ar putea vota învestirea, dar guvernul va avea un mandat limitat: ar urma să se ocupe de rectificarea bugetară și de adoptarea bugetului, precum și să stabilească direcțiile pentru viitor, fără să fie de așteptat să rămână în funcție până în 2028.\n\n• **Petrișor Peiu, liderul senatorilor AUR**, a declarat că parlamentarii partidului iau în calcul să părăsească sala la votul de învestire. El a estimat că o eventuală majoritate ar fi fragilă și s-a îndoit că guvernul va ajunge efectiv la votul din Parlament.\n\n• **Victor Negrescu a descris intrarea PSD la guvernare drept un compromis**, despre care spune că ar trebui să protejeze veniturile populației, să relanseze economia, să abordeze costurile energiei și să continue investițiile. El a avertizat și că instabilitatea politică poate afecta capacitatea României de a-și apăra interesele în negocierile privind viitorul buget al UE.\n\n• **Senatoarea Victoria Stoiciu se teme** că sprijinul parlamentar pentru un guvern minoritar PSD ar putea depinde de AUR, ceea ce, în opinia ei, ar avantaja partidul chiar dacă acesta rămâne în opoziție. Aceasta este evaluarea sa politică; separat, Peiu a evocat posibilitatea ca AUR să părăsească sala la vot."
-  },
-  {
-    "group_id": "group_350f4deb95",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/b26ec775-09e7-4f68-8542-426e0a9f3536.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Presiune și stres?” » Charalambous, luat tare după dezastrul de la echipă: „Nu-mi caut scuze, asta ne lipsește”",
-        "link": "https://www.gsp.ro/international/campionate/elias-charalambous-reactie-levadiakos-7-meciuri-consecutive-fara-gol-marcat-989298.html"
-      }
-    ],
-    "published_at": 1792266232,
-    "title_hu": "„Presiune și stres?” » Charalambous, luat tare după dezastrul de la echipă: „Nu-mi caut scuze, asta ne lipsește”",
-    "lead_hu": "Elias Charalambous (46 de ani) s-a declarat îngrijorat de situația echipei sale, după ce Levadiakos a ajuns la 7 meciuri consecutive în campionatul Greciei fără gol marcat și la 8 în toate competițiil…",
-    "content_hu": "Elias Charalambous (46 de ani) s-a declarat îngrijorat de situația echipei sale, după ce Levadiakos a ajuns la 7 meciuri consecutive în campionatul Greciei fără gol marcat și la 8 în toate competițiile. Levadiakos nu a profitat de avantajul numeric în meciul cu Volos de pe teren propriu și a obținut doar o remiză „albă”, atingând recordul negativ de a nu reuși niciun gol în primele 7 etape. ...",
-    "title_ro": "„Presiune și stres?” » Charalambous, luat tare după dezastrul de la echipă: „Nu-mi caut scuze, asta ne lipsește”",
-    "lead_ro": "Elias Charalambous (46 de ani) s-a declarat îngrijorat de situația echipei sale, după ce Levadiakos a ajuns la 7 meciuri consecutive în campionatul Greciei fără gol marcat și la 8 în toate competițiil…",
-    "content_ro": "Elias Charalambous (46 de ani) s-a declarat îngrijorat de situația echipei sale, după ce Levadiakos a ajuns la 7 meciuri consecutive în campionatul Greciei fără gol marcat și la 8 în toate competițiile. Levadiakos nu a profitat de avantajul numeric în meciul cu Volos de pe teren propriu și a obținut doar o remiză „albă”, atingând recordul negativ de a nu reuși niciun gol în primele 7 etape. ..."
-  },
-  {
-    "group_id": "group_6731d71d3e",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-e/ef103db7-b2cd-48c4-bfc1-150bcf1a2fbe/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Zodiile norocoase ale zilei de 18 octombrie: cine are parte de o schimbare majoră",
-        "link": "https://adevarul.ro/stil-de-viata/horoscop/zodiile-norocoase-ale-zilei-de-18-octombrie-cine-2564710.html"
-      }
-    ],
-    "published_at": 1792266129,
-    "title_hu": "Zodiile norocoase ale zilei de 18 octombrie: cine are parte de o schimbare majoră",
-    "lead_hu": "Trei semne zodiacale se pregătesc să culeagă roadele unor lecții importante de viață....",
-    "content_hu": "Trei semne zodiacale se pregătesc să culeagă roadele unor lecții importante de viață.",
-    "title_ro": "Zodiile norocoase ale zilei de 18 octombrie: cine are parte de o schimbare majoră",
-    "lead_ro": "Trei semne zodiacale se pregătesc să culeagă roadele unor lecții importante de viață....",
-    "content_ro": "Trei semne zodiacale se pregătesc să culeagă roadele unor lecții importante de viață."
-  },
-  {
-    "group_id": "group_b80c2850da",
-    "category": "Gazdaság",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Cum răspunde Alexandru Rogobete după ce Ilie Bolojan a spus că unele spitale au rămas fără bani din cauza modului în care a fost făcut bugetul",
-        "link": "https://hotnews.ro/cum-raspunde-alexandru-rogobete-dupa-ce-ilie-boloajan-a-spus-ca-unele-spitale-a-ramas-fara-bani-din-cauza-modului-in-care-a-fost-facut-bugetul-2378898"
-      }
-    ],
-    "published_at": 1792266041,
-    "title_hu": "Cum răspunde Alexandru Rogobete după ce Ilie Bolojan a spus că unele spitale au rămas fără bani din cauza modului în care a fost făcut bugetul",
-    "lead_hu": "Ministrul desemnat pentru Sănătate, Alexandru Rogobete, a declarat că atunci când a fost realizat bugetul pentru 2026 a solicitat pentru zona de urgenţă 650 de milioane de lei, iar alocarea primită a …",
-    "content_hu": "Ministrul desemnat pentru Sănătate, Alexandru Rogobete, a declarat că atunci când a fost realizat bugetul pentru 2026 a solicitat pentru zona de urgenţă 650 de milioane de lei, iar alocarea primită a fost de 460 de milioane de lei, potrivit news.ro. El a precizat că nu înţelege de ce nu au fost scoase din Fondul …",
-    "title_ro": "Cum răspunde Alexandru Rogobete după ce Ilie Bolojan a spus că unele spitale au rămas fără bani din cauza modului în care a fost făcut bugetul",
-    "lead_ro": "Ministrul desemnat pentru Sănătate, Alexandru Rogobete, a declarat că atunci când a fost realizat bugetul pentru 2026 a solicitat pentru zona de urgenţă 650 de milioane de lei, iar alocarea primită a …",
-    "content_ro": "Ministrul desemnat pentru Sănătate, Alexandru Rogobete, a declarat că atunci când a fost realizat bugetul pentru 2026 a solicitat pentru zona de urgenţă 650 de milioane de lei, iar alocarea primită a fost de 460 de milioane de lei, potrivit news.ro. El a precizat că nu înţelege de ce nu au fost scoase din Fondul …"
-  },
-  {
-    "group_id": "group_cd837b7dd2",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/narcis-bujos-bianca-iotu--1200x675.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Bianca Iotu și Narcis Bujor au vorbit despre apropierea lor: „Aș mai face-o de o mie de ori”",
-        "link": "https://www.cancan.ro/bianca-iotu-si-narcis-bujor-au-vorbit-despre-apropierea-lor-as-mai-face-o-de-o-mie-de-ori-21531867"
-      }
-    ],
-    "published_at": 1792265821,
-    "title_hu": "Bianca Iotu și Narcis Bujor au vorbit despre apropierea lor: „Aș mai face-o de o mie de ori”",
-    "lead_hu": "În ediția de sâmbătă, 17 octombrie, la ceremonia focului, Bianca Iotu a aruncat în foc colierul pe care îl purta împreună cu Remi. Decizia radicală a fost luată după noaptea de amor petrecută cu Narci…",
-    "content_hu": "În ediția de sâmbătă, 17 octombrie, la ceremonia focului, Bianca Iotu a aruncat în foc colierul pe care îl purta împreună cu Remi. Decizia radicală a fost luată după noaptea de amor petrecută cu Narcis Bujor. Narcis Bujor a avut ocazia să îi explice Biancăi Iotu cum stă treaba cu regula celor trei „i”: imposibil, […]",
-    "title_ro": "Bianca Iotu și Narcis Bujor au vorbit despre apropierea lor: „Aș mai face-o de o mie de ori”",
-    "lead_ro": "În ediția de sâmbătă, 17 octombrie, la ceremonia focului, Bianca Iotu a aruncat în foc colierul pe care îl purta împreună cu Remi. Decizia radicală a fost luată după noaptea de amor petrecută cu Narci…",
-    "content_ro": "În ediția de sâmbătă, 17 octombrie, la ceremonia focului, Bianca Iotu a aruncat în foc colierul pe care îl purta împreună cu Remi. Decizia radicală a fost luată după noaptea de amor petrecută cu Narcis Bujor. Narcis Bujor a avut ocazia să îi explice Biancăi Iotu cum stă treaba cu regula celor trei „i”: imposibil, […]"
-  },
-  {
-    "group_id": "group_53997b75b0",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8163650-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Numărul persoanelor arestate în timpul protestelor din Franța a crescut la 400. Macron: Cei care au vandalizat primăriile vor fi pedepsi",
-        "link": "https://www.mediafax.ro/stirile-zilei/numarul-persoanelor-arestate-in-timpul-protestelor-din-franta-a-crescut-la-400-macron-cei-care-au-vandalizat-primariile-vor-fi-pedepsiti-23827351"
-      }
-    ],
-    "published_at": 1792265818,
-    "title_hu": "Numărul persoanelor arestate în timpul protestelor din Franța a crescut la 400. Macron: Cei care au vandalizat primăriile vor fi pedepsi",
-    "lead_hu": "Sâmbătă, aproximativ 400 de persoane au fost arestate în urma protestelor care au loc în Franța. Președintele Emmanuel Macron a declarat că „nu este loc pentru violență”, iar că persoanele „care au va…",
-    "content_hu": "Sâmbătă, aproximativ 400 de persoane au fost arestate în urma protestelor care au loc în Franța. Președintele Emmanuel Macron a declarat că „nu este loc pentru violență”, iar că persoanele „care au vandalizat primăriile și prefecturile vor fi pedepsite”.",
-    "title_ro": "Numărul persoanelor arestate în timpul protestelor din Franța a crescut la 400. Macron: Cei care au vandalizat primăriile vor fi pedepsi",
-    "lead_ro": "Sâmbătă, aproximativ 400 de persoane au fost arestate în urma protestelor care au loc în Franța. Președintele Emmanuel Macron a declarat că „nu este loc pentru violență”, iar că persoanele „care au va…",
-    "content_ro": "Sâmbătă, aproximativ 400 de persoane au fost arestate în urma protestelor care au loc în Franța. Președintele Emmanuel Macron a declarat că „nu este loc pentru violență”, iar că persoanele „care au vandalizat primăriile și prefecturile vor fi pedepsite”."
-  },
-  {
-    "group_id": "group_453400ce7c",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-e/ed4448e2-3e5b-450f-a8a4-a0d65af2d35e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "„Trebuie să-i spun eu tot ce are de făcut”. Povara invizibilă care poate distruge liniștea unui cuplu",
-        "link": "https://adevarul.ro/dezvoltare-personala/relatii/trebuie-sa-i-spun-eu-tot-ce-are-de-facut-povara-2564258.html"
-      }
-    ],
-    "published_at": 1792265605,
-    "title_hu": "„Trebuie să-i spun eu tot ce are de făcut”. Povara invizibilă care poate distruge liniștea unui cuplu",
-    "lead_hu": "Cine observă că frigiderul e gol, că trebuie plătite facturile sau că cel mic are nevoie de o programare la medic? În multe cupluri, treburile sunt împărțite, dar grija pentru tot ce trebuie făcut răm…",
-    "content_hu": "Cine observă că frigiderul e gol, că trebuie plătite facturile sau că cel mic are nevoie de o programare la medic? În multe cupluri, treburile sunt împărțite, dar grija pentru tot ce trebuie făcut rămâne în seama unui singur partener. În timp, acest dezechilibru poate deveni o sursă de tensiune.",
-    "title_ro": "„Trebuie să-i spun eu tot ce are de făcut”. Povara invizibilă care poate distruge liniștea unui cuplu",
-    "lead_ro": "Cine observă că frigiderul e gol, că trebuie plătite facturile sau că cel mic are nevoie de o programare la medic? În multe cupluri, treburile sunt împărțite, dar grija pentru tot ce trebuie făcut răm…",
-    "content_ro": "Cine observă că frigiderul e gol, că trebuie plătite facturile sau că cel mic are nevoie de o programare la medic? În multe cupluri, treburile sunt împărțite, dar grija pentru tot ce trebuie făcut rămâne în seama unui singur partener. În timp, acest dezechilibru poate deveni o sursă de tensiune."
   }
 ]
