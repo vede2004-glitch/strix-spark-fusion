@@ -7,9 +7,7 @@ import { Search, X } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
-import borderCrossing from "@/assets/stirix-border-crossing.jpg";
-import hospital from "@/assets/stirix-hospital.jpg";
-import harghita from "@/assets/stirix-harghita.jpg";
+import { newsImage } from "@/lib/gallery";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -30,8 +28,7 @@ const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
 };
-const fallbackImages = [borderCrossing, hospital, harghita];
-const img = (n: NewsItem, i: number) => n.image || fallbackImages[i % 3];
+const img = (n: NewsItem) => newsImage(n) ?? "";
 
 function Index() {
   const [query, setQuery] = useState("");
@@ -83,7 +80,7 @@ function Index() {
       <main id="top" className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
           <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 min-h-[470px] overflow-hidden rounded-lg border border-border lg:col-span-8 lg:row-span-2">
-            <img src={img(lead, 0)} alt="" className="absolute inset-0 size-full object-cover transition-transform duration-700 group-hover:scale-105" />
+            <img src={img(lead)} alt="" className="absolute inset-0 size-full object-cover transition-transform duration-700 group-hover:scale-105" />
             <div className="absolute inset-0 bg-[linear-gradient(to_top,var(--background)_0%,var(--overlay)_42%,transparent_100%)]" />
             <div className="absolute inset-x-0 bottom-0 p-5 sm:p-8">
               <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ {ro ? "Știre sintetizată cu AI" : "AI Összesített Hír"}</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{labelCategory(lead.category)} · {timeAgo(lead.published_at, lang)} · {formatDate(lead.published_at, lang)}</span></div>
@@ -100,7 +97,7 @@ function Index() {
             <div className="mb-6 flex items-center justify-between border-b border-border pb-4"><h2 className="font-display text-lg font-extrabold uppercase">{ro ? "Știri sintetizate cu AI" : "AI összesített hírek"}</h2><span className="flex items-center gap-2 text-[10px] font-bold uppercase text-muted-foreground"><span className="size-2 rounded-full bg-primary animate-live" />{aiList.length} {ro ? "știri" : "hír"}</span></div>
             {rest.length ? <div className="grid grid-cols-1 gap-x-6 gap-y-9 md:grid-cols-2">
               {rest.map((story, i) => <Link key={story.group_id} to="/hir/$id" params={{ id: story.group_id }} className="group min-w-0">
-                <div className="relative mb-4 aspect-video overflow-hidden rounded-lg border border-border bg-card"><img src={img(story, i + 1)} loading="lazy" alt="" className="size-full object-cover transition-transform duration-500 group-hover:scale-105" /><span className="absolute right-3 top-3 rounded-sm border border-primary/20 bg-background/85 px-2 py-1 text-[9px] font-bold uppercase text-primary backdrop-blur">✨ {ro ? "Sintetizat cu AI" : "AI Összesített"}</span></div>
+                <div className="relative mb-4 aspect-video overflow-hidden rounded-lg border border-border bg-card"><img src={img(story)} loading="lazy" alt="" className="size-full object-cover transition-transform duration-500 group-hover:scale-105" /><span className="absolute right-3 top-3 rounded-sm border border-primary/20 bg-background/85 px-2 py-1 text-[9px] font-bold uppercase text-primary backdrop-blur">✨ {ro ? "Sintetizat cu AI" : "AI Összesített"}</span></div>
                 <div className="mb-2 flex items-center justify-between gap-3 text-[10px] font-bold uppercase text-muted-foreground"><span>{labelCategory(story.category)}</span><span>{formatDate(story.published_at, lang)}</span></div>
                 <h3 className="font-display text-lg font-bold leading-tight transition-colors group-hover:text-primary"><RichText text={t(story).title} /></h3>
                 <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground"><RichText text={t(story).lead} /></p>
