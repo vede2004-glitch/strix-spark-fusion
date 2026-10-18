@@ -1,54 +1,40 @@
 [
   {
-    "group_id": "group_5885390a90",
-    "category": "Erdély",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "CSU Oradea, victorie clară în fața clujenilor. Gazdele au marcat 20 de goluri",
-        "link": "https://www.ebihoreanul.ro/stiri/csu-oradea-victorie-clara-in-fata-clujenilor-gazdele-au-marcat-20-de-goluri-205918.html"
-      }
-    ],
-    "published_at": 1792333948,
-    "title_hu": "CSU Oradea, victorie clară în fața clujenilor. Gazdele au marcat 20 de goluri",
-    "lead_hu": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și…",
-    "content_hu": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și-au construit un avantaj consistent încă din primul sfert.",
-    "title_ro": "CSU Oradea, victorie clară în fața clujenilor. Gazdele au marcat 20 de goluri",
-    "lead_ro": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și…",
-    "content_ro": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și-au construit un avantaj consistent încă din primul sfert."
-  },
-  {
-    "group_id": "group_8e5321c36f",
+    "group_id": "group_f1750c9a98",
+    "fingerprint": "43cba9f9a1054d43e85b408e77d192ae",
     "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/untitled-2-1024x766.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
     "sources": [
       {
-        "source": "HotNews.ro",
-        "title": "Evenimentul tehnologic al acestor zile. Mașina descrisă drept „rezultatul colaborării dintre cea mai bună companie auto și cel mai bun producător de rachete”",
-        "link": "https://hotnews.ro/evenimentul-tehnologic-al-acestor-zile-masina-descrisa-drept-rezultatul-colaborarii-dintre-cea-mai-buna-companie-auto-si-cel-mai-bun-producator-de-rachete-2379207"
+        "source": "Mediafax",
+        "title": "Tragedie în timpul slujbei. Un preot a murit lovit de crucea care s-a desprins de pe perete, în fața credincioșilor",
+        "link": "https://www.mediafax.ro/externe/tragedie-in-timpul-slujbei-un-preot-a-murit-lovit-de-crucea-care-s-a-desprins-de-pe-perete-in-fata-credinciosilor-23827584"
+      },
+      {
+        "source": "Digi24",
+        "title": "Șcenă șocantă în timpul liturghiei: Un preot a murit lovit de o cruce în altar",
+        "link": "https://www.digi24.ro/stiri/externe/scena-socanta-in-timpul-liturghiei-un-preot-a-murit-lovit-de-o-cruce-in-altar-3997683"
       }
     ],
-    "published_at": 1792333607,
-    "title_hu": "Evenimentul tehnologic al acestor zile. Mașina descrisă drept „rezultatul colaborării dintre cea mai bună companie auto și cel mai bun producător de rachete”",
-    "lead_hu": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente…",
-    "content_hu": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente, parcate unul lângă altul. Dincolo de elemente de cascadorie, compania americană nu a prezentat specificații concrete. Presa de specialitate a aflat, …",
-    "title_ro": "Evenimentul tehnologic al acestor zile. Mașina descrisă drept „rezultatul colaborării dintre cea mai bună companie auto și cel mai bun producător de rachete”",
-    "lead_ro": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente…",
-    "content_ro": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente, parcate unul lângă altul. Dincolo de elemente de cascadorie, compania americană nu a prezentat specificații concrete. Presa de specialitate a aflat, …"
+    "published_at": 1792334694,
+    "title_hu": "Egy Ecuadorban szolgáló papra zuhant a templomi kereszt, életét vesztette",
+    "lead_hu": "Patricio Alfredo Sánchez Molinari papra istentisztelet közben zuhant rá az oltár mögötti falról leszakadó kereszt a guayaquili Nuestra Señora del Perpetuo Socorro-templomban. Az eseményt élőben közvetítették, a pap a helyszínen meghalt; az eset körülményeit vizsgálják.",
+    "content_hu": "• **Patricio Alfredo Sánchez Molinari** guayaquili plébános istentiszteletet tartott, amikor az oltár mögötti falra rögzített kereszt leszakadt és rázuhant.\n\n• **Az esetet élőben közvetítették** a közösségi médiában; a beszámolók szerint a kereszt a pap fejét találta el, aki nem kelt fel.\n\n• **A pap a helyszínen életét vesztette.** A hívek és a munkatársak a segítségére siettek, de a mentők már nem tudták megmenteni.\n\n• **Vizsgálat indult az ügyben**, a kereszt leszakadásának oka egyelőre nem ismert.",
+    "title_ro": "Un preot din Ecuador a murit după ce o cruce a căzut peste el în timpul slujbei",
+    "lead_ro": "Preotul Patricio Alfredo Sánchez Molinari a fost lovit de crucea desprinsă de pe peretele din spatele altarului, la biserica Nuestra Señora del Perpetuo Socorro din Guayaquil. Incidentul a fost transmis în direct, iar preotul a murit la fața locului; împrejurările sunt anchetate.",
+    "content_ro": "• **Patricio Alfredo Sánchez Molinari**, paroh la Guayaquil, oficia o slujbă când crucea fixată pe peretele din spatele altarului s-a desprins și a căzut peste el.\n\n• **Incidentul a fost transmis în direct** pe internet; potrivit relatărilor, crucea l-a lovit pe preot în zona capului, iar acesta nu s-a mai ridicat.\n\n• **Preotul a murit la fața locului.** Enoriașii și colaboratorii săi au încercat să-l ajute, însă echipajele de salvare nu au mai putut face nimic.\n\n• **A fost deschisă o anchetă**, iar cauza desprinderii crucii nu este cunoscută deocamdată."
   },
   {
     "group_id": "group_0023381096",
-    "fingerprint": "719a5efc1aba0a60f2ac9e709d5ca2c4",
+    "fingerprint": "ae4c81ab9387daa0c8b5f84abd6d91a7",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjA0JTJGMjk0NzI0NF8yOTQ3/MjQ0X2RvbmFsZC10cnVtcC1wcm9maW1l/ZGlhLmpwZyZoYXNoPTQ3YzA4ZjE3NTE3YTgwZmMxYWVhYjljYjk0YmJhMDg4.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 25,
+    "sources_count": 21,
     "sources": [
       {
         "source": "Digi24",
@@ -59,11 +45,6 @@
         "source": "ProTV Stiri",
         "title": "SUA ar fi oferit Rusiei acordul pentru motorină ca să-l „înmoaie” pe Putin în negocierile de pace: „E rândul tău să dai ceva”",
         "link": "https://stirileprotv.ro/stiri/international/sua-ar-fi-oferit-rusiei-acordul-pentru-motorina-ca-sa-l-inmoaie-pe-putin-in-negocierile-de-pace-e-randul-tau-sa-dai-ceva.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Trump megint Putyint cirógatja, Zelenszkijt pedig lazán a víz alá nyomná",
-        "link": "https://transtelex.ro/kulfold/2026/10/13/trump-putyin-dizel-megallapodas-ukrajna-zelenszkij-energetikai-tuzszunet-bejelentes-tamadasok-orosz-ukran-haboru"
       },
       {
         "source": "Adevărul",
@@ -77,8 +58,8 @@
       },
       {
         "source": "Digi24",
-        "title": "Propagandiștii lui Putin explică de ce s-a făcut acordul SUA-Rusia privind motorina. Au dat și un nume: Jared",
-        "link": "https://www.digi24.ro/stiri/externe/propagandistii-lui-putin-explica-de-ce-s-a-facut-acordul-sua-rusia-privind-motorina-au-dat-si-un-nume-jared-3991157"
+        "title": "Cine l-ar putea înlocui pe Zelenski: Patru candidați pentru funcția de președinte al Ucrainei, unul e favorit",
+        "link": "https://www.digi24.ro/stiri/externe/cine-l-ar-putea-inlocui-pe-zelenski-patru-candidatii-pentru-functia-de-presedinte-al-ucrainei-unul-e-favorit-3989879"
       },
       {
         "source": "Digi24",
@@ -126,11 +107,6 @@
         "link": "https://www.g4media.ro/trump-sustine-ca-reluarea-atacurilor-ucrainei-asupra-rafinariilor-rusesti-este-o-rusine-e-mai-dificil-sa-lucrezi-cu-zelenski-decat-cu-putin.html"
       },
       {
-        "source": "HotNews.ro",
-        "title": "VIDEO Zelenski a fost întrebat dacă Trump îl folosește drept „țap ispășitor”. Răspunsul liderului ucrainean a stârnit hohote de râs la summitul UE",
-        "link": "https://hotnews.ro/video-zelenski-a-fost-intrebat-daca-trump-il-foloseste-drept-tap-ispasitor-raspunsul-liderului-ucrainean-a-starnit-hohote-de-ras-la-summitul-ue-2378103"
-      },
-      {
         "source": "Mediafax",
         "title": "Ucraina cere încă 70 de miliarde de euro de la UE. Zelenski, despre acordul lui Trump cu Rusia: „Mai mulți bani în buzunarul lui Putin”",
         "link": "https://www.mediafax.ro/externe/ucraina-cere-inca-70-de-miliarde-de-euro-de-la-ue-zelenski-despre-acordul-lui-trump-cu-rusia-mai-multi-bani-in-buzunarul-lui-putin-23826965"
@@ -146,14 +122,9 @@
         "link": "https://www.mediafax.ro/externe/zelenski-anunta-unul-dintre-cele-mai-ample-atacuri-asupra-energiei-ucrainei-rusia-incearca-sa-provoace-un-blackout-23827153"
       },
       {
-        "source": "ProTV Stiri",
-        "title": "Rusia a anunțat un atac de amploare asupra Ucrainei. Vizată, cea mai mare uzină siderurgică din țară",
-        "link": "https://stirileprotv.ro/stiri/international/rusia-a-anuntat-un-atac-de-amploare-asupra-ucrainei-vizata-cea-mai-mare-uzina-siderurgica-din-tara.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Disensiunile dintre Trump și Zelenski pun în pericol sprijinul SUA pentru Ucraina. Kievul se teme de reducerea ajutorului militar",
-        "link": "https://www.digi24.ro/stiri/externe/ue/disensiunile-dintre-trump-si-zelenski-pun-in-pericol-sprijinul-sua-pentru-ucraina-kievul-se-teme-de-reducerea-ajutorului-militar-3996975"
+        "source": "HotNews.ro",
+        "title": "Rusia a lovit obiective energetice și industriale din Ucraina în cursul nopții. Zelenski acuză Washingtonul că îl încurajează pe Putin",
+        "link": "https://hotnews.ro/rusia-a-lovit-obiective-energetice-si-industriale-din-ucraina-in-cursul-noptii-zelenski-acuza-washingtonul-ca-il-incurajeaza-pe-putin-2378595"
       },
       {
         "source": "Digi24",
@@ -169,20 +140,258 @@
         "source": "Digi24",
         "title": "Zelenski: SUA au reluat schimbul de informații militare cu Ucraina",
         "link": "https://www.digi24.ro/stiri/externe/ue/zelenski-sua-au-reluat-schimbul-de-informatii-militare-cu-ucraina-3997595"
+      }
+    ],
+    "published_at": 1792334661,
+    "title_hu": "Trump Putyint készségesebb békepartnernek nevezi, Zelenszkij újrakezdi a finomítók támadását",
+    "lead_hu": "Trump továbbra is Putyint tartja készségesebb békepartnernek, és szégyennek nevezte az ukrán finomítótámadások újraindítását. A be nem jelentett energetikai tűzszünet nem állította le az orosz csapásokat: Kijev ismét célba vette az orosz finomítókat, miközben az amerikai dízelmegállapodás, a szankciók felfüggesztése és a hírszerzési támogatás körüli vita tovább mélyítette a feszültséget.",
+    "content_hu": "• **Trump Putyint készségesebb békepartnernek nevezte**: Azt mondta, mindkét fél megszeghette az energetikai tűzszünetet, de szerinte Putyin jobban akar megállapodást, mint Zelenszkij. Később szégyennek nevezte az ukrán finomítótámadások újraindítását, azt mondta, Zelenszkijjel nehezebb együttműködni, mint Putyinnal, és új ukrán vezetőt sürgetett.\n\n• **Az energetikai tűzszünet feltételei tisztázatlanok maradtak**: Trump közösségi oldalán jelentette be a támadások leállítását, Kijev előzetes egyeztetés nélkül értesült róla, a Kreml pedig azt közölte, hogy nem véglegesítettek megállapodást. Zelenszkij szerint Ukrajna három napig nem támadta az orosz energetikai infrastruktúrát, miközben Oroszország folytatta a csapásokat, köztük egy harkivi erőmű ellen.\n\n• **Zelenszkij 76 orosz támadásról számolt be**: Állítása szerint a Trump-bejelentést követő héten 76 alkalommal érte csapás az ukrán energetikai, olaj- és gázipart. Egy korábbi hullámban 39 ballisztikus rakétát és több mint 120 drónt vetettek be; Zelenszkij szerint több mint 600 ezer ember maradt áram nélkül, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg.\n\n• **Újabb orosz támadások több mint 15 energetikai létesítményt értek**: Zelenszkij szerint 12 óra alatt több mint 320 drónt és rakétát vetettek be, és Oroszország milliókat próbálhat áram és fűtés nélkül hagyni a tél előtt. Az ukrán hatóságok egy későbbi támadássorozat után hét halottról és mintegy 90 sebesültről számoltak be. Moszkva acélművek és más ipari célpontok megtámadásáról is beszélt; állításait a Reuters nem tudta függetlenül ellenőrizni.\n\n• **Ukrajna újrakezdte a finomítók elleni csapásokat**: Zelenszkij feloldotta a támadásokra vonatkozó korlátozást, mert Oroszország szerinte nem tartotta be a szünetet. Ukrán drónok tüzet okoztak a Rosznyefty rjazanyi finomítójánál, amely az orosz finomítókapacitás közel 5 százalékát adja; a károk felmérése folyamatban volt. Moszkva Kijevet vádolta a tűzszünet szabotálásával.\n\n• **Zelenszkij fájdalmasnak és árulásnak nevezte Trump álláspontját**: Azt mondta, az Egyesült Államoknak közvetítőként középen kellene maradnia, és sajnálja, hogy Ukrajna erős partnert veszíthet el. Kijelentette, hogy országa nem mond le területeiről; választásokra akkor lenne kész, ha Oroszország 60 napos teljes tűzszünetet vállalna. Lehetséges jelöltként Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót is említették.\n\n• **A hírszerzési és műholdas támogatás körüli vita éleződött, majd részben enyhült**: Zelenszkij szerint amerikai katonai tisztviselők azzal figyelmeztették Ukrajnát, hogy a finomítótámadások folytatása esetén korlátozhatják a hírszerzési adatok átadását. Az ukrán elnök a Starlink lassulását szándékosnak tartotta, Elon Musk viszont a katonai Starshield korlátozásait amerikai kormányzati döntéshez kötötte. Zelenszkij később bejelentette, hogy az amerikai hírszerzési adatmegosztás újraindult; a műholdas szolgáltatás részben helyreállt.\n\n• **Zelenszkij Patriot-rakétákat kér a támadások szüneteltetéséért cserébe**: Az ukrán elnök a Patriot-elfogórakéták további szállítását nevezte a tűzszünetért cserébe kért minimumnak. Ukrajna légvédelmi készletei szűkösek, és a közel-keleti igényekkel is versenyeznie kell.\n\n• **A dízelalkut az orosz tárgyalóasztalhoz való visszacsábításával indokolták**: Reuters-források szerint Steve Witkoff és Jared Kushner azt mondta az ukrán tisztviselőknek, hogy az orosz dízelexport Moszkva álláspontjának „puhítását” és a tárgyalások újraindítását szolgálhatja. A találkozón biztonsági garanciákról és újjáépítésről is szó esett, de hivatalos megállapodás nem született; a források szerint az ukránokat nem fenyegették meg a támogatás megvonásával.\n\n• **A dízelszállítások árhatása korlátozott lehet**: A tervezett mennyiségre vonatkozó becslések 4,8 millió tonnáról, közel 36 millió hordóról szólnak. A Goldman Sachs szerint az októberre és novemberre tervezett szállítások mindössze 1–2 dollárral csökkenthetik a nagykereskedelmi dízelárat hordónként; Zelenszkij és elemzők az áremelkedés fő okaként az iráni háborút és a Hormuzi-szoros zavarait nevezték meg.\n\n• **Kétpárti szenátori csoport a dízelalku visszavonását követeli**: A szenátorok szerint a megállapodás alig enyhítené az árakat, miközben bevételt adna Moszkvának. Azt kérték Trumptól, hogy vonja vissza a szankciókat feloldó általános engedélyt és hajtsa végre a Kongresszus által elfogadott orosz szankciós törvényt; egyes törvényhozók a döntés jogszerűségét is megkérdőjelezték.\n\n• **Trump felfüggesztette az új szankciók jelentős részét**: A kongresszusi csomag orosz tisztviselőket, bankokat és az árnyékflottát célozta, valamint vámokat tett volna lehetővé az orosz olaj és gáz nagy vásárlóival szemben. Trump nemzeti érdekre hivatkozva, a rendelkezések hatálybalépése előtt függesztette fel azok nagy részét. Zelenszkij szerint a nyomás enyhítése további támadásokra ösztönzi Putyint; a Kreml történelmi jelentőségűnek nevezte a döntést.\n\n• **Meloni kockázatosnak nevezte az orosz dízelalkut**: Az olasz miniszterelnök szerint az egyezség legitimitást és háborús bevételt biztosít Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-nak; az uniós vezetők az orosz hibrid támadások elleni fellépést és a kritikus infrastruktúra védelmét is sürgették.\n\n• **Moszkva további gazdasági megállapodásokat remél**: Kirill Dmitrijev a dízelalkut egy szélesebb amerikai–orosz gazdasági és beruházási együttműködés lehetséges mintájának nevezte. Zelenszkij szerint a következő megállapodás akár földgázról is szólhat; orosz propagandisták pedig úgy értékelték, hogy az amerikai lépés precedenst teremthet a szankciók megkerülésére.\n\n• **Ukrajna más orosz gazdasági célpontokra is kiterjesztheti a nyomást**: A The Atlantic elemzése szerint ukrán drónműveletek megzavarták az orosz repülőterek forgalmát; egy hét alatt 345 moszkvai járatot töröltek. Október 8. óta legalább négy orosz adatközpontot is támadás ért, több digitális szolgáltatás működését megzavarva. A jelentések szerint ezek a műveletek helyi fejlesztésű eszközökre támaszkodnak.\n\n• **Egy béketerv gazdasági és biztonsági elemeket is tartalmazhat**: A Foreign Policy által ismertetett, nem végleges elképzelés újjáépítési finanszírozást, NATO 5. cikkéhez hasonlított biztonsági garanciákat és egy Oroszországot, Ukrajnát, illetve Európát összekötő energetikai megállapodást vázolt fel. A tervezet a jelenlegi frontvonal mentén befagyasztott konfliktussal számolna.\n\n• **Kijev nagyobb európai támogatást kér**: Zelenszkij a következő évi háborús költséget 155 milliárd euróra becsülte, és legalább 70 milliárd eurót kért védelemre, fegyverekre és az ellenálló képesség fenntartására. Az EU vezetői a támogatás folytatását és az Oroszország elleni nyomás növelését sürgették; a beszámolók szerint a 22. szankciós csomag is napirendre került.",
+    "title_ro": "Trump îl numește pe Putin un partener de pace mai receptiv, iar Zelenski reia atacurile asupra rafinăriilor",
+    "lead_ro": "Trump continuă să susțină că Putin își dorește mai mult pacea decât Zelenski și a numit o „rușine” reluarea atacurilor ucrainene asupra rafinăriilor. Armistițiul energetic anunțat unilateral nu a oprit loviturile rusești: Kievul a reluat atacurile asupra rafinăriilor, în timp ce disputa privind acordul pentru motorină, sancțiunile și sprijinul american de informații a adâncit tensiunile.",
+    "content_ro": "• **Trump îl prezintă pe Putin drept un partener de pace mai receptiv**: Președintele american a spus că ambele părți ar fi putut încălca armistițiul energetic, dar că Putin ar dori un acord mai mult decât Zelenski. Ulterior, a numit „o rușine” reluarea atacurilor ucrainene asupra rafinăriilor, a spus că este mai dificil să lucreze cu Zelenski decât cu Putin și a cerut ca Ucraina să aibă un nou lider.\n\n• **Condițiile armistițiului energetic au rămas neclare**: Trump a anunțat oprirea atacurilor pe rețelele sociale, iar Kievul a spus că nu fusese consultat în prealabil. Kremlinul a afirmat că nu a fost finalizat niciun acord. Zelenski a spus că Ucraina s-a abținut timp de trei zile de la atacuri asupra infrastructurii energetice rusești, în timp ce Rusia a continuat loviturile, inclusiv asupra unei centrale electrice din Harkov.\n\n• **Zelenski a raportat 76 de atacuri rusești într-o săptămână**: Potrivit acestuia, în săptămâna de după anunțul lui Trump, sectorul energetic și industriile petroliere și de gaze ale Ucrainei au fost lovite de 76 de ori. Într-un val anterior, Rusia ar fi folosit 39 de rachete balistice și peste 120 de drone; Zelenski a spus că peste 600.000 de persoane au rămas fără electricitate, iar 26 de instalații energetice și patru obiective din sectorul petrolier și al gazelor au fost avariate.\n\n• **Un nou val de atacuri rusești a vizat peste 15 instalații energetice**: Zelenski a declarat că, în 12 ore, au fost folosite peste 320 de drone și rachete și că Rusia încearcă să lase milioane de oameni fără electricitate și încălzire înainte de iarnă. După un alt atac, autoritățile ucrainene au raportat șapte morți și aproximativ 90 de răniți. Moscova a susținut că a lovit oțelării și alte ținte industriale, însă Reuters nu a putut verifica independent afirmațiile.\n\n• **Ucraina a reluat atacurile asupra rafinăriilor**: Zelenski a ridicat restricția privind loviturile, afirmând că Rusia nu a respectat pauza. Drone ucrainene au provocat un incendiu la rafinăria Rosneft din Riazan, care reprezintă aproape 5% din capacitatea de rafinare a Rusiei; pagubele erau în curs de evaluare. Moscova a acuzat Kievul că sabotează armistițiul.\n\n• **Zelenski a spus că poziția lui Trump este dureroasă și că se simte trădat**: El a afirmat că SUA ar trebui să rămână la mijloc în calitate de mediator și că este regretabil că Ucraina ar putea pierde un partener puternic. A spus că țara sa nu renunță la teritorii și că ar accepta alegeri dacă Rusia ar conveni asupra unei încetări totale a focului timp de 60 de zile. Printre potențialii candidați au fost menționați Valeri Zalujnîi, Kirilo Budanov, Mihailo Fedorov și Petro Poroșenko.\n\n• **Disputa privind informațiile militare și serviciile prin satelit s-a intensificat, apoi s-a atenuat parțial**: Zelenski a spus că oficiali militari americani au avertizat Ucraina că schimbul de informații ar putea fi restricționat dacă atacurile asupra rafinăriilor continuă. El a considerat că încetinirea Starlink a fost deliberată, în timp ce Elon Musk a spus că restricțiile asupra sistemului militar Starshield țin de deciziile guvernului american. Ulterior, Zelenski a anunțat reluarea schimbului de informații; serviciul prin satelit a fost restabilit parțial.\n\n• **Zelenski cere rachete Patriot în schimbul suspendării atacurilor**: Președintele ucrainean a numit furnizarea unor rachete interceptoare Patriot suplimentare minimul necesar pentru a opri atacurile. Stocurile ucrainene de apărare antiaeriană sunt limitate, iar Kievul concurează pentru rachete cu cererea din Orientul Mijlociu.\n\n• **Acordul privind motorina a fost justificat prin încercarea de a readuce Rusia la negocieri**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni că exporturile rusești de motorină ar putea „înmuia” poziția Moscovei și relansa negocierile. La întâlnire s-au discutat și garanții de securitate și reconstrucția Ucrainei, dar nu s-a încheiat niciun acord oficial; sursele au spus că Kievul nu a fost amenințat cu retragerea sprijinului.\n\n• **Impactul livrărilor de motorină asupra prețurilor ar putea fi limitat**: Estimările pentru cantitatea totală planificată ajung la 4,8 milioane de tone, aproape 36 de milioane de barili. Goldman Sachs estimează că livrările programate pentru octombrie și noiembrie ar putea reduce prețul angro cu doar 1–2 dolari pe baril. Zelenski și analiștii au indicat războiul din Iran și perturbările din Strâmtoarea Ormuz drept principalele cauze ale scumpirilor.\n\n• **Un grup bipartizan de senatori cere anularea acordului**: Senatorii au susținut că înțelegerea va avea un efect neglijabil asupra prețurilor, dar va aduce venituri Moscovei. Ei i-au cerut lui Trump să revoce licența generală care relaxează sancțiunile și să aplice legea sancțiunilor ruse adoptată de Congres; unii parlamentari au pus la îndoială și legalitatea deciziei.\n\n• **Trump a suspendat o mare parte din noile sancțiuni**: Pachetul adoptat de Congres viza oficiali și bănci rusești, flota-fantomă și permitea tarife pentru marii cumpărători de petrol și gaze rusești. Invocând interesul național, Trump a suspendat o mare parte din măsuri înainte ca acestea să intre în vigoare. Zelenski a spus că reducerea presiunii îl încurajează pe Putin să continue atacurile; Kremlinul a numit decizia istorică.\n\n• **Meloni a calificat acordul privind motorina drept riscant**: Prim-ministra Italiei a spus că înțelegerea oferă Moscovei legitimitate și venituri pentru război, slăbind sancțiunile. Ea a propus ca UE să acorde unui reprezentant european, posibil grupului E3, un mandat oficial de negociere. Liderii europeni au cerut și măsuri împotriva atacurilor hibride rusești și protejarea infrastructurii critice.\n\n• **Moscova speră la noi acorduri economice**: Kirill Dmitriev a prezentat acordul privind motorina drept un posibil model pentru o cooperare economică și investițională mai amplă între SUA și Rusia. Zelenski a spus că următoarea înțelegere ar putea viza gazele naturale; propagandiști ruși au susținut că decizia americană creează un precedent pentru ocolirea sancțiunilor.\n\n• **Ucraina ar putea extinde presiunea asupra altor obiective economice rusești**: Potrivit unei analize The Atlantic, operațiunile cu drone au perturbat traficul aerian din Rusia; 345 de zboruri de pe aeroporturile Moscovei au fost anulate într-o săptămână. Din 8 octombrie, cel puțin patru centre de date rusești au fost atacate, provocând întreruperi ale unor servicii digitale. Relatările spun că operațiunile se bazează pe echipamente dezvoltate în Ucraina.\n\n• **Un plan de pace ar putea include măsuri economice și de securitate**: O propunere nefinalizată prezentată de Foreign Policy prevedea finanțarea reconstrucției, garanții de securitate comparate cu articolul 5 al NATO și un acord energetic între Rusia, Ucraina și Europa. Planul ar îngheța conflictul de-a lungul liniei actuale a frontului.\n\n• **Kievul cere mai mult sprijin european**: Zelenski a estimat costul războiului pentru anul următor la 155 de miliarde de euro și a solicitat cel puțin 70 de miliarde pentru apărare, armament și menținerea rezistenței. Liderii UE au cerut continuarea sprijinului și intensificarea presiunii asupra Rusiei; relatările au menționat și pregătirea celui de-al 22-lea pachet de sancțiuni."
+  },
+  {
+    "group_id": "group_e23c6362ff",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/jaf-1024x492.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Lovitură de peste 500.000 de euro: cum au transformat hoții o galerie pietonală într-o pistă pentru jaf",
+        "link": "https://www.mediafax.ro/externe/lovitura-de-peste-500-000-de-euro-cum-au-transformat-hotii-o-galerie-pietonala-intr-o-pista-pentru-jaf-23827628"
+      }
+    ],
+    "published_at": 1792334476,
+    "title_hu": "Lovitură de peste 500.000 de euro: cum au transformat hoții o galerie pietonală într-o pistă pentru jaf",
+    "lead_hu": "Hoții au găsit o soluție pentru un obstacol care făcea un jaf aproape imposibil: au mutat băncile masive din piatră și ghivecele dintr-o galerie din Pesaro, Italia, pentru a crea o traiectorie în curb…",
+    "content_hu": "Hoții au găsit o soluție pentru un obstacol care făcea un jaf aproape imposibil: au mutat băncile masive din piatră și ghivecele dintr-o galerie din Pesaro, Italia, pentru a crea o traiectorie în curbă.",
+    "title_ro": "Lovitură de peste 500.000 de euro: cum au transformat hoții o galerie pietonală într-o pistă pentru jaf",
+    "lead_ro": "Hoții au găsit o soluție pentru un obstacol care făcea un jaf aproape imposibil: au mutat băncile masive din piatră și ghivecele dintr-o galerie din Pesaro, Italia, pentru a crea o traiectorie în curb…",
+    "content_ro": "Hoții au găsit o soluție pentru un obstacol care făcea un jaf aproape imposibil: au mutat băncile masive din piatră și ghivecele dintr-o galerie din Pesaro, Italia, pentru a crea o traiectorie în curbă."
+  },
+  {
+    "group_id": "group_e388b4d77d",
+    "category": "Sport",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Szatmári sporthírek",
+        "title": "Román Kupa-győztes lett Süveg Lénárd",
+        "link": "https://szmsport.ro/karate/roman-kupa-gyoztes-lett-suveg-lenard/"
+      }
+    ],
+    "published_at": 1792334329,
+    "title_hu": "Román Kupa-győztes lett Süveg Lénárd",
+    "lead_hu": "Aranyérmet szerzett Süveg Lénárd, a Nagykárolyi Karate Do B.F.K.S. sportolója a JSKA Shotokan Karate Román Kupán. A fiatal karatéka október 17-én, Alexandrián rendezett versenyen bizonyult a legjobbna…",
+    "content_hu": "Aranyérmet szerzett Süveg Lénárd, a Nagykárolyi Karate Do B.F.K.S. sportolója a JSKA Shotokan Karate Román Kupán. A fiatal karatéka október 17-én, Alexandrián rendezett versenyen bizonyult a legjobbnak a junior kata kategóriában. A Román Kupa-győztes lett Süveg Lénárd bejegyzés először Szatmári sporthírek, magyarul-én jelent meg.",
+    "title_ro": "Román Kupa-győztes lett Süveg Lénárd",
+    "lead_ro": "Aranyérmet szerzett Süveg Lénárd, a Nagykárolyi Karate Do B.F.K.S. sportolója a JSKA Shotokan Karate Román Kupán. A fiatal karatéka október 17-én, Alexandrián rendezett versenyen bizonyult a legjobbna…",
+    "content_ro": "Aranyérmet szerzett Süveg Lénárd, a Nagykárolyi Karate Do B.F.K.S. sportolója a JSKA Shotokan Karate Román Kupán. A fiatal karatéka október 17-én, Alexandrián rendezett versenyen bizonyult a legjobbnak a junior kata kategóriában. A Román Kupa-győztes lett Süveg Lénárd bejegyzés először Szatmári sporthírek, magyarul-én jelent meg."
+  },
+  {
+    "group_id": "group_4e4d61c3a7",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-8/8c0ea580-68f9-40f0-a648-dbfd41dbb15b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0%252C1%252C0.676%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Adolescenți uciși și vârstnici atacați în propriile case: o regiune din Marea Britanie se confruntă cu o criză fără precedent",
+        "link": "https://adevarul.ro/stiri-externe/europa/adolescenti-ucisi-si-varstnici-atacati-in-2564806.html"
+      }
+    ],
+    "published_at": 1792334124,
+    "title_hu": "Adolescenți uciși și vârstnici atacați în propriile case: o regiune din Marea Britanie se confruntă cu o criză fără precedent",
+    "lead_hu": "Un comitat rural din Țara Galilor, cunoscut până de curând drept o zonă liniștită, se confruntă cu o creștere fără precedent a criminalității. În regiunea Gwent au fost înregistrate 11 crime în primel…",
+    "content_hu": "Un comitat rural din Țara Galilor, cunoscut până de curând drept o zonă liniștită, se confruntă cu o creștere fără precedent a criminalității. În regiunea Gwent au fost înregistrate 11 crime în primele zece luni ale anului 2026, față de două sau trei cazuri într-un an obișnuit.",
+    "title_ro": "Adolescenți uciși și vârstnici atacați în propriile case: o regiune din Marea Britanie se confruntă cu o criză fără precedent",
+    "lead_ro": "Un comitat rural din Țara Galilor, cunoscut până de curând drept o zonă liniștită, se confruntă cu o creștere fără precedent a criminalității. În regiunea Gwent au fost înregistrate 11 crime în primel…",
+    "content_ro": "Un comitat rural din Țara Galilor, cunoscut până de curând drept o zonă liniștită, se confruntă cu o creștere fără precedent a criminalității. În regiunea Gwent au fost înregistrate 11 crime în primele zece luni ale anului 2026, față de două sau trei cazuri într-un an obișnuit."
+  },
+  {
+    "group_id": "group_5885390a90",
+    "category": "Erdély",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "CSU Oradea, victorie clară în fața clujenilor. Gazdele au marcat 20 de goluri",
+        "link": "https://www.ebihoreanul.ro/stiri/csu-oradea-victorie-clara-in-fata-clujenilor-gazdele-au-marcat-20-de-goluri-205918.html"
+      }
+    ],
+    "published_at": 1792333948,
+    "title_hu": "CSU Oradea, victorie clară în fața clujenilor. Gazdele au marcat 20 de goluri",
+    "lead_hu": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și…",
+    "content_hu": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și-au construit un avantaj consistent încă din primul sfert.",
+    "title_ro": "CSU Oradea, victorie clară în fața clujenilor. Gazdele au marcat 20 de goluri",
+    "lead_ro": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și…",
+    "content_ro": "Echipa de polo pe apă a CSU Oradea a obținut o victorie categorică în primul meci disputat pe teren propriu în actualul sezon. Orădenii au învins CS Politehnica Cluj cu 20-9, după o partidă în care și-au construit un avantaj consistent încă din primul sfert."
+  },
+  {
+    "group_id": "group_c2ce22e812",
+    "fingerprint": "875bfe89ca74a4fcd17aa0b313881d22",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 24,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
+        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
+      },
+      {
+        "source": "G4Media",
+        "title": "O nouă zi de proteste ale elevilor în Franța: aproximativ 480.000 de participanți, potrivit organizatorilor",
+        "link": "https://www.g4media.ro/o-noua-zi-de-proteste-ale-elevilor-in-franta-aproximativ-480-000-de-participanti-potrivit-organizatorilor.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Vestele Galbene, mişcarea socială de amploare din Franţa din anii 2018 şi 2019, şi liceenii organizează o mie de acţiuni comune de protest sâmbătă faţă de creşterea costului vieţii",
+        "link": "https://www.g4media.ro/vestele-galbene-miscarea-sociala-de-amploare-din-franta-din-anii-2018-si-2019-si-liceenii-organizeaza-o-mie-de-actiuni-comune-de-protest-sambata-fata-de-cresterea-costului-vietii.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Proteste de amploare în Franța. Zeci de mii de oameni ies în stradă, iar „Vestele Galbene” revin în prim-plan",
+        "link": "https://stirileprotv.ro/stiri/international/proteste-de-amploare-in-franta-zeci-de-mii-de-oameni-ies-in-strada-iar-vestele-galbene-revin-in-prim-plan.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
+        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Stare de alertă în Franța: Zeci de mii de oameni ies azi în 500 de proteste împotriva costului vieții / Autoritățile se tem de violențe",
+        "link": "https://hotnews.ro/stare-de-alerta-in-franta-zeci-de-mii-de-oameni-ies-azi-in-500-de-proteste-impotriva-costului-vietii-autoritatile-se-tem-de-violente-2378558"
       },
       {
         "source": "Mediafax",
-        "title": "O schimbare importantă în relația SUA-Ucraina. Informațiile secrete americane ajung din nou la Kiev",
-        "link": "https://www.mediafax.ro/externe/o-schimbare-importanta-in-relatia-sua-ucraina-informatiile-secrete-americane-ajung-din-nou-la-kiev-23827622"
+        "title": "Protestele elevilor din Franța iau amploare. Creșterea costului vieții scoate noi manifestanți în stradă",
+        "link": "https://www.mediafax.ro/externe/protestele-elevilor-din-franta-iau-amploare-cresterea-costului-vietii-scoate-noi-manifestanti-in-strada-23827129"
+      },
+      {
+        "source": "Digi24",
+        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
+        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Protestele elevilor din Franța iau amploare. Marșuri neautorizate și 61 de arestări la Paris, incidente la Lyon și Marsilia",
+        "link": "https://adevarul.ro/stiri-externe/europa/protestele-elevilor-din-franta-iau-amploare-2564672.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Protestele din Franța degenerează: Poliția a folosit gaze lacrimogene și bastoane împotriva protestatarilor. Peste 160 de persoane au fost arestate",
+        "link": "https://www.mediafax.ro/stirile-zilei/protestele-din-franta-degenereaza-politia-a-folosit-gaze-lacrimogene-si-bastoane-impotriva-protestatarilor-peste-160-de-persoane-au-fost-arestate-23827213"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Zi de mobilizare în Franța: Tensiuni cu forțele de ordine încă de la începutul protestelor",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/zi-de-mobilizare-in-franta-tensiuni-cu-fortele-de-ordine-inca-de-la-inceputul-protestelor--1604072"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Protestele din Franţa degenerează: Poliţia a folosit gaze lacrimogene împotriva protestatarilor. Până la prânz mai mult de 160 de persoane au fost arestate. Sunt sute de proteste în toată Franţa",
+        "link": "https://www.zf.ro/eveniment/protestele-din-franta-degenereaza-politia-a-folosit-gaze-lacrimogene-impotriva-protestatarilor-pana-la-pranz-mai-mult-de-160-de-persoane-au-fost-arestate-sunt-sute-de-proteste-in-toata-franta-23262114"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Mobilizare împotriva 'costului ridicat al vieții': Peste 500.000 de manifestanți în Franța, potrivit sindicatului CGT",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/video-mobilizare-impotriva-costului-ridicat-al-vietii-peste-500-000-de-manifestanti-in-franta-potriv--1604111"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Haos pe străzile Franței: zeci de mii de protestatari, ciocniri violente cu poliția. Primării atacate în Marsilia, Lyon și Lille",
+        "link": "https://stirileprotv.ro/stiri/international/haos-pe-strazile-frantei-zeci-de-mii-de-protestatari-ciocniri-violente-cu-politia-primarii-atacate-in-marsilia-lyon-si-lille.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Nou bilanț al participanților la manifestațiile de protest din Franța: 800.000, conform organizatorilor",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/nou-bilant-al-participantilor-la-manifestatiile-de-protest-din-franta-800-000-conform-organizatorilo--1604126"
+      },
+      {
+        "source": "G4Media",
+        "title": "Protestele din Franţa se extind şi în Belgia. Violențe la Bruxelles și Liege",
+        "link": "https://www.g4media.ro/protestele-din-franta-se-extind-si-in-belgia-violente-la-bruxelles-si-liege.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Protestele uriaşe din Franţa au degenerat. Violenţe, sute de arestări şi 800.000 de oameni în stradă. La Paris, amploarea distrugerilor este considerabilă, după ce străgi întregi au fost devastate",
+        "link": "https://www.zf.ro/eveniment/protestele-uriase-din-franta-au-degenerat-violente-sute-de-arestari-si-800-000-de-oameni-in-strada-la-paris-amploarea-distrugerilor-este-considerabila-dupa-ce-stragi-intregi-au-fost-devastate-23262114"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Scene de gherilă urbană lângă Palatul Élysée, la Paris",
+        "link": "https://hotnews.ro/scene-de-gherila-urbana-langa-palatul-elysee-la-paris-2378895"
+      },
+      {
+        "source": "G4Media",
+        "title": "Violențe la protestele din Franța, soldate cu peste 1.200 de persoane reținute și 150 de polițiști și jandarmi răniți. Zeci de magazine, primării și clădiri istorice au fost devastate",
+        "link": "https://www.g4media.ro/violente-la-protestele-din-franta-soldate-cu-peste-1-200-de-persoane-retinute-si-150-de-politisti-si-jandarmi-raniti-zeci-de-magazine-primarii-si-cladiri-istorice-au-fost-devastate.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Imagini cu Franța sub asediul violențelor: Peste 1.200 de oameni arestați, jafuri și clădiri istorice cuprinse de flăcări în urma protestelor",
+        "link": "https://hotnews.ro/imagini-cu-franta-sub-asediul-violentelor-peste-1-200-de-oameni-arestati-jafuri-si-cladiri-istorice-cuprinse-de-flacari-in-urma-protestelor-2378935"
+      },
+      {
+        "source": "G4Media",
+        "title": "Violențe extreme în Franța: Protestatarii au jufeuit magazine în mai multe orașe, marile branduri își întăresc paza",
+        "link": "https://www.g4media.ro/violente-extreme-in-franta-protestatarii-au-jufeuit-magazine-in-mai-multe-orase-marile-branduri-isi-intaresc-paza.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Gyújtogatások, rongálások, könnygázgránátok és több száz letartóztatás a francia tüntetéseken",
+        "link": "https://transtelex.ro/kulfold/2026/10/17/franciaorszag-tuntetes-rongalas-eroszak-gyujtogatas"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Protestele uriaşe din Franţa au degenerat. 800.000 de oameni au ieşit în stradă. La Paris, amploarea distrugerilor este considerabilă, după ce străgi întregi au fost devastate. 1.200 de persoane au fost arestate şi 150 de poliţişti au fost răniţi",
+        "link": "https://www.zf.ro/eveniment/protestele-uriase-franta-au-degenerat-800-000-oameni-au-iesit-strada-paris-amploarea-distrugerilor-considerabila-dupa-stragi-intregi-au-devastate-1-200-persoane-au-arestate-150-politisti-au-raniti-23262114"
+      },
+      {
+        "source": "Maszol",
+        "title": "Elszabadult a pokol Franciaországban: tömegek tiltakoznak a drágulások miatt a nagyvárosokban",
+        "link": "https://maszol.ro/kulfold/Elszabadult-a-pokol-Franciaorszagban-tomegek-tiltakoznak-a-dragulasok-miatt-a-nagyvarosokban"
       }
     ],
-    "published_at": 1792333534,
-    "title_hu": "Trump Putyint békepartnernek nevezi, Zelenszkij újrakezdi az orosz finomítók támadását",
-    "lead_hu": "Trump szerint Putyin jobban akar békét, mint Zelenszkij, az ukrán elnök pedig fájdalmasnak és árulásnak nevezte, hogy Washington szerinte Moszkva oldalára állt. A kölcsönösnek be nem jelentett energetikai tűzszünet nem állította le az orosz csapásokat: Kijev újraindította a finomítók elleni támadásokat, miközben a dízelalku, az amerikai szankciók felfüggesztése és a hírszerzési támogatás körüli vita tovább mélyítette a konfliktust.",
-    "content_hu": "• **Trump Putyint készségesebb békepartnernek nevezte**: Az amerikai elnök azt mondta, mindkét fél megszeghette az energetikai tűzszünetet, de szerinte Putyin jobban akar megállapodást, mint Zelenszkij. Később szégyennek nevezte az ukrán finomítótámadások újraindítását, azt állította, hogy Zelenszkijjel nehezebb együttműködni, mint Putyinnal, és új ukrán vezetőt sürgetett.\n\n• **Az energetikai tűzszünet feltételei tisztázatlanok maradtak**: Trump közösségi oldalán jelentette be az orosz és ukrán energetikai célpontok elleni támadások leállítását, Kijev szerint előzetes egyeztetés nélkül. Zelenszkij azt mondta, Ukrajna három napig tartózkodott az orosz energetikai infrastruktúra támadásától, miközben Oroszország folytatta a csapásokat, köztük egy harkivi erőmű ellen; a Kreml szerint nem véglegesítettek megállapodást.\n\n• **Zelenszkij 76 orosz támadásról számolt be**: Állítása szerint a Trump-bejelentést követő héten 76 alkalommal érte csapás az ukrán energetikai, olaj- és gázipart. Egy korábbi támadáshullámban 39 ballisztikus rakétát és több mint 120 drónt vetettek be; az elnök szerint több mint 600 ezer ember maradt áram nélkül, 26 energetikai és négy olaj- és gázipari létesítmény sérült meg.\n\n• **Egy újabb támadássorozat több mint 15 energetikai létesítményt ért**: Zelenszkij szerint 12 óra alatt több mint 320 drónt és rakétát vetettek be; Oroszország célja az ukrán elnök szerint az országos áramszünet előidézése a tél előtt. A későbbi támadások után az ukrán hatóságok hét halottról és mintegy 90 sebesültről számoltak be. Oroszország acélművek és más ipari célpontok elleni támadásokról is beszélt, de állításait a Reuters nem tudta függetlenül ellenőrizni.\n\n• **Ukrajna újrakezdte a finomítók elleni csapásokat**: Zelenszkij közölte, hogy feloldotta a támadásokra vonatkozó korlátozást, mert Oroszország nem állt le. Ukrán drónok tüzet okoztak a Rosznyefty rjazanyi finomítójánál, amely az orosz finomítókapacitás közel 5 százalékát adja; a károk felmérése folyamatban volt. Moszkva Kijevet vádolta a tűzszünet szabotálásával.\n\n• **Zelenszkij fájdalmasnak és árulásnak nevezte Trump álláspontját**: Azt mondta, az Egyesült Államoknak közvetítőként középen kellene maradnia, és sajnálja, hogy Ukrajna egy erős partnert veszíthet el. Hangsúlyozta, hogy országa nem mond le területeiről; a Trump által felvetett választásokra akkor lenne kész, ha Oroszország 60 napos teljes tűzszünetet vállalna. Lehetséges jelöltként Valerij Zaluzsnijt, Kirilo Budanovot, Mihajlo Fedorovot és Petro Porosenkót is említették.\n\n• **A hírszerzési és műholdas támogatás körüli vita tovább éleződött**: Zelenszkij szerint amerikai katonai tisztviselők azzal figyelmeztették Ukrajnát, hogy a finomítótámadások folytatása esetén korlátozhatják a hírszerzési adatok átadását. Az ukrán elnök a Starlink lassulását szándékosnak tartotta, miközben Elon Musk a katonai Starshield korlátozásait amerikai kormányzati döntéshez kötötte. Zelenszkij később bejelentette, hogy az amerikai hírszerzési adatmegosztás újraindult; a műholdas szolgáltatás részben helyreállt.\n\n• **Zelenszkij Patriot-rakétákat kér a támadások szüneteltetéséért cserébe**: Az ukrán elnök a Patriot-elfogórakéták további szállítását nevezte a tűzszünetért cserébe kért minimumnak. Ukrajna légvédelmi készletei szűkösek, miközben a rakétákért a közel-keleti igényekkel is versenyeznie kell.\n\n• **A dízelalkut az orosz tárgyalóasztalhoz való visszacsábításával indokolták**: Reuters-források szerint Steve Witkoff és Jared Kushner azt mondta az ukrán tisztviselőknek, hogy az orosz dízelexport Moszkva álláspontjának „puhítását” és a tárgyalások újraindítását szolgálhatja. A találkozón biztonsági garanciákról és újjáépítésről is szó esett, de hivatalos megállapodás nem született; a beszámoló szerint az ukránokat nem fenyegették meg a támogatás megvonásával.\n\n• **A dízelszállítások árhatása korlátozott lehet**: A tervezett teljes mennyiségre vonatkozó becslések 4,8 millió tonnáról, közel 36 millió hordóról szólnak. A Goldman Sachs elemzői szerint az októberre és novemberre tervezett szállítások mindössze 1–2 dollárral csökkenthetik a nagykereskedelmi dízelárat hordónként; Zelenszkij és elemzők az áremelkedés fő okaként az iráni háborút és a Hormuzi-szoros zavarait nevezték meg.\n\n• **Kétpárti szenátori csoport a dízelalku visszavonását követeli**: A szenátorok szerint a megállapodás csak elhanyagolhatóan enyhítené az árakat, miközben bevételt adna Moszkvának. Azt kérték Trumptól, hogy vonja vissza a szankciókat feloldó általános engedélyt, és hajtsa végre a Kongresszus által elfogadott orosz szankciós törvényt; egyes törvényhozók a döntés jogszerűségét is megkérdőjelezték.\n\n• **Trump felfüggesztette az új szankciók jelentős részét**: A kongresszusi csomag orosz tisztviselőket, bankokat és az árnyékflottát célozta, valamint vámokat tett volna lehetővé az orosz olaj és gáz nagy vásárlóival szemben. Trump nemzeti érdekre hivatkozva, a rendelkezések hatálybalépése előtt függesztette fel azok nagy részét. Zelenszkij szerint a nyomás enyhítése Putyint további támadásokra ösztönzi; a Kreml történelmi jelentőségűnek nevezte a döntést, és további amerikai–orosz gazdasági együttműködésről beszélt.\n\n• **Meloni kockázatosnak nevezte az orosz dízelalkut**: Az olasz miniszterelnök szerint az egyezség legitimitást és háborús bevételt biztosít Moszkvának, miközben gyengíti a szankciókat. Azt javasolta, hogy az EU adjon hivatalos tárgyalási mandátumot egy európai képviselőnek, akár az E3-nak; az uniós vezetők az orosz hibrid támadások elleni fellépést és a kritikus infrastruktúra védelmét is sürgették.\n\n• **Moszkva további gazdasági megállapodásokat remél**: Kirill Dmitrijev, a Kreml megbízottja a dízelalkut egy szélesebb amerikai–orosz gazdasági és beruházási együttműködés lehetséges mintájának nevezte. Zelenszkij szerint a következő megállapodás akár földgázról is szólhat; Oroszország pedig nyíltan üdvözölte a szankciók megkerülésére teremtett precedenst.\n\n• **Ukrajna más orosz gazdasági célpontokra is kiterjesztheti a nyomást**: A The Atlantic elemzése szerint ukrán drónokkal végrehajtott műveletek megzavarták az orosz repülőterek forgalmát; egy hét alatt 345 moszkvai járatot töröltek. Október 8. óta legalább négy orosz adatközpontot is támadás ért, több digitális szolgáltatás működését megzavarva. A jelentések szerint ezek a műveletek helyi fejlesztésű eszközökre támaszkodnak.\n\n• **Egy béketerv gazdasági és biztonsági elemeket is tartalmazhat**: A Foreign Policy által ismertetett, nem végleges elképzelés újjáépítési finanszírozást, NATO 5. cikkéhez hasonlított biztonsági garanciákat és egy Oroszországot, Ukrajnát, illetve Európát összekötő energetikai megállapodást vázolt fel. A tervezet egy olaj- és gázvezetékkel, valamint a jelenlegi frontvonal mentén befagyasztott konfliktussal számolna.\n\n• **Kijev nagyobb európai támogatást kér**: Zelenszkij a következő évi háborús költséget 155 milliárd euróra becsülte, és legalább 70 milliárd eurót kért védelemre, fegyverekre és az ellenálló képesség fenntartására. Az EU vezetői a támogatás folytatását és az Oroszország elleni nyomás növelését sürgették; a beszámolók szerint a 22. szankciós csomag is napirendre került.",
-    "title_ro": "Trump îl prezintă pe Putin drept partener de pace, iar Zelenski reia atacurile asupra rafinăriilor rusești",
-    "lead_ro": "Donald Trump a spus că Vladimir Putin își dorește pacea mai mult decât Volodimir Zelenski, iar liderul ucrainean a descris drept dureros și trădător faptul că Washingtonul pare să favorizeze Moscova. Armistițiul energetic anunțat unilateral nu a oprit atacurile rusești: Kievul a reluat loviturile asupra rafinăriilor, în timp ce acordul privind motorina, suspendarea sancțiunilor și disputa privind sprijinul american au adâncit ruptura.",
-    "content_ro": "• **Trump îl consideră pe Putin mai dornic de pace**: Președintele american a spus că ambele părți ar fi încălcat armistițiul energetic, dar că Putin ar dori un acord mai mult decât Zelenski. Ulterior, a numit o „rușine” reluarea atacurilor ucrainene asupra rafinăriilor, a spus că este mai greu să lucreze cu Zelenski decât cu Putin și a cerut ca Ucraina să aibă un nou lider.\n\n• **Condițiile armistițiului energetic au rămas neclare**: Trump a anunțat pe rețelele sociale oprirea atacurilor asupra infrastructurii energetice ruse și ucrainene, fără o consultare prealabilă, potrivit Kievului. Zelenski a spus că Ucraina s-a abținut timp de trei zile de la atacarea infrastructurii energetice rusești, în timp ce Rusia a continuat loviturile, inclusiv asupra unei centrale din Harkov. Kremlinul a afirmat că nu a fost finalizat niciun acord.\n\n• **Zelenski a raportat 76 de atacuri rusești într-o săptămână**: Potrivit președintelui ucrainean, Rusia a atacat de 76 de ori sectoarele energetic, petrolier și gazier după anunțul lui Trump. Într-un val anterior, Rusia ar fi folosit 39 de rachete balistice și peste 120 de drone; Zelenski a spus că peste 600.000 de oameni au rămas fără electricitate și că au fost avariate 26 de instalații energetice și patru obiective din sectorul petrolului și gazelor.\n\n• **Un nou val de atacuri a vizat peste 15 instalații energetice**: Zelenski a declarat că, în 12 ore, Rusia a folosit peste 320 de drone și rachete și că Moscova ar încerca să provoace o pană generală înaintea iernii. După atacurile ulterioare, autoritățile ucrainene au raportat șapte morți și aproximativ 90 de răniți. Rusia a afirmat că a lovit combinate siderurgice și alte ținte industriale; Reuters nu a putut verifica independent aceste afirmații.\n\n• **Ucraina a reluat atacurile asupra rafinăriilor**: Zelenski a anunțat ridicarea restricțiilor asupra loviturilor, după ce Rusia nu a oprit atacurile. Drone ucrainene au provocat un incendiu la rafinăria Rosneft din Riazan, care reprezintă aproape 5% din capacitatea de rafinare a Rusiei; pagubele erau în curs de evaluare. Moscova a acuzat Kievul că sabotează armistițiul.\n\n• **Zelenski a spus că se simte rănit și trădat de poziția lui Trump**: El a afirmat că Statele Unite ar trebui să rămână neutre ca mediator și că este regretabilă pierderea unui partener puternic. Liderul ucrainean a insistat că țara sa nu își va ceda teritoriul și a spus că ar organiza alegeri dacă Rusia ar accepta o încetare totală a focului timp de 60 de zile. Printre posibilii candidați au fost menționați Valeri Zalujnîi, Kirilo Budanov, Mihail Fedorov și Petro Poroșenko.\n\n• **Disputa privind informațiile militare și comunicațiile prin satelit s-a intensificat**: Zelenski a spus că oficiali militari americani au avertizat Kievul că schimbul de informații ar putea fi restricționat dacă Ucraina continuă atacurile asupra rafinăriilor. El a considerat intenționată încetinirea Starlink, în timp ce Elon Musk a spus că restricțiile asupra sistemului militar Starshield țin de deciziile guvernului american. Zelenski a anunțat ulterior că schimbul de informații cu SUA a fost reluat, iar serviciul prin satelit a fost restabilit parțial.\n\n• **Zelenski cere rachete Patriot pentru o eventuală pauză a atacurilor**: Președintele ucrainean a descris livrarea unor noi rachete interceptoare Patriot drept minimul cerut în schimbul unei încetări a focului. Stocurile de apărare antiaeriană ale Ucrainei sunt limitate, iar Kievul concurează pentru interceptoare cu cererea din Orientul Mijlociu.\n\n• **Acordul privind motorina a fost prezentat drept o cale de a readuce Rusia la negocieri**: Potrivit unor surse Reuters, Steve Witkoff și Jared Kushner le-au spus oficialilor ucraineni că exporturile rusești de motorină ar putea „înmuia” poziția Moscovei și relansa discuțiile. Întâlnirea a abordat și garanțiile de securitate și reconstrucția, dar nu s-a ajuns la un acord oficial; sursele au spus că Ucraina nu a fost amenințată cu retragerea sprijinului.\n\n• **Impactul livrărilor de motorină asupra prețurilor ar putea fi redus**: Estimările privind volumul total planificat ajung la 4,8 milioane de tone, aproape 36 de milioane de barili. Goldman Sachs estimează că livrările prevăzute pentru octombrie și noiembrie ar putea reduce prețul angro cu doar 1–2 dolari pe baril. Zelenski și analiștii au indicat războiul din Iran și perturbările din Strâmtoarea Ormuz drept principalele cauze ale scumpirilor.\n\n• **Un grup bipartizan de senatori cere anularea acordului**: Senatorii au spus că înțelegerea ar avea un efect neglijabil asupra prețurilor, dar ar oferi Moscovei venituri pentru război. Ei i-au cerut lui Trump să revoce licența care relaxează sancțiunile și să aplice legea privind sancționarea Rusiei adoptată de Congres; unii parlamentari au pus la îndoială și legalitatea deciziei.\n\n• **Trump a suspendat o mare parte din noile sancțiuni**: Pachetul adoptat de Congres viza oficiali și bănci rusești, flota fantomă și permitea tarife împotriva marilor cumpărători de petrol și gaze rusești. Invocând interesul național, Trump a suspendat multe prevederi înainte ca acestea să intre în vigoare. Zelenski a spus că reducerea presiunii îl încurajează pe Putin să continue atacurile; Kremlinul a salutat decizia și a vorbit despre noi oportunități de cooperare economică ruso-americană.\n\n• **Meloni a numit acordul privind motorina o alegere riscantă**: Premierul italian a spus că înțelegerea conferă legitimitate Moscovei și venituri pentru finanțarea războiului, slăbind totodată sancțiunile. Ea a propus ca UE să acorde unui reprezentant european, eventual grupului E3, un mandat oficial pentru negocieri; liderii europeni au cerut și măsuri împotriva atacurilor hibride și protejarea infrastructurii critice.\n\n• **Moscova speră la acorduri economice suplimentare**: Kirill Dmitriev, trimisul Kremlinului, a prezentat acordul privind motorina ca posibil model pentru o cooperare economică și investițională mai largă între SUA și Rusia. Zelenski a spus că următoarea înțelegere ar putea privi gazele naturale, iar Rusia a salutat precedentul creat pentru ocolirea sancțiunilor.\n\n• **Ucraina ar putea extinde presiunea asupra altor ținte economice rusești**: Potrivit unei analize The Atlantic, dronele ucrainene au perturbat traficul aerian din jurul Moscovei, unde 345 de zboruri au fost anulate într-o săptămână. Începând cu 8 octombrie, cel puțin patru centre de date din Rusia au fost atacate, provocând întreruperi ale unor servicii digitale. Relatările spun că aceste operațiuni folosesc echipamente dezvoltate local.\n\n• **O propunere de pace ar putea include componente economice și de securitate**: Un plan nefinalizat relatat de Foreign Policy ar prevedea finanțarea reconstrucției, garanții de securitate comparate cu Articolul 5 al NATO și un acord energetic între Rusia, Ucraina și Europa. Propunerea ar putea include o conductă de petrol și gaze și înghețarea conflictului de-a lungul liniei actuale a frontului.\n\n• **Kievul cere un sprijin european mai mare**: Zelenski a estimat costul războiului pentru anul următor la 155 de miliarde de euro și a cerut cel puțin 70 de miliarde pentru apărare, armament și reziliență. Liderii UE au pledat pentru continuarea sprijinului și sporirea presiunii asupra Rusiei; relatările au menționat și pregătirea celui de-al 22-lea pachet de sancțiuni."
+    "published_at": 1792333930,
+    "title_hu": "Országos megélhetési mozgalommá szélesedtek a francia tiltakozások: több mint 1800 őrizetbe vétel",
+    "lead_hu": "Az iskolai követelésekből a megélhetési költségek, az egyenlőtlenségek és a közszolgáltatások állapota elleni országos mozgalom lett, amelyhez szakszervezetek és a Sárga Mellényesek is csatlakoztak. Október 17-én a szervezők 800 ezer, a belügyminiszter 550 ezer résztvevőről számolt be; másnapra országosan több mint 1800 őrizetbe vételt, Párizsban pedig 855-öt jelentettek. A hatóságok több mint 500 sérültről, a kereskedelmi szövetség pedig 1500 érintett kereskedőről és több százmillió eurós kárról számolt be.",
+    "content_hu": "• **Október 17-i részvétel:** a szervezők és a hozzájuk csatlakozó szervezetek végül 800 ezer résztvevőről számoltak be; a CGT előbb több mint 500 ezres becslést közölt. Laurent Nuñez belügyminiszter 550 ezer résztvevőt jelzett, közülük 110 ezret Párizsban; országosan 110 demonstrációt tartottak nyilván.\n\n• **Korábbi keddi mozgósítás:** a diákszervezeti és középiskolás-szakszervezeti koalíció mintegy 480 ezer résztvevőről számolt be. Az előző keddi tüntetésen a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt becsültek; Párizsban 56–100 ezer közötti adatokat közöltek. A résztvevők többsége békésen vonult, de Párizsban, Lyonban, Strasbourgban és Nantes-ban könnygázt vetettek be; Jean-Luc Mélenchon az egyik párizsi menethez csatlakozott. Lyonban a helyi hatóságok a menet lemondását kérték, miután egy csoport üzleteket és benzinkutat rongált meg, illetve megtámadta a rendőrséget.\n\n• **A tiltakozás kezdete és az iskolai követelések:** a mozgalom szeptember 17-én, a párizsi régióban indult, majd országossá vált. A középiskolások több tanárt, jobb finanszírozást és tanulási körülményeket követeltek, és bírálták a Parcoursup felsőoktatási felvételi rendszert is. Greta Thunberg Saint-Denis-ben csatlakozott egy iskolai megmozduláshoz. Október 17-én 214 középiskola zárt be az egy héttel korábbi 800-zal szemben; az intézmények 94,2 százaléka nyitva maradt.\n\n• **Országos megélhetési mozgalom:** a résztvevők magasabb béreket és nyugdíjakat, alacsonyabb árakat, valamint a közszolgáltatások védelmét és jobb finanszírozását sürgették. A felhívások tanárokat, munkásokat, gazdákat, egészségügyi dolgozókat, diákokat és nyugdíjasokat is mozgósítottak.\n\n• **A Sárga Mellényesek visszatérése:** a 2018–2019-es mozgalom támogatói a megélhetési költségek emelkedése miatt újra utcára hívták az embereket. A tervek felvonulásokat, útlezárásokat és stratégiai pontokon tartott gyűléseket is tartalmaztak. A CGT 1750 gyűlésről és demonstrációról számolt be; a belügy körülbelül 500 tervezett akciót és több mint 90 menetet jelzett. Egy közös online térképen több mint ezer akciófelhívás szerepelt, ez azonban nem jelentett részvételi becslést.\n\n• **Gazdasági és költségvetési háttér:** az infláció szeptemberben éves alapon 3,1 százalékra emelkedett, a benzin ára a beszámolók szerint literenként 2,20 euró volt, az állam hitelfelvételi költségei pedig két évtizedes csúcsra nőttek. Egy októberi, 2000 embert megkérdező felmérésben a franciák 45 százaléka aggódott a megélhetési költségek és az infláció miatt. A parlament 43 milliárd eurós intézkedésekről vitázott, az államadósság elérte a GDP 112 százalékát.\n\n• **Párizsi intézkedések és vidéki részvétel:** Lyonban és Nantes-ban mintegy 20-20 ezren, Rennes-ben körülbelül 10 ezren tüntettek. Párizsban több hatalmi központ környékén megtiltották a demonstrációt, 25 metróállomást lezártak; a fő menet a République térről a Clichy tér felé indult. A rendőrség két engedély nélküli menetet is feloszlatott.\n\n• **Őrizetbe vételek:** a párizsi rendőrség reggel 9.30-ig 40 őrizetbe vételt jelentett, főként tiltott fegyver vagy védőfelszerelés birtoklása miatt; 589 megelőző ellenőrzést végeztek. A párizsi őrizetbe vételek száma 11 óráig 61, dél körül 100 volt; országosan délben 166, délutánra 272. A CNews székháza elleni akció után 21 embert vettek őrizetbe. Nuñez este körülbelül 400 országos őrizetbe vételről számolt be, Sébastien Lecornu miniszterelnök később 1200-ról. Másnap a párizsi rendőrség 855 őrizetbe vételt közölt – ez rekordnak számított –, Nuñez pedig azt, hogy országosan már több mint 1800 embert vettek őrizetbe. A kormány nem tervezte a rendkívüli állapot kihirdetését; a hatóságok videók alapján további azonosításokra számítottak.\n\n• **Sérültek és rendőri fellépés:** Lecornu szombat este 150 sérült rendőrről és csendőrről számolt be; a belügyminiszter későbbi, ideiglenes mérlege szerint több mint 500 rendőr, csendőr és tűzoltó sérült meg az erőszakos eseményekben. A tiltakozások kezdete óta a hatóságok 937 sérült rendőrről és csendőrről, 248 sérült diákról, valamint 149 sérült oktatási dolgozóról számoltak be. A rendőrség belső ellenőrzése több feltételezett rendőri erőszakos esetet vizsgál; a sajtóbeszámolók 24, illetve 36 vizsgálatot is említenek. Saint-Étienne-ben egy tüntető kezét tömegoszlató gránát roncsolta szét; egyes beszámolók 17 évesnek mondták. Egy másik tüntető Párizsban szívroham következtében meghalt; a rendőrség szerint a haláleset nem függött össze az erőszakkal.\n\n• **Középületek elleni támadások és károk:** Marseille-ben tüntetők rövid időre behatoltak a városházára, megrongálták a berendezést és ledöntöttek egy Marianne-mellszobrot; a városi rendőrőrsöt is megtámadták. Lille-ben is betörtek a városházára, Lyonban felgyújtották a turisztikai irodát, Grenoble-ban pedig megrongálták a városházát. Limoges-ban a tűz miatt a 143 éves városháza teteje az alsóbb szintekre omlott. A történelmi épületrész belseje szinte teljesen megsemmisült, a modern részt a tűzoltók megmentették. Bordeaux-ban a prefektusi rezidenciát és a Kereskedelmi és Iparkamara épületét is támadás érte.\n\n• **Fosztogatások és kereskedelmi károk:** több városban élelmiszerboltokat, ruházati, sport- és luxusüzleteket támadtak meg; Marseille-ben több tucat üzletet érintettek a fosztogatások. Párizsban a Dior magánbiztonsági őrökkel erősítette meg üzlete védelmét; Lyonban, Lille-ben, Rennes-ben, Nantes-ban és Bordeaux-ban is üzleteket fosztottak ki. Párizsban egy étterem teljesen kiégett, egy teherautó felgyújtása után pedig a tűz egy közeli épületre is átterjedt. A Kereskedelmi és Elosztási Szövetség előzetes adata szerint 1500 kereskedőt érintettek a károk, amelyek összértéke több százmillió euróra rúghat. Bordeaux polgármestere akár 100 kifosztott üzletről számolt be; Marseille-ben sürgősségi pénzügyi támogatást ígértek az érintett vállalkozásoknak. A kormány segítséget ígért a károsult kereskedőknek.\n\n• **Összecsapások az Élysée közelében:** a Le Parisien szerint a palotától mintegy 400 méterre tüntetők autót borítottak fel, köveket dobáltak és egy építési konténert toltak a rendőrök felé; a rendőrség oszlatógránátot használt. A lap rendőrségi forrásokra hivatkozva egy idős házaspár kirablásáról is beszámolt. Emmanuel Grégoire párizsi polgármester szerint egész utcák rongálódtak meg, a károk mérlege súlyos lesz.\n\n• **Politikai reakciók Franciaországban:** a kormány az LFI-t vádolta a tiltakozások szításával, amit a párt visszautasított. Jean-Luc Mélenchon a rendőri brutalitás bemutatását kérte számon a sajtón, és azt mondta, a fosztogatás ellentétes a mozgalom módszereivel. Marine Le Pen elítélte az erőszakot, és a megrongált iskolák javítási költségeinek megtérítését követelte az elkövetőktől vagy szüleiktől; az erről szóló törvényjavaslat parlamenti tárgyalás alatt áll. Macron nyugalomra szólított fel, és közölte, hogy a rombolás és fosztogatás elkövetőit felelősségre vonják. Bejelentették, hogy vasárnap este 20 órakor televíziós beszédet intéz az országhoz. A heves károk miatt Párizs, Marseille és Lyon polgármestere találkozót kért a miniszterelnöktől; a kormány válságstábot is összehívott.\n\n• **Belgium és Olaszország:** Brüsszelben és Liège-ben több százan tüntettek; a belga rendőrség könnygázt és vízágyút vetett be, mintegy tíz embert őrizetbe vett, kukákat, bérelhető rollereket és legalább három autót gyújtottak fel, a brüsszeli Szocialista Párt helyi szövetségének épületét pedig megrongálták. Olaszországban Rómában mintegy 100 ezren tüntettek a szervezők szerint, Milánóban több mint 5000 fős menetet követően összecsapások voltak, Bolognában is jelentettek incidenseket; a CGIL november 20-ra országos általános sztrájkot hirdetett.\n\n• **Tágabb európai társadalmi feszültségek:** egy újabb áttekintés szerint Spanyolországban és Portugáliában a lakhatás és a megélhetés, Albániában pedig a korrupcióval és az oktatással kapcsolatos elégedetlenség mozgatott tiltakozásokat. A forrás hangsúlyozza, hogy a párhuzamos megmozdulások nem alkotnak összehangolt európai mozgalmat, de közös bennük a megélhetés, a közszolgáltatások és az állami válaszok miatti elégedetlenség.\n\n• **A tiltakozó csoportokat összekötő feszültségek:** Paolo Stuppia kutató a klímaváltozást, a bizonytalan megélhetést, a munkaerőpiacra lépés nehézségeit és a szélsőjobb hatalomra jutásától való félelmet emelte ki. Szerinte a rendőri fellépés hidat képezhet a diákok és a Sárga Mellényesek között.\n\n• **Külföldi politikai reakció:** JD Vance amerikai alelnök a bevándorlást okolta a francia tiltakozások erőszakos eseményeiért, és a demokratikus ellenzéket is bírálta. Donald Trump amerikai elnök szintén a bevándorlást tette felelőssé a zavargásokért, és a francia bevándorláspolitika szigorítására szólított fel.",
+    "title_ro": "Protestele din Franța s-au extins într-o mișcare națională împotriva costului vieții: peste 1.800 de rețineri",
+    "lead_ro": "Protestele pornite de la revendicările privind școlile s-au transformat într-o mobilizare națională împotriva costului vieții, a inegalităților și a stării serviciilor publice, la care s-au alăturat sindicatele și Vestele Galbene. Pe 17 octombrie, organizatorii au anunțat 800.000 de participanți, iar ministrul de Interne, 550.000; până a doua zi au fost raportate peste 1.800 de rețineri în țară și 855 la Paris. Autoritățile au anunțat peste 500 de răniți, iar federația comercială a estimat că au fost afectați 1.500 de comercianți, cu pagube de sute de milioane de euro.",
+    "content_ro": "• **Participarea din 17 octombrie:** organizatorii și organizațiile care li s-au alăturat au anunțat, în final, 800.000 de participanți; CGT estimase inițial peste 500.000. Ministrul de Interne, Laurent Nuñez, a indicat 550.000 de participanți, dintre care 110.000 la Paris; la nivel național au fost înregistrate 110 manifestații.\n\n• **Mobilizarea de marți, anterioară:** intersindicala organizațiilor studențești și liceale a estimat aproximativ 480.000 de participanți. La manifestația de marțea precedentă, autoritățile au estimat 266.000, iar organizatorii 450.000 de participanți; pentru Paris au fost comunicate cifre între 56.000 și 100.000. Majoritatea participanților au mărșăluit pașnic, dar poliția a folosit gaze lacrimogene la Paris, Lyon, Strasbourg și Nantes; Jean-Luc Mélenchon a participat la unul dintre marșurile din Paris. La Lyon, autoritățile locale le-au cerut organizatorilor să anuleze marșul după ce un grup a vandalizat magazine și o benzinărie și a atacat poliția.\n\n• **Începutul protestelor și revendicările din educație:** mișcarea a început pe 17 septembrie în regiunea pariziană, apoi s-a extins în toată țara. Liceenii au cerut mai mulți profesori, finanțare și condiții de studiu mai bune și au criticat platforma de admitere în învățământul superior Parcoursup. Greta Thunberg s-a alăturat unei manifestații școlare în Saint-Denis. Pe 17 octombrie au fost închise 214 licee, față de 800 cu o săptămână înainte; 94,2% dintre licee au rămas deschise.\n\n• **O mișcare națională împotriva costului vieții:** manifestanții au cerut salarii și pensii mai mari, prețuri mai mici, precum și protejarea și finanțarea corespunzătoare a serviciilor publice. Apelurile au mobilizat profesori, muncitori, agricultori, personal medical, studenți și pensionari.\n\n• **Revenirea Vestelor Galbene:** susținătorii mișcării din 2018–2019 au chemat din nou oamenii în stradă, invocând creșterea costului vieții. Planurile au inclus marșuri, blocaje rutiere și adunări în puncte strategice. CGT a raportat 1.750 de adunări și manifestații; Ministerul de Interne a menționat aproximativ 500 de acțiuni planificate și peste 90 de marșuri. O hartă online comună afișa peste o mie de apeluri la acțiuni, fără ca acest număr să estimeze participarea efectivă.\n\n• **Contextul economic și bugetar:** inflația a urcat în septembrie la 3,1% anual, benzina costa, potrivit relatărilor, 2,20 euro litrul, iar costurile de împrumut ale statului au ajuns la cel mai ridicat nivel din ultimele două decenii. Într-un sondaj din octombrie realizat pe 2.000 de persoane, 45% dintre francezi s-au declarat îngrijorați de costul vieții și de inflație. Parlamentul dezbătea măsuri de 43 de miliarde de euro, iar datoria publică ajunsese la 112% din PIB.\n\n• **Măsurile de la Paris și participarea din provincie:** la Lyon și Nantes au manifestat aproximativ 20.000 de persoane în fiecare oraș, iar la Rennes circa 10.000. La Paris au fost interzise manifestațiile în apropierea mai multor centre ale puterii și au fost închise 25 de stații de metrou; marșul principal a pornit din Place de la République spre Place de Clichy. Poliția a dispersat și două marșuri neautorizate.\n\n• **Reținerile:** până la ora 9:30, poliția din Paris raportase 40 de rețineri, în principal pentru port de arme sau echipamente de protecție interzise; au fost efectuate 589 de controale preventive. Numărul reținerilor din Paris a ajuns la 61 până la ora 11:00 și la 100 în jurul prânzului; la nivel național au fost raportate 166 la prânz și 272 după-amiaza. După acțiunea împotriva sediului CNews au fost reținute 21 de persoane. Nuñez a anunțat aproximativ 400 de rețineri la nivel național în cursul serii, iar premierul Sébastien Lecornu a comunicat ulterior 1.200. A doua zi, poliția din Paris a anunțat 855 de rețineri — un record —, iar Nuñez a spus că în țară au fost reținute peste 1.800 de persoane. Guvernul nu intenționa să declare starea de urgență; autoritățile au anunțat că vor identifica suspecți suplimentari folosind înregistrări video.\n\n• **Răniți și intervenția poliției:** sâmbătă seara, Lecornu a raportat 150 de polițiști și jandarmi răniți; bilanțul provizoriu ulterior al ministrului de Interne a indicat peste 500 de polițiști, jandarmi și pompieri răniți în violențe. De la începutul protestelor, autoritățile au raportat 937 de polițiști și jandarmi răniți, precum și 248 de elevi și 149 de angajați din educație. Corpul de control al poliției investighează presupuse abuzuri; presa a menționat 24, respectiv 36 de anchete. La Saint-Étienne, un protestatar și-a pierdut o mână după explozia unei grenade de dispersare; unele relatări l-au descris ca având 17 ani. Un alt protestatar a murit la Paris în urma unui stop cardiac; potrivit poliției, decesul nu a fost legat de violențe.\n\n• **Atacuri asupra clădirilor publice și pagube:** la Marsilia, manifestanții au intrat pentru scurt timp în primărie, au deteriorat mobilierul și au doborât un bust al Mariannei; a fost atacată și o secție de poliție municipală. La Lille a fost atacată primăria, la Lyon a fost incendiat biroul de turism, iar la Grenoble primăria a fost avariată. La Limoges, incendiul a prăbușit acoperișul primăriei vechi de 143 de ani peste etajele inferioare. Interiorul părții istorice a fost aproape complet distrus, în timp ce pompierii au salvat partea modernă. La Bordeaux au fost vizate reședința prefectului și clădirea Camerei de Comerț și Industrie.\n\n• **Jafuri și pagube comerciale:** în mai multe orașe au fost atacate magazine alimentare, de îmbrăcăminte, sport și lux; în Marsilia au fost jefuite zeci de magazine. La Paris, Dior și-a consolidat paza cu agenți privați; au fost jefuite magazine și în Lyon, Lille, Rennes, Nantes și Bordeaux. Un restaurant din Paris a ars complet, iar incendiul unui camion s-a extins la o clădire din apropiere. Potrivit estimării preliminare a Federației Comerțului și Distribuției, pagubele au afectat 1.500 de comercianți și ar putea însuma sute de milioane de euro. Primarul din Bordeaux a vorbit despre până la 100 de magazine jefuite; la Marsilia a fost promis ajutor financiar de urgență pentru firmele afectate. Guvernul a promis sprijin comercianților păgubiți.\n\n• **Ciocniri în apropierea Palatului Élysée:** potrivit Le Parisien, la aproximativ 400 de metri de palat, manifestanții au răsturnat o mașină, au aruncat cu pietre și au împins o cabină de șantier spre polițiști; forțele de ordine au folosit o grenadă de dispersare. Ziarul a relatat, citând surse din poliție, și despre jefuirea unui cuplu în vârstă. Primarul Parisului, Emmanuel Grégoire, a spus că au fost avariate străzi întregi și că bilanțul pagubelor va fi grav.\n\n• **Reacții politice în Franța:** guvernul a acuzat partidul LFI că a alimentat protestele, acuzație respinsă de formațiune. Jean-Luc Mélenchon a criticat presa pentru că nu arată presupusa brutalitate a poliției și a spus că jafurile sunt contrare metodelor mișcării. Marine Le Pen a condamnat violențele și a cerut ca autorii sau părinții lor să plătească reparațiile școlilor avariate; proiectul de lege se află în dezbatere parlamentară. Macron a făcut apel la calm și a spus că persoanele responsabile de distrugeri și jafuri vor fi trase la răspundere. Biroul președintelui a anunțat că acesta se va adresa țării duminică, la ora 20:00. Pe fondul amplorii pagubelor, primarii din Paris, Marsilia și Lyon au cerut o întâlnire cu premierul; guvernul a convocat și o celulă de criză.\n\n• **Belgia și Italia:** la Bruxelles și Liège au manifestat sute de persoane; poliția belgiană a folosit gaze lacrimogene și tunuri cu apă și a reținut aproximativ zece persoane. Au fost incendiate pubele, trotinete de închiriat și cel puțin trei mașini, iar sediul local al Partidului Socialist din Bruxelles a fost vandalizat. În Italia, organizatorii au estimat circa 100.000 de participanți la Roma; la Milano au avut loc confruntări după un marș de peste 5.000 de persoane, iar incidente au fost raportate și la Bologna. CGIL a anunțat o grevă generală națională pentru 20 noiembrie.\n\n• **Tensiuni sociale mai largi în Europa:** o analiză suplimentară a relatat că în Spania și Portugalia protestele au fost alimentate de locuințe și costul vieții, iar în Albania de nemulțumiri privind corupția și educația. Sursa subliniază că manifestațiile simultane nu formează o mișcare europeană coordonată, dar au în comun nemulțumirea față de costul vieții, serviciile publice și răspunsul statului.\n\n• **Tensiunile care unesc grupurile protestatare:** cercetătorul Paolo Stuppia a evidențiat schimbările climatice, precaritatea, dificultățile de intrare pe piața muncii și teama de venirea extremei drepte la putere. În opinia sa, intervenția poliției poate crea punți între liceeni și Vestele Galbene.\n\n• **Reacții politice din străinătate:** vicepreședintele american JD Vance a pus violențele din timpul protestelor pe seama imigrației și a criticat opoziția democrată. Președintele Donald Trump a atribuit, de asemenea, revoltele imigrației și a cerut Franței să-și înăsprească politica în acest domeniu."
+  },
+  {
+    "group_id": "group_8e5321c36f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Evenimentul tehnologic al acestor zile. Mașina descrisă drept „rezultatul colaborării dintre cea mai bună companie auto și cel mai bun producător de rachete”",
+        "link": "https://hotnews.ro/evenimentul-tehnologic-al-acestor-zile-masina-descrisa-drept-rezultatul-colaborarii-dintre-cea-mai-buna-companie-auto-si-cel-mai-bun-producator-de-rachete-2379207"
+      }
+    ],
+    "published_at": 1792333607,
+    "title_hu": "Evenimentul tehnologic al acestor zile. Mașina descrisă drept „rezultatul colaborării dintre cea mai bună companie auto și cel mai bun producător de rachete”",
+    "lead_hu": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente…",
+    "content_hu": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente, parcate unul lângă altul. Dincolo de elemente de cascadorie, compania americană nu a prezentat specificații concrete. Presa de specialitate a aflat, …",
+    "title_ro": "Evenimentul tehnologic al acestor zile. Mașina descrisă drept „rezultatul colaborării dintre cea mai bună companie auto și cel mai bun producător de rachete”",
+    "lead_ro": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente…",
+    "content_ro": "După nouă ani de așteptare, Tesla a dezvălui săptămâna aceasta noul model Roadster cu un spectacol grandios în care modelul a folosit jeturi de aer pentru a sări peste un șir de modele Tesla existente, parcate unul lângă altul. Dincolo de elemente de cascadorie, compania americană nu a prezentat specificații concrete. Presa de specialitate a aflat, …"
   },
   {
     "group_id": "group_c9ae39f010",
@@ -650,114 +859,6 @@
     "title_ro": "Răsturnare de situație în cazul O.J. Simpson după 30 de ani. Un informator secret ar fi știut ce s-a întâmplat cu arma crimei",
     "lead_ro": "Noi informații ies la suprafață în cazul crimelor pentru care O.J. Simpson a fost judecat și achitat în urmă cu peste trei decenii. Documente judiciare recent desecretizate indică existența unui infor…",
     "content_ro": "Noi informații ies la suprafață în cazul crimelor pentru care O.J. Simpson a fost judecat și achitat în urmă cu peste trei decenii. Documente judiciare recent desecretizate indică existența unui informator considerat de autorități „extrem de credibil”."
-  },
-  {
-    "group_id": "group_c2ce22e812",
-    "fingerprint": "3a9ed90d7e11dc2c622e6257229d3b31",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 18,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
-      },
-      {
-        "source": "G4Media",
-        "title": "O nouă zi de proteste ale elevilor în Franța: aproximativ 480.000 de participanți, potrivit organizatorilor",
-        "link": "https://www.g4media.ro/o-noua-zi-de-proteste-ale-elevilor-in-franta-aproximativ-480-000-de-participanti-potrivit-organizatorilor.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
-        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Stare de alertă în Franța: Zeci de mii de oameni ies azi în 500 de proteste împotriva costului vieții / Autoritățile se tem de violențe",
-        "link": "https://hotnews.ro/stare-de-alerta-in-franta-zeci-de-mii-de-oameni-ies-azi-in-500-de-proteste-impotriva-costului-vietii-autoritatile-se-tem-de-violente-2378558"
-      },
-      {
-        "source": "Digi24",
-        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
-        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "VIDEO Mobilizare împotriva 'costului ridicat al vieții': Peste 500.000 de manifestanți în Franța, potrivit sindicatului CGT",
-        "link": "https://agerpres.ro/social-extern/2026/10/17/video-mobilizare-impotriva-costului-ridicat-al-vietii-peste-500-000-de-manifestanti-in-franta-potriv--1604111"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Nou bilanț al participanților la manifestațiile de protest din Franța: 800.000, conform organizatorilor",
-        "link": "https://agerpres.ro/social-extern/2026/10/17/nou-bilant-al-participantilor-la-manifestatiile-de-protest-din-franta-800-000-conform-organizatorilo--1604126"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Scene de gherilă urbană lângă Palatul Élysée, la Paris",
-        "link": "https://hotnews.ro/scene-de-gherila-urbana-langa-palatul-elysee-la-paris-2378895"
-      },
-      {
-        "source": "G4Media",
-        "title": "Violențe la protestele din Franța, soldate cu peste 1.200 de persoane reținute și 150 de polițiști și jandarmi răniți. Zeci de magazine, primării și clădiri istorice au fost devastate",
-        "link": "https://www.g4media.ro/violente-la-protestele-din-franta-soldate-cu-peste-1-200-de-persoane-retinute-si-150-de-politisti-si-jandarmi-raniti-zeci-de-magazine-primarii-si-cladiri-istorice-au-fost-devastate.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Imagini cu Franța sub asediul violențelor: Peste 1.200 de oameni arestați, jafuri și clădiri istorice cuprinse de flăcări în urma protestelor",
-        "link": "https://hotnews.ro/imagini-cu-franta-sub-asediul-violentelor-peste-1-200-de-oameni-arestati-jafuri-si-cladiri-istorice-cuprinse-de-flacari-in-urma-protestelor-2378935"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Franța, răvășită de violențe și jafuri: clădire istorică distrusă de protestatari, 1.200 de arestări și străzi devastate",
-        "link": "https://adevarul.ro/stiri-externe/europa/franta-ravasita-de-violente-si-jafuri-cladire-2564713.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Franța: Record de 855 de arestări la Paris pe fondul protestelor privind condițiile din școli și costul vieții",
-        "link": "https://agerpres.ro/social/2026/10/18/franta-record-de-855-de-arestari-la-paris-pe-fondul-protestelor-privind-conditiile-din-scoli-si-cost--1604163"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Mobilizare împotriva costului vieții în Franța: Peste 1800 de arestări, anunță ministrul de interne",
-        "link": "https://agerpres.ro/social-extern/2026/10/18/mobilizare-impotriva-costului-vietii-in-franta-peste-1800-de-arestari-anunta-ministrul-de-interne--1604196"
-      },
-      {
-        "source": "G4Media",
-        "title": "Poliția pariziană anunță 855 de arestări în urma confruntărilor violente și a jafurilor produse în timpul protestelor din capitala Franței",
-        "link": "https://www.g4media.ro/politia-pariziana-raporteaza-855-de-arestari-in-urma-confruntarilor-violente-si-a-jafurilor-produse-in-timpul-protestelor-din-capitala-frantei.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Franța se confruntă cu urmările celor mai grave tulburări din ultimii ani: Magazine jefuite, clădiri cu graffiti și o primărie incendiată",
-        "link": "https://www.mediafax.ro/stirile-zilei/franta-se-confrunta-cu-urmarile-celor-mai-grave-tulburari-din-ultimii-ani-magazine-jefuite-cladiri-cu-graffiti-si-o-primarie-incendiata-23827538"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 1.800 de arestări în Franţa: Violenţe extreme şi jafuri în timpul mobilizării împotriva costului vieţii",
-        "link": "https://stirileprotv.ro/stiri/international/peste-1-800-de-arestari-in-fran-a-violen-e-si-jafuri-in-timpul-mobilizarii-impotriva-costului-vie-ii.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Pagubele uriașe provocate de protestele din Franța. 1.800 de persoane reținute și peste 500 de polițiști răniți",
-        "link": "https://stirileprotv.ro/stiri/international/pagubele-uriase-provocate-de-protestele-din-franta-1-800-de-persoane-retinute-si-peste-500-de-politisti-raniti.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Protestele din Franța au degenerat grav. Un manifestant a murit, iar sute de oameni au fost arestați",
-        "link": "https://stirileprotv.ro/stiri/international/protestele-din-franta-au-degenerat-grav-un-manifestant-a-murit-iar-sute-de-oameni-au-fost-arestati.html"
-      }
-    ],
-    "published_at": 1792331784,
-    "title_hu": "Országos megélhetési mozgalommá szélesedtek a francia tiltakozások: több mint 1800 őrizetbe vétel",
-    "lead_hu": "Az iskolai követelésekből a megélhetési költségek, az egyenlőtlenségek és a közszolgáltatások állapota elleni országos mozgalom lett, amelyhez szakszervezetek és a Sárga Mellényesek is csatlakoztak. Október 17-én a szervezők 800 ezer, a belügyminiszter 550 ezer résztvevőről számolt be; másnapra országosan több mint 1800 őrizetbe vételt, Párizsban pedig 855-öt jelentettek. Az új források egy korábbi keddi mozgósítás részvételi adatait is közlik, miközben a hatóságok több mint 500 sérültről, a kereskedelmi szövetség pedig 1500 érintett kereskedőről és több százmillió eurós kárról számolt be.",
-    "content_hu": "• **Október 17-i részvétel:** a szervezők és a hozzájuk csatlakozó szervezetek végül 800 ezer résztvevőről számoltak be; a CGT előbb több mint 500 ezres becslést közölt. Laurent Nuñez belügyminiszter 550 ezer résztvevőt jelzett, közülük 110 ezret Párizsban; országosan 110 demonstrációt tartottak nyilván.\n\n• **Korábbi keddi mozgósítás:** a diákszervezetek és a középiskolásokat képviselő szakszervezeti koalíció mintegy 480 ezer résztvevőről számolt be. Az előző keddi tüntetésen a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt becsültek; Párizsban 56–100 ezer közötti adatokat közöltek.\n\n• **A tiltakozás kezdete és az iskolai követelések:** a mozgalom szeptember 17-én, a párizsi régióban indult, majd országossá vált. A középiskolások több tanárt, jobb finanszírozást és tanulási körülményeket követeltek, és bírálták a Parcoursup felsőoktatási felvételi rendszert is. Greta Thunberg Saint-Denis-ben csatlakozott egy iskolai megmozduláshoz. Október 17-én 214 középiskola zárt be az egy héttel korábbi 800-zal szemben; az intézmények 94,2 százaléka nyitva maradt.\n\n• **Országos megélhetési mozgalom:** a résztvevők magasabb béreket és nyugdíjakat, alacsonyabb árakat, valamint a közszolgáltatások védelmét és jobb finanszírozását sürgették. A felhívások tanárokat, munkásokat, gazdákat, egészségügyi dolgozókat, diákokat és nyugdíjasokat is mozgósítottak.\n\n• **A Sárga Mellényesek visszatérése:** a 2018–2019-es mozgalom támogatói a megélhetési költségek emelkedése miatt újra utcára hívták az embereket. A tervek felvonulásokat, útlezárásokat és stratégiai pontokon tartott gyűléseket is tartalmaztak. A CGT 1750 gyűlésről és demonstrációról számolt be; a belügy körülbelül 500 tervezett akciót és több mint 90 menetet jelzett. Egy közös online térképen több mint ezer akciófelhívás szerepelt, ez azonban nem jelentett részvételi becslést.\n\n• **Gazdasági és költségvetési háttér:** az infláció szeptemberben éves alapon 3,1 százalékra emelkedett, a benzin ára a beszámolók szerint literenként 2,20 euró volt, az állam hitelfelvételi költségei pedig két évtizedes csúcsra nőttek. Egy októberi, 2000 embert megkérdező felmérésben a franciák 45 százaléka aggódott a megélhetési költségek és az infláció miatt. A parlament 43 milliárd eurós intézkedésekről vitázott, az államadósság elérte a GDP 112 százalékát.\n\n• **Párizsi intézkedések és vidéki részvétel:** Lyonban és Nantes-ban mintegy 20-20 ezren, Rennes-ben körülbelül 10 ezren tüntettek. Párizsban több hatalmi központ környékén megtiltották a demonstrációt, 25 metróállomást lezártak; a fő menet a République térről a Clichy tér felé indult. A rendőrség két engedély nélküli menetet is feloszlatott.\n\n• **Őrizetbe vételek:** a párizsi őrizetbe vételek száma reggel 9.30-ig 40, 11 óráig 61, dél körül 100 volt; országosan délben 166, délutánra 272. A párizsi rendőrség 589 megelőző ellenőrzést végzett; a CNews székháza elleni akció után 21 embert vettek őrizetbe. Nuñez este körülbelül 400 országos őrizetbe vételről számolt be, Sébastien Lecornu miniszterelnök később 1200-ról. Másnap a párizsi rendőrség 855 őrizetbe vételt közölt – ez rekordnak számított –, Nuñez pedig azt, hogy országosan már több mint 1800 embert vettek őrizetbe. A kormány nem tervezte a rendkívüli állapot kihirdetését; a hatóságok videók alapján további azonosításokra számítottak.\n\n• **Sérültek és rendőri fellépés:** Lecornu szombat este 150 sérült rendőrről és csendőrről számolt be; a belügyminiszter későbbi, ideiglenes mérlege szerint több mint 500 rendőr, csendőr és tűzoltó sérült meg az erőszakos eseményekben. A tiltakozások kezdete óta a hatóságok 937 sérült rendőrről és csendőrről, 248 sérült diákról, valamint 149 sérült oktatási dolgozóról számoltak be. A rendőrség belső ellenőrzése több feltételezett rendőri erőszakos esetet vizsgál; a sajtóbeszámolók 24, illetve 36 vizsgálatot is említenek. Saint-Étienne-ben egy tüntető kezét tömegoszlató gránát roncsolta szét; egyes beszámolók 17 évesnek mondták. Egy másik tüntető Párizsban szívroham következtében meghalt; a rendőrség szerint a haláleset nem függött össze az erőszakkal.\n\n• **Középületek elleni támadások és károk:** Marseille-ben tüntetők rövid időre behatoltak a városházára, megrongálták a berendezést és ledöntöttek egy Marianne-mellszobrot; a városi rendőrőrsöt is megtámadták. Lille-ben is betörtek a városházára, Lyonban felgyújtották a turisztikai irodát, Grenoble-ban pedig megrongálták a városházát. Limoges-ban a tűz miatt a 143 éves városháza teteje az alsóbb szintekre omlott. A történelmi épületrész belseje szinte teljesen megsemmisült, a modern részt a tűzoltók megmentették. Bordeaux-ban a prefektusi rezidenciát és a Kereskedelmi és Iparkamara épületét is támadás érte.\n\n• **Fosztogatások és kereskedelmi károk:** több városban élelmiszerboltokat, ruházati, sport- és luxusüzleteket támadtak meg; Marseille-ben több tucat üzletet érintettek a fosztogatások. Párizsban a Dior magánbiztonsági őrökkel erősítette meg üzlete védelmét; Lyonban, Lille-ben, Rennes-ben, Nantes-ban és Bordeaux-ban is üzleteket fosztottak ki. Párizsban egy étterem teljesen kiégett, egy teherautó felgyújtása után pedig a tűz egy közeli épületre is átterjedt. A Kereskedelmi és Elosztási Szövetség előzetes adata szerint 1500 kereskedőt érintettek a károk, amelyek összértéke több százmillió euróra rúghat. Bordeaux polgármestere akár 100 kifosztott üzletről számolt be; Marseille-ben sürgősségi pénzügyi támogatást ígértek az érintett vállalkozásoknak. A kormány segítséget ígért a károsult kereskedőknek.\n\n• **Összecsapások az Élysée közelében:** a Le Parisien szerint a palotától mintegy 400 méterre tüntetők autót borítottak fel, köveket dobáltak és egy építési konténert toltak a rendőrök felé; a rendőrség oszlatógránátot használt. A lap rendőrségi forrásokra hivatkozva egy idős házaspár kirablásáról is beszámolt. Emmanuel Grégoire párizsi polgármester szerint egész utcák rongálódtak meg, a károk mérlege súlyos lesz.\n\n• **Politikai reakciók Franciaországban:** a kormány az LFI-t vádolta a tiltakozások szításával, amit a párt visszautasított. Jean-Luc Mélenchon a rendőri brutalitás bemutatását kérte számon a sajtón, és azt mondta, a fosztogatás ellentétes a mozgalom módszereivel. Marine Le Pen elítélte az erőszakot, és a megrongált iskolák javítási költségeinek megtérítését követelte az elkövetőktől vagy szüleiktől; az erről szóló törvényjavaslat parlamenti tárgyalás alatt áll. Macron nyugalomra szólított fel, és közölte, hogy a rombolás és fosztogatás elkövetőit felelősségre vonják. Bejelentették, hogy vasárnap este 20 órakor televíziós beszédet intéz az országhoz.\n\n• **Belgium és Olaszország:** Brüsszelben és Liège-ben több százan tüntettek; a belga rendőrség könnygázt és vízágyút vetett be, mintegy tíz embert őrizetbe vett, kukákat, bérelhető rollereket és legalább három autót gyújtottak fel, a brüsszeli Szocialista Párt helyi szövetségének épületét pedig megrongálták. Olaszországban Rómában mintegy 100 ezren tüntettek a szervezők szerint, Milánóban több mint 5000 fős menetet követően összecsapások voltak, Bolognában is jelentettek incidenseket; a CGIL november 20-ra országos általános sztrájkot hirdetett.\n\n• **A tiltakozó csoportokat összekötő feszültségek:** Paolo Stuppia kutató a klímaváltozást, a bizonytalan megélhetést, a munkaerőpiacra lépés nehézségeit és a szélsőjobb hatalomra jutásától való félelmet emelte ki. Szerinte a rendőri fellépés hidat képezhet a diákok és a Sárga Mellényesek között.\n\n• **Külföldi politikai reakció:** JD Vance amerikai alelnök a bevándorlást okolta a francia tiltakozások erőszakos eseményeiért, és a demokratikus ellenzéket is bírálta. Donald Trump amerikai elnök szintén a bevándorlást tette felelőssé a zavargásokért, és a francia bevándorláspolitika szigorítására szólított fel.",
-    "title_ro": "Protestele din Franța s-au transformat într-o mișcare națională împotriva scumpirilor: peste 1.800 de persoane reținute",
-    "lead_ro": "Revendi­cările elevilor s-au extins într-o mișcare națională împotriva costului vieții, a inegalităților și a stării serviciilor publice, la care s-au alăturat sindicatele și Vestele Galbene. Pentru 17 octombrie, organizatorii au anunțat 800.000 de participanți, iar ministrul de Interne, 550.000; bilanțul de a doua zi indica peste 1.800 de rețineri la nivel național și 855 la Paris. Noile surse prezintă și estimările unei mobilizări anterioare de marți, în timp ce autoritățile au raportat peste 500 de membri ai forțelor de ordine răniți, iar federația comercianților, 1.500 de afaceri afectate și pagube de sute de milioane de euro.",
-    "content_ro": "• **Participarea din 17 octombrie:** organizatorii și organizațiile care li s-au alăturat au anunțat, în final, 800.000 de participanți; CGT comunicase inițial o estimare de peste 500.000. Ministrul de Interne Laurent Nuñez a indicat 550.000 de participanți, dintre care 110.000 la Paris; la nivel național au fost înregistrate 110 manifestații.\n\n• **Mobilizarea anterioară de marți:** intersindicala organizațiilor de studenți și liceeni a estimat participarea la aproximativ 480.000 de persoane. La manifestația de marțea precedentă, autoritățile estimaseră 266.000 de participanți, iar organizatorii 450.000; pentru Paris au fost comunicate cifre între 56.000 și 100.000.\n\n• **Începutul protestelor și revendicările elevilor:** mișcarea a început pe 17 septembrie în regiunea pariziană, apoi s-a extins în toată țara. Liceenii au cerut mai mulți profesori, finanțare și condiții de studiu mai bune și au criticat platforma de admitere în învățământul superior Parcoursup. Greta Thunberg s-a alăturat unei manifestații școlare la Saint-Denis. Pe 17 octombrie au fost închise 214 licee, față de 800 cu o săptămână înainte; 94,2% dintre instituții au rămas deschise.\n\n• **Mișcarea națională împotriva scumpirilor:** participanții au cerut salarii și pensii mai mari, prețuri mai mici și protejarea, respectiv finanțarea mai bună a serviciilor publice. Apelurile au mobilizat profesori, muncitori, agricultori, angajați din sănătate, elevi și pensionari.\n\n• **Revenirea Vestelor Galbene:** susținătorii mișcării din 2018–2019 au chemat din nou oamenii în stradă din cauza creșterii costului vieții. Planurile includeau marșuri, blocaje rutiere și adunări în puncte strategice. CGT a raportat 1.750 de adunări și manifestații; Ministerul de Interne a menționat aproximativ 500 de acțiuni planificate și peste 90 de marșuri. O hartă online comună afișa peste 1.000 de apeluri la acțiune, fără ca acestea să reprezinte o estimare a participării.\n\n• **Contextul economic și bugetar:** inflația a crescut în septembrie la 3,1% anual, benzina costa, potrivit relatărilor, 2,20 euro litrul, iar costurile de împrumut ale statului au atins cel mai ridicat nivel din ultimele două decenii. Într-un sondaj din octombrie, realizat pe 2.000 de persoane, 45% dintre francezi s-au declarat îngrijorați de costul vieții și de inflație. Parlamentul dezbătea măsuri în valoare de 43 de miliarde de euro, iar datoria publică ajunsese la 112% din PIB.\n\n• **Măsurile de la Paris și participarea în provincie:** la Lyon și Nantes au manifestat aproximativ 20.000 de persoane în fiecare oraș, iar la Rennes circa 10.000. La Paris au fost interzise manifestațiile în apropierea mai multor sedii ale puterii și au fost închise 25 de stații de metrou; marșul principal a pornit din Place de la République spre Place de Clichy. Poliția a dispersat și două marșuri neautorizate.\n\n• **Reținerile:** la Paris, numărul reținerilor a ajuns la 40 până la ora 9:30, la 61 până la ora 11:00 și la 100 în jurul prânzului; la nivel național erau 166 la prânz și 272 după-amiaza. Poliția pariziană a efectuat 589 de controale preventive; după acțiunea din fața sediului CNews au fost reținute 21 de persoane. Seara, Nuñez a anunțat aproximativ 400 de rețineri la nivel național, iar premierul Sébastien Lecornu a comunicat ulterior 1.200. A doua zi, poliția din Paris a anunțat 855 de rețineri – un record –, iar Nuñez a declarat că la nivel național fuseseră reținute peste 1.800 de persoane. Guvernul nu intenționa să declare starea de urgență; autoritățile se așteptau la identificări suplimentare pe baza înregistrărilor video.\n\n• **Răniți și intervenția poliției:** Lecornu a anunțat sâmbătă seara 150 de polițiști și jandarmi răniți; un bilanț provizoriu ulterior al ministrului de Interne indica peste 500 de polițiști, jandarmi și pompieri răniți în violențe. De la începutul protestelor, autoritățile au raportat 937 de polițiști și jandarmi răniți, precum și 248 de elevi și 149 de angajați din sistemul de învățământ. Controlul intern al poliției investighează mai multe presupuse cazuri de violență a agenților; relatările presei menționează 24, respectiv 36 de anchete. La Saint-Étienne, un manifestant și-a pierdut o mână în urma exploziei unei grenade de dispersare; unele relatări l-au identificat drept un tânăr de 17 ani. Un alt manifestant a murit la Paris în urma unui stop cardiac; poliția a precizat că decesul nu avea legătură cu violențele.\n\n• **Atacuri asupra clădirilor publice și pagube:** la Marsilia, manifestanții au pătruns pentru scurt timp în primărie, au deteriorat mobilierul și au doborât un bust al Mariannei; a fost atacat și un post de poliție municipală. La Lille s-a pătruns în primărie, la Lyon a fost incendiat biroul de turism, iar la Grenoble primăria a fost avariată. La Limoges, acoperișul primăriei vechi de 143 de ani s-a prăbușit peste etajele inferioare. Interiorul secțiunii istorice a fost aproape complet distrus, în timp ce pompierii au salvat partea modernă. La Bordeaux au fost atacate reședința prefectului și clădirea Camerei de Comerț și Industrie.\n\n• **Jafuri și pagube comerciale:** magazine alimentare, de îmbrăcăminte, sportive și de lux au fost atacate în mai multe orașe; la Marsilia, jafurile au vizat zeci de magazine. La Paris, Dior și-a întărit paza cu agenți privați; au fost jefuite magazine și în Lyon, Lille, Rennes, Nantes și Bordeaux. Un restaurant din Paris a ars complet, iar incendiul unui camion s-a extins la o clădire din apropiere. Potrivit unei estimări preliminare a Federației Comerțului și Distribuției, pagubele au afectat 1.500 de comercianți și ar putea ajunge la sute de milioane de euro. Primarul Bordeauxului a raportat până la 100 de magazine jefuite; la Marsilia a fost promis ajutor financiar de urgență pentru afacerile afectate. Guvernul a promis sprijin comercianților păgubiți.\n\n• **Confruntări în apropierea Palatului Élysée:** potrivit Le Parisien, la aproximativ 400 de metri de palat, protestatarii au răsturnat o mașină, au aruncat cu pietre și au împins o cabină de șantier spre polițiști; forțele de ordine au folosit o grenadă de dispersare. Publicația a relatat, citând surse din poliție, și despre jefuirea unui cuplu în vârstă. Primarul Parisului, Emmanuel Grégoire, a spus că au fost avariate străzi întregi și că bilanțul pagubelor va fi grav.\n\n• **Reacții politice în Franța:** guvernul a acuzat LFI că a alimentat protestele, acuzație respinsă de partid. Jean-Luc Mélenchon a criticat presa pentru că nu arată presupusa brutalitate a poliției și a spus că jafurile contravin metodelor mișcării. Marine Le Pen a condamnat violențele și a cerut ca autorii sau părinții lor să plătească reparațiile școlilor avariate; proiectul de lege în acest sens se află în dezbatere parlamentară. Macron a făcut apel la calm și a spus că autorii distrugerilor și jafurilor vor fi trași la răspundere. A fost anunțat că președintele se va adresa țării duminică, la ora 20:00.\n\n• **Belgia și Italia:** la Bruxelles și Liège au manifestat sute de persoane; poliția belgiană a folosit gaze lacrimogene și tunuri cu apă și a reținut aproximativ zece persoane. Au fost incendiate tomberoane, trotinete închiriate și cel puțin trei mașini, iar sediul Federației Partidului Socialist din Bruxelles a fost vandalizat. În Italia, organizatorii au estimat aproximativ 100.000 de participanți la Roma; la Milano, după un marș de peste 5.000 de persoane, au avut loc ciocniri, iar incidente au fost raportate și la Bologna. CGIL a convocat o grevă generală națională pentru 20 noiembrie.\n\n• **Tensiunile care leagă grupurile protestatare:** cercetătorul Paolo Stuppia a evidențiat schimbările climatice, precaritatea, dificultățile de acces pe piața muncii și teama de venirea extremei drepte la putere. Potrivit lui, intervenția poliției poate crea o punte între liceeni și Vestele Galbene.\n\n• **Reacții politice din străinătate:** vicepreședintele american JD Vance a pus violențele din timpul protestelor pe seama imigrației și a criticat opoziția democrată. Președintele american Donald Trump a atribuit, la rândul său, revoltele imigrației și a cerut Franței să-și înăsprească politica în acest domeniu."
   },
   {
     "group_id": "group_de0db9e01c",
@@ -2041,27 +2142,6 @@
     "title_ro": "Zodia care dă lovitura în plan financiar! Neti Sandu: „O să negociați salariul și termenele”",
     "lead_ro": "Finalul de săptămână vine cu vești bune pentru un anumit semn zodiacal. Dacă până acum și-au făcut griji în ceea ce privește planul financiar, norocul li se va schimba curând. Acești nativi urmează să…",
     "content_ro": "Finalul de săptămână vine cu vești bune pentru un anumit semn zodiacal. Dacă până acum și-au făcut griji în ceea ce privește planul financiar, norocul li se va schimba curând. Acești nativi urmează să dea lovitura, iar o nouă afacere profitabilă se conturează la orizont. Neti Sandu a dezvăluit cine sunt norocoșii zodiacului în această […]"
-  },
-  {
-    "group_id": "group_f1750c9a98",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/untitled-2-1024x766.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Tragedie în timpul slujbei. Un preot a murit lovit de crucea care s-a desprins de pe perete, în fața credincioșilor",
-        "link": "https://www.mediafax.ro/externe/tragedie-in-timpul-slujbei-un-preot-a-murit-lovit-de-crucea-care-s-a-desprins-de-pe-perete-in-fata-credinciosilor-23827584"
-      }
-    ],
-    "published_at": 1792328079,
-    "title_hu": "Tragedie în timpul slujbei. Un preot a murit lovit de crucea care s-a desprins de pe perete, în fața credincioșilor",
-    "lead_hu": "Un preot din Ecuador a murit în timpul slujbei. Crucea grea de lemn din spatele altarului s-a desprins de pe perete și l-a lovit în cap. Zeci de credincioși au fost martori la tragedie, iar slujba era…",
-    "content_hu": "Un preot din Ecuador a murit în timpul slujbei. Crucea grea de lemn din spatele altarului s-a desprins de pe perete și l-a lovit în cap. Zeci de credincioși au fost martori la tragedie, iar slujba era transmisă în direct pe rețelele sociale.",
-    "title_ro": "Tragedie în timpul slujbei. Un preot a murit lovit de crucea care s-a desprins de pe perete, în fața credincioșilor",
-    "lead_ro": "Un preot din Ecuador a murit în timpul slujbei. Crucea grea de lemn din spatele altarului s-a desprins de pe perete și l-a lovit în cap. Zeci de credincioși au fost martori la tragedie, iar slujba era…",
-    "content_ro": "Un preot din Ecuador a murit în timpul slujbei. Crucea grea de lemn din spatele altarului s-a desprins de pe perete și l-a lovit în cap. Zeci de credincioși au fost martori la tragedie, iar slujba era transmisă în direct pe rețelele sociale."
   },
   {
     "group_id": "group_1a6f02d62a",
@@ -10161,47 +10241,5 @@
     "title_ro": "Închiderea neautorizată a balconului poate duce la majorarea cu 100% a impozitului pe clădire",
     "lead_ro": "Codul urbanismului din România permite majorarea cu 100% a impozitului pe clădire pentru lucrările executate fără autorizație sau cu nerespectarea acesteia și care nu au fost aduse în legalitate. Majorarea nu se aplică automat: autoritatea locală trebuie să constate neregula, iar plata impozitului nu înlocuiește autorizarea lucrării și nici eventualele sancțiuni.",
     "content_ro": "• **Majorarea cu 100% a impozitului** poate viza lucrările executate fără autorizație sau cu încălcarea acesteia, dacă nu au fost regularizate potrivit legii; printre situațiile vizate se poate număra și închiderea neautorizată a unui balcon.\n\n• **Impozitul majorat nu se aplică automat:** autoritatea publică locală competentă trebuie să constate că lucrarea a fost realizată fără autorizațiile sau procedurile legale necesare.\n\n• **Majorarea poate continua** până când proprietarul obține autorizația de regularizare sau până la desființarea lucrării neautorizate, potrivit procedurii legale. Plata impozitului nu legalizează lucrarea și nu înlătură eventualele sancțiuni pentru încălcarea disciplinei în construcții.\n\n• **Pentru anumite lucrări la balcoane poate exista o procedură simplificată de notificare**, însă aceasta nu înseamnă că orice închidere este permisă fără condiții. Lucrările trebuie să respecte cerințele legale și normele de urbanism și construcții; intervențiile asupra structurii sau compartimentării apartamentului pot necesita avize, autorizații și evaluări tehnice.\n\n• **Proprietarii ar trebui să solicite mai întâi informații de la primăria competentă** despre posibilitatea regularizării și documentele necesare. Pentru a clarifica dacă și cum se aplică majorarea fiscală, este indicat să consulte separat direcția locală de taxe și impozite."
-  },
-  {
-    "group_id": "group_a323ba546a",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/dr-cezar-stres.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Dr. Cezar explică ce trebuie să faci când „butoiul de stres” este plin! Două activități care îl ajută să se relaxeze",
-        "link": "https://www.cancan.ro/dr-cezar-explica-ce-trebuie-sa-faci-cand-butoiul-de-stres-este-plin-doua-activitati-care-il-ajuta-sa-se-relaxeze-21531115"
-      }
-    ],
-    "published_at": 1792291204,
-    "title_hu": "Dr. Cezar explică ce trebuie să faci când „butoiul de stres” este plin! Două activități care îl ajută să se relaxeze",
-    "lead_hu": "Stresul nu apare doar atunci când primim o veste proastă, avem probleme la serviciu sau trecem printr-un conflict. Uneori, organismul intră într-o stare de alertă din cauza gândurilor, a amintirilor n…",
-    "content_hu": "Stresul nu apare doar atunci când primim o veste proastă, avem probleme la serviciu sau trecem printr-un conflict. Uneori, organismul intră într-o stare de alertă din cauza gândurilor, a amintirilor neplăcute sau a unor semnale interne pe care nici măcar nu le conștientizăm. Dr. Cezar explică românilor cum funcționează acest mecanism, de ce stresul se […]",
-    "title_ro": "Dr. Cezar explică ce trebuie să faci când „butoiul de stres” este plin! Două activități care îl ajută să se relaxeze",
-    "lead_ro": "Stresul nu apare doar atunci când primim o veste proastă, avem probleme la serviciu sau trecem printr-un conflict. Uneori, organismul intră într-o stare de alertă din cauza gândurilor, a amintirilor n…",
-    "content_ro": "Stresul nu apare doar atunci când primim o veste proastă, avem probleme la serviciu sau trecem printr-un conflict. Uneori, organismul intră într-o stare de alertă din cauza gândurilor, a amintirilor neplăcute sau a unor semnale interne pe care nici măcar nu le conștientizăm. Dr. Cezar explică românilor cum funcționează acest mecanism, de ce stresul se […]"
-  },
-  {
-    "group_id": "group_4070cd38cd",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-0/07d255f5-a75a-470b-8871-f5f6755e63d1/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Votul din 3 noiembrie care poate schimba direcția Americii. Ce urmează pentru SUA și Europa",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/votul-din-3-noiembrie-care-poate-schimba-directia-2564685.html"
-      }
-    ],
-    "published_at": 1792291162,
-    "title_hu": "Votul din 3 noiembrie care poate schimba direcția Americii. Ce urmează pentru SUA și Europa",
-    "lead_hu": "Miza globală a alegerilor intermediare americane din 3 noiembrie este analizată de presa internațională, care anticipează că potențialele schimbări ale Congresului ar putea înăspri supravegherea polit…",
-    "content_hu": "Miza globală a alegerilor intermediare americane din 3 noiembrie este analizată de presa internațională, care anticipează că potențialele schimbări ale Congresului ar putea înăspri supravegherea politicii externe executive sau putea influența asistența militară acordată Ucrainei.",
-    "title_ro": "Votul din 3 noiembrie care poate schimba direcția Americii. Ce urmează pentru SUA și Europa",
-    "lead_ro": "Miza globală a alegerilor intermediare americane din 3 noiembrie este analizată de presa internațională, care anticipează că potențialele schimbări ale Congresului ar putea înăspri supravegherea polit…",
-    "content_ro": "Miza globală a alegerilor intermediare americane din 3 noiembrie este analizată de presa internațională, care anticipează că potențialele schimbări ale Congresului ar putea înăspri supravegherea politicii externe executive sau putea influența asistența militară acordată Ucrainei."
   }
 ]
