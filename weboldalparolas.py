@@ -8,6 +8,7 @@ import requests
 import feedparser
 import numpy as np
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 from sentence_transformers import SentenceTransformer
@@ -90,6 +91,28 @@ def get_model():
 # ==============================================================================
 # 2. SEGÉDFUNKCIÓK
 # ==============================================================================
+def parse_published_time(entry) -> int:
+    """
+    Megpróbálja pontosan kinyerni a cikk valódi publikációs idejét az RSS-ből.
+    Ha nem sikerül vagy nincs dátum, 0-t ad vissza, így a szűrő kidobja a régi/hiányos cikkeket.
+    """
+    pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
+    if pub_parsed:
+        try:
+            return int(calendar.timegm(pub_parsed))
+        except Exception:
+            pass
+
+    raw_date = entry.get('published') or entry.get('updated') or entry.get('pubDate')
+    if raw_date:
+        try:
+            dt = parsedate_to_datetime(raw_date)
+            return int(dt.timestamp())
+        except Exception:
+            pass
+
+    return 0
+
 def load_memory():
     if os.path.exists(MEMORY_FILE):
         try:
@@ -171,18 +194,14 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
     title = clean_text(entry.get('title', ''))
     link = entry.get('link', '').strip()
 
-    pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
+    pub_timestamp = parse_published_time(entry)
     current_now = int(time.time())
 
-    if pub_parsed:
-        pub_timestamp = int(calendar.timegm(pub_parsed))
-        # 🛑 JÖVŐBELI IDŐPONT VÉDELEM: Ha az RSS hibás időzónát ad, átállítjuk a jelenlegi időre
-        if pub_timestamp > current_now:
-            pub_timestamp = current_now
-    else:
+    # 🛑 JÖVŐBELI IDŐPONT VÉDELEM
+    if pub_timestamp > current_now:
         pub_timestamp = current_now
 
-    # 🛑 12 ÓRÁS SZŰRŐ
+    # 🛑 12 ÓRÁS SZŰRŐ (ha a dátum hiányzik, pub_timestamp = 0, így szintén kiesik)
     if pub_timestamp < cutoff_12h:
         return None
 
@@ -281,7 +300,7 @@ def run_pipeline():
 
     save_memory(memory)
 
-    # 💾 CSOPORTOSÍTOTT MEMÓRIA MENTÉSE (A 2 ÓRÁS AI SCRIPTNEK)
+    # 💾 CSOPORTOSÍTOTT MEMÓRIA MENTÉSE
     grouped_dictionary = {}
     for item in memory:
         g_id = item["group_id"]
@@ -321,7 +340,7 @@ def run_pipeline():
 
     for item in memory:
         g_id = item.get("group_id")
-        pub_time = int(item.get("fetched_at", time.time()))
+        pub_time = int(item.get("fetched_at", 0))
 
         if pub_time < cutoff_12h:
             continue
