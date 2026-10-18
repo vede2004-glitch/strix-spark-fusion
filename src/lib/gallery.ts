@@ -30,8 +30,11 @@ const hash = (s: string) => {
 };
 
 /** Kép a hírhez: ha van saját képe, azt adja vissza; különben a kategóriájának megfelelő galéria-képet. */
+// A szkript ilyen placeholder URL-t ír, ha nincs kép — ezt "nincs kép"-ként kezeljük.
+const isPlaceholder = (url: string) => /via\.placeholder\.com|placehold|Nincs\+Kep/i.test(url);
+
 export function newsImage(n: NewsItem): string | null {
-  if (n.image) return n.image;
+  if (n.image && !isPlaceholder(n.image)) return n.image;
   const folder = folderFor[n.category] ?? "altalanos";
   const pool = (byFolder[folder]?.length ? byFolder[folder] : byFolder["altalanos"]) ?? [];
   if (!pool.length) return null;
