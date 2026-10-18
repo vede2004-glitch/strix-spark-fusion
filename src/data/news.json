@@ -1,5 +1,791 @@
 [
   {
+    "group_id": "group_9a3abc45da",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "DOCUMENTAR: Dirijorul Horia Andreescu împlinește 80 de ani (18 octombrie)",
+        "link": "https://agerpres.ro/documentare/2026/10/18/documentar-dirijorul-horia-andreescu-implineste-80-de-ani-18-octombrie--1604143"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "DOCUMENTAR: Dirijorul Horia Andreescu împlinește 80 de ani (18 octombrie)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "DOCUMENTAR: Dirijorul Horia Andreescu împlinește 80 de ani (18 octombrie)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_dafcd64d95",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Vance dă vina pe imigrație pentru violențele din Franța",
+        "link": "https://agerpres.ro/politic-extern/2026/10/18/vance-da-vina-pe-imigratie-pentru-violentele-din-franta--1604157"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "Vance dă vina pe imigrație pentru violențele din Franța",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Vance dă vina pe imigrație pentru violențele din Franța",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_38a36b9b87",
+    "fingerprint": "a9b6f5ec4a2a3ad75f75872c1cee671b",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Incendiu de amploare la una dintre cele mai aglomerate baze militare din Canada. Ministrul Apărării anunță morți și răniți",
+        "link": "https://hotnews.ro/incendiu-de-amploare-la-una-dintre-cele-mai-aglomerate-baze-militare-din-canada-ministrul-apararii-anunta-morti-si-raniti-2378958"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Incendiu devastator la una dintre cele mai aglomerate baze militare din Canada. Mai multe persoane au fost ucise",
+        "link": "https://www.mediafax.ro/stirile-zilei/incendiu-devastator-la-una-dintre-cele-mai-aglomerate-baze-militare-din-canada-mai-multe-persoane-au-fost-ucise-23827424"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Incident major”, care a provocat un incendiu la o bază militară din provincia Alberta. Spitalele, copleșite de numărul răniților",
+        "link": "https://www.digi24.ro/stiri/externe/incident-major-care-a-provocat-un-incendiu-la-o-baza-militara-din-provincia-alberta-spitalele-coplesite-de-numarul-ranitilor-3997277"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alertă la o bază militară din Canada, după un incident major: „Există morți și răniți”. Forțele armate au fost mobilizate",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/alerta-la-o-baza-militara-din-canada-dupa-un-2564743.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Incendiu de amploare la o bază militară din Canada: mai multe persoane au murit, iar altele au fost rănite. Ce au transmis autoritățile",
+        "link": "https://stirileprotv.ro/stiri/international/incendiu-de-amploare-la-o-baza-militara-din-canada-mai-multe-persoane-au-murit-iar-altele-au-fost-ranite-ce-au-transmis-autoritatile.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Canada: Morți și răniți în urma unui 'incident' la o bază militară (guvern)",
+        "link": "https://agerpres.ro/politic-extern/2026/10/18/canada-morti-si-raniti-in-urma-unui-incident-la-o-baza-militara-guvern--1604152"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "Halálos áldozatokkal és sérültekkel járt a tűz a kanadai Wainwright katonai bázisán",
+    "lead_hu": "Nagy kiterjedésű tűz ütött ki a kanadai Alberta tartományban található Wainwright katonai bázison; David McGuinty védelmi miniszter halálos áldozatokról és sérültekről számolt be, de számukat és az eset okát nem közölte. A lángok a bázis kerítésén túlra is átterjedtek, evakuálási utasítást nem adtak ki. Egyes helyi forrásokra hivatkozó beszámolók robbanásról és annak lehetséges okáról is írtak, de ezt a hatóságok nem erősítették meg.",
+    "content_hu": "• **Szombaton** nagy kiterjedésű tűz ütött ki a kanadai Alberta tartomány keleti részén található Wainwright katonai bázison, mintegy 210 kilométerre Edmontontól délkeletre.\n\n• **David McGuinty védelmi miniszter** megerősítette, hogy az esetnek halálos áldozatai és sérültjei is vannak; számukat és a tűz kiváltó okát nem közölte. A helyzetet érzékenynek és folyamatosan változónak nevezte, és azt mondta, nem emlékszik hasonlóan súlyos esetre az utóbbi évekből.\n\n• **A tűz keletkezéséről szóló, meg nem erősített értesülések szerint** egy lőszer lövedéke egy aktív földgázkút közelében csapódhatott be, majd a robbanás további tüzeket és detonációkat okozhatott. Ezt a hatóságok nem erősítették meg; a hivatalos közlések szerint az eset okát vizsgálják.\n\n• **A kanadai hadsereg és a királyi kanadai lovasrendőrség (RCMP)** a helyi és tartományi hatóságokkal együttműködve vizsgálja az eset körülményeit. A tűzoltók a beszámolók szerint még küzdöttek a lángokkal.\n\n• **Az erős szél** miatt a lángok gyorsan terjedtek, és a bázis kerítésén túli területeket is elérték. A helyi hatóságok nem adtak ki evakuálási utasítást.\n\n• **A helyi egészségügyi ellátásra** nagy nyomás nehezedett: egy, a CBC-nek nyilatkozó orvos szerint a wainwrighti egészségügyi egységek teljesen túlterheltek voltak. A sürgősségi egészségügyi szolgálatok a helyszínen dolgoztak, a STARS légi mentőszolgálat pedig két orvosi helikoptert küldött a térségbe, Saskatoonból és Edmontonból.\n\n• **Jennie Carignan vezérkari főnök** közölte, hogy a kanadai fegyveres erők együttműködnek a szövetségi, tartományi és helyi hatóságokkal; a hadsereg elsődleges feladatának a katonák, családjaik és a közösség biztonságát nevezte.\n\n• **Mark Carney kanadai miniszterelnök** súlyos incidensnek nevezte a történteket, és közölte, hogy a szövetségi kormány együttműködik Alberta tartománnyal és a helyi hatóságokkal. Danielle Smith tartományi miniszterelnök szintén súlyosnak és tragikusnak nevezte az esetet.\n\n• **A bázison szolgálók és dolgozók száma** a 2021-es népszámlálási adatok szerint 1310 volt; a CBC egy átlagos napon mintegy 690 katonáról és 300 civil alkalmazottról számolt be. Wainwright településének körülbelül 6600 lakosa van, és közvetlenül a katonai létesítmény mellett fekszik.\n\n• **A Wainwright bázis** Kanada egyik legforgalmasabb katonai kiképzőhelye, és a CBC szerint az éles lőszerrel végzett lőgyakorlatok egyik fő helyszíne. A Digi24 helyi forrásokra hivatkozva arról is írt, hogy 2014-ben mintegy 180 földgázkutat tartottak nyilván a katonai területen; ezt az értesülést a tűzeset okára vonatkozó beszámolókkal együtt hivatalosan nem erősítették meg.\n\n• **Október 17-én** a NASA FIRMS műholdas rendszere több hőpontot észlelt a Peterson- és a Jamieson-tó közötti térségben – írta a Digi24; a beszámoló nem közölte, hogy ezek az észlelések összefüggtek-e a bázison keletkezett tűzzel.",
+    "title_ro": "Incendiul de la baza militară Wainwright din Canada s-a soldat cu morți și răniți",
+    "lead_ro": "Un incendiu de amploare a izbucnit la baza militară Wainwright din provincia canadiană Alberta; ministrul Apărării, David McGuinty, a confirmat că există morți și răniți, fără să precizeze numărul victimelor sau cauza incidentului. Flăcările au depășit perimetrul bazei, însă nu au fost emise ordine de evacuare. Unele relatări bazate pe surse locale au menționat o explozie și o posibilă cauză, dar autoritățile nu au confirmat aceste informații.",
+    "content_ro": "• **Sâmbătă** a izbucnit un incendiu de amploare la baza militară Wainwright, din estul provinciei canadiene Alberta, la aproximativ 210 kilometri sud-est de Edmonton.\n\n• **Ministrul Apărării, David McGuinty,** a confirmat că incidentul s-a soldat cu morți și răniți, fără să precizeze numărul victimelor sau cauza incendiului. El a descris situația drept delicată și în continuă evoluție și a spus că nu își amintește un incident la fel de grav în ultimii ani.\n\n• **Potrivit unor informații neconfirmate despre cauza incendiului,** un proiectil ar fi lovit în apropierea unui puț activ de gaze naturale, iar explozia ar fi provocat ulterior incendii și detonări. Autoritățile nu au confirmat această versiune și au anunțat că investighează circumstanțele incidentului.\n\n• **Forțele Armate Canadiene și Poliția Regală Canadiană Călare (RCMP)** investighează incidentul împreună cu autoritățile locale și provinciale. Potrivit relatărilor, pompierii încă luptau cu flăcările.\n\n• **Vânturile puternice** au făcut ca flăcările să se răspândească rapid și să depășească gardul perimetral al bazei. Autoritățile locale nu au emis ordine de evacuare.\n\n• **Serviciile medicale locale** au fost supuse unei presiuni mari: un medic citat de CBC a spus că unitățile medicale din Wainwright erau complet copleșite. Echipajele medicale de urgență au intervenit la fața locului, iar serviciul de ambulanță aeriană STARS a trimis două elicoptere medicale, de la Saskatoon și Edmonton.\n\n• **Șefa Statului Major al Apărării, Jennie Carignan,** a declarat că forțele armate canadiene colaborează cu autoritățile federale, provinciale și locale. Ea a spus că prioritatea este siguranța militarilor, a familiilor acestora și a comunității.\n\n• **Premierul Canadei, Mark Carney,** a descris incidentul drept grav și a afirmat că guvernul federal colaborează cu provincia Alberta și cu autoritățile locale. Premierul provinciei, Danielle Smith, a calificat la rândul său situația drept gravă și tragică.\n\n• **Numărul persoanelor repartizate la bază** era de 1.310 militari și angajați civili, potrivit recensământului din 2021; CBC a relatat că, într-o zi obișnuită, la bază se află aproximativ 690 de militari și 300 de angajați civili. Orașul Wainwright are circa 6.600 de locuitori și se află imediat lângă baza militară.\n\n• **Baza Wainwright** este una dintre cele mai aglomerate baze de instruire militară din Canada și, potrivit CBC, un loc important pentru exercițiile de tragere cu muniție reală. Digi24 a relatat, citând surse locale, că în 2014 pe proprietatea militară erau înregistrate aproximativ 180 de sonde de gaze naturale; această informație și relatările despre cauza incendiului nu au fost confirmate oficial.\n\n• **Pe 17 octombrie,** sistemul satelitar NASA FIRMS a înregistrat mai multe puncte fierbinți între lacurile Peterson și Jamieson, a relatat Digi24; articolul nu a precizat dacă aceste observații aveau legătură cu incendiul de la bază."
+  },
+  {
+    "group_id": "group_7b8a114c9b",
+    "fingerprint": "a97e502fbc362fd26dfca197b3edc550",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwODQwN18zMDA4/NDA3X0FkdWNlcmVhLW1vYXN0ZWxvci1T/ZmFudHVsdWktQXBvc3RvbC1BbmRyZWkt/bGEtSWFzaV8tU3Vyc2EtRm90by1HZXR0/eS1JbWFnZXMuanBnJmhhc2g9YWM4ZGIz/ZDNjMDgxOGUzOGJjODk1Yzc4Njc3OWE4MTY=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Sfântul Dimitrie cel Nou 2026. Programul pelerinajului și al procesiunilor din București",
+        "link": "https://stirileprotv.ro/divers/sfantul-dimitrie-cel-nou-2026-programul-pelerinajului-si-al-procesiunilor-din-bucuresti.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Când începe pelerinajul de Sfântul Dimitrie 2026. Ce moaște vor fi aduse în București și care este programul",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cand-incepe-pelerinajul-de-sfantul-dimitrie-2026-ce-moaste-vor-fi-aduse-in-bucuresti-si-care-este-programul-3995493"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Pelerinajul prilejuit de sărbătoarea Sfântului Cuvios Dimitrie cel Nou, Ocrotitorul Bucureștilor, începe duminică",
+        "link": "https://agerpres.ro/culte/2026/10/18/pelerinajul-prilejuit-de-sarbatoarea-sfantului-cuvios-dimitrie-cel-nou-ocrotitorul-bucurestilor-ince--1604150"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "Október 18–28. között tartják a bukaresti Szent Dimitrie-zarándoklatot",
+    "lead_hu": "A bukaresti pátriárkai székesegyháznál 2026. október 18–28. között rendezik meg a Szent Dimitrie cel Nou ünnepéhez kapcsolódó zarándoklatot. Október 24-én tartják a hagyományos „Szentek útja” körmenetet, az ünnepi liturgiát pedig október 27-re tervezik. A körmenethez a Pasăreai Szent Erzsébet ereklyéi is csatlakoznak.",
+    "content_hu": "• **2026. október 18–28.** között tartják Bukarestben a Szent Dimitrie cel Nou, a főváros védőszentje ünnepéhez kapcsolódó zarándoklatot a pátriárkai székesegyháznál.\n\n• **Október 18–23. között** naponta 7 és 21 óra között lehet hódolni az ereklyék előtt a történelmi pátriárkai székesegyházban. A tornácon festmény-restaurálási munkálatok zajlanak; a templomban többek között Szent Dimitrie cel Nou, Szent Dimitrie, Konstantin és Ilona, valamint Szent Nektáriosz ereklyéit helyezik el.\n\n• **A kisgyermekes családoknak** a szervezők az október 18–23. közötti napokat ajánlják, mert ekkor várhatóan kisebb lesz a tömeg.\n\n• **Október 24-én, délben** rendezik meg a „Szentek útja” körmenetet. Az egyik oszlop a pátriárkai székesegyháztól indul a Patriarhiei utcán és a Regina Maria sugárúton át, a másik a Sfântul Spiridon Nou metropolitai székesegyháztól a Bibescu Vodă utcán halad; a menetek az Egyesülés tér környékén találkoznak, majd együtt vonulnak fel a pátriárkai székesegyházhoz.\n\n• **A körmenetben a Pasăreai Szent Erzsébet ereklyéi is részt vesznek**, a Szent Dimitrie cel Nou, Szent Dimitrie, Szent Nektáriosz, valamint Konstantin és Ilona ereklyéi mellett.\n\n• **Október 24-én 12:45-kor** Daniel pátriárka fogadja az ereklyéket a székesegyház nyári oltáránál, majd azokat a Pátriárka-dombon található szentek baldachinja alatt helyezik el tiszteletadásra.\n\n• **Október 27-én** tartják Szent Dimitrie cel Nou ünnepét; a főpapi liturgiát Daniel pátriárka vezeti püspökök, papok és diakónusok részvételével.",
+    "title_ro": "Pelerinajul Sfântului Dimitrie cel Nou, organizat la București între 18 și 28 octombrie",
+    "lead_ro": "Pelerinajul dedicat Sfântului Cuvios Dimitrie cel Nou va avea loc la Catedrala Patriarhală din București în perioada 18–28 octombrie 2026. Procesiunea tradițională „Calea Sfinților” este programată pe 24 octombrie, iar Liturghia arhierească, pe 27 octombrie. Procesiunii i se vor alătura și moaștele Sfintei Cuvioase Elisabeta de la Pasărea.",
+    "content_ro": "• **18–28 octombrie 2026** este perioada în care se desfășoară la București pelerinajul dedicat Sfântului Cuvios Dimitrie cel Nou, Ocrotitorul Capitalei, la Catedrala Patriarhală.\n\n• **În perioada 18–23 octombrie**, credincioșii se pot închina zilnic, între orele 07:00 și 21:00, în interiorul Catedralei Patriarhale istorice. În pridvor au loc lucrări de restaurare a picturii; în catedrală vor fi expuse moaștele Sfântului Cuvios Dimitrie cel Nou, ale Sfântului Mare Mucenic Dimitrie, ale Sfinților Împărați Constantin și Elena și ale Sfântului Ierarh Nectarie.\n\n• **Familiilor cu copii mici** le sunt recomandate zilele de 18–23 octombrie, când numărul pelerinilor este așteptat să fie mai redus.\n\n• **Sâmbătă, 24 octombrie, de la ora 12:00**, va avea loc procesiunea „Calea Sfinților”. Prima coloană va porni de la Catedrala Patriarhală, pe strada Patriarhiei și bulevardul Regina Maria, iar a doua de la Catedrala Mitropolitană „Sfântul Spiridon” – Nou, pe strada Bibescu Vodă. Coloanele se vor întâlni în zona Pieței Unirii și vor urca împreună spre Catedrala Patriarhală.\n\n• **Moaștele Sfintei Cuvioase Elisabeta de la Pasărea** vor participa la procesiune, alături de moaștele Sfântului Cuvios Dimitrie cel Nou, ale Sfântului Mare Mucenic Dimitrie, ale Sfântului Ierarh Nectarie și ale Sfinților Împărați Constantin și Elena.\n\n• **La ora 12:45, pe 24 octombrie**, Patriarhul Daniel va întâmpina raclele cu sfintele moaște la Altarul de Vară al Catedralei Patriarhale. Ulterior, acestea vor fi așezate spre închinare în Baldachinul Sfinților de pe Colina Patriarhiei.\n\n• **Pe 27 octombrie** este sărbătorit Sfântul Cuvios Dimitrie cel Nou. Liturghia arhierească va fi oficiată de Patriarhul Daniel, alături de ierarhi, preoți și diaconi."
+  },
+  {
+    "group_id": "group_a2e9cd2af6",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Washingtonul relativizează exceptarea de la sancțiuni a Moscovei",
+        "link": "https://agerpres.ro/politic-extern/2026/10/18/washingtonul-relativizeaza-exceptarea-de-la-sanctiuni-a-moscovei--1604154"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "Washingtonul relativizează exceptarea de la sancțiuni a Moscovei",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Washingtonul relativizează exceptarea de la sancțiuni a Moscovei",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_afb401f667",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Prahova: O turistă din Israel, rănită în zona Vârfului Omu",
+        "link": "https://agerpres.ro/social/2026/10/18/prahova-o-turista-din-israel-ranita-in-zona-varfului-omu--1604153"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "Prahova: O turistă din Israel, rănită în zona Vârfului Omu",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Prahova: O turistă din Israel, rănită în zona Vârfului Omu",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_b2e697ca64",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "SÃRBÃTORI RELIGIOASE - 18 octombrie",
+        "link": "https://agerpres.ro/documentare/2026/10/18/s-rb-tori-religioase---18-octombrie--1604148"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "SÃRBÃTORI RELIGIOASE - 18 octombrie",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "SÃRBÃTORI RELIGIOASE - 18 octombrie",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_92b8c44e17",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "EFEMERIDE ASTRONOMICE - 18 octombrie",
+        "link": "https://agerpres.ro/documentare/2026/10/18/efemeride-astronomice---18-octombrie--1604147"
+      }
+    ],
+    "published_at": 1792307828,
+    "title_hu": "EFEMERIDE ASTRONOMICE - 18 octombrie",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "EFEMERIDE ASTRONOMICE - 18 octombrie",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_1f6c6abbdb",
+    "category": "Erdély",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Criză în Justiție: Avocații din oficiu din Bihor nu și-au mai primit banii de 4 luni. „Se poate ajunge la protest la nivel național”",
+        "link": "https://www.ebihoreanul.ro/stiri/criza-in-justitie-avocatii-din-oficiu-din-bihor-nu-si-au-mai-primit-banii-de-4-luni-se-poate-ajunge-la-protest-la-nivel-national-205895.html"
+      }
+    ],
+    "published_at": 1792307824,
+    "title_hu": "Criză în Justiție: Avocații din oficiu din Bihor nu și-au mai primit banii de 4 luni. „Se poate ajunge la protest la nivel național”",
+    "lead_hu": "Parchetele din Bihor au acumulat datorii de aproximativ 200.000 de lei către avocații din oficiu, care își așteaptă onorariile încă din luna iunie. Situația este și mai gravă în alte județe, unde rest…",
+    "content_hu": "Parchetele din Bihor au acumulat datorii de aproximativ 200.000 de lei către avocații din oficiu, care își așteaptă onorariile încă din luna iunie. Situația este și mai gravă în alte județe, unde restanțele ajung chiar și la un milion de lei. Decanul Baroului Bihor, Adrian Stancu, avertizează că, dacă autoritățile nu deblochează plățile, nemulțumirile ar putea culmina cu proteste la nivel național.",
+    "title_ro": "Criză în Justiție: Avocații din oficiu din Bihor nu și-au mai primit banii de 4 luni. „Se poate ajunge la protest la nivel național”",
+    "lead_ro": "Parchetele din Bihor au acumulat datorii de aproximativ 200.000 de lei către avocații din oficiu, care își așteaptă onorariile încă din luna iunie. Situația este și mai gravă în alte județe, unde rest…",
+    "content_ro": "Parchetele din Bihor au acumulat datorii de aproximativ 200.000 de lei către avocații din oficiu, care își așteaptă onorariile încă din luna iunie. Situația este și mai gravă în alte județe, unde restanțele ajung chiar și la un milion de lei. Decanul Baroului Bihor, Adrian Stancu, avertizează că, dacă autoritățile nu deblochează plățile, nemulțumirile ar putea culmina cu proteste la nivel național."
+  },
+  {
+    "group_id": "group_7fae392cfc",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/marcel-1200x686.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Sfătuit de toată lumea să divorțeze de Armina, Marcel a luat decizia și a făcut marele anunț în urmă cu câteva ore",
+        "link": "https://www.cancan.ro/sfatuit-de-toata-lumea-sa-divorteze-de-armina-marcel-a-luat-decizia-si-a-facut-marele-anunt-in-urma-cu-cateva-ore-21531932"
+      }
+    ],
+    "published_at": 1792307622,
+    "title_hu": "Sfătuit de toată lumea să divorțeze de Armina, Marcel a luat decizia și a făcut marele anunț în urmă cu câteva ore",
+    "lead_hu": "Armina și Marcel au încheiat testul de la Insula Iubirii mai devreme decât sperau. Comportamentul partenerei lui „Maluma de România” i-a făcut pe mulți să îl sfătuiască să divorțeze, însă la câteva să…",
+    "content_hu": "Armina și Marcel au încheiat testul de la Insula Iubirii mai devreme decât sperau. Comportamentul partenerei lui „Maluma de România” i-a făcut pe mulți să îl sfătuiască să divorțeze, însă la câteva săptămâni distanță, fostul concurent a făcut marele anunț. Armina nu a reușit să se acomodeze în vila fetelor. Dorul de partenerul ei era […]",
+    "title_ro": "Sfătuit de toată lumea să divorțeze de Armina, Marcel a luat decizia și a făcut marele anunț în urmă cu câteva ore",
+    "lead_ro": "Armina și Marcel au încheiat testul de la Insula Iubirii mai devreme decât sperau. Comportamentul partenerei lui „Maluma de România” i-a făcut pe mulți să îl sfătuiască să divorțeze, însă la câteva să…",
+    "content_ro": "Armina și Marcel au încheiat testul de la Insula Iubirii mai devreme decât sperau. Comportamentul partenerei lui „Maluma de România” i-a făcut pe mulți să îl sfătuiască să divorțeze, însă la câteva săptămâni distanță, fostul concurent a făcut marele anunț. Armina nu a reușit să se acomodeze în vila fetelor. Dorul de partenerul ei era […]"
+  },
+  {
+    "group_id": "group_b10f40d724",
+    "fingerprint": "3c5a57bb896f8860a90e5b1edcea7213",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10386/23261343/1/george-iacobescu.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Românul George Iacobescu, omul din spatele dezvoltării Canary Wharf, pregăteşte un nou zgârie-nori de 70 de etaje la Londra, cu o înălţime de 300 de metri. CIne este George Iacobescu, primul român înnobilat de Regina Elisabeta a II-a",
+        "link": "https://www.zf.ro/eveniment/romanul-george-iacobescu-omul-spatele-dezvoltarii-canary-wharf-pregateste-zgarie-nori-70-etaje-londra-inaltime-300-metri-george-iacobescu-primul-roman-innobilat-regina-elisabeta-ii-23261343"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un nou mamut de sticlă în Londra: George Iacobescu, ”tatăl” cartierului Canary Wharf, coordonează planurile pentru un zgârie-nori de 70 de etaje în City",
+        "link": "https://www.g4media.ro/un-nou-mamut-de-sticla-in-londra-george-iacobescu-tatal-cartierului-canary-wharf-coordoneaza-planurile-pentru-un-zgarie-nori-de-70-de-etaje-in-city.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "Românul George Iacobescu, „tatăl” cartierului Canary Wharf, planifică un nou mamut de sticlă în Londra / Un zgârie-nori de 70 de etaje va fi ridicat în City",
+        "link": "https://economedia.ro/romanul-george-iacobescu-tatal-cartierului-canary-wharf-planifica-un-nou-mamut-de-sticla-in-londra-un-zgarie-nori-de-70-de-etaje-va-fi-ridicat-in-city.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Românul care a schimbat fața Londrei pregătește un turn de 70 de etaje. Povestea inginerului care a primit titlul de cavaler de la Regina Elisabeta",
+        "link": "https://adevarul.ro/stiri-interne/societate/romanul-care-a-schimbat-fata-londrei-pregateste-un-2564754.html"
+      }
+    ],
+    "published_at": 1792307515,
+    "title_hu": "George Iacobescu egy 70 emeletes londoni toronyház terveit koordinálja",
+    "lead_hu": "George Iacobescu, a Canary Wharf fejlesztésének meghatározó alakja egy új, 300 méter magas irodatorony tervein dolgozik London pénzügyi negyedében. A beruházás még nem kapta meg az engedélyeket; az AmTrust Financial Services a tervek szerint 2033-ra fejezné be az építkezést.",
+    "content_hu": "• **A tervezett torony** 70 emeletes és 300 méter magas lenne a City of London pénzügyi negyedében, a Gherkin közelében. Az AmTrust Financial Services a jelenlegi Exchequer Court épület helyére emelné az irodaházat.\n\n• **George Iacobescu** koordinálja a terveket. A román származású üzletember korábban a Canary Wharf fejlesztésének meghatározó szereplője volt, és két éve távozott a Canary Wharf Group elnöki posztjáról.\n\n• **A projekt még engedélyezés előtt áll.** A terveket nyilvános konzultációra bocsátják, majd a visszajelzések figyelembevételével a jövő év elején nyújthatják be a hivatalos építési kérelmet a City of London hatóságaihoz.\n\n• **Az AmTrust 2033-ra tervezi a befejezést**, amennyiben a beruházás megkapja a szükséges jóváhagyásokat. A vállalat hosszú távú londoni befektetésként tekint a projektre.\n\n• **A prémium irodák kínálata szűkülhet a Cityben.** A Knight Frank előrejelzése szerint 2028-ra elfogyhatnak a legmagasabb kategóriájú, kiadó irodaterületek; a fejlesztők korábbi projektjeit a Brexit és a Covid–19-járvány körüli bizonytalanságok is hátráltatták.\n\n• **A magas kamatok és építési költségek kockázatossá teszik a beruházást**, miközben a londoni városvezetés 2040-ig legalább 1,2 millió négyzetméternyi új irodaterület létrehozását tervezi. A toronyépítések emellett örökségvédelmi vitákat is kiválthatnak.",
+    "title_ro": "George Iacobescu coordonează planurile unui turn de 70 de etaje la Londra",
+    "lead_ro": "George Iacobescu, una dintre figurile centrale ale dezvoltării Canary Wharf, lucrează la planurile unui nou turn de birouri de 300 de metri în districtul financiar al Londrei. Proiectul nu a primit încă autorizațiile necesare, iar AmTrust Financial Services estimează că lucrările ar putea fi încheiate în 2033.",
+    "content_ro": "• **Turnul propus** ar avea 70 de etaje și 300 de metri înălțime, în City of London, în apropierea clădirii Gherkin. AmTrust Financial Services intenționează să ridice clădirea de birouri pe amplasamentul actualului Exchequer Court.\n\n• **George Iacobescu** coordonează planurile. Omul de afaceri de origine română a fost o figură centrală în dezvoltarea cartierului Canary Wharf și s-a retras din funcția de președinte al Canary Wharf Group în urmă cu doi ani.\n\n• **Proiectul nu a fost încă autorizat.** Planurile vor intra în consultare publică, iar cererea oficială de urbanism ar urma să fie depusă la începutul anului viitor, după luarea în considerare a observațiilor primite.\n\n• **AmTrust estimează că lucrările s-ar putea încheia în 2033**, dacă proiectul va primi aprobările necesare. Compania prezintă turnul drept o investiție pe termen lung în Londra.\n\n• **Oferta de birouri premium din City s-ar putea epuiza.** Potrivit unei prognoze Knight Frank, până în 2028 nu ar mai putea exista spații de birouri de cea mai înaltă calitate disponibile pentru închiriere; incertitudinile legate de Brexit și pandemia de Covid-19 au contribuit la amânarea unor proiecte.\n\n• **Dobânzile ridicate și costurile de construcție sporesc riscurile investiției**, în timp ce planul urbanistic al Londrei prevede cel puțin 1,2 milioane de metri pătrați de birouri suplimentare până în 2040. Turnurile noi pot genera, de asemenea, controverse privind protejarea patrimoniului istoric."
+  },
+  {
+    "group_id": "group_fe9c3bce6d",
+    "fingerprint": "ace820273438327ba0926f170ae1557d",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-3/394a4fbe-8069-41fb-9dbf-46d13cc31086/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Jobul neobișnuit plătit cu 2.500 de euro pe lună. Ce trebuie să faci timp de șase luni printre pinguini, la capătul lumii",
+        "link": "https://adevarul.ro/stiri-externe/europa/jobul-neobisnuit-platit-cu-2500-de-euro-pe-luna-2564215.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O companie britanică oferă un salariu de 2.500 de euro pe lună pentru numărarea pinguinilor în Antarctica. Cum poți obține jobul",
+        "link": "https://stirileprotv.ro/stiri/international/o-companie-britanica-ofera-un-salariu-de-2-500-de-euro-pe-luna-pentru-numararea-pinguinilor-in-antarctica-cum-poti-obtine-jobul.html"
+      }
+    ],
+    "published_at": 1792307293,
+    "title_hu": "Havi 1700–2500 euróért toboroznak munkatársakat az antarktiszi Port Lockroy bázisára",
+    "lead_hu": "A brit UK Antarctic Heritage Trust hat hónapos munkára keres csapattagokat az antarktiszi Port Lockroy történelmi bázisára. A feladatok közé tartozik a turisták fogadása, a létesítmények fenntartása és a gentoo pingvinek kolóniájának megfigyelése; a havi fizetés 1700 és 2500 euró között mozog.",
+    "content_hu": "• **A brit UK Antarctic Heritage Trust** hat hónapos szezonra toboroz munkatársakat a Goudier-szigeten található Port Lockroy bázisára. A fizetés havi 1700–2500 euró, a szervezet pedig szállást, élelmet és a szélsőséges időjáráshoz szükséges felszerelést biztosít.\n\n• **A Port Lockroy bázist 1944-ben** hozták létre brit katonai támaszpontként, majd 1962-ben elhagyták. Később helyreállították és történelmi emlékhelyként védetté nyilvánították; ma múzeum, ajándékbolt és postahivatal működik benne.\n\n• **A munkatársak feladatai** közé tartozik a látogatók fogadása és tájékoztatása, az épületek karbantartása, az ajándékbolt működtetése, valamint a levelek és képeslapok kezelése. A csapat egy szezon alatt több mint 80 ezer küldeményt dolgoz fel.\n\n• **A gentoo pingvinek megfigyelése** a munka fontos része: a csapattagok felmérik a kolóniát, majd később megszámolják a fiókákat és követik fejlődésüket. A megfigyeléseket úgy végzik, hogy a lehető legkevésbé zavarják az állatokat.\n\n• **A körülmények szélsőségesek és a komfort korlátozott:** a munkavállalóknak hidegre, elszigeteltségre és fizikai munkára kell felkészülniük. A bázison nincs vezetékes víz, a zuhanyozás általában hetente egyszer lehetséges, de az időjárás ezt is befolyásolhatja.",
+    "title_ro": "Port Lockroy angajează personal pentru șase luni, cu salarii de până la 2.500 de euro pe lună",
+    "lead_ro": "Organizația britanică UK Antarctic Heritage Trust recrutează angajați pentru o perioadă de șase luni la baza istorică Port Lockroy din Antarctica. Sarcinile includ primirea turiștilor, întreținerea obiectivului și monitorizarea coloniei de pinguini Gentoo, iar salariul lunar este cuprins între 1.700 și 2.500 de euro.",
+    "content_ro": "• **Organizația britanică UK Antarctic Heritage Trust** recrutează personal pentru un sezon de șase luni la baza Port Lockroy, situată pe insula Goudier. Salariul este între 1.700 și 2.500 de euro pe lună, iar organizația asigură cazare, hrană și echipamentul necesar pentru vremea extremă.\n\n• **Baza Port Lockroy a fost înființată în 1944** ca post militar britanic și abandonată în 1962. A fost restaurată ulterior și protejată ca obiectiv istoric; în prezent găzduiește un muzeu, un magazin de suveniruri și un oficiu poștal.\n\n• **Printre responsabilitățile angajaților** se numără primirea și informarea turiștilor, întreținerea clădirilor, administrarea magazinului și procesarea corespondenței. Într-un sezon, echipa gestionează peste 80.000 de cărți poștale și scrisori.\n\n• **Monitorizarea pinguinilor Gentoo** este una dintre activitățile importante: angajații recenzează colonia, apoi numără puii și le urmăresc dezvoltarea. Observațiile sunt făcute astfel încât animalele să fie deranjate cât mai puțin.\n\n• **Condițiile de trai sunt dificile și confortul este limitat:** angajații trebuie să se pregătească pentru frig, izolare și muncă fizică. Baza nu are apă curentă, iar dușurile sunt de regulă limitate la unul pe săptămână, în funcție și de condițiile meteorologice."
+  },
+  {
+    "group_id": "group_64fd8f1d47",
+    "fingerprint": "b5f1473b5b8a1890556843991ba31c5a",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/8134465-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Marco Rubio neagă că SUA ar fi ordonat încetinirea serviciului Starlink din Ucraina. „Nimeni de la Casa Albă nu a ordonat nimănui să încetinească internetul”",
+        "link": "https://www.mediafax.ro/stirile-zilei/marco-rubio-neaga-ca-sua-ar-fi-ordonat-incetinirea-serviciului-starlink-din-ucraina-nimeni-de-la-casa-alba-nu-a-ordonat-nimanui-sa-incetineasca-internetul-23827412"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Marco Rubio respinge acuzațiile Kievului privind întreruperile Starlink: „Nimeni de la Casa Albă nu a ordonat asta”",
+        "link": "https://hotnews.ro/marco-rubio-respinge-acuzatiile-kievului-privind-problemele-starlink-nimeni-de-la-casa-alba-nu-a-ordonat-asta-2378992"
+      },
+      {
+        "source": "Digi24",
+        "title": "Marco Rubio susține că nimeni de la Casa Albă nu a ordonat să reducă viteza Starlink în Ucraina: „Pur și simplu s-a întâmplat”",
+        "link": "https://www.digi24.ro/stiri/externe/marco-rubio-sustine-ca-nimeni-de-la-casa-alba-nu-a-ordonat-sa-reduca-viteza-starlink-in-ucraina-pur-si-simplu-s-a-intamplat-3997331"
+      }
+    ],
+    "published_at": 1792307293,
+    "title_hu": "Rubio tagadja, hogy a Fehér Ház rendelte volna el a Starlink lassítását Ukrajnában",
+    "lead_hu": "Marco Rubio amerikai külügyminiszter tagadta, hogy az Egyesült Államok vagy a Fehér Ház elrendelte volna az ukrajnai Starlink lassítását. Kijev szerint a korlátozás szándékos volt: a katonai terminálok nagyobb sebességnél lekapcsolódtak, ami drónműveleteket és több küldetést is érintett. Rubio a szolgáltatás helyreállásáról beszélt, Zelenszkij viszont azt mondta, a javulás nem teljes.",
+    "content_hu": "• **Marco Rubio tagadása:** az amerikai külügyminiszter szerint sem a Fehér Ház, sem az Egyesült Államok nem rendelte el a Starlink internetkapcsolatának lassítását vagy a sebesség csökkentését azért, hogy bizonyos drónok ne használhassák a hálózatot. Rubio azt is mondta, nem tudja, mire alapozza Kijev a feltételezését, és kétségbe vonta, hogy Zelenszkij pontosan tudja, miről beszél.\n\n• **Ukrajna szándékos korlátozásról beszél:** Volodimir Zelenszkij szerint a korlátozások egy tervezett művelet részei voltak. Serhii „Flash” Beskrestnov elnöki tanácsadó közölte, hogy sebességkorlátozást vezettek be a mozgó Starlink-terminálokra; az ukrán hadsereget előzetesen nem figyelmeztették, és több küldetés is kudarcot vallott.\n\n• **A terminálok sebességkorlátja:** Zelenszkij szerint az ukrán katonai használatú terminálok 161 km/óránál nagyobb sebességnél lekapcsolódtak a hálózatról, ami a drónműveleteket is hátráltatta. Ukrajnai járművekkel végzett tesztek során az eszközök az EU-ban 180 km/óránál nagyobb sebességnél is működtek; Zelenszkij ezt annak jeleként értékelte, hogy a korlátozás Ukrajna területére vonatkozott.\n\n• **A szolgáltatás állapota:** Rubio úgy nyilatkozott, hogy tudomása szerint a Starlink működése helyreállt, Zelenszkij viszont azt mondta, a műholdas kommunikáció javult, de még nem állt teljesen helyre. Az ukrán elnök szerint a fennakadás civilek életét is veszélyeztette.\n\n• **Trump is tagadta a korlátozás elrendelését:** Donald Trump amerikai elnök pénteken cáfolta azokat a híreket, amelyek szerint a Fehér Ház a héten korlátozásokat rendelt volna el az ukrán fegyveres erők Starlink-szolgáltatásán.\n\n• **Starlink és Starshield:** Rubio a Starlinket kereskedelmi szolgáltatásként, a Starshieldet pedig az amerikai hadsereg által használt védelmi, katonai rendszerként különítette el. Közlése szerint Ukrajna jelenleg nem fér hozzá a Starshieldhez; azt is mondta, hogy Kijev a rendszerhez való hozzáférést az orosz területek mélyére irányuló csapásokhoz kérte.\n\n• **A Starlink szerepe Ukrajnában:** Elon Musk a 2022-es teljes körű orosz invázió után röviddel aktiválta a szolgáltatást Ukrajnában. A műholdas kapcsolat a harctéri kommunikáció és a drónok irányításának fontos eszközévé vált.",
+    "title_ro": "Rubio neagă că Casa Albă ar fi ordonat încetinirea Starlink în Ucraina",
+    "lead_ro": "Secretarul de stat american Marco Rubio a negat că Statele Unite sau Casa Albă ar fi ordonat încetinirea serviciului Starlink în Ucraina. Kievul susține că restricția a fost deliberată: terminalele militare se deconectau la viteze mai mari, afectând operațiunile cu drone și mai multe misiuni. Rubio a spus că serviciul a fost restabilit, însă Zelenski a afirmat că îmbunătățirea nu este completă.",
+    "content_ro": "• **Negarea lui Marco Rubio:** Secretarul de stat american a declarat că nici Casa Albă, nici Statele Unite nu au ordonat încetinirea internetului Starlink sau reducerea vitezei pentru a împiedica anumite drone să folosească rețeaua. Rubio a spus că nu știe pe ce își bazează Kievul ipoteza și a pus la îndoială dacă Zelenski știe exact despre ce vorbește.\n\n• **Ucraina vorbește despre o restricție deliberată:** Volodimir Zelenski a afirmat că restricțiile au făcut parte dintr-o operațiune planificată. Serhii „Flash” Beskrestnov, consilier prezidențial, a spus că a fost introdusă o limită de viteză pentru terminalele Starlink aflate în mișcare; armata ucraineană nu a fost avertizată în prealabil, iar mai multe misiuni au eșuat.\n\n• **Limita de viteză a terminalelor:** Potrivit lui Zelenski, terminalele folosite de armata ucraineană se deconectau de la rețea la viteze de peste 161 km/h, afectând și operațiunile cu drone. În teste efectuate cu vehicule ucrainene în UE, dispozitivele au funcționat și la viteze de peste 180 km/h; Zelenski a interpretat acest lucru ca pe un indiciu că restricțiile se aplicau pe teritoriul Ucrainei.\n\n• **Starea serviciului:** Rubio a spus că, din câte știe, funcționarea Starlink a fost restabilită, în timp ce Zelenski a afirmat că serviciile de comunicații prin satelit s-au îmbunătățit, dar nu au revenit complet la normal. Potrivit președintelui ucrainean, întreruperile au pus în pericol și vieți civile.\n\n• **Trump a negat, de asemenea, că ar fi ordonat restricțiile:** Președintele american Donald Trump a respins vineri informațiile potrivit cărora Casa Albă ar fi dispus în această săptămână restricții asupra serviciului Starlink furnizat forțelor armate ucrainene.\n\n• **Starlink și Starshield:** Rubio a făcut distincția între Starlink, un serviciu comercial, și Starshield, un sistem militar de apărare folosit de armata americană. Potrivit lui, Ucraina nu are în prezent acces la Starshield; el a mai spus că Kievul a solicitat acces la sistem pentru lovituri în adâncimea teritoriului rus.\n\n• **Rolul Starlink în Ucraina:** Elon Musk a activat serviciul în Ucraina la scurt timp după invazia rusă pe scară largă din 2022. Conectivitatea prin satelit a devenit un instrument important pentru comunicațiile de pe câmpul de luptă și pilotarea dronelor."
+  },
+  {
+    "group_id": "group_5966cac68b",
+    "category": "Gazdaság",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE0JTJGMzAxMzg5MF8zMDEz/ODkwX0lEMjMzMDU2LUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9MjEzNzExMjNmNDIyMGQxNzU0OWMwYTBhYjU2OTJiM2M=.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ministrul nominalizat la Fonduri Europene promite un audit și acuză întârzieri la plăţile către beneficiarii proiectelor cu bani UE",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-nominalizat-la-fonduri-europene-promite-un-audit-si-acuza-intarzieri-la-platile-catre-beneficiarii-proiectelor-cu-bani-ue-3997341"
+      }
+    ],
+    "published_at": 1792307282,
+    "title_hu": "Ministrul nominalizat la Fonduri Europene promite un audit și acuză întârzieri la plăţile către beneficiarii proiectelor cu bani UE",
+    "lead_hu": "Mihai Ghigiu, nominalizat la Ministerul Fondurilor Europene în guvernul Luca Niculescu, anunţă că va dispune un audit intern privind absorbţia fondurilor UE. De asemenea, spune că există întârzieri la…",
+    "content_hu": "Mihai Ghigiu, nominalizat la Ministerul Fondurilor Europene în guvernul Luca Niculescu, anunţă că va dispune un audit intern privind absorbţia fondurilor UE. De asemenea, spune că există întârzieri la plăţile către beneficiarii proiectelor finanţate din fonduri europene şi că va analiza dacă printre cauze se numără şi supraîncărcarea personalului.",
+    "title_ro": "Ministrul nominalizat la Fonduri Europene promite un audit și acuză întârzieri la plăţile către beneficiarii proiectelor cu bani UE",
+    "lead_ro": "Mihai Ghigiu, nominalizat la Ministerul Fondurilor Europene în guvernul Luca Niculescu, anunţă că va dispune un audit intern privind absorbţia fondurilor UE. De asemenea, spune că există întârzieri la…",
+    "content_ro": "Mihai Ghigiu, nominalizat la Ministerul Fondurilor Europene în guvernul Luca Niculescu, anunţă că va dispune un audit intern privind absorbţia fondurilor UE. De asemenea, spune că există întârzieri la plăţile către beneficiarii proiectelor finanţate din fonduri europene şi că va analiza dacă printre cauze se numără şi supraîncărcarea personalului."
+  },
+  {
+    "group_id": "group_7828f76de9",
+    "fingerprint": "e178d5a1a0df986e481d1999fe9b48df",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 16,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Liderul USR, după ce PNL a spus că ia în calcul un acord politic cu Luca Niculescu: „Nu putem să facem parte din tot felul de aranjamente de culise”",
+        "link": "https://hotnews.ro/liderul-usr-dupa-ce-pnl-a-spus-ca-ia-in-calcul-un-acord-politic-cu-luca-niculescu-nu-putem-sa-facem-parte-din-tot-felul-de-aranjamente-de-culise-2374909"
+      },
+      {
+        "source": "Digi24",
+        "title": "Guvernul propus de Luca Niculescu ar putea primi votul în Parlament în această săptămână. Calendarul discutat de partide (surse)",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-propus-de-luca-niculescu-ar-putea-primi-votul-in-parlament-in-aceasta-saptamana-calendarul-discutat-de-partide-surse-3991415"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "PNL decide sâmbătă dacă votează Guvernul Niculescu. Ilie Bolojan: „Votul ar putea să ne coste nu doar politic, ci și personal”",
+        "link": "https://stirileprotv.ro/stiri/politic/pnl-decide-sambata-daca-voteaza-guvernul-niculescu-ilie-bolojan-votul-ar-putea-sa-ne-coste-nu-doar-politic-ci-si-personal.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "PNL decide soarta Guvernului Niculescu. Bolojan avertizează asupra riscurilor, mai mulți parlamentari refuză susținerea",
+        "link": "https://adevarul.ro/politica/pnl-decide-soarta-guvernului-niculescu-bolojan-2564639.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Fierbe PNL înaintea votului pentru Guvernul Niculescu. Două filiale se opun, iar unii liberali cer anticipate",
+        "link": "https://www.ebihoreanul.ro/stiri/fierbe-pnl-inaintea-votului-pentru-guvernul-niculescu-doua-filiale-se-opun-iar-unii-liberali-cer-anticipate-205896.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Câte voturi ar avea Guvernul Niculescu după ședința PNL. Simulare Mediafax pentru votul de marți",
+        "link": "https://www.mediafax.ro/politic/cate-voturi-ar-avea-guvernul-niculescu-dupa-sedinta-pnl-simulare-mediafax-pentru-votul-de-marti-23827158"
+      },
+      {
+        "source": "Adevărul",
+        "title": "STENOGRAME din ședința PNL. De ce insistă Bolojan ca PNL să voteze guvernul Luca Niculescu: „Nu mai e o problemă de calcul politic”",
+        "link": "https://adevarul.ro/politica/stenograme-din-sedinta-pnl-de-ce-insista-bolojan-2564679.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Stenograme. Bolojan, despre „Guvernul Niculescu”: Nu avem așteptări foarte mari. De ce le cere liberalilor totuși să-l voteze",
+        "link": "https://stirileprotv.ro/stiri/sanatate/stenograme-bolojan-despre-guvernul-niculescu-nu-avem-asteptari-foarte-mari-de-ce-le-cere-liberalilor-totusi-sa-l-voteze.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "OFICIAL: PNL a votat pentru susținerea Guvernului Niculescu. Bolojan: Acest vot nu ar fi fost acordat în condiții normale",
+        "link": "https://www.mediafax.ro/stirile-zilei/oficial-pnl-a-votat-pentru-sustinerea-guvernului-niculescu-bolojan-acest-vot-nu-ar-fi-fost-acordat-in-conditii-normale-23827228"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "PNL a decis să voteze Guvernul Niculescu. Ilie Bolojan: „Acest vot nu ar fi fost acordat în condiții normale”",
+        "link": "https://www.ebihoreanul.ro/stiri/pnl-a-decis-sa-voteze-guvernul-niculescu-ilie-bolojan-daca-am-face-exclusiv-un-calcul-strict-politic-pnl-nu-ar-trebui-sa-voteze-investirea-acestui-guvern-205901.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Demnitarii PNL își depun demisiile după decizia de a sprijini Guvernul Niculescu. În ce condiții ar putea depune partidul moțiune de cenzură",
+        "link": "https://adevarul.ro/politica/demnitarii-pnl-isi-depun-demisiile-dupa-decizia-de-2564694.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Nem egyhangúlag, de megszavazta a PNL vezetősége, hogy támogassák a Niculescu-kormány beiktatását",
+        "link": "https://transtelex.ro/kozelet/2026/10/17/pnl-dontes-niculescu-kormany"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "„PNL nu este egal PSD”. Bolojan explică de ce liberalii votează Guvernul Niculescu, dar trec în opoziție (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/pnl-nu-este-egal-psd-bolojan-explica-de-ce-liberalii-voteaza-guvernul-niculescu-dar-trec-in-opozitie-video-205902.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Reacții în lanț în PNL după decizia de a vota Guvernul Niculescu. Liberalii explică „rațiunea votului” partidului",
+        "link": "https://www.mediafax.ro/politic/reactii-in-lant-in-pnl-dupa-decizia-de-a-vota-guvernul-niculescu-liberalii-explica-ratiunea-votului-partidului-23827267"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Guvernul Niculescu, amenințat cu prima moțiune de cenzură înaintea votului de învestitură. Mesaj ferm pentru viitorul Cabinet",
+        "link": "https://stirileprotv.ro/stiri/politic/guvernul-niculescu-amenintat-cu-prima-motiune-de-cenzura-inaintea-votului-de-investitura-mesaj-ferm-pentru-viitorul-cabinet.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Condiția impusă de Ilie Bolojan lui Luca Niculescu. Ce trebuie să respecte premierul desemnat",
+        "link": "https://stirileprotv.ro/stiri/politic/conditia-impusa-de-ilie-bolojan-lui-luca-niculescu-ce-trebuie-sa-respecte-premierul-desemnat.html"
+      }
+    ],
+    "published_at": 1792307214,
+    "title_hu": "A PNL ellenzékből, feltételekhez kötve megszavazza a Niculescu-kormányt",
+    "lead_hu": "A PNL országos vezetése október 17-én úgy döntött, hogy a liberális képviselők támogatják Luca Niculescu kormányának beiktatását, miközben a párt ellenzékbe vonul. Ilie Bolojan a több mint öt hónapja tartó válság lezárásával és az alapvető közszolgáltatások finanszírozási kockázataival indokolta a feltételes voksot; a Niculescuval tervezett megállapodás a költségvetési vállalásokhoz, és a 2027-es büdzsé elfogadásáig tartó időszakhoz kötné a támogatást. A parlamenti beiktatási szavazást október 20-ára tűzték ki.",
+    "content_hu": "• **Október 17-én a PNL országos vezetése a beiktatási voks mellett döntött** A több mint háromórás, feszült ülésen a döntést hatan ellenezték, egy politikus tartózkodott. A liberális parlamenti frakciók korábbi, konzultatív támogatása után a párt végleges álláspontja az lett, hogy a képviselők szavazzák meg a Niculescu-kormányt.\n\n• **A PNL ellenzékbe vonul, a voks nem jelent koalíciós részvételt vagy bizalmi támogatást** Bolojan „szükségből adott, feltételes és célhoz kötött” szavazatként írta le a döntést. A liberálisok nem kérnek kormányzati tisztségeket, nem tárgyaltak miniszteri posztokról, és a kabinet összetételéért a kijelölt miniszterelnököt, valamint a kormányban részt vevő pártokat teszik felelőssé.\n\n• **A Bolojan–Niculescu-megállapodás aláírását vasárnap délutánra tervezték** A tervezett dokumentum a deficitcélok megtartását, a fiskális fegyelmet, a beruházások védelmét, a közpénzek felelős felhasználását és az európai vállalások teljesítését rögzítené. Bolojan szerint a megállapodás a 2027-es költségvetés elfogadása utánig lenne érvényben; a büdzsé elfogadását január–februárra, illetve 2027 tavaszára tette.\n\n• **A PNL a megállapodás betartása esetén nem kezdeményez és nem támogat bizalmatlansági indítványt** Bolojan a vállalást az egyezségben rögzített célok teljesítéséhez, illetve a költségvetés elfogadásáig tartó időszakhoz kötötte. Ha a kormány megszegi a megállapodást, a liberálisok fenntartják a bizalmatlansági indítvány benyújtásának vagy támogatásának lehetőségét.\n\n• **A PNL feltételesen támogatná a 2027-es költségvetést** A büdzsének ténylegesen beszedhető bevételekre kell épülnie, folytatnia kell a fiskális konszolidációt, védenie kell a beruházásokat, és kerülnie kell a fedezet nélküli kiadásnövelést. Bolojan szerint ezek a vállalások a befektetői bizalom, az uniós forrásokhoz való hozzáférés és az ország pénzügyi stabilitása miatt is fontosak.\n\n• **A PNL támogatásával betöltött politikai tisztségek viselői lemondanak** Bolojan bejelentette, hogy a liberálisok támogatásával kinevezett tisztségviselők a következő hét első napjaiban benyújtják lemondásukat, beleértve az állami vállalatok és igazgatótanácsok politikai alapon betöltött posztjait is. A pályázaton vagy más jogszerű eljárással megszerzett állások nem tartoznak a döntés hatálya alá.\n\n• **Bolojan a közszolgáltatások finanszírozásával és az ügyvivő kormány korlátozott jogköreivel indokolta a voksot** Szerinte az öt hónapnál hosszabb provizórium alatt a kabinet nem tudott új politikákat bevezetni vagy sürgős költségvetési kiigazítást végrehajtani. A Floreasca kórház sürgősségi osztálya 2026-ra 5 millió lejnél kevesebb induló keretet kapott a 2025-ös, 10 millió lejt meghaladó összeghez képest; a marosvásárhelyi egység támogatása 8 millióról 4 millió lej alá csökkent. Bolojan szerint egyes sürgősségi egységek az éves szükségletük mintegy 30 százalékát kapták meg induláskor.\n\n• **Az üzemanyag drágulása a mentők és a katasztrófavédelem keretét is terheli** Bolojan 20–30 százalékos üzemanyagár-emelkedésről beszélt, amely miatt a nagy fogyasztású intézmények költségvetése gyorsabban kimerülhet. A közlekedési tárca PNRR-szerződéseinek 19,5 milliárd eurós értékét a 4,6 milliárd eurós végleges kerettel állította szembe; azt is mondta, hogy a szárazság miatt a cernavodai erőmű termelésének mintegy 20 százaléka kiesett.\n\n• **A PNL-en belül éles vita és szervezeti ellenállás kísérte a döntést** A PNL Iași szervezete egyhangúlag ellenezte a beiktatási voksot, reformpárti többséget vagy előrehozott választást sürgetett. Dragoș Ciobotaru, Adrian Cozma és Octavian Oprea is bírálta a támogatást vagy a kabinet összetételét; Mircea Fechet, Siegfried Mureșan és Dan Motreanu mellette érvelt. Bolojan elismerte, hogy pusztán pártpolitikai számítás alapján a PNL nem szavazná meg a kabinetet, és nem táplál nagy várakozásokat annak teljesítményével kapcsolatban.\n\n• **Bolojan szerint a PNL-nek vállalnia kell a döntés politikai kockázatát** Arra figyelmeztetett, hogy a liberálisokat később a kormány hibáiért is bírálhatják, noha teljes ellenzékben lesznek. Szerinte a működőképes kormány hiánya veszélyeztetheti a közszolgáltatásokat, a költségvetési kiigazítást és az állam hitelfelvételét; a leendő kabinet legnagyobb veszélyének a PSD-t nevezte.\n\n• **A PNL voksával megvan a beiktatáshoz szükséges parlamenti többség várható alapja** Egy becslés szerint a PSD, a PNL, az RMDSZ, a kisebbségi frakció és az Egységben Romániáért csoport együtt 273 szavazatot adhat, a PACE hét képviselőjével pedig 280-at. A beiktatáshoz 233 voks szükséges; a PNL nélkül a felsorolt csoportok PACE-szal együtt is csak 199 szavazatot jelentenének.\n\n• **Az USR elutasítja a kormányt, és kételkedik a hathavi stabilitásban** Dominic Fritz szerint nem világos, milyen parlamenti többségre támaszkodna a kabinet, ezért az USR nem szavazza meg a PSD-s minisztereket is tartalmazó kormányt. A hat hónapot is optimista időtávnak nevezte, ugyanakkor jelezte, hogy az USR a PNL-lel továbbra is együttműködne egy PSD és AUR nélküli politikai alternatíva kialakításáért.\n\n• **A miniszterjelöltek meghallgatását hétfőre és kedd délelőttre, a beiktatási szavazást október 20-ára tűzték ki** Luca Niculescu csütörtök este benyújtotta a kormányprogramot és a 18 miniszter jelölését; a parlament plenáris ülését kedd 14 órára tervezték.",
+    "title_ro": "PNL va vota Guvernul Niculescu din opoziție, cu sprijin condiționat",
+    "lead_ro": "Conducerea națională a PNL a decis pe 17 octombrie ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, în timp ce partidul va trece în opoziție. Ilie Bolojan a justificat votul condiționat prin necesitatea încheierii crizei de peste cinci luni și prin riscurile privind finanțarea serviciilor publice esențiale; acordul avut în vedere cu Niculescu ar lega sprijinul de angajamentele bugetare și de adoptarea bugetului pentru 2027. Votul de învestitură este programat pentru 20 octombrie.",
+    "content_ro": "• **Pe 17 octombrie, conducerea națională a PNL a decis să voteze învestirea** Decizia a fost adoptată după o ședință tensionată de peste trei ore, cu șase voturi împotrivă și o abținere. După consultarea anterioară a grupurilor parlamentare liberale, poziția finală a partidului este ca parlamentarii să susțină Guvernul Niculescu.\n\n• **PNL trece în opoziție, iar votul nu înseamnă participare la coaliție sau susținere politică necondiționată** Bolojan a descris decizia drept un vot „de necesitate, condiționat și punctual”. Liberalii nu cer funcții guvernamentale și nu au negociat ministere; responsabilitatea pentru componența Cabinetului le revine premierului desemnat și partidelor care participă la guvernare.\n\n• **Acordul Bolojan–Niculescu urma să fie semnat duminică după-amiază** Documentul avut în vedere ar consemna respectarea țintelor de deficit și a disciplinei fiscale, protejarea investițiilor, folosirea responsabilă a banilor publici și îndeplinirea angajamentelor europene. Bolojan a spus că acordul ar fi valabil până după adoptarea bugetului pentru 2027, estimată pentru ianuarie–februarie sau primăvara anului viitor.\n\n• **PNL se angajează să nu inițieze și să nu susțină o moțiune de cenzură dacă acordul este respectat** Bolojan a legat această promisiune de îndeplinirea obiectivelor asumate și de perioada până la adoptarea bugetului. Dacă Guvernul încalcă înțelegerea, liberalii își rezervă posibilitatea de a depune sau susține o moțiune de cenzură.\n\n• **PNL ar susține condiționat bugetul pentru 2027** Bugetul trebuie să se bazeze pe venituri care pot fi încasate, să continue consolidarea fiscală, să protejeze investițiile și să evite creșterea cheltuielilor fără acoperire. Bolojan a spus că aceste angajamente sunt importante pentru încrederea investitorilor, accesul la fonduri europene și stabilitatea financiară a țării.\n\n• **Demnitarii numiți cu sprijinul PNL își vor depune demisiile** Bolojan a anunțat că persoanele numite cu susținerea liberalilor vor demisiona în primele zile ale săptămânii următoare, inclusiv cei care ocupă pe criterii politice funcții în companii de stat și consilii de administrație. Posturile obținute prin concurs sau prin alte proceduri legale nu sunt vizate.\n\n• **Bolojan a justificat votul prin riscurile pentru serviciile publice și limitele unui guvern interimar** El a spus că, după peste cinci luni de provizorat, Executivul nu a putut introduce politici noi sau face o rectificare bugetară de urgență. Unitatea de primiri urgențe a Spitalului Floreasca a primit la începutul lui 2026 mai puțin de 5 milioane de lei, față de peste 10 milioane în 2025, iar alocarea pentru unitatea din Târgu Mureș a scăzut de la 8 milioane la sub 4 milioane de lei. Potrivit lui Bolojan, unele unități au primit inițial aproximativ 30% din necesarul anual.\n\n• **Scumpirea combustibililor pune presiune și pe bugetele ambulanțelor și ale serviciilor de urgență** Bolojan a indicat o creștere de 20–30% a prețurilor la combustibili, care ar putea epuiza mai repede bugetele instituțiilor cu un consum ridicat. El a comparat contractele PNRR semnate de Ministerul Transporturilor, în valoare de 19,5 miliarde de euro, cu alocarea finală de 4,6 miliarde și a afirmat că seceta a redus cu aproximativ 20% producția centralei de la Cernavodă.\n\n• **Decizia a fost contestată de mai mulți liberali și de filiala PNL Iași** Organizația din Iași a respins în unanimitate votul de învestire și a cerut o majoritate reformistă sau alegeri anticipate. Dragoș Ciobotaru, Adrian Cozma și Octavian Oprea au criticat susținerea ori componența Cabinetului, în timp ce Mircea Fechet, Siegfried Mureșan și Dan Motreanu au argumentat în favoarea ei. Bolojan a recunoscut că, dintr-un calcul strict politic, PNL nu ar vota Guvernul și a spus că nu are așteptări mari de la acesta.\n\n• **Bolojan spune că PNL își asumă riscul politic al deciziei** El a avertizat că liberalii ar putea fi criticați pentru greșelile Guvernului, deși vor fi în opoziție. În opinia sa, lipsa unui Executiv cu puteri depline poate afecta serviciile publice, rectificarea bugetară și împrumuturile statului; el a numit PSD principalul pericol pentru viitorul Cabinet.\n\n• **Voturile PNL conturează baza unei majorități pentru învestire** O estimare arată că PSD, PNL, UDMR, grupul minorităților naționale și grupul Uniți pentru România ar putea totaliza 273 de voturi, iar cu cei șapte parlamentari PACE — 280. Pentru învestire sunt necesare 233 de voturi; fără PNL, grupurile menționate ar avea cel mult 199, incluzând PACE.\n\n• **USR respinge Guvernul și se îndoiește că va rezista șase luni** Dominic Fritz a spus că nu este clar pe ce majoritate parlamentară se va baza Cabinetul și că USR nu va vota un Guvern care include miniștri PSD. A numit șase luni o estimare optimistă, dar a afirmat că USR va continua să colaboreze cu PNL pentru o alternativă politică fără PSD și AUR.\n\n• **Audierile miniștrilor sunt programate luni și marți dimineața, iar votul pentru 20 octombrie** Luca Niculescu a depus joi seara programul de guvernare și lista celor 18 miniștri propuși. Ședința plenului reunit al Parlamentului pentru votul de învestitură a fost stabilită pentru marți, la ora 14:00."
+  },
+  {
+    "group_id": "group_6922cebee5",
+    "fingerprint": "14171d981e2c1dde868c45326a131af3",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/incendiul-de-la-primaria-din-limoges-franta-1024x576.png",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Primărie monument istoric, incendiată în timpul protestelor din Franța. O parte a clădirii s-a prăbușit",
+        "link": "https://www.mediafax.ro/externe/primarie-monument-istoric-incendiata-in-timpul-protestelor-din-franta-o-parte-a-cladirii-s-a-prabusit-23827364"
+      },
+      {
+        "source": "Digi24",
+        "title": "„O catastrofă pentru patrimoniu”: Primăria din Limoges, distrusă în urma violențelor din Franța, soldate cu 1.200 de arestări",
+        "link": "https://www.digi24.ro/stiri/externe/o-catastrofa-pentru-patrimoniu-primaria-din-limoges-distrusa-in-urma-violentelor-din-franta-soldate-cu-1-200-de-arestari-3997229"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Scene șocante în Franța! Clădirea istorică a rezistat celor două războaie mondiale, dar a fost incendiată de protestatari",
+        "link": "https://www.gsp.ro/international/campionate/scene-socante-in-franta-proteste-vandalism-lille-989396.html"
+      }
+    ],
+    "published_at": 1792307197,
+    "title_hu": "A limoges-i városháza nagyrészt megsemmisült a franciaországi tüntetések során",
+    "lead_hu": "A 2026. október 17-i tüntetések után a limoges-i, 1883-ban felavatott történelmi városháza nagyrészt megsemmisült: a tető az alsó szintekre omlott, a 43 méteres harangtorony pedig szintén beomlott. A megélhetési költségek és a közszolgáltatások állapota miatti megmozdulások több városban erőszakba torkolltak; a részvételről és a letartóztatásokról eltérő adatokat közöltek.",
+    "content_hu": "• **2026. október 17-én, szombat este Limoges-ban** álarcos tüntetők behatoltak a városházára és felgyújtották az épületet. Előzőleg felgyújtottak egy önkormányzati rendőrségi autót és betörték a hivatal ablakait; a város másik részén egy országos rendőrségi járművet is felgyújtottak.\n\n• **A városháza állapota** rendkívül súlyos: Maurice Barate prefektus szerint a tető az alsó szintekre omlott, a nyugati szárny kivételével, az épület külső borításának pedig mintegy kétharmada eltűnt. A beszámolók szerint a 43 méter magas harangtorony is beomlott. A prefektus a károkat „katasztrófának” nevezte a kulturális örökség szempontjából.\n\n• **Az 1883-ban felavatott városháza** történelmi műemlék; építése 1879-ben kezdődött, és a párizsi városháza építészete ihlette. A tűzoltók a lángok továbbterjedését próbálták megakadályozni, miközben a rendőrség kiürítette a környéket.\n\n• **A tüntetések országos mérlege**: a francia hatóságok szerint mintegy 550 ezren vettek részt a megmozdulásokon, a szervezők viszont 800 ezres részvételről számoltak be. A letartóztatások számáról is eltérő adatok jelentek meg: az egyik beszámoló mintegy 400, a másik több mint 1200 őrizetbe vett személyről szólt.\n\n• **Más városokban is történtek súlyos incidensek**: Lyonban felgyújtották a turisztikai információs irodának otthont adó épületet, Saint-Étienne-ben pedig egy fiatal elvesztette a kezét egy gránát robbanásakor. Lille-ben a LOSC labdarúgóklub hivatalos üzletét kifosztották; egy járókelő súlyosan megsérült, amikor egy nagyméretű üvegtábla ráesett. Párizsban és más városokban is fosztogatásokról számoltak be.\n\n• **Emmanuel Macron** elítélte az erőszakot, és azt mondta, hogy a közintézményeket megtámadó, illetve károkat okozó személyeket büntetőjogi felelősségre vonják.\n\n• **Párizs, Marseille és Lyon polgármesterei** azt kérték, hogy Sébastien Lecornu miniszterelnök fogadja őket a károk és a helyzet súlyosságának megvitatására; közös nyilatkozatukban az eseményekhez vezető folyamat kivizsgálását sürgették.",
+    "title_ro": "Primăria din Limoges, în mare parte distrusă în timpul protestelor din Franța",
+    "lead_ro": "După protestele din 17 octombrie 2026, primăria istorică din Limoges, inaugurată în 1883, a fost în mare parte distrusă: acoperișul s-a prăbușit peste etajele inferioare, iar turnul-clopotniță de 43 de metri s-a surpat, potrivit relatărilor. Manifestațiile legate de costul vieții și de starea serviciilor publice au degenerat în violențe în mai multe orașe, iar cifrele privind participarea și arestările diferă.",
+    "content_ro": "• **Sâmbătă seara, 17 octombrie 2026, la Limoges**, protestatari mascați au pătruns în primărie și au incendiat clădirea. Înainte, au dat foc unei mașini a poliției municipale și au spart ferestrele sediului; într-o altă zonă a orașului a fost incendiat și un vehicul al poliției naționale.\n\n• **Starea primăriei** este extrem de gravă: prefectul Maurice Barate a declarat că acoperișul s-a prăbușit peste etajele inferioare, cu excepția aripii vestice, iar aproximativ două treimi din învelișul exterior au dispărut. Potrivit relatărilor, s-a prăbușit și turnul-clopotniță, înalt de 43 de metri. Prefectul a numit pagubele o „catastrofă pentru patrimoniu”.\n\n• **Primăria inaugurată în 1883** este monument istoric; construcția a început în 1879, iar arhitectura sa a fost inspirată de cea a primăriei din Paris. Pompierii au încercat să împiedice extinderea flăcărilor, în timp ce poliția a evacuat zona.\n\n• **Bilanțul național al protestelor**: autoritățile franceze au estimat participarea la aproximativ 550.000 de persoane, în timp ce organizatorii au vorbit despre 800.000. Și numărul arestărilor diferă în relatări: o sursă a menționat aproximativ 400 de persoane, iar alta peste 1.200.\n\n• **Au avut loc incidente grave și în alte orașe**: la Lyon a fost incendiată clădirea care găzduiește biroul de informare turistică, iar la Saint-Étienne un tânăr și-a pierdut mâna în urma exploziei unei grenade. La Lille, magazinul oficial al clubului de fotbal LOSC a fost jefuit; un trecător a fost grav rănit după ce o placă mare de sticlă a căzut peste el. Au fost raportate jafuri și la Paris și în alte orașe.\n\n• **Emmanuel Macron** a condamnat violențele și a afirmat că persoanele care au atacat instituții publice și au provocat distrugeri vor fi trase la răspundere penală.\n\n• **Primarii din Paris, Marsilia și Lyon** au cerut o întâlnire cu premierul Sébastien Lecornu pentru a discuta pagubele și gravitatea situației; într-o declarație comună, au solicitat analizarea lanțului de evenimente care a dus la violențe."
+  },
+  {
+    "group_id": "group_746ea01c03",
+    "fingerprint": "9912b1ea9294dedadb6aae03a7a519a6",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwOTAwNl8zMDA5/MDA2X0lEMjkyMDE1LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PTA1ZWZjMGRkZmI2MzU0Nzg0MTYyNzA0MmFlNjdlODIx.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "BREAKING: PSD a decis să intre cu miniștri în Guvernul Luca Niculescu / Grindeanu s-a abținut / Sorin Grindeanu: ”Șansa noastră de a diminua procentele AUR este să guvernăm bine. La țipat nu cîștigăm contra lor”- Surse",
+        "link": "https://www.g4media.ro/breaking-psd-a-decis-sa-intre-in-guvernul-luca-niculescu-surse.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "DOCUMENT Luca Niculescu a depus lista miniștrilor și programul de guvernare la Parlament. Toate propunerile PSD, acceptate / Când se va da votul în plen",
+        "link": "https://hotnews.ro/document-programul-si-lista-membrilor-guvernului-niculescu-au-fost-depuse-la-parlament-cand-se-va-da-votul-in-plen-2377368"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Luca Niculescu a depus lista miniștrilor din noul Guvern și programul de guvernare. Ce proiecte promite pentru județul Bihor (DOCUMENT)",
+        "link": "https://www.ebihoreanul.ro/stiri/luca-niculescu-a-depus-lista-ministrilor-din-noul-guvern-si-programul-de-guvernare-ce-proiecte-promite-pentru-judetul-bihor-document-205853.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "USR a decis să voteze împotriva Guvernului „PSD - Luca Niculescu”. „Vom construi alianța politică reformistă care să câștige alegerile”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/usr-a-decis-sa-voteze-impotriva-guvernului-psd-luca-niculescu-vom-construi-alianta-politica-reformista-care-sa-castige-alegerile-3995861"
+      }
+    ],
+    "published_at": 1792307148,
+    "title_hu": "A PSD belép a Niculescu-kormányba, benyújtották a miniszterjelöltek listáját",
+    "lead_hu": "A PSD október 14-én úgy döntött, hogy miniszterekkel vesz részt a Luca Niculescu vezette kormányban; Sorin Grindeanu szerint a párt prioritásai bekerültek a kormányprogramba. Niculescu október 15-én benyújtotta a parlamentnek a kabinet névsorát és a programot, a bizalmi szavazást október 20-ra tűzték ki.",
+    "content_hu": "• **Október 14-én a PSD vezetése** csaknem egyhangúlag megszavazta a kormányzati részvételt; a döntésnél nyolcan tartózkodtak, köztük Sorin Grindeanu pártelnök. A párt 11 miniszteri tisztségre jelölt saját politikusokat.\n\n• **A benyújtott kormányzati névsorban** Marian Neacșu belügyminiszter és miniszterelnök-helyettes, Ștefan-Ovidiu Popa közlekedési, Radu Marinescu igazságügyi, Ștefan-Radu Oprea védelmi, Daniel Zamfir gazdasági, Florin Barbu mezőgazdasági, Alexandru Rogobete egészségügyi, Florin Manole munkaügyi, Natalia Intotero környezetvédelmi, Alexandru Stoica fejlesztési, Mihai Ghigiu pedig európai projektekért felelős miniszterjelöltként szerepel. A kabinetben független jelöltek és két delegált miniszter is helyet kapna.\n\n• **Október 15-én Luca Niculescu** benyújtotta a parlamentnek a kormányprogramot és a miniszterjelöltek listáját. A program főbb vállalásai között szerepel a költségvetési kiigazítás, a 2027-es büdzsé év végi elfogadása, a gazdaságélénkítés és a téli energiaellátás biztosítása; a PSD emellett nyugdíjindexálást, egyes csoportok CASS-mentességét és a kis települések önkéntes összevonását is sürgeti.\n\n• **A tervezett parlamenti szavazás** október 20-án, kedden lesz; a kormánynak legalább 233 képviselő és szenátor támogatására van szüksége. A PNL és az RMDSZ jelezte, hogy kormányon kívülről támogatná a beiktatást, az USR viszont egyhangúlag úgy döntött, hogy a kabinet ellen szavaz.",
+    "title_ro": "PSD intră în Guvernul Niculescu, iar lista miniștrilor a fost depusă în Parlament",
+    "lead_ro": "Pe 14 octombrie, PSD a decis să participe cu miniștri la Guvernul condus de Luca Niculescu, motivând că prioritățile partidului se regăsesc în programul de guvernare. Niculescu a depus lista Cabinetului și programul la Parlament pe 15 octombrie, iar votul de învestitură este programat pentru 20 octombrie.",
+    "content_ro": "• **Pe 14 octombrie, conducerea PSD** a votat aproape în unanimitate intrarea partidului la guvernare; opt participanți s-au abținut, între care și președintele PSD, Sorin Grindeanu. Partidul a nominalizat 11 miniștri pentru Cabinet.\n\n• **Lista depusă la Parlament** îl propune pe Marian Neacșu vicepremier și ministru de Interne, pe Ștefan-Ovidiu Popa la Transporturi, pe Radu Marinescu la Justiție, pe Ștefan-Radu Oprea la Apărare, pe Daniel Zamfir la Economie, pe Florin Barbu la Agricultură, pe Alexandru Rogobete la Sănătate, pe Florin Manole la Muncă, pe Natalia Intotero la Mediu, pe Alexandru Stoica la Dezvoltare și pe Mihai Ghigiu la Investiții și Proiecte Europene. Cabinetul propus include și independenți, precum și doi miniștri delegați.\n\n• **La 15 octombrie, Luca Niculescu** a depus programul de guvernare și lista miniștrilor. Printre obiectivele anunțate se numără rectificarea bugetară, adoptarea bugetului pentru 2027 până la sfârșitul anului, relansarea economiei și asigurarea energiei pentru iarnă; PSD susține, de asemenea, indexarea pensiilor, eliminarea CASS pentru anumite categorii și comasarea voluntară a localităților mici.\n\n• **Votul de învestitură** este programat pentru marți, 20 octombrie, iar Guvernul are nevoie de cel puțin 233 de voturi. PNL și UDMR au anunțat că vor susține învestirea fără să intre în Executiv, în timp ce USR a decis în unanimitate să voteze împotriva Cabinetului."
+  },
+  {
+    "group_id": "group_9f71c0b6ea",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/cancer-1024x682.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Vaccin personalizat împotriva cancerului ovarian. Un studiu clinic arată că sistemul imunitar poate recunoaște ținte specifice tumorii",
+        "link": "https://www.mediafax.ro/stiinta-sanatate/vaccin-personalizat-impotriva-cancerului-ovarian-un-studiu-clinic-arata-ca-sistemul-imunitar-poate-recunoaste-tinte-specifice-tumorii-23827463"
+      }
+    ],
+    "published_at": 1792307139,
+    "title_hu": "Vaccin personalizat împotriva cancerului ovarian. Un studiu clinic arată că sistemul imunitar poate recunoaște ținte specifice tumorii",
+    "lead_hu": "Cercetătorii testează o nouă strategie de imunoterapie pentru cancerul ovarian, bazată pe un vaccin adaptat profilului molecular al tumorii fiecărei paciente.",
+    "content_hu": "Cercetătorii testează o nouă strategie de imunoterapie pentru cancerul ovarian, bazată pe un vaccin adaptat profilului molecular al tumorii fiecărei paciente.",
+    "title_ro": "Vaccin personalizat împotriva cancerului ovarian. Un studiu clinic arată că sistemul imunitar poate recunoaște ținte specifice tumorii",
+    "lead_ro": "Cercetătorii testează o nouă strategie de imunoterapie pentru cancerul ovarian, bazată pe un vaccin adaptat profilului molecular al tumorii fiecărei paciente.",
+    "content_ro": "Cercetătorii testează o nouă strategie de imunoterapie pentru cancerul ovarian, bazată pe un vaccin adaptat profilului molecular al tumorii fiecărei paciente."
+  },
+  {
+    "group_id": "group_9327629078",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/dreamstime_m_103324623.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "SONDAJ: Obezitatea este o boală sau este doar o consecință a stilului de viață? Care sunt implicațiile pentru organism? Dar soluțiile?",
+        "link": "https://www.g4media.ro/sondaj-obezitatea-este-o-boala-sau-este-doar-o-consecinta-a-stilului-de-viata-care-sunt-implicatiile-pentru-organism-dar-solutiile.html"
+      }
+    ],
+    "published_at": 1792307124,
+    "title_hu": "SONDAJ: Obezitatea este o boală sau este doar o consecință a stilului de viață? Care sunt implicațiile pentru organism? Dar soluțiile?",
+    "lead_hu": "Scăderea în greutate și menținerea unui stil de viață sănătos au devenit priorități, dar și provocări majore pentru mulți dintre noi, în condițiile în care tot mai multe persoane se confruntă cu obezi…",
+    "content_hu": "Scăderea în greutate și menținerea unui stil de viață sănătos au devenit priorități, dar și provocări majore pentru mulți dintre noi, în condițiile în care tot mai multe persoane se confruntă cu obezitatea. G4Media continuă seria G4Debate cu dezbaterea „Controlul greutății – Implicațiile mai puțin cunoscute ale obezității și soluțiile disponibile”, care va avea loc […] © G4Media.ro.",
+    "title_ro": "SONDAJ: Obezitatea este o boală sau este doar o consecință a stilului de viață? Care sunt implicațiile pentru organism? Dar soluțiile?",
+    "lead_ro": "Scăderea în greutate și menținerea unui stil de viață sănătos au devenit priorități, dar și provocări majore pentru mulți dintre noi, în condițiile în care tot mai multe persoane se confruntă cu obezi…",
+    "content_ro": "Scăderea în greutate și menținerea unui stil de viață sănătos au devenit priorități, dar și provocări majore pentru mulți dintre noi, în condițiile în care tot mai multe persoane se confruntă cu obezitatea. G4Media continuă seria G4Debate cu dezbaterea „Controlul greutății – Implicațiile mai puțin cunoscute ale obezității și soluțiile disponibile”, care va avea loc […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_3c009f782d",
+    "fingerprint": "72a2aa0a5fe1f84554422d9acd43d415",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/08/FotoJet-2026-08-11T175430.903-1200x675.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza ANM dă peste cap așteptările! Cum va fi vremea până în noiembrie",
+        "link": "https://www.cancan.ro/prognoza-anm-da-peste-cap-asteptarile-cum-va-fi-vremea-pana-in-noiembrie-21529355"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 13 octombrie. Ploi abundente, frig și vânt puternic în România, iar la munte sunt așteptate ninsori",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-13-octombrie-ploi-abundente-frig-si-vant-puternic-in-romania-iar-la-munte-sunt-asteptate-ninsori.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza meteo azi, 14 octombrie 2026. Ploi în sud, vânt puternic în est și frig pătrunzător peste noapte",
+        "link": "https://www.cancan.ro/prognoza-meteo-azi-14-octombrie-2026-ploi-in-sud-vant-puternic-in-est-si-frig-patrunzator-peste-noapte-21529290"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 14 octombrie. Temperaturile cresc ușor, dar frigul persistă în mare parte din țară. Cum va fi în București",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-14-octombrie-temperaturile-cresc-usor-dar-frigul-persista-in-mare-parte-din-tara-cum-va-fi-in-bucuresti.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cum va fi vremea în București, până sâmbătă. Temperaturile coboară până spre 2 grade",
+        "link": "https://hotnews.ro/cum-va-fi-vremea-in-bucuresti-pana-sambata-temperaturile-coboara-pana-spre-2-grade-2375536"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Vremea se schimbă radical în România: ninsori la munte și vijelii în jumătate de țară. Ce urmează în București",
+        "link": "https://adevarul.ro/stiri-interne/meteo/vremea-se-schimba-radical-in-romania-ninsori-la-2563921.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Prognoza meteo joi, 15 octombrie. Ploi în mai multe regiuni și ninsori la munte, unde se va depune strat de zăpadă",
+        "link": "https://adevarul.ro/stiri-interne/meteo/prognoza-meteo-joi-15-octombrie-ploi-in-mai-2564098.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 15 octombrie. Ploi în aproape toată țara și temperaturi mai mici decât normalul perioadei",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-15-octombrie-ploi-in-aproape-toata-tara-si-temperaturi-mai-mici-decat-normalul-perioadei.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 16 octombrie. Este o zi cam rece, cu ploi slabe în multe zone, lapoviță și ninsoare la munte",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-16-octombrie-este-o-zi-cam-rece-cu-ploi-slabe-in-multe-zone-lapovita-si-ninsoare-la-munte.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 17 octombrie. Ploi și temperaturi scăzute în aproape toată țara. Unde va fi cel mai frig",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-17-octombrie-ploi-si-temperaturi-scazute-in-aproape-toata-tara-unde-va-fi-cel-mai-frig.html"
+      }
+    ],
+    "published_at": 1792307100,
+    "title_hu": "Hideg, esős idő és havazás a hegyekben Romániában",
+    "lead_hu": "Október 13. és 17. között az átlagosnál hidegebb idő, több térségben eső és a magasabb hegyekben havas eső, illetve havazás jellemezte Romániát. A hegyvidéken és keleten erős széllökésekre is figyelmeztettek; a hegyekben néhány centiméteres hótakaró kialakulását jelezték előre.",
+    "content_hu": "• **Október 13–17. között** az ország nagy részén az évszakos átlagnál hűvösebb időt jeleztek előre. A lehűlés a korábbi szokatlanul meleg napokat követte; a nappali maximumok térségtől és naptól függően többnyire 8–18 fok között alakultak, Olteniában helyenként 20 fokot is elérhettek.\n\n• **Az eső több napon át több térséget érintett vagy érinthetett:** október 13-án főként a középső és déli országrészekben, a következő napokban pedig Erdélyben, Moldvában, Máramarosban és Havasalföldön is számítottak csapadékra. A záporok területi eloszlása változó volt, és egyes térségekben csak elszórtan jeleztek esőt.\n\n• **A magasabb hegyvidéki területeken havas eső és havazás volt várható.** Az előrejelzések szerint 1500 méter felett hullhatott vegyes halmazállapotú csapadék; a Déli- és Kárpátkanyar-hegységben helyenként 5–15 centiméteres hóréteg kialakulását jelezték előre.\n\n• **A szél a hegygerinceken, valamint az ország keleti és délkeleti részein erősödött meg.** A hegyvidéki széllökések elérhették a 60–80 km/órát, míg Moldva, Dobrudzsa és Havasalföld keleti részén több előrejelzés 40–55 km/órás széllökéseket valószínűsített.\n\n• **A hideg éjszakákon helyenként fagy, dér és köd is kialakulhatott.** A Kárpátok keleti részének mélyebben fekvő medencéiben akár mínusz 5 fokot, Bukarest környékén pedig a külvárosi térségekben nagyjából 2 fokot jeleztek előre.",
+    "title_ro": "Vreme rece și ploioasă în România, cu ninsori la munte",
+    "lead_ro": "Între 13 și 17 octombrie, în cea mai mare parte a României s-au prognozat temperaturi sub cele obișnuite pentru această perioadă, ploi în mai multe regiuni și precipitații mixte la altitudini mari. Meteorologii au avertizat și asupra rafalelor puternice de vânt, iar la munte au estimat depunerea unui strat de zăpadă de câțiva centimetri.",
+    "content_ro": "• **În perioada 13–17 octombrie**, prognozele au indicat vreme mai rece decât media sezonieră în cea mai mare parte a țării. Răcirea a urmat unor zile neobișnuit de calde; maximele diurne au fost, în funcție de regiune și de zi, în general între 8 și 18 grade, cu valori locale de până la 20 de grade în Oltenia.\n\n• **Ploile au fost prognozate în mai multe regiuni, în zile succesive:** pe 13 octombrie, mai ales în centrul și sudul țării, iar în zilele următoare și în Transilvania, Moldova, Maramureș și Muntenia. Precipitațiile au fost distribuite neuniform, în unele zone fiind așteptate doar ploi izolate.\n\n• **La altitudini mari, precipitațiile urmau să fie lapoviță și ninsoare.** Prognozele au indicat precipitații mixte peste 1.500 de metri și posibilitatea depunerii unui strat de zăpadă de 5–15 centimetri, local, în Carpații Meridionali și Carpații de Curbură.\n\n• **Vântul urma să se intensifice pe creste și în regiunile estice și sud-estice.** Rafalele de la munte puteau ajunge la 60–80 km/h, iar în Moldova, Dobrogea și estul Munteniei au fost prognozate rafale de 40–55 km/h.\n\n• **Nopțile reci puteau aduce local îngheț, brumă și ceață.** În depresiunile din Carpații Orientali, temperaturile puteau coborî până la minus 5 grade, iar în zona periurbană a Bucureștiului erau prognozate valori de aproximativ 2 grade."
+  },
+  {
+    "group_id": "group_c2ce22e812",
+    "fingerprint": "c704e31433be2245aee03b5bc25c740f",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 24,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
+        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
+      },
+      {
+        "source": "G4Media",
+        "title": "O nouă zi de proteste ale elevilor în Franța: aproximativ 480.000 de participanți, potrivit organizatorilor",
+        "link": "https://www.g4media.ro/o-noua-zi-de-proteste-ale-elevilor-in-franta-aproximativ-480-000-de-participanti-potrivit-organizatorilor.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Vestele Galbene, mişcarea socială de amploare din Franţa din anii 2018 şi 2019, şi liceenii organizează o mie de acţiuni comune de protest sâmbătă faţă de creşterea costului vieţii",
+        "link": "https://www.g4media.ro/vestele-galbene-miscarea-sociala-de-amploare-din-franta-din-anii-2018-si-2019-si-liceenii-organizeaza-o-mie-de-actiuni-comune-de-protest-sambata-fata-de-cresterea-costului-vietii.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Proteste de amploare în Franța. Zeci de mii de oameni ies în stradă, iar „Vestele Galbene” revin în prim-plan",
+        "link": "https://stirileprotv.ro/stiri/international/proteste-de-amploare-in-franta-zeci-de-mii-de-oameni-ies-in-strada-iar-vestele-galbene-revin-in-prim-plan.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
+        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Stare de alertă în Franța: Zeci de mii de oameni ies azi în 500 de proteste împotriva costului vieții / Autoritățile se tem de violențe",
+        "link": "https://hotnews.ro/stare-de-alerta-in-franta-zeci-de-mii-de-oameni-ies-azi-in-500-de-proteste-impotriva-costului-vietii-autoritatile-se-tem-de-violente-2378558"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Protestele elevilor din Franța iau amploare. Creșterea costului vieții scoate noi manifestanți în stradă",
+        "link": "https://www.mediafax.ro/externe/protestele-elevilor-din-franta-iau-amploare-cresterea-costului-vietii-scoate-noi-manifestanti-in-strada-23827129"
+      },
+      {
+        "source": "Digi24",
+        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
+        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Protestele elevilor din Franța iau amploare. Marșuri neautorizate și 61 de arestări la Paris, incidente la Lyon și Marsilia",
+        "link": "https://adevarul.ro/stiri-externe/europa/protestele-elevilor-din-franta-iau-amploare-2564672.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Protestele din Franța degenerează: Poliția a folosit gaze lacrimogene și bastoane împotriva protestatarilor. Peste 160 de persoane au fost arestate",
+        "link": "https://www.mediafax.ro/stirile-zilei/protestele-din-franta-degenereaza-politia-a-folosit-gaze-lacrimogene-si-bastoane-impotriva-protestatarilor-peste-160-de-persoane-au-fost-arestate-23827213"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Zi de mobilizare în Franța: Tensiuni cu forțele de ordine încă de la începutul protestelor",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/zi-de-mobilizare-in-franta-tensiuni-cu-fortele-de-ordine-inca-de-la-inceputul-protestelor--1604072"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Protestele din Franţa degenerează: Poliţia a folosit gaze lacrimogene împotriva protestatarilor. Până la prânz mai mult de 160 de persoane au fost arestate. Sunt sute de proteste în toată Franţa",
+        "link": "https://www.zf.ro/eveniment/protestele-din-franta-degenereaza-politia-a-folosit-gaze-lacrimogene-impotriva-protestatarilor-pana-la-pranz-mai-mult-de-160-de-persoane-au-fost-arestate-sunt-sute-de-proteste-in-toata-franta-23262114"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Mobilizare împotriva 'costului ridicat al vieții': Peste 500.000 de manifestanți în Franța, potrivit sindicatului CGT",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/video-mobilizare-impotriva-costului-ridicat-al-vietii-peste-500-000-de-manifestanti-in-franta-potriv--1604111"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Haos pe străzile Franței: zeci de mii de protestatari, ciocniri violente cu poliția. Primării atacate în Marsilia, Lyon și Lille",
+        "link": "https://stirileprotv.ro/stiri/international/haos-pe-strazile-frantei-zeci-de-mii-de-protestatari-ciocniri-violente-cu-politia-primarii-atacate-in-marsilia-lyon-si-lille.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Nou bilanț al participanților la manifestațiile de protest din Franța: 800.000, conform organizatorilor",
+        "link": "https://agerpres.ro/social-extern/2026/10/17/nou-bilant-al-participantilor-la-manifestatiile-de-protest-din-franta-800-000-conform-organizatorilo--1604126"
+      },
+      {
+        "source": "G4Media",
+        "title": "Protestele din Franţa se extind şi în Belgia. Violențe la Bruxelles și Liege",
+        "link": "https://www.g4media.ro/protestele-din-franta-se-extind-si-in-belgia-violente-la-bruxelles-si-liege.html"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Protestele uriaşe din Franţa au degenerat. Violenţe, sute de arestări şi 800.000 de oameni în stradă. La Paris, amploarea distrugerilor este considerabilă, după ce străgi întregi au fost devastate",
+        "link": "https://www.zf.ro/eveniment/protestele-uriase-din-franta-au-degenerat-violente-sute-de-arestari-si-800-000-de-oameni-in-strada-la-paris-amploarea-distrugerilor-este-considerabila-dupa-ce-stragi-intregi-au-fost-devastate-23262114"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Scene de gherilă urbană lângă Palatul Élysée, la Paris",
+        "link": "https://hotnews.ro/scene-de-gherila-urbana-langa-palatul-elysee-la-paris-2378895"
+      },
+      {
+        "source": "G4Media",
+        "title": "Violențe la protestele din Franța, soldate cu peste 1.200 de persoane reținute și 150 de polițiști și jandarmi răniți. Zeci de magazine, primării și clădiri istorice au fost devastate",
+        "link": "https://www.g4media.ro/violente-la-protestele-din-franta-soldate-cu-peste-1-200-de-persoane-retinute-si-150-de-politisti-si-jandarmi-raniti-zeci-de-magazine-primarii-si-cladiri-istorice-au-fost-devastate.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Imagini cu Franța sub asediul violențelor: Peste 1.200 de oameni arestați, jafuri și clădiri istorice cuprinse de flăcări în urma protestelor",
+        "link": "https://hotnews.ro/imagini-cu-franta-sub-asediul-violentelor-peste-1-200-de-oameni-arestati-jafuri-si-cladiri-istorice-cuprinse-de-flacari-in-urma-protestelor-2378935"
+      },
+      {
+        "source": "G4Media",
+        "title": "Violențe extreme în Franța: Protestatarii au jufeuit magazine în mai multe orașe, marile branduri își întăresc paza",
+        "link": "https://www.g4media.ro/violente-extreme-in-franta-protestatarii-au-jufeuit-magazine-in-mai-multe-orase-marile-branduri-isi-intaresc-paza.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Gyújtogatások, rongálások, könnygázgránátok és több száz letartóztatás a francia tüntetéseken",
+        "link": "https://transtelex.ro/kulfold/2026/10/17/franciaorszag-tuntetes-rongalas-eroszak-gyujtogatas"
+      },
+      {
+        "source": "Maszol",
+        "title": "Elszabadult a pokol Franciaországban: tömegek tiltakoznak a drágulások miatt a nagyvárosokban",
+        "link": "https://maszol.ro/kulfold/Elszabadult-a-pokol-Franciaorszagban-tomegek-tiltakoznak-a-dragulasok-miatt-a-nagyvarosokban"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Franța, răvășită de violențe și jafuri: clădire istorică distrusă de protestatari, 1.200 de arestări și străzi devastate",
+        "link": "https://adevarul.ro/stiri-externe/europa/franta-ravasita-de-violente-si-jafuri-cladire-2564713.html"
+      }
+    ],
+    "published_at": 1792307021,
+    "title_hu": "Országos megélhetési tiltakozássá szélesedtek a francia diákmegmozdulások, súlyos erőszakkal",
+    "lead_hu": "Az iskolai követelésekből a megélhetési költségek, az egyenlőtlenségek és a közszolgáltatások állapota elleni országos mozgalom lett, amelyhez szakszervezetek és a Sárga Mellényesek is csatlakoztak. Október 17-én a szervezők végül 800 ezer, a belügyminiszter 550 ezer résztvevőt jelzett; több városban fosztogatás, összecsapások és épülettüzek törtek ki. Sébastien Lecornu esti mérlege 1200 őrizetbe vettet és 150 sérült rendőrt, illetve csendőrt rögzített.",
+    "content_hu": "• **Október 17-i részvétel:** a szervezők és a hozzájuk csatlakozó szervezetek végül 800 ezer résztvevőről számoltak be; a CGT korábbi, 500 ezret meghaladó becslés után szintén a 800 ezres számhoz igazodott. Laurent Nuñez belügyminiszter 550 ezer tüntetőt jelzett, közülük 110 ezret Párizsban, és 110 demonstrációt tartott nyilván.\n\n• **Eltérő korábbi becslések:** az előző keddi demonstráció részvételét a hatóságok 266 ezerre, a szervezők 450 ezerre tették; Párizsban 56–100 ezer főt becsültek. Egy másik, a mostani akciót megelőző országos keddi mobilizáció szervezői mintegy 480 ezer résztvevőt közöltek.\n\n• **A tiltakozás kezdete és az iskolai követelések:** a mozgalom szeptember 17-én, a párizsi régióban indult, és október 17-ére az ötödik országos mobilizációvá nőtt. A középiskolások több tanárt, jobb finanszírozást és tanulási körülményeket követeltek; a Parcoursup felsőoktatási felvételi rendszert is bírálták. Greta Thunberg egy keddi Saint-Denis-i iskolai megmozduláson is részt vett.\n\n• **A tiltakozás országos megélhetési mozgalommá terebélyesedett:** a résztvevők magasabb béreket és nyugdíjakat, alacsonyabb árakat, valamint a közszolgáltatások védelmét és jobb finanszírozását sürgették. A felhívások tanárokat, munkásokat, gazdákat, egészségügyi dolgozókat és nyugdíjasokat is mozgósítottak.\n\n• **A Sárga Mellényesek visszatérése:** a 2018–2019-es mozgalom tagjai és támogatói a megélhetési költségek emelkedése miatt újra utcára hívták az embereket. A szombati akciók között felvonulások, útlezárások, körforgalmi és más stratégiai pontokon tartott gyűlések is szerepeltek; egy online térkép több mint ezer, más felületek mintegy 1500 tervezett akciót jelzett. A belügy körülbelül 500 tervezett akcióról és több mint 90 tervezett demonstrációról beszélt.\n\n• **A megélhetési feszültségeket az infláció és a vásárlóerő csökkenése erősítette:** az infláció szeptemberben éves alapon 3,1 százalékra emelkedett, a benzin ára a beszámolók szerint literenként 2,20 euró volt, az állam hitelfelvételi költségei pedig két évtizedes csúcsra nőttek. Egy októberi, 2000 embert megkérdező felmérésben a franciák 45 százaléka aggódott a megélhetési költségek és az infláció miatt.\n\n• **A költségvetési háttér:** a parlament 43 milliárd eurós intézkedésekről vitázott, az államadósság elérte a GDP 112 százalékát. A keddi oktatási adatok szerint 214 középiskola zárt be, szemben az egy héttel korábbi 800-zal; az intézmények 94,2 százaléka nyitva maradt.\n\n• **A hatóságok elővigyázatossági intézkedései:** Párizsban több hatalmi központ környékén megtiltották a tüntetést, 25 metróállomást lezártak. A fő menet a République térről a Clichy tér felé indult, miután a szervezők nem kaptak engedélyt arra, hogy a hatalmi intézmények felé vonuljanak. A rendőrség két engedély nélküli menetet is feloszlatott.\n\n• **A nap folyamán fokozatosan emelkedett az őrizetbe vételek száma:** Párizsban reggel 9.30-ig 40, 11 óráig 61, dél körül pedig 100 őrizetbe vételt jelentettek; országosan délben 166, délutánra 272 volt a szám. A párizsi rendőrség 589 megelőző ellenőrzést végzett.\n\n• **A késő esti mérleg:** Lecornu 1200 őrizetbe vettet és 150 sérült rendőrt, illetve csendőrt jelentett. Nuñez korábban körülbelül 400 őrizetbe vételről számolt be; a kormány nem tervezte a rendkívüli állapot kihirdetését. A hatóságok videófelvételekre támaszkodva további azonosításokra és őrizetbe vételekre számítottak.\n\n• **A részvétel sok helyen jelentős volt:** Lyonban és Nantes-ban mintegy 20-20 ezren, Rennes-ben körülbelül 10 ezren tüntettek. A megmozdulások többsége békésen zajlott, de Párizsban, Lyonban, Strasbourgban és Nantes-ban könnygázt, Bordeaux-ban vízágyút is bevetettek.\n\n• **Több városban középületeket támadtak meg:** Marseille-ben tüntetők rövid időre behatoltak a városházára, megrongálták a berendezést és ledöntöttek egy Marianne-mellszobrot; a városi rendőrőrsöt is megtámadták és kifosztották. Lille-ben is betörtek a városházára, Lyonban felgyújtották a turisztikai irodát, Grenoble-ban pedig megrongálták a városházát.\n\n• **Limoges-ban súlyos tűzkár keletkezett:** a prefektus szerint a lángok miatt a városháza teteje az alsóbb szintekre omlott, a 143 éves épület külső részének mintegy kétharmada megsemmisült. Bordeaux-ban a prefektusi rezidenciát és a Kereskedelmi és Iparkamara épületét is támadás érte.\n\n• **Fosztogatások és üzlettüzek több városban:** Párizsban élelmiszerboltokat, ruházati és sportüzleteket, valamint luxusüzleteket támadtak meg; a Dior üzlet magánbiztonsági őrökkel erősítette meg a védelmét. Lyonban Nike-, Sephora- és más üzleteket, Lille-ben Apple- és Sephora-boltot, Rennes-ben a Galeries Lafayette-et, Nantes-ban pedig többek között a Fnacot fosztották ki. Marseille-ben több tucat üzletet érintettek a fosztogatások.\n\n• **Párizsban az Élysée közelében is összecsapások voltak:** a Le Parisien szerint a palotától mintegy 400 méterre tüntetők autót borítottak fel, köveket dobáltak és egy építési konténert toltak a rendőrök felé; a rendőrség oszlatógránátot használt. A lap rendőrségi forrásokra hivatkozva egy idős házaspár kirablásáról is beszámolt. A CNews szerkesztősége elleni akció után 21 embert vettek őrizetbe.\n\n• **A rendőri fellépést is bírálatok érték:** egy tüntető kezét tömegoszlató gránát roncsolta szét Saint-Étienne-ben. A tiltakozások kezdete óta 937 rendőr és csendőr, 248 diák és 149 oktatási dolgozó sérült meg; a rendőrség belső ellenőrzése több feltételezett rendőri erőszakos esetet vizsgál. Különböző beszámolók egy 14 éves kézsérüléséről, illetve egy 15 éves, gumilövedéktől szemsérült fiatalról is szóltak.\n\n• **A tömegoszlató eszközök használata:** a kormány felfüggesztette a kábító- és hanggránátok használatát a diákok elleni fellépésben, Nuñez azonban közölte, hogy súlyos összecsapások esetén köztes fegyvereket ismét bevethetnek. Egy rendőrszakszervezet panaszt tervezett az állam ellen, arra hivatkozva, hogy a rendőrök veszélynek voltak kitéve.\n\n• **A kormányzati és politikai reakciók:** a kormány az LFI-t vádolta a tiltakozások szításával, amit a párt visszautasított. Jean-Luc Mélenchon a párizsi meneten is megjelent, és a rendőri brutalitás bemutatását kérte számon a sajtón; azt is mondta, hogy a fosztogatás ellentétes a mozgalom módszereivel. Marine Le Pen a megrongált iskolák javítási költségeinek megtérítését követelte az elkövetőktől vagy szüleiktől.\n\n• **Macron nyugalomra és a tulajdon tiszteletére szólított fel:** az elnök szerint a tüntetéshez való jogot tiszteletben kell tartani, a rombolás és fosztogatás azonban elfogadhatatlan, az elkövetőket felelősségre vonják. Lecornu és Nuñez a zavargásokért szélsőbaloldali csoportokat, illetve a demonstrációkhoz csatlakozó fosztogatókat tették felelőssé.\n\n• **A kormány válságstábot hívott össze:** Párizs, Marseille és Lyon polgármestere találkozót kért a miniszterelnöktől a károk és a helyzet megvitatására. Emmanuel Grégoire párizsi polgármester szerint egész utcák rongálódtak meg, a károk mérlege pedig súlyos lesz.\n\n• **A tiltakozások Belgiumra is átterjedtek:** több százan tüntettek Brüsszelben és Liège-ben a megélhetési költségek, illetve a felsőoktatási beiratkozási díjak emelkedése ellen. Brüsszelben a rendőrség könnygázt és vízágyút vetett be, mintegy tíz embert őrizetbe vett; kukákat, bérelhető rollereket és legalább három autót gyújtottak fel, a Szocialista Párt helyi szövetségének épületét pedig megrongálták.\n\n• **A tiltakozó csoportokat összekötheti a fiatalokat érő többes válság:** Paolo Stuppia kutató a klímaváltozást, a bizonytalan megélhetést, a munkaerőpiacra lépés nehézségeit és a szélsőjobb hatalomra jutásától való félelmet emelte ki. Szerinte a rendőri fellépés hidat képezhet a diákok és a Sárga Mellényesek között.\n\n• **Külföldi politikai reakció is érkezett:** JD Vance amerikai alelnök az Adevărul beszámolója szerint a bevándorlást okolta a francia tiltakozások erőszakos eseményeiért, és a demokratikus ellenzéket is bírálta.",
+    "title_ro": "Protestele elevilor din Franța s-au transformat într-o mobilizare națională împotriva scumpirilor, marcată de violențe grave",
+    "lead_ro": "Revendiările privind școlile s-au extins într-o mișcare națională împotriva costului vieții, inegalităților și degradării serviciilor publice, la care s-au alăturat sindicatele și „Vestele Galbene”. Pe 17 octombrie, organizatorii au anunțat în final 800.000 de participanți, iar ministrul de Interne a estimat 550.000; în mai multe orașe au avut loc jafuri, confruntări și incendii. Premierul Sébastien Lecornu a anunțat seara 1.200 de persoane reținute și 150 de polițiști și jandarmi răniți.",
+    "content_ro": "• **Participarea din 17 octombrie:** organizatorii și organizațiile asociate mobilizării au anunțat în final 800.000 de participanți; CGT, care estimase anterior peste 500.000, s-a aliniat ulterior cifrei de 800.000. Ministrul de Interne, Laurent Nuñez, a estimat 550.000 de manifestanți, dintre care 110.000 la Paris, și a numărat 110 manifestații.\n\n• **Estimări diferite pentru mobilizările anterioare:** la manifestația de marțea precedentă, autoritățile au estimat 266.000 de participanți, iar organizatorii 450.000; pentru Paris au fost avansate cifre între 56.000 și 100.000. Organizatorii unei alte mobilizări naționale de marți, anterioare acțiunii de acum, au raportat aproximativ 480.000 de participanți.\n\n• **Începutul protestelor și revendicările școlare:** mișcarea a început pe 17 septembrie în regiunea pariziană și a devenit, până la 17 octombrie, a cincea mobilizare națională. Liceenii au cerut mai mulți profesori, finanțare mai bună și condiții de studiu îmbunătățite; au criticat și platforma Parcoursup de admitere în învățământul superior. Greta Thunberg a participat marți la o acțiune organizată la un liceu din Saint-Denis.\n\n• **Protestul s-a transformat într-o mișcare națională împotriva scumpirilor:** participanții au cerut salarii și pensii mai mari, prețuri mai mici și protejarea, respectiv finanțarea adecvată a serviciilor publice. Apelurile au mobilizat și profesori, muncitori, agricultori, angajați din sănătate și pensionari.\n\n• **Revenirea „Vestelor Galbene”:** membri și susținători ai mișcării din 2018–2019 au chemat din nou oamenii în stradă, denunțând creșterea costului vieții. Acțiunile de sâmbătă au inclus marșuri, blocaje și adunări în sensuri giratorii și în alte puncte strategice; o hartă online indica peste 1.000 de acțiuni, iar alte platforme aproximativ 1.500 planificate. Ministerul de Interne a menționat circa 500 de acțiuni și peste 90 de manifestații planificate.\n\n• **Inflația și scăderea puterii de cumpărare au alimentat tensiunile:** inflația anuală a ajuns la 3,1% în septembrie, benzina costa, potrivit relatărilor, 2,20 euro litrul, iar costurile de împrumut ale statului au atins cele mai ridicate niveluri din ultimele două decenii. Într-un sondaj din octombrie, realizat pe 2.000 de persoane, 45% dintre francezi au spus că sunt îngrijorați de costul vieții și de inflație.\n\n• **Contextul bugetar:** parlamentul dezbătea măsuri în valoare de 43 de miliarde de euro, iar datoria publică ajunsese la 112% din PIB. Potrivit datelor din ziua de marți, 214 licee au fost închise, față de 800 cu o săptămână înainte; 94,2% dintre instituții au rămas deschise.\n\n• **Măsurile preventive ale autorităților:** manifestațiile au fost interzise în jurul mai multor instituții de putere din Paris, iar 25 de stații de metrou au fost închise. Marșul principal a pornit din Place de la République spre Place de Clichy, după ce organizatorilor li s-a refuzat permisiunea de a se îndrepta spre instituțiile puterii. Poliția a dispersat și două marșuri neautorizate.\n\n• **Numărul reținerilor a crescut pe parcursul zilei:** la Paris au fost raportate 40 până la ora 9:30, 61 până la ora 11:00 și 100 în jurul prânzului; la nivel național, cifra a ajuns la 166 la prânz și la 272 după-amiaza. Poliția pariziană a efectuat 589 de controale preventive.\n\n• **Bilanțul de seară:** Lecornu a anunțat 1.200 de persoane reținute și 150 de polițiști și jandarmi răniți. Nuñez raportase anterior aproximativ 400 de rețineri; guvernul a precizat că nu intenționează să declare starea de urgență. Autoritățile au spus că vor folosi înregistrările video pentru identificări și rețineri suplimentare.\n\n• **Participare numeroasă în mai multe orașe:** la Lyon și Nantes au manifestat aproximativ 20.000 de persoane în fiecare oraș, iar la Rennes circa 10.000. Majoritatea manifestațiilor au fost pașnice, dar poliția a folosit gaze lacrimogene la Paris, Lyon, Strasbourg și Nantes și tunuri cu apă la Bordeaux.\n\n• **Clădiri publice atacate în mai multe orașe:** la Marsilia, manifestanți au intrat pentru scurt timp în primărie, au deteriorat mobilierul și au doborât bustul Mariannei; a fost atacată și vandalizată secția poliției municipale. Protestatarii au pătruns și în primăria din Lille, au incendiat biroul de turism din Lyon, iar primăria din Grenoble a fost avariată.\n\n• **Incendiu cu pagube grave la Limoges:** potrivit prefectului, acoperișul primăriei s-a prăbușit peste etajele inferioare, iar aproximativ două treimi din exteriorul clădirii vechi de 143 de ani au fost distruse. La Bordeaux au fost atacate reședința prefectului și clădirea Camerei de Comerț și Industrie.\n\n• **Jafuri și incendieri de magazine în mai multe orașe:** la Paris au fost atacate magazine alimentare, de îmbrăcăminte, de articole sportive și de lux; magazinul Dior și-a suplimentat paza cu agenți privați. La Lyon au fost vizate magazine Nike, Sephora și altele, la Lille magazine Apple și Sephora, la Rennes Galeries Lafayette, iar la Nantes, printre altele, Fnac. În Marsilia, jafurile au afectat zeci de magazine.\n\n• **Ciocniri în apropierea Palatului Élysée:** potrivit Le Parisien, la circa 400 de metri de palat, manifestanți au răsturnat o mașină, au aruncat cu pietre și au împins o cabină de șantier spre polițiști; forțele de ordine au folosit o grenadă de dispersare. Publicația a relatat, citând surse din poliție, și despre jefuirea unui cuplu în vârstă. După o acțiune împotriva redacției CNews, 21 de persoane au fost reținute.\n\n• **Intervențiile poliției au fost și ele criticate:** un manifestant și-a pierdut mâna în urma exploziei unei grenade de dispersare la Saint-Étienne. De la începutul protestelor, au fost răniți 937 de polițiști și jandarmi, 248 de elevi și 149 de angajați din educație; structura de control intern investighează mai multe presupuse cazuri de violență polițienească. Relatări diferite au menționat un adolescent de 14 ani care și-a pierdut mâna și un tânăr de 15 ani rănit la ochi de un glonț de cauciuc.\n\n• **Folosirea armelor de control al mulțimii:** guvernul a suspendat folosirea grenadelor asurzitoare și de concuziune împotriva elevilor, însă Nuñez a declarat că armele intermediare ar putea fi folosite din nou în cazul unor confruntări grave. Un sindicat al polițiștilor a anunțat că intenționează să depună o plângere împotriva statului, susținând că agenții au fost puși în pericol.\n\n• **Reacțiile guvernului și ale partidelor:** guvernul a acuzat partidul LFI că a alimentat protestele, acuzație respinsă de formațiune. Jean-Luc Mélenchon a participat la marșul din Paris și a criticat presa pentru felul în care a prezentat brutalitatea poliției; el a spus și că jafurile sunt contrare metodelor mișcării. Marine Le Pen a cerut ca reparațiile școlilor avariate să fie plătite de făptași sau de părinții lor.\n\n• **Macron a făcut apel la calm și la respectarea bunurilor:** președintele a spus că dreptul la manifestație trebuie respectat, dar vandalismul și jafurile sunt inacceptabile, iar responsabilii vor fi trași la răspundere. Lecornu și Nuñez au pus violențele pe seama grupurilor de extremă stânga și a jefuitorilor care s-au alăturat manifestațiilor.\n\n• **Guvernul a convocat o celulă de criză:** primarii Parisului, Marsiliei și Lyonului au cerut o întâlnire cu premierul pentru a discuta pagubele și evoluția situației. Primarul Parisului, Emmanuel Grégoire, a declarat că străzi întregi au fost devastate și că pagubele vor fi considerabile.\n\n• **Protestele s-au extins și în Belgia:** sute de persoane au manifestat la Bruxelles și Liège împotriva costului vieții și a creșterii taxelor de înscriere la universitate. La Bruxelles, poliția a folosit gaze lacrimogene și tunuri cu apă și a reținut aproximativ zece persoane; au fost incendiate pubele, trotinete închiriate și cel puțin trei mașini, iar sediul Federației Partidului Socialist local a fost vandalizat.\n\n• **Crizele care îi afectează pe tineri pot apropia diferite grupuri de protestatari:** cercetătorul Paolo Stuppia a evidențiat schimbările climatice, precaritatea, dificultatea intrării pe piața muncii și teama de venirea extremei drepte la putere. Potrivit lui, intervențiile poliției pot crea punți între liceeni și „Vestele Galbene”.\n\n• **Au venit și reacții politice din străinătate:** vicepreședintele american JD Vance a pus, potrivit relatării Adevărul, violențele izbucnite în timpul protestelor din Franța pe seama imigrației și a criticat opoziția democrată."
+  },
+  {
     "group_id": "group_1f05c003a9",
     "category": "Gazdaság",
     "image": "https://www.economedia.ro/wp-content/uploads/2024/05/Pod-Arges-Gradistea-Bucuresti-Giurgiu-1024x536.jpg",
@@ -319,44 +1105,6 @@
     "content_ro": "Cuplul format din Bianca Iotu și Remi Dobre putem spune că este deja istorie. Blondina și-a dat frâu liber sentimentelor și a picat în ispită cu Narcis Bujor, iar Remi nu a mai ținut nici el cont de aparențe și s-a sărutat cu ispita Daniela. Ei bine, deși ea a călcat strâmb prima, Bianca a […]"
   },
   {
-    "group_id": "group_38a36b9b87",
-    "fingerprint": "279fad815753bf16f6f61727b2bf19ea",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Incendiu de amploare la una dintre cele mai aglomerate baze militare din Canada. Ministrul Apărării anunță morți și răniți",
-        "link": "https://hotnews.ro/incendiu-de-amploare-la-una-dintre-cele-mai-aglomerate-baze-militare-din-canada-ministrul-apararii-anunta-morti-si-raniti-2378958"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Incident major”, care a provocat un incendiu la o bază militară din provincia Alberta. Spitalele, copleșite de numărul răniților",
-        "link": "https://www.digi24.ro/stiri/externe/incident-major-care-a-provocat-un-incendiu-la-o-baza-militara-din-provincia-alberta-spitalele-coplesite-de-numarul-ranitilor-3997277"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Alertă la o bază militară din Canada, după un incident major: „Există morți și răniți”. Forțele armate au fost mobilizate",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/alerta-la-o-baza-militara-din-canada-dupa-un-2564743.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Incendiu de amploare la o bază militară din Canada: mai multe persoane au murit, iar altele au fost rănite. Ce au transmis autoritățile",
-        "link": "https://stirileprotv.ro/stiri/international/incendiu-de-amploare-la-o-baza-militara-din-canada-mai-multe-persoane-au-murit-iar-altele-au-fost-ranite-ce-au-transmis-autoritatile.html"
-      }
-    ],
-    "published_at": 1792305964,
-    "title_hu": "Halálos áldozatokkal és sérültekkel járt a tűz a kanadai Wainwright katonai bázisán",
-    "lead_hu": "Nagy kiterjedésű tűz ütött ki a kanadai Alberta tartományban található Wainwright katonai bázison; David McGuinty védelmi miniszter halálos áldozatokról és sérültekről számolt be, de számukat és az eset okát nem közölte. A lángok a bázis kerítésén túlra is átterjedtek, evakuálási utasítást nem adtak ki. A hatóságok vizsgálják az esetet, a helyi egészségügyi ellátásra pedig a beszámolók szerint nagy nyomás nehezedett.",
-    "content_hu": "• **Szombaton** nagy kiterjedésű tűz ütött ki a kanadai Alberta tartomány keleti részén található Wainwright katonai bázison.\n\n• **David McGuinty védelmi miniszter** megerősítette, hogy az esetnek halálos áldozatai és sérültjei is vannak; számukat és a tűz kiváltó okát nem közölte. A helyzetet érzékenynek és folyamatosan változónak nevezte.\n\n• **A kanadai hadsereg és a királyi kanadai lovasrendőrség (RCMP)** a helyi és tartományi hatóságokkal együttműködve vizsgálja az eset körülményeit. A tűzoltók a beszámolók szerint még küzdöttek a lángokkal.\n\n• **Az erős szél** miatt a lángok gyorsan terjedtek, és a bázis kerítésén túli területeket is elérték. A helyi hatóságok nem adtak ki evakuálási utasítást.\n\n• **A helyi egészségügyi ellátásra** a beszámolók szerint nagy nyomás nehezedett: egy, a CBC-nek nyilatkozó orvos túlterheltnek nevezte a wainwrighti egészségügyi egységeket. A sürgősségi egészségügyi szolgálatok a helyszínen dolgoztak, a STARS légi mentőszolgálat pedig két orvosi helikoptert küldött a térségbe, Saskatoonból és Edmontonból.\n\n• **Mark Carney kanadai miniszterelnök** súlyos incidensnek nevezte a történteket, és közölte, hogy a szövetségi kormány együttműködik Alberta tartománnyal és a helyi hatóságokkal. Danielle Smith tartományi miniszterelnök szintén tragikusnak nevezte az esetet.\n\n• **A 2021-es népszámlálási adatok szerint** 1310 katonát és civil alkalmazottat osztottak be a bázisra. Wainwright településének mintegy 6600 lakosa van, és közvetlenül a katonai létesítmény mellett fekszik.\n\n• **A Wainwright bázis** Kanada egyik legforgalmasabb katonai kiképzőhelye, és a CBC szerint az éles lőszerrel végzett lőgyakorlatok egyik fő helyszíne.",
-    "title_ro": "Incendiul de la baza militară canadiană Wainwright a provocat morți și răniți",
-    "lead_ro": "Un incendiu de amploare a izbucnit la baza militară Wainwright din provincia canadiană Alberta; ministrul Apărării, David McGuinty, a confirmat că există morți și răniți, fără să precizeze numărul victimelor sau cauza incidentului. Flăcările s-au extins dincolo de gardul bazei, însă nu au fost emise ordine de evacuare. Autoritățile investighează cazul, iar serviciile medicale locale s-ar fi confruntat cu o presiune ridicată.",
-    "content_ro": "• **Sâmbătă** a izbucnit un incendiu de amploare la baza militară Wainwright, din partea de est a provinciei canadiene Alberta.\n\n• **Ministrul Apărării, David McGuinty**, a confirmat că incidentul s-a soldat cu morți și răniți, fără să precizeze numărul victimelor sau cauza incendiului. El a descris situația drept delicată și în continuă evoluție.\n\n• **Armata canadiană și Poliția Regală Canadiană Călare (RCMP)** investighează circumstanțele incidentului în colaborare cu autoritățile locale și provinciale. Potrivit relatărilor, pompierii încă luptau cu flăcările.\n\n• **Vânturile puternice** au favorizat extinderea rapidă a incendiului, care a ajuns și dincolo de gardul bazei. Autoritățile locale nu au emis ordine de evacuare.\n\n• **Serviciile medicale locale** s-ar fi confruntat cu o presiune ridicată: un medic citat de CBC a descris unitățile medicale din Wainwright drept copleșite. Echipajele de urgență au intervenit la fața locului, iar serviciul de ambulanță aeriană STARS a trimis două elicoptere medicale, de la Saskatoon și Edmonton.\n\n• **Premierul Canadei, Mark Carney**, a descris evenimentul drept un incident grav și a declarat că guvernul federal colaborează cu provincia Alberta și cu autoritățile locale. Premierul provinciei, Danielle Smith, a calificat la rândul său incidentul drept tragic.\n\n• **Potrivit datelor recensământului din 2021**, la bază erau repartizați 1.310 militari și angajați civili. Orașul Wainwright are aproximativ 6.600 de locuitori și se află imediat lângă instalația militară.\n\n• **Baza Wainwright** este una dintre cele mai aglomerate baze de instrucție militară din Canada și, potrivit CBC, unul dintre principalele locuri pentru exerciții de tragere cu muniție reală."
-  },
-  {
     "group_id": "group_ae1a8f5aab",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/18/064537/vlcsnap-2026-10-18-09h45m19s603.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
@@ -611,64 +1359,6 @@
     "title_ro": "Lionel Messi e de neoprit: „dublă” incredibilă într-un meci în care și-a năucit adversarii",
     "lead_ro": "Lionel Messi (39 de ani) continuă să facă spectacol în MLS. Inter Miami a câștigat sâmbătă seară o deplasare complicată, scor 3-1, pe terenul formației Atlanta United, meci în care argentinianul a reu…",
     "content_ro": "Lionel Messi (39 de ani) continuă să facă spectacol în MLS. Inter Miami a câștigat sâmbătă seară o deplasare complicată, scor 3-1, pe terenul formației Atlanta United, meci în care argentinianul a reușit o „dublă”. Căpitanul lui Inter Miami a reușit să marcheze două goluri superbe, ridiculizându-și adversarii. ..."
-  },
-  {
-    "group_id": "group_c2ce22e812",
-    "fingerprint": "33e4fb8750788cea1a6f78fc0f9b3d39",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
-      },
-      {
-        "source": "G4Media",
-        "title": "Proteste masive așteptate sâmbătă în Franța: 40 de arestări pentru port de arme interzise până la ora 09:30, în Paris / Magazinele și-au baricadat geamurile / „Vestele galbene”, elevi de liceu, studenți și sindicate îndeamnă la demonstrații",
-        "link": "https://www.g4media.ro/proteste-masive-asteptate-sambata-in-franta-40-de-arestari-pentru-port-de-arme-interzise-pana-la-ora-0930-in-paris-magazinele-si-au-baricadat-geamurile-vestele-galbene-elevi-de-liceu-stud.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
-        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Scene de gherilă urbană lângă Palatul Élysée, la Paris",
-        "link": "https://hotnews.ro/scene-de-gherila-urbana-langa-palatul-elysee-la-paris-2378895"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Imagini cu Franța sub asediul violențelor: Peste 1.200 de oameni arestați, jafuri și clădiri istorice cuprinse de flăcări în urma protestelor",
-        "link": "https://hotnews.ro/imagini-cu-franta-sub-asediul-violentelor-peste-1-200-de-oameni-arestati-jafuri-si-cladiri-istorice-cuprinse-de-flacari-in-urma-protestelor-2378935"
-      },
-      {
-        "source": "G4Media",
-        "title": "Violențe extreme în Franța: Protestatarii au jufeuit magazine în mai multe orașe, marile branduri își întăresc paza",
-        "link": "https://www.g4media.ro/violente-extreme-in-franta-protestatarii-au-jufeuit-magazine-in-mai-multe-orase-marile-branduri-isi-intaresc-paza.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Gyújtogatások, rongálások, könnygázgránátok és több száz letartóztatás a francia tüntetéseken",
-        "link": "https://transtelex.ro/kulfold/2026/10/17/franciaorszag-tuntetes-rongalas-eroszak-gyujtogatas"
-      },
-      {
-        "source": "Maszol",
-        "title": "Elszabadult a pokol Franciaországban: tömegek tiltakoznak a drágulások miatt a nagyvárosokban",
-        "link": "https://maszol.ro/kulfold/Elszabadult-a-pokol-Franciaorszagban-tomegek-tiltakoznak-a-dragulasok-miatt-a-nagyvarosokban"
-      }
-    ],
-    "published_at": 1792305360,
-    "title_hu": "Országos megélhetési tiltakozássá szélesedtek a francia diákmegmozdulások, súlyos erőszakkal",
-    "lead_hu": "Az iskolai követelésekből a megélhetési költségek, az egyenlőtlenségek és a közszolgáltatások állapota elleni országos mozgalom lett, amelyhez szakszervezetek és a Sárga Mellényesek is csatlakoztak. Október 17-én a szervezők 800 ezer, a belügyminiszter mintegy 550 ezer résztvevőről számolt be; több városban fosztogatás, összecsapások és épülettüzek törtek ki, Sébastien Lecornu esti mérlege pedig 1200 őrizetbe vettet és 150 sérült rendőrt, illetve csendőrt jelzett.",
-    "content_hu": "• **Október 17-én jelentősen eltértek a részvételi becslések:** a szervezők mintegy 800 ezer, Laurent Nuñez belügyminiszter körülbelül 550 ezer résztvevőről számolt be, utóbbi 110 ezret jelzett Párizsban. A CGT napközben több mint 500 ezer tüntetőről és 1750 gyűlésről, illetve felvonulásról beszélt.\n\n• **Az előző keddi demonstráció részvételéről is eltérő becslések jelentek meg:** az Agerpres szerint a hatóságok 266 ezer, a szervezők 450 ezer résztvevőt számoltak, Párizsban pedig 56–100 ezer főre tették a létszámot. Egy korábbi országos keddi mobilizációra a szervezők mintegy 480 ezer résztvevőt közöltek.\n\n• **A tiltakozás szeptember 17-én, a párizsi régióban indult,** és október 17-ére az ötödik országos mobilizációvá nőtt. A középiskolások jobb iskolai finanszírozást, több tanárt és jobb tanulási körülményeket követeltek; a mozgalomhoz diákok és szakszervezetek is csatlakoztak.\n\n• **A követelések a megélhetési válságra is kiterjedtek:** magasabb béreket és nyugdíjakat, alacsonyabb árakat, a közszolgáltatások védelmét és jobb finanszírozását sürgették. A fiatalok a Parcoursup felsőoktatási felvételi rendszert is bírálták; a „sárgák és fiatalok” felhívás tanárokat, munkásokat, gazdákat, egészségügyi dolgozókat és nyugdíjasokat is mozgósított.\n\n• **A megélhetési feszültségeket az infláció és a vásárlóerő csökkenése erősíti:** az infláció szeptemberben 3,1 százalékra emelkedett, a benzin ára a beszámolók szerint literenként 2,20 euró volt, az állam hitelfelvételi költségei pedig két évtizedes csúcsra nőttek. Egy októberi, 2000 embert megkérdező felmérésben a franciák 45 százaléka aggódott a megélhetési költségek és az infláció miatt.\n\n• **A szombati akciókat országszerte előre szervezték:** egy online térkép több mint ezer, más források mintegy 1500 tervezett akciót jelzett; a belügyi tárca körülbelül 500 tervezett akcióról és több mint 90 demonstrációról beszélt. A főváros több hatalmi központja körül megtiltották a tüntetést, 25 metróállomást lezártak.\n\n• **A parlament közben 43 milliárd eurós költségvetési intézkedésekről vitázott,** az államadósság pedig a GDP 112 százalékát érte el. A keddi oktatási adatok szerint 214 középiskola zárt be, míg egy héttel korábban 800; az intézmények 94,2 százaléka nyitva maradt.\n\n• **Tömegek vonultak utcára a nagyvárosokban:** Lyonban és Nantes-ban mintegy 20-20 ezren, Rennes-ben 10 ezren tüntettek. Párizsban a fő menet a République térről a Clichy tér felé indult, miután a szervezők nem kaptak engedélyt arra, hogy a hatalmi intézmények felé vonuljanak.\n\n• **A nap folyamán fokozatosan emelkedett az őrizetbe vételek száma:** Párizsban reggel fél tízig 40, 11 óráig 61, dél körül pedig 100 őrizetbe vételt jelentettek; országosan délben 166, délutánra 272 volt a szám. A rendőrség 589 megelőző ellenőrzést végzett, és két engedély nélküli párizsi menetet oszlatott fel.\n\n• **A késő esti mérleg 1200 őrizetbe vettet és 150 sérült rendőrt, illetve csendőrt jelzett.** Nuñez korábban körülbelül 400 őrizetbe vételről számolt be; a belügyminiszter 110 demonstrációt tartott nyilván, a részvételt pedig 550 ezerre becsülte.\n\n• **A megmozdulások többsége békés volt, de több városban erőszakba torkollott.** A rendőrség könnygázt vetett be többek között Párizsban, Lyonban, Strasbourgban és Nantes-ban; Bordeaux-ban vízágyút is használtak. Saint-Étienne-ben egy tüntető kezét leszakította egy rendőrségi tömegoszlató gránát.\n\n• **Több városban középületeket és járműveket támadtak meg:** Marseille-ben tüntetők rövid időre behatoltak a városházára, megrongálták a berendezést és ledöntöttek egy Marianne-mellszobrot; Lille-ben is bejutottak a városházára. Lyonban felgyújtották a turisztikai irodát, Bordeaux-ban megrongálták a prefektusi rezidenciát, Grenoble-ban pedig a városháza sérült meg.\n\n• **Limoges-ban a városházát ért tűz súlyos károkat okozott:** a prefektus szerint a tető az alsóbb szintekre omlott, a 143 éves épület külső részének mintegy kétharmada megsemmisült. Párizsban éttermek, járművek és üzletek is kigyulladtak vagy megrongálódtak.\n\n• **A fosztogatások számos város üzleteit érintették.** Párizsban élelmiszerboltokat, ruházati és sportüzleteket támadtak meg; Lyonban többek között Nike- és Sephora-üzleteket, Lille-ben Apple- és Sephora-boltot, Rennes-ben pedig a Galeries Lafayette üzletét. Marseille-ben több tucat üzletet fosztottak ki, a párizsi Dior üzlet pedig magánbiztonsági őrökkel erősítette meg a védelmét.\n\n• **Párizsban az Élysée-palotától mintegy 400 méterre is összecsapás tört ki.** A Le Parisien szerint tüntetők autót borítottak fel, köveket dobáltak és egy építési konténert toltak a rendőrök felé; a rendőrség oszlatógránátot használt. A lap rendőrségi forrásokra hivatkozva egy idős házaspár kirablásáról is beszámolt.\n\n• **A tiltakozások kezdete óta 937 rendőr és csendőr, 248 diák és 149 oktatási dolgozó sérült meg.** A rendőri fellépés miatt vizsgálatok indultak: egy 14 éves elveszítette a kezét, egy 15 éves pedig gumilövedék miatt az egyik szemét. A rendőrség belső ellenőrzése több feltételezett rendőri erőszakos esetet vizsgál.\n\n• **A kormány felfüggesztette a kábító- és hanggránátok használatát a diákok elleni fellépésben,** Nuñez azonban azt mondta, súlyos összecsapások esetén köztes fegyvereket ismét bevethetnek. Egy rendőrszakszervezet panaszt tervezett az állam ellen, arra hivatkozva, hogy a rendőrök veszélynek voltak kitéve.\n\n• **A hatóságok interministeriális válságstábot hívtak össze,** a párizsi, marseille-i és lyoni polgármesterek pedig találkozót kértek a miniszterelnöktől a károk és a helyzet megvitatására. Nuñez szerint a rendőrség számos videófelvétellel rendelkezik az érintettek azonosításához; a kormány közölte, hogy nem tervezi a rendkívüli állapot kihirdetését.\n\n• **A kormány az LFI-t vádolta a tiltakozások szításával, amit a párt visszautasított.** Jean-Luc Mélenchon részt vett a párizsi meneten, és a rendőri brutalitás bemutatását kérte számon a sajtón. Marine Le Pen a megrongált iskolák javítási költségeinek megtérítését követelte a károkozóktól vagy szüleiktől; az erről szóló törvényjavaslat a parlament előtt van.\n\n• **Emmanuel Macron nyugalomra és az emberek, illetve a tulajdon tiszteletére szólított fel.** Azt mondta, a tüntetéshez való jogot tiszteletben kell tartani, a rombolás azonban elfogadhatatlan; a rongálókat és fosztogatókat felelősségre vonják. Lecornu a tiltakozások erőszakos eseményeit szélsőbaloldali csoportoknak tulajdonította.\n\n• **A mobilizáció Belgiumra is átterjedt:** több százan tüntettek Brüsszelben és Liège-ben a megélhetési költségek, illetve a felsőoktatási beiratkozási díjak emelkedése ellen. A rendőrség könnygázt és vízágyút vetett be, mintegy tíz embert őrizetbe vett; járműveket és kukákat gyújtottak fel, a brüsszeli Szocialista Párt helyi szövetségének épületét pedig megrongálták.\n\n• **A fiatalokat érő többes válságok is összekapcsolhatják a tiltakozó csoportokat.** Paolo Stuppia kutató a klímaváltozást, a bizonytalan megélhetést, a munkaerőpiacra való belépés nehézségeit és a szélsőjobb hatalomra jutásától való félelmet emelte ki; szerinte a rendőri fellépés hidat képezhet a diákok és a Sárga Mellényesek között.",
-    "title_ro": "Protestele elevilor din Franța s-au extins într-o mișcare națională împotriva scumpirilor, marcată de violențe grave",
-    "lead_ro": "Rev revendicările școlare s-au transformat într-o mișcare națională împotriva costului vieții, a inegalităților și a stării serviciilor publice, la care s-au alăturat sindicatele și Vestele Galbene. La 17 octombrie, organizatorii au anunțat 800.000 de participanți, iar ministrul de Interne aproximativ 550.000; în mai multe orașe au avut loc jafuri, confruntări și incendieri, iar bilanțul de seară al lui Sébastien Lecornu a indicat 1.200 de persoane reținute și 150 de polițiști și jandarmi răniți.",
-    "content_ro": "• **Estimările participării la 17 octombrie au fost semnificativ diferite:** organizatorii au anunțat aproximativ 800.000 de participanți, iar ministrul de Interne Laurent Nuñez circa 550.000, dintre care 110.000 la Paris. CGT a raportat în cursul zilei peste 500.000 de manifestanți și 1.750 de adunări și marșuri.\n\n• **Au existat estimări divergente și pentru manifestația de marțea precedentă:** potrivit Agerpres, autoritățile au numărat 266.000 de participanți, iar organizatorii 450.000; pentru Paris, cifrele au fost între 56.000 și 100.000. O mobilizare națională de marți, dintr-o etapă anterioară, fusese estimată de organizatori la aproximativ 480.000 de participanți.\n\n• **Protestul a început pe 17 septembrie, în regiunea pariziană,** iar până la 17 octombrie devenise a cincea zi de mobilizare națională. Liceenii au cerut finanțare mai bună pentru școli, mai mulți profesori și condiții de studiu îmbunătățite; mișcării i s-au alăturat studenți și sindicate.\n\n• **Revendicările s-au extins la criza costului vieții:** manifestanții au cerut salarii și pensii mai mari, prețuri mai mici și protejarea și finanțarea serviciilor publice. Tinerii au criticat și sistemul de admitere în învățământul superior Parcoursup; apelul „galbeni și tineri” i-a mobilizat și pe profesori, muncitori, agricultori, personal medical și pensionari.\n\n• **Tensiunile legate de trai sunt alimentate de inflație și scăderea puterii de cumpărare:** inflația a ajuns la 3,1% în septembrie, iar benzina costa, potrivit relatărilor, 2,20 euro litrul; costurile de împrumut ale statului au urcat la cel mai ridicat nivel din ultimele două decenii. Într-un sondaj din octombrie realizat pe 2.000 de persoane, 45% dintre francezi s-au declarat îngrijorați de costul vieții și inflație.\n\n• **Acțiunile de sâmbătă au fost organizate din timp în toată țara:** o hartă online indica peste 1.000 de acțiuni planificate, iar alte surse aproximativ 1.500; Ministerul de Interne a menționat circa 500 de acțiuni și peste 90 de manifestații planificate. Manifestațiile au fost interzise în jurul mai multor centre ale puterii din capitală, iar 25 de stații de metrou au fost închise.\n\n• **Parlamentul dezbătea în același timp măsuri bugetare de 43 de miliarde de euro,** iar datoria publică ajunsese la 112% din PIB. Potrivit datelor din educație de marți, 214 licee au fost închise, față de 800 cu o săptămână înainte; 94,2% dintre instituții au rămas deschise.\n\n• **Mii de oameni au ieșit în stradă în marile orașe:** la Lyon și Nantes au manifestat aproximativ 20.000 de persoane în fiecare oraș, iar la Rennes circa 10.000. La Paris, marșul principal a pornit din Place de la République spre Place de Clichy, după ce organizatorilor li s-a refuzat permisiunea de a se îndrepta spre instituțiile puterii.\n\n• **Numărul reținerilor a crescut treptat pe parcursul zilei:** la Paris au fost raportate 40 până la ora 9:30, 61 până la ora 11:00 și 100 în jurul prânzului; la nivel național, 166 la prânz și 272 după-amiaza. Poliția a efectuat 589 de controale preventive și a dispersat două marșuri neautorizate la Paris.\n\n• **Bilanțul de seară a indicat 1.200 de persoane reținute și 150 de polițiști și jandarmi răniți.** Nuñez raportase anterior aproximativ 400 de rețineri; ministrul de Interne a numărat 110 manifestații și a estimat participarea la 550.000 de persoane.\n\n• **Majoritatea manifestațiilor au fost pașnice, dar în mai multe orașe au degenerat în violențe.** Poliția a folosit gaze lacrimogene, între altele, la Paris, Lyon, Strasbourg și Nantes; la Bordeaux a folosit și tunuri cu apă. La Saint-Étienne, un manifestant și-a pierdut o mână după explozia unei grenade de dispersare a mulțimii.\n\n• **Clădiri publice și vehicule au fost atacate în mai multe orașe:** la Marsilia, manifestanții au intrat pentru scurt timp în primărie, au avariat mobilierul și au răsturnat un bust al Mariannei; la Lille au pătruns, de asemenea, în primărie. La Lyon a fost incendiat biroul de turism, la Bordeaux a fost vandalizată reședința prefectului, iar primăria din Grenoble a fost avariată.\n\n• **Incendiul de la primăria din Limoges a provocat pagube grave:** potrivit prefectului, acoperișul s-a prăbușit peste etajele inferioare, iar aproximativ două treimi din exteriorul clădirii vechi de 143 de ani au fost distruse. La Paris au fost, de asemenea, incendiate sau avariate restaurante, vehicule și magazine.\n\n• **Jafurile au vizat magazine din numeroase orașe.** La Paris au fost atacate magazine alimentare, de îmbrăcăminte și articole sportive; la Lyon, printre altele, magazine Nike și Sephora; la Lille, Apple și Sephora; iar la Rennes, Galeries Lafayette. La Marsilia au fost jefuite zeci de magazine, iar magazinul Dior din Paris și-a întărit paza cu agenți privați.\n\n• **La Paris au avut loc confruntări la aproximativ 400 de metri de Palatul Élysée.** Potrivit Le Parisien, manifestanții au răsturnat o mașină, au aruncat cu pietre și au împins o cabină de șantier spre polițiști; forțele de ordine au folosit o grenadă de dispersare. Cotidianul a relatat, citând surse din poliție, și despre jefuirea unui cuplu în vârstă.\n\n• **De la începutul protestelor au fost răniți 937 de polițiști și jandarmi, 248 de elevi și 149 de angajați din învățământ.** Au fost deschise anchete privind intervențiile poliției: un adolescent de 14 ani și-a pierdut o mână, iar un tânăr de 15 ani și-a pierdut un ochi după ce a fost lovit de un glonț de cauciuc. Controlul intern al poliției investighează mai multe presupuse cazuri de violență comise de agenți.\n\n• **Guvernul a suspendat folosirea grenadelor asurzitoare în intervențiile împotriva elevilor,** însă Nuñez a spus că arme intermediare ar putea fi utilizate din nou în cazul unor confruntări grave. Un sindicat al polițiștilor a anunțat că intenționează să depună plângere împotriva statului, susținând că agenții au fost expuși pericolului.\n\n• **Autoritățile au convocat o celulă interministerială de criză,** iar primarii Parisului, Marsiliei și Lyonului au cerut o întâlnire cu premierul pentru a discuta pagubele și evoluția situației. Nuñez a declarat că poliția deține numeroase înregistrări video pentru identificarea persoanelor implicate; guvernul a precizat că nu intenționează să declare stare de urgență.\n\n• **Guvernul a acuzat partidul LFI că alimentează protestele, acuzație respinsă de formațiune.** Jean-Luc Mélenchon a participat la marșul din Paris și a criticat presa pentru că nu arată amploarea brutalității poliției. Marine Le Pen a cerut ca persoanele care au avariat școli sau părinții lor să plătească reparațiile; proiectul de lege se află în parlament.\n\n• **Emmanuel Macron a făcut apel la calm și la respectarea persoanelor și a bunurilor.** El a spus că dreptul la manifestație trebuie respectat, dar distrugerile sunt inacceptabile, iar persoanele care vandalizează sau jefuiesc vor fi trase la răspundere. Lecornu a atribuit episoadele violente unor grupări de extremă stângă.\n\n• **Mobilizarea s-a extins și în Belgia:** sute de persoane au manifestat la Bruxelles și Liège împotriva costului vieții și a majorării taxelor de înscriere la universitate. Poliția a folosit gaze lacrimogene și tunuri cu apă și a reținut aproximativ zece persoane; au fost incendiate vehicule și tomberoane, iar sediul organizației locale a Partidului Socialist din Bruxelles a fost vandalizat.\n\n• **Crizele multiple care afectează tinerii pot lega între ele grupurile de protestatari.** Cercetătorul Paolo Stuppia a menționat schimbările climatice, precaritatea, dificultățile de intrare pe piața muncii și teama de accederea extremei drepte la putere; în opinia sa, intervenția poliției poate crea o punte între liceeni și Vestele Galbene."
   },
   {
     "group_id": "group_0023381096",
@@ -1312,39 +2002,6 @@
     "title_ro": "Felrobbant a Iași-i hőerőmű transzformátora, 23 ezer lakásban nincs fűtés és melegvíz",
     "lead_ro": "Kórházakat, iskolákat és más közintézményeket is érint a hőerőmű leállása.",
     "content_ro": "Kórházakat, iskolákat és más közintézményeket is érint a hőerőmű leállása."
-  },
-  {
-    "group_id": "group_6922cebee5",
-    "fingerprint": "28bbc9d60e7b925c9057aebe880cb29b",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/incendiul-de-la-primaria-din-limoges-franta-1024x576.png",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Primărie monument istoric, incendiată în timpul protestelor din Franța. O parte a clădirii s-a prăbușit",
-        "link": "https://www.mediafax.ro/externe/primarie-monument-istoric-incendiata-in-timpul-protestelor-din-franta-o-parte-a-cladirii-s-a-prabusit-23827364"
-      },
-      {
-        "source": "Digi24",
-        "title": "„O catastrofă pentru patrimoniu”: Primăria din Limoges, distrusă în urma violențelor din Franța, soldate cu 1.200 de arestări",
-        "link": "https://www.digi24.ro/stiri/externe/o-catastrofa-pentru-patrimoniu-primaria-din-limoges-distrusa-in-urma-violentelor-din-franta-soldate-cu-1-200-de-arestari-3997229"
-      },
-      {
-        "source": "G4Media",
-        "title": "VIDEO Barbarie în inima Franței: bande de protestatari au incendiat și distrus sediul primăriei din Limoges, monument istoric",
-        "link": "https://www.g4media.ro/video-barbarie-in-inima-frantei-bande-de-protestatari-au-incendiat-si-distrus-sediul-primariei-din-limoges-monument-istoric.html"
-      }
-    ],
-    "published_at": 1792303747,
-    "title_hu": "A limoges-i városháza nagyrészt megsemmisült a franciaországi tüntetések során",
-    "lead_hu": "A franciaországi tüntetések után a limoges-i, 1883-ban felavatott történelmi városháza nagyrészt megsemmisült: a tető beomlott, és a homlokzat mintegy kétharmada eltűnt. A megélhetési költségek és a közszolgáltatások állapota miatti megmozdulások több városban erőszakba torkolltak; a részvételről és a letartóztatásokról eltérő adatokat közöltek.",
-    "content_hu": "• **Szombat este Limoges-ban** álarcos tüntetők behatoltak a városházára és felgyújtották az épületet; előzőleg egy rendőrségi autót is felgyújtottak, a hivatal ablakait pedig betörték.\n\n• **A városháza állapota** a korábbi beszámolóknál is súlyosabb: Maurice Barate prefektus szerint a tető az alsó szintekre omlott, a nyugati szárny kivételével, az épület külső borításának pedig mintegy kétharmada eltűnt. A prefektus a károkat „katasztrófának” nevezte a kulturális örökség szempontjából.\n\n• **Az 1883-ban felavatott városháza** történelmi műemlék; építése 1879-ben kezdődött, és a párizsi városháza építészete ihlette. A tűzoltók a lángok terjedésének megakadályozásán dolgoztak, miközben a rendőrség kiürítette a környéket.\n\n• **A tüntetések országos mérlege**: a francia hatóságok szerint mintegy 550 ezren vettek részt a megmozdulásokon, a szervezők viszont 800 ezres részvételről számoltak be. A letartóztatások számáról is eltérő adatok jelentek meg: az egyik beszámoló mintegy 400, a másik több mint 1200 őrizetbe vett személyről szólt.\n\n• **Más városokban is történtek súlyos incidensek**: Lyonban felgyújtották a turisztikai információs irodának otthont adó épületet, Saint-Étienne-ben pedig egy fiatal elvesztette a kezét egy gránát robbanásakor. Párizsban üzleteket fosztottak ki, többek között Lille-ben is jelentettek fosztogatást.\n\n• **Emmanuel Macron** elítélte az erőszakot, és azt mondta, hogy a közintézményeket megtámadó, illetve károkat okozó személyeket büntetőjogi felelősségre vonják.\n\n• **Párizs, Marseille és Lyon polgármesterei** azt kérték, hogy a miniszterelnök fogadja őket a károk és a helyzet súlyosságának megvitatására; közös nyilatkozatukban az eseményekhez vezető folyamat kivizsgálását sürgették.",
-    "title_ro": "Primăria din Limoges a fost în mare parte distrusă în timpul protestelor din Franța",
-    "lead_ro": "După protestele din Franța, primăria istorică din Limoges, inaugurată în 1883, a fost în mare parte distrusă: acoperișul s-a prăbușit, iar aproximativ două treimi din exteriorul clădirii au dispărut. Manifestațiile față de costul vieții și starea serviciilor publice au degenerat în violențe în mai multe orașe, iar cifrele privind participarea și arestările diferă între surse.",
-    "content_ro": "• **Sâmbătă seara, la Limoges**, manifestanți mascați au pătruns în primărie și au incendiat clădirea; înainte, au dat foc unei mașini de poliție și au spart ferestrele sediului administrației locale.\n\n• **Starea primăriei** este mai gravă decât indicau relatările inițiale: prefectul Maurice Barate a declarat că acoperișul s-a prăbușit peste etajele inferioare, cu excepția aripii vestice, iar aproximativ două treimi din exteriorul clădirii au dispărut. Prefectul a numit pagubele „o catastrofă pentru patrimoniu”.\n\n• **Primăria inaugurată în 1883** este monument istoric; construcția a început în 1879, iar arhitectura sa a fost inspirată de cea a Primăriei din Paris. Pompierii au încercat să împiedice extinderea incendiului, în timp ce forțele de ordine au evacuat zona.\n\n• **Bilanțul național al protestelor**: potrivit autorităților franceze, aproximativ 550.000 de persoane au participat la manifestații, în timp ce organizatorii au estimat 800.000. Și numărul arestărilor diferă între relatări: una menționează aproximativ 400 de persoane, iar alta peste 1.200.\n\n• **Au avut loc incidente grave și în alte orașe**: la Lyon a fost incendiată clădirea care găzduiește biroul de informare turistică, iar la Saint-Étienne un tânăr și-a pierdut mâna în urma exploziei unei grenade. Magazine au fost jefuite la Paris, iar jafuri au fost raportate și la Lille.\n\n• **Emmanuel Macron** a condamnat violențele și a declarat că persoanele care au atacat instituții publice și au provocat distrugeri vor fi urmărite penal.\n\n• **Primarii din Paris, Marsilia și Lyon** au cerut să fie primiți de prim-ministru pentru a discuta amploarea pagubelor și gravitatea situației; într-o declarație comună, au solicitat analizarea evenimentelor care au dus la violențe."
   },
   {
     "group_id": "group_fca2446996",
@@ -2079,34 +2736,6 @@
     "content_ro": "Bayern a făcut scor cu RB Leipzig, 6-1, într-un meci în care Luis Diaz a reușit un hattrick. Însă antrenorul Vincent Kompany nu s-a putut bucura cum trebuie de goleada echipei sale. Pe parcursul meciului, în marea majoritate a timpului, Vincent Kompany a stat așezat, iar grimasele de pe față au trădat o stare de disconfort. Nici la golurile lui Bayern n-a reacționat cum ar fi fost de așteptat. „Sunt un pic surprins. ..."
   },
   {
-    "group_id": "group_64fd8f1d47",
-    "fingerprint": "4fd79ddd006ff3c0accc4bc3599907b2",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/8134465-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Marco Rubio neagă că SUA ar fi ordonat încetinirea serviciului Starlink din Ucraina. „Nimeni de la Casa Albă nu a ordonat nimănui să încetinească internetul”",
-        "link": "https://www.mediafax.ro/stirile-zilei/marco-rubio-neaga-ca-sua-ar-fi-ordonat-incetinirea-serviciului-starlink-din-ucraina-nimeni-de-la-casa-alba-nu-a-ordonat-nimanui-sa-incetineasca-internetul-23827412"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Marco Rubio respinge acuzațiile Kievului privind întreruperile Starlink: „Nimeni de la Casa Albă nu a ordonat asta”",
-        "link": "https://hotnews.ro/marco-rubio-respinge-acuzatiile-kievului-privind-problemele-starlink-nimeni-de-la-casa-alba-nu-a-ordonat-asta-2378992"
-      }
-    ],
-    "published_at": 1792300860,
-    "title_hu": "Rubio tagadja, hogy a Fehér Ház rendelte volna el a Starlink lassítását Ukrajnában",
-    "lead_hu": "Marco Rubio amerikai külügyminiszter szerint az Egyesült Államok és a Fehér Ház nem rendelte el az ukrajnai Starlink-szolgáltatás lassítását. Volodimir Zelenszkij ukrán elnök és más ukrán tisztviselők szándékos korlátozásról és a katonai műveleteket érintő zavarokról beszéltek; Rubio úgy tudta, a szolgáltatás helyreállt, Zelenszkij viszont azt mondta, a javulás még nem teljes.",
-    "content_hu": "• **Marco Rubio amerikai külügyminiszter** tagadta, hogy a Fehér Ház vagy az Egyesült Államok elrendelte volna az ukrajnai Starlink-kapcsolat lassítását vagy a sávszélesség csökkentését.\n\n• **Volodimir Zelenszkij ukrán elnök** szerint a korlátozások szándékosak voltak, és egy tervezett művelet részét képezhették. Serhii Beskrestnov elnöki tanácsadó arról számolt be, hogy sebességkorlátozást vezettek be a mozgó Starlink-terminálokra; az ukrán tisztviselők szerint a zavarok katonai műveleteket is hátráltattak.\n\n• **A szolgáltatás állapotáról eltérő beszámolók hangzottak el:** Rubio úgy nyilatkozott, hogy tudomása szerint a Starlink működése helyreállt, Zelenszkij pedig azt mondta, hogy a műholdas kommunikáció javult, de még nem állt teljesen helyre. Az ukrán elnök szerint a fennakadás civilek életét is veszélyeztette.\n\n• **Rubio különválasztotta a Starlinket és a Starshieldet:** előbbit kereskedelmi szolgáltatásnak, utóbbit az amerikai hadsereg által használt védelmi rendszernek nevezte. Közlése szerint Ukrajnának jelenleg nincs hozzáférése a Starshieldhez.",
-    "title_ro": "Rubio neagă că Casa Albă ar fi ordonat încetinirea Starlink în Ucraina",
-    "lead_ro": "Secretarul de stat american Marco Rubio a declarat că Statele Unite și Casa Albă nu au ordonat încetinirea serviciului Starlink din Ucraina. Președintele ucrainean Volodimir Zelenski și alți oficiali ucraineni au vorbit despre restricții deliberate și perturbări care au afectat operațiunile militare; Rubio a spus că, din câte știe, serviciul a fost restabilit, în timp ce Zelenski a afirmat că îmbunătățirea nu este încă deplină.",
-    "content_ro": "• **Secretarul de stat american Marco Rubio** a negat că Casa Albă sau Statele Unite ar fi ordonat încetinirea conexiunii Starlink din Ucraina ori reducerea vitezei acesteia.\n\n• **Președintele ucrainean Volodimir Zelenski** a afirmat că restricțiile au fost deliberate și ar fi putut face parte dintr-o operațiune planificată. Consilierul prezidențial Serhii Beskrestnov a relatat că a fost impusă o limită de viteză terminalelor Starlink aflate în mișcare; oficialii ucraineni au spus că perturbările au afectat și operațiunile militare.\n\n• **Relatările despre starea serviciului diferă:** Rubio a spus că, din câte știe, funcționarea Starlink a fost restabilită, în timp ce Zelenski a declarat că serviciile de comunicații prin satelit s-au îmbunătățit, dar nu au revenit complet la normal. Potrivit președintelui ucrainean, întreruperile au pus în pericol și vieți de civili.\n\n• **Rubio a făcut distincția între Starlink și Starshield:** a descris primul drept un serviciu comercial, iar al doilea drept un sistem de apărare utilizat de armata americană. Potrivit oficialului, Ucraina nu are în prezent acces la Starshield."
-  },
-  {
     "group_id": "group_c0f0855e55",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/09/21/072643/oameni-pe-strada-ploaie-frig.jpg?fm=jpg&q=80&fit=crop&crop=5184%2C3456%2C0%2C0&w=1280",
@@ -2700,74 +3329,6 @@
     "content_ro": "Katie Zacharia a rezistat doar cinci zile în funcția de purtător de cuvânt al Casei Albe, timp în care a răspuns la doar trei întrebări din partea presei. Demiterea ei bruscă a servit însă un ultim scop pentru președintele Donald Trump și administrația sa: a distras temporar atenția de la o serie de pași greșiți […] © G4Media.ro."
   },
   {
-    "group_id": "group_7828f76de9",
-    "fingerprint": "9a3d4ca3b43981e310ce2ed505cbf305",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "Economedia",
-        "title": "Ilie Bolojan: PNL ar putea vota învestirea Guvernului Luca Niculescu, dar nu va reface coaliția și va rămâne în opoziție",
-        "link": "https://economedia.ro/ilie-bolojan-pnl-ar-putea-vota-investirea-guvernului-luca-niculescu-dar-nu-va-reface-coalitia-si-va-ramane-in-opozitie.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "PNL decide sâmbătă dacă votează Guvernul Niculescu. Ilie Bolojan: „Votul ar putea să ne coste nu doar politic, ci și personal”",
-        "link": "https://stirileprotv.ro/stiri/politic/pnl-decide-sambata-daca-voteaza-guvernul-niculescu-ilie-bolojan-votul-ar-putea-sa-ne-coste-nu-doar-politic-ci-si-personal.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "STENOGRAME din ședința PNL. De ce insistă Bolojan ca PNL să voteze guvernul Luca Niculescu: „Nu mai e o problemă de calcul politic”",
-        "link": "https://adevarul.ro/politica/stenograme-din-sedinta-pnl-de-ce-insista-bolojan-2564679.html"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "PNL a decis să voteze Guvernul Niculescu. Ilie Bolojan: „Acest vot nu ar fi fost acordat în condiții normale”",
-        "link": "https://www.ebihoreanul.ro/stiri/pnl-a-decis-sa-voteze-guvernul-niculescu-ilie-bolojan-daca-am-face-exclusiv-un-calcul-strict-politic-pnl-nu-ar-trebui-sa-voteze-investirea-acestui-guvern-205901.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Demnitarii PNL își depun demisiile după decizia de a sprijini Guvernul Niculescu. În ce condiții ar putea depune partidul moțiune de cenzură",
-        "link": "https://adevarul.ro/politica/demnitarii-pnl-isi-depun-demisiile-dupa-decizia-de-2564694.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Döntött a PNL: ellenzékből megszavazzák a Niculescu-kabinetet",
-        "link": "https://maszol.ro/belfold/Dontott-a-PNL-ellenzekbol-megszavazzak-a-Niculescu-kabinetet"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "„PNL nu este egal PSD”. Bolojan explică de ce liberalii votează Guvernul Niculescu, dar trec în opoziție (VIDEO)",
-        "link": "https://www.ebihoreanul.ro/stiri/pnl-nu-este-egal-psd-bolojan-explica-de-ce-liberalii-voteaza-guvernul-niculescu-dar-trec-in-opozitie-video-205902.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Reacții în lanț în PNL după decizia de a vota Guvernul Niculescu. Liberalii explică „rațiunea votului” partidului",
-        "link": "https://www.mediafax.ro/politic/reactii-in-lant-in-pnl-dupa-decizia-de-a-vota-guvernul-niculescu-liberalii-explica-ratiunea-votului-partidului-23827267"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Guvernul Niculescu, amenințat cu prima moțiune de cenzură înaintea votului de învestitură. Mesaj ferm pentru viitorul Cabinet",
-        "link": "https://stirileprotv.ro/stiri/politic/guvernul-niculescu-amenintat-cu-prima-motiune-de-cenzura-inaintea-votului-de-investitura-mesaj-ferm-pentru-viitorul-cabinet.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "PNL semnează astăzi acordul cu Luca Niculescu. Condițiile pentru susținerea noului Guvern",
-        "link": "https://www.mediafax.ro/politic/pnl-semneaza-astazi-acordul-cu-luca-niculescu-conditiile-pentru-sustinerea-noului-guvern-23827402"
-      }
-    ],
-    "published_at": 1792296654,
-    "title_hu": "A PNL ellenzékből, feltételekkel megszavazza a Niculescu-kormányt",
-    "lead_hu": "A PNL országos vezetősége október 17-én úgy döntött, hogy a liberális parlamenti képviselők támogatják Luca Niculescu kormányának beiktatását, miközben a párt ellenzékbe vonul. Ilie Bolojan a több mint öt hónapja tartó válsággal és az alapvető közszolgáltatások finanszírozási kockázataival indokolta a feltételes voksot; a Niculescuval vasárnapra tervezett megállapodás a költségvetési vállalásokhoz és a 2027-es büdzsé elfogadásáig tartó időszakhoz kötné a támogatást. A parlamenti beiktatási szavazást október 20-ára tűzték ki.",
-    "content_hu": "• **Október 17-én a PNL országos vezetősége a beiktatási voks mellett döntött** A több mint háromórás, feszült ülésen 56 résztvevőből hatan ellene szavaztak, egy politikus tartózkodott. A liberális frakciók korábbi, konzultatív támogatása után ez lett a párt végleges döntése; a parlamenti képviselőktől azt várják, hogy október 20-án támogassák a Niculescu-kormányt.\n\n• **A PNL ellenzékbe vonul, a voks nem jelent koalíciós részvételt vagy bizalmi támogatást** Bolojan „szükségből adott, feltételes és célhoz kötött” szavazatként jellemezte a döntést. A PNL nem kér miniszteri vagy államtitkári posztokat, és nem tárgyalt tárcákról; a kabinet összetételéért és a parlamenti többség kialakításáért a kijelölt miniszterelnök, illetve a kormányban részt vevő pártok felelnek.\n\n• **A Bolojan–Niculescu-megállapodást vasárnap délutánra tervezték aláírni** A megállapodás a deficitcélok és a fiskális fegyelem megtartását, a beruházások védelmét, a közpénzek felelős felhasználását, az európai vállalások teljesítését, valamint az átlátható és felelős kormányzást rögzítené. Bolojan szerint a dokumentum a 2027-es költségvetés elfogadása utánig lenne érvényben; a büdzsé elfogadását január–februárra, illetve 2027 tavaszára tette.\n\n• **A PNL vállalta, hogy a megállapodás betartása esetén nem kezdeményez és nem támogat bizalmatlansági indítványt** Bolojan a korábbi, hathavi vállalást a költségvetés elfogadásáig tartó időszakhoz kötötte. Ha a kormány megszegi az egyezségben rögzített célokat, a liberálisok fenntartják a bizalmatlansági indítvány benyújtásának vagy támogatásának lehetőségét.\n\n• **A PNL feltételesen támogatná a 2027-es költségvetést** A büdzsének ténylegesen beszedhető bevételekre kell épülnie, folytatnia kell a fiskális konszolidációt, védenie kell a beruházásokat, és kerülnie kell a fedezet nélküli kiadásnövelést. Bolojan szerint a vállalások a befektetői bizalom, az uniós forrásokhoz való hozzáférés és a pénzügyi stabilitás szempontjából is fontosak.\n\n• **A PNL politikai támogatásával betöltött tisztségek viselői lemondanak** Bolojan bejelentette, hogy a liberálisok támogatásával kinevezett tisztségviselők a következő hét első napjaiban benyújtják lemondásukat, beleértve a politikai alapon betöltött állami vállalati és igazgatótanácsi posztokat is. A pályázaton vagy más jogszerű eljárással megszerzett állások nem tartoznak a döntés hatálya alá.\n\n• **Bolojan a közszolgáltatások finanszírozásával és az ügyvivői kormány korlátozott jogköreivel indokolta a voksot** Szerinte a több mint öt hónapja tartó provizórium alatt a kabinet nem tudott új politikákat bevezetni vagy sürgős költségvetési kiigazítást végrehajtani. A Floreasca kórház sürgősségi osztálya 2026-ra 5 millió lejnél kevesebb induló keretet kapott a 2025-ös, 10 millió lejt meghaladó összeghez képest; a marosvásárhelyi egység támogatása 8 millióról 4 millió lej alá csökkent. Bolojan szerint egyes sürgősségi egységek az éves szükségletük mintegy 30 százalékát kapták meg induláskor.\n\n• **A mentők és a katasztrófavédelem költségvetését az üzemanyag drágulása is terheli** Bolojan szerint a 20–30 százalékos üzemanyagár-emelkedés miatt a nagy fogyasztású intézmények keretei gyorsabban kimerülhetnek. A közlekedési tárca PNRR-szerződéseinek 19,5 milliárd eurós értékét a 4,6 milliárd eurós végleges kerettel állította szembe; azt is mondta, hogy a szárazság miatt a cernavodai erőmű termelésének mintegy 20 százaléka kiesett.\n\n• **A PNL-en belül komoly ellenállás övezte a kabinet támogatását** A PNL Iași szervezete egyhangúlag elutasította a beiktatási voksot, reformpárti többséget vagy előrehozott választást sürgetett; Dragoș Ciobotaru, Adrian Cozma, Octavian Oprea és más liberálisok is bírálták a döntést vagy a kormány összetételét. Mircea Fechet, Siegfried Mureșan és Dan Motreanu a támogatás mellett érvelt. Bolojan elismerte, hogy tisztán pártpolitikai számítás alapján a PNL nem szavazná meg a kabinetet, és nem táplál nagy várakozásokat annak teljesítményével kapcsolatban.\n\n• **Bolojan szerint a voks politikai kockázattal jár, de a PNL-nek a válság lezárását kell előtérbe helyeznie** Azt mondta, a liberálisokat később a kormány hibáiért is bírálhatják, noha teljes ellenzékben lesznek. Érvelése szerint a működőképes kormány hiánya veszélyeztetheti a közszolgáltatásokat, a költségvetési kiigazítást és az állam hitelfelvételét. A PSD-t nevezte a leendő kabinet legnagyobb veszélyének.\n\n• **A PNL voksával változik a beiktatás várható parlamenti mérlege** Egy számítás szerint a PSD, a PNL, az RMDSZ, a kisebbségi frakció és az Egységben Romániáért csoport összesen 273 szavazatot adhat; a PACE hét képviselőjével ez 280-ra nőhet. A beiktatáshoz 233 voks szükséges. PNL nélkül a felsorolt csoportok 192 szavazatot jelentenének, PACE-szal 199-et, és a 22 független teljes támogatásával is csak 221-et érnének el.\n\n• **Az USR elutasítja a kormányt, és kételkedik hathavi stabilitásában** Dominic Fritz szerint nem világos, milyen parlamenti többségre támaszkodna a kabinet, ezért az USR nem szavazza meg a PSD-s minisztereket is tartalmazó kormányt; a párt döntése egyhangú volt. Fritz hat hónapot is optimista időtávnak nevezett, ugyanakkor jelezte, hogy az USR a PNL-lel továbbra is együttműködne egy PSD és AUR nélküli politikai alternatíva kialakításáért.\n\n• **A parlamenti meghallgatásokat hétfőre és kedd délelőttre, a szavazást október 20-ára tervezték** Luca Niculescu csütörtök este benyújtotta a kormányprogramot és a 18 miniszter jelölését; a plenáris beiktatási szavazást kedden 14 órára tűzték ki.",
-    "title_ro": "PNL votează Guvernul Niculescu din opoziție, cu condiții",
-    "lead_ro": "Conducerea națională a PNL a decis, pe 17 octombrie, ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, în timp ce partidul va intra în opoziție. Ilie Bolojan a justificat votul condiționat prin criza politică de peste cinci luni și riscurile pentru finanțarea serviciilor publice; acordul cu Niculescu, a cărui semnare era programată duminică, ar lega sprijinul de angajamente bugetare și de adoptarea bugetului pe 2027. Votul de învestitură este programat pentru 20 octombrie.",
-    "content_ro": "• **Pe 17 octombrie, conducerea națională a PNL a decis să voteze învestirea** În ședința tensionată, care a durat peste trei ore, șase dintre cei 56 de participanți au votat împotrivă, iar unul s-a abținut. După votul consultativ anterior al grupurilor parlamentare, aceasta a fost decizia finală a partidului; parlamentarii liberali urmează să susțină Guvernul Niculescu pe 20 octombrie.\n\n• **PNL intră în opoziție, iar votul nu înseamnă participare la coaliție sau vot de încredere** Bolojan a descris decizia drept un vot „de necesitate, condiționat și punctual”. PNL nu cere funcții de ministru sau secretar de stat și nu a negociat portofolii; răspunderea pentru componența cabinetului și formarea majorității parlamentare revine premierului desemnat și partidelor care intră la guvernare.\n\n• **Acordul Bolojan–Niculescu urma să fie semnat duminică după-amiază** Documentul ar urma să prevadă respectarea țintelor de deficit și a disciplinei fiscale, protejarea investițiilor, folosirea responsabilă a banilor publici și respectarea angajamentelor europene, precum și principii de bună guvernare. Bolojan a spus că înțelegerea ar fi valabilă până după adoptarea bugetului pentru 2027, estimată pentru ianuarie-februarie sau primăvara acelui an.\n\n• **PNL s-a angajat să nu inițieze și să nu voteze o moțiune de cenzură dacă acordul este respectat** Bolojan a legat angajamentul anunțat inițial pentru șase luni de perioada până la adoptarea bugetului. Dacă Guvernul nu respectă obiectivele asumate, liberalii își rezervă posibilitatea de a depune sau susține o moțiune de cenzură.\n\n• **PNL ar susține condiționat bugetul pentru 2027** Acesta trebuie să se bazeze pe venituri care pot fi încasate, să continue consolidarea fiscală, să protejeze investițiile și să evite creșterea cheltuielilor fără acoperire. Bolojan a afirmat că respectarea acestor angajamente este importantă și pentru accesul la fonduri europene, încrederea investitorilor și stabilitatea financiară.\n\n• **Demnitarii numiți cu sprijinul politic al PNL își vor da demisia** Bolojan a anunțat că aceștia vor depune demisiile în primele zile ale săptămânii următoare, inclusiv cei aflați în funcții politice în companii de stat și consilii de administrație. Măsura nu îi vizează pe cei care au obținut posturile prin concurs sau alte proceduri legale.\n\n• **Bolojan a justificat votul prin riscurile pentru serviciile publice și atribuțiile limitate ale guvernului interimar** El a susținut că, în cele peste cinci luni de provizorat, Executivul nu a putut introduce politici noi sau face rapid o rectificare bugetară. Unitatea de primiri urgențe de la Spitalul Floreasca ar fi primit pentru 2026 mai puțin de 5 milioane de lei inițial, față de peste 10 milioane în 2025; la Târgu Mureș alocarea inițială a scăzut de la 8 milioane la sub 4 milioane de lei. Potrivit lui Bolojan, unele unități au primit inițial aproximativ 30% din necesarul anual.\n\n• **Scumpirea combustibililor apasă bugetele ambulanțelor și ale serviciilor de urgență** Bolojan a spus că majorarea cu 20–30% a prețurilor la carburanți poate epuiza mai repede bugetele instituțiilor cu un consum ridicat. El a comparat contractele PNRR semnate de Ministerul Transporturilor, în valoare de 19,5 miliarde de euro, cu alocarea finală de 4,6 miliarde de euro și a afirmat că seceta a redus cu aproximativ 20% producția centralei de la Cernavodă.\n\n• **Susținerea Guvernului a provocat opoziție în interiorul PNL** Organizația PNL Iași a respins în unanimitate votul de învestitură și a cerut o majoritate reformistă sau alegeri anticipate; Dragoș Ciobotaru, Adrian Cozma, Octavian Oprea și alți liberali au criticat decizia ori componența cabinetului. Mircea Fechet, Siegfried Mureșan și Dan Motreanu au susținut votul. Bolojan a admis că, dintr-un calcul strict politic, PNL nu ar trebui să voteze Guvernul și a spus că nu are așteptări foarte mari de la acesta.\n\n• **Bolojan a recunoscut riscul politic al deciziei, dar a pledat pentru încheierea crizei** El a spus că PNL ar putea fi criticat pentru deciziile viitorului Guvern, deși va fi în opoziție. În opinia sa, lipsa unui Executiv cu puteri depline pune în pericol serviciile publice, rectificarea bugetară și accesul statului la împrumuturi. Bolojan a numit PSD principalul pericol pentru viitorul cabinet.\n\n• **Votul PNL schimbă calculele privind majoritatea parlamentară** Potrivit unei simulări, PSD, PNL, UDMR, grupul minorităților naționale și grupul Uniți pentru România ar putea strânge 273 de voturi; cu cei șapte parlamentari PACE, totalul ar ajunge la 280. Pentru învestire sunt necesare 233 de voturi. Fără PNL, grupurile enumerate ar avea 192 de voturi, respectiv 199 cu PACE, iar sprijinul tuturor celor 22 de neafiliați ar ridica totalul doar la 221.\n\n• **USR respinge Guvernul și se îndoiește că va rezista șase luni** Dominic Fritz a declarat că nu este clar pe ce majoritate parlamentară s-ar baza cabinetul și că USR nu va vota un Executiv din care fac parte miniștri PSD; decizia partidului a fost unanimă. Fritz a numit șase luni un scenariu optimist, dar a spus că USR va continua să colaboreze cu PNL pentru o alternativă politică fără PSD și AUR.\n\n• **Audierile miniștrilor sunt programate luni și marți dimineață, iar votul pe 20 octombrie** Luca Niculescu a depus joi seara programul de guvernare și lista celor 18 miniștri. Parlamentul reunit urmează să voteze învestirea marți, de la ora 14:00."
-  },
-  {
     "group_id": "group_28ec592363",
     "fingerprint": "e8c15e41fbe4b4dc3cd28b230da2c5eb",
     "category": "Általános",
@@ -3133,34 +3694,6 @@
     "title_ro": "Ce se poate ascunde în spatele durerilor de cap repetate. Cum se manifestă migrena și în ce mod se stabilește diagnosticul",
     "lead_ro": "Migrena este o afecțiune neurologică ale cărei manifestări pot perturba activitățile cotidiene. Durerea pulsatilă, însoțită adesea de greață și sensibilitate la lumină sau zgomote, se poate repeta în …",
     "content_ro": "Migrena este o afecțiune neurologică ale cărei manifestări pot perturba activitățile cotidiene. Durerea pulsatilă, însoțită adesea de greață și sensibilitate la lumină sau zgomote, se poate repeta în episoade care afectează calitatea vieții."
-  },
-  {
-    "group_id": "group_7b8a114c9b",
-    "fingerprint": "f8e15f264df27a84c52835efa270c356",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjEyJTJGMzAwODQwN18zMDA4/NDA3X0FkdWNlcmVhLW1vYXN0ZWxvci1T/ZmFudHVsdWktQXBvc3RvbC1BbmRyZWkt/bGEtSWFzaV8tU3Vyc2EtRm90by1HZXR0/eS1JbWFnZXMuanBnJmhhc2g9YWM4ZGIz/ZDNjMDgxOGUzOGJjODk1Yzc4Njc3OWE4MTY=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Sfântul Dimitrie cel Nou 2026. Programul pelerinajului și al procesiunilor din București",
-        "link": "https://stirileprotv.ro/divers/sfantul-dimitrie-cel-nou-2026-programul-pelerinajului-si-al-procesiunilor-din-bucuresti.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Când începe pelerinajul de Sfântul Dimitrie 2026. Ce moaște vor fi aduse în București și care este programul",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cand-incepe-pelerinajul-de-sfantul-dimitrie-2026-ce-moaste-vor-fi-aduse-in-bucuresti-si-care-este-programul-3995493"
-      }
-    ],
-    "published_at": 1792295571,
-    "title_hu": "Október 18–28. között tartják a bukaresti Szent Dimitrie-zarándoklatot",
-    "lead_hu": "A bukaresti pátriárkai székesegyháznál 2026. október 18–28. között rendezik meg a Szent Dimitrie cel Nou ünnepéhez kapcsolódó zarándoklatot. Október 24-én tartják a hagyományos „Szentek útja” körmenetet, az ünnepi liturgiát pedig október 27-re tervezik.",
-    "content_hu": "• **2026. október 18–28.** között tartják Bukarestben a Szent Dimitrie cel Nou, a főváros védőszentje ünnepéhez kapcsolódó zarándoklatot a pátriárkai székesegyháznál.\n\n• **Október 18–23. között** naponta 7 és 21 óra között lehet hódolni az ereklyék előtt a történelmi pátriárkai székesegyházban. A tornácon festmény-restaurálási munkálatok zajlanak; a templomban többek között Szent Dimitrie cel Nou, Szent Dimitrie, Konstantin és Ilona, valamint Szent Nektáriosz ereklyéit helyezik el.\n\n• **Október 24-én, délben** rendezik meg a „Szentek útja” körmenetet. A különböző helyszínekről induló menetek a Piața Unirii környékén egyesülnek, majd együtt vonulnak fel a pátriárkai székesegyházhoz.\n\n• **Október 24-én 12:45-kor** Daniel pátriárka fogadja az ereklyéket a székesegyház nyári oltáránál, majd azokat a Pátriárka-dombon található szentek baldachinja alatt helyezik el tiszteletadásra.\n\n• **Október 27-én** tartják Szent Dimitrie cel Nou ünnepét; a főpapi liturgiát Daniel pátriárka vezeti püspökök, papok és diakónusok részvételével.",
-    "title_ro": "Pelerinajul de Sfântul Dimitrie cel Nou va avea loc la București între 18 și 28 octombrie",
-    "lead_ro": "Pelerinajul dedicat Sfântului Cuvios Dimitrie cel Nou se va desfășura la Catedrala Patriarhală din București, în perioada 18–28 octombrie 2026. Procesiunea tradițională „Calea Sfinților” este programată pe 24 octombrie, iar liturghia de hram va avea loc pe 27 octombrie.",
-    "content_ro": "• **Între 18 și 28 octombrie 2026**, la Catedrala Patriarhală din București va avea loc pelerinajul dedicat Sfântului Cuvios Dimitrie cel Nou, ocrotitorul Capitalei.\n\n• **În perioada 18–23 octombrie**, credincioșii se vor putea închina zilnic, între orele 07:00 și 21:00, în interiorul Catedralei Patriarhale istorice. În pridvor au loc lucrări de restaurare a picturii; vor fi expuse moaștele Sfântului Dimitrie cel Nou, ale Sfântului Mare Mucenic Dimitrie, ale Sfinților Împărați Constantin și Elena și ale Sfântului Ierarh Nectarie.\n\n• **Sâmbătă, 24 octombrie, de la ora 12:00**, va avea loc procesiunea „Calea Sfinților”. Coloanele pornite din locuri diferite se vor reuni în zona Pieței Unirii și vor urca împreună spre Catedrala Patriarhală.\n\n• **La ora 12:45, pe 24 octombrie**, Patriarhul Daniel va întâmpina rac la altarul de vară al catedralei. Ulterior, moaștele vor fi așezate spre închinare în Baldachinul Sfinților de pe Colina Patriarhiei.\n\n• **Pe 27 octombrie** este sărbătorit Sfântul Cuvios Dimitrie cel Nou. Liturghia arhierească va fi oficiată de Patriarhul Daniel, împreună cu ierarhi, preoți și diaconi."
   },
   {
     "group_id": "group_79a4f290ac",
@@ -4327,145 +4860,5 @@
     "title_ro": "Bolojan spune că PSD este principalul pericol pentru Guvernul Niculescu, iar PNL intră în opoziție",
     "lead_ro": "Ilie Bolojan afirmă că fragmentarea Parlamentului și comportamentul PSD pot amenința stabilitatea viitorului Guvern Luca Niculescu. PNL va intra în opoziție, dar ar putea vota învestirea cabinetului din necesitate; Bolojan spune că liberalii ar putea depune o moțiune de cenzură dacă guvernul nu respectă acordul.",
     "content_ro": "• **Fragmentarea Parlamentului** face dificilă formarea unor majorități stabile, a spus Bolojan, motiv pentru care este greu de anticipat cât va rezista viitorul Guvern Luca Niculescu.\n\n• **Bolojan a numit PSD cel mai periculos adversar al guvernului:** el a invocat precedente în care social-democrații au contribuit la căderea propriilor guverne și au provocat crize politice.\n\n• **O parte importantă a PNL nu mai dorește o nouă coaliție cu PSD,** a explicat Bolojan prin experiențele colaborărilor anterioare, încălcarea repetată, în opinia sa, a înțelegerilor și crizele provocate.\n\n• **Discuțiile privind condițiile sprijinului pentru învestire sunt practic încheiate:** posibilul acord ar prevedea respectarea țintei de deficit, limitarea cheltuielilor suplimentare la cele acoperite de venituri certe, respectarea angajamentelor și continuarea investițiilor.\n\n• **Adoptarea bugetului pentru 2027 ar putea fi un reper important al acordului:** Bolojan a estimat că perioada critică se va întinde până în ianuarie sau februarie anul viitor.\n\n• **PNL consideră votul pentru învestire un vot de necesitate, nu o intrare la guvernare:** potrivit lui Bolojan, partidul va intra în opoziție și nu va forma o coaliție cu PSD.\n\n• **PNL a avertizat că ar putea depune o moțiune de cenzură** dacă noul guvern nu respectă acordul. În opoziție, liberalii nu vor bloca măsurile pe care le consideră benefice, dar vor critica deciziile pe care le consideră greșite.\n\n• **Bolojan a justificat votul de necesitate prin nevoia de a încheia blocajul politic:** în opinia sa, prelungirea incertitudinii timp de peste cinci luni ar fi afectat și mai mult încrederea cetățenilor în instituțiile statului. El a afirmat că guvernul interimar a contribuit în această perioadă la absorbția fondurilor PNRR și a asigurat funcționarea de bază a instituțiilor.\n\n• **Robert Sighiartău a numit alianța PNL-PSD din 2021 o greșeală politică,** despre care a spus că a afectat încrederea alegătorilor în PNL. În opinia sa, liberalii au suportat o parte importantă din costurile politice ale măsurilor nepopulare adoptate în timpul guvernării.\n\n• **Sighiartău consideră intrarea în opoziție o șansă de reconstruire a identității politice a PNL.** Până în 2028, partidul ar trebui, în opinia sa, să atragă oameni noi, să se reorganizeze și să propună soluții proprii; el a avertizat și asupra unor posibile presiuni asupra primarilor liberali și tentative de divizare a partidului."
-  },
-  {
-    "group_id": "group_ebd84c2530",
-    "fingerprint": "0cb81347a6aee0e4bb697c681138c3ce",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/12/155003/pasageri-avion.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Drepturi noi pentru pasageri, din 2027. Ce modificări vor implementa companiile aeriene",
-        "link": "https://stirileprotv.ro/stiri/actualitate/drepturi-noi-pentru-pasageri-din-2027-ce-modificari-vor-implementa-companiile-aeriene.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Din 2027 se schimbă regulile pentru călătoriile cu avionul. Ce obligații au companiile aeriene",
-        "link": "https://www.cancan.ro/din-2027-se-schimba-regulile-pentru-calatoriile-cu-avionul-ce-obligatii-au-companiile-aeriene-21531842"
-      }
-    ],
-    "published_at": 1792264564,
-    "title_hu": "2027-től új uniós szabályok védik a repülőutasokat",
-    "lead_hu": "Az új uniós szabályok 2027. október 23-tól módosítják a poggyászokra, az ülőhelyekre és a járatzavarok kezelésére vonatkozó előírásokat. A légitársaságoknak átláthatóbban kell feltüntetniük az árakat, a 14 év alatti gyermekek pedig külön díj nélkül ülhetnek kísérőik mellett.",
-    "content_hu": "• **2027. október 23-tól** új uniós előírások vonatkoznak a légi utasok jogaira; a légitársaságoknak addig kell felkészülniük a változásokra.\n\n• **Az ingyenes személyes tárgy** legfeljebb 40 × 30 × 15 centiméteres lehet, és el kell férnie az előtte lévő ülés alatt. A nagyobb fedélzeti poggyász továbbra is lehet díjköteles, de a légitársaságoknak már a foglalás kezdetétől világosan fel kell tüntetniük a költségeket és a kézipoggyászt tartalmazó árlehetőséget.\n\n• **A 14 év alatti gyermekek** a szabályokban meghatározott feltételek mellett külön ülőhelyválasztási díj nélkül ülhetnek szüleik vagy kísérő felnőtt mellett.\n\n• **Járatkésés vagy -törlés esetén** a jegyár visszatérítését legfeljebb hét naptári napon belül kell teljesíteni, a kártérítési igényeket pedig legfeljebb 30 napon belül kell elbírálni. A kártérítés összege elérheti a 600 eurót, de nem jár automatikusan minden késésért: a jogosultságot a körülmények és a vonatkozó szabályok határozzák meg.",
-    "title_ro": "Noi reguli europene pentru pasagerii aerieni, din 2027",
-    "lead_ro": "Noile reguli ale Uniunii Europene vor modifica, de la 23 octombrie 2027, prevederile privind bagajele, locurile și gestionarea zborurilor perturbate. Companiile aeriene vor trebui să afișeze mai transparent tarifele, iar copiii sub 14 ani vor putea sta gratuit lângă însoțitori.",
-    "content_ro": "• **Din 23 octombrie 2027**, vor intra în vigoare noi reguli europene privind drepturile pasagerilor aerieni; companiile au la dispoziție timp pentru a se pregăti.\n\n• **Obiectul personal gratuit** poate avea cel mult 40 × 30 × 15 centimetri și trebuie să încapă sub scaunul din față. Bagajele de cabină mai mari pot rămâne contra cost, însă companiile trebuie să afișeze clar tarifele și, încă de la începutul rezervării, o opțiune de preț care include bagajul de mână.\n\n• **Copiii sub 14 ani** vor putea ocupa, în condițiile prevăzute de regulament, locuri alăturate părinților sau adulților însoțitori, fără o taxă suplimentară pentru alegerea locurilor.\n\n• **În cazul întârzierii sau anulării unui zbor**, rambursarea biletului va trebui efectuată în cel mult șapte zile calendaristice, iar cererile de compensație soluționate în maximum 30 de zile. Despăgubirile pot ajunge la 600 de euro, dar nu se acordă automat pentru orice întârziere: eligibilitatea depinde de circumstanțe și de regulile aplicabile."
-  },
-  {
-    "group_id": "group_33b7590464",
-    "fingerprint": "c64fb9bd504108f17a07823acedd48b7",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/17/185854/000-d3lk69v.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C682%2C0%2C0&w=1280",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Macron, mesaj ferm în timpul manifestațiilor din Franța: „Vom face bloc în fața celor care seamănă haos”",
-        "link": "https://stirileprotv.ro/stiri/international/macron-mesaj-ferm-in-timpul-manifestatiilor-din-franta-vom-face-bloc-in-fata-celor-care-seamana-haos.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Manifestații în Franța: Niciun loc pentru violențe, vom face toți bloc în fața celor care seamănă haos (Macron)",
-        "link": "https://agerpres.ro/politic-extern/2026/10/17/manifestatii-in-franta-niciun-loc-pentru-violente-vom-face-toti-bloc-in-fata-celor-care-seamana-haos--1604132"
-      }
-    ],
-    "published_at": 1792264425,
-    "title_hu": "Macron fellépést ígért a francia tüntetéseken elkövetett erőszak miatt",
-    "lead_hu": "Emmanuel Macron francia elnök szombaton kijelentette, hogy a tüntetések során rongáló és fosztogató embereket bíróság elé állítják és megbüntetik. Azt mondta, az ország egységesen lép fel azokkal szemben, akik káoszt keltenek és az intézményeket akarják lerombolni.",
-    "content_hu": "• **Emmanuel Macron** szombaton azt írta, hogy a tüntetéseken rongáló, prefektúrákat és üzleteket megtámadó, illetve fosztogató embereket bíróság elé állítják és megbüntetik.\n\n• **Macron** szerint a franciák egységesen lépnek fel azokkal szemben, akik káoszt keltenek, az intézményeket akarják lerombolni, és akadályozzák a békés véleménynyilvánítást.\n\n• **A francia elnök** támogatásáról biztosította a rendvédelmi erőket, amelyek szerinte a tüntetések résztvevőinek békés demonstrációhoz való jogát is garantálják.\n\n• **Sébastien Lecornu miniszterelnök** szintén támogatásáról biztosította a rendvédelmi erőket, és figyelmeztetett: senki nem kényszerítheti rá politikai programját másokra erőszakkal.",
-    "title_ro": "Macron promite măsuri împotriva violențelor de la manifestațiile din Franța",
-    "lead_ro": "Președintele francez Emmanuel Macron a declarat sâmbătă că persoanele care au vandalizat și au jefuit în timpul manifestațiilor vor fi urmărite în justiție și pedepsite. El a spus că țara va acționa unit împotriva celor care provoacă haos și încearcă să dărâme instituțiile.",
-    "content_ro": "• **Emmanuel Macron** a scris sâmbătă că persoanele care au vandalizat, au atacat prefecturi și magazine sau au jefuit în timpul manifestațiilor vor fi urmărite în justiție și pedepsite.\n\n• **Macron** a afirmat că francezii vor face front comun împotriva celor care provoacă haos, încearcă să dărâme instituțiile și îi împiedică pe cei care își exprimă pașnic revendicările.\n\n• **Președintele francez** și-a exprimat sprijinul pentru forțele de ordine, pe care le-a descris drept garante ale dreptului de a manifesta.\n\n• **Premierul Sébastien Lecornu** a transmis, la rândul său, sprijinul pentru forțele de ordine și a avertizat că nimeni nu își va putea impune agenda politică prin violență."
-  },
-  {
-    "group_id": "group_71ec67f58c",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Eșec al formațiunii premierului ceh Andrej Babis în alegerile pentru Senat",
-        "link": "https://agerpres.ro/politic-extern/2026/10/17/esec-al-formatiunii-premierului-ceh-andrej-babis-in-alegerile-pentru-senat--1604131"
-      }
-    ],
-    "published_at": 1792264425,
-    "title_hu": "Eșec al formațiunii premierului ceh Andrej Babis în alegerile pentru Senat",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Eșec al formațiunii premierului ceh Andrej Babis în alegerile pentru Senat",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_a7acfebbc6",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/17102026/e58e9b60-57a6-40cd-a43c-3d6b848b49ff.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Denis Alibec a devenit tată » Numele ales de cuplu",
-        "link": "https://www.gsp.ro/fotbal/liga-1/denis-alibec-anca-surdu-copil-989295.html"
-      }
-    ],
-    "published_at": 1792264253,
-    "title_hu": "Denis Alibec a devenit tată » Numele ales de cuplu",
-    "lead_hu": "Denis Alibec (35 de ani), atacantul Farului, a devenit tată. Soția lui, Anca, tocmai a născut o fetița. Denis Alibec și Anca Surdu s-au căsătorit în luna iunie, la Constanța, iar sportiva era însărcin…",
-    "content_hu": "Denis Alibec (35 de ani), atacantul Farului, a devenit tată. Soția lui, Anca, tocmai a născut o fetița. Denis Alibec și Anca Surdu s-au căsătorit în luna iunie, la Constanța, iar sportiva era însărcinată în acel moment. Primul copil al cuplului s-a născut săptămâna aceasta, vestea fiind dezvăluită de către Anca. Denis Alibec a devenit tată +1 FOTO Anca Surdu a făcut anunțul printr-o postare pe rețeaua de socializare Instagram. ...",
-    "title_ro": "Denis Alibec a devenit tată » Numele ales de cuplu",
-    "lead_ro": "Denis Alibec (35 de ani), atacantul Farului, a devenit tată. Soția lui, Anca, tocmai a născut o fetița. Denis Alibec și Anca Surdu s-au căsătorit în luna iunie, la Constanța, iar sportiva era însărcin…",
-    "content_ro": "Denis Alibec (35 de ani), atacantul Farului, a devenit tată. Soția lui, Anca, tocmai a născut o fetița. Denis Alibec și Anca Surdu s-au căsătorit în luna iunie, la Constanța, iar sportiva era însărcinată în acel moment. Primul copil al cuplului s-a născut săptămâna aceasta, vestea fiind dezvăluită de către Anca. Denis Alibec a devenit tată +1 FOTO Anca Surdu a făcut anunțul printr-o postare pe rețeaua de socializare Instagram. ..."
-  },
-  {
-    "group_id": "group_d5ff3e4ca5",
-    "category": "Politika",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/02/8091441-mediafax_foto-valentina_sarosi-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Rogobete anunță prioritățile: eliminarea CASS pentru mame și veterani de război. „Nu tratăm aceste categorii exclusiv prin prisma unor calcule contabile”",
-        "link": "https://www.mediafax.ro/politic/rogobete-anunta-prioritatile-eliminarea-cass-pentru-mame-si-veterani-de-razboi-nu-tratam-aceste-categorii-exclusiv-prin-prisma-unor-calcule-contabile-23827343"
-      }
-    ],
-    "published_at": 1792264205,
-    "title_hu": "Rogobete anunță prioritățile: eliminarea CASS pentru mame și veterani de război. „Nu tratăm aceste categorii exclusiv prin prisma unor calcule contabile”",
-    "lead_hu": "„O țară care își respectă viitorul trebuie să își respecte și trecutul!”, spune Alexandru Rogobete, ministrul propus de PSD pentru Ministerul Sănătății, care a anunțat ca prioritare eliminarea contrib…",
-    "content_hu": "„O țară care își respectă viitorul trebuie să își respecte și trecutul!”, spune Alexandru Rogobete, ministrul propus de PSD pentru Ministerul Sănătății, care a anunțat ca prioritare eliminarea contribuției la asigurări sociale de sănătate (CASS) pentru mame și veterani de război.",
-    "title_ro": "Rogobete anunță prioritățile: eliminarea CASS pentru mame și veterani de război. „Nu tratăm aceste categorii exclusiv prin prisma unor calcule contabile”",
-    "lead_ro": "„O țară care își respectă viitorul trebuie să își respecte și trecutul!”, spune Alexandru Rogobete, ministrul propus de PSD pentru Ministerul Sănătății, care a anunțat ca prioritare eliminarea contrib…",
-    "content_ro": "„O țară care își respectă viitorul trebuie să își respecte și trecutul!”, spune Alexandru Rogobete, ministrul propus de PSD pentru Ministerul Sănătății, care a anunțat ca prioritare eliminarea contribuției la asigurări sociale de sănătate (CASS) pentru mame și veterani de război."
-  },
-  {
-    "group_id": "group_8e2be36e15",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-b/b5a57144-6275-4906-8cf0-c00cb31d1acd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Un proiect care ar putea interzice ChatGPT pentru spețe juridice stârnește controverse. Antreprenor: „Un monopol absolut”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/un-proiect-care-ar-putea-interzice-chatgpt-pentru-2564736.html"
-      }
-    ],
-    "published_at": 1792264055,
-    "title_hu": "Un proiect care ar putea interzice ChatGPT pentru spețe juridice stârnește controverse. Antreprenor: „Un monopol absolut”",
-    "lead_hu": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”.",
-    "content_hu": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”.",
-    "title_ro": "Un proiect care ar putea interzice ChatGPT pentru spețe juridice stârnește controverse. Antreprenor: „Un monopol absolut”",
-    "lead_ro": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”.",
-    "content_ro": "Antreprenorul Radu Sebastian Amariei spune că proiectul urmărește îmbogățirea avocaților, prin impunerea de „taxe de protecție”."
   }
 ]
