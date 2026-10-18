@@ -3,7 +3,6 @@ import re
 import os
 import time
 import calendar
-import random
 import hashlib
 import requests
 import feedparser
@@ -63,9 +62,6 @@ MEMORY_FILE = "erdelyi_hirek_memoria.json"
 GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
 OUTPUT_FILE = "src/data/news.json"
 
-# 📁 A GALÉRIA MAPPA ELÉRÉSI ÚTJA A REPOSITORY-BAN
-GALERIA_BASE_DIR = "src/galeria"
-
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
 
@@ -93,7 +89,7 @@ def get_model():
     return _MODEL
 
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK ÉS KÉP-FALLBACK
+# 2. SEGÉDFUNKCIÓK
 # ==============================================================================
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
@@ -154,33 +150,7 @@ def classify_article(title, summary, source_name, entry_tags):
                 return category
     return "Általános"
 
-def get_random_fallback_image(category: str) -> str:
-    """
-    Véletlenszerűen választ egy képet a repó src/galeria/<kategoria> mappájából.
-    """
-    category_folder_map = {
-        "Sport": "sport",
-        "Politika": "politika",
-        "Gazdaság": "altalanos",
-        "Kultúra": "kultura",
-        "Erdély": "erdely",
-        "Bulvár": "bulvar",
-        "Általános": "altalanos"
-    }
-
-    folder_name = category_folder_map.get(category, "altalanos")
-    target_dir = os.path.join(GALERIA_BASE_DIR, folder_name)
-
-    if os.path.exists(target_dir):
-        valid_exts = ('.jpg', '.jpeg', '.png', '.webp', '.svg')
-        images = [f for f in os.listdir(target_dir) if f.lower().endswith(valid_exts)]
-        if images:
-            chosen = random.choice(images)
-            return f"/src/galeria/{folder_name}/{chosen}"
-
-    return "/src/galeria/altalanos/default.jpg"
-
-def extract_cover_image(entry, article_url, session, category="Általános"):
+def extract_cover_image(entry, article_url, session):
     if 'media_content' in entry and entry.media_content:
         for media in entry.media_content:
             if 'url' in media and media['url']:
@@ -196,8 +166,8 @@ def extract_cover_image(entry, article_url, session, category="Általános"):
         if img and img.get('src'):
             return img['src']
             
-    # 🛑 HA NINCS KÉP AZ RSS-BEN: A kategória galéria mappájából sorsolunk egyet!
-    return get_random_fallback_image(category)
+    # Ha nincs kép az RSS-ben, üresen hagyjuk – a frontend kezeli a fallbacket!
+    return ""
 
 def get_embedding(title, summary):
     clean_title = clean_text(title)
@@ -233,8 +203,8 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
 
     raw_summary = entry.get('summary', '') or entry.get('description', '')
     clean_summary = clean_text(raw_summary)
+    image_url = extract_cover_image(entry, link, session)
     category = classify_article(title, clean_summary, source_name, [])
-    image_url = extract_cover_image(entry, link, session, category)
 
     return {
         "source": source_name,
@@ -371,15 +341,11 @@ def run_pipeline():
         if pub_time < cutoff_12h:
             continue
 
-        current_img = item.get("image")
-        if not current_img or "placeholder" in current_img:
-            current_img = get_random_fallback_image(item.get("category", "Általános"))
-
         if g_id not in existing_news or not existing_news[g_id].get("is_synthesized"):
             existing_news[g_id] = {
                 "group_id": g_id,
                 "category": item.get("category", "Általános"),
-                "image": current_img,
+                "image": item.get("image", ""),
                 "is_synthesized": False,
                 "sources": [{"source": item.get("source"), "title": item.get("title"), "link": item.get("link")}],
                 "published_at": pub_time,
