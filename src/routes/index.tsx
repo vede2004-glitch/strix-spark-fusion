@@ -7,9 +7,7 @@ import { Search, X } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
-import borderCrossing from "@/assets/stirix-border-crossing.jpg";
-import hospital from "@/assets/stirix-hospital.jpg";
-import harghita from "@/assets/stirix-harghita.jpg";
+import { newsImage } from "@/lib/gallery";
 
 export const Route = createFileRoute("/")({
   head: () => ({
