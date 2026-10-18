@@ -6,9 +6,9 @@ const modules = import.meta.glob("../galeria/**/*.jpg", { eager: true, import: "
 
 const byFolder: Record<string, string[]> = {};
 for (const [path, url] of Object.entries(modules)) {
-  const m = /\.\.\/galeria\/([^/]+)\//.exec(path);
-  if (!m) continue;
-  (byFolder[m[1]] ??= []).push(url);
+  const folder = /\.\.\/galeria\/([^/]+)\//.exec(path)?.[1];
+  if (!folder) continue;
+  (byFolder[folder] ??= []).push(url);
 }
 
 // Hírkategória → galéria almappa
