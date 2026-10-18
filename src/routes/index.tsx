@@ -28,8 +28,7 @@ const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
 };
-const fallbackImages = [borderCrossing, hospital, harghita];
-const img = (n: NewsItem, i: number) => n.image || fallbackImages[i % 3];
+const img = (n: NewsItem) => newsImage(n) ?? "";
 
 function Index() {
   const [query, setQuery] = useState("");

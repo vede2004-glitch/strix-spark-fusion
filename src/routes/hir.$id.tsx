@@ -56,7 +56,7 @@ function Article() {
         </div>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl"><RichText text={t.title} /></h1>
         {item.is_synthesized && !t.content.trim().startsWith(t.lead.replace(/…$/, "").trim().slice(0, 60)) && <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75"><RichText text={t.lead} /></p>}
-        {item.image && <img src={item.image} alt="" className="mt-6 aspect-video w-full rounded-lg border border-border object-cover" />}
+        {newsImage(item) && <img src={newsImage(item)!} alt="" className="mt-6 aspect-video w-full rounded-lg border border-border object-cover" />}
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
