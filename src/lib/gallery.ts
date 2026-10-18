@@ -22,12 +22,35 @@ const folderFor: Record<string, string> = {
   Általános: "altalanos",
 };
 
-// Determinisztikus "random": ugyanahhoz a hírhez mindig ugyanaz a kép tartozik.
+// Determinisztikus "random": ugyanahhoz a hírhez mindig ugyanaz a kép tartozik,
+// de a képek jól szétszóródnak a hírek között (FNV-1a + avalanche keverés —
+// az egyszerű 31-es hash a egymás utáni group_id-kra hasonló értékeket adott).
 const hash = (s: string) => {
-  let h = 0;
-  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
-  return Math.abs(h);
+  let h = 0x811c9dc5;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  h ^= h >>> 15;
+  h = Math.imul(h, 0x2545f491);
+  h ^= h >>> 13;
+  h = Math.imul(h, 0x27220a95);
+  h ^= h >>> 16;
+  return h >>> 0;
 };
+
+// A képlistát egyszer, determinisztikusan átkeverjük, hogy a fájlrendezési
+// sorrend és a hash-értékek ne egyezzenek rá ugyanarra a képre egymás után.
+const shuffled = (urls: string[]) =>
+  urls
+    .map((u) => ({ u, k: hash(u) }))
+    .sort((a, b) => a.k - b.k)
+    .map((x) => x.u);
+
+const byFolderShuffled: Record<string, string[]> = {};
+for (const [folder, urls] of Object.entries(byFolder)) {
+  byFolderShuffled[folder] = shuffled(urls);
+}
 
 /** Kép a hírhez: ha van saját képe, azt adja vissza; különben a kategóriájának megfelelő galéria-képet. */
 // A szkript ilyen placeholder URL-t ír, ha nincs kép — ezt "nincs kép"-ként kezeljük.
@@ -36,7 +59,7 @@ const isPlaceholder = (url: string) => /via\.placeholder\.com|placehold|Nincs\+K
 export function newsImage(n: NewsItem): string | null {
   if (n.image && !isPlaceholder(n.image)) return n.image;
   const folder = folderFor[n.category] ?? "altalanos";
-  const pool = (byFolder[folder]?.length ? byFolder[folder] : byFolder["altalanos"]) ?? [];
+  const pool = (byFolderShuffled[folder]?.length ? byFolderShuffled[folder] : byFolderShuffled["altalanos"]) ?? [];
   if (!pool.length) return null;
   return pool[hash(n.group_id) % pool.length] ?? null;
 }
