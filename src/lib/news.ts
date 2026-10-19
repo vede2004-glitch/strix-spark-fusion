@@ -165,7 +165,7 @@ for (const a of archiveRaw as unknown as ArchiveRaw[]) {
   archiveGroups.set(id, [...(archiveGroups.get(id) ?? []), a]);
 }
 export const archive: NewsItem[] = [...archiveGroups.entries()].map(([id, arts]) => {
-  const first = arts[0];
+  const first = arts[0] ?? {};
   const c: LangContent = { title: first.title ?? "", lead: clean(first.summary?.slice(0, 220)), content: first.summary ?? "" };
   return {
     group_id: id,
