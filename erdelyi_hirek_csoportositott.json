@@ -209,7 +209,7 @@
   {
     "group_id": "group_2a4ae616d9",
     "category": "Általános",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Digi24",
@@ -219,15 +219,6 @@
         "summary": "O alertă cu bombă a obligat duminică un avion al companiei Austrian Airlines care circula de la Tel Aviv la Viena să îşi schimbe ruta spre Bulgaria, conform autorităţilor bulgare şi acestei companii aeriene, transmite AFP.",
         "category": "Általános",
         "published_at": 1792395654
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Avion Austrian, deviat la Sofia chiar când trecea granița cu România, din cauza unei „amenințări”",
-        "link": "https://hotnews.ro/avion-austrian-deviat-la-sofia-chiar-cand-trecea-granita-cu-romania-din-cauza-unei-amenintari-2379462",
-        "image": "",
-        "summary": "Un zbor al companiei Austrian Airlines plecat din Tel Aviv, cu 57 de persoane la bord, a fost deviat către capitala Bulgariei, Sofia, duminică seara, după ce a fost primită o amenințare la adresa aeronavei, a declarat pentru Reuters un purtător de cuvânt al companiei aeriene. Austrian Airlines a precizat că amenințarea viza zborul OS82 …",
-        "category": "Általános",
-        "published_at": 1792386334
       },
       {
         "source": "Adevărul",
@@ -259,115 +250,42 @@
     ]
   },
   {
-    "group_id": "group_3cc1bd32dc",
-    "category": "Általános",
+    "group_id": "group_f05b36d9be",
+    "category": "Kultúra",
     "articles_count": 1,
     "articles": [
       {
         "source": "Maszol",
-        "title": "A keresztelési anyakönyvekre is alkalmazható lehet az elfeledtetéshez való jog",
-        "link": "https://maszol.ro/kulfold/A-keresztelesi-anyakonyvekre-is-alkalmazhato-lehet-az-elfeledteteshez-valo-jog",
-        "image": "https://maszol.ro/resized/2026_oktober/16/cikk_kereszteles.jpg",
-        "summary": "Az egyházaknak kell megindokolniuk, miért őrzik tovább azoknak a személyes adatait, akik már nem kívánnak az adott vallási közösséghez tartozni.",
-        "category": "Általános",
-        "published_at": 1792386420
+        "title": "Ekkor tartják a 13. Electric Castle fesztivált",
+        "link": "https://maszol.ro/eletmod/Ekkor-tartjak-a-13-Electric-Castle-fesztivalt",
+        "image": "https://maszol.ro/resized/2026_oktober/19/cikk_fesztivalok-ec-fb.jpg",
+        "summary": "Jövőre július 15. és 18. között rendezik meg az Electric Castle fesztivál 13. kiadását a Kolozs megyei Bonchidán – jelentették be a szervezők.",
+        "category": "Kultúra",
+        "published_at": 1792387140
       }
     ]
   },
   {
-    "group_id": "group_29eaa916b5",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Kolozsvári Rádió (HU)",
-        "title": "Kacsó Sándor a MÚRE új elnöke",
-        "link": "https://www.kolozsvariradio.ro/2026/10/19/kacso-sandor-a-mure-uj-elnoke/",
-        "image": "https://www.kolozsvariradio.ro/wp-content/uploads/2026/10/mure-1-300x169.jpg",
-        "summary": "A médiafogyasztók bizalmának megszerzését, visszaszerzését tartja az újságírók egyik fontos feladatának Kacsó Sándor televíziós újságíró, akit a hétvégén elnökévé választott a Magyar Újságírók Romániai Egyesülete, a MÚRE. A tisztújító közgyűlésen megválasztott Igazgatótanácsban alelnöki megbízást kapott bukaresti rádiós kollégánk, Forró László, valamint a Székelyhon portál főszerkesztője, Kozán István. A területi képviseletet Bartha Csaba, Cseke Péter és […] Articolul Kacsó Sándor a MÚRE új elnöke apare prima dată în Kolozsvári Rádió Románia.",
-        "category": "Általános",
-        "published_at": 1792386832
-      }
-    ]
-  },
-  {
-    "group_id": "group_614a89a860",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Jose Mourinho comentează doar ce-i convine » „Guler? Aduceți-mi imagini!”",
-        "link": "https://www.gsp.ro/international/campionate/jose-mourinho-arda-guler-real-madrid-sevilla-989715.html",
-        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/e44ff9c8-c6a1-4aa9-9dee-6eb9193d57b4.jpg?width=290&height=208",
-        "summary": "Antrenorul lui Real Madrid, Jose Mourinho, a spus după 4-1 cu Sevilla că n-a văzut incidentul Arda Guler vs Peque, dar, deși recunoaște că n-a urmărit nici Betis - Barcelona, spune „acolo sunt mereu probleme”. Real Madrid a bifat o victorie categorică împotriva Sevillei, 4-1, părând pregătită pentru El Clasico. ...",
-        "category": "Sport",
-        "published_at": 1792386993
-      }
-    ]
-  },
-  {
-    "group_id": "group_348900410b",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "MM Stoica a respins propunerea venită de la Dinamo! Replica pentru Andrei Nicolescu: „Nu mi se pare o idee bună”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/mm-stoica-raspuns-andrei-nicolescu-ore-derby-dinamo-fcsb-989716.html",
-        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/19102026/74634961-118c-4509-a449-de44416b7850.jpg?width=290&height=208",
-        "summary": "Mihai Stoica (61 de ani), oficialul celor de la FCSB, a comentat propunerea lansată de Andrei Nicolescu, președintele rivalei Dinamo, privind modificarea orelor de disputare a derby-urilor din Superliga. În timp ce Nicolescu consideră că meciurile importante ar trebui programate mai devreme, inclusiv de la ora 17:00, MM Stoica nu este de acord cu această variantă. ...",
-        "category": "Sport",
-        "published_at": 1792386992
-      }
-    ]
-  },
-  {
-    "group_id": "group_b07b049a2a",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Economedia",
-        "title": "Șeful Dacia România face o predicție despre noul Spring: „Ar fi o anomalie dacă nu s-ar întâmpla așa”",
-        "link": "https://economedia.ro/seful-dacia-romania-face-o-predictie-despre-noul-spring-ar-fi-o-anomalie-daca-nu-s-ar-intampla-asa.html",
-        "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Dacia-Spring-2-1024x768.jpeg",
-        "summary": "Mihai Bordeanu, șeful Dacia România, se așteaptă ca noua versiune a modelului electric Spring să devină cea mai vândută mașină electrică de pe piața locală. Dacia mizează pe noul Spring pentru a-și consolida poziția pe piața automobilelor electrice din România, iar Mihai Bordeanu, Managing Director Dacia Brand South Eastern Europe și Country Head România, consideră […]",
-        "category": "Gazdaság",
-        "published_at": 1792386620
-      }
-    ]
-  },
-  {
-    "group_id": "group_2f4702d99a",
+    "group_id": "group_09378f3b6d",
     "category": "Bulvár",
     "articles_count": 1,
     "articles": [
       {
         "source": "Cancan.ro",
-        "title": "Au păcălit o lume întreagă timp de 30 de ani! Jane Seymour recunoaște ce s-a întâmplat între ea și chipeșul Sully",
-        "link": "https://www.cancan.ro/au-pacalit-o-lume-intreaga-timp-de-30-de-ani-jane-seymour-recunoaste-ce-s-a-intamplat-intre-ea-si-chipesul-sully-21532121",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Jane-Seymour.jpg-1200x675.jpeg",
-        "summary": "Au făcut milioane de telespectatori să viseze la o iubire ca în filme, însă puțini știau că povestea de dragoste dintre doctorița Michaela Quinn și chipeșul Byron Sully nu s-a consumat doar în fața camerelor de filmat. La mai bine de trei decenii de la premiera celebrului serial „Dr. Quinn, Medicine Woman”, Jane Seymour și […]",
+        "title": "Daiana Prodan și-a oficializat noua relație! Cu cine se iubește fosta concurentă de la Insula Iubirii",
+        "link": "https://www.cancan.ro/daiana-prodan-si-a-oficializat-noua-relatie-cu-cine-se-iubeste-fosta-concurenta-de-la-insula-iubirii-21532501",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Copie-a-designului-Cover-Cancan-1.jpg-1-1200x675.jpeg",
+        "summary": "După despărțirea de Rareș Petre, alături de care a participat în sezonul 8 al emisiunii Insula Iubirii, Daiana Prodan pare că și-a găsit din nou liniștea pe plan sentimental. Fosta concurentă a ales să își asume public noua relație și s-a afișat pentru prima dată în mod oficial alături de partenerul ei, după o perioadă […]",
         "category": "Bulvár",
-        "published_at": 1792386634
+        "published_at": 1792387245
       }
     ]
   },
   {
     "group_id": "group_0f8ee4aaff",
     "category": "Erdély",
-    "articles_count": 5,
+    "articles_count": 2,
     "articles": [
-      {
-        "source": "G4Media",
-        "title": "Accident între un microbuz și o mașină pe DN 22, Constanța – Tulcea: O persoană inconștientă și cinci răniți / Trafic blocat pe ambele sensuri",
-        "link": "https://www.g4media.ro/accident-intre-un-microbuz-si-o-masina-pe-dn-22-constanta-tulcea-o-persoana-inconstienta-si-cinci-raniti-trafic-blocat-pe-ambele-sensuri.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2023/02/pompieri-smurd-interventii-ambulanta-112-ajutor.jpg",
-        "summary": "Un accident rutier în care au fost implicate un microbuz și un autoturism s-a produs luni dimineață, pe DN 22, între localitățile Năvodari și Lumina în județul Constanța, transmite Mediafax. Zece persoane au fost implicate, iar cinci au fost rănite, una dintre acestea fiind inconștientă. Potrivit Inspectoratului de Poliție Județean Constanța, accidentul a fost semnalat […] © G4Media.ro.",
-        "category": "Erdély",
-        "published_at": 1792386891
-      },
       {
         "source": "Digi24",
         "title": "Accident între un microbuz și o mașină în Constanța: 9 persoane rănite. Șoferul microbuzului este din Sri Lanka și are permis suspendat",
@@ -376,24 +294,6 @@
         "summary": "Zece persoane au fost implicate într-un accident dintre un microbuz şi un autoturism, produs luni, pe DN 22, între localităţile Năvodari şi Lumina din judeţul Constanţa. Nouă persoane au fost transportate la spital. Dintre acestea, o persoană era inconștientă. Traficul rutier era blocat pe ambele sensuri.",
         "category": "Erdély",
         "published_at": 1792403434
-      },
-      {
-        "source": "Adevărul",
-        "title": "Accident grav pe DN 22, între Năvodari și Lumina: cinci persoane au fost rănite, una a ajuns la spital în stare de inconștiență",
-        "link": "https://adevarul.ro/stiri-locale/constanta/accident-grav-pe-dn-22-intre-navodari-si-lumina-2564862.html",
-        "image": "https://cdn.adh.reperio.news/image-5/5ceff1e4-50a0-4b89-b455-2e6dc6c9e375/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Un accident rutier în care au fost implicate un microbuz și un autoturism s-a produs luni dimineață, 19 octombrie, pe DN 22, între localitățile Năvodari și Lumina, din județul Constanța.",
-        "category": "Erdély",
-        "published_at": 1792386637
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Accident grav pe DN 22, în județul Constanța, între un autoturism și un microbuz. 10 persoane sunt implicate",
-        "link": "https://stirileprotv.ro/stiri/actualitate/accident-grav-pe-dn-22-in-judetul-constanta-intre-un-autoturism-si-o-autoutilara-10-persoane-sunt-implicate.html",
-        "image": "https://stirileprotv.ro/img/2026/02/21/083513/ambulanta.jpg?fm=jpg&q=80&fit=crop&crop=780%2C440%2C0%2C0&w=1280",
-        "summary": "Pompierii militari constănţeni intervin, luni dimineaţa, în sprijinul a zece persoane implicate într-un accident rutier produs pe DN 22, în apropiere de localitatea constănţeană Lumina, traficul în zonă fiind blocat.",
-        "category": "Erdély",
-        "published_at": 1792386860
       },
       {
         "source": "HotNews.ro",
@@ -407,35 +307,10 @@
     ]
   },
   {
-    "group_id": "group_ca23ac8711",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "Milano, portretul robot al celor care provoacă dezordini / Vestea se răspândește pe TikTok, iar haosul devine cadrul perfect pentru selfie-uri / Mulți dintre ei se află pentru prima dată în piață / „Sparge, ia, fugi”",
-        "link": "https://www.g4media.ro/milano-portretul-robot-al-celor-care-provoaca-dezordini-vestea-se-raspandeste-pe-tiktok-iar-haosul-devine-cadrul-perfect-pentru-selfie-uri-multi-dintre-ei-se-afla-pentru-prima-data-in-piata.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/milano-spargeri-proteste.webp",
-        "summary": "TikTok și pieţe publice. Mașini de poliție care urmează să fie distruse, exact ca în GTA. Apoi, asaltul asupra magazinelor – nu a buticurilor de lux sau a magazinelor de designer, ci a unor locuri precum Nike, Foot Locker și Decathlon, relatează Corriere della Sera într-o analiză privind protestele din Milano, notează Agenția de presă […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792386827
-      }
-    ]
-  },
-  {
     "group_id": "group_e90f9f6510",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 5,
     "articles": [
-      {
-        "source": "G4Media",
-        "title": "Echipa feminină a României, locul 8 la Mondialele de gimnastică după prima zi a calificărilor",
-        "link": "https://www.g4media.ro/echipa-feminina-a-romaniei-locul-8-la-mondialele-de-gimnastica-dupa-prima-zi-a-calificarilor.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2025/04/profimedia-0989517624.jpg",
-        "summary": "Echipa feminină a României ocupă locul opt, cu 151,996 puncte, după primele trei subdiviziuni ale calificărilor contând pentru Campionatele Mondiale de gimnastică artistică de la Rotterdam. În clasamentul provizoriu contând pentru individual compus, Alexia Blănaru se află pe 19, cu 50,132 puncte. Ea a primit nota 13,666 la sărituri, 11,466 la paralele, 12,300 la bârnă […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792386411
-      },
       {
         "source": "G4Media",
         "title": "Coborâri pe linie pentru jucătoarele din România în clasamentul WTA – Sorana Cîrstea se menține în top 20",
@@ -484,174 +359,6 @@
     ]
   },
   {
-    "group_id": "group_1b3f9f98da",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Bijuteriile coroanei de la Luvru, în valoare de 100 de milioane de dolari, încă dispărute la un an după jaf",
-        "link": "https://www.mediafax.ro/externe/bijuteriile-coroanei-de-la-luvru-in-valoare-de-100-de-milioane-de-dolari-inca-disparute-la-un-an-dupa-jaf-23827790",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8103520-hepta_mediafax_foto-bestimage_hepta-1024x629.jpg",
-        "summary": "La un an după ce hoții au furat bijuterii ale coroanei în valoare de 100 de milioane de dolari de la Muzeul Luvru din Paris, patru suspecți se află în continuare în arest preventiv, în așteptarea procesului, însă comorile sunt încă dispărute.",
-        "category": "Általános",
-        "published_at": 1792386600
-      }
-    ]
-  },
-  {
-    "group_id": "group_7a20477d1e",
-    "category": "Általános",
-    "articles_count": 9,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Propunerea lui Putin pentru soluționarea războiului din Ucraina. Ce i-a spus lui Trump în ultima lor convorbire",
-        "link": "https://stirileprotv.ro/stiri/international/propunerea-lui-putin-pentru-solutionarea-razboiului-din-ucraina-ce-i-a-spus-lui-trump-in-ultima-lor-convorbire.html",
-        "image": "https://stirileprotv.ro/img/2025/08/15/210000/62567704.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C711%2C0%2C0&w=1280",
-        "summary": "Preşedintele rus Vladimir Putin a propus organizarea, luna viitoare, a unui summit cu Donald Trump şi cu liderul chinez Xi Jinping, pentru a negocia o soluţie la conflictul din Ucraina, care durează de patru ani, şi care ar favoriza Moscova.",
-        "category": "Általános",
-        "published_at": 1792386375
-      },
-      {
-        "source": "Digi24",
-        "title": "Marco Rubio, despre un posibil summit trilateral Trump - Putin - Xi: „S-a vorbit despre o întâlnire. Nu știu dacă a fost decisă”",
-        "link": "https://www.digi24.ro/stiri/externe/sua/marco-rubio-despre-un-posibil-summit-trilateral-trump-putin-xi-s-a-vorbit-despre-o-intalnire-nu-stiu-daca-a-fost-decisa-3998157",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA5JTJGMjY3OTU5MV8yNjc5/NTkxX21hcmNvLXJ1YmlvLWJ1bi5qcGcm/aGFzaD1mMDk0N2QwZjQ3MjNmMjllOTM2ZTZlMGM3YThmODNlZA==.jpg",
-        "summary": "Ucraina și Rusia ar trebui să se concentreze pe încheierea războiului, a declarat luni reporterilor secretarul de stat al SUA, Marco Rubio, cu ocazia vizitei sale în Uzbekistan, relatează Reuters.",
-        "category": "Általános",
-        "published_at": 1792389918
-      },
-      {
-        "source": "Mediafax",
-        "title": "Marco Rubio îndeamnă Ucraina și Rusia să se concentreze pe încheierea războiului și lansează critici la adresa lui Zelenski: Nu știu de unde scoate aceste lucruri",
-        "link": "https://www.mediafax.ro/stirile-zilei/marco-rubio-indeamna-ucraina-si-rusia-sa-se-concentreze-pe-incheierea-razboiului-si-lanseaza-critici-la-adresa-lui-zelenski-nu-stiu-de-unde-scoate-aceste-lucruri-23827837",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8108298-hepta_mediafax_foto-dpa_hepta-1024x724.jpg",
-        "summary": "Secretarul de stat Marco Rubio a declarat, luni, că Războiul din Ucraina ar trebui să se încheie cât mai repede, avertizând asupra posibilității ca acesta să escaladeze și să se extindă în alte țări. Totodată, a respins totodată afirmațiile președintelui ucrainean Volodimir Zelenski privind întreruperea partajării de informații secrete de către Washington.",
-        "category": "Általános",
-        "published_at": 1792390277
-      },
-      {
-        "source": "Adevărul",
-        "title": "Putin propune un summit trilateral cu Trump și Xi Jinping pentru negocierea păcii în Ucraina. Ce spune Kremlinul",
-        "link": "https://adevarul.ro/stiri-externe/rusia/putin-propune-un-summit-trilateral-cu-trump-si-xi-2564874.html",
-        "image": "https://cdn.adh.reperio.news/image-5/50f1a2b6-21a6-4fca-a934-ee5d3c70b171/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Președintele rus Vladimir Putin a propus organizarea unui summit trilateral cu omologul american Donald Trump și liderul chinez Xi Jinping, în luna noiembrie, pentru a negocia o soluție la războiul din Ucraina, care durează de patru ani.",
-        "category": "Általános",
-        "published_at": 1792390256
-      },
-      {
-        "source": "Maszol",
-        "title": "Az ukrajnai békéért háromoldalú csúcstalálkozót tartana Putyin, de Zelenszkij nélkül",
-        "link": "https://maszol.ro/kulfold/Az-ukrajnai-bekeert-haromoldalu-csucstalalkozot-tartana-Putyin-de-Zelenszkij-nelkul",
-        "image": "https://maszol.ro/resized/2026_oktober/19/cikk_Trump_putyin_Face_(1).jpg",
-        "summary": "Putyin ezt a javaslatot az október 9-i, Trumppal folytatott telefonbeszélgetése során tette, amely a két ország közötti gázolaj-megállapodáshoz is vezetett.",
-        "category": "Általános",
-        "published_at": 1792391820
-      },
-      {
-        "source": "Mediafax",
-        "title": "Un summit între Trump, Putin și Xi Jinping ar putea avea efectul opus păcii. Avertismentul dur al Ucrainei",
-        "link": "https://www.mediafax.ro/externe/un-summit-intre-trump-putin-si-xi-jinping-ar-putea-avea-efectul-opus-pacii-avertismentul-dur-al-ucrainei-23828027",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/8035750-hepta_mediafax_foto-anadolu_agency_hepta-1024x683.jpg",
-        "summary": "O posibilă întâlnire între liderii Statelor Unite, Rusiei și Chinei, la care președintele Ucrainei nu ar participa, provoacă îngrijorare la Kiev. Autoritățile ucrainene avertizează că un asemenea summit nu ar aduce pacea mai aproape, ci l-ar putea încuraja pe Vladimir Putin să continue războiul.",
-        "category": "Általános",
-        "published_at": 1792404626
-      },
-      {
-        "source": "Digi24",
-        "title": "Șeful diplomației ucrainene, despre un summit SUA - China - Rusia: „Va avea efectul opus. Îl va încuraja pe Putin să continue războiul”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/seful-diplomatiei-ucrainene-despre-un-summit-sua-china-rusia-va-avea-efectul-opus-il-va-incuraja-pe-putin-sa-continue-razboiul-3998909",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI4JTJGMjk4MDcwNl8yOTgw/NzA2X0FuZHJpaS1TaWJpZ2EtcHJvZmlt/ZWRpYS5qcGcmaGFzaD1kMzNhMTkzNWIzZGFjYWE5NzYwMjUxNzhhODRiZTc0Ng==.jpg",
-        "summary": "Ministrul Afacerilor Externe, Andrii Sîbiga, consideră că formatul de negocieri SUA-China-Rusia îl va încuraja pe Vladimir Putin să continue războiul. Însă, susține că o întâlnire trilaterală între liderii Ucrainei, Statelor Unite și Rusiei ar putea contribui la încheierea mai rapidă a conflictului, relatează Ukrainska Pravda.",
-        "category": "Általános",
-        "published_at": 1792407594
-      },
-      {
-        "source": "Adevărul",
-        "title": "Șeful diplomației ucrainene avertizează că un summit Trump-Putin-Xi ar putea prelungi războiul și „i-ar alimenta delirul de grandoare” liderului rus",
-        "link": "https://adevarul.ro/stiri-externe/europa/seful-diplomatiei-ucrainene-avertizeaza-ca-un-2564973.html",
-        "image": "https://cdn.adh.reperio.news/image-9/9b76fea6-e6fe-45fd-9b65-4211c4002957/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "O eventuală întâlnire între Trump, Putin și Xi Jinping ar putea încuraja Moscova să continue războiul din Ucraina, consideră ministrul ucrainean de Externe, Andrii Sîbiga.",
-        "category": "Politika",
-        "published_at": 1792411982
-      },
-      {
-        "source": "Adevărul",
-        "title": "Kremlinul, reacție oficială despre o posibilă întâlnire Putin-Trump-Xi Jinping în China în noiembrie",
-        "link": "https://adevarul.ro/stiri-externe/rusia/kremlinul-reactie-oficiala-despre-o-posibila-2565024.html",
-        "image": "https://cdn.adh.reperio.news/image-c/c64895ab-3ad1-4518-b6f7-53dc09ee22c8/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Purtătorul de cuvânt al Kremlinului, Dmitri Peskov, a reacționat luni la informațiile publicate de The Wall Street Journal, potrivit cărora președintele rus Vladimir Putin ar fi propus o întâlnire cu omologii săi din SUA și China, respectiv Donald Trump și Xi Jinping.",
-        "category": "Politika",
-        "published_at": 1792418494
-      }
-    ]
-  },
-  {
-    "group_id": "group_7334b62fd7",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Dornici de muncă, tinerii își găsesc tot mai greu job-uri. „Timpul de căutare este mai mare, vor trebui să aplice la un număr mai mare”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/dornici-de-munca-tinerii-isi-gasesc-tot-mai-greu-job-uri-timpul-de-cautare-este-mai-mare-vor-trebui-sa-aplice-la-un-numar-mai-mare.html",
-        "image": "https://stirileprotv.ro/img/2026/10/19/050443/targ-job.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-        "summary": "Cei care își caută un loc de muncă au mai mult de așteptat până semnează un contract, iar tinerii trebuie să demonstreze - prin activitățile din timpul facultății - că sunt cu adevărat interesați de domeniul în care vor să lucreze.",
-        "category": "Általános",
-        "published_at": 1792386292
-      }
-    ]
-  },
-  {
-    "group_id": "group_7de2c797c2",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "La ce visează românii. Siguranța financiară a familiei și renovarea locuinței, pe primele locuri. De ce amână planurile",
-        "link": "https://stirileprotv.ro/stiri/social/visul-echivaleaza-cu-siguranta-financiara-a-familiei-pentru-45-dintre-romani-cel-mai-important-obiectiv-este-traiul-sigur-al-celor-dragi.html",
-        "image": "https://stirileprotv.ro/img/2026/06/29/065806/shutterstock-oameni-pe-strada-bucuresti-centrul-vechi.jpg?fm=jpg&q=80&fit=crop&crop=5633%2C3507%2C0%2C0&w=1280",
-        "summary": "Bani, o casă bună, propria afacere sau mai mult timp pentru familie. Sunt planuri pe care mulți dintre noi le au, dar pe care le amână cu anii.",
-        "category": "Gazdaság",
-        "published_at": 1792386191
-      }
-    ]
-  },
-  {
-    "group_id": "group_f05b36d9be",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Ekkor tartják a 13. Electric Castle fesztivált",
-        "link": "https://maszol.ro/eletmod/Ekkor-tartjak-a-13-Electric-Castle-fesztivalt",
-        "image": "https://maszol.ro/resized/2026_oktober/19/cikk_fesztivalok-ec-fb.jpg",
-        "summary": "Jövőre július 15. és 18. között rendezik meg az Electric Castle fesztivál 13. kiadását a Kolozs megyei Bonchidán – jelentették be a szervezők.",
-        "category": "Kultúra",
-        "published_at": 1792387140
-      }
-    ]
-  },
-  {
-    "group_id": "group_09378f3b6d",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "Daiana Prodan și-a oficializat noua relație! Cu cine se iubește fosta concurentă de la Insula Iubirii",
-        "link": "https://www.cancan.ro/daiana-prodan-si-a-oficializat-noua-relatie-cu-cine-se-iubeste-fosta-concurenta-de-la-insula-iubirii-21532501",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Copie-a-designului-Cover-Cancan-1.jpg-1-1200x675.jpeg",
-        "summary": "După despărțirea de Rareș Petre, alături de care a participat în sezonul 8 al emisiunii Insula Iubirii, Daiana Prodan pare că și-a găsit din nou liniștea pe plan sentimental. Fosta concurentă a ales să își asume public noua relație și s-a afișat pentru prima dată în mod oficial alături de partenerul ei, după o perioadă […]",
-        "category": "Bulvár",
-        "published_at": 1792387245
-      }
-    ]
-  },
-  {
     "group_id": "group_7adbf9a04a",
     "category": "Általános",
     "articles_count": 1,
@@ -696,22 +403,6 @@
         "summary": "Publicul Știrilor Pro TV a ales numele celui mai nou locatar al Grădinii Zoologice din București - un pui de lemur în vârstă de o lună și jumătate.",
         "category": "Általános",
         "published_at": 1792387190
-      }
-    ]
-  },
-  {
-    "group_id": "group_b47a124f9b",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Schimbare majoră anunțată de KFC, după aproape 40 de ani. A renunțat la Pepsi în restaurantele din SUA",
-        "link": "https://stirileprotv.ro/stiri/international/schimbare-majora-anuntata-de-kfc-dupa-aproape-40-de-ani-a-renuntat-la-pepsi-in-restaurantele-din-sua.html",
-        "image": "https://stirileprotv.ro/img/2026/10/19/051414/kfc-usa.jpg?fm=jpg&q=80&fit=crop&crop=6000%2C4000%2C0%2C0&w=1280",
-        "summary": "KFC a anunţat încheierea unui acord cu Coca-Cola pentru furnizarea băuturilor răcoritoare în restaurantele sale din Statele Unite, punând capăt unui parteneriat de aproape patru decenii cu PepsiCo pe piaţa americană.",
-        "category": "Általános",
-        "published_at": 1792386888
       }
     ]
   },
@@ -1557,6 +1248,85 @@
         "summary": "Minodora a trecut în 2017 printr-o operație de micșorare a stomacului. Ea a încercat de-a lungul timpului să își mențină silueta, însă a recunoscut că la un moment dat a pierdut controlul. Totuși, s-a ambiționat și a slăbit din nou 40 de kilograme. În urma procesului de slăbire, care nu a fost deloc ușor, Minodora […]",
         "category": "Bulvár",
         "published_at": 1792389844
+      }
+    ]
+  },
+  {
+    "group_id": "group_7a20477d1e",
+    "category": "Általános",
+    "articles_count": 8,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Marco Rubio, despre un posibil summit trilateral Trump - Putin - Xi: „S-a vorbit despre o întâlnire. Nu știu dacă a fost decisă”",
+        "link": "https://www.digi24.ro/stiri/externe/sua/marco-rubio-despre-un-posibil-summit-trilateral-trump-putin-xi-s-a-vorbit-despre-o-intalnire-nu-stiu-daca-a-fost-decisa-3998157",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjA5JTJGMjY3OTU5MV8yNjc5/NTkxX21hcmNvLXJ1YmlvLWJ1bi5qcGcm/aGFzaD1mMDk0N2QwZjQ3MjNmMjllOTM2ZTZlMGM3YThmODNlZA==.jpg",
+        "summary": "Ucraina și Rusia ar trebui să se concentreze pe încheierea războiului, a declarat luni reporterilor secretarul de stat al SUA, Marco Rubio, cu ocazia vizitei sale în Uzbekistan, relatează Reuters.",
+        "category": "Általános",
+        "published_at": 1792389918
+      },
+      {
+        "source": "Mediafax",
+        "title": "Marco Rubio îndeamnă Ucraina și Rusia să se concentreze pe încheierea războiului și lansează critici la adresa lui Zelenski: Nu știu de unde scoate aceste lucruri",
+        "link": "https://www.mediafax.ro/stirile-zilei/marco-rubio-indeamna-ucraina-si-rusia-sa-se-concentreze-pe-incheierea-razboiului-si-lanseaza-critici-la-adresa-lui-zelenski-nu-stiu-de-unde-scoate-aceste-lucruri-23827837",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8108298-hepta_mediafax_foto-dpa_hepta-1024x724.jpg",
+        "summary": "Secretarul de stat Marco Rubio a declarat, luni, că Războiul din Ucraina ar trebui să se încheie cât mai repede, avertizând asupra posibilității ca acesta să escaladeze și să se extindă în alte țări. Totodată, a respins totodată afirmațiile președintelui ucrainean Volodimir Zelenski privind întreruperea partajării de informații secrete de către Washington.",
+        "category": "Általános",
+        "published_at": 1792390277
+      },
+      {
+        "source": "Adevărul",
+        "title": "Putin propune un summit trilateral cu Trump și Xi Jinping pentru negocierea păcii în Ucraina. Ce spune Kremlinul",
+        "link": "https://adevarul.ro/stiri-externe/rusia/putin-propune-un-summit-trilateral-cu-trump-si-xi-2564874.html",
+        "image": "https://cdn.adh.reperio.news/image-5/50f1a2b6-21a6-4fca-a934-ee5d3c70b171/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Președintele rus Vladimir Putin a propus organizarea unui summit trilateral cu omologul american Donald Trump și liderul chinez Xi Jinping, în luna noiembrie, pentru a negocia o soluție la războiul din Ucraina, care durează de patru ani.",
+        "category": "Általános",
+        "published_at": 1792390256
+      },
+      {
+        "source": "Maszol",
+        "title": "Az ukrajnai békéért háromoldalú csúcstalálkozót tartana Putyin, de Zelenszkij nélkül",
+        "link": "https://maszol.ro/kulfold/Az-ukrajnai-bekeert-haromoldalu-csucstalalkozot-tartana-Putyin-de-Zelenszkij-nelkul",
+        "image": "https://maszol.ro/resized/2026_oktober/19/cikk_Trump_putyin_Face_(1).jpg",
+        "summary": "Putyin ezt a javaslatot az október 9-i, Trumppal folytatott telefonbeszélgetése során tette, amely a két ország közötti gázolaj-megállapodáshoz is vezetett.",
+        "category": "Általános",
+        "published_at": 1792391820
+      },
+      {
+        "source": "Mediafax",
+        "title": "Un summit între Trump, Putin și Xi Jinping ar putea avea efectul opus păcii. Avertismentul dur al Ucrainei",
+        "link": "https://www.mediafax.ro/externe/un-summit-intre-trump-putin-si-xi-jinping-ar-putea-avea-efectul-opus-pacii-avertismentul-dur-al-ucrainei-23828027",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/8035750-hepta_mediafax_foto-anadolu_agency_hepta-1024x683.jpg",
+        "summary": "O posibilă întâlnire între liderii Statelor Unite, Rusiei și Chinei, la care președintele Ucrainei nu ar participa, provoacă îngrijorare la Kiev. Autoritățile ucrainene avertizează că un asemenea summit nu ar aduce pacea mai aproape, ci l-ar putea încuraja pe Vladimir Putin să continue războiul.",
+        "category": "Általános",
+        "published_at": 1792404626
+      },
+      {
+        "source": "Digi24",
+        "title": "Șeful diplomației ucrainene, despre un summit SUA - China - Rusia: „Va avea efectul opus. Îl va încuraja pe Putin să continue războiul”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/seful-diplomatiei-ucrainene-despre-un-summit-sua-china-rusia-va-avea-efectul-opus-il-va-incuraja-pe-putin-sa-continue-razboiul-3998909",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI4JTJGMjk4MDcwNl8yOTgw/NzA2X0FuZHJpaS1TaWJpZ2EtcHJvZmlt/ZWRpYS5qcGcmaGFzaD1kMzNhMTkzNWIzZGFjYWE5NzYwMjUxNzhhODRiZTc0Ng==.jpg",
+        "summary": "Ministrul Afacerilor Externe, Andrii Sîbiga, consideră că formatul de negocieri SUA-China-Rusia îl va încuraja pe Vladimir Putin să continue războiul. Însă, susține că o întâlnire trilaterală între liderii Ucrainei, Statelor Unite și Rusiei ar putea contribui la încheierea mai rapidă a conflictului, relatează Ukrainska Pravda.",
+        "category": "Általános",
+        "published_at": 1792407594
+      },
+      {
+        "source": "Adevărul",
+        "title": "Șeful diplomației ucrainene avertizează că un summit Trump-Putin-Xi ar putea prelungi războiul și „i-ar alimenta delirul de grandoare” liderului rus",
+        "link": "https://adevarul.ro/stiri-externe/europa/seful-diplomatiei-ucrainene-avertizeaza-ca-un-2564973.html",
+        "image": "https://cdn.adh.reperio.news/image-9/9b76fea6-e6fe-45fd-9b65-4211c4002957/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "O eventuală întâlnire între Trump, Putin și Xi Jinping ar putea încuraja Moscova să continue războiul din Ucraina, consideră ministrul ucrainean de Externe, Andrii Sîbiga.",
+        "category": "Politika",
+        "published_at": 1792411982
+      },
+      {
+        "source": "Adevărul",
+        "title": "Kremlinul, reacție oficială despre o posibilă întâlnire Putin-Trump-Xi Jinping în China în noiembrie",
+        "link": "https://adevarul.ro/stiri-externe/rusia/kremlinul-reactie-oficiala-despre-o-posibila-2565024.html",
+        "image": "https://cdn.adh.reperio.news/image-c/c64895ab-3ad1-4518-b6f7-53dc09ee22c8/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Purtătorul de cuvânt al Kremlinului, Dmitri Peskov, a reacționat luni la informațiile publicate de The Wall Street Journal, potrivit cărora președintele rus Vladimir Putin ar fi propus o întâlnire cu omologii săi din SUA și China, respectiv Donald Trump și Xi Jinping.",
+        "category": "Politika",
+        "published_at": 1792418494
       }
     ]
   },
@@ -2603,7 +2373,7 @@
   {
     "group_id": "group_aa6122f684",
     "category": "Erdély",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Ebihoreanul (Nagyvárad/Bihar)",
@@ -2631,6 +2401,15 @@
         "summary": "Europarlamentarul Siegfried Mureșan a transmis luni că este sigur că Partidul Social-Democrat „va încălca programul de guvernare agreat cu premierul Niculescu”. El adaugă că PSD „nu are ideologie și nu are valori politice în care să creadă”.",
         "category": "Politika",
         "published_at": 1792409939
+      },
+      {
+        "source": "Digi24",
+        "title": "Bolojan: Demnitarii susținuți de PNL își vor încheia mandatele în zilele următoare. Excepțiile, la solicitarea lui Luca Niculescu",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-demnitarii-sustinuti-de-pnl-isi-vor-incheia-mandatele-in-zilele-urmatoare-exceptiile-la-solicitarea-lui-luca-niculescu-3999593",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE5JTJGMzAyMTE2NV8zMDIx/MTY1X2lsaWUtYm9sb2phbi1ndXZlcm4t/Mi5qcGcmaGFzaD0yZGY0N2JmYjY0ODUxZTU0NGZhOWNhNjFlODEwMDIwNg==.jpg",
+        "summary": "Premierul interimar Ilie Bolojan a anunțat, luni seară, că majoritatea demnitarilor susținuți de PNL pentru funcții publice, precum secretari de stat, șefi de agenții și prefecți, își vor încheia mandatele în această săptămână. Potrivit liderului liberalilor, în unele cazuri, la solicitarea prim-ministrului desemnat Luca Niculescu, perioada de tranziție ar putea dura cel mult două săptămâni, pentru „asigurarea unor treceri şi gestionarea unor probleme”.",
+        "category": "Politika",
+        "published_at": 1792430113
       }
     ]
   },
@@ -11352,7 +11131,7 @@
         "image": "",
         "summary": "Premierul interimar Ilie Bolojan și-a prezentat luni bilanțul celor aproape 16 luni de guvernare, susținând că lasă România pe calea redresării economice, după măsurile de austeritate care au afectat nivelul de trai al populației. El a acuzat PSD că i-a blocat reformele, a recunoscut că reducerea cheltuielilor statului nu a fost dusă până la capăt și a avertizat că viitorul guvern riscă să compromită stabilizarea economiei dacă revine la vechile practici.",
         "category": "Erdély",
-        "published_at": 1792429361
+        "published_at": 1792430231
       }
     ]
   },
@@ -11761,7 +11540,7 @@
         "image": "",
         "summary": "Oradea intră, în premieră, pe harta festivalului Les Films de Cannes, care va aduce în oraș, între 29 octombrie și 1 noiembrie, șapte proiecții, între care „4 luni, 3 săptămâni și 2 zile”, o întâlnire cu actrița Anamaria Marinca și un concert cu muzică din filme. Evenimentele se vor desfășura la Muzeul Țării Crișurilor și la Cinema Palace, iar selecția îi poartă pe spectatori de la primul Palme d’Or al lui Cristian Mungiu la cele mai noi producții de la Cannes.",
         "category": "Erdély",
-        "published_at": 1792429361
+        "published_at": 1792430231
       }
     ]
   },
@@ -11857,7 +11636,87 @@
         "image": "",
         "summary": "Prim-ministrul interimar Ilie Bolojan a fost pus luni în fața mai multor întrebări incomode legate de Oradea și Bihor, în ultima conferință de presă susținută la Palatul Victoria înaintea încheierii mandatului de premier. Jurnaliștii l-au întrebat despre banii plătiți pentru apariția Andreei Esca și a influencerului Otravă la FestiFall, despre alocările Ministerului Sănătății pentru Spitalul Județean Bihor și, în final, dacă România ar trebui să semene mai mult cu Oradea sau cu Craiova.",
         "category": "Erdély",
-        "published_at": 1792429361
+        "published_at": 1792430231
+      }
+    ]
+  },
+  {
+    "group_id": "group_a77c2e22c3",
+    "category": "Erdély",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Megkezdődött a medvevadászat – A kilövési keret csepp a tengerben a Hargita megyei vadgazdák szerint",
+        "link": "https://maszol.ro/belfold/Megkezdodott-a-medvevadaszat-A-kilovesi-keret-csepp-a-tengerben-a-Hargita-megyei-vadgazdak-szerint",
+        "image": "https://maszol.ro/resized/2026_oktober/19/cikk_medve_agerpres.jpg",
+        "summary": "Míg Kovászna megyében az időhiány miatt a prefektus borítékolja a kvóta kudarcát, a legnagyobb Hargita megyei vadásztársaság vezetője úgy látja, ők tudják teljesíteni a medvekilövési keretet.",
+        "category": "Erdély",
+        "published_at": 1792429500
+      }
+    ]
+  },
+  {
+    "group_id": "group_0f002c4669",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Cele mai performante companii din România asigură locuri de muncă pentru peste 1,37 milioane de salariaţi, arată Topul Naţional al Firmelor, realizat de Camera de Comerţ",
+        "link": "https://www.zf.ro/zf-24/cele-mai-performante-companii-din-romania-asigura-locuri-de-munca-pentru-peste-1-37-milioane-de-salariati-arata-topul-national-al-firmelor-realizat-de-camera-de-comert-23263437",
+        "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10376/23263437/1/afacerri2774086-publimedia-shutterstock.jpg?width=700",
+        "summary": "",
+        "category": "Gazdaság",
+        "published_at": 1792429731
+      }
+    ]
+  },
+  {
+    "group_id": "group_ded092c86a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Doi bărbaţi s-au predat după ce un gard de securitate de pe aeroportul din Leipzig a fost avariat",
+        "link": "https://www.digi24.ro/stiri/externe/doi-barbati-s-au-predat-dupa-ce-un-gard-de-securitate-de-pe-aeroportul-din-leipzig-a-fost-avariat-3999573",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE5JTJGMzAyMTEzNV8zMDIx/MTM1X3Byb2ZpbWVkaWEtMTE0NDM1NDgz/My5qcGcmaGFzaD00NWFhM2MxMDgyNDc1YmE0M2Q3OGE3M2MwNDE3NmJiZg==.jpg",
+        "summary": "Doi bărbaţi s-au predat după ce un gard de securitate de pe aeroportul din Leipzig a fost avariat de un vehicul, incident ce a declanşat o alertă de securitate la două luni după o dronă încărcată cu explozibil a fost descoperită în apropierea unor avioane cargo ucrainene pe acelaşi aeroport din Germania, relatează luni dpa.",
+        "category": "Általános",
+        "published_at": 1792429152
+      }
+    ]
+  },
+  {
+    "group_id": "group_3887569f60",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Bolojan acuză PSD: Când nu a mai suportat pericolul ca vechiul sistem să fie demantelat, acest guvern a fost demis",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-acuza-psd-cand-nu-a-mai-suportat-pericolul-ca-vechiul-sistem-sa-fie-demantelat-acest-guvern-a-fost-demis-3999583",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjIyJTJGMjgwMjQ4Nl8yODAy/NDg2X0lOU1RBTlRfR1VWRVJOX0JPTE9K/QU5fQlJJRUZJTkdfMDFfSU5RVUFNX1Bo/b3Rvc19PY3Rhdl9HYW5lYS5qcGcmaGFz/aD1hMDU4NzRhOTZjNTllN2YzYTlmNTllNDk3MjdhYjQ1ZQ==.jpg",
+        "summary": "Premierul interimar Ilie Bolojan a spus luni, în conferința de presă în care și-a prezentat bilanțul, că atunci când PSD nu a mai suportat pericolul ca vechiul sistem „să fie demantelat” prin reguli şi alocări corecte, guvernul său a fost demis. Nu pentru că reformele au eşuat, ci pentru că începuseră să atingă interesele celor care vor să trăiască în continuare de pe urma unui stat nereformat, susține Bolojan.",
+        "category": "Politika",
+        "published_at": 1792428909
+      }
+    ]
+  },
+  {
+    "group_id": "group_a7f136ea66",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Unul dintre cele mai titrate filme din istorie a revenit în topurile de streaming la 35 de ani de la lansare",
+        "link": "https://hotnews.ro/unul-dintre-cele-mai-titrate-filme-din-istorie-a-revenit-in-topurile-de-streaming-la-35-de-ani-de-la-lansare-2380069",
+        "image": "",
+        "summary": "Există mai multe motive pentru care unele filme ajung să fie considerate clasice ale cinematografiei, în timp ce altele nu trec testul timpului. Unul dintre cele mai importante este, desigur, succesul în rândul publicului, indicator de care amintește acum clasamentul celor mai urmărite filme pe HBO max în luna octombrie. Platforma de streaming deținută de …",
+        "category": "Bulvár",
+        "published_at": 1792429907
       }
     ]
   }
