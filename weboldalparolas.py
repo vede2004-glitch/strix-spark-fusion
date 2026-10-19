@@ -90,9 +90,14 @@ def get_model():
     return _MODEL
 
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK
+# 2. SEGÉDFUNKCIÓK ÉS SZIGORÍTOTT DÁTUMFELDOLGOZÓ
 # ==============================================================================
 def parse_published_time(entry) -> int:
+    """
+    Szigorított dátumfeldolgozó:
+    1. Kinyeri az RSS szabványos dátumát.
+    2. Ha hiányzik vagy felül van írva, kinyeri a dátumot az URL-ből (pl. adevarul.ro/.../profesor-14-10-2026).
+    """
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
     if pub_parsed:
         try:
@@ -104,6 +109,20 @@ def parse_published_time(entry) -> int:
     if raw_date:
         try:
             dt = parsedate_to_datetime(raw_date)
+            return int(dt.timestamp())
+        except Exception:
+            pass
+
+    # 🛑 URL-ALAPÚ DÁTUM KIOLVASÁS (Pl. 2026-10-14 vagy 14-10-2026)
+    link = entry.get('link', '')
+    url_date_match = re.search(r'(\d{4})[-/](\d{2})[-/](\d{2})', link) or re.search(r'(\d{2})[-/](\d{2})[-/](\d{4})', link)
+    if url_date_match:
+        try:
+            parts = url_date_match.groups()
+            if len(parts[0]) == 4:  # YYYY-MM-DD
+                dt = datetime(int(parts[0]), int(parts[1]), int(parts[2]))
+            else:  # DD-MM-YYYY
+                dt = datetime(int(parts[2]), int(parts[1]), int(parts[0]))
             return int(dt.timestamp())
         except Exception:
             pass
@@ -133,7 +152,6 @@ def clean_text(text):
 def classify_article(title, summary, source_name, entry_tags):
     text = f"{title} {summary}".lower()
 
-    # 🛑 1. Bűnügyi, Iskolai, Bírósági hírek KIZÁRÁSA a Sport kategóriából
     crime_education_keywords = [
         "rendőrség", "bántalmazás", "letartóztatás", "bíróság", "miniszter", 
         "iskola", "profesor", "politie", "dosar penal", "reţinut", "agresat", "tanár"
@@ -143,7 +161,6 @@ def classify_article(title, summary, source_name, entry_tags):
             return "Erdély"
         return "Általános"
 
-    # 🛑 2. Csak a VALÓDI sportesemények kerülhetnek a Sportba
     real_sport_keywords = [
         "foci", "labdarúgás", "mérkőzés", "bajnokság", "gól", "kupa", "meccs", 
         "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"
@@ -218,7 +235,7 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
     if pub_timestamp > current_now:
         pub_timestamp = current_now
 
-    # 🛑 SZIGORÚ DÁTUM SZŰRŐ: Ha nem sikerült kinyerni a dátumot (0) vagy 12 óránál régebbi, ELDOBJA
+    # 🛑 SZIGORÚ 12 ÓRÁS SZŰRŐ: Ha nem találtunk dátumot (0) vagy 12 óránál régebbi, azonnal eldobja!
     if pub_timestamp == 0 or pub_timestamp < cutoff_12h:
         return None
 
@@ -275,7 +292,7 @@ def run_pipeline():
         fetched_articles.extend(article_list)
 
     for art in fetched_articles:
-        # 🔄 CIKKFRISSÍTÉS KEZELÉSE: Ha az URL már létezik, de frissült a tartalom/dátum
+        # 🔄 CIKKFRISSÍTÉS KEZELÉSE: Ha az URL már benne van, frissítjük a tartalmát és dátumát
         existing_item = next((m for m in memory if m["link"] == art["link"]), None)
         if existing_item:
             if art["published_at"] > existing_item.get("fetched_at", 0):
@@ -312,4 +329,109 @@ def run_pipeline():
             link_hash = hashlib.md5(art["link"].encode("utf-8")).hexdigest()[:10]
             group_id = f"group_{link_hash}"
 
-        memory
+        memory.append({
+            "group_id": group_id,
+            "source": art["source"],
+            "title": art["title"],
+            "link": art["link"],
+            "image": art["image"],
+            "summary": art["summary"],
+            "category": art["category"],
+            "embedding": art_embedding,
+            "fetched_at": art["published_at"]
+        })
+
+    # 📦 ARCHÍVUM KEZELÉS: A 12 óránál régebbi cikkek átkerülnek az archívumba
+    fresh_memory = []
+    archive_updated = False
+    existing_archive_links = {a["link"] for a in archive}
+
+    for item in memory:
+        if item.get("fetched_at", 0) >= cutoff_12h:
+            fresh_memory.append(item)
+        else:
+            if item["link"] not in existing_archive_links:
+                clean_arch_item = {k: v for k, v in item.items() if k != "embedding"}
+                archive.append(clean_arch_item)
+                existing_archive_links.add(item["link"])
+                archive_updated = True
+
+    save_json_file(MEMORY_FILE, fresh_memory)
+    if archive_updated:
+        save_json_file(ARCHIVE_FILE, archive)
+        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az archívumban.")
+
+    # 💾 CSOPORTOSÍTOTT MEMÓRIA MENTÉSE
+    grouped_dictionary = {}
+    for item in fresh_memory:
+        g_id = item["group_id"]
+        clean_item = {
+            "source": item["source"],
+            "title": item["title"],
+            "link": item["link"],
+            "image": item["image"],
+            "summary": item["summary"],
+            "category": item["category"],
+            "published_at": item["fetched_at"]
+        }
+        if g_id not in grouped_dictionary:
+            grouped_dictionary[g_id] = {
+                "group_id": g_id,
+                "category": item["category"],
+                "articles_count": 0,
+                "articles": []
+            }
+        grouped_dictionary[g_id]["articles"].append(clean_item)
+        grouped_dictionary[g_id]["articles_count"] += 1
+
+    save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
+
+    # ⚡ VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA
+    os.makedirs("src/data", exist_ok=True)
+    fresh_news = {}
+
+    for item in fresh_memory:
+        g_id = item.get("group_id")
+        pub_time = int(item.get("fetched_at", 0))
+
+        if g_id not in fresh_news:
+            fresh_news[g_id] = {
+                "group_id": g_id,
+                "category": item.get("category", "Általános"),
+                "image": item.get("image", ""),
+                "is_synthesized": False,
+                "sources": [{"source": item.get("source"), "title": item.get("title"), "link": item.get("link")}],
+                "published_at": pub_time,
+                "title_hu": item.get("title", ""),
+                "lead_hu": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
+                "content_hu": item.get("summary", ""),
+                "title_ro": item.get("title", ""),
+                "lead_ro": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
+                "content_ro": item.get("summary", "")
+            }
+
+    raw_list = list(fresh_news.values())
+    raw_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
+
+    # 🛑 FORRÁS-DIVERZITÁS
+    balanced_list = []
+    skipped_items = []
+
+    for item in raw_list:
+        item_source = item.get("sources", [{}])[0].get("source")
+        if (
+            len(balanced_list) >= 2 
+            and balanced_list[-1].get("sources", [{}])[0].get("source") == item_source
+            and balanced_list[-2].get("sources", [{}])[0].get("source") == item_source
+        ):
+            skipped_items.append(item)
+        else:
+            balanced_list.append(item)
+
+    final_list = balanced_list + skipped_items
+
+    save_json_file(OUTPUT_FILE, final_list)
+    print(f"⚡ 5 perces gyorshír frissítés kész! ({len(final_list)} cikk a news.json-ban)")
+
+if __name__ == "__main__":
+    run_pipeline()
