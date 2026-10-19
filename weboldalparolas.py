@@ -60,6 +60,7 @@ RSS_FEEDS = {
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
 GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
+ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
@@ -71,11 +72,11 @@ HEADERS = {
 }
 
 CATEGORIES = {
-    "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat", "sport"],
+    "Sport": ["foci", "labdarúgás", "mérkőzés", "bajnokság", "edző", "győzelem", "vereség", "liga", "kupa", "meccs", "gól", "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"],
     "Politika": ["kormány", "parlament", "választás", "párt", "politika", "tanács", "polgármester", "miniszter", "szenátus", "döntés", "törvény", "rmdsz", "psd", "pnl", "usr", "aur", "guvern", "alegeri", "primar"],
     "Gazdaság": ["pénz", "euró", "lej", "infláció", "befektetés", "gazdaság", "cégek", "üzlet", "piac", "drágulás", "árak", "bank", "fizetés", "bér", "bani", "inflatie", "investitii", "economie"],
     "Kultúra": ["színház", "múzeum", "koncert", "kiállítás", "könyv", "irodalom", "zene", "művészet", "fesztivál", "egyház", "teatru", "muzeu", "carte", "muzica", "biserica"],
-    "Erdély": ["erdély", "székelyföld", "kolozsvár", "marosvásárhely", "csíkszereda", "sepsiszentgyörgy", "székelyudvarhely", "nagyvárad", "szatmárnémeti", "brassó", "hargita", "kovászna", "maros", "iskola", "kórház", "baleset", "rendőrség", "accident", "politie"],
+    "Erdély": ["erdély", "székelyföld", "kolozsvár", "marosvásárhely", "csíkszereda", "sepsiszentgyörgy", "székelyudvarhely", "nagyvárad", "szatmárnémeti", "brassó", "hargita", "kovászna", "maros"],
     "Bulvár": ["sztár", "celeb", "szerelem", "szakítás", "házasság", "botrány", "vedeta", "scandal", "divort", "cancan", "showbiz", "horoszkóp"]
 }
 
@@ -109,18 +110,18 @@ def parse_published_time(entry) -> int:
 
     return 0
 
-def load_memory():
-    if os.path.exists(MEMORY_FILE):
+def load_json_file(filename):
+    if os.path.exists(filename):
         try:
-            with open(MEMORY_FILE, "r", encoding="utf-8") as f:
+            with open(filename, "r", encoding="utf-8") as f:
                 return json.load(f)
         except Exception:
             return []
     return []
 
-def save_memory(memory_data):
-    with open(MEMORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(memory_data, f, ensure_ascii=False, indent=2)
+def save_json_file(filename, data):
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 def clean_text(text):
     if not text:
@@ -130,8 +131,26 @@ def clean_text(text):
     return text
 
 def classify_article(title, summary, source_name, entry_tags):
-    if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
+    text = f"{title} {summary}".lower()
+
+    # 🛑 1. Bűnügyi, Iskolai, Bírósági hírek KIZÁRÁSA a Sport kategóriából
+    crime_education_keywords = [
+        "rendőrség", "bántalmazás", "letartóztatás", "bíróság", "miniszter", 
+        "iskola", "profesor", "politie", "dosar penal", "reţinut", "agresat", "tanár"
+    ]
+    if any(kw in text for kw in crime_education_keywords):
+        if any(w in text for w in ["erdély", "timișoara", "temesvár", "kolozsvár", "marosvásárhely", "székelyföld"]):
+            return "Erdély"
+        return "Általános"
+
+    # 🛑 2. Csak a VALÓDI sportesemények kerülhetnek a Sportba
+    real_sport_keywords = [
+        "foci", "labdarúgás", "mérkőzés", "bajnokság", "gól", "kupa", "meccs", 
+        "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"
+    ]
+    if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"] or any(kw in text for kw in real_sport_keywords):
         return "Sport"
+
     if source_name in ["Maszol Gazdaság", "Economedia", "Ziarul Financiar"]:
         return "Gazdaság"
     if source_name in ["Click.ro", "Cancan.ro", "Maszol Életmód"]:
@@ -143,11 +162,13 @@ def classify_article(title, summary, source_name, entry_tags):
     if source_name in ["Agerpres (Politica)"]:
         return "Politika"
 
-    text = f"{title} {summary}".lower()
     for category, keywords in CATEGORIES.items():
+        if category == "Sport":
+            continue
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
                 return category
+
     return "Általános"
 
 def extract_cover_image(entry, article_url, session):
@@ -165,8 +186,7 @@ def extract_cover_image(entry, article_url, session):
         img = soup.find('img')
         if img and img.get('src'):
             return img['src']
-            
-    # Ha nincs kép az RSS-ben, üresen hagyjuk – a frontend kezeli a fallbacket!
+
     return ""
 
 def get_embedding(title, summary):
@@ -198,7 +218,8 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
     if pub_timestamp > current_now:
         pub_timestamp = current_now
 
-    if pub_timestamp < cutoff_12h:
+    # 🛑 SZIGORÚ DÁTUM SZŰRŐ: Ha nem sikerült kinyerni a dátumot (0) vagy 12 óránál régebbi, ELDOBJA
+    if pub_timestamp == 0 or pub_timestamp < cutoff_12h:
         return None
 
     raw_summary = entry.get('summary', '') or entry.get('description', '')
@@ -234,14 +255,15 @@ def fetch_single_feed(item_and_cutoff):
     return extracted
 
 # ==============================================================================
-# 3. CSOPORTOSÍTÁS ÉS GYORSHÍR KIMENTÉS A NEWS.JSON-BA
+# 3. CSOPORTOSÍTÁS, ARCHÍVUM MENTÉS ÉS GYORSHÍR KIMENTÉS A NEWS.JSON-BA
 # ==============================================================================
 def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{now_str}] 🔄 Hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
 
     cutoff_12h = int(time.time()) - (12 * 3600)
-    memory = load_memory()
+    memory = load_json_file(MEMORY_FILE)
+    archive = load_json_file(ARCHIVE_FILE)
 
     fetched_articles = []
     feed_items = [((src, url), cutoff_12h) for src, url in RSS_FEEDS.items()]
@@ -294,11 +316,29 @@ def run_pipeline():
             "fetched_at": art["published_at"]
         })
 
-    save_memory(memory)
+    # 📦 ARCHÍVUM KEZELÉS: A 12 óránál régebbi cikkek átkerülnek az archívumba, nem ragadnak a memóriában
+    fresh_memory = []
+    archive_updated = False
+    existing_archive_links = {a["link"] for a in archive}
 
-    # 💾 CSOPORTOSÍTOTT MEMÓRIA MENTÉSE
-    grouped_dictionary = {}
     for item in memory:
+        if item.get("fetched_at", 0) >= cutoff_12h:
+            fresh_memory.append(item)
+        else:
+            if item["link"] not in existing_archive_links:
+                clean_arch_item = {k: v for k, v in item.items() if k != "embedding"}
+                archive.append(clean_arch_item)
+                existing_archive_links.add(item["link"])
+                archive_updated = True
+
+    save_json_file(MEMORY_FILE, fresh_memory)
+    if archive_updated:
+        save_json_file(ARCHIVE_FILE, archive)
+        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az archívumban.")
+
+    # 💾 CSOPORTOSÍTOTT FRISS MEMÓRIA MENTÉSE
+    grouped_dictionary = {}
+    for item in fresh_memory:
         g_id = item["group_id"]
         clean_item = {
             "source": item["source"],
@@ -319,30 +359,18 @@ def run_pipeline():
         grouped_dictionary[g_id]["articles"].append(clean_item)
         grouped_dictionary[g_id]["articles_count"] += 1
 
-    with open(GROUPED_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(grouped_dictionary.values()), f, ensure_ascii=False, indent=2)
+    save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
 
-    # ⚡ VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA
+    # ⚡ VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA (Kizárólag a friss hírek)
     os.makedirs("src/data", exist_ok=True)
-    existing_news = {}
-    if os.path.exists(OUTPUT_FILE):
-        try:
-            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-                for item in json.load(f):
-                    if "group_id" in item:
-                        existing_news[item["group_id"]] = item
-        except Exception:
-            pass
+    fresh_news = {}
 
-    for item in memory:
+    for item in fresh_memory:
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
 
-        if pub_time < cutoff_12h:
-            continue
-
-        if g_id not in existing_news or not existing_news[g_id].get("is_synthesized"):
-            existing_news[g_id] = {
+        if g_id not in fresh_news:
+            fresh_news[g_id] = {
                 "group_id": g_id,
                 "category": item.get("category", "Általános"),
                 "image": item.get("image", ""),
@@ -357,7 +385,7 @@ def run_pipeline():
                 "content_ro": item.get("summary", "")
             }
 
-    raw_list = [item for item in existing_news.values() if item.get("published_at", 0) >= cutoff_12h]
+    raw_list = list(fresh_news.values())
     raw_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
     # 🛑 FORRÁS-DIVERZITÁS
@@ -377,9 +405,7 @@ def run_pipeline():
 
     final_list = balanced_list + skipped_items
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_list, f, ensure_ascii=False, indent=2)
-
+    save_json_file(OUTPUT_FILE, final_list)
     print(f"⚡ 5 perces gyorshír frissítés kész! ({len(final_list)} cikk a news.json-ban)")
 
 if __name__ == "__main__":
