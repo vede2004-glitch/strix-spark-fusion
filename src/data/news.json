@@ -1,5 +1,740 @@
 [
   {
+    "group_id": "group_3c009f782d",
+    "fingerprint": "c6056d592ec37418277a60a787f9de35",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/08/FotoJet-2026-08-11T175430.903-1200x675.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 15,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza ANM dă peste cap așteptările! Cum va fi vremea până în noiembrie",
+        "link": "https://www.cancan.ro/prognoza-anm-da-peste-cap-asteptarile-cum-va-fi-vremea-pana-in-noiembrie-21529355"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 13 octombrie. Ploi abundente, frig și vânt puternic în România, iar la munte sunt așteptate ninsori",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-13-octombrie-ploi-abundente-frig-si-vant-puternic-in-romania-iar-la-munte-sunt-asteptate-ninsori.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza meteo azi, 14 octombrie 2026. Ploi în sud, vânt puternic în est și frig pătrunzător peste noapte",
+        "link": "https://www.cancan.ro/prognoza-meteo-azi-14-octombrie-2026-ploi-in-sud-vant-puternic-in-est-si-frig-patrunzator-peste-noapte-21529290"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cum va fi vremea în București, până sâmbătă. Temperaturile coboară până spre 2 grade",
+        "link": "https://hotnews.ro/cum-va-fi-vremea-in-bucuresti-pana-sambata-temperaturile-coboara-pana-spre-2-grade-2375536"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Vremea se schimbă radical în România: ninsori la munte și vijelii în jumătate de țară. Ce urmează în București",
+        "link": "https://adevarul.ro/stiri-interne/meteo/vremea-se-schimba-radical-in-romania-ninsori-la-2563921.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Prognoza meteo joi, 15 octombrie. Ploi în mai multe regiuni și ninsori la munte, unde se va depune strat de zăpadă",
+        "link": "https://adevarul.ro/stiri-interne/meteo/prognoza-meteo-joi-15-octombrie-ploi-in-mai-2564098.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 16 octombrie. Este o zi cam rece, cu ploi slabe în multe zone, lapoviță și ninsoare la munte",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-16-octombrie-este-o-zi-cam-rece-cu-ploi-slabe-in-multe-zone-lapovita-si-ninsoare-la-munte.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 17 octombrie. Ploi și temperaturi scăzute în aproape toată țara. Unde va fi cel mai frig",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-17-octombrie-ploi-si-temperaturi-scazute-in-aproape-toata-tara-unde-va-fi-cel-mai-frig.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "A hideg és az eső után akár 25 fokra is felmelegedhet az idő",
+        "link": "https://maszol.ro/belfold/A-hideg-es-az-eso-utan-akar-25-fokra-is-felmelegedhet-az-ido"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vreme capricioasă în Capitală. ANM anunță ploi și temperaturi de până la 19 grade",
+        "link": "https://www.mediafax.ro/meteo/vreme-capricioasa-in-capitala-anm-anunta-ploi-si-temperaturi-de-pana-la-19-grade-23827474"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vreme severă în România. Ploi în mai multe regiuni și vânt puternic. Zonele unde rafalele vor ajunge la 90 km/h și va ninge – HARTĂ",
+        "link": "https://stirileprotv.ro/stiri/vremea/vreme-severa-in-romania-cod-galben-de-vant-in-moldova-si-dobrogea-rafale-de-pana-la-90-km-h-si-ninsori-la-munte.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Temperatura în București, în ușoară creștere, duminică și luni",
+        "link": "https://agerpres.ro/social/2026/10/18/temperatura-in-bucuresti-in-usoara-crestere-duminica-si-luni--1604176"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza meteo azi, 19 octombrie 2026. . Nici toamna nu mai știe ce vrea! De la 22 de grade la ninsoare, într-o singură zi",
+        "link": "https://www.cancan.ro/prognoza-meteo-azi-19-octombrie-2026-nici-toamna-nu-mai-stie-ce-vrea-de-la-22-de-grade-la-ninsoare-intr-o-singura-zi-21531918"
+      },
+      {
+        "source": "Mediafax",
+        "title": "ANM anunță schimbări majore de temperatură în România. Cum va fi vremea în următoarele două săptămâni",
+        "link": "https://www.mediafax.ro/social/anm-anunta-schimbari-majore-de-temperatura-in-romania-cum-va-fi-vremea-in-urmatoarele-doua-saptamani-23827989"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "De la 25 la 15 grade în doar două zile! ANM anunță o încălzire puternică în Crișana, urmată de răcire și ploi",
+        "link": "https://www.ebihoreanul.ro/stiri/de-la-25-la-15-grade-in-doar-doua-zile-anm-anunta-o-incalzire-puternica-in-crisana-urmata-de-racire-si-ploi-205935.html"
+      }
+    ],
+    "published_at": 1792405966,
+    "title_hu": "Hideg, eső és havazás után felmelegedés, majd újabb lehűlés Romániában",
+    "lead_hu": "Október közepén hideg, szeles, esős idő érkezett, a magashegységben havazással; egyes keleti-kárpáti völgyekben akár mínusz 5 fokot is mérhettek. Október 21-én több helyen 24–25 fokig melegedhet az idő, ezt azonban gyors lehűlés és október 21–27. között növekvő esélyű, helyenként jelentős eső követheti. Az ANM hosszabb távú előrejelzései szerint október végéig többnyire az évszakos átlagnál hűvösebb idő valószínű.",
+    "content_hu": "• **Október 13–17.** Az ország nagy részén hideg, többfelé esős idő volt; október 13-án a maximumok 11–18 fok között alakultak, a déli térségekben és Dobrudzsában helyenként 20 liter eső is hullhatott négyzetméterenként. Október 17-én a kelet-erdélyi medencékben csak 9, Olténiában 17–18 fokot jeleztek előre.\n\n• **Október 14–16.** Az ANM szélre figyelmeztetett: Moldva déli felén, Dobrudzsában és Muntenia keleti részén jellemzően 45–55 km/órás, a hegygerinceken 60–80 km/órás széllökésekre számítottak. 1500 méter felett havas eső és havazás, a Déli- és Keleti-Kárpátokban helyenként 5–15 centiméteres hóréteg is kialakulhatott.\n\n• **Október 14. éjszakája.** A minimumok országszerte mínusz 2 és 8 fok között alakulhattak, a Keleti-Kárpátok medencéiben akár mínusz 5 fokig süllyedhetett a hőmérséklet; helyenként köd és dér is képződhetett. Bukarestben 16–17 fokos maximumot és 5–6 fokos minimumot jeleztek, a külvárosokban akár 2 fokkal.\n\n• **Október 18-án 10 órától október 20-án 2 óráig** Moldvában és Dobrudzsában általában 45–60 km/órás széllökésekre, a Déli-Kárpátok magasabb részein pedig akár 70–90 km/órás széllökésekre figyelmeztetett az ANM.\n\n• **Eső és havazás október 18–20. között.** Moldvában, Dobrudzsában, Muntenia és Erdély keleti felén 10–20, helyenként 30–35 litert meghaladó csapadék hullhat; 2000 méter felett főként havazás várható. A Bucsecs- és Fogarasi-havasokban általában 10–20 centiméteres hóréteg alakulhat ki.\n\n• **Sárga szintű szélriasztás** volt érvényben október 18-án 21 órától október 19-én 21 óráig Moldvában és Dobrudzsa egyes részein, ahol a széllökések elérhették az 50–70 km/órát.\n\n• **Október 19-én** jelentős hőmérséklet-különbség várható: Észak-Moldvában mindössze 9, Olténiában akár 22 fokig emelkedhet a hőmérséklet. Bukarestben 18–19 fokos maximumot és gyenge esőt jeleztek előre.\n\n• **Október 21-én** átmeneti, jelentős felmelegedés jöhet: Bánságban, Körösvidéken és az ország középső-nyugati részein 24–25 fok is lehet. Október 22-én az ország nagy részén 17–23 fok várható, nyugaton pedig növekszik az eső esélye.\n\n• **Október 23-tól** lehűlés kezdődhet. A maximumok több térségben 15–20 fokra eshetnek vissza; a Körösvidéken az átlagos maximum október 21-i 25 fokról október 23-ra 15 fokra csökkenhet. A magashegységben a csapadék havas esőbe vagy havazásba válthat.\n\n• **Október 21–27. között** az ANM kéthetes előrejelzése szerint nagyobb az eső valószínűsége, és az időszak közepén helyenként jelentős csapadék is hullhat. Október 24–28. között a maximumok térségtől függően 16–20 fok körül alakulhatnak, majd a hónap végén ismét csökkenhetnek.\n\n• **Október 19. és november 2. között** a heti előrejelzések többnyire enyhén átlag alatti hőmérsékleteket jeleznek; az október 26.–november 2. közötti hétre is az évszakosnál kissé hűvösebb idő valószínű. A november elejéhez közeledve a hőmérséklet fokozatosan közelíthet a naptári átlaghoz. A csapadék október 12–19. között délkeleten átlag feletti, másutt átlag alatti lehetett, később többnyire az átlaghoz közeli értékekkel.\n\n• **Bukarestben október 17–18-án** borult, hűvös időt és gyenge esőt vártak, 13–15 fokos nappali csúcsokkal. Október 18–20. között a maximumok 16–19 fokig emelkedhetnek; gyenge esőre főként este és éjszaka számítottak.",
+    "title_ro": "După frig, ploi și ninsori, încălzire urmată de o nouă răcire în România",
+    "lead_ro": "La mijlocul lunii octombrie, România a avut parte de vreme rece, vânt și ploi, iar la munte au fost prognozate ninsori; în unele depresiuni din Carpații Orientali, minimele puteau coborî până la -5 grade. Pe 21 octombrie, temperaturile pot urca la 24–25 de grade în unele regiuni, însă apoi este așteptată o răcire rapidă, iar între 21 și 27 octombrie crește probabilitatea de ploi, local însemnate cantitativ. Estimările ANM indică, în general, temperaturi sub media sezonieră până la sfârșitul lunii octombrie.",
+    "content_ro": "• **13–17 octombrie.** În cea mai mare parte a țării s-au înregistrat temperaturi scăzute și ploi; pe 13 octombrie, maximele au fost prognozate între 11 și 18 grade, iar în sud și Dobrogea puteau cădea local 20 de litri de apă pe metru pătrat. Pe 17 octombrie, maximele puteau ajunge la doar 9 grade în depresiunile din estul Transilvaniei și la 17–18 grade în Oltenia.\n\n• **14–16 octombrie.** ANM a anunțat intensificări ale vântului: rafale de 45–55 km/h în sudul Moldovei, Dobrogea și estul Munteniei, respectiv de 60–80 km/h pe crestele montane. La altitudini de peste 1.500 de metri au fost prognozate lapoviță și ninsoare, iar în Carpații Meridionali și Orientali se putea depune local un strat de zăpadă de 5–15 centimetri.\n\n• **Noaptea de 14 octombrie.** Minimele puteau coborî între -2 și 8 grade, iar în depresiunile Carpaților Orientali până la -5 grade; pe alocuri erau posibile ceață și brumă. În București erau prognozate maxime de 16–17 grade și minime de 5–6 grade, cu valori de până la 2 grade în zona periurbană.\n\n• **Între 18 octombrie, ora 10:00, și 20 octombrie, ora 02:00,** ANM a prognozat rafale de 45–60 km/h în Moldova și Dobrogea și de până la 70–90 km/h în zonele înalte din Carpații Meridionali.\n\n• **Ploi și ninsori în perioada 18–20 octombrie.** În Moldova, Dobrogea și jumătatea de est a Munteniei și Transilvaniei se pot acumula 10–20 de litri de apă pe metru pătrat, local peste 30–35 de litri. La peste 2.000 de metri sunt așteptate precipitații predominant sub formă de ninsoare; în masivele Bucegi și Făgăraș se poate depune un strat de zăpadă de 10–20 de centimetri.\n\n• **A fost instituit Cod galben de vânt** în unele zone din Moldova și Dobrogea, în intervalul 18 octombrie, ora 21:00 – 19 octombrie, ora 21:00; rafalele puteau atinge 50–70 km/h.\n\n• **Pe 19 octombrie,** diferențele de temperatură dintre regiuni sunt importante: maxime de numai 9 grade în nordul Moldovei și de până la 22 de grade în Oltenia. În București erau prognozate 18–19 grade și ploi slabe.\n\n• **Pe 21 octombrie** este așteptată o încălzire temporară, cu 24–25 de grade în Banat, Crișana și unele regiuni din vestul și centrul țării. Pe 22 octombrie, maximele pot ajunge la 17–23 de grade în mare parte din țară, iar probabilitatea de ploaie crește în vest.\n\n• **Din 23 octombrie** poate începe o răcire. Maximele pot coborî în mai multe regiuni la 15–20 de grade; în Crișana, media maximelor poate scădea de la 25 de grade pe 21 octombrie la 15 grade pe 23 octombrie. La munte, precipitațiile pot deveni lapoviță sau ninsoare.\n\n• **În perioada 21–27 octombrie,** potrivit prognozei ANM pe două săptămâni, probabilitatea de ploaie este mai ridicată, iar la mijlocul intervalului pot apărea local cantități însemnate. Între 24 și 28 octombrie, maximele pot varia, în funcție de regiune, între 16 și 20 de grade, apoi ar putea scădea din nou spre sfârșitul lunii.\n\n• **Între 19 octombrie și 2 noiembrie,** estimările săptămânale indică în general temperaturi ușor sub normal; și pentru săptămâna 26 octombrie–2 noiembrie este prognozată vreme puțin mai rece decât media sezonieră. Pe măsură ce se apropie începutul lunii noiembrie, temperaturile se pot apropia treptat de valorile normale. În perioada 12–19 octombrie, precipitațiile puteau depăși media în sud-est și se puteau situa sub medie în celelalte regiuni; ulterior, cantitățile sunt estimate, în general, în jurul valorilor normale.\n\n• **În București, pe 17–18 octombrie,** erau prognozate vreme închisă, răcoroasă și ploi slabe, cu maxime de 13–15 grade. Între 18 și 20 octombrie, maximele puteau urca la 16–19 grade, iar ploile slabe erau așteptate mai ales seara și noaptea."
+  },
+  {
+    "group_id": "group_d746fb4ee0",
+    "fingerprint": "f33e9084220acfa72396b14474a71a48",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/radiocom.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Atac de tip ransomware la Radiocom. Serviciul de e-mail al companiei este indisponibil",
+        "link": "https://www.mediafax.ro/economic/atac-de-tip-ransomware-la-radiocom-serviciul-de-e-mail-al-companiei-este-indisponibil-23828015"
+      },
+      {
+        "source": "Economedia",
+        "title": "Radiocom este vizată de un presupus atac ransomware. DNSC și DIICOT fac investigații",
+        "link": "https://economedia.ro/radiocom-este-vizata-de-un-presupus-atac-ransomware-dnsc-si-diicot-fac-investigatii.html"
+      }
+    ],
+    "published_at": 1792405918,
+    "title_hu": "Feltételezett zsarolóvírus-támadás érte a Radiocomot",
+    "lead_hu": "A Radiocom október 19-én reggel észlelt egy olyan kiberbiztonsági incidenst, amely az első vizsgálatok szerint zsarolóvírus-támadás lehet. A vállalat e-mail-szolgáltatása átmenetileg nem elérhető, a DNSC és a DIICOT is érintett a vizsgálatokban.",
+    "content_hu": "• **Október 19-én, reggel 6:30-kor** észlelte a Radiocom a kiberbiztonsági incidenst, amely az első ellenőrzések alapján zsarolóvírus-támadás jellemzőit mutatja.\n\n• **A vállalat e-mail-szolgáltatása** átmenetileg nem elérhető; a Radiocom az incidens korlátozására azonnali intézkedéseket tett.\n\n• **A támadás hatása** egyelőre a belső hálózatra korlátozódni látszik, az érintett adatok körét a cég a hatóságokkal együtt vizsgálja.\n\n• **A DNSC szakértői** a Radiocom telephelyén vizsgálódnak, a vállalat pedig értesítette az illetékes intézményeket, köztük a DIICOT-ot.\n\n• **A Radiocom figyelmeztetése szerint** az ügyfelek és partnerek a levelezés helyreállításáig nem tudják használni a megszokott e-mail-címet; a vállalat arra kéri őket, hogy legyenek óvatosak a nevében érkező üzenetekkel, és ne nyissanak meg váratlan linkeket vagy mellékleteket.",
+    "title_ro": "Radiocom, vizată de un presupus atac ransomware",
+    "lead_ro": "Radiocom a detectat în dimineața zilei de 19 octombrie un incident de securitate cibernetică ce ar avea, potrivit primelor verificări, caracteristicile unui atac ransomware. Serviciul de e-mail al companiei este temporar indisponibil, iar DNSC și DIICOT sunt implicate în investigații.",
+    "content_ro": "• **Pe 19 octombrie, la ora 6:30**, Radiocom a detectat incidentul de securitate cibernetică, care prezintă, potrivit primelor verificări, caracteristicile unui atac ransomware.\n\n• **Serviciul de e-mail al companiei** este temporar indisponibil, iar Radiocom a luat măsuri imediate pentru limitarea incidentului.\n\n• **Impactul atacului** pare să fie concentrat, deocamdată, la nivelul rețelei interne; compania evaluează împreună cu autoritățile ce date au fost afectate.\n\n• **Specialiștii DNSC** se află la sediul Radiocom pentru investigații, iar compania a sesizat instituțiile competente, inclusiv DIICOT.\n\n• **Radiocom le recomandă clienților și partenerilor** să fie precauți cu mesajele primite în numele companiei și să nu acceseze linkuri sau atașamente neașteptate, până la restabilirea serviciului de e-mail."
+  },
+  {
+    "group_id": "group_7302d2330c",
+    "fingerprint": "de3385646d8850247845b42393ffcd20",
+    "category": "Sport",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Timiș: Profesor de sport, atacat de părinții unui elev atenționat asupra disciplinei în timpul orelor",
+        "link": "https://agerpres.ro/justitie/2026/10/14/timis-profesor-de-sport-atacat-de-parintii-unui-elev-atentionat-asupra-disciplinei-in-timpul-orelor--1602908"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Profesor de sport, luat la bătaie de părinții unui elev atenționat la oră",
+        "link": "https://adevarul.ro/stiri-locale/timisoara/profesor-de-sport-luat-la-bataie-de-parintii-unui-2563985.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Bătaie între părinții unui elev și un profesor, în curtea unei școli din Timișoara. De la ce a pornit scandalul",
+        "link": "https://www.digi24.ro/stiri/actualitate/bataie-intre-parintii-unui-elev-si-un-profesor-in-curtea-unei-scoli-din-timisoara-de-la-ce-a-pornit-scandalul-3992151"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Profesor bătut într-o școală din Timișoara de părinții și fratele minor ai unui elev. VIDEO",
+        "link": "https://stirileprotv.ro/stiri/actualitate/profesor-batut-intr-o-scoala-din-timisoara-de-parintii-si-fratele-minor-ai-unui-elev-caruia-i-a-cerut-sa-fie-cuminte.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Reacția ministrului Educației după ce un profesor a fost agresat la Timișoara: „Nicio nemulțumire nu justifică intimidarea sau violența”",
+        "link": "https://www.mediafax.ro/social/reactia-ministrului-educatiei-dupa-ce-un-profesor-a-fost-agresat-la-timisoara-nicio-nemultumire-nu-justifica-intimidarea-sau-violenta-23826410"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ministrul Educației cere măsuri pentru protejarea profesorilor, după agresiunea de la o școală din Timișoara",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/ministrul-educatiei-cere-masuri-pentru-protejarea-profesorilor-dupa-agresiunea-de-la-o-scoala-din-timisoara-3995167"
+      }
+    ],
+    "published_at": 1792405891,
+    "title_hu": "Timișoarában megtámadtak egy testnevelő tanárt; az apa és a 16 éves fiú előzetes letartóztatásba került",
+    "lead_hu": "A Școala Gimnazială nr. 15 egyik testnevelő tanárát egy ötödikes diáknak a viselkedésére tett tanári megjegyzés után bántalmazták az iskola udvarán. A bíróság a 39 éves apát 30, a 16 éves fiút 20 napra előzetes letartóztatásba helyezte. Mihai Dimian oktatási miniszter a tanárok fokozott jogi és intézményi védelmét sürgette.",
+    "content_hu": "• **A konfliktus előzménye** az volt, hogy a testnevelő tanár a tanórán a viselkedési szabályok betartására figyelmeztette az ötödikes diákot. A fiú később családtagjaival tért vissza az iskolába, ahol az udvaron tettlegességig fajult a vita.\n\n• **A rendőrség** a 112-es segélyhívás után a helyszínre vonult, az érintetteket meghallgatásra előállította, és vizsgálatot indított. Az ügyben a 39 éves apát és a 16 éves fiút közrend megzavarásával, illetve bántalmazással gyanúsítják.\n\n• **A bíróság** a 39 éves férfit 30 napra, a 16 éves fiatalt 20 napra helyezte előzetes letartóztatásba. A felelősségükről és az eset körülményeiről az eljárás során születik döntés.\n\n• **Mihai Dimian oktatási miniszter** elítélte a tanár elleni erőszakot, és azt mondta: a szülők panaszt tehetnek, de az elégedetlenség nem igazolja a megfélemlítést vagy a bántalmazást. A minisztérium, a megyei tanfelügyelőség és az iskola támogatást, köztük pszichológiai segítséget ígért az érintett tanárnak.\n\n• **A miniszter további védelmi intézkedéseket sürgetett:** külön büntetőjogi védelmet a munkájuk közben fenyegetett vagy bántalmazott oktatóknak, gyors jogi és pszichológiai segítséget, valamint indokolt esetben az iskolába való belépés vagy a tanárral való kapcsolat korlátozásának lehetőségét.",
+    "title_ro": "Profesor agresat la Timișoara; tatăl elevului și fratele său de 16 ani, arestați preventiv",
+    "lead_ro": "Un profesor de educație fizică de la Școala Gimnazială nr. 15 din Timișoara a fost agresat în curtea școlii, după ce îi atrăsese atenția unui elev de clasa a V-a asupra comportamentului său. Instanța a dispus arestarea preventivă a tatălui, pentru 30 de zile, și a fratelui de 16 ani, pentru 20 de zile. Ministrul Educației, Mihai Dimian, a cerut măsuri suplimentare pentru protejarea cadrelor didactice.",
+    "content_ro": "• **Conflictul a pornit** după ce profesorul i-a atras atenția elevului de clasa a V-a să respecte regulile de comportament în timpul orei de sport. Băiatul s-a întors ulterior la școală împreună cu membri ai familiei, iar disputa a degenerat într-o agresiune în curtea unității de învățământ.\n\n• **Polițiștii** au intervenit după un apel la 112, au condus persoanele implicate la audieri și au început verificările. Tatăl, în vârstă de 39 de ani, și fratele elevului, în vârstă de 16 ani, sunt cercetați pentru tulburarea ordinii și liniștii publice și lovire sau alte violențe.\n\n• **Instanța** a dispus arestarea preventivă a bărbatului de 39 de ani pentru 30 de zile și a adolescentului de 16 ani pentru 20 de zile. Răspunderea celor doi și împrejurările incidentului urmează să fie stabilite în cadrul procedurilor judiciare.\n\n• **Ministrul Educației, Mihai Dimian,** a condamnat agresarea profesorului și a afirmat că părinții pot depune sesizări, însă nemulțumirile nu justifică intimidarea sau violența. Ministerul, Inspectoratul Școlar Județean și conducerea școlii au anunțat că îi vor oferi profesorului sprijin, inclusiv psihologic.\n\n• **Ministrul a cerut măsuri suplimentare de protecție:** protecție penală specială pentru cadrele didactice amenințate sau agresate în exercitarea atribuțiilor, asistență juridică și psihologică promptă și posibilitatea restricționării motivate a accesului în școală ori a contactului cu profesorul, atunci când există un risc."
+  },
+  {
+    "group_id": "group_3461678b14",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13102026/c20e4ce8-9b04-4ec7-8fb7-489172f373b2.jpeg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "U Cluj - FC Argeș, meci-pansament pentru ambele echipe » Echipele probabile + Cele mai tari cote",
+        "link": "https://www.gsp.ro/fotbal/liga-1/u-cluj-fc-arges-echipele-987617.html"
+      }
+    ],
+    "published_at": 1792405885,
+    "title_hu": "U Cluj - FC Argeș, meci-pansament pentru ambele echipe » Echipele probabile + Cele mai tari cote",
+    "lead_hu": "U Cluj - FC Argeș este diseară, de la ora 18:00, pe Cluj Arena, într-un duel pe care ambele echipe îl văd ca un posibil „medicament” după eșecurile din runda anterioară. Meciul va fi livetext pe GSP.r…",
+    "content_hu": "U Cluj - FC Argeș este diseară, de la ora 18:00, pe Cluj Arena, într-un duel pe care ambele echipe îl văd ca un posibil „medicament” după eșecurile din runda anterioară. Meciul va fi livetext pe GSP.ro și în direct pe Digisport și Primasport. U Cluj - FC Argeș este diseară, de la ora 18:00, pe Cluj Arena, fiecare dintre cele două formații încercând să-și îmbunătățească situația după eșecuri în ultima rundă. ...",
+    "title_ro": "U Cluj - FC Argeș, meci-pansament pentru ambele echipe » Echipele probabile + Cele mai tari cote",
+    "lead_ro": "U Cluj - FC Argeș este diseară, de la ora 18:00, pe Cluj Arena, într-un duel pe care ambele echipe îl văd ca un posibil „medicament” după eșecurile din runda anterioară. Meciul va fi livetext pe GSP.r…",
+    "content_ro": "U Cluj - FC Argeș este diseară, de la ora 18:00, pe Cluj Arena, într-un duel pe care ambele echipe îl văd ca un posibil „medicament” după eșecurile din runda anterioară. Meciul va fi livetext pe GSP.ro și în direct pe Digisport și Primasport. U Cluj - FC Argeș este diseară, de la ora 18:00, pe Cluj Arena, fiecare dintre cele două formații încercând să-și îmbunătățească situația după eșecuri în ultima rundă. ..."
+  },
+  {
+    "group_id": "group_d31e447dff",
+    "fingerprint": "a07e15ef7b272697148175af4b32cecc",
+    "category": "Politika",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "UDMR a semnat un acord politic cu Luca Niculescu. Kelemen Hunor: „Pentru noi, contează ca țara să funcționeze”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/udmr-a-semnat-un-acord-politic-cu-luca-niculescu-kelemen-hunor-pentru-noi-conteaza-ca-tara-sa-functioneze-3998755"
+      },
+      {
+        "source": "Mediafax",
+        "title": "UDMR va susține Guvernul propus de Luca Niculescu. Ce condiții a impus Kelemen Hunor",
+        "link": "https://www.mediafax.ro/stirile-zilei/udmr-va-sustine-guvernul-propus-de-luca-niculescu-ce-conditii-a-impus-kelemen-hunor-23828041"
+      },
+      {
+        "source": "Digi24",
+        "title": "Senator UDMR, despre susținerea Guvernului Niculescu: „Am făcut toată vara naveta între partide”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/senator-udmr-despre-sustinerea-guvernului-niculescu-am-facut-toata-vara-naveta-intre-partide-3991837"
+      }
+    ],
+    "published_at": 1792405713,
+    "title_hu": "Az RMDSZ megszavazza a Niculescu-kormányt, és feltételekhez kötött megállapodást köt",
+    "lead_hu": "Kelemen Hunor bejelentette, hogy az RMDSZ megszavazza a Luca Niculescu kijelölt miniszterelnök által a parlament elé terjesztett kormányt és kormányprogramot, függetlenül annak politikai összetételétől. Az RMDSZ megállapodást írt alá Niculescuval, amelyben a kisebbségi jogok és a magyar nyelvű oktatás támogatása mellett a költségvetési ügyekben való együttműködésről is rendelkeztek; a pártnak nem lesznek miniszterei a kabinetben.",
+    "content_hu": "• **A kormány beiktatásának támogatása** Kelemen Hunor szerint az RMDSZ megszavazza a Luca Niculescu által a parlament elé terjesztett kormányt és kormányprogramot, akár technokrata kabinet, akár a PSD köré szerveződő kormány jön létre.\n\n• **Az aláírt politikai megállapodás** alapján az RMDSZ támogatja a kormány beiktatását, és a parlamentben az egyeztetett ügyekben és feltételek szerint segíti a kabinet munkáját. Kelemen közlése szerint a megállapodás kisebbségi jogok tiszteletben tartását és a magyar nyelvű oktatás támogatását írja elő.\n\n• **A magyar nyelvű oktatás és a kulturális intézmények** ügyében az RMDSZ azt kéri, hogy a gyermekek óvodától egyetemig anyanyelvükön tanulhassanak, ehhez legyen elegendő finanszírozás, pedagógus és tankönyv, valamint a kormány támogassa a magyar kulturális intézmények működését.\n\n• **A költségvetési megállapodás** kiterjed az idei költségvetés kiigazításának és a 2027-es állami költségvetés elfogadásának támogatására. Az RMDSZ azt is szorgalmazza, hogy az önkormányzatok kapják meg a működésükhöz szükséges forrásokat, a jövő évi büdzsé pedig ösztönözze a beruházásokat.\n\n• **A további lehetséges megállapodási témák** között Kelemen korábban a bérezési törvényt, a gazdaság újraindítását, a pénzügyi stabilitást és a rászorulók támogatását is megnevezte. A támogatásról akkor egyeztetnek, ha a miniszterelnök kéri azt, és érdemben tárgyal az RMDSZ-szel.\n\n• **Az RMDSZ kormányzati szerepe**: Loránd Turos szenátusi frakcióvezető közlése szerint a párt megszavazza a kormányt, de nem kap miniszteri tisztségeket a kabinetben.\n\n• **A politikai válság lezárása** Kelemen Hunor szerint elsődleges; azt szeretné, hogy Romániának mielőbb, akár pénteken, de legkésőbb hétfőn teljes jogkörű kormánya legyen. Az RMDSZ vezetője arra is emlékeztetett, hogy több mint öt hónapon át tárgyaltak a politikai szereplőkkel, és kompromisszumot kerestek.",
+    "title_ro": "UDMR va vota Guvernul Niculescu și a semnat un acord cu condiții clare",
+    "lead_ro": "Kelemen Hunor a anunțat că UDMR va vota guvernul și programul propus de premierul desemnat Luca Niculescu, indiferent de formula politică a Executivului. UDMR a semnat un acord cu Niculescu, care prevede respectarea drepturilor minorităților și sprijinirea educației în limba maghiară, precum și colaborarea în chestiuni bugetare; formațiunea nu va avea miniștri în cabinet.",
+    "content_ro": "• **Susținerea învestirii Guvernului**: Kelemen Hunor a anunțat că UDMR va vota guvernul și programul de guvernare prezentate de Luca Niculescu, indiferent dacă Executivul va fi tehnocrat sau format în jurul PSD.\n\n• **Acordul politic semnat** prevede susținerea învestirii guvernului și sprijinirea activității sale în Parlament în chestiunile și condițiile convenite. Kelemen a precizat că acordul include respectarea drepturilor minorităților și sprijinirea învățământului în limba maghiară.\n\n• **Educația în limba maghiară și instituțiile culturale**: UDMR cere ca fiecare copil să poată învăța în limba maternă, de la grădiniță până la universitate, cu finanțare, profesori și manuale suficiente. Acordul prevede și sprijin pentru funcționarea instituțiilor culturale maghiare.\n\n• **Înțelegerea privind bugetul** vizează susținerea rectificării bugetare din acest an și adoptarea bugetului de stat pentru 2027. UDMR insistă ca administrațiile locale să dispună de fondurile necesare funcționării, iar bugetul de anul viitor să susțină investițiile.\n\n• **Alte teme posibile ale acordului** menționate anterior de Kelemen sunt legea salarizării, relansarea economică, stabilitatea fiscală și sprijinirea persoanelor nevoiașe. UDMR va discuta sprijinul pentru acestea dacă premierul îl solicită și poartă un dialog real cu formațiunea.\n\n• **Rolul UDMR în Guvern**: liderul senatorilor formațiunii, Loránd Turos, a declarat că UDMR va vota cabinetul, dar nu va avea reprezentanți cu funcții de ministru în Executiv.\n\n• **Încheierea crizei politice** este prioritară pentru Kelemen Hunor, care dorește ca România să aibă cât mai curând un guvern cu puteri depline, chiar vineri sau cel târziu luni. Liderul UDMR a amintit că formațiunea a discutat timp de peste cinci luni cu actorii politici și a căutat un compromis."
+  },
+  {
+    "group_id": "group_cbef41e32f",
+    "category": "Sport",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/474790619_647816644246471_7666721861444771736_n-1024x579.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Turneu de hochei sub apă la Hong Kong. Sportivii explică de ce îl practică",
+        "link": "https://www.mediafax.ro/life-inedit/turneu-de-hochei-sub-apa-la-hong-kong-sportivii-explica-de-ce-il-practica-23828029"
+      }
+    ],
+    "published_at": 1792405685,
+    "title_hu": "Turneu de hochei sub apă la Hong Kong. Sportivii explică de ce îl practică",
+    "lead_hu": "La Hong Kong, un sport neobișnuit îi supune pe jucătorii de hochei la riscul de înec. Înotătorii, înarmați cu bețe curbate, își țin respirația în timp ce fac tumbe, și se aruncă spre un disc cu greută…",
+    "content_hu": "La Hong Kong, un sport neobișnuit îi supune pe jucătorii de hochei la riscul de înec. Înotătorii, înarmați cu bețe curbate, își țin respirația în timp ce fac tumbe, și se aruncă spre un disc cu greutăți, aflat pe fundul unei piscine.",
+    "title_ro": "Turneu de hochei sub apă la Hong Kong. Sportivii explică de ce îl practică",
+    "lead_ro": "La Hong Kong, un sport neobișnuit îi supune pe jucătorii de hochei la riscul de înec. Înotătorii, înarmați cu bețe curbate, își țin respirația în timp ce fac tumbe, și se aruncă spre un disc cu greută…",
+    "content_ro": "La Hong Kong, un sport neobișnuit îi supune pe jucătorii de hochei la riscul de înec. Înotătorii, înarmați cu bețe curbate, își țin respirația în timp ce fac tumbe, și se aruncă spre un disc cu greutăți, aflat pe fundul unei piscine."
+  },
+  {
+    "group_id": "group_c2ce22e812",
+    "fingerprint": "0ffcc7dddc9edee8c82893ab52c50fa1",
+    "category": "Általános",
+    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
+        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
+      },
+      {
+        "source": "G4Media",
+        "title": "Vestele Galbene, mişcarea socială de amploare din Franţa din anii 2018 şi 2019, şi liceenii organizează o mie de acţiuni comune de protest sâmbătă faţă de creşterea costului vieţii",
+        "link": "https://www.g4media.ro/vestele-galbene-miscarea-sociala-de-amploare-din-franta-din-anii-2018-si-2019-si-liceenii-organizeaza-o-mie-de-actiuni-comune-de-protest-sambata-fata-de-cresterea-costului-vietii.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
+        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Imagini cu Franța sub asediul violențelor: Peste 1.200 de oameni arestați, jafuri și clădiri istorice cuprinse de flăcări în urma protestelor",
+        "link": "https://hotnews.ro/imagini-cu-franta-sub-asediul-violentelor-peste-1-200-de-oameni-arestati-jafuri-si-cladiri-istorice-cuprinse-de-flacari-in-urma-protestelor-2378935"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Gyújtogatások, rongálások, könnygázgránátok és több száz letartóztatás a francia tüntetéseken",
+        "link": "https://transtelex.ro/kulfold/2026/10/17/franciaorszag-tuntetes-rongalas-eroszak-gyujtogatas"
+      },
+      {
+        "source": "G4Media",
+        "title": "Poliția pariziană anunță 855 de arestări în urma confruntărilor violente și a jafurilor produse în timpul protestelor din capitala Franței",
+        "link": "https://www.g4media.ro/politia-pariziana-raporteaza-855-de-arestari-in-urma-confruntarilor-violente-si-a-jafurilor-produse-in-timpul-protestelor-din-capitala-frantei.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Franța se confruntă cu urmările celor mai grave tulburări din ultimii ani: Magazine jefuite, clădiri cu graffiti și o primărie incendiată",
+        "link": "https://www.mediafax.ro/stirile-zilei/franta-se-confrunta-cu-urmarile-celor-mai-grave-tulburari-din-ultimii-ani-magazine-jefuite-cladiri-cu-graffiti-si-o-primarie-incendiata-23827538"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Pagubele uriașe provocate de protestele din Franța. 1.800 de persoane reținute și peste 500 de polițiști răniți",
+        "link": "https://stirileprotv.ro/stiri/international/pagubele-uriase-provocate-de-protestele-din-franta-1-800-de-persoane-retinute-si-peste-500-de-politisti-raniti.html"
+      }
+    ],
+    "published_at": 1792405626,
+    "title_hu": "Tömegtüntetések és súlyos zavargások rázták meg Franciaországot",
+    "lead_hu": "Október 17-én diákok, szakszervezeti tagok és a Sárgamellényesek mozgalom támogatói vonultak utcára Franciaországban a megélhetési költségek, az oktatás és a közszolgáltatások helyzete miatt. A békés felvonulások mellett több városban súlyos zavargások, fosztogatások és gyújtogatások történtek; a részvételről, az őrizetbe vételekről és a sérültekről eltérő, folyamatosan frissülő adatok jelentek meg. A diákmozgalom újabb országos megmozdulásokkal is folytatódott.",
+    "content_hu": "• **Október 17-én** országos tiltakozást tartottak Franciaországban. Középiskolások, egyetemisták, szakszervezetek és a Sárgamellényesek támogatói tiltakoztak a drágulás, az iskolák körülményei és a közszolgáltatások állapota miatt.\n\n• **A részvételről eltérő becslések jelentek meg:** a belügyminiszter mintegy 550 ezer résztvevőről számolt be, a szervezők későbbi becslése körülbelül 800 ezer fő volt. Párizsban a hatóságok mintegy 110 ezer résztvevőt jeleztek.\n\n• **A zavargások több városban súlyos károkat okoztak.** Párizsban, Marseille-ben, Lille-ben, Bordeaux-ban és más településeken üzleteket fosztottak ki, járműveket és kukákat gyújtottak fel, illetve középületeket rongáltak meg. Limoges-ban a városháza történelmi épületrésze súlyosan megrongálódott, Lyonban pedig felgyújtották a turisztikai irodát; Marseille-ben tüntetők rövid időre behatoltak a városházára.\n\n• **Az őrizetbe vételekről és a sérültekről közölt adatok változtak.** A belügyminiszter vasárnap több mint 1800 őrizetbe vételről és több mint 500 sérült rendőrről, csendőrről és tűzoltóról számolt be. Egy későbbi összesítés 2397 őrizetbe vételt és 997 sérült rendőrt, illetve csendőrt említett, közülük hetet súlyosan sérültként; Párizsban 855 letartóztatást közöltek.\n\n• **A tüntetésekhez kapcsolódóan egy ember meghalt Párizsban:** a rendőrség szerint szívleállást kapott, halála nem a zavargások közvetlen következménye volt. Egy másik demonstráló egy tömegoszlató gránát robbanása miatt elveszítette a kezét.\n\n• **A kereskedőket érő károk jelentősek:** a Francia Kereskedelmi és Elosztási Szövetség szerint mintegy 1500 üzletet érintettek a zavargások, a veszteségek pedig több százmillió euróra rúghatnak. A kormány támogatást ígért az érintett vállalkozásoknak, a hatóságok pedig videófelvételek alapján további gyanúsítottak azonosítását helyezték kilátásba.\n\n• **A diákok konkrét oktatási követelésekkel is felléptek:** jobb finanszírozást kértek a középiskoláknak, több tanárt és megfelelőbb tanulási körülményeket. A mozgalom szeptember 17-én indult a párizsi térségben, majd országossá vált.\n\n• **Egy keddi országos mozgósításra a szervezők szerint mintegy 480 ezren mentek el.** Ez volt az ötödik országos akciónap; az oktatási minisztérium közlése szerint 214 középiskola zárt be, szemben az egy héttel korábbi 800-zal, az intézmények 94,2 százaléka nyitva maradt.\n\n• **A tiltakozások hátterében a költségvetési vita is állt:** a parlamentben megkezdődött a tervezet tárgyalása, amely 43 milliárd eurós pénzügyi kiigazítással számol az államadósság csökkentésére; az adósság a GDP 112 százalékát érte el. A Sárgamellényesek és a diákmozgalom támogatói újabb, október 24-re tervezett akciókat hirdettek, a CGT pedig november 5-re országos sztrájknapot jelentett be.\n\n• **A kormány és az ellenzék egymást okolta az erőszakért.** Sébastien Lecornu miniszterelnök és Laurent Nuñez belügyminiszter a szélsőbaloldali LFI felelősségét hangsúlyozta; Jean-Luc Mélenchon elutasította a fosztogatást, a párizsi és marseille-i polgármester pedig a kormány rendfenntartási stratégiáját bírálta. Nuñez elismerte, hogy szombaton egyes nagyvárosokban a rendfenntartók elveszítették az ellenőrzést; Emmanuel Macron később elutasította a miniszter lemondását, miközben elismerte az előrejelzés és a tájékoztatás hiányosságait.\n\n• **Macron elítélte a rombolást és felelősségre vonást ígért.** Vasárnapi beszédében azt mondta, hogy a fiatalok megélhetési, tanulási és jövővel kapcsolatos aggodalmait kezelni kell, a kormány pedig válságstábot állított fel és segítséget ígért a károsult kereskedőknek.\n\n• **A tiltakozások Belgiumra is átterjedtek:** Brüsszelben és Liège-ben több százan tüntettek a megélhetési költségek, illetve az oktatási költségek emelkedése ellen. A rendőrség könnygázt és vízágyút vetett be; Brüsszelben mintegy tíz embert vettek őrizetbe.\n\n• **Vasárnap újabb összecsapások voltak Párizsban:** a Place de la République téren engedély nélküli gyülekezés alakult ki, a résztvevők kövekkel és üvegekkel dobálták a rendőröket, akik könnygázzal és villanógránátokkal oszlatták a tömeget.\n\n• **A zavargások a pénzpiacokon is aggodalmat keltettek:** hétfő reggel a párizsi CAC 40 index 1,02 százalékkal esett, miközben a STOXX 600 0,39, a madridi IBEX pedig 0,9 százalékot veszített értékéből.",
+    "title_ro": "Proteste de amploare și violențe grave au zguduit Franța",
+    "lead_ro": "Pe 17 octombrie, elevi, sindicaliști și susținători ai mișcării „Vestele Galbene” au protestat în Franța față de costul vieții, situația din școli și starea serviciilor publice. Pe lângă marșurile pașnice, mai multe orașe au fost afectate de violențe, jafuri și incendieri; cifrele privind participarea, reținerile și răniții au variat și au fost actualizate. Mobilizarea elevilor a continuat și prin noi acțiuni naționale.",
+    "content_ro": "• **Pe 17 octombrie** au avut loc proteste la nivel național în Franța. Elevi de liceu, studenți, sindicate și susținători ai „Vestelor Galbene” au manifestat împotriva scumpirilor, a condițiilor din școli și a situației serviciilor publice.\n\n• **Estimările privind participarea au fost diferite:** ministrul de interne a indicat aproximativ 550.000 de participanți, iar organizatorii au estimat ulterior circa 800.000. La Paris, autoritățile au raportat aproximativ 110.000 de participanți.\n\n• **Violențele au provocat pagube importante în mai multe orașe.** La Paris, Marsilia, Lille, Bordeaux și în alte localități au fost jefuite magazine, incendiate vehicule și pubele și vandalizate clădiri publice. La Limoges, partea istorică a primăriei a fost grav avariată, iar la Lyon a fost incendiat biroul de turism; la Marsilia, manifestanți au pătruns pentru scurt timp în primărie.\n\n• **Bilanțurile privind reținerile și răniții au fost actualizate.** Duminică, ministrul de interne a anunțat peste 1.800 de persoane reținute și peste 500 de polițiști, jandarmi și pompieri răniți. O raportare ulterioară a menționat 2.397 de rețineri și 997 de polițiști și jandarmi răniți, dintre care șapte grav; la Paris au fost anunțate 855 de arestări.\n\n• **Un protestatar a murit la Paris:** potrivit poliției, acesta a suferit un stop cardiac, iar decesul nu a fost o consecință directă a violențelor. Un alt manifestant și-a pierdut mâna după explozia unei grenade de dispersare a mulțimii.\n\n• **Pagubele comercianților au fost semnificative:** Federația Comerțului și Distribuției a estimat că violențele au afectat aproximativ 1.500 de magazine, iar pierderile s-ar putea ridica la sute de milioane de euro. Guvernul a promis sprijin pentru afacerile afectate, iar autoritățile au anunțat că vor identifica suspecți suplimentari pe baza înregistrărilor video.\n\n• **Elevii au formulat și revendicări concrete privind educația:** au cerut o finanțare mai bună pentru licee, mai mulți profesori și condiții de studiu îmbunătățite. Mișcarea a început pe 17 septembrie în regiunea pariziană și s-a extins ulterior în întreaga țară.\n\n• **La o nouă zi națională de mobilizare, într-o zi de marți, organizatorii au estimat circa 480.000 de participanți.** A fost a cincea zi de mobilizare națională; Ministerul Educației a anunțat că 214 licee au fost închise, față de 800 cu o săptămână înainte, iar 94,2% dintre licee au rămas deschise.\n\n• **Protestele au avut loc și pe fondul dezbaterii bugetare:** Parlamentul a început discutarea proiectului care prevede măsuri de redresare financiară în valoare de 43 de miliarde de euro, pentru reducerea datoriei publice, ajunsă la 112% din PIB. Susținătorii „Vestelor Galbene” și ai mișcării elevilor au anunțat noi acțiuni pentru 24 octombrie, iar sindicatul CGT a convocat o zi națională de grevă pentru 5 noiembrie.\n\n• **Guvernul și opoziția s-au acuzat reciproc pentru violențe.** Premierul Sébastien Lecornu și ministrul de interne Laurent Nuñez au invocat responsabilitatea partidului de extremă stângă LFI; Jean-Luc Mélenchon a respins jafurile, iar primarii Parisului și Marsiliei au criticat strategia guvernului privind menținerea ordinii. Nuñez a recunoscut că forțele de ordine au pierdut controlul în unele orașe mari; ulterior, Emmanuel Macron i-a respins demisia, deși a admis eșecuri de anticipare și informare.\n\n• **Macron a condamnat distrugerile și a promis tragerea la răspundere a celor implicați.** În discursul de duminică, a spus că trebuie abordate îngrijorările tinerilor privind traiul, studiile și viitorul; guvernul a convocat o celulă de criză și a promis ajutor comercianților afectați.\n\n• **Protestele s-au extins și în Belgia:** sute de persoane au manifestat la Bruxelles și Liège împotriva costului vieții și a creșterii cheltuielilor pentru educație. Poliția a folosit gaze lacrimogene și tunuri cu apă, iar la Bruxelles aproximativ zece persoane au fost reținute.\n\n• **Duminică au avut loc noi confruntări la Paris:** în Place de la République s-a format o adunare neautorizată; participanții au aruncat cu pietre și sticle spre polițiști, care au dispersat mulțimea cu gaze lacrimogene și grenade flash.\n\n• **Violențele au alimentat și îngrijorările piețelor financiare:** luni dimineață, indicele CAC 40 de la Paris a scăzut cu 1,02%, iar STOXX 600 cu 0,39%; indicele IBEX de la Madrid a pierdut 0,9%."
+  },
+  {
+    "group_id": "group_700af9a69b",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/08102026/b0b1c217-1459-444d-bd22-b886d459c700.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ilie Drăgan, contracandidatul lui Răzvan Burleanu, e consternat: „TAS ne-a anunțat că decizia s-a luat. Sper să nu fie vorba de jocuri politice”",
+        "link": "https://www.gsp.ro/fotbal/nationala/ilie-dragan-contracandidatul-lui-razvan-burleanu-jocuri-politice-989803.html"
+      }
+    ],
+    "published_at": 1792405604,
+    "title_hu": "Ilie Drăgan, contracandidatul lui Răzvan Burleanu, e consternat: „TAS ne-a anunțat că decizia s-a luat. Sper să nu fie vorba de jocuri politice”",
+    "lead_hu": "La mijlocul lunii martie, la FRF au avut loc alegeri pentru funcția de președinte, la care și-au depus candidatura Răzvan Burleanu, conducătorul în funcție de la Casa Fotbalului, din 2014, precum și I…",
+    "content_hu": "La mijlocul lunii martie, la FRF au avut loc alegeri pentru funcția de președinte, la care și-au depus candidatura Răzvan Burleanu, conducătorul în funcție de la Casa Fotbalului, din 2014, precum și Ilie Drăgan, președintele clubului de copii si juniori 3 Kids Sport București. Primul a câștigat cu 258 de voturi la 5, însă învinsul a contestat dreptul lui Burleanu de a mai candida, acesta fiind la al 4-lea mandat ca președinte al FRF. ...",
+    "title_ro": "Ilie Drăgan, contracandidatul lui Răzvan Burleanu, e consternat: „TAS ne-a anunțat că decizia s-a luat. Sper să nu fie vorba de jocuri politice”",
+    "lead_ro": "La mijlocul lunii martie, la FRF au avut loc alegeri pentru funcția de președinte, la care și-au depus candidatura Răzvan Burleanu, conducătorul în funcție de la Casa Fotbalului, din 2014, precum și I…",
+    "content_ro": "La mijlocul lunii martie, la FRF au avut loc alegeri pentru funcția de președinte, la care și-au depus candidatura Răzvan Burleanu, conducătorul în funcție de la Casa Fotbalului, din 2014, precum și Ilie Drăgan, președintele clubului de copii si juniori 3 Kids Sport București. Primul a câștigat cu 258 de voturi la 5, însă învinsul a contestat dreptul lui Burleanu de a mai candida, acesta fiind la al 4-lea mandat ca președinte al FRF. ..."
+  },
+  {
+    "group_id": "group_5b7e5cf504",
+    "category": "Erdély",
+    "image": "https://storage.ghost.io/c/4c/64/4c643208-156b-4d4a-a219-b28f7d4d3d90/content/images/2026/10/629316490_1431591101853881_7049632898461260551_n.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Udvarhelyi Hírportál (UH.ro)",
+        "title": "Kristóf Rebeka az X-Faktorban próbál szerencsét",
+        "link": "https://www.uh.ro/kristof-rebeka-az-x-faktorban-probal-szerencset/"
+      }
+    ],
+    "published_at": 1792405456,
+    "title_hu": "Kristóf Rebeka az X-Faktorban próbál szerencsét",
+    "lead_hu": "A székelyudvarhelyi fiatal tehetség idén újra színpadra áll, ezúttal az X-Faktor színpadán bizonyít.",
+    "content_hu": "A székelyudvarhelyi fiatal tehetség idén újra színpadra áll, ezúttal az X-Faktor színpadán bizonyít.",
+    "title_ro": "Kristóf Rebeka az X-Faktorban próbál szerencsét",
+    "lead_ro": "A székelyudvarhelyi fiatal tehetség idén újra színpadra áll, ezúttal az X-Faktor színpadán bizonyít.",
+    "content_ro": "A székelyudvarhelyi fiatal tehetség idén újra színpadra áll, ezúttal az X-Faktor színpadán bizonyít."
+  },
+  {
+    "group_id": "group_fe3c53e925",
+    "fingerprint": "cd262367a3cd0477ed0c2a033f3cc0d6",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwNCUyRjA5JTJGMTMxMTI5N18xMzEx/Mjk3X2NyaXphLWFsaW1lbnRhcmEtaWx1/c3RyYXRpdi1tYXItZGVzZXItZ2V0dHku/anBnJmhhc2g9OTczMzFlOTdkNDYzNDBkMDY3MjVhMTdhYWY1NzY2Nzk=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Criza alimentară globală e tot mai aproape. ONU avertizează că scumpirea energiei și a îngrășămintelor va majora prețurile alimentelor",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/criza-alimentara-globala-e-tot-mai-aproape-onu-avertizeaza-ca-scumpirea-energiei-si-a-ingrasamintelor-va-majora-preturile-alimentelor-3995869"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alimentele s-ar putea scumpi puternic la nivel mondial în lunile următoare. Avertismentul economiștilor pentru 2027",
+        "link": "https://www.mediafax.ro/externe/alimentele-s-ar-putea-scumpi-puternic-la-nivel-mondial-in-lunile-urmatoare-avertismentul-economistilor-pentru-2027-23828023"
+      }
+    ],
+    "published_at": 1792405452,
+    "title_hu": "Nemzetközi figyelmeztetések szerint tovább drágulhatnak az élelmiszerek",
+    "lead_hu": "Az IFAD és a FAO közgazdásza is arra figyelmeztet, hogy a következő hónapokban tovább emelkedhetnek az élelmiszerárak. Az energia, a műtrágya és a szállítás drágulása, valamint a gabonapiaci és időjárási zavarok különösen a kiszolgáltatott háztartásokat érinthetik.",
+    "content_hu": "• **Az IFAD előrejelzése szerint** a következő hat-kilenc hónapban tovább nőhetnek az élelmiszerárak, részben az energia, az üzemanyag és a műtrágya drágulása miatt. A szervezet adatai szerint a mezőgazdasági termékek világpiaci ára a harmadik negyedévben 13 százalékkal emelkedett.\n\n• **A FAO vezető közgazdásza, Maximo Torero** arra számít, hogy az élelmiszerárakra gyakorolt hatás az év végén, a következő év elején, és akár 2027 folyamán is erősödhet. A beszámoló szerint 2026-ban a búza ára több mint 30 százalékkal nőtt, a rizsé pedig Ázsia fő exportőreinél 10–13 százalékkal emelkedett.\n\n• **A drágulás egyik oka** a konfliktusokhoz és biztonsági kockázatokhoz köthető ellátási zavar: a Fekete-tenger térségében sérültek a gabonaszállítások, a Vörös-tengeri bizonytalanság miatt pedig egyes hajók hosszabb útvonalra kényszerülnek. A Hormuzi-szoroson át zajló műtrágyaexport zavarai és a magasabb üzemanyagárak szintén növelik a termelési és szállítási költségeket.\n\n• **Az időjárási szélsőségek is fokozzák a nyomást:** az El Niñohoz kapcsolódó aszály több ázsiai térségben rontja a mezőgazdasági termelést. A csökkenő gabonatartalékok, az importőrök készletfeltöltése és az esetleges exportkorlátozások tovább szűkíthetik a kínálatot.\n\n• **A következmények már több országban érzékelhetők:** a cikk szerint Egyiptomban a nem támogatott kenyér, az Egyesült Arab Emírségekben az étolaj, Indonéziában pedig a rizs drágult jelentősen. Az IFAD arra figyelmeztet, hogy a további áremelkedések különösen azokat sújthatják, akik már most is nehezen jutnak egészséges élelmiszerhez.",
+    "title_ro": "Avertismente internaționale: alimentele s-ar putea scumpi în continuare",
+    "lead_ro": "IFAD și economistul-șef al FAO avertizează că prețurile alimentelor ar putea continua să crească în lunile următoare. Costurile mai mari la energie, îngrășăminte și transport, alături de perturbările piețelor cerealelor și de fenomenele meteo, pot afecta în special gospodăriile vulnerabile.",
+    "content_ro": "• **Potrivit estimării IFAD**, prețurile alimentelor ar putea continua să crească în următoarele șase până la nouă luni, pe fondul scumpirii energiei, combustibililor și îngrășămintelor. Datele organizației arată că prețurile mondiale ale produselor agricole au crescut cu 13% în trimestrul al treilea.\n\n• **Maximo Torero, economistul-șef al FAO**, estimează că efectele asupra prețurilor se vor accentua spre sfârșitul anului, la începutul anului viitor și posibil pe parcursul lui 2027. Potrivit relatării, în 2026 prețul grâului a crescut cu peste 30%, iar cel al orezului cu 10–13% în principalele țări exportatoare din Asia.\n\n• **Perturbările aprovizionării**, legate de conflicte și riscuri de securitate, contribuie la scumpiri: transporturile de cereale din regiunea Mării Negre au fost afectate, iar nesiguranța din Marea Roșie obligă unele nave să parcurgă rute mai lungi. Problemele exporturilor de îngrășăminte prin Strâmtoarea Ormuz și combustibilii mai scumpi sporesc, de asemenea, costurile de producție și transport.\n\n• **Fenomenele meteorologice extreme adaugă presiune:** seceta asociată fenomenului El Niño afectează producția agricolă în mai multe zone din Asia. Rezervele de cereale în scădere, refacerea stocurilor de către importatori și eventualele restricții la export ar putea limita și mai mult oferta.\n\n• **Efectele sunt deja vizibile în mai multe țări:** articolul menționează scumpiri importante la pâinea nesubvenționată în Egipt, la uleiul alimentar în Emiratele Arabe Unite și la orez în Indonezia. IFAD avertizează că noi creșteri ar putea afecta în special populațiile care au deja dificultăți în a-și permite o alimentație sănătoasă."
+  },
+  {
+    "group_id": "group_fa38f31d77",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hotel-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Ajunge!”. S-au săturat de influenceri. Hotelurile, restaurantele și locurile celebre care le închid ușa",
+        "link": "https://www.mediafax.ro/life-inedit/ajunge-s-au-saturat-de-influenceri-hotelurile-restaurantele-si-locurile-celebre-care-le-inchid-usa-23828038"
+      }
+    ],
+    "published_at": 1792405452,
+    "title_hu": "„Ajunge!”. S-au săturat de influenceri. Hotelurile, restaurantele și locurile celebre care le închid ușa",
+    "lead_hu": "Unul dintre cele mai celebre hoteluri de lux de pe Coasta de Azur a interzis ședințele foto după ce unii clienți veneau la prânz cu genți pline de haine și bijuterii, ca să se fotografieze în ținute d…",
+    "content_hu": "Unul dintre cele mai celebre hoteluri de lux de pe Coasta de Azur a interzis ședințele foto după ce unii clienți veneau la prânz cu genți pline de haine și bijuterii, ca să se fotografieze în ținute diferite, în loc să mănânce.",
+    "title_ro": "„Ajunge!”. S-au săturat de influenceri. Hotelurile, restaurantele și locurile celebre care le închid ușa",
+    "lead_ro": "Unul dintre cele mai celebre hoteluri de lux de pe Coasta de Azur a interzis ședințele foto după ce unii clienți veneau la prânz cu genți pline de haine și bijuterii, ca să se fotografieze în ținute d…",
+    "content_ro": "Unul dintre cele mai celebre hoteluri de lux de pe Coasta de Azur a interzis ședințele foto după ce unii clienți veneau la prânz cu genți pline de haine și bijuterii, ca să se fotografieze în ținute diferite, în loc să mănânce."
+  },
+  {
+    "group_id": "group_2dac14d3da",
+    "fingerprint": "fe48920f6e57399f613acc4d17f35df9",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "SelfPay devine instituție de plată autorizată de Banca Națională a României și intră într-o nouă etapă de dezvoltare",
+        "link": "https://hotnews.ro/selfpay-devine-institutie-de-plata-autorizata-de-banca-nationala-a-romaniei-si-intra-intr-o-noua-etapa-de-dezvoltare-2379655"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "SelfPay devine instituţie de plată autorizată de Banca Naţională a României şi intră într-o nouă etapă de dezvoltare",
+        "link": "https://www.zf.ro/info/selfpay-devine-institutie-de-plata-autorizata-de-banca-nationala-a-romaniei-si-intra-intr-o-noua-etapa-de-dezvoltare-23263065"
+      }
+    ],
+    "published_at": 1792405447,
+    "title_hu": "A BNR fizetési intézménnyé engedélyezte a SelfPayt",
+    "lead_hu": "A SelfPay bejelentette, hogy megszerezte a Román Nemzeti Bank fizetési intézményi engedélyét. A vállalat szerint az engedély új lehetőségeket teremt szolgáltatásai és stratégiai partnerségei bővítésére; a bejelentés egybeesik a cég 17. évfordulójával.",
+    "content_hu": "• **A SelfPay megszerezte a Román Nemzeti Bank engedélyét**, így hivatalosan is engedélyezett fizetési intézményként működhet. A vállalat közlése szerint a folyamat technológiai, infrastrukturális, működési és megfelelőségi fejlesztéseket igényelt.\n\n• **Az engedély új lehetőségeket nyithat** a fizetési szolgáltatások bővítésére és a pénzügyi, illetve más ágazatok szereplőivel kialakított partnerségekre. A SelfPay fizikai fizetési hálózatát digitális pénzügyi szolgáltatásokkal kapcsolja össze.\n\n• **A SelfPay több mint 15 ezer fizetési állomást üzemeltet** Románia több mint 4400 településén, és több mint 300 szolgáltatáshoz biztosít hozzáférést. A SelfPay Now alkalmazásnak több mint egymillió felhasználója van, és több mint 200 szolgáltatást kínál.\n\n• **A vállalat havonta több mint 6 millió tranzakciót dolgoz fel.** Az első fizetési állomásokat 2009-ben indította el; az engedély megszerzése egybeesik a SelfPay 17. működési évfordulójával.",
+    "title_ro": "BNR autorizează SelfPay ca instituție de plată",
+    "lead_ro": "SelfPay a anunțat că a obținut autorizația Băncii Naționale a României pentru a funcționa ca instituție de plată. Compania spune că autorizația creează noi oportunități pentru extinderea serviciilor și a parteneriatelor strategice; anunțul coincide cu împlinirea a 17 ani de activitate.",
+    "content_ro": "• **SelfPay a obținut autorizația Băncii Naționale a României**, devenind instituție de plată autorizată. Potrivit companiei, procesul a presupus investiții și pregătiri în domeniile tehnologiei, infrastructurii, operațiunilor și conformității.\n\n• **Autorizația poate deschide noi oportunități** pentru diversificarea serviciilor de plată și dezvoltarea de parteneriate în sectorul financiar și în alte industrii. SelfPay conectează rețeaua sa fizică de plăți cu serviciile financiare digitale.\n\n• **SelfPay operează peste 15.000 de Stații de Plată** în mai mult de 4.400 de localități din România și oferă acces la peste 300 de servicii. Aplicația SelfPay Now are peste un milion de utilizatori și integrează mai mult de 200 de servicii.\n\n• **Compania procesează peste 6 milioane de tranzacții lunar.** SelfPay a lansat primele Stații de Plată în 2009, iar obținerea autorizației coincide cu aniversarea a 17 ani de activitate."
+  },
+  {
+    "group_id": "group_8ca1f6f3bf",
+    "fingerprint": "7719de0bb0848ec023643f2dcf0e7556",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/19/cikk_rendorseg_rendorauto_112_roman_rendorseg_facebook_(1).jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "UPDATE Incident violent la o școală din Bistrița. Un elev a atacat cu un cuțit o profesoară și un coleg",
+        "link": "https://www.mediafax.ro/social/incident-violent-la-o-scoala-din-bistrita-un-elev-a-atacat-cu-un-cutit-o-profesoara-si-un-coleg-23827849"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Incident grav la o școală din Bistrița: un elev și-a atacat cu un cuțit profesoara și un coleg. Ambii au fost răniți",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cadru-didactic-atacat-cu-un-cu-it-de-un-elev-de-gimnaziu-la-o-scoala-din-bistri-a.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Inspector școlar, despre elevul din Bistrița care a atacat o profesoară cu un cuțit: „Era mai singuratic, nu prea se integra în colectiv”",
+        "link": "https://hotnews.ro/inspectorul-scolar-despre-elevul-din-bistrita-care-a-atacat-o-profesoara-cu-un-cutit-era-mai-singuratic-nu-prea-se-integra-in-colectiv-2379811"
+      },
+      {
+        "source": "Digi24",
+        "title": "Momentul în care un elev a înjunghiat o profesoară cu un cuțit pe holul unei școli din Bistrița",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/momentul-in-care-un-elev-a-atacat-o-profesoara-cu-un-cutit-pe-holul-unei-scoli-din-bistrita-3998661"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Imagini dramatice cu atacul de la școala din Bistrița. Cum a înjunghiat elevul de clasa a VII-a o profesoară și un coleg",
+        "link": "https://stirileprotv.ro/stiri/actualitate/imagini-dramatice-cu-atacul-de-la-scoala-din-bistrita-cum-a-injunghiat-elevul-de-clasa-a-vii-a-o-profesoara-si-s-a-luptat-cu-un-coleg.html"
+      }
+    ],
+    "published_at": 1792405444,
+    "title_hu": "Késsel támadt tanárára és egy diákra egy hetedikes Besztercén",
+    "lead_hu": "Október 19-én reggel egy 13 éves hetedikes késsel megsebesített egy 28 éves tanárnőt és egy 12 éves diákot a besztercei Ștefan cel Mare Általános Iskolában. Mindketten eszméletüknél vannak, állapotuk stabil; a mentők további 14, pánikrohamot átélt embert is megvizsgáltak. A tanulót őrizetbe vették, az iskolában felfüggesztették a tanítást, az ügyben nyomozás folyik; az oktatási miniszter a tanárok védelmét szolgáló jogszabály-módosítást kezdeményezett.",
+    "content_hu": "• **Október 19-én, hétfőn reggel körülbelül 8 óra 40 perckor** érkezett bejelentés a 112-es segélyhívón egy besztercei iskolában történt késes támadásról.\n\n• **A rendőrség szerint egy hetedik osztályos tanuló** késsel megsebesített egy tanárnőt és egy másik diákot a Ștefan cel Mare Általános Iskolában.\n\n• **A támadás a tanárnő hatodikos osztályánál történt**, ahol a pedagógus matematikát tanított. A megyei főtanfelügyelő szerint a támadó egy hatodikos diákot keresett, akinek ártani akart; a tanárnő megpróbálta megakadályozni, hogy belépjen a terembe, mire a fiú megtámadta. A célba vett diák nem sérült meg, egy másik tanuló közbelépett és megsebesült.\n\n• **A tanárnő a homlokán és az oldalsó hasi tájékon sérült meg.** A főtanfelügyelő beszámolója szerint a fiú többször megszúrta, majd bejutott a terembe, de a keresett diákot nem találta el.\n\n• **A támadó 13 éves volt, és 2019-ben került át Spanyolországból az iskolába.** Sajtóbeszámolók szerint motoros sisakot és maszkot viselt, és zsebkést használt. Egy helyi lap szerint a támadás előtt a mosdóban tartózkodott, majd a közösségi oldalán videót és történeteket tett közzé.\n\n• **A TikTok-bejegyzések a sajtó szerint a támadás előzetes bejelentését tartalmazták.** A helyi beszámolók szerint a fiú azt írta, hogy nyolc hónapja készült rá, és olyan kijelentéseket tett, mint „Találkozunk Valhallában” és „Fogalmuk sincs, mennyire vagyok veszélyes”. A HotNews szerint a fiók szélsőséges tartalmakat is megosztott; ezek sajtóértesülések.\n\n• **Az iskola főtanfelügyelője szerint a fiúnak korábban nem voltak nyilvántartott magatartási vagy agressziós problémái.** A főtanfelügyelő úgy fogalmazott, hogy a tanuló magányosabb volt, és nehezen illeszkedett be; a viselkedésében esetlegesen bekövetkezett változásokat a tanácsadó vizsgálja.\n\n• **A támadó állítása szerint a célba vett diák más vallású volt.** A főtanfelügyelő radikalizálódásra utaló tendenciákat említett. Egy sajtóbeszámolóban az „indiai” származásra utaló állítás is szerepelt, az iskola azonban azt közölte, hogy nincsenek indiai diákjai, így tévedés történhetett. A motivációt a hatóságok vizsgálják.\n\n• **A sérültek egy 28 éves nő és egy 12 éves fiú; mindketten eszméletüknél vannak, állapotuk stabil, de meg vannak ijedve.** A tanárnőt a sürgősségi osztályon, a diákot a gyermekgyógyászati sürgősségin vizsgálták.\n\n• **A mentők a két sérülten kívül további 14 embert is megvizsgáltak**, köztük 13, 12–16 éves fiatalt és egy 55 éves felnőttet; mindannyian pánikrohamot éltek át. A megvizsgáltak közül egy 13 éves, enyhe, 0-s fokozatú koponyasérülést szenvedett fiatalt további vizsgálatokra a gyermek-sürgősségire szállítottak.\n\n• **A rendőrök a tanulót a helyszínen ártalmatlanították és őrizetbe vették.** A rendőrség minősített emberölés kísérletének gyanújával értesítette a Beszterce-Naszód Megyei Törvényszék melletti ügyészséget; a főtanfelügyelő később azt közölte, hogy az ügyet a DIICOT vette át.\n\n• **Egy kriminológus a Digi24-nek azt mondta, hogy a 14 év alatti fiú nem vonható büntetőjogi felelősségre.** A szakértő szerint a támadás összefügghetett a közösségi médiában látott erőszakos viselkedés utánzásával; ez szakértői felvetés, nem a hatóságok megállapítása.\n\n• **A Digi24 beszámolója szerint az iskola egyik térfigyelő kamerája rögzítette, ahogy a tanuló a folyosón többször megszúrja a tanárnőt.** A ProTV által közölt felvételeken a támadó a tanterem ajtajánál várakozik, majd rátámad a tanárnőre; egy közbelépő diák is megsérül. A ProTV beszámolója szerint egy sporttanár és az iskolaőrség egyik tagja is közbelépett, és segítettek megfékezni a fiút, illetve elvenni tőle a kést. A felvételeket a hatóságok rendelkezésére bocsátják.\n\n• **Az iskolában felfüggesztették az aznapi tanítást.** A szülők fokozatosan hazavihették a gyerekeket, a többieket felügyelet mellett tartották. Az iskolában kamerák működnek a folyosókon és a tantermekben; a főtanfelügyelő szerint ugyanakkor nincs szigorú beléptetési vagy ellenőrzési eljárás, és a hatóságok az eset előtt két héttel megelőző egyeztetést tartottak. Az iskola a belépés szabályozására projektet tervez.\n\n• **Mihai Dimian ügyvivő oktatási miniszter jogszabály-módosítást sürgetett.** A tanárok fenyegetése vagy bántalmazása esetére külön büntetőjogi védelmet, valamint az iskolákba való belépés gyors korlátozását lehetővé tevő intézkedéseket javasolt.",
+    "title_ro": "Un elev de clasa a VII-a a atacat cu cuțitul o profesoară și un elev la Bistrița",
+    "lead_ro": "Luni, 19 octombrie, un elev de 13 ani a rănit cu un cuțit o profesoară de 28 de ani și un elev de 12 ani la Școala Gimnazială „Ștefan cel Mare” din Bistrița. Ambele victime sunt conștiente și stabile, iar echipajele medicale au evaluat și alte 14 persoane care au avut atacuri de panică. Elevul a fost reținut, cursurile au fost suspendate, iar ancheta este în desfășurare; ministrul Educației a cerut modificarea legislației pentru protejarea profesorilor.",
+    "content_ro": "• **Luni, 19 octombrie, în jurul orei 08:40**, poliția a fost sesizată prin 112 despre un atac cu cuțitul la o școală din Bistrița.\n\n• **Potrivit poliției, un elev de clasa a VII-a** a rănit cu un cuțit o profesoară și un alt elev la Școala Gimnazială „Ștefan cel Mare”.\n\n• **Atacul a avut loc la clasa a VI-a unde profesoara preda matematică.** Inspectorul școlar general a declarat că elevul îl căuta pe un coleg de clasa a VI-a, căruia voia să-i facă rău. Profesoara a încercat să-l împiedice să intre în clasă, iar băiatul a atacat-o. Elevul vizat nu a fost rănit; un alt coleg a intervenit și a fost rănit.\n\n• **Profesoara a fost rănită la frunte și în zona abdominală laterală.** Potrivit inspectorului școlar general, elevul a înjunghiat-o de mai multe ori, apoi a intrat în clasă, fără să-l rănească pe elevul pe care îl căuta.\n\n• **Atacatorul avea 13 ani și venise din Spania la școală în 2019.** Potrivit relatărilor din presă, purta cască de motociclist și cagulă și avea un briceag. O publicație locală a scris că înaintea atacului a stat la baie, apoi a publicat un video și story-uri pe rețelele sociale.\n\n• **Potrivit presei, postările de pe TikTok anunțau atacul.** Relatările locale spun că băiatul ar fi scris că se pregătea de opt luni și ar fi făcut afirmații precum „Ne vedem în Valhalla” și „Nu au idee cât sunt de periculos”. HotNews a relatat că acel cont distribuia și conținut extremist; acestea sunt informații apărute în presă.\n\n• **Potrivit inspectorului școlar general, elevul nu avea antecedente înregistrate de probleme de comportament sau de agresivitate.** Acesta l-a descris ca fiind mai singuratic și cu dificultăți de integrare; consilierul școlar urmează să verifice dacă au existat schimbări de comportament.\n\n• **Potrivit declarației atribuite atacatorului, elevul vizat avea altă religie.** Inspectorul școlar general a vorbit despre posibile tendințe de radicalizare. O relatare din presă a menționat că elevul ar fi fost numit „indian”, însă școala a transmis că nu are elevi indieni și că ar putea fi vorba despre o confuzie. Autoritățile investighează motivul atacului.\n\n• **Victimele sunt o femeie de 28 de ani și un băiat de 12 ani; ambii sunt conștienți și în stare stabilă, dar speriați.** Profesoara a fost examinată la UPU-SMURD, iar elevul la UPU Pediatrie.\n\n• **Pe lângă cele două victime, echipajele medicale au evaluat alte 14 persoane**, dintre care 13 minori cu vârste între 12 și 16 ani și un adult de 55 de ani; toți au avut atacuri de panică. Un minor de 13 ani, cu traumatism cranio-cerebral de gradul 0, a fost transportat la UPU Pediatrie pentru investigații suplimentare.\n\n• **Polițiștii l-au imobilizat pe elev și l-au luat în custodie.** Poliția a sesizat Parchetul de pe lângă Tribunalul Bistrița-Năsăud în legătură cu o posibilă tentativă de omor calificat; inspectorul școlar general a declarat ulterior că dosarul a fost preluat de DIICOT.\n\n• **Un criminolog a declarat pentru Digi24 că băiatul, fiind mai mic de 14 ani, nu poate răspunde penal.** Specialistul a avansat ipoteza că atacul ar putea avea legătură cu imitarea unor comportamente violente văzute pe rețelele sociale; aceasta este o ipoteză, nu o concluzie a autorităților.\n\n• **Potrivit Digi24, o cameră de supraveghere a surprins momentul în care elevul o înjunghie de mai multe ori pe profesoară, pe hol.** Imaginile difuzate de ProTV arată că atacatorul așteaptă lângă ușa clasei și apoi o atacă pe profesoară; un elev care intervine este și el rănit. Potrivit ProTV, un profesor de sport și un agent de pază au intervenit și au ajutat la imobilizarea băiatului și la îndepărtarea cuțitului. Imaginile urmează să fie puse la dispoziția autorităților.\n\n• **Cursurile au fost suspendate pentru ziua respectivă.** Părinții au putut să-și ia copiii treptat, iar ceilalți elevi au rămas sub supraveghere. Școala are camere pe holuri și în săli, însă, potrivit inspectorului școlar general, nu există o procedură strictă de control al accesului. Autoritățile avuseseră o întâlnire preventivă cu două săptămâni înainte, iar școala intenționează să dezvolte un proiect pentru reglementarea accesului.\n\n• **Ministrul interimar al Educației, Mihai Dimian, a cerut modificarea legislației.** El a propus protecție penală specială pentru profesorii amenințați sau agresați și măsuri rapide care să permită restricționarea accesului în școli."
+  },
+  {
+    "group_id": "group_7828f76de9",
+    "fingerprint": "f540f0da762c8f2dd659601eba0a4ccc",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Liderul USR, după ce PNL a spus că ia în calcul un acord politic cu Luca Niculescu: „Nu putem să facem parte din tot felul de aranjamente de culise”",
+        "link": "https://hotnews.ro/liderul-usr-dupa-ce-pnl-a-spus-ca-ia-in-calcul-un-acord-politic-cu-luca-niculescu-nu-putem-sa-facem-parte-din-tot-felul-de-aranjamente-de-culise-2374909"
+      },
+      {
+        "source": "Maszol",
+        "title": "Döntöttek a PNL parlamenti frakciói",
+        "link": "https://maszol.ro/belfold/Dontottek-a-PNL-parlamenti-frakcioi"
+      },
+      {
+        "source": "Digi24",
+        "title": "În ce condiții ar putea PNL să voteze Guvernul Niculescu. Ilie Bolojan: Voi propune un „vot de necesitate”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/in-ce-conditii-ar-putea-pnl-sa-voteze-guvernul-niculescu-ilie-bolojan-voi-propune-un-vot-de-necesitate-3995923"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "PNL decide sâmbătă dacă votează Guvernul Niculescu. Ilie Bolojan: „Votul ar putea să ne coste nu doar politic, ci și personal”",
+        "link": "https://stirileprotv.ro/stiri/politic/pnl-decide-sambata-daca-voteaza-guvernul-niculescu-ilie-bolojan-votul-ar-putea-sa-ne-coste-nu-doar-politic-ci-si-personal.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "PNL Iași a votat în unanimitate că nu va susține învestirea Guvernului Luca Niculescu – PSD / Ilie Bolojan va propune liberalilor vot de învestire",
+        "link": "https://www.g4media.ro/pnl-iasi-a-votat-in-unanimitate-ca-nu-va-sustine-investirea-guvernului-luca-niculescu-psd-ilie-bolojan-va-propune-liberalilor-vot-de-investire.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Döntött a PNL: ellenzékből megszavazzák a Niculescu-kabinetet",
+        "link": "https://maszol.ro/belfold/Dontott-a-PNL-ellenzekbol-megszavazzak-a-Niculescu-kabinetet"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ilie Bolojan recunoaște că votul pentru Guvernul Niculescu poate aduce pierderi PNL: „Am luat decizia corectă pentru această țară”",
+        "link": "https://www.mediafax.ro/politic/ilie-bolojan-recunoaste-ca-votul-pentru-guvernul-niculescu-poate-aduce-pierderi-pnl-am-luat-decizia-corecta-pentru-aceasta-tara-23827696"
+      },
+      {
+        "source": "Digi24",
+        "title": "Acordul politic dintre Ilie Bolojan și Luca Niculescu. PNL promite să nu dea jos guvernul până în martie, dar cu unele condiții (surse)",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/acordul-politic-dintre-ilie-bolojan-si-luca-niculescu-pnl-promite-sa-nu-dea-jos-guvernul-pana-in-martie-dar-cu-unele-conditii-surse-3998387"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Președintele liberal de CJ, atac virulent la conducerea PNL: „Primul care trebuie să demisioneze este Ilie Bolojan”",
+        "link": "https://hotnews.ro/presedintele-liberal-de-cj-atac-virulent-la-conducerea-pnl-primul-care-trebuie-sa-demisioneze-este-ilie-bolojan-2379742"
+      }
+    ],
+    "published_at": 1792405364,
+    "title_hu": "A PNL ellenzékből támogatja a Niculescu-kormányt, de feltételekhez köti a szavazatát",
+    "lead_hu": "A PNL vezetése úgy döntött, hogy a liberális parlamenti képviselők megszavazzák Luca Niculescu kormányának beiktatását, miközben a párt ellenzékbe vonul, és politikai tisztségviselői távoznak. Ilie Bolojan vasárnap aláírta a kijelölt miniszterelnökkel a feltételes megállapodást: a liberálisok a deficitcélok, a költségvetési fegyelem és a beruházások védelméhez kötik támogatásukat, a vállalások megszegése esetén pedig fenntartják a bizalmatlansági indítvány lehetőségét.",
+    "content_hu": "• **A PNL szombati döntése:** a párt vezetése megszavazta, hogy a liberális parlamenti képviselők támogassák Luca Niculescu kormányának beiktatását, miközben a PNL ellenzékbe vonul. A döntést 6 ellenszavazat és 1 tartózkodás mellett fogadták el; a vita feszült volt, több politikus és megyei szervezet ellenezte a kabinet támogatását.\n\n• **Bolojan és Niculescu vasárnap aláírta a megállapodást.** A dokumentum nem koalíciós szerződés és nem jelent feltétel nélküli politikai támogatást: a PNL ellenzékben marad, és eseti alapon dönt arról, mely kormányzati intézkedéseket támogatja.\n\n• **A megállapodás költségvetési feltételei:** Románia 2027-es hiánya legfeljebb a GDP 5,3 százaléka lehet. A PNL akkor támogatja a 2027-es költségvetést, ha az reális, beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tervez fedezet nélküli kiadásokat.\n\n• **A bizalmatlansági indítványokra vonatkozó vállalás** 2027. március 1-jéig szól: a PNL addig nem kezdeményez és nem támogat ilyen indítványt, ha a kormány betartja a megállapodást és a jó kormányzás alapelveit. A liberálisok egyszerű indítványokkal továbbra is bírálhatják a minisztereket; vállalásszegés esetén bizalmatlansági indítványt is benyújthatnak.\n\n• **A PNL nem kér kormányzati tisztségeket:** a párt politikai támogatással kinevezett tisztségviselői a következő hét elején lemondanak. Ez nem vonatkozik azokra, akik versenyvizsgával vagy más törvényes eljárással szerezték meg az állásukat.\n\n• **Bolojan a teljes jogkörű kormány szükségességét** a közszolgáltatások finanszírozásával indokolta. Szerinte az ügyvivő kabinet nem tud költségvetési kiigazítást elrendelni, miközben egyes sürgősségi osztályok, a mentők és a katasztrófavédelem forrásai kiegészítésre szorulnak. A Floreasca kórház sürgősségi osztályának 2026-os induló előirányzata 5 millió lej alatt maradt a 2025-ös, 10 millió lej fölötti összeghez képest; Marosvásárhelyen 8 millióról 4 millió lej alá csökkent a keret. Bolojan az üzemanyagárak 20–30 százalékos emelkedésére is figyelmeztetett.\n\n• **További költségvetési kockázatként** Bolojan azt említette, hogy a közlekedési tárca PNRR-projektjeire 19,5 milliárd euró értékben kötöttek szerződéseket, miközben a végleges keret 4,6 milliárd euró. A megkezdett munkák folytatásához szerinte további források kellenek; azt is állította, hogy az aszály miatt a cernavodai erőmű a romániai energiatermelés mintegy 20 százalékát nem tudta biztosítani.\n\n• **A PNL parlamenti támogatása döntő lehet:** a kormány beiktatásához legalább 233 szavazat szükséges. Sajtóbecslések a PSD, az RMDSZ, a nemzeti kisebbségek, az UPR és a PACE–Întâi România támogatásával akár mintegy 279 voksot valószínűsítettek; ez előzetes becslés, nem a végső szavazás eredménye. Az RMDSZ hat hónapos támogatási megállapodást is kilátásba helyezett.\n\n• **A párton belüli ellenállás a döntés után is látható maradt.** A PNL Iași és a PNL Satu Mare megyei szervezete egyhangúlag ellenezte a kabinet beiktatását; Vrancea politikusai és több más liberális is bírálta a PSD meghatározó szerepét, illetve a miniszterjelölteket. Alin Tișe a pártvezetés, köztük Bolojan lemondását követelte, és azt mondta: vagy minden politikai kinevezett távozzon, vagy senki.\n\n• **Bolojan a döntés politikai kockázatát is elismerte:** szerinte pusztán pártpolitikai számítás alapján a PNL nem szavazná meg a kabinetet, és nincsenek nagy elvárásai a kormánytól. Azt állította, hogy az elhúzódó válság veszélyeztetné a közszolgáltatásokat és növelné az állami hitelfelvétel költségeit; a leendő kormány legnagyobb kockázatának a PSD-t nevezte.\n\n• **Bolojan a korábbi Tomac-javaslattól is elhatárolta a mostani helyzetet:** szerinte az a kormány „paravánként” működött volna, mert a PSD részt vett volna benne, de nem vállalt volna egyértelmű politikai felelősséget. A Niculescu-kabinetet átláthatóbbnak nevezte, mivel a PSD nyíltan vállalja miniszterjelöltjeit és a kormányzati szerepét.\n\n• **Az USR ellenzi a kormány beiktatását.** Dominic Fritz szerint nem világos, milyen parlamenti többség állna a kabinet mögött, és kifogásolta a PSD-s miniszterek részvételét. Azt mondta, az USR és a PNL eltérően viszonyul a kormányhoz, de együttműködhetnek egy PSD és AUR nélküli politikai alternatíva kialakításán.\n\n• **A parlamenti menetrend szerint** a miniszterjelöltek meghallgatása hétfőn és kedden, a kormány beiktatási szavazása pedig október 20-án, kedden 14 órakor esedékes.",
+    "title_ro": "PNL va susține din opoziție Guvernul Niculescu, dar își condiționează votul",
+    "lead_ro": "Conducerea PNL a decis ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, în timp ce partidul va intra în opoziție, iar demnitarii susținuți politic de liberali își vor părăsi funcțiile. Ilie Bolojan a semnat duminică acordul condiționat cu premierul desemnat: sprijinul PNL depinde de respectarea țintelor de deficit, a disciplinei bugetare și de protejarea investițiilor, iar liberalii își rezervă posibilitatea depunerii unei moțiuni de cenzură dacă angajamentele sunt încălcate.",
+    "content_ro": "• **Decizia PNL de sâmbătă:** conducerea partidului a hotărât ca parlamentarii liberali să susțină învestirea Guvernului Luca Niculescu, iar PNL să intre în opoziție. Hotărârea a fost adoptată cu 6 voturi împotrivă și o abținere, după discuții tensionate; mai mulți politicieni și organizații județene s-au opus susținerii Cabinetului.\n\n• **Bolojan și Niculescu au semnat acordul duminică.** Documentul nu este un acord de coaliție și nu înseamnă susținere politică necondiționată: PNL rămâne în opoziție și va decide de la caz la caz ce măsuri ale Guvernului sprijină.\n\n• **Condițiile bugetare ale acordului:** deficitul României pentru 2027 trebuie să fie de cel mult 5,3% din PIB. PNL este pregătit să susțină bugetul pe 2027 dacă acesta se bazează pe venituri realiste și încasabile, continuă consolidarea fiscală, protejează investițiile și evită cheltuielile fără acoperire.\n\n• **Angajamentul privind moțiunile de cenzură** este valabil până la 1 martie 2027: PNL nu va iniția și nu va vota o astfel de moțiune dacă Guvernul respectă acordul și principiile bunei guvernări. Liberalii își păstrează dreptul de a critica miniștrii prin moțiuni simple și pot depune o moțiune de cenzură dacă angajamentele sunt încălcate.\n\n• **PNL nu cere funcții guvernamentale:** demnitarii numiți cu sprijin politic liberal urmează să demisioneze la începutul săptămânii următoare. Măsura nu îi vizează pe cei care au obținut posturile prin concurs sau prin alte proceduri legale.\n\n• **Bolojan a justificat nevoia unui Guvern cu puteri depline** prin finanțarea serviciilor publice. Potrivit lui, Cabinetul interimar nu poate face o rectificare bugetară, iar unele unități de primiri urgențe, serviciile de ambulanță și structurile pentru situații de urgență au nevoie de fonduri suplimentare. Alocarea inițială pentru UPU Floreasca în 2026 a fost sub 5 milioane de lei, față de peste 10 milioane în 2025; la Târgu Mureș, suma a scăzut de la 8 milioane la sub 4 milioane. Bolojan a avertizat și că prețurile carburanților au crescut cu 20–30%.\n\n• **Printre celelalte riscuri bugetare**, Bolojan a indicat contracte de 19,5 miliarde de euro pentru proiectele PNRR ale Ministerului Transporturilor, deși alocarea finală este de 4,6 miliarde. El a spus că lucrările începute au nevoie de finanțare suplimentară și a afirmat că seceta a împiedicat centrala de la Cernavodă să asigure aproximativ 20% din producția de energie a României.\n\n• **Voturile PNL pot fi decisive:** pentru învestire sunt necesare cel puțin 233 de voturi. Estimări de presă au indicat că sprijinul PSD, UDMR, al minorităților naționale, al grupului UPR și al PACE–Întâi România ar putea însuma aproximativ 279 de voturi; este vorba despre o estimare preliminară, nu despre rezultatul votului. UDMR a anunțat și intenția de a încheia un acord de susținere pe șase luni.\n\n• **Opoziția internă din PNL a rămas vizibilă.** Organizațiile județene PNL Iași și PNL Satu Mare au respins în unanimitate învestirea Cabinetului; politicieni din Vrancea și alți liberali au criticat rolul PSD și propunerile de miniștri. Alin Tișe a cerut demisia conducerii partidului, inclusiv a lui Bolojan, și a susținut că fie trebuie să plece toți cei numiți politic, fie niciunul.\n\n• **Bolojan a recunoscut riscul politic al deciziei:** potrivit lui, dacă PNL ar face doar un calcul politic, nu ar vota Cabinetul, iar așteptările sale de la viitorul Guvern sunt reduse. El a avertizat că prelungirea crizei ar putea afecta serviciile publice și crește costurile de împrumut ale statului; principalul risc pentru noul Guvern ar fi, în opinia sa, PSD.\n\n• **Bolojan a diferențiat situația de propunerea anterioară a lui Tomac:** în opinia sa, acel Guvern ar fi funcționat ca o „paravan”, deoarece PSD részt vett volna benne, de nu și-ar fi asumat răspunderea politică în mod clar. Cabinetul Niculescu ar fi mai transparent, a afirmat, întrucât PSD își asumă deschis miniștrii nominalizați și rolul său la guvernare.\n\n• **USR se opune învestirii Guvernului.** Dominic Fritz a spus că nu este clar pe ce majoritate parlamentară s-ar baza Cabinetul și a criticat participarea miniștrilor PSD. El a afirmat că USR și PNL au abordări diferite, dar pot colabora pentru construirea unei alternative politice fără PSD și AUR.\n\n• **Calendarul parlamentar:** audierile miniștrilor propuși sunt programate luni și marți, iar votul de învestitură este prevăzut marți, 20 octombrie, la ora 14:00."
+  },
+  {
+    "group_id": "group_e3a7304932",
+    "fingerprint": "a5fc685e5aa0c2198e52918eef3834bd",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23263001/1/statia-de-reciclare-noiembrie-2025-6.jpg?width=700",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Construcţii Erbaşu atrage 61 mil. lei de la BRD pentru dezvoltarea unei fabrici de reciclare în Ilfov",
+        "link": "https://www.zf.ro/banci-si-asigurari/constructii-erbasu-atrage-61-mil-lei-de-la-brd-pentru-dezvoltarea-unei-fabrici-de-reciclare-in-ilfov-23263001"
+      },
+      {
+        "source": "Economedia",
+        "title": "Erbașu ridică o fabrică de reciclare a deșeurilor din construcții și demolări / Bani din PNRR și cofinanțare verde de 60,7 milioane de lei de la BRD",
+        "link": "https://economedia.ro/erbasu-ridica-o-fabrica-de-reciclare-a-deseurilor-din-constructii-si-demolari-bani-din-pnrr-si-cofinantare-verde-de-607-milioane-de-lei-de-la-brd.html"
+      }
+    ],
+    "published_at": 1792405343,
+    "title_hu": "Erbașu 60,7 millió lejes BRD-hitellel fejleszt újrahasznosító üzemet Ilfov megyében",
+    "lead_hu": "A Construcții Erbașu 60,7 millió lejes, tízéves zöldhitelt kapott a BRD-től a Căldăraruban épült építési és bontási hulladékokat feldolgozó üzem társfinanszírozására. A PNRR-támogatással megvalósuló létesítmény évente több mint 450 ezer tonna hulladék feldolgozására képes.",
+    "content_hu": "• **A Construcții Erbașu 60,7 millió lejes hitelt kapott a BRD-től** a Ilfov megyei Căldăraruban létesített újrahasznosító üzem társfinanszírozására. A tízéves zöldhitel a PNRR-forrásokkal támogatott projekt finanszírozását egészíti ki.\n\n• **Az üzem évente több mint 450 ezer tonna építési és bontási hulladékot dolgozhat fel.** Ebből mintegy 410 ezer tonna beton és aszfalt, körülbelül 40 ezer tonna pedig könnyű frakció, például fa, műanyag, papír, karton, fém és szigetelőanyag. Az üveghulladék számára külön, évi legalább 1200 tonna kapacitású feldolgozósort alakítottak ki.\n\n• **A feldolgozás során újrahasznosított betont és aszfaltot, aprított üveget, fémeket, valamint RDF-típusú alternatív tüzelőanyagot állítanak elő.** A termékek egy részét az Erbașu csoport saját tevékenységében használja fel, csökkentve a természetes erőforrások felhasználását.\n\n• **A több mint 12 ezer négyzetméteres telephely technológiai és fenntarthatósági fejlesztéseket is tartalmaz.** Az üzemben elektromos gépeket, IoT-technológiát és olyan ERP-platformot alkalmaznak, amely a működési folyamatok több mint 70 százalékának digitalizálását és automatizálását teszi lehetővé. Több mint 560 napelemet telepítenek, emellett az esővizet is újrahasznosítják, és a porkibocsátás mérséklésére szolgáló rendszereket alkalmaznak.",
+    "title_ro": "Erbașu obține un credit BRD de 60,7 milioane de lei pentru o fabrică de reciclare în Ilfov",
+    "lead_ro": "Construcții Erbașu a obținut de la BRD un credit verde de 60,7 milioane de lei, acordat pe zece ani, pentru cofinanțarea fabricii de reciclare construite la Căldăraru, în județul Ilfov. Susținută și prin PNRR, unitatea poate procesa anual peste 450.000 de tone de deșeuri din construcții și demolări.",
+    "content_ro": "• **Construcții Erbașu a obținut un credit de 60,7 milioane de lei de la BRD** pentru cofinanțarea fabricii de reciclare din Căldăraru, județul Ilfov. Împrumutul verde, acordat pe o perioadă de zece ani, completează finanțarea proiectului susținut prin PNRR.\n\n• **Fabrica poate procesa anual peste 450.000 de tone de deșeuri din construcții și demolări.** Aproximativ 410.000 de tone reprezintă fracția grea, în principal beton și asfalt, iar circa 40.000 de tone sunt materiale ușoare, precum lemn, plastic, hârtie, carton, metale și materiale de izolație. Pentru sticlă există o linie separată, cu o capacitate de cel puțin 1.200 de tone pe an.\n\n• **Printre produsele rezultate se numără beton și asfalt reciclat, sticlă mărunțită, metale și combustibil alternativ de tip RDF.** O parte dintre materiale va fi reutilizată în activitatea grupului Erbașu, reducând consumul de resurse naturale.\n\n• **Investiția include tehnologii și măsuri pentru eficiență și sustenabilitate.** Pe terenul de peste 12.000 de metri pătrați sunt folosite utilaje electrice, tehnologii IoT și o platformă ERP care va permite digitalizarea și automatizarea a peste 70% din fluxul operațional. Proiectul mai prevede peste 560 de panouri fotovoltaice, reutilizarea apelor pluviale și sisteme pentru reducerea emisiilor de praf."
+  },
+  {
+    "group_id": "group_f7e8e60c21",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/04/computer-program-coding-screen-1024x767.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Îți dai datele pentru reduceri, dar ce primești în schimb? Avertisment despre informațiile personale oferite online",
+        "link": "https://www.mediafax.ro/tehnologie/iti-dai-datele-pentru-reduceri-dar-ce-primesti-in-schimb-avertisment-despre-informatiile-personale-oferite-online-23828022"
+      }
+    ],
+    "published_at": 1792405302,
+    "title_hu": "Îți dai datele pentru reduceri, dar ce primești în schimb? Avertisment despre informațiile personale oferite online",
+    "lead_hu": "Datele personale au devenit moneda invizibilă a vieții digitale: le oferim când ne facem un cont, instalăm o aplicație, cumpărăm online sau pur și simplu acceptăm cookie-urile unui site. Însă știm cu …",
+    "content_hu": "Datele personale au devenit moneda invizibilă a vieții digitale: le oferim când ne facem un cont, instalăm o aplicație, cumpărăm online sau pur și simplu acceptăm cookie-urile unui site. Însă știm cu adevărat cui le încredințăm și ce se întâmplă cu ele după ce apăsăm butonul „Accept”? Riscurile nu se limitează la atacuri informatice și furtul de date.",
+    "title_ro": "Îți dai datele pentru reduceri, dar ce primești în schimb? Avertisment despre informațiile personale oferite online",
+    "lead_ro": "Datele personale au devenit moneda invizibilă a vieții digitale: le oferim când ne facem un cont, instalăm o aplicație, cumpărăm online sau pur și simplu acceptăm cookie-urile unui site. Însă știm cu …",
+    "content_ro": "Datele personale au devenit moneda invizibilă a vieții digitale: le oferim când ne facem un cont, instalăm o aplicație, cumpărăm online sau pur și simplu acceptăm cookie-urile unui site. Însă știm cu adevărat cui le încredințăm și ce se întâmplă cu ele după ce apăsăm butonul „Accept”? Riscurile nu se limitează la atacuri informatice și furtul de date."
+  },
+  {
+    "group_id": "group_59fc3b6ab8",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/19102026/fe42b0e0-0d93-4a88-b7f6-c490b3276362.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cosmin Olăroiu a cedat nervos, după ultimul rezultat din Emirate: „Blackout! Să NU se mai repete”",
+        "link": "https://www.gsp.ro/international/campionate/cosmin-olaroiu-al-jazira-ittihad-kalba-reactie-989813.html"
+      }
+    ],
+    "published_at": 1792405296,
+    "title_hu": "Cosmin Olăroiu a cedat nervos, după ultimul rezultat din Emirate: „Blackout! Să NU se mai repete”",
+    "lead_hu": "Cosmin Olăroiu (57 de ani), antrenorul celor de la Al-Jazira, s-a arătat extrem de nemulțumit după remiza înregistrată pe terenul lui Ittihad Kalba, scor 2-2, în etapa a 6-a a campionatului din Emirat…",
+    "content_hu": "Cosmin Olăroiu (57 de ani), antrenorul celor de la Al-Jazira, s-a arătat extrem de nemulțumit după remiza înregistrată pe terenul lui Ittihad Kalba, scor 2-2, în etapa a 6-a a campionatului din Emiratele Arabe Unite. Tehnicianul român și-a criticat jucătorii pentru începutul dezastruos de partidă, dar a avut și un discurs dur la adresa arbitrajului, acuzând numeroasele întreruperi ale jocului. Al-Jazira a avut parte de un debut de meci de coșmar. ...",
+    "title_ro": "Cosmin Olăroiu a cedat nervos, după ultimul rezultat din Emirate: „Blackout! Să NU se mai repete”",
+    "lead_ro": "Cosmin Olăroiu (57 de ani), antrenorul celor de la Al-Jazira, s-a arătat extrem de nemulțumit după remiza înregistrată pe terenul lui Ittihad Kalba, scor 2-2, în etapa a 6-a a campionatului din Emirat…",
+    "content_ro": "Cosmin Olăroiu (57 de ani), antrenorul celor de la Al-Jazira, s-a arătat extrem de nemulțumit după remiza înregistrată pe terenul lui Ittihad Kalba, scor 2-2, în etapa a 6-a a campionatului din Emiratele Arabe Unite. Tehnicianul român și-a criticat jucătorii pentru începutul dezastruos de partidă, dar a avut și un discurs dur la adresa arbitrajului, acuzând numeroasele întreruperi ale jocului. Al-Jazira a avut parte de un debut de meci de coșmar. ..."
+  },
+  {
+    "group_id": "group_54d5872ee5",
+    "category": "Politika",
+    "image": "https://maszol.ro/resized/2026_oktober/19/cikk_FB_IMG_1792404265211.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "„Világos feltételekkel támogatjuk a kormány beiktatását” – RMDSZ-megállapodás Niculescuval",
+        "link": "https://maszol.ro/belfold/Vilagos-feltetelekkel-tamogatjuk-a-kormany-beiktatasat-RMDSZ-megallapodas-Niculescuval"
+      }
+    ],
+    "published_at": 1792405260,
+    "title_hu": "„Világos feltételekkel támogatjuk a kormány beiktatását” – RMDSZ-megállapodás Niculescuval",
+    "lead_hu": "Kelemen Hunor: Bennünket az érdekel, hogy működjön az ország, megoldást találjunk az emberek problémáira, és a helyi közösségek megkapják a szükséges támogatást.",
+    "content_hu": "Kelemen Hunor: Bennünket az érdekel, hogy működjön az ország, megoldást találjunk az emberek problémáira, és a helyi közösségek megkapják a szükséges támogatást.",
+    "title_ro": "„Világos feltételekkel támogatjuk a kormány beiktatását” – RMDSZ-megállapodás Niculescuval",
+    "lead_ro": "Kelemen Hunor: Bennünket az érdekel, hogy működjön az ország, megoldást találjunk az emberek problémáira, és a helyi közösségek megkapják a szükséges támogatást.",
+    "content_ro": "Kelemen Hunor: Bennünket az érdekel, hogy működjön az ország, megoldást találjunk az emberek problémáira, és a helyi közösségek megkapják a szükséges támogatást."
+  },
+  {
+    "group_id": "group_3799414998",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-19-at-13-21-52-1-1024x682.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Alexandru Stoica, aviz favorabil pentru Ministerul Dezvoltării",
+        "link": "https://www.mediafax.ro/stirile-zilei/alexandru-stoica-aviz-favorabil-pentru-ministerul-dezvoltarii-23828037"
+      }
+    ],
+    "published_at": 1792405214,
+    "title_hu": "Alexandru Stoica, aviz favorabil pentru Ministerul Dezvoltării",
+    "lead_hu": "Alexandru Stoica a primit, luni, aviz favorabil pentru Ministerul Dezvoltării în Guvernul Niculescu.",
+    "content_hu": "Alexandru Stoica a primit, luni, aviz favorabil pentru Ministerul Dezvoltării în Guvernul Niculescu.",
+    "title_ro": "Alexandru Stoica, aviz favorabil pentru Ministerul Dezvoltării",
+    "lead_ro": "Alexandru Stoica a primit, luni, aviz favorabil pentru Ministerul Dezvoltării în Guvernul Niculescu.",
+    "content_ro": "Alexandru Stoica a primit, luni, aviz favorabil pentru Ministerul Dezvoltării în Guvernul Niculescu."
+  },
+  {
+    "group_id": "group_accbcb100b",
+    "category": "Politika",
+    "image": "https://cdn.adh.reperio.news/image-b/bc5cd18a-325d-4fe4-ab9c-769e78bd5f8a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Prețul gramului de aur, 19 octombrie 2026. Aurul s-a ieftinit ușor",
+        "link": "https://adevarul.ro/economie/pretul-gramului-de-aur-19-octombrie-2026-aurul-2564958.html"
+      }
+    ],
+    "published_at": 1792405165,
+    "title_hu": "Prețul gramului de aur, 19 octombrie 2026. Aurul s-a ieftinit ușor",
+    "lead_hu": "Prețul gramului de aur a scăzut luni, 19 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 636,9848 lei, după ce în ședința precedentă fusese co…",
+    "content_hu": "Prețul gramului de aur a scăzut luni, 19 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 636,9848 lei, după ce în ședința precedentă fusese cotat la 637,7784 lei.",
+    "title_ro": "Prețul gramului de aur, 19 octombrie 2026. Aurul s-a ieftinit ușor",
+    "lead_ro": "Prețul gramului de aur a scăzut luni, 19 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 636,9848 lei, după ce în ședința precedentă fusese co…",
+    "content_ro": "Prețul gramului de aur a scăzut luni, 19 octombrie 2026, potrivit cotației anunțate de Banca Națională a României (BNR). Un gram de aur a ajuns la 636,9848 lei, după ce în ședința precedentă fusese cotat la 637,7784 lei."
+  },
+  {
+    "group_id": "group_86e0875b10",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/19102026/3301479f-7548-42cf-94f8-74b578baad92.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Richarlison se ia de candidatul la președinția Braziliei: „Mi-a furat insula privată”",
+        "link": "https://www.gsp.ro/international/campionate/richarlison-flavio-bolsonaro-insula-privata-tottenham-989795.html"
+      }
+    ],
+    "published_at": 1792405087,
+    "title_hu": "Richarlison se ia de candidatul la președinția Braziliei: „Mi-a furat insula privată”",
+    "lead_hu": "Atacantul lui Tottenham, Richarlison, este în conflict și cu clubul londonez, iar managerul Roberto De Zerbi i-a transmis să-și găsească echipă. Într-un videoclip postat pe rețelele de socializare, br…",
+    "content_hu": "Atacantul lui Tottenham, Richarlison, este în conflict și cu clubul londonez, iar managerul Roberto De Zerbi i-a transmis să-și găsească echipă. Într-un videoclip postat pe rețelele de socializare, brazilianul susține nici mai mult, nici mai puțin, că Flavio Bolsonaro, favorit la președinția țării sale natale, s-a făcut stăpân pe insula respectivă fără a plăti! Richarlison afirmă că a cumpărat insula din Angra dos Reis, pe Coasta Verde din Rio de Janeiro, între ...",
+    "title_ro": "Richarlison se ia de candidatul la președinția Braziliei: „Mi-a furat insula privată”",
+    "lead_ro": "Atacantul lui Tottenham, Richarlison, este în conflict și cu clubul londonez, iar managerul Roberto De Zerbi i-a transmis să-și găsească echipă. Într-un videoclip postat pe rețelele de socializare, br…",
+    "content_ro": "Atacantul lui Tottenham, Richarlison, este în conflict și cu clubul londonez, iar managerul Roberto De Zerbi i-a transmis să-și găsească echipă. Într-un videoclip postat pe rețelele de socializare, brazilianul susține nici mai mult, nici mai puțin, că Flavio Bolsonaro, favorit la președinția țării sale natale, s-a făcut stăpân pe insula respectivă fără a plăti! Richarlison afirmă că a cumpărat insula din Angra dos Reis, pe Coasta Verde din Rio de Janeiro, între ..."
+  },
+  {
+    "group_id": "group_db973b2600",
+    "fingerprint": "55887ec7586b3d3ae05e67728296ab62",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/18102026/f5f88635-95ca-4cf2-9eb8-7d5d6c7b34b8.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Momentul pe care a insistat Șumudică după UTA - CFR: „Clară! Asta e”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/uta-cfr-cluj-marius-sumudica-989601.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Marius Șumudică, discurs necruțător după eșecul cu UTA: „Suntem umbra CFR-ului din anii trecuți”",
+        "link": "https://hotnews.ro/marius-sumudica-discurs-necrutator-dupa-esecul-cu-uta-suntem-umbra-cfr-ului-din-anii-trecuti-2379389"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "CFR a decis ce se întâmplă cu antrenorul Marius Șumudică, după înfrângerea cu UTA: „Nu se va mai întâmpla asta”",
+        "link": "https://hotnews.ro/cfr-a-decis-ce-se-intampla-cu-antrenorul-marius-sumudica-dupa-infrangerea-cu-uta-nu-se-va-mai-intampla-asta-2379900"
+      }
+    ],
+    "published_at": 1792405058,
+    "title_hu": "A CFR 0–1-re kikapott az UTÁ-tól, Șumudică maradhat",
+    "lead_hu": "A CFR Cluj 1–0-s vereséget szenvedett az UTA Arad vendégeként a román élvonal 12. fordulójában. Marius Șumudică szerint csapata még messze van korábbi önmagától, Ioan Varga klubtulajdonos viszont bizalmáról biztosította az edzőt, és további erősítéseket ígért.",
+    "content_hu": "• **Október 18-án, a 12. fordulóban** az UTA Arad hazai pályán 1–0-ra legyőzte a CFR Clujt. A győztes gólt Omar El Sawy szerezte az 55. percben.\n\n• **Lorenzo Biliboc helyzete** a második félidő elején a kapufán csattant. Șumudică szerint a CFR-nek egyértelmű esélye volt megszerezni a vezetést, de a kihagyott lehetőség után nehéz volt megtartani a döntetlent.\n\n• **Șumudică a vereség után** megérdemeltnek nevezte az UTA sikerét, és azt mondta, csapata az első félidőben félt építkezni. Úgy fogalmazott, hogy a jelenlegi CFR „az elmúlt évek CFR-jének árnyéka”, és emlékeztetett arra, hogy 18 játékos távozott az előző idény keretéből.\n\n• **Ioan Varga klubtulajdonos** kijelentette, hogy bízik Șumudicăban, további átigazolásokat tervez, és a Bajnokok Ligájához szükséges feltételek megteremtésén dolgozik. Azt is mondta, hogy rendezik a klub tartozásait, és egészségesebb működést építenek.\n\n• **A 12. forduló után** a CFR 16 ponttal a nyolcadik, az UTA 15 ponttal a kilencedik helyen állt. A vereség Șumudică negyedik kudarca volt a CFR vezetőedzőjeként.",
+    "title_ro": "CFR Cluj a pierdut cu 0-1 la UTA, iar Șumudică are în continuare sprijinul patronului",
+    "lead_ro": "CFR Cluj a fost învinsă cu 1-0 de UTA Arad, în deplasare, în etapa a 12-a a campionatului. Marius Șumudică a spus că echipa este departe de forma din anii trecuți, în timp ce patronul Ioan Varga și-a reafirmat încrederea în antrenor și a anunțat noi transferuri.",
+    "content_ro": "• **Pe 18 octombrie, în etapa a 12-a**, UTA Arad a învins-o cu 1-0 pe CFR Cluj, pe teren propriu. Omar El Sawy a marcat golul victoriei în minutul 55.\n\n• **Ocazia lui Lorenzo Biliboc** de la începutul reprizei secunde s-a încheiat cu mingea în bară. Șumudică a spus că echipa sa a avut o șansă clară de a deschide scorul, dar că a fost greu să păstreze egalitatea după ratarea acesteia.\n\n• **După înfrângere, Șumudică** a considerat victoria UTA-ei meritată și a spus că echipa sa a jucat cu teamă în prima repriză. Antrenorul a descris actuala echipă drept „umbra CFR-ului din anii trecuți” și a amintit că 18 jucători au plecat față de sezonul precedent.\n\n• **Patronul Ioan Varga** a declarat că are încredere în Șumudică, că urmează noi transferuri și că vrea să creeze condițiile necesare pentru Liga Campionilor. El a mai spus că datoriile clubului vor fi plătite și că se construiește un club sănătos.\n\n• **După 12 etape**, CFR ocupa locul 8, cu 16 puncte, iar UTA era pe locul 9, cu 15 puncte. Înfrângerea a fost a patra suferită de CFR cu Șumudică antrenor."
+  },
+  {
+    "group_id": "group_86f6583425",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/09/Dumitru-Chisalita-1024x683.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "VIDEO | Dumitru Chisăliță, audiat pentru Ministerul Energiei: Centralele pe cărbune trebuie scoase din funcțiune doar când avem ce să punem în loc",
+        "link": "https://economedia.ro/video-dumitru-chisalita-audiat-pentru-ministerul-energiei-centralele-pe-carbune-trebuie-scoase-din-functiune-doar-cand-avem-ce-sa-punem-in-loc.html"
+      }
+    ],
+    "published_at": 1792405055,
+    "title_hu": "VIDEO | Dumitru Chisăliță, audiat pentru Ministerul Energiei: Centralele pe cărbune trebuie scoase din funcțiune doar când avem ce să punem în loc",
+    "lead_hu": "Dumitru Chisăliță, audiat pentru funcția de ministru al Energiei în Guvernul Niculescu, a declarat că centralele pe cărbune trebuie scoase din funcțiune doar când avem ce să punem în loc. Principalele…",
+    "content_hu": "Dumitru Chisăliță, audiat pentru funcția de ministru al Energiei în Guvernul Niculescu, a declarat că centralele pe cărbune trebuie scoase din funcțiune doar când avem ce să punem în loc. Principalele declarații ale lui Dumitru Chisăliță: O prioritate, prin programul de guvernare, sunt noile capacități de producere de energie electrică. Ne propunem 5.800 de MW […]",
+    "title_ro": "VIDEO | Dumitru Chisăliță, audiat pentru Ministerul Energiei: Centralele pe cărbune trebuie scoase din funcțiune doar când avem ce să punem în loc",
+    "lead_ro": "Dumitru Chisăliță, audiat pentru funcția de ministru al Energiei în Guvernul Niculescu, a declarat că centralele pe cărbune trebuie scoase din funcțiune doar când avem ce să punem în loc. Principalele…",
+    "content_ro": "Dumitru Chisăliță, audiat pentru funcția de ministru al Energiei în Guvernul Niculescu, a declarat că centralele pe cărbune trebuie scoase din funcțiune doar când avem ce să punem în loc. Principalele declarații ale lui Dumitru Chisăliță: O prioritate, prin programul de guvernare, sunt noile capacități de producere de energie electrică. Ne propunem 5.800 de MW […]"
+  },
+  {
     "group_id": "group_744cdae760",
     "category": "Erdély",
     "image": "",
@@ -59,42 +794,25 @@
     "content_ro": "• **În noaptea de 24 spre 25 octombrie 2026**, România revine la ora standard, numită în mod obișnuit ora de iarnă.\n\n• **La ora 4:00, ceasurile se dau înapoi la 3:00**, iar ziua de 25 octombrie va avea 25 de ore.\n\n• **Dispozitivele conectate la internet** se actualizează, de regulă, automat; ceasurile analogice și unele aparate trebuie reglate manual.\n\n• **Renunțarea la schimbarea sezonieră a orei în UE** rămâne nehotărâtă: deși Parlamentul European a decis eliminarea acesteia, statele membre nu au ajuns la un acord comun."
   },
   {
-    "group_id": "group_8ca1f6f3bf",
-    "fingerprint": "d4dbe31bb355bebb9be5291f2d26847b",
+    "group_id": "group_a92847aeba",
     "category": "Általános",
-    "image": "https://maszol.ro/resized/2026_oktober/19/cikk_rendorseg_rendorauto_112_roman_rendorseg_facebook_(1).jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
+    "image": "https://cdn.adh.reperio.news/image-2/2e677222-58ca-4e6c-b6a4-0c58791ad6eb/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Maszol",
-        "title": "Késsel támadt tanárára és iskolatársára egy 7. osztályos diák Besztercén",
-        "link": "https://maszol.ro/belfold/Kessel-tamadt-tanarara-es-iskolatarsara-egy-7-osztalyos-diak-Besztercen"
-      },
-      {
-        "source": "Digi24",
-        "title": "Atac cu cuțitul la o școală din Bistrița: o profesoară și un elev au fost răniți de un școlar din clasa a VIII-a",
-        "link": "https://www.digi24.ro/stiri/atac-cu-cutitul-la-o-scoala-din-bistrita-o-profesoara-si-un-elev-au-fost-raniti-de-un-scolar-din-clasa-a-viii-a-3998201"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Inspector școlar, despre elevul din Bistrița care a atacat o profesoară cu un cuțit: „Era mai singuratic, nu prea se integra în colectiv”",
-        "link": "https://hotnews.ro/inspectorul-scolar-despre-elevul-din-bistrita-care-a-atacat-o-profesoara-cu-un-cutit-era-mai-singuratic-nu-prea-se-integra-in-colectiv-2379811"
-      },
-      {
-        "source": "Digi24",
-        "title": "Momentul în care un elev a înjunghiat o profesoară cu un cuțit pe holul unei școli din Bistrița",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/momentul-in-care-un-elev-a-atacat-o-profesoara-cu-un-cutit-pe-holul-unei-scoli-din-bistrita-3998661"
+        "source": "Adevărul",
+        "title": "Curs valutar BNR, 19 octombrie 2026. Euro a scăzut, iar dolarul și lira sterlină au crescut. Cum au evoluat principalele valute",
+        "link": "https://adevarul.ro/economie/curs-valutar-bnr-19-octombrie-2026-euro-a-2564956.html"
       }
     ],
-    "published_at": 1792404957,
-    "title_hu": "Késsel támadt tanárára és egy diákra egy hetedikes Besztercén",
-    "lead_hu": "Október 19-én reggel egy 13 éves hetedikes késsel megsebesített egy 28 éves tanárnőt és egy 12 éves diákot a besztercei Ștefan cel Mare Általános Iskolában. Mindketten eszméletüknél vannak, állapotuk stabil; a mentők további 14, pánikrohamot átélt embert is megvizsgáltak. A tanulót őrizetbe vették, az iskolában felfüggesztették a tanítást, az ügyben nyomozás folyik.",
-    "content_hu": "• **Október 19-én, hétfőn reggel körülbelül 8 óra 40 perckor** érkezett bejelentés a 112-es segélyhívón egy besztercei iskolában történt késes támadásról.\n\n• **A rendőrség szerint egy hetedik osztályos tanuló** késsel megsebesített egy tanárnőt és egy másik diákot a Ștefan cel Mare Általános Iskolában.\n\n• **A támadás a tanárnő hatodikos osztályánál történt**, ahol a pedagógus matematikát tanított. A megyei főtanfelügyelő szerint a támadó egy hatodikos diákot keresett, akinek ártani akart; a tanárnő megpróbálta megakadályozni, hogy belépjen a terembe, mire a fiú megtámadta. A célba vett diák nem sérült meg, egy másik tanuló közbelépett és megsebesült.\n\n• **A tanárnő a homlokán és az oldalsó hasi tájékon sérült meg.** A főtanfelügyelő beszámolója szerint a fiú többször megszúrta, majd bejutott a terembe, de a keresett diákot nem találta el.\n\n• **A támadó 13 éves volt, és 2019-ben került át Spanyolországból az iskolába.** Sajtóbeszámolók szerint motoros sisakot és maszkot viselt, és zsebkést használt. Egy helyi lap szerint a támadás előtt a mosdóban tartózkodott, majd a közösségi oldalán videót és történeteket tett közzé.\n\n• **A TikTok-bejegyzések a sajtó szerint a támadás előzetes bejelentését tartalmazták.** A helyi beszámolók szerint a fiú azt írta, hogy nyolc hónapja készült rá, és olyan kijelentéseket tett, mint „Találkozunk Valhallában” és „Fogalmuk sincs, mennyire vagyok veszélyes”. A HotNews szerint a fiók szélsőséges tartalmakat is megosztott; ezek sajtóértesülések.\n\n• **Az iskola főtanfelügyelője szerint a fiúnak korábban nem voltak nyilvántartott magatartási vagy agressziós problémái.** A főtanfelügyelő úgy fogalmazott, hogy a tanuló magányosabb volt, és nehezen illeszkedett be; a viselkedésében esetlegesen bekövetkezett változásokat a tanácsadó vizsgálja.\n\n• **A támadó állítása szerint a célba vett diák más vallású volt.** A főtanfelügyelő radikalizálódásra utaló tendenciákat említett. Egy sajtóbeszámolóban az „indiai” származásra utaló állítás is szerepelt, az iskola azonban azt közölte, hogy nincsenek indiai diákjai, így tévedés történhetett. A motivációt a hatóságok vizsgálják.\n\n• **A sérültek egy 28 éves nő és egy 12 éves fiú; mindketten eszméletüknél vannak, állapotuk stabil, de meg vannak ijedve.** A tanárnőt a sürgősségi osztályon, a diákot a gyermekgyógyászati sürgősségin vizsgálták.\n\n• **A mentők a két sérülten kívül további 14 embert is megvizsgáltak**, köztük 13, 12–16 éves fiatalt és egy 55 éves felnőttet; mindannyian pánikrohamot éltek át. A megvizsgáltak közül egy 13 éves, enyhe, 0-s fokozatú koponyasérülést szenvedett fiatalt további vizsgálatokra a gyermek-sürgősségire szállítottak.\n\n• **A rendőrök a tanulót a helyszínen ártalmatlanították és őrizetbe vették.** A rendőrség minősített emberölés kísérletének gyanújával értesítette a Beszterce-Naszód Megyei Törvényszék melletti ügyészséget; a főtanfelügyelő később azt közölte, hogy az ügyet a DIICOT vette át.\n\n• **Egy kriminológus a Digi24-nek azt mondta, hogy a 14 év alatti fiú nem vonható büntetőjogi felelősségre.** A szakértő szerint a támadás összefügghetett a közösségi médiában látott erőszakos viselkedés utánzásával; ez szakértői felvetés, nem a hatóságok megállapítása.\n\n• **A Digi24 beszámolója szerint az iskola egyik térfigyelő kamerája rögzítette, ahogy a tanuló a folyosón többször megszúrja a tanárnőt.** A felvételeket a hatóságok rendelkezésére bocsátják.\n\n• **Az iskolában felfüggesztették az aznapi tanítást.** A szülők fokozatosan hazavihették a gyerekeket, a többieket felügyelet mellett tartották. Az iskolában kamerák működnek a folyosókon és a tantermekben; a főtanfelügyelő szerint ugyanakkor nincs szigorú beléptetési vagy ellenőrzési eljárás, és a hatóságok az eset előtt két héttel megelőző egyeztetést tartottak. Az iskola a belépés szabályozására projektet tervez.",
-    "title_ro": "Elev de clasa a VII-a a atacat cu cuțitul o profesoară și un elev, la Bistrița",
-    "lead_ro": "În dimineața de 19 octombrie, un elev de 13 ani, în clasa a VII-a, a rănit cu un cuțit o profesoară de 28 de ani și un elev de 12 ani, la Școala Gimnazială „Ștefan cel Mare” din Bistrița. Ambele victime sunt conștiente și stabile; echipajele medicale au evaluat și alte 14 persoane care au suferit atacuri de panică. Elevul a fost imobilizat și se află în custodia poliției, cursurile au fost suspendate, iar ancheta este în desfășurare.",
-    "content_ro": "• **Luni, 19 octombrie, în jurul orei 08:40**, poliția a fost sesizată prin numărul de urgență 112 cu privire la un atac cu cuțitul într-o școală din Bistrița.\n\n• **Potrivit poliției, un elev de clasa a VII-a** a rănit cu un cuțit o profesoară și un alt elev, la Școala Gimnazială „Ștefan cel Mare”.\n\n• **Atacul a avut loc la clasa a VI-a la care preda profesoara**, care avea oră de matematică. Potrivit inspectorului școlar general, elevul îl căuta pe un coleg de clasa a VI-a căruia voia să-i facă rău; profesoara a încercat să-i blocheze accesul în sală, iar băiatul a atacat-o. Elevul vizat nu a fost rănit, însă un alt coleg care a intervenit a fost rănit.\n\n• **Profesoara a fost rănită la frunte și în zona laterală a abdomenului.** Potrivit inspectorului școlar general, băiatul a lovit-o de mai multe ori cu cuțitul, apoi a intrat în clasă, dar nu a reușit să-l rănească pe elevul pe care îl căuta.\n\n• **Atacatorul avea 13 ani și fusese transferat din Spania la școală în 2019.** Potrivit presei, purta cască de motociclist și cagulă și avea un briceag. O publicație locală a relatat că, înaintea atacului, băiatul a stat la baie, apoi a publicat un videoclip și story-uri pe rețelele sociale.\n\n• **Potrivit presei, postările de pe TikTok anunțau atacul.** Conform relatărilor locale, băiatul scrisese că se pregătea de opt luni și publicase mesaje precum „Ne vedem în Valhalla” și „Habar nu au cât sunt de periculos”. HotNews a relatat că acel cont distribuia și conținut extremist; informațiile provin din presă.\n\n• **Inspectorul școlar general a spus că elevul nu era în evidențele școlii cu probleme de comportament sau agresivitate.** Acesta l-a descris ca fiind mai singuratic și slab integrat în colectiv; consilierul școlar urmează să verifice dacă au existat schimbări de comportament.\n\n• **Potrivit afirmației atribuite atacatorului, elevul vizat era de altă religie.** Inspectorul școlar general a menționat posibile tendințe de radicalizare. O relatare de presă a menționat și afirmația că elevul ar fi fost „indian”, însă școala a spus că nu are elevi indieni și că ar putea fi vorba despre o confuzie. Motivația este investigată de autorități.\n\n• **Victimele sunt o femeie de 28 de ani și un băiat de 12 ani; amândoi sunt conștienți, stabili, dar speriați.** Profesoara a fost evaluată la UPU-SMURD, iar elevul la UPU Pediatrie.\n\n• **Pe lângă cele două victime, echipajele medicale au evaluat alte 14 persoane**, dintre care 13 minori cu vârste între 12 și 16 ani și un adult de 55 de ani; toți au suferit atacuri de panică. Un minor de 13 ani, cu traumatism cranio-cerebral de gradul 0, a fost transportat la UPU Pediatrie pentru investigații suplimentare.\n\n• **Polițiștii l-au imobilizat pe elev și l-au reținut.** Poliția a sesizat Parchetul de pe lângă Tribunalul Bistrița-Năsăud în legătură cu o suspiciune de tentativă la omor calificat; ulterior, inspectorul școlar general a declarat că dosarul a fost preluat de DIICOT.\n\n• **Un criminolog a declarat pentru Digi24 că băiatul, fiind sub 14 ani, nu poate răspunde penal.** Potrivit specialistului, atacul ar putea avea legătură cu imitarea comportamentelor violente văzute pe rețelele sociale; aceasta este o ipoteză de expert, nu o concluzie a autorităților.\n\n• **Potrivit Digi24, o cameră de supraveghere a școlii a surprins momentul în care elevul o înjunghie de mai multe ori pe profesoară, pe hol.** Imaginile urmează să fie puse la dispoziția autorităților.\n\n• **Cursurile au fost suspendate în ziua atacului.** Părinții au putut să-și ia copiii treptat, iar ceilalți elevi au rămas sub supraveghere. Școala are camere de supraveghere pe holuri și în săli, dar, potrivit inspectorului școlar general, nu are proceduri stricte de control al accesului. Autoritățile organizaseră o întâlnire preventivă cu două săptămâni înainte, iar școala intenționează să elaboreze un proiect pentru reglementarea accesului."
+    "published_at": 1792404954,
+    "title_hu": "Curs valutar BNR, 19 octombrie 2026. Euro a scăzut, iar dolarul și lira sterlină au crescut. Cum au evoluat principalele valute",
+    "lead_hu": "Banca Națională a României (BNR) a publicat luni, 19 octombrie 2026, noile cotații pentru principalele valute. Euro a scăzut la 5,3272 lei, în timp ce dolarul american a crescut la 4,7520 lei. Francul…",
+    "content_hu": "Banca Națională a României (BNR) a publicat luni, 19 octombrie 2026, noile cotații pentru principalele valute. Euro a scăzut la 5,3272 lei, în timp ce dolarul american a crescut la 4,7520 lei. Francul elvețian și lira sterlină s-au apreciat, iar forintul maghiar a scăzut.",
+    "title_ro": "Curs valutar BNR, 19 octombrie 2026. Euro a scăzut, iar dolarul și lira sterlină au crescut. Cum au evoluat principalele valute",
+    "lead_ro": "Banca Națională a României (BNR) a publicat luni, 19 octombrie 2026, noile cotații pentru principalele valute. Euro a scăzut la 5,3272 lei, în timp ce dolarul american a crescut la 4,7520 lei. Francul…",
+    "content_ro": "Banca Națională a României (BNR) a publicat luni, 19 octombrie 2026, noile cotații pentru principalele valute. Euro a scăzut la 5,3272 lei, în timp ce dolarul american a crescut la 4,7520 lei. Francul elvețian și lira sterlină s-au apreciat, iar forintul maghiar a scăzut."
   },
   {
     "group_id": "group_ec634eed61",
@@ -144,6 +862,27 @@
     "title_ro": "Suspecta atacurilor din Constanța, arestată preventiv pentru 30 de zile",
     "lead_ro": "O tânără de 20 de ani este suspectată că a agresat cinci femei și a provocat distrugeri în mai multe locuri din Constanța, în perioada iulie–octombrie. Instanța a dispus arestarea preventivă pentru 30 de zile, iar expertiza medico-legală a concluzionat că aceasta a avut discernământ la momentul faptelor.",
     "content_ro": "• **Tânăra de 20 de ani din Constanța** este suspectată că, între iulie și octombrie, a agresat cinci femei pe străzi, în spații publice și în unități comerciale. Potrivit relatării ProTV, au fost provocate distrugeri în nouă spații comerciale.\n\n• **Expertiza medico-legală psihiatrică** a constatat că femeia prezintă o tulburare de personalitate, dar a avut discernământ la momentul faptelor cercetate. G4Media precizează că evaluarea a avut loc pe 15 octombrie.\n\n• **Instanța a dispus arestarea preventivă pentru 30 de zile**, după ce polițiștii o reținuseră inițial pentru 24 de ore. Cercetările vizează acuzații de lovire sau alte violențe, tulburarea ordinii și liniștii publice și distrugere.\n\n• **Suspecta și-a exprimat regretul** și a declarat că a crescut într-un centru de plasament, nu a avut o locuință stabilă și s-a confruntat cu dificultăți personale. Ea a afirmat că urmează acum un tratament; pe parcursul procesului beneficiază de prezumția de nevinovăție."
+  },
+  {
+    "group_id": "group_ec33cd013d",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/banc-3-1200x686.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "BANCUL ZILEI | Ce comanzi VS ce primești",
+        "link": "https://www.cancan.ro/bancul-zilei-ce-comanzi-vs-ce-primesti-21532683"
+      }
+    ],
+    "published_at": 1792404900,
+    "title_hu": "BANCUL ZILEI | Ce comanzi VS ce primești",
+    "lead_hu": "A început o nouă săptămână, iar ziua de luni este momentul perfect pentru câteva motive de zâmbet! Dacă ai nevoie de puțină voie bună pentru a începe săptămâna cu energie, am pregătit o serie de bancu…",
+    "content_hu": "A început o nouă săptămână, iar ziua de luni este momentul perfect pentru câteva motive de zâmbet! Dacă ai nevoie de puțină voie bună pentru a începe săptămâna cu energie, am pregătit o serie de bancuri amuzante care îți vor însenina ziua. Soţia mea mi-a comandat pe net adidași numărul 43, dar mi-au venit o […]",
+    "title_ro": "BANCUL ZILEI | Ce comanzi VS ce primești",
+    "lead_ro": "A început o nouă săptămână, iar ziua de luni este momentul perfect pentru câteva motive de zâmbet! Dacă ai nevoie de puțină voie bună pentru a începe săptămâna cu energie, am pregătit o serie de bancu…",
+    "content_ro": "A început o nouă săptămână, iar ziua de luni este momentul perfect pentru câteva motive de zâmbet! Dacă ai nevoie de puțină voie bună pentru a începe săptămâna cu energie, am pregătit o serie de bancuri amuzante care îți vor însenina ziua. Soţia mea mi-a comandat pe net adidași numărul 43, dar mi-au venit o […]"
   },
   {
     "group_id": "group_b66723c56b",
@@ -867,27 +1606,6 @@
     "title_ro": "Un nou rege își face apariția în Frisco King, disponibil în exclusivitate pe SkyShowtime în România din 21 decembrie",
     "lead_ro": "Cu Samuel L. Jackson, nominalizat la Oscar®, în rol principal și ca producător executiv, alături de nominalizații la Oscar Taylor Sheridan și Sylvester Stallone ca producători executivi, Frisco King e…",
     "content_ro": "Cu Samuel L. Jackson, nominalizat la Oscar®, în rol principal și ca producător executiv, alături de nominalizații la Oscar Taylor Sheridan și Sylvester Stallone ca producători executivi, Frisco King extinde universul Tulsa King"
-  },
-  {
-    "group_id": "group_d746fb4ee0",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/radiocom.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Atac de tip ransomware la Radiocom. Serviciul de e-mail al companiei este indisponibil",
-        "link": "https://www.mediafax.ro/economic/atac-de-tip-ransomware-la-radiocom-serviciul-de-e-mail-al-companiei-este-indisponibil-23828015"
-      }
-    ],
-    "published_at": 1792403553,
-    "title_hu": "Atac de tip ransomware la Radiocom. Serviciul de e-mail al companiei este indisponibil",
-    "lead_hu": "Societatea Națională de Radiocomunicații (Radiocom) investighează un incident de securitate cibernetică ce prezintă, potrivit primelor verificări, caracteristicile unui atac de tip ransomware. Servici…",
-    "content_hu": "Societatea Națională de Radiocomunicații (Radiocom) investighează un incident de securitate cibernetică ce prezintă, potrivit primelor verificări, caracteristicile unui atac de tip ransomware. Serviciul de e-mail al companiei este temporar indisponibil, însă serviciile oferite clienților funcționează în continuare, potrivit unui comunicat transmis luni.",
-    "title_ro": "Atac de tip ransomware la Radiocom. Serviciul de e-mail al companiei este indisponibil",
-    "lead_ro": "Societatea Națională de Radiocomunicații (Radiocom) investighează un incident de securitate cibernetică ce prezintă, potrivit primelor verificări, caracteristicile unui atac de tip ransomware. Servici…",
-    "content_ro": "Societatea Națională de Radiocomunicații (Radiocom) investighează un incident de securitate cibernetică ce prezintă, potrivit primelor verificări, caracteristicile unui atac de tip ransomware. Serviciul de e-mail al companiei este temporar indisponibil, însă serviciile oferite clienților funcționează în continuare, potrivit unui comunicat transmis luni."
   },
   {
     "group_id": "group_d3744b5c42",
@@ -1715,49 +2433,6 @@
     "content_ro": "După cutremurul care a zguduit, luni, zona Vrancea, șeful DSU, Raed Arafat a anunțat, la Digi24, că Inspectoratele pentru Situații de Urgență fac verificări în mai multe dintre zonele afectate. Acesta a mai precizat că nu s-au înregistrat apeluri la 112."
   },
   {
-    "group_id": "group_3c009f782d",
-    "fingerprint": "d16ddeaccbbd6c2fb03ea8a1332c5612",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/08/FotoJet-2026-08-11T175430.903-1200x675.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Prognoza ANM dă peste cap așteptările! Cum va fi vremea până în noiembrie",
-        "link": "https://www.cancan.ro/prognoza-anm-da-peste-cap-asteptarile-cum-va-fi-vremea-pana-in-noiembrie-21529355"
-      },
-      {
-        "source": "Maszol",
-        "title": "A hideg és az eső után akár 25 fokra is felmelegedhet az idő",
-        "link": "https://maszol.ro/belfold/A-hideg-es-az-eso-utan-akar-25-fokra-is-felmelegedhet-az-ido"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vreme severă în România. Ploi în mai multe regiuni și vânt puternic. Zonele unde rafalele vor ajunge la 90 km/h și va ninge – HARTĂ",
-        "link": "https://stirileprotv.ro/stiri/vremea/vreme-severa-in-romania-cod-galben-de-vant-in-moldova-si-dobrogea-rafale-de-pana-la-90-km-h-si-ninsori-la-munte.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Prognoza meteo azi, 19 octombrie 2026. . Nici toamna nu mai știe ce vrea! De la 22 de grade la ninsoare, într-o singură zi",
-        "link": "https://www.cancan.ro/prognoza-meteo-azi-19-octombrie-2026-nici-toamna-nu-mai-stie-ce-vrea-de-la-22-de-grade-la-ninsoare-intr-o-singura-zi-21531918"
-      },
-      {
-        "source": "Mediafax",
-        "title": "ANM anunță schimbări majore de temperatură în România. Cum va fi vremea în următoarele două săptămâni",
-        "link": "https://www.mediafax.ro/social/anm-anunta-schimbari-majore-de-temperatura-in-romania-cum-va-fi-vremea-in-urmatoarele-doua-saptamani-23827989"
-      }
-    ],
-    "published_at": 1792402452,
-    "title_hu": "Szél, eső és havazás Romániában október 18–20. között, majd átmeneti felmelegedés",
-    "lead_hu": "Az ANM október 18–20. között több térségben erős szelet és esőt, a magashegységben havazást jelez; Bukarestben gyenge eső és enyhén emelkedő hőmérséklet várható. Október 21–22-én átmeneti felmelegedés jöhet, majd lehűlés következhet. A hosszabb távú előrejelzések szerint az október végi és november eleji heti középhőmérsékletek többnyire az évszakos átlag alatt maradhatnak.",
-    "content_hu": "• **Október 18-án 10 órától október 20-án 2 óráig** Moldova és Dobrudzsa területén általában 45–60 km/órás széllökésekre, a Déli-Kárpátok magasabb részein pedig akár 70–90 km/órás széllökésekre figyelmeztetett az ANM.\n\n• **Esőre** Moldvában, Dobrudzsában, Muntenia és Erdély keleti felén számítanak; a csapadék mennyisége többnyire 10–20, helyenként 30–35 litert is meghaladhat négyzetméterenként.\n\n• **A 2000 méter feletti hegyvidéken** a csapadék főként havazás formájában érkezhet. A Bucsecs- és Fogarasi-havasok térségében általában 10–20 centiméteres hóréteg alakulhat ki.\n\n• **Bukarestben október 18–20. között** vasárnap 16–17, hétfőn 18–19 fokos maximumot jeleztek előre. Időnként felhős lesz az ég, és főként este, illetve éjszaka gyenge eső várható; a csapadék mennyisége vasárnap 1–3, hétfőn 2–5, helyenként 8 litert is meghaladhat négyzetméterenként.\n\n• **Sárga szintű szélriasztás** van érvényben október 18-án 21 órától október 19-én 21 óráig Moldvában és Dobrudzsa egyes részein, ahol a széllökések elérhetik az 50–70 km/órát.\n\n• **Október 19-én** jelentős hőmérséklet-különbség várható az országban: Észak-Moldvában mindössze 9, Olténiában akár 22 fokig emelkedhet a hőmérséklet.\n\n• **Október 21–22-én** átmeneti felmelegedés várható, nyugaton, északnyugaton és középen egyes helyeken 24–25 fokos csúcshőmérséklettel; október 22-én az ország nagy részén 17–23 fok lehet. Nyugaton növekszik az eső esélye.\n\n• **Október 23-tól** enyhe lehűlés kezdődhet: október 23–24-én több térségben 15–20 fokos maximumok várhatók, és elszórtan eső is előfordulhat. A magashegységben a csapadék havas esőbe vagy havazásba válthat.\n\n• **Október 21–27. között** az ANM kéthetes előrejelzése szerint több térségben nő a csapadék valószínűsége; helyenként jelentősebb mennyiség is hullhat. Ezután a csapadék esélye és mennyisége térségenként változhat.\n\n• **Az október 12. és november 9. közötti heti előrejelzésben** az ANM október 19-ig az ország nagy részén az átlagosnál alacsonyabb hőmérsékleteket jelzett, a nyugati térségekben erősebb eltéréssel. Október 19. és november 2. között szintén enyhén átlag alatti heti hőmérsékleti értékekre számítottak; a csapadék október 12–19. között délkeleten átlag feletti, másutt átlag alatti, később többnyire az átlaghoz közeli lehet.",
-    "title_ro": "Vânt, ploi și ninsori în România între 18 și 20 octombrie, urmate de o încălzire temporară",
-    "lead_ro": "ANM anunță vânt puternic și ploi în mai multe regiuni între 18 și 20 octombrie, iar la munte sunt așteptate ninsori; în București, temperaturile vor crește ușor și va ploua slab. În 21–22 octombrie este prognozată o încălzire temporară, urmată de o răcire. Estimările săptămânale pe termen mai lung indică temperaturi medii, în general, sub normalul perioadei la sfârșitul lui octombrie și începutul lui noiembrie.",
-    "content_ro": "• **Din 18 octombrie, ora 10:00, până în 20 octombrie, ora 02:00**, ANM a prognozat rafale de 45–60 km/h în Moldova și Dobrogea, iar la altitudini mari în Carpații Meridionali, de până la 70–90 km/h.\n\n• **Ploi** sunt așteptate în Moldova, Dobrogea și în jumătatea de est a Munteniei și Transilvaniei; cantitățile vor fi în general de 10–20 l/mp și, izolat, pot depăși 30–35 l/mp.\n\n• **La altitudini de peste 2.000 de metri**, precipitațiile vor fi predominant sub formă de ninsoare. În zona masivelor Bucegi și Făgăraș se poate depune, în general, un strat de zăpadă de 10–20 cm.\n\n• **În București, între 18 și 20 octombrie**, maximele prognozate sunt de 16–17 grade duminică și 18–19 grade luni. Cerul va avea înnorări temporare și va ploua slab, mai ales seara și noaptea; cantitățile estimate sunt de 1–3 l/mp duminică și 2–5 l/mp luni, izolat peste 8 l/mp.\n\n• **Atenționarea Cod galben de vânt** este valabilă în Moldova și local în Dobrogea din 18 octombrie, ora 21:00, până în 19 octombrie, ora 21:00; rafalele pot atinge 50–70 km/h.\n\n• **Pe 19 octombrie**, sunt prognozate diferențe mari de temperatură între regiuni: maxime de numai 9 grade în nordul Moldovei și de până la 22 de grade în Oltenia.\n\n• **În 21–22 octombrie** este așteptată o încălzire temporară, cu maxime de 24–25 de grade în unele zone din vest, nord-vest și centru; pe 22 octombrie, în mare parte din țară vor fi 17–23 de grade. În vest crește probabilitatea de ploaie.\n\n• **Din 23 octombrie** poate începe o răcire ușoară: în 23–24 octombrie sunt prognozate maxime de 15–20 de grade în mai multe regiuni, cu ploi pe alocuri. La munte, precipitațiile pot deveni lapoviță sau ninsoare.\n\n• **În perioada 21–27 octombrie**, estimarea ANM pentru următoarele două săptămâni indică o probabilitate mai mare de precipitații în mai multe regiuni; local, cantitățile pot fi însemnate. Ulterior, probabilitatea și cantitățile de precipitații pot varia de la o regiune la alta.\n\n• **În prognoza săptămânală pentru 12 octombrie–9 noiembrie**, ANM a estimat temperaturi medii sub valorile normale în cea mai mare parte a țării până pe 19 octombrie, cu abateri mai pronunțate în vest. Între 19 octombrie și 2 noiembrie, mediile săptămânale ar urma să rămână ușor sub normal; precipitațiile ar putea fi peste normal în sud-est și sub normal în celelalte regiuni în prima săptămână, apoi, în general, apropiate de valori normale."
-  },
-  {
     "group_id": "group_69c08feb60",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2025/01/ID288565_INQUAM_Photos_George_Calin.jpg",
@@ -1922,49 +2597,6 @@
     "title_ro": "Florin Barbu promite patru măsuri în agricultură în primele 100 de zile",
     "lead_ro": "Florin Barbu, propus pentru un nou mandat de ministru al Agriculturii, s-a angajat la audierea parlamentară să implementeze în 100 de zile primele patru măsuri din programul de guvernare. El a declarat că va demisiona dacă nu își îndeplinește angajamentul.",
     "content_ro": "• **Florin Barbu** s-a angajat în fața parlamentarilor să implementeze, în primele 100 de zile de mandat, primele patru măsuri din programul de guvernare pentru agricultură.\n\n• **Dacă nu își respectă angajamentul**, Barbu a spus că își va da demisia din funcția de ministru al Agriculturii.\n\n• **Barbu a fost propus de PSD** pentru un nou mandat la conducerea Ministerului Agriculturii și Dezvoltării Rurale, în guvernul condus de Luca Niculescu; el a mai ocupat această funcție.\n\n• **La audiere, parlamentarii l-au întrebat** despre schemele de sprijin pentru fermieri și despre aspecte controversate din activitatea sa anterioară."
-  },
-  {
-    "group_id": "group_7828f76de9",
-    "fingerprint": "c121a2411dcbe6290a32dfa941c73721",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "„PNL nu este egal PSD”. Bolojan explică de ce liberalii votează Guvernul Niculescu, dar trec în opoziție (VIDEO)",
-        "link": "https://www.ebihoreanul.ro/stiri/pnl-nu-este-egal-psd-bolojan-explica-de-ce-liberalii-voteaza-guvernul-niculescu-dar-trec-in-opozitie-video-205902.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ilie Bolojan recunoaște că votul pentru Guvernul Niculescu poate aduce pierderi PNL: „Am luat decizia corectă pentru această țară”",
-        "link": "https://www.mediafax.ro/politic/ilie-bolojan-recunoaste-ca-votul-pentru-guvernul-niculescu-poate-aduce-pierderi-pnl-am-luat-decizia-corecta-pentru-aceasta-tara-23827696"
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Nu mergi la război cu o armată de mercenari”. Daniel Fenechiu, despre liberalii care ar putea pleca din PNL",
-        "link": "https://www.mediafax.ro/politic/nu-mergi-la-razboi-cu-o-armata-de-mercenari-daniel-fenechiu-despre-liberalii-care-ar-putea-pleca-din-pnl-23827913"
-      },
-      {
-        "source": "Digi24",
-        "title": "Acordul politic dintre Ilie Bolojan și Luca Niculescu. PNL promite să nu dea jos guvernul până în martie, dar cu unele condiții (surse)",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/acordul-politic-dintre-ilie-bolojan-si-luca-niculescu-pnl-promite-sa-nu-dea-jos-guvernul-pana-in-martie-dar-cu-unele-conditii-surse-3998387"
-      },
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Decizie în unanimitate a PNL Satu Mare care va înfuria PSD. Un vot care afectează direct formarea Guvernului",
-        "link": "https://www.presasm.ro/decizie-in-unanimitate-a-pnl-satu-mare-care-va-infuria-psd-un-vot-care-afecteaza-direct-formarea/53839"
-      }
-    ],
-    "published_at": 1792402048,
-    "title_hu": "A PNL feltételesen megszavazza a Niculescu-kormányt, és ellenzékbe vonul",
-    "lead_hu": "A PNL vezetése úgy döntött, hogy a liberálisok támogatják Luca Niculescu kormányának beiktatását, de a párt ellenzékben marad, politikai tisztségviselői pedig távoznak. Ilie Bolojan vasárnap aláírta a kijelölt miniszterelnökkel a feltételes megállapodást: a PNL a deficitcélok, a költségvetési fegyelem és a beruházások védelméhez köti támogatását, és vállalásai megszegése esetén fenntartja a bizalmatlansági indítvány lehetőségét.",
-    "content_hu": "• **A PNL szombati döntése** alapján a liberális parlamenti képviselők megszavazzák Luca Niculescu kormányának beiktatását, a párt pedig ellenzékbe vonul. A vezetőség 6 ellenszavazattal és 1 tartózkodással fogadta el a javaslatot; a vita feszült volt, több megyei szervezet és politikus ellenezte a kabinet támogatását.\n\n• **Bolojan és Niculescu vasárnap aláírta a megállapodást.** A dokumentum nem koalíciós szerződés, nem jelent feltétel nélküli politikai támogatást, és nem hagyja jóvá a kormány összetételét. Bolojan a szavazatot a politikai válság lezárását szolgáló, feltételes és célhoz kötött „szükségszavazatként” írta le.\n\n• **A megállapodás deficitcélja** szerint Románia 2027-es költségvetési hiánya legfeljebb a GDP 5,3 százaléka lehet. A PNL a 2027-es költségvetést akkor támogatja, ha az reális, beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tervez fedezet nélküli kiadásokat.\n\n• **A bizalmatlansági indítványokra vonatkozó vállalás** a megállapodás szerint 2027. március 1-jéig érvényes: a PNL addig nem kezdeményez és nem támogat ilyen indítványt, kivéve, ha a kormány megszegi az egyezség vállalásait vagy a jó kormányzás alapelveit. A liberálisok egyszerű indítványokkal továbbra is bírálhatják a minisztereket; az egyezség a 2027-es költségvetés elfogadásához kötött átmeneti időszakra szól.\n\n• **A megállapodás további elemei** között szerepel a költségvetési kiigazítás és a 2027-es büdzsé felelős előkészítése, a PNL ellenzéki státuszának tiszteletben tartása, valamint a NATO- és uniós vállalásokból következő, védelmi képességeket erősítő kormányzati kezdeményezések parlamenti támogatása.\n\n• **Bolojan a teljes jogkörű kormány szükségességét** a közszolgáltatások finanszírozásával indokolta: az ügyvivő kabinet nem tud költségvetési kiigazítást elrendelni, miközben egyes sürgősségi osztályok, a mentők és a katasztrófavédelem forrásai kiegészítésre szorulnak. A Floreasca kórház sürgősségi osztályának 2026-os induló előirányzata 5 millió lej alatt maradt a 2025-ös, 10 millió lej fölötti összeghez képest; Marosvásárhelyen 8 millióról 4 millió lej alá csökkent a keret. Bolojan az üzemanyagárak 20–30 százalékos emelkedésére is figyelmeztetett.\n\n• **Bolojan további költségvetési kockázatként** említette, hogy a közlekedési tárca PNRR-projektjeire 19,5 milliárd euró értékben kötöttek szerződéseket, miközben a végleges keret 4,6 milliárd euró; a megkezdett munkák folytatásához szerinte további források kellenek. Azt is állította, hogy az aszály miatt a cernavodai erőmű a romániai energiatermelés mintegy 20 százalékát nem tudta biztosítani.\n\n• **Bolojan elismerte a döntés politikai kockázatát,** és azt mondta, hogy pusztán pártpolitikai számítás alapján a PNL nem szavazná meg a kabinetet, továbbá nincsenek nagy elvárásai a kormánytól. Szerinte azonban az elhúzódó válság veszélyeztetné a közszolgáltatásokat, növelné az állami hitelfelvétel költségeit, és a PNL-nek az ország működőképességét kell előbbre helyeznie a párt érdekeinél. A PSD-t nevezte a leendő kormány legnagyobb kockázatának.\n\n• **A PNL politikai támogatással betöltött tisztségviselői távoznak:** Bolojan bejelentése szerint a következő hét elején lemondanak az ilyen pozíciókból. Ez nem vonatkozik a versenyvizsgával vagy más törvényes eljárással megszerzett állásokra. Alin Tișe erre azt követelte, hogy Bolojan és a pártvezetés mondjon le, illetve „vagy mindenki távozzon, vagy senki”.\n\n• **A párton belüli ellenállás a döntés után is látható maradt.** A PNL Iași és a PNL Satu Mare megyei szervezete egyhangúlag ellenezte a kabinet beiktatását; Vrancea politikusai és több más liberális is bírálta a PSD meghatározó szerepét, illetve a miniszterjelölteket. Daniel Fenechiu szenátusi frakcióvezető ezzel szemben Bolojan széles párton belüli támogatásáról beszélt, és 2027 tavaszára kongresszust valószínűsített.\n\n• **Az USR ellenzi a kormány beiktatását.** Dominic Fritz szerint nem világos, milyen parlamenti többség állna a kabinet mögött, és kifogásolta a PSD-s miniszterek részvételét. Azt mondta, a PNL és az USR eltérően viszonyul a kormányhoz, de együttműködhetnek egy PSD és AUR nélküli politikai alternatíva kialakításán.\n\n• **A parlamenti menetrend szerint** a miniszterjelöltek meghallgatása hétfőn és kedden, a kormány beiktatási szavazása pedig október 20-án, kedden 14 órakor esedékes.",
-    "title_ro": "PNL votează condiționat Guvernul Niculescu și trece în opoziție",
-    "lead_ro": "Conducerea PNL a decis ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, fără ca partidul să intre la guvernare. Ilie Bolojan a semnat duminică acordul condiționat cu premierul desemnat: sprijinul liberalilor depinde de respectarea țintelor de deficit, a disciplinei bugetare și a investițiilor, iar încălcarea angajamentelor poate duce la o moțiune de cenzură.",
-    "content_ro": "• **Decizia PNL de sâmbătă** prevede votul liberalilor pentru învestirea Guvernului Luca Niculescu și trecerea partidului în opoziție. Conducerea a aprobat propunerea cu 6 voturi împotrivă și o abținere; dezbaterile au fost tensionate, iar mai multe filiale și persoane din partid s-au opus susținerii Cabinetului.\n\n• **Bolojan și Niculescu au semnat acordul duminică.** Documentul nu este un acord de coaliție, nu înseamnă susținere politică necondiționată și nu validează componența Guvernului. Bolojan a descris votul drept unul „de necesitate”, condiționat și limitat la obiectivul depășirii crizei politice.\n\n• **Ținta de deficit din acord** prevede un deficit bugetar de cel mult 5,3% din PIB în 2027. PNL este pregătit să susțină bugetul pentru 2027 dacă acesta este realist, bazat pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și evită cheltuielile fără acoperire.\n\n• **Angajamentul privind moțiunile de cenzură** este valabil, potrivit acordului, până la 1 martie 2027: PNL nu va iniția și nu va vota o astfel de moțiune, cu excepția cazului în care Guvernul încalcă prevederile acordului sau principiile bunei guvernări. Liberalii își păstrează dreptul de a critica miniștrii prin moțiuni simple; acordul vizează o perioadă de tranziție până la adoptarea bugetului pe 2027.\n\n• **Acordul mai prevede** sprijin pentru rectificarea bugetară și pregătirea responsabilă a bugetului pe 2027, respectarea statutului PNL de partid de opoziție și susținerea în Parlament a inițiativelor guvernamentale care consolidează apărarea României în acord cu angajamentele NATO și UE.\n\n• **Bolojan a justificat necesitatea unui guvern cu puteri depline** prin finanțarea serviciilor publice: Cabinetul interimar nu poate adopta o rectificare bugetară, în timp ce unele unități de primiri urgențe, serviciile de ambulanță și inspectoratele pentru situații de urgență au nevoie de fonduri suplimentare. Alocarea inițială pentru UPU Floreasca a fost sub 5 milioane de lei în 2026, față de peste 10 milioane în 2025; la Târgu Mureș, suma a scăzut de la 8 milioane la sub 4 milioane de lei. Bolojan a avertizat și că prețurile la combustibili au crescut cu 20–30%.\n\n• **Bolojan a indicat și alte riscuri bugetare:** pentru proiectele PNRR ale Ministerului Transporturilor au fost semnate contracte de 19,5 miliarde de euro, în condițiile unei alocări finale de 4,6 miliarde; în opinia sa, continuarea lucrărilor începute necesită finanțare suplimentară. El a afirmat și că seceta a împiedicat centrala de la Cernavodă să asigure aproximativ 20% din producția de energie a României.\n\n• **Bolojan a recunoscut riscul politic al deciziei** și a spus că, strict din perspectiva interesului de partid, PNL nu ar vota Cabinetul și că nu are așteptări mari de la acesta. El a argumentat însă că prelungirea crizei ar pune în pericol serviciile publice, ar crește costurile împrumuturilor statului și că PNL trebuie să pună funcționarea țării înaintea intereselor partidului. PSD, a spus el, este cel mai mare pericol pentru viitorul Guvern.\n\n• **Demnitarii susținuți politic de PNL urmează să demisioneze** din funcțiile respective la începutul săptămânii următoare, a anunțat Bolojan. Măsura nu vizează posturile obținute prin concurs sau prin alte proceduri legale. Alin Tișe a cerut, în replică, demisia lui Bolojan și a conducerii PNL, susținând că „ori pleacă toți, ori niciunul”.\n\n• **Opoziția internă din PNL a rămas vizibilă.** Organizațiile județene Iași și Satu Mare s-au pronunțat în unanimitate împotriva învestirii; politicieni din Vrancea și alți liberali au criticat rolul PSD și nominalizările de miniștri. În schimb, liderul senatorilor PNL, Daniel Fenechiu, a vorbit despre sprijinul larg de care se bucură Bolojan și a estimat că un congres al partidului ar putea avea loc în primăvara lui 2027.\n\n• **USR se opune învestirii Guvernului.** Dominic Fritz a spus că nu este clară majoritatea parlamentară pe care s-ar baza Cabinetul și a criticat participarea miniștrilor PSD. El a afirmat că PNL și USR au abordări diferite, dar pot colabora pentru construirea unei alternative politice fără PSD și AUR.\n\n• **Calendarul parlamentar** prevede audierea miniștrilor propuși luni și marți, iar votul de învestitură este programat marți, 20 octombrie, la ora 14:00."
   },
   {
     "group_id": "group_8ea50c2040",
@@ -2497,80 +3129,6 @@
     "title_ro": "Au fost decernate premiile din acest an ale revistei Székelyföld",
     "lead_ro": "Patru creatori au fost distinși la ceremonia de decernare a premiilor revistei Székelyföld, desfășurată pe 16 octombrie la Miercurea Ciuc. Evenimentul a ajuns la cea de-a 29-a ediție.",
     "content_ro": "• **Pe 16 octombrie, la Miercurea Ciuc**, a avut loc cea de-a 29-a ceremonie de decernare a premiilor revistei Székelyföld.\n\n• **Istoricul militar Csikány Tamás și poetul Dimény H. Árpád** au primit premiile Székelyföld din acest an.\n\n• **Scriitorul Szakonyi Károly** a fost distins cu premiul Székely Bicskarend, acordat scriitorilor legați de Ținutul Secuiesc și de revistă.\n\n• **Poetul Szélyes-Pál Dániel** a primit premiul memorial Szabó Gyula, destinat tinerilor aflați la început de drum."
-  },
-  {
-    "group_id": "group_c2ce22e812",
-    "fingerprint": "84d35ce2f58cf89f828e04afd7259608",
-    "category": "Általános",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Franța/Protestele elevilor: 480.000 de persoane au manifestat marți în țară",
-        "link": "https://agerpres.ro/politic-extern/2026/10/13/franta-protestele-elevilor-480-000-de-persoane-au-manifestat-marti-in-tara--1602644"
-      },
-      {
-        "source": "Digi24",
-        "title": "Haos și tensiune maximă: peste 100.000 de mii de oameni, așteptați în stradă, într-o zi a protestelor în Franța",
-        "link": "https://www.digi24.ro/stiri/externe/haos-si-tensiune-maxima-peste-100-000-de-mii-de-oameni-asteptati-in-strada-intr-o-zi-a-protestelor-in-franta-3996655"
-      },
-      {
-        "source": "G4Media",
-        "title": "Protestele din Franţa se extind şi în Belgia. Violențe la Bruxelles și Liege",
-        "link": "https://www.g4media.ro/protestele-din-franta-se-extind-si-in-belgia-violente-la-bruxelles-si-liege.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Imagini cu Franța sub asediul violențelor: Peste 1.200 de oameni arestați, jafuri și clădiri istorice cuprinse de flăcări în urma protestelor",
-        "link": "https://hotnews.ro/imagini-cu-franta-sub-asediul-violentelor-peste-1-200-de-oameni-arestati-jafuri-si-cladiri-istorice-cuprinse-de-flacari-in-urma-protestelor-2378935"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Protestele uriaşe din Franţa au degenerat. 800.000 de oameni au ieşit în stradă. La Paris, amploarea distrugerilor este considerabilă, după ce străzi întregi au fost devastate. 1.200 de persoane au fost arestate şi 150 de poliţişti au fost răniţi",
-        "link": "https://www.zf.ro/eveniment/protestele-uriase-franta-au-degenerat-800-000-oameni-au-iesit-strada-paris-amploarea-distrugerilor-considerabila-dupa-strazi-intregi-au-devastate-1-200-persoane-au-arestate-150-politisti-au-raniti-23262114"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Mobilizare împotriva costului vieții în Franța: Peste 1800 de arestări, anunță ministrul de interne",
-        "link": "https://agerpres.ro/social-extern/2026/10/18/mobilizare-impotriva-costului-vietii-in-franta-peste-1800-de-arestari-anunta-ministrul-de-interne--1604196"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Franța: Record de 855 de arestări la Paris pe fondul protestelor privind condițiile din școli și costul vieții",
-        "link": "https://agerpres.ro/social-extern/2026/10/18/franta-record-de-855-de-arestari-la-paris-pe-fondul-protestelor-privind-conditiile-din-scoli-si-cost--1604163"
-      }
-    ],
-    "published_at": 1792400400,
-    "title_hu": "Több százezren tüntettek Franciaországban a megélhetési költségek és az iskolai körülmények miatt",
-    "lead_hu": "Október 17-én diákok, szakszervezeti tagok és a Sárgamellényesek mozgalom támogatói vonultak utcára Franciaország-szerte, a megélhetési költségek emelkedése, az oktatás helyzete és a közszolgáltatások állapota miatt. A demonstrációk több helyen erőszakba torkolltak: a hatóságok több mint 1800 őrizetbe vételről és több mint 500 sérült rendőrről, csendőrről és tűzoltóról számoltak be. A károk mintegy 1500 kereskedőt érintettek, a veszteségek pedig elérhetik a több százmillió eurót.",
-    "content_hu": "• **Október 17-én** országos tiltakozást tartottak Franciaországban. A megmozduláshoz középiskolások, egyetemisták, szakszervezetek és a Sárgamellényesek mozgalom támogatói csatlakoztak; a résztvevők az emelkedő megélhetési költségek, az iskolák körülményei és a közszolgáltatások helyzete ellen tiltakoztak.\n\n• **A részvételről eltérő becslések jelentek meg:** a belügyminiszter mintegy 550 ezer résztvevőről számolt be, míg a szervezők becslése körülbelül 800 ezer fő volt. Párizsban nagyjából 110 ezren vonultak utcára a hatóságok adatai szerint.\n\n• **A demonstrációk több városban erőszakba torkolltak.** Párizsban, Marseille-ben, Lille-ben, Bordeaux-ban és más településeken összecsapások, rongálások és fosztogatások történtek; a rendőrség könnygázt és vízágyút is bevetett. Limoges-ban súlyosan megrongálódott a városháza történelmi épületrésze, Lyonban pedig felgyújtották a turisztikai irodát.\n\n• **A hatóságok vasárnapi közlése szerint több mint 1800 embert vettek őrizetbe országszerte**, Párizsban pedig 855 letartóztatásról számoltak be. Laurent Nuñez belügyminiszter szerint a zavargásokban több mint 500 rendőr, csendőr és tűzoltó sérült meg; az adatok még változhatnak.\n\n• **A károk jelentős része a kereskedőket érte:** a Francia Kereskedelmi és Elosztási Szövetség szerint mintegy 1500 üzletet érintettek a zavargások, a veszteségek pedig több százmillió euróra rúghatnak. A hatóságok videófelvételek alapján további gyanúsítottak azonosítását és felelősségre vonását ígérték.\n\n• **A tiltakozásokhoz kapcsolódóan egy tüntető meghalt Párizsban:** a rendőrség közlése szerint szívleállást kapott, és halála nem a zavargások közvetlen következménye volt. Egy másik demonstráló súlyos sérülést szenvedett: egy tömegoszlató gránát miatt elveszítette a kezét.\n\n• **A kormány elítélte az erőszakot, és felelősségre vonást ígért.** Emmanuel Macron vasárnap televíziós beszédben szólt a nemzethez, elítélte a rombolást, és a fiatalok megélhetési, tanulási és jövővel kapcsolatos aggodalmainak kezelését ígérte. A kormány válságstábot állított fel, és segítséget helyezett kilátásba a károkat elszenvedő kereskedőknek.\n\n• **A tiltakozások Belgiumra is átterjedtek:** Brüsszelben és Liège-ben több százan tüntettek a megélhetési költségek emelkedése ellen. A rendőrség könnygázt és vízágyút vetett be, Brüsszelben pedig mintegy tíz embert vettek őrizetbe.\n\n• **Vasárnap újabb összecsapások történtek Párizsban:** a Place de la République téren engedély nélküli gyülekezés alakult ki, a résztvevők kövekkel és üvegekkel dobálták a rendőröket, akik könnygázzal és villanógránátokkal oszlatták a tömeget.\n\n• **A zavargások a pénzpiacokon is aggodalmat keltettek:** hétfő reggel a párizsi CAC 40 index 1,02 százalékkal esett, miközben a STOXX 600 0,39, a madridi IBEX pedig 0,9 százalékot veszített értékéből.",
-    "title_ro": "Sute de mii de persoane au protestat în Franța față de costul vieții și condițiile din școli",
-    "lead_ro": "Pe 17 octombrie, elevi, membri ai sindicatelor și susținători ai mișcării „Vestele Galbene” au protestat în toată Franța împotriva creșterii costului vieții, a situației din școli și a stării serviciilor publice. Manifestațiile au degenerat în violențe în mai multe orașe: autoritățile au anunțat peste 1.800 de rețineri și peste 500 de polițiști, jandarmi și pompieri răniți. Pagubele au afectat aproximativ 1.500 de comercianți și s-ar putea ridica la sute de milioane de euro.",
-    "content_ro": "• **La 17 octombrie**, în Franța a avut loc o mobilizare națională. La proteste au participat liceeni, studenți, sindicate și susținători ai mișcării „Vestele Galbene”, nemulțumiți de creșterea costului vieții, condițiile din școli și situația serviciilor publice.\n\n• **Estimările privind participarea au fost diferite:** ministrul de interne a anunțat aproximativ 550.000 de participanți, în timp ce organizatorii au estimat circa 800.000. Potrivit autorităților, aproximativ 110.000 de persoane au manifestat la Paris.\n\n• **Manifestațiile au degenerat în violențe în mai multe orașe.** La Paris, Marsilia, Lille, Bordeaux și în alte localități au avut loc confruntări, distrugeri și jafuri; poliția a folosit gaze lacrimogene și tunuri cu apă. La Limoges, partea istorică a primăriei a fost grav avariată, iar la Lyon a fost incendiat un birou de turism.\n\n• **Potrivit bilanțului anunțat duminică de autorități, peste 1.800 de persoane au fost reținute în întreaga țară**, iar la Paris au fost raportate 855 de arestări. Ministrul de interne Laurent Nuñez a declarat că peste 500 de polițiști, jandarmi și pompieri au fost răniți; cifrele sunt provizorii.\n\n• **Pagubele au afectat în mod deosebit comercianții:** Federația Comerțului și Distribuției din Franța a estimat că aproximativ 1.500 de magazine au fost vizate, iar pierderile s-ar putea ridica la sute de milioane de euro. Autoritățile au promis identificarea și tragerea la răspundere a suspecților, inclusiv pe baza înregistrărilor video.\n\n• **Un protestatar a murit la Paris în timpul manifestațiilor:** potrivit poliției, acesta a suferit un stop cardiac, iar decesul nu a fost provocat direct de violențe. Un alt manifestant a fost grav rănit, pierzându-și mâna în urma exploziei unei grenade de dispersare a mulțimii.\n\n• **Guvernul a condamnat violențele și a promis măsuri.** Emmanuel Macron s-a adresat națiunii duminică, condamnând distrugerile și afirmând că îngrijorările tinerilor privind puterea de cumpărare, condițiile de studiu și viitorul lor trebuie luate în considerare. Guvernul a format o celulă de criză și a anunțat sprijin pentru comercianții afectați.\n\n• **Protestele s-au extins și în Belgia:** câteva sute de persoane au manifestat la Bruxelles și Liège împotriva creșterii costului vieții. Poliția a folosit gaze lacrimogene și tunuri cu apă, iar la Bruxelles aproximativ zece persoane au fost arestate.\n\n• **Duminică au avut loc noi confruntări la Paris:** în Place de la République s-a format o adunare neautorizată, iar participanții au aruncat cu pietre și sticle spre forțele de ordine. Poliția a intervenit cu gaze lacrimogene și grenade flash pentru a dispersa mulțimea.\n\n• **Violențele au alimentat îngrijorările investitorilor:** luni dimineață, indicele CAC 40 al Bursei de la Paris a scăzut cu 1,02%, în timp ce STOXX 600 a pierdut 0,39%, iar indicele IBEX de la Madrid, 0,9%."
-  },
-  {
-    "group_id": "group_e3a7304932",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22466/23263001/1/statia-de-reciclare-noiembrie-2025-6.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Construcţii Erbaşu atrage 61 mil. lei de la BRD pentru dezvoltarea unei fabrici de reciclare în Ilfov",
-        "link": "https://www.zf.ro/banci-si-asigurari/constructii-erbasu-atrage-61-mil-lei-de-la-brd-pentru-dezvoltarea-unei-fabrici-de-reciclare-in-ilfov-23263001"
-      }
-    ],
-    "published_at": 1792400175,
-    "title_hu": "Construcţii Erbaşu atrage 61 mil. lei de la BRD pentru dezvoltarea unei fabrici de reciclare în Ilfov",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Construcţii Erbaşu atrage 61 mil. lei de la BRD pentru dezvoltarea unei fabrici de reciclare în Ilfov",
-    "lead_ro": "",
-    "content_ro": ""
   },
   {
     "group_id": "group_6110c8737d",
@@ -4579,59 +5137,6 @@
     "content_ro": "Europarlamentarul liberal Siegfried Mureșan critică promisiunile PSD privind creșterea pensiilor și salariilor, reducerea taxelor și a prețurilor, afirmând că așteptările PNL de la viitorul Guvern sunt minime. Cu toate acestea, liberalul recunoaște că România are nevoie de un Executiv."
   },
   {
-    "group_id": "group_d31e447dff",
-    "fingerprint": "3b7ddb6635cac37ba26585c6cbe98ef9",
-    "category": "Politika",
-    "image": "https://via.placeholder.com/600x400?text=Nincs+Kep",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Kelemen Hunor anunță cum se va poziționa UDMR la votul pe guvern: „Indiferent dacă este unul tehnocrat sau format în jurul PSD”",
-        "link": "https://hotnews.ro/kelemen-hunor-anunta-cum-se-va-pozitiona-udmr-la-votul-pe-guvern-indiferent-daca-este-unul-tehnocrat-sau-format-in-jurul-psd-2375003"
-      },
-      {
-        "source": "Maszol",
-        "title": "Kelemen Hunor: az RMDSZ megszavazza a Niculescu-kormányt",
-        "link": "https://maszol.ro/belfold/Kelemen-Hunor-az-RMDSZ-megszavazza-a-Niculescu-kormanyt"
-      },
-      {
-        "source": "G4Media",
-        "title": "Kelemen Hunor anunță că UDMR va vota guvernul Niculescu, indiferent dacă este unul tehnocrat sau format în jurul PSD: Vom semna și un acord de susținere",
-        "link": "https://www.g4media.ro/kelemen-hunor-anunta-ca-udmr-va-vota-guvernul-niculescu-indiferent-daca-este-unul-tehnocrat-sau-format-in-jurul-psd-vom-semna-si-un-acord-de-sustinere.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Anunțul UDMR privind susținerea guvernului Luca Niculescu. „Să punem capăt acestui blocaj politic distructiv”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/anuntul-udmr-privind-sustinerea-guvernului-luca-niculescu-sa-punem-capat-acestui-blocaj-politic-distructiv-3990587"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Kelemen Hunor: UDMR va vota guvernul Niculescu, indiferent dacă este tehnocrat sau în jurul PSD",
-        "link": "https://agerpres.ro/politic/2026/10/13/kelemen-hunor-udmr-va-vota-guvernul-niculescu-indiferent-daca-este-tehnocrat-sau-in-jurul-psd--1602667"
-      },
-      {
-        "source": "Adevărul",
-        "title": "UDMR anunță că va vota Guvernul condus de Luca Niculescu, indiferent de formula politică. Ce condiții pune Kelemen Hunor",
-        "link": "https://adevarul.ro/politica/udmr-anunta-ca-va-vota-guvernul-condus-de-luca-2563813.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Kelemen Hunor: UDMR va vota guvernul Niculescu, indiferent dacă este tehnocrat sau în jurul PSD",
-        "link": "https://stirileprotv.ro/stiri/politic/kelemen-hunor-udmr-va-vota-guvernul-niculescu-indiferent-daca-este-tehnocrat-sau-in-jurul-psd.html"
-      }
-    ],
-    "published_at": 1792395746,
-    "title_hu": "Az RMDSZ megszavazza Luca Niculescu kormányát",
-    "lead_hu": "Kelemen Hunor bejelentette, hogy az RMDSZ támogatja a Luca Niculescu kijelölt miniszterelnök által a parlament elé terjesztett kormányt és kormányprogramot, függetlenül attól, hogy technokrata kabinet alakul-e, vagy a PSD köré szerveződik a kormány. A párt kész támogatási megállapodást is kötni, ha Niculescu egyeztetést kér a kiemelt kormányzati ügyekről.",
-    "content_hu": "• **Kelemen Hunor bejelentése szerint** az RMDSZ megszavazza a Luca Niculescu által a parlament elé terjesztett kormányt és kormányprogramot, akár technokrata kabinet, akár a PSD köré szerveződő kormány jön létre.\n\n• **A támogatás feltételeiről** Kelemen azt mondta, az RMDSZ kész megállapodást kötni Niculescuval, ha a kijelölt miniszterelnök igényt tart a támogatásukra és érdemben egyeztet velük.\n\n• **A megállapodás lehetséges témái** között szerepel a költségvetés kiigazítása, a bérezési törvény, a jövő évi költségvetés, valamint a gazdaság újraindítását, a pénzügyi stabilitást és a rászorulók támogatását szolgáló intézkedések.\n\n• **Az RMDSZ indoklása szerint** több mint öt hónapon át tárgyaltak a politikai szereplőkkel, és különböző megoldásokat, illetve kompromisszumokat kerestek a politikai patthelyzet feloldására.\n\n• **Kelemen Hunor célként jelölte meg**, hogy a politikai válság mielőbb véget érjen, és Romániának akár már pénteken, de legkésőbb hétfőn teljes jogkörű kormánya legyen.",
-    "title_ro": "UDMR va vota Guvernul condus de Luca Niculescu",
-    "lead_ro": "Kelemen Hunor a anunțat că UDMR va vota Guvernul și programul de guvernare prezentate Parlamentului de premierul desemnat Luca Niculescu, indiferent dacă executivul va fi tehnocrat sau format în jurul PSD. Formațiunea este pregătită să încheie și un acord de susținere, dacă Niculescu va cere sprijinul și va discuta cu UDMR proiectele prioritare.",
-    "content_ro": "• **Potrivit anunțului lui Kelemen Hunor**, UDMR va vota Guvernul și programul de guvernare prezentate Parlamentului de Luca Niculescu, indiferent dacă va fi un cabinet tehnocrat sau unul format în jurul PSD.\n\n• **În privința condițiilor de susținere**, Kelemen a declarat că UDMR este pregătită să încheie un acord cu Niculescu, dacă premierul desemnat va solicita sprijinul formațiunii și va purta discuții concrete cu aceasta.\n\n• **Printre subiectele posibile ale acordului** se numără rectificarea bugetară, legea salarizării, bugetul pentru anul viitor și măsuri pentru relansarea economică, stabilitatea fiscală și sprijinirea persoanelor vulnerabile.\n\n• **UDMR și-a justificat poziția** prin faptul că a discutat timp de peste cinci luni cu actorii politici și a căutat variante de compromis pentru depășirea blocajului politic.\n\n• **Kelemen Hunor a indicat drept obiectiv** încheierea cât mai rapidă a crizei și instalarea unui guvern cu puteri depline, posibil chiar vineri sau cel târziu luni."
-  },
-  {
     "group_id": "group_663980a226",
     "category": "Általános",
     "image": "https://maszol.ro/resized/2026_oktober/19/cikk_Mvhely_polg_hivatal.jpg",
@@ -4651,27 +5156,6 @@
     "title_ro": "Átmenetileg leállítják az új beszerzések egy részét Marosvásárhelyen",
     "lead_ro": "Az önkormányzatnak 30 millió lejt kellett saját forrásból előteremtenie a szociális ellátások és a tömegközlekedés működtetésére.",
     "content_ro": "Az önkormányzatnak 30 millió lejt kellett saját forrásból előteremtenie a szociális ellátások és a tömegközlekedés működtetésére."
-  },
-  {
-    "group_id": "group_2dac14d3da",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "SelfPay devine instituție de plată autorizată de Banca Națională a României și intră într-o nouă etapă de dezvoltare",
-        "link": "https://hotnews.ro/selfpay-devine-institutie-de-plata-autorizata-de-banca-nationala-a-romaniei-si-intra-intr-o-noua-etapa-de-dezvoltare-2379655"
-      }
-    ],
-    "published_at": 1792395690,
-    "title_hu": "SelfPay devine instituție de plată autorizată de Banca Națională a României și intră într-o nouă etapă de dezvoltare",
-    "lead_hu": "Obținerea autorizației BNR coincide cu aniversarea a 17 ani de activitate SelfPay și marchează un moment strategic în evoluția companiei, deschizând noi perspective pentru diversificarea serviciilor d…",
-    "content_hu": "Obținerea autorizației BNR coincide cu aniversarea a 17 ani de activitate SelfPay și marchează un moment strategic în evoluția companiei, deschizând noi perspective pentru diversificarea serviciilor de plată și dezvoltarea activității în industria financiară. SelfPay, liderul pieței de Stații de Plată self-service din România și unul dintre principalii furnizori de soluții de plată, anunță obținerea …",
-    "title_ro": "SelfPay devine instituție de plată autorizată de Banca Națională a României și intră într-o nouă etapă de dezvoltare",
-    "lead_ro": "Obținerea autorizației BNR coincide cu aniversarea a 17 ani de activitate SelfPay și marchează un moment strategic în evoluția companiei, deschizând noi perspective pentru diversificarea serviciilor d…",
-    "content_ro": "Obținerea autorizației BNR coincide cu aniversarea a 17 ani de activitate SelfPay și marchează un moment strategic în evoluția companiei, deschizând noi perspective pentru diversificarea serviciilor de plată și dezvoltarea activității în industria financiară. SelfPay, liderul pieței de Stații de Plată self-service din România și unul dintre principalii furnizori de soluții de plată, anunță obținerea …"
   },
   {
     "group_id": "group_b1e16ac3d4",
@@ -4901,26 +5385,6 @@
     "title_ro": "Procedura care poate preveni un nou AVC la unii pacienți",
     "lead_ro": "Unele accidente vasculare cerebrale apar la persoane la care investigațiile nu identifică o cauză obișnuită, precum fibrilația atrială sau ateroscleroza. În această situație, medicii caută și posibili…",
     "content_ro": "Unele accidente vasculare cerebrale apar la persoane la care investigațiile nu identifică o cauză obișnuită, precum fibrilația atrială sau ateroscleroza. În această situație, medicii caută și posibilitatea ca un cheag să fi ajuns în circulația cerebrală printr-o comunicare persistentă între atriile inimii."
-  },
-  {
-    "group_id": "group_fe3c53e925",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/donauwood_de-soft-wheat-8158264_1920-1024x683.jpg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Unul dintre cele mai consumate alimente din lume, amenințat de schimbările climatice. Calitatea sa ar putea avea de suferit",
-        "link": "https://www.mediafax.ro/life-inedit/unul-dintre-cele-mai-consumate-alimente-din-lume-amenintat-de-schimbarile-climatice-calitatea-sa-ar-putea-avea-de-suferit-23827874"
-      }
-    ],
-    "published_at": 1792395268,
-    "title_hu": "Unul dintre cele mai consumate alimente din lume, amenințat de schimbările climatice. Calitatea sa ar putea avea de suferit",
-    "lead_hu": "Creșterea concentrației de dioxid de carbon din atmosferă ar putea modifica nu doar modul în care cresc culturile agricole, ci și calitatea alimentelor pe care le consumăm. Un studiu arată că un ingre...",
-    "content_hu": "Creșterea concentrației de dioxid de carbon din atmosferă ar putea modifica nu doar modul în care cresc culturile agricole, ci și calitatea alimentelor pe care le consumăm. Un studiu arată că un ingredient esențial pentru alimentația mondială suferă schimbări importante în compoziția proteinelor.",
-    "title_ro": "Unul dintre cele mai consumate alimente din lume, amenințat de schimbările climatice. Calitatea sa ar putea avea de suferit",
-    "lead_ro": "Creșterea concentrației de dioxid de carbon din atmosferă ar putea modifica nu doar modul în care cresc culturile agricole, ci și calitatea alimentelor pe care le consumăm. Un studiu arată că un ingre...",
-    "content_ro": "Creșterea concentrației de dioxid de carbon din atmosferă ar putea modifica nu doar modul în care cresc culturile agricole, ci și calitatea alimentelor pe care le consumăm. Un studiu arată că un ingredient esențial pentru alimentația mondială suferă schimbări importante în compoziția proteinelor."
   },
   {
     "group_id": "group_9162eaff02",
