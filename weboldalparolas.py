@@ -12,6 +12,7 @@ from email.utils import parsedate_to_datetime
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 from sentence_transformers import SentenceTransformer
+from transformers import pipeline
 
 # ==============================================================================
 # 1. KONFIGURÁCIÓ
@@ -60,13 +61,7 @@ RSS_FEEDS = {
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
 GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
-# Az archívum a src/data mappába kerül, hogy a weboldal "Minden hír (archívum)" oldala közvetlenül olvassa
-ARCHIVE_FILE = "src/data/archive.json"
-LEGACY_ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
-if not os.path.exists(ARCHIVE_FILE) and os.path.exists(LEGACY_ARCHIVE_FILE):
-    os.makedirs(os.path.dirname(ARCHIVE_FILE), exist_ok=True)
-    import shutil
-    shutil.copyfile(LEGACY_ARCHIVE_FILE, ARCHIVE_FILE)
+ARCHIVE_FILE = "erdelyi_hirek_archivum.json"  # 🛑 Megtartva a meglévő frontendhez
 OUTPUT_FILE = "src/data/news.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
@@ -87,6 +82,7 @@ CATEGORIES = {
 }
 
 _MODEL = None
+_ZERO_SHOT_CLASSIFIER = None
 
 def get_model():
     global _MODEL
@@ -95,15 +91,17 @@ def get_model():
         _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
     return _MODEL
 
+def get_zero_shot_classifier():
+    global _ZERO_SHOT_CLASSIFIER
+    if _ZERO_SHOT_CLASSIFIER is None:
+        print("🏷️ Ingyenes Zero-Shot AI kategória-osztályozó betöltése...")
+        _ZERO_SHOT_CLASSIFIER = pipeline("zero-shot-classification", model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
+    return _ZERO_SHOT_CLASSIFIER
+
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK ÉS SZIGORÍTOTT DÁTUMFELDOLGOZÓ
+# 2. SEGÉDFUNKCIÓK ÉS HIBRID KATEGÓRIA OSZTÁLYOZÓ
 # ==============================================================================
 def parse_published_time(entry) -> int:
-    """
-    Szigorított dátumfeldolgozó:
-    1. Kinyeri az RSS szabványos dátumát.
-    2. Ha hiányzik vagy felül van írva, kinyeri a dátumot az URL-ből (pl. adevarul.ro/.../profesor-14-10-2026).
-    """
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
     if pub_parsed:
         try:
@@ -119,15 +117,14 @@ def parse_published_time(entry) -> int:
         except Exception:
             pass
 
-    # 🛑 URL-ALAPÚ DÁTUM KIOLVASÁS (Pl. 2026-10-14 vagy 14-10-2026)
     link = entry.get('link', '')
     url_date_match = re.search(r'(\d{4})[-/](\d{2})[-/](\d{2})', link) or re.search(r'(\d{2})[-/](\d{2})[-/](\d{4})', link)
     if url_date_match:
         try:
             parts = url_date_match.groups()
-            if len(parts[0]) == 4:  # YYYY-MM-DD
+            if len(parts[0]) == 4:
                 dt = datetime(int(parts[0]), int(parts[1]), int(parts[2]))
-            else:  # DD-MM-YYYY
+            else:
                 dt = datetime(int(parts[2]), int(parts[1]), int(parts[0]))
             return int(dt.timestamp())
         except Exception:
@@ -155,9 +152,18 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text)
     return text
 
+def classify_article_ai(title, summary):
+    """ Helyi, ingyenes AI alapú Zero-Shot kategória-osztályozó """
+    text = f"{title}. {summary}"[:500]
+    candidate_labels = ["Politika", "Sport", "Gazdaság", "Bulvár", "Kultúra", "Erdély", "Általános"]
+    classifier = get_zero_shot_classifier()
+    res = classifier(text, candidate_labels)
+    return res['labels'][0]
+
 def classify_article(title, summary, source_name, entry_tags):
     text = f"{title} {summary}".lower()
 
+    # 1. ELSŐ KÖR: Bűnügyi, Iskolai, Bírósági hírek kizárása a Sportból
     crime_education_keywords = [
         "rendőrség", "bántalmazás", "letartóztatás", "bíróság", "miniszter", 
         "iskola", "profesor", "politie", "dosar penal", "reţinut", "agresat", "tanár"
@@ -167,13 +173,9 @@ def classify_article(title, summary, source_name, entry_tags):
             return "Erdély"
         return "Általános"
 
-    real_sport_keywords = [
-        "foci", "labdarúgás", "mérkőzés", "bajnokság", "gól", "kupa", "meccs", 
-        "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"
-    ]
-    if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"] or any(kw in text for kw in real_sport_keywords):
+    # 2. ELSŐ KÖR: Egyértelmű forrás-alapú besorolások
+    if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
         return "Sport"
-
     if source_name in ["Maszol Gazdaság", "Economedia", "Ziarul Financiar"]:
         return "Gazdaság"
     if source_name in ["Click.ro", "Cancan.ro", "Maszol Életmód"]:
@@ -182,17 +184,31 @@ def classify_article(title, summary, source_name, entry_tags):
         return "Erdély"
     if source_name in ["Go4IT", "Zonait.ro"]:
         return "Általános"
-    if source_name in ["Agerpres (Politica)"]:
-        return "Politika"
 
+    # 3. ELSŐ KÖR: Gyors kulcsszavas ellenőrzés
+    real_sport_keywords = [
+        "foci", "labdarúgás", "mérkőzés", "bajnokság", "gól", "kupa", "meccs", 
+        "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"
+    ]
+    if any(kw in text for kw in real_sport_keywords):
+        return "Sport"
+
+    category_match = None
     for category, keywords in CATEGORIES.items():
         if category == "Sport":
             continue
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
-                return category
+                category_match = category
+                break
+        if category_match:
+            break
 
-    return "Általános"
+    # 4. MÁSODIK KÖR (HIBRID AI): Ha bizonytalan vagy Általános lenne, átadjuk a helyi AI osztályozónak
+    if not category_match or category_match == "Általános":
+        return classify_article_ai(title, summary)
+
+    return category_match
 
 def extract_cover_image(entry, article_url, session):
     if 'media_content' in entry and entry.media_content:
@@ -241,7 +257,6 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
     if pub_timestamp > current_now:
         pub_timestamp = current_now
 
-    # 🛑 SZIGORÚ 12 ÓRÁS SZŰRŐ: Ha nem találtunk dátumot (0) vagy 12 óránál régebbi, azonnal eldobja!
     if pub_timestamp == 0 or pub_timestamp < cutoff_12h:
         return None
 
@@ -298,7 +313,6 @@ def run_pipeline():
         fetched_articles.extend(article_list)
 
     for art in fetched_articles:
-        # 🔄 CIKKFRISSÍTÉS KEZELÉSE: Ha az URL már benne van, frissítjük a tartalmát és dátumát
         existing_item = next((m for m in memory if m["link"] == art["link"]), None)
         if existing_item:
             if art["published_at"] > existing_item.get("fetched_at", 0):
@@ -347,7 +361,7 @@ def run_pipeline():
             "fetched_at": art["published_at"]
         })
 
-    # 📦 ARCHÍVUM KEZELÉS: A 12 óránál régebbi cikkek átkerülnek az archívumba
+    # 📦 ARCHÍVUM KEZELÉS: A 12 óránál régebbi cikkek átkerülnek az erdelyi_hirek_archivum.json-ba
     fresh_memory = []
     archive_updated = False
     existing_archive_links = {a["link"] for a in archive}
@@ -365,7 +379,7 @@ def run_pipeline():
     save_json_file(MEMORY_FILE, fresh_memory)
     if archive_updated:
         save_json_file(ARCHIVE_FILE, archive)
-        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az archívumban.")
+        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az erdelyi_hirek_archivum.json fájlban.")
 
     # 💾 CSOPORTOSÍTOTT MEMÓRIA MENTÉSE
     grouped_dictionary = {}
