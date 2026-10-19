@@ -30,9 +30,10 @@ function AllNews() {
   const ro = lang === "ro";
   const [category, setCategory] = useState<string>(ALL);
   const [query, setQuery] = useState("");
+  const [kind, setKind] = useState<"all" | "ai" | "single">("all");
   const list = useMemo(
-    () => byRelevance.filter((n) => (category === ALL || n.category === category) && `${tr(n, lang).title} ${tr(n, lang).lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"))),
-    [category, query, lang],
+    () => byRelevance.filter((n) => (kind === "all" || (kind === "ai") === n.is_synthesized) && (category === ALL || n.category === category) && `${tr(n, lang).title} ${tr(n, lang).lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"))),
+    [category, query, lang, kind],
   );
 
   return (
@@ -43,6 +44,13 @@ function AllNews() {
     >
       <div className="mb-6 flex flex-col gap-3">
         <input value={query} onChange={(e) => setQuery(e.target.value)} placeholder={ro ? "Caută știri..." : "Keresés hírekre..."} className="h-10 rounded-md border border-border bg-secondary px-3 text-sm outline-none focus:border-primary/50" />
+        <div className="flex gap-2 overflow-x-auto">
+          {([
+            ["all", ro ? "Toate știrile" : "Minden hír"],
+            ["ai", ro ? "✨ Rezumate AI" : "✨ AI összesített hírek"],
+            ["single", ro ? "Știri dintr-o sursă" : "Egyforrású hírek"],
+          ] as const).map(([k, label]) => <Button key={k} size="sm" variant={kind === k ? "default" : "outline"} onClick={() => setKind(k)} className="whitespace-nowrap">{label}</Button>)}
+        </div>
         <div className="flex gap-2 overflow-x-auto">
           {[ALL, ...CATEGORIES].map((c) => <Button key={c} size="sm" variant={category === c ? "default" : "ghost"} onClick={() => setCategory(c)} className="whitespace-nowrap">{ro ? categoryRo[c] ?? c : c}</Button>)}
         </div>
