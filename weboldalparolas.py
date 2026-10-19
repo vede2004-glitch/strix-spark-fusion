@@ -275,7 +275,15 @@ def run_pipeline():
         fetched_articles.extend(article_list)
 
     for art in fetched_articles:
-        if any(m["link"] == art["link"] for m in memory):
+        # 🔄 CIKKFRISSÍTÉS KEZELÉSE: Ha az URL már létezik, de frissült a tartalom/dátum
+        existing_item = next((m for m in memory if m["link"] == art["link"]), None)
+        if existing_item:
+            if art["published_at"] > existing_item.get("fetched_at", 0):
+                existing_item["title"] = art["title"]
+                existing_item["summary"] = art["summary"]
+                existing_item["fetched_at"] = art["published_at"]
+                if art["image"]:
+                    existing_item["image"] = art["image"]
             continue
 
         art_embedding = get_embedding(art['title'], art['summary'])
@@ -304,109 +312,4 @@ def run_pipeline():
             link_hash = hashlib.md5(art["link"].encode("utf-8")).hexdigest()[:10]
             group_id = f"group_{link_hash}"
 
-        memory.append({
-            "group_id": group_id,
-            "source": art["source"],
-            "title": art["title"],
-            "link": art["link"],
-            "image": art["image"],
-            "summary": art["summary"],
-            "category": art["category"],
-            "embedding": art_embedding,
-            "fetched_at": art["published_at"]
-        })
-
-    # 📦 ARCHÍVUM KEZELÉS: A 12 óránál régebbi cikkek átkerülnek az archívumba, nem ragadnak a memóriában
-    fresh_memory = []
-    archive_updated = False
-    existing_archive_links = {a["link"] for a in archive}
-
-    for item in memory:
-        if item.get("fetched_at", 0) >= cutoff_12h:
-            fresh_memory.append(item)
-        else:
-            if item["link"] not in existing_archive_links:
-                clean_arch_item = {k: v for k, v in item.items() if k != "embedding"}
-                archive.append(clean_arch_item)
-                existing_archive_links.add(item["link"])
-                archive_updated = True
-
-    save_json_file(MEMORY_FILE, fresh_memory)
-    if archive_updated:
-        save_json_file(ARCHIVE_FILE, archive)
-        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az archívumban.")
-
-    # 💾 CSOPORTOSÍTOTT FRISS MEMÓRIA MENTÉSE
-    grouped_dictionary = {}
-    for item in fresh_memory:
-        g_id = item["group_id"]
-        clean_item = {
-            "source": item["source"],
-            "title": item["title"],
-            "link": item["link"],
-            "image": item["image"],
-            "summary": item["summary"],
-            "category": item["category"],
-            "published_at": item["fetched_at"]
-        }
-        if g_id not in grouped_dictionary:
-            grouped_dictionary[g_id] = {
-                "group_id": g_id,
-                "category": item["category"],
-                "articles_count": 0,
-                "articles": []
-            }
-        grouped_dictionary[g_id]["articles"].append(clean_item)
-        grouped_dictionary[g_id]["articles_count"] += 1
-
-    save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
-
-    # ⚡ VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA (Kizárólag a friss hírek)
-    os.makedirs("src/data", exist_ok=True)
-    fresh_news = {}
-
-    for item in fresh_memory:
-        g_id = item.get("group_id")
-        pub_time = int(item.get("fetched_at", 0))
-
-        if g_id not in fresh_news:
-            fresh_news[g_id] = {
-                "group_id": g_id,
-                "category": item.get("category", "Általános"),
-                "image": item.get("image", ""),
-                "is_synthesized": False,
-                "sources": [{"source": item.get("source"), "title": item.get("title"), "link": item.get("link")}],
-                "published_at": pub_time,
-                "title_hu": item.get("title", ""),
-                "lead_hu": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
-                "content_hu": item.get("summary", ""),
-                "title_ro": item.get("title", ""),
-                "lead_ro": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
-                "content_ro": item.get("summary", "")
-            }
-
-    raw_list = list(fresh_news.values())
-    raw_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
-
-    # 🛑 FORRÁS-DIVERZITÁS
-    balanced_list = []
-    skipped_items = []
-
-    for item in raw_list:
-        item_source = item.get("sources", [{}])[0].get("source")
-        if (
-            len(balanced_list) >= 2 
-            and balanced_list[-1].get("sources", [{}])[0].get("source") == item_source
-            and balanced_list[-2].get("sources", [{}])[0].get("source") == item_source
-        ):
-            skipped_items.append(item)
-        else:
-            balanced_list.append(item)
-
-    final_list = balanced_list + skipped_items
-
-    save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ 5 perces gyorshír frissítés kész! ({len(final_list)} cikk a news.json-ban)")
-
-if __name__ == "__main__":
-    run_pipeline()
+        memory
