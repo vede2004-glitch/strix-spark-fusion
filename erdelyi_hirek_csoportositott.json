@@ -4740,7 +4740,7 @@
   {
     "group_id": "group_3c009f782d",
     "category": "Bulvár",
-    "articles_count": 15,
+    "articles_count": 16,
     "articles": [
       {
         "source": "Cancan.ro",
@@ -4876,6 +4876,15 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1792316687
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza meteo azi, 19 octombrie 2026. . Nici toamna nu mai știe ce vrea! De la 22 de grade la ninsoare, într-o singură zi",
+        "link": "https://www.cancan.ro/prognoza-meteo-azi-19-octombrie-2026-nici-toamna-nu-mai-stie-ce-vrea-de-la-22-de-grade-la-ninsoare-intr-o-singura-zi-21531918",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/vremea-can.jpg-1200x675.jpeg",
+        "summary": "Vremea de luni, 19 octombrie 2026, va aduce diferențe importante de temperatură între regiunile României, cu maxime de numai 9 grade în nordul Moldovei și valori de până la 22 de grade în Oltenia. Ploile vor afecta în special estul, centrul și sud-estul țării, unde cantitățile de apă pot depăși izolat 20 de litri pe […]",
+        "category": "Bulvár",
+        "published_at": 1792377033
       }
     ]
   },
@@ -92336,7 +92345,7 @@
   {
     "group_id": "group_8294d48c01",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -92346,6 +92355,15 @@
         "summary": "Riscul izbucnirii unui al treilea război mondial este tot mai mare, pe măsură ce conflictele se extind, iar marile puteri contestă ordinea internațională. Numărul conflictelor armate a ajuns la cel mai ridicat nivel de după cel de-al doilea război mondial, iar liderii occidentali avertizează că Europa trebuie să se pregătească pentru posibilitatea unui război de amploare.",
         "category": "Általános",
         "published_at": 1792354648
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Ne îndreptăm spre Al Treilea Război Mondial?”. Financial Times avertizează asupra riscului unui conflict global",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/ne-indreptam-spre-al-treilea-razboi-mondial-2564825.html",
+        "image": "https://cdn.adh.reperio.news/image-4/471faa12-acd1-43a8-9680-ec03c24aee3f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0%252C1%252C1%26f%3Djpeg&file=image.jpeg",
+        "summary": "Războiul din Ucraina, tensiunile dintre Statele Unite și China, conflictul din Orientul Mijlociu și numărul tot mai mare de confruntări armate din lume alimentează temerile privind posibilitatea unui conflict global, arată o amplă analiză publicată de Financial Times.",
+        "category": "Általános",
+        "published_at": 1792377205
       }
     ]
   },
@@ -92954,6 +92972,38 @@
         "summary": "Activiștii Greenpeace au blocat activitatea unei platforme de gaze naturale din largul coastelor Australiei, parte a unui proiect de 12,5 miliarde de dolari. Protestul a început sâmbătă, iar până duminică seara activitatea platformei nu fusese reluată.",
         "category": "Általános",
         "published_at": 1792374381
+      }
+    ]
+  },
+  {
+    "group_id": "group_e4ff9c8fda",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Ne-au mințit părinții toată copilăria?! Ce se întâmplă, de fapt, dacă înghiți guma de mestecat. Dr. Pautov spune adevărul!",
+        "link": "https://www.cancan.ro/ne-au-mintit-parintii-toata-copilaria-ce-se-intampla-de-fapt-daca-inghiti-guma-de-mestecat-dr-pautov-spune-adevarul-21532357",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/dr-pautov.jpg-1200x675.jpeg",
+        "summary": "Generații întregi de copii au crescut cu avertismentul că, dacă înghit accidental o gumă de mestecat, aceasta va rămâne în stomac timp de șapte ani, pentru că organismul nu o poate digera. Medicul Mihail Pautov explică de unde vine confuzia care a transformat această poveste într-unul dintre cele mai cunoscute mituri despre sănătate și arată […]",
+        "category": "Bulvár",
+        "published_at": 1792377625
+      }
+    ]
+  },
+  {
+    "group_id": "group_7c904b853e",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Compania din spatele Claude pune deoparte acțiuni de miliarde de dolari. Cine ar putea beneficia de acești bani",
+        "link": "https://www.mediafax.ro/tehnologie/compania-din-spatele-claude-pune-deoparte-actiuni-de-miliarde-de-dolari-cine-ar-putea-beneficia-de-acesti-bani-23827774",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/03/hepta_8689942-scaled-e1792376884633-1024x625.jpg",
+        "summary": "Compania americană Anthropic, care dezvoltă asistentul de inteligență artificială Claude, a anunțat că va aloca 5% din acțiunile sale unui fond cu scop social. Valoarea acestora ar putea depăși două miliarde de dolari.",
+        "category": "Gazdaság",
+        "published_at": 1792377398
       }
     ]
   }
