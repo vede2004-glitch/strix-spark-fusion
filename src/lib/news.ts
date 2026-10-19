@@ -1,4 +1,5 @@
 import raw from "@/data/news.json";
+import archiveRaw from "@/data/archive.json";
 import type { Lang } from "@/lib/lang";
 import { localTz } from "@/lib/lang";
 
@@ -124,7 +125,6 @@ export const singles = news
   .filter((n) => !n.is_synthesized)
   .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0));
 
-export const getNews = (id: string) => news.find((n) => n.group_id === id);
 
 export function timeAgo(ts: number | null | undefined, lang: Lang = "hu") {
   if (!ts) return lang === "ro" ? "Recent" : "Friss";
@@ -152,8 +152,37 @@ export const RECENT_HOURS = 24;
 export const isRecent = (n: NewsItem) =>
   !n.published_at || Date.now() / 1000 - n.published_at <= RECENT_HOURS * 3600;
 
-/** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. */
-export const byRelevance = [...news].sort(
+/** Archív cikkek (weboldalparolas.py → src/data/archive.json), group_id szerint összevonva. */
+type ArchiveRaw = {
+  group_id?: string; source?: string; title?: string; link?: string;
+  image?: string | null; summary?: string; category?: string | null; fetched_at?: number;
+};
+const knownIds = new Set(news.map((n) => n.group_id));
+const archiveGroups = new Map<string, ArchiveRaw[]>();
+for (const a of archiveRaw as unknown as ArchiveRaw[]) {
+  const id = a.group_id || a.link;
+  if (!id || knownIds.has(id)) continue;
+  archiveGroups.set(id, [...(archiveGroups.get(id) ?? []), a]);
+}
+export const archive: NewsItem[] = [...archiveGroups.entries()].map(([id, arts]) => {
+  const first = arts[0] ?? {};
+  const c: LangContent = { title: first.title ?? "", lead: clean(first.summary?.slice(0, 220)), content: first.summary ?? "" };
+  return {
+    group_id: id,
+    image: arts.find((x) => x.image)?.image ?? null,
+    is_synthesized: false,
+    sources: arts.map((x) => ({ source: x.source ?? "", title: x.title ?? "", link: x.link ?? "" })),
+    published_at: Math.max(...arts.map((x) => x.fetched_at ?? 0)) || null,
+    title: c.title, lead: c.lead, content: c.content,
+    category: normCategory(first.category),
+    i18n: { hu: c, ro: c },
+  };
+});
+
+export const getNews = (id: string) => news.find((n) => n.group_id === id) ?? archive.find((n) => n.group_id === id);
+
+/** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. Az archívumot is tartalmazza. */
+export const byRelevance = [...news, ...archive].sort(
   (a, b) =>
     (b.sources.length + (b.is_synthesized ? 1 : 0)) - (a.sources.length + (a.is_synthesized ? 1 : 0)) ||
     (b.published_at ?? 0) - (a.published_at ?? 0),
