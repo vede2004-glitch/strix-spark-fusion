@@ -34,7 +34,7 @@ export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "ti
   i18n: Record<Lang, LangContent>;
 };
 
-export const CATEGORIES = ["Politika", "Gazdaság", "Erdély", "Sport", "Kultúra", "Bulvár"] as const;
+export const CATEGORIES = ["Politika", "Gazdaság", "Erdély", "Sport", "Kultúra", "Bulvár", "Általános"] as const;
 export const ALL = "Összes hír";
 
 const normCategory = (c?: string | null) => {
