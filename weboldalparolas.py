@@ -60,7 +60,13 @@ RSS_FEEDS = {
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
 GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
-ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
+# Az archívum a src/data mappába kerül, hogy a weboldal "Minden hír (archívum)" oldala közvetlenül olvassa
+ARCHIVE_FILE = "src/data/archive.json"
+LEGACY_ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
+if not os.path.exists(ARCHIVE_FILE) and os.path.exists(LEGACY_ARCHIVE_FILE):
+    os.makedirs(os.path.dirname(ARCHIVE_FILE), exist_ok=True)
+    import shutil
+    shutil.copyfile(LEGACY_ARCHIVE_FILE, ARCHIVE_FILE)
 OUTPUT_FILE = "src/data/news.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
