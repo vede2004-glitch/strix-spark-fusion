@@ -145,7 +145,7 @@ export function formatDate(ts: number | null | undefined, lang: Lang = "hu") {
   });
 }
 
-export const RECENT_HOURS = 24;
+export const RECENT_HOURS = 12;
 /** Igaz, ha a hír az elmúlt 24 órában jelent meg (dátum nélküli hír frissnek számít).
  *  Szándékosan csak egy paramétert vesz: a `.filter(isRecent)` hívásnál a filter az elem
  *  indexét adná át második argumentumként, ami egy korábbi `now` paraméterrel felülírta
