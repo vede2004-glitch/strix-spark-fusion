@@ -1,5 +1,442 @@
 [
   {
+    "group_id": "group_3d252647c2",
+    "category": "Erdély",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Incendiu într-un bloc din Aleșd: Mai mulți locatari evacuați în toiul nopții (FOTO/VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/incendiu-intr-un-bloc-din-alesd-mai-multi-locatari-evacuati-in-toiul-noptii-205930.html"
+      }
+    ],
+    "published_at": 1792402352,
+    "title_hu": "Incendiu într-un bloc din Aleșd: Mai mulți locatari evacuați în toiul nopții (FOTO/VIDEO)",
+    "lead_hu": "Locatarii de la parterul și primul etaj al unui bloc din Aleșd au fost evacuați în noaptea de sâmbătă spre duminică, după ce un incendiu izbucnit într-o garsonieră de la parter a umplut cu fum locuinț…",
+    "content_hu": "Locatarii de la parterul și primul etaj al unui bloc din Aleșd au fost evacuați în noaptea de sâmbătă spre duminică, după ce un incendiu izbucnit într-o garsonieră de la parter a umplut cu fum locuința și casa scării.",
+    "title_ro": "Incendiu într-un bloc din Aleșd: Mai mulți locatari evacuați în toiul nopții (FOTO/VIDEO)",
+    "lead_ro": "Locatarii de la parterul și primul etaj al unui bloc din Aleșd au fost evacuați în noaptea de sâmbătă spre duminică, după ce un incendiu izbucnit într-o garsonieră de la parter a umplut cu fum locuinț…",
+    "content_ro": "Locatarii de la parterul și primul etaj al unui bloc din Aleșd au fost evacuați în noaptea de sâmbătă spre duminică, după ce un incendiu izbucnit într-o garsonieră de la parter a umplut cu fum locuința și casa scării."
+  },
+  {
+    "group_id": "group_79dc064b52",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-0/09f73a9f-8b16-4a54-beed-b2305071e40f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cum să iei o decizie informată într-o piață imobiliară complexă",
+        "link": "https://adevarul.ro/stil-de-viata/cum-sa-iei-o-decizie-informata-intr-o-piata-2564945.html"
+      }
+    ],
+    "published_at": 1792402181,
+    "title_hu": "Cum să iei o decizie informată într-o piață imobiliară complexă",
+    "lead_hu": "Achiziția unui apartament este una dintre cele mai importante decizii financiare pe care le poate lua o persoană sau o familie.",
+    "content_hu": "Achiziția unui apartament este una dintre cele mai importante decizii financiare pe care le poate lua o persoană sau o familie.",
+    "title_ro": "Cum să iei o decizie informată într-o piață imobiliară complexă",
+    "lead_ro": "Achiziția unui apartament este una dintre cele mai importante decizii financiare pe care le poate lua o persoană sau o familie.",
+    "content_ro": "Achiziția unui apartament este una dintre cele mai importante decizii financiare pe care le poate lua o persoană sau o familie."
+  },
+  {
+    "group_id": "group_3871b57b86",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Három év börtönt kapott a Volánbusz volt vezérigazgatója",
+        "link": "https://a24.hu/harom-ev-bortont-kapott-a-volanbusz-volt-vezerigazgatoja/"
+      }
+    ],
+    "published_at": 1792402107,
+    "title_hu": "Három év börtönt kapott a Volánbusz volt vezérigazgatója",
+    "lead_hu": "Első fokon, nem jogerősen három év letöltendő börtönre ítélték Fekete Antalt, a Volánbusz Zrt. 2015 és 2018 közötti vezérigazgatóját. A Gyulai Törvényszék idén márciusban hozta meg az ítéletet egy DAK…",
+    "content_hu": "Első fokon, nem jogerősen három év letöltendő börtönre ítélték Fekete Antalt, a Volánbusz Zrt. 2015 és 2018 közötti vezérigazgatóját. A Gyulai Törvényszék idén márciusban hozta meg az ítéletet egy DAKK Zrt.-nél elkövetett hűtlen kezelés ügyében. Az eljárás nem a Seszták Miklós volt fejlesztési minisztert érintő korrupciós botrányhoz kapcsolódik, hanem egy korábbi buszbeszerzéshez. Fekete 2013-tól vezette […]",
+    "title_ro": "Három év börtönt kapott a Volánbusz volt vezérigazgatója",
+    "lead_ro": "Első fokon, nem jogerősen három év letöltendő börtönre ítélték Fekete Antalt, a Volánbusz Zrt. 2015 és 2018 közötti vezérigazgatóját. A Gyulai Törvényszék idén márciusban hozta meg az ítéletet egy DAK…",
+    "content_ro": "Első fokon, nem jogerősen három év letöltendő börtönre ítélték Fekete Antalt, a Volánbusz Zrt. 2015 és 2018 közötti vezérigazgatóját. A Gyulai Törvényszék idén márciusban hozta meg az ítéletet egy DAKK Zrt.-nél elkövetett hűtlen kezelés ügyében. Az eljárás nem a Seszták Miklós volt fejlesztési minisztert érintő korrupciós botrányhoz kapcsolódik, hanem egy korábbi buszbeszerzéshez. Fekete 2013-tól vezette […]"
+  },
+  {
+    "group_id": "group_83564c22d4",
+    "fingerprint": "496bee12dad933977dddddfe7c5f1df7",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/01/FB1A0027.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Florin Barbu, propus de PSD pentru Ministerul Agriculturii în guvernul Niculescu, audiat luni în Parlament: Dacă nu voi primele 4 măsuri pe agricultură din programul de guvernare în primele 100 de zile, voi pleca de la Ministerul Agriculturii",
+        "link": "https://www.g4media.ro/florin-barbu-propus-de-psd-pentru-ministerul-agriculturii-in-guvernul-niculescu-audiat-luni-in-parlament.html"
+      },
+      {
+        "source": "Economedia",
+        "title": "Florin Barbu, la audierile pentru funcția de ministru al Agriculturii: „Dacă nu realizez patru reforme în 100 de zile, îmi dau demisia”",
+        "link": "https://economedia.ro/florin-barbu-la-audierile-pentru-functia-de-ministru-al-agriculturii-daca-nu-realizez-patru-reforme-in-100-de-zile-imi-dau-demisia.html"
+      }
+    ],
+    "published_at": 1792402082,
+    "title_hu": "Florin Barbu 100 napot adott magának négy agrárintézkedésre",
+    "lead_hu": "Florin Barbu mezőgazdasági miniszterjelölt a parlamenti meghallgatásán vállalta, hogy a kormányprogram első négy agrárintézkedését 100 napon belül végrehajtja. Kijelentette: ha nem teljesíti a vállalását, lemond a tisztségről.",
+    "content_hu": "• **Florin Barbu** a parlamenti meghallgatásán vállalta, hogy a kormányprogram mezőgazdaságra vonatkozó első négy intézkedését a hivatalba lépésétől számított 100 napon belül megvalósítja.\n\n• **A vállalás teljesítésének elmaradása esetén** Barbu azt mondta, lemond a mezőgazdasági miniszteri tisztségről.\n\n• **Barbut a PSD jelölte** újabb mandátumra a mezőgazdasági és vidékfejlesztési tárca élére, Luca Niculescu kormányába; korábban is betöltötte a miniszteri posztot.\n\n• **A meghallgatáson a képviselők** többek között a gazdáknak szánt támogatási programokról és Barbu korábbi tevékenységének vitatott ügyeiről kérdezték.",
+    "title_ro": "Florin Barbu promite patru măsuri în agricultură în primele 100 de zile",
+    "lead_ro": "Florin Barbu, propus pentru un nou mandat de ministru al Agriculturii, s-a angajat la audierea parlamentară să implementeze în 100 de zile primele patru măsuri din programul de guvernare. El a declarat că va demisiona dacă nu își îndeplinește angajamentul.",
+    "content_ro": "• **Florin Barbu** s-a angajat în fața parlamentarilor să implementeze, în primele 100 de zile de mandat, primele patru măsuri din programul de guvernare pentru agricultură.\n\n• **Dacă nu își respectă angajamentul**, Barbu a spus că își va da demisia din funcția de ministru al Agriculturii.\n\n• **Barbu a fost propus de PSD** pentru un nou mandat la conducerea Ministerului Agriculturii și Dezvoltării Rurale, în guvernul condus de Luca Niculescu; el a mai ocupat această funcție.\n\n• **La audiere, parlamentarii l-au întrebat** despre schemele de sprijin pentru fermieri și despre aspecte controversate din activitatea sa anterioară."
+  },
+  {
+    "group_id": "group_934721f113",
+    "fingerprint": "70bfac11269c415c0970a811a145aa21",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/10042026/c3734a99-380d-45e1-990c-90731afa27b0.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Istvan Kovacs, trimis pe „Bernabeu” să o arbitreze pe Real Madrid în Liga Campionilor",
+        "link": "https://www.gsp.ro/international/liga-campionilor/istvan-kovacs-delegat-real-madrid-rb-leipzig-989781.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Istvan Kovacs va arbitra partida Real Madrid – Leipzig din Champions League",
+        "link": "https://www.g4media.ro/istvan-kovacs-va-arbitra-partida-real-madrid-leipzig-din-champions-league.html"
+      }
+    ],
+    "published_at": 1792402079,
+    "title_hu": "István Kovács vezeti a Real Madrid–RB Leipzig BL-meccset",
+    "lead_hu": "Az UEFA István Kovács román játékvezetőt jelölte ki a Real Madrid és az RB Leipzig Bajnokok Ligája-mérkőzésére. A találkozót október 21-én, szerdán 22 órakor rendezik a madridi Santiago Bernabéu stadionban.",
+    "content_hu": "• **Október 21-én, szerdán 22 órakor** játssza a Real Madrid és az RB Leipzig a Bajnokok Ligája főtáblájának harmadik fordulójában rendezett mérkőzését a Santiago Bernabéu stadionban.\n\n• **István Kovács** vezeti a találkozót; a román játékvezető hatodik alkalommal bíráskodik a Real Madrid mérkőzésén a Bajnokok Ligájában, az RB Leipzignek viszont először vezet meccset.\n\n• **A játékvezetői csapat tagjai** Kovács asszisztensei, Mihai Marica és Ferencz Tunyogi, valamint a negyedik játékvezetőként kijelölt Szabolcs Kovács lesznek. A VAR-szobában a lengyel Tomasz Kwiatkowski és a belga Bram Van Driessche dolgozik.",
+    "title_ro": "István Kovács va arbitra meciul Real Madrid–RB Leipzig din Liga Campionilor",
+    "lead_ro": "UEFA l-a desemnat pe arbitrul român István Kovács să conducă partida dintre Real Madrid și RB Leipzig din Liga Campionilor. Meciul se va disputa miercuri, 21 octombrie, de la ora 22:00, pe stadionul Santiago Bernabéu din Madrid.",
+    "content_ro": "• **Miercuri, 21 octombrie, de la ora 22:00**, Real Madrid și RB Leipzig se întâlnesc în etapa a treia a fazei principale a Ligii Campionilor, pe stadionul Santiago Bernabéu.\n\n• **István Kovács** va conduce partida. Va fi a șasea oară când arbitrul român arbitrează un meci al lui Real Madrid în Liga Campionilor și prima dată când conduce o partidă a echipei RB Leipzig.\n\n• **Brigada de arbitri** îi include pe asistenții Mihai Marica și Ferencz Tunyogi, precum și pe Szabolcs Kovács, desemnat al patrulea oficial. În camera VAR vor lucra polonezul Tomasz Kwiatkowski și belgianul Bram Van Driessche."
+  },
+  {
+    "group_id": "group_7828f76de9",
+    "fingerprint": "c121a2411dcbe6290a32dfa941c73721",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "„PNL nu este egal PSD”. Bolojan explică de ce liberalii votează Guvernul Niculescu, dar trec în opoziție (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/pnl-nu-este-egal-psd-bolojan-explica-de-ce-liberalii-voteaza-guvernul-niculescu-dar-trec-in-opozitie-video-205902.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ilie Bolojan recunoaște că votul pentru Guvernul Niculescu poate aduce pierderi PNL: „Am luat decizia corectă pentru această țară”",
+        "link": "https://www.mediafax.ro/politic/ilie-bolojan-recunoaste-ca-votul-pentru-guvernul-niculescu-poate-aduce-pierderi-pnl-am-luat-decizia-corecta-pentru-aceasta-tara-23827696"
+      },
+      {
+        "source": "Mediafax",
+        "title": "„Nu mergi la război cu o armată de mercenari”. Daniel Fenechiu, despre liberalii care ar putea pleca din PNL",
+        "link": "https://www.mediafax.ro/politic/nu-mergi-la-razboi-cu-o-armata-de-mercenari-daniel-fenechiu-despre-liberalii-care-ar-putea-pleca-din-pnl-23827913"
+      },
+      {
+        "source": "Digi24",
+        "title": "Acordul politic dintre Ilie Bolojan și Luca Niculescu. PNL promite să nu dea jos guvernul până în martie, dar cu unele condiții (surse)",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/acordul-politic-dintre-ilie-bolojan-si-luca-niculescu-pnl-promite-sa-nu-dea-jos-guvernul-pana-in-martie-dar-cu-unele-conditii-surse-3998387"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Decizie în unanimitate a PNL Satu Mare care va înfuria PSD. Un vot care afectează direct formarea Guvernului",
+        "link": "https://www.presasm.ro/decizie-in-unanimitate-a-pnl-satu-mare-care-va-infuria-psd-un-vot-care-afecteaza-direct-formarea/53839"
+      }
+    ],
+    "published_at": 1792402048,
+    "title_hu": "A PNL feltételesen megszavazza a Niculescu-kormányt, és ellenzékbe vonul",
+    "lead_hu": "A PNL vezetése úgy döntött, hogy a liberálisok támogatják Luca Niculescu kormányának beiktatását, de a párt ellenzékben marad, politikai tisztségviselői pedig távoznak. Ilie Bolojan vasárnap aláírta a kijelölt miniszterelnökkel a feltételes megállapodást: a PNL a deficitcélok, a költségvetési fegyelem és a beruházások védelméhez köti támogatását, és vállalásai megszegése esetén fenntartja a bizalmatlansági indítvány lehetőségét.",
+    "content_hu": "• **A PNL szombati döntése** alapján a liberális parlamenti képviselők megszavazzák Luca Niculescu kormányának beiktatását, a párt pedig ellenzékbe vonul. A vezetőség 6 ellenszavazattal és 1 tartózkodással fogadta el a javaslatot; a vita feszült volt, több megyei szervezet és politikus ellenezte a kabinet támogatását.\n\n• **Bolojan és Niculescu vasárnap aláírta a megállapodást.** A dokumentum nem koalíciós szerződés, nem jelent feltétel nélküli politikai támogatást, és nem hagyja jóvá a kormány összetételét. Bolojan a szavazatot a politikai válság lezárását szolgáló, feltételes és célhoz kötött „szükségszavazatként” írta le.\n\n• **A megállapodás deficitcélja** szerint Románia 2027-es költségvetési hiánya legfeljebb a GDP 5,3 százaléka lehet. A PNL a 2027-es költségvetést akkor támogatja, ha az reális, beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem tervez fedezet nélküli kiadásokat.\n\n• **A bizalmatlansági indítványokra vonatkozó vállalás** a megállapodás szerint 2027. március 1-jéig érvényes: a PNL addig nem kezdeményez és nem támogat ilyen indítványt, kivéve, ha a kormány megszegi az egyezség vállalásait vagy a jó kormányzás alapelveit. A liberálisok egyszerű indítványokkal továbbra is bírálhatják a minisztereket; az egyezség a 2027-es költségvetés elfogadásához kötött átmeneti időszakra szól.\n\n• **A megállapodás további elemei** között szerepel a költségvetési kiigazítás és a 2027-es büdzsé felelős előkészítése, a PNL ellenzéki státuszának tiszteletben tartása, valamint a NATO- és uniós vállalásokból következő, védelmi képességeket erősítő kormányzati kezdeményezések parlamenti támogatása.\n\n• **Bolojan a teljes jogkörű kormány szükségességét** a közszolgáltatások finanszírozásával indokolta: az ügyvivő kabinet nem tud költségvetési kiigazítást elrendelni, miközben egyes sürgősségi osztályok, a mentők és a katasztrófavédelem forrásai kiegészítésre szorulnak. A Floreasca kórház sürgősségi osztályának 2026-os induló előirányzata 5 millió lej alatt maradt a 2025-ös, 10 millió lej fölötti összeghez képest; Marosvásárhelyen 8 millióról 4 millió lej alá csökkent a keret. Bolojan az üzemanyagárak 20–30 százalékos emelkedésére is figyelmeztetett.\n\n• **Bolojan további költségvetési kockázatként** említette, hogy a közlekedési tárca PNRR-projektjeire 19,5 milliárd euró értékben kötöttek szerződéseket, miközben a végleges keret 4,6 milliárd euró; a megkezdett munkák folytatásához szerinte további források kellenek. Azt is állította, hogy az aszály miatt a cernavodai erőmű a romániai energiatermelés mintegy 20 százalékát nem tudta biztosítani.\n\n• **Bolojan elismerte a döntés politikai kockázatát,** és azt mondta, hogy pusztán pártpolitikai számítás alapján a PNL nem szavazná meg a kabinetet, továbbá nincsenek nagy elvárásai a kormánytól. Szerinte azonban az elhúzódó válság veszélyeztetné a közszolgáltatásokat, növelné az állami hitelfelvétel költségeit, és a PNL-nek az ország működőképességét kell előbbre helyeznie a párt érdekeinél. A PSD-t nevezte a leendő kormány legnagyobb kockázatának.\n\n• **A PNL politikai támogatással betöltött tisztségviselői távoznak:** Bolojan bejelentése szerint a következő hét elején lemondanak az ilyen pozíciókból. Ez nem vonatkozik a versenyvizsgával vagy más törvényes eljárással megszerzett állásokra. Alin Tișe erre azt követelte, hogy Bolojan és a pártvezetés mondjon le, illetve „vagy mindenki távozzon, vagy senki”.\n\n• **A párton belüli ellenállás a döntés után is látható maradt.** A PNL Iași és a PNL Satu Mare megyei szervezete egyhangúlag ellenezte a kabinet beiktatását; Vrancea politikusai és több más liberális is bírálta a PSD meghatározó szerepét, illetve a miniszterjelölteket. Daniel Fenechiu szenátusi frakcióvezető ezzel szemben Bolojan széles párton belüli támogatásáról beszélt, és 2027 tavaszára kongresszust valószínűsített.\n\n• **Az USR ellenzi a kormány beiktatását.** Dominic Fritz szerint nem világos, milyen parlamenti többség állna a kabinet mögött, és kifogásolta a PSD-s miniszterek részvételét. Azt mondta, a PNL és az USR eltérően viszonyul a kormányhoz, de együttműködhetnek egy PSD és AUR nélküli politikai alternatíva kialakításán.\n\n• **A parlamenti menetrend szerint** a miniszterjelöltek meghallgatása hétfőn és kedden, a kormány beiktatási szavazása pedig október 20-án, kedden 14 órakor esedékes.",
+    "title_ro": "PNL votează condiționat Guvernul Niculescu și trece în opoziție",
+    "lead_ro": "Conducerea PNL a decis ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, fără ca partidul să intre la guvernare. Ilie Bolojan a semnat duminică acordul condiționat cu premierul desemnat: sprijinul liberalilor depinde de respectarea țintelor de deficit, a disciplinei bugetare și a investițiilor, iar încălcarea angajamentelor poate duce la o moțiune de cenzură.",
+    "content_ro": "• **Decizia PNL de sâmbătă** prevede votul liberalilor pentru învestirea Guvernului Luca Niculescu și trecerea partidului în opoziție. Conducerea a aprobat propunerea cu 6 voturi împotrivă și o abținere; dezbaterile au fost tensionate, iar mai multe filiale și persoane din partid s-au opus susținerii Cabinetului.\n\n• **Bolojan și Niculescu au semnat acordul duminică.** Documentul nu este un acord de coaliție, nu înseamnă susținere politică necondiționată și nu validează componența Guvernului. Bolojan a descris votul drept unul „de necesitate”, condiționat și limitat la obiectivul depășirii crizei politice.\n\n• **Ținta de deficit din acord** prevede un deficit bugetar de cel mult 5,3% din PIB în 2027. PNL este pregătit să susțină bugetul pentru 2027 dacă acesta este realist, bazat pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și evită cheltuielile fără acoperire.\n\n• **Angajamentul privind moțiunile de cenzură** este valabil, potrivit acordului, până la 1 martie 2027: PNL nu va iniția și nu va vota o astfel de moțiune, cu excepția cazului în care Guvernul încalcă prevederile acordului sau principiile bunei guvernări. Liberalii își păstrează dreptul de a critica miniștrii prin moțiuni simple; acordul vizează o perioadă de tranziție până la adoptarea bugetului pe 2027.\n\n• **Acordul mai prevede** sprijin pentru rectificarea bugetară și pregătirea responsabilă a bugetului pe 2027, respectarea statutului PNL de partid de opoziție și susținerea în Parlament a inițiativelor guvernamentale care consolidează apărarea României în acord cu angajamentele NATO și UE.\n\n• **Bolojan a justificat necesitatea unui guvern cu puteri depline** prin finanțarea serviciilor publice: Cabinetul interimar nu poate adopta o rectificare bugetară, în timp ce unele unități de primiri urgențe, serviciile de ambulanță și inspectoratele pentru situații de urgență au nevoie de fonduri suplimentare. Alocarea inițială pentru UPU Floreasca a fost sub 5 milioane de lei în 2026, față de peste 10 milioane în 2025; la Târgu Mureș, suma a scăzut de la 8 milioane la sub 4 milioane de lei. Bolojan a avertizat și că prețurile la combustibili au crescut cu 20–30%.\n\n• **Bolojan a indicat și alte riscuri bugetare:** pentru proiectele PNRR ale Ministerului Transporturilor au fost semnate contracte de 19,5 miliarde de euro, în condițiile unei alocări finale de 4,6 miliarde; în opinia sa, continuarea lucrărilor începute necesită finanțare suplimentară. El a afirmat și că seceta a împiedicat centrala de la Cernavodă să asigure aproximativ 20% din producția de energie a României.\n\n• **Bolojan a recunoscut riscul politic al deciziei** și a spus că, strict din perspectiva interesului de partid, PNL nu ar vota Cabinetul și că nu are așteptări mari de la acesta. El a argumentat însă că prelungirea crizei ar pune în pericol serviciile publice, ar crește costurile împrumuturilor statului și că PNL trebuie să pună funcționarea țării înaintea intereselor partidului. PSD, a spus el, este cel mai mare pericol pentru viitorul Guvern.\n\n• **Demnitarii susținuți politic de PNL urmează să demisioneze** din funcțiile respective la începutul săptămânii următoare, a anunțat Bolojan. Măsura nu vizează posturile obținute prin concurs sau prin alte proceduri legale. Alin Tișe a cerut, în replică, demisia lui Bolojan și a conducerii PNL, susținând că „ori pleacă toți, ori niciunul”.\n\n• **Opoziția internă din PNL a rămas vizibilă.** Organizațiile județene Iași și Satu Mare s-au pronunțat în unanimitate împotriva învestirii; politicieni din Vrancea și alți liberali au criticat rolul PSD și nominalizările de miniștri. În schimb, liderul senatorilor PNL, Daniel Fenechiu, a vorbit despre sprijinul larg de care se bucură Bolojan și a estimat că un congres al partidului ar putea avea loc în primăvara lui 2027.\n\n• **USR se opune învestirii Guvernului.** Dominic Fritz a spus că nu este clară majoritatea parlamentară pe care s-ar baza Cabinetul și a criticat participarea miniștrilor PSD. El a afirmat că PNL și USR au abordări diferite, dar pot colabora pentru construirea unei alternative politice fără PSD și AUR.\n\n• **Calendarul parlamentar** prevede audierea miniștrilor propuși luni și marți, iar votul de învestitură este programat marți, 20 octombrie, la ora 14:00."
+  },
+  {
+    "group_id": "group_8ea50c2040",
+    "fingerprint": "f0ce3d10b50ae5349f9f4a209fb89785",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "FOTO Kylie Jenner a defilat pe podiumul Victoria’s Secret Show cu un sutien de 50.000.000 de dolari",
+        "link": "https://hotnews.ro/foto-kylie-jenner-a-defilat-pe-podiumul-victorias-secret-show-cu-un-sutien-de-50-000-000-de-dolari-2379451"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Cum arată sutienul de 50 de milioane de dolari pe care Kylie Jenner l-a purtat în timpul defilării pentru Victoria’s Secret. Este cel mai scump din lume",
+        "link": "https://www.cancan.ro/cum-arata-sutienul-de-50-de-milioane-de-dolari-pe-care-kylie-jenner-l-a-purtat-in-timpul-defilarii-pentru-victorias-secret-este-cel-mai-scump-din-lume-21532642"
+      }
+    ],
+    "published_at": 1792401995,
+    "title_hu": "Kylie Jenner viselte a Victoria’s Secret 50 millió dolláros Fantasy Bra melltartóját",
+    "lead_hu": "Kylie Jenner először lépett a Victoria’s Secret Fashion Show kifutójára, és a márka 50 millió dollárra értékelt Fantasy Bra melltartóját viselte. A 4410 természetes gyémánttal díszített darab 2018 óta nem szerepelt a márka divatbemutatóján.",
+    "content_hu": "• **Kylie Jenner** először vonult végig a Victoria’s Secret Fashion Show kifutóján, és az eseményen a márka Fantasy Bra melltartóját viselte.\n\n• **A 50 millió dollárra értékelt melltartó** közepén egy 75,54 karátos, Fancy Vivid minősítésű sárga gyémánt található; a darabot összesen 4410 természetes gyémánt díszíti.\n\n• **A Fantasy Bra 2018 óta először tért vissza a bemutatóra.** Akkor a svéd modell, Elsa Hosk viselte.\n\n• **A melltartó közel 1,8 kilogrammot nyom**, elkészítésén több mint ezer órán át dolgoztak. Értéke a Fantasy Bra-k között rekordnak számít.",
+    "title_ro": "Kylie Jenner a purtat sutienul Fantasy Bra de 50 de milioane de dolari la prezentarea Victoria’s Secret",
+    "lead_ro": "Kylie Jenner a debutat pe podiumul Victoria’s Secret Fashion Show purtând sutienul Fantasy Bra al brandului, evaluat la 50 de milioane de dolari. Piesa, decorată cu 4.410 diamante naturale, nu mai fusese prezentată la show din 2018.",
+    "content_ro": "• **Kylie Jenner** a urcat pentru prima dată pe podiumul Victoria’s Secret Fashion Show și a purtat sutienul Fantasy Bra al brandului.\n\n• **Sutienul, evaluat la 50 de milioane de dolari,** are în centru un diamant galben Fancy Vivid de 75,54 de carate și este decorat cu 4.410 diamante naturale.\n\n• **Fantasy Bra a revenit pe podium după o pauză începută în 2018.** La prezentarea din acel an, piesa a fost purtată de modelul suedez Elsa Hosk.\n\n• **Sutienul cântărește aproape 1,8 kilograme**, iar realizarea sa a necesitat peste 1.000 de ore de muncă. Valoarea lui este un record pentru creațiile Fantasy Bra."
+  },
+  {
+    "group_id": "group_4d727cc5be",
+    "category": "Gazdaság",
+    "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Dan-Sucu-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Economedia",
+        "title": "Dan Șucu, Concordia: Următoarea etapă este de la made in Romania la created in Romania",
+        "link": "https://economedia.ro/dan-sucu-concordia-urmatoarea-etapa-este-de-la-made-in-romania-la-created-in-romania.html"
+      }
+    ],
+    "published_at": 1792401988,
+    "title_hu": "Dan Șucu, Concordia: Următoarea etapă este de la made in Romania la created in Romania",
+    "lead_hu": "Următoarea etapă pentru România este de la made in Romania la created in Romania, afirmă Dan Șucu, președintele Confederației Patronale Concordia, organizație care reunește peste 4.200 de companii mar…",
+    "content_hu": "Următoarea etapă pentru România este de la made in Romania la created in Romania, afirmă Dan Șucu, președintele Confederației Patronale Concordia, organizație care reunește peste 4.200 de companii mari și mici, cu capital românesc și străin, care angajează aproape jumătate de milion de angajați și au o contribuție de 30% din PIB. Confederația Patronală Concordia […]",
+    "title_ro": "Dan Șucu, Concordia: Următoarea etapă este de la made in Romania la created in Romania",
+    "lead_ro": "Următoarea etapă pentru România este de la made in Romania la created in Romania, afirmă Dan Șucu, președintele Confederației Patronale Concordia, organizație care reunește peste 4.200 de companii mar…",
+    "content_ro": "Următoarea etapă pentru România este de la made in Romania la created in Romania, afirmă Dan Șucu, președintele Confederației Patronale Concordia, organizație care reunește peste 4.200 de companii mari și mici, cu capital românesc și străin, care angajează aproape jumătate de milion de angajați și au o contribuție de 30% din PIB. Confederația Patronală Concordia […]"
+  },
+  {
+    "group_id": "group_20953883dd",
+    "fingerprint": "ccac9c6047ce84f1ba7c8baa28bcfbb4",
+    "category": "Erdély",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/hepta_7206018-1024x628.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "12 migranți au murit în Marea Egee, după de o barcă s-a răsturnat și cealaltă a fost implicată într-un accident",
+        "link": "https://www.mediafax.ro/externe/12-migranti-au-murit-in-marea-egee-dupa-de-o-barca-s-a-rasturnat-si-cealalta-a-fost-implicata-intr-un-accident-23827858"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Două incidente în Marea Egee. 12 migranți au murit în apropierea insulelor grecești Lesbos și Samos",
+        "link": "https://stirileprotv.ro/stiri/international/doua-incidente-in-marea-egee-12-migranti-au-murit-in-apropierea-insulelor-grecesti-lesbos-si-samos.html"
+      }
+    ],
+    "published_at": 1792401968,
+    "title_hu": "Tizenkét migráns halt meg két balesetben az Égei-tengeren",
+    "lead_hu": "Hétfőn két különálló incidens történt a görög Leszbosz és Szamosz közelében, amelyekben összesen 12 migráns, köztük egy csecsemő vesztette életét. Az egyik hajó egy parti őrhajóval ütközött, a másik felborult.",
+    "content_hu": "• **Hétfőn** két különálló incidensben összesen 12 migráns halt meg az Égei-tengeren, a görög Leszbosz és Szamosz szigetének közelében.\n\n• **Leszbosz közelében** egy migránsokat szállító motorcsónak a parti őrség járőrhajójának bal oldalával ütközött. A balesetben hatan, köztük egy csecsemő meghaltak, nyolcan túlélték az ütközést.\n\n• **Szamosz közelében** egy másik migránscsónak felborult; a hat halálos áldozat mellett több túlélőt is kimentettek.\n\n• **A görög parti őrség** közlése szerint a két eset körülményeit vizsgálják.",
+    "title_ro": "Doisprezece migranți au murit în două incidente în Marea Egee",
+    "lead_ro": "Luni, două incidente separate în apropierea insulelor grecești Lesbos și Samos s-au soldat cu moartea a 12 migranți, inclusiv a unui bebeluș. O ambarcațiune s-a ciocnit de o navă de patrulare a pazei de coastă, iar alta s-a răsturnat.",
+    "content_ro": "• **Luni**, 12 migranți au murit în două incidente separate în Marea Egee, în apropierea insulelor grecești Lesbos și Samos.\n\n• **În apropiere de Lesbos**, o ambarcațiune cu migranți s-a ciocnit de partea stângă a unei nave de patrulare a pazei de coastă. Șase persoane, inclusiv un bebeluș, au murit, iar opt au supraviețuit.\n\n• **În apropiere de Samos**, o altă ambarcațiune cu migranți s-a răsturnat; șase persoane au murit, iar mai mulți supraviețuitori au fost salvați.\n\n• **Paza de coastă a Greciei** a anunțat că investighează circumstanțele celor două incidente."
+  },
+  {
+    "group_id": "group_fbaad21ebe",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cele două puncte pentru comunitatea maghiară din acordul UDMR cu Luca Niculescu",
+        "link": "https://hotnews.ro/cele-doua-puncte-pentru-comunitatea-maghiara-din-acordul-udmr-cu-luca-niculescu-2379778"
+      }
+    ],
+    "published_at": 1792401909,
+    "title_hu": "Cele două puncte pentru comunitatea maghiară din acordul UDMR cu Luca Niculescu",
+    "lead_hu": "UDMR va semna un acord de susținere pentru șase luni cu premierul Luca Niculescu. Decizia Uniunii a fost luată în grupurile parlamentare cu o singură abținere, a declarat luni Kelemen Hunor. El a prec…",
+    "content_hu": "UDMR va semna un acord de susținere pentru șase luni cu premierul Luca Niculescu. Decizia Uniunii a fost luată în grupurile parlamentare cu o singură abținere, a declarat luni Kelemen Hunor. El a precizat că acordul are două pucte care privesc comunitatea maghiară. „Prevederile sunt extrem de simple, vorbim de rectificare, de buget de deficit …",
+    "title_ro": "Cele două puncte pentru comunitatea maghiară din acordul UDMR cu Luca Niculescu",
+    "lead_ro": "UDMR va semna un acord de susținere pentru șase luni cu premierul Luca Niculescu. Decizia Uniunii a fost luată în grupurile parlamentare cu o singură abținere, a declarat luni Kelemen Hunor. El a prec…",
+    "content_ro": "UDMR va semna un acord de susținere pentru șase luni cu premierul Luca Niculescu. Decizia Uniunii a fost luată în grupurile parlamentare cu o singură abținere, a declarat luni Kelemen Hunor. El a precizat că acordul are două pucte care privesc comunitatea maghiară. „Prevederile sunt extrem de simple, vorbim de rectificare, de buget de deficit …"
+  },
+  {
+    "group_id": "group_1e503083ce",
+    "fingerprint": "3e42bd7e5cf1ae3feda92e1c472182d0",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8145201-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "O provincie din Canada ar putea face pasul spre independență. Avertismentul premierului Carney: Un vot împotriva Canadei este un bluff periculos",
+        "link": "https://www.mediafax.ro/stirile-zilei/o-provincie-din-canada-ar-putea-face-pasul-spre-independenta-avertismentul-premierului-carney-un-vot-impotriva-canadei-este-un-bluff-periculos-23827920"
+      },
+      {
+        "source": "G4Media",
+        "title": "Provincia Alberta din Canada ar putea face pasul spre independență / Avertismentul premierului Carney: Un vot împotriva Canadei este o cacealma periculoasă",
+        "link": "https://www.g4media.ro/provincia-alberta-din-canada-ar-putea-face-pasul-spre-independenta-avertismentul-premierului-carney-un-vot-impotriva-canadei-este-o-cacealma-periculoasa.html"
+      }
+    ],
+    "published_at": 1792401837,
+    "title_hu": "Alberta konzultatív népszavazást tart a Kanadai föderációban maradásról",
+    "lead_hu": "Alberta lakói hétfőn konzultatív népszavazáson dönthetnek arról, hogy a tartomány Kanada része maradjon-e, vagy tartsanak egy kötelező érvényű, függetlenségről szóló újabb referendumot. Mark Carney kanadai miniszterelnök a Kanada elleni szavazást veszélyes blöffnek nevezte, miközben a függetlenség költségeit több százmilliárd kanadai dollárra becsülik.",
+    "content_hu": "• **Hétfőn** Alberta lakói konzultatív népszavazáson arról szavaznak, hogy a tartomány maradjon-e Kanada része, vagy tartsanak egy második, kötelező érvényű népszavazást a függetlenségről.\n\n• **A függetlenség támogatói** szerint Alberta hátrányos helyzetben van az ottawai kormánnyal fennálló pénzügyi viszonyában, és a Kanadához tartozás korlátozza a tartomány fosszilis energiahordozó-készleteinek kiaknázását.\n\n• **Danielle Smith tartományi miniszterelnök** korábban szükségtelennek nevezte a referendumot, de a kormányzó Egyesült Konzervatív Párt tagjainak nyomására mégis kiírta a konzultációt. Smith szerint a függetlenné válás átmenete mintegy 400 milliárd kanadai dollárba kerülhet, az új állam működtetése pedig évente további 25–50 milliárdba.\n\n• **A Calgaryi Egyetem Közpolitikai Iskolája** úgy becsülte, hogy a különválás öt év alatt akár 170 milliárd kanadai dollárnyi költséggel járhat, és növelné a bizonytalanságot. A tartomány korábbi vezetői, Jason Kenney és Rachel Notley is kiálltak Kanada egysége mellett.\n\n• **Mark Carney kanadai miniszterelnök** több látogatással igyekezett támogatni az ország egységét. Úgy fogalmazott: a Kanada elleni szavazás veszélyes blöff, amely évekig tartó bizonytalansághoz és elszalasztott lehetőségekhez vezethet.",
+    "title_ro": "Alberta organizează un referendum consultativ privind rămânerea în federația canadiană",
+    "lead_ro": "Locuitorii provinciei Alberta votează luni într-un referendum consultativ pentru a decide dacă provincia rămâne parte a Canadei sau dacă va fi organizat un al doilea referendum, obligatoriu, privind independența. Premierul canadian Mark Carney a numit votul împotriva Canadei un bluff periculos, în timp ce costurile unei eventuale separări sunt estimate la sute de miliarde de dolari canadieni.",
+    "content_ro": "• **Luni**, locuitorii provinciei Alberta votează într-un referendum consultativ pentru a decide dacă provincia rămâne parte a Canadei sau dacă va fi organizat un al doilea referendum, obligatoriu, privind independența.\n\n• **Susținătorii independenței** consideră că Alberta este dezavantajată de relația financiară cu guvernul de la Ottawa și că apartenența la Canada limitează exploatarea rezervelor de combustibili fosili ale provinciei.\n\n• **Danielle Smith, premierul provinciei**, a susținut anterior că referendumul nu este necesar, dar a convocat consultarea după presiunile unor membri ai Partidului Conservator Unit, pe care îl conduce. Smith estimează că tranziția spre independență ar putea costa aproximativ 400 de miliarde de dolari canadieni, iar funcționarea noului stat încă 25–50 de miliarde anual.\n\n• **Școala de Politici Publice a Universității din Calgary** estimează că separarea ar putea genera costuri de până la 170 de miliarde de dolari canadieni în cinci ani și ar spori incertitudinea. Foștii premieri ai provinciei Jason Kenney și Rachel Notley și-au exprimat, de asemenea, sprijinul pentru unitatea Canadei.\n\n• **Mark Carney, premierul Canadei**, a făcut mai multe vizite pentru a susține unitatea națională. El a avertizat că un vot împotriva Canadei este un bluff periculos, care ar putea duce la ani de incertitudine și la oportunități pierdute."
+  },
+  {
+    "group_id": "group_fd2b648e31",
+    "category": "Erdély",
+    "image": "https://maszol.ro/resized/2026_oktober/19/cikk_rendorseg_112_politia_polrom_240322_fb.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Ittas sofőrt és lejárt rendszámú autóval balesetező vezetőt kaptak el Udvarhelyszéken",
+        "link": "https://maszol.ro/belfold/Ittas-sofort-es-lejart-rendszamu-autoval-balesetezo-vezetot-kaptak-el-Udvarhelyszeken"
+      }
+    ],
+    "published_at": 1792401600,
+    "title_hu": "Ittas sofőrt és lejárt rendszámú autóval balesetező vezetőt kaptak el Udvarhelyszéken",
+    "lead_hu": "Két közlekedési szabálytalanságot tártak fel a rendőrök vasárnap Hargita megyében.",
+    "content_hu": "Két közlekedési szabálytalanságot tártak fel a rendőrök vasárnap Hargita megyében.",
+    "title_ro": "Ittas sofőrt és lejárt rendszámú autóval balesetező vezetőt kaptak el Udvarhelyszéken",
+    "lead_ro": "Két közlekedési szabálytalanságot tártak fel a rendőrök vasárnap Hargita megyében.",
+    "content_ro": "Két közlekedési szabálytalanságot tártak fel a rendőrök vasárnap Hargita megyében."
+  },
+  {
+    "group_id": "group_13e8ad81bd",
+    "category": "Kultúra",
+    "image": "https://maszol.ro/resized/2026_oktober/19/cikk_szinhaz_MVH_.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Furcsa követelmény: amikor az alapképzés többet ér, mint a mesteri vagy doktori végzettség",
+        "link": "https://maszol.ro/kultura/Furcsa-kovetelmeny-amikor-az-alapkepzes-tobbet-er-mint-a-mesteri-vagy-doktori-vegzettseg"
+      }
+    ],
+    "published_at": 1792401600,
+    "title_hu": "Furcsa követelmény: amikor az alapképzés többet ér, mint a mesteri vagy doktori végzettség",
+    "lead_hu": "Négy évnyi ideiglenes vezetés után szeptemberben hirdettek versenyvizsgát a Marosvásárhelyi Nemzeti Színház igazgatói állására.",
+    "content_hu": "Négy évnyi ideiglenes vezetés után szeptemberben hirdettek versenyvizsgát a Marosvásárhelyi Nemzeti Színház igazgatói állására.",
+    "title_ro": "Furcsa követelmény: amikor az alapképzés többet ér, mint a mesteri vagy doktori végzettség",
+    "lead_ro": "Négy évnyi ideiglenes vezetés után szeptemberben hirdettek versenyvizsgát a Marosvásárhelyi Nemzeti Színház igazgatói állására.",
+    "content_ro": "Négy évnyi ideiglenes vezetés után szeptemberben hirdettek versenyvizsgát a Marosvásárhelyi Nemzeti Színház igazgatói állására."
+  },
+  {
+    "group_id": "group_b8495bf7f2",
+    "category": "Kultúra",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8094065-hepta_mediafax_foto-abacapress_hepta-1024x538.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Protestatarii au blocat accesul în Muzeul Luvru „în semn de susținere” cu demonstrațiile din weekend",
+        "link": "https://www.mediafax.ro/stirile-zilei/protestatarii-au-blocat-accesul-in-muzeul-luvru-in-semn-de-sustinere-cu-demonstratiile-din-weekend-23827957"
+      }
+    ],
+    "published_at": 1792401577,
+    "title_hu": "Protestatarii au blocat accesul în Muzeul Luvru „în semn de susținere” cu demonstrațiile din weekend",
+    "lead_hu": "Accesul în Muzeul Luvru a fost blocat luni dimineața de mai mulți manifestanți, „în semn de susținere” cu protestele care au avut loc în weekend. Intrarea în muzeu se așteaptă să fie în continuare blo…",
+    "content_hu": "Accesul în Muzeul Luvru a fost blocat luni dimineața de mai mulți manifestanți, „în semn de susținere” cu protestele care au avut loc în weekend. Intrarea în muzeu se așteaptă să fie în continuare blocată până la prânz.",
+    "title_ro": "Protestatarii au blocat accesul în Muzeul Luvru „în semn de susținere” cu demonstrațiile din weekend",
+    "lead_ro": "Accesul în Muzeul Luvru a fost blocat luni dimineața de mai mulți manifestanți, „în semn de susținere” cu protestele care au avut loc în weekend. Intrarea în muzeu se așteaptă să fie în continuare blo…",
+    "content_ro": "Accesul în Muzeul Luvru a fost blocat luni dimineața de mai mulți manifestanți, „în semn de susținere” cu protestele care au avut loc în weekend. Intrarea în muzeu se așteaptă să fie în continuare blocată până la prânz."
+  },
+  {
+    "group_id": "group_84c18c1340",
+    "fingerprint": "6529070c843e8d093f7d8dc3ac7627b4",
+    "category": "Kultúra",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/tnb-facebook-teatrul-national-piesa-de-teatru-jpg.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Ghidul weekendului 16-18 octombrie în București: Teatru, festivaluri de toamnă, spectacole de lumini și gastronomie artizanală",
+        "link": "https://www.g4media.ro/ghidul-weekendului-16-18-octombrie-in-bucuresti-teatru-festivaluri-de-toamna-spectacole-de-lumini-si-gastronomie-artizanala.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Weekend trending în București, 17-18 octombrie: Ocolul Pământului în Grădina Botanică, Muzeul Sarmalelor la Biblioteca Națională și Destin Basarabean la Sala Palatului",
+        "link": "https://hotnews.ro/weekend-trending-in-bucuresti-17-18-octombrie-ocolul-pamantului-in-gradina-botanica-muzeul-sarmalelor-la-biblioteca-nationala-si-destin-basarabean-la-sala-palatului-2377838"
+      }
+    ],
+    "published_at": 1792401563,
+    "title_hu": "Színház, fényinstallációk és gasztronómiai fesztiválok várják a látogatókat Bukarestben",
+    "lead_hu": "Október 16–18. között több nagy kulturális és gasztronómiai esemény zajlik Bukarestben. Elindul a 36. Országos Színházi Fesztivál és a Lumina Park, emellett kézműves élelmiszerek vására, tökfesztiválok és családi programok is szerepelnek a hétvégi kínálatban.",
+    "content_hu": "• **Október 16–18. között** változatos programok várják a bukarestieket: színházi előadások, fényinstallációk, gasztronómiai vásárok, koncertek és természetismereti események is szerepelnek a kínálatban.\n\n• **A 36. Országos Színházi Fesztivál** október 16-án kezdődik, és tíz napon át tart. A programban 88 előadás és esemény, több mint 50 kísérőprogram, valamint több mint 24 helyszín szerepel; a kínálatban színházi előadások, beszélgetések, kiállítások és könyvbemutatók is vannak.\n\n• **A Lumina Park** október 16-án nyílik meg a Dimitrie Brândză Botanikus Kertben. A mintegy 1,5 kilométeres, több mint 200 interaktív fényinstallációt bemutató útvonal témája „A Föld körül”; a látogatók többek között Afrikát, az Északi-sarkvidéket, Kínát és az Egyesült Államokat idéző látványvilággal találkozhatnak.\n\n• **Az Artisan Food Market** október 16–18. között a Román Nemzeti Könyvtárban várja a látogatókat. A 13. alkalommal megrendezett vásáron mintegy 100 hazai termelő kínál élelmiszereket és italokat; a programban kóstolók, főzőbemutatók és mesterkurzusok is lesznek. Külön belépővel a „Sarmalék Múzeuma” több mint 100 kiállított tárgya is megtekinthető.\n\n• **A Titan Pumpkin Fest** a Titan parkban, október 16–18. között rendez tökfaragó és -díszítő foglalkozásokat; a szervezők öt tonna tököt készítenek elő. A programban kézműves vásár, ételkínálat, koncertek és gyermekprogramok is szerepelnek.\n\n• **A Taste of Transylvania** a Dimitrie Gusti Falumúzeumban mutatja be az erdélyi konyhát és az őszi hagyományokat. Ugyanebben a hétvégében a Brumărel-vásár kézműves termékekkel, helyi élelmiszerekkel és meleg ételekkel várja az érdeklődőket.\n\n• **A hétvégi további programok** között szerepelnek természetismereti foglalkozások, vezetett séta a Văcărești Természeti Parkban és a Băneasa-erdőben, valamint filmvetítések, koncertek és a Munteanu Fest jótékonysági esemény.",
+    "title_ro": "Teatru, instalații luminoase și festivaluri gastronomice în București",
+    "lead_ro": "În perioada 16–18 octombrie, Bucureștiul găzduiește mai multe evenimente culturale și gastronomice. Încep Festivalul Național de Teatru și Lumina Park, iar programul include și o piață de produse artizanale, festivaluri ale dovleacului și activități pentru familii.",
+    "content_ro": "• **În perioada 16–18 octombrie**, bucureștenii au la dispoziție un program variat, cu spectacole de teatru, instalații luminoase, târguri gastronomice, concerte și activități dedicate naturii.\n\n• **Festivalul Național de Teatru**, ajuns la ediția a 36-a, începe pe 16 octombrie și se desfășoară timp de zece zile. Programul cuprinde 88 de reprezentații și evenimente, peste 50 de manifestări conexe și mai mult de 24 de spații; sunt incluse spectacole, discuții, expoziții și lansări de carte.\n\n• **Lumina Park** se deschide pe 16 octombrie la Grădina Botanică „Dimitrie Brândză”. Traseul de aproximativ 1,5 kilometri cuprinde peste 200 de instalații luminoase interactive, sub tema „Ocolul Pământului”, cu decoruri inspirate din Africa, zona arctică, China și Statele Unite.\n\n• **Artisan Food Market** are loc în perioada 16–18 octombrie la Biblioteca Națională a României. La cea de-a XIII-a ediție participă aproximativ 100 de producători locali, iar programul include degustări, demonstrații culinare și masterclass-uri. „Muzeul Sarmalelor”, cu peste 100 de exponate, poate fi vizitat cu un bilet separat.\n\n• **Titan Pumpkin Fest** se desfășoară în Parcul Titan, între 16 și 18 octombrie, și propune ateliere de sculptat și decorat dovleci; organizatorii au pregătit cinci tone de dovleci. Programul mai include un târg de artizanat, mâncare, concerte și activități pentru copii.\n\n• **Taste of Transylvania** prezintă bucătăria ardelenească și tradițiile de toamnă la Muzeul Național al Satului „Dimitrie Gusti”. În același weekend, Târgul lui Brumărel reunește produse artizanale, bunătăți locale și preparate calde.\n\n• **Alte activități ale weekendului** includ ateliere despre biodiversitate, tururi ghidate în Parcul Natural Văcărești și în Pădurea Băneasa, proiecții de film, concerte și evenimentul caritabil Munteanu Fest."
+  },
+  {
+    "group_id": "group_8ca1f6f3bf",
+    "fingerprint": "89f4dc38c48b42b2bd0cb9b75c3710f4",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/19/cikk_rendorseg_rendorauto_112_roman_rendorseg_facebook_(1).jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Késsel támadt tanárára és iskolatársára egy 7. osztályos diák Besztercén",
+        "link": "https://maszol.ro/belfold/Kessel-tamadt-tanarara-es-iskolatarsara-egy-7-osztalyos-diak-Besztercen"
+      },
+      {
+        "source": "Digi24",
+        "title": "Atac cu cuțitul la o școală din Bistrița: o profesoară și un elev au fost răniți de un școlar din clasa a VIII-a",
+        "link": "https://www.digi24.ro/stiri/atac-cu-cutitul-la-o-scoala-din-bistrita-o-profesoara-si-un-elev-au-fost-raniti-de-un-scolar-din-clasa-a-viii-a-3998201"
+      },
+      {
+        "source": "Mediafax",
+        "title": "UPDATE Incident violent la o școală din Bistrița. Un elev a atacat cu un cuțit o profesoară și un coleg",
+        "link": "https://www.mediafax.ro/social/incident-violent-la-o-scoala-din-bistrita-un-elev-a-atacat-cu-un-cutit-o-profesoara-si-un-coleg-23827849"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Un elev de gimnaziu a atacat cu cuțitul o profesoară la o școală din Bistriţa. Un alt elev care a sărit în ajutor, rănit și el",
+        "link": "https://hotnews.ro/un-elev-de-gimnaziu-a-atacat-cu-cutitul-o-profesoara-si-un-coleg-la-o-scoala-din-bistrita-2379572"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Filmul atacului cu cuțitul de la școala din Bistriţa. Elevul care și-a înjunghiat profesoara căuta un alt copil / În ce stare sunt victimele",
+        "link": "https://hotnews.ro/filmul-atacului-cu-cutitul-de-la-scoala-din-bistrita-elevul-care-si-a-injunghiat-profesoara-cauta-un-alt-copil-in-ce-stare-sunt-victimele-2379629"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Incident grav la o școală din Bistrița: un elev și-a atacat cu un cuțit profesoara și un coleg. Ambii au fost răniți",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cadru-didactic-atacat-cu-un-cu-it-de-un-elev-de-gimnaziu-la-o-scoala-din-bistri-a.html"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "VIDEO. Atac cu cuțitul la o școală din nord-vestul țării. O profesoară și un copil, răniți de un elev de clasa a VII-a",
+        "link": "https://www.presasm.ro/video-atac-cu-cutitul-la-o-scoala-din-nord-vestul-tarii-o-profesoara-si-un-copil-raniti-de-un-elev/53834"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Elevul din Bistrița care a înjunghiat o profesoară și un elev și-a anunțat atacul pe TikTok. „Nu aveți idee ce periculos sunt”",
+        "link": "https://hotnews.ro/elevul-din-bistrita-care-a-injunghiat-o-profesoara-si-un-elev-si-a-anuntat-atacul-pe-tiktok-nu-aveti-idee-ce-periculos-sunt-2379687"
+      }
+    ],
+    "published_at": 1792401439,
+    "title_hu": "Késsel támadt tanárára és egy diákra egy hetedikes Besztercén",
+    "lead_hu": "Október 19-én reggel egy hetedik osztályos, 13 éves tanuló késsel megsebesített egy 28 éves tanárnőt és egy 12 éves diákot a besztercei Ștefan cel Mare Általános Iskolában. Mindketten eszméletüknél vannak, állapotuk stabil; a mentők további 14, pánikrohamot átélt embert is megvizsgáltak. A rendőrség őrizetbe vette a tanulót, az iskolában felfüggesztették a tanítást, az ügyben nyomozás folyik.",
+    "content_hu": "• **Október 19-én, hétfőn reggel körülbelül 8 óra 40 perckor** érkezett bejelentés a 112-es segélyhívón egy besztercei iskolában történt késes támadásról.\n\n• **A rendőrség szerint egy hetedik osztályos tanuló** késsel megsebesített egy tanárnőt és egy másik diákot a Ștefan cel Mare Általános Iskolában.\n\n• **A támadás a tanárnő hatodikos osztályában történt**, ahol a pedagógus matematikát tanított. A megyei főtanfelügyelő beszámolója szerint a támadó egy hatodikos diákot keresett, akinek ártani akart; a tanárnő megpróbálta megakadályozni, hogy belépjen a terembe, mire a fiú megtámadta. A célba vett diák nem sérült meg, egy másik tanuló közbelépett és megsebesült.\n\n• **A támadó 13 éves volt, és korábban Spanyolországból került át az iskolába.** Sajtóbeszámolók szerint motoros sisakot és maszkot viselt, és zsebkést használt. Egy helyi lap szerint a fiú a támadás előtt a mosdóban tartózkodott, majd a közösségi oldalán videót és történeteket tett közzé.\n\n• **A TikTok-bejegyzések a sajtó szerint a támadás előzetes bejelentését tartalmazták.** A helyi beszámolók szerint a fiú azt írta, hogy nyolc hónapja készült rá, és olyan kijelentéseket tett, mint „Találkozunk Valhallában” és „Fogalmuk sincs, mennyire vagyok veszélyes”. A HotNews szerint a fiók szélsőséges tartalmakat is megosztott; ezek sajtóértesülések.\n\n• **A támadó állítása szerint a célba vett diák más vallású volt.** A főtanfelügyelő radikalizálódásra utaló tendenciákat említett. Egy sajtóbeszámolóban az „indiai” származásra utaló állítás is szerepelt, az iskola azonban azt közölte, hogy nincsenek indiai diákjai, így tévedés történhetett. A motivációt a hatóságok vizsgálják.\n\n• **A sérültek egy 28 éves nő és egy 12 éves fiú; mindketten eszméletüknél vannak, állapotuk stabil, de meg vannak ijedve.** A tanárnőt a sürgősségi osztályon, a diákot a gyermekgyógyászati sürgősségin vizsgálták.\n\n• **A mentők a két sérülten kívül további 14 embert is megvizsgáltak**, köztük 13, 12–16 éves fiatalt és egy 55 éves felnőttet; mindannyian pánikrohamot éltek át. A megvizsgáltak közül egy 13 éves, enyhe, 0-s fokozatú koponyasérülést szenvedett fiatalt további vizsgálatokra a gyermek-sürgősségire szállítottak.\n\n• **A rendőrök a tanulót a helyszínen ártalmatlanították és őrizetbe vették.** A rendőrség minősített emberölés kísérletének gyanújával értesítette a Beszterce-Naszód Megyei Törvényszék melletti ügyészséget; a főtanfelügyelő később azt közölte, hogy az ügyet a DIICOT vette át.\n\n• **Az iskolában felfüggesztették az aznapi tanítást.** A szülők fokozatosan hazavihették a gyerekeket, a többieket felügyelet mellett tartották. Az iskolában kamerák működnek a folyosókon és a tantermekben; a főtanfelügyelő szerint ugyanakkor nincs szigorú beléptetési vagy ellenőrzési eljárás, és a hatóságok az eset előtt két héttel megelőző egyeztetést tartottak. Az iskola a belépés szabályozására projektet tervez.",
+    "title_ro": "Un elev de clasa a VII-a a atacat cu cuțitul o profesoară și un coleg, la Bistrița",
+    "lead_ro": "În dimineața zilei de 19 octombrie, un elev de 13 ani, din clasa a VII-a, a rănit cu un cuțit o profesoară de 28 de ani și un elev de 12 ani, la Școala Gimnazială „Ștefan cel Mare” din Bistrița. Ambele victime sunt conștiente și stabile; echipajele medicale au evaluat și alte 14 persoane care au suferit atacuri de panică. Poliția l-a reținut pe elev, cursurile au fost suspendate, iar cazul este anchetat.",
+    "content_ro": "• **În 19 octombrie, luni, în jurul orei 08:40**, polițiștii au fost sesizați prin 112 despre un atac cu cuțitul la o școală din Bistrița.\n\n• **Potrivit poliției, un elev de clasa a VII-a** a rănit cu un cuțit o profesoară și un alt elev, la Școala Gimnazială „Ștefan cel Mare”.\n\n• **Atacul a avut loc în clasa a VI-a în care profesoara preda matematică.** Potrivit inspectorului școlar general, elevul agresor căuta un școlar de clasa a VI-a căruia voia să-i facă rău. Profesoara a încercat să-i blocheze accesul în sală, iar băiatul a atacat-o. Elevul vizat nu a fost rănit; un alt copil a intervenit și a fost rănit.\n\n• **Elevul suspectat de atac avea 13 ani și venise la școală după ce locuise în Spania.** Potrivit presei, purta cască de motociclist și cagulă și avea un briceag. Un site local a scris că, înainte de atac, băiatul a stat în baia școlii, apoi a publicat videoclipuri și story-uri pe rețelele sociale.\n\n• **Potrivit presei, postările de pe TikTok anunțau atacul.** Relatările locale susțin că elevul a scris că se pregătea de opt luni și a publicat mesaje precum „Ne vedem în Valhalla” și „Habar nu au cât sunt de periculos”. HotNews a relatat că acel cont distribuia și conținut extremist; informațiile provin din relatări de presă.\n\n• **Elevul ar fi spus că școlarul vizat era de altă religie.** Inspectorul școlar general a vorbit despre posibile tendințe de radicalizare. O relatare din presă a menționat și afirmația că elevul vizat ar fi fost „indian”; școala a spus însă că nu are elevi indieni și că ar putea fi vorba despre o confuzie. Autoritățile investighează motivul atacului.\n\n• **Victimele sunt o femeie de 28 de ani și un băiat de 12 ani; ambii sunt conștienți și stabili, dar speriați.** Profesoara a fost investigată la UPU-SMURD, iar elevul la UPU Pediatrie.\n\n• **Pe lângă cele două victime, echipajele medicale au evaluat alte 14 persoane**, dintre care 13 minori cu vârste între 12 și 16 ani și un adult de 55 de ani; toți au avut atacuri de panică. Dintre cei evaluați, un minor de 13 ani, cu traumatism cranio-cerebral de gradul 0, a fost transportat la UPU Pediatrie pentru investigații suplimentare.\n\n• **Polițiștii l-au imobilizat pe elev și l-au luat în custodie.** IPJ a sesizat Parchetul de pe lângă Tribunalul Bistrița-Năsăud pentru tentativă la omor calificat; ulterior, inspectorul școlar general a declarat că ancheta a fost preluată de DIICOT.\n\n• **Cursurile au fost suspendate pentru ziua respectivă.** Părinții și-au putut lua copiii treptat, iar ceilalți elevi au rămas sub supraveghere. Școala are camere video pe holuri și în săli, însă, potrivit inspectorului școlar general, nu există o procedură strictă de control al accesului. Autoritățile organizaseră o întâlnire de prevenție cu două săptămâni înainte, iar școala urma să dezvolte un proiect pentru reglementarea accesului."
+  },
+  {
     "group_id": "group_ae5cc01943",
     "category": "Erdély",
     "image": "",
@@ -110,27 +547,6 @@
     "title_ro": "Rachete cu rază lungă și zeci de mii de militari. Japonia și SUA au început exercițiul militar „Keen Sword”",
     "lead_ro": "Japonia și Statele Unite au demarat luni exercițiul militar comun „Keen Sword”, una dintre cele mai ample manevre organizate vreodată între cei doi aliați, reunind 45.000 de militari japonezi și 12.00…",
     "content_ro": "Japonia și Statele Unite au demarat luni exercițiul militar comun „Keen Sword”, una dintre cele mai ample manevre organizate vreodată între cei doi aliați, reunind 45.000 de militari japonezi și 12.000 de soldați americani. Manevrele vor desfășura, pentru prima dată, rachete cu rază lungă de acțiune în afara bazelor lor permanente."
-  },
-  {
-    "group_id": "group_83564c22d4",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2024/01/FB1A0027.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Florin Barbu, propus de PSD pentru Ministerul Agriculturii în guvernul Niculescu, audiat luni în Parlament: Dacă nu voi primele 4 măsuri pe agricultură din programul de guvernare în primele 100 de zile, voi pleca de la Ministerul Agriculturii",
-        "link": "https://www.g4media.ro/florin-barbu-propus-de-psd-pentru-ministerul-agriculturii-in-guvernul-niculescu-audiat-luni-in-parlament.html"
-      }
-    ],
-    "published_at": 1792400920,
-    "title_hu": "Florin Barbu, propus de PSD pentru Ministerul Agriculturii în guvernul Niculescu, audiat luni în Parlament: Dacă nu voi primele 4 măsuri pe agricultură din programul de guvernare în primele 100 de zile, voi pleca de la Ministerul Agriculturii",
-    "lead_hu": "Florin Barbu este audiat luni, începând cu ora 12:00, în Comisia pentru Agricultură, după ce a fost propus de PSD pentru un nou mandat la conducerea Ministerului Agriculturii și Dezvoltării Rurale în …",
-    "content_hu": "Florin Barbu este audiat luni, începând cu ora 12:00, în Comisia pentru Agricultură, după ce a fost propus de PSD pentru un nou mandat la conducerea Ministerului Agriculturii și Dezvoltării Rurale în Guvernul condus de Luca Niculescu. Urmărește pe G4Media.ro cele mai importante declarații: Cred că împreună aici nu trebuie să mai discutăm despre politică, […] © G4Media.ro.",
-    "title_ro": "Florin Barbu, propus de PSD pentru Ministerul Agriculturii în guvernul Niculescu, audiat luni în Parlament: Dacă nu voi primele 4 măsuri pe agricultură din programul de guvernare în primele 100 de zile, voi pleca de la Ministerul Agriculturii",
-    "lead_ro": "Florin Barbu este audiat luni, începând cu ora 12:00, în Comisia pentru Agricultură, după ce a fost propus de PSD pentru un nou mandat la conducerea Ministerului Agriculturii și Dezvoltării Rurale în …",
-    "content_ro": "Florin Barbu este audiat luni, începând cu ora 12:00, în Comisia pentru Agricultură, după ce a fost propus de PSD pentru un nou mandat la conducerea Ministerului Agriculturii și Dezvoltării Rurale în Guvernul condus de Luca Niculescu. Urmărește pe G4Media.ro cele mai importante declarații: Cred că împreună aici nu trebuie să mai discutăm despre politică, […] © G4Media.ro."
   },
   {
     "group_id": "group_b920ebb71c",
@@ -624,79 +1040,6 @@
     "title_ro": "AUR nu va vota Guvernul Luca Niculescu",
     "lead_ro": "Petrișor Peiu, liderul senatorilor AUR, a anunțat că parlamentarii partidului nu vor vota Guvernul condus de Luca Niculescu. Printre motivele invocate se numără modul de formare a guvernului, întrebările privind numirea fratelui premierului desemnat la CFR Călători și dimensiunea cabinetului.",
     "content_ro": "• **Potrivit anunțului lui Petrișor Peiu,** parlamentarii AUR nu vor vota Guvernul Luca Niculescu, care urma să ajungă marți la vot în Parlament.\n\n• **Formarea guvernului** a fost criticată de Peiu, care a susținut că s-ar fi impus voința personală a președintelui Nicușor Dan și că PNL și UDMR l-ar sprijini în mod mascat.\n\n• **Numirea fratelui premierului desemnat** ca director tehnic la CFR Călători trebuie clarificată, a afirmat Peiu; acesta a susținut că numirea ridică întrebări privind calificările și guvernanța corporativă.\n\n• **Peiu a criticat și membri ai cabinetului:** a reproșat activitatea anterioară a lui Alexandru Nazare, Florin Manole și Florin Barbu în domenii precum fiscalitatea, indexarea pensiilor și agricultura.\n\n• **Dimensiunea și programul guvernului** au fost, de asemenea, contestate: Peiu a calificat drept supradimensionat cabinetul cu 18 miniștri și a descris programul ca fiind „mincinos”, asemănător celui al Guvernului Ciolacu."
-  },
-  {
-    "group_id": "group_7828f76de9",
-    "fingerprint": "5aca2da1d178273b07d1ee5f16a49cdb",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjA2JTJGMjg5NTYzOF8yODk1/NjM4X0lEMjg3MjExLUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9ZmVlYzM2NjVjM2IwYzI2YWMxMGU0NzI1YmU5NzlmNDI=.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "PNL decide sâmbătă dacă votează Guvernul Niculescu. Ilie Bolojan: „Votul ar putea să ne coste nu doar politic, ci și personal”",
-        "link": "https://stirileprotv.ro/stiri/politic/pnl-decide-sambata-daca-voteaza-guvernul-niculescu-ilie-bolojan-votul-ar-putea-sa-ne-coste-nu-doar-politic-ci-si-personal.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "STENOGRAME din ședința PNL. De ce insistă Bolojan ca PNL să voteze guvernul Luca Niculescu: „Nu mai e o problemă de calcul politic”",
-        "link": "https://adevarul.ro/politica/stenograme-din-sedinta-pnl-de-ce-insista-bolojan-2564679.html"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "PNL a decis să voteze Guvernul Niculescu. Ilie Bolojan: „Acest vot nu ar fi fost acordat în condiții normale”",
-        "link": "https://www.ebihoreanul.ro/stiri/pnl-a-decis-sa-voteze-guvernul-niculescu-ilie-bolojan-daca-am-face-exclusiv-un-calcul-strict-politic-pnl-nu-ar-trebui-sa-voteze-investirea-acestui-guvern-205901.html"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "„PNL nu este egal PSD”. Bolojan explică de ce liberalii votează Guvernul Niculescu, dar trec în opoziție (VIDEO)",
-        "link": "https://www.ebihoreanul.ro/stiri/pnl-nu-este-egal-psd-bolojan-explica-de-ce-liberalii-voteaza-guvernul-niculescu-dar-trec-in-opozitie-video-205902.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ilie Bolojan va semna duminică acordul de susținere cu premierul desemnat Luca Niculescu: Condiția strictă pusă",
-        "link": "https://stirileprotv.ro/stiri/politic/ilie-bolojan-va-semna-duminica-acordul-de-sustinere-cu-premierul-desemnat-luca-niculescu-conditia-stricta-pusa.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Bolojan a semnat acordul cu Niculescu: „Stabileşte condiţiile pentru următoarele două-trei luni”. Clauză obligatorie pentru deficit",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-a-semnat-acordul-cu-niculescu-stabileste-conditiile-pentru-urmatoarele-doua-trei-luni-clauza-obligatorie-pentru-deficit-3997903"
-      },
-      {
-        "source": "Digi24",
-        "title": "Acordul politic dintre Ilie Bolojan și Luca Niculescu. PNL promite să nu dea jos guvernul până în martie, dar cu unele condiții (surse)",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/acordul-politic-dintre-ilie-bolojan-si-luca-niculescu-pnl-promite-sa-nu-dea-jos-guvernul-pana-in-martie-dar-cu-unele-conditii-surse-3998387"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Liderul USR, după ce PNL a spus că ia în calcul un acord politic cu Luca Niculescu: „Nu putem să facem parte din tot felul de aranjamente de culise”",
-        "link": "https://hotnews.ro/liderul-usr-dupa-ce-pnl-a-spus-ca-ia-in-calcul-un-acord-politic-cu-luca-niculescu-nu-putem-sa-facem-parte-din-tot-felul-de-aranjamente-de-culise-2374909"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Fierbe PNL înaintea votului pentru Guvernul Niculescu. Două filiale se opun, iar unii liberali cer anticipate",
-        "link": "https://www.ebihoreanul.ro/stiri/fierbe-pnl-inaintea-votului-pentru-guvernul-niculescu-doua-filiale-se-opun-iar-unii-liberali-cer-anticipate-205896.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alin Tișe îi cere demisia lui Bolojan și acuză conducerea PNL de incompetență: „Pleacă toți sau niciunul”",
-        "link": "https://www.mediafax.ro/politic/alin-tise-ii-cere-demisia-lui-bolojan-si-acuza-conducerea-pnl-de-incompetenta-pleaca-toti-sau-niciunul-23827907"
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Nu mergi la război cu o armată de mercenari”. Daniel Fenechiu, despre liberalii care ar putea pleca din PNL",
-        "link": "https://www.mediafax.ro/politic/nu-mergi-la-razboi-cu-o-armata-de-mercenari-daniel-fenechiu-despre-liberalii-care-ar-putea-pleca-din-pnl-23827913"
-      }
-    ],
-    "published_at": 1792399911,
-    "title_hu": "A PNL ellenzékbe vonul, de feltételekkel megszavazza a Niculescu-kormányt",
-    "lead_hu": "A PNL országos vezetése szombaton úgy döntött, hogy a párt ellenzékbe vonul, képviselői pedig feltételes, „szükségből adott” szavazattal támogatják Luca Niculescu kormányának beiktatását. Ilie Bolojan vasárnap aláírta a kijelölt miniszterelnökkel a megállapodást: a PNL a deficitcélok betartását és a 2027-es költségvetési fegyelmet várja, a vállalások megszegése esetére pedig fenntartja a bizalmatlansági indítvány lehetőségét.",
-    "content_hu": "• **A PNL szombati döntése** alapján a liberális képviselők megszavazzák Luca Niculescu kormányának beiktatását, a párt pedig ellenzékbe vonul. A vezetőség a beszámolók szerint 6 ellenszavazattal és 1 tartózkodással fogadta el a javaslatot; a vita feszült volt, és több megyei szervezet, illetve politikus ellenezte a kabinet támogatását.\n\n• **Bolojan és Niculescu vasárnap aláírta a megállapodást.** A dokumentum nem koalíciós szerződés, és nem jelent feltétel nélküli politikai támogatást vagy a kormány összetételének jóváhagyását. A PNL saját meghatározása szerint a szavazat a politikai válság lezárását és a teljes jogkörű kormány megalakítását szolgáló, feltételes és célhoz kötött „szükségszavazat”.\n\n• **A megállapodás konkrét deficitcélja** szerint Románia 2027-es költségvetési hiánya legfeljebb a GDP 5,3 százaléka lehet. A PNL a 2027-es költségvetést csak akkor támogatja, ha az reális, beszedhető bevételekre épül, folytatja a fiskális konszolidációt, védi a beruházásokat, és nem vállal fedezet nélküli kiadásokat.\n\n• **A bizalmatlansági indítványokra vonatkozó vállalás** a Digi24 által ismertetett megállapodás szerint 2027. március 1-jéig érvényes: a PNL addig nem kezdeményez és nem támogat bizalmatlansági indítványt, kivéve, ha a kormány megszegi az egyezség vállalásait vagy a jó kormányzás alapelveit. A párt ugyanakkor fenntartja a lehetőséget, hogy egyszerű indítványokkal bírálja a minisztereket; Bolojan a megállapodás időtartamát a költségvetés elfogadásához is kötötte.\n\n• **A teljes jogkörű kormány szükségességét Bolojan a közszolgáltatások finanszírozásával indokolta.** Szerinte az ügyvivő kabinet nem tud költségvetési kiigazítást elrendelni, miközben egyes sürgősségi osztályok, a mentők és a katasztrófavédelem forrásai kiegészítésre szorulnak. A Floreasca kórház sürgősségi osztályának 2026-os induló előirányzata 5 millió lej alatt maradt a 2025-ös, 10 millió lej fölötti összeghez képest; Marosvásárhelyen 8 millióról 4 millió lej alá csökkent a keret. Bolojan az üzemanyagárak 20–30 százalékos emelkedésére is figyelmeztetett.\n\n• **Bolojan további költségvetési kockázatként** említette, hogy a közlekedési tárca PNRR-projektjeire 19,5 milliárd euró értékben kötöttek szerződéseket, miközben a végleges keret 4,6 milliárd euró; szerinte a már megkezdett munkák folytatásához további forrásokra van szükség. Azt is állította, hogy az aszály miatt a cernavodai erőmű a romániai energiatermelés mintegy 20 százalékát nem tudta biztosítani.\n\n• **A PNL politikai támogatással betöltött tisztségviselői távoznak.** Bolojan bejelentette, hogy a következő hét elején lemondanak a párt támogatásával betöltött politikai pozíciókból. Ez nem vonatkozik a versenyvizsgával vagy más törvényes eljárással megszerzett állásokra.\n\n• **A párton belüli ellenállás a döntés után is látható maradt.** A PNL Iași megyei szervezete egyhangúlag elutasította a kabinet támogatását; Vrancea és más megyék politikusai is bírálták a PSD meghatározó szerepét és a miniszterjelölteket. Alin Tișe, a Kolozs Megyei Tanács elnöke Bolojan és a pártvezetés lemondását követelte, és azt mondta, vagy minden politikai kinevezett távozzon, vagy senki. Daniel Fenechiu szenátusi frakcióvezető ezzel szemben Bolojan széles párton belüli támogatásáról beszélt.\n\n• **Az USR nem támogatja a kormány beiktatását.** Dominic Fritz szerint nem világos, milyen parlamenti többség állna a kabinet mögött, és kifogásolta a PSD-s miniszterek részvételét. Azt mondta, az USR és a PNL eltérően viszonyul a kormányhoz, de továbbra is együttműködhetnek egy PSD és AUR nélküli politikai alternatíva kialakításán.\n\n• **A parlamenti menetrend szerint** a miniszterjelöltek meghallgatása hétfőn és kedden, a kormány beiktatási szavazása pedig október 20-án, kedden 14 órakor esedékes.",
-    "title_ro": "PNL intră în opoziție, dar votează condiționat Guvernul Niculescu",
-    "lead_ro": "Conducerea PNL a decis sâmbătă ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, în timp ce partidul va trece în opoziție. Ilie Bolojan a semnat duminică acordul cu premierul desemnat: liberalii cer respectarea țintelor de deficit și disciplină bugetară pentru 2027, rezervându-și posibilitatea unei moțiuni de cenzură dacă angajamentele sunt încălcate.",
-    "content_ro": "• **Decizia PNL de sâmbătă** este ca parlamentarii liberali să voteze învestirea Guvernului Luca Niculescu, iar partidul să intre în opoziție. Potrivit relatărilor, conducerea a aprobat propunerea cu 6 voturi împotrivă și o abținere; dezbaterea a fost tensionată, iar mai multe filiale și persoane din partid s-au opus susținerii Cabinetului.\n\n• **Bolojan și Niculescu au semnat acordul duminică.** Documentul nu este un acord de coaliție și nu reprezintă nici susținere politică necondiționată, nici aprobarea componenței Guvernului. PNL descrie votul drept unul condiționat, punctual și „de necesitate”, menit să încheie criza politică și să permită instalarea unui guvern cu puteri depline.\n\n• **Ținta concretă privind deficitul** prevăzută de acord este ca deficitul bugetar al României să nu depășească 5,3% din PIB în 2027. PNL este pregătit să susțină bugetul pe 2027 doar dacă acesta este realist și fundamentat pe venituri care pot fi încasate, continuă consolidarea fiscală, protejează investițiile și evită cheltuielile fără acoperire.\n\n• **Angajamentul privind moțiunile de cenzură** este valabil, potrivit acordului consultat de Digi24, până la 1 martie 2027: PNL nu va iniția și nu va vota o moțiune de cenzură până atunci, cu excepția cazului în care Guvernul încalcă angajamentele acordului sau principiile bunei guvernări. Partidul își păstrează însă libertatea de a depune moțiuni simple împotriva miniștrilor; Bolojan a legat durata acordului și de adoptarea bugetului.\n\n• **Bolojan a justificat necesitatea unui guvern cu puteri depline prin finanțarea serviciilor publice.** În opinia sa, Guvernul interimar nu poate face rectificări bugetare, deși unele unități de primiri urgențe, serviciile de ambulanță și inspectoratele pentru situații de urgență au nevoie de fonduri suplimentare. Alocarea inițială pentru UPU Floreasca în 2026 a fost sub 5 milioane de lei, față de peste 10 milioane în 2025; la Târgu Mureș, suma a scăzut de la 8 milioane la sub 4 milioane de lei. Bolojan a invocat și creșterea cu 20–30% a prețurilor la combustibili.\n\n• **Bolojan a indicat și alte riscuri bugetare:** pentru proiecte PNRR ale Ministerului Transporturilor au fost semnate contracte de 19,5 miliarde de euro, în timp ce alocarea finală este de 4,6 miliarde; el a spus că lucrările începute au nevoie de finanțare suplimentară. Totodată, a afirmat că seceta a împiedicat centrala de la Cernavodă să asigure aproximativ 20% din producția de energie a României.\n\n• **Demnitarii susținuți politic de PNL își vor părăsi funcțiile.** Bolojan a anunțat că aceștia își vor depune demisiile la începutul săptămânii următoare. Măsura nu îi vizează pe cei care au obținut posturile prin concurs sau prin alte proceduri legale.\n\n• **Disensiunile interne din PNL au rămas vizibile.** Organizația PNL Iași a respins în unanimitate susținerea Cabinetului, iar politicieni din Vrancea și din alte filiale au criticat rolul dominant al PSD și nominalizările de miniștri. Alin Tișe, președintele Consiliului Județean Cluj, a cerut demisia lui Bolojan și a conducerii partidului și a susținut că trebuie să plece fie toți cei numiți politic, fie niciunul. În schimb, liderul senatorilor PNL, Daniel Fenechiu, a vorbit despre sprijinul larg de care se bucură Bolojan în partid.\n\n• **USR nu susține învestirea Guvernului.** Dominic Fritz a spus că nu este clar pe ce majoritate parlamentară s-ar baza Cabinetul și a criticat participarea miniștrilor PSD. El a afirmat că USR și PNL au abordări diferite față de Guvern, dar pot continua să colaboreze pentru o alternativă politică fără PSD și AUR.\n\n• **Potrivit calendarului parlamentar,** audierile miniștrilor propuși sunt programate luni și marți, iar votul de învestire al Guvernului este prevăzut pentru marți, 20 octombrie, la ora 14:00."
   },
   {
     "group_id": "group_acabd7db2e",
@@ -1853,74 +2196,6 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_8ca1f6f3bf",
-    "fingerprint": "dedb6f6efc5df38c9739da68e2ff7034",
-    "category": "Általános",
-    "image": "https://maszol.ro/resized/2026_oktober/19/cikk_rendorseg_rendorauto_112_roman_rendorseg_facebook_(1).jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Késsel támadt tanárára és iskolatársára egy 7. osztályos diák Besztercén",
-        "link": "https://maszol.ro/belfold/Kessel-tamadt-tanarara-es-iskolatarsara-egy-7-osztalyos-diak-Besztercen"
-      },
-      {
-        "source": "Digi24",
-        "title": "Atac cu cuțitul la o școală din Bistrița: o profesoară și un elev au fost răniți de un școlar din clasa a VIII-a",
-        "link": "https://www.digi24.ro/stiri/atac-cu-cutitul-la-o-scoala-din-bistrita-o-profesoara-si-un-elev-au-fost-raniti-de-un-scolar-din-clasa-a-viii-a-3998201"
-      },
-      {
-        "source": "G4Media",
-        "title": "O profesoară și un elev, răniți cu un cuțit de un elev de clasa a VII-a în Bistrița / Agresorul a fost imobilizat de polițiști",
-        "link": "https://www.g4media.ro/o-profesoara-si-un-elev-raniti-cu-un-cutit-de-un-elev-de-clasa-a-vii-a-in-bistrita-agresorul-a-fost-imobilizat-de-politisti.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "UPDATE Incident violent la o școală din Bistrița. Un elev a atacat cu un cuțit o profesoară și un coleg",
-        "link": "https://www.mediafax.ro/social/incident-violent-la-o-scoala-din-bistrita-un-elev-a-atacat-cu-un-cutit-o-profesoara-si-un-coleg-23827849"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Un elev de gimnaziu a atacat cu cuțitul o profesoară la o școală din Bistriţa. Un alt elev care a sărit în ajutor, rănit și el",
-        "link": "https://hotnews.ro/un-elev-de-gimnaziu-a-atacat-cu-cutitul-o-profesoara-si-un-coleg-la-o-scoala-din-bistrita-2379572"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Atac cu cuțitul într-o școală din Bistrița. O profesoară și un elev au fost răniți",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/atac-cu-cutitul-intr-o-scoala-din-bistrita-o-2564892.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Atac la o școală din Bistrița. Un elev și-a înjunghiat profesoara în sala de clasă",
-        "link": "https://www.cancan.ro/atac-la-o-scoala-din-bistrita-un-elev-si-a-injunghiat-profesoara-in-sala-de-clasa-21532590"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Filmul atacului cu cuțitul de la școala din Bistriţa. Elevul care și-a înjunghiat profesoara căuta un alt copil / În ce stare sunt victimele",
-        "link": "https://hotnews.ro/filmul-atacului-cu-cutitul-de-la-scoala-din-bistrita-elevul-care-si-a-injunghiat-profesoara-cauta-un-alt-copil-in-ce-stare-sunt-victimele-2379629"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Incident grav la o școală din Bistrița: un elev și-a atacat cu un cuțit profesoara și un coleg. Ambii au fost răniți",
-        "link": "https://stirileprotv.ro/stiri/actualitate/cadru-didactic-atacat-cu-un-cu-it-de-un-elev-de-gimnaziu-la-o-scoala-din-bistri-a.html"
-      },
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "VIDEO. Atac cu cuțitul la o școală din nord-vestul țării. O profesoară și un copil, răniți de un elev de clasa a VII-a",
-        "link": "https://www.presasm.ro/video-atac-cu-cutitul-la-o-scoala-din-nord-vestul-tarii-o-profesoara-si-un-copil-raniti-de-un-elev/53834"
-      }
-    ],
-    "published_at": 1792397610,
-    "title_hu": "Késsel támadt tanárára és egy diákra egy hetedikes Besztercén",
-    "lead_hu": "Október 19-én reggel egy hetedik osztályos tanuló késsel megsebesített egy 28 éves tanárnőt és egy 12 éves diákot a besztercei Ștefan cel Mare Általános Iskolában. Mindketten eszméletüknél vannak, állapotuk stabil; a rendőrség őrizetbe vette a tanulót, az iskolában felfüggesztették a tanítást. A hatóságok vizsgálják az esetet, a rendőrség pedig minősített emberölés kísérletének gyanújával értesítette az ügyészséget.",
-    "content_hu": "• **Október 19-én, hétfőn reggel körülbelül 8 óra 40 perckor** érkezett bejelentés a 112-es segélyhívón egy besztercei iskolában történt késes támadásról.\n\n• **A rendőrség szerint egy hetedik osztályos tanuló** késsel megsebesített egy tanárnőt és egy másik diákot a Ștefan cel Mare Általános Iskolában.\n\n• **Sajtóbeszámolók szerint a tanárnő éppen matematikát tanított egy hatodik osztálynak**, amikor a támadó az osztályteremhez ment. A hírek szerint a 13 éves, nemrég másik iskolából áthelyezett fiú motoros sisakot és maszkot viselt, és zsebkést használt. A Mediafax beszámolója szerint a tanuló korábban Spanyolországból került át az iskolába. Egy diák a tanárnő segítségére sietett, és ő is megsérült.\n\n• **A tanfelügyelőség vezetőjének beszámolója szerint a támadó egy hatodikos diákot keresett**, akinek ártani akart. A tanárnő nem engedte be az osztályterembe; ekkor a tanuló rátámadt, majd az osztályba jutva tovább kereste a célba vett diákot. A tanárnőt a homlokán és az oldalsó hasi részén érte késszúrás; a célba vett diák nem sérült meg, egy másik tanuló viszont közbelépett és megsebesült.\n\n• **A főtanfelügyelő szerint a támadó azt állította, hogy a célba vett diák más vallású.** A Mediafax által idézett beszámolóban az „indiai” származásra utaló állítást is említették, de az iskola szerint nincsenek indiai diákok, és ez a tanuló külseje miatti tévedés lehetett. A főtanfelügyelő radikalizálódásra utaló tendenciákról is beszélt; az indítékot és a körülményeket a hatóságok vizsgálják.\n\n• **Sajtóbeszámolók szerint a tanuló a támadás előtt TikTok-videót és történeteket tett közzé.** A Bistrițeanul által idézett bejegyzésekben azt állította, hogy nyolc hónapja készült a támadásra, és azt írta: „Találkozunk Valhallában”, illetve „Fogalmuk sincs, mennyire vagyok veszélyes”. A HotNews szerint a fiók szélsőséges tartalmakat is megosztott; ezek az állítások sajtóértesüléseken alapulnak.\n\n• **A sérültek egy 28 éves nő és egy 12 éves fiú**; mindketten eszméletüknél vannak, állapotuk stabil, de meg vannak ijedve. A tanárnőt a sürgősségi osztályon, a diákot a gyermekgyógyászati sürgősségin vizsgálják.\n\n• **A rendőrök a tanulót a helyszínen ártalmatlanították, és őrizetbe vették.** A rendőrség minősített emberölés kísérletének gyanújával értesítette a Beszterce-Naszód Megyei Törvényszék melletti ügyészséget; a főtanfelügyelő azt közölte, hogy az ügy vizsgálatát a DIICOT vette át. A sérülteket kórházba szállították; több diák pánikba esett és zaklatottá vált, ezért további, több sérült szállítására alkalmas járművet is riasztottak.\n\n• **Az iskolában felfüggesztették az aznapi tanítást.** A tanfelügyelőség vezetője szerint a szülők fokozatosan hazavihették a gyerekeket, a többieket pedig felügyelet mellett tartották.",
-    "title_ro": "Un elev de clasa a VII-a și-a atacat cu un cuțit profesoara și un coleg la Bistrița",
-    "lead_ro": "Luni, 19 octombrie, dimineața, un elev de clasa a VII-a a rănit cu un cuțit o profesoară de 28 de ani și un elev de 12 ani, la Școala Gimnazială „Ștefan cel Mare” din Bistrița. Amândoi sunt conștienți și stabili; poliția l-a imobilizat pe elev, iar cursurile au fost suspendate. Autoritățile anchetează cazul, iar poliția a sesizat parchetul cu privire la suspiciunea de tentativă de omor calificat.",
-    "content_ro": "• **Luni, 19 octombrie, în jurul orei 08:40**, poliția a fost sesizată prin numărul de urgență 112 despre un atac cu cuțitul la o școală din Bistrița.\n\n• **Potrivit poliției, un elev de clasa a VII-a** a rănit cu un cuțit o profesoară și un alt elev, la Școala Gimnazială „Ștefan cel Mare”.\n\n• **Potrivit relatărilor din presă, profesoara preda matematică unei clase a VI-a** când atacatorul a ajuns la sala de clasă. Băiatul, în vârstă de 13 ani, purta, potrivit relatărilor, cască de motociclist și cagulă și avea un briceag. Mediafax a relatat că elevul fusese transferat la școală din Spania. Un elev a intervenit pentru a-și ajuta profesoara și a fost rănit.\n\n• **Potrivit inspectorului școlar general, atacatorul căuta un elev de clasa a VI-a**, căruia intenționa să-i facă rău. Profesoara nu l-a lăsat să intre în clasă, iar atunci băiatul a atacat-o; după ce a intrat, a continuat să-l caute pe elevul vizat. Profesoara a fost rănită în zona frunții și în partea laterală a abdomenului; elevul căutat nu a fost rănit, însă un alt coleg a intervenit și a fost lovit cu cuțitul.\n\n• **Potrivit inspectorului școlar general, atacatorul a spus că elevul vizat era de altă religie.** În relatarea citată de Mediafax a fost menționată și afirmația că acesta ar fi indian, însă școala a spus că nu are elevi indieni și că ar putea fi o confuzie legată de înfățișarea copilului. Inspectorul a vorbit și despre posibile tendințe de radicalizare; autoritățile investighează motivul și circumstanțele atacului.\n\n• **Potrivit relatărilor din presă, elevul a publicat pe TikTok un videoclip și story-uri înainte de atac.** În postările citate de Bistrițeanul, acesta ar fi spus că pregătea atacul de opt luni și ar fi scris: „Ne vedem în Valhalla” și „Nu au idee cât sunt de periculos”. HotNews a relatat că acel cont redistribuia și conținut extremist; aceste informații provin din relatări de presă.\n\n• **Victimele sunt o femeie de 28 de ani și un băiat de 12 ani**; ambii sunt conștienți și stabili, dar speriați. Profesoara este investigată la UPU-SMURD, iar elevul la UPU Pediatrie.\n\n• **Polițiștii l-au imobilizat pe elev și l-au luat în custodie.** Poliția a sesizat Parchetul de pe lângă Tribunalul Bistrița-Năsăud cu privire la suspiciunea de tentativă de omor calificat; inspectorul școlar general a spus că ancheta a fost preluată de DIICOT. Victimele au fost transportate la spital; mai mulți elevi au avut stări de panică și agitație, astfel că a fost trimisă suplimentar o autospecială pentru transportul persoanelor și al victimelor multiple.\n\n• **Cursurile au fost suspendate în acea zi.** Potrivit inspectorului școlar general, părinții și-au putut lua copiii treptat, iar ceilalți elevi au rămas sub supraveghere."
-  },
-  {
     "group_id": "group_f4fcceb1c2",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/19/080200/spionaj.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C668%2C0%2C0&w=1280",
@@ -2024,27 +2299,6 @@
     "title_ro": "Interviu. Florin Bâlcan, country manager, Provident România: Vedem clienţi mai atenţi, care vor să înţeleagă foarte clar ce presupune un credit înainte să ia o decizie, cât au de plătit, pe ce perioadă şi cum se pot asigura că rata nu le pune o presiune suplimentară pe bugetul lunar",
     "lead_ro": "Într-un context economic marcat de inflaţie, costuri ridicate şi un consum tot mai prudent, românii analizează mai atent decât în trecut orice decizie de creditare.",
     "content_ro": "Într-un context economic marcat de inflaţie, costuri ridicate şi un consum tot mai prudent, românii analizează mai atent decât în trecut orice decizie de creditare."
-  },
-  {
-    "group_id": "group_1e503083ce",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8145201-hepta_mediafax_foto-dpa_hepta-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "O provincie din Canada ar putea face pasul spre independență. Avertismentul premierului Carney: Un vot împotriva Canadei este un bluff periculos",
-        "link": "https://www.mediafax.ro/stirile-zilei/o-provincie-din-canada-ar-putea-face-pasul-spre-independenta-avertismentul-premierului-carney-un-vot-impotriva-canadei-este-un-bluff-periculos-23827920"
-      }
-    ],
-    "published_at": 1792397396,
-    "title_hu": "O provincie din Canada ar putea face pasul spre independență. Avertismentul premierului Carney: Un vot împotriva Canadei este un bluff periculos",
-    "lead_hu": "Locuitorii din provincia canadiană Alberta sunt chemați luni la urne într-un referendum consultativ privind viitorul lor în cadrul federației. Cetățenii trebuie să decidă dacă provincia va rămâne part…",
-    "content_hu": "Locuitorii din provincia canadiană Alberta sunt chemați luni la urne într-un referendum consultativ privind viitorul lor în cadrul federației. Cetățenii trebuie să decidă dacă provincia va rămâne parte integrantă a Canadei sau dacă se va organiza un al doilea referendum, obligatoriu, privind tema independenței.",
-    "title_ro": "O provincie din Canada ar putea face pasul spre independență. Avertismentul premierului Carney: Un vot împotriva Canadei este un bluff periculos",
-    "lead_ro": "Locuitorii din provincia canadiană Alberta sunt chemați luni la urne într-un referendum consultativ privind viitorul lor în cadrul federației. Cetățenii trebuie să decidă dacă provincia va rămâne part…",
-    "content_ro": "Locuitorii din provincia canadiană Alberta sunt chemați luni la urne într-un referendum consultativ privind viitorul lor în cadrul federației. Cetățenii trebuie să decidă dacă provincia va rămâne parte integrantă a Canadei sau dacă se va organiza un al doilea referendum, obligatoriu, privind tema independenței."
   },
   {
     "group_id": "group_a24f7ec328",
@@ -3978,27 +4232,6 @@
     "title_ro": "Rețelele sociale și nostalgia pentru comunism: Cifrele care demontează miturile „Epocii de Aur”, prezentate de lector univ. dr. Ștefan Marius Deaconu",
     "lead_ro": "Nostalgia față de regimul comunist și ideea că „înainte era mai bine” au fost analizate prin date și statistici de Ștefan Marius Deaconu, lector universitar la Facultatea de Istorie a Universității di…",
     "content_ro": "Nostalgia față de regimul comunist și ideea că „înainte era mai bine” au fost analizate prin date și statistici de Ștefan Marius Deaconu, lector universitar la Facultatea de Istorie a Universității din București, în cadrul evenimentului de lansare a proiectului „Gen Anti-Fake”. Istoricul a vorbit despre modul în care miturile despre perioada comunistă sunt perpetuate […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_20953883dd",
-    "category": "Erdély",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/hepta_7206018-1024x628.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "12 migranți au murit în Marea Egee, după de o barcă s-a răsturnat și cealaltă a fost implicată într-un accident",
-        "link": "https://www.mediafax.ro/externe/12-migranti-au-murit-in-marea-egee-dupa-de-o-barca-s-a-rasturnat-si-cealalta-a-fost-implicata-intr-un-accident-23827858"
-      }
-    ],
-    "published_at": 1792393686,
-    "title_hu": "12 migranți au murit în Marea Egee, după de o barcă s-a răsturnat și cealaltă a fost implicată într-un accident",
-    "lead_hu": "Autoritățile elene au declarat, luni, că 12 migranți au murit în timp ce încercau să traverseze Marea Egee, dintre care șase ale căror cadavre au fost găsite după ce barca lor s-a ciocnit cu o navă a …",
-    "content_hu": "Autoritățile elene au declarat, luni, că 12 migranți au murit în timp ce încercau să traverseze Marea Egee, dintre care șase ale căror cadavre au fost găsite după ce barca lor s-a ciocnit cu o navă a poliției.",
-    "title_ro": "12 migranți au murit în Marea Egee, după de o barcă s-a răsturnat și cealaltă a fost implicată într-un accident",
-    "lead_ro": "Autoritățile elene au declarat, luni, că 12 migranți au murit în timp ce încercau să traverseze Marea Egee, dintre care șase ale căror cadavre au fost găsite după ce barca lor s-a ciocnit cu o navă a …",
-    "content_ro": "Autoritățile elene au declarat, luni, că 12 migranți au murit în timp ce încercau să traverseze Marea Egee, dintre care șase ale căror cadavre au fost găsite după ce barca lor s-a ciocnit cu o navă a poliției."
   },
   {
     "group_id": "group_a03be8c894",
@@ -7110,27 +7343,6 @@
     "content_ro": "• **Pe 15 octombrie**, Universitatea Craiova a remizat pe teren propriu, 1-1, cu Getafe, în prima etapă a fazei principale din Conference League. A fost prima întâlnire dintre cele două cluburi și primul meci al lui Getafe împotriva unei echipe din România.\n\n• **Gică Craioveanu** a jucat la ambele cluburi: pentru Getafe a evoluat între 2002 și 2006, în 82 de meciuri, cu 9 goluri și 6 pase decisive, și a contribuit la promovarea istorică a formației în La Liga, în 2004. Suporterii Craiovei i-au dedicat o scenografie înaintea partidei.\n\n• **26.732 de spectatori** au asistat la meci, a patra cea mai mare asistență din prima etapă a Conference League; Getafe a fost susținută de 319 fani veniți în deplasare.\n\n• **Assad Al Hamlawi a deschis scorul în minutul 59**, după ce Alexandru Cicâldău a recuperat mingea și i-a pasat. Atacantul palestinian a înscris cu un șut plasat, de la marginea careului; înainte de pauză, ratase o ocazie mare, trimițând mingea peste poartă.\n\n• **Nemanja Gudelj a egalat în minutul 81**, cu un șut de la distanță. Craiova avusese anterior șansa de a-și mări avantajul prin Teles, iar portarul Laurențiu Popescu a intervenit decisiv în repriza a doua la șutul lui Martin Satriano.\n\n• **Statisticile au arătat un joc echilibrat:** Getafe a avut 57% posesie, față de 43% pentru Craiova; raportul șuturilor a fost 13-11, iar ambele echipe au trimis câte trei șuturi pe poartă. Indicatorul golurilor așteptate a fost aproape egal: 1,09 pentru spanioli și 1,08 pentru olteni.\n\n• **Alexandru Cicâldău** a oferit pasa decisivă și s-a numărat printre cei mai buni jucători ai partidei. După meci, a spus că echipa a rămas cu „un gust amar”, fiindcă putea obține toate cele trei puncte. Filipe Coelho s-a declarat mândru de jucători, dar a spus că stafful va analiza cum putea fi apărat mai bine golul egalizator.\n\n• **Următorul meci al Craiovei în faza principală** este în deplasare cu Inter Club d’Escaldes, pe 22 octombrie; apoi urmează partidele cu Egnatia, Brighton, Kairat Almaty și FC Copenhaga. În prima etapă, Egnatia și Kairat au remizat, Inter d’Escaldes a pierdut, iar Brighton și FC Copenhaga au câștigat.\n\n• **Pe 18 octombrie, Craiova a învins Farul cu 2-0** în campionat: Simon Elisor a marcat în minutul 16, iar Oleksandr Romanchuk în minutul 87."
   },
   {
-    "group_id": "group_8ea50c2040",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "FOTO Kylie Jenner a defilat pe podiumul Victoria’s Secret Show cu un sutien de 50.000.000 de dolari",
-        "link": "https://hotnews.ro/foto-kylie-jenner-a-defilat-pe-podiumul-victorias-secret-show-cu-un-sutien-de-50-000-000-de-dolari-2379451"
-      }
-    ],
-    "published_at": 1792385879,
-    "title_hu": "FOTO Kylie Jenner a defilat pe podiumul Victoria’s Secret Show cu un sutien de 50.000.000 de dolari",
-    "lead_hu": "Celebrul sutien „Fantasy Bra” de la Victoria’s Secret, o piesă încrustată cu mii de diamante, pe care brandul nu o mai prezentase pe podium din 2018, a revenit duminică la Victoria’s Secret Fashion Sh…",
-    "content_hu": "Celebrul sutien „Fantasy Bra” de la Victoria’s Secret, o piesă încrustată cu mii de diamante, pe care brandul nu o mai prezentase pe podium din 2018, a revenit duminică la Victoria’s Secret Fashion Show, relatează Reuters și revista Vogue. Spectacolul anual de la Victoria’s Secret, cunoscut pentru defilările plină de vedete, costumele extravagante și momentele …",
-    "title_ro": "FOTO Kylie Jenner a defilat pe podiumul Victoria’s Secret Show cu un sutien de 50.000.000 de dolari",
-    "lead_ro": "Celebrul sutien „Fantasy Bra” de la Victoria’s Secret, o piesă încrustată cu mii de diamante, pe care brandul nu o mai prezentase pe podium din 2018, a revenit duminică la Victoria’s Secret Fashion Sh…",
-    "content_ro": "Celebrul sutien „Fantasy Bra” de la Victoria’s Secret, o piesă încrustată cu mii de diamante, pe care brandul nu o mai prezentase pe podium din 2018, a revenit duminică la Victoria’s Secret Fashion Show, relatează Reuters și revista Vogue. Spectacolul anual de la Victoria’s Secret, cunoscut pentru defilările plină de vedete, costumele extravagante și momentele …"
-  },
-  {
     "group_id": "group_caf36c1923",
     "fingerprint": "35084740b1abf71baca09e1e14e37337",
     "category": "Politika",
@@ -8677,26 +8889,5 @@
     "title_ro": "Calea ferată aproape imposibilă din Ținutul Momârlanilor. Locul „unde întoarce trenul” printre tuneluri și viaducte spectaculoase",
     "lead_ro": "Cel mai spectaculos tronson al căii ferate „a cărbunelui”, care a scos din izolare regiunea minieră a Văii Jiului, are o poveste aparte și oferă călătorilor, toamna, un adevărat spectacol al naturii ș…",
     "content_ro": "Cel mai spectaculos tronson al căii ferate „a cărbunelui”, care a scos din izolare regiunea minieră a Văii Jiului, are o poveste aparte și oferă călătorilor, toamna, un adevărat spectacol al naturii și al lucrărilor de infrastructură."
-  },
-  {
-    "group_id": "group_5b1a81be05",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23262673/145/promo-bursa-19-oct.png?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "ZF DESCHIDEREA DE ASTĂZI. Cum va merge bursa. Urmăriţi o discuţie luni, 19 octombrie 2026, ora 09.30 cu Raul Putilean, Country Manager, Finax România",
-        "link": "https://www.zf.ro/burse-fonduri-mutuale/zf-deschiderea-de-astazi-cum-va-merge-bursa-urmariti-o-discutie-luni-19-octombrie-2026-ora-09-30-cu-raul-putilean-country-manager-finax-romania-23262673"
-      }
-    ],
-    "published_at": 1792358584,
-    "title_hu": "ZF DESCHIDEREA DE ASTĂZI. Cum va merge bursa. Urmăriţi o discuţie luni, 19 octombrie 2026, ora 09.30 cu Raul Putilean, Country Manager, Finax România",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "ZF DESCHIDEREA DE ASTĂZI. Cum va merge bursa. Urmăriţi o discuţie luni, 19 octombrie 2026, ora 09.30 cu Raul Putilean, Country Manager, Finax România",
-    "lead_ro": "",
-    "content_ro": ""
   }
 ]
