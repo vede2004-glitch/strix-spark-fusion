@@ -394,6 +394,24 @@ def run_synthesis_direct():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
 
+    # 📚 TELJES HÍRARCHÍVUM: minden valaha elkészült kártya (AI-os és egyforrásos) megmarad, soha nem törlődik
+    HISTORY_FILE = "src/data/news_archive.json"
+    history = {}
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                for item in json.load(f):
+                    if "group_id" in item:
+                        history[item["group_id"]] = item
+        except Exception as e:
+            print(f"⚠️ Nem sikerült beolvasni a {HISTORY_FILE} fájlt: {e}")
+    for item in all_final_results.values():
+        if not item.get("rejected"):
+            history[item["group_id"]] = item
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(history.values(), key=lambda x: x.get("published_at", 0), reverse=True), f, ensure_ascii=False, indent=2)
+    print(f"📚 Teljes archívum: {len(history)} hír ({HISTORY_FILE}).")
+
     # 📊 RÉSZLETES STATISZTIKAI ÉRTÉKELÉS KIÍRÁSA A LOGBA
     rejected_ai_cards = len([x for x in synthesized_results if x.get('rejected')])
 

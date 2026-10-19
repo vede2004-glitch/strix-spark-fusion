@@ -1,5 +1,6 @@
 import raw from "@/data/news.json";
 import archiveRaw from "@/data/archive.json";
+import historyRaw from "@/data/news_archive.json";
 import type { Lang } from "@/lib/lang";
 import { localTz } from "@/lib/lang";
 
@@ -157,7 +158,10 @@ type ArchiveRaw = {
   group_id?: string; source?: string; title?: string; link?: string;
   image?: string | null; summary?: string; category?: string | null; fetched_at?: number;
 };
-const knownIds = new Set(news.map((n) => n.group_id));
+/** Minden valaha elkészült kártya (cikk_szintetizalas.py → news_archive.json), a friss news.json felülírja. */
+const currentIds = new Set(news.map((n) => n.group_id));
+export const history = (historyRaw as unknown as RawItem[]).filter((r) => r.group_id && !currentIds.has(r.group_id)).map(normalize);
+const knownIds = new Set([...news, ...history].map((n) => n.group_id));
 const archiveGroups = new Map<string, ArchiveRaw[]>();
 for (const a of archiveRaw as unknown as ArchiveRaw[]) {
   const id = a.group_id || a.link;
@@ -179,10 +183,10 @@ export const archive: NewsItem[] = [...archiveGroups.entries()].map(([id, arts])
   };
 });
 
-export const getNews = (id: string) => news.find((n) => n.group_id === id) ?? archive.find((n) => n.group_id === id);
+export const getNews = (id: string) => news.find((n) => n.group_id === id) ?? history.find((n) => n.group_id === id) ?? archive.find((n) => n.group_id === id);
 
 /** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. Az archívumot is tartalmazza. */
-export const byRelevance = [...news, ...archive].sort(
+export const byRelevance = [...news, ...history, ...archive].sort(
   (a, b) =>
     (b.sources.length + (b.is_synthesized ? 1 : 0)) - (a.sources.length + (a.is_synthesized ? 1 : 0)) ||
     (b.published_at ?? 0) - (a.published_at ?? 0),

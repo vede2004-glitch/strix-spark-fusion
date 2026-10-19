@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json src/data/news.json src/data/archive.json
+          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json src/data/news.json src/data/archive.json src/data/news_archive.json
           git commit -m "Auto-update RSS feeds (5-min batch)" || exit 0
           git push
