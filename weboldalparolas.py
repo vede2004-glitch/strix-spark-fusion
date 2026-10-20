@@ -249,7 +249,7 @@ def cosine_similarity(v1, v2):
         return 0.0
     return float(np.dot(a, b) / (norm_a * norm_b))
 
-def extract_article_data(entry, source_name, session, cutoff_12h):
+def extract_article_data(entry, source_name, session, cutoff_24h):
     title = clean_text(entry.get('title', ''))
     link = entry.get('link', '').strip()
 
@@ -259,7 +259,7 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
     if pub_timestamp > current_now:
         pub_timestamp = current_now
 
-    if pub_timestamp == 0 or pub_timestamp < cutoff_12h:
+    if pub_timestamp == 0 or pub_timestamp < cutoff_24h:
         return None
 
     raw_summary = entry.get('summary', '') or entry.get('description', '')
@@ -278,7 +278,7 @@ def extract_article_data(entry, source_name, session, cutoff_12h):
     }
 
 def fetch_single_feed(item_and_cutoff):
-    (source_name, feed_url), cutoff_12h = item_and_cutoff
+    (source_name, feed_url), cutoff_24h = item_and_cutoff
     extracted = []
     session = requests.Session()
     session.headers.update(HEADERS)
@@ -287,7 +287,7 @@ def fetch_single_feed(item_and_cutoff):
         response.raise_for_status()
         feed = feedparser.parse(response.content)
         for entry in feed.entries:
-            art = extract_article_data(entry, source_name, session, cutoff_12h)
+            art = extract_article_data(entry, source_name, session, cutoff_24h)
             if art and art["title"]:
                 extracted.append(art)
     except Exception as e:
@@ -301,12 +301,13 @@ def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{now_str}] 🔄 Hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
 
-    cutoff_12h = int(time.time()) - (12 * 3600)
+    # 🟢 ÁTTÉRÉS 24 ÓRÁS IDŐABLA
+    cutoff_24h = int(time.time()) - (24 * 3600)
     memory = load_json_file(MEMORY_FILE)
     archive = load_json_file(ARCHIVE_FILE)
 
     fetched_articles = []
-    feed_items = [((src, url), cutoff_12h) for src, url in RSS_FEEDS.items()]
+    feed_items = [((src, url), cutoff_24h) for src, url in RSS_FEEDS.items()]
     
     with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as executor:
         results = executor.map(fetch_single_feed, feed_items)
@@ -363,13 +364,13 @@ def run_pipeline():
             "fetched_at": art["published_at"]
         })
 
-    # 📦 ARCHÍVUM KEZELÉS: A 12 óránál régebbi cikkek átkerülnek az erdelyi_hirek_archivum.json-ba
+    # 📦 ARCHÍVUM KEZELÉS: A 24 óránál régebbi cikkek átkerülnek az erdelyi_hirek_archivum.json-ba
     fresh_memory = []
     archive_updated = False
     existing_archive_links = {a["link"] for a in archive}
 
     for item in memory:
-        if item.get("fetched_at", 0) >= cutoff_12h:
+        if item.get("fetched_at", 0) >= cutoff_24h:
             fresh_memory.append(item)
         else:
             if item["link"] not in existing_archive_links:
