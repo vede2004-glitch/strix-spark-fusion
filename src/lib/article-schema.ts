@@ -44,6 +44,6 @@ export function breadcrumbSchema(item: NewsItem) {
 }
 
 /** Escape HTML delimiters so article text cannot terminate the metadata script. */
-export function serializeArticleSchema(schema: ReturnType<typeof articleSchema>) {
+export function serializeArticleSchema(schema: Record<string, unknown>) {
   return JSON.stringify(schema).replace(/</g, "\\u003c").replace(/>/g, "\\u003e").replace(/&/g, "\\u0026");
 }
