@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { news, history, archive, tr } from "@/lib/news";
+import { news, history, archive } from "@/lib/news";
 import { domainLang, originFor } from "@/lib/domains";
 
 const STATIC_PAGES = ["/", "/osszes", "/tamogatas", "/bekuldes", "/visszajelzes", "/forrasok", "/rolunk"];
@@ -32,8 +32,6 @@ export const Route = createFileRoute("/sitemap.xml")({
           const ts = item.published_at;
           const lastmod = ts && Number.isFinite(ts) ? new Date(ts * 1000).toISOString().slice(0, 10) : null;
           entries.push(urlEntry(articleUrl, lastmod));
-          // A cím nyelvfüggő: a tr() biztosítja a hu/ro változatot a hírhír-oldalhoz.
-          void tr(item, lang);
         }
 
         const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries.join("\n")}\n</urlset>`;
