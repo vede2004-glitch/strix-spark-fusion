@@ -1,6 +1,9 @@
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import { useTheme } from "@/lib/theme";
+import { initDomainLang } from "@/lib/lang";
+import { HU_ORIGIN, RO_ORIGIN, originFor } from "@/lib/domains";
+import { getDomainLang } from "@/lib/domain.functions";
 import { Toaster } from "@/components/ui/sonner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import {
@@ -78,7 +81,11 @@ function ErrorComponent({ error, reset }: ErrorComponentProps) {
 }
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
-  head: () => ({
+  loader: async ({ location }) => ({ domainLang: await getDomainLang(), path: location.pathname }),
+  head: ({ loaderData }) => {
+    const path = loaderData?.path ?? "/";
+    const self = originFor(loaderData?.domainLang ?? "ro") + path;
+    return {
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -93,8 +100,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Sora:wght@400;600;700;800&display=swap" },
+      { rel: "canonical", href: self },
+      { rel: "alternate", hrefLang: "hu", href: HU_ORIGIN + path },
+      { rel: "alternate", hrefLang: "ro", href: RO_ORIGIN + path },
+      { rel: "alternate", hrefLang: "x-default", href: RO_ORIGIN + path },
     ],
-  }),
+    };
+  },
   shellComponent: RootShell,
   component: RootComponent,
   notFoundComponent: NotFoundComponent,
@@ -117,6 +129,7 @@ function RootShell({ children }: { children: ReactNode }) {
 
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
+  initDomainLang(Route.useLoaderData()?.domainLang ?? null);
   useTheme();
 
   return (
