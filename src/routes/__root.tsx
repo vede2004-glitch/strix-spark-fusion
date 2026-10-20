@@ -1,4 +1,5 @@
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import { useTheme } from "@/lib/theme";
 import { Toaster } from "@/components/ui/sonner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
@@ -124,6 +125,7 @@ function RootComponent() {
       <Outlet />
       <Toaster />
       <Analytics />
+      <SpeedInsights />
     </QueryClientProvider>
   );
 }
