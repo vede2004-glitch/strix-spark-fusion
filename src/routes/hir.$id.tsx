@@ -69,7 +69,7 @@ function Article() {
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
         {item.is_synthesized && (
-          <p className="mt-10 inline-flex w-fit max-w-md items-start gap-3 rounded-lg border border-primary/25 bg-primary/10 px-4 py-3.5 text-[15px] leading-relaxed text-foreground/90">
+          <p className="mt-10 flex w-full items-start gap-3 rounded-lg border border-primary/25 bg-primary/10 px-4 py-3.5 text-[15px] leading-relaxed text-foreground/90">
             <Sparkles className="mt-1 size-4 shrink-0 text-primary" />
             <span className="text-balance">{ro ? "Acest rezumat a fost realizat de inteligența artificială. Încearcă să fie deșteaptă, dar și ea poate avea zile proaste." : "Ezt az összefoglalót mesterséges intelligencia készítette. Igyekszik okos lenni, de néha neki is lehet rossz napja."}</span>
           </p>
