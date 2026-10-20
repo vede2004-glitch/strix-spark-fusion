@@ -14,6 +14,13 @@ export function initDomainLang(l: Lang | null) {
 }
 
 export function setLang(l: Lang) {
+  // Doménhez kötött nyelvnél (hirx.ro / stirix.ro) a váltás a másik doménre visz.
+  if (locked && l !== current && typeof window !== "undefined") {
+    try { localStorage.setItem(KEY, l); } catch {}
+    const target = l === "hu" ? "https://hirx.ro" : "https://stirix.ro";
+    window.location.href = target + window.location.pathname + window.location.search;
+    return;
+  }
   current = l;
   try { localStorage.setItem(KEY, l); } catch {}
   subs.forEach((f) => f());
