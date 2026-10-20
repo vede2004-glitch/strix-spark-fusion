@@ -69,13 +69,10 @@ function Article() {
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
         {item.is_synthesized && (
-          <aside className="mt-10 flex items-start gap-4 rounded-lg border border-border bg-card p-4 sm:p-5">
-            <span className="flex size-9 shrink-0 items-center justify-center rounded-md bg-primary/10 text-primary"><Sparkles className="size-4" /></span>
-            <div className="min-w-0">
-              <p className="font-display text-[10px] font-extrabold uppercase tracking-[0.14em] text-primary">{ro ? "Notă despre rezumat" : "Megjegyzés az összefoglalóról"}</p>
-              <p className="mt-1.5 text-sm leading-relaxed text-foreground/70">{ro ? "Acest rezumat a fost realizat de inteligența artificială. Încearcă să fie deșteaptă, dar și ea poate avea zile proaste." : "Ezt az összefoglalót mesterséges intelligencia készítette. Igyekszik okos lenni, de néha neki is lehet rossz napja."}</p>
-            </div>
-          </aside>
+          <p className="mt-10 flex items-start gap-3 rounded-lg border border-border bg-card px-4 py-3.5 text-sm leading-relaxed text-foreground/80">
+            <Sparkles className="mt-1 size-4 shrink-0 text-primary" />
+            <span className="text-balance">{ro ? "Acest rezumat a fost realizat de inteligența artificială. Încearcă să fie deșteaptă, dar și ea poate avea zile proaste." : "Ezt az összefoglalót mesterséges intelligencia készítette. Igyekszik okos lenni, de néha neki is lehet rossz napja."}</span>
+          </p>
         )}
         <section className="mt-12 rounded-lg border border-border bg-card p-6">
           <h2 className="mb-4 font-display text-sm font-extrabold uppercase">{item.is_synthesized ? (ro ? `Surse utilizate (${item.sources.length})` : `Felhasznált források (${item.sources.length})`) : (ro ? "Sursă" : "Forrás")}</h2>
