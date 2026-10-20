@@ -33,7 +33,6 @@ export const Route = createFileRoute("/hir/$id")({
     const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.group_id)}` : undefined;
     return {
       meta: [...meta, ...(url ? [{ property: "og:url", content: url }] : [])],
-      links: url ? [{ rel: "canonical", href: url }] : [],
       scripts: loaderData ? [{ type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, image)) }] : [],
     };
   },
