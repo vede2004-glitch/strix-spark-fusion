@@ -26,8 +26,35 @@ HEADERS = {
 }
 
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK
+# 2. SEGÉDFUNKCIÓK ÉS NÉVSORREND-KORREKCIÓ
 # ==============================================================================
+def fix_hungarian_names(text: str) -> str:
+    """
+    Kijavítja a gyakori román/nemzetközi nevek sorrendjét a helyes magyar névsorrendre (Vezetéknév + Keresztnév).
+    """
+    if not text:
+        return text
+
+    name_replacements = {
+        "Ilie Bolojan": "Bolojan Ilie",
+        "Luca Niculescu": "Niculescu Luca",
+        "George Simion": "Simion George",
+        "Klaus Iohannis": "Iohannis Klaus",
+        "Marcel Ciolacu": "Ciolacu Marcel",
+        "Peter Magyar": "Magyar Péter",
+        "Péter Magyar": "Magyar Péter",
+        "Nicolae Ciucă": "Ciucă Nicolae",
+        "Mircea Geoană": "Geoană Mircea",
+        "Elena Lasconi": "Lasconi Elena",
+        "Diana Șoșoacă": "Șoșoacă Diana",
+        "Kelemen Hunor": "Kelemen Hunor",  # Már helyes
+    }
+    
+    for wrong_name, correct_name in name_replacements.items():
+        text = text.replace(wrong_name, correct_name)
+        
+    return text
+
 def calculate_fingerprint(articles_or_sources: list) -> str:
     """
     Kiszámítja a cikkek vagy források linkjei alapján a csoport egyedi ujjlenyomatát (hash).
@@ -122,6 +149,10 @@ FELADAT:
 3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
 4. Írd meg a frissített összefoglalót MAGYAR és ROMÁN nyelven is!
 
+SZIGORÚ NÉVHASZNÁLATI SZABÁLY (MAGYAR NYELVEN):
+- Minden magyar és romániai személynevet A HAGYOMÁNYOS MAGYAR NÉVSORRENDBEN (Vezetéknév + Keresztnév) írj ki!
+- Például: "Bolojan Ilie" (és NE "Ilie Bolojan"), "Niculescu Luca" (és NE "Luca Niculescu"), "Simion George" (és NE "George Simion").
+
 SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
 - MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (dupla csillaggal: **szöveg**) KIEMELNED!
@@ -154,6 +185,10 @@ FELADAT ÉS SZŰRÉS:
 2. HA BÁRMELYIK FORRÁS NEM UGYANARRÓL AZ ESEMÉNYRŐL SZÓL, AZT TELJESEN HAGYD KI!
 3. Ha a szűrés után nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
 4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
+
+SZIGORÚ NÉVHASZNÁLATI SZABÁLY (MAGYAR NYELVEN):
+- Minden magyar és romániai személynevet A HAGYOMÁNYOS MAGYAR NÉVSORRENDBEN (Vezetéknév + Keresztnév) írj ki!
+- Például: "Bolojan Ilie" (és NE "Ilie Bolojan"), "Niculescu Luca" (és NE "Luca Niculescu"), "Simion George" (és NE "George Simion").
 
 SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
@@ -239,9 +274,10 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
             "sources_count": len(filtered_sources),
             "sources": filtered_sources,
             "published_at": latest_timestamp,
-            "title_hu": parsed_article.get("title_hu", ""),
-            "lead_hu": parsed_article.get("lead_hu", ""),
-            "content_hu": parsed_article.get("content_hu", ""),
+            # 🟢 MAGYAR NÉVSORREND-KORREKCIÓ ALKALMAZÁSA:
+            "title_hu": fix_hungarian_names(parsed_article.get("title_hu", "")),
+            "lead_hu": fix_hungarian_names(parsed_article.get("lead_hu", "")),
+            "content_hu": fix_hungarian_names(parsed_article.get("content_hu", "")),
             "title_ro": parsed_article.get("title_ro", ""),
             "lead_ro": parsed_article.get("lead_ro", ""),
             "content_ro": parsed_article.get("content_ro", "")
@@ -303,7 +339,7 @@ def run_synthesis_direct():
             stats["single_source_groups"] += 1
             # Egyforrásos hír: AI nélkül, közvetlenül a "Friss hírek" sávba
             art = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
-            summ = art.get("summary", "") or ""
+            summ = fix_hungarian_names(art.get("summary", "") or "")
             lead = (summ[:200] + "…") if len(summ) > 200 else summ
             single_results.append({
                 "group_id": g_id,
@@ -313,8 +349,12 @@ def run_synthesis_direct():
                 "sources_count": 1,
                 "sources": [{"source": art.get("source", ""), "title": art.get("title", ""), "link": art.get("link", "")}],
                 "published_at": latest_timestamp,
-                "title_hu": art.get("title", ""), "lead_hu": lead, "content_hu": summ,
-                "title_ro": art.get("title", ""), "lead_ro": lead, "content_ro": summ,
+                "title_hu": fix_hungarian_names(art.get("title", "")), 
+                "lead_hu": lead, 
+                "content_hu": summ,
+                "title_ro": art.get("title", ""), 
+                "lead_ro": lead, 
+                "content_ro": summ,
             })
             continue
 
@@ -394,7 +434,7 @@ def run_synthesis_direct():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
 
-    # 📚 TELJES HÍRARCHÍVUM: minden valaha elkészült kártya (AI-os és egyforrásos) megmarad, soha nem törlődik
+    # 📚 TELJES HÍRARCHÍVUM: minden valaha elkészült kártya megmarad
     HISTORY_FILE = "src/data/news_archive.json"
     history = {}
     if os.path.exists(HISTORY_FILE):
@@ -423,9 +463,9 @@ def run_synthesis_direct():
     print(f"👤 Egyforrásos csoportok (AI nem szükséges): {stats['single_source_groups']} db")
     print(f"⏸️ Változatlan/kiszűrt csoportok (0 tokenből átugorva): {stats['skipped_fingerprint']} db")
     print(f"🤖 AI által megvizsgált csoportok: {stats['processed_by_ai']} db")
-    print(f"   ├─ 🆕 Új cikk-kártyák generálva: {new_topics_count} db")
-    print(f"   ├─ 🔄 Meglévő kártyák frissítve (Forrásbővítés): {updated_topics_count} db")
-    print(f"   └─ 🚫 Elutasított / témaegyezés nélküli cikkek: {rejected_ai_cards} db")
+    print(f"    ├─ 🆕 Új cikk-kártyák generálva: {new_topics_count} db")
+    print(f"    ├─ 🔄 Meglévő kártyák frissítve (Forrásbővítés): {updated_topics_count} db")
+    print(f"    └─ 🚫 Elutasított / témaegyezés nélküli cikkek: {rejected_ai_cards} db")
     print("-" * 60)
     print(f"💾 Összesen {len(final_sorted_list)} friss, aktív cikk van a címlapon ({OUTPUT_FILE}).")
     print("=" * 60 + "\n")
