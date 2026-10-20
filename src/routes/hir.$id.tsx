@@ -68,6 +68,12 @@ function Article() {
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
+        {item.is_synthesized && (
+          <p className="mt-8 flex items-start gap-3 rounded-lg border border-primary/20 bg-primary/5 p-4 text-sm leading-relaxed text-muted-foreground">
+            <Sparkles className="mt-0.5 size-4 shrink-0 text-primary" />
+            <span>{ro ? "Acest rezumat a fost realizat de inteligența artificială. Încearcă să fie deșteaptă, dar și ea poate avea zile proaste." : "Ezt az összefoglalót mesterséges intelligencia készítette. Igyekszik okos lenni, de néha neki is lehet rossz napja."}</span>
+          </p>
+        )}
         <section className="mt-12 rounded-lg border border-border bg-card p-6">
           <h2 className="mb-4 font-display text-sm font-extrabold uppercase">{item.is_synthesized ? (ro ? `Surse utilizate (${item.sources.length})` : `Felhasznált források (${item.sources.length})`) : (ro ? "Sursă" : "Forrás")}</h2>
           <ul className="space-y-3">
