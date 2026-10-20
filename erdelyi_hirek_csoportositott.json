@@ -1,64 +1,5 @@
 [
   {
-    "group_id": "group_898f3a35dc",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Yahoo pune utilizatorii în fața unei alegeri: acceptă reclamele personalizate sau plătesc",
-        "link": "https://adevarul.ro/economie/yahoo-pune-utilizatorii-in-fata-unei-alegeri-2564940.html",
-        "image": "https://cdn.adh.reperio.news/image-2/2fd55a99-8724-43b6-b21c-1252bbfaf105/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Utilizatorii Yahoo din România vor trebui să aleagă, începând cu 18 martie 2027, dacă acceptă publicitatea personalizată sau plătesc 12,99 lei pe lună pentru a utiliza serviciile vizate fără acest tip de reclame. Schimbarea va afecta majoritatea serviciilor.",
-        "category": "Politika",
-        "published_at": 1792461505
-      }
-    ]
-  },
-  {
-    "group_id": "group_1511b3b7df",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Un nou instrument de inteligență artificială poate prezice supraviețuirea la cancer printr-un singur selfie al pacientului",
-        "link": "https://www.mediafax.ro/stiinta-sanatate/un-nou-instrument-de-inteligenta-artificiala-poate-prezice-supravietuirea-la-cancer-printr-un-singur-selfie-al-pacientului-23828410",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/spitale-1-1024x678.jpg",
-        "summary": "Medicii au dezvoltat un instrument de inteligență artificială care poate prezice șansele de supraviețuire ale unui pacient cu cancer pornind de la o singură fotografie a feței sale.",
-        "category": "Általános",
-        "published_at": 1792461524
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un selfie poate estima șansele de supraviețuire la pacienții diagnosticați cu cancer. Cum funcționează",
-        "link": "https://stirileprotv.ro/stiri/sanatate/un-selfie-poate-estima-sansele-de-supravietuirii-la-pacientii-diagnosticati-cu-cancer-cum-functioneaza.html",
-        "image": "https://stirileprotv.ro/img/2026/06/09/151348/shutterstock-2549940037.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C751%2C0%2C0&w=1280",
-        "summary": "Medicii au dezvoltat un instrument de inteligenţă artificială care poate estima şansele de supravieţuire ale unui pacient cu cancer pe baza unei singure fotografii a feţei acestuia, relatează The Guardian.",
-        "category": "Általános",
-        "published_at": 1792469947
-      },
-      {
-        "source": "G4Media",
-        "title": "Un nou instrument de inteligență artificială poate prezice supraviețuirea la cancer printr-o fotografie a feței",
-        "link": "https://www.g4media.ro/un-nou-instrument-de-inteligenta-artificiala-poate-prezice-supravietuirea-la-cancer-printr-o-fotografie-a-fetei.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2025/07/admin-ajax-13-2.jpeg",
-        "summary": "Medicii au dezvoltat un instrument de inteligență artificială care poate prezice șansele de supraviețuire ale unui pacient cu cancer pornind de la o singură fotografie a feței sale, transmite Mediafax. Sistemul de inteligență artificială a fost construit la comandă de experți de la Mass General Brigham, un sistem integrat de asistență medicală academică non-profit din […] © G4Media.ro.",
-        "category": "Gazdaság",
-        "published_at": 1792470149
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Un nou instrument de AI poate prezice șansele de supraviețuire ale unui pacient cu cancer pe baza unei singure fotografii, susține un studiu",
-        "link": "https://hotnews.ro/un-nou-instrument-de-ai-poate-prezice-sansele-de-supravietuire-ale-unui-pacient-cu-cancer-pe-baza-unei-singure-fotografii-sustine-un-studiu-2380726",
-        "image": "",
-        "summary": "Medicii de la un sistem medical american au dezvoltat un instrument bazat pe inteligență artificială, capabil să estimeze șansele de supraviețuire ale unui pacient cu cancer pornind de la o singură fotografie a feței acestuia, relatează The Guardian. Sistemul de AI a fost dezvoltat de experții de la Mass General Brigham, un sistem medical academic …",
-        "category": "Általános",
-        "published_at": 1792472720
-      }
-    ]
-  },
-  {
     "group_id": "group_02687970c9",
     "category": "Bulvár",
     "articles_count": 1,
@@ -1401,6 +1342,40 @@
         "summary": "Franța, Italia și Albania se confruntă cu proteste de amploare care au degenerat în confruntări violente cu forțele de ordine, incendieri și jafuri. Autoritățile franceze au introdus restricții de circulație în mai multe orașe, inclusiv Paris, guvernul Italiei pregătește mobilizarea a 500 de militari la Milano, iar în Albania, unde circa 300 persoane au fost rănite, premierul Edi Rama refuză să demisioneze și acuză manifestanții violenți că au depășit „linia roșie”.",
         "category": "Erdély",
         "published_at": 1792490520
+      }
+    ]
+  },
+  {
+    "group_id": "group_1511b3b7df",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un selfie poate estima șansele de supraviețuire la pacienții diagnosticați cu cancer. Cum funcționează",
+        "link": "https://stirileprotv.ro/stiri/sanatate/un-selfie-poate-estima-sansele-de-supravietuirii-la-pacientii-diagnosticati-cu-cancer-cum-functioneaza.html",
+        "image": "https://stirileprotv.ro/img/2026/06/09/151348/shutterstock-2549940037.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C751%2C0%2C0&w=1280",
+        "summary": "Medicii au dezvoltat un instrument de inteligenţă artificială care poate estima şansele de supravieţuire ale unui pacient cu cancer pe baza unei singure fotografii a feţei acestuia, relatează The Guardian.",
+        "category": "Általános",
+        "published_at": 1792469947
+      },
+      {
+        "source": "G4Media",
+        "title": "Un nou instrument de inteligență artificială poate prezice supraviețuirea la cancer printr-o fotografie a feței",
+        "link": "https://www.g4media.ro/un-nou-instrument-de-inteligenta-artificiala-poate-prezice-supravietuirea-la-cancer-printr-o-fotografie-a-fetei.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2025/07/admin-ajax-13-2.jpeg",
+        "summary": "Medicii au dezvoltat un instrument de inteligență artificială care poate prezice șansele de supraviețuire ale unui pacient cu cancer pornind de la o singură fotografie a feței sale, transmite Mediafax. Sistemul de inteligență artificială a fost construit la comandă de experți de la Mass General Brigham, un sistem integrat de asistență medicală academică non-profit din […] © G4Media.ro.",
+        "category": "Gazdaság",
+        "published_at": 1792470149
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Un nou instrument de AI poate prezice șansele de supraviețuire ale unui pacient cu cancer pe baza unei singure fotografii, susține un studiu",
+        "link": "https://hotnews.ro/un-nou-instrument-de-ai-poate-prezice-sansele-de-supravietuire-ale-unui-pacient-cu-cancer-pe-baza-unei-singure-fotografii-sustine-un-studiu-2380726",
+        "image": "",
+        "summary": "Medicii de la un sistem medical american au dezvoltat un instrument bazat pe inteligență artificială, capabil să estimeze șansele de supraviețuire ale unui pacient cu cancer pornind de la o singură fotografie a feței acestuia, relatează The Guardian. Sistemul de AI a fost dezvoltat de experții de la Mass General Brigham, un sistem medical academic …",
+        "category": "Általános",
+        "published_at": 1792472720
       }
     ]
   },
@@ -3395,7 +3370,7 @@
   {
     "group_id": "group_fb6b774bc9",
     "category": "Bulvár",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Digi24",
@@ -3423,6 +3398,15 @@
         "summary": "Elevul de 13 ani din Bistrița care și-a înjunghiat profesoara și a rănit un alt băiat a fost internat la un spital de psihiatrie pentru copii. Pe de altă parte, la școala „Ștefan cel Mare” este liniște totală, ceilalți elevi au ținut cursurile online. Autoritățile au deschis o anchetă în acest caz. Ies noi detalii […]",
         "category": "Bulvár",
         "published_at": 1792499442
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Cazul din Bistrița nu este unic: un elev din Iași și-a atacat profesorul de biologie în timpul orei. Care ar fi motivul",
+        "link": "https://www.cancan.ro/cazul-din-bistrita-nu-este-unic-un-elev-din-iasi-si-a-atacat-profesorul-de-biologie-in-timpul-orei-care-ar-fi-motivul-21533357",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/elev-iasi-1200x675.webp",
+        "summary": "După cazul elevului din Bistrița, un nou incident a ieșit la iveală. Un alt elev a mers înarmat la școală și a încercat să atace un profesor. Pentru moment nu se cunosc motivele care l-au determinat pe elev să recurgă la acest gest. Una dintre ipotezele luate în calcul de autorități este faptul că elevul […]",
+        "category": "Általános",
+        "published_at": 1792503931
       }
     ]
   },
@@ -7285,7 +7269,7 @@
   {
     "group_id": "group_859c926a0f",
     "category": "Politika",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Mediafax",
@@ -7313,6 +7297,15 @@
         "summary": "„Este un moment important pentru România, ne punem imediat pe treabă”, a spus Luca Niculescu, după votul de învestire primit în Parlament. „Cu emoție și responsabilitate am primit acest vot. Mulțumesc Parlamentului pentru încrederea acordată acestui guvern. Mulțumesc Partidului Social Democrat pentru susținere. Mulțumesc Partidului Național Liberal, UDMR, reprezentanților minorităților și tuturor celorlalți parlamentari care …",
         "category": "Politika",
         "published_at": 1792503621
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Mircea Govor, după votul de învestire a Guvernului: ”România are nevoie de stabilitate, investiții și responsabilitate”",
+        "link": "https://www.presasm.ro/mircea-govor-dupa-votul-de-investire-a-guvernului-romania-are-nevoie-de-stabilitate-investitii-si/53868",
+        "image": "https://www.presasm.ro/uploads/2026/10/guvern.jpg",
+        "summary": "Deputatul PSD de Satu Mare, Mircea Govor, anunță că a votat pentru învestirea Guvernului condus de Luca Niculescu, care a obținut 280 de voturi în Parlament. Liderul social-democrat susține că, după o perioadă de instabilitate politică, noul Executiv trebuie s…",
+        "category": "Erdély",
+        "published_at": 1792504680
       }
     ]
   },
@@ -7975,7 +7968,7 @@
         "image": "",
         "summary": "Guvernul condus de Luca Niculescu a primit marți, 20 octombrie, votul de încredere al Parlamentului, după mai bine de cinci luni de criză politică. Noul Cabinet, format din miniștri propuși de PSD și independenți, a fost învestit cu 280 de voturi pentru și 58 împotrivă, depășind cu 47 de voturi majoritatea necesară.",
         "category": "Erdély",
-        "published_at": 1792504032
+        "published_at": 1792504963
       },
       {
         "source": "Mediafax",
@@ -8244,7 +8237,7 @@
         "image": "",
         "summary": "Trei tineri judoka de la ACS Olimpikus Oradea au urcat pe podium la un turneu internațional de judo pentru copii U12, desfășurat în 18 octombrie, la Szeged, în Ungaria. Competiția, la care au participat aproximativ 600 de sportivi din șase țări, s-a încheiat cu o medalie de aur și două medalii de bronz pentru clubul orădean.",
         "category": "Erdély",
-        "published_at": 1792504032
+        "published_at": 1792504500
       }
     ]
   },
@@ -8287,12 +8280,12 @@
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
-        "title": "Răzvan Burleanu, primele declarații după startul ratat al lui Gheorghe Hagi pe banca naționalei",
+        "title": "Răzvan Burleanu a vorbit în premieră după startul ratat al lui Gheorghe Hagi la națională: „Vă promit un singur lucru”",
         "link": "https://www.gsp.ro/fotbal/nationala/razvan-burleanu-declaratii-comitet-executiv-frf-990267.html",
         "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/8242fb1d-afb0-47fa-8284-bbb9a9763fb5.jpg?width=290&height=208",
-        "summary": "Răzvan Burleanu (42 de ani), președintele Federației Române de Fotbal (FRF), susține în aceste momente o conferință de presă la Casa Fotbalului, după ședința Comitetului Executiv. Este prima apariție publică a oficialului de la debutul ratat al lui Gheorghe Hagi în funcția de selecționer al României. ...",
+        "summary": "Răzvan Burleanu (42 de ani), președintele Federației Române de Fotbal (FRF), a susținut marți o conferință de presă la Casa Fotbalului, la finalul ședinței Comitetului Executiv. Oficialul a vorbit pentru prima dată despre începutul dezastruos al mandatului lui Gheorghe Hagi pe banca naționalei României, după cele patru înfrângeri consecutive din Liga Națiunilor Cu Hagi selecționer, România a pierdut toate cele patru partide disputate în actuala ediție a Ligii ...",
         "category": "Sport",
-        "published_at": 1792501216
+        "published_at": 1792504068
       },
       {
         "source": "G4Media",
@@ -8349,7 +8342,7 @@
         "image": "",
         "summary": "A doua probă a concursului pentru ocuparea funcțiilor de director și director adjunct în școlile din Bihor a fost mult mai ușoară pentru candidați decât prima. Dintre cei 137 de profesori rămași în competiție, doar trei nu au reușit să promoveze examenul scris de management și legislație școlară, desfășurat marți. Nu mai puțin de 15 candidați au obținut nota maximă, 10.",
         "category": "Általános",
-        "published_at": 1792504032
+        "published_at": 1792504963
       }
     ]
   },
@@ -8365,7 +8358,7 @@
         "image": "",
         "summary": "O orădeancă de 51 de ani este cercetată pentru contrabandă după ce polițiștii au descoperit 29.000 de țigarete (1.450 de pachete), nemarcate legal sau marcate necorespunzător, într-un imobil pe care îl folosea drept depozit. Femeia a fost reținută pentru 24 de ore și ulterior plasată sub control judiciar pentru 60 de zile, iar întreaga cantitate de țigarete a fost indisponibilizată.",
         "category": "Erdély",
-        "published_at": 1792504032
+        "published_at": 1792504963
       }
     ]
   },
@@ -8589,7 +8582,55 @@
         "image": "",
         "summary": "Restaurantul cunoscut până de curând ca Noo'vo Resto Lounge s-a relansat sub numele Novo Brasserie Extraordinaire, într-o repoziționare completă care schimbă nu doar sigla, ci întreaga experiență: de la meniul și carta de băuturi, până la felul în care arată localul din centrul istoric al orașului.",
         "category": "Erdély",
-        "published_at": 1792504032
+        "published_at": 1792504963
+      }
+    ]
+  },
+  {
+    "group_id": "group_7a9c26350b",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Kolozsvári Rádió (HU)",
+        "title": "CASS-mentesség kismamáknak, „felmelegített” oktatási intézkedések – megnéztük a kormányprogramot",
+        "link": "https://www.kolozsvariradio.ro/2026/10/20/cass-mentesseg-kismamaknak-felmelegitett-oktatasi-intezkedesek-megneztuk-a-kormanyprogramot/",
+        "image": "https://www.kolozsvariradio.ro/wp-content/uploads/2026/10/sasun-bughdaryan-eE4uRsnNCsI-unsplash-300x200.jpg",
+        "summary": "A megelőzésre, a vidéki egészségügyi ellátás fejlesztését célozza meg egyebek mellett a Luca Niculescu által benyújtott kormányprogram egészségügyi fejezete. A vidéki térségekben korszerűsítenék a közösségi egészségügyi központokat, és lakhatási támogatással, illetve pénzügyi ösztönzőkkel segítenék az orvosok és más egészségügyi dolgozók megtartását. A program az orvosi ügyeleti rendszer átalakítását és az ügyeleti díjak fokozatos emelését is […] Articolul CASS-mentesség kismamáknak, „felmelegített” oktatási intézkedések – megnéztük a kormányprogramot apare prima dată în Kolozsvári Rádió Románia.",
+        "category": "Politika",
+        "published_at": 1792504331
+      }
+    ]
+  },
+  {
+    "group_id": "group_c50b7a84ff",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "„Ai Aflat! cu Ionuț Cristache” începe miercuri, 21 octombrie, de la ora 15.00, live pe Gândul. Invitat: Petrișor Peiu",
+        "link": "https://www.cancan.ro/ai-aflat-cu-ionut-cristache-incepe-miercuri-21-octombrie-de-la-ora-15-00-live-pe-gandul-invitat-petrisor-peiu-21533385",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/„Ai-Aflat-cu-Ionut-Cristache-incepe-miercuri-21-octombrie-de-la-ora-15.00-live-pe-Gandul.-Invitat-Petrisor-Peiu-1200x675.jpg",
+        "summary": "Invitatul emisiunii este Petrișor Peiu. Emisiunea poate fi urmărită pe Facebook și YouTube Gândul.",
+        "category": "Bulvár",
+        "published_at": 1792504417
+      }
+    ]
+  },
+  {
+    "group_id": "group_d9d1f60034",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "„Avem nevoie de continuitate”. Răzvan Burleanu îi oferă susținere totală lui Gheorghe Hagi la echipa națională",
+        "link": "https://www.mediafax.ro/sport/avem-nevoie-de-continuitate-razvan-burleanu-ii-ofera-sustinere-totala-lui-gheorghe-hagi-la-echipa-nationala-23828820",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/razvan-burleanu-gheorghe-hagi-1024x683.jpg",
+        "summary": "Răzvan Burleanu, președintele Federației Române de Fotbal (FRF), a reafirmat susținerea totală pentru selecționerul Gheorghe Hagi, în pofida faptului că naționala României a pierdut toate cele patru meciuri disputate până acum în Liga Națiunilor.",
+        "category": "Sport",
+        "published_at": 1792504591
       }
     ]
   }
