@@ -1,30 +1,5 @@
 [
   {
-    "group_id": "group_87ac7d59b4",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "„A fost ca o adevărată tornadă”. Ce se întâmplă în Franța, după revoltele violente care au zguduit țara. Deciziile anunțate",
-        "link": "https://hotnews.ro/a-fost-ca-o-adevarata-tornada-ce-s-a-intamplat-in-franta-dupa-revoltele-violente-care-au-zguduit-tara-deciziile-anuntate-2380624",
-        "image": "",
-        "summary": "Autoritățile franceze au instituit luni restricții de circulație în anumite zone din mai multe orașe, printre care Paris, Lille și Nisa, în contextul în care se confruntă cu presiuni legate de deficiențele din domeniul securității apărute după weekendul marcat de revolte și jafuri, generate de protestele antiguvernamentale la nivel național, scrie Reuters. Prim-ministrul Sébastien Lecornu …",
-        "category": "Politika",
-        "published_at": 1792442544
-      },
-      {
-        "source": "Mediafax",
-        "title": "Violențele din Franța schimbă calculele politice înaintea alegerilor prezidențiale din 2027. Cine profită de criză și cine are de pierdut",
-        "link": "https://www.mediafax.ro/externe/violentele-din-franta-schimba-calculele-politice-inaintea-alegerilor-prezidentiale-din-2027-cine-profita-de-criza-si-cine-are-de-pierdut-23828437",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164670-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-        "summary": "Jafurile și violențele care au avut loc în Franța în weekend ar putea schimba raportul de forțe înaintea alegerilor prezidențiale din 2027, potrivit unei analize Politico.",
-        "category": "Politika",
-        "published_at": 1792474354
-      }
-    ]
-  },
-  {
     "group_id": "group_3589d45b35",
     "category": "Sport",
     "articles_count": 1,
@@ -1117,7 +1092,7 @@
   {
     "group_id": "group_09fd88e5bd",
     "category": "Gazdaság",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -1145,6 +1120,15 @@
         "summary": "Moody’s Ratings consideră că instalarea unui nou Guvern și adoptarea la timp a bugetului pentru 2027 susțin consolidarea fiscală a României. Agenția estimează că deficitul bugetar va scădea la 5,5% din PIB în 2027, însă avertizează că ajustarea finanțelor publice rămâne dificilă.",
         "category": "Politika",
         "published_at": 1792484901
+      },
+      {
+        "source": "Mediafax",
+        "title": "Semnal de la Moody’s înainte de votul pentru Guvernul Niculescu: Instalarea Guvernului și adoptarea la timp a bugetului pentru 2027 sprijină consolidarea fiscală",
+        "link": "https://www.mediafax.ro/stirile-zilei/semnal-de-la-moodys-inainte-de-votul-pentru-guvernul-niculescu-instalarea-guvernului-si-adoptarea-la-timp-a-bugetului-pentru-2027-sprijina-consolidarea-fiscala-23828578",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/765460086_1357537622594839_2169633239951985589_n-1024x683.png",
+        "summary": "Agenția de rating Moody’s consideră că instalarea unui nou Executiv și aprobarea la timp a bugetului pentru 2027 vor fi evoluții pozitive pentru profilul de credit al României, sprijinind consolidarea fiscală, potrivit unui comentariu transmis de Ministerul de Finanțe.",
+        "category": "Gazdaság",
+        "published_at": 1792485541
       }
     ]
   },
@@ -2849,6 +2833,22 @@
     ]
   },
   {
+    "group_id": "group_87ac7d59b4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Violențele din Franța schimbă calculele politice înaintea alegerilor prezidențiale din 2027. Cine profită de criză și cine are de pierdut",
+        "link": "https://www.mediafax.ro/externe/violentele-din-franta-schimba-calculele-politice-inaintea-alegerilor-prezidentiale-din-2027-cine-profita-de-criza-si-cine-are-de-pierdut-23828437",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164670-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+        "summary": "Jafurile și violențele care au avut loc în Franța în weekend ar putea schimba raportul de forțe înaintea alegerilor prezidențiale din 2027, potrivit unei analize Politico.",
+        "category": "Politika",
+        "published_at": 1792474354
+      }
+    ]
+  },
+  {
     "group_id": "group_72a6946f57",
     "category": "Erdély",
     "articles_count": 1,
@@ -3079,7 +3079,7 @@
   {
     "group_id": "group_84b2b7967e",
     "category": "Sport",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "G4Media",
@@ -3098,6 +3098,15 @@
         "summary": "Barcelona pare pregătită pentru super-duelul din această seară, dat fiind că echipa catalană traversează o perioadă excelentă, cu 11 victorii în cele 11 meciuri disputate în acest sezon. În primele două partide din faza ligii, elevii lui Hansi Flick le-au învins pe Feyenoord cu 5-1 și pe Galatasaray cu 4-1. De asemenea, în weekend au câștigat cu 5-2 pe terenul lui Betis. ...",
         "category": "Sport",
         "published_at": 1792483471
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "PSG - Barcelona, meci de gală în mijlocul scenelor apocaliptice din Paris » Echipele probabile + cote",
+        "link": "https://www.gsp.ro/international/liga-campionilor/live-psg-barcelona-meciul-etapei-3-liga-campionilor-990148.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/09ef616f-bcb8-4419-85c7-8f7836a83797.jfif?width=290&height=208",
+        "summary": "PSG și Barcelona se întâlnesc pe „Parc des Princes” în cel mai așteptat meci al etapei cu numărul 3 din grupa unică a Ligii Campionilor. Meciul de gală de la Paris începe la ora 22:00 și poate fi urmărit liveTEXT pe GSP.ro și în direct pe Prima Sport 1 și Digi Sport 1. ...",
+        "category": "Sport",
+        "published_at": 1792485008
       }
     ]
   },
@@ -3654,7 +3663,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1776752282_0_rendorsegillusztracio24_hi05_web.jpg",
         "summary": "A levegőből is vadásznak a szabálytalankodó autósokra Hargita megyében. A rendőrség helikoptereket vet be a közúti biztonság növelése érdekében.",
         "category": "Általános",
-        "published_at": 1792485153
+        "published_at": 1792485932
       }
     ]
   },
@@ -3687,22 +3696,6 @@
         "summary": "Már hetedik napja tartanak az összecsapások, háromszáz sérült van.",
         "category": "Általános",
         "published_at": 1792470020
-      }
-    ]
-  },
-  {
-    "group_id": "group_7bcf522566",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "Szemkilövés, gyújtogatás, uszítás – mindenki mást emelt ki az erőszakba torkolló francia tüntetésekből Strasbourgban",
-        "link": "https://transtelex.ro/kulfold/2026/10/19/eu-europai-parlament-franciaorszag-eroszakos-tuntetesek-vita",
-        "image": "https://assets.telex.hu/images/20261019/1792441640-temp-6kn6o02l0pnq1jodlfo_cimlap-normal.jpg",
-        "summary": "Csak címből négyfélével próbálkoztak a frakciók az Európai Parlament vitájánál. Ki a kormány felelősségéről és sérült tüntetőkről, ki a kifosztott boltokról, gyújtogatásokról beszélt.",
-        "category": "Politika",
-        "published_at": 1792442225
       }
     ]
   },
@@ -4136,7 +4129,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1792478254_0_mountainspirit26_bg61vmfb_web.jpg",
         "summary": "",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792485891
       }
     ]
   },
@@ -4273,7 +4266,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1792480531_0_szulofoldonmagyarulillusztracio_hi03_web.jpg",
         "summary": "Legkésőbb december 20-ig minden külhoni magyar kedvezményezetthez eljut a Szülőföldön magyarul program idei támogatása, Erdélyben várhatóan november elején kezdenek utalni, de a program erdélyi koordinátora egyelőre nem kapott hivatalos tájékoztatást a folyósításról.",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792486030
       }
     ]
   },
@@ -4663,7 +4656,7 @@
         "image": "",
         "summary": "MR D.I.Y. va deschide primul său magazin din oraș, în Centrul Comercial Nest Oradea, extinzând astfel accesul clienților locali la una dintre cele mai variate game de produse pentru casă, bricolaj, organizare și timp liber.",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792485780
       }
     ]
   },
@@ -4679,7 +4672,7 @@
         "image": "",
         "summary": "Șase coruri din Oradea și Timișoara se vor reuni vineri, 23 octombrie, de la ora 19.30, la Catedrala Greco-Catolice „Sfântul Nicolae”, la cea de-a XVI-a ediție a Festivalului Coral „Francisc Hubic”. Evenimentul pregătește Anul Jubiliar 2027, când Episcopia Greco-Catolică de Oradea va marca 250 de ani de la înființare.",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792485660
       }
     ]
   },
@@ -4695,7 +4688,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1724134360_csapilusztr_lfcs(1).jpg",
         "summary": "",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792486030
       }
     ]
   },
@@ -4903,7 +4896,7 @@
         "image": "",
         "summary": "O magazie din lemn, de circa 40 de metri pătrați, a ars marți dimineață într-o gospodărie din Mădăras, într-un incendiu provocat, cel mai probabil, de o afumătoare improvizată, potrivit ISU Crișana. Pompierii au împiedicat extinderea flăcărilor la casă și la o filigorie. Nu au fost persoane rănite.",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792486030
       }
     ]
   },
@@ -4935,7 +4928,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1792483756_0_martonaronterikereszt_hi01_web.jpg",
         "summary": "",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792486030
       }
     ]
   },
@@ -4951,7 +4944,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1792483501_0_sorompo_Csikszentimre_VL-2-_web.jpg",
         "summary": "",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792486030
       }
     ]
   },
@@ -4967,7 +4960,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1792483232_0_Csíki_Kamarazenekar_facebook_web.jpg",
         "summary": "Volt idő, amikor Csíkszereda klasszikus zenei élete elcsendesült tíz évre. Hogy ez a hiátus ne állandósuljon, ahhoz az kellett, hogy frissen végzett hangszertanárok álljanak össze, hogy együtt muzsikáljanak és újra kitöltsék a teret zenével. Ennek idén már huszonöt éve. Az eltelt negyedszázad során a Csíki Kamarazenekar értő közönséget nevelt, fiatal zenészeket állított színpadra és nagynevű művészek sorát hívta Csíkszeredába.",
         "category": "Általános",
-        "published_at": 1792485153
+        "published_at": 1792486030
       }
     ]
   },
@@ -5303,7 +5296,7 @@
         "image": "",
         "summary": "Universitarii orădeni deplâng moartea unui coleg care a decedat neașteptat, la doar 38 de ani. Laurențiu Petrila, șef de lucrări al Facultății de Istorie, Relații Internaționale, Științe Politice și Științele Comunicării, a fost găsit mort în locuința sa, după ce, cu o zi în urmă, ar suferit un accident casnic și o lovitură la cap, dar ar fi refuzat să fie transportat la spital. Specialist în studii europene și relații internaționale, Petrila era și tatăl a doi copii.",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792486030
       }
     ]
   },
@@ -5319,7 +5312,119 @@
         "image": "",
         "summary": "Sportivii clubului orădean de kickboxing Maxim Fight Team au obținut 10 victorii la gala Blood Fight League (BFL), desfășurată sâmbătă, la Moșnița Nouă. Coordonați de antrenorii Sorin Vesa și Adrian Maxim, aceștia se pregătesc acum pentru noi confruntări, inclusiv la Alba Iulia și București.",
         "category": "Erdély",
-        "published_at": 1792485153
+        "published_at": 1792486030
+      }
+    ]
+  },
+  {
+    "group_id": "group_d2877b35af",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Corriere della Sera îl aduce în prim-plan pe Antonio Conte » „Și-a dat acordul”",
+        "link": "https://www.gsp.ro/international/campionate/antonio-conte-gata-sa-revina-la-juventus-990150.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/04062026/4318de64-9abd-4312-9d8a-db5f9b63bc65.jpg?width=290&height=208",
+        "summary": "La Juventus atmosfera este extrem de tensionată, după eșecul de acasă cu Lazio (0-3). Antrenorul Luciano Spalletti a admis că nu mai e sigur de sprijinul jucătorilor. Problema nu e atât corecția primită de la Lazio, cât startul modest de sezon al echipei. Juve navighează aproape de mijlocul clasamentului după 7 etape, cu 3 victorii, 2 remize și 2 eșecuri. Prea puțin pentru un club care de când se știe vânează trofee. ...",
+        "category": "Sport",
+        "published_at": 1792485342
+      }
+    ]
+  },
+  {
+    "group_id": "group_49509b9c83",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Iga Swiatek s-a retras de la Ningbo și va rata Turneul Campioanelor » Decizia o influențează și pe Sorana Cîrstea",
+        "link": "https://www.gsp.ro/sporturi/tenis/iga-swiatek-retragere-ningbo-990160.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/c43ae681-942a-4dd3-ab74-96c466709afb.jpg?width=290&height=208",
+        "summary": "Iga Swiatek (25 de ani, 9 WTA) a decis să se retragă de la turneul WTA 500 din Ningbo, din cauza unei accidentări la coapsă, și nu mai are șanse de calificare la Turneul Campioanelor. Așadar, poloneza va rata această competiție pentru prima oară în 7 ani. Iga Swiatek are parte de un sezon foarte complicat, cu rezultate sub așteptări, cu accidentări și cu multă presiune. ...",
+        "category": "Sport",
+        "published_at": 1792485276
+      }
+    ]
+  },
+  {
+    "group_id": "group_2867b0e6f0",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Manchester City - AEK Atena: Răzvan Marin, misiune „imposibilă” pe Etihad » Echipe probabile + cote",
+        "link": "https://www.gsp.ro/international/liga-campionilor/live-manchester-city-aek-atena-razvan-marin-liga-campionilor-990154.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/14102026/12c37346-c65c-4f22-b76d-9572cc0f838d.jpg?width=290&height=208",
+        "summary": "Manchester City primește vizita celor de la AEK Atena, într-o partidă din etapa a treia a fazei principale din Liga Campionilor. Confruntarea se va disputa pe stadionul „Etihad”, iar internaționalul român Răzvan Marin (30 de ani) este anunțat titular în formația oaspete. Duelul va fi liveTEXT pe GSP.ro și televizat de Prima Sport 3, respectiv Digi Sport 2. Meciul va fi arbitrat de francezul Willy Delajod. ...",
+        "category": "Sport",
+        "published_at": 1792485146
+      }
+    ]
+  },
+  {
+    "group_id": "group_da701012f2",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "ASA Târgu Mureș - Chindia Târgoviște, ultimul meci al etapei 10 din Liga 2 » Toate rezultatele + clasamentul",
+        "link": "https://www.gsp.ro/fotbal/liga-2/live-etapa-10-liga-2-rezultate-marcatori-clasament-989045.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/52719620-5d5a-45f1-9877-7b55ae2038fd.jpg?width=290&height=208",
+        "summary": "ASA Târgu Mureș - Chindia Târgoviște, ultimul meci al etapei 10 din Liga 2, se joacă astăzi, de la ora 17:30. Partida va fi în direct pe prima Sport 1 și Digi Sport 1 și în format liveTEXT pe GSP.ro. Primele meciuri ale rundei a 10-a din Liga 2 au oferit scoruri spectaculoase, dar și un moment teribil: accidentarea lui Constantin Robicek în SC Popești Leordeni – CS Afumați. ...",
+        "category": "Sport",
+        "published_at": 1792485075
+      }
+    ]
+  },
+  {
+    "group_id": "group_f4fb6c9b76",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Economedia",
+        "title": "Studiu: Ritmul creșterilor salariale în companiile private continuă să încetinească/ România devine tot mai puțin competitivă din punct de vedere costuri ale forței de muncă",
+        "link": "https://economedia.ro/studiu-ritmul-cresterilor-salariale-in-companiile-private-continua-sa-incetineasca-romania-devine-tot-mai-putin-competitiva-din-punct-de-vedere-costuri-ale-fortei-de-munca.html",
+        "image": "https://www.economedia.ro/wp-content/uploads/2024/10/ID233968_INQUAM_Photos_Sabin_Cirstoveanu-1024x683.jpg",
+        "summary": "Companiile private din România participante la un studiu al PwC estimează o creștere medie de 5,65% a salariilor de bază în 2027, după majorări de 6,67% în 2026 și de 7,47% în 2025. Datele indică astfel o continuare a încetinirii ritmului de creștere a salariilor. Analiza notează că această evoluție are loc într-un context economic […]",
+        "category": "Gazdaság",
+        "published_at": 1792485512
+      }
+    ]
+  },
+  {
+    "group_id": "group_ab54940909",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Grupul Exigent, al familiei Niculae, ar putea ridica circa 3.000 de apartamente pe un teren de 12 hectare de pe strada Preciziei, aproape de Centură. Primăria Sectorului 6 vrea să construiască şi un drum nou spre A1 şi piste de biciclete pe Preciziei",
+        "link": "https://www.zf.ro/business-construct/grupul-exigent-familiei-niculae-ar-putea-ridica-circa-3-000-apartamente-teren-12-hectare-strada-preciziei-aproape-centura-primaria-sectorului-6-vrea-construiasca-drum-spre-a1-piste-biciclete-23263832",
+        "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21328/23263832/1/exigent-plaza-residence.jpg?width=700",
+        "summary": "",
+        "category": "Gazdaság",
+        "published_at": 1792485749
+      }
+    ]
+  },
+  {
+    "group_id": "group_83f86d0064",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Zonait.ro",
+        "title": "Flanco începe a 16-a ediție de Black Friday",
+        "link": "https://zonait.ro/flanco-a-16-a-editie-de-black-friday/",
+        "image": "",
+        "summary": "Publicat pe Zona IT de catre Contributors: Campania de Black Friday are loc între 22 octombrie și 30 noiembrie, online și în magazinele Flanco din țară Reducerile ajung până la 41% la televizoare, până la 50% la produsele IT și până la 54% la electrocasnicele mici Flanco menține pe toată durata campaniei finanțarea în 24 de rate fără dobândă la orice produs, … Citeste mai mult: Flanco începe a 16-a ediție de Black Friday - Zona IT.",
+        "category": "Általános",
+        "published_at": 1792485931
       }
     ]
   }
