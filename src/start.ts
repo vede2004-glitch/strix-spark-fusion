@@ -1,6 +1,7 @@
 import { createStart, createCsrfMiddleware, createMiddleware } from "@tanstack/react-start";
 
 import { renderErrorPage } from "./lib/error-page";
+import { domainRedirect } from "./lib/domains";
 
 const errorMiddleware = createMiddleware().server(async ({ next }) => {
   try {
@@ -24,6 +25,14 @@ const csrfMiddleware = createCsrfMiddleware({
   filter: (ctx) => ctx.handlerType === "serverFn",
 });
 
+// stirix.ro → 301 hirx.ro (magyar böngésző) vagy strix.ro (minden más).
+const domainMiddleware = createMiddleware().server(async ({ next, request }) => {
+  const url = new URL(request.url);
+  const target = domainRedirect(request.headers.get("host") ?? url.host, request.headers.get("accept-language"), url.pathname + url.search);
+  if (target) return new Response(null, { status: 301, headers: { location: target, vary: "Accept-Language" } });
+  return next();
+});
+
 export const startInstance = createStart(() => ({
-  requestMiddleware: [errorMiddleware, csrfMiddleware],
+  requestMiddleware: [domainMiddleware, errorMiddleware, csrfMiddleware],
 }));

@@ -4,7 +4,14 @@ export type Lang = "hu" | "ro";
 export const LANGS: Lang[] = ["hu", "ro"];
 const KEY = "stirix-lang";
 let current: Lang = "hu";
+let locked = false;
 const subs = new Set<() => void>();
+
+/** A domén (hirx.ro / strix.ro) által meghatározott nyelv; render előtt hívandó. */
+export function initDomainLang(l: Lang | null) {
+  locked = !!l;
+  if (l) current = l;
+}
 
 export function setLang(l: Lang) {
   current = l;
@@ -20,9 +27,10 @@ export function useLang(): Lang {
   const lang = useSyncExternalStore(
     (f) => { subs.add(f); return () => subs.delete(f); },
     () => current,
-    () => "hu" as Lang,
+    () => current,
   );
   useEffect(() => {
+    if (locked) return;
     try {
       const s = localStorage.getItem(KEY) as Lang | null;
       if (s && LANGS.includes(s) && s !== current) setLang(s);
