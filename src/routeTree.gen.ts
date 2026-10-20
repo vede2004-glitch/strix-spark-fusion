@@ -14,6 +14,7 @@ import { Route as BekuldesRouteImport } from './routes/bekuldes'
 import { Route as ForrasokRouteImport } from './routes/forrasok'
 import { Route as OsszesRouteImport } from './routes/osszes'
 import { Route as RolunkRouteImport } from './routes/rolunk'
+import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as TamogatasRouteImport } from './routes/tamogatas'
 import { Route as VisszajelzesRouteImport } from './routes/visszajelzes'
 import { Route as ApiAskRouteImport } from './routes/api/ask'
@@ -44,6 +45,11 @@ const RolunkRoute = RolunkRouteImport.update({
   path: '/rolunk',
   getParentRoute: () => rootRouteImport,
 } as any)
+const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
+  id: '/sitemap.xml',
+  path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const TamogatasRoute = TamogatasRouteImport.update({
   id: '/tamogatas',
   path: '/tamogatas',
@@ -71,6 +77,7 @@ export interface FileRoutesByFullPath {
   '/forrasok': typeof ForrasokRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
@@ -82,6 +89,7 @@ export interface FileRoutesByTo {
   '/forrasok': typeof ForrasokRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
@@ -94,6 +102,7 @@ export interface FileRoutesById {
   '/forrasok': typeof ForrasokRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
   '/api/ask': typeof ApiAskRoute
@@ -107,6 +116,7 @@ export interface FileRouteTypes {
     | '/forrasok'
     | '/osszes'
     | '/rolunk'
+    | '/sitemap.xml'
     | '/tamogatas'
     | '/visszajelzes'
     | '/api/ask'
@@ -118,6 +128,7 @@ export interface FileRouteTypes {
     | '/forrasok'
     | '/osszes'
     | '/rolunk'
+    | '/sitemap.xml'
     | '/tamogatas'
     | '/visszajelzes'
     | '/api/ask'
@@ -129,6 +140,7 @@ export interface FileRouteTypes {
     | '/forrasok'
     | '/osszes'
     | '/rolunk'
+    | '/sitemap.xml'
     | '/tamogatas'
     | '/visszajelzes'
     | '/api/ask'
@@ -141,6 +153,7 @@ export interface RootRouteChildren {
   ForrasokRoute: typeof ForrasokRoute
   OsszesRoute: typeof OsszesRoute
   RolunkRoute: typeof RolunkRoute
+  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   TamogatasRoute: typeof TamogatasRoute
   VisszajelzesRoute: typeof VisszajelzesRoute
   ApiAskRoute: typeof ApiAskRoute
@@ -184,6 +197,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof RolunkRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/sitemap.xml': {
+      id: '/sitemap.xml'
+      path: '/sitemap.xml'
+      fullPath: '/sitemap.xml'
+      preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/tamogatas': {
       id: '/tamogatas'
       path: '/tamogatas'
@@ -221,6 +241,7 @@ const rootRouteChildren: RootRouteChildren = {
   ForrasokRoute: ForrasokRoute,
   OsszesRoute: OsszesRoute,
   RolunkRoute: RolunkRoute,
+  SitemapDotxmlRoute: SitemapDotxmlRoute,
   TamogatasRoute: TamogatasRoute,
   VisszajelzesRoute: VisszajelzesRoute,
   ApiAskRoute: ApiAskRoute,

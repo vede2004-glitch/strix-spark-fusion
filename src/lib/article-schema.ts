@@ -1,6 +1,6 @@
 import type { NewsItem } from "@/lib/news";
 
-export const SITE_URL = "https://strix-spark-fusion.lovable.app";
+export const SITE_URL = "https://hirx.ro";
 
 const plain = (text: string) => text.replace(/\*\*(.+?)\*\*/g, "$1");
 
@@ -30,7 +30,20 @@ export function articleSchema(item: NewsItem, image: string | null) {
   };
 }
 
+export function breadcrumbSchema(item: NewsItem) {
+  const url = `${SITE_URL}/hir/${encodeURIComponent(item.group_id)}`;
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Főoldal", item: `${SITE_URL}/` },
+      { "@type": "ListItem", position: 2, name: "Összes hír", item: `${SITE_URL}/osszes` },
+      { "@type": "ListItem", position: 3, name: plain(item.title), item: url },
+    ],
+  };
+}
+
 /** Escape HTML delimiters so article text cannot terminate the metadata script. */
-export function serializeArticleSchema(schema: ReturnType<typeof articleSchema>) {
+export function serializeArticleSchema(schema: Record<string, unknown>) {
   return JSON.stringify(schema).replace(/</g, "\\u003c").replace(/>/g, "\\u003e").replace(/&/g, "\\u0026");
 }

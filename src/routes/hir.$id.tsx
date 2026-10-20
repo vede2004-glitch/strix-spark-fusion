@@ -7,7 +7,7 @@ import { newsImage } from "@/lib/gallery";
 import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
 import { ArticleQA } from "@/components/ArticleQA";
-import { articleSchema, serializeArticleSchema, SITE_URL } from "@/lib/article-schema";
+import { articleSchema, breadcrumbSchema, serializeArticleSchema, SITE_URL } from "@/lib/article-schema";
 
 export const Route = createFileRoute("/hir/$id")({
   loader: ({ params }) => {
@@ -33,7 +33,12 @@ export const Route = createFileRoute("/hir/$id")({
     const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.group_id)}` : undefined;
     return {
       meta: [...meta, ...(url ? [{ property: "og:url", content: url }] : [])],
-      scripts: loaderData ? [{ type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, image)) }] : [],
+      scripts: loaderData
+        ? [
+            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, image)) },
+            { type: "application/ld+json", children: serializeArticleSchema(breadcrumbSchema(loaderData)) },
+          ]
+        : [],
     };
   },
   component: Article,
