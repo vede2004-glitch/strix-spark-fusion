@@ -283,7 +283,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         return [], False, is_update
 
 # ==============================================================================
-# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT (24 ÓRÁS IDŐABLAK)
+# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT (12 ÓRÁS AI SZINTÉZIS + 24 ÓRÁS MEGŐRZÉS)
 # ==============================================================================
 def run_synthesis_direct():
     if not os.path.exists(MEMORY_FILE):
@@ -305,7 +305,10 @@ def run_synthesis_direct():
     single_results = []
     
     CURRENT_TIME = int(time.time())
-    CUTOFF_TIME = CURRENT_TIME - (24 * 3600)
+    
+    # ⏱️ IDŐABLAK MÉRÉSEK:
+    AI_PROCESS_CUTOFF = CURRENT_TIME - (12 * 3600)  # AI szintézis: Csak az elmúlt 12 óra friss hírei (GYORS!)
+    RETENTION_CUTOFF = CURRENT_TIME - (24 * 3600)   # Kimentés a news.json-ba: 24 órányi hír megőrzése
 
     stats = {
         "total_groups": len(grouped_data),
@@ -320,7 +323,8 @@ def run_synthesis_direct():
     for g_id, articles in grouped_data.items():
         latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", 0))) for a in articles])
 
-        if latest_timestamp < CUTOFF_TIME:
+        # 1. 24 óránál régebbi híreket végleg elvetjük
+        if latest_timestamp < RETENTION_CUTOFF:
             stats["expired_groups"] += 1
             continue
 
@@ -359,17 +363,16 @@ def run_synthesis_direct():
                 stats["skipped_fingerprint"] += 1
                 continue
 
-        multi_groups.append((g_id, articles, existing_synth, current_fingerprint))
+        # 2. CSAK AZ ELMÚLT 12 ÓRÁBAN ÉRKEZETT HÍREKET KÜLDJÜK AI SZINTÉZISRE:
+        if latest_timestamp >= AI_PROCESS_CUTOFF:
+            multi_groups.append((g_id, articles, existing_synth, current_fingerprint))
 
     stats["processed_by_ai"] = len(multi_groups)
 
     synthesized_results = []
-    new_topics_count = 0
-    updated_topics_count = 0
-
     if multi_groups:
-        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
-        with ThreadPoolExecutor(max_workers=5) as executor:
+        print(f"🚀 {len(multi_groups)} db friss (12h) többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
+        with ThreadPoolExecutor(max_workers=10) as executor:
             futures = [
                 executor.submit(process_group_direct, g_id, articles, existing, fingerprint)
                 for g_id, articles, existing, fingerprint in multi_groups
@@ -378,10 +381,6 @@ def run_synthesis_direct():
                 entries, is_synth, is_update = future.result()
                 if is_synth:
                     synthesized_results.extend(entries)
-                    if is_update:
-                        updated_topics_count += 1
-                    else:
-                        new_topics_count += 1
 
     all_final_results = {}
     if os.path.exists(OUTPUT_FILE):
@@ -399,9 +398,10 @@ def run_synthesis_direct():
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
+    # 3. MEGŐRZÉS: A KÍRÓDÓ NEWS.JSON-BA 24 ÓRÁNYI HÍR TARTALOM KERÜL!
     fresh_items = [
         item for item in all_final_results.values() 
-        if item.get("published_at", 0) >= CUTOFF_TIME
+        if item.get("published_at", 0) >= RETENTION_CUTOFF
     ]
 
     frontend_news = [
@@ -434,7 +434,7 @@ def run_synthesis_direct():
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(history.values(), key=lambda x: x.get("published_at", 0), reverse=True), f, ensure_ascii=False, indent=2)
 
-    print(f"💾 Összesen {len(final_sorted_list)} friss cikk mentve a {OUTPUT_FILE} fájlba.")
+    print(f"💾 Összesen {len(final_sorted_list)} friss (24 órás megőrzésű) cikk mentve a {OUTPUT_FILE} fájlba.")
 
 if __name__ == "__main__":
     run_synthesis_direct()
