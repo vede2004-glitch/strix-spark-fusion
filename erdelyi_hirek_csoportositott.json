@@ -16102,7 +16102,7 @@
   {
     "group_id": "group_4af824b2ed",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Digi24",
@@ -16121,6 +16121,15 @@
         "summary": "Serviciul Român de Informații a reacționat după ce Ludovic Orban a acuzat, într-o intervenție la TVR 1, că serviciile de informații s-ar fi implicat, în jocurile politice, dar și limbajul suburban la adresa Serviciului și a conducerii acestuia.",
         "category": "Általános",
         "published_at": 1792530602
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Reacția SRI, după ce Ludovic Orban a acuzat că serviciile sunt implicate în formarea guvernului și a numit „necunoscutul domn ce conduce pe șestache”",
+        "link": "https://hotnews.ro/reactia-sri-dupa-ce-ludovic-orban-a-acuzat-intr-un-interviu-la-tvr-ca-serviciile-secrete-sunt-implicate-in-formarea-noului-guvern-si-ca-e-vina-presedintelui-2382004",
+        "image": "",
+        "summary": "Serviciul Român de Informații (SRI) nu participă la înțelegeri politice și își desfășoară activitatea exclusiv în limitele stabilite de Constituție și de lege, au transmis marți seară reprezentanții instituției, într-un comunicat de presă, ca reacție la declarațiile fostului premier Ludovic Orban. Reacția SRI a venit în urma unui interviu acordat Ludovic Orban la postul public …",
+        "category": "Általános",
+        "published_at": 1792532130
       }
     ]
   },
@@ -17099,6 +17108,54 @@
         "summary": "Prim-ministrul Luca Niculescu a transmis marți seară, după ce a condus prima ședință a noului Executiv că, începând de miercuri dimineață, toate ministerele vor fi mobilizate pentru a rezolva cât mai multe dintre lucrurile care nu mai suportă amânare.",
         "category": "Politika",
         "published_at": 1792531587
+      }
+    ]
+  },
+  {
+    "group_id": "group_b2f3aab615",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "PSG - Barcelona l-a fascinat pe Mihai Stoica: „Niciodată în istorie!”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/psg-barcelona-l-a-fascinat-pe-mihai-stoica-niciodata-in-istorie-990444.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/b37613de-bff4-4ed3-a126-50eebe4e60ca.jpg?width=290&height=208",
+        "summary": "Mihai Stoica a fost încântat de ce a văzut în PSG - Barcelona, scor 4-2, meciul serii de marți în Liga Campionilor. PSG, deținătoarea trofeului Ligii Campionilor, și Barcelona, campioana Spaniei, au oferit spectacolul așteptat pe „Parc des Princes”. Mihai Stoica a apreciat ritmul partidei, dar și faptul că Hansi Flick a mizat pe mulți tineri. ...",
+        "category": "Sport",
+        "published_at": 1792531940
+      }
+    ]
+  },
+  {
+    "group_id": "group_5a7015c0a4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Casele bătrânești se vând cu 6.000 de euro, dar renovarea poate costa cu 40% mai mult decât o construcție nouă",
+        "link": "https://adevarul.ro/stiri-interne/societate/casele-batranesti-se-vand-cu-6000-de-euro-dar-2565250.html",
+        "image": "https://cdn.adh.reperio.news/image-2/24a88880-68d3-48ae-9c8f-dfc92ed3b73f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Casele bătrânești de la țară pot fi cumpărate cu prețuri convenabile, însă renovarea lor poate ajunge să coste mai mult decât construirea unei locuințe noi. Radu Steolea, care a restaurat o casă din 1872 în Sarmizegetusa și lucrează acum la una construită în 1911, arată ce costuri aduc lucrările.",
+        "category": "Általános",
+        "published_at": 1792533445
+      }
+    ]
+  },
+  {
+    "group_id": "group_aa3f2192bc",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "„Operațiunea Bradul”, dosarul întunecat al comunismului și crimele care au cutremurat Poiana Brașov",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/operatiunea-bradul-dosarul-intunecat-al-2565212.html",
+        "image": "https://cdn.adh.reperio.news/image-5/5aaaa3f5-987c-4a8e-8d45-249d689ad169/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Cea mai dubioasă serie de crime din istoria României a avut loc în perioada comunistă. Patru femei au fost omorâte la Poiana Brașov, dintre care două în același an și aceeași lună. Nici până astăzi nu este cunoscut autorul, iar specialiștii spun că Securitatea a mușamalizat totul.",
+        "category": "Általános",
+        "published_at": 1792532545
       }
     ]
   }
