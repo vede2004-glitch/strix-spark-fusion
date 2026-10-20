@@ -7,6 +7,7 @@ import hashlib
 import requests
 import feedparser
 import torch
+import threading
 import numpy as np
 from datetime import datetime
 from email.utils import parsedate_to_datetime
@@ -84,20 +85,24 @@ CATEGORIES = {
 
 _MODEL = None
 _ZERO_SHOT_CLASSIFIER = None
+_MODEL_LOCK = threading.Lock()
+_ZERO_SHOT_LOCK = threading.Lock()
 
 def get_model():
     global _MODEL
-    if _MODEL is None:
-        print("🧠 SentenceTransformer AI modell betöltése...")
-        _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-        _MODEL.to(torch.float32)  # 👈 Kényszerített float32 típus a típuseltérési hiba megelőzésére
+    with _MODEL_LOCK:
+        if _MODEL is None:
+            print("🧠 SentenceTransformer AI modell betöltése...")
+            _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+            _MODEL.to(torch.float32)  # 👈 Kényszerített float32 típus a típuseltérési hiba megelőzésére
     return _MODEL
 
 def get_zero_shot_classifier():
     global _ZERO_SHOT_CLASSIFIER
-    if _ZERO_SHOT_CLASSIFIER is None:
-        print("🏷️ Ingyenes Zero-Shot AI kategória-osztályozó betöltése...")
-        _ZERO_SHOT_CLASSIFIER = pipeline("zero-shot-classification", model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
+    with _ZERO_SHOT_LOCK:
+        if _ZERO_SHOT_CLASSIFIER is None:
+            print("🏷️ Ingyenes Zero-Shot AI kategória-osztályozó betöltése...")
+            _ZERO_SHOT_CLASSIFIER = pipeline("zero-shot-classification", model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
     return _ZERO_SHOT_CLASSIFIER
 
 # ==============================================================================
