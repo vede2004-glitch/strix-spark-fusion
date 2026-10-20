@@ -7,7 +7,6 @@ import hashlib
 import requests
 import feedparser
 import torch
-import threading
 import numpy as np
 from datetime import datetime
 from email.utils import parsedate_to_datetime
@@ -85,28 +84,24 @@ CATEGORIES = {
 
 _MODEL = None
 _ZERO_SHOT_CLASSIFIER = None
-_MODEL_LOCK = threading.Lock()
-_ZERO_SHOT_LOCK = threading.Lock()
 
 def get_model():
     global _MODEL
-    with _MODEL_LOCK:
-        if _MODEL is None:
-            print("🧠 SentenceTransformer AI modell betöltése...")
-            _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-            _MODEL.to(torch.float32)  # 👈 Kényszerített float32 típus a típuseltérési hiba megelőzésére
+    if _MODEL is None:
+        print("🧠 SentenceTransformer AI modell betöltése...")
+        _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+        _MODEL.to(torch.float32)  # 👈 Kényszerített float32 típus a típuseltérési hiba megelőzésére
     return _MODEL
 
 def get_zero_shot_classifier():
     global _ZERO_SHOT_CLASSIFIER
-    with _ZERO_SHOT_LOCK:
-        if _ZERO_SHOT_CLASSIFIER is None:
-            print("🏷️ Ingyenes Zero-Shot AI kategória-osztályozó betöltése...")
-            _ZERO_SHOT_CLASSIFIER = pipeline("zero-shot-classification", model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
+    if _ZERO_SHOT_CLASSIFIER is None:
+        print("🏷️ Ingyenes Zero-Shot AI kategória-osztályozó betöltése...")
+        _ZERO_SHOT_CLASSIFIER = pipeline("zero-shot-classification", model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
     return _ZERO_SHOT_CLASSIFIER
 
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK ÉS HIBRID KATEGÓRIA OSZTÁLYOZÓ
+# 2. SEGÉDFUNKCIÓK ÉS KATEGÓRIA OSZTÁLYOZÓ
 # ==============================================================================
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
@@ -159,18 +154,11 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text)
     return text
 
-def classify_article_ai(title, summary):
-    """ Helyi, ingyenes AI alapú Zero-Shot kategória-osztályozó """
-    text = f"{title}. {summary}"[:500]
-    candidate_labels = ["Politika", "Sport", "Gazdaság", "Bulvár", "Kultúra", "Erdély", "Általános"]
-    classifier = get_zero_shot_classifier()
-    res = classifier(text, candidate_labels)
-    return res['labels'][0]
-
-def classify_article(title, summary, source_name, entry_tags):
+def classify_article_fast(title, summary, source_name):
+    """ Gyors, szálbiztos szabályalapú kategorizálás (AI hívás nélkül) """
     text = f"{title} {summary}".lower()
 
-    # 1. ELSŐ KÖR: Bűnügyi, Iskolai, Bírósági hírek kizárása a Sportból
+    # 1. Bűnügyi, Iskolai hírek
     crime_education_keywords = [
         "rendőrség", "bántalmazás", "letartóztatás", "bíróság", "miniszter", 
         "iskola", "profesor", "politie", "dosar penal", "reţinut", "agresat", "tanár"
@@ -180,7 +168,7 @@ def classify_article(title, summary, source_name, entry_tags):
             return "Erdély"
         return "Általános"
 
-    # 2. ELSŐ KÖR: Egyértelmű forrás-alapú besorolások
+    # 2. Forrás-alapú besorolások
     if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
         return "Sport"
     if source_name in ["Maszol Gazdaság", "Economedia", "Ziarul Financiar"]:
@@ -192,7 +180,7 @@ def classify_article(title, summary, source_name, entry_tags):
     if source_name in ["Go4IT", "Zonait.ro"]:
         return "Általános"
 
-    # 3. ELSŐ KÖR: Gyors kulcsszavas ellenőrzés
+    # 3. Gyors kulcsszavas ellenőrzés
     real_sport_keywords = [
         "foci", "labdarúgás", "mérkőzés", "bajnokság", "gól", "kupa", "meccs", 
         "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"
@@ -200,22 +188,14 @@ def classify_article(title, summary, source_name, entry_tags):
     if any(kw in text for kw in real_sport_keywords):
         return "Sport"
 
-    category_match = None
     for category, keywords in CATEGORIES.items():
         if category == "Sport":
             continue
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
-                category_match = category
-                break
-        if category_match:
-            break
+                return category
 
-    # 4. MÁSODIK KÖR (HIBRID AI): Ha bizonytalan vagy Általános lenne, átadjuk a helyi AI osztályozónak
-    if not category_match or category_match == "Általános":
-        return classify_article_ai(title, summary)
-
-    return category_match
+    return "Általános"
 
 def extract_cover_image(entry, article_url, session):
     if 'media_content' in entry and entry.media_content:
@@ -270,7 +250,9 @@ def extract_article_data(entry, source_name, session, cutoff_24h):
     raw_summary = entry.get('summary', '') or entry.get('description', '')
     clean_summary = clean_text(raw_summary)
     image_url = extract_cover_image(entry, link, session)
-    category = classify_article(title, clean_summary, source_name, [])
+    
+    # ⚡ Gyors osztályozás hívása a párhuzamos szálban
+    category = classify_article_fast(title, clean_summary, source_name)
 
     return {
         "source": source_name,
@@ -306,7 +288,6 @@ def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{now_str}] 🔄 Hírcsatornák frissítése indult ({len(RSS_FEEDS)} forrás)...")
 
-    # 🟢 ÁTTÉRÉS 24 ÓRÁS IDŐABLA
     cutoff_24h = int(time.time()) - (24 * 3600)
     memory = load_json_file(MEMORY_FILE)
     archive = load_json_file(ARCHIVE_FILE)
@@ -314,12 +295,29 @@ def run_pipeline():
     fetched_articles = []
     feed_items = [((src, url), cutoff_24h) for src, url in RSS_FEEDS.items()]
     
+    # 1. PÁRHUZAMOS RSS LETÖLTÉS (Már AI nélkül, 100% golyóálló)
     with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as executor:
         results = executor.map(fetch_single_feed, feed_items)
 
     for article_list in results:
         fetched_articles.extend(article_list)
 
+    # 2. BIZONYTALAN ("Általános") CIKKEK AI OSZTÁLYOZÁSA EGYETLEN SZÁLON
+    general_articles = [a for a in fetched_articles if a["category"] == "Általános"]
+    if general_articles:
+        print(f"🤖 AI kategória-pontosítás {len(general_articles)} db általános cikken...")
+        classifier = get_zero_shot_classifier()
+        candidate_labels = ["Politika", "Sport", "Gazdaság", "Bulvár", "Kultúra", "Erdély", "Általános"]
+        
+        for art in general_articles:
+            text = f"{art['title']}. {art['summary']}"[:500]
+            try:
+                res = classifier(text, candidate_labels)
+                art["category"] = res['labels'][0]
+            except Exception:
+                pass
+
+    # 3. EMBEDDING ÉS DEDUPLIKÁCIÓ
     for art in fetched_articles:
         existing_item = next((m for m in memory if m["link"] == art["link"]), None)
         if existing_item:
