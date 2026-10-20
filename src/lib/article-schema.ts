@@ -1,6 +1,6 @@
 import type { NewsItem } from "@/lib/news";
 
-export const SITE_URL = "https://strix-spark-fusion.lovable.app";
+export const SITE_URL = "https://hirx.ro";
 
 const plain = (text: string) => text.replace(/\*\*(.+?)\*\*/g, "$1");
 
@@ -27,6 +27,19 @@ export function articleSchema(item: NewsItem, image: string | null) {
       url: source.link,
       publisher: { "@type": "Organization", name: source.source },
     })),
+  };
+}
+
+export function breadcrumbSchema(item: NewsItem) {
+  const url = `${SITE_URL}/hir/${encodeURIComponent(item.group_id)}`;
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Főoldal", item: `${SITE_URL}/` },
+      { "@type": "ListItem", position: 2, name: "Összes hír", item: `${SITE_URL}/osszes` },
+      { "@type": "ListItem", position: 3, name: plain(item.title), item: url },
+    ],
   };
 }
 
