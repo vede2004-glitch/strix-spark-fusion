@@ -6,6 +6,7 @@ import calendar
 import hashlib
 import requests
 import feedparser
+import torch
 import numpy as np
 from datetime import datetime
 from email.utils import parsedate_to_datetime
@@ -89,6 +90,7 @@ def get_model():
     if _MODEL is None:
         print("🧠 SentenceTransformer AI modell betöltése...")
         _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+        _MODEL.to(torch.float32)  # 👈 Kényszerített float32 típus a típuseltérési hiba megelőzésére
     return _MODEL
 
 def get_zero_shot_classifier():
