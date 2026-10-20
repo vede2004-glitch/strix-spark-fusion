@@ -11,4 +11,5 @@
 
 - Keep the Stirix interface dark-first with semantic graphite/emerald tokens, Sora headings, and Manrope body text so new screens remain brand-consistent.
 - The Forrásaink page shows a fixed, hand-maintained source list; do not build editable source-manager UIs unless the user asks again.
+- Generate NewsArticle JSON-LD from the article route loader via src/lib/article-schema.ts so crawler-visible metadata matches the SSR article and preserves original-source citations without inventing authors or modification dates.
 - Serve brand logos from real files in `public` (never asset pointers) so external deployments don't depend on Lovable asset routing; BrandLogo picks by language and theme: HU shows `/hirx-logo.png` (dark theme) / `/hirx-logo-dark.png` (light theme), RO shows `/stirix-logo.png` / `/stirix-logo-dark.png`; favicon is the X mark.
