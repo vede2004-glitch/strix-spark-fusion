@@ -58,7 +58,6 @@ def fix_hungarian_names(text: str) -> str:
 def calculate_fingerprint(articles_or_sources: list) -> str:
     """
     Kiszámítja a cikkek vagy források linkjei alapján a csoport egyedi ujjlenyomatát (hash).
-    Mivel a linkeket ábécé sorrendbe rendezi, a sorrendváltozás sem okoz hamis frissítést.
     """
     links = []
     for item in articles_or_sources:
@@ -96,7 +95,6 @@ def process_single_article(art: dict) -> dict:
     }
 
 def load_existing_synthesized_articles() -> dict:
-    """Beolvassa a már korábban elmentett kimeneti híreket a group_id alapján (beleértve az elutasítottakat is)."""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -212,7 +210,6 @@ FORRÁSOK:
     return prompt, cover_image, sources_used
 
 def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, group_fingerprint: str):
-    """Közvetlen API hívást végző segédfüggvény egy csoportra."""
     is_update = bool(existing_synthesized and existing_synthesized.get("is_synthesized") and not existing_synthesized.get("rejected"))
     tag = "🔄 [FORRÁSBŐVÍTÉS]" if is_update else "🆕 [ÚJ TÉMA]"
     
@@ -234,7 +231,6 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         content_str = response.choices[0].message.content
         parsed_article = json.loads(content_str)
 
-        # 🛑 HA AZ AI SKIP-ET AD VISSZA:
         if parsed_article.get("skip") is True:
             print(f"⚠️ Kiszűrve [{g_id}]: Nem tartalmaz új tényt vagy hiányzik a témaegyezés.")
             rejected_entry = {
@@ -252,7 +248,6 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         else:
             filtered_sources = sources_used
 
-        # 🛑 HA KEVESEBB MINT 2 FORRÁS MARADT UTÁNA:
         if len(filtered_sources) < 2:
             print(f"⚠️ Kiszűrve [{g_id}]: Az AI csak {len(filtered_sources)} forrást talált érvényesnek/hasznosnak.")
             rejected_entry = {
@@ -274,9 +269,172 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
             "sources_count": len(filtered_sources),
             "sources": filtered_sources,
             "published_at": latest_timestamp,
-            # 🟢 MAGYAR NÉVSORREND-KORREKCIÓ ALKALMAZÁSA:
             "title_hu": fix_hungarian_names(parsed_article.get("title_hu", "")),
             "lead_hu": fix_hungarian_names(parsed_article.get("lead_hu", "")),
             "content_hu": fix_hungarian_names(parsed_article.get("content_hu", "")),
             "title_ro": parsed_article.get("title_ro", ""),
-            "lead
+            "lead_ro": parsed_article.get("lead_ro", ""),
+            "content_ro": parsed_article.get("content_ro", "")
+        }
+        return [synthesized_entry], True, is_update
+
+    except Exception as e:
+        print(f"⚠️ Hiba a(z) {g_id} feldolgozásakor: {e}")
+        return [], False, is_update
+
+# ==============================================================================
+# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT (24 ÓRÁS IDŐABLAK)
+# ==============================================================================
+def run_synthesis_direct():
+    if not os.path.exists(MEMORY_FILE):
+        print(f"⚠️ A memóriafájl ({MEMORY_FILE}) nem található!")
+        return
+
+    with open(MEMORY_FILE, "r", encoding="utf-8") as f:
+        memory = json.load(f)
+
+    existing_articles = load_existing_synthesized_articles()
+
+    grouped_data = {}
+    for item in memory:
+        g_id = item.get("group_id")
+        if g_id:
+            grouped_data.setdefault(g_id, []).append(item)
+
+    multi_groups = []
+    single_results = []
+    
+    CURRENT_TIME = int(time.time())
+    CUTOFF_TIME = CURRENT_TIME - (24 * 3600)
+
+    stats = {
+        "total_groups": len(grouped_data),
+        "expired_groups": 0,
+        "single_source_groups": 0,
+        "skipped_fingerprint": 0,
+        "processed_by_ai": 0
+    }
+
+    print(f"📊 {stats['total_groups']} témacsoport elemzése indult...")
+
+    for g_id, articles in grouped_data.items():
+        latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", 0))) for a in articles])
+
+        if latest_timestamp < CUTOFF_TIME:
+            stats["expired_groups"] += 1
+            continue
+
+        unique_sources = set(art.get("source") for art in articles if art.get("source"))
+        if len(unique_sources) < 2:
+            stats["single_source_groups"] += 1
+            art = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
+            summ = fix_hungarian_names(art.get("summary", "") or "")
+            lead = (summ[:200] + "…") if len(summ) > 200 else summ
+            single_results.append({
+                "group_id": g_id,
+                "category": art.get("category", "Általános"),
+                "image": art.get("image"),
+                "is_synthesized": False,
+                "sources_count": 1,
+                "sources": [{"source": art.get("source", ""), "title": art.get("title", ""), "link": art.get("link", "")}],
+                "published_at": latest_timestamp,
+                "title_hu": fix_hungarian_names(art.get("title", "")), 
+                "lead_hu": lead, 
+                "content_hu": summ,
+                "title_ro": art.get("title", ""), 
+                "lead_ro": lead, 
+                "content_ro": summ,
+            })
+            continue
+
+        current_fingerprint = calculate_fingerprint(articles)
+        existing_synth = existing_articles.get(g_id)
+
+        if existing_synth:
+            existing_fingerprint = existing_synth.get("fingerprint")
+            if not existing_fingerprint and "sources" in existing_synth:
+                existing_fingerprint = calculate_fingerprint(existing_synth["sources"])
+
+            if existing_fingerprint and current_fingerprint == existing_fingerprint:
+                stats["skipped_fingerprint"] += 1
+                continue
+
+        multi_groups.append((g_id, articles, existing_synth, current_fingerprint))
+
+    stats["processed_by_ai"] = len(multi_groups)
+
+    synthesized_results = []
+    new_topics_count = 0
+    updated_topics_count = 0
+
+    if multi_groups:
+        print(f"🚀 {len(multi_groups)} db új/frissült többforrásos csoport küldése az AI-nak ({MODEL_NAME})...")
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = [
+                executor.submit(process_group_direct, g_id, articles, existing, fingerprint)
+                for g_id, articles, existing, fingerprint in multi_groups
+            ]
+            for future in futures:
+                entries, is_synth, is_update = future.result()
+                if is_synth:
+                    synthesized_results.extend(entries)
+                    if is_update:
+                        updated_topics_count += 1
+                    else:
+                        new_topics_count += 1
+
+    all_final_results = {}
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+                for item in existing_data:
+                    if "group_id" in item:
+                        all_final_results[item["group_id"]] = item
+        except Exception as e:
+            print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
+
+    for item in single_results:
+        all_final_results[item["group_id"]] = item
+    for item in synthesized_results:
+        all_final_results[item["group_id"]] = item
+
+    fresh_items = [
+        item for item in all_final_results.values() 
+        if item.get("published_at", 0) >= CUTOFF_TIME
+    ]
+
+    frontend_news = [
+        item for item in fresh_items 
+        if not item.get("rejected")
+    ]
+
+    final_sorted_list = sorted(
+        frontend_news, 
+        key=lambda x: x.get("published_at", 0), 
+        reverse=True
+    )
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
+
+    HISTORY_FILE = "src/data/news_archive.json"
+    history = {}
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                for item in json.load(f):
+                    if "group_id" in item:
+                        history[item["group_id"]] = item
+        except Exception as e:
+            print(f"⚠️ Nem sikerült beolvasni a {HISTORY_FILE} fájlt: {e}")
+    for item in all_final_results.values():
+        if not item.get("rejected"):
+            history[item["group_id"]] = item
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(history.values(), key=lambda x: x.get("published_at", 0), reverse=True), f, ensure_ascii=False, indent=2)
+
+    print(f"💾 Összesen {len(final_sorted_list)} friss cikk mentve a {OUTPUT_FILE} fájlba.")
+
+if __name__ == "__main__":
+    run_synthesis_direct()
