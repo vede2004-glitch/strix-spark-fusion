@@ -3,7 +3,7 @@ import type { Lang } from "./lang";
 export const HU_ORIGIN = "https://hirx.ro";
 export const RO_ORIGIN = "https://strix.ro";
 
-const clean = (host: string | null | undefined) => (host ?? "").toLowerCase().split(":")[0].replace(/^www\./, "");
+const clean = (host: string | null | undefined) => ((host ?? "").toLowerCase().split(":")[0] ?? "").replace(/^www\./, "");
 
 /** Az accept-language első (legelőnyösebb) nyelve magyar-e. */
 export function prefersHungarian(acceptLanguage: string | null | undefined): boolean {
