@@ -1,5 +1,9 @@
 # Roadmap
 
+- [x] AI crawler rules and public llms.txt with crawlable page links
+- [x] NewsArticle structured data on individual article pages
+- [x] Verify crawler files and structured article data in the running site
+
 - [x] Erdély/Transilvania helyett Románia/România a Stirix saját felületi szövegeiben
 - [x] Angol nyelv említésének eltávolítása a Rólunk oldalról
 - [x] Forráskezelő felület a Forrásaink oldalon
