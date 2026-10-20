@@ -146,10 +146,8 @@ def clean_text(text):
     return text
 
 def classify_article(title, summary, source_name):
-    """ Gyors, golyóálló szabályalapú oszłályozás (0 ms késleltetés) """
     text = f"{title} {summary}".lower()
 
-    # 1. Bűnügy / Iskola / Erdélyi helyszínek
     crime_education_keywords = [
         "rendőrség", "bántalmazás", "letartóztatás", "bíróság", "miniszter", 
         "iskola", "profesor", "politie", "dosar penal", "reţinut", "agresat", "tanár"
@@ -159,7 +157,6 @@ def classify_article(title, summary, source_name):
             return "Erdély"
         return "Általános"
 
-    # 2. Forrásalapú kategorizálás
     if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
         return "Sport"
     if source_name in ["Maszol Gazdaság", "Economedia", "Ziarul Financiar"]:
@@ -169,7 +166,6 @@ def classify_article(title, summary, source_name):
     if source_name in ["Udvarhelyi Hírportál (UH.ro)", "Hargita Népe", "PresaSM (Szatmár)", "Szatmári Friss Újság", "Vásárhely.ma", "Átlátszó Erdély", "Ebihoreanul (Nagyvárad/Bihar)"]:
         return "Erdély"
 
-    # 3. Kulcsszavas szűrés
     for category, keywords in CATEGORIES.items():
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
@@ -414,7 +410,7 @@ def run_pipeline():
     final_list = balanced_list + skipped_items
 
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ 5 perces gyorshír frissítés kész! ({len(final_list)} cikk a news.json-ban)")
+    print(f"⚡ 24 órás hírfrissítés kész! ({len(final_list)} cikk a news.json-ban)")
 
 if __name__ == "__main__":
     run_pipeline()
