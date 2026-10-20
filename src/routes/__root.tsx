@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import { useTheme } from "@/lib/theme";
 import { Toaster } from "@/components/ui/sonner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
@@ -122,6 +123,7 @@ function RootComponent() {
       {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
       <Outlet />
       <Toaster />
+      <Analytics />
     </QueryClientProvider>
   );
 }
