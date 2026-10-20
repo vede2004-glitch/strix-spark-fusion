@@ -1,46 +1,5 @@
 [
   {
-    "group_id": "group_fec19a84bc",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un șofer a lovit un parlamentar australian, apoi a dat cu spatele pentru a-l lovi a doua oară",
-        "link": "https://hotnews.ro/un-sofer-a-lovit-un-parlamentar-australian-apoi-a-dat-cu-spatele-pentru-a-l-lovi-a-doua-oara-2380675",
-        "image": "",
-        "summary": "Deputata australiană Helen Haines este în stare critică după ce a fost lovită de o mașină, în ceea ce prim-ministrul Anthony Albanese numește „un act deliberat”, scrie BBC. Suspectul ar fi făcut o întoarcere în U pentru a o lovi pe parlamentară, apoi a dat cu spatele pentru a o lovi din nou , spune …",
-        "category": "Politika",
-        "published_at": 1792458920
-      },
-      {
-        "source": "Digi24",
-        "title": "Parlamentara australiană care a fost victima atacului cu masina de luni a rămas fără un picior: poliția antiterorism a preluat ancheta",
-        "link": "https://www.digi24.ro/stiri/externe/parlamentara-australiana-care-a-fost-victima-atacului-cu-masina-de-luni-a-ramas-fara-un-picior-politia-antiterorism-a-preluat-ancheta-3999913",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIwJTJGMzAyMTUwM18zMDIx/NTAzX3Byb2ZpbWVkaWEtMTE0NDg5ODM1/NS5qcGcmaGFzaD0zN2ZjMTI2MmRjOGRkMTFjNTI3MzUwYTFmNjE0YTBjNw==.jpg",
-        "summary": "Medicii i-au amputat piciorul unei parlamentare australiene după ce un bărbat a lovit-o cu mașina și apoi a dat înapoi pentru a o lovi a doua oară, au declarat marți presa locală și oficialii, într-un incident anchetat de poliția antiteroristă, relatează Reuters. Helen Haines, deputată independentă, a fost operată în cursul nopții și se află în stare critică în urma atacului de luni din micul oraș rural Wangaratta, situat la nord de Melbourne.",
-        "category": "Politika",
-        "published_at": 1792477475
-      }
-    ]
-  },
-  {
-    "group_id": "group_fd22658cac",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "De ce cere Ucraina un tratament special din partea UE pentru exporturile de oțel",
-        "link": "https://adevarul.ro/stiri-externe/europa/de-ce-cere-ucraina-un-tratament-special-din-partea-2564995.html",
-        "image": "https://cdn.adh.reperio.news/image-4/47577d14-cf6f-4fbb-900a-8a1589fa880c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Industria siderurgică ucraineană avertizează că restricțiile impuse de Uniunea Europeană asupra importurilor de oțel îi amenință supraviețuirea economică. Iurii Rîjzenkov, directorul executiv al grupului Metinvest, cere Bruxelles-ului o excepție pentru Ucraina.",
-        "category": "Gazdaság",
-        "published_at": 1792458625
-      }
-    ]
-  },
-  {
     "group_id": "group_898f3a35dc",
     "category": "Politika",
     "articles_count": 1,
@@ -2786,7 +2745,7 @@
   {
     "group_id": "group_868714f0ce",
     "category": "Sport",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -2814,6 +2773,15 @@
         "summary": "După câteva zile agitate la lotul național, Cristiano Ronaldo (41 de ani) și a transmis un mesaj direct din cantonamentul echipei de club. Atacantul saudiților de la Al-Nassr a reacționat astfel la hotărârea Federației Portugheze de Fotbal, care l-a sancționat cu suspendare de 30 de zile și o amendă de 255 de euro pentru plecarea neautorizată din cantonament. ...",
         "category": "Sport",
         "published_at": 1792479161
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Zeu ori despot?",
+        "link": "https://www.gsp.ro/opinii/editorial-ovidiu-ioanitoaia-cristiano-ronaldo-portugalia-990254.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/d6465d58-d390-4e08-ac3b-c14eb1b1abc3.jpg?width=290&height=208",
+        "summary": "Era clar că Ronaldo va fi sancționat de federația portugheză (FPF) pentru că a părăsit fără să anunțe cantonamentul echipei reprezentative după meciul de Liga Națiunilor din Norvegia în care n-a fost folosit niciun minut. ...",
+        "category": "Sport",
+        "published_at": 1792499138
       }
     ]
   },
@@ -4281,7 +4249,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1792483756_0_martonaronterikereszt_hi01_web.jpg",
         "summary": "",
         "category": "Erdély",
-        "published_at": 1792501353
+        "published_at": 1792501712
       }
     ]
   },
@@ -6847,6 +6815,22 @@
     ]
   },
   {
+    "group_id": "group_fec19a84bc",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Parlamentara australiană care a fost victima atacului cu masina de luni a rămas fără un picior: poliția antiterorism a preluat ancheta",
+        "link": "https://www.digi24.ro/stiri/externe/parlamentara-australiana-care-a-fost-victima-atacului-cu-masina-de-luni-a-ramas-fara-un-picior-politia-antiterorism-a-preluat-ancheta-3999913",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIwJTJGMzAyMTUwM18zMDIx/NTAzX3Byb2ZpbWVkaWEtMTE0NDg5ODM1/NS5qcGcmaGFzaD0zN2ZjMTI2MmRjOGRkMTFjNTI3MzUwYTFmNjE0YTBjNw==.jpg",
+        "summary": "Medicii i-au amputat piciorul unei parlamentare australiene după ce un bărbat a lovit-o cu mașina și apoi a dat înapoi pentru a o lovi a doua oară, au declarat marți presa locală și oficialii, într-un incident anchetat de poliția antiteroristă, relatează Reuters. Helen Haines, deputată independentă, a fost operată în cursul nopții și se află în stare critică în urma atacului de luni din micul oraș rural Wangaratta, situat la nord de Melbourne.",
+        "category": "Politika",
+        "published_at": 1792477475
+      }
+    ]
+  },
+  {
     "group_id": "group_ecdacc6b39",
     "category": "Politika",
     "articles_count": 1,
@@ -7735,7 +7719,7 @@
         "image": "",
         "summary": "În Bihor nu mai există niciun focar activ de pestă porcină africană la porcii domestici, după ce veterinarii au reușit să stingă ultimele 23 focare ale bolii. Direcția Sanitară Veterinară și pentru Siguranța Alimentelor Bihor a anunțat că toate restricțiile impuse din cauza bolii în localitățile județului au fost ridicate. Virusul continuă însă să fie prezent la mistreți, în 27 fonduri de vânătoare, așa că riscul răspândirii la porcii domestici nu a dispărut.",
         "category": "Erdély",
-        "published_at": 1792501353
+        "published_at": 1792501620
       }
     ]
   },
@@ -7908,7 +7892,7 @@
   {
     "group_id": "group_f70125f9c8",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -7918,13 +7902,22 @@
         "summary": "Președintele UDMR, Kelemen Hunor, a declarat marți, în Parlament, înaintea votului de investire a Guvernului condus de Luca Niculescu, că susținerea noului Executiv reprezintă o decizie luată „din responsabilitate”, în contextul în care România se confruntă în continuare cu crize bugetare, economice și sociale. „Suntem conștienți și sper că și guvernul este conștient că prin acest vot de investire doar criza guvernamentală declanșată în luna mai ia sfârșit. Celelalte crize rămân”, a spus Kelemen Hunor.",
         "category": "Politika",
         "published_at": 1792499254
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Kelemen Hunor: Prin acest vot de învestire, doar criza guvernamentală declanşată în luna mai ia sfârşit. Celelalte crize rămân",
+        "link": "https://hotnews.ro/kelemen-hunor-prin-acest-vot-de-investire-doar-criza-guvernamentala-declansata-in-luna-mai-ia-sfarsit-celelalte-crize-raman-2381401",
+        "image": "",
+        "summary": "UDMR va vota astăzi cabinetul propus de Luca Niculescu, deși „suntem conştienţi şi sper că şi guvernul este conştient că prin acest vot de învestire doar criza guvernamentală declanşată în luna mai ia sfârşit”, a declarat președintele formațiunii în ședința în care Parlamentul votează Guvernul Niculescu. „Vom vota un guvern monocolor şi fără o majoritate …",
+        "category": "Politika",
+        "published_at": 1792502069
       }
     ]
   },
   {
     "group_id": "group_36b51ee419",
     "category": "Politika",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Mediafax",
@@ -7951,7 +7944,7 @@
         "image": "",
         "summary": "Dezbaterea pentru învestirea Guvernului Luca Niculescu a provocat marți contre aprinse în Parlament. După ce Sorin Grindeanu a salutat plecarea Guvernului Bolojan și a atacat guvernarea liberală, premierul interimar i-a răspuns cu acuzații privind blocarea reformelor și „feuda” de la Transporturi. Deși a anunțat că PNL va vota învestirea pentru a încheia criza politică, Bolojan a criticat dur echipa propusă și a avertizat: „Oamenii resping cutiile de pantofi ca instrument de guvernare”.",
         "category": "Erdély",
-        "published_at": 1792501353
+        "published_at": 1792502231
       },
       {
         "source": "Economedia",
@@ -7961,6 +7954,15 @@
         "summary": "Ilie Bolojan, președintele PNL, a avut marți în Parlament la votul pentru guvernul PSD-Nicușor Dan-Luca Niculescu un discurs virulent la adresa PSD, scrie G4Media. Bolojan a avut microfonul tăiat înainte să-și termine discursul și a fost aplaudat în picioare de parlamentarii PNL. Bolojan a spus că PNL dă un ”vot de necesitate” pentru terminarea crizei […]",
         "category": "Gazdaság",
         "published_at": 1792500490
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "VIDEO Ilie Bolojan, către Luca Niculescu, în plen: „Nu aveți nicio șansă să rezolvați probleme structurale”. A fost aplaudat în picioare de parlamentarii PNL, USR și UDMR",
+        "link": "https://hotnews.ro/video-ilie-bolojan-catre-luca-niculescu-in-plen-nu-aveti-nicio-sansa-sa-rezolvati-probleme-structurale-a-fost-aplaudat-in-picioare-de-parlamentarii-pnl-usr-si-udmr-2381368",
+        "image": "",
+        "summary": "„PNL va da astăzi un vot de necesitate, un vot pentru încheierea acestei crize”, a spus premierul interimar Ilie Bolojan la tribuna Parlamentului, în ședința de învestitură a cabinetului propus de Luca Niculescu. „Au trecut peste cinci luni de când PSD și AUR au demis iresponsabil un guvern care lupta din greu să redreseze România. …",
+        "category": "Politika",
+        "published_at": 1792500594
       }
     ]
   },
@@ -8168,7 +8170,7 @@
         "image": "",
         "summary": "Trei tineri judoka de la ACS Olimpikus Oradea au urcat pe podium la un turneu internațional de judo pentru copii U12, desfășurat în 18 octombrie, la Szeged, în Ungaria. Competiția, la care au participat aproximativ 600 de sportivi din șase țări, s-a încheiat cu o medalie de aur și două medalii de bronz pentru clubul orădean.",
         "category": "Erdély",
-        "published_at": 1792501353
+        "published_at": 1792502231
       }
     ]
   },
@@ -8185,6 +8187,102 @@
         "summary": "Un bărbat a murit marți după-amiază, după ce echipajele medicale au încercat să-l resusciteze mai bine de o oră, într-o stație de autobuz de pe bulevardul Decebal din Oradea, în zona autogării OTL, vizavi de magazinul Livella. Potrivit martorilor cu care a discutat reporterul BIHOREANULUI, aflat la fața locului, bărbatul venea dinspre Emanuel și a căzut brusc pe trotuar.",
         "category": "Erdély",
         "published_at": 1792499580
+      }
+    ]
+  },
+  {
+    "group_id": "group_9669df9a32",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Captură milionară a protestatarilor! » Vandalii au sustras două piese de colecție cu însemnele lui Messi",
+        "link": "https://www.gsp.ro/international/liga-campionilor/captura-milionara-protestatari-paris-vandalii-sustras-tricou-banderola-colectie-insemne-messi-990265.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/c9deac1e-6651-4f17-9bea-dc773a0c7e1a.jpg?width=290&height=208",
+        "summary": "Un tricou cu numărul 10 și o banderolă de căpitan al Barcelonei semnate de Lionel Messi au fost furate și apoi expuse cu mândrie de infractori în apropierea Place de la République, din capitala Franței, unde protestele în stradă au devenit violente în week-endul trecut. Revoltele care au cuprins Parisul și alte orașe mari din Hexagon în ultimele zile și-au pus amprenta chiar și asupra fotbalului. ...",
+        "category": "Sport",
+        "published_at": 1792501699
+      }
+    ]
+  },
+  {
+    "group_id": "group_45dc46e943",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Răzvan Burleanu, primele declarații după startul ratat al lui Gheorghe Hagi pe banca naționalei",
+        "link": "https://www.gsp.ro/fotbal/nationala/razvan-burleanu-declaratii-comitet-executiv-frf-990267.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/8242fb1d-afb0-47fa-8284-bbb9a9763fb5.jpg?width=290&height=208",
+        "summary": "Răzvan Burleanu (42 de ani), președintele Federației Române de Fotbal (FRF), susține în aceste momente o conferință de presă la Casa Fotbalului, după ședința Comitetului Executiv. Este prima apariție publică a oficialului de la debutul ratat al lui Gheorghe Hagi în funcția de selecționer al României. ...",
+        "category": "Sport",
+        "published_at": 1792501216
+      }
+    ]
+  },
+  {
+    "group_id": "group_fa40b73771",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Concurs directori de școli 2026: Peste 98% dintre candidați au promovat. Când au loc interviurile și se anunță rezultatele finale",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/concurs-directori-de-scoli-2026-peste-98-dintre-candidati-au-promovat-cand-au-loc-interviurile-si-se-anunta-rezultatele-finale-4000637",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIwJTJGMzAyMjUwN18zMDIy/NTA3X0NvbmN1cnMtZGlyZWN0b3JpLWRl/LXNjb2xpLTIwMjZfLUZvdG8tR2V0dHkt/SW1hZ2VzLmpwZyZoYXNoPTczMmMwMDI3OGNlZThmN2VhMGRmMWI3YjFiOGE2M2Ez.jpg",
+        "summary": "Proba scrisă a concursului pentru ocuparea funcțiilor de director și director adjunct în școlile de stat a fost promovată de 4.519 candidați, reprezentând 98,24% dintre cei prezenți. Rezultatele sunt anterioare contestațiilor, iar media notelor obținute de participanți este 8,89.",
+        "category": "Bulvár",
+        "published_at": 1792498472
+      }
+    ]
+  },
+  {
+    "group_id": "group_effc68d2cb",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cum poate o banală salată contaminată să declanșeze sindromul de colon iritabil. Simptomele digestive pot dura ani întregi",
+        "link": "https://hotnews.ro/cum-poate-o-banala-salata-contaminata-sa-declanseze-sindromul-de-colon-iritabil-simptomele-digestive-pot-dura-ani-intregi-2381357",
+        "image": "",
+        "summary": "O toxiinfecție alimentară poate avea consecințe care persistă luni sau chiar ani după dispariția infecției. Aproximativ una din zece persoane care trec printr-o infecție intestinală dezvoltă sindrom de intestin iritabil postinfecțios, o afecțiune caracterizată prin dureri abdominale și tulburări de tranzit persistente. Cercetătorii încearcă să înțeleagă de ce unele persoane se vindecă complet, în timp …",
+        "category": "Általános",
+        "published_at": 1792501145
+      }
+    ]
+  },
+  {
+    "group_id": "group_148e380fe3",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Concursul pentru directorii de școli din Bihor: Doar 3 candidați au picat a doua probă. 15 note de 10, față de una singură la primul examen",
+        "link": "https://www.ebihoreanul.ro/stiri/concursul-pentru-directorii-de-scoli-din-bihor-doar-3-candidati-au-picat-a-doua-proba-15-note-de-10-fata-de-una-singura-la-primul-examen-205980.html",
+        "image": "",
+        "summary": "A doua probă a concursului pentru ocuparea funcțiilor de director și director adjunct în școlile din Bihor a fost mult mai ușoară pentru candidați decât prima. Din cei 137 de profesori rămași în competiție, doar trei nu au reușit să promoveze examenul scris de management și legislație școlară, desfășurat marți. Nu mai puțin de 15 candidați au obținut nota maximă, 10.",
+        "category": "Általános",
+        "published_at": 1792502231
+      }
+    ]
+  },
+  {
+    "group_id": "group_9a6d2a0474",
+    "category": "Erdély",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Orădeancă reținută pentru contrabandă cu țigări. Polițiștii au confiscat aproape 30.000 de țigarete",
+        "link": "https://www.ebihoreanul.ro/stiri/oradeanca-retinuta-pentru-contrabanda-cu-tigari-politistii-au-confiscat-aproape-30000-de-tigarete-205978.html",
+        "image": "",
+        "summary": "O orădeancă de 51 de ani este cercetată pentru contrabandă după ce polițiștii au descoperit 29.000 de țigarete (1.450 de pachete), nemarcate legal sau marcate necorespunzător, într-un imobil pe care îl folosea drept depozit. Femeia a fost reținută pentru 24 de ore și ulterior plasată sub control judiciar pentru 60 de zile, iar întreaga cantitate de țigarete a fost indisponibilizată.",
+        "category": "Erdély",
+        "published_at": 1792502231
       }
     ]
   }
