@@ -13,7 +13,6 @@ from email.utils import parsedate_to_datetime
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 from sentence_transformers import SentenceTransformer
-from transformers import pipeline
 
 # ==============================================================================
 # 1. KONFIGURÁCIÓ
@@ -62,7 +61,7 @@ RSS_FEEDS = {
 
 MEMORY_FILE = "erdelyi_hirek_memoria.json"
 GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
-ARCHIVE_FILE = "erdelyi_hirek_archivum.json"  # 🛑 Megtartva a meglévő frontendhez
+ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
@@ -83,25 +82,17 @@ CATEGORIES = {
 }
 
 _MODEL = None
-_ZERO_SHOT_CLASSIFIER = None
 
 def get_model():
     global _MODEL
     if _MODEL is None:
         print("🧠 SentenceTransformer AI modell betöltése...")
         _MODEL = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-        _MODEL.to(torch.float32)  # 👈 Kényszerített float32 típus a típuseltérési hiba megelőzésére
+        _MODEL.to(torch.float32)
     return _MODEL
 
-def get_zero_shot_classifier():
-    global _ZERO_SHOT_CLASSIFIER
-    if _ZERO_SHOT_CLASSIFIER is None:
-        print("🏷️ Ingyenes Zero-Shot AI kategória-osztályozó betöltése...")
-        _ZERO_SHOT_CLASSIFIER = pipeline("zero-shot-classification", model="MoritzLaurer/mDeBERTa-v3-base-mnli-xnli")
-    return _ZERO_SHOT_CLASSIFIER
-
 # ==============================================================================
-# 2. SEGÉDFUNKCIÓK ÉS KATEGÓRIA OSZTÁLYOZÓ
+# 2. SEGÉDFUNKCIÓK ÉS GYORS KATEGÓRIA OSZTÁLYOZÓ
 # ==============================================================================
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
@@ -154,11 +145,11 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text)
     return text
 
-def classify_article_fast(title, summary, source_name):
-    """ Gyors, szálbiztos szabályalapú kategorizálás (AI hívás nélkül) """
+def classify_article(title, summary, source_name):
+    """ Gyors, golyóálló szabályalapú oszłályozás (0 ms késleltetés) """
     text = f"{title} {summary}".lower()
 
-    # 1. Bűnügyi, Iskolai hírek
+    # 1. Bűnügy / Iskola / Erdélyi helyszínek
     crime_education_keywords = [
         "rendőrség", "bántalmazás", "letartóztatás", "bíróság", "miniszter", 
         "iskola", "profesor", "politie", "dosar penal", "reţinut", "agresat", "tanár"
@@ -168,7 +159,7 @@ def classify_article_fast(title, summary, source_name):
             return "Erdély"
         return "Általános"
 
-    # 2. Forrás-alapú besorolások
+    # 2. Forrásalapú kategorizálás
     if source_name in ["Szatmári sporthírek", "Székely Sport", "Maszol Sport", "GSP - Gazeta Sporturilor"]:
         return "Sport"
     if source_name in ["Maszol Gazdaság", "Economedia", "Ziarul Financiar"]:
@@ -177,20 +168,9 @@ def classify_article_fast(title, summary, source_name):
         return "Bulvár"
     if source_name in ["Udvarhelyi Hírportál (UH.ro)", "Hargita Népe", "PresaSM (Szatmár)", "Szatmári Friss Újság", "Vásárhely.ma", "Átlátszó Erdély", "Ebihoreanul (Nagyvárad/Bihar)"]:
         return "Erdély"
-    if source_name in ["Go4IT", "Zonait.ro"]:
-        return "Általános"
 
-    # 3. Gyors kulcsszavas ellenőrzés
-    real_sport_keywords = [
-        "foci", "labdarúgás", "mérkőzés", "bajnokság", "gól", "kupa", "meccs", 
-        "kézilabda", "kosárlabda", "jégkorong", "hoki", "fotbal", "meci", "campionat"
-    ]
-    if any(kw in text for kw in real_sport_keywords):
-        return "Sport"
-
+    # 3. Kulcsszavas szűrés
     for category, keywords in CATEGORIES.items():
-        if category == "Sport":
-            continue
         for kw in keywords:
             if re.search(r'\b' + re.escape(kw) + r'\b', text):
                 return category
@@ -250,9 +230,7 @@ def extract_article_data(entry, source_name, session, cutoff_24h):
     raw_summary = entry.get('summary', '') or entry.get('description', '')
     clean_summary = clean_text(raw_summary)
     image_url = extract_cover_image(entry, link, session)
-    
-    # ⚡ Gyors osztályozás hívása a párhuzamos szálban
-    category = classify_article_fast(title, clean_summary, source_name)
+    category = classify_article(title, clean_summary, source_name)
 
     return {
         "source": source_name,
@@ -295,29 +273,12 @@ def run_pipeline():
     fetched_articles = []
     feed_items = [((src, url), cutoff_24h) for src, url in RSS_FEEDS.items()]
     
-    # 1. PÁRHUZAMOS RSS LETÖLTÉS (Már AI nélkül, 100% golyóálló)
     with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as executor:
         results = executor.map(fetch_single_feed, feed_items)
 
     for article_list in results:
         fetched_articles.extend(article_list)
 
-    # 2. BIZONYTALAN ("Általános") CIKKEK AI OSZTÁLYOZÁSA EGYETLEN SZÁLON
-    general_articles = [a for a in fetched_articles if a["category"] == "Általános"]
-    if general_articles:
-        print(f"🤖 AI kategória-pontosítás {len(general_articles)} db általános cikken...")
-        classifier = get_zero_shot_classifier()
-        candidate_labels = ["Politika", "Sport", "Gazdaság", "Bulvár", "Kultúra", "Erdély", "Általános"]
-        
-        for art in general_articles:
-            text = f"{art['title']}. {art['summary']}"[:500]
-            try:
-                res = classifier(text, candidate_labels)
-                art["category"] = res['labels'][0]
-            except Exception:
-                pass
-
-    # 3. EMBEDDING ÉS DEDUPLIKÁCIÓ
     for art in fetched_articles:
         existing_item = next((m for m in memory if m["link"] == art["link"]), None)
         if existing_item:
@@ -367,7 +328,6 @@ def run_pipeline():
             "fetched_at": art["published_at"]
         })
 
-    # 📦 ARCHÍVUM KEZELÉS: A 24 óránál régebbi cikkek átkerülnek az erdelyi_hirek_archivum.json-ba
     fresh_memory = []
     archive_updated = False
     existing_archive_links = {a["link"] for a in archive}
@@ -387,7 +347,6 @@ def run_pipeline():
         save_json_file(ARCHIVE_FILE, archive)
         print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az erdelyi_hirek_archivum.json fájlban.")
 
-    # 💾 CSOPORTOSÍTOTT MEMÓRIA MENTÉSE
     grouped_dictionary = {}
     for item in fresh_memory:
         g_id = item["group_id"]
@@ -412,7 +371,6 @@ def run_pipeline():
 
     save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
 
-    # ⚡ VÉGSŐ GYORSHÍR KIÍRÁS A SRC/DATA/NEWS.JSON-BA
     os.makedirs("src/data", exist_ok=True)
     fresh_news = {}
 
@@ -439,7 +397,6 @@ def run_pipeline():
     raw_list = list(fresh_news.values())
     raw_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
-    # 🛑 FORRÁS-DIVERZITÁS
     balanced_list = []
     skipped_items = []
 
