@@ -16,22 +16,6 @@
     ]
   },
   {
-    "group_id": "group_2d04d5ebed",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Ce au în comun tragediile de la Colectiv și Rahova. „Spune ceva despre noi”",
-        "link": "https://adevarul.ro/stiri-interne/societate/ce-au-in-comun-tragediile-de-la-colectiv-si-2564722.html",
-        "image": "https://cdn.adh.reperio.news/image-6/6555199a-c09a-48b3-bfb5-42c573608745/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Sâmbătă, 17 octombrie, s-a împlinit un an de la explozia blocului din Rahova, o tragedie care a ajuns pe primele pagini ale presei internaționale. Peste mai puțin de două săptămâni, Bucureștiul va comemora o altă tragedie, incediul de la Clubul Colectiv, de la 30 octombrie 2015.",
-        "category": "Bulvár",
-        "published_at": 1792460545
-      }
-    ]
-  },
-  {
     "group_id": "group_1511b3b7df",
     "category": "Általános",
     "articles_count": 4,
@@ -7301,7 +7285,7 @@
   {
     "group_id": "group_859c926a0f",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Mediafax",
@@ -7311,6 +7295,24 @@
         "summary": "Guvernul propus de Luca Niculescu ajunge marți, de la ora 14.00, în plenul reunit al Parlamentului, unde deputații și senatorii vor vota învestirea noului Executiv. Cabinetul are nevoie de cel puțin 233 de voturi pentru a primi încrederea Parlamentului.",
         "category": "Politika",
         "published_at": 1792497672
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Guvernul Luca Niculescu a trecut de votul Parlamentului. Executivul a primit 280 de voturi „pentru”, din 233 necesare. „Este un moment important pentru România, ieşim din aproape 6 luni de criză. În această seară vom organiza prima şedinţă de guvern, România nu mai poate aştepta”",
+        "link": "https://www.zf.ro/eveniment/guvernul-luca-niculescu-trecut-votul-parlamentului-executivul-primit-280-voturi-233-necesare-moment-important-romania-iesim-aproape-6-luni-criza-aceasta-seara-vom-organiza-prima-sedinta-guvern-23263991",
+        "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21448/23263991/1/screenshot-2026-10-20-144930.png?width=700",
+        "summary": "",
+        "category": "Gazdaság",
+        "published_at": 1792496756
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Primul mesaj al premierului Luca Niculescu, după votul din Parlament",
+        "link": "https://hotnews.ro/primul-mesaj-al-premierului-luca-niculescu-dupa-votul-din-parlament-2381445",
+        "image": "",
+        "summary": "„Este un moment important pentru România, ne punem imediat pe treabă”, a spus Luca Niculescu, după votul de învestire primit în Parlament. „Cu emoție și responsabilitate am primit acest vot. Mulțumesc Parlamentului pentru încrederea acordată acestui guvern. Mulțumesc Partidului Social Democrat pentru susținere. Mulțumesc Partidului Național Liberal, UDMR, reprezentanților minorităților și tuturor celorlalți parlamentari care …",
+        "category": "Politika",
+        "published_at": 1792503621
       }
     ]
   },
@@ -7349,7 +7351,7 @@
   {
     "group_id": "group_514aa6f5db",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "G4Media",
@@ -7359,6 +7361,15 @@
         "summary": "Premierul desemnat Luca Niculescu a anunțat marți în discursul de la votul de învestitură că vrea să aloce bani de la guvern pentru presă, pe motiv că e nevoie de un răspuns la manipulările informaționale externe. El a vorbit despre fonduri guvernamentale pentru ”educația media, verificarea faptelor și presa locală independentă”. Reamintim că ultimul guvern […] © G4Media.ro.",
         "category": "Politika",
         "published_at": 1792496334
+      },
+      {
+        "source": "Economedia",
+        "title": "Bani de la Guvern pentru presă. Anunțul premierului desemnat Luca Niculescu",
+        "link": "https://economedia.ro/bani-de-la-guvern-pentru-presa-anuntul-premierului-desemnat-luca-niculescu.html",
+        "image": "https://www.economedia.ro/wp-content/uploads/2026/04/ziar-cititor-1024x684.jpg",
+        "summary": "Premierul desemnat Luca Niculescu a anunțat marți în discursul de la votul de învestitură că vrea să aloce bani de la guvern pentru presă, pe motiv că e nevoie de un răspuns la manipulările informaționale externe, transmite G4Media. El a vorbit despre fonduri guvernamentale pentru „educația media, verificarea faptelor și presa locală independentă”. Reamintim că […]",
+        "category": "Gazdaság",
+        "published_at": 1792503578
       }
     ]
   },
@@ -7910,7 +7921,7 @@
   {
     "group_id": "group_f70125f9c8",
     "category": "Politika",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Mediafax",
@@ -7964,7 +7975,16 @@
         "image": "",
         "summary": "Guvernul condus de Luca Niculescu a primit marți, 20 octombrie, votul de încredere al Parlamentului, după mai bine de cinci luni de criză politică. Noul Cabinet, format din miniștri propuși de PSD și independenți, a fost învestit cu 280 de voturi pentru și 58 împotrivă, depășind cu 47 de voturi majoritatea necesară.",
         "category": "Erdély",
-        "published_at": 1792503308
+        "published_at": 1792504032
+      },
+      {
+        "source": "Mediafax",
+        "title": "Luca Niculescu este premierul României. Ce promite noul Guvern pentru pensii, salarii și taxe. Marea problemă a planului",
+        "link": "https://www.mediafax.ro/politic/luca-niculescu-este-premierul-romaniei-ce-promite-noul-guvern-pentru-pensii-salarii-si-taxe-marea-problema-a-planului-23828621",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164912-mediafax_foto-alexandru_nechez-1024x683.jpg",
+        "summary": "Luca Niculescu preia conducerea Guvernului României după aproape șase luni de criză politică. Noul Executiv își începe mandatul cu o serie de promisiuni care vizează direct veniturile românilor, taxele, administrația publică și investițiile. Programul de guvernare pentru perioada 2026–2028 prevede indexarea pensiilor începând din 2027, o nouă lege a salarizării, eliminarea unui impozit pentru companii, reorganizarea instituțiilor statului și depășirea pragului de 2.000 de kilometri de autostrăzi și drumuri expres. Aplicarea multora dintre măsuri depinde însă mult de situația bugetară.",
+        "category": "Politika",
+        "published_at": 1792503440
       }
     ]
   },
@@ -8224,7 +8244,7 @@
         "image": "",
         "summary": "Trei tineri judoka de la ACS Olimpikus Oradea au urcat pe podium la un turneu internațional de judo pentru copii U12, desfășurat în 18 octombrie, la Szeged, în Ungaria. Competiția, la care au participat aproximativ 600 de sportivi din șase țări, s-a încheiat cu o medalie de aur și două medalii de bronz pentru clubul orădean.",
         "category": "Erdély",
-        "published_at": 1792503308
+        "published_at": 1792504032
       }
     ]
   },
@@ -8263,7 +8283,7 @@
   {
     "group_id": "group_45dc46e943",
     "category": "Sport",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -8273,6 +8293,15 @@
         "summary": "Răzvan Burleanu (42 de ani), președintele Federației Române de Fotbal (FRF), susține în aceste momente o conferință de presă la Casa Fotbalului, după ședința Comitetului Executiv. Este prima apariție publică a oficialului de la debutul ratat al lui Gheorghe Hagi în funcția de selecționer al României. ...",
         "category": "Sport",
         "published_at": 1792501216
+      },
+      {
+        "source": "G4Media",
+        "title": "Președintele FRF, prima ieșire publică după dezastrul din Liga Națiunilor: „Susținere totală și necondiționată pentru selecționerul Gheorghe Hagi”",
+        "link": "https://www.g4media.ro/1372832.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2026/04/8124889-Mediafax_Foto-Mihai_Pop_GMN.jpg",
+        "summary": "Răzvan Burleanu, președintele FRF, a avut prima ieșire publică după parcursul dezastruos al României din Liga Națiunilor la fotbal. Oficialul de la Casa Fotbalului transmite că instituția pe care o conduce în susține total și necondiționat pe selecționerul Gheorghe Hagi. Gheorghe Hagi are „susținere totală” din partea FRF „Nu cred că e nevoie de o […] © G4Media.ro.",
+        "category": "Sport",
+        "published_at": 1792503940
       }
     ]
   },
@@ -8320,7 +8349,7 @@
         "image": "",
         "summary": "A doua probă a concursului pentru ocuparea funcțiilor de director și director adjunct în școlile din Bihor a fost mult mai ușoară pentru candidați decât prima. Dintre cei 137 de profesori rămași în competiție, doar trei nu au reușit să promoveze examenul scris de management și legislație școlară, desfășurat marți. Nu mai puțin de 15 candidați au obținut nota maximă, 10.",
         "category": "Általános",
-        "published_at": 1792503308
+        "published_at": 1792504032
       }
     ]
   },
@@ -8336,7 +8365,7 @@
         "image": "",
         "summary": "O orădeancă de 51 de ani este cercetată pentru contrabandă după ce polițiștii au descoperit 29.000 de țigarete (1.450 de pachete), nemarcate legal sau marcate necorespunzător, într-un imobil pe care îl folosea drept depozit. Femeia a fost reținută pentru 24 de ore și ulterior plasată sub control judiciar pentru 60 de zile, iar întreaga cantitate de țigarete a fost indisponibilizată.",
         "category": "Erdély",
-        "published_at": 1792503308
+        "published_at": 1792504032
       }
     ]
   },
@@ -8417,6 +8446,150 @@
         "summary": "Secretarul general al NATO, Mark Rutte, și ministrul turc de Externe au discutat despre securitatea Mării Negre, după intensificarea atacurilor asupra navelor comerciale.",
         "category": "Gazdaság",
         "published_at": 1792502888
+      }
+    ]
+  },
+  {
+    "group_id": "group_00ec0b8603",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Încă o recunoaștere pentru Chivu » Ce premiu i-au acordat italienii și cu cine îl împarte antrenorul lui Inter!",
+        "link": "https://www.gsp.ro/international/campionate/inca-o-recunoastere-chivu-inter-premiu-scopigno-acordat-antrenorul-anului-imparte-fabregas-990270.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13042026/e59d2ecd-dfce-4570-8920-6b1c01f0da79.jpg?width=290&height=208",
+        "summary": "Cristian Chivu a primit o nouă distincție. Tehnicianul lui Inter a câștigat premiul „Manlio Scopigno”, acordat celui mai bun antrenor în 2025-'26 în Serie A, la egalitate cu Cesc Fabregas de la Como. Și căpitanul nerazzurro. Lautaro Martinez, a luat un premiu, Luigi Riva, pentru cel mai bun atacant al sezonului trecut din campionatul italian. ...",
+        "category": "Sport",
+        "published_at": 1792503663
+      }
+    ]
+  },
+  {
+    "group_id": "group_1745d2c19d",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "„Am mers în vestiarul jucătorilor” » Răzvan Burleanu a mărturisit ce s-a întâmplat după meciurile din Liga Națiunilor + Ce a spus despre viitorul lui Hagi",
+        "link": "https://www.gsp.ro/fotbal/nationala/razvan-burleanu-frf-sustinere-selectioner-gheorghe-hagi-990277.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/23a8c388-d4c8-444e-a5bb-db94c5334397.jpg?width=290&height=208",
+        "summary": "După ședința Comitetului Executiv al Federației Române de Fotbal de marți, 20 octombrie, Răzvan Burleanu, președintele FRF, a susținut o conferință de presă în care a vorbit și despre primele rezultate înregistrate de selecționerul Gheorghe Hagi pe banca echipei naționale a României. A fost prima apariție publică a oficialului de la debutul ratat al lui Gheorghe Hagi în funcția de selecționer. ...",
+        "category": "Sport",
+        "published_at": 1792503612
+      }
+    ]
+  },
+  {
+    "group_id": "group_21ddf64eec",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Economedia",
+        "title": "Uniunea Europeană își menține angajamentul de a proteja Arctica de exploatarea resurselor energetice. Care este motivul",
+        "link": "https://economedia.ro/uniunea-europeana-isi-mentine-angajamentul-de-a-proteja-arctica-de-exploatarea-resurselor-energetice-care-este-motivul.html",
+        "image": "https://www.economedia.ro/wp-content/uploads/2026/01/uniunea-europeana-steag-e1786015287426-1024x683.jpg",
+        "summary": "Uniunea Europeană își menține angajamentul de a proteja Arctica de exploatarea resurselor energetice, însă noua strategie adoptă o abordare diferită față de cea din 2021. O prevedere importantă privind interzicerea noilor exploatări de petrol și gaze nu mai apare în document, transmite Mediafax. Uniunea Europeană rămâne să se asigure că petrolul, cărbunele și gazele naturale […]",
+        "category": "Gazdaság",
+        "published_at": 1792503983
+      }
+    ]
+  },
+  {
+    "group_id": "group_8c587e972c",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Economedia",
+        "title": "Bursa de Valori București crește, după ce Parlamentul a votat Guvernul Niculescu",
+        "link": "https://economedia.ro/bursa-de-valori-bucuresti-creste-dupa-ce-parlamentul-a-votat-guvernul-niculescu.html",
+        "image": "https://www.economedia.ro/wp-content/uploads/2025/08/BVB-1-1024x683.jpeg",
+        "summary": "Bursa de Valori București (BVB) înregistra creșteri pe majoritatea indicilor principali, marți după-amiază, după ce Parlamentul a votat învestirea Guvernului condus de Luca Niculescu, cu 280 de voturi „pentru” și 58 „împotrivă”. Indicele principal BET, care urmărește evoluția celor mai lichide companii listate la Bursa de Valori București, creștea cu 0,75%, până la 35.371,19 puncte. […]",
+        "category": "Gazdaság",
+        "published_at": 1792503715
+      }
+    ]
+  },
+  {
+    "group_id": "group_af81f48101",
+    "category": "Gazdaság",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Economedia",
+        "title": "Parcare Puzzle cu 36 de locuri noi în Sectorul 6. Mașinile vor fi deplasate automat pe verticală și orizontală",
+        "link": "https://economedia.ro/parcare-puzzle-sectorul-6-prelungirea-ghencea.html",
+        "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Parcare-puzzle-sectorul-6.jpg",
+        "summary": "O parcare semiautomatizată, în care mașinile vor fi deplasate automat pe verticală și orizontală până la locul de parcare, este propusă pentru zona Valea Roșie – Prelungirea Ghencea din Sectorul 6 al Capitalei. Proiectul prevede amenajarea a 36 de locuri noi de parcare într-o structură pe cinci niveluri, cu o investiție estimată la 7,24 milioane […]",
+        "category": "Gazdaság",
+        "published_at": 1792503420
+      }
+    ]
+  },
+  {
+    "group_id": "group_436c014b8b",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Profesoara care a fost înjunghiată de elevul din Bistrița a fost operată. Ce spun medicii despre starea ei",
+        "link": "https://www.cancan.ro/profesoara-care-a-fost-injunghiata-de-elevul-din-bistrita-a-fost-operata-ce-spun-medicii-despre-starea-ei-21533339",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-06.30.27.jpeg",
+        "summary": "Profesoara din Bistrița, înjunghiată de un adolescent în vârstă de 13 ani, a fost operată după ce a fost transportată de urgență la spital. La o zi de la intervenția chirurgicală, medicii au transmis noi detalii despre starea sa și despre modul în care se recuperează. Un incident violent petrecut într-o unitate de învățământ din […]",
+        "category": "Bulvár",
+        "published_at": 1792503734
+      }
+    ]
+  },
+  {
+    "group_id": "group_3e73c23c70",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Revolut începe să funcționeze din nou după pana majoră de marți",
+        "link": "https://hotnews.ro/revolut-incepe-sa-functioneze-din-nou-dupa-pana-majora-de-marti-2381419",
+        "image": "",
+        "summary": "Google afirmă că „incidentul legat de alimentarea cu energie electrică”, care a afectat serviciile sale de operare a infrastructurii de cloud computing din Londra și a provocat perturbări pe scară largă ale serviciilor Revolut în Marea Britanie și alte țări europene, inclusiv România, a fost remediată, relatează The Guardian. Într-o nouă declarație publicată pe pagina …",
+        "category": "Általános",
+        "published_at": 1792503314
+      }
+    ]
+  },
+  {
+    "group_id": "group_6c1dd13444",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Ce spune Becali despre noul premier: „Eu nu știu cine l-a pus, cum l-a pus, dar este om deștept”",
+        "link": "https://www.mediafax.ro/politic/ce-spune-becali-despre-noul-premier-eu-nu-stiu-cine-l-a-pus-cum-l-a-pus-dar-este-om-destept-23828819",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/george-becali-1024x576.jpeg",
+        "summary": "Parlamentarul independent George Becali a făcut un comentariu despre desemnarea noului premier. Eu nu știu cine l-a pus, cum l-a pus, dar este om deștept, le-a spus Becali jurnaliștilor de la Parlament.",
+        "category": "Politika",
+        "published_at": 1792503675
+      }
+    ]
+  },
+  {
+    "group_id": "group_c37c5eb524",
+    "category": "Erdély",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Noo'vo a devenit Novo: restaurantul de pe Alecsandri pune în farfurii istoria orașului (FOTO)",
+        "link": "https://www.ebihoreanul.ro/stiri/noovo-a-devenit-novo-restaurantul-de-pe-alecsandri-pune-in-farfurii-istoria-orasului-205982.html",
+        "image": "",
+        "summary": "Restaurantul cunoscut până de curând ca Noo'vo Resto Lounge s-a relansat sub numele Novo Brasserie Extraordinaire, într-o repoziționare completă care schimbă nu doar sigla, ci întreaga experiență: de la meniul și carta de băuturi, până la felul în care arată localul din centrul istoric al orașului.",
+        "category": "Erdély",
+        "published_at": 1792504032
       }
     ]
   }
