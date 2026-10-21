@@ -5086,7 +5086,7 @@
   {
     "group_id": "group_a6fa90c993",
     "category": "Bulvár",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "G4Media",
@@ -5114,6 +5114,15 @@
         "summary": "Ministrul ucrainean de Externe, Andrii Sîbiha, i-a transmis felicitări pentru numirea în funcție noului șef al diplomației române, Dan Neculăescu. Sîbiha a postat un mesaj pe X, în care afirmă că Ucraina apreciază sprijinul ferm al României în fața războiului de agresiune purtat de Rusia.",
         "category": "Általános",
         "published_at": 1792518275
+      },
+      {
+        "source": "Mediafax",
+        "title": "Mesaje de la vârful diplomației ucrainene după schimbarea conducerii Ministerului de Externe al României",
+        "link": "https://www.mediafax.ro/politic/mesaje-de-la-varful-diplomatiei-ucrainene-dupa-schimbarea-conducerii-ministerului-de-externe-al-romaniei-23829046",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/hepta_8382745-1024x681.jpg",
+        "summary": "Ministrul Afacerilor Externe al Ucrainei, Andrii Sybiha, i-a transmis un mesaj noului său omolog român, Dan Neculăescu, la scurt timp după învestirea acestuia în funcție. Șeful diplomației ucrainene a postat un mesaj și pentru fosta ministră de Externe, Oana Țoiu.",
+        "category": "Általános",
+        "published_at": 1792541895
       }
     ]
   },
@@ -16468,6 +16477,38 @@
         "summary": "AIX Investment Group, o companie de investiții din Dubai, se confruntă cu acțiuni în justiție după ce a întârziat sau a oprit plățile către clienți care au investit în produse ce promiteau randamente anuale de până la 30%. Mii de investitori ar putea fi afectați.",
         "category": "Bulvár",
         "published_at": 1792540105
+      }
+    ]
+  },
+  {
+    "group_id": "group_ea031f36f5",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "CCR analizează joi legea pensiilor. Ce prevederi sunt contestate și ce se poate schimba",
+        "link": "https://adevarul.ro/stiri-interne/societate/ccr-analizeaza-joi-legea-pensiilor-ce-prevederi-2565249.html",
+        "image": "https://cdn.adh.reperio.news/image-7/7b7b2e92-c1ea-440a-9e2e-e272525ccd50/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Curtea Constituțională a României (CCR) analizează joi, 22 octombrie 2026, mai multe prevederi din noua lege e pensiilor, contestate în instanță. Printre acestea se numără formula de calcul, punctele de stabilitate și valoarea punctului de referință.",
+        "category": "Általános",
+        "published_at": 1792542145
+      }
+    ]
+  },
+  {
+    "group_id": "group_bab5c5101d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "O celebră bancă americană direcţionează 5 miliarde de dolari spre startup-uri militare şi roboţi industriali",
+        "link": "https://adevarul.ro/stiri-externe/sua/o-celebra-banca-americana-directioneaza-5-miliarde-2565201.html",
+        "image": "https://cdn.adh.reperio.news/image-c/c0b50897-ed83-4565-864f-1e86e3d5e1ef/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "JPMorgan Chase a investit 5 miliarde de dolari în companii considerate strategice pentru securitatea națională și industria americană, în primul an al unui program lansat de directorul general Jamie Dimon.",
+        "category": "Általános",
+        "published_at": 1792540885
       }
     ]
   }
