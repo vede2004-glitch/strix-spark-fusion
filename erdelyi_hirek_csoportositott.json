@@ -116,636 +116,194 @@
     ]
   },
   {
-    "group_id": "group_fc60e68710",
+    "group_id": "group_cf2b26dcb3",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Désiré Doué góljával vezet a PSG a Barcelona ellen",
+        "link": "https://www.mediatica.ro/hirek/sport/desire-doue-goljaval-vezet-a-psg-a-barcelona-ellen",
+        "image": "",
+        "summary": "Nagy iramú a mérkőzés, a katalán csapat egyelőre pontatlanabb.",
+        "category": "Sport",
+        "published_at": 1792526173
+      }
+    ]
+  },
+  {
+    "group_id": "group_73f4deaa94",
     "category": "Általános",
     "articles_count": 1,
     "articles": [
       {
         "source": "Mediatica.ro",
-        "title": "Ingyenes Halloween-esttel várja a látogatókat a marosvásárhelyi állatkert",
-        "link": "https://www.mediatica.ro/hirek/aktualis/ingyenes-halloween-esttel-varja-a-latogatokat-a-marosvasarhelyi-allatkert",
+        "title": "A Locarnói Arany Leopárd-díjas film is látható lesz az Alter-Native fesztiválon",
+        "link": "https://www.mediatica.ro/hirek/kultura/a-locarnoi-arany-leopard-dijas-film-is-lathato-lesz-az-alter-native-fesztivalon",
         "image": "",
-        "summary": "A résztvevőket arra biztatják, hogy jelmezben vagy tematikus maszkban érkezzenek a rendezvényre.",
+        "summary": "Marosvásárhelyen Florin Șerban You Don't Belong Here című alkotásának előzetes bemutatója lesz a 34. Nemzetközi Rövidfilmfesztivál egyik fő attrakciója.",
         "category": "Általános",
-        "published_at": 1792524473
+        "published_at": 1792524941
       }
     ]
   },
   {
-    "group_id": "group_859c926a0f",
-    "category": "Politika",
-    "articles_count": 9,
-    "articles": [
-      {
-        "source": "Digi24",
-        "title": "Siegfried Mureșan, reales vicepreședinte al Grupului PPE din Parlamentul European. „Vocea României trebuie să fie puternică în Europa”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/siegfried-muresan-reales-vicepresedinte-al-grupului-ppe-din-parlamentul-european-vocea-romaniei-trebuie-sa-fie-puternica-in-europa-4001417",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjA1JTJGMjc3MzI1Ml8yNzcz/MjUyX3NpZWdmcmllZC1tdXJlc2FuLWlu/cXVhbS1nZW9yZ2UtY2FsaW4uanBnJmhh/c2g9NDljOTQ4MWZhYzBmZWM3N2Y3MGE0OTRlMTU1YTc5NmU=.jpg",
-        "summary": "Eurodeputatul PNL Siegfried Mureșan a fost reales, marți, vicepreședinte al Grupului Partidului Popular European (PPE) din Parlamentul European, pentru a patra oară consecutiv. Acesta a obținut 152 de voturi, al doilea cel mai bun rezultat dintre cei zece vicepreședinți aleși, potrivit unui anunț făcut pe Facebook.",
-        "category": "Politika",
-        "published_at": 1792524709
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "După şase luni de criză, România are, în sfârşit, un guvern plin. Guvernul Niculescu a depus aseară jurământul şi tot aseară a avut prima sa şedinţă",
-        "link": "https://www.zf.ro/eveniment/dupa-sase-luni-de-criza-romania-are-in-sfarsit-un-guvern-plin-guvernul-niculescu-a-depus-aseara-juramantul-si-tot-aseara-a-avut-prima-sa-sedinta-23264301",
-        "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21333/23264301/1/1-guvern-luca-niculescu.jpg?width=700",
-        "summary": "Guvernul Luca Niculescu a fost învestit de parlament cu 280 de voturi „pentru” mai multe decât îi erau necesare - 233. După aproape şase luni de criză politică, România are un guvern plin.",
-        "category": "Gazdaság",
-        "published_at": 1792530420
-      },
-      {
-        "source": "Maszol",
-        "title": "Niculescu az első kormányülésen: A kabinet legfőbb célja a romániaiak életszínvonalának javítása",
-        "link": "https://maszol.ro/belfold/Niculescu-az-elso-kormanyulesen-A-kabinet-legfobb-celja-a-romaniaiak-eletszinvonalanak-javitasa",
-        "image": "https://maszol.ro/resized/2026_oktober/21/cikk_agerpres_19746671.jpg",
-        "summary": "Szerinte a Szociáldemokrata Párt (PSD) politikusaiból, illetve a civil és a tudományos élet képviselőiből álló kormánya tagjait a tenni akarás vezérli.",
-        "category": "Politika",
-        "published_at": 1792556400
-      },
-      {
-        "source": "Mediafax",
-        "title": "Presa internațională avertizează: liniștea politică din România ar putea dura doar șase luni. Ce scrie despre Guvernul Luca Niculescu",
-        "link": "https://www.mediafax.ro/externe/presa-internationala-avertizeaza-linistea-politica-din-romania-ar-putea-dura-doar-sase-luni-ce-scrie-despre-guvernul-luca-niculescu-23829076",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164930-mediafax_foto-alexandru_nechez-1024x683.jpg",
-        "summary": "Învestirea Guvernului Luca Niculescu pune capăt unui blocaj politic de aproape șase luni, însă presa internațională avertizează că stabilitatea obținută ar putea fi temporară.",
-        "category": "Általános",
-        "published_at": 1792559274
-      },
-      {
-        "source": "Adevărul",
-        "title": "Guvernul Niculescu, privit cu scepticism în presa internațională. Deficitul și ratingul de țară, marile probleme ale României",
-        "link": "https://adevarul.ro/politica/guvernul-niculescu-privit-cu-scepticism-in-presa-2565417.html",
-        "image": "https://cdn.adh.reperio.news/image-d/dc3e35e2-39b3-4b77-af48-dbc4514e0a88/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Învestirea Guvernului condus de Luca Niculescu pune capăt unui blocaj politic de aproape șase luni, însă stabilitatea noului Executiv ar putea fi temporară, avertizează presa internațională.",
-        "category": "Általános",
-        "published_at": 1792566867
-      },
-      {
-        "source": "Digi24",
-        "title": "Claudiu Manda, după învestirea Guvernului Niculescu: „Nu există timp pentru acomodare”. Mesaj pentru Ilie Bolojan",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/claudiu-manda-dupa-investirea-guvernului-niculescu-nu-exista-timp-pentru-acomodare-mesaj-pentru-ilie-bolojan-4002067",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjA3JTJGMjQzMTY3MF8yNDMx/NjcwX0NsYXVkaXUtTWFuZGEuanBnJmhh/c2g9MGQ0YTQ3OThlZTg2OTNjZmI2MDNiODBjNDk5MmNlNTI=.jpg",
-        "summary": "Secretarul general al PSD, Claudiu Manda, a declarat miercuri că, după șase luni de criză politică, România are din nou un Guvern „pentru români”, dar a avertizat că miniștrii preiau mandatele într-o situație de criză, în care „nu există timp pentru acomodare”.",
-        "category": "Politika",
-        "published_at": 1792571753
-      },
-      {
-        "source": "G4Media",
-        "title": "Claudiu Manda, nou atac la Bolojan: Nu le-ați dat speranță românilor. Le-ați luat orice speranță că în țara lor poate fi mai bine. Dar noi vom arăta din nou că România poate fi guvernată cu responsabilitate, prin măsuri care răspund nevoilor oamenilor",
-        "link": "https://www.g4media.ro/claudiu-manda-nou-atac-la-bolojan-nu-le-ati-dat-speranta-romanilor-le-ati-luat-orice-speranta-ca-in-tara-lor-poate-fi-mai-bine-dar-noi-vom-arata-din-nou-ca-romania-poate-fi-guvernata-cu-responsabi.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2026/06/Manda-Claudiu.jpg",
-        "summary": "Europarlamentarul social-democrat Claudiu Manda l-a atacat din nou miercuri pe fostul premier Ilie Bolojan, despre care a spus că le-a luat românilor orice speranță prin măsurile de austeritate pe care le-a impus. „România are din nou un Guvern pentru români! După șase luni de criză politică, atenția și eforturile trebuie îndreptate acum, cu prioritate, către […] © G4Media.ro.",
-        "category": "Politika",
-        "published_at": 1792572038
-      },
-      {
-        "source": "Transtelex",
-        "title": "Románia politikai csapdája nem oldódott meg az új kabinettel: a szélsőjobb már ugrásra kész",
-        "link": "https://transtelex.ro/transtelex/2026/10/21/romania-kormanyvalsag-uj-kormany-osszefoglalo",
-        "image": "https://assets.telex.hu/images/20261021/1792592728-temp-c226d3sfem8i6ebacpo_cimlap-normal.jpg",
-        "summary": "Az érvénytelenített elnökválasztási sokk óta tartó krízis nem zárult le: a mérsékelt pártok megosztottak, az államfő morális hitele elapadt, az AUR pedig sakkban tartja az országot.",
-        "category": "Politika",
-        "published_at": 1792597184
-      },
-      {
-        "source": "G4Media",
-        "title": "Guvernul Niculescu și predicțiile teoriei corpului politic (Op-ed)",
-        "link": "https://www.g4media.ro/guvernul-niculescu-si-predictiile-teoriei-corpului-politic-op-ed.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2019/12/Lucian-Croitoru-e1600410642191.jpg",
-        "summary": "Acest articol încheie un ciclu de câteva articole dedicate analizei celei mai lungi crize politice românești (aproape șase luni de guvern interimar: 5 mai-20 octombrie 2026). În această vară am propus o teorie politică capabilă să descrie forțele care modifică scena politică occidentală și mecanismul prin care democrațiile postcomuniste imită acea mișcare (vezi articolul „Cele […] © G4Media.ro.",
-        "category": "Politika",
-        "published_at": 1792606533
-      }
-    ]
-  },
-  {
-    "group_id": "group_2b5b6c83d9",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Digi24",
-        "title": "Răspunsul lui Luca Niculescu la întrebarea dacă este un premier de paravan al PSD",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/raspunsul-lui-luca-niculescu-la-intrebarea-daca-este-un-premier-de-paravan-al-psd-4001381",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIwJTJGMzAyMzMyOF8zMDIz/MzI4X2x1Y2EtbmljdWxlc2N1LWp1cmFt/YW50LWNvdHJvY2VuaS5qcGVnJmhhc2g9/YWExYTJiMzRiOTEyNjU1NGViMDY3YWE1MjUzMDcxNWY=.jpeg",
-        "summary": "Premierul Luca Niculescu a respins, marți seară, ideea că ar fi un premier de paravan al PSD și a declarat că și-ar fi dorit o coaliție mai largă, iar sentimentele sale legate de colaborarea cu un Guvern în care social-democrații dețin majoritatea „contează cel mai puțin”. Șeful Executivului a subliniat că prioritatea este ca România să aibă un Guvern cu puteri depline, după șase luni de criză politică, și a promis o colaborare bună cu PSD și cu miniștrii independenți.",
-        "category": "Politika",
-        "published_at": 1792524211
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "INTERVIU „Când lucrurile se vor complica, PSD va da vina pe Luca Niculescu și pe miniștri tehnocrați”. Ce speranță de viață are noul guvern",
-        "link": "https://hotnews.ro/interviu-cand-lucrurile-se-vor-complica-psd-va-da-vina-pe-luca-niculescu-si-pe-ministri-tehnocrati-ce-speranta-de-viata-are-noul-guvern-2381846",
-        "image": "",
-        "summary": "Cele 280 de voturi pentru Guvernul Niculescu „nu reflectă deloc susținerea parlamentară”, spune, într-un interviu pentru HotNews, Sergiu Mișcoiu, analist politic și profesor la Universitatea Babeș Bolyai din Cluj. Guvernul condus de Luca Niculescu a primit 280 de voturi în Parlamentul României, motiv pentru care, marți seară, s-a instalat la Palatul Victoria și a ținut …",
-        "category": "Általános",
-        "published_at": 1792566003
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "ANALIZĂ. De ce a acceptat Luca Niculescu un guvern PSD cu miniștri controversați, precum Marian Neacșu sau Radu Oprea",
-        "link": "https://stirileprotv.ro/stiri/interviurile-stirileprotv/analiza-de-ce-a-acceptat-luca-niculescu-un-guvern-psd-cu-ministri-controversati-precum-marian-neacsu-sau-radu-oprea.html",
-        "image": "https://stirileprotv.ro/img/2026/10/21/104812/luca-niculescu-ministri-guvern-id293493-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=5967%2C3978%2C0%2C0&w=1280",
-        "summary": "Profesorul și politologul Cristian Preda este de părere că Luca Niculescu a fost nevoit să accepte toate propunerile PSD de miniștri, pentru că acest guvern era singura cale de a evita alegerile anticipate, pe care nici președintele nu și le dorea.",
-        "category": "Általános",
-        "published_at": 1792579859
-      }
-    ]
-  },
-  {
-    "group_id": "group_be3571685e",
-    "category": "Általános",
+    "group_id": "group_36d6d81d03",
+    "category": "Sport",
     "articles_count": 1,
     "articles": [
       {
-        "source": "Digi24",
-        "title": "Luca Niculescu nu exclude varianta majorării taxelor: „În orice caz, vom încerca să-i protejăm pe cei vulnerabili”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-nu-exclude-varianta-majorarii-taxelor-in-orice-caz-vom-incerca-sa-i-protejam-pe-cei-vulnerabili-4001365",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIwJTJGMzAyMzM1OV8zMDIz/MzU5X0ZmZ2JzcmcuanBnJmhhc2g9N2Ni/NDNlMDgxYjI3NTk5NzVlMTJjMDE2MjUyNWI1MmI=.jpg",
-        "summary": "Premierul Luca Niculescu reafirmă, după învestirea Guvernului pe care îl conduce, că România trebuie să se încadreze în ţinta de deficit bugetar asumată. El evită să dea cifre legate de indexarea pensiilor şi să spună dacă Executivul ia în calcul introducerea de noi taxe. „Vom face tot ce putem pentru ca cei mai vulnerabili, în orice caz, să fie protejaţi”, a spus el.",
-        "category": "Általános",
-        "published_at": 1792524155
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Scufundați de căpitan » Van Dijk a comis-o în Liverpool - Villarreal",
+        "link": "https://www.gsp.ro/international/liga-campionilor/liverpool-villarreal-van-dijk-gafa-liga-campionilor-990417.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/78278e07-b25e-4a7c-9656-9a2d5ad4d09a.jpg?width=290&height=208",
+        "summary": "Virgil van Dijk (35 de ani) a comis o mare greșeală în meciul de Liga Campionilor dintre Liverpool și Villarreal (2-2 la pauză), oferindu-i un „assist” involuntar lui Georges Mikautadze la deschiderea scorului. De numai 4 minute a avut nevoie „Submarinul galben” pentru a împietri publicul de pe Anfield. O gafă a căpitanului Virgil van Dijk i-a pus georgianului Mikautadze pe tavă al doilea său gol în acest sezon al Ligii Campionilor. ...",
+        "category": "Sport",
+        "published_at": 1792525280
       }
     ]
   },
   {
-    "group_id": "group_850c977003",
-    "category": "Általános",
-    "articles_count": 22,
+    "group_id": "group_5451be4331",
+    "category": "Bulvár",
+    "articles_count": 1,
     "articles": [
       {
-        "source": "G4Media",
-        "title": "Noi negocieri între SUA și Rusia / Steve Witkoff va merge miercuri la Moscova",
-        "link": "https://www.g4media.ro/noi-negocieri-intre-sua-si-rusia-steve-witkoff-va-merge-miercuri-la-moscova.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2024/11/profimedia-0916903899-e1731483926675.jpg",
-        "summary": "Emisarul special al preşedintelui american Donald Trump, Steve Witkoff, urmează să meargă miercuri în vizită în Rusia, a informat marţi agenţia de presă rusă Tass, citând o sursă sub rezerva anonimatului, relatează Agerpres, care citează Reuters. Witkoff va călători în Rusia după o întrevedere marţi la Oslo cu preşedintele ucrainean Volodimir Zelenski şi cu preşedintele […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792524375
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Emisarul american Steve Witkoff se duce din nou în Rusia. Ce va discuta cu Putin",
-        "link": "https://hotnews.ro/emisarul-american-steve-witkoff-se-duce-din-nou-in-rusia-ce-va-discuta-cu-putin-2381951",
-        "image": "",
-        "summary": "Emisarul special al președintelui american Donald Trump, Steve Witkoff, urmează să meargă miercuri în vizită în Rusia, a informat marți agenția de presă rusă Tass, citând o sursă sub rezerva anonimatului, relatează Reuters. Witkoff va călători în Rusia după o întrevedere marți la Oslo cu președintele ucrainean Volodimir Zelenski și cu președintele finlandez Alexander Stubb. …",
-        "category": "Általános",
-        "published_at": 1792528568
-      },
-      {
-        "source": "Digi24",
-        "title": "Witkoff s-a întâlnit cu Putin la Sankt Petersburg și i-a prezentat „idei” pentru un acord de pace în Ucraina",
-        "link": "https://www.digi24.ro/stiri/externe/emisarul-american-steve-witkoff-merge-in-vizita-in-rusia-propunerile-pe-care-i-le-va-prezenta-lui-vladimir-putin-4001449",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjE0JTJGMjMyODgwOV8yMzI4/ODA5X1ByZXNfZWRpbnRlbGUtVmxhZGlt/aXItUHV0aW4tc19pLWVtaXNhcnVsLWx1/aS1UcnVtcC1TdGV2ZS1XaXRrb2ZmXy1G/b3RvLVByb2ZpbWVkaWEuanBnJmhhc2g9/YmE5YzY3MWM4ZDA2ZmVkNmI4MTAzYTRkNzdiZDc1NzM=.jpg",
-        "summary": "Emisarul special al președintelui american Donald Trump, Steve Witkoff, s-a întâlnit miercuri cu Vladimir Putin, la Sankt Petersburg, unde i-a prezentat liderului rus mai multe propuneri pentru un posibil acord de pace între Rusia și Ucraina. Witkoff a declarat că speră la reluarea negocierilor trilaterale, după discuțiile purtate marți cu Volodimir Zelenski, la Oslo. În același timp, Putin a anunțat eliberarea unui cetățean american în vârstă de 74 de ani, condamnat în Rusia pentru activitate de mercenar.",
-        "category": "Általános",
-        "published_at": 1792583878
-      },
-      {
-        "source": "Digi24",
-        "title": "Trump vrea ca Zelenski să încheie un acord cu Rusia și susține că SUA nu au primit „nimic în schimb” pentru ajutorul oferit Ucrainei",
-        "link": "https://www.digi24.ro/stiri/externe/sua/trump-vrea-ca-zelenski-sa-incheie-un-acord-cu-rusia-si-sustine-ca-sua-nu-au-primit-nimic-in-schimb-pentru-ajutorul-oferit-ucrainei-4001687",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjI4JTJGMjMzNzYzNl8yMzM3/NjM2X2pkLXZhbmNlLXRydW1wLXplbGVu/c2tpLmpwZyZoYXNoPWFhOGNjNGJlZTk4YWZmNmI2MzdlNTkxZTJkNTAwMTdj.jpg",
-        "summary": "Președintele american Donald Trump a declarat marți că dorește ca omologul său ucrainean, Volodimir Zelenski, să „încheie un acord” cu Rusia, plângându-se că Statele Unite nu au primit „nimic în schimb” pentru sprijinul acordat Kievului, relatează Euronews.",
-        "category": "Általános",
-        "published_at": 1792560713
-      },
-      {
-        "source": "Mediafax",
-        "title": "Marco Rubio, despre discuțiile lui Witkoff cu Zelenski: A fost pozitiv. Mergem să vedem dacă putem progresa cu Rusia",
-        "link": "https://www.mediafax.ro/stirile-zilei/marco-rubio-despre-discutiile-lui-witkoff-cu-zelenski-a-fost-pozitiv-mergem-sa-vedem-daca-putem-progresa-cu-rusia-23829101",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8103648-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-        "summary": "Secretarul de stat al SUA, Marco Rubio, a catalogat miercuri drept „pozitive” discuțiile purtate între emisarul american Steve Witkoff și președintele Ucrainei, Volodimir Zelenski, subliniind că misiunea diplomatică a oficialului american va continua și cu o vizită în Rusia pentru discuții cu Putin.",
-        "category": "Általános",
-        "published_at": 1792562746
-      },
-      {
-        "source": "G4Media",
-        "title": "Emisarul lui Trump a ajuns în Rusia pentru discuții cu Putin / Zelenski spune că schimbul de informații cu SUA privind atacurile cu rachete funcționează din nou",
-        "link": "https://www.g4media.ro/emisarul-lui-trump-a-ajuns-in-rusia-pentru-discutii-cu-putin-zelenski-spune-ca-schimbul-de-informatii-cu-sua-privind-atacurile-cu-rachete-functioneaza-din-nou.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2024/11/profimedia-0877446015-e1731484011645.jpg",
-        "summary": "Trimisul special al președintelui american Donald Trump, Steve Witkoff, a ajuns în Rusia pentru o întâlnire cu Vladimir Putin, în cadrul căreia urmează să fie discutate propuneri pentru încheierea războiului din Ucraina, potrivit BBC. Vizita are loc la o zi după discuțiile dintre Witkoff și președintele ucrainean Volodimir Zelenski, desfășurate la Oslo, pe care un […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792569635
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Anunțul Kremlinului, în ziua în care emisarul lui Trump a sosit în Rusia pentru o discuție cu Vladimir Putin",
-        "link": "https://hotnews.ro/anuntul-kremlinului-in-ziua-in-care-emisarul-lui-trump-a-sosit-in-rusia-pentru-o-discutie-cu-vladimir-putin-2382148",
-        "image": "",
-        "summary": "Emisarul american Steve Witkoff și președintele rus Vladimir Putin vor discuta despre conflictul din Ucraina în cadrul unor întâlniri care vor avea loc miercuri dimineață la Sankt Petersburg, au relatat agențiile de știri ruse, citând Kremlinul. „Nu știu dacă se va ajunge la vreun acord astăzi, dar discuțiile privind conflictul din Ucraina sunt, desigur, tema …",
-        "category": "Általános",
-        "published_at": 1792568673
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Emisarul lui Trump a ajuns din în Rusia, dar nu la Moscova. Unde i-a dat Putin întâlnire lui Witkoff de această dată",
-        "link": "https://stirileprotv.ro/stiri/international/emisarul-lui-trump-a-ajuns-din-in-rusia-dar-nu-la-moscova-unde-i-a-dat-putin-intalnire-lui-witkoff-de-aceasta-data.html",
-        "image": "https://stirileprotv.ro/img/2025/08/06/210000/62565598.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
-        "summary": "Emisarul special al președintelui american Donald Trump, Steve Witkoff, urmează să meargă miercuri în vizită în Rusia, a informat marți agenția de presă rusă TASS, citând o sursă sub rezerva anonimatului, relatează Reuters.",
-        "category": "Általános",
-        "published_at": 1792569550
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Kremlinul confirmă că Putin îl va primi pe Witkoff la Sankt Petersburg",
-        "link": "https://agerpres.ro/politic-extern/2026/10/21/kremlinul-confirma-ca-putin-il-va-primi-pe-witkoff-la-sankt-petersburg--1605222",
-        "image": "",
-        "summary": "",
-        "category": "Általános",
-        "published_at": 1792540800
-      },
-      {
-        "source": "G4Media",
-        "title": "SUA îi vor propune lui Putin o întâlnire cu Trump și Zelenski pentru negocierea unui armistițiu",
-        "link": "https://www.g4media.ro/sua-ii-vor-propune-lui-putin-o-intalnire-cu-trump-si-zelenski-pentru-negocierea-unui-armistitiu.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2025/08/Vladimir-Putin-Volodimir-Zelenski.jpg",
-        "summary": "Trimisul special al SUA, Steve Witkoff, îi va prezenta lui Vladimir Putin propunerea organizării unei întâlniri directe între liderul rus, președintele american Donald Trump și președintele ucrainean Volodimir Zelenski, în încercarea de a ajunge la un armistițiu în Ucraina, notează Politico. Inițiativa privind un summit trilateral, primul de acest fel de la declanșarea invaziei ruse […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792572771
-      },
-      {
-        "source": "G4Media",
-        "title": "Putin s-a oferit să se întâlnească cu Trump în China și vrea restabilirea legăturilor economice cu SUA",
-        "link": "https://www.g4media.ro/putin-s-a-oferit-sa-se-intalneasca-cu-trump-in-china-si-vrea-restabilirea-legaturilor-economice-cu-sua.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2024/11/profimedia-0578742770.jpg",
-        "summary": "Președintele rus Vladimir Putin s-a oferit să se întâlnească cu omologul său american Donald Trump în China, în cadrul discuțiilor purtate miercuri la Sankt Petersburg cu trimisul special al SUA, Steve Witkoff, relatează Sky News. În timpul întâlnirii, negociatorul american a afirmat că există premisele unui armistițiu și a cerut reluarea negocierilor trilaterale dintre Rusia, […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792579183
-      },
-      {
-        "source": "Mediafax",
-        "title": "Vladimir Putin, la discuțiile cu trimisul lui Trump, Steve Witkoff: O întrevedere cu președintele SUA ar putea avea loc în China",
-        "link": "https://www.mediafax.ro/stirile-zilei/vladimir-putin-la-discutiile-cu-trimisul-lui-trump-steve-witkoff-o-intrevedere-cu-presedintele-sua-ar-putea-avea-loc-in-china-23829315",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8155270-hepta_mediafax_foto-dpa_hepta-1024x632.jpg",
-        "summary": "Președintele rus Vladimir Putin i-a sugerat miercuri emisarului special Steve Witkoff, în cadrul discuțiilor purtate la Sankt Petersburg, o întrevedere directă cu președintele american Donald Trump în China.",
-        "category": "Általános",
-        "published_at": 1792579892
-      },
-      {
-        "source": "Adevărul",
-        "title": "Steve Witkoff s-a întâlnit cu Vladimir Putin la Sankt Petersburg pentru discuții privind războiul din Ucraina. Rusia a eliberat un american încarcerat",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/steve-witkoff-s-a-intalnit-cu-vladimir-putin-la-2565505.html",
-        "image": "https://cdn.adh.reperio.news/image-9/9e7522eb-d95f-4a4d-8f7f-a8809e2c9ac3/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Emisarul special al Statelor Unite, Steve Witkoff, s-a întâlnit miercuri cu președintele rus Vladimir Putin, la Sankt Petersburg, pentru discuții privind războiul din Ucraina și posibilitatea reluării negocierilor de pace.",
-        "category": "Általános",
-        "published_at": 1792580460
-      },
-      {
-        "source": "G4Media",
-        "title": "Vladimir Putin, la discuțiile cu trimisul lui Trump, Steve Witkoff: O întrevedere cu președintele SUA ar putea avea loc în China",
-        "link": "https://www.g4media.ro/vladimir-putin-la-discutiile-cu-trimisul-lui-trump-steve-witkoff-o-intrevedere-cu-presedintele-sua-ar-putea-avea-loc-in-china.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2025/11/Vladimir-Putin-Steve-Witkoff.jpg",
-        "summary": "Președintele rus Vladimir Putin i-a sugerat miercuri emisarului special Steve Witkoff, în cadrul discuțiilor purtate la Sankt Petersburg, o întrevedere directă cu președintele american Donald Trump în China, scrie Mediafax. Liderul de la Kremlin l-a primit miercuri pe emisarul special al președintelui Donald Trump la Sankt Petersburg pentru discuții. În cadrul întâlnirii, Vladimir Putin i-a […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792585771
-      },
-      {
-        "source": "Mediafax",
-        "title": "Rusia anunță când ar putea relua negocierile de pace cu Ucraina și SUA. Ce i-a transmis Putin emisarului lui Trump",
-        "link": "https://www.mediafax.ro/externe/rusia-anunta-cand-ar-putea-relua-negocierile-de-pace-cu-ucraina-si-sua-ce-i-a-transmis-putin-emisarului-lui-trump-23829487",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2025/04/8035444-hepta_mediafax_foto-dpa_hepta-1-1024x632.jpg",
-        "summary": "Rusia este pregătită să reia negocierile trilaterale cu Statele Unite și Ucraina la jumătatea lunii noiembrie, a declarat consilierul prezidențial rus Iuri Ușakov, după întâlnirea dintre Vladimir Putin și emisarul special american Steve Witkoff, desfășurată miercuri la Sankt Petersburg.",
-        "category": "Általános",
-        "published_at": 1792593454
-      },
-      {
-        "source": "Digi24",
-        "title": "După întâlnirea Putin-Witkoff în Rusia, Kremlinul face un anunț privind negocierile de pace în Ucraina",
-        "link": "https://www.digi24.ro/stiri/externe/dupa-intalnirea-putin-witkoff-in-rusia-kremlinul-face-un-anunt-privind-negocierile-de-pace-in-ucraina-4002931",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTAyNF8zMDI1/MDI0X3Byb2ZpbWVkaWEtMTE0NTM0NDE5/MS5qcGcmaGFzaD02YzM1NjA1MjM2MDJlNTI1MGI4YWExZWFmYjhmY2FhYQ==.jpg",
-        "summary": "Preşedintele rus Vladimir Putin i-a spus miercuri trimisului special al SUA, Steve Witkoff, că Moscova este dispusă, în principiu, să reia luna viitoare discuţiile cu Ucraina şi SUA pentru încheierea războiului din Ucraina, a declarat Iuri Uşakov, consilierul liderului de la Kremlin, relatează Reuters.",
-        "category": "Általános",
-        "published_at": 1792596890
-      },
-      {
-        "source": "Transtelex",
-        "title": "Putyin beleegyezett, hogy újrakezdjék a háromoldalú tárgyalásokat az ukrajnai háború befejezéséről",
-        "link": "https://transtelex.ro/kulfold/2026/10/21/ujrakezdik-a-haromoldalu-targyalast-az-ukrajnai-haboru-befejezeserol",
-        "image": "https://assets.telex.hu/images/20261021/1792593068-temp-m2kcnf705l0a8hjojjg_cimlap-normal.jpg",
-        "summary": "Az orosz vezető „elvileg” beleegyezett a tárgyalások november 10. utáni folytatásába, közölte Jurij Usakov, Putyin külügyi tanácsadója.",
-        "category": "Általános",
-        "published_at": 1792593174
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Putin a acceptat reluarea negocierilor trilaterale cu Ucraina și SUA. Când preconizează Kremlinul că vor începe discuțiile și pe ce se vor axa",
-        "link": "https://hotnews.ro/putin-a-acceptat-reluarea-negocierilor-trilaterale-cu-ucraina-si-sua-cand-preconizeaza-kremlinul-ca-vor-incepe-discutiile-si-pe-ce-se-vor-axa-2382814",
-        "image": "",
-        "summary": "Președintele rus Vladimir Putin a acceptat să reia negocierile de pace cu Ucraina mediate de SUA, chiar de luna viitoare, a anunțat miercuri Kremlinul, citat de Reuters. Anunțul a fost făcut după a noua întâlnire față în față dintre liderul Rusiei și emisarul american Steve Witkoff. În marja discuțiilor de la Sankt Petersburg, care au …",
-        "category": "Általános",
-        "published_at": 1792596746
-      },
-      {
-        "source": "Maszol",
-        "title": "Putyin beleegyezett az Ukrajnával folytatandó béketárgyalások újraindításába",
-        "link": "https://maszol.ro/kulfold/Putyin-beleegyezett-az-Ukrajnaval-folytatando-beketargyalasok-ujrainditasaba",
-        "image": "https://maszol.ro/resized/2026_oktober/21/cikk_Putyin_agerpres_20250603_(1).jpg",
-        "summary": "Vlagyimir Putyin orosz elnök elfogadta, hogy már a jövő hónapban újrainduljanak az Egyesült Államok közvetítésével zajló béketárgyalások Ukrajnával.",
-        "category": "Általános",
-        "published_at": 1792598340
-      },
-      {
-        "source": "Mediafax",
-        "title": "Trump face presiuni asupra lui Zelenski și vrea ca acordul de pace să fie semnat în decembrie la clubul său de golf",
-        "link": "https://www.mediafax.ro/politic/trump-face-presiuni-asupra-lui-zelenski-si-vrea-ca-acordul-de-pace-sa-fie-semnat-in-decembrie-la-clubul-sau-de-golf-23829530",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/8025533-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-        "summary": "Președintele american Donald Trump face presiuni asupra liderului ucrainean Volodimir Zelenski. Trump vrea ca acordul de pace privitor la Ucraina să fie semnat în decembrie la clubul său de golf din Florida.",
-        "category": "Általános",
-        "published_at": 1792597774
-      },
-      {
-        "source": "Digi24",
-        "title": "Witkoff, lingușitor cu Putin: „Sunteți un om cu spirit umanitar”. Rusia și-a intensificat atacurile ucigașe asupra Ucrainei",
-        "link": "https://www.digi24.ro/stiri/externe/witkoff-lingusitor-cu-putin-sunteti-un-om-cu-spirit-umanitar-rusia-si-a-intensificat-atacurile-ucigase-asupra-ucrainei-4003029",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTE1Nl8zMDI1/MTU2X0VtaXNhcnVsLWx1aS1UcnVtcC1T/dGV2ZS1XaXRrb2ZmXy1Gb3RvLVByb2Zp/bWVkaWEuanBnJmhhc2g9Y2Y3NTM0YjI2NmYyYTVlYTgwMjNkOTExNjFjMzc2ZGE=.jpg",
-        "summary": "La a noua întâlnire cu președintele Rusiei, Vladimir Putin, emisarul SUA Steve Witkoff a avut multe cuvinte de laudă pentru liderul de la Kremlin, la un noment dat devenind chiar lingușitor. Și asta într-un moment în care Rusia și-a intensificat atacurile ucigașe asupra Ucrainei. Witkoff a prezentat și o propunere privind negocierile cu Ucraina.",
-        "category": "Általános",
-        "published_at": 1792599566
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Putin a acceptat reluarea negocierilor de pace mediate de SUA. Un summit istoric cu Trump și Xi Jinping ar fi în pregătire",
-        "link": "https://stirileprotv.ro/stiri/international/putin-a-acceptat-reluarea-negocierilor-de-pace-mediate-de-sua-un-summit-istoric-cu-trump-si-xi-jinping-ar-fi-in-pregatire.html",
-        "image": "https://stirileprotv.ro/img/2026/10/07/121935/putin-2.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C682%2C0%2C0&w=1280",
-        "summary": "Președintele rus Vladimir Putin a fost de acord să reia negocierile de pace cu Ucraina, mediate de Statele Unite, cel mai devreme luna viitoare, a anunțat miercuri Kremlinul, după întâlnirea dintre Putin și emisarul american Steve Witkoff.",
-        "category": "Általános",
-        "published_at": 1792605605
+        "source": "Cancan.ro",
+        "title": "Câți lei a plătit Gabriela Cristea, ca să-și pună murături pentru iarnă: ”E mult?!”",
+        "link": "https://www.cancan.ro/cati-lei-a-platit-gabriela-cristea-ca-sa-si-puna-muraturi-pentru-iarna-e-mult-21533590",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/gabriela-cristea.jpg-1-1200x675.jpeg",
+        "summary": "Gabriela Cristea a început pregătirile pentru sezonul rece, păstrând tradiția de a-și umple cămara cu bunătăți făcute în casă. Vedeta a ieșit la cumpărături împreună cu partenerul său, Tavi Clonda, de unde au ales legumele pe care le vor transforma în murături pentru iarnă. Vedeta a împărtășit cu urmăritorii săi imagini de la piață, dezvăluind […]",
+        "category": "Bulvár",
+        "published_at": 1792526361
       }
     ]
   },
   {
-    "group_id": "group_5870ef3cc9",
-    "category": "Általános",
-    "articles_count": 10,
+    "group_id": "group_18e2e0ee99",
+    "category": "Bulvár",
+    "articles_count": 1,
     "articles": [
       {
-        "source": "G4Media",
-        "title": "BREAKING Premierul Luca Niculescu lasă ușa deschisă pentru eventuale schimbări la Pilonul 2 de pensii",
-        "link": "https://www.g4media.ro/breaking-premierul-luca-niculescu-lasa-usa-deschisa-pentru-eventuale-schimbari-la-pilonul-2-de-pensii.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2022/12/pensie-pensionar-bani-Sursa-foto-Inquam-Photos-Octav-Ganea-2.jpg",
-        "summary": "Premierul Luca Niculescu a lăsat ușa deschisă pentru eventuale schimbări la Pilonul 2 de pensii. Întrebat în prima sa conferință de presă ca prim-ministru dacă reformele vor însemna și modificări la Pilonul 2 de pensii, Luca Niculescu nu a negat. ”Încă o dată, este ceva la care n-am apucat să mă gândesc până acum. Sunt […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792523960
-      },
-      {
-        "source": "Economedia",
-        "title": "Premierul Luca Niculescu, nesigur față de schimbări la Pilonul 2 de pensii: Reforma pilonului II de pensii nu este ceva de care ar trebui să ne atingem, dar, evident, cum voi avea mai multe date, voi veni către dumneavoastră",
-        "link": "https://economedia.ro/premierul-luca-niculescu-nesigur-fata-de-schimbari-la-pilonul-2-de-pensii-reforma-pilonului-ii-de-pensii-nu-este-ceva-de-care-ar-trebui-sa-ne-atingem-dar-evident-cum-voi-avea-mai-multe-date-voi.html",
-        "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Luca-Niculescu-Guvern-4-1024x683.jpeg",
-        "summary": "Premierul Luca Niculescu a dat, marți, un răspuns vag când a fost întrebat despre reforma Pilonului II de pensii, pe care Guvernele PSD anterioare au încercat să îl naționalizeze sau reformeze, în multiple rânduri, inclusiv prin introducerea posibilității de retragere din sistem, astfel încât să acopere gaura sistemului public de pensii. Luca Niculescu a declarat […]",
-        "category": "Gazdaság",
-        "published_at": 1792555913
-      },
-      {
-        "source": "Economedia",
-        "title": "VIDEO | Premierul Luca Niculescu, un nou răspuns, de această dată ferm, despre Pilonul II de pensii: „Nimeni nu se atinge de Pilonul II. Va exista așa cum este”",
-        "link": "https://economedia.ro/premierul-luca-niculescu-un-nou-raspuns-de-aceasta-data-ferm-despre-pilonul-ii-de-pensii-nimeni-nu-se-atinge-de-pilonul-ii-va-exista-asa-cum-este.html",
-        "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Luca-Niculescu-Guvern-3-1024x683.jpeg",
-        "summary": "Premierul Luca Niculescu a dat miercuri un nou răspuns, de această dată ferm, privind viitorul Pilonului II de pensii private, după ce marți afirmase că nu a avut timp să analizeze în detaliu o eventuală reformă a sistemului. „Nimeni nu se atinge de Pilonul II”, a declarat șeful Guvernului miercuri dimineață, subliniind că sistemul va […]",
-        "category": "Gazdaság",
-        "published_at": 1792564345
-      },
+        "source": "Cancan.ro",
+        "title": "El este Petru Iacob, inginerul silvic care a murit după ce o creangă i-a căzut în cap. Avea 46 de ani",
+        "link": "https://www.cancan.ro/el-este-petru-iacob-inginerul-silvic-care-a-murit-dupa-ce-o-creanga-i-a-cazut-in-cap-avea-46-de-ani-21533642",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Petru-Iacob-1200x675.jpeg",
+        "summary": "Sfârșit tragic pentru un bărbat în vârstă de 46 de ani din Botoșani. Petru Iacob lucra ca inginer silvic, fiind șeful Districtului Silvic Bucecea din cadrul Ocolului Silvic Botoșani. Acesta și-a dat ultima suflare în timp ce lua parte la o lucrare de toaletare a arborilor. Se pare că o creangă căzută din copac și […]",
+        "category": "Bulvár",
+        "published_at": 1792526093
+      }
+    ]
+  },
+  {
+    "group_id": "group_aa74d9070d",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
       {
         "source": "Digi24",
-        "title": "Premierul Luca Niculescu dă asigurări că Pilonul 2 de pensii nu va fi modificat: „Nimeni nu se atinge de el”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/premierul-luca-niculescu-da-asigurari-ca-pilonul-2-de-pensii-nu-va-fi-modificat-nimeni-nu-se-atinge-de-el-4001775",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNTkxOV8zMDE1/OTE5X2x1Y2EtbmljdWxlc2N1LWlucXVh/bS1tYWxpbmEtbm9yb2NlYS5qcGcmaGFz/aD1hMmJlZDM0YjliY2I4NWU5NWUxY2U1NGRjNjQyZDE3MA==.jpg",
-        "summary": "Premierul Luca Niculescu a dat asigurări că Pilonul 2 de pensii nu va fi modificat și că banii acumulați nu vor fi folosiți în alte scopuri. „Nimeni nu se atinge de Pilonul 2. El există și va exista așa cum este”, a declarat șeful Guvernului, miercuri dimineață, după ce afirmațiile sale de marți seară au lăsat loc unor interpretări.",
+        "title": "Șefa diplomației europene, Kaja Kallas, acuză SUA că presează Ucraina să „se predea în condițiile impuse de Putin”",
+        "link": "https://www.digi24.ro/stiri/externe/sefa-diplomatiei-europene-kaja-kallas-acuza-sua-ca-preseaza-ucraina-sa-se-predea-in-conditiile-impuse-de-putin-4001431",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjEyJTJGMjUzODgyNF8yNTM4/ODI0X3Bob3RvLWNvbGxhZ2VfcG5nLTQz/LnBuZyZoYXNoPTkyNjMzMTcxZjUzMjkyZWIxMGQ4M2I1YzFmNzAxNmEx.png",
+        "summary": "Înaltul Reprezentant pentru politică externă a UE, Kaja Kallas, a acuzat în termeni duri Statele Unite că exercită presiuni asupra Ucrainei pentru a capitula în condiții favorabile exclusiv președintelui rus Vladimir Putin, chiar în momentul în care se desfășura o nouă rundă de negocieri de pace la Oslo, în Norvegia, scrie Euronews.",
         "category": "Általános",
-        "published_at": 1792567240
+        "published_at": 1792525917
       },
       {
         "source": "G4Media",
-        "title": "VIDEO Premierul Luca Niculescu, răspuns ferm despre Pilonul II de pensii: „Nimeni nu se atinge de Pilonul II. Va exista așa cum este”",
-        "link": "https://www.g4media.ro/premierul-luca-niculescu-raspuns-ferm-despre-pilonul-ii-de-pensii-nimeni-nu-se-atinge-de-pilonul-ii-va-exista-asa-cum-este.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/INSTANT_PARLAMENT_CABINET_NICULESCU_026_INQUAM_Photos_George_Calin-scaled.jpg",
-        "summary": "Premierul Luca Niculescu a dat miercuri un nou răspuns, de această dată ferm, privind viitorul Pilonului II de pensii private, după ce marți afirmase că nu a avut timp să analizeze în detaliu o eventuală reformă a sistemului. „Nimeni nu se atinge de Pilonul II”, a declarat șeful Guvernului miercuri dimineață, subliniind că sistemul va […] © G4Media.ro.",
+        "title": "Kaja Kallas acuză SUA că încearcă să împingă Ucraina spre „capitulare în condițiile lui Putin”",
+        "link": "https://www.g4media.ro/kaja-kallas-acuza-sua-ca-incearca-sa-impinga-ucraina-spre-capitulare-in-conditiile-lui-putin.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2023/12/763db198-6289-437a-b2c8-76d827c54dc9-e1702633937721.jpg",
+        "summary": "Șefa diplomației europene, Kaja Kallas, a acuzat marți Statele Unite că încearcă să determine Ucraina să accepte condiții de pace favorabile președintelui rus Vladimir Putin și a susținut că sprijinul acordat de Europa a împiedicat capitularea Kievului. Declarațiile au fost făcute în Parlamentul European, la Strasbourg, pe fondul tensiunilor dintre Bruxelles și Washington și în […] © G4Media.ro.",
         "category": "Általános",
-        "published_at": 1792565723
-      },
+        "published_at": 1792562035
+      }
+    ]
+  },
+  {
+    "group_id": "group_4af824b2ed",
+    "category": "Általános",
+    "articles_count": 8,
+    "articles": [
       {
-        "source": "HotNews.ro",
-        "title": "Luca Niculescu, noi precizări despre Pilonul 2 de pensii",
-        "link": "https://hotnews.ro/luca-niculescu-noi-precizari-despre-pilonul-2-de-pensii-2382142",
-        "image": "",
-        "summary": "Premierul Luca Niculescu a făcut, miercuri dimineaţă, noi precizări în legătură cu Pilonul II de pensii, după ce în prima sa conferinţă de presă de la preluarea mandatului a dat un răspuns care a lăsat loc unor interpretări. „Nimeni nu se atinge de Pilonul 2 de pensii. Sunt aproximativ 12% din PIB acolo, sunt economiile …",
+        "source": "Digi24",
+        "title": "SRI, reacție neobișnuită după declarațiile unui fost premier. Serviciul condamnă „limbajul suburban” al lui Ludovic Orban",
+        "link": "https://www.digi24.ro/stiri/sri-reactie-neobisnuita-dupa-declaratiile-unui-fost-premier-serviciul-condamna-limbajul-suburban-al-lui-ludovic-orban-4001427",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjI3JTJGMjkyODIyMV8yOTI4/MjIxX3NyaS1pbnF1YW0tb2N0YXYtZ2Fu/ZWEuanBnJmhhc2g9Y2M5NWRmNzYyNDQ2YTk1YjhmNjQ4ZDU2MTliMjY1MTI=.jpg",
+        "summary": "Serviciul Român de Informații a venit cu o reacție publică după ce fostul premier Ludovic Orban a lansat mai multe acuzații la adresa Serviciului. Oficialii acuză un „un limbaj suburban” din partea fostului demnitar.",
         "category": "Általános",
-        "published_at": 1792565640
+        "published_at": 1792526331
       },
       {
         "source": "Mediafax",
-        "title": "Luca Niculescu: Nimeni nu se atinge de Pilonul 2 de pensii",
-        "link": "https://www.mediafax.ro/politic/luca-niculescu-nimeni-nu-se-atinge-de-pilonul-2-de-pensii-23829112",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164919-mediafax_foto-alexandru_nechez-1024x683.jpg",
-        "summary": "Premierul Luca Niculescu a declarat miercuri că Pilonul 2 de pensii va rămâne neschimbat, subliniind că activele acestuia reprezintă economiile a milioane de români și aproximativ 20% din PIB-ul României.",
+        "title": "SRI reacționează după declarațiile lui Ludovic Orban",
+        "link": "https://www.mediafax.ro/politic/sri-reactioneaza-dupa-declaratiile-lui-ludovic-orban-23829027",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/7887171-mediafax_foto-alexandru_dobre-scaled-e1752479138713-1024x600.jpg",
+        "summary": "Serviciul Român de Informații a reacționat după ce Ludovic Orban a acuzat, într-o intervenție la TVR 1, că serviciile de informații s-ar fi implicat, în jocurile politice, dar și limbajul suburban la adresa Serviciului și a conducerii acestuia.",
         "category": "Általános",
-        "published_at": 1792564819
+        "published_at": 1792530602
       },
       {
-        "source": "ProTV Stiri",
-        "title": "Premierul Luca Niculescu, mesaj ferm în prima zi de mandat: „Nimeni nu se atinge de Pilonul II de pensii”",
-        "link": "https://stirileprotv.ro/stiri/politic/premierul-luca-niculescu-mesaj-ferm-in-prima-zi-de-mandat-nimeni-nu-se-atinge-de-pilonul-ii-de-pensii.html",
-        "image": "https://stirileprotv.ro/img/2026/10/21/064623/luca-niculescu-id293486-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=3707%2C2471%2C0%2C0&w=1280",
-        "summary": "Premierul Luca Niculescu a făcut, miercuri dimineaţă, precizări în legătură cu Pilonul II de pensii, indicat în anii trecuţi drept posibilă sursă pentru redresarea financiară a României, afirmând că nimeni „nu se atinge de Pilonul II.",
+        "source": "HotNews.ro",
+        "title": "Reacția SRI, după ce Ludovic Orban a acuzat că serviciile sunt implicate în formarea guvernului și a numit „necunoscutul domn ce conduce pe șestache”",
+        "link": "https://hotnews.ro/reactia-sri-dupa-ce-ludovic-orban-a-acuzat-intr-un-interviu-la-tvr-ca-serviciile-secrete-sunt-implicate-in-formarea-noului-guvern-si-ca-e-vina-presedintelui-2382004",
+        "image": "",
+        "summary": "Serviciul Român de Informații (SRI) nu participă la înțelegeri politice și își desfășoară activitatea exclusiv în limitele stabilite de Constituție și de lege, au transmis marți seară reprezentanții instituției, într-un comunicat de presă, ca reacție la declarațiile fostului premier Ludovic Orban. Reacția SRI a venit în urma unui interviu acordat Ludovic Orban la postul public …",
         "category": "Általános",
-        "published_at": 1792565226
+        "published_at": 1792532130
       },
       {
-        "source": "ProTV Stiri",
-        "title": "Unde s-a așezat premierul Luca Niculescu la prima sa ședință de Guvern. „Nimeni nu se atinge de Pilonul 2 de pensii”",
-        "link": "https://stirileprotv.ro/stiri/politic/unde-s-a-asezat-premierul-luca-niculescu-la-prima-sa-sedinta-de-guvern-a-fost-o-intrunire-scurta.html",
-        "image": "https://stirileprotv.ro/img/2026/10/21/152539/luca-niculescu-agerpres-19748046.jpeg?fm=jpg&q=80&fit=crop&crop=5055%2C3528%2C0%2C0&w=1280",
-        "summary": "Prima ședință de lucru a Guvernului condus de Luca Niculescu a fost una de tatonare, în care s-au stabilit urgențele, cum ar fi rectificarea bugetară și pregătirea pentru iarnă, fără să fie luată vreo decizie.",
+        "source": "HotNews.ro",
+        "title": "SRI, chemat să dea explicații după ce l-a criticat pe Ludovic Orban: „Mai există o problemă”",
+        "link": "https://hotnews.ro/sri-chemat-sa-dea-explicatii-dupa-ce-l-a-criticat-pe-ludovic-orban-mai-exista-o-problema-2382140",
+        "image": "",
+        "summary": "Deputatul Alexandru Muraru, vicepreședinte PNL și fost membru al Comisiei parlamentare pentru controlul activității SRI, afirmă că Serviciul Român de Informații trebuie să ofere explicații după ce acesta a denunțat drept „regretabile” și „nefondate” afirmații făcute de fostul premier și consilier prezidențial Ludovic Orban la televiziunea publică. „Reacția publică a SRI la declarațiile fostului premier …",
         "category": "Politika",
-        "published_at": 1792599129
+        "published_at": 1792567972
       },
       {
-        "source": "Adevărul",
-        "title": "„Nimeni nu se atinge de Pilonul II de pensii”. Ce se află în spatele asigurărilor date de premier",
-        "link": "https://adevarul.ro/economie/nimeni-nu-se-atinge-de-pilonul-ii-de-pensii-ce-2565509.html",
-        "image": "https://cdn.adh.reperio.news/image-7/74d09ce0-9d0b-4041-86ef-76fc4ebf0f37/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Premierul Luca Niculescu a dat asigurări că Pilonul II de pensii private va rămâne neschimbat, după ce primele sale declarații pe această temă au lăsat loc de interpretări. Mesajul vine pe fondul unor controverse mai vechi.",
+        "source": "ProTV Stiri",
+        "title": "Reacții politice după comentariul SRI la adresa lui Ludovic Orban: „Ar trebui să aprindă toate semnalele de alarmă posibile”",
+        "link": "https://stirileprotv.ro/stiri/politic/reactii-politice-dupa-mesajul-publicat-de-sri-la-adresa-lui-ludovic-orban.html",
+        "image": "https://stirileprotv.ro/img/2026/07/03/080419/sri-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=3926%2C2617%2C0%2C0&w=1280",
+        "summary": "Reacția Serviciului Român de Informații (SRI) la adresa fostului premier Ludovic Orban, publicată pe Facebook, a provocat reacții aprinse din partea unor politicieni din opoziție.",
         "category": "Általános",
-        "published_at": 1792606510
-      }
-    ]
-  },
-  {
-    "group_id": "group_1002026c8b",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
+        "published_at": 1792570860
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Ludovic Orban susține că serviciile ar garanta înțelegeri între Nicușor Dan și PSD. SRI denunță un „limbaj suburban” și este acuzat de intimidare (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/ludovic-orban-sustine-ca-serviciile-ar-garanta-intelegeri-intre-nicusor-dan-si-psd-sri-denunta-un-limbaj-suburban-si-este-acuzat-de-intimidare-205998.html",
+        "image": "",
+        "summary": "Serviciul Român de Informații a avut o ieșire publică surprinzătoare, răspunzându-i fostului premier Ludovic Orban după ce acesta a susținut că, „probabil”, serviciile i-ar fi garantat președintelui Nicușor Dan respectarea unor înțelegeri cu PSD, de la care ar urmări să obțină sprijin pentru un nou mandat. SRI a respins acuzațiile drept nefondate și a denunțat un „limbaj suburban” la adresa instituției și a conducerii sale. Replica a fost ulterior criticată de Cătălin Drulă și Alexandru Muraru, care au acuzat Serviciul de intimidarea unui politician, respectiv de implicarea într-o dispută politică ce riscă să-i afecteze neutralitatea.",
+        "category": "Erdély",
+        "published_at": 1792579200
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Politolog, despre mesajul „șocant” al SRI la adresa lui Orban: „Probabil că aburii șampaniei i-au pus să scrie un comunicat”",
+        "link": "https://stirileprotv.ro/stiri/politic/politolog-despre-mesajul-straniu-al-sri-la-adresa-lui-orban-probabil-ca-aburii-sampaniei-i-au-pus-sa-scrie-un-comunicat.html",
+        "image": "https://stirileprotv.ro/img/2026/10/21/124240/ludovic-orban-sri-facebook.jpg?fm=jpg&q=80&fit=crop&crop=3264%2C1836%2C0%2C0&w=1280",
+        "summary": "Mesajul SRI despre Ludovic Orban, publicat pe Facebook seara târziu, l-a surprins pe politologul Cristian Preda, care spune că serviciul ar trebui condus de un civil și supus unui control parlamentar real.",
+        "category": "Általános",
+        "published_at": 1792587546
+      },
       {
         "source": "HotNews.ro",
-        "title": "Miliardele „uitate” ale Elveției. Și românul care figurează pe lista banilor ne-revendicați",
-        "link": "https://hotnews.ro/miliardele-uitate-ale-elvetiei-si-romanul-care-figureaza-pe-lista-banilor-ne-revendicati-2381890",
+        "title": "Doi parlamentari din Comisia pentru controlul SRI reacționează după postarea unde Serviciul a folosit termenul „pe șestache”, utilizat inițial de Ludovic Orban",
+        "link": "https://hotnews.ro/doi-parlamentari-din-comisia-pentru-controlul-sri-reactioneaza-dupa-postarea-unde-serviciul-a-folosit-termenul-pe-sestache-utilizat-initial-de-ludovic-orban-2382852",
         "image": "",
-        "summary": "Timp de decenii, secretul bancar elvețian a fost un zid impenetrabil. În spatele acestui zid, însă, nu se aflau doar fondurile marilor investitori, ci și miliarde de euro, dolari și franci elvețieni care au fost uitați de-a lungul timpului. Acestea sunt așa-numitele „conturi latente”, ai căror proprietari fie au murit fără să-și informeze rudele, fie …",
+        "summary": "HotNews a solicitat mai multor membri ai comisiei parlamentare de control a SRI o poziție cu privire la polemica publică dintre Ludovic Orban și SRI. De 24 de ore, o polemică mai puțin obișnuită a apărut în spațiul public. Între un politician și un serviciu secret. Cum a început: Ludovic Orban a atacat SRI Ludovic …",
         "category": "Általános",
-        "published_at": 1792524688
-      }
-    ]
-  },
-  {
-    "group_id": "group_ffc5a31185",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un reputat politolog numește „dubla provocare” cu care se confruntă guvernul Luca Niculescu",
-        "link": "https://hotnews.ro/cristian-pirvulescu-reactie-dupa-investirea-guvernului-luca-niculescu-2381894",
-        "image": "",
-        "summary": "Profesorul de științe politice şi politologul Cristian Pîrvulescu consideră că noul guvern condus de Luca Niculescu poate beneficia de o perioadă de stabilitate politică, însă acest lucru nu înseamnă neapărat că Executivul va reuşi să adopte reformele de care România are nevoie. În opinia politologului, multe dintre deciziile dificile ar putea fi amânate până după …",
-        "category": "Általános",
-        "published_at": 1792524563
-      }
-    ]
-  },
-  {
-    "group_id": "group_a65258548e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "Bulgaria nu vrea să participe la noul pachet de asistență pentru Ucraina. „Încheierea războiului nu va fi obținută prin mijloace militare”",
-        "link": "https://hotnews.ro/bulgaria-nu-vrea-sa-participe-la-noul-pachet-de-asistenta-pentru-ucraina-incheierea-razboiului-nu-va-fi-obtinuta-prin-mijloace-militare-2381799",
-        "image": "",
-        "summary": "Bulgaria nu va mai participa la un nou pachet de asistenţă financiară al Uniunii Europene pentru Ucraina, solicitat de preşedintele ucrainean Volodimir Zelenski, a declarat marţi premierul Rumen Radev, relatează DPA, preluată de Agerpres. La summitul Consiliului European de la Bruxelles, preşedintele Zelenski a cerut 70 de miliarde de euro în plus de la blocul …",
-        "category": "Általános",
-        "published_at": 1792524056
-      }
-    ]
-  },
-  {
-    "group_id": "group_9e1b06fb29",
-    "category": "Általános",
-    "articles_count": 7,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Măsuri după atacul cu cuțitul la o școală din Bistrița: Ordine de protecție pentru profesoara înjunghiată și șase elevi",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/masuri-dupa-atacul-cu-cutitul-la-o-scoala-din-2565364.html",
-        "image": "https://cdn.adh.reperio.news/image-a/aa0d30f0-feda-4590-9ea8-c6e31116ce2a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Poliţiştii au emis, în cursul serii de marţi, şapte ordine de protecţie provizorii pentru şase elevi de la Şcoala gimnazială „Ştefan cel Mare\" din Bistriţa şi pentru profesoara de 28 de ani atacată cu cuţitul de minorul de 13 ani, iar acestuia din urmă i-a fost montată brăţară de monitorizare.",
-        "category": "Általános",
-        "published_at": 1792524127
-      },
-      {
-        "source": "Digi24",
-        "title": "Atacul cu cuțitul de la Bistrița: șase elevi și o profesoară au primit ordine de protecție. Poliția a deschis un nou dosar penal",
-        "link": "https://www.digi24.ro/stiri/actualitate/atacul-cu-cutitul-de-la-bistrita-sase-elevi-si-o-profesoara-au-primit-ordine-de-protectie-politia-a-deschis-un-nou-dosar-penal-4001689",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyMzU1OV8zMDIz/NTU5X2FEMDFaamsxWmpsaVpqRXdaV0Zo/WTJNNFpURmlPV00wTURsaE5HWTJNREk0/TWdfdGh1bWJfLmpwZyZoYXNoPTRhNWJh/YTJiMjU3MzY2NzBiYTIxMTQwYWMyOGY2MGI5.jpg",
-        "summary": "Șase elevi și o profesoară de la Școala „Ștefan cel Mare” din Bistrița au primit ordine de protecție provizorii, după atacul cu un cuțit al unui băiat de 13 ani. Măsura a fost luată la cererea părinților, deoarece copiii revin miercuri la cursuri, după o zi de școală online. Polițiștii au deschis un al doilea dosar penal, motivul anchetei fiind apariția în spațiul public a imaginilor înregistrate de camerele de supraveghere, fără ca identitatea copiilor să fie protejată.",
-        "category": "Általános",
-        "published_at": 1792561249
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac la școala din Bistrița: Profesoara și șase elevi au ordine de protecție provizorii",
-        "link": "https://www.mediafax.ro/social/atac-la-scoala-din-bistrita-profesoara-si-sase-elevi-au-ordine-de-protectie-provizorii-23829124",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/politie-scoala-bistrita-1024x768.jpeg",
-        "summary": "Polițiștii din Bistrița au emis ordine de protecție provizorii extinse, cu monitorizare electronică, pentru profesoara, victima unui atac cu un cuțit la o școală din oraș. Asemenea ordine au fost emise și pentru șase elevi.",
-        "category": "Általános",
-        "published_at": 1792566382
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bistrița-Năsăud: Consilierii școlari, solicitați de câțiva copii de la școala unde s-a produs atacul cu cuțitul",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/10/21/bistrita-nasaud-consilierii-scolari-solicitati-de-cativa-copii-de-la-scoala-unde-s-a-produs-atacul-c--1605460",
-        "image": "",
-        "summary": "",
-        "category": "Általános",
-        "published_at": 1792540800
-      },
-      {
-        "source": "Digi24",
-        "title": "Ministrul Educației vrea pedepse mai dure pentru atacurile contra profesorilor. Primele măsuri după incidentul din Bistrița",
-        "link": "https://www.digi24.ro/stiri/actualitate/ministrul-educatiei-vrea-pedepse-mai-dure-pentru-atacurile-contra-profesorilor-primele-masuri-dupa-incidentul-din-bistrita-4003209",
-        "image": "",
-        "summary": "Sorin Costreie a declarat, miercuri seară la Digi24, că va propune înăsprirea legislației pentru agresiunile comise asupra profesorilor și dublarea pedepselor pentru astfel de fapte, după atacul cu cuțitul de la o școală din Bistrița, în urma căruia o profesoară și un elev au fost răniți. Ministrul Educației a adăugat că prevenția trebuie să devină o prioritate și că autoritățile analizează inclusiv posibilitatea verificării ghiozdanelor la intrarea în școli și instalarea unor detectoare de metale",
-        "category": "Általános",
-        "published_at": 1792606551
-      },
-      {
-        "source": "Digi24",
-        "title": "Ministrul Educației vrea pedepse mai dure pentru atacurile contra profesorilor. Primele măsuri după incidentul din Bistrița",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/ministrul-educatiei-vrea-pedepse-mai-dure-pentru-atacurile-contra-profesorilor-primele-masuri-dupa-incidentul-din-bistrita-4003209",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDc1MF8zMDE0/NzUwX0lEMjE4NjA4X0lOUVVBTV9QaG90/b3NfR2VvcmdlX0NhbGluLXNjYWxlZC0x/LmpwZyZoYXNoPTM1ZmVhZDFkNjdhYTY0MDMwMDBiMjc5OTQ0MDY1Mjcx.jpg",
-        "summary": "Sorin Costreie a declarat, miercuri seară la Digi24, că va propune înăsprirea legislației pentru agresiunile comise asupra profesorilor și dublarea pedepselor pentru astfel de fapte, după atacul cu cuțitul de la o școală din Bistrița, în urma căruia o profesoară și un elev au fost răniți. Ministrul Educației a adăugat că prevenția trebuie să devină o prioritate și că autoritățile analizează inclusiv posibilitatea verificării ghiozdanelor la intrarea în școli și instalarea unor detectoare de metale",
-        "category": "Általános",
-        "published_at": 1792609711
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Ne gândim la controale în ghiozdane”. Ministrul Educației propune măsuri dure în școli, după atacul din Bistrița",
-        "link": "https://www.mediafax.ro/politic/ne-gandim-la-controale-in-ghiozdane-ministrul-educatiei-propune-masuri-dure-in-scoli-dupa-atacul-din-bistrita-23829569",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/7526072-mediafax_foto-alexandru_dobre-1024x683.jpg",
-        "summary": "Sorin Costreie, noul ministru al Educației, propune o abordare mai strictă în școlile din România, pentru a preveni violențele în școli. Întru-un interviu la Digi24, noul ministru a propus controale în ghiozdane la intrarea elevilor în școală.",
-        "category": "Általános",
-        "published_at": 1792607870
-      }
-    ]
-  },
-  {
-    "group_id": "group_87ac7d59b4",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Mobilizare fără precedent în Franța: Militarii, scoși pe străzi pentru protestele de sâmbătă",
-        "link": "https://adevarul.ro/stiri-externe/europa/mobilizare-fara-precedent-in-franta-militarii-2565356.html",
-        "image": "https://cdn.adh.reperio.news/image-b/b8fcf5d9-f44e-4670-98bd-9efd5a3631f0/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Ministrul francez de Interne, Laurent Nunez, a anunțat mobilizarea unor militari și măsuri sporite de securitate pentru protestele de sâmbătă, după ce manifestațiile din weekendul trecut au degenerat în violențe.",
-        "category": "Általános",
-        "published_at": 1792523965
-      },
-      {
-        "source": "G4Media",
-        "title": "Franța pregătește o operațiune de securitate „masivă” pentru protestele de sâmbătă / Militari vor sprijini forțele de ordine",
-        "link": "https://www.g4media.ro/franta-pregateste-o-operatiune-de-securitate-masiva-pentru-protestele-de-sambata-militari-vor-sprijini-fortele-de-ordine.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/profimedia-1144923104-scaled.jpg",
-        "summary": "Franța pregătește o operațiune de securitate de amploare pentru protestele programate sâmbătă, după ce manifestațiile din weekendul trecut, organizate pe fondul nemulțumirilor legate de costul vieții, au degenerat în violențe în mai multe zone ale țării. Planul prevede inclusiv mobilizarea unor militari, care vor prelua anumite sarcini de pază pentru a permite polițiștilor și jandarmilor […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792561620
-      },
-      {
-        "source": "G4Media",
-        "title": "Franța pregătește o operațiune de securitate „masivă” pentru protestele de sâmbătă / Vor fi mobilizați și militari",
-        "link": "https://www.g4media.ro/franta-pregateste-o-operatiune-de-securitate-masiva-pentru-protestele-de-sambata-vor-fi-mobilizati-si-militari.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2023/07/33LY9A2-highres-e1688239178236.jpg",
-        "summary": "Ministrul francez de Interne, Laurent Nunez, a anunțat mobilizarea unor militari și măsuri sporite de securitate pentru protestele de sâmbătă, după ce manifestațiile din weekendul trecut au degenerat în violențe, scrie Mediafax. Franța va desfășura o operațiune de securitate „masivă” pentru protestele așteptate sâmbătă, după ce manifestațiile legate de costul vieții s-au transformat în violențe […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792561634
-      },
-      {
-        "source": "Digi24",
-        "title": "Franța mobilizează armata după jafurile și incendierile din marile orașe. Guvernul recunoaște eșecuri în gestionarea violențelor",
-        "link": "https://www.digi24.ro/stiri/externe/ue/franta-mobilizeaza-armata-dupa-jafurile-si-incendierile-din-marile-orase-guvernul-recunoaste-esecuri-in-gestionarea-violentelor-4001847",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI5JTJGMjk4MjM0MV8yOTgy/MzQxX3Byb2ZpbWVkaWEtMTEzOTExMDg0/OC5qcGcmaGFzaD1lNmFkOGNjNzk5OWMzYzkwYmRiODBiODQ3ZWM1ODIyZQ==.jpg",
-        "summary": "Franța va mobiliza trupe militare alături de poliție și va desfășura forțe masive de securitate înaintea noilor proteste anunțate pentru sâmbătă. Premierul Sebastien Lecornu a recunoscut deficiențe în gestionarea revoltelor din weekend, care au provocat jafuri și distrugeri în mai multe orașe, anunță Reuters.",
-        "category": "Általános",
-        "published_at": 1792567436
+        "published_at": 1792599722
       }
     ]
   },
   {
     "group_id": "group_1e0a7f8e5d",
     "category": "Politika",
-    "articles_count": 19,
+    "articles_count": 18,
     "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Traian Băsescu: Nicușor Dan și-a „securizat scaunul” de președinte prin noul Guvern | Ce spune despre rolul lui Neacșu în Executivul Niculescu",
-        "link": "https://www.mediafax.ro/politic/traian-basescu-nicusor-dan-si-a-securizat-scaunul-de-presedinte-prin-noul-guvern-ce-spune-despre-rolul-lui-neacsu-in-executivul-niculescu-23829007",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/06/8131701-mediafax_foto-emanuel_titus_iliesi-scaled-e1786371973524-1024x606.jpg",
-        "summary": "Fostul președinte al României, Traian Băsescu, a declarat marți seară că șeful statului, Nicușor Dan, și-a asigurat poziția de președinte prin formarea Guvernului Niculescu.",
-        "category": "Politika",
-        "published_at": 1792524506
-      },
       {
         "source": "G4Media",
         "title": "VIDEO Traian Băsescu despre Guvernul Niculescu: ”Neacșu va fi șeful real al miniștrilor” / ”Cu 22% în ultimele alegeri PSD domină total puterea în România”",
@@ -907,240 +465,6 @@
         "summary": "Fostul președinte Traian Băsescu a criticat PSD, dar consideră că șansele Guvernului Luca Niculescu țin, în primul rând, de conținutul înțelegerilor făcute de premier cu PNL și UDMR. Întrebat, miercuri, la B1 TV, ce șanse îi dă lui Luca Niculescu la conducerea unui guvern din care face parte PSD, fostul șef al statului a explicat: …",
         "category": "Politika",
         "published_at": 1792594776
-      }
-    ]
-  },
-  {
-    "group_id": "group_0625c19a6d",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Bursele de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin",
-        "link": "https://www.mediafax.ro/economic/bursele-de-criptomonede-parasesc-rusia-dupa-restrictiile-impuse-de-kremlin-23829004",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/pexels-rdne-8370752-1024x683.jpg",
-        "summary": "Marile burse de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin. Recent, cea mai mare țară din lume a decis să interzică tranzacțiile cu criptomonede între persoanele fizice.",
-        "category": "Általános",
-        "published_at": 1792524051
-      },
-      {
-        "source": "G4Media",
-        "title": "Bursele de criptomonede nu vor mai opera în Rusia după ce Kremlinul a interzis tranzacțiile între persoanele fizice",
-        "link": "https://www.g4media.ro/bursele-de-criptomonede-nu-vor-mai-opera-in-rusia-dupa-ce-kremlinul-a-interzis-tranzactiile-intre-persoanele-fizice.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2023/04/binance-criptomonede.jpg",
-        "summary": "Marile burse de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin. Recent, cea mai mare țară din lume a decis să interzică tranzacțiile cu criptomonede între persoanele fizice, scrie Mediafax. Compania MEXC a anunțat că va înceta să mai ofere servicii utilizatorilor din Rusia și Belarus. Bursa de criptomonede a explicat că decizia a fost […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792563891
-      },
-      {
-        "source": "Go4IT",
-        "title": "Serviciile majore de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin",
-        "link": "https://www.go4it.ro/content/fintech/serviciile-majore-de-criptomonede-parasesc-rusia-dupa-restrictiile-impuse-de-kremlin-19288319/",
-        "image": "https://www.go4it.ro/wp-content/uploads/2023/06/rusia-business_prf.jpg",
-        "summary": "Exodul marilor burse de criptomonede din Rusia s-a declanșat drept o reacție directă la noile restricții legislative impuse de Kremlin. Într-o mișcare radicală menită să centralizeze controlul financiar, autoritățile ruse au decis să scoată în […] Articolul Serviciile majore de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin apare prima dată în Go4IT.",
-        "category": "Általános",
-        "published_at": 1792567828
-      }
-    ]
-  },
-  {
-    "group_id": "group_cf2b26dcb3",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Désiré Doué góljával vezet a PSG a Barcelona ellen",
-        "link": "https://www.mediatica.ro/hirek/sport/desire-doue-goljaval-vezet-a-psg-a-barcelona-ellen",
-        "image": "",
-        "summary": "Nagy iramú a mérkőzés, a katalán csapat egyelőre pontatlanabb.",
-        "category": "Sport",
-        "published_at": 1792526173
-      }
-    ]
-  },
-  {
-    "group_id": "group_73f4deaa94",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediatica.ro",
-        "title": "A Locarnói Arany Leopárd-díjas film is látható lesz az Alter-Native fesztiválon",
-        "link": "https://www.mediatica.ro/hirek/kultura/a-locarnoi-arany-leopard-dijas-film-is-lathato-lesz-az-alter-native-fesztivalon",
-        "image": "",
-        "summary": "Marosvásárhelyen Florin Șerban You Don't Belong Here című alkotásának előzetes bemutatója lesz a 34. Nemzetközi Rövidfilmfesztivál egyik fő attrakciója.",
-        "category": "Általános",
-        "published_at": 1792524941
-      }
-    ]
-  },
-  {
-    "group_id": "group_36d6d81d03",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Scufundați de căpitan » Van Dijk a comis-o în Liverpool - Villarreal",
-        "link": "https://www.gsp.ro/international/liga-campionilor/liverpool-villarreal-van-dijk-gafa-liga-campionilor-990417.html",
-        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/78278e07-b25e-4a7c-9656-9a2d5ad4d09a.jpg?width=290&height=208",
-        "summary": "Virgil van Dijk (35 de ani) a comis o mare greșeală în meciul de Liga Campionilor dintre Liverpool și Villarreal (2-2 la pauză), oferindu-i un „assist” involuntar lui Georges Mikautadze la deschiderea scorului. De numai 4 minute a avut nevoie „Submarinul galben” pentru a împietri publicul de pe Anfield. O gafă a căpitanului Virgil van Dijk i-a pus georgianului Mikautadze pe tavă al doilea său gol în acest sezon al Ligii Campionilor. ...",
-        "category": "Sport",
-        "published_at": 1792525280
-      }
-    ]
-  },
-  {
-    "group_id": "group_a14bbbd9fc",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Scenografie sângeroasă la PSG - Barcelona: „Masacru în stil parizian”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/scenografie-sangeroasa-la-psg-barcelona-masacru-la-paris-990409.html",
-        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/20102026/416e0c53-570a-4537-94a5-3f7f81890be4.jpg?width=290&height=208",
-        "summary": "Paris Saint-Germain și Barcelona s-au întâlnit marți seara în cel mai așteptat meci al serii din Liga Campionilor, iar atmosfera de pe „Parc des Princes” a fost incendiară încă înainte de fluierul de start. ...",
-        "category": "Sport",
-        "published_at": 1792524716
-      }
-    ]
-  },
-  {
-    "group_id": "group_5451be4331",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "Câți lei a plătit Gabriela Cristea, ca să-și pună murături pentru iarnă: ”E mult?!”",
-        "link": "https://www.cancan.ro/cati-lei-a-platit-gabriela-cristea-ca-sa-si-puna-muraturi-pentru-iarna-e-mult-21533590",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/gabriela-cristea.jpg-1-1200x675.jpeg",
-        "summary": "Gabriela Cristea a început pregătirile pentru sezonul rece, păstrând tradiția de a-și umple cămara cu bunătăți făcute în casă. Vedeta a ieșit la cumpărături împreună cu partenerul său, Tavi Clonda, de unde au ales legumele pe care le vor transforma în murături pentru iarnă. Vedeta a împărtășit cu urmăritorii săi imagini de la piață, dezvăluind […]",
-        "category": "Bulvár",
-        "published_at": 1792526361
-      }
-    ]
-  },
-  {
-    "group_id": "group_18e2e0ee99",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "El este Petru Iacob, inginerul silvic care a murit după ce o creangă i-a căzut în cap. Avea 46 de ani",
-        "link": "https://www.cancan.ro/el-este-petru-iacob-inginerul-silvic-care-a-murit-dupa-ce-o-creanga-i-a-cazut-in-cap-avea-46-de-ani-21533642",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Petru-Iacob-1200x675.jpeg",
-        "summary": "Sfârșit tragic pentru un bărbat în vârstă de 46 de ani din Botoșani. Petru Iacob lucra ca inginer silvic, fiind șeful Districtului Silvic Bucecea din cadrul Ocolului Silvic Botoșani. Acesta și-a dat ultima suflare în timp ce lua parte la o lucrare de toaletare a arborilor. Se pare că o creangă căzută din copac și […]",
-        "category": "Bulvár",
-        "published_at": 1792526093
-      }
-    ]
-  },
-  {
-    "group_id": "group_aa74d9070d",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Digi24",
-        "title": "Șefa diplomației europene, Kaja Kallas, acuză SUA că presează Ucraina să „se predea în condițiile impuse de Putin”",
-        "link": "https://www.digi24.ro/stiri/externe/sefa-diplomatiei-europene-kaja-kallas-acuza-sua-ca-preseaza-ucraina-sa-se-predea-in-conditiile-impuse-de-putin-4001431",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjEyJTJGMjUzODgyNF8yNTM4/ODI0X3Bob3RvLWNvbGxhZ2VfcG5nLTQz/LnBuZyZoYXNoPTkyNjMzMTcxZjUzMjkyZWIxMGQ4M2I1YzFmNzAxNmEx.png",
-        "summary": "Înaltul Reprezentant pentru politică externă a UE, Kaja Kallas, a acuzat în termeni duri Statele Unite că exercită presiuni asupra Ucrainei pentru a capitula în condiții favorabile exclusiv președintelui rus Vladimir Putin, chiar în momentul în care se desfășura o nouă rundă de negocieri de pace la Oslo, în Norvegia, scrie Euronews.",
-        "category": "Általános",
-        "published_at": 1792525917
-      },
-      {
-        "source": "G4Media",
-        "title": "Kaja Kallas acuză SUA că încearcă să împingă Ucraina spre „capitulare în condițiile lui Putin”",
-        "link": "https://www.g4media.ro/kaja-kallas-acuza-sua-ca-incearca-sa-impinga-ucraina-spre-capitulare-in-conditiile-lui-putin.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2023/12/763db198-6289-437a-b2c8-76d827c54dc9-e1702633937721.jpg",
-        "summary": "Șefa diplomației europene, Kaja Kallas, a acuzat marți Statele Unite că încearcă să determine Ucraina să accepte condiții de pace favorabile președintelui rus Vladimir Putin și a susținut că sprijinul acordat de Europa a împiedicat capitularea Kievului. Declarațiile au fost făcute în Parlamentul European, la Strasbourg, pe fondul tensiunilor dintre Bruxelles și Washington și în […] © G4Media.ro.",
-        "category": "Általános",
-        "published_at": 1792562035
-      }
-    ]
-  },
-  {
-    "group_id": "group_4af824b2ed",
-    "category": "Általános",
-    "articles_count": 8,
-    "articles": [
-      {
-        "source": "Digi24",
-        "title": "SRI, reacție neobișnuită după declarațiile unui fost premier. Serviciul condamnă „limbajul suburban” al lui Ludovic Orban",
-        "link": "https://www.digi24.ro/stiri/sri-reactie-neobisnuita-dupa-declaratiile-unui-fost-premier-serviciul-condamna-limbajul-suburban-al-lui-ludovic-orban-4001427",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjI3JTJGMjkyODIyMV8yOTI4/MjIxX3NyaS1pbnF1YW0tb2N0YXYtZ2Fu/ZWEuanBnJmhhc2g9Y2M5NWRmNzYyNDQ2YTk1YjhmNjQ4ZDU2MTliMjY1MTI=.jpg",
-        "summary": "Serviciul Român de Informații a venit cu o reacție publică după ce fostul premier Ludovic Orban a lansat mai multe acuzații la adresa Serviciului. Oficialii acuză un „un limbaj suburban” din partea fostului demnitar.",
-        "category": "Általános",
-        "published_at": 1792526331
-      },
-      {
-        "source": "Mediafax",
-        "title": "SRI reacționează după declarațiile lui Ludovic Orban",
-        "link": "https://www.mediafax.ro/politic/sri-reactioneaza-dupa-declaratiile-lui-ludovic-orban-23829027",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/7887171-mediafax_foto-alexandru_dobre-scaled-e1752479138713-1024x600.jpg",
-        "summary": "Serviciul Român de Informații a reacționat după ce Ludovic Orban a acuzat, într-o intervenție la TVR 1, că serviciile de informații s-ar fi implicat, în jocurile politice, dar și limbajul suburban la adresa Serviciului și a conducerii acestuia.",
-        "category": "Általános",
-        "published_at": 1792530602
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Reacția SRI, după ce Ludovic Orban a acuzat că serviciile sunt implicate în formarea guvernului și a numit „necunoscutul domn ce conduce pe șestache”",
-        "link": "https://hotnews.ro/reactia-sri-dupa-ce-ludovic-orban-a-acuzat-intr-un-interviu-la-tvr-ca-serviciile-secrete-sunt-implicate-in-formarea-noului-guvern-si-ca-e-vina-presedintelui-2382004",
-        "image": "",
-        "summary": "Serviciul Român de Informații (SRI) nu participă la înțelegeri politice și își desfășoară activitatea exclusiv în limitele stabilite de Constituție și de lege, au transmis marți seară reprezentanții instituției, într-un comunicat de presă, ca reacție la declarațiile fostului premier Ludovic Orban. Reacția SRI a venit în urma unui interviu acordat Ludovic Orban la postul public …",
-        "category": "Általános",
-        "published_at": 1792532130
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "SRI, chemat să dea explicații după ce l-a criticat pe Ludovic Orban: „Mai există o problemă”",
-        "link": "https://hotnews.ro/sri-chemat-sa-dea-explicatii-dupa-ce-l-a-criticat-pe-ludovic-orban-mai-exista-o-problema-2382140",
-        "image": "",
-        "summary": "Deputatul Alexandru Muraru, vicepreședinte PNL și fost membru al Comisiei parlamentare pentru controlul activității SRI, afirmă că Serviciul Român de Informații trebuie să ofere explicații după ce acesta a denunțat drept „regretabile” și „nefondate” afirmații făcute de fostul premier și consilier prezidențial Ludovic Orban la televiziunea publică. „Reacția publică a SRI la declarațiile fostului premier …",
-        "category": "Politika",
-        "published_at": 1792567972
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Reacții politice după comentariul SRI la adresa lui Ludovic Orban: „Ar trebui să aprindă toate semnalele de alarmă posibile”",
-        "link": "https://stirileprotv.ro/stiri/politic/reactii-politice-dupa-mesajul-publicat-de-sri-la-adresa-lui-ludovic-orban.html",
-        "image": "https://stirileprotv.ro/img/2026/07/03/080419/sri-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=3926%2C2617%2C0%2C0&w=1280",
-        "summary": "Reacția Serviciului Român de Informații (SRI) la adresa fostului premier Ludovic Orban, publicată pe Facebook, a provocat reacții aprinse din partea unor politicieni din opoziție.",
-        "category": "Általános",
-        "published_at": 1792570860
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Ludovic Orban susține că serviciile ar garanta înțelegeri între Nicușor Dan și PSD. SRI denunță un „limbaj suburban” și este acuzat de intimidare (VIDEO)",
-        "link": "https://www.ebihoreanul.ro/stiri/ludovic-orban-sustine-ca-serviciile-ar-garanta-intelegeri-intre-nicusor-dan-si-psd-sri-denunta-un-limbaj-suburban-si-este-acuzat-de-intimidare-205998.html",
-        "image": "",
-        "summary": "Serviciul Român de Informații a avut o ieșire publică surprinzătoare, răspunzându-i fostului premier Ludovic Orban după ce acesta a susținut că, „probabil”, serviciile i-ar fi garantat președintelui Nicușor Dan respectarea unor înțelegeri cu PSD, de la care ar urmări să obțină sprijin pentru un nou mandat. SRI a respins acuzațiile drept nefondate și a denunțat un „limbaj suburban” la adresa instituției și a conducerii sale. Replica a fost ulterior criticată de Cătălin Drulă și Alexandru Muraru, care au acuzat Serviciul de intimidarea unui politician, respectiv de implicarea într-o dispută politică ce riscă să-i afecteze neutralitatea.",
-        "category": "Erdély",
-        "published_at": 1792579200
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Politolog, despre mesajul „șocant” al SRI la adresa lui Orban: „Probabil că aburii șampaniei i-au pus să scrie un comunicat”",
-        "link": "https://stirileprotv.ro/stiri/politic/politolog-despre-mesajul-straniu-al-sri-la-adresa-lui-orban-probabil-ca-aburii-sampaniei-i-au-pus-sa-scrie-un-comunicat.html",
-        "image": "https://stirileprotv.ro/img/2026/10/21/124240/ludovic-orban-sri-facebook.jpg?fm=jpg&q=80&fit=crop&crop=3264%2C1836%2C0%2C0&w=1280",
-        "summary": "Mesajul SRI despre Ludovic Orban, publicat pe Facebook seara târziu, l-a surprins pe politologul Cristian Preda, care spune că serviciul ar trebui condus de un civil și supus unui control parlamentar real.",
-        "category": "Általános",
-        "published_at": 1792587546
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Doi parlamentari din Comisia pentru controlul SRI reacționează după postarea unde Serviciul a folosit termenul „pe șestache”, utilizat inițial de Ludovic Orban",
-        "link": "https://hotnews.ro/doi-parlamentari-din-comisia-pentru-controlul-sri-reactioneaza-dupa-postarea-unde-serviciul-a-folosit-termenul-pe-sestache-utilizat-initial-de-ludovic-orban-2382852",
-        "image": "",
-        "summary": "HotNews a solicitat mai multor membri ai comisiei parlamentare de control a SRI o poziție cu privire la polemica publică dintre Ludovic Orban și SRI. De 24 de ore, o polemică mai puțin obișnuită a apărut în spațiul public. Între un politician și un serviciu secret. Cum a început: Ludovic Orban a atacat SRI Ludovic …",
-        "category": "Általános",
-        "published_at": 1792599722
       }
     ]
   },
@@ -1340,40 +664,6 @@
         "summary": "Romániának a puszta diplomáciai jelenlétről a konkrét projektekre és eredményekre épülő külpolitikára kell áttérnie – közölte szerdán a Facebook-oldalán Luca Niculescu.",
         "category": "Általános",
         "published_at": 1792601640
-      }
-    ]
-  },
-  {
-    "group_id": "group_e63326a7ea",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Horoscop 21 octombrie 2026. Trei zodii atrag norocul financiar și se remarcă la serviciu",
-        "link": "https://www.mediafax.ro/horoscop/horoscop-21-octombrie-2026-trei-zodii-atrag-norocul-financiar-si-se-remarca-la-serviciu-23828992",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/02/8415601-1024x683.jpg",
-        "summary": "Ziua de miercuri, 21 octombrie, vine cu oportunități profesionale, perspective financiare favorabile și posibilitatea unor schimbări importante pentru mai multe zodii. Fecioarele pot avea parte de câștiguri din mai multe surse, Scorpionii își pot îmbunătăți situația financiară, iar Taurii sunt încurajați să profite de oportunitățile de angajare. În schimb, Săgetătorii trebuie să fie atenți la cheltuieli, iar Racii ar trebui să evite deciziile financiare pripite.",
-        "category": "Általános",
-        "published_at": 1792524651
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Horoscop carieră azi, 21 octombrie 2026. Norocul bate la ușa unor zodii! Se anunță câștiguri, negocieri reușite și proiecte noi",
-        "link": "https://www.cancan.ro/horoscop-cariera-azi-21-octombrie-2026-norocul-bate-la-usa-unor-zodii-se-anunta-castiguri-negocieri-reusite-si-proiecte-noi-21533652",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/09/man-gesturing-amidst-network-of-light-2026-03-26-05-40-18-utc-1200x791.jpg",
-        "summary": "Horoscopul carierei pentru 21 octombrie, aduce vești importante pentru cele 12 zodii, într-o zi în care oportunitățile profesionale, negocierile și perspectivele financiare se află în centrul atenției. În timp ce unii nativi au șansa să își dezvolte afacerile, să obțină rezultate peste așteptări sau să descopere noi surse de venit, alții sunt sfătuiți să nu […]",
-        "category": "Bulvár",
-        "published_at": 1792555258
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 22 octombrie 2026, cu Neti Sandu. Se conturează bani pentru o zodie",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-22-octombrie-2026-cu-neti-sandu-se-contureaza-bani-pentru-o-zodie.html",
-        "image": "https://stirileprotv.ro/img/2026/09/30/154734/22-octombrie.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
-        "summary": "Horoscop 22 octombrie 2026, prezentat de Neti Sandu la Știrile PRO TV. O zi destinsă. O să facem o pauză de respirație ca să ne mai revenim după atâta efort și zbucium și lăsăm lucrurile să se mai rezolve și de la sine.",
-        "category": "Gazdaság",
-        "published_at": 1792607123
       }
     ]
   },
@@ -1766,7 +1056,7 @@
         "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTM3OV8zMDI1/Mzc5X0dhYnJpZWwtQ2lwcmlhbi1FbmUt/MS5qcGcmaGFzaD1jMWEzN2VjZTgyNTZiYmY0OTcxMTlkN2M1YzIwYjM5Mw==.jpg",
         "summary": "Gabriel Ciprian Ene, în prezent magistrat-asistent la Înalta Curte de Casație și Justiție, va fi viitorul secretar general al guvernului, potrivit surselor Digi24. Numirea sa va fi făcută după eliberarea din funcție a lui Dan Reșitnec.",
         "category": "Általános",
-        "published_at": 1792609958
+        "published_at": 1792610689
       }
     ]
   },
@@ -1953,6 +1243,202 @@
         "summary": "Președintele Uniunii Salvați România, Dominic Fritz, a prezentat ce va face formațiunea pe viitor după intrarea în opoziție și a lansat mai multe atacuri la adresa AUR, declarând că partidul lui George Simion este direct responsabil pentru revenirea PSD la guvernare.",
         "category": "Politika",
         "published_at": 1792576342
+      }
+    ]
+  },
+  {
+    "group_id": "group_850c977003",
+    "category": "Általános",
+    "articles_count": 21,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Emisarul american Steve Witkoff se duce din nou în Rusia. Ce va discuta cu Putin",
+        "link": "https://hotnews.ro/emisarul-american-steve-witkoff-se-duce-din-nou-in-rusia-ce-va-discuta-cu-putin-2381951",
+        "image": "",
+        "summary": "Emisarul special al președintelui american Donald Trump, Steve Witkoff, urmează să meargă miercuri în vizită în Rusia, a informat marți agenția de presă rusă Tass, citând o sursă sub rezerva anonimatului, relatează Reuters. Witkoff va călători în Rusia după o întrevedere marți la Oslo cu președintele ucrainean Volodimir Zelenski și cu președintele finlandez Alexander Stubb. …",
+        "category": "Általános",
+        "published_at": 1792528568
+      },
+      {
+        "source": "Digi24",
+        "title": "Witkoff s-a întâlnit cu Putin la Sankt Petersburg și i-a prezentat „idei” pentru un acord de pace în Ucraina",
+        "link": "https://www.digi24.ro/stiri/externe/emisarul-american-steve-witkoff-merge-in-vizita-in-rusia-propunerile-pe-care-i-le-va-prezenta-lui-vladimir-putin-4001449",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjE0JTJGMjMyODgwOV8yMzI4/ODA5X1ByZXNfZWRpbnRlbGUtVmxhZGlt/aXItUHV0aW4tc19pLWVtaXNhcnVsLWx1/aS1UcnVtcC1TdGV2ZS1XaXRrb2ZmXy1G/b3RvLVByb2ZpbWVkaWEuanBnJmhhc2g9/YmE5YzY3MWM4ZDA2ZmVkNmI4MTAzYTRkNzdiZDc1NzM=.jpg",
+        "summary": "Emisarul special al președintelui american Donald Trump, Steve Witkoff, s-a întâlnit miercuri cu Vladimir Putin, la Sankt Petersburg, unde i-a prezentat liderului rus mai multe propuneri pentru un posibil acord de pace între Rusia și Ucraina. Witkoff a declarat că speră la reluarea negocierilor trilaterale, după discuțiile purtate marți cu Volodimir Zelenski, la Oslo. În același timp, Putin a anunțat eliberarea unui cetățean american în vârstă de 74 de ani, condamnat în Rusia pentru activitate de mercenar.",
+        "category": "Általános",
+        "published_at": 1792583878
+      },
+      {
+        "source": "Digi24",
+        "title": "Trump vrea ca Zelenski să încheie un acord cu Rusia și susține că SUA nu au primit „nimic în schimb” pentru ajutorul oferit Ucrainei",
+        "link": "https://www.digi24.ro/stiri/externe/sua/trump-vrea-ca-zelenski-sa-incheie-un-acord-cu-rusia-si-sustine-ca-sua-nu-au-primit-nimic-in-schimb-pentru-ajutorul-oferit-ucrainei-4001687",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjI4JTJGMjMzNzYzNl8yMzM3/NjM2X2pkLXZhbmNlLXRydW1wLXplbGVu/c2tpLmpwZyZoYXNoPWFhOGNjNGJlZTk4YWZmNmI2MzdlNTkxZTJkNTAwMTdj.jpg",
+        "summary": "Președintele american Donald Trump a declarat marți că dorește ca omologul său ucrainean, Volodimir Zelenski, să „încheie un acord” cu Rusia, plângându-se că Statele Unite nu au primit „nimic în schimb” pentru sprijinul acordat Kievului, relatează Euronews.",
+        "category": "Általános",
+        "published_at": 1792560713
+      },
+      {
+        "source": "Mediafax",
+        "title": "Marco Rubio, despre discuțiile lui Witkoff cu Zelenski: A fost pozitiv. Mergem să vedem dacă putem progresa cu Rusia",
+        "link": "https://www.mediafax.ro/stirile-zilei/marco-rubio-despre-discutiile-lui-witkoff-cu-zelenski-a-fost-pozitiv-mergem-sa-vedem-daca-putem-progresa-cu-rusia-23829101",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8103648-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+        "summary": "Secretarul de stat al SUA, Marco Rubio, a catalogat miercuri drept „pozitive” discuțiile purtate între emisarul american Steve Witkoff și președintele Ucrainei, Volodimir Zelenski, subliniind că misiunea diplomatică a oficialului american va continua și cu o vizită în Rusia pentru discuții cu Putin.",
+        "category": "Általános",
+        "published_at": 1792562746
+      },
+      {
+        "source": "G4Media",
+        "title": "Emisarul lui Trump a ajuns în Rusia pentru discuții cu Putin / Zelenski spune că schimbul de informații cu SUA privind atacurile cu rachete funcționează din nou",
+        "link": "https://www.g4media.ro/emisarul-lui-trump-a-ajuns-in-rusia-pentru-discutii-cu-putin-zelenski-spune-ca-schimbul-de-informatii-cu-sua-privind-atacurile-cu-rachete-functioneaza-din-nou.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2024/11/profimedia-0877446015-e1731484011645.jpg",
+        "summary": "Trimisul special al președintelui american Donald Trump, Steve Witkoff, a ajuns în Rusia pentru o întâlnire cu Vladimir Putin, în cadrul căreia urmează să fie discutate propuneri pentru încheierea războiului din Ucraina, potrivit BBC. Vizita are loc la o zi după discuțiile dintre Witkoff și președintele ucrainean Volodimir Zelenski, desfășurate la Oslo, pe care un […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792569635
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Anunțul Kremlinului, în ziua în care emisarul lui Trump a sosit în Rusia pentru o discuție cu Vladimir Putin",
+        "link": "https://hotnews.ro/anuntul-kremlinului-in-ziua-in-care-emisarul-lui-trump-a-sosit-in-rusia-pentru-o-discutie-cu-vladimir-putin-2382148",
+        "image": "",
+        "summary": "Emisarul american Steve Witkoff și președintele rus Vladimir Putin vor discuta despre conflictul din Ucraina în cadrul unor întâlniri care vor avea loc miercuri dimineață la Sankt Petersburg, au relatat agențiile de știri ruse, citând Kremlinul. „Nu știu dacă se va ajunge la vreun acord astăzi, dar discuțiile privind conflictul din Ucraina sunt, desigur, tema …",
+        "category": "Általános",
+        "published_at": 1792568673
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Emisarul lui Trump a ajuns din în Rusia, dar nu la Moscova. Unde i-a dat Putin întâlnire lui Witkoff de această dată",
+        "link": "https://stirileprotv.ro/stiri/international/emisarul-lui-trump-a-ajuns-din-in-rusia-dar-nu-la-moscova-unde-i-a-dat-putin-intalnire-lui-witkoff-de-aceasta-data.html",
+        "image": "https://stirileprotv.ro/img/2025/08/06/210000/62565598.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+        "summary": "Emisarul special al președintelui american Donald Trump, Steve Witkoff, urmează să meargă miercuri în vizită în Rusia, a informat marți agenția de presă rusă TASS, citând o sursă sub rezerva anonimatului, relatează Reuters.",
+        "category": "Általános",
+        "published_at": 1792569550
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Kremlinul confirmă că Putin îl va primi pe Witkoff la Sankt Petersburg",
+        "link": "https://agerpres.ro/politic-extern/2026/10/21/kremlinul-confirma-ca-putin-il-va-primi-pe-witkoff-la-sankt-petersburg--1605222",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      },
+      {
+        "source": "G4Media",
+        "title": "SUA îi vor propune lui Putin o întâlnire cu Trump și Zelenski pentru negocierea unui armistițiu",
+        "link": "https://www.g4media.ro/sua-ii-vor-propune-lui-putin-o-intalnire-cu-trump-si-zelenski-pentru-negocierea-unui-armistitiu.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2025/08/Vladimir-Putin-Volodimir-Zelenski.jpg",
+        "summary": "Trimisul special al SUA, Steve Witkoff, îi va prezenta lui Vladimir Putin propunerea organizării unei întâlniri directe între liderul rus, președintele american Donald Trump și președintele ucrainean Volodimir Zelenski, în încercarea de a ajunge la un armistițiu în Ucraina, notează Politico. Inițiativa privind un summit trilateral, primul de acest fel de la declanșarea invaziei ruse […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792572771
+      },
+      {
+        "source": "G4Media",
+        "title": "Putin s-a oferit să se întâlnească cu Trump în China și vrea restabilirea legăturilor economice cu SUA",
+        "link": "https://www.g4media.ro/putin-s-a-oferit-sa-se-intalneasca-cu-trump-in-china-si-vrea-restabilirea-legaturilor-economice-cu-sua.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2024/11/profimedia-0578742770.jpg",
+        "summary": "Președintele rus Vladimir Putin s-a oferit să se întâlnească cu omologul său american Donald Trump în China, în cadrul discuțiilor purtate miercuri la Sankt Petersburg cu trimisul special al SUA, Steve Witkoff, relatează Sky News. În timpul întâlnirii, negociatorul american a afirmat că există premisele unui armistițiu și a cerut reluarea negocierilor trilaterale dintre Rusia, […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792579183
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vladimir Putin, la discuțiile cu trimisul lui Trump, Steve Witkoff: O întrevedere cu președintele SUA ar putea avea loc în China",
+        "link": "https://www.mediafax.ro/stirile-zilei/vladimir-putin-la-discutiile-cu-trimisul-lui-trump-steve-witkoff-o-intrevedere-cu-presedintele-sua-ar-putea-avea-loc-in-china-23829315",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8155270-hepta_mediafax_foto-dpa_hepta-1024x632.jpg",
+        "summary": "Președintele rus Vladimir Putin i-a sugerat miercuri emisarului special Steve Witkoff, în cadrul discuțiilor purtate la Sankt Petersburg, o întrevedere directă cu președintele american Donald Trump în China.",
+        "category": "Általános",
+        "published_at": 1792579892
+      },
+      {
+        "source": "Adevărul",
+        "title": "Steve Witkoff s-a întâlnit cu Vladimir Putin la Sankt Petersburg pentru discuții privind războiul din Ucraina. Rusia a eliberat un american încarcerat",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/steve-witkoff-s-a-intalnit-cu-vladimir-putin-la-2565505.html",
+        "image": "https://cdn.adh.reperio.news/image-9/9e7522eb-d95f-4a4d-8f7f-a8809e2c9ac3/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Emisarul special al Statelor Unite, Steve Witkoff, s-a întâlnit miercuri cu președintele rus Vladimir Putin, la Sankt Petersburg, pentru discuții privind războiul din Ucraina și posibilitatea reluării negocierilor de pace.",
+        "category": "Általános",
+        "published_at": 1792580460
+      },
+      {
+        "source": "G4Media",
+        "title": "Vladimir Putin, la discuțiile cu trimisul lui Trump, Steve Witkoff: O întrevedere cu președintele SUA ar putea avea loc în China",
+        "link": "https://www.g4media.ro/vladimir-putin-la-discutiile-cu-trimisul-lui-trump-steve-witkoff-o-intrevedere-cu-presedintele-sua-ar-putea-avea-loc-in-china.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2025/11/Vladimir-Putin-Steve-Witkoff.jpg",
+        "summary": "Președintele rus Vladimir Putin i-a sugerat miercuri emisarului special Steve Witkoff, în cadrul discuțiilor purtate la Sankt Petersburg, o întrevedere directă cu președintele american Donald Trump în China, scrie Mediafax. Liderul de la Kremlin l-a primit miercuri pe emisarul special al președintelui Donald Trump la Sankt Petersburg pentru discuții. În cadrul întâlnirii, Vladimir Putin i-a […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792585771
+      },
+      {
+        "source": "Mediafax",
+        "title": "Rusia anunță când ar putea relua negocierile de pace cu Ucraina și SUA. Ce i-a transmis Putin emisarului lui Trump",
+        "link": "https://www.mediafax.ro/externe/rusia-anunta-cand-ar-putea-relua-negocierile-de-pace-cu-ucraina-si-sua-ce-i-a-transmis-putin-emisarului-lui-trump-23829487",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/04/8035444-hepta_mediafax_foto-dpa_hepta-1-1024x632.jpg",
+        "summary": "Rusia este pregătită să reia negocierile trilaterale cu Statele Unite și Ucraina la jumătatea lunii noiembrie, a declarat consilierul prezidențial rus Iuri Ușakov, după întâlnirea dintre Vladimir Putin și emisarul special american Steve Witkoff, desfășurată miercuri la Sankt Petersburg.",
+        "category": "Általános",
+        "published_at": 1792593454
+      },
+      {
+        "source": "Digi24",
+        "title": "După întâlnirea Putin-Witkoff în Rusia, Kremlinul face un anunț privind negocierile de pace în Ucraina",
+        "link": "https://www.digi24.ro/stiri/externe/dupa-intalnirea-putin-witkoff-in-rusia-kremlinul-face-un-anunt-privind-negocierile-de-pace-in-ucraina-4002931",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTAyNF8zMDI1/MDI0X3Byb2ZpbWVkaWEtMTE0NTM0NDE5/MS5qcGcmaGFzaD02YzM1NjA1MjM2MDJlNTI1MGI4YWExZWFmYjhmY2FhYQ==.jpg",
+        "summary": "Preşedintele rus Vladimir Putin i-a spus miercuri trimisului special al SUA, Steve Witkoff, că Moscova este dispusă, în principiu, să reia luna viitoare discuţiile cu Ucraina şi SUA pentru încheierea războiului din Ucraina, a declarat Iuri Uşakov, consilierul liderului de la Kremlin, relatează Reuters.",
+        "category": "Általános",
+        "published_at": 1792596890
+      },
+      {
+        "source": "Transtelex",
+        "title": "Putyin beleegyezett, hogy újrakezdjék a háromoldalú tárgyalásokat az ukrajnai háború befejezéséről",
+        "link": "https://transtelex.ro/kulfold/2026/10/21/ujrakezdik-a-haromoldalu-targyalast-az-ukrajnai-haboru-befejezeserol",
+        "image": "https://assets.telex.hu/images/20261021/1792593068-temp-m2kcnf705l0a8hjojjg_cimlap-normal.jpg",
+        "summary": "Az orosz vezető „elvileg” beleegyezett a tárgyalások november 10. utáni folytatásába, közölte Jurij Usakov, Putyin külügyi tanácsadója.",
+        "category": "Általános",
+        "published_at": 1792593174
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Putin a acceptat reluarea negocierilor trilaterale cu Ucraina și SUA. Când preconizează Kremlinul că vor începe discuțiile și pe ce se vor axa",
+        "link": "https://hotnews.ro/putin-a-acceptat-reluarea-negocierilor-trilaterale-cu-ucraina-si-sua-cand-preconizeaza-kremlinul-ca-vor-incepe-discutiile-si-pe-ce-se-vor-axa-2382814",
+        "image": "",
+        "summary": "Președintele rus Vladimir Putin a acceptat să reia negocierile de pace cu Ucraina mediate de SUA, chiar de luna viitoare, a anunțat miercuri Kremlinul, citat de Reuters. Anunțul a fost făcut după a noua întâlnire față în față dintre liderul Rusiei și emisarul american Steve Witkoff. În marja discuțiilor de la Sankt Petersburg, care au …",
+        "category": "Általános",
+        "published_at": 1792596746
+      },
+      {
+        "source": "Maszol",
+        "title": "Putyin beleegyezett az Ukrajnával folytatandó béketárgyalások újraindításába",
+        "link": "https://maszol.ro/kulfold/Putyin-beleegyezett-az-Ukrajnaval-folytatando-beketargyalasok-ujrainditasaba",
+        "image": "https://maszol.ro/resized/2026_oktober/21/cikk_Putyin_agerpres_20250603_(1).jpg",
+        "summary": "Vlagyimir Putyin orosz elnök elfogadta, hogy már a jövő hónapban újrainduljanak az Egyesült Államok közvetítésével zajló béketárgyalások Ukrajnával.",
+        "category": "Általános",
+        "published_at": 1792598340
+      },
+      {
+        "source": "Mediafax",
+        "title": "Trump face presiuni asupra lui Zelenski și vrea ca acordul de pace să fie semnat în decembrie la clubul său de golf",
+        "link": "https://www.mediafax.ro/politic/trump-face-presiuni-asupra-lui-zelenski-si-vrea-ca-acordul-de-pace-sa-fie-semnat-in-decembrie-la-clubul-sau-de-golf-23829530",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/8025533-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+        "summary": "Președintele american Donald Trump face presiuni asupra liderului ucrainean Volodimir Zelenski. Trump vrea ca acordul de pace privitor la Ucraina să fie semnat în decembrie la clubul său de golf din Florida.",
+        "category": "Általános",
+        "published_at": 1792597774
+      },
+      {
+        "source": "Digi24",
+        "title": "Witkoff, lingușitor cu Putin: „Sunteți un om cu spirit umanitar”. Rusia și-a intensificat atacurile ucigașe asupra Ucrainei",
+        "link": "https://www.digi24.ro/stiri/externe/witkoff-lingusitor-cu-putin-sunteti-un-om-cu-spirit-umanitar-rusia-si-a-intensificat-atacurile-ucigase-asupra-ucrainei-4003029",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTE1Nl8zMDI1/MTU2X0VtaXNhcnVsLWx1aS1UcnVtcC1T/dGV2ZS1XaXRrb2ZmXy1Gb3RvLVByb2Zp/bWVkaWEuanBnJmhhc2g9Y2Y3NTM0YjI2NmYyYTVlYTgwMjNkOTExNjFjMzc2ZGE=.jpg",
+        "summary": "La a noua întâlnire cu președintele Rusiei, Vladimir Putin, emisarul SUA Steve Witkoff a avut multe cuvinte de laudă pentru liderul de la Kremlin, la un noment dat devenind chiar lingușitor. Și asta într-un moment în care Rusia și-a intensificat atacurile ucigașe asupra Ucrainei. Witkoff a prezentat și o propunere privind negocierile cu Ucraina.",
+        "category": "Általános",
+        "published_at": 1792599566
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Putin a acceptat reluarea negocierilor de pace mediate de SUA. Un summit istoric cu Trump și Xi Jinping ar fi în pregătire",
+        "link": "https://stirileprotv.ro/stiri/international/putin-a-acceptat-reluarea-negocierilor-de-pace-mediate-de-sua-un-summit-istoric-cu-trump-si-xi-jinping-ar-fi-in-pregatire.html",
+        "image": "https://stirileprotv.ro/img/2026/10/07/121935/putin-2.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C682%2C0%2C0&w=1280",
+        "summary": "Președintele rus Vladimir Putin a fost de acord să reia negocierile de pace cu Ucraina, mediate de Statele Unite, cel mai devreme luna viitoare, a anunțat miercuri Kremlinul, după întâlnirea dintre Putin și emisarul american Steve Witkoff.",
+        "category": "Általános",
+        "published_at": 1792605605
       }
     ]
   },
@@ -2188,6 +1674,85 @@
         "summary": "Procesarea produselor agricole are nevoie de capital, programe de stimulare, educaţie şi un plan pe cel puţin zece ani, pe care un fermier nu le poate aduna singur. De aceea, asocierea este soluţia cea mai la îndemâna fermierilor pentru a putea creşte şi a trece de la producţia de materii prime la procesare. Aceasta este una dintre cele mai importante concluzii ale conferinţei „Agricultura în 2026: provocare, adaptare, oportunităţi“, organizată de Ziarul Financiar cu sprijinul Băncii Transilvania la Craiova.",
         "category": "Gazdaság",
         "published_at": 1792530420
+      }
+    ]
+  },
+  {
+    "group_id": "group_859c926a0f",
+    "category": "Gazdaság",
+    "articles_count": 8,
+    "articles": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "După şase luni de criză, România are, în sfârşit, un guvern plin. Guvernul Niculescu a depus aseară jurământul şi tot aseară a avut prima sa şedinţă",
+        "link": "https://www.zf.ro/eveniment/dupa-sase-luni-de-criza-romania-are-in-sfarsit-un-guvern-plin-guvernul-niculescu-a-depus-aseara-juramantul-si-tot-aseara-a-avut-prima-sa-sedinta-23264301",
+        "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21333/23264301/1/1-guvern-luca-niculescu.jpg?width=700",
+        "summary": "Guvernul Luca Niculescu a fost învestit de parlament cu 280 de voturi „pentru” mai multe decât îi erau necesare - 233. După aproape şase luni de criză politică, România are un guvern plin.",
+        "category": "Gazdaság",
+        "published_at": 1792530420
+      },
+      {
+        "source": "Maszol",
+        "title": "Niculescu az első kormányülésen: A kabinet legfőbb célja a romániaiak életszínvonalának javítása",
+        "link": "https://maszol.ro/belfold/Niculescu-az-elso-kormanyulesen-A-kabinet-legfobb-celja-a-romaniaiak-eletszinvonalanak-javitasa",
+        "image": "https://maszol.ro/resized/2026_oktober/21/cikk_agerpres_19746671.jpg",
+        "summary": "Szerinte a Szociáldemokrata Párt (PSD) politikusaiból, illetve a civil és a tudományos élet képviselőiből álló kormánya tagjait a tenni akarás vezérli.",
+        "category": "Politika",
+        "published_at": 1792556400
+      },
+      {
+        "source": "Mediafax",
+        "title": "Presa internațională avertizează: liniștea politică din România ar putea dura doar șase luni. Ce scrie despre Guvernul Luca Niculescu",
+        "link": "https://www.mediafax.ro/externe/presa-internationala-avertizeaza-linistea-politica-din-romania-ar-putea-dura-doar-sase-luni-ce-scrie-despre-guvernul-luca-niculescu-23829076",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164930-mediafax_foto-alexandru_nechez-1024x683.jpg",
+        "summary": "Învestirea Guvernului Luca Niculescu pune capăt unui blocaj politic de aproape șase luni, însă presa internațională avertizează că stabilitatea obținută ar putea fi temporară.",
+        "category": "Általános",
+        "published_at": 1792559274
+      },
+      {
+        "source": "Adevărul",
+        "title": "Guvernul Niculescu, privit cu scepticism în presa internațională. Deficitul și ratingul de țară, marile probleme ale României",
+        "link": "https://adevarul.ro/politica/guvernul-niculescu-privit-cu-scepticism-in-presa-2565417.html",
+        "image": "https://cdn.adh.reperio.news/image-d/dc3e35e2-39b3-4b77-af48-dbc4514e0a88/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Învestirea Guvernului condus de Luca Niculescu pune capăt unui blocaj politic de aproape șase luni, însă stabilitatea noului Executiv ar putea fi temporară, avertizează presa internațională.",
+        "category": "Általános",
+        "published_at": 1792566867
+      },
+      {
+        "source": "Digi24",
+        "title": "Claudiu Manda, după învestirea Guvernului Niculescu: „Nu există timp pentru acomodare”. Mesaj pentru Ilie Bolojan",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/claudiu-manda-dupa-investirea-guvernului-niculescu-nu-exista-timp-pentru-acomodare-mesaj-pentru-ilie-bolojan-4002067",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMSUyRjA3JTJGMjQzMTY3MF8yNDMx/NjcwX0NsYXVkaXUtTWFuZGEuanBnJmhh/c2g9MGQ0YTQ3OThlZTg2OTNjZmI2MDNiODBjNDk5MmNlNTI=.jpg",
+        "summary": "Secretarul general al PSD, Claudiu Manda, a declarat miercuri că, după șase luni de criză politică, România are din nou un Guvern „pentru români”, dar a avertizat că miniștrii preiau mandatele într-o situație de criză, în care „nu există timp pentru acomodare”.",
+        "category": "Politika",
+        "published_at": 1792571753
+      },
+      {
+        "source": "G4Media",
+        "title": "Claudiu Manda, nou atac la Bolojan: Nu le-ați dat speranță românilor. Le-ați luat orice speranță că în țara lor poate fi mai bine. Dar noi vom arăta din nou că România poate fi guvernată cu responsabilitate, prin măsuri care răspund nevoilor oamenilor",
+        "link": "https://www.g4media.ro/claudiu-manda-nou-atac-la-bolojan-nu-le-ati-dat-speranta-romanilor-le-ati-luat-orice-speranta-ca-in-tara-lor-poate-fi-mai-bine-dar-noi-vom-arata-din-nou-ca-romania-poate-fi-guvernata-cu-responsabi.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2026/06/Manda-Claudiu.jpg",
+        "summary": "Europarlamentarul social-democrat Claudiu Manda l-a atacat din nou miercuri pe fostul premier Ilie Bolojan, despre care a spus că le-a luat românilor orice speranță prin măsurile de austeritate pe care le-a impus. „România are din nou un Guvern pentru români! După șase luni de criză politică, atenția și eforturile trebuie îndreptate acum, cu prioritate, către […] © G4Media.ro.",
+        "category": "Politika",
+        "published_at": 1792572038
+      },
+      {
+        "source": "Transtelex",
+        "title": "Románia politikai csapdája nem oldódott meg az új kabinettel: a szélsőjobb már ugrásra kész",
+        "link": "https://transtelex.ro/transtelex/2026/10/21/romania-kormanyvalsag-uj-kormany-osszefoglalo",
+        "image": "https://assets.telex.hu/images/20261021/1792592728-temp-c226d3sfem8i6ebacpo_cimlap-normal.jpg",
+        "summary": "Az érvénytelenített elnökválasztási sokk óta tartó krízis nem zárult le: a mérsékelt pártok megosztottak, az államfő morális hitele elapadt, az AUR pedig sakkban tartja az országot.",
+        "category": "Politika",
+        "published_at": 1792597184
+      },
+      {
+        "source": "G4Media",
+        "title": "Guvernul Niculescu și predicțiile teoriei corpului politic (Op-ed)",
+        "link": "https://www.g4media.ro/guvernul-niculescu-si-predictiile-teoriei-corpului-politic-op-ed.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2019/12/Lucian-Croitoru-e1600410642191.jpg",
+        "summary": "Acest articol încheie un ciclu de câteva articole dedicate analizei celei mai lungi crize politice românești (aproape șase luni de guvern interimar: 5 mai-20 octombrie 2026). În această vară am propus o teorie politică capabilă să descrie forțele care modifică scena politică occidentală și mecanismul prin care democrațiile postcomuniste imită acea mișcare (vezi articolul „Cele […] © G4Media.ro.",
+        "category": "Politika",
+        "published_at": 1792606533
       }
     ]
   },
@@ -3522,6 +3087,31 @@
     ]
   },
   {
+    "group_id": "group_e63326a7ea",
+    "category": "Bulvár",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Horoscop carieră azi, 21 octombrie 2026. Norocul bate la ușa unor zodii! Se anunță câștiguri, negocieri reușite și proiecte noi",
+        "link": "https://www.cancan.ro/horoscop-cariera-azi-21-octombrie-2026-norocul-bate-la-usa-unor-zodii-se-anunta-castiguri-negocieri-reusite-si-proiecte-noi-21533652",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/09/man-gesturing-amidst-network-of-light-2026-03-26-05-40-18-utc-1200x791.jpg",
+        "summary": "Horoscopul carierei pentru 21 octombrie, aduce vești importante pentru cele 12 zodii, într-o zi în care oportunitățile profesionale, negocierile și perspectivele financiare se află în centrul atenției. În timp ce unii nativi au șansa să își dezvolte afacerile, să obțină rezultate peste așteptări sau să descopere noi surse de venit, alții sunt sfătuiți să nu […]",
+        "category": "Bulvár",
+        "published_at": 1792555258
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Horoscop 22 octombrie 2026, cu Neti Sandu. Se conturează bani pentru o zodie",
+        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-22-octombrie-2026-cu-neti-sandu-se-contureaza-bani-pentru-o-zodie.html",
+        "image": "https://stirileprotv.ro/img/2026/09/30/154734/22-octombrie.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+        "summary": "Horoscop 22 octombrie 2026, prezentat de Neti Sandu la Știrile PRO TV. O zi destinsă. O să facem o pauză de respirație ca să ne mai revenim după atâta efort și zbucium și lăsăm lucrurile să se mai rezolve și de la sine.",
+        "category": "Gazdaság",
+        "published_at": 1792607123
+      }
+    ]
+  },
+  {
     "group_id": "group_48a623b44a",
     "category": "Bulvár",
     "articles_count": 1,
@@ -4071,6 +3661,94 @@
         "summary": "PSG - Barcelona 4-2. meciul serii de marți în Liga Campionilor și-a respectat afișul și a venit cu goluri, numeroase ocazii și ritm intens. La GSP Live, Raul Rusescu și-a exprimat opinia despre duelul european. Triplul campion al României a fost mulțumit de joc, pe care l-a considerat la nivelul așteptărilor. Totodată, a precizat ce practică a parizienilor l-a făcut să-l „urască” pe tehnicianul Luis Enrique. VIDEO. ...",
         "category": "Sport",
         "published_at": 1792582850
+      }
+    ]
+  },
+  {
+    "group_id": "group_5870ef3cc9",
+    "category": "Gazdaság",
+    "articles_count": 9,
+    "articles": [
+      {
+        "source": "Economedia",
+        "title": "Premierul Luca Niculescu, nesigur față de schimbări la Pilonul 2 de pensii: Reforma pilonului II de pensii nu este ceva de care ar trebui să ne atingem, dar, evident, cum voi avea mai multe date, voi veni către dumneavoastră",
+        "link": "https://economedia.ro/premierul-luca-niculescu-nesigur-fata-de-schimbari-la-pilonul-2-de-pensii-reforma-pilonului-ii-de-pensii-nu-este-ceva-de-care-ar-trebui-sa-ne-atingem-dar-evident-cum-voi-avea-mai-multe-date-voi.html",
+        "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Luca-Niculescu-Guvern-4-1024x683.jpeg",
+        "summary": "Premierul Luca Niculescu a dat, marți, un răspuns vag când a fost întrebat despre reforma Pilonului II de pensii, pe care Guvernele PSD anterioare au încercat să îl naționalizeze sau reformeze, în multiple rânduri, inclusiv prin introducerea posibilității de retragere din sistem, astfel încât să acopere gaura sistemului public de pensii. Luca Niculescu a declarat […]",
+        "category": "Gazdaság",
+        "published_at": 1792555913
+      },
+      {
+        "source": "Economedia",
+        "title": "VIDEO | Premierul Luca Niculescu, un nou răspuns, de această dată ferm, despre Pilonul II de pensii: „Nimeni nu se atinge de Pilonul II. Va exista așa cum este”",
+        "link": "https://economedia.ro/premierul-luca-niculescu-un-nou-raspuns-de-aceasta-data-ferm-despre-pilonul-ii-de-pensii-nimeni-nu-se-atinge-de-pilonul-ii-va-exista-asa-cum-este.html",
+        "image": "https://www.economedia.ro/wp-content/uploads/2026/10/Luca-Niculescu-Guvern-3-1024x683.jpeg",
+        "summary": "Premierul Luca Niculescu a dat miercuri un nou răspuns, de această dată ferm, privind viitorul Pilonului II de pensii private, după ce marți afirmase că nu a avut timp să analizeze în detaliu o eventuală reformă a sistemului. „Nimeni nu se atinge de Pilonul II”, a declarat șeful Guvernului miercuri dimineață, subliniind că sistemul va […]",
+        "category": "Gazdaság",
+        "published_at": 1792564345
+      },
+      {
+        "source": "Digi24",
+        "title": "Premierul Luca Niculescu dă asigurări că Pilonul 2 de pensii nu va fi modificat: „Nimeni nu se atinge de el”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/premierul-luca-niculescu-da-asigurari-ca-pilonul-2-de-pensii-nu-va-fi-modificat-nimeni-nu-se-atinge-de-el-4001775",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNTkxOV8zMDE1/OTE5X2x1Y2EtbmljdWxlc2N1LWlucXVh/bS1tYWxpbmEtbm9yb2NlYS5qcGcmaGFz/aD1hMmJlZDM0YjliY2I4NWU5NWUxY2U1NGRjNjQyZDE3MA==.jpg",
+        "summary": "Premierul Luca Niculescu a dat asigurări că Pilonul 2 de pensii nu va fi modificat și că banii acumulați nu vor fi folosiți în alte scopuri. „Nimeni nu se atinge de Pilonul 2. El există și va exista așa cum este”, a declarat șeful Guvernului, miercuri dimineață, după ce afirmațiile sale de marți seară au lăsat loc unor interpretări.",
+        "category": "Általános",
+        "published_at": 1792567240
+      },
+      {
+        "source": "G4Media",
+        "title": "VIDEO Premierul Luca Niculescu, răspuns ferm despre Pilonul II de pensii: „Nimeni nu se atinge de Pilonul II. Va exista așa cum este”",
+        "link": "https://www.g4media.ro/premierul-luca-niculescu-raspuns-ferm-despre-pilonul-ii-de-pensii-nimeni-nu-se-atinge-de-pilonul-ii-va-exista-asa-cum-este.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/INSTANT_PARLAMENT_CABINET_NICULESCU_026_INQUAM_Photos_George_Calin-scaled.jpg",
+        "summary": "Premierul Luca Niculescu a dat miercuri un nou răspuns, de această dată ferm, privind viitorul Pilonului II de pensii private, după ce marți afirmase că nu a avut timp să analizeze în detaliu o eventuală reformă a sistemului. „Nimeni nu se atinge de Pilonul II”, a declarat șeful Guvernului miercuri dimineață, subliniind că sistemul va […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792565723
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Luca Niculescu, noi precizări despre Pilonul 2 de pensii",
+        "link": "https://hotnews.ro/luca-niculescu-noi-precizari-despre-pilonul-2-de-pensii-2382142",
+        "image": "",
+        "summary": "Premierul Luca Niculescu a făcut, miercuri dimineaţă, noi precizări în legătură cu Pilonul II de pensii, după ce în prima sa conferinţă de presă de la preluarea mandatului a dat un răspuns care a lăsat loc unor interpretări. „Nimeni nu se atinge de Pilonul 2 de pensii. Sunt aproximativ 12% din PIB acolo, sunt economiile …",
+        "category": "Általános",
+        "published_at": 1792565640
+      },
+      {
+        "source": "Mediafax",
+        "title": "Luca Niculescu: Nimeni nu se atinge de Pilonul 2 de pensii",
+        "link": "https://www.mediafax.ro/politic/luca-niculescu-nimeni-nu-se-atinge-de-pilonul-2-de-pensii-23829112",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164919-mediafax_foto-alexandru_nechez-1024x683.jpg",
+        "summary": "Premierul Luca Niculescu a declarat miercuri că Pilonul 2 de pensii va rămâne neschimbat, subliniind că activele acestuia reprezintă economiile a milioane de români și aproximativ 20% din PIB-ul României.",
+        "category": "Általános",
+        "published_at": 1792564819
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Premierul Luca Niculescu, mesaj ferm în prima zi de mandat: „Nimeni nu se atinge de Pilonul II de pensii”",
+        "link": "https://stirileprotv.ro/stiri/politic/premierul-luca-niculescu-mesaj-ferm-in-prima-zi-de-mandat-nimeni-nu-se-atinge-de-pilonul-ii-de-pensii.html",
+        "image": "https://stirileprotv.ro/img/2026/10/21/064623/luca-niculescu-id293486-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=3707%2C2471%2C0%2C0&w=1280",
+        "summary": "Premierul Luca Niculescu a făcut, miercuri dimineaţă, precizări în legătură cu Pilonul II de pensii, indicat în anii trecuţi drept posibilă sursă pentru redresarea financiară a României, afirmând că nimeni „nu se atinge de Pilonul II.",
+        "category": "Általános",
+        "published_at": 1792565226
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Unde s-a așezat premierul Luca Niculescu la prima sa ședință de Guvern. „Nimeni nu se atinge de Pilonul 2 de pensii”",
+        "link": "https://stirileprotv.ro/stiri/politic/unde-s-a-asezat-premierul-luca-niculescu-la-prima-sa-sedinta-de-guvern-a-fost-o-intrunire-scurta.html",
+        "image": "https://stirileprotv.ro/img/2026/10/21/152539/luca-niculescu-agerpres-19748046.jpeg?fm=jpg&q=80&fit=crop&crop=5055%2C3528%2C0%2C0&w=1280",
+        "summary": "Prima ședință de lucru a Guvernului condus de Luca Niculescu a fost una de tatonare, în care s-au stabilit urgențele, cum ar fi rectificarea bugetară și pregătirea pentru iarnă, fără să fie luată vreo decizie.",
+        "category": "Politika",
+        "published_at": 1792599129
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Nimeni nu se atinge de Pilonul II de pensii”. Ce se află în spatele asigurărilor date de premier",
+        "link": "https://adevarul.ro/economie/nimeni-nu-se-atinge-de-pilonul-ii-de-pensii-ce-2565509.html",
+        "image": "https://cdn.adh.reperio.news/image-7/74d09ce0-9d0b-4041-86ef-76fc4ebf0f37/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Premierul Luca Niculescu a dat asigurări că Pilonul II de pensii private va rămâne neschimbat, după ce primele sale declarații pe această temă au lăsat loc de interpretări. Mesajul vine pe fondul unor controverse mai vechi.",
+        "category": "Általános",
+        "published_at": 1792606510
       }
     ]
   },
@@ -5249,6 +4927,76 @@
     ]
   },
   {
+    "group_id": "group_9e1b06fb29",
+    "category": "Általános",
+    "articles_count": 7,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Atacul cu cuțitul de la Bistrița: șase elevi și o profesoară au primit ordine de protecție. Poliția a deschis un nou dosar penal",
+        "link": "https://www.digi24.ro/stiri/actualitate/atacul-cu-cutitul-de-la-bistrita-sase-elevi-si-o-profesoara-au-primit-ordine-de-protectie-politia-a-deschis-un-nou-dosar-penal-4001689",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyMzU1OV8zMDIz/NTU5X2FEMDFaamsxWmpsaVpqRXdaV0Zo/WTJNNFpURmlPV00wTURsaE5HWTJNREk0/TWdfdGh1bWJfLmpwZyZoYXNoPTRhNWJh/YTJiMjU3MzY2NzBiYTIxMTQwYWMyOGY2MGI5.jpg",
+        "summary": "Șase elevi și o profesoară de la Școala „Ștefan cel Mare” din Bistrița au primit ordine de protecție provizorii, după atacul cu un cuțit al unui băiat de 13 ani. Măsura a fost luată la cererea părinților, deoarece copiii revin miercuri la cursuri, după o zi de școală online. Polițiștii au deschis un al doilea dosar penal, motivul anchetei fiind apariția în spațiul public a imaginilor înregistrate de camerele de supraveghere, fără ca identitatea copiilor să fie protejată.",
+        "category": "Általános",
+        "published_at": 1792561249
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac la școala din Bistrița: Profesoara și șase elevi au ordine de protecție provizorii",
+        "link": "https://www.mediafax.ro/social/atac-la-scoala-din-bistrita-profesoara-si-sase-elevi-au-ordine-de-protectie-provizorii-23829124",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/politie-scoala-bistrita-1024x768.jpeg",
+        "summary": "Polițiștii din Bistrița au emis ordine de protecție provizorii extinse, cu monitorizare electronică, pentru profesoara, victima unui atac cu un cuțit la o școală din oraș. Asemenea ordine au fost emise și pentru șase elevi.",
+        "category": "Általános",
+        "published_at": 1792566382
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bistrița-Năsăud: Consilierii școlari, solicitați de câțiva copii de la școala unde s-a produs atacul cu cuțitul",
+        "link": "https://agerpres.ro/educatie-stiinta/2026/10/21/bistrita-nasaud-consilierii-scolari-solicitati-de-cativa-copii-de-la-scoala-unde-s-a-produs-atacul-c--1605460",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      },
+      {
+        "source": "Digi24",
+        "title": "Ministrul Educației vrea pedepse mai dure pentru atacurile contra profesorilor. Primele măsuri după incidentul din Bistrița",
+        "link": "https://www.digi24.ro/stiri/actualitate/ministrul-educatiei-vrea-pedepse-mai-dure-pentru-atacurile-contra-profesorilor-primele-masuri-dupa-incidentul-din-bistrita-4003209",
+        "image": "",
+        "summary": "Sorin Costreie a declarat, miercuri seară la Digi24, că va propune înăsprirea legislației pentru agresiunile comise asupra profesorilor și dublarea pedepselor pentru astfel de fapte, după atacul cu cuțitul de la o școală din Bistrița, în urma căruia o profesoară și un elev au fost răniți. Ministrul Educației a adăugat că prevenția trebuie să devină o prioritate și că autoritățile analizează inclusiv posibilitatea verificării ghiozdanelor la intrarea în școli și instalarea unor detectoare de metale",
+        "category": "Általános",
+        "published_at": 1792606551
+      },
+      {
+        "source": "Digi24",
+        "title": "Ministrul Educației vrea pedepse mai dure pentru atacurile contra profesorilor. Primele măsuri după incidentul din Bistrița",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/ministrul-educatiei-vrea-pedepse-mai-dure-pentru-atacurile-contra-profesorilor-primele-masuri-dupa-incidentul-din-bistrita-4003209",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE1JTJGMzAxNDc1MF8zMDE0/NzUwX0lEMjE4NjA4X0lOUVVBTV9QaG90/b3NfR2VvcmdlX0NhbGluLXNjYWxlZC0x/LmpwZyZoYXNoPTM1ZmVhZDFkNjdhYTY0MDMwMDBiMjc5OTQ0MDY1Mjcx.jpg",
+        "summary": "Sorin Costreie a declarat, miercuri seară la Digi24, că va propune înăsprirea legislației pentru agresiunile comise asupra profesorilor și dublarea pedepselor pentru astfel de fapte, după atacul cu cuțitul de la o școală din Bistrița, în urma căruia o profesoară și un elev au fost răniți. Ministrul Educației a adăugat că prevenția trebuie să devină o prioritate și că autoritățile analizează inclusiv posibilitatea verificării ghiozdanelor la intrarea în școli și instalarea unor detectoare de metale",
+        "category": "Általános",
+        "published_at": 1792609711
+      },
+      {
+        "source": "Mediafax",
+        "title": "„Ne gândim la controale în ghiozdane”. Ministrul Educației propune măsuri dure în școli, după atacul din Bistrița",
+        "link": "https://www.mediafax.ro/politic/ne-gandim-la-controale-in-ghiozdane-ministrul-educatiei-propune-masuri-dure-in-scoli-dupa-atacul-din-bistrita-23829569",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/7526072-mediafax_foto-alexandru_dobre-1024x683.jpg",
+        "summary": "Sorin Costreie, noul ministru al Educației, propune o abordare mai strictă în școlile din România, pentru a preveni violențele în școli. Întru-un interviu la Digi24, noul ministru a propus controale în ghiozdane la intrarea elevilor în școală.",
+        "category": "Általános",
+        "published_at": 1792607870
+      },
+      {
+        "source": "Adevărul",
+        "title": "După atacul cu cuțitul de la o școală din Bistrița, ministrul Educației propune pedepse mai dure pentru violențele împotriva profesorilor",
+        "link": "https://adevarul.ro/stiri-interne/educatie/dupa-atacul-cu-cutitul-de-la-o-scoala-din-2565623.html",
+        "image": "https://cdn.adh.reperio.news/image-b/b994242f-3a01-4719-999e-bbf9d75fe1e6/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Ministrul Educației, Sorin Costreie, a declarat miercuri seară, 21 octombrie, că vrea să dubleze pedepsele pentru violențele comise împotriva profesorilor și personalului din școli, în contextul atacului cu cuțitul de la o unitate de învățământ din Bistrița.",
+        "category": "Általános",
+        "published_at": 1792610602
+      }
+    ]
+  },
+  {
     "group_id": "group_85e5b2cd4c",
     "category": "Általános",
     "articles_count": 1,
@@ -5286,6 +5034,40 @@
         "summary": "Curtea de Apel Oradea a decis definitiv ca dr. Hadrian Borcea, șeful UPU-SMURD Bihor, să fie sancționat doar cu avertisment în dosarul în care a fost trimis în judecată pentru conducere sub influența alcoolului, respingând solicitarea procurorilor de condamnare la închisoare cu suspendare.",
         "category": "Általános",
         "published_at": 1792602446
+      }
+    ]
+  },
+  {
+    "group_id": "group_87ac7d59b4",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "Franța pregătește o operațiune de securitate „masivă” pentru protestele de sâmbătă / Militari vor sprijini forțele de ordine",
+        "link": "https://www.g4media.ro/franta-pregateste-o-operatiune-de-securitate-masiva-pentru-protestele-de-sambata-militari-vor-sprijini-fortele-de-ordine.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/profimedia-1144923104-scaled.jpg",
+        "summary": "Franța pregătește o operațiune de securitate de amploare pentru protestele programate sâmbătă, după ce manifestațiile din weekendul trecut, organizate pe fondul nemulțumirilor legate de costul vieții, au degenerat în violențe în mai multe zone ale țării. Planul prevede inclusiv mobilizarea unor militari, care vor prelua anumite sarcini de pază pentru a permite polițiștilor și jandarmilor […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792561620
+      },
+      {
+        "source": "G4Media",
+        "title": "Franța pregătește o operațiune de securitate „masivă” pentru protestele de sâmbătă / Vor fi mobilizați și militari",
+        "link": "https://www.g4media.ro/franta-pregateste-o-operatiune-de-securitate-masiva-pentru-protestele-de-sambata-vor-fi-mobilizati-si-militari.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2023/07/33LY9A2-highres-e1688239178236.jpg",
+        "summary": "Ministrul francez de Interne, Laurent Nunez, a anunțat mobilizarea unor militari și măsuri sporite de securitate pentru protestele de sâmbătă, după ce manifestațiile din weekendul trecut au degenerat în violențe, scrie Mediafax. Franța va desfășura o operațiune de securitate „masivă” pentru protestele așteptate sâmbătă, după ce manifestațiile legate de costul vieții s-au transformat în violențe […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792561634
+      },
+      {
+        "source": "Digi24",
+        "title": "Franța mobilizează armata după jafurile și incendierile din marile orașe. Guvernul recunoaște eșecuri în gestionarea violențelor",
+        "link": "https://www.digi24.ro/stiri/externe/ue/franta-mobilizeaza-armata-dupa-jafurile-si-incendierile-din-marile-orase-guvernul-recunoaste-esecuri-in-gestionarea-violentelor-4001847",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI5JTJGMjk4MjM0MV8yOTgy/MzQxX3Byb2ZpbWVkaWEtMTEzOTExMDg0/OC5qcGcmaGFzaD1lNmFkOGNjNzk5OWMzYzkwYmRiODBiODQ3ZWM1ODIyZQ==.jpg",
+        "summary": "Franța va mobiliza trupe militare alături de poliție și va desfășura forțe masive de securitate înaintea noilor proteste anunțate pentru sâmbătă. Premierul Sebastien Lecornu a recunoscut deficiențe în gestionarea revoltelor din weekend, care au provocat jafuri și distrugeri în mai multe orașe, anunță Reuters.",
+        "category": "Általános",
+        "published_at": 1792567436
       }
     ]
   },
@@ -5612,6 +5394,31 @@
         "summary": "Un bărbat care abia își recuperase, prin decizie definitivă a instanței, canabisul prescris de medic, a rămas din nou fără el. O patrulă de jandarmi l-a oprit la doar o oră după ce a ieșit din tribunal. A găsit drogul și i-a deschis un nou dosar penal.",
         "category": "Általános",
         "published_at": 1792563315
+      }
+    ]
+  },
+  {
+    "group_id": "group_0625c19a6d",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "Bursele de criptomonede nu vor mai opera în Rusia după ce Kremlinul a interzis tranzacțiile între persoanele fizice",
+        "link": "https://www.g4media.ro/bursele-de-criptomonede-nu-vor-mai-opera-in-rusia-dupa-ce-kremlinul-a-interzis-tranzactiile-intre-persoanele-fizice.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2023/04/binance-criptomonede.jpg",
+        "summary": "Marile burse de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin. Recent, cea mai mare țară din lume a decis să interzică tranzacțiile cu criptomonede între persoanele fizice, scrie Mediafax. Compania MEXC a anunțat că va înceta să mai ofere servicii utilizatorilor din Rusia și Belarus. Bursa de criptomonede a explicat că decizia a fost […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792563891
+      },
+      {
+        "source": "Go4IT",
+        "title": "Serviciile majore de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin",
+        "link": "https://www.go4it.ro/content/fintech/serviciile-majore-de-criptomonede-parasesc-rusia-dupa-restrictiile-impuse-de-kremlin-19288319/",
+        "image": "https://www.go4it.ro/wp-content/uploads/2023/06/rusia-business_prf.jpg",
+        "summary": "Exodul marilor burse de criptomonede din Rusia s-a declanșat drept o reacție directă la noile restricții legislative impuse de Kremlin. Într-o mișcare radicală menită să centralizeze controlul financiar, autoritățile ruse au decis să scoată în […] Articolul Serviciile majore de criptomonede părăsesc Rusia după restricțiile impuse de Kremlin apare prima dată în Go4IT.",
+        "category": "Általános",
+        "published_at": 1792567828
       }
     ]
   },
@@ -6597,6 +6404,31 @@
         "summary": "Oscar Piastri este departe de forma arătată în sezonul 2025 din Formula 1. Australianul a pierdut clar lupta cu coechipierul Lando Norris, iar GPBlog transmite că echipa de la Woking are, la nevoie, un înlocuitor pentru Oscar. Christian Horner, fostul șef RedBull Racing, acuzat că este un mare mincinos Anul trecut, Piastri a condus mare […] © G4Media.ro.",
         "category": "Általános",
         "published_at": 1792564802
+      }
+    ]
+  },
+  {
+    "group_id": "group_2b5b6c83d9",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "INTERVIU „Când lucrurile se vor complica, PSD va da vina pe Luca Niculescu și pe miniștri tehnocrați”. Ce speranță de viață are noul guvern",
+        "link": "https://hotnews.ro/interviu-cand-lucrurile-se-vor-complica-psd-va-da-vina-pe-luca-niculescu-si-pe-ministri-tehnocrati-ce-speranta-de-viata-are-noul-guvern-2381846",
+        "image": "",
+        "summary": "Cele 280 de voturi pentru Guvernul Niculescu „nu reflectă deloc susținerea parlamentară”, spune, într-un interviu pentru HotNews, Sergiu Mișcoiu, analist politic și profesor la Universitatea Babeș Bolyai din Cluj. Guvernul condus de Luca Niculescu a primit 280 de voturi în Parlamentul României, motiv pentru care, marți seară, s-a instalat la Palatul Victoria și a ținut …",
+        "category": "Általános",
+        "published_at": 1792566003
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "ANALIZĂ. De ce a acceptat Luca Niculescu un guvern PSD cu miniștri controversați, precum Marian Neacșu sau Radu Oprea",
+        "link": "https://stirileprotv.ro/stiri/interviurile-stirileprotv/analiza-de-ce-a-acceptat-luca-niculescu-un-guvern-psd-cu-ministri-controversati-precum-marian-neacsu-sau-radu-oprea.html",
+        "image": "https://stirileprotv.ro/img/2026/10/21/104812/luca-niculescu-ministri-guvern-id293493-inquam-photos-octav-ganea.jpg?fm=jpg&q=80&fit=crop&crop=5967%2C3978%2C0%2C0&w=1280",
+        "summary": "Profesorul și politologul Cristian Preda este de părere că Luca Niculescu a fost nevoit să accepte toate propunerile PSD de miniștri, pentru că acest guvern era singura cale de a evita alegerile anticipate, pe care nici președintele nu și le dorea.",
+        "category": "Általános",
+        "published_at": 1792579859
       }
     ]
   },
@@ -10973,7 +10805,7 @@
   {
     "group_id": "group_dd4bc246fd",
     "category": "Sport",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -10992,6 +10824,15 @@
         "summary": "„Exclusiv Dinamo” ediție nouă astăzi, de la 16:45. Cătălin Mureșanu îl are invitat pe Cătălin Alexandru, realizator și cofondator Radio Dinamo. Discutăm despre meciul care urmează pentru echipa lui Nuno Campos, partida din Gruia, contra CFR-ului lui Marius Șumudică. Descifrăm secretele victoriei cu FC Botoșani și dezvăluim mișcarea pe piața transferurilor pe care „câinii” o […]",
         "category": "Bulvár",
         "published_at": 1792580006
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Handbal masculin: Victorie categorică pentru CS Dinamo București în Liga Campionilor",
+        "link": "https://agerpres.ro/sport/2026/10/21/handbal-masculin-victorie-categorica-pentru-cs-dinamo-bucuresti-in-liga-campionilor--1605529",
+        "image": "",
+        "summary": "",
+        "category": "Sport",
+        "published_at": 1792540800
       }
     ]
   },
@@ -16568,7 +16409,7 @@
   {
     "group_id": "group_f0b7fce723",
     "category": "Sport",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -16578,6 +16419,15 @@
         "summary": "U-BT Cluj-Napoca a fost învinsă miercuri, 21 octombrie, de London Lions, la o diferență de 17 puncte, 72-89, într-o partidă din runda a 4-a a EuroCup. Campioana României a ajuns la un bilanț de 2-2 în grupa B a acestei competiții, irosind o oportunitate bună de a-și consolida poziția în vârful clasamentului. 5987 de spectatori au asistat la duelul dintre U-BT Cluj-Napoca și London Lions. După 6 partide, U-BT Cluj-Napoca are un bilanț de 3 victorii și 3 înfrângeri. ...",
         "category": "Sport",
         "published_at": 1792605900
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Baschet masculin: U-BT Cluj-Napoca, învinsă acasă de London Lions, în EuroCup",
+        "link": "https://agerpres.ro/sport/2026/10/21/baschet-masculin-u-bt-cluj-napoca-invinsa-acasa-de-london-lions-in-eurocup--1605541",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
       }
     ]
   },
@@ -16716,7 +16566,7 @@
   {
     "group_id": "group_c14e7409d2",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Digi24",
@@ -16726,6 +16576,15 @@
         "summary": "Secretarul de stat american, Marco Rubio, a afirmat miercuri că Ucraina nu ar exista în prezent fără asistenţa Statelor Unite, inclusiv cea acordată în timpul administraţiei Donald Trump, după ce Kievul a semnalat restricţii în furnizarea de informaţii de către serviciile de informaţii americane şi întârzieri în livrarea rachetelor interceptoare, transmite EFE.",
         "category": "Általános",
         "published_at": 1792592417
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "„Ucraina nu ar mai exista” fără ajutorul SUA, spune Marco Rubio pe fondul tensiunilor dintre Kiev și Washington",
+        "link": "https://hotnews.ro/ucraina-nu-ar-mai-exista-fara-ajutorul-sua-spune-marco-rubio-pe-fondul-tensiunilor-dintre-kiev-si-washington-2382948",
+        "image": "",
+        "summary": "Șeful diplomației americane, Marco Rubio, a declarat miercuri că Ucraina ar fi încetat să mai existe ca stat suveran dacă nu ar fi fost sprijinită de Statele Unite, inclusiv în perioada actualei administrații de la Washington, potrivit EFE. „Dacă nu ar fi fost asistența Statelor Unite, inclusiv în timpul administrației Trump, Ucraina nu ar mai …",
+        "category": "Általános",
+        "published_at": 1792610999
       }
     ]
   },
@@ -19819,7 +19678,7 @@
   {
     "group_id": "group_f05e3aeea5",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "G4Media",
@@ -19829,6 +19688,15 @@
         "summary": "Eurodeputații Siegfried Mureșan (PNL) și Dan Barna (USR) au fost realeși în funcțiile de vicepreședinți ai grupurilor PPE, respectiv Renew din Parlamentul European, potrivit unor comunicate ale celor două partide. Siegfried Mureșan a fost reconfirmat pentru a patra oară consecutiv în funcția de vicepreședinte al Grupului PPE — cea mai mare și mai influentă familie […] © G4Media.ro.",
         "category": "Politika",
         "published_at": 1792606348
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Dan Barna a fost reales vicepreședinte al grupului parlamentar Renew Europe",
+        "link": "https://agerpres.ro/politic/2026/10/21/dan-barna-a-fost-reales-vicepresedinte-al-grupului-parlamentar-renew-europe--1605527",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
       }
     ]
   },
@@ -20260,7 +20128,7 @@
         "image": "https://hargitanepe.ro//images/data/423x222/1792609537_1_tavfutes_udv_2_HI_web.jpg",
         "summary": "Több helyen is optimalizálták a kazánok működését cserével vagy át­alakítással, elegendő bio­masszát szereztek be, a vá­ros­gazdálkodási vállalat felkészülten indította a fűtésszezont a Küküllő-parti városban. A nyáron voltak leválások a rendszerről, de visszatérők is, és több közintézmény is újra a távhővel melegít.",
         "category": "Erdély",
-        "published_at": 1792610233
+        "published_at": 1792611157
       }
     ]
   },
@@ -20379,7 +20247,7 @@
   {
     "group_id": "group_bc9286c2a4",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -20389,6 +20257,383 @@
         "summary": "Compania Meta se confruntă cu o sancțiune de proporții, după ce un judecător din statul american New Mexico a decis că firma a indus publicul în eroare ani la rând în privința modului în care gestiona datele utilizatorilor.",
         "category": "Általános",
         "published_at": 1792609427
+      },
+      {
+        "source": "Digi24",
+        "title": "Meta, amendată cu 25 de miliarde de dolari în SUA. Ce a făcut cu datele utilizatorilor Facebook",
+        "link": "https://www.digi24.ro/stiri/externe/meta-amendata-cu-25-de-miliarde-de-dolari-in-sua-ce-a-facut-cu-datele-utilizatorilor-facebook-4003269",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOCUyRjE3JTJGMjkxMTQyM18yOTEx/NDIzX01ldGFfLUltYWdpbmUtY3UtY2Fy/YWN0ZXItaWx1c3RyYXRpdl8tRm90by1Q/cm9maW1lZGlhLmpwZyZoYXNoPTlhMzky/M2YxNGY2OWE0NDRiZTQ2ZmExZDk3MWRhNzky.jpg",
+        "summary": "Meta, compania care deține Facebook, Instagram și WhatsApp, a primit cea mai mare amendă aplicată vreodată împotriva sa pentru practicile sale comerciale. Miercuri, un judecător din New Mexico a obligat compania să plătească 25 de miliarde de dolari în urma unui proces de două săptămâni desfășurat la începutul acestui an, în cadrul căruia s-a constatat că aceasta a mințit ani de zile publicul cu privire la modul în care a gestionat datele utilizatorilor Facebook, scrie BBC.",
+        "category": "Általános",
+        "published_at": 1792610999
+      }
+    ]
+  },
+  {
+    "group_id": "group_4ab8df4ed5",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Siegfried Mureșan: Introducerea surselor proprii de venit ale UE, cheia pentru un buget multianual suficient",
+        "link": "https://agerpres.ro/romania-in-lume/2026/10/21/siegfried-muresan-introducerea-surselor-proprii-de-venit-ale-ue-cheia-pentru-un-buget-multianual-suf--1605543",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_b58e21ad53",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Violențe în Franța: Macron cere o poziție fermă înaintea mobilizării de sâmbătă",
+        "link": "https://agerpres.ro/politic-extern/2026/10/21/violente-in-franta-macron-cere-o-pozitie-ferma-inaintea-mobilizarii-de-sambata--1605540",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_786756ab85",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Niculescu: Cultura nu e un domeniu secundar, ci o sursă reală de dezvoltare a societății pe termen lung, alături de educație",
+        "link": "https://agerpres.ro/politic/2026/10/21/niculescu-cultura-nu-e-un-domeniu-secundar-ci-o-sursa-reala-de-dezvoltare-a-societatii-pe-termen-lun--1605538",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_e305108feb",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Como a umilit-o pe Manchester United (4-1), în Liga Campionilor",
+        "link": "https://agerpres.ro/sport-extern/2026/10/21/fotbal-como-a-umilit-o-pe-manchester-united-4-1-in-liga-campionilor--1605537",
+        "image": "",
+        "summary": "",
+        "category": "Sport",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_ea392e1f5d",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Neculăescu, discuție cu omologul leton: România și Letonia sunt aliați apropiați, ferm angajați în securitatea euro-atlantică",
+        "link": "https://agerpres.ro/politic/2026/10/21/neculaescu-discutie-cu-omologul-leton-romania-si-letonia-sunt-aliati-apropiati-ferm-angajati-in-secu--1605536",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_4a16b7a9a6",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MAE/ Atenționare de călătorie: Franța - numeroase manifestații și acțiuni de blocare a traficului, sâmbătă, în mai multe orașe",
+        "link": "https://agerpres.ro/social/2026/10/21/mae-atentionare-de-calatorie-franta---numeroase-manifestatii-si-actiuni-de-blocare-a-traficului-samb--1605534",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_569c6c79d2",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MAE/ Atenționare de călătorie: Ungaria - restricții de circulație pentru camioanele de mare tonaj",
+        "link": "https://agerpres.ro/social/2026/10/21/mae-atentionare-de-calatorie-ungaria---restrictii-de-circulatie-pentru-camioanele-de-mare-tonaj--1605535",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_fa75e9b0e9",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Cluj: Un bărbat a murit într-un accident rutier în Jucu",
+        "link": "https://agerpres.ro/social/2026/10/21/cluj-un-barbat-a-murit-intr-un-accident-rutier-in-jucu--1605532",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_6961ca51a9",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rogobete - solicitare către Unitățile de Primiri Urgențe: Vreau să știm exact, în timp real, unde există probleme",
+        "link": "https://agerpres.ro/sanatate/2026/10/21/rogobete---solicitare-catre-unitatile-de-primiri-urgente-vreau-sa-stim-exact-in-timp-real-unde-exist--1605530",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_0092e4cceb",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Thelyson Orelien a utilizat inteligența artificială în cel mai recent roman al său, anunță editura sa canadiană",
+        "link": "https://agerpres.ro/cultura/2026/10/21/thelyson-orelien-a-utilizat-inteligenta-artificiala-in-cel-mai-recent-roman-al-sau-anunta-editura-sa--1605531",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_4b31435125",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Baschet masculin: CSM CSU Oradea a obținut a doua sa victorie din grupă în FIBA Europe Cup",
+        "link": "https://agerpres.ro/sport/2026/10/21/baschet-masculin-csm-csu-oradea-a-obtinut-a-doua-sa-victorie-din-grupa-in-fiba-europe-cup--1605528",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_17cb511eae",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mureșan nu se plânge de 'arbitrajul' președintelui în criza politică: 'Trebuie să câștigăm nu cu 1-0, ci cu 3-0 la următoarele alegeri parlamentare'",
+        "link": "https://agerpres.ro/politic/2026/10/21/muresan-nu-se-plange-de-arbitrajul-presedintelui-in-criza-politica-trebuie-sa-castigam-nu-cu-1-0-ci---1605526",
+        "image": "",
+        "summary": "",
+        "category": "Politika",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_c9ef8933e1",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "SUA: Curtea Supremă a blocat o politică a administrației Trump care vizează deținuții transgender",
+        "link": "https://agerpres.ro/politic-extern/2026/10/21/sua-curtea-suprema-a-blocat-o-politica-a-administratiei-trump-care-vizeaza-detinutii-transgender--1605524",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_8f7e477cf8",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MAE/ Atenționare de călătorie: Serbia - restricții ale traficului auto în Belgrad",
+        "link": "https://agerpres.ro/politic/2026/10/21/mae-atentionare-de-calatorie-serbia---restrictii-ale-traficului-auto-in-belgrad--1605523",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "published_at": 1792540800
+      }
+    ]
+  },
+  {
+    "group_id": "group_1ab8f4879b",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Nicolae Grigore s-a despărțit de clubul din Liga 2: „Colaborarea s-a încheiat!”",
+        "link": "https://www.gsp.ro/fotbal/liga-2/nicolae-grigore-gloria-bistrita-liga-2-990800.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/03062026/597f14a8-ce6e-4371-a632-ba7fe8951971.jpg?width=290&height=208",
+        "summary": "Divizionara secundă Gloria Bistrița, ocupanta locului 12, a anunțat despărțirea de antrenorul Nicolae Grigore (43 de ani). Nicolae Grigore era antrenorul celor de la Gloria Bistrița din luna august a anului 2025. Acesta i-a condus pe bistrițeni în 39 de partide și a obținut o medie de 1.49 puncte pe meci. ...",
+        "category": "Sport",
+        "published_at": 1792610743
+      }
+    ]
+  },
+  {
+    "group_id": "group_d5a19c4c15",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Thibaut Courtois dezvăluie: „M-au dat afară din grupul de WhatsApp al echipei”",
+        "link": "https://www.gsp.ro/international/campionate/thibaut-courtois-dezvaluie-m-au-dat-afara-din-grupul-de-whatsapp-al-echipei-990790.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/07122023/fe9ced7e-b2b6-4883-8952-98f21f0228cd.jpg?width=290&height=208",
+        "summary": "Thibaut Courtois (34 de ani) a dezvăluit un episod bizar legat de absența sa de la acțiunile internaționale, recunoscând că a fost eliminat de pe canalul oficial de comunicare al naționalei din Belgia. Portarul a dezvăluit și că se află în negocieri cu Real Madrid pentru prelungirea contractului scadent la finalul acestui sezon. „M-au dat afară din grupul de WhatsApp al jucătorilor. Acel grup servește la transmiterea informațiilor, cum ar fi programul antrenamentelor. ...",
+        "category": "Sport",
+        "published_at": 1792610598
+      }
+    ]
+  },
+  {
+    "group_id": "group_50989f3e23",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Sorin Costreie: Telefoanele în clasă distrag atenția. Nu ne trebuie mari studii",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-costreie-telefoanele-in-clasa-distrag-atentia-nu-ne-trebuie-mari-studii-4003249",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTM3N18zMDI1/Mzc3X3NvcmluLWNvc3RyZWllLWRpZ2ky/NC5wbmcmaGFzaD03OTA1ZTc1NTY4NzdkMDhiZjFiMWMzZmY3ZTQ2YTgzZA==.png",
+        "summary": "Sorin Costreie, noul ministru al Educației, a spus la Digi24 că lăsarea telefoanelor în afara sălilor de clasă este o soluție bună în școli. De asemenea, el este de părere că în acest caz, profesorii trebuie să colaboreze cu părinții. Întrebat dacă este blamabil faptul că se întâmplă ca profesorul să permită păstrarea telefonului în timpul orelor, Costreie l-a întrebat pe Cosmin Prelipceanu, dacă „suntem aici pentru o inchiziție a profesorilor”.",
+        "category": "Általános",
+        "published_at": 1792610465
+      }
+    ]
+  },
+  {
+    "group_id": "group_7b9fd44718",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Dan Neculăescu, discuții cu omologul leton despre securitatea Mării Negre. Mesajul transmis de ministrul român",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/dan-neculaescu-discutii-cu-omologul-leton-despre-securitatea-marii-negre-mesajul-transmis-de-ministrul-roman-4003279",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTM4NF8zMDI1/Mzg0X0lEMjkzNTQ4LUlOUVVBTS1QSE9U/T1MtTUFMSU5BLU5PUk9DRUEuanBnJmhh/c2g9YjhjMTExNzBiZmVjYjg1NTliNzViMjYzNTMwYThlZTk=.jpg",
+        "summary": "Ministrul Afacerilor Externe, Dan Neculăescu, a anunțat că a avut un schimb de opinii cu omologul său leton, Baiba Braže, privind securitatea euroatlantică și importanța strategică a Mării Negre. Oficialul român a reafirmat sprijinul României pentru activitatea Letoniei în cadrul Consiliului de Securitate al ONU.",
+        "category": "Általános",
+        "published_at": 1792610311
+      }
+    ]
+  },
+  {
+    "group_id": "group_87d4564117",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "UTA Arad, probleme mari înaintea meciului cu FC Argeș: „E greu de anticipat ce ar putea să mai inventeze Mihalcea”",
+        "link": "https://hotnews.ro/uta-arad-probleme-mari-inaintea-meciului-cu-fc-arges-e-greu-de-anticipat-ce-ar-putea-sa-mai-inventeze-mihalcea-2382953",
+        "image": "",
+        "summary": "UTA Arad se confruntă cu o criză de efectiv înaintea meciului de sâmbătă, de la ora 18:00, cu FC Argeș, Adrian Mihalcea având la dispoziție un singur fundaș central apt. După victoria cu CFR Cluj, arădenii i-au pierdut pe căpitanul Alexandru Benga și pe Dmytro Pospielov, ambii suspendați după ce au ajuns la patru cartonașe …",
+        "category": "Általános",
+        "published_at": 1792610952
+      }
+    ]
+  },
+  {
+    "group_id": "group_3f3b6f5798",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Noi informații pentru șoferii de TIR-uri care tranzitează o țară vecină României. Ce restricții se aplică în perioada 23-25 octombrie",
+        "link": "https://www.mediafax.ro/social/noi-informatii-pentru-soferii-de-tir-uri-care-tranziteaza-o-tara-vecina-romaniei-ce-restrictii-se-aplica-in-perioada-23-25-octombrie-23829592",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/06/7755936-hepta-mediafax-foto-abacapress-hepta-1-1024x683.jpg",
+        "summary": "Ministerul Afacerilor Externe (MAE) anunță că Ungaria a schimbat programul restricțiilor de circulație pentru camioanele cu o greutate mai mare de 7,5 tone, în perioada 23-25 octombrie 2026.",
+        "category": "Általános",
+        "published_at": 1792610264
+      }
+    ]
+  },
+  {
+    "group_id": "group_7a184111e4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Restricții de călătorie din cauza protestelor din Franța și Serbia. Îndemnul MAE",
+        "link": "https://www.mediafax.ro/externe/restrictii-de-calatorie-din-cauza-protestelor-din-franta-si-serbia-indemnul-mae-23829578",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/5418039-mediafax_foto-andreea_alexandru-1024x681.jpg",
+        "summary": "Autoritățile impun restricții de călătorie în Franța și Serbia, în urma protestelor studenților. Atenționarea emisă de MAE este valabilă joi, pentru cei aflați în Belgrad, și sâmbătă, pentru cei care se vor afla pe teritoriul Franței.",
+        "category": "Általános",
+        "published_at": 1792609969
+      }
+    ]
+  },
+  {
+    "group_id": "group_34e6d061a8",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un mecanic și-a vândut mașina preferată cu 4.000 de lire după divorț. 35 de ani mai târziu, a răscumpărat-o cu 16.000 de lire",
+        "link": "https://stirileprotv.ro/divers/un-mecanic-si-a-vandut-masina-preferata-cu-4-000-de-lire-dupa-divort-35-de-ani-mai-tarziu-a-rascumparat-o-cu-16-000-de-lire.html",
+        "image": "https://stirileprotv.ro/img/2026/10/21/192126/mecanic-masina.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+        "summary": "Un bărbat care a fost nevoit să-și vândă mașina preferată în urma unui divorț a reușit să o cumpere înapoi după 35 de ani, după ce a descoperit-o într-un anunț de vânzare publicat pe eBay.",
+        "category": "Általános",
+        "published_at": 1792610505
+      }
+    ]
+  },
+  {
+    "group_id": "group_e461ff4680",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "O tânără din SUA și-a pierdut logodnicul cu câteva luni înainte de nuntă, iar restaurantul refuză să-i returneze 16.000 de dolari",
+        "link": "https://stirileprotv.ro/stiri/international/o-tanara-din-sua-si-a-pierdut-logodnicul-cu-cateva-luni-inainte-de-nunta-iar-restaurantul-refuza-sa-i-returneze-16-000-de-dolari.html",
+        "image": "https://stirileprotv.ro/img/2026/10/21/191724/shutterstock-2279461595.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C587%2C0%2C0&w=1280",
+        "summary": "O tânără din Texas încearcă să recupereze aproape 16.000 de dolari plătiți pentru nunta care nu a mai avut loc, după ce logodnicul ei, în vârstă de 25 de ani, a murit subit cu câteva luni înainte de ceremonie.",
+        "category": "Általános",
+        "published_at": 1792610252
       }
     ]
   }
