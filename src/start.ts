@@ -28,8 +28,17 @@ const csrfMiddleware = createCsrfMiddleware({
 // stirix.ro → 301 hirx.ro (magyar böngésző) vagy strix.ro (minden más).
 const domainMiddleware = createMiddleware().server(async ({ next, request }) => {
   const url = new URL(request.url);
+  const cookie = request.headers.get("cookie") ?? "";
+  // A látogató kifejezetten a románt választotta: ne dobjuk vissza a hirx.ro-ra.
+  if (url.searchParams.get("lang") === "ro" || /(?:^|;\s*)stirix-lang=ro/.test(cookie)) {
+    const res = await next();
+    if (url.searchParams.get("lang") === "ro") {
+      try { res.response.headers.append("set-cookie", "stirix-lang=ro; Path=/; Max-Age=31536000; SameSite=Lax"); } catch {}
+    }
+    return res;
+  }
   const target = domainRedirect(request.headers.get("host") ?? url.host, request.headers.get("accept-language"), url.pathname + url.search);
-  if (target) return new Response(null, { status: 301, headers: { location: target, vary: "Accept-Language" } });
+  if (target) return new Response(null, { status: 302, headers: { location: target, vary: "Accept-Language, Cookie" } });
   return next();
 });
 

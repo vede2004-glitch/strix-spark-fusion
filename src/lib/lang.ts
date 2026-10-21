@@ -18,7 +18,11 @@ export function setLang(l: Lang) {
   if (locked && l !== current && typeof window !== "undefined") {
     try { localStorage.setItem(KEY, l); } catch {}
     const target = l === "hu" ? "https://hirx.ro" : "https://stirix.ro";
-    window.location.href = target + window.location.pathname + window.location.search;
+    const q = new URLSearchParams(window.location.search);
+    q.delete("lang");
+    if (l === "ro") q.set("lang", "ro");
+    const qs = q.toString();
+    window.location.href = target + window.location.pathname + (qs ? "?" + qs : "");
     return;
   }
   current = l;
