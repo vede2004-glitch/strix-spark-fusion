@@ -33,7 +33,7 @@ const domainMiddleware = createMiddleware().server(async ({ next, request }) => 
   if (url.searchParams.get("lang") === "ro" || /(?:^|;\s*)stirix-lang=ro/.test(cookie)) {
     const res = await next();
     if (url.searchParams.get("lang") === "ro") {
-      try { res.response.headers.append("set-cookie", "stirix-lang=ro; Path=/; Max-Age=31536000; SameSite=Lax"); } catch {}
+      try { (res as any).response?.headers.append("set-cookie", "stirix-lang=ro; Path=/; Max-Age=31536000; SameSite=Lax"); } catch {}
     }
     return res;
   }
