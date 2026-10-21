@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_9ac0e757ef",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Bíróságon támadja meg a Sanitas a közegészségügyi alkalmazottak jövedelemcsökkentését",
-        "link": "https://www.mediatica.ro/hirek/aktualis/birosagon-tamadja-meg-a-sanitas-a-kozegeszsegugyi-alkalmazottak-jovedelemcsokkenteset",
-        "image": "",
-        "summary": "Három hónapra 300 lejjel mérsékelték a különleges munkakörülményekért járó pótlékot, szeptemberben pedig felére csökkentették az étkezési támogatást.",
-        "category": "Általános",
-        "published_at": 1792466131
-      }
-    ]
-  },
-  {
     "group_id": "group_ffb6023a46",
     "category": "Erdély",
     "articles_count": 1,
@@ -28,54 +12,6 @@
         "summary": "A miniszter szerint a támogatáspolitikában a közösségi kezdeményezésekre, a kultúra és a magyar nyelv megőrzésére, valamint az érintettekkel folytatott párbeszédre helyezik a hangsúlyt.",
         "category": "Erdély",
         "published_at": 1792467296
-      }
-    ]
-  },
-  {
-    "group_id": "group_8b58b69cbe",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Idegenben győzött a Marosvásárhelyi CSM a férfi kosárlabda-bajnokságban",
-        "link": "https://www.mediatica.ro/hirek/sport/idegenben-gyozott-a-marosvasarhelyi-csm-a-ferfi-kosarlabda-bajnoksagban",
-        "image": "",
-        "summary": "A CS Vâlcea otthonában 91-83-ra győzött a városi sportklub.",
-        "category": "Sport",
-        "published_at": 1792466776
-      }
-    ]
-  },
-  {
-    "group_id": "group_903ea1ba4f",
-    "category": "Erdély",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Erdély arcait és hagyományait mutatja be Bálint Zsigmond fotókiállítása",
-        "link": "https://www.mediatica.ro/hirek/kultura/erdely-arcait-es-hagyomanyait-mutatja-be-balint-zsigmond-fotokiallitasa",
-        "image": "",
-        "summary": "A marosvásárhelyi fotográfus munkáiból nyíló tárlatot október 22-én 17 órakor nyitják meg a Kultúrpalotában.",
-        "category": "Erdély",
-        "published_at": 1792466529
-      }
-    ]
-  },
-  {
-    "group_id": "group_ab56a85a27",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Economedia",
-        "title": "Ce afaceri mai au rușii în România. De la Alro Slatina la Lukoil",
-        "link": "https://economedia.ro/ce-afaceri-mai-au-rusii-in-romania-de-la-alro-slatina-la-lukoil.html",
-        "image": "https://www.economedia.ro/wp-content/uploads/2025/11/dreamstime_m_33270928-1024x607.jpg",
-        "summary": "În România, există mai multe afaceri cu capital rusesc, dintre care unele nu sunt supuse sancţiunilor UE şi SUA, iar altele sunt. Vom face o relatare succintă despre acestea, cu nume şi domeniu de activitate, cu menţiunea că multe sunt în proces de rebranding sau vânzarea către alţi investitori care nu ar avea legături cu […]",
-        "category": "Gazdaság",
-        "published_at": 1792467050
       }
     ]
   },
@@ -117,38 +53,6 @@
         "summary": "Az 1956-os magyarországi forradalom romániai következményeiről rendeznek tudományos konferenciát október 27-28-án Bukarestben a történelmi események 70. évfordulója alkalmából - közölte az MTI-vel a szervező bukaresti Liszt Intézet.",
         "category": "Általános",
         "published_at": 1792519500
-      }
-    ]
-  },
-  {
-    "group_id": "group_9a01520497",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Emil Constantinescu jelenlétében avatják fel a sepsiszentgyörgyi kommunizmus-múzeumot",
-        "link": "https://www.mediatica.ro/hirek/aktualis/emil-constantinescu-jelenleteben-avatjak-fel-a-sepsiszentgyorgyi-kommunizmus-muzeumot",
-        "image": "",
-        "summary": "A létesítményt majdnem 12 millió eurós költséggel alakították ki.",
-        "category": "Kultúra",
-        "published_at": 1792466308
-      }
-    ]
-  },
-  {
-    "group_id": "group_f3f5d377fb",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Újabb 350 ezer adag influenzaoltás kerül forgalomba",
-        "link": "https://www.mediatica.ro/hirek/aktualis/ujabb-350-ezer-adag-influenzaoltas-kerul-forgalomba",
-        "image": "",
-        "summary": "Október végéig további 250 ezer adag válik még elérhetővé, miután a szeptemberben kiszállított első készletek nagyrészt elfogytak.",
-        "category": "Gazdaság",
-        "published_at": 1792465833
       }
     ]
   },
@@ -16703,6 +16607,22 @@
         "summary": "Președintele Volodimir Zelenski a declarat marți că Ucraina primește din nou avertismente timpurii de la partenerii săi cu privire la rachetele rusești care se apropie, în urma atacurilor recente despre care a spus că au avut loc fără o notificare prealabilă, lăsând civilii vulnerabili.",
         "category": "Általános",
         "published_at": 1792550766
+      }
+    ]
+  },
+  {
+    "group_id": "group_e907e8d600",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Nu e nici Grecia, nici Italia! Orașul spectaculos din Europa unde găsești arhitectură de poveste și vestigii romane",
+        "link": "https://www.cancan.ro/nu-e-nici-grecia-nici-italia-orasul-spectaculos-din-europa-unde-gasesti-arhitectura-de-poveste-si-vestigii-romane-21533501",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/bitola.jpg-1200x675.jpeg",
+        "summary": "Europa ascunde încă destinații spectaculoase care nu au fost transformate în adevărate furnicare turistice, iar una dintre ele se află în Macedonia de Nord, la o distanță potrivită pentru o călătorie cu mașina din România. Bitola, supranumit „orașul consulilor”, îmbină farmecul balcanic cu eleganța arhitecturii europene, moștenirea otomană și vestigiile unei civilizații vechi de peste […]",
+        "category": "Bulvár",
+        "published_at": 1792553406
       }
     ]
   }
