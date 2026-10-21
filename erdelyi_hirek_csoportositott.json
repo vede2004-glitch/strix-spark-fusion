@@ -16,40 +16,6 @@
     ]
   },
   {
-    "group_id": "group_31941ba16f",
-    "category": "Bulvár",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "Prognoza meteo marți, 20 octombrie 2026. Vremea îi ia prin surprindere pe români! Unde vor fi 22 de grade și în ce zone noaptea aduce doar 1 grad",
-        "link": "https://www.cancan.ro/prognoza-meteo-marti-20-octombrie-2026-vremea-ii-ia-prin-surprindere-pe-romani-unde-vor-fi-22-de-grade-si-in-ce-zone-noaptea-aduce-doar-1-grad-21532684",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/vreme-.jpg-1200x675.jpeg",
-        "summary": "Vremea schimbă din nou registrul în România, iar marți, 20 octombrie 2026, meteorologii anunță temperaturi de până la 22 de grade Celsius, dar și ploi în mai multe regiuni ale țării. În timp ce locuitorii din sud-vest și din extremitatea sudică se vor bucura de o după-amiază neobișnuit de blândă pentru a doua jumătate a […]",
-        "category": "Bulvár",
-        "published_at": 1792463433
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Se schimbă vremea în România. Prognoza meteo pentru patru săptămâni",
-        "link": "https://stirileprotv.ro/stiri/vremea/se-schimba-vremea-in-romania-prognoza-meteo-pentru-patru-saptamani.html",
-        "image": "https://stirileprotv.ro/img/2026/02/05/165131/shutterstock-2564547829-2.jpg?fm=jpg&q=80&fit=crop&crop=4594%2C2919%2C0%2C0&w=1280",
-        "summary": "Vremea va fi mai caldă decât în mod obișnuit în cea mai mare parte a țării, în primele două săptămâni. În prima săptămână sunt așteptate și cantități de precipitații peste cele normale, în special în regiunile de nord-est.",
-        "category": "Általános",
-        "published_at": 1792472033
-      },
-      {
-        "source": "Mediafax",
-        "title": "Vremea se schimbă în România. Ce anunță ANM pentru următoarele patru săptămâni",
-        "link": "https://www.mediafax.ro/social/vremea-se-schimba-in-romania-ce-anunta-anm-pentru-urmatoarele-patru-saptamani-23828430",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8074881-mediafax_foto-alexandra_pandrea_gmn1-1024x683.jpg",
-        "summary": "România va avea parte de temperaturi ușor peste cele normale și de precipitații mai abundente decât de obicei în săptămâna 19-26 octombrie, potrivit estimărilor publicate de Administrația Națională de Meteorologie (ANM). În următoarele trei săptămâni, temperaturile și cantitățile de precipitații vor reveni, în general, în jurul valorilor normale pentru această perioadă.",
-        "category": "Általános",
-        "published_at": 1792471168
-      }
-    ]
-  },
-  {
     "group_id": "group_fab1ce65aa",
     "category": "Politika",
     "articles_count": 1,
@@ -1374,18 +1340,27 @@
     ]
   },
   {
-    "group_id": "group_e8389425de",
-    "category": "Gazdaság",
-    "articles_count": 1,
+    "group_id": "group_31941ba16f",
+    "category": "Általános",
+    "articles_count": 2,
     "articles": [
       {
-        "source": "Adevărul",
-        "title": "România vrea în „clubul bogaților” din Europa. Planul Guvernului Niculescu și întrebarea unui fost diplomat: „Ce să facem noi acolo?”",
-        "link": "https://adevarul.ro/stiri-interne/romania-vrea-in-clubul-bogatilor-din-europa-2564613.html",
-        "image": "https://cdn.adh.reperio.news/image-6/647f24aa-39ae-4d48-ad42-6ddabca1813e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Aderarea la OCDE și sprijinirea companiilor românești pentru a câștiga contracte internaționale finanțate de Uniunea Europeană se numără printre obiectivele de politică externă ale programului de guvernare propus de Luca Niculescu.",
-        "category": "Gazdaság",
-        "published_at": 1792462285
+        "source": "ProTV Stiri",
+        "title": "Se schimbă vremea în România. Prognoza meteo pentru patru săptămâni",
+        "link": "https://stirileprotv.ro/stiri/vremea/se-schimba-vremea-in-romania-prognoza-meteo-pentru-patru-saptamani.html",
+        "image": "https://stirileprotv.ro/img/2026/02/05/165131/shutterstock-2564547829-2.jpg?fm=jpg&q=80&fit=crop&crop=4594%2C2919%2C0%2C0&w=1280",
+        "summary": "Vremea va fi mai caldă decât în mod obișnuit în cea mai mare parte a țării, în primele două săptămâni. În prima săptămână sunt așteptate și cantități de precipitații peste cele normale, în special în regiunile de nord-est.",
+        "category": "Általános",
+        "published_at": 1792472033
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vremea se schimbă în România. Ce anunță ANM pentru următoarele patru săptămâni",
+        "link": "https://www.mediafax.ro/social/vremea-se-schimba-in-romania-ce-anunta-anm-pentru-urmatoarele-patru-saptamani-23828430",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8074881-mediafax_foto-alexandra_pandrea_gmn1-1024x683.jpg",
+        "summary": "România va avea parte de temperaturi ușor peste cele normale și de precipitații mai abundente decât de obicei în săptămâna 19-26 octombrie, potrivit estimărilor publicate de Administrația Națională de Meteorologie (ANM). În următoarele trei săptămâni, temperaturile și cantitățile de precipitații vor reveni, în general, în jurul valorilor normale pentru această perioadă.",
+        "category": "Általános",
+        "published_at": 1792471168
       }
     ]
   },
@@ -6638,7 +6613,7 @@
   {
     "group_id": "group_8e354837a0",
     "category": "Gazdaság",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Economedia",
@@ -6648,6 +6623,15 @@
         "summary": "Costul unei expediții rutiere devine de la 1 octombrie mai sensibil la traseu, tipul de drum și caracteristicile vehiculului, iar o rută cu taxă mai mică poate ajunge mai scumpă, arată o analiză realizată de Raben Romania, furnizor de servicii de transport rutier și soluții logistice. „Schimbarea vine odată cu introducerea TollRo, noul sistem de […]",
         "category": "Gazdaság",
         "published_at": 1792490701
+      },
+      {
+        "source": "Adevărul",
+        "title": "TollRo scumpește transportul de marfă. Cum ar putea ajunge noile taxe în prețurile produselor",
+        "link": "https://adevarul.ro/economie/tollro-scumpeste-transportul-de-marfa-cum-ar-2565286.html",
+        "image": "https://cdn.adh.reperio.news/image-2/2e6fd500-d51e-4198-aa84-23bb49663d1d/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Introducerea sistemului TollRo, de la 1 octombrie 2026, schimbă modul în care transportatorii calculează costul curselor pe drumurile din România. Noua taxare, bazată pe distanța parcursă și pe caracteristicile vehiculului, poate majora costul unei expediții cu peste 5% în anumite situații.",
+        "category": "Általános",
+        "published_at": 1792548985
       }
     ]
   },
@@ -13864,7 +13848,7 @@
   {
     "group_id": "group_3c28c85cea",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "G4Media",
@@ -13883,6 +13867,15 @@
         "summary": "Coreea de Nord a publicat un nou set de fotografii care par să confirme că liderul Kim Jong-un este în viață.",
         "category": "Általános",
         "published_at": 1792521504
+      },
+      {
+        "source": "Adevărul",
+        "title": "Liderul nord-coreean, „în comă” din nou? De ce reapar periodic zvonurile despre moartea lui Kim Jong Un",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/liderul-nord-coreean-in-coma-din-nou-de-ce-2565334.html",
+        "image": "https://cdn.adh.reperio.news/image-9/9914e2cd-a6c4-4353-a8c7-eef20095d015/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Pe fondul informațiilor potrivit cărora liderul nord-coreean Kim Jong Un ar fi suferit o hemoragie cerebrală și s-ar afla în comă, au apărut zvonuri privind moartea sa. Cu toate acestea, presa de stat nord-coreeană a publicat fotografii în care acesta apare într-o stare de sănătate bună.",
+        "category": "Általános",
+        "published_at": 1792548205
       }
     ]
   },
@@ -16573,6 +16566,22 @@
         "summary": "O fotografie cu un Lamborghini estimat la 300.000 de euro, parcat neregulamentar în București a stârnit o dezbatere aprinsă. Mulți români au ironizat situația, făcând referire la tariful de cinci lei pe oră pentru parcare în zonă.",
         "category": "Általános",
         "published_at": 1792547485
+      }
+    ]
+  },
+  {
+    "group_id": "group_91c126bc77",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Brazilia denunță o tentativă de interferență în turul doi al alegerilor prezidențiale",
+        "link": "https://www.mediafax.ro/externe/brazilia-denunta-o-tentativa-de-interferenta-in-turul-doi-al-alegerilor-prezidentiale-23829050",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/lula-1024x753.jpg",
+        "summary": "Ministerul de Externe al Braziliei l-a acuzat marți pe Javier Milei de „tentativă de amestec” în turul doi al alegerilor prezidențiale de duminică, după ce președintele argentinian a sugerat că omologul său brazilian Lula da Silva ar putea „fura alegerile”.",
+        "category": "Általános",
+        "published_at": 1792549230
       }
     ]
   }
