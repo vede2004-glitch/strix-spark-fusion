@@ -1,8 +1,8 @@
 name: 1. RSS Scraper (10 min)
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'
+  repository_dispatch:
+    types: [rss-scraper-trigger]
   workflow_dispatch:
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
       - name: Scraper futtatása
         run: python weboldalparolas.py
 
-      - name: Memória fájlok mentése
+      - name: Memória elmentése
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
