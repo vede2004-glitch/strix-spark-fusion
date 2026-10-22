@@ -1,0 +1,36 @@
+name: 1. RSS Scraper (10 min)
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Kód letöltése
+        uses: actions/checkout@v4
+
+      - name: Python környezet beállítása
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Függőségek telepítése
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Scraper futtatása
+        run: python weboldalparolas.py
+
+      - name: Memória fájlok mentése
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json
+          git diff --staged --quiet || (git commit -m "update: RSS adatok frissítése [skip ci]" && git push)
