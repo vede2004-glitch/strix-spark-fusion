@@ -64,13 +64,19 @@ def calculate_similarity(text1: str, text2: str) -> float:
     return SequenceMatcher(None, text1, text2).ratio()
 
 def check_has_new_info_with_ai(existing_summary: str, new_article_text: str) -> bool:
-    """2. LÉPÉS: Villám-kérdés az AI-nak: van-e érdemi új információ?"""
+    """
+    2. LÉPÉS: Villám-kérdés az AI-nak.
+    - Bemenet: Csak az első 1200 karakter (token-megtakarítás).
+    - Kimenet: max_tokens=5 (azonnali leállás IGEN/NEM után).
+    """
+    truncated_new_text = new_article_text[:1200] if new_article_text else ""
+
     prompt = f"""
 MEGLÉVŐ ÖSSZEFOGLALÓ:
 {existing_summary}
 
-ÚJ CIKK TARTALMA:
-{new_article_text}
+ÚJ CIKK TARTALMA (RÉSZLET):
+{truncated_new_text}
 
 FELADAT:
 Tartalmaz az új cikk BÁRMILYEN ÉRDEMI ÚJ TÉNYT, adatot, fejleményt vagy új nyilatkozatot a meglévő összefoglalóhoz képest?
@@ -80,7 +86,7 @@ Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=5,
+            max_tokens=5,  # 🔒 Szigorú korlátozás az ellenőrző válaszra
             temperature=0.0
         )
         answer = response.choices[0].message.content.strip().upper()
@@ -116,7 +122,7 @@ def fetch_full_article_text(url: str) -> str:
         return ""
 
 def process_single_article(art: dict) -> dict:
-    # 💡 a teljes, vágatlan cikk-tartalmat használjuk a maximális pontosságért
+    # 💡 A teljes, vágatlan cikk-tartalmat használjuk a 3. lépésben a maximális pontosságért
     full_text = fetch_full_article_text(art.get("link", ""))
     content_to_use = full_text if len(full_text) > 120 else art.get("summary", "")
 
@@ -254,7 +260,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
     latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
     try:
-        # 💡 max_tokens korlátozás nélkül hívjuk meg az API-t
+        # 💡 A teljes szintézisnél nincs válaszhossz-korlátozás a maximális részletességért!
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[
@@ -417,7 +423,7 @@ def run_synthesis_direct():
                 stats["skipped_hybrid_filter"] += 1
                 continue
 
-            # 2. LÉPÉS: OLCSÓ AI DÖNTNÖKI IGEN/NEM KÉRDÉS
+            # 2. LÉPÉS: OLCSÓ AI DÖNTNÖKI IGEN/NEM KÉRDÉS (Csonkított input + max_tokens=5)
             elif similarity > 0.40:
                 print(f"🔍 2. hibrid szűrő: Csoport [{g_id}] részleges átfedés ({similarity*100:.1f}%). AI döntéshozatal...")
                 has_new_info = check_has_new_info_with_ai(existing_summary, new_text)
