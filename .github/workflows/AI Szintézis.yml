@@ -9,7 +9,7 @@ jobs:
   synthesize:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Írási jog a frissített cikkek commitolásához
+      contents: write
 
     steps:
       - name: Kód letöltése a repóból
