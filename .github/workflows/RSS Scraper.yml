@@ -32,10 +32,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git fetch origin main
+          git pull --rebase origin main
           git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json
           git diff --staged --quiet || (
-            git fetch origin main && \
-            git pull --rebase origin main && \
             git commit -m "update: RSS adatok frissítése [skip ci]" && \
             git push
           )
