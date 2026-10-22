@@ -35,9 +35,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # Elmentjük a végleges, szintetizált JSON fájlokat az src/data/ mappába
           git add src/data/
-          git diff --staged --quiet || git commit -m "Auto-update: Szintetizált hírek frissítése [skip ci]"
-          git fetch origin main
-          git pull --rebase origin main
-          git push
+          git diff --staged --quiet || (
+            git commit -m "Auto-update: Szintetizált hírek frissítése [skip ci]" && \
+            git fetch origin main && \
+            git pull --rebase origin main && \
+            git push
+          )
