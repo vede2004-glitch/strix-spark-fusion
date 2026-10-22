@@ -1,18 +1,18 @@
 name: 2. AI Szintézis (1 hour)
 
 on:
-  schedule:
-    - cron: '0 * * * *'
+  repository_dispatch:
+    types: [ai-synthesis-trigger]
   workflow_dispatch:
 
 jobs:
   synthesize:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Írási jog a frissített cikkek commitolásához
 
     steps:
-      - name: Kód letöltése
+      - name: Kód letöltése a repóból
         uses: actions/checkout@v4
 
       - name: Python környezet beállítása
@@ -25,14 +25,19 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: AI Szintézis futtatása
+      - name: AI Szintézis script futtatása
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python cikk_szintetizalas.py
+        run: |
+          python cikk_szintetizalas.py
 
-      - name: Végleges cikkek mentése
+      - name: Szintetizált cikkek elmentése a GitHubra
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # Elmentjük a végleges, szintetizált JSON fájlokat az src/data/ mappába
           git add src/data/
-          git diff --staged --quiet || (git commit -m "update: szintetizált hírek frissítése [skip ci]" && git push)
+          git diff --staged --quiet || git commit -m "Auto-update: Szintetizált hírek frissítése [skip ci]"
+          git fetch origin main
+          git pull --rebase origin main
+          git push
