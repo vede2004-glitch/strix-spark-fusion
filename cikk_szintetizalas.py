@@ -4,6 +4,7 @@ import time
 import requests
 import hashlib
 from bs4 import BeautifulSoup
+from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor
 from openai import OpenAI
 
@@ -30,7 +31,8 @@ HEADERS = {
 # ==============================================================================
 def fix_hungarian_names(text: str) -> str:
     """
-    Kijavítja a gyakori román/nemzetközi nevek sorrendjét a helyes magyar névsorrendre (Vezetéknév + Keresztnév).
+    Kijavítja a gyakori román/magyar nevek sorrendjét a helyes magyar névsorrendre (Vezetéknév + Keresztnév),
+    míg a külföldi (pl. amerikai, nyugat-európai) neveket érintetlenül hagyja.
     """
     if not text:
         return text
@@ -47,7 +49,7 @@ def fix_hungarian_names(text: str) -> str:
         "Mircea Geoană": "Geoană Mircea",
         "Elena Lasconi": "Lasconi Elena",
         "Diana Șoșoacă": "Șoșoacă Diana",
-        "Kelemen Hunor": "Kelemen Hunor",  # Már helyes
+        "Kelemen Hunor": "Kelemen Hunor",
     }
     
     for wrong_name, correct_name in name_replacements.items():
@@ -55,10 +57,40 @@ def fix_hungarian_names(text: str) -> str:
         
     return text
 
+def calculate_similarity(text1: str, text2: str) -> float:
+    """Kiszámolja két szöveg hasonlóságát 0.0 és 1.0 között (ingyen Pythonban)."""
+    if not text1 or not text2:
+        return 0.0
+    return SequenceMatcher(None, text1, text2).ratio()
+
+def check_has_new_info_with_ai(existing_summary: str, new_article_text: str) -> bool:
+    """2. LÉPÉS: Villám-kérdés az AI-nak: van-e érdemi új információ?"""
+    prompt = f"""
+MEGLÉVŐ ÖSSZEFOGLALÓ:
+{existing_summary}
+
+ÚJ CIKK TARTALMA:
+{new_article_text}
+
+FELADAT:
+Tartalmaz az új cikk BÁRMILYEN ÉRDEMI ÚJ TÉNYT, adatot, fejleményt vagy új nyilatkozatot a meglévő összefoglalóhoz képest?
+Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
+"""
+    try:
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=5,
+            temperature=0.0
+        )
+        answer = response.choices[0].message.content.strip().upper()
+        return "IGEN" in answer
+    except Exception as e:
+        print(f"⚠️ Hiba az AI döntéshozatal során: {e}")
+        return True  # Hiba esetén biztonsági okból engedélyezzük a frissítést
+
 def calculate_fingerprint(articles_or_sources: list) -> str:
-    """
-    Kiszámítja a cikkek vagy források linkjei alapján a csoport egyedi ujjlenyomatát (hash).
-    """
+    """Kiszámítja a cikkek vagy források linkjei alapján a csoport egyedi ujjlenyomatát (hash)."""
     links = []
     for item in articles_or_sources:
         link = item.get("link", "")
@@ -84,8 +116,10 @@ def fetch_full_article_text(url: str) -> str:
         return ""
 
 def process_single_article(art: dict) -> dict:
+    # 💡 a teljes, vágatlan cikk-tartalmat használjuk a maximális pontosságért
     full_text = fetch_full_article_text(art.get("link", ""))
     content_to_use = full_text if len(full_text) > 120 else art.get("summary", "")
+
     return {
         "source": art.get("source", ""),
         "title": art.get("title", ""),
@@ -147,9 +181,9 @@ FELADAT:
 3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
 4. Írd meg a frissített összefoglalót MAGYAR és ROMÁN nyelven is!
 
-SZIGORÚ NÉVHASZNÁLATI SZABÁLY (MAGYAR NYELVEN):
-- Minden magyar és romániai személynevet A HAGYOMÁNYOS MAGYAR NÉVSORRENDBEN (Vezetéknév + Keresztnév) írj ki!
-- Például: "Bolojan Ilie" (és NE "Ilie Bolojan"), "Niculescu Luca" (és NE "Luca Niculescu"), "Simion George" (és NE "George Simion").
+SZIGORÚ NÉVSORRENDI SZABÁLY:
+- A MAGYAR és erdélyi magyar/román személyneveket MAGYAR NÉVSORRENDBEN (Vezetéknév + Keresztnév) írd ki (pl. Magyar Péter, Bolojan Ilie, Simion George).
+- A KÜLFÖLDI (pl. amerikai, nyugat-európai) neveket tartsd meg a saját eredeti sorrendjükben (pl. Donald Trump, Joe Biden, Ursula von der Leyen).
 
 SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
@@ -184,9 +218,9 @@ FELADAT ÉS SZŰRÉS:
 3. Ha a szűrés után nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
 4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
 
-SZIGORÚ NÉVHASZNÁLATI SZABÁLY (MAGYAR NYELVEN):
-- Minden magyar és romániai személynevet A HAGYOMÁNYOS MAGYAR NÉVSORRENDBEN (Vezetéknév + Keresztnév) írj ki!
-- Például: "Bolojan Ilie" (és NE "Ilie Bolojan"), "Niculescu Luca" (és NE "Luca Niculescu"), "Simion George" (és NE "George Simion").
+SZIGORÚ NÉVSORRENDI SZABÁLY:
+- A MAGYAR és erdélyi magyar/román személyneveket MAGYAR NÉVSORRENDBEN (Vezetéknév + Keresztnév) írd ki (pl. Magyar Péter, Bolojan Ilie, Simion George).
+- A KÜLFÖLDI (pl. amerikai, nyugat-európai) neveket tartsd meg a saját eredeti sorrendjükben (pl. Donald Trump, Joe Biden, Ursula von der Leyen).
 
 SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
 - A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
@@ -220,6 +254,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
     latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
     try:
+        # 💡 max_tokens korlátozás nélkül hívjuk meg az API-t
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[
@@ -283,7 +318,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         return [], False, is_update
 
 # ==============================================================================
-# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT (12 ÓRÁS AI SZINTÉZIS + 24 ÓRÁS MEGŐRZÉS)
+# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT (HIBRID SZŰRŐVEL)
 # ==============================================================================
 def run_synthesis_direct():
     if not os.path.exists(MEMORY_FILE):
@@ -306,8 +341,7 @@ def run_synthesis_direct():
     
     CURRENT_TIME = int(time.time())
     
-    # ⏱️ IDŐABLAK MÉRÉSEK:
-    AI_PROCESS_CUTOFF = CURRENT_TIME - (12 * 3600)  # AI szintézis: Csak az elmúlt 12 óra friss hírei (GYORS!)
+    AI_PROCESS_CUTOFF = CURRENT_TIME - (12 * 3600)  # AI szintézis: Csak az elmúlt 12 óra friss hírei
     RETENTION_CUTOFF = CURRENT_TIME - (24 * 3600)   # Kimentés a news.json-ba: 24 órányi hír megőrzése
 
     stats = {
@@ -315,6 +349,7 @@ def run_synthesis_direct():
         "expired_groups": 0,
         "single_source_groups": 0,
         "skipped_fingerprint": 0,
+        "skipped_hybrid_filter": 0,
         "processed_by_ai": 0
     }
 
@@ -354,16 +389,50 @@ def run_synthesis_direct():
         current_fingerprint = calculate_fingerprint(articles)
         existing_synth = existing_articles.get(g_id)
 
-        if existing_synth:
+        # 🛑 HIBRID SZŰRŐ PIPELINE FUTTATÁSA A MEGLÉVŐ CIKKEKRE
+        if existing_synth and existing_synth.get("is_synthesized"):
             existing_fingerprint = existing_synth.get("fingerprint")
             if not existing_fingerprint and "sources" in existing_synth:
                 existing_fingerprint = calculate_fingerprint(existing_synth["sources"])
 
+            # Meglévő ujjlenyomat pontos egyezése (0$ költség)
             if existing_fingerprint and current_fingerprint == existing_fingerprint:
                 stats["skipped_fingerprint"] += 1
                 continue
 
-        # 2. CSAK AZ ELMÚLT 12 ÓRÁBAN ÉRKEZETT HÍREKET KÜLDJÜK AI SZINTÉZISRE:
+            # 1. LÉPÉS: INGYENES PYTHON HASONLÓSÁGI SZŰRÉS (difflib)
+            newest_article = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
+            new_text = newest_article.get("summary", "") or newest_article.get("title", "")
+            existing_summary = existing_synth.get("content_hu", "")
+            
+            similarity = calculate_similarity(new_text, existing_summary)
+
+            if similarity > 0.85:
+                print(f"🛑 1. hibrid szűrő: Csoport [{g_id}] {similarity*100:.1f}%-ban azonos. AI kihagyva, forrás csatolva! (0$)")
+                for a in articles:
+                    src_entry = {"source": a.get("source", ""), "title": a.get("title", ""), "link": a.get("link", "")}
+                    if src_entry not in existing_synth.get("sources", []):
+                        existing_synth.setdefault("sources", []).append(src_entry)
+                existing_synth["sources_count"] = len(existing_synth["sources"])
+                stats["skipped_hybrid_filter"] += 1
+                continue
+
+            # 2. LÉPÉS: OLCSÓ AI DÖNTNÖKI IGEN/NEM KÉRDÉS
+            elif similarity > 0.40:
+                print(f"🔍 2. hibrid szűrő: Csoport [{g_id}] részleges átfedés ({similarity*100:.1f}%). AI döntéshozatal...")
+                has_new_info = check_has_new_info_with_ai(existing_summary, new_text)
+                
+                if not has_new_info:
+                    print(f"🛑 2. hibrid szűrő: Az AI szerint nincs új információ [{g_id}]. Frissítés kihagyva!")
+                    for a in articles:
+                        src_entry = {"source": a.get("source", ""), "title": a.get("title", ""), "link": a.get("link", "")}
+                        if src_entry not in existing_synth.get("sources", []):
+                            existing_synth.setdefault("sources", []).append(src_entry)
+                    existing_synth["sources_count"] = len(existing_synth["sources"])
+                    stats["skipped_hybrid_filter"] += 1
+                    continue
+
+        # 3. CSAK AZ ELMÚLT 12 ÓRÁBAN ÉRKEZETT HÍREKET KÜLDJÜK TELJES AI SZINTÉZISRE
         if latest_timestamp >= AI_PROCESS_CUTOFF:
             multi_groups.append((g_id, articles, existing_synth, current_fingerprint))
 
@@ -435,6 +504,7 @@ def run_synthesis_direct():
         json.dump(sorted(history.values(), key=lambda x: x.get("published_at", 0), reverse=True), f, ensure_ascii=False, indent=2)
 
     print(f"💾 Összesen {len(final_sorted_list)} friss (24 órás megőrzésű) cikk mentve a {OUTPUT_FILE} fájlba.")
+    print(f"📉 Hibrid szűrő statisztika: {stats['skipped_hybrid_filter']} csoportnál spóroltunk meg felesleges AI újragenerálást!")
 
 if __name__ == "__main__":
     run_synthesis_direct()
