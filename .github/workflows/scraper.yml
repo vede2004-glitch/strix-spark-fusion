@@ -1,8 +1,6 @@
 name: Hírgyűjtő és AI Szintetizáló
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   repository_dispatch:
     types: [cron-job-trigger]
   workflow_dispatch:
