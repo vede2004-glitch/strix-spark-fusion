@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_64142f91fc",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "O rută neașteptată pentru exporturile de cereale ale Moscovei. În septembrie, două treimi au trecut printr-o țară considerată o adversară a Rusiei",
+        "link": "https://hotnews.ro/o-ruta-neasteptata-pentru-exporturile-de-cereale-ale-moscovei-in-septembrie-doua-treimi-au-trecut-printr-o-tara-considerata-o-adversara-a-rusiei-2385759"
+      }
+    ],
+    "published_at": 1792870443,
+    "title_hu": "O rută neașteptată pentru exporturile de cereale ale Moscovei. În septembrie, două treimi au trecut printr-o țară considerată o adversară a Rusiei",
+    "lead_hu": "Letonia, stat membru al Uniunii Europene şi NATO, s-a numărat printre primele cinci ţări prin care au fost transportate cereale ruseşti în actualul sezon de comercializare, în pofida relaţiilor politi...",
+    "content_hu": "Letonia, stat membru al Uniunii Europene şi NATO, s-a numărat printre primele cinci ţări prin care au fost transportate cereale ruseşti în actualul sezon de comercializare, în pofida relaţiilor politice tensionate, în timp ce Moscova îşi redirecţionează exporturile din bazinul Mării Azov şi al Mării Negre către porturile baltice, relatează Reuters, preluată de Agerpres. Aproximativ …",
+    "title_ro": "O rută neașteptată pentru exporturile de cereale ale Moscovei. În septembrie, două treimi au trecut printr-o țară considerată o adversară a Rusiei",
+    "lead_ro": "Letonia, stat membru al Uniunii Europene şi NATO, s-a numărat printre primele cinci ţări prin care au fost transportate cereale ruseşti în actualul sezon de comercializare, în pofida relaţiilor politi...",
+    "content_ro": "Letonia, stat membru al Uniunii Europene şi NATO, s-a numărat printre primele cinci ţări prin care au fost transportate cereale ruseşti în actualul sezon de comercializare, în pofida relaţiilor politice tensionate, în timp ce Moscova îşi redirecţionează exporturile din bazinul Mării Azov şi al Mării Negre către porturile baltice, relatează Reuters, preluată de Agerpres. Aproximativ …"
+  },
+  {
+    "group_id": "group_10900c5901",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pexels-lucaspezeta-9203999-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Geamuri aburite pe ploaie: trei greșeli pe care le fac aproape toți șoferii",
+        "link": "https://www.mediafax.ro/auto/geamuri-aburite-pe-ploaie-trei-greseli-pe-care-le-fac-aproape-toti-soferii-23829837"
+      }
+    ],
+    "published_at": 1792870113,
+    "title_hu": "Geamuri aburite pe ploaie: trei greșeli pe care le fac aproape toți șoferii",
+    "lead_hu": "Când plouă și se răcește, parbrizul se acoperă repede cu un strat de abur, iar unele dintre gesturile pe care le fac din reflex șoferii nu rezolvă problema, ci o agravează....",
+    "content_hu": "Când plouă și se răcește, parbrizul se acoperă repede cu un strat de abur, iar unele dintre gesturile pe care le fac din reflex șoferii nu rezolvă problema, ci o agravează.",
+    "title_ro": "Geamuri aburite pe ploaie: trei greșeli pe care le fac aproape toți șoferii",
+    "lead_ro": "Când plouă și se răcește, parbrizul se acoperă repede cu un strat de abur, iar unele dintre gesturile pe care le fac din reflex șoferii nu rezolvă problema, ci o agravează....",
+    "content_ro": "Când plouă și se răcește, parbrizul se acoperă repede cu un strat de abur, iar unele dintre gesturile pe care le fac din reflex șoferii nu rezolvă problema, ci o agravează."
+  },
+  {
     "group_id": "group_cabe7aca5b",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/7c2c00cb-d2c0-4afa-afe5-ab074169320f.jpg?width=290&height=208",
@@ -1424,7 +1466,7 @@
     "image": "https://cdn.adh.reperio.news/image-b/bcbf49dd-9898-4afc-8a2f-b77d902df3b1/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Adevărul",
@@ -1440,6 +1482,11 @@
         "source": "ProTV Stiri",
         "title": "Universitatea din Iași i-a suspendat contractul de muncă lui Alexandru Toader, arestat pentru agresiune sexuală",
         "link": "https://stirileprotv.ro/stiri/actualitate/universitatea-din-iasi-i-a-suspendat-contractul-de-munca-lui-alexandru-toader-arestat-pentru-agresiune-sexuala.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "UAIC anunță că arestarea lectorului universitar Alexandru Toader atrage automat suspendarea contractului său de muncă / Universitatea continuă ancheta de etică și ia în calcul revizuirea mecanismelor de prevenire și sesizare a hărțuirii",
+        "link": "https://www.g4media.ro/uaic-alexandru-toader-arestare-suspendare-contract-ancheta-etica.html"
       }
     ],
     "published_at": 1792862765,
@@ -12549,6 +12596,27 @@
     "content_ro": "Ziua de 24 octombrie vine cu perspective promițătoare în plan financiar pentru trei semne zodiacale. Din punct de vedere astrologic, conjuncția dintre Soare și Venus este asociată cu prosperitatea, oportunitățile și capacitatea de a atrage lucrurile pe care ni le dorim. Acest context astral le poate oferi nativilor mai multă încredere în propriile forțe și […]"
   },
   {
+    "group_id": "group_b91b6ee317",
+    "category": "Politika",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/chapay-canadian-2711155_1920-e1787374681116.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "WSJ: Statele Unite vor elimina tarifele de 50% pentru unele produse canadiene, pentru a-i ajuta pe republicani în alegerile de la jumătatea mandatului",
+        "link": "https://www.g4media.ro/wsj-statele-unite-vor-elimina-tarifele-de-50-pentru-unele-produse-canadiene-pentru-a-i-ajuta-pe-republicani-in-alegerile-de-la-jumatatea-mandatului.html"
+      }
+    ],
+    "published_at": 1792787716,
+    "title_hu": "WSJ: Statele Unite vor elimina tarifele de 50% pentru unele produse canadiene, pentru a-i ajuta pe republicani în alegerile de la jumătatea mandatului",
+    "lead_hu": "Se preconizează că administrația americană ar urma să elimine tarifele de 50% care sunt aplicate anumitor produse agricole și forestiere canadiene, în încercarea de a o ajuta pe senatoarea din Maine, ...",
+    "content_hu": "Se preconizează că administrația americană ar urma să elimine tarifele de 50% care sunt aplicate anumitor produse agricole și forestiere canadiene, în încercarea de a o ajuta pe senatoarea din Maine, Susan Collins, dar și pe alți republicani din statele din nordul SUA în cadrul viitoarelor alegeri de la jumătatea mandatului, a relatat vineri The Wall […] © G4Media.ro.",
+    "title_ro": "WSJ: Statele Unite vor elimina tarifele de 50% pentru unele produse canadiene, pentru a-i ajuta pe republicani în alegerile de la jumătatea mandatului",
+    "lead_ro": "Se preconizează că administrația americană ar urma să elimine tarifele de 50% care sunt aplicate anumitor produse agricole și forestiere canadiene, în încercarea de a o ajuta pe senatoarea din Maine, ...",
+    "content_ro": "Se preconizează că administrația americană ar urma să elimine tarifele de 50% care sunt aplicate anumitor produse agricole și forestiere canadiene, în încercarea de a o ajuta pe senatoarea din Maine, Susan Collins, dar și pe alți republicani din statele din nordul SUA în cadrul viitoarelor alegeri de la jumătatea mandatului, a relatat vineri The Wall […] © G4Media.ro."
+  },
+  {
     "group_id": "group_5c0bf265dd",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNiUyRjAzJTJGMTk5MDQzMF8xOTkw/NDMwX3Byb2ZpbWVkaWEtMDc5MjAwMzQy/Mi5qcGcmaGFzaD1hYmYyNGMxNGE4YzJlMDNkM2E4ZDZmZGZhYzYyZDQyYg==.jpg",
@@ -13130,12 +13198,17 @@
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/03/imagine-reprezentativa-horoscop-1024x683.png",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "HOROSCOP 24 octombrie. Banii și familia aduc surprize pentru zodii, dar tensiunile în iubire pot strica armonia. Ce rezervă astrele",
         "link": "https://www.mediafax.ro/horoscop/horoscop-24-octombrie-banii-si-familia-aduc-surprize-pentru-zodii-dar-tensiunile-in-iubire-pot-strica-armonia-ce-rezerva-astrele-23830856"
+      },
+      {
+        "source": "Mediafax",
+        "title": "HOROSCOP 25 octombrie. Surprize în iubire și schimbări financiare. Ce zodii trebuie să fie atente la familie și bani",
+        "link": "https://www.mediafax.ro/horoscop/horoscop-25-octombrie-surprize-in-iubire-si-schimbari-financiare-ce-zodii-trebuie-sa-fie-atente-la-familie-si-bani-23831145"
       }
     ],
     "published_at": 1792784423,
@@ -13213,132 +13286,6 @@
     "title_ro": "Cine transmite la TV cursa de Formula 1 din SUA, în care Kimi Antonelli poate deveni campion mondial",
     "lead_ro": "Sezonul 2026 de Formula 1 prevede 23 de Mari Premii și 6 curse sprint. Al 18-lea Mare Premiu din acest an, în Austin, SUA, va avea loc duminică, 25 octombrie, ora 22:00. În acest articol, pe care-l vo…",
     "content_ro": "Sezonul 2026 de Formula 1 prevede 23 de Mari Premii și 6 curse sprint. Al 18-lea Mare Premiu din acest an, în Austin, SUA, va avea loc duminică, 25 octombrie, ora 22:00. În acest articol, pe care-l vom actualiza în fiecare săptămână de cursă pe parcursul sezonului, veți găsi informații despre televizarea calificărilor și curselor. Este ultimul an din calupul de 3 pentru care grupul Antena a cumpărat drepturile de televizare în România. ..."
-  },
-  {
-    "group_id": "group_5a986e7403",
-    "category": "Politika",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/856984188_1995610424442234_5689532789474268207_n.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Un liberal care a plecat la cerere în urmă cu trei zile odată cu toți secretarii de stat PNL din Guvernul Bolojan, numit de premierul Luca Niculescu înapoi în funcție / Cine este Mihnea Claudiu Drumea",
-        "link": "https://www.g4media.ro/un-liberal-care-a-plecat-la-cerere-in-urma-cu-trei-zile-odata-cu-toti-secretarii-de-stat-pnl-din-guvernul-bolojan-numit-de-premierul-luca-niculescu-inapoi-in-functie-cine-este-mihnea-claudiu-drumea.html"
-      }
-    ],
-    "published_at": 1792784163,
-    "title_hu": "Un liberal care a plecat la cerere în urmă cu trei zile odată cu toți secretarii de stat PNL din Guvernul Bolojan, numit de premierul Luca Niculescu înapoi în funcție / Cine este Mihnea Claudiu Drumea",
-    "lead_hu": "Mihnea Claudiu Drumea, membru PNL, a fost numit, vineri, de către premierul Luca Niculescu în funcția de secretar de stat în cadrul Cancelariei Prim-Ministrului, la doar trei zile după ce liberalul de…",
-    "content_hu": "Mihnea Claudiu Drumea, membru PNL, a fost numit, vineri, de către premierul Luca Niculescu în funcția de secretar de stat în cadrul Cancelariei Prim-Ministrului, la doar trei zile după ce liberalul demisionase din Guvern, așa cum au făcut toți secretarii de stat PNL la încheierea mandatului premierului Ilie Bolojan. „Începând cu data de 23 octombrie […] © G4Media.ro.",
-    "title_ro": "Un liberal care a plecat la cerere în urmă cu trei zile odată cu toți secretarii de stat PNL din Guvernul Bolojan, numit de premierul Luca Niculescu înapoi în funcție / Cine este Mihnea Claudiu Drumea",
-    "lead_ro": "Mihnea Claudiu Drumea, membru PNL, a fost numit, vineri, de către premierul Luca Niculescu în funcția de secretar de stat în cadrul Cancelariei Prim-Ministrului, la doar trei zile după ce liberalul de…",
-    "content_ro": "Mihnea Claudiu Drumea, membru PNL, a fost numit, vineri, de către premierul Luca Niculescu în funcția de secretar de stat în cadrul Cancelariei Prim-Ministrului, la doar trei zile după ce liberalul demisionase din Guvern, așa cum au făcut toți secretarii de stat PNL la încheierea mandatului premierului Ilie Bolojan. „Începând cu data de 23 octombrie […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_14f34b292b",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-0/06fa3394-1f2e-4c27-b3ba-6a8555f2d544/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0%252C0.995%252C0.868%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Donald Trump insistă asupra „dreptului” de a candida pentru un al treilea mandat de președinte al SUA",
-        "link": "https://adevarul.ro/stiri-externe/sua/donald-trump-insista-asupra-dreptului-de-a-2566200.html"
-      }
-    ],
-    "published_at": 1792784127,
-    "title_hu": "Donald Trump insistă asupra „dreptului” de a candida pentru un al treilea mandat de președinte al SUA",
-    "lead_hu": "Donald Trump a declarat că „are dreptul să candideze din nou” pentru un al treilea mandat la președinția Statelor Unite, reluând o afirmație pe care a mai făcut-o de mai multe ori, pe subiectul unei n…",
-    "content_hu": "Donald Trump a declarat că „are dreptul să candideze din nou” pentru un al treilea mandat la președinția Statelor Unite, reluând o afirmație pe care a mai făcut-o de mai multe ori, pe subiectul unei noi candidaturi prezidențiale, chiar dacă acest lucru este neconstituțional.",
-    "title_ro": "Donald Trump insistă asupra „dreptului” de a candida pentru un al treilea mandat de președinte al SUA",
-    "lead_ro": "Donald Trump a declarat că „are dreptul să candideze din nou” pentru un al treilea mandat la președinția Statelor Unite, reluând o afirmație pe care a mai făcut-o de mai multe ori, pe subiectul unei n…",
-    "content_ro": "Donald Trump a declarat că „are dreptul să candideze din nou” pentru un al treilea mandat la președinția Statelor Unite, reluând o afirmație pe care a mai făcut-o de mai multe ori, pe subiectul unei noi candidaturi prezidențiale, chiar dacă acest lucru este neconstituțional."
-  },
-  {
-    "group_id": "group_3ab7cef2c4",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22467/23264268/1/rezervoare-rafinaria-petromidia.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Campionul Bursei de Valori Bucureşti. De ce şi cum au explodat acţiunile Rompetrol Rafinare cu peste 700% de la începutul anului? După multiple maxime istorice, compania valorează 16 mld. lei şi a ajuns abia acum la evaluarea OMV Petrom de aproape 30 de ori profitul net",
-        "link": "https://www.zf.ro/burse-fonduri-mutuale/campionul-bursei-valori-bucuresti-au-explodat-actiunile-rompetrol-rafinare-peste-700-inceputul-anului-dupa-multiple-maxime-istorice-compania-valoreaza-16-mld-lei-ajuns-acum-evaluarea-omv-petrom-23264268"
-      }
-    ],
-    "published_at": 1792783980,
-    "title_hu": "Campionul Bursei de Valori Bucureşti. De ce şi cum au explodat acţiunile Rompetrol Rafinare cu peste 700% de la începutul anului? După multiple maxime istorice, compania valorează 16 mld. lei şi a ajuns abia acum la evaluarea OMV Petrom de aproape 30 de ori profitul net",
-    "lead_hu": "Una dintre cele mai mari surprize ale anului 2026 pe piaţa de capital vine de la Rompetrol Rafinare (simbol bursier RRC), o companie ale cărei acţiuni au trecut mult timp aproape neobservate la Bursa …",
-    "content_hu": "Una dintre cele mai mari surprize ale anului 2026 pe piaţa de capital vine de la Rompetrol Rafinare (simbol bursier RRC), o companie ale cărei acţiuni au trecut mult timp aproape neobservate la Bursa de Valori Bucureşti, în pofida dimensiunii cifrei de afaceri a societăţii.",
-    "title_ro": "Campionul Bursei de Valori Bucureşti. De ce şi cum au explodat acţiunile Rompetrol Rafinare cu peste 700% de la începutul anului? După multiple maxime istorice, compania valorează 16 mld. lei şi a ajuns abia acum la evaluarea OMV Petrom de aproape 30 de ori profitul net",
-    "lead_ro": "Una dintre cele mai mari surprize ale anului 2026 pe piaţa de capital vine de la Rompetrol Rafinare (simbol bursier RRC), o companie ale cărei acţiuni au trecut mult timp aproape neobservate la Bursa …",
-    "content_ro": "Una dintre cele mai mari surprize ale anului 2026 pe piaţa de capital vine de la Rompetrol Rafinare (simbol bursier RRC), o companie ale cărei acţiuni au trecut mult timp aproape neobservate la Bursa de Valori Bucureşti, în pofida dimensiunii cifrei de afaceri a societăţii."
-  },
-  {
-    "group_id": "group_6c646bb1f0",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/23264803/1/zac-wolff-rv2oodqunui-unsplash.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Alertă în industria AI. Două dintre cele mai avansate modele OpenAI şi-au dezactivat singure sistemele de monitorizare a siguranţei. Unul dintre ele a negat ulterior că ar fi făcut acest lucru",
-        "link": "https://www.zf.ro/business-international/alerta-in-industria-ai-doua-dintre-cele-mai-avansate-modele-openai-si-au-dezactivat-singure-sistemele-de-monitorizare-a-sigurantei-unul-dintre-ele-a-negat-ulterior-ca-ar-fi-facut-acest-lucru-23264803"
-      }
-    ],
-    "published_at": 1792783980,
-    "title_hu": "Alertă în industria AI. Două dintre cele mai avansate modele OpenAI şi-au dezactivat singure sistemele de monitorizare a siguranţei. Unul dintre ele a negat ulterior că ar fi făcut acest lucru",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Alertă în industria AI. Două dintre cele mai avansate modele OpenAI şi-au dezactivat singure sistemele de monitorizare a siguranţei. Unul dintre ele a negat ulterior că ar fi făcut acest lucru",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_eef8c2573b",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-8/8ec394ac-be3d-46c0-b5ac-f690982809bf/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Trump mai vrea al treilea mandat? De ce nu dacă și Putin și XI au reușit performanța nemuririi pe scaunul de președinte de republică?",
-        "link": "https://adevarul.ro/blogurile-adevarul/trump-mai-vrea-al-treilea-mandat-de-ce-nu-daca-si-2566201.html"
-      }
-    ],
-    "published_at": 1792783905,
-    "title_hu": "Trump mai vrea al treilea mandat? De ce nu dacă și Putin și XI au reușit performanța nemuririi pe scaunul de președinte de republică?",
-    "lead_hu": "De coșmar, ați putea zice dacă asta ar interesa cumva spațiul românesc.",
-    "content_hu": "De coșmar, ați putea zice dacă asta ar interesa cumva spațiul românesc.",
-    "title_ro": "Trump mai vrea al treilea mandat? De ce nu dacă și Putin și XI au reușit performanța nemuririi pe scaunul de președinte de republică?",
-    "lead_ro": "De coșmar, ați putea zice dacă asta ar interesa cumva spațiul românesc.",
-    "content_ro": "De coșmar, ați putea zice dacă asta ar interesa cumva spațiul românesc."
-  },
-  {
-    "group_id": "group_610baef982",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21332/23264205/1/betfair.png?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Lovitură dură pentru Cluj: Gigantul Betfair anunţă circa 300 de concedieri - parte a unei restructurări globale, care va lovi 1.400 de oameni. Compania dă vina pe creşterea taxelor din Marea Britanie",
-        "link": "https://www.zf.ro/business-hi-tech/lovitura-dura-pentru-cluj-gigantul-betfair-anunta-circa-300-de-concedieri-parte-a-unei-restructurari-globale-care-va-lovi-1-400-de-oameni-compania-da-vina-pe-cresterea-taxelor-din-marea-britanie-23264205"
-      }
-    ],
-    "published_at": 1792783860,
-    "title_hu": "Lovitură dură pentru Kolozsvár: Gigantul Betfair anunţă circa 300 de concedieri - parte a unei restructurări globale, care va lovi 1.400 de oameni. Compania dă vina pe creşterea taxelor din Marea Britanie",
-    "lead_hu": "Betfair Romania Development, centrul de dezvoltare software din Kolozsvár al grupului de pariuri şi jocuri de noroc Flutter Entertainment, a anunţat că aproximativ 300 de persoane din echipele care de…",
-    "content_hu": "Betfair Romania Development, centrul de dezvoltare software din Kolozsvár al grupului de pariuri şi jocuri de noroc Flutter Entertainment, a anunţat că aproximativ 300 de persoane din echipele care deservesc Marea Britanie şi Irlanda ar urma să fie concediate de companie. Cele circa 300 de plecări sunt incluse în totalul de până la 1.400 de concedieri prevăzut în planul de restructurare al diviziei UK & Ireland. Grupul pune reorganizarea pe seama majorării taxelor britanice.",
-    "title_ro": "Lovitură dură pentru Cluj: Gigantul Betfair anunţă circa 300 de concedieri - parte a unei restructurări globale, care va lovi 1.400 de oameni. Compania dă vina pe creşterea taxelor din Marea Britanie",
-    "lead_ro": "Betfair Romania Development, centrul de dezvoltare software din Kolozsvár al grupului de pariuri şi jocuri de noroc Flutter Entertainment, a anunţat că aproximativ 300 de persoane din echipele care de…",
-    "content_ro": "Betfair Romania Development, centrul de dezvoltare software din Kolozsvár al grupului de pariuri şi jocuri de noroc Flutter Entertainment, a anunţat că aproximativ 300 de persoane din echipele care deservesc Marea Britanie şi Irlanda ar urma să fie concediate de companie. Cele circa 300 de plecări sunt incluse în totalul de până la 1.400 de concedieri prevăzut în planul de restructurare al diviziei UK & Ireland. Grupul pune reorganizarea pe seama majorării taxelor britanice."
   },
   {
     "group_id": "group_165aae214f",
