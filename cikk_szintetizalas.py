@@ -85,7 +85,7 @@ def check_has_new_info_with_ai(existing_summary: str, new_article_text: str) -> 
     """
     Költségkímélő villám-kérdés az AI-nak.
     - Bemenet: Csak az első 1000 karakter vagy a 2 bekezdéses snippet (token-megtakarítás).
-    - Kimenet: max_completion_tokens=5 (azonnali leállás IGEN/NEM után).
+    - Kimenet: max_completion_tokens=15 (stabil IGEN/NEM válaszlehetőség).
     """
     truncated_new_text = new_article_text[:1000] if new_article_text else ""
 
@@ -101,12 +101,11 @@ Tartalmaz az új cikk részlete BÁRMILYEN ÉRDEMI ÚJ TÉNYT, adatot, fejlemén
 Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
 """
     try:
-        print("    🤖 AI ellenőrző hívás indítása (max 5 token)...")
-        # 🎯 FIX: temperature=0.0 eltávolítva a kompatibilitás miatt
+        print("    🤖 AI ellenőrző hívás indítása (max 15 token)...")
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=5
+            max_completion_tokens=15
         )
         answer = response.choices[0].message.content.strip().upper()
         print(f"    🤖 AI válasza az ellenőrzésre: '{answer}'")
