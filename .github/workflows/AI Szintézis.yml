@@ -31,14 +31,16 @@ jobs:
         run: |
           python cikk_szintetizalas.py
 
-      - name: Szintetizált cikkek elmentése a GitHubra
+      - name: AI Szintetizált adatok mentése és Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/
-          git diff --staged --quiet || (
-            git commit -m "Auto-update: Szintetizált hírek frissítése [skip ci]" && \
-            git fetch origin main && \
-            git pull --rebase origin main && \
-            git push
-          )
+          
+          git fetch origin main
+          git add src/data/news.json erdelyi_hirek_memoria.json
+          git diff --staged --quiet || git commit -m "update: AI szintézis frissítve [skip ci]"
+          
+          # Ha ütközik a 10 perces scraperrel, az AI által generált friss tartalom nyer
+          git rebase origin/main -X ours || (git rebase --skip && git add . && git commit -m "update: AI szintézis frissítve [skip ci]")
+          
+          git push origin main
