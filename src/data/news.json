@@ -605,12 +605,17 @@
     "category": "Gazdaság",
     "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/22246/23267177/1/rsz-comert-online-ss.jpg?width=700",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Ziarul Financiar",
         "title": "Românii schimbă coşul de cumpărături: medicamente de 10 lei în loc de 60, comenzi de cărţi sub 100 de lei şi mai multă atenţie la preţ",
         "link": "https://www.zf.ro/zf-24/romanii-schimba-cosul-de-cumparaturi-medicamente-de-10-lei-in-loc-de-60-comenzi-de-carti-sub-100-de-lei-si-mai-multa-atentie-la-pret-23267177"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Egyre árérzékenyebbek a romániai vásárlók, kisebb összegeket költenek",
+        "link": "https://www.mediatica.ro/hirek/gazdasag/egyre-arerzekenyebbek-a-romaniai-vasarlok-kisebb-osszegeket-koltenek"
       }
     ],
     "published_at": 1792860241,
@@ -2513,7 +2518,7 @@
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_9117945-1024x683.jpg",
     "is_synthesized": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Mediafax",
@@ -2544,6 +2549,11 @@
         "source": "ProTV Stiri",
         "title": "Mii de persoane au protestat la Tirana împotriva corupţiei şi a premierului Edi Rama. GALERIE FOTO",
         "link": "https://stirileprotv.ro/stiri/international/mii-de-persoane-au-protestat-la-tirana-impotriva-corup-iei-si-a-premierului-edi-rama-galerie-foto.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Mii de persoane au cerut demisia lui Edi Rama la Tirana / Poliția a intervenit cu gaze lacrimogene, tunuri cu apă și gloanțe de cauciuc",
+        "link": "https://www.g4media.ro/proteste-tirana-demisia-edi-rama-coruptie-studenti.html"
       }
     ],
     "published_at": 1792853514,
@@ -3250,7 +3260,7 @@
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/23102026/06f8715b-46a9-4755-b6a4-3125d93c0670.jpg?width=290&height=208",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -3271,6 +3281,11 @@
         "source": "Mediafax",
         "title": "Superliga de fotbal. Sâmbătă se joacă derbiul FCSB-Rapid București",
         "link": "https://www.mediafax.ro/sport/superliga-de-fotbal-sambata-se-joaca-derbiul-fcsb-rapid-bucuresti-23831037"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "FCSB – Rapid, LIVE acum. Atmosferă încinsă și ceață densă pe Arena Națională",
+        "link": "https://hotnews.ro/fcsb-rapid-live-acum-atmosfera-incinsa-si-ceata-densa-pe-arena-nationala-2385680"
       }
     ],
     "published_at": 1792850738,
@@ -9852,12 +9867,17 @@
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMiUyRjE0JTJGMjE5MDczOF8yMTkw/NzM4X2lsdXN0cmF0aWUtbmF2YS1taXN0/ZXJpb2FzYS5qcGcmaGFzaD05NTVmNzFm/MmNhNjc4NjYwNmI5NGJlYmJiMDUzMjg3NQ==.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "„Triunghi negru” misterios, semnalat deasupra unui obiectiv sensibil din SUA. Ce dezvăluie noile dosare OZN ale Pentagonului",
         "link": "https://www.digi24.ro/stiri/externe/mapamond/triunghi-negru-misterios-semnalat-deasupra-unui-obiectiv-sensibil-din-sua-ce-dezvaluie-noile-dosare-ozn-ale-pentagonului-4006895"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un triunghi negru misterios a zburat cu o viteză incredibilă deasupra unui obiectiv sensibil din SUA. Informații oficiale",
+        "link": "https://stirileprotv.ro/stiri/international/un-triunghi-negru-misterios-a-zburat-cu-o-viteza-incredibila-deasupra-unui-obiectiv-sensibil-din-sua-informatii-oficiale.html"
       }
     ],
     "published_at": 1792821824,
@@ -12150,6 +12170,27 @@
     "content_ro": "Mai mulți milionari celebri care au cumpărat proprietăți de lux într-o zonă exclusivistă din Italia au o problemă neașteptată. Strada pe care se află vilele lor este prea îngustă pentru SUV-uri. Primăria localității încearcă să rezolve problema."
   },
   {
+    "group_id": "group_37f9cf0c5f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Kórházba szállították Vincent Kompanyt, a Bayern München közleményt adott ki",
+        "link": "https://www.mediatica.ro/hirek/sport/korhazba-szallitottak-vincent-kompanyt-a-bayern-munchen-kozlemenyt-adott-ki"
+      }
+    ],
+    "published_at": 1792785555,
+    "title_hu": "Kórházba szállították Vincent Kompanyt, a Bayern München közleményt adott ki",
+    "lead_hu": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén.....",
+    "content_hu": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén..",
+    "title_ro": "Kórházba szállították Vincent Kompanyt, a Bayern München közleményt adott ki",
+    "lead_ro": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén.....",
+    "content_ro": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén.."
+  },
+  {
     "group_id": "group_98e55595c7",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/FotoJet-2026-10-23T223740.550-1200x675.jpg",
@@ -13178,6 +13219,32 @@
     "content_ro": "Huszonnyolcadik alkalommal szervezték meg Marosvásárhelyen a Bernády Napokat."
   },
   {
+    "group_id": "group_10ef01c0d8",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "O autoare a publicat în 20 de luni 371 de cărţi scrise cu ajutorul inteligenţei artificiale. Chat GPT, „foarte bun la dialoguri”. Grok, „total dezinhibat”",
+        "link": "https://hotnews.ro/o-autoare-a-publicat-in-20-de-luni-371-de-carti-scrise-cu-ajutorul-inteligentei-artificiale-chat-gpt-foarte-bun-la-dialoguri-grok-total-dezinhibat-2385017"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Record impresionant: O autoare din Africa de Sud a publicat 371 de cărți cu ajutorul inteligenței artificiale în doar 20 de luni",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/record-impresionant-o-autoare-din-africa-de-sud-a-2566186.html"
+      }
+    ],
+    "published_at": 1792780923,
+    "title_hu": "O autoare a publicat în 20 de luni 371 de cărţi scrise cu ajutorul inteligenţei artificiale. Chat GPT, „foarte bun la dialoguri”. Grok, „total dezinhibat”",
+    "lead_hu": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata ...",
+    "content_hu": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata să o apere, în ciuda criticilor şi ameninţărilor, scrie AFP, preluată de Agerpres. „Escroacă”, „ticăloasă”, „diabolică”, sunt doar câteva dintre epitetele folosite pe reţelele de …",
+    "title_ro": "O autoare a publicat în 20 de luni 371 de cărţi scrise cu ajutorul inteligenţei artificiale. Chat GPT, „foarte bun la dialoguri”. Grok, „total dezinhibat”",
+    "lead_ro": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata ...",
+    "content_ro": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata să o apere, în ciuda criticilor şi ameninţărilor, scrie AFP, preluată de Agerpres. „Escroacă”, „ticăloasă”, „diabolică”, sunt doar câteva dintre epitetele folosite pe reţelele de …"
+  },
+  {
     "group_id": "group_67434d9e8a",
     "category": "Politika",
     "image": "https://www.g4media.ro//wp-content/uploads/2021/07/bogdan-hutuca-pnl-constanta-2.jpg",
@@ -13789,48 +13856,6 @@
     "title_ro": "Tribunalul a dat sentința privind jucătorii crescuți de cluburi » Cum afectează decizia regulamentele UEFA",
     "lead_ro": "Hotărârea dată astăzi în Belgia afectează direct cluburile care participă în cupele europene. Tribunalul de Primă Instanță francofon din Bruxelles a respins apelul depus de Antwerp și fostul ei jucăto…",
     "content_ro": "Hotărârea dată astăzi în Belgia afectează direct cluburile care participă în cupele europene. Tribunalul de Primă Instanță francofon din Bruxelles a respins apelul depus de Antwerp și fostul ei jucător, Lior Refaelov, contra regulilor UEFA, care rezervă anumite locuri pentru jucătorii formați în academie. ..."
-  },
-  {
-    "group_id": "group_0b1918b190",
-    "category": "Erdély",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Clubul Wolf Oradea, 35 de medalii la Cupa României de Taekwon-do ITF. Gazdele au ocupat locul al doilea la juniori și seniori",
-        "link": "https://www.ebihoreanul.ro/stiri/clubul-wolf-oradea-35-de-medalii-la-cupa-romaniei-de-taekwon-do-itf-gazdele-au-ocupat-locul-al-doilea-la-juniori-si-seniori-206070.html"
-      }
-    ],
-    "published_at": 1792778460,
-    "title_hu": "Clubul Wolf Nagyvárad, 35 de medalii la Cupa României de Taekwon-do ITF. Gazdele au ocupat locul al doilea la juniori și seniori",
-    "lead_hu": "Clubul Sportiv Wolf Nagyvárad a cucerit 35 de medalii la Cupa României de Taekwon-do ITF, competiție desfășurată în Arena Antonio Alexe, cu participarea a 359 de sportivi de la 38 de cluburi din țară.…",
-    "content_hu": "Clubul Sportiv Wolf Nagyvárad a cucerit 35 de medalii la Cupa României de Taekwon-do ITF, competiție desfășurată în Arena Antonio Alexe, cu participarea a 359 de sportivi de la 38 de cluburi din țară. Gazdele au încheiat concursul cu un bilanț de 17 medalii de aur, 10 de argint și 8 de bronz, ocupând locul al doilea în clasamentele juniorilor și seniorilor.",
-    "title_ro": "Clubul Wolf Oradea, 35 de medalii la Cupa României de Taekwon-do ITF. Gazdele au ocupat locul al doilea la juniori și seniori",
-    "lead_ro": "Clubul Sportiv Wolf Nagyvárad a cucerit 35 de medalii la Cupa României de Taekwon-do ITF, competiție desfășurată în Arena Antonio Alexe, cu participarea a 359 de sportivi de la 38 de cluburi din țară.…",
-    "content_ro": "Clubul Sportiv Wolf Nagyvárad a cucerit 35 de medalii la Cupa României de Taekwon-do ITF, competiție desfășurată în Arena Antonio Alexe, cu participarea a 359 de sportivi de la 38 de cluburi din țară. Gazdele au încheiat concursul cu un bilanț de 17 medalii de aur, 10 de argint și 8 de bronz, ocupând locul al doilea în clasamentele juniorilor și seniorilor."
-  },
-  {
-    "group_id": "group_4324e4d49e",
-    "category": "Általános",
-    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/1920px-thumbnail-1626x1080.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Go4IT",
-        "title": "Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică",
-        "link": "https://www.go4it.ro/tehnologie-militara/proiectul-warhound-cum-vor-fondatorii-colossal-si-anduril-sa-creeze-super-caini-militari-prin-clonare-si-editare-genetica-19288560/"
-      }
-    ],
-    "published_at": 1792778427,
-    "title_hu": "Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică",
-    "lead_hu": "Ben Lamm, miliardarul din spatele companiei Colossal Biosciences, s-a asociat cu Palmer Luckey, de la firma de apărare Anduril, pentru a lansa Warhound, o nouă inițiativă care are ca scop crearea de c…",
-    "content_hu": "Ben Lamm, miliardarul din spatele companiei Colossal Biosciences, s-a asociat cu Palmer Luckey, de la firma de apărare Anduril, pentru a lansa Warhound, o nouă inițiativă care are ca scop crearea de câini clonați și […] Articolul Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică apare prima dată în Go4IT.",
-    "title_ro": "Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică",
-    "lead_ro": "Ben Lamm, miliardarul din spatele companiei Colossal Biosciences, s-a asociat cu Palmer Luckey, de la firma de apărare Anduril, pentru a lansa Warhound, o nouă inițiativă care are ca scop crearea de c…",
-    "content_ro": "Ben Lamm, miliardarul din spatele companiei Colossal Biosciences, s-a asociat cu Palmer Luckey, de la firma de apărare Anduril, pentru a lansa Warhound, o nouă inițiativă care are ca scop crearea de câini clonați și […] Articolul Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică apare prima dată în Go4IT."
   },
   {
     "group_id": "group_7aca7afe6f",
