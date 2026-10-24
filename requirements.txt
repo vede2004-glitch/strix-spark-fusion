@@ -5,3 +5,5 @@ beautifulsoup4
 sentence-transformers
 openai
 deep-translator
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
