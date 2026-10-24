@@ -257,7 +257,7 @@ def fetch_single_feed(item_and_cutoff):
     return extracted
 
 # ==============================================================================
-# 3. CSOPORTOSÍTÁS, ARCHÍVUM MENTÉS ÉS GYORSHÍR KIMENTÉS A NEWS.JSON-BA
+# 3. CSOPORTOSÍTÁS, ARCHÍVUM MENTÉS ÉS NEWS.JSON BŐVÍTÉS
 # ==============================================================================
 def run_pipeline():
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -325,6 +325,9 @@ def run_pipeline():
             "fetched_at": art["published_at"]
         })
 
+    # ==============================================================================
+    # ARCHIVÁLÁS ÉS MEMÓRIA FRISSÍTÉS (TELJES ARCHÍVUM FELHALMOZÁS)
+    # ==============================================================================
     fresh_memory = []
     archive_updated = False
     existing_archive_links = {a["link"] for a in archive}
@@ -333,6 +336,7 @@ def run_pipeline():
         if item.get("fetched_at", 0) >= cutoff_24h:
             fresh_memory.append(item)
         else:
+            # Ha 24 óránál régebbi, biztosan elmentjük az archívumba
             if item["link"] not in existing_archive_links:
                 clean_arch_item = {k: v for k, v in item.items() if k != "embedding"}
                 archive.append(clean_arch_item)
@@ -342,8 +346,9 @@ def run_pipeline():
     save_json_file(MEMORY_FILE, fresh_memory)
     if archive_updated:
         save_json_file(ARCHIVE_FILE, archive)
-        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az erdelyi_hirek_archivum.json fájlban.")
+        print(f"📦 Archívum frissítve! Összesen {len(archive)} cikk az {ARCHIVE_FILE} fájlban.")
 
+    # Csoportosított memória kiírása
     grouped_dictionary = {}
     for item in fresh_memory:
         g_id = item["group_id"]
@@ -368,15 +373,35 @@ def run_pipeline():
 
     save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
 
+    # ==============================================================================
+    # BŐVÍTŐ NEWS.JSON FRISSÍTÉS (NEM TÖRÖL, MEGTARTJA AZ AI SZINTETIZÁLT CIKKEKET)
+    # ==============================================================================
     os.makedirs("src/data", exist_ok=True)
-    fresh_news = {}
+    existing_news = load_json_file(OUTPUT_FILE)
+    
+    # Kigyűjtjük a meglévő rekordokat a news.json-ból
+    news_map = {item["group_id"]: item for item in existing_news if isinstance(item, dict) and "group_id" in item}
 
     for item in fresh_memory:
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
 
-        if g_id not in fresh_news:
-            fresh_news[g_id] = {
+        # A) HA MÁR BENT VAN A NEWS.JSON-BAN (pl. már AI szintetizált):
+        if g_id in news_map:
+            # Nem bántjuk a címet/leírást és az is_synthesized állapotot, csak a forrást bővítjük!
+            existing_sources = {s.get("link") for s in news_map[g_id].get("sources", [])}
+            new_source_link = item.get("link")
+            
+            if new_source_link and new_source_link not in existing_sources:
+                news_map[g_id].setdefault("sources", []).append({
+                    "source": item.get("source"),
+                    "title": item.get("title"),
+                    "link": item.get("link")
+                })
+        
+        # B) HA ÚJ HÍRCSOPORT, HOZZÁADJUK NYERSKÉNT:
+        else:
+            news_map[g_id] = {
                 "group_id": g_id,
                 "category": item.get("category", "Általános"),
                 "image": item.get("image", ""),
@@ -391,13 +416,16 @@ def run_pipeline():
                 "content_ro": item.get("summary", "")
             }
 
-    raw_list = list(fresh_news.values())
-    raw_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
+    # 24 órán belüli érvényes cikkek megtartása és rendezése
+    updated_list = list(news_map.values())
+    valid_news_list = [item for item in updated_list if item.get("published_at", 0) >= cutoff_24h]
+    valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
+    # Forrás szerinti kiegyensúlyozás (ha szükséges)
     balanced_list = []
     skipped_items = []
 
-    for item in raw_list:
+    for item in valid_news_list:
         item_source = item.get("sources", [{}])[0].get("source")
         if (
             len(balanced_list) >= 2 
@@ -411,7 +439,7 @@ def run_pipeline():
     final_list = balanced_list + skipped_items
 
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ 24 órás hírfrissítés kész! ({len(final_list)} cikk a news.json-ban)")
+    print(f"⚡ 24 órás hírfrissítés kész! Bővítve és megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
