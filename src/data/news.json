@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_c2d0146181",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/09/motorcycle-8366394_1280.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Un motociclist a lovit o căprioară și s-a răsturnat pe DN2 E85 / Tânărul de 28 de ani și animalul au fost răniți",
+        "link": "https://www.g4media.ro/motociclist-ranit-caprioara-dn2-e85-mihailesti-buzau.html"
+      }
+    ],
+    "published_at": 1792862719,
+    "title_hu": "Un motociclist a lovit o căprioară și s-a răsturnat pe DN2 E85 / Tânărul de 28 de ani și animalul au fost răniți",
+    "lead_hu": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de ...",
+    "content_hu": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de mers, răsturnându-se pe carosabil, transmite Agerpres. Potrivit Inspectoratului de Poliție Județean (IPJ) Buzău, accidentul s-a produs în timp ce tânărul, […] © G4Media.ro.",
+    "title_ro": "Un motociclist a lovit o căprioară și s-a răsturnat pe DN2 E85 / Tânărul de 28 de ani și animalul au fost răniți",
+    "lead_ro": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de ...",
+    "content_ro": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de mers, răsturnându-se pe carosabil, transmite Agerpres. Potrivit Inspectoratului de Poliție Județean (IPJ) Buzău, accidentul s-a produs în timp ce tânărul, […] © G4Media.ro."
+  },
+  {
     "group_id": "group_9a6c6bb8cf",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/24/171727/screenshot-2026-10-24-200237.png?fm=jpg&q=80&fit=crop&crop=1057%2C655%2C0%2C0&w=1280",
@@ -1965,7 +1986,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 4,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -1976,6 +1997,16 @@
         "source": "GSP - Gazeta Sporturilor",
         "title": "Președintele Federației Bulgare de Taekwondo, împușcat mortal în casa lui din Sofia",
         "link": "https://www.gsp.ro/sporturi/altele/slavi-binev-bulgaria-taekwondo-asasinat-991764.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Afacerist celebru, găsit fără suflare în propria casă, după ce trei bărbați înarmați au intrat peste el. Ce au descoperit polițiștii bulgari",
+        "link": "https://www.cancan.ro/afacerist-celebru-gasit-fara-suflare-in-propria-casa-dupa-ce-trei-barbati-inarmati-au-intrat-peste-el-ce-au-descoperit-politistii-bulgari-21535893"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Preşedinte al Federaţiei Bulgare de Taekwondo, găsit împușcat în propria casă. Slavi Binev ar fi fost asasinat",
+        "link": "https://adevarul.ro/sport/presedinte-al-federatiei-bulgare-de-taekwondo-2566313.html"
       }
     ],
     "published_at": 1792854448,
@@ -2012,7 +2043,7 @@
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-b/bcbf49dd-9898-4afc-8a2f-b77d902df3b1/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Adevărul",
@@ -2023,6 +2054,11 @@
         "source": "HotNews.ro",
         "title": "Universitatea „Alexandru Ioan Cuza” din Iaşi îi suspendă contractul de muncă lui Alexandru Toader, arestat preventiv pentru viol şi agresiune sexuală",
         "link": "https://hotnews.ro/universitatea-alexandru-ioan-cuza-din-iasi-ii-suspenda-contractul-de-munca-lui-alexandru-toader-arestat-preventiv-pentru-viol-si-agresiune-sexuala-2385677"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Universitatea din Iași i-a suspendat contractul de muncă lui Alexandru Toader, arestat pentru agresiune sexuală",
+        "link": "https://stirileprotv.ro/stiri/actualitate/universitatea-din-iasi-i-a-suspendat-contractul-de-munca-lui-alexandru-toader-arestat-pentru-agresiune-sexuala.html"
       }
     ],
     "published_at": 1792854203,
@@ -12451,6 +12487,27 @@
     "content_ro": "Pentru majoritatea românilor, a căror putere de cumpărare este în cădere liberă, reducerile au devenit un motiv serios să scoată cardul din portofel. Comercianții au mirosit ocazia și anul acesta au dat startul mai devreme la Black Friday."
   },
   {
+    "group_id": "group_199919f172",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Schimbări importante pentru școlile românești din Ucraina. În ce condiții pot fi desființate. Explicațiile autorităților de la Cernăuți",
+        "link": "https://hotnews.ro/schimbari-importante-pentru-scolile-romanesti-din-ucraina-in-ce-conditii-pot-fi-desfiintate-explicatiile-autoritatilor-de-la-cernauti-2385040"
+      }
+    ],
+    "published_at": 1792782839,
+    "title_hu": "Schimbări importante pentru școlile românești din Ucraina. În ce condiții pot fi desființate. Explicațiile autorităților de la Cernăuți",
+    "lead_hu": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de ...",
+    "content_hu": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de administrațiile locale. Modificarea a fost anunțată vineri de Oksana Sacriier, viceguvernatoare a administraţiei din Cernăuţi, regiunea unde trăiește cea mai mare comunitate de …",
+    "title_ro": "Schimbări importante pentru școlile românești din Ucraina. În ce condiții pot fi desființate. Explicațiile autorităților de la Cernăuți",
+    "lead_ro": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de ...",
+    "content_ro": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de administrațiile locale. Modificarea a fost anunțată vineri de Oksana Sacriier, viceguvernatoare a administraţiei din Cernăuţi, regiunea unde trăiește cea mai mare comunitate de …"
+  },
+  {
     "group_id": "group_887c9c4e02",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/28092026/f98ac7a6-69cb-4a0e-bcb5-67262b5a0b76.jpg?width=290&height=208",
@@ -14058,116 +14115,6 @@
     "lead_ro": "Diplomata și ministra de stat a Emiratelor Arabe Unite, Lana Nusseibeh, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan....",
     "content_ro": "Diplomata și ministra de stat a Emiratelor Arabe Unite, Lana Nusseibeh, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan.",
     "sources_count": 2
-  },
-  {
-    "group_id": "group_63769a677f",
-    "category": "Erdély",
-    "image": "https://maszol.ro/resized/2026_oktober/23/cikk_medve_Tusnad_WWF_Facebook.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Medvetámadás Maros megyében – Súlyosan megsérült egy fiatalember",
-        "link": "https://maszol.ro/belfold/Medvetamadas-Maros-megyeben-Sulyosan-megserult-egy-fiatalember"
-      }
-    ],
-    "published_at": 1792776505,
-    "title_hu": "Medvetámadás Maros megyében – Súlyosan megsérült egy fiatalember",
-    "lead_hu": "Medve támadt egy férfire pénteken a Maros megyei Csatófalva (Viișoara) külterületén. Az áldozat a karjain szenvedett harapott sebhelyeket, az orvosi csapatok a helyszínen küzdenek, hogy elállítsák a v…",
-    "content_hu": "Medve támadt egy férfire pénteken a Maros megyei Csatófalva (Viișoara) külterületén. Az áldozat a karjain szenvedett harapott sebhelyeket, az orvosi csapatok a helyszínen küzdenek, hogy elállítsák a vérzést.",
-    "title_ro": "Medvetámadás Maros megyében – Súlyosan megsérült egy fiatalember",
-    "lead_ro": "Medve támadt egy férfire pénteken a Maros megyei Csatófalva (Viișoara) külterületén. Az áldozat a karjain szenvedett harapott sebhelyeket, az orvosi csapatok a helyszínen küzdenek, hogy elállítsák a v…",
-    "content_ro": "Medve támadt egy férfire pénteken a Maros megyei Csatófalva (Viișoara) külterületén. Az áldozat a karjain szenvedett harapott sebhelyeket, az orvosi csapatok a helyszínen küzdenek, hogy elállítsák a vérzést."
-  },
-  {
-    "group_id": "group_b8ec76eff4",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Két és fél millió euróból medvepark épül Szovátán",
-        "link": "https://www.mediatica.ro/hirek/aktualis/ket-es-fel-millio-eurobol-medvepark-epul-szovatan"
-      }
-    ],
-    "published_at": 1792776468,
-    "title_hu": "Két és fél millió euróból medvepark épül Szovátán",
-    "lead_hu": "Élő állatok nem lesznek benne.",
-    "content_hu": "Élő állatok nem lesznek benne.",
-    "title_ro": "Két és fél millió euróból medvepark épül Szovátán",
-    "lead_ro": "Élő állatok nem lesznek benne.",
-    "content_ro": "Élő állatok nem lesznek benne."
-  },
-  {
-    "group_id": "group_fe7f0c1f50",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/04/15/124903/aplicatie-copil-telefon.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Grecia a interzis rețelele sociale pentru copiii sub 15 ani. Legea a fost adoptată de majoritatea de dreapta aflată la guvernare",
-        "link": "https://stirileprotv.ro/stiri/international/grecia-interzice-retelele-sociale-pentru-copiii-sub-15-ani-noile-reguli-vor-intra-in-vigoare-de-la-1-ianuarie-2027.html"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Adio TikTok și Instagram pentru copiii sub 15 ani! Grecia a adoptat legea care le interzice accesul la rețelele sociale",
-        "link": "https://www.ebihoreanul.ro/stiri/adio-tiktok-si-instagram-pentru-copiii-sub-15-ani-grecia-a-adoptat-legea-care-le-interzice-accesul-la-retelele-sociale-206089.html"
-      }
-    ],
-    "published_at": 1792776434,
-    "title_hu": "Grecia a interzis rețelele sociale pentru copiii sub 15 ani. Legea a fost adoptată de majoritatea de dreapta aflată la guvernare",
-    "lead_hu": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din …",
-    "content_hu": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din întreaga lume, transmite AFP.",
-    "title_ro": "Grecia a interzis rețelele sociale pentru copiii sub 15 ani. Legea a fost adoptată de majoritatea de dreapta aflată la guvernare",
-    "lead_ro": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din …",
-    "content_ro": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din întreaga lume, transmite AFP."
-  },
-  {
-    "group_id": "group_f5c8c5e94b",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/06/urs-brun.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Mureș: Un tânăr cioban, mușcat de urs în timp ce era cu oile la pășunat. Intervenție de urgență a echipajelor SMURD și SAJ",
-        "link": "https://www.mediafax.ro/social/mures-un-tanar-cioban-muscat-de-urs-in-timp-ce-era-cu-oile-la-pasunat-interventie-de-urgenta-a-echipajelor-smurd-si-saj-23830809"
-      }
-    ],
-    "published_at": 1792776289,
-    "title_hu": "Mureș: Un tânăr cioban, mușcat de urs în timp ce era cu oile la pășunat. Intervenție de urgență a echipajelor SMURD și SAJ",
-    "lead_hu": "Un cioban în vârstă de aproximativ 25 de ani a fost atacat de urs, vineri seara, în extravilanul localității Viișoara, județul Mureș, în timp ce se afla cu oile la pășunat. El a fost transportat la CP…",
-    "content_hu": "Un cioban în vârstă de aproximativ 25 de ani a fost atacat de urs, vineri seara, în extravilanul localității Viișoara, județul Mureș, în timp ce se afla cu oile la pășunat. El a fost transportat la CPU Segesvár, întrucât prezintă plăgi mușcate la un braț și la un picior.",
-    "title_ro": "Mureș: Un tânăr cioban, mușcat de urs în timp ce era cu oile la pășunat. Intervenție de urgență a echipajelor SMURD și SAJ",
-    "lead_ro": "Un cioban în vârstă de aproximativ 25 de ani a fost atacat de urs, vineri seara, în extravilanul localității Viișoara, județul Mureș, în timp ce se afla cu oile la pășunat. El a fost transportat la CP…",
-    "content_ro": "Un cioban în vârstă de aproximativ 25 de ani a fost atacat de urs, vineri seara, în extravilanul localității Viișoara, județul Mureș, în timp ce se afla cu oile la pășunat. El a fost transportat la CPU Segesvár, întrucât prezintă plăgi mușcate la un braț și la un picior."
-  },
-  {
-    "group_id": "group_35d22c81e7",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Győzött a Craiova, továbbra is hibátlan a Ferencváros az európai kupákban",
-        "link": "https://www.mediatica.ro/hirek/sport/gyozott-a-craiova-tovabbra-is-hibatlan-a-ferencvaros-az-europai-kupakban"
-      }
-    ],
-    "published_at": 1792776282,
-    "title_hu": "Győzött a Craiova, továbbra is hibátlan a Ferencváros az európai kupákban",
-    "lead_hu": "A Konferencialigában a 2., az Európa-ligában a 3. forduló mérkőzéseit játszották.",
-    "content_hu": "A Konferencialigában a 2., az Európa-ligában a 3. forduló mérkőzéseit játszották.",
-    "title_ro": "Győzött a Craiova, továbbra is hibátlan a Ferencváros az európai kupákban",
-    "lead_ro": "A Konferencialigában a 2., az Európa-ligában a 3. forduló mérkőzéseit játszották.",
-    "content_ro": "A Konferencialigában a 2., az Európa-ligában a 3. forduló mérkőzéseit játszották."
   },
   {
     "group_id": "group_7aca7afe6f",
