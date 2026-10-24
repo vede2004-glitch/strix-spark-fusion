@@ -1,5 +1,52 @@
 [
   {
+    "group_id": "group_799ae9cd0a",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-4/41223b90-863c-446d-8ea8-c50f14ddbfb2/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Viagra, folosită și pentru o afecțiune care afectează mai ales femeile. Ce legătură are celebra pastilă albastră cu mâinile reci",
+        "link": "https://adevarul.ro/stiri-interne/societate/viagra-folosita-si-pentru-o-afectiune-care-2566107.html"
+      }
+    ],
+    "published_at": 1792863757,
+    "title_hu": "Viagra, folosită și pentru o afecțiune care afectează mai ales femeile. Ce legătură are celebra pastilă albastră cu mâinile reci",
+    "lead_hu": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâ...",
+    "content_hu": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâini și picioare, mai ales la contactul cu frigul. Este vorba despre fenomenul Raynaud.",
+    "title_ro": "Viagra, folosită și pentru o afecțiune care afectează mai ales femeile. Ce legătură are celebra pastilă albastră cu mâinile reci",
+    "lead_ro": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâ...",
+    "content_ro": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâini și picioare, mai ales la contactul cu frigul. Este vorba despre fenomenul Raynaud."
+  },
+  {
+    "group_id": "group_4756c9485b",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/8165433-Hepta_Mediafax_Foto-DPA_Hepta-scaled.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Mii de tineri au protestat în Italia față de scumpirea vieții și chiriile ridicate / Confruntări cu poliția la Bologna",
+        "link": "https://www.g4media.ro/proteste-italia-tineri-scumpiri-chirii-guvernul-meloni.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Guvernul Giorgiei Meloni, contestat în stradă în mai multe orașe din Italia. Măsuri extraordinare de securitate",
+        "link": "https://hotnews.ro/guvernul-giorgiei-meloni-contestat-in-strada-in-mai-multe-orase-din-italia-masuri-extraordinare-de-securitate-2385695"
+      }
+    ],
+    "published_at": 1792863443,
+    "title_hu": "Mii de tineri au protestat în Italia față de scumpirea vieții și chiriile ridicate / Confruntări cu poliția la Bologna",
+    "lead_hu": "Mii de persoane, majoritatea tineri, au participat sâmbătă la manifestații în mai multe orașe din Italia împotriva creșterii costului vieții, a chiriilor ridicate și a cheltuielilor militare, transmit...",
+    "content_hu": "Mii de persoane, majoritatea tineri, au participat sâmbătă la manifestații în mai multe orașe din Italia împotriva creșterii costului vieții, a chiriilor ridicate și a cheltuielilor militare, transmite Agerpres, citând EFE. Protestele s-au desfășurat în condiții de securitate sporită, după violențele și jafurile produse cu o săptămână înainte la Milano. Manifestațiile au avut loc la […] © G4Media.ro.",
+    "title_ro": "Mii de tineri au protestat în Italia față de scumpirea vieții și chiriile ridicate / Confruntări cu poliția la Bologna",
+    "lead_ro": "Mii de persoane, majoritatea tineri, au participat sâmbătă la manifestații în mai multe orașe din Italia împotriva creșterii costului vieții, a chiriilor ridicate și a cheltuielilor militare, transmit...",
+    "content_ro": "Mii de persoane, majoritatea tineri, au participat sâmbătă la manifestații în mai multe orașe din Italia împotriva creșterii costului vieții, a chiriilor ridicate și a cheltuielilor militare, transmite Agerpres, citând EFE. Protestele s-au desfășurat în condiții de securitate sporită, după violențele și jafurile produse cu o săptămână înainte la Milano. Manifestațiile au avut loc la […] © G4Media.ro."
+  },
+  {
     "group_id": "group_fe7f0c1f50",
     "category": "Erdély",
     "image": "",
@@ -9157,7 +9204,7 @@
     "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/istockphoto-653844644-612x612-1.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -9168,6 +9215,11 @@
         "source": "G4Media",
         "title": "Șapte persoane au fost ucise într-un atac armat la o biserică din Iordania / 40 de răniți",
         "link": "https://www.g4media.ro/sapte-persoane-au-fost-ucise-intr-un-atac-armat-la-o-biserica-din-iordania-40-de-raniti.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Atac armat la o biserică ortodoxă din Iordania, în timpul unei înmormântări: 8 oameni au fost uciși și 40, răniți",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/atac-armat-la-o-biserica-ortodoxa-din-iordania-in-2566316.html"
       }
     ],
     "published_at": 1792824636,
@@ -12901,6 +12953,27 @@
     "content_ro": "Egy Maros megyei vállalat vezetőjétől azért, kérte az összeget hogy segítsen csökkenteni a cég környezetvédelmi befizetési kötelezettségeit."
   },
   {
+    "group_id": "group_9777921b6c",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-f/f5658b07-c11d-484f-9bea-a3d878551fa7/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "O nouă candidată intră în cursa pentru șefia ONU. Organizația, tot mai aproape de prima sa femeie secretar general",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/o-noua-candidata-intra-in-cursa-pentru-sefia-onu-2566188.html"
+      }
+    ],
+    "published_at": 1792781171,
+    "title_hu": "O nouă candidată intră în cursa pentru șefia ONU. Organizația, tot mai aproape de prima sa femeie secretar general",
+    "lead_hu": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan....",
+    "content_hu": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan.",
+    "title_ro": "O nouă candidată intră în cursa pentru șefia ONU. Organizația, tot mai aproape de prima sa femeie secretar general",
+    "lead_ro": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan....",
+    "content_ro": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan."
+  },
+  {
     "group_id": "group_8aa018863f",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/23/184216/screenshot-2026-10-23-213837.png?fm=jpg&q=80&fit=crop&crop=478%2C325%2C0%2C0&w=1280",
@@ -13828,237 +13901,6 @@
     "content_ro": "A klinikai kiválóság kategóriájában a szenvedélybetegségek kezelését és az érintettek felépülését segítő programjáért kapott kitüntetést."
   },
   {
-    "group_id": "group_15fce2e66f",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2025/11/18/220000/62592450.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un bărbat a ajuns la închisoare în Germania din cauza unei amenzi neplătite de patru ani. Ce au descoperit polițiștii la graniță",
-        "link": "https://stirileprotv.ro/stiri/international/un-barbat-a-ajuns-la-inchisoare-in-germania-din-cauza-unei-amenzi-neplatite-de-patru-ani-ce-au-descoperit-politistii-la-granita.html"
-      }
-    ],
-    "published_at": 1792777415,
-    "title_hu": "Un bărbat a ajuns la închisoare în Germania din cauza unei amenzi neplătite de patru ani. Ce au descoperit polițiștii la graniță",
-    "lead_hu": "Polițiștii germani au reținut un cetățean slovac în vârstă de 40 de ani, în timpul unui control la frontieră, pe autostrada din apropierea localității Kiefersfelden.",
-    "content_hu": "Polițiștii germani au reținut un cetățean slovac în vârstă de 40 de ani, în timpul unui control la frontieră, pe autostrada din apropierea localității Kiefersfelden.",
-    "title_ro": "Un bărbat a ajuns la închisoare în Germania din cauza unei amenzi neplătite de patru ani. Ce au descoperit polițiștii la graniță",
-    "lead_ro": "Polițiștii germani au reținut un cetățean slovac în vârstă de 40 de ani, în timpul unui control la frontieră, pe autostrada din apropierea localității Kiefersfelden.",
-    "content_ro": "Polițiștii germani au reținut un cetățean slovac în vârstă de 40 de ani, în timpul unui control la frontieră, pe autostrada din apropierea localității Kiefersfelden."
-  },
-  {
-    "group_id": "group_3920328867",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-3/3b957a87-8743-498b-9fee-b52f5d0536e7/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.453%252C0.646%252C0.547%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Femeie amendată după ce a căzut într-o groapă din carosabil și a ajuns la spital. Sancțiunea a creat controverse în Italia: „Bătaie de joc”",
-        "link": "https://adevarul.ro/stiri-externe/europa/femeie-amendata-dupa-ce-a-cazut-intr-o-groapa-din-2566183.html"
-      }
-    ],
-    "published_at": 1792777271,
-    "title_hu": "Femeie amendată după ce a căzut într-o groapă din carosabil și a ajuns la spital. Sancțiunea a creat controverse în Italia: „Bătaie de joc”",
-    "lead_hu": "O femeie din localitatea italiană Capurso, provincia Bari, a stârnit controverse după ce, la câteva săptămâni de la o căzătură într-o groapă din carosabil, în urma căreia a avut nevoie de îngrijiri me…",
-    "content_hu": "O femeie din localitatea italiană Capurso, provincia Bari, a stârnit controverse după ce, la câteva săptămâni de la o căzătură într-o groapă din carosabil, în urma căreia a avut nevoie de îngrijiri medicale, a primit o amendă din partea poliției locale.",
-    "title_ro": "Femeie amendată după ce a căzut într-o groapă din carosabil și a ajuns la spital. Sancțiunea a creat controverse în Italia: „Bătaie de joc”",
-    "lead_ro": "O femeie din localitatea italiană Capurso, provincia Bari, a stârnit controverse după ce, la câteva săptămâni de la o căzătură într-o groapă din carosabil, în urma căreia a avut nevoie de îngrijiri me…",
-    "content_ro": "O femeie din localitatea italiană Capurso, provincia Bari, a stârnit controverse după ce, la câteva săptămâni de la o căzătură într-o groapă din carosabil, în urma căreia a avut nevoie de îngrijiri medicale, a primit o amendă din partea poliției locale."
-  },
-  {
-    "group_id": "group_a9a8ca69aa",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Több uniós pénzt kér az Európai Parlament az orosz fenyegetésnek kitett keleti régióknak",
-        "link": "https://www.mediatica.ro/hirek/kulfold/tobb-unios-penzt-ker-az-europai-parlament-az-orosz-fenyegetesnek-kitett-keleti-regioknak"
-      }
-    ],
-    "published_at": 1792777250,
-    "title_hu": "Több uniós pénzt kér az Európai Parlament az orosz fenyegetésnek kitett keleti régióknak",
-    "lead_hu": "A Strasbourgban elfogadott állásfoglalás a 2028 és 2034 közötti uniós költségvetési időszakra vonatkozik.",
-    "content_hu": "A Strasbourgban elfogadott állásfoglalás a 2028 és 2034 közötti uniós költségvetési időszakra vonatkozik.",
-    "title_ro": "Több uniós pénzt kér az Európai Parlament az orosz fenyegetésnek kitett keleti régióknak",
-    "lead_ro": "A Strasbourgban elfogadott állásfoglalás a 2028 és 2034 közötti uniós költségvetési időszakra vonatkozik.",
-    "content_ro": "A Strasbourgban elfogadott állásfoglalás a 2028 és 2034 közötti uniós költségvetési időszakra vonatkozik."
-  },
-  {
-    "group_id": "group_74c0906d09",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/23102026/2c981d8c-142e-4f4d-bbfa-9cbe98a1b9f5.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ricardo Sousa e pe val în Superliga cu Petrolul și anunță: „Am făcut un pariu cu jucătorii mei”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/ricardo-sousa-reactie-dupa-fc-botosani-petrolul-superliga-991490.html"
-      }
-    ],
-    "published_at": 1792777249,
-    "title_hu": "Ricardo Sousa e pe val în Superliga cu Petrolul și anunță: „Am făcut un pariu cu jucătorii mei”",
-    "lead_hu": "Ricardo Sousa (47 de ani), antrenorul celor de la Petrolul Ploiești, a tras primele concluzii după ce echipa lui, revelația Superligii până în acest moment, a reușit un nou succes, de această dată în …",
-    "content_hu": "Ricardo Sousa (47 de ani), antrenorul celor de la Petrolul Ploiești, a tras primele concluzii după ce echipa lui, revelația Superligii până în acest moment, a reușit un nou succes, de această dată în deplasare, pe Municipalul din Botoșani, scor 3-1, în etapa a 13-a din Superliga. ...",
-    "title_ro": "Ricardo Sousa e pe val în Superliga cu Petrolul și anunță: „Am făcut un pariu cu jucătorii mei”",
-    "lead_ro": "Ricardo Sousa (47 de ani), antrenorul celor de la Petrolul Ploiești, a tras primele concluzii după ce echipa lui, revelația Superligii până în acest moment, a reușit un nou succes, de această dată în …",
-    "content_ro": "Ricardo Sousa (47 de ani), antrenorul celor de la Petrolul Ploiești, a tras primele concluzii după ce echipa lui, revelația Superligii până în acest moment, a reușit un nou succes, de această dată în deplasare, pe Municipalul din Botoșani, scor 3-1, în etapa a 13-a din Superliga. ..."
-  },
-  {
-    "group_id": "group_3596758aa9",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/05/euro-cash-background-many-banknotes-euro-currency-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Norvegia va relua plățile de granturi către Ungaria, după o pauză de zece ani. De ce a fost suspendat programul",
-        "link": "https://www.mediafax.ro/externe/norvegia-va-relua-platile-de-granturi-catre-ungaria-dupa-o-pauza-de-zece-ani-de-ce-a-fost-suspendat-programul-23830814"
-      }
-    ],
-    "published_at": 1792777238,
-    "title_hu": "Norvegia va relua plățile de granturi către Ungaria, după o pauză de zece ani. De ce a fost suspendat programul",
-    "lead_hu": "Norvegia a ajuns la un acord cu Budapesta care permite reluarea unui program de granturi care a fost suspendat timp de mai mulți ani, din cauza unor neînțelegeri cu fosta administrație Orban. Ministru…",
-    "content_hu": "Norvegia a ajuns la un acord cu Budapesta care permite reluarea unui program de granturi care a fost suspendat timp de mai mulți ani, din cauza unor neînțelegeri cu fosta administrație Orban. Ministrul norvegian de Externe, Espen Barth Eide, a declarat vineri faptul că schimbarea guvernului ungar a făcut posibilă deblocarea negocierilor și relansarea finanțării.",
-    "title_ro": "Norvegia va relua plățile de granturi către Ungaria, după o pauză de zece ani. De ce a fost suspendat programul",
-    "lead_ro": "Norvegia a ajuns la un acord cu Budapesta care permite reluarea unui program de granturi care a fost suspendat timp de mai mulți ani, din cauza unor neînțelegeri cu fosta administrație Orban. Ministru…",
-    "content_ro": "Norvegia a ajuns la un acord cu Budapesta care permite reluarea unui program de granturi care a fost suspendat timp de mai mulți ani, din cauza unor neînțelegeri cu fosta administrație Orban. Ministrul norvegian de Externe, Espen Barth Eide, a declarat vineri faptul că schimbarea guvernului ungar a făcut posibilă deblocarea negocierilor și relansarea finanțării."
-  },
-  {
-    "group_id": "group_f5f91d4ab2",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-3/31d3c9b1-8456-443a-91b3-376aa379e89e/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Parteneriat româno-japonez de top: Transgaz și Kawasaki investesc 21 milioane de euro în hidrogen",
-        "link": "https://adevarul.ro/economie/parteneriat-romano-japonez-de-top-transgaz-si-2566172.html"
-      }
-    ],
-    "published_at": 1792777220,
-    "title_hu": "Parteneriat româno-japonez de top: Transgaz și Kawasaki investesc 21 milioane de euro în hidrogen",
-    "lead_hu": "Transgaz și Kawasaki Heavy Industries (KHI) au semnat, la Tokyo, în cadrul celei de-a patra ediții a Forumului pentru Inovare România-Japonia, un memorandum de înțelegere care stabilește cadrul unei c…",
-    "content_hu": "Transgaz și Kawasaki Heavy Industries (KHI) au semnat, la Tokyo, în cadrul celei de-a patra ediții a Forumului pentru Inovare România-Japonia, un memorandum de înțelegere care stabilește cadrul unei cooperări strategice în domeniul hidrogenului, al infrastructurii energetice.",
-    "title_ro": "Parteneriat româno-japonez de top: Transgaz și Kawasaki investesc 21 milioane de euro în hidrogen",
-    "lead_ro": "Transgaz și Kawasaki Heavy Industries (KHI) au semnat, la Tokyo, în cadrul celei de-a patra ediții a Forumului pentru Inovare România-Japonia, un memorandum de înțelegere care stabilește cadrul unei c…",
-    "content_ro": "Transgaz și Kawasaki Heavy Industries (KHI) au semnat, la Tokyo, în cadrul celei de-a patra ediții a Forumului pentru Inovare România-Japonia, un memorandum de înțelegere care stabilește cadrul unei cooperări strategice în domeniul hidrogenului, al infrastructurii energetice."
-  },
-  {
-    "group_id": "group_b3449d48b5",
-    "category": "Általános",
-    "image": "https://maszol.ro/resized/2026_oktober/23/cikk_csendor_Fb.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Cáfol a belügy: nem térdeltek le a csendőrök Georgescu támogatói előtt",
-        "link": "https://maszol.ro/belfold/Cafol-a-belugy-nem-terdeltek-le-a-csendorok-Georgescu-tamogatoi-elott"
-      }
-    ],
-    "published_at": 1792777200,
-    "title_hu": "Cáfol a belügy: nem térdeltek le a csendőrök Georgescu támogatói előtt",
-    "lead_hu": "A rendfenntartó erők nem térdeltek le az úgynevezett szuverenisták előtt – hangsúlyozták az illetékesek.",
-    "content_hu": "A rendfenntartó erők nem térdeltek le az úgynevezett szuverenisták előtt – hangsúlyozták az illetékesek.",
-    "title_ro": "Cáfol a belügy: nem térdeltek le a csendőrök Georgescu támogatói előtt",
-    "lead_ro": "A rendfenntartó erők nem térdeltek le az úgynevezett szuverenisták előtt – hangsúlyozták az illetékesek.",
-    "content_ro": "A rendfenntartó erők nem térdeltek le az úgynevezett szuverenisták előtt – hangsúlyozták az illetékesek."
-  },
-  {
-    "group_id": "group_ed8265e319",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/lula-si-senatorul-flavio-bolsonaro-dezbatere-tv-brazilia-1024x578.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Suspans într-o țară cu 150.000 de milioane de alegători. Cei doi candidați la alegerile prezidențiale sunt aproape la egalitate",
-        "link": "https://www.mediafax.ro/politic/suspans-intr-o-tara-cu-150-000-de-milioane-de-alegatori-cei-doi-candidati-la-alegerile-prezidentiale-sunt-aproape-la-egalitate-23830817"
-      }
-    ],
-    "published_at": 1792777188,
-    "title_hu": "Suspans într-o țară cu 150.000 de milioane de alegători. Cei doi candidați la alegerile prezidențiale sunt aproape la egalitate",
-    "lead_hu": "Peste 150.000 de milioane de alegători din Brazilia sunt așteptați la urne pentru a-și alege președintele. Duminică, în țara sud-americană va fi turul doi al alegerilor prezidențiale. Cei doi candidaț…",
-    "content_hu": "Peste 150.000 de milioane de alegători din Brazilia sunt așteptați la urne pentru a-și alege președintele. Duminică, în țara sud-americană va fi turul doi al alegerilor prezidențiale. Cei doi candidați, Luiz Inacio Lula da Silva și Flavio Bolsonaro, sunt aproape la egalitate.",
-    "title_ro": "Suspans într-o țară cu 150.000 de milioane de alegători. Cei doi candidați la alegerile prezidențiale sunt aproape la egalitate",
-    "lead_ro": "Peste 150.000 de milioane de alegători din Brazilia sunt așteptați la urne pentru a-și alege președintele. Duminică, în țara sud-americană va fi turul doi al alegerilor prezidențiale. Cei doi candidaț…",
-    "content_ro": "Peste 150.000 de milioane de alegători din Brazilia sunt așteptați la urne pentru a-și alege președintele. Duminică, în țara sud-americană va fi turul doi al alegerilor prezidențiale. Cei doi candidați, Luiz Inacio Lula da Silva și Flavio Bolsonaro, sunt aproape la egalitate."
-  },
-  {
-    "group_id": "group_b59bce1149",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Masacru într-o biserică ortodoxă din Iordania. Regele Abdallah promite pedepsele „cele mai severe”",
-        "link": "https://hotnews.ro/masacru-intr-o-biserica-ortodoxa-din-iordania-regele-abdallah-promite-pedepsele-cele-mai-severe-2384929"
-      }
-    ],
-    "published_at": 1792777183,
-    "title_hu": "Masacru într-o biserică ortodoxă din Iordania. Regele Abdallah promite pedepsele „cele mai severe”",
-    "lead_hu": "Cel puţin şapte persoane au fost ucise vineri într-un atac armat produs într-o biserică ortodoxă greacă în sudul Iordaniei, în guvernoratul Karak, un rar atac împotriva comunităţii creştine din regatu…",
-    "content_hu": "Cel puţin şapte persoane au fost ucise vineri într-un atac armat produs într-o biserică ortodoxă greacă în sudul Iordaniei, în guvernoratul Karak, un rar atac împotriva comunităţii creştine din regatul haşemit, informează AFP, Reuters şi Petra, citate de Agerpres. Regele Abdallah al II-lea a promis că vor fi aplicate pedepsele „cele mai severe” după atentatul …",
-    "title_ro": "Masacru într-o biserică ortodoxă din Iordania. Regele Abdallah promite pedepsele „cele mai severe”",
-    "lead_ro": "Cel puţin şapte persoane au fost ucise vineri într-un atac armat produs într-o biserică ortodoxă greacă în sudul Iordaniei, în guvernoratul Karak, un rar atac împotriva comunităţii creştine din regatu…",
-    "content_ro": "Cel puţin şapte persoane au fost ucise vineri într-un atac armat produs într-o biserică ortodoxă greacă în sudul Iordaniei, în guvernoratul Karak, un rar atac împotriva comunităţii creştine din regatul haşemit, informează AFP, Reuters şi Petra, citate de Agerpres. Regele Abdallah al II-lea a promis că vor fi aplicate pedepsele „cele mai severe” după atentatul …"
-  },
-  {
-    "group_id": "group_9ee0e4f9ca",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2025/12/28/220000/62602359.jpg?fm=jpg&q=80&fit=crop&crop=3000%2C2000%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Cristiano Ronaldo, la al 982-lea gol al carierei. Mai are 18 până la „borna” de 1.000",
-        "link": "https://stirileprotv.ro/stiri/sport/cristiano-ronaldo-la-al-982-lea-gol-al-carierei-mai-are-18-pana-la-borna-de-1-000.html"
-      }
-    ],
-    "published_at": 1792777128,
-    "title_hu": "Cristiano Ronaldo, la al 982-lea gol al carierei. Mai are 18 până la „borna” de 1.000",
-    "lead_hu": "Cristiano Ronaldo a marcat al 982-lea gol din cariera sa în victoria cu 3-1 a echipei Al-Nassr împotriva celor de la Al-Faisaly, vineri seară, scrie EFE.",
-    "content_hu": "Cristiano Ronaldo a marcat al 982-lea gol din cariera sa în victoria cu 3-1 a echipei Al-Nassr împotriva celor de la Al-Faisaly, vineri seară, scrie EFE.",
-    "title_ro": "Cristiano Ronaldo, la al 982-lea gol al carierei. Mai are 18 până la „borna” de 1.000",
-    "lead_ro": "Cristiano Ronaldo a marcat al 982-lea gol din cariera sa în victoria cu 3-1 a echipei Al-Nassr împotriva celor de la Al-Faisaly, vineri seară, scrie EFE.",
-    "content_ro": "Cristiano Ronaldo a marcat al 982-lea gol din cariera sa în victoria cu 3-1 a echipei Al-Nassr împotriva celor de la Al-Faisaly, vineri seară, scrie EFE."
-  },
-  {
-    "group_id": "group_cb2b07f349",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-6/6e62192e-4d81-4fdd-987e-bee775198bfe/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Vaccin personalizat împotriva cancerului cu rezultate spectaculoase: reduce riscul de recidivă sau deces cu 42%. Mărturia unui participant la studiu",
-        "link": "https://adevarul.ro/stiri-externe/sua/vaccin-personalizat-impotriva-cancerului-cu-2566179.html"
-      }
-    ],
-    "published_at": 1792777024,
-    "title_hu": "Vaccin personalizat împotriva cancerului cu rezultate spectaculoase: reduce riscul de recidivă sau deces cu 42%. Mărturia unui participant la studiu",
-    "lead_hu": "Un vaccin personalizat împotriva cancerului dezvoltat de companiile farmaceutice Moderna și MSD, administrat împreună cu imunoterapia Keytruda, a redus cu 42% riscul de deces sau de reapariție a melan…",
-    "content_hu": "Un vaccin personalizat împotriva cancerului dezvoltat de companiile farmaceutice Moderna și MSD, administrat împreună cu imunoterapia Keytruda, a redus cu 42% riscul de deces sau de reapariție a melanomului, potrivit rezultatelor unui amplu studiu clinic care a inclus peste 1.100 de pacienți.",
-    "title_ro": "Vaccin personalizat împotriva cancerului cu rezultate spectaculoase: reduce riscul de recidivă sau deces cu 42%. Mărturia unui participant la studiu",
-    "lead_ro": "Un vaccin personalizat împotriva cancerului dezvoltat de companiile farmaceutice Moderna și MSD, administrat împreună cu imunoterapia Keytruda, a redus cu 42% riscul de deces sau de reapariție a melan…",
-    "content_ro": "Un vaccin personalizat împotriva cancerului dezvoltat de companiile farmaceutice Moderna și MSD, administrat împreună cu imunoterapia Keytruda, a redus cu 42% riscul de deces sau de reapariție a melanomului, potrivit rezultatelor unui amplu studiu clinic care a inclus peste 1.100 de pacienți."
-  },
-  {
     "group_id": "group_7aca7afe6f",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/24/143016/vlcsnap-2026-10-24-17h29m48s598.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
@@ -14849,36 +14691,5 @@
     "lead_ro": "VOGO Digital, start-up românesc care dezvoltă o platformă prin care companiile şi instituţiile îşi automatizează procesele pe baza documentelor, a datelor şi a programelor pe care le folosesc deja, or...",
     "content_ro": "VOGO Digital, start-up românesc care dezvoltă o platformă prin care companiile şi instituţiile îşi automatizează procesele pe baza documentelor, a datelor şi a programelor pe care le folosesc deja, organizează marţi, 27 octombrie, un workshop online gratuit despre conectarea inteligenţei artificiale la soluţiile de digitalizare şi de gestiune a documentelor.",
     "sources_count": 1
-  },
-  {
-    "group_id": "group_d90c44dae9",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Románia kulcsszerepre törekszik Ukrajna újjáépítésében",
-        "link": "https://www.mediatica.ro/hirek/politika/romania-kulcsszerepre-torekszik-ukrajna-ujjaepiteseben"
-      },
-      {
-        "source": "Digi24",
-        "title": "Șeful ASF, Alexandru Petrescu, explică de ce reconstrucţia Ucrainei poate fi o oportunitate pentru România",
-        "link": "https://www.digi24.ro/stiri/seful-asf-alexandru-petrescu-explica-de-ce-reconstructia-ucrainei-poate-fi-o-oportunitate-pentru-romania-4006715"
-      },
-      {
-        "source": "Economedia",
-        "title": "Alexandru Petrescu, ASF: România are nevoie de o strategie națională pentru a valorifica oportunitățile reconstrucției Ucrainei",
-        "link": "https://economedia.ro/alexandru-petrescu-asf-romania-are-nevoie-de-o-strategie-nationala-pentru-a-valorifica-oportunitatile-reconstructiei-ucrainei.html"
-      }
-    ],
-    "published_at": 1792777425,
-    "title_hu": "Románia kulcsszerepre törekszik Ukrajna újjáépítésében",
-    "lead_hu": "Országunk földrajzi helyzetét és európai tapasztalatait is kihasználná ebben....",
-    "content_hu": "Országunk földrajzi helyzetét és európai tapasztalatait is kihasználná ebben.",
-    "title_ro": "Románia kulcsszerepre törekszik Ukrajna újjáépítésében",
-    "lead_ro": "Országunk földrajzi helyzetét és európai tapasztalatait is kihasználná ebben....",
-    "content_ro": "Országunk földrajzi helyzetét és európai tapasztalatait is kihasználná ebben.",
-    "sources_count": 3
   }
 ]
