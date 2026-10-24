@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_54d71ea97a",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Avem-dovada-ca-Bianca-Iotu-l-a-uitat-pe-Narcis-Bujor-Idila-de-la-Insula-Iubirii-este-istorie-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Avem dovada că Bianca Iotu l-a uitat pe Narcis Bujor! Idila de la Insula Iubirii este istorie",
+        "link": "https://www.cancan.ro/avem-dovada-ca-bianca-iotu-l-a-uitat-pe-narcis-bujor-idila-de-la-insula-iubirii-este-istorie-21535924"
+      }
+    ],
+    "published_at": 1792873525,
+    "title_hu": "Avem dovada că Bianca Iotu l-a uitat pe Narcis Bujor! Idila de la Insula Iubirii este istorie",
+    "lead_hu": "Bianca Iotu a fost amorezată până peste cap de ispita Narcis Bujor, fapt pe care l-a făcut cunoscut încă de la intrarea în vila fetelor. Concurenta nu a ratat nicio ocazie de a-l complimenta pe muscul...",
+    "content_hu": "Bianca Iotu a fost amorezată până peste cap de ispita Narcis Bujor, fapt pe care l-a făcut cunoscut încă de la intrarea în vila fetelor. Concurenta nu a ratat nicio ocazie de a-l complimenta pe musculos și, încet-încet, a făcut tot posibilul ca apropierea dintre ei să fie cât mai evidentă. Clipele petrecute împreună i-au […]",
+    "title_ro": "Avem dovada că Bianca Iotu l-a uitat pe Narcis Bujor! Idila de la Insula Iubirii este istorie",
+    "lead_ro": "Bianca Iotu a fost amorezată până peste cap de ispita Narcis Bujor, fapt pe care l-a făcut cunoscut încă de la intrarea în vila fetelor. Concurenta nu a ratat nicio ocazie de a-l complimenta pe muscul...",
+    "content_ro": "Bianca Iotu a fost amorezată până peste cap de ispita Narcis Bujor, fapt pe care l-a făcut cunoscut încă de la intrarea în vila fetelor. Concurenta nu a ratat nicio ocazie de a-l complimenta pe musculos și, încet-încet, a făcut tot posibilul ca apropierea dintre ei să fie cât mai evidentă. Clipele petrecute împreună i-au […]"
+  },
+  {
     "group_id": "group_77c52fefd8",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/1e6f6065-311a-4d36-9f91-523883fe18c5.jpeg?width=290&height=208",
@@ -1050,12 +1071,17 @@
     "category": "Általános",
     "image": "",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "Asigurările ministrul Muncii pentru pensionarii cu venituri mici: „Nu există niciun motiv de îngrijorare”",
         "link": "https://hotnews.ro/asigurarile-ministrul-muncii-pentru-pensionarii-cu-venituri-mici-nu-exista-niciun-motiv-de-ingrijorare-2385727"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ministrul Muncii dă asigurări că există banii pentru ce-a de-a doua tranşă a sprijinului financiar acordat pensionarilor cu pensii mici",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-muncii-da-asigurari-ca-exista-banii-pentru-ce-a-de-a-doua-transa-a-sprijinului-financiar-acordat-pensionarilor-cu-pensii-mici-4007595"
       }
     ],
     "published_at": 1792865986,
@@ -3989,7 +4015,7 @@
     "image": "https://stirileprotv.ro/img/2026/10/23/133158/meghan-markle.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C798%2C0%2C0&w=1280",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -4000,6 +4026,11 @@
         "source": "Agerpres (HU)",
         "title": "Poliția britanică fusese informată în 2019 cu privire la ''acuzațiile'' la adresa tatălui lui Meghan Markle",
         "link": "https://agerpres.ro/zigzag/2026/10/24/politia-britanica-fusese-informata-in-2019-cu-privire-la-acuzatiile-la-adresa-tatalui-lui-meghan-mar--1606487"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Când a fost informată Poliția londoneză despre acuzațiile grave la adresa tatălui lui Meghan Markle. „Vom reexamina modul în care a fost tratat acest caz”",
+        "link": "https://hotnews.ro/cand-a-fost-informata-politia-londoneza-despre-acuzatiile-grave-la-adresa-tatalui-lui-meghan-markle-vom-reexamina-modul-in-care-a-fost-tratat-acest-caz-2385769"
       }
     ],
     "published_at": 1792852629,
@@ -12847,48 +12878,6 @@
     "title_ro": "Inteligența artificială a trecut o nouă limită! O cântăreață virtuală a anunțat că este gravidă și a cerut intimitate",
     "lead_ro": "O cântăreață virtuală din China a provocat un scandal de proporții după ce a anunțat că este însărcinată și că se retrage temporar din activitate pentru a se dedica noii sale vieți. Deși artista nu ex…",
     "content_ro": "O cântăreață virtuală din China a provocat un scandal de proporții după ce a anunțat că este însărcinată și că se retrage temporar din activitate pentru a se dedica noii sale vieți. Deși artista nu există în realitate, fiind un personaj creat cu ajutorul inteligenței artificiale, povestea a devenit virală și a strâns peste 78 […]"
-  },
-  {
-    "group_id": "group_10ef01c0d8",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-2/2c5137ef-b022-4d49-b695-b252e9e088ee/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Record impresionant: O autoare din Africa de Sud a publicat 371 de cărți cu ajutorul inteligenței artificiale în doar 20 de luni",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/record-impresionant-o-autoare-din-africa-de-sud-a-2566186.html"
-      }
-    ],
-    "published_at": 1792787305,
-    "title_hu": "Record impresionant: O autoare din Africa de Sud a publicat 371 de cărți cu ajutorul inteligenței artificiale în doar 20 de luni",
-    "lead_hu": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata …",
-    "content_hu": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata să o apere în ciuda criticilor şi ameninţărilor.",
-    "title_ro": "Record impresionant: O autoare din Africa de Sud a publicat 371 de cărți cu ajutorul inteligenței artificiale în doar 20 de luni",
-    "lead_ro": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata …",
-    "content_ro": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata să o apere în ciuda criticilor şi ameninţărilor."
-  },
-  {
-    "group_id": "group_c31899e387",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "„Ungaria nu e o ţară feribot. Poporul a făcut o alegere clară”. Peter Magyar, la comemorarea Revoluţiei ungare din 1956",
-        "link": "https://hotnews.ro/ungaria-nu-e-o-tara-feribot-poporul-a-facut-o-alegere-clara-peter-magyar-la-comemorarea-revolutiei-ungare-din-1956-2385071"
-      }
-    ],
-    "published_at": 1792787092,
-    "title_hu": "„Ungaria nu e o ţară feribot. Poporul a făcut o alegere clară”. Magyar Péter, la comemorarea Revoluţiei ungare din 1956",
-    "lead_hu": "Premierul ungar Magyar Péter a declarat vineri că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după cei …",
-    "content_hu": "Premierul ungar Magyar Péter a declarat vineri că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după cei cei 16 ani la putere ai lui Viktor Orban, relatează agențiile France Presse și Agerpres. Discursul său, rostit în ziua în care Ungaria …",
-    "title_ro": "„Ungaria nu e o ţară feribot. Poporul a făcut o alegere clară”. Peter Magyar, la comemorarea Revoluţiei ungare din 1956",
-    "lead_ro": "Premierul ungar Magyar Péter a declarat vineri că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după cei …",
-    "content_ro": "Premierul ungar Magyar Péter a declarat vineri că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după cei cei 16 ani la putere ai lui Viktor Orban, relatează agențiile France Presse și Agerpres. Discursul său, rostit în ziua în care Ungaria …"
   },
   {
     "group_id": "group_9e0368e1b5",

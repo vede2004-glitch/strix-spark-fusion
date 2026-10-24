@@ -217,22 +217,6 @@
     ]
   },
   {
-    "group_id": "group_c31899e387",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "„Ungaria nu e o ţară feribot. Poporul a făcut o alegere clară”. Peter Magyar, la comemorarea Revoluţiei ungare din 1956",
-        "link": "https://hotnews.ro/ungaria-nu-e-o-tara-feribot-poporul-a-facut-o-alegere-clara-peter-magyar-la-comemorarea-revolutiei-ungare-din-1956-2385071",
-        "image": "",
-        "summary": "Premierul ungar Peter Magyar a declarat vineri că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după cei cei 16 ani la putere ai lui Viktor Orban, relatează agențiile France Presse și Agerpres. Discursul său, rostit în ziua în care Ungaria …",
-        "category": "Általános",
-        "published_at": 1792787092
-      }
-    ]
-  },
-  {
     "group_id": "group_c2da46f4b0",
     "category": "Általános",
     "articles_count": 1,
@@ -302,22 +286,6 @@
         "summary": "Un membru al partidului extremist AfD din Germania a provocat îngrijorări și dezbateri pe rețelele sociale după ce a publicat o hartă în care numeroase teritorii din țări vecine apar ca făcând parte din Germania.",
         "category": "Általános",
         "published_at": 1792787598
-      }
-    ]
-  },
-  {
-    "group_id": "group_10ef01c0d8",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Record impresionant: O autoare din Africa de Sud a publicat 371 de cărți cu ajutorul inteligenței artificiale în doar 20 de luni",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/record-impresionant-o-autoare-din-africa-de-sud-a-2566186.html",
-        "image": "https://cdn.adh.reperio.news/image-2/2c5137ef-b022-4d49-b695-b252e9e088ee/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Scriitoarea sud-africană Coral Hart a publicat, din februarie 2025, aproape 400 de cărţi scrise cu ajutorul inteligenţei artificiale (AI), o practică despre care vorbeşte deschis şi pe care este gata să o apere în ciuda criticilor şi ameninţărilor.",
-        "category": "Általános",
-        "published_at": 1792787305
       }
     ]
   },
@@ -8877,7 +8845,7 @@
   {
     "group_id": "group_3e6a08dc12",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -8896,6 +8864,15 @@
         "summary": "",
         "category": "Általános",
         "published_at": 1792800000
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Când a fost informată Poliția londoneză despre acuzațiile grave la adresa tatălui lui Meghan Markle. „Vom reexamina modul în care a fost tratat acest caz”",
+        "link": "https://hotnews.ro/cand-a-fost-informata-politia-londoneza-despre-acuzatiile-grave-la-adresa-tatalui-lui-meghan-markle-vom-reexamina-modul-in-care-a-fost-tratat-acest-caz-2385769",
+        "image": "",
+        "summary": "Poliția londoneză a confirmat sâmbătă că a primit în 2019 o scrisoare care conținea „o serie de acuzații” la adresa tatălui lui Meghan Markle, soția prințului Harry, document care, la momentul respectiv, nu a fost transmis altor autorități polițienești, informează Agerpres citând agenția France Presse. Tabloidele britanice The Sun și Daily Mail au relatat vineri …",
+        "category": "Általános",
+        "published_at": 1792873472
       }
     ]
   },
@@ -10909,7 +10886,7 @@
   {
     "group_id": "group_b702fa0c1b",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -10919,6 +10896,15 @@
         "summary": "Florin Manole, ministrul Muncii, a afirmat că nu se pune problema lipsei de fonduri pentru acordarea celei de-a doua tranşe a ajutorului financiar cuprins între 300 şi 500 de lei de care beneficiază, anul acesta, pensionarii cu pensii mai mici de 3000 de lei şi care va fi distribuit în luna decembrie, informează News.ro. Ministrul …",
         "category": "Általános",
         "published_at": 1792865986
+      },
+      {
+        "source": "Digi24",
+        "title": "Ministrul Muncii dă asigurări că există banii pentru ce-a de-a doua tranşă a sprijinului financiar acordat pensionarilor cu pensii mici",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-muncii-da-asigurari-ca-exista-banii-pentru-ce-a-de-a-doua-transa-a-sprijinului-financiar-acordat-pensionarilor-cu-pensii-mici-4007595",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjMwMF8zMDI2/MzAwX01vZGlmaWNhcmktQ0FTUy1kZS1s/YS0xLXNlcHRlbWJyaWUtMjAyNV8tRm90/by1HZXR0eS1JbWFnZXMuanBnJmhhc2g9/YTNkNzM1ZmM4NWViYmEzZGI4NGQ5MmM2N2I5MjNmOGE=.jpg",
+        "summary": "Florin Manole, ministrul Muncii, anunţă că nu se pune problema lipsei de fonduri pentru acordarea celei de-a doua tranşe a ajutorului financiar cuprins între 300 şi 500 de lei de care beneficiază, anul acesta, pensionarii cu pensii mai mici de 3.000 de lei şi care va fi distribuit în luna decembrie.",
+        "category": "Általános",
+        "published_at": 1792873554
       }
     ]
   },
@@ -11775,6 +11761,22 @@
         "summary": "FCSB - Rapid 4-1. FCSB a câștigat categoric derby-ul cu Rapid, scor 4-1, în etapa a 13-a din Superliga, după o repriză secundă în care a întors spectaculos rezultatul. După meci, elevii lui Laurențiu Reghecampf au rămas să sărbătorească alături de fanii prezenți pe Arena Națională. Giuleștenii au deschis scorul în minutul 11, prin Stojilkovic, și au intrat în avantaj la pauză, însă roș-albaștrii au revenit în forță după reluare. ...",
         "category": "Sport",
         "published_at": 1792872663
+      }
+    ]
+  },
+  {
+    "group_id": "group_54d71ea97a",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Avem dovada că Bianca Iotu l-a uitat pe Narcis Bujor! Idila de la Insula Iubirii este istorie",
+        "link": "https://www.cancan.ro/avem-dovada-ca-bianca-iotu-l-a-uitat-pe-narcis-bujor-idila-de-la-insula-iubirii-este-istorie-21535924",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Avem-dovada-ca-Bianca-Iotu-l-a-uitat-pe-Narcis-Bujor-Idila-de-la-Insula-Iubirii-este-istorie-1200x675.jpeg",
+        "summary": "Bianca Iotu a fost amorezată până peste cap de ispita Narcis Bujor, fapt pe care l-a făcut cunoscut încă de la intrarea în vila fetelor. Concurenta nu a ratat nicio ocazie de a-l complimenta pe musculos și, încet-încet, a făcut tot posibilul ca apropierea dintre ei să fie cât mai evidentă. Clipele petrecute împreună i-au […]",
+        "category": "Bulvár",
+        "published_at": 1792873525
       }
     ]
   }
