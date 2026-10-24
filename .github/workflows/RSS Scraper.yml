@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Kód letöltése
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python környezet beállítása
         uses: actions/setup-python@v5
@@ -32,10 +34,16 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # 1. Először stagingre rakjuk a frissített fájlokat
+          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json
+          
+          # 2. Előkészítjük a helyi commitot (ha van változás)
+          git diff --staged --quiet || git commit -m "update: RSS adatok frissítése [skip ci]"
+          
+          # 3. Behúzzuk a távoli tároló frissítéseit a tiszta munkamenetre
           git fetch origin main
           git pull --rebase origin main
-          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json
-          git diff --staged --quiet || (
-            git commit -m "update: RSS adatok frissítése [skip ci]" && \
-            git push
-          )
+          
+          # 4. Feltoljuk a frissített állapotot
+          git push origin main
