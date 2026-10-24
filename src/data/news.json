@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_d1cc556e6e",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/jane-1024x512.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Jurnalista care s-a întors din Portugalia pentru a lupta în Ucraina a murit. Povestea veteranei cunoscute drept „Jane”",
+        "link": "https://www.mediafax.ro/social/jurnalista-care-s-a-intors-din-portugalia-pentru-a-lupta-in-ucraina-a-murit-povestea-veteranei-cunoscute-drept-jane-23831133"
+      }
+    ],
+    "published_at": 1792867009,
+    "title_hu": "Jurnalista care s-a întors din Portugalia pentru a lupta în Ucraina a murit. Povestea veteranei cunoscute drept „Jane”",
+    "lead_hu": "Jurnalista, traducătoarea și veterana ucraineană Olena Șargovska, cunoscută sub pseudonimul „Jane”, a murit sâmbătă, 24 octombrie. Ea s-a înrolat în Forțele Armate ale Ucrainei în septembrie 2022. Ea ...",
+    "content_hu": "Jurnalista, traducătoarea și veterana ucraineană Olena Șargovska, cunoscută sub pseudonimul „Jane”, a murit sâmbătă, 24 octombrie. Ea s-a înrolat în Forțele Armate ale Ucrainei în septembrie 2022. Ea a revenit în țari deoarece la începutul războiului se afla în Portugalia.",
+    "title_ro": "Jurnalista care s-a întors din Portugalia pentru a lupta în Ucraina a murit. Povestea veteranei cunoscute drept „Jane”",
+    "lead_ro": "Jurnalista, traducătoarea și veterana ucraineană Olena Șargovska, cunoscută sub pseudonimul „Jane”, a murit sâmbătă, 24 octombrie. Ea s-a înrolat în Forțele Armate ale Ucrainei în septembrie 2022. Ea ...",
+    "content_ro": "Jurnalista, traducătoarea și veterana ucraineană Olena Șargovska, cunoscută sub pseudonimul „Jane”, a murit sâmbătă, 24 octombrie. Ea s-a înrolat în Forțele Armate ale Ucrainei în septembrie 2022. Ea a revenit în țari deoarece la începutul războiului se afla în Portugalia."
+  },
+  {
+    "group_id": "group_a327ebf8e5",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/KHORYV-NAVA-SCUFUNDATA.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Căutările celor trei membri ai echipajului navei KHORYV, dispăruți în Marea Neagră, suspendate din cauza vizibilității reduse",
+        "link": "https://www.g4media.ro/cautari-marinari-disparuti-khoryv-suspendate-vizibilitate-redusa.html"
+      }
+    ],
+    "published_at": 1792866647,
+    "title_hu": "Căutările celor trei membri ai echipajului navei KHORYV, dispăruți în Marea Neagră, suspendate din cauza vizibilității reduse",
+    "lead_hu": "Operațiunile de căutare a trei membri dispăruți ai echipajului navei KHORYV, sub pavilionul Comorelor, au fost suspendate sâmbătă, la ora 18:04, din cauza reducerii vizibilității, a anunțat Agenția Ro...",
+    "content_hu": "Operațiunile de căutare a trei membri dispăruți ai echipajului navei KHORYV, sub pavilionul Comorelor, au fost suspendate sâmbătă, la ora 18:04, din cauza reducerii vizibilității, a anunțat Agenția Română de Salvare a Vieții Omenești pe Mare (ARSVOM). Misiunea de căutare și salvare a început vineri, 23 octombrie, și a continuat sâmbătă, la solicitarea Centrului Maritim […] © G4Media.ro.",
+    "title_ro": "Căutările celor trei membri ai echipajului navei KHORYV, dispăruți în Marea Neagră, suspendate din cauza vizibilității reduse",
+    "lead_ro": "Operațiunile de căutare a trei membri dispăruți ai echipajului navei KHORYV, sub pavilionul Comorelor, au fost suspendate sâmbătă, la ora 18:04, din cauza reducerii vizibilității, a anunțat Agenția Ro...",
+    "content_ro": "Operațiunile de căutare a trei membri dispăruți ai echipajului navei KHORYV, sub pavilionul Comorelor, au fost suspendate sâmbătă, la ora 18:04, din cauza reducerii vizibilității, a anunțat Agenția Română de Salvare a Vieții Omenești pe Mare (ARSVOM). Misiunea de căutare și salvare a început vineri, 23 octombrie, și a continuat sâmbătă, la solicitarea Centrului Maritim […] © G4Media.ro."
+  },
+  {
     "group_id": "group_e63326a7ea",
     "category": "Gazdaság",
     "image": "https://stirileprotv.ro/img/2026/09/30/154734/25-octombrie.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
@@ -1117,7 +1159,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Agerpres (HU)",
@@ -1128,6 +1170,11 @@
         "source": "Digi24",
         "title": "Un avion francez de patrulare maritimă a fost mobilizat pentru a contribui la securitate în Marea Neagră",
         "link": "https://www.digi24.ro/stiri/externe/un-avion-francez-de-patrulare-maritima-a-fost-mobilizat-pentru-a-contribui-la-securitate-in-marea-neagra-4007389"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Franța intervine în Marea Neagră după atacurile asupra navelor comerciale. Un avion NATO a participat la misiunile de salvare",
+        "link": "https://adevarul.ro/stiri-externe/europa/franta-intervine-in-marea-neagra-dupa-atacurile-2566321.html"
       }
     ],
     "published_at": 1792860621,
@@ -1431,7 +1478,7 @@
     "image": "https://stirileprotv.ro/img/2026/10/24/051339/vlcsnap-2026-10-24-08h13m29s711.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -1472,6 +1519,11 @@
         "source": "ProTV Stiri",
         "title": "Proteste de amploare în Franța. Zeci de mii de polițiști mobilizați, sute de rețineri și confruntări cu forțele de ordine",
         "link": "https://stirileprotv.ro/stiri/international/proteste-de-amploare-in-franta-zeci-de-mii-de-politisti-mobilizati-sute-de-retineri-si-confruntari-cu-fortele-de-ordine.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Proteste masive în Franța. Ciocniri între poliție și protestatari. Forțele de ordine au folosit gaze lacrimogene și tunuri cu apă la Paris",
+        "link": "https://www.mediafax.ro/externe/proteste-masive-in-franta-ciocniri-intre-politie-si-protestatari-fortele-de-ordine-au-folosit-gaze-lacrimogene-si-tunuri-cu-apa-la-paris-23831132"
       }
     ],
     "published_at": 1792859627,
@@ -12654,6 +12706,32 @@
     "content_ro": "Mihai Stoica și Victor Angelescu, oficialii de la FCSB, respectiv Rapid, au fost întrebați care este echipa pe care o consideră favorită în derby-ul care se va disputa sâmbătă, de la 21:00, în runda 13 din Superliga. Mihai Stoica și Victor Angelescu au fost colegi de studio cu aproximativ 24 de ore înainte de derby. Aceștia au fost întrebați care este echipa care pornește cu prima șansă în derby-ul care va aduce pe Arena Națională peste 30.000 de spectatori. ..."
   },
   {
+    "group_id": "group_c31899e387",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjAzJTJGMjk0NjE1Nl8yOTQ2/MTU2X3BldGVyLW1hZ3lhci1wcm9maW1l/ZGlhLmpwZyZoYXNoPTFhMmVmYTA0MjMxNjQ5ZWYzM2JmZWYzMjlhZWVjZmIz.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Peter Magyar: „Ungaria nu s-a îndepărtat niciodată de UE, guvernul nostru a făcut-o. În sfârşit ne-am regăsit ţara”",
+        "link": "https://www.digi24.ro/stiri/externe/peter-magyar-ungaria-nu-s-a-indepartat-niciodata-de-ue-guvernul-nostru-a-facut-o-in-sfarsit-ne-am-regasit-tara-4006749"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "„Ungaria nu e o ţară feribot. Poporul a făcut o alegere clară”. Peter Magyar, la comemorarea Revoluţiei ungare din 1956",
+        "link": "https://hotnews.ro/ungaria-nu-e-o-tara-feribot-poporul-a-facut-o-alegere-clara-peter-magyar-la-comemorarea-revolutiei-ungare-din-1956-2385071"
+      }
+    ],
+    "published_at": 1792784589,
+    "title_hu": "Peter Magyar: „Ungaria nu s-a îndepărtat niciodată de UE, guvernul nostru a făcut-o. În sfârşit ne-am regăsit ţara”",
+    "lead_hu": "Premierul ungar Peter Magyar a declarat, vineri, că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după ce...",
+    "content_hu": "Premierul ungar Peter Magyar a declarat, vineri, că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după cei cei 16 ani la putere ai lui Viktor Orban, relatează AFP, potrivit Agerpres.",
+    "title_ro": "Peter Magyar: „Ungaria nu s-a îndepărtat niciodată de UE, guvernul nostru a făcut-o. În sfârşit ne-am regăsit ţara”",
+    "lead_ro": "Premierul ungar Peter Magyar a declarat, vineri, că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după ce...",
+    "content_ro": "Premierul ungar Peter Magyar a declarat, vineri, că ţara sa depune eforturi să fie un aliat de încredere în Uniunea Europeană, în încercarea de a recâştiga încrederea partenerilor săi europeni după cei cei 16 ani la putere ai lui Viktor Orban, relatează AFP, potrivit Agerpres."
+  },
+  {
     "group_id": "group_d9e90d4309",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/03/imagine-reprezentativa-horoscop-1024x683.png",
@@ -13596,48 +13674,6 @@
     "title_ro": "Atacurile din școli și capcana pedepselor mai dure. Cum vrea statul să pedepsească minorii pe care nu reușește să-i protejeze de radicalizare",
     "lead_ro": "Atacurile recente de la Beszterce și Pitești au readus în discuție violența în școli și soluțiile pentru prevenirea ei. „Adevărul” a discutat cu o specialistă în psihologie judiciară și un criminolog …",
     "content_ro": "Atacurile recente de la Beszterce și Pitești au readus în discuție violența în școli și soluțiile pentru prevenirea ei. „Adevărul” a discutat cu o specialistă în psihologie judiciară și un criminolog despre limitele pedepselor și măsurile care pot împiedica escaladarea violenței."
-  },
-  {
-    "group_id": "group_7a3444d5d8",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/09/masinapolitie-1-1-1-1-1200x675.webp",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Cum au furat trei români banii unor pensionari timp de doi ani. Atenție la această metodă de înșelăciune! Bărbații au ajuns în arest în Marea Britanie",
-        "link": "https://www.cancan.ro/cum-au-furat-trei-romani-banii-unor-pensionari-timp-de-doi-ani-atentie-la-aceasta-metoda-de-inselaciune-barbatii-au-ajuns-in-arest-in-marea-britanie-21535317"
-      }
-    ],
-    "published_at": 1792780391,
-    "title_hu": "Cum au furat trei români banii unor pensionari timp de doi ani. Atenție la această metodă de înșelăciune! Bărbații au ajuns în arest în Marea Britanie",
-    "lead_hu": "Trei cetățeni români au ajuns în fața justiției britanice și au primit condamnări pentru o schemă infracțională desfășurată pe parcursul a aproape doi ani. Aceștia au înșelat în special vârstnici și p…",
-    "content_hu": "Trei cetățeni români au ajuns în fața justiției britanice și au primit condamnări pentru o schemă infracțională desfășurată pe parcursul a aproape doi ani. Aceștia au înșelat în special vârstnici și persoane aflate în situații de vulnerabilitate, provocând pierderi financiare de peste 40.000 de lire sterline. Conform informațiilor din dosar, infractorii își alegeau victimele dintre […]",
-    "title_ro": "Cum au furat trei români banii unor pensionari timp de doi ani. Atenție la această metodă de înșelăciune! Bărbații au ajuns în arest în Marea Britanie",
-    "lead_ro": "Trei cetățeni români au ajuns în fața justiției britanice și au primit condamnări pentru o schemă infracțională desfășurată pe parcursul a aproape doi ani. Aceștia au înșelat în special vârstnici și p…",
-    "content_ro": "Trei cetățeni români au ajuns în fața justiției britanice și au primit condamnări pentru o schemă infracțională desfășurată pe parcursul a aproape doi ani. Aceștia au înșelat în special vârstnici și persoane aflate în situații de vulnerabilitate, provocând pierderi financiare de peste 40.000 de lire sterline. Conform informațiilor din dosar, infractorii își alegeau victimele dintre […]"
-  },
-  {
-    "group_id": "group_7a220823c9",
-    "category": "Politika",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjEwJTJGMjU4NDMzOF8yNTg0/MzM4X2Njci1pbnF1YW0tb2N0YXYtZ2Fu/ZWEuanBnJmhhc2g9NWQyZTYzOTVjMzFjMWQ5ZjBiNzM5NGI2ZjE0MDk5M2Y=.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Bolojan, după decizia CCR privind SAFE: „Finalizarea investițiilor în nord-estul României nu se poate fără SAFE”. Ce consecințe sunt",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-dupa-decizia-ccr-privind-safe-finalizarea-investitiilor-in-nord-estul-romaniei-nu-se-poate-fara-safe-ce-consecinte-sunt-4006431"
-      }
-    ],
-    "published_at": 1792780231,
-    "title_hu": "Bolojan, după decizia CCR privind SAFE: „Finalizarea investițiilor în nord-estul României nu se poate fără SAFE”. Ce consecințe sunt",
-    "lead_hu": "lie Bolojan a declarat, vineri la Digi24, că decizia Curții Constituționale în disputa dintre Guvern și Parlament privind ordonanța SAFE nu pune în pericol investițiile finanțate prin acest mecanism e…",
-    "content_hu": "lie Bolojan a declarat, vineri la Digi24, că decizia Curții Constituționale în disputa dintre Guvern și Parlament privind ordonanța SAFE nu pune în pericol investițiile finanțate prin acest mecanism european, dar ar putea bloca o posibilitate de intervenție a statului pentru preluarea unor obiective strategice. Fostul premier a explicat că una dintre măsurile vizate permitea statului să recurgă la expropriere pentru proiecte considerate de interes național. În același timp, el a subliniat că România trebuie să respecte contractele și să trateze cu seriozitate finanțările SAFE, inclusiv cele destinate infrastructurii rutiere din nord-estul țării.",
-    "title_ro": "Bolojan, după decizia CCR privind SAFE: „Finalizarea investițiilor în nord-estul României nu se poate fără SAFE”. Ce consecințe sunt",
-    "lead_ro": "lie Bolojan a declarat, vineri la Digi24, că decizia Curții Constituționale în disputa dintre Guvern și Parlament privind ordonanța SAFE nu pune în pericol investițiile finanțate prin acest mecanism e…",
-    "content_ro": "lie Bolojan a declarat, vineri la Digi24, că decizia Curții Constituționale în disputa dintre Guvern și Parlament privind ordonanța SAFE nu pune în pericol investițiile finanțate prin acest mecanism european, dar ar putea bloca o posibilitate de intervenție a statului pentru preluarea unor obiective strategice. Fostul premier a explicat că una dintre măsurile vizate permitea statului să recurgă la expropriere pentru proiecte considerate de interes național. În același timp, el a subliniat că România trebuie să respecte contractele și să trateze cu seriozitate finanțările SAFE, inclusiv cele destinate infrastructurii rutiere din nord-estul țării."
   },
   {
     "group_id": "group_7aca7afe6f",
