@@ -1,40 +1,33 @@
 [
   {
-    "group_id": "group_1f6f02ffcf",
-    "fingerprint": "631f11092bcd3d6846d7b17d5de15039",
-    "category": "Általános",
+    "group_id": "group_fe7f0c1f50",
+    "category": "Erdély",
     "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "HotNews.ro",
-        "title": "Trump spune că l-a sunat pe CEO-ul Google pentru a discuta redenumirea Oceanului Atlantic",
-        "link": "https://hotnews.ro/trump-spune-ca-l-a-sunat-pe-ceo-ul-google-pentru-a-discuta-redenumirea-oceanului-atlantic-2385295"
-      },
-      {
         "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Ce-i mai trece prin cap lui Trump: Vrea un „Ocean American” pe harta lumii, dar șeful Google i-a spus „pas” (VIDEO)",
-        "link": "https://www.ebihoreanul.ro/stiri/ce-i-mai-trece-prin-cap-lui-trump-vrea-un-ocean-american-pe-harta-lumii-seful-google-i-ar-fi-spus-pas-206085.html"
+        "title": "Adio TikTok și Instagram pentru copiii sub 15 ani! Grecia a adoptat legea care le interzice accesul la rețelele sociale",
+        "link": "https://www.ebihoreanul.ro/stiri/adio-tiktok-si-instagram-pentru-copiii-sub-15-ani-grecia-a-adoptat-legea-care-le-interzice-accesul-la-retelele-sociale-206089.html"
       }
     ],
-    "published_at": 1792861095,
-    "title_hu": "Trump szerint felvetette a Google vezérigazgatójának az Atlanti-óceán átnevezését",
-    "lead_hu": "Donald Trump egy dél-karolinai nagygyűlésen azt állította, hogy felhívta Sundar Pichait, a Google vezérigazgatóját, és az Atlanti-óceán átnevezéséről beszélt vele. Trump szerint Pichai elutasította a kérést; a Google nem erősítette meg, hogy a telefonbeszélgetés megtörtént.",
-    "content_hu": "• **Trump állítása szerint** szerdán, egy dél-karolinai nagygyűlésen arról beszélt, hogy felhívta Sundar Pichait, a Google vezérigazgatóját az Atlanti-óceán esetleges átnevezése miatt.\n\n• **Pichai válasza Trump elmondása szerint** az volt, hogy a Google nem változtatja meg az óceán nevét, mivel azok több országot érintenek. A Google nem erősítette meg, hogy a beszélgetés valóban megtörtént.\n\n• **Trump végül azt mondta**, valószínűleg eláll az Atlanti-óceán átnevezésétől, de felvetette, hogy a Csendes-óceánt „Amerikai-óceánnak” nevezhetné át.",
-    "title_ro": "Trump spune că i-a propus directorului Google redenumirea Oceanului Atlantic",
-    "lead_ro": "La un miting din Carolina de Sud, Donald Trump a afirmat că l-a sunat pe Sundar Pichai, directorul general al Google, pentru a discuta despre redenumirea Oceanului Atlantic. Potrivit lui Trump, Pichai a refuzat propunerea; Google nu a confirmat că discuția telefonică a avut loc.",
-    "content_ro": "• **Potrivit afirmației lui Trump**, acesta l-a sunat miercuri pe Sundar Pichai, directorul general al Google, pentru a discuta despre o posibilă redenumire a Oceanului Atlantic, în cadrul unui miting din Carolina de Sud.\n\n• **Conform relatării lui Trump**, Pichai i-ar fi spus că Google nu va schimba numele oceanului, deoarece oceanele se învecinează cu numeroase țări. Google nu a confirmat că discuția a avut loc.\n\n• **Trump a spus în cele din urmă** că probabil va renunța la redenumirea Oceanului Atlantic, dar a sugerat că ar putea numi Oceanul Pacific „Oceanul American”."
+    "published_at": 1792864690,
+    "title_hu": "Adio TikTok și Instagram pentru copiii sub 15 ani! Grecia a adoptat legea care le interzice accesul la rețelele sociale",
+    "lead_hu": "Copiii sub 15 ani din Grecia nu vor mai avea voie să folosească rețelele sociale, precum TikTok, Instagram sau Facebook, începând cu 1 ianuarie 2027. Parlamentul elen a adoptat o lege care urmărește p…",
+    "content_hu": "Copiii sub 15 ani din Grecia nu vor mai avea voie să folosească rețelele sociale, precum TikTok, Instagram sau Facebook, începând cu 1 ianuarie 2027. Parlamentul elen a adoptat o lege care urmărește protejarea minorilor de dependența de ecrane și de efectele negative ale platformelor online asupra sănătății mintale. Companiile care administrează rețelele sociale vor trebui să găsească soluții pentru verificarea vârstei utilizatorilor.",
+    "title_ro": "Adio TikTok și Instagram pentru copiii sub 15 ani! Grecia a adoptat legea care le interzice accesul la rețelele sociale",
+    "lead_ro": "Copiii sub 15 ani din Grecia nu vor mai avea voie să folosească rețelele sociale, precum TikTok, Instagram sau Facebook, începând cu 1 ianuarie 2027. Parlamentul elen a adoptat o lege care urmărește p…",
+    "content_ro": "Copiii sub 15 ani din Grecia nu vor mai avea voie să folosească rețelele sociale, precum TikTok, Instagram sau Facebook, începând cu 1 ianuarie 2027. Parlamentul elen a adoptat o lege care urmărește protejarea minorilor de dependența de ecrane și de efectele negative ale platformelor online asupra sănătății mintale. Companiile care administrează rețelele sociale vor trebui să găsească soluții pentru verificarea vârstei utilizatorilor."
   },
   {
     "group_id": "group_926404b868",
-    "fingerprint": "876435f9e12fab49ec8e65e0f87cc463",
+    "fingerprint": "f939a9c3a5aa8334d1c372c33f7e429f",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_9117945-1024x683.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Mediafax",
@@ -60,24 +53,78 @@
         "source": "Digi24",
         "title": "Proteste violente în Albania: Poliția a folosit gaze lacrimogene, tunuri cu apă și gloanțe de cauciuc la Tirana",
         "link": "https://www.digi24.ro/stiri/externe/proteste-violente-in-albania-politia-a-folosit-gaze-lacrimogene-tunuri-cu-apa-si-gloante-de-cauciuc-la-tirana-4007391"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Mii de persoane au protestat la Tirana împotriva corupţiei şi a premierului Edi Rama. GALERIE FOTO",
+        "link": "https://stirileprotv.ro/stiri/international/mii-de-persoane-au-protestat-la-tirana-impotriva-corup-iei-si-a-premierului-edi-rama-galerie-foto.html"
       }
     ],
-    "published_at": 1792861052,
-    "title_hu": "Feszültség Tiranában: ellenzéki tüntetők gyújtották fel a párnákat",
-    "lead_hu": "Szombaton ellenzéki támogatók tüntettek Edi Rama albán miniszterelnök tiranai hivatala előtt, és felgyújtották a diákokkal folytatandó párbeszéd jelképeként kihelyezett párnákat. A demonstrálók később az oktatási minisztériumhoz vonultak, ahol egyesek köveket dobáltak; a rendőrség vízágyút és gyorsreagálású egységeket vezényelt a helyszín közelébe. Rama szerint a kormány órákon vagy napokon belül átfogó választ ad a tiltakozások üzeneteire.",
-    "content_hu": "• **Szombaton Tiranában** az ellenzéki Demokrata Párt támogatói mintegy másfél órán át tüntettek Edi Rama miniszterelnök hivatala előtt.\n\n• **A tüntetők felgyújtották a párnákat**, amelyeket Rama a hivatal elé helyezett a diákokkal folytatandó párbeszéd jelképes kezdeményezéseként.\n\n• **Az oktatási minisztériumnál** egyes demonstrálók köveket dobáltak az épületre és a rendőrökre, miközben diákok számára külön tüntetést hirdettek meg.\n\n• **A rendőrség vízágyút és gyorsreagálású egységeket vezényelt** a minisztérium közelébe, és fokozta a biztonsági jelenlétet az újabb incidensektől tartva.\n\n• **Edi Rama elismerte, hogy nő az elégedetlenség**, és közölte: a kormány átfogó választ készít a tiltakozásokon megfogalmazott üzenetekre.\n\n• **A közösségi médiában megjelent felhívások is közrejátszottak** a biztonsági intézkedésekben: a diákokat a tüntetésen való részvételre buzdították.\n\n• **Rama órákon vagy napokon belül ígért választ**, és azt mondta, a kormány összegzi, mit próbál közölni a társadalom jelentős része.",
-    "title_ro": "Tensiuni la Tirana: protestatarii opoziției au incendiat pernele",
-    "lead_ro": "Sâmbătă, susținătorii opoziției au protestat în fața sediului premierului albanez Edi Rama din Tirana și au incendiat pernele așezate acolo ca simbol al dialogului cu studenții. Manifestanții s-au îndreptat apoi spre Ministerul Educației, unde unii au aruncat cu pietre; poliția a mobilizat un tun cu apă și unități de intervenție rapidă în apropiere. Rama a spus că guvernul va prezenta, în câteva ore sau zile, un răspuns de ansamblu la mesajele protestelor.",
-    "content_ro": "• **Sâmbătă, la Tirana**, susținătorii Partidului Democrat de opoziție au protestat aproximativ o oră și jumătate în fața sediului premierului Edi Rama.\n\n• **Protestatarii au incendiat pernele** așezate de Rama în fața sediului său ca inițiativă simbolică de dialog cu studenții.\n\n• **La Ministerul Educației**, unii manifestanți au aruncat cu pietre în clădire și în polițiști, în timp ce fusese anunțat un protest separat al studenților.\n\n• **Poliția a mobilizat un tun cu apă și unități de intervenție rapidă** în apropierea ministerului și a sporit prezența de securitate, de teama unor noi incidente.\n\n• **Edi Rama a recunoscut că nemulțumirea este în creștere** și a declarat că guvernul pregătește un răspuns de ansamblu la mesajele transmise prin proteste.\n\n• **Apelurile apărute pe rețelele de socializare au contribuit la măsurile de securitate**: studenții erau îndemnați să participe la manifestație.\n\n• **Rama a promis un răspuns în câteva ore sau zile** și a spus că guvernul va prezenta o reflecție de ansamblu asupra a ceea ce încearcă să transmită o parte semnificativă a societății."
+    "published_at": 1792864488,
+    "title_hu": "Ellenzéki tüntetők párnákat gyújtottak fel az albán miniszterelnök hivatalánál",
+    "lead_hu": "Szombaton feszültté vált a helyzet Tiranában, ahol az ellenzéki Demokrata Párt támogatói Edi Rama miniszterelnök hivatalánál tüntettek, majd az Oktatási Minisztériumhoz vonultak. A rendőrség vízágyút és gyorsreagálású egységeket vezényelt a minisztérium közelébe, miután egyes tüntetők köveket dobáltak az épületre és a rendőrökre.",
+    "content_hu": "• **Szombaton Tiranában** az ellenzéki Demokrata Párt támogatói mintegy másfél órán át tüntettek Edi Rama miniszterelnök hivatala előtt.\n\n• **A párnák felgyújtásával** a tüntetők azokat a párnákat égették el, amelyeket Rama a hivatal elé helyezett a diákokkal folytatandó párbeszéd jelképes felhívásaként.\n\n• **Az Oktatási Minisztériumnál** egyes demonstrálók köveket dobáltak az épületre és a rendőrökre, miután a miniszteriumhoz vonultak, ahol külön diáktiltakozást is meghirdettek.\n\n• **A rendőrség** vízágyút és az albán gyorsreagálású erők egységeit vezényelte a minisztérium közelébe, és fokozta a biztonsági jelenlétet az újabb incidensektől tartva.\n\n• **Edi Rama** elismerte, hogy növekszik a lakossági elégedetlenség, és közölte: a kormány rövid időn belül ismerteti, hogyan értelmezi a tiltakozások üzenetét.",
+    "title_ro": "Protestatarii opoziției au incendiat perne în fața sediului premierului albanez",
+    "lead_ro": "Sâmbătă, situația s-a tensionat la Tirana, unde susținători ai Partidului Democrat de opoziție au protestat în fața sediului premierului Edi Rama, apoi s-au îndreptat spre Ministerul Educației. Poliția a mobilizat un tun cu apă și unități de intervenție rapidă în apropierea ministerului, după ce unii protestatari au aruncat cu pietre în clădire și în forțele de ordine.",
+    "content_ro": "• **Sâmbătă, la Tirana**, susținătorii Partidului Democrat de opoziție au protestat timp de aproximativ o oră și jumătate în fața sediului premierului Edi Rama.\n\n• **Incendierea pernelor** a vizat obiectele așezate de Rama în fața sediului său ca invitație simbolică la dialog cu studenții.\n\n• **La Ministerul Educației**, unde fusese anunțat și un protest separat al studenților, unii manifestanți au aruncat cu pietre în clădire și în polițiști după ce au ajuns acolo.\n\n• **Poliția** a desfășurat un tun cu apă și unități ale Forțelor de Intervenție Rapidă din Albania în apropierea ministerului și a sporit măsurile de securitate de teama unor noi incidente.\n\n• **Edi Rama** a recunoscut că nemulțumirea populației este în creștere și a declarat că guvernul va prezenta în scurt timp o evaluare a mesajelor transmise prin proteste."
+  },
+  {
+    "group_id": "group_374d80273d",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI0JTJGMzAyODg1M18zMDI4/ODUzX3Byb2ZpbWVkaWEtMTE0NjIwMDI3/MC5qcGcmaGFzaD1jMmI3MWU1NzdhNjk3YWNlOTFjZDFiMmUwYjBjMDM0YQ==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Proteste violente în Europa: ciocniri cu poliția în Italia, Franța și Albania, mii de oameni în stradă în mai multe țări",
+        "link": "https://www.digi24.ro/stiri/externe/proteste-violente-in-europa-ciocniri-cu-politia-in-italia-franta-si-albania-mii-de-oameni-in-strada-in-mai-multe-tari-4007481"
+      }
+    ],
+    "published_at": 1792864407,
+    "title_hu": "Proteste violente în Europa: ciocniri cu poliția în Italia, Franța și Albania, mii de oameni în stradă în mai multe țări",
+    "lead_hu": "Proteste de amploare, unele marcate de violențe și ciocniri cu forțele de ordine, au avut loc sâmbătă în mai multe țări europene, printre care Italia, Franța, Albania, Spania și Portugalia, scrie ABC …",
+    "content_hu": "Proteste de amploare, unele marcate de violențe și ciocniri cu forțele de ordine, au avut loc sâmbătă în mai multe țări europene, printre care Italia, Franța, Albania, Spania și Portugalia, scrie ABC News. La Milano, autoritățile au mobilizat încă 500 de soldați și au întărit măsurile de securitate după jafurile și confruntările din weekendul precedent. În Franța, poliția a reținut 135 de persoane, în timp ce la Tirana au fost folosite tunuri cu apă pentru dispersarea manifestanților. În Madrid și Lisabona, mii de oameni au ieșit în stradă pentru a cere protejarea pensiilor și acces la locuințe la prețuri accesibile.",
+    "title_ro": "Proteste violente în Europa: ciocniri cu poliția în Italia, Franța și Albania, mii de oameni în stradă în mai multe țări",
+    "lead_ro": "Proteste de amploare, unele marcate de violențe și ciocniri cu forțele de ordine, au avut loc sâmbătă în mai multe țări europene, printre care Italia, Franța, Albania, Spania și Portugalia, scrie ABC …",
+    "content_ro": "Proteste de amploare, unele marcate de violențe și ciocniri cu forțele de ordine, au avut loc sâmbătă în mai multe țări europene, printre care Italia, Franța, Albania, Spania și Portugalia, scrie ABC News. La Milano, autoritățile au mobilizat încă 500 de soldați și au întărit măsurile de securitate după jafurile și confruntările din weekendul precedent. În Franța, poliția a reținut 135 de persoane, în timp ce la Tirana au fost folosite tunuri cu apă pentru dispersarea manifestanților. În Madrid și Lisabona, mii de oameni au ieșit în stradă pentru a cere protejarea pensiilor și acces la locuințe la prețuri accesibile."
+  },
+  {
+    "group_id": "group_3be0d5af54",
+    "fingerprint": "09533b2d0a8e87f70a27b44061066819",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/2a7293ef-97aa-4bc1-82cd-ecbac6fe4afb.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Mourinho s-a enervat înainte El Clasico, apoi a trecut la șotii: „Arăt atât de rău?”",
+        "link": "https://www.gsp.ro/international/campionate/jose-mourinho-barcelona-real-madrid-conferinta-991679.html"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Mourinho: az El Clásicón nem az edzők személye a döntő",
+        "link": "https://www.mediatica.ro/hirek/sport/mourinho-az-el-clasicon-nem-az-edzok-szemelye-a-donto"
+      }
+    ],
+    "published_at": 1792864391,
+    "title_hu": "Mourinho szerint az El Clásicón nem számítanak az előzmények",
+    "lead_hu": "José Mourinho, a Real Madrid vezetőedzője szerint csapata aktuális formája és a korábbi eredmények nem lesznek meghatározók a Barcelona elleni El Clásicón. A mérkőzést vasárnap 22 órakor rendezik a Camp Nouban.",
+    "content_hu": "• **José Mourinho** szerint az El Clásico előtt történteknek nincs különösebb jelentőségük, és a Real Madrid felkészülését a Barcelona korábbi, párizsi veresége sem befolyásolja.\n\n• **A vasárnap 22 órakor kezdődő mérkőzésen** Mourinho a visszatérése óta először irányítja a Realt El Clásicón; a találkozó helyszíne a Camp Nou.\n\n• **Mourinho** úgy fogalmazott, hogy a Real Madrid vele trófeákat nyer, az El Clásicót pedig egyedülálló, világszintű eseménynek nevezte.\n\n• **A sajtótájékoztatón** a feszült hangvétel után Mourinho a cikk címe szerint tréfálkozásra váltott, és azt kérdezte: „Ennyire rosszul nézek ki?”",
+    "title_ro": "Mourinho spune că trecutul nu contează înaintea El Clásico",
+    "lead_ro": "José Mourinho, antrenorul lui Real Madrid, a spus că forma echipelor și rezultatele recente nu vor avea o importanță decisivă în El Clásico cu Barcelona. Meciul se va disputa duminică, de la ora 22:00, pe Camp Nou.",
+    "content_ro": "• **José Mourinho** a afirmat că ceea ce s-a întâmplat înaintea meciului nu are o importanță prea mare și că înfrângerea Barcelonei de la Paris nu îi influențează pregătirea lui Real Madrid.\n\n• **Partida de duminică, de la ora 22:00**, va fi primul El Clásico condus de Mourinho de la revenirea sa la Real Madrid; meciul se joacă pe Camp Nou.\n\n• **Mourinho** a declarat că Real Madrid câștigă trofee cu el și a descris El Clásico drept un eveniment unic, cu dimensiune mondială.\n\n• **La conferința de presă**, după un moment tensionat, Mourinho a trecut la glume, potrivit titlului articolului, întrebând: „Arăt atât de rău?”"
   },
   {
     "group_id": "group_917cc3c11d",
-    "fingerprint": "1f426b4599e588ede3206b6033bb6abd",
+    "fingerprint": "84ff7b98334f689aacc034a9b3ed39b4",
     "category": "Gazdaság",
     "image": "https://www.economedia.ro/wp-content/uploads/2026/10/TBM-Poiana-Autostrada-Sibiu-Pitesti-2-1024x576.jpeg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Economedia",
@@ -88,36 +135,686 @@
         "source": "Digi24",
         "title": "Capul „cârtiței” care va săpa tunelul Poiana de pe Autostrada Sibiu – Piteşti a ajuns la destinație. „Drumul nu a fost deloc ușor”",
         "link": "https://www.digi24.ro/stiri/economie/transporturi/capul-cartitei-care-va-sapa-tunelul-poiana-de-pe-autostrada-sibiu-pitesti-a-ajuns-la-destinatie-drumul-nu-a-fost-deloc-usor-4007397"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Pas uriaș pentru Autostrada Sibiu–Pitești: Capul de foraj de 131 de tone pentru Tunelul Poiana a ajuns la șantier",
+        "link": "https://adevarul.ro/economie/pas-urias-pentru-autostrada-sibiu-pitesti-capul-2566318.html"
       }
     ],
-    "published_at": 1792861049,
-    "title_hu": "Három hónapig tart a Poiana-alagút fúróberendezésének összeszerelése",
-    "lead_hu": "Megérkezett a Poiana-alagutat fúró TBM első alkatrésze a Szeben felőli portálhoz, de a fúrás csak a további elemek szállítása és összeszerelése után kezdődhet meg. A berendezés helyszínre juttatásához több mint száz szállítmányra van szükség, az összeszerelés pedig három hónapig tart.",
-    "content_hu": "• **A fúrófej** két nappal ezelőtt érkezett meg a helyszínre: hatméteres átmérőjű és 131 tonnás; a vontatóval és a trélerrel együtt a szállítmány tömege mintegy 160 tonna volt.\n\n• **Több mint száz szállítmányra** van szükség a TBM alkatrészeinek helyszínre juttatásához. A DRDP Craiova szerint ezek nem mind túlméretes fuvarok, és több alkatrész akár ugyanazon a napon is megérkezhet.\n\n• **Az összeszerelés három hónapig tart**, az alkatrészeket pedig a szerelési munkák üteméhez igazítva szállítják, mert az esőben nem lehet tárolni őket. A hatóság nem közölt becsült időpontot a fúrás megkezdésére.",
+    "published_at": 1792864357,
+    "title_hu": "Három hónapig tart a Poiana-alagút fúrópajzsának összeszerelése",
+    "lead_hu": "Megérkezett a Szeben–Pitești-autópálya Poiana-alagútját fúró TBM első alkatrésze, de a fúrás csak a teljes gép beszállítása és összeszerelése után kezdődhet el. A több mint 100 szállítmányra szükség van, az összeszerelés pedig három hónapig tart; a fúrás kezdetének időpontját egyelőre nem közölték.",
+    "content_hu": "• **Megérkezett a fúrófej** a Poiana-alagút Szeben felőli portáljához. A 6 méter átmérőjű alkatrész 131 tonnát nyom; a vontatóval és a trélerrel együtt a szállítmány tömege körülbelül 160 tonna volt.\n\n• **Több mint 100 szállítmányra van szükség** a TBM összes alkatrészének helyszínre juttatásához. Ez nem jelent feltétlenül ugyanennyi szállítási napot, mert több alkatrész is érkezhet egy napon, az összeszerelés üteméhez igazodva.\n\n• **Három hónapig tart az összeszerelés** – közölte a Craiova Regionális Út- és Hídügyi Igazgatóság (DRDP Craiova). A csapadékos időjárás és a tárolási lehetőségek is befolyásolják, mikor szállítják a helyszínre az egyes alkatrészeket.\n\n• **A fúrás kezdési időpontját nem határozták meg.** A DRDP Craiova nem közölt becsült dátumot a munkálatok megkezdésére.",
     "title_ro": "Asamblarea utilajului pentru tunelul Poiana va dura trei luni",
-    "lead_ro": "Prima componentă a TBM-ului care va fora tunelul Poiana a ajuns la portalul dinspre Sibiu, însă forajul poate începe numai după transportarea și asamblarea celorlalte piese. Sunt necesare peste 100 de transporturi pentru aducerea utilajului pe șantier, iar montajul va dura trei luni.",
-    "content_ro": "• **Capul de foraj** a ajuns la șantier în urmă cu două zile: are un diametru de șase metri și cântărește 131 de tone. Împreună cu capul tractor și trailerul, ansamblul transportat a avut aproximativ 160 de tone.\n\n• **Peste 100 de transporturi** sunt necesare pentru aducerea componentelor TBM-ului. DRDP Craiova precizează că nu toate transporturile sunt agabaritice și că mai multe componente pot ajunge pe șantier în aceeași zi.\n\n• **Montajul va dura trei luni**, iar componentele sunt livrate în funcție de succesiunea lucrărilor, deoarece nu pot fi depozitate în ploaie. Autoritatea nu a comunicat o dată estimată pentru începerea forajului."
+    "lead_ro": "A ajuns la portalul dinspre Sibiu prima componentă a TBM-ului care va fora tunelul Poiana de pe Autostrada Sibiu–Pitești, însă forajul poate începe doar după transportarea și asamblarea întregului utilaj. Sunt necesare peste 100 de transporturi, iar montajul va dura trei luni; data începerii forajului nu a fost comunicată.",
+    "content_ro": "• **Capul de foraj a ajuns** la portalul dinspre Sibiu al tunelului Poiana. Componenta are un diametru de 6 metri și cântărește 131 de tone; împreună cu tractorul și trailerul, transportul a avut aproximativ 160 de tone.\n\n• **Sunt necesare peste 100 de transporturi** pentru aducerea tuturor componentelor TBM-ului pe șantier. Acest lucru nu înseamnă neapărat tot atâtea zile de transport, deoarece mai multe componente pot ajunge în aceeași zi, în funcție de etapele montajului.\n\n• **Montajul va dura trei luni**, potrivit Direcției Regionale de Drumuri și Poduri Craiova (DRDP Craiova). Vremea ploioasă și posibilitățile de depozitare influențează programarea livrărilor componentelor.\n\n• **Data începerii forajului nu a fost stabilită public.** DRDP Craiova nu a comunicat o dată estimativă pentru începerea lucrărilor."
   },
   {
-    "group_id": "group_9813901dd8",
+    "group_id": "group_847b82c43b",
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_oktober/24/cikk_krisof-rebeka-fb.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Leénekelte a csillagokat az égről a székelyudvarhelyi lány az X-Faktorban (VIDEÓ)",
+        "link": "https://maszol.ro/eletmod/Leenekelte-a-csillagokat-az-egrol-a-szekelyudvarhelyi-lany-az-X-Faktorban-VIDEO"
+      }
+    ],
+    "published_at": 1792864200,
+    "title_hu": "Leénekelte a csillagokat az égről a székelyudvarhelyi lány az X-Faktorban (VIDEÓ)",
+    "lead_hu": "Most az X-Faktorban is megmutatta énektudását.",
+    "content_hu": "Most az X-Faktorban is megmutatta énektudását.",
+    "title_ro": "Leénekelte a csillagokat az égről a székelyudvarhelyi lány az X-Faktorban (VIDEÓ)",
+    "lead_ro": "Most az X-Faktorban is megmutatta énektudását.",
+    "content_ro": "Most az X-Faktorban is megmutatta énektudását."
+  },
+  {
+    "group_id": "group_4d6f8302f0",
     "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/6e19acdd-03d6-4a75-bc78-6ab5ef4346e4.jpg?width=290&height=208",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15102026/9da911a8-27a9-4bbd-aa06-e10e0d3b7034.jpg?width=290&height=208",
     "is_synthesized": false,
     "sources_count": 1,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
-        "title": "FC Argeș - UTA 0-1 » Învinși de coșmarul lor! „Bătrâna Doamnă” câștigă la Mioveni și adâncește criza lui Bogdan Andone",
-        "link": "https://www.gsp.ro/fotbal/liga-1/live-fc-arges-superliga-991141.html"
+        "title": "UTA e pe loc de play-off, dar Adi Mihalcea are o mare nemulțumire: „Ne va omorî”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/adi-mihalcea-are-o-mare-nemultumire-991829.html"
       }
     ],
-    "published_at": 1792860960,
-    "title_hu": "FC Argeș - UTA 0-1 » Învinși de coșmarul lor! „Bătrâna Doamnă” câștigă la Mioveni și adâncește criza lui Bogdan Andone",
-    "lead_hu": "UTA s-a impus la limită la Mioveni, 1-0 în fața lui FC Argeș, iar „Bătrâna Doamnă” se infiltrează în lupta pentru locurile de play-off după a doua victorie consecutivă în Superligă. Criza piteștenilor…",
-    "content_hu": "UTA s-a impus la limită la Mioveni, 1-0 în fața lui FC Argeș, iar „Bătrâna Doamnă” se infiltrează în lupta pentru locurile de play-off după a doua victorie consecutivă în Superligă. Criza piteștenilor se adâncește: „revelația” de anul trecut a fost modestă tot meciul și rămâne pe loc de „baraj”! Programul, rezultatele și marcatorii etapei #13 din Superligă. ...",
-    "title_ro": "FC Argeș - UTA 0-1 » Învinși de coșmarul lor! „Bătrâna Doamnă” câștigă la Mioveni și adâncește criza lui Bogdan Andone",
-    "lead_ro": "UTA s-a impus la limită la Mioveni, 1-0 în fața lui FC Argeș, iar „Bătrâna Doamnă” se infiltrează în lupta pentru locurile de play-off după a doua victorie consecutivă în Superligă. Criza piteștenilor…",
-    "content_ro": "UTA s-a impus la limită la Mioveni, 1-0 în fața lui FC Argeș, iar „Bătrâna Doamnă” se infiltrează în lupta pentru locurile de play-off după a doua victorie consecutivă în Superligă. Criza piteștenilor se adâncește: „revelația” de anul trecut a fost modestă tot meciul și rămâne pe loc de „baraj”! Programul, rezultatele și marcatorii etapei #13 din Superligă. ..."
+    "published_at": 1792864054,
+    "title_hu": "UTA e pe loc de play-off, dar Adi Mihalcea are o mare nemulțumire: „Ne va omorî”",
+    "lead_hu": "În ultimele două etape, UTA Arad a bifat două victorii „italienești”, ambele la limită: 1-0 cu CFR Kolozsvár și 1-0 cu FC Argeș, astăzi. Unicul gol al partidei de la Mioveni a fost înscris de Marius C…",
+    "content_hu": "În ultimele două etape, UTA Arad a bifat două victorii „italienești”, ambele la limită: 1-0 cu CFR Kolozsvár și 1-0 cu FC Argeș, astăzi. Unicul gol al partidei de la Mioveni a fost înscris de Marius Coman, în minutul 17, reușită grație căreia „textiliștii” au urcat, cel puțin temporar, pe un loc de play-off. La finalul confruntării, Adrian Mihalcea a „disecat” cele întâmplate pe teren, punând accent pe micile detalii tactice care au făcut diferența. ...",
+    "title_ro": "UTA e pe loc de play-off, dar Adi Mihalcea are o mare nemulțumire: „Ne va omorî”",
+    "lead_ro": "În ultimele două etape, UTA Arad a bifat două victorii „italienești”, ambele la limită: 1-0 cu CFR Kolozsvár și 1-0 cu FC Argeș, astăzi. Unicul gol al partidei de la Mioveni a fost înscris de Marius C…",
+    "content_ro": "În ultimele două etape, UTA Arad a bifat două victorii „italienești”, ambele la limită: 1-0 cu CFR Kolozsvár și 1-0 cu FC Argeș, astăzi. Unicul gol al partidei de la Mioveni a fost înscris de Marius Coman, în minutul 17, reușită grație căreia „textiliștii” au urcat, cel puțin temporar, pe un loc de play-off. La finalul confruntării, Adrian Mihalcea a „disecat” cele întâmplate pe teren, punând accent pe micile detalii tactice care au făcut diferența. ..."
+  },
+  {
+    "group_id": "group_8e74a70799",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "AUR: Dan Tanasănak joga van a tisztességes bírósági eljáráshoz",
+        "link": "https://www.mediatica.ro/hirek/politika/aur-dan-tanasanak-joga-van-a-tisztesseges-birosagi-eljarashoz"
+      }
+    ],
+    "published_at": 1792864037,
+    "title_hu": "AUR: Dan Tanasănak joga van a tisztességes bírósági eljáráshoz",
+    "lead_hu": "A párt szerint a képviselő migrációval és a romániai munkaerőpiaccal kapcsolatos politikai álláspontját büntetőüggyé alakították.",
+    "content_hu": "A párt szerint a képviselő migrációval és a romániai munkaerőpiaccal kapcsolatos politikai álláspontját büntetőüggyé alakították.",
+    "title_ro": "AUR: Dan Tanasănak joga van a tisztességes bírósági eljáráshoz",
+    "lead_ro": "A párt szerint a képviselő migrációval és a romániai munkaerőpiaccal kapcsolatos politikai álláspontját büntetőüggyé alakították.",
+    "content_ro": "A párt szerint a képviselő migrációval és a romániai munkaerőpiaccal kapcsolatos politikai álláspontját büntetőüggyé alakították."
+  },
+  {
+    "group_id": "group_1241b59282",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/alexandru-rogobete.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Rogobete propune tarife mai mari pentru a doua și a treia gardă pe lună și plata gărzilor rezidenților din anul I / Ministrul vrea măsurile în primele trei luni de mandat",
+        "link": "https://www.g4media.ro/rogobete-tarife-garzi-medici-plata-rezidenti-anul-1.html"
+      }
+    ],
+    "published_at": 1792863921,
+    "title_hu": "Rogobete propune tarife mai mari pentru a doua și a treia gardă pe lună și plata gărzilor rezidenților din anul I / Ministrul vrea măsurile în primele trei luni de mandat",
+    "lead_hu": "Ministrul Sănătății, Alexandru Rogobete, a declarat sâmbătă, la Iași, că printre prioritățile mandatului său se numără creșterea progresivă a tarifelor pentru gărzile medicilor și plata gărzilor efect…",
+    "content_hu": "Ministrul Sănătății, Alexandru Rogobete, a declarat sâmbătă, la Iași, că printre prioritățile mandatului său se numără creșterea progresivă a tarifelor pentru gărzile medicilor și plata gărzilor efectuate de rezidenți, inclusiv de cei din anul I, transmite Agerpres. Ministrul a precizat că își dorește aplicarea acestor măsuri în primele trei luni de mandat. Mecanismul prezentat de […] © G4Media.ro.",
+    "title_ro": "Rogobete propune tarife mai mari pentru a doua și a treia gardă pe lună și plata gărzilor rezidenților din anul I / Ministrul vrea măsurile în primele trei luni de mandat",
+    "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, a declarat sâmbătă, la Iași, că printre prioritățile mandatului său se numără creșterea progresivă a tarifelor pentru gărzile medicilor și plata gărzilor efect…",
+    "content_ro": "Ministrul Sănătății, Alexandru Rogobete, a declarat sâmbătă, la Iași, că printre prioritățile mandatului său se numără creșterea progresivă a tarifelor pentru gărzile medicilor și plata gărzilor efectuate de rezidenți, inclusiv de cei din anul I, transmite Agerpres. Ministrul a precizat că își dorește aplicarea acestor măsuri în primele trei luni de mandat. Mecanismul prezentat de […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_799ae9cd0a",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-4/41223b90-863c-446d-8ea8-c50f14ddbfb2/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Viagra, folosită și pentru o afecțiune care afectează mai ales femeile. Ce legătură are celebra pastilă albastră cu mâinile reci",
+        "link": "https://adevarul.ro/stiri-interne/societate/viagra-folosita-si-pentru-o-afectiune-care-2566107.html"
+      }
+    ],
+    "published_at": 1792863757,
+    "title_hu": "Viagra, folosită și pentru o afecțiune care afectează mai ales femeile. Ce legătură are celebra pastilă albastră cu mâinile reci",
+    "lead_hu": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâ…",
+    "content_hu": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâini și picioare, mai ales la contactul cu frigul. Este vorba despre fenomenul Raynaud.",
+    "title_ro": "Viagra, folosită și pentru o afecțiune care afectează mai ales femeile. Ce legătură are celebra pastilă albastră cu mâinile reci",
+    "lead_ro": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâ…",
+    "content_ro": "Viagra, cunoscută în special pentru tratarea disfuncției erectile la bărbați, este folosită și în tratamentul unei afecțiuni care provoacă dureri, amorțeli și modificări ale culorii degetelor de la mâini și picioare, mai ales la contactul cu frigul. Este vorba despre fenomenul Raynaud."
+  },
+  {
+    "group_id": "group_4756c9485b",
+    "fingerprint": "e849e1afcce13ddb3e3990aae34194d8",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/8165433-Hepta_Mediafax_Foto-DPA_Hepta-scaled.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Mii de tineri au protestat în Italia față de scumpirea vieții și chiriile ridicate / Confruntări cu poliția la Bologna",
+        "link": "https://www.g4media.ro/proteste-italia-tineri-scumpiri-chirii-guvernul-meloni.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Guvernul Giorgiei Meloni, contestat în stradă în mai multe orașe din Italia. Măsuri extraordinare de securitate",
+        "link": "https://hotnews.ro/guvernul-giorgiei-meloni-contestat-in-strada-in-mai-multe-orase-din-italia-masuri-extraordinare-de-securitate-2385695"
+      }
+    ],
+    "published_at": 1792863519,
+    "title_hu": "Több olasz városban tüntettek a megélhetési költségek és a magas lakbérek miatt",
+    "lead_hu": "Több ezer ember, főként fiatalok vonultak utcára szombaton Olaszország több városában a megélhetési költségek, a magas lakbérek és a katonai kiadások ellen. Bolognában a kezdetben békés demonstráció összecsapásokba torkollott a rendőrökkel.",
+    "content_hu": "• **Szombaton** Rómában, Milánóban, Torinóban, Nápolyban, Bolognában és Firenzében tartottak tüntetéseket. A résztvevők a megélhetés drágulása, a magas lakhatási költségek és a katonai kiadások ellen tiltakoztak.\n\n• **A demonstrálók** a lakhatás megfizethetőségét, valamint az oktatás és a külvárosi negyedek elégtelen támogatását bírálták. Egy 23 éves diák azt mondta, a kormány fegyverkezésre költ, miközben az oktatásra és a segítségre szorulókra nem fordít elegendő forrást.\n\n• **Bolognában** a kezdetben békés tüntetés helyi idő szerint nem sokkal 18 óra előtt fajult összecsapássá. Tiltakozók kövekkel és üvegekkel dobálták a rendőröket, akik vízágyúval oszlatták fel a tömeget.\n\n• **Torinóban** több ezren vonultak fel a Giorgia Meloni vezette kormány ellen; a menet során feszültség alakult ki a tüntetők és a rohamrendőrök között, egy csoport pedig felgyújtotta a miniszterelnök nagyméretű fényképét. Milánóban diákok vonultak fel, a belváros biztosításában pedig mintegy 1400 rendőr vett részt.",
+    "title_ro": "Mii de oameni au protestat în mai multe orașe din Italia față de costul vieții și chiriile ridicate",
+    "lead_ro": "Mii de persoane, majoritatea tineri, au ieșit sâmbătă în stradă în mai multe orașe din Italia, protestând față de scumpirea vieții, chiriile ridicate și cheltuielile militare. La Bologna, manifestația inițial pașnică a degenerat în confruntări cu poliția.",
+    "content_ro": "• **Sâmbătă**, au avut loc manifestații la Roma, Milano, Torino, Napoli, Bologna și Florența. Participanții au protestat față de creșterea costului vieții, cheltuielile ridicate pentru locuințe și alocarea de fonduri pentru cheltuieli militare.\n\n• **Manifestanții** au criticat costurile locuințelor și sprijinul insuficient acordat educației și cartierelor periferice. Un student în vârstă de 23 de ani a afirmat că guvernul alocă bani pentru armament, dar nu suficient pentru educație și pentru oamenii care au nevoie de ajutor.\n\n• **La Bologna**, protestul inițial pașnic a degenerat în confruntări cu puțin înainte de ora locală 18:00. Grupuri de manifestanți au aruncat cu pietre și sticle în polițiști, care au folosit tunuri cu apă pentru a dispersa mulțimea.\n\n• **La Torino**, mii de persoane au mărșăluit împotriva guvernului condus de Giorgia Meloni; au avut loc momente de tensiune cu forțele antirevoltă, iar un grup de manifestanți a incendiat o fotografie de mari dimensiuni a premierului. La Milano, studenții au participat la un marș, iar centrul orașului a fost supravegheat de aproximativ 1.400 de membri ai forțelor de ordine."
+  },
+  {
+    "group_id": "group_8ce5610416",
+    "fingerprint": "07004affa61fd5f5d777d13513ddd4f6",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/istockphoto-653844644-612x612-1.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Șapte persoane au fost ucise într-un atac armat la o biserică din Iordania. 40 de răniți, în timpul unei înmormântări",
+        "link": "https://www.mediafax.ro/externe/sapte-persoane-au-fost-ucise-intr-un-atac-armat-la-o-biserica-din-iordania-40-de-raniti-in-timpul-unei-inmormantari-23830906"
+      },
+      {
+        "source": "G4Media",
+        "title": "Șapte persoane au fost ucise într-un atac armat la o biserică din Iordania / 40 de răniți",
+        "link": "https://www.g4media.ro/sapte-persoane-au-fost-ucise-intr-un-atac-armat-la-o-biserica-din-iordania-40-de-raniti.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Atac armat la o biserică ortodoxă din Iordania, în timpul unei înmormântări: 8 oameni au fost uciși și 40, răniți",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/atac-armat-la-o-biserica-ortodoxa-din-iordania-in-2566316.html"
+      }
+    ],
+    "published_at": 1792863384,
+    "title_hu": "Hét halálos áldozata és 40 sebesültje van a jordániai Hamoud-templom elleni támadásnak",
+    "lead_hu": "Fegyveres támadás történt a jordániai Hamoud-templomnál egy temetés idején: hét ember meghalt, 40-en megsebesültek. A hatóságok szélsőségesek terrorcselekményének nevezték az esetet; a támadók felkutatása még tartott, a sebesültek többsége pedig orvosi ellátás alatt állt.",
+    "content_hu": "• **A támadásban hét ember meghalt, 40 pedig megsebesült** a jordániai Hamoud-templomnál, ahol a lövöldözés idején temetést tartottak.\n\n• **A sebesültek többsége továbbra is orvosi ellátás alatt állt** – közölte a jordániai közbiztonsági igazgatóság vezetője.\n\n• **A hatóságok szélsőségesek terrorcselekményének nevezték az esetet**, de közölték, hogy még korai megállapítani, volt-e a támadóknak kapcsolatuk ismert jordániai vagy külföldi szervezetekkel. A beszámoló időpontjáig egyetlen csoport sem vállalta a felelősséget.\n\n• **A televízióban bemutatott biztonsági felvételen három támadó látható**, akik a járdáról lőttek, majd fák és egy alacsony fal mögé húzódtak, végül a templom bejárata felé futottak. A Reuters a felvételt a helyszín részletei alapján ellenőrizte.\n\n• **A temetésen részt vevő egyik szemtanú szerint több tucat ember volt a templomban**, és a támadók perceken át lőttek rájuk. Egy másik szemtanú vérző embereket látott a földre zuhanni.\n\n• **A támadás után vérnyomok voltak láthatók a templom bejáratánál**, miközben a helyszínen biztonsági erők tartózkodtak.\n\n• **A támadók felkutatása folyamatban volt**, és a hatóságok az esetet a keresztény kisebbséget érő ritka támadásként írták le.\n\n• **II. Abdalláh király a támadás után néhány órával Karakba látogatott**, és azt ígérte, hogy a felelősöket megbüntetik.",
+    "title_ro": "Șapte morți și 40 de răniți în atacul asupra bisericii Hamoud din Iordania",
+    "lead_ro": "Un atac armat a avut loc la biserica Hamoud din Iordania, în timpul unei înmormântări: șapte persoane au murit, iar 40 au fost rănite. Autoritățile au descris incidentul drept un act terorist comis de extremiști; căutarea atacatorilor era în desfășurare, iar majoritatea răniților se aflau încă sub îngrijire medicală.",
+    "content_ro": "• **Șapte persoane au murit, iar 40 au fost rănite** în atacul armat de la biserica Hamoud din Iordania, unde avea loc o înmormântare.\n\n• **Majoritatea răniților se aflau încă sub îngrijire medicală**, a declarat șeful Direcției de Securitate Publică din Iordania.\n\n• **Autoritățile au descris atacul drept un act terorist comis de extremiști**, dar au precizat că este prea devreme pentru a stabili dacă atacatorii aveau legături cu organizații cunoscute din Iordania sau din străinătate. Până la momentul relatării, nicio grupare nu revendicase atacul.\n\n• **O înregistrare de supraveghere difuzată de televiziunea de stat pare să arate trei atacatori**, care au tras de pe trotuar, s-au adăpostit în spatele unor copaci și al unui zid de mici dimensiuni, apoi au alergat spre intrarea în biserică. Reuters a verificat înregistrarea comparând-o cu detalii ale locului.\n\n• **Un martor care participa la înmormântare a spus că în biserică se aflau zeci de persoane**, iar atacatorii au tras asupra lor timp de câteva minute. Un alt martor a văzut persoane pline de sânge prăbușindu-se la pământ.\n\n• **După atac, au fost observate urme de sânge lângă intrarea în biserică**, unde se aflau forțe de securitate.\n\n• **Căutarea atacatorilor era în desfășurare**, iar autoritățile au descris incidentul drept un atac rar care vizează minoritatea creștină.\n\n• **Regele Abdullah al Iordaniei a vizitat orașul Karak la câteva ore după atac** și a promis că responsabilii vor fi pedepsiți."
+  },
+  {
+    "group_id": "group_fafb928c5b",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Szigorítják az iskolai biztonsági intézkedéseket az erőszak visszaszorítására",
+        "link": "https://www.mediatica.ro/hirek/aktualis/szigoritanak-az-iskolai-biztonsagi-intezkedeseket-az-eroszak-visszaszoritasara"
+      }
+    ],
+    "published_at": 1792863302,
+    "title_hu": "Szigorítják az iskolai biztonsági intézkedéseket az erőszak visszaszorítására",
+    "lead_hu": "A biztonsági őrök számának növeléséről, az iskolapszichológusi hálózat bővítéséről és a pedagógusok felkészítéséről is döntöttek.",
+    "content_hu": "A biztonsági őrök számának növeléséről, az iskolapszichológusi hálózat bővítéséről és a pedagógusok felkészítéséről is döntöttek.",
+    "title_ro": "Szigorítják az iskolai biztonsági intézkedéseket az erőszak visszaszorítására",
+    "lead_ro": "A biztonsági őrök számának növeléséről, az iskolapszichológusi hálózat bővítéséről és a pedagógusok felkészítéséről is döntöttek.",
+    "content_ro": "A biztonsági őrök számának növeléséről, az iskolapszichológusi hálózat bővítéséről és a pedagógusok felkészítéséről is döntöttek."
+  },
+  {
+    "group_id": "group_1c9af45894",
+    "fingerprint": "6b085b20f0f94687841050dfb70353e6",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/satelit-starlink-scaled.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Zelenski: Restricțiile Starlink rămân în vigoare în ciuda decralațiilor lui Trump",
+        "link": "https://www.g4media.ro/zelenski-restrictiile-starlink-raman-in-vigoare-in-ciuda-decralatiilor-lui-trump.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Starlink revine la viteză maximă pentru Armata ucraineană. Ce s-a schimbat după criticile lui Zelenski și negocierile cu SUA",
+        "link": "https://www.digi24.ro/stiri/externe/starlink-revine-la-viteza-maxima-pentru-armata-ucraineana-ce-s-a-schimbat-dupa-criticile-lui-zelenski-si-negocierile-cu-sua-4006991"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ucraina anunță că Starlink funcționează din nou fără restricții de viteză",
+        "link": "https://www.g4media.ro/ucraina-anunta-ca-starlink-functioneaza-din-nou-fara-restrictii-de-viteza.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ucraina are din nou „conexiune stabilă” la Starlink. Ce viteză suportă acum sistemul",
+        "link": "https://hotnews.ro/ucraina-are-din-nou-conexiune-stabila-la-starlink-ce-viteza-suporta-acum-sistemul-2385276"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ucraina are din nou „conexiune stabilă” la Starlink și Starshield, după o săptămână de limitări",
+        "link": "https://www.mediafax.ro/economic/ucraina-are-din-nou-conexiune-stabila-la-starlink-si-starshield-dupa-o-saptamana-de-limitari-23830993"
+      },
+      {
+        "source": "Ziarul Financiar",
+        "title": "Ucraina are din nou „conexiune stabilă” la Starlink şi Starshield, după o săptămână de limitări",
+        "link": "https://www.zf.ro/business-international/ucraina-are-din-nou-conexiune-stabila-la-starlink-si-starshield-dupa-o-saptamana-de-limitari-23267128"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Guvernul Ucrainei anunță că Starlink funcționează din nou fără restricții, „la o viteză de peste 161 km/h”",
+        "link": "https://stirileprotv.ro/stiri/international/guvernul-ucrainei-anunta-ca-starlink-functioneaza-din-nou-fara-restrictii.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Volodimir Zelenski anunță că Starlink a revenit la viteza normală și cere SUA și Europei noi interceptoare pentru rachetele rusești",
+        "link": "https://www.mediafax.ro/externe/volodimir-zelenski-anunta-ca-starlink-a-revenit-la-viteza-normala-si-cere-sua-si-europei-noi-interceptoare-pentru-rachetele-rusesti-23831112"
+      }
+    ],
+    "published_at": 1792863235,
+    "title_hu": "Zelenszkij szerint továbbra is érvényben vannak a Starlink korlátozásai",
+    "lead_hu": "Volodimir Zelenszkij október 23-án azt mondta, hogy a Starlink és a katonai Starshield rendszer korlátozásai továbbra is érvényben vannak, noha Donald Trump előző nap a teljes működés helyreállításáról beszélt. Az ukrán tesztek szerint a terminálok nagy sebességű mozgás közben továbbra is elveszítik a kapcsolatot; Trump azt ígérte, hogy foglalkozik a fennmaradó problémákkal.",
+    "content_hu": "• **Október 23-án Volodimir Zelenszkij** közölte, hogy a Starlinkre és katonai változatára, a Starshieldre vonatkozó korlátozásokat nem oldották fel, annak ellenére, hogy Donald Trump október 22-én a teljes működés helyreállításáról beszélt.\n\n• **Az ukrán szakemberek tesztjei** szerint a kommunikáció megszakadt, amikor a terminálok óránként körülbelül 161 kilométeres sebességgel haladtak. Zelenszkij a Hudson Intézetben tartott interjúban azt mondta, hogy a rendszert civil környezetben és a front közelében is vizsgálták.\n\n• **Október 14-én éjjel kezdődtek a kommunikációs problémák:** a nagy sebességgel mozgó Starshield-terminálok elveszítették a kapcsolatot. Ez nehezítette a támadó és elfogó drónok használatát, valamint a felderítési és logisztikai feladatokat.\n\n• **Szerhij Beszkresztnov, az ukrán elnök védelmi technológiai tanácsadója** megerősítette, hogy a korlátozások továbbra is érvényben vannak. Szerinte az, hogy egyes terminálok esetenként nagyobb sebességnél is működnek, nem jelenti a korlátozás feloldását, és a SpaceX algoritmusainak sajátosságaival magyarázható.\n\n• **Zelenszkij azt mondta**, hogy Ukrajna érti, milyen technikai lépések szükségesek a korlátozás megszüntetéséhez, és azt reméli, hogy a SpaceX és az amerikai kormányzat megteszi ezeket. Trump október 23-án azt ígérte, hogy foglalkozik a fennmaradó problémákkal.\n\n• **A Wall Street Journal korábbi értesülése szerint** Trump arra kérte Elon Muskot, a SpaceX vezérigazgatóját, hogy oldja fel a Starshield működésére vonatkozó korlátozásokat.",
+    "title_ro": "Zelenski spune că restricțiile Starlink sunt în continuare în vigoare",
+    "lead_ro": "Volodimir Zelenski a declarat pe 23 octombrie că restricțiile privind Starlink și versiunea militară Starshield sunt în continuare în vigoare, deși Donald Trump anunțase cu o zi înainte restabilirea funcționării complete. Testele ucrainene arată că terminalele pierd în continuare conexiunea când se deplasează cu viteză mare, iar Trump a promis că va aborda problemele rămase.",
+    "content_ro": "• **Pe 23 octombrie, Volodimir Zelenski** a declarat că restricțiile privind Starlink și versiunea sa militară, Starshield, nu au fost ridicate, deși Donald Trump afirmase pe 22 octombrie că funcționarea completă a fost restabilită.\n\n• **Testele specialiștilor ucraineni** au arătat că legătura se întrerupea când terminalele se deplasau cu aproximativ 161 de kilometri pe oră. Într-un interviu la Institutul Hudson, Zelenski a spus că sistemul a fost testat atât în sectorul civil, cât și în apropierea liniei frontului.\n\n• **Problemele de comunicații au început în noaptea de 14 octombrie:** terminalele Starshield aflate în mișcare cu viteză mare au început să piardă conexiunea. Acest lucru a îngreunat utilizarea dronelor de atac și a celor interceptoare, precum și misiunile de recunoaștere și logistică.\n\n• **Serhii Beskrestnov, consilierul președintelui ucrainean pentru tehnologia apărării,** a confirmat că restricțiile sunt în continuare în vigoare. El a spus că situațiile izolate în care unele terminale funcționează la viteze mai mari nu înseamnă că limita a fost ridicată și ar putea fi explicate prin specificul algoritmilor SpaceX.\n\n• **Zelenski a declarat** că Ucraina știe ce pași tehnici sunt necesari pentru ridicarea restricției și speră că SpaceX și administrația SUA îi vor face. Pe 23 octombrie, Trump a promis că va aborda problemele rămase.\n\n• **Potrivit unei relatări anterioare a Wall Street Journal,** Trump i-a cerut lui Elon Musk, directorul general al SpaceX, să ridice restricțiile privind operațiunile Starshield."
+  },
+  {
+    "group_id": "group_b4ecf24bea",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/9c3e36f4-ee4e-4fcf-b6f0-8adfc5fd3c7a.jpeg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ngezana, apariție spectaculoasă la Arena Națională: aproape că nu a fost lăsat să intre pe gazon",
+        "link": "https://www.gsp.ro/fotbal/liga-1/siyabonga-ngezana-aparitie-fcsb-rapid-991819.html"
+      }
+    ],
+    "published_at": 1792863125,
+    "title_hu": "Ngezana, apariție spectaculoasă la Arena Națională: aproape că nu a fost lăsat să intre pe gazon",
+    "lead_hu": "Siyabonga Ngezana (29 de ani), stoperul celor de la FCSB, a venit la Arena Națională pentru a privi meciul echipei sale cu rivala Rapid, partidă din etapa #13 de Superliga. Fundașul central a fost sco…",
+    "content_hu": "Siyabonga Ngezana (29 de ani), stoperul celor de la FCSB, a venit la Arena Națională pentru a privi meciul echipei sale cu rivala Rapid, partidă din etapa #13 de Superliga. Fundașul central a fost scos din lotul celor de la FCSB pentru Superliga deoarece se află în recuperare după accidentarea suferită în sezonul trecut. Acesta ar mai putea evolua în Cupa României, dar cel mai probabil va mai evolua pentru echipa roș-albastră abia în 2027. ...",
+    "title_ro": "Ngezana, apariție spectaculoasă la Arena Națională: aproape că nu a fost lăsat să intre pe gazon",
+    "lead_ro": "Siyabonga Ngezana (29 de ani), stoperul celor de la FCSB, a venit la Arena Națională pentru a privi meciul echipei sale cu rivala Rapid, partidă din etapa #13 de Superliga. Fundașul central a fost sco…",
+    "content_ro": "Siyabonga Ngezana (29 de ani), stoperul celor de la FCSB, a venit la Arena Națională pentru a privi meciul echipei sale cu rivala Rapid, partidă din etapa #13 de Superliga. Fundașul central a fost scos din lotul celor de la FCSB pentru Superliga deoarece se află în recuperare după accidentarea suferită în sezonul trecut. Acesta ar mai putea evolua în Cupa României, dar cel mai probabil va mai evolua pentru echipa roș-albastră abia în 2027. ..."
+  },
+  {
+    "group_id": "group_d924bfe4d2",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-d/d1000ae4-1920-474d-ad4e-80cc9d82b403/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Panică în aer: piloții au adormit în timpul zborului. Aeronava scăpată de sub control a deviat de la traseu",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/pilotii-au-adormit-in-timpul-zborului-aeronava-2566312.html"
+      }
+    ],
+    "published_at": 1792863102,
+    "title_hu": "Panică în aer: piloții au adormit în timpul zborului. Aeronava scăpată de sub control a deviat de la traseu",
+    "lead_hu": "Un avion al companiei Batik Air, cu 153 de pasageri la bord, a deviat de la ruta stabilită după ce ambii piloți au adormit timp de 28 de minute, în timpul zborului.",
+    "content_hu": "Un avion al companiei Batik Air, cu 153 de pasageri la bord, a deviat de la ruta stabilită după ce ambii piloți au adormit timp de 28 de minute, în timpul zborului.",
+    "title_ro": "Panică în aer: piloții au adormit în timpul zborului. Aeronava scăpată de sub control a deviat de la traseu",
+    "lead_ro": "Un avion al companiei Batik Air, cu 153 de pasageri la bord, a deviat de la ruta stabilită după ce ambii piloți au adormit timp de 28 de minute, în timpul zborului.",
+    "content_ro": "Un avion al companiei Batik Air, cu 153 de pasageri la bord, a deviat de la ruta stabilită după ce ambii piloți au adormit timp de 28 de minute, în timpul zborului."
+  },
+  {
+    "group_id": "group_199a11d368",
+    "fingerprint": "e2b45221ec30fb0423d02183d89073be",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-pokemon.jpg-1200x675.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Nebunia Pokemon a ajuns în București! CANCAN a fost în locul unde se adună sute de pasionați",
+        "link": "https://www.cancan.ro/nebunia-pokemon-a-ajuns-in-bucuresti-cancan-a-fost-in-locul-unde-se-aduna-sute-de-pasionati-21535687"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Fenomenul Pokémon. Locul din București unde colecționarii și jucătorii se întâlnesc la turnee și își etalează cărțile rare",
+        "link": "https://www.mediafax.ro/life-entertaiment/fenomenul-pokemon-locul-din-bucuresti-unde-colectionarii-si-jucatorii-se-intalnesc-la-turnee-si-isi-etaleaza-cartile-rare-23831113"
+      }
+    ],
+    "published_at": 1792862900,
+    "title_hu": "Pokémon- és kártyajátékosok új találkozóhelye nyílt Bukarestben",
+    "lead_hu": "Bukarestben a TCG Arena 400 négyzetméteres helyszínt kínál a Pokémon-kártyák gyűjtőinek és játékosainak. A volt City Mall területén működő központban körülbelül száz ülőhely, társalgó és akár nyolcórás versenyek várják az érdeklődőket.",
+    "content_hu": "• **A TCG Arena Bukarestben** olyan helyszín, ahol gyerekek, szülők és felnőttek találkozhatnak Pokémon-kártyák gyűjtésére és játékára.\n\n• **A helyszín 400 négyzetméteres**, körülbelül száz ülőhellyel és egy társalgóval; a volt City Mall területén, a Șoseaua Olteniței 2. szám alatt található.\n\n• **A versenyek akár nyolc órán át is tarthatnak.** A játékosok saját kártyapaklikat állítanak össze és stratégiákat dolgoznak ki, míg mások különleges illusztrációjú lapokat gyűjtenek.\n\n• **Robert Albăstrelu, a projekt egyik társtulajdonosa** a TCG-t a „Trading Card Game” rövidítéseként magyarázta, és kiemelte, hogy a közösségben vannak, akik játszanak, mások pedig kizárólag gyűjtenek.",
+    "title_ro": "Un nou spațiu de întâlnire pentru jucătorii și colecționarii de Pokémon din București",
+    "lead_ro": "TCG Arena pune la dispoziția colecționarilor și jucătorilor de cărți Pokémon un spațiu de 400 de metri pătrați în București. Centrul, aflat în fostul City Mall, are aproximativ 100 de locuri, o zonă de lounge și găzduiește competiții care pot dura până la opt ore.",
+    "content_ro": "• **TCG Arena din București** este un loc de întâlnire pentru copii, părinți și adulți pasionați de colecționarea și jocul cu cărți Pokémon.\n\n• **Spațiul are 400 de metri pătrați**, aproximativ 100 de locuri și o zonă de lounge; se află în fostul City Mall, pe Șoseaua Olteniței nr. 2.\n\n• **Competițiile pot dura până la opt ore.** Jucătorii își construiesc propriile pachete de cărți și își pregătesc strategiile, în timp ce alți pasionați caută cărți speciale, cu ilustrații deosebite.\n\n• **Robert Albăstrelu, unul dintre asociații proiectului,** a explicat că TCG înseamnă „Trading Card Game” și a precizat că unii membri ai comunității joacă, iar alții se ocupă doar de colecționare."
+  },
+  {
+    "group_id": "group_6de2bc133f",
+    "fingerprint": "8fc7036c8f26042a9b2c2cd538d82caa",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-b/bcbf49dd-9898-4afc-8a2f-b77d902df3b1/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Rectorul Universității Al I. Cuza din Iași anunță măsuri după arestarea preventivă a lui Alexandru Toader. Contractul lectorului va fi suspendat",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/rectorul-universitatii-al-i-cuza-din-iasi-anunta-2566289.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Universitatea „Alexandru Ioan Cuza” din Iaşi îi suspendă contractul de muncă lui Alexandru Toader, arestat preventiv pentru viol şi agresiune sexuală",
+        "link": "https://hotnews.ro/universitatea-alexandru-ioan-cuza-din-iasi-ii-suspenda-contractul-de-munca-lui-alexandru-toader-arestat-preventiv-pentru-viol-si-agresiune-sexuala-2385677"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Universitatea din Iași i-a suspendat contractul de muncă lui Alexandru Toader, arestat pentru agresiune sexuală",
+        "link": "https://stirileprotv.ro/stiri/actualitate/universitatea-din-iasi-i-a-suspendat-contractul-de-munca-lui-alexandru-toader-arestat-pentru-agresiune-sexuala.html"
+      }
+    ],
+    "published_at": 1792862765,
+    "title_hu": "Felfüggesztik Alexandru Toader oktatói szerződését a megelőző letartóztatása után",
+    "lead_hu": "Az Alexandru Ioan Cuza Egyetem rektora szerint automatikusan felfüggesztik Alexandru Toader, a jogi kar oktatójának munkaszerződését, miután a bíróság elrendelte megelőző letartóztatását. Az oktatót két hallgató szexuális zaklatásával gyanúsítják; az egyetem hétfőn egyeztet a szükséges intézkedésekről.",
+    "content_hu": "• **Alexandru Toader munkaszerződését felfüggesztik**, miután a bíróság elrendelte a megelőző letartóztatását – közölte Liviu-George Maha, az Alexandru Ioan Cuza Egyetem rektora.\n\n• **Toadert két hallgató szexuális zaklatásával gyanúsítják.** Az ügyben folyó büntetőeljárás részleteiről az egyetem a rektor közlése szerint nem kíván nyilatkozni, és tiszteletben tartja az ártatlanság vélelmét.\n\n• **Hétfő reggel összeül a jogi kar tanácsa**, hogy meghatározza az azonnali teendőket, és biztosítsa, hogy az oktatási tevékenységet ne érje hátrány.\n\n• **Az egyetemi etikai bizottság folytatja a már megkezdett eljárásokat.** Az intézmény szükség esetén felülvizsgálja a zaklatás megelőzésére és bejelentésére szolgáló belső mechanizmusokat, különös tekintettel a gyors, biztonságos és bizalmas ügyintézésre.",
+    "title_ro": "Contractul lectorului Alexandru Toader va fi suspendat după arestarea preventivă",
+    "lead_ro": "Rectorul Universității „Alexandru Ioan Cuza” din Iași a anunțat că suspendarea contractului de muncă al lectorului Alexandru Toader intervine automat după arestarea sa preventivă. Acesta este acuzat că ar fi hărțuit sexual două studente, iar conducerea facultății va discuta luni măsurile necesare.",
+    "content_ro": "• **Contractul de muncă al lui Alexandru Toader va fi suspendat** după ce instanța a dispus arestarea sa preventivă, a anunțat rectorul Liviu-George Maha.\n\n• **Toader este acuzat că ar fi hărțuit sexual două studente.** Universitatea nu va comenta aspectele aflate în cercetare penală și respectă prezumția de nevinovăție, a precizat rectorul.\n\n• **Consiliul Facultății de Drept se va reuni luni dimineață** pentru a stabili măsurile imediate și pentru ca activitatea didactică să nu fie afectată.\n\n• **Comisia de etică va continua procedurile deja începute.** Dacă va fi necesar, universitatea va revizui mecanismele interne de prevenire și sesizare a hărțuirii, astfel încât semnalările să primească un răspuns rapid, sigur și confidențial."
+  },
+  {
+    "group_id": "group_c2d0146181",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/09/motorcycle-8366394_1280.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Un motociclist a lovit o căprioară și s-a răsturnat pe DN2 E85 / Tânărul de 28 de ani și animalul au fost răniți",
+        "link": "https://www.g4media.ro/motociclist-ranit-caprioara-dn2-e85-mihailesti-buzau.html"
+      }
+    ],
+    "published_at": 1792862719,
+    "title_hu": "Un motociclist a lovit o căprioară și s-a răsturnat pe DN2 E85 / Tânărul de 28 de ani și animalul au fost răniți",
+    "lead_hu": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de …",
+    "content_hu": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de mers, răsturnându-se pe carosabil, transmite Agerpres. Potrivit Inspectoratului de Poliție Județean (IPJ) Buzău, accidentul s-a produs în timp ce tânărul, […] © G4Media.ro.",
+    "title_ro": "Un motociclist a lovit o căprioară și s-a răsturnat pe DN2 E85 / Tânărul de 28 de ani și animalul au fost răniți",
+    "lead_ro": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de …",
+    "content_ro": "Un motociclist în vârstă de 28 de ani a fost rănit, sâmbătă, după ce a pierdut lovit o căprioară pe DN2 E85, în afara localității Mihăilești, județul Buzău, și a pierdut controlul asupra direcției de mers, răsturnându-se pe carosabil, transmite Agerpres. Potrivit Inspectoratului de Poliție Județean (IPJ) Buzău, accidentul s-a produs în timp ce tânărul, […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_3eb5d82ac7",
+    "fingerprint": "238d780b183d81e46cf3518402ff4e50",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cunoscut politician bulgar, împușcat mortal în propria casă din Sofia. Ce se știe la acest moment și cine a fost Slavi Binev",
+        "link": "https://hotnews.ro/cunoscut-politician-bulgar-impuscat-mortal-in-propria-casa-din-sofia-ce-se-stie-la-acest-moment-si-cine-a-fost-slavi-binev-2385300"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Președintele Federației Bulgare de Taekwondo, împușcat mortal în casa lui din Sofia",
+        "link": "https://www.gsp.ro/sporturi/altele/slavi-binev-bulgaria-taekwondo-asasinat-991764.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Afacerist celebru, găsit fără suflare în propria casă, după ce trei bărbați înarmați au intrat peste el. Ce au descoperit polițiștii bulgari",
+        "link": "https://www.cancan.ro/afacerist-celebru-gasit-fara-suflare-in-propria-casa-dupa-ce-trei-barbati-inarmati-au-intrat-peste-el-ce-au-descoperit-politistii-bulgari-21535893"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Preşedinte al Federaţiei Bulgare de Taekwondo, găsit împușcat în propria casă. Slavi Binev ar fi fost asasinat",
+        "link": "https://adevarul.ro/sport/presedinte-al-federatiei-bulgare-de-taekwondo-2566313.html"
+      }
+    ],
+    "published_at": 1792862647,
+    "title_hu": "Megölték Slavi Binev bolgár politikust és üzletembert szófiai otthonában",
+    "lead_hu": "A bolgár politikust és üzletembert, Slavi Binevet szófiai otthonában lőtték agyon; a rendőrség nyomozást indított, és keresi az elkövetőket. A gyilkosság körülményei egyelőre nem tisztázottak, a személyes vita lehetőségéről szóló értesüléseket hivatalosan nem erősítették meg.",
+    "content_hu": "• **Slavi Binevet** szófiai, Pavlovo negyedbeli otthonában lőtték agyon. A belügyminisztérium nem sokkal 10:30 előtt kapott bejelentést; a mentők 10:28-kor kapták a riasztást, és hét percen belül a helyszínre értek, ahol már csak a halálát tudták megállapítani.\n\n• **A lövöldözésről** Binev egyik alkalmazottja értesítette a hatóságokat, miután többen érkeztek az ingatlanhoz, és lövéseket hallott. Az alkalmazott a helyszínre ment, hogy megnézze, mi történt, és holtan találta Binevet. A sajtóban megjelent, nem megerősített információk szerint Binevet fején és testén érte lövés.\n\n• **A gyilkosság indítéka és az elkövetők kiléte** egyelőre nem ismert. Bolgár sajtóforrások személyes vitáról számoltak be, de ezt hivatalosan nem erősítették meg; a rendőrség egy, a meneküléshez használt SUV-t keresett. A gyanúsítottak őrizetbe vételéről szóló híreket szintén nem erősítették meg hivatalosan.\n\n• **Slavcho (Slavi) Penchev Binev** 1965. december 10-én született Szófiában. Taekwondózóként 1992-ben, a szlovéniai Celjében megrendezett bajnokságon abszolút Európa-bajnoki címet szerzett; később nemzetközi bíróként, edzőként és sportvezetőként is dolgozott, többek között a Bolgár Taekwondo Olimpiai Szövetség elnöke és az Európai Taekwondo Szövetség alelnöke volt.",
+    "title_ro": "Politicianul și omul de afaceri bulgar Slavi Binev a fost ucis în locuința sa din Sofia",
+    "lead_ro": "Politicianul și omul de afaceri bulgar Slavi Binev a fost împușcat mortal în locuința sa din Sofia, iar poliția a deschis o anchetă și îi caută pe cei responsabili. Circumstanțele crimei nu sunt încă clare, iar informațiile despre o posibilă dispută personală nu au fost confirmate oficial.",
+    "content_ro": "• **Slavi Binev** a fost împușcat mortal în locuința sa din cartierul Pavlovo din Sofia. Ministerul de Interne a primit sesizarea cu puțin înainte de ora 10:30; serviciile de urgență au fost alertate la 10:28 și au ajuns la fața locului în șapte minute, unde nu au putut decât să constate decesul.\n\n• **Despre împușcături**, autoritățile au fost alertate de un angajat al lui Binev, după ce mai multe persoane au sosit la proprietate și s-au auzit focuri de armă. Angajatul a mers să verifice ce se întâmplase și l-a găsit pe Binev mort. Informațiile neconfirmate apărute în presă susțin că Binev ar fi fost împușcat în cap și în corp.\n\n• **Motivul crimei și identitatea autorilor** nu sunt cunoscute deocamdată. Surse din presa bulgară au relatat despre o dispută personală, dar informația nu a fost confirmată oficial; poliția căuta un SUV despre care se credea că fusese folosit pentru fugă. Nici relatările despre reținerea unor suspecți nu au fost confirmate oficial.\n\n• **Slavcho (Slavi) Penchev Binev** s-a născut la 10 decembrie 1965, la Sofia. Ca practicant de taekwondo, a câștigat titlul de campion european absolut la campionatele din 1992 de la Celje, Slovenia; ulterior a activat ca arbitru internațional, antrenor și administrator sportiv, fiind inclusiv președintele Federației Olimpice Bulgare de Taekwondo și vicepreședintele Uniunii Europene de Taekwondo."
+  },
+  {
+    "group_id": "group_9a6c6bb8cf",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/24/171727/screenshot-2026-10-24-200237.png?fm=jpg&q=80&fit=crop&crop=1057%2C655%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Franța a trimis unul dintre cele mai puternice avioane din lume să survoleze apele României. Capabil să vâneze submarine nucleare",
+        "link": "https://stirileprotv.ro/stiri/international/franta-a-trimis-unul-dintre-cele-mai-puternice-avioane-din-lume-sa-survoleze-apele-romaniei-capabil-sa-vaneze-submarine-nucleare.html"
+      }
+    ],
+    "published_at": 1792862417,
+    "title_hu": "Franța a trimis unul dintre cele mai puternice avioane din lume să survoleze apele României. Capabil să vâneze submarine nucleare",
+    "lead_hu": "Un avion francez de patrulare maritimă a participat la operaţiunile de salvare a navelor atacate în ultimele zile în Marea Neagră, a declarat sâmbătă ministrul francez de externe, Jean-Noel Barrot, af…",
+    "content_hu": "Un avion francez de patrulare maritimă a participat la operaţiunile de salvare a navelor atacate în ultimele zile în Marea Neagră, a declarat sâmbătă ministrul francez de externe, Jean-Noel Barrot, aflat în vizită în Bulgaria, relatează AFP.",
+    "title_ro": "Franța a trimis unul dintre cele mai puternice avioane din lume să survoleze apele României. Capabil să vâneze submarine nucleare",
+    "lead_ro": "Un avion francez de patrulare maritimă a participat la operaţiunile de salvare a navelor atacate în ultimele zile în Marea Neagră, a declarat sâmbătă ministrul francez de externe, Jean-Noel Barrot, af…",
+    "content_ro": "Un avion francez de patrulare maritimă a participat la operaţiunile de salvare a navelor atacate în ultimele zile în Marea Neagră, a declarat sâmbătă ministrul francez de externe, Jean-Noel Barrot, aflat în vizită în Bulgaria, relatează AFP."
+  },
+  {
+    "group_id": "group_022cc45e3a",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/09/105637/masina-de-politie-gettyimages-1182162659.jpg?fm=jpg&q=80&fit=crop&crop=2121%2C1414%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Accident cu o mașină de poliție în Buzău. Patru persoane, între care doi polițiști, au fost rănite în urma impactului",
+        "link": "https://stirileprotv.ro/stiri/actualitate/accident-cu-o-masina-de-politie-in-buzau-patru-persoane-intre-care-doi-politisti-au-fost-ranite-in-urma-impactului.html"
+      }
+    ],
+    "published_at": 1792862392,
+    "title_hu": "Accident cu o mașină de poliție în Buzău. Patru persoane, între care doi polițiști, au fost rănite în urma impactului",
+    "lead_hu": "Patru persoane, între care doi polițiști, au fost rănite într-un accident rutier produs în Buzău. O autospecială de poliție s-a ciocnit cu un autoturism și a fost proiectată în alte două mașini parcat…",
+    "content_hu": "Patru persoane, între care doi polițiști, au fost rănite într-un accident rutier produs în Buzău. O autospecială de poliție s-a ciocnit cu un autoturism și a fost proiectată în alte două mașini parcate la intersecția străzilor Agriculturii și Vulturului.",
+    "title_ro": "Accident cu o mașină de poliție în Buzău. Patru persoane, între care doi polițiști, au fost rănite în urma impactului",
+    "lead_ro": "Patru persoane, între care doi polițiști, au fost rănite într-un accident rutier produs în Buzău. O autospecială de poliție s-a ciocnit cu un autoturism și a fost proiectată în alte două mașini parcat…",
+    "content_ro": "Patru persoane, între care doi polițiști, au fost rănite într-un accident rutier produs în Buzău. O autospecială de poliție s-a ciocnit cu un autoturism și a fost proiectată în alte două mașini parcate la intersecția străzilor Agriculturii și Vulturului."
+  },
+  {
+    "group_id": "group_be246cd72d",
+    "fingerprint": "80598a9437147d7ced2aa6507779256b",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "TAROM renunță de astăzi la o rută istorică, după 16 ani",
+        "link": "https://hotnews.ro/tarom-renunta-de-astazi-la-o-ruta-istorica-dupa-16-ani-2385122"
+      },
+      {
+        "source": "Economedia",
+        "title": "Ultimul zbor TAROM pe ruta București-Belgrad, după 16 ani. Compania renunță definitiv la o cursă istorică",
+        "link": "https://economedia.ro/ultimul-zbor-tarom-pe-ruta-bucuresti-belgrad-dupa-16-ani-compania-renunta-definitiv-la-o-cursa-istorica.html"
+      }
+    ],
+    "published_at": 1792862243,
+    "title_hu": "A TAROM 16 év után leállítja a Belgrádba közlekedő járatait",
+    "lead_hu": "A román TAROM nemzeti légitársaság a mai naptól megszünteti belgrádi járatait, amelyeket 2010-ben indított el. A téli szezonra tervezett szüneteltetésen túl a 2027-es nyári menetrendből is kivette a járatokat, ami az útvonal végleges megszűnését jelzi.",
+    "content_hu": "• **A TAROM a mai naptól leállítja a Belgrádba közlekedő járatait**, 16 évvel az útvonal 2010-es elindítása után.\n\n• **A járatok a 2027-es nyári szezonra sem vásárolhatók meg**: a légitársaság eredetileg csak a téli időszakra tervezte a szolgáltatás felfüggesztését, de a nyári menetrendből is kivette az útvonalat.",
+    "title_ro": "TAROM suspendă zborurile către Belgrad după 16 ani",
+    "lead_ro": "Compania națională de transport aerian TAROM oprește, începând de astăzi, zborurile către Belgrad, rută lansată în 2010. Deși suspendarea fusese planificată inițial doar pentru sezonul de iarnă, zborurile nu mai sunt disponibile nici pentru sezonul de vară din 2027, ceea ce indică închiderea rutei.",
+    "content_ro": "• **TAROM oprește, începând de astăzi, zborurile către Belgrad**, la 16 ani de la lansarea rutei, în 2010.\n\n• **Zborurile nu mai pot fi rezervate nici pentru sezonul de vară din 2027**: compania intenționase inițial să suspende serviciul doar pe durata sezonului de iarnă, dar a retras ruta și din oferta pentru vara următoare."
+  },
+  {
+    "group_id": "group_efb3323409",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/b458d04d-c617-4cc8-a612-936607327b7a.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "La 3 săptămâni după ce a câștigat EHF Euro Cup la București, naționala pregătită de Helle Thomsen și Bojana Popovic a pierdut în Golden League",
+        "link": "https://www.gsp.ro/sporturi/handbal/danemarca-infrangere-germania-golden-league-handbal-991815.html"
+      }
+    ],
+    "published_at": 1792862206,
+    "title_hu": "La 3 săptămâni după ce a câștigat EHF Euro Cup la București, naționala pregătită de Helle Thomsen și Bojana Popovic a pierdut în Golden League",
+    "lead_hu": "După ce în urmă cu 3 săptămâni a învins-o pe Norvegia la București, în finala EHF Euro Cup, Danemarca, națională antrenată de Helle Thomsen și Bojana Popovic, a debutat cu stângul la turneul amical Go…",
+    "content_hu": "După ce în urmă cu 3 săptămâni a învins-o pe Norvegia la București, în finala EHF Euro Cup, Danemarca, națională antrenată de Helle Thomsen și Bojana Popovic, a debutat cu stângul la turneul amical Golden League, organizat în Odense (Danemarca), fiind învinsă cu 26-21 de Germania. Sâmbătă, 24 octombrie, s-au disputat primele două partide din Golden League, turneu amical găzduit de Danemarca. ...",
+    "title_ro": "La 3 săptămâni după ce a câștigat EHF Euro Cup la București, naționala pregătită de Helle Thomsen și Bojana Popovic a pierdut în Golden League",
+    "lead_ro": "După ce în urmă cu 3 săptămâni a învins-o pe Norvegia la București, în finala EHF Euro Cup, Danemarca, națională antrenată de Helle Thomsen și Bojana Popovic, a debutat cu stângul la turneul amical Go…",
+    "content_ro": "După ce în urmă cu 3 săptămâni a învins-o pe Norvegia la București, în finala EHF Euro Cup, Danemarca, națională antrenată de Helle Thomsen și Bojana Popovic, a debutat cu stângul la turneul amical Golden League, organizat în Odense (Danemarca), fiind învinsă cu 26-21 de Germania. Sâmbătă, 24 octombrie, s-au disputat primele două partide din Golden League, turneu amical găzduit de Danemarca. ..."
+  },
+  {
+    "group_id": "group_363ae00950",
+    "fingerprint": "81f87361464a553eab3a00c7ced9293d",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/0de2e454-5f03-4efa-ac7f-03e67d38198f.jpg",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un adolescent de 16 ani din Galați, cu autism, căutat de poliție după ce a plecat de acasă. Nu are telefonul la el",
+        "link": "https://www.mediafax.ro/social/un-adolescent-de-16-ani-din-galati-cu-autism-cautat-de-politie-dupa-ce-a-plecat-de-acasa-nu-are-telefonul-la-el-23831105"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Adolescent din Galați, căutat de polițiști după ce a plecat de la bunica sa. Băiatul suferă de autism și nu are telefonul la el",
+        "link": "https://adevarul.ro/stiri-locale/galati/adolescent-din-galati-cautat-de-politisti-dupa-ce-2566314.html"
+      }
+    ],
+    "published_at": 1792862134,
+    "title_hu": "Eltűnt egy 16 éves, autista fiú Galați-ban; a rendőrség keresi",
+    "lead_hu": "A 16 éves Tănase Sebastian Alexandru október 24-én, szombaton távozott nagyanyja galați-i otthonából, és nem tért vissza. A fiú autista, mobiltelefon nincs nála; a rendőrség a lakosság segítségét kéri a megtalálásához.",
+    "content_hu": "• **Október 24-én, szombaton** a 16 éves Tănase Sebastian Alexandru körülbelül 16 órakor egyedül távozott nagyanyja galați-i otthonából, és nem tért vissza. Eltűnését az édesanyja jelentette be a rendőrségnek 16:35-kor, a 112-es segélyhívón.\n\n• **A fiú autista, és nincs nála mobiltelefon.** Körülbelül 180 centiméter magas, 52 kilogramm, szemüveget visel; eltűnésekor kék pulóver, sötétkék melegítőnadrág és fekete sportcipő volt rajta.\n\n• **A rendőrség a lakosság segítségét kéri.** Aki információval rendelkezik a fiú hollétéről, hívja a 112-t, vagy értesítse a legközelebbi rendőrőrsöt.",
+    "title_ro": "Un adolescent autist de 16 ani a dispărut în Galați; poliția îl caută",
+    "lead_ro": "Tănase Sebastian Alexandru, în vârstă de 16 ani, a plecat sâmbătă, 24 octombrie, de la locuința bunicii sale din Galați și nu s-a mai întors. Adolescentul are autism și nu are telefonul mobil la el, iar poliția cere ajutorul publicului pentru găsirea lui.",
+    "content_ro": "• **Sâmbătă, 24 octombrie**, Tănase Sebastian Alexandru, în vârstă de 16 ani, a plecat singur, în jurul orei 16:00, de la locuința bunicii sale din Galați și nu s-a mai întors. Mama băiatului a anunțat dispariția la poliție la ora 16:35, prin apel la 112.\n\n• **Adolescentul are autism și nu are telefonul mobil asupra sa.** Are aproximativ 1,80 metri înălțime și 52 de kilograme, poartă ochelari, iar la plecare era îmbrăcat cu o bluză albastră, pantaloni de trening bleumarin și pantofi sport negri.\n\n• **Poliția cere ajutorul publicului.** Persoanele care au informații despre locul în care se află băiatul sunt rugate să sune la 112 sau să contacteze cea mai apropiată unitate de poliție."
+  },
+  {
+    "group_id": "group_55d00a6db2",
+    "category": "Gazdaság",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "INTERVIU Guvernul Niculescu e pe cale să facă o mare greșeală, avertizează un expert în energie. Soluția propusă pentru a evita „o risipă de bani publici”",
+        "link": "https://hotnews.ro/interviu-guvernul-niculescu-e-pe-cale-sa-faca-o-mare-greseala-avertizeaza-un-expert-in-energie-solutia-propusa-pentru-a-evita-o-risipa-de-bani-publici-2384576"
+      }
+    ],
+    "published_at": 1792862042,
+    "title_hu": "INTERVIU Guvernul Niculescu e pe cale să facă o mare greșeală, avertizează un expert în energie. Soluția propusă pentru a evita „o risipă de bani publici”",
+    "lead_hu": "Acordarea ajutoarelor pentru plata energiei exclusiv în funcție de venituri, așa cum spune programul de guvernare, riscă să lase fără sprijin tocmai gospodăriile cele mai vulnerabile și să direcționez…",
+    "content_hu": "Acordarea ajutoarelor pentru plata energiei exclusiv în funcție de venituri, așa cum spune programul de guvernare, riscă să lase fără sprijin tocmai gospodăriile cele mai vulnerabile și să direcționeze bani publici către persoane care nu au nevoie, avertizează Corina Murafa, expertă în politici energetice, într-un interviu pentru HotNews. Noul ministru al energiei, Dumitru Chisăliță, a …",
+    "title_ro": "INTERVIU Guvernul Niculescu e pe cale să facă o mare greșeală, avertizează un expert în energie. Soluția propusă pentru a evita „o risipă de bani publici”",
+    "lead_ro": "Acordarea ajutoarelor pentru plata energiei exclusiv în funcție de venituri, așa cum spune programul de guvernare, riscă să lase fără sprijin tocmai gospodăriile cele mai vulnerabile și să direcționez…",
+    "content_ro": "Acordarea ajutoarelor pentru plata energiei exclusiv în funcție de venituri, așa cum spune programul de guvernare, riscă să lase fără sprijin tocmai gospodăriile cele mai vulnerabile și să direcționeze bani publici către persoane care nu au nevoie, avertizează Corina Murafa, expertă în politici energetice, într-un interviu pentru HotNews. Noul ministru al energiei, Dumitru Chisăliță, a …"
+  },
+  {
+    "group_id": "group_1f6f02ffcf",
+    "fingerprint": "631f11092bcd3d6846d7b17d5de15039",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Trump spune că l-a sunat pe CEO-ul Google pentru a discuta redenumirea Oceanului Atlantic",
+        "link": "https://hotnews.ro/trump-spune-ca-l-a-sunat-pe-ceo-ul-google-pentru-a-discuta-redenumirea-oceanului-atlantic-2385295"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Ce-i mai trece prin cap lui Trump: Vrea un „Ocean American” pe harta lumii, dar șeful Google i-a spus „pas” (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/ce-i-mai-trece-prin-cap-lui-trump-vrea-un-ocean-american-pe-harta-lumii-seful-google-i-ar-fi-spus-pas-206085.html"
+      }
+    ],
+    "published_at": 1792861860,
+    "title_hu": "Trump szerint felhívta a Google vezérigazgatóját az Atlanti-óceán átnevezéséről",
+    "lead_hu": "Donald Trump egy dél-karolinai kampánygyűlésen azt mondta, telefonon beszélt Sundar Pichai Google-vezérigazgatóval az Atlanti-óceán átnevezéséről. Trump szerint Pichai elutasította a kérést, ő pedig valószínűleg eláll az ötlettől; a Google nem erősítette meg, hogy megtörtént a beszélgetés.",
+    "content_hu": "• **Trump állítása szerint** felhívta Sundar Pichait, a Google vezérigazgatóját, hogy az Atlanti-óceán átnevezéséről beszéljen vele.\n\n• **Pichai állítólag elutasította a kérést**, arra hivatkozva, hogy az óceánok több országot érintenek. A Google nem erősítette meg, hogy a telefonbeszélgetés megtörtént.\n\n• **Trump valószínűleg eláll az ötlettől**, de felvetette, hogy a Csendes-óceánt akár „Amerikai-óceánnak” is nevezhetnék.",
+    "title_ro": "Trump spune că l-a sunat pe CEO-ul Google pentru a discuta redenumirea Oceanului Atlantic",
+    "lead_ro": "Donald Trump a declarat la un miting din Carolina de Sud că a discutat telefonic cu Sundar Pichai, directorul general al Google, despre redenumirea Oceanului Atlantic. Potrivit lui Trump, Pichai a respins solicitarea, iar președintele va renunța probabil la idee; Google nu a confirmat că discuția a avut loc.",
+    "content_ro": "• **Potrivit lui Trump**, acesta l-a sunat pe Sundar Pichai, CEO-ul Google, pentru a discuta redenumirea Oceanului Atlantic.\n\n• **Pichai ar fi respins solicitarea**, spunând că oceanele se învecinează cu numeroase țări. Google nu a confirmat că discuția telefonică a avut loc.\n\n• **Trump a spus că probabil va renunța la idee**, dar a sugerat că Oceanul Pacific ar putea fi numit „Oceanul American”."
+  },
+  {
+    "group_id": "group_ac6c5b3f76",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/8162997-Hepta_Mediafax_Foto-ABACAPRESS_Hepta-scaled.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Gen Z, în fruntea protestelor din Europa: locuințele scumpe, problemele din educație și nesiguranța locurilor de muncă îi scot pe tineri în stradă",
+        "link": "https://www.g4media.ro/proteste-gen-z-europa-locuinte-educatie-locuri-de-munca.html"
+      }
+    ],
+    "published_at": 1792861812,
+    "title_hu": "Gen Z, în fruntea protestelor din Europa: locuințele scumpe, problemele din educație și nesiguranța locurilor de muncă îi scot pe tineri în stradă",
+    "lead_hu": "Tinerii se află în centrul unui val de proteste în Europa, alimentat de nemulțumiri privind finanțarea educației, costurile locuințelor și perspectivele de angajare. Deși manifestațiile au pornit de l…",
+    "content_hu": "Tinerii se află în centrul unui val de proteste în Europa, alimentat de nemulțumiri privind finanțarea educației, costurile locuințelor și perspectivele de angajare. Deși manifestațiile au pornit de la situații diferite, ele exprimă o frustrare comună: teama unei generații că nu va avea aceleași oportunități ca părinții săi, potrivit unei analize CNN semnate de Issy […] © G4Media.ro.",
+    "title_ro": "Gen Z, în fruntea protestelor din Europa: locuințele scumpe, problemele din educație și nesiguranța locurilor de muncă îi scot pe tineri în stradă",
+    "lead_ro": "Tinerii se află în centrul unui val de proteste în Europa, alimentat de nemulțumiri privind finanțarea educației, costurile locuințelor și perspectivele de angajare. Deși manifestațiile au pornit de l…",
+    "content_ro": "Tinerii se află în centrul unui val de proteste în Europa, alimentat de nemulțumiri privind finanțarea educației, costurile locuințelor și perspectivele de angajare. Deși manifestațiile au pornit de la situații diferite, ele exprimă o frustrare comună: teama unei generații că nu va avea aceleași oportunități ca părinții săi, potrivit unei analize CNN semnate de Issy […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_31c8b771ef",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Akár 4160 euróba is kerülhet a szilveszter Simona Halep brassópojánai szállodájában",
+        "link": "https://www.mediatica.ro/hirek/szines/akar-4160-euroba-is-kerulhet-a-szilveszter-simona-halep-brassopojanai-szallodajaban"
+      }
+    ],
+    "published_at": 1792861548,
+    "title_hu": "Akár 4160 euróba is kerülhet a szilveszter Simona Halep brassópojánai szállodájában",
+    "lead_hu": "A meghirdetett csomag 2026. december 30-ától 2027. január 3-áig, négy éjszakára szól.",
+    "content_hu": "A meghirdetett csomag 2026. december 30-ától 2027. január 3-áig, négy éjszakára szól.",
+    "title_ro": "Akár 4160 euróba is kerülhet a szilveszter Simona Halep brassópojánai szállodájában",
+    "lead_ro": "A meghirdetett csomag 2026. december 30-ától 2027. január 3-áig, négy éjszakára szól.",
+    "content_ro": "A meghirdetett csomag 2026. december 30-ától 2027. január 3-áig, négy éjszakára szól."
+  },
+  {
+    "group_id": "group_9813901dd8",
+    "fingerprint": "d0dd2910ddf6e6086a895fd8d923f3f7",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/6e19acdd-03d6-4a75-bc78-6ab5ef4346e4.jpg?width=290&height=208",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "FC Argeș - UTA 0-1 » Învinși de coșmarul lor! „Bătrâna Doamnă” câștigă la Mioveni și adâncește criza lui Bogdan Andone",
+        "link": "https://www.gsp.ro/fotbal/liga-1/live-fc-arges-superliga-991141.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Superliga de fotbal. UTA trece de FC Argeș și urcă pe poziție de play-off",
+        "link": "https://www.mediafax.ro/sport/superliga-de-fotbal-uta-trece-de-fc-arges-si-urca-pe-pozitie-de-play-off-23831104"
+      }
+    ],
+    "published_at": 1792861304,
+    "title_hu": "Az UTA 1–0-ra nyert Mioveniben, tovább mélyült az FC Argeș válsága",
+    "lead_hu": "Az UTA 1–0-ra legyőzte az FC Argeșt Mioveniben, és sorozatban második bajnoki győzelmével közelebb került a rájátszásért küzdő csapatokhoz. Az Argeș augusztus óta nem nyert, és továbbra is osztályozós helyen áll.",
+    "content_hu": "• **Az UTA 1–0-ra győzött** az FC Argeș otthonában, Mioveniben.\n\n• **Marius Roman ismét betalált** az Argeș kapujába, és ezzel hozzájárult az aradi csapat sikeréhez.\n\n• **Az UTA sorozatban második bajnoki győzelmét aratta**, így bekapcsolódott a rájátszást érő helyekért folyó küzdelembe.\n\n• **Az FC Argeș válsága tovább mélyült**: a csapat augusztus óta nem nyert, és osztályozós helyen maradt.",
+    "title_ro": "UTA a învins-o pe FC Argeș cu 1-0 la Mioveni, iar criza piteștenilor se adâncește",
+    "lead_ro": "UTA s-a impus cu 1-0 în fața lui FC Argeș, la Mioveni, și a obținut a doua victorie consecutivă în campionat, apropiindu-se de lupta pentru locurile de play-off. FC Argeș nu a mai câștigat din august și rămâne pe un loc de baraj.",
+    "content_ro": "• **UTA a câștigat cu 1-0** în fața lui FC Argeș, la Mioveni.\n\n• **Marius Roman a marcat din nou** împotriva lui FC Argeș și a contribuit la victoria arădenilor.\n\n• **UTA a obținut a doua victorie consecutivă în campionat**, intrând în lupta pentru locurile de play-off.\n\n• **Criza lui FC Argeș s-a adâncit**: echipa nu a mai câștigat din august și rămâne pe un loc de baraj."
+  },
+  {
+    "group_id": "group_f9f3f371b7",
+    "category": "Erdély",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Életét vesztette a 24 éves fiatal, amikor személygépkocsija frontálisan ütközött egy kamionnal",
+        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/eletet-vesztette-a-24-eves-fiatal-amikor-szemelygepkocsija-frontalisan-utkozott-egy-kamionnal"
+      }
+    ],
+    "published_at": 1792861109,
+    "title_hu": "Életét vesztette a 24 éves fiatal, amikor személygépkocsija frontálisan ütközött egy kamionnal",
+    "lead_hu": "A baleset a 11-es főúton, a Brassó megyei Farkasvágó és Szászhermány között történt, szombatra virradóan.",
+    "content_hu": "A baleset a 11-es főúton, a Brassó megyei Farkasvágó és Szászhermány között történt, szombatra virradóan.",
+    "title_ro": "Életét vesztette a 24 éves fiatal, amikor személygépkocsija frontálisan ütközött egy kamionnal",
+    "lead_ro": "A baleset a 11-es főúton, a Brassó megyei Farkasvágó és Szászhermány között történt, szombatra virradóan.",
+    "content_ro": "A baleset a 11-es főúton, a Brassó megyei Farkasvágó és Szászhermány között történt, szombatra virradóan."
   },
   {
     "group_id": "group_7eae5720fe",
@@ -264,12 +961,12 @@
       }
     ],
     "published_at": 1792860621,
-    "title_hu": "Francia tengeri járőrrepülőgép segítette a fekete-tengeri mentési műveleteket",
-    "lead_hu": "Egy francia tengeri járőrrepülőgép részt vett az elmúlt napokban a Fekete-tengeren megtámadott hajók mentési műveleteiben. Jean-Noël Barrot francia külügyminiszter szombaton, bulgáriai látogatása során számolt be a bevetésről.",
-    "content_hu": "• **A francia tengeri járőrrepülőgép** részt vett az elmúlt napokban a Fekete-tengeren megtámadott hajók mentési műveleteiben.\n\n• **Jean-Noël Barrot francia külügyminiszter** szombaton, bulgáriai látogatása során közölte, hogy a repülőgépet a térség biztonságának támogatására mozgósították.",
-    "title_ro": "Un avion francez de patrulare maritim a sprijinit operațiunile de salvare din Marea Neagră",
-    "lead_ro": "Un avion francez de patrulare maritimă a participat la operațiunile de salvare a navelor atacate în ultimele zile în Marea Neagră. Ministrul francez de externe, Jean-Noël Barrot, a anunțat acest lucru sâmbătă, în timpul unei vizite în Bulgaria.",
-    "content_ro": "• **Avionul francez de patrulare maritimă** a participat la operațiunile de salvare a navelor atacate în ultimele zile în Marea Neagră.\n\n• **Ministrul francez de externe, Jean-Noël Barrot**, a declarat sâmbătă, în timpul vizitei sale în Bulgaria, că avionul a fost mobilizat pentru a contribui la securitatea regiunii."
+    "title_hu": "Francia járőrrepülőgép segítette a mentést a Fekete-tengeren",
+    "lead_hu": "Jean-Noël Barrot francia külügyminiszter szerint a NATO kötelékében működő Atlantique 2 járőrrepülőgép részt vett az elmúlt napokban megtámadott hajók mentési műveleteiben. A bolgár látogatásán bejelentett támogatás a térségben fokozódó tengeri biztonsági kockázatok közepette érkezett.",
+    "content_hu": "• **A NATO kötelékében működő francia Atlantique 2** két hete tartózkodik a térségben, és részt vett az elmúlt napokban megtámadott hajók mentési műveleteiben – közölte szombaton Jean-Noël Barrot francia külügyminiszter Várnában.\n\n• **Három hajót támadás ért** a Fekete-tengeren; Barrot elmondása szerint az egyik néhány perc alatt elsüllyedt, mintegy 100 kilométerre Várnától.\n\n• **A térségben az utóbbi hetekben megszaporodtak a támadások.** Egy drón a romániai Konstanca kikötőjének közelében támadott meg egy kereskedelmi hajót; Románia Oroszországot tette felelőssé az esetért.\n\n• **Franciaország támogatásáról biztosította Bulgáriát** Barrot várnai látogatásán. A miniszter üdvözölte azt az európai tervet is, amely a következő években Várnában és Konstancában tengeri biztonsági platformok létrehozását irányozza elő.\n\n• **A tervezett platformok feladata** a tengeri helyzet értékelése, az információcsere, a valós idejű megfigyelés és a korai riasztás támogatása lenne.",
+    "title_ro": "Un avion francez de patrulare a sprijinit operațiunile de salvare în Marea Neagră",
+    "lead_ro": "Ministrul francez de externe, Jean-Noël Barrot, a declarat că o aeronavă Atlantique 2, care operează în cadrul NATO, a participat la operațiunile de salvare a navelor atacate în ultimele zile. Anunțul a fost făcut în timpul vizitei sale în Bulgaria, pe fondul intensificării riscurilor de securitate maritimă în regiune.",
+    "content_ro": "• **Aeronava franceză Atlantique 2, care operează în cadrul NATO,** se află în regiune de două săptămâni și a participat la operațiunile de salvare a navelor atacate în ultimele zile, a declarat sâmbătă, la Varna, ministrul francez de externe Jean-Noël Barrot.\n\n• **Trei nave au fost atacate** în Marea Neagră; potrivit lui Barrot, una dintre ele s-a scufundat în câteva minute, la aproximativ 100 de kilometri de Varna.\n\n• **Atacurile din regiune s-au înmulțit în ultimele săptămâni.** O dronă a atacat o navă comercială în apropierea portului românesc Constanța, iar România a atribuit atacul Rusiei.\n\n• **Franța și-a exprimat sprijinul pentru Bulgaria** în timpul vizitei lui Barrot la Varna. Ministrul a salutat și planul european de creare, în anii următori, a unor platforme de securitate maritimă la Varna și Constanța.\n\n• **Platformele prevăzute** ar urma să contribuie la evaluarea situației maritime, la schimbul de informații, la supravegherea în timp real și la avertizarea timpurie."
   },
   {
     "group_id": "group_73bc0dd8a5",
@@ -291,27 +988,6 @@
     "title_ro": "Imagini fabuloase de pe străzile Capitalei! Show al suporterilor giuleșteni, în drum spre Arena Națională",
     "lead_ro": "Suporterii celor de la Rapid s-au deplasat în corteo spre Arena Națională, înaintea derby-ului cu FCSB, programat în această seară, de la ora 21:00. Suporterii giuleșteni au făcut spectacol pe străzil…",
     "content_ro": "Suporterii celor de la Rapid s-au deplasat în corteo spre Arena Națională, înaintea derby-ului cu FCSB, programat în această seară, de la ora 21:00. Suporterii giuleșteni au făcut spectacol pe străzile Capitalei. În jurul orei 18:30, suporterii Rapidului s-au pus în mișcare spre cel mai mare stadion al țării, escortați de un dispozitiv considerabil de jandarmi. În fruntea grupului s-a aflat un banner de mari dimensiuni, inscripționat „Giulești”. ..."
-  },
-  {
-    "group_id": "group_363ae00950",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/0de2e454-5f03-4efa-ac7f-03e67d38198f.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Un adolescent de 16 ani din Galați, cu autism, căutat de poliție după ce a plecat de acasă. Nu are telefonul la el",
-        "link": "https://www.mediafax.ro/social/un-adolescent-de-16-ani-din-galati-cu-autism-cautat-de-politie-dupa-ce-a-plecat-de-acasa-nu-are-telefonul-la-el-23831105"
-      }
-    ],
-    "published_at": 1792860493,
-    "title_hu": "Un adolescent de 16 ani din Galați, cu autism, căutat de poliție după ce a plecat de acasă. Nu are telefonul la el",
-    "lead_hu": "Polițiștii din Galați caută un adolescent de 16 ani, cu autism, care a plecat de la locuința bunicii sale și nu s-a mai întors.",
-    "content_hu": "Polițiștii din Galați caută un adolescent de 16 ani, cu autism, care a plecat de la locuința bunicii sale și nu s-a mai întors.",
-    "title_ro": "Un adolescent de 16 ani din Galați, cu autism, căutat de poliție după ce a plecat de acasă. Nu are telefonul la el",
-    "lead_ro": "Polițiștii din Galați caută un adolescent de 16 ani, cu autism, care a plecat de la locuința bunicii sale și nu s-a mai întors.",
-    "content_ro": "Polițiștii din Galați caută un adolescent de 16 ani, cu autism, care a plecat de la locuința bunicii sale și nu s-a mai întors."
   },
   {
     "group_id": "group_386f2cff97",
@@ -1100,27 +1776,6 @@
     "title_ro": "Spitalul Regional din Iași ar putea primi primii pacienți în 2029",
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, estimează că lucrările la Spitalul Regional de Urgență din Iași ar putea ajunge la cota zero la începutul anului viitor, iar primii pacienți ar putea fi primiți în 2029. Termenul de finanțare a fost prelungit până în 2029, pentru a permite gestionarea eventualelor blocaje administrative sau tehnice.",
     "content_ro": "• **Ministrul Sănătății, Alexandru Rogobete**, a declarat în timpul unei vizite pe șantierul din Iași că lucrările ar putea ajunge la cota zero la începutul anului viitor, iar spitalul ar putea primi primii pacienți în 2029.\n\n• **Termenul de finanțare a proiectului a fost prelungit până în 2029**, pentru a preveni blocaje administrative, tehnice sau legate de aprovizionarea cu materiale. Ministrul consideră că lucrările ar putea fi finalizate conform calendarului anunțat inițial.\n\n• **Consolidarea terenului** a reprezentat o etapă complexă a lucrărilor; pentru stabilizarea solului au fost montate peste 22.000 de elemente de consolidare.\n\n• **Proiectul prevede un spital cu 850 de paturi și 20 de săli de operație**."
-  },
-  {
-    "group_id": "group_199a11d368",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-pokemon.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Nebunia Pokemon a ajuns în București! CANCAN a fost în locul unde se adună sute de pasionați",
-        "link": "https://www.cancan.ro/nebunia-pokemon-a-ajuns-in-bucuresti-cancan-a-fost-in-locul-unde-se-aduna-sute-de-pasionati-21535687"
-      }
-    ],
-    "published_at": 1792858191,
-    "title_hu": "Nebunia Pokemon a ajuns în București! CANCAN a fost în locul unde se adună sute de pasionați",
-    "lead_hu": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul…",
-    "content_hu": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul următor! În București, colecționarii și jucătorii au acum un spațiu generos în care se întâlnesc, își etalează cărțile și participă la competiții […]",
-    "title_ro": "Nebunia Pokemon a ajuns în București! CANCAN a fost în locul unde se adună sute de pasionați",
-    "lead_ro": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul…",
-    "content_ro": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul următor! În București, colecționarii și jucătorii au acum un spațiu generos în care se întâlnesc, își etalează cărțile și participă la competiții […]"
   },
   {
     "group_id": "group_c264d56ade",
@@ -1940,34 +2595,6 @@
     "content_ro": "• **Sâmbătă**, autoritățile din Ras Al Khaimah au închis toate plajele publice până la noi dispoziții, după o deversare de petrol în largul coastei, în apropierea strâmtorii Ormuz.\n\n• **Sursa deversării** a fost un petrolier, însă autoritățile nu au identificat nava și nici nu au precizat cauza scurgerii. Relatările diferă în privința motivului închiderii plajelor: Xinhua a menționat siguranța publică, în timp ce Reuters a relatat că autoritățile nu au indicat un motiv explicit.\n\n• **Restricții au fost introduse și în alte emirate din nord:** Umm Al Quwain a închis temporar plajele și zonele de coastă, iar Sharjah a închis preventiv plaja Al Hamriyah.\n\n• **Ministerul Mediului și Schimbărilor Climatice** a anunțat că sunt în desfășurare operațiuni pentru limitarea scurgerii și că este evaluat impactul asupra mediului. Pescarilor și celorlalți utilizatori ai mării li s-a cerut să evite zonele afectate și să respecte instrucțiunile oficiale.\n\n• **Locuitori din Sharjah, Ajman și Umm Al Quwain au semnalat mirosuri neobișnuite**, însă ministerul a transmis că acestea nu prezintă riscuri pentru sănătate."
   },
   {
-    "group_id": "group_3eb5d82ac7",
-    "fingerprint": "7434abf34c68d675e462f8ce1b8d1cb3",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Cunoscut politician bulgar, împușcat mortal în propria casă din Sofia. Ce se știe la acest moment și cine a fost Slavi Binev",
-        "link": "https://hotnews.ro/cunoscut-politician-bulgar-impuscat-mortal-in-propria-casa-din-sofia-ce-se-stie-la-acest-moment-si-cine-a-fost-slavi-binev-2385300"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Președintele Federației Bulgare de Taekwondo, împușcat mortal în casa lui din Sofia",
-        "link": "https://www.gsp.ro/sporturi/altele/slavi-binev-bulgaria-taekwondo-asasinat-991764.html"
-      }
-    ],
-    "published_at": 1792854448,
-    "title_hu": "Megölték Slavi Binev bolgár politikust és üzletembert szófiai otthonában",
-    "lead_hu": "A bolgár politikust és üzletembert, Slavi Binevet szófiai otthonában lőtték ag agyon; a rendőrség nyomozást indított, és keresi az elkövetőket. A gyilkosság körülményei egyelőre nem tisztázottak, a személyes vita lehetőségéről szóló értesüléseket hivatalosan nem erősítették meg.",
-    "content_hu": "• **Slavi Binevet** szófiai, Pavlovo negyedbeli otthonában lőtték ag agyon. A belügyminisztérium nem sokkal 10:30 előtt kapott bejelentést; a mentők 10:28-kor kapták a riasztást, és hét percen belül a helyszínre értek, ahol már csak a halálát tudták megállapítani.\n\n• **A lövöldözésről** Binev egyik alkalmazottja értesítette a hatóságokat, miután többen érkeztek az ingatlanhoz, és lövéseket hallott. A sajtóban megjelent, nem megerősített információk szerint Binevet fején és testén érte lövés.\n\n• **A gyilkosság indítéka és az elkövetők kiléte** egyelőre nem ismert. Bolgár sajtóforrások személyes vitáról számoltak be, de ezt hivatalosan nem erősítették meg; a rendőrség egy, a meneküléshez használt SUV-t keresett. A gyanúsítottak őrizetbe vételéről szóló híreket szintén nem erősítették meg hivatalosan.\n\n• **Slavcho (Slavi) Penchev Binev** 1965. december 10-én született Szófiában. Taekwondózóként 1992-ben, a szlovéniai Celjében megrendezett bajnokságon abszolút Európa-bajnoki címet szerzett; később nemzetközi bíróként, edzőként és sportvezetőként is dolgozott, többek között a Bolgár Taekwondo Olimpiai Szövetség elnöke és az Európai Taekwondo Szövetség alelnöke volt.",
-    "title_ro": "Politicianul și omul de afaceri Slavi Binev, ucis la domiciliul său din Sofia",
-    "lead_ro": "Politicianul și omul de afaceri bulgar Slavi Binev a fost împușcat mortal la domiciliul său din Sofia, iar poliția a deschis o anchetă și îi caută pe cei responsabili. Circumstanțele crimei nu sunt deocamdată clare, iar informațiile despre o posibilă dispută personală nu au fost confirmate oficial.",
-    "content_ro": "• **Slavi Binev** a fost împușcat mortal la domiciliul său din cartierul Pavlovo, Sofia. Ministerul de Interne a primit sesizarea cu puțin înainte de ora 10:30; serviciile de urgență au fost alertate la 10:28 și au ajuns în șapte minute, însă medicii nu au putut decât să constate decesul.\n\n• **Despre împușcături** a alertat autoritățile un angajat al lui Binev, după ce mai multe persoane au sosit la proprietate și s-au auzit focuri de armă. Potrivit unor informații neconfirmate apărute în presă, Binev ar fi fost împușcat în cap și în corp.\n\n• **Motivul crimei și identitatea făptașilor** nu sunt cunoscute deocamdată. Surse din presa bulgară au relatat despre o dispută personală, dar informația nu a fost confirmată oficial; poliția căuta un SUV despre care se credea că fusese folosit pentru fugă. Nici relatările privind reținerea unor suspecți nu au fost confirmate oficial.\n\n• **Slavcho (Slavi) Penchev Binev** s-a născut la 10 decembrie 1965, la Sofia. Ca sportiv de taekwondo, a câștigat titlul de campion european absolut la competiția din 1992 de la Celje, Slovenia; ulterior a fost arbitru internațional, antrenor și administrator sportiv, inclusiv președinte al Federației Olimpice Bulgare de Taekwondo și vicepreședinte al Uniunii Europene de Taekwondo."
-  },
-  {
     "group_id": "group_23e13f8da4",
     "category": "Politika",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjk4NF8zMDI2/OTg0X0lEMjkzNTAyLUlOUVVBTS1QSE9U/T1MtQUxFWC1OSUNPRElNLmpwZyZoYXNo/PWEyOTkwMmNmM2Q1YzEzNGUxZGQ2ZGQ5MjQ0MDc0MTgx.jpg",
@@ -1987,27 +2614,6 @@
     "title_ro": "Cine sunt cei mai bogați miniștri din noul Guvern și ce avere are premierul Luca Niculescu",
     "lead_ro": "Conturi cu sute de mii de euro, bijuterii scumpe, proprietăți și numeroase terenuri. Așa arată o parte dintre averile declarate de membrii noului Guvern. Documentele arată și ce economii au miniștrii,…",
     "content_ro": "Conturi cu sute de mii de euro, bijuterii scumpe, proprietăți și numeroase terenuri. Așa arată o parte dintre averile declarate de membrii noului Guvern. Documentele arată și ce economii au miniștrii, dar și din ce surse au obținut venituri importante."
-  },
-  {
-    "group_id": "group_6de2bc133f",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-b/bcbf49dd-9898-4afc-8a2f-b77d902df3b1/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Rectorul Universității Al I. Cuza din Iași anunță măsuri după arestarea preventivă a lui Alexandru Toader. Contractul lectorului va fi suspendat",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/rectorul-universitatii-al-i-cuza-din-iasi-anunta-2566289.html"
-      }
-    ],
-    "published_at": 1792854203,
-    "title_hu": "Rectorul Universității Al I. Cuza din Iași anunță măsuri după arestarea preventivă a lui Alexandru Toader. Contractul lectorului va fi suspendat",
-    "lead_hu": "Contractul de muncă al lectorului de la Facultatea de Drept, acuzat că ar fi hărțuit sexual două studente, va fi suspendat.",
-    "content_hu": "Contractul de muncă al lectorului de la Facultatea de Drept, acuzat că ar fi hărțuit sexual două studente, va fi suspendat.",
-    "title_ro": "Rectorul Universității Al I. Cuza din Iași anunță măsuri după arestarea preventivă a lui Alexandru Toader. Contractul lectorului va fi suspendat",
-    "lead_ro": "Contractul de muncă al lectorului de la Facultatea de Drept, acuzat că ar fi hărțuit sexual două studente, va fi suspendat.",
-    "content_ro": "Contractul de muncă al lectorului de la Facultatea de Drept, acuzat că ar fi hărțuit sexual două studente, va fi suspendat."
   },
   {
     "group_id": "group_1cb777566e",
@@ -3525,18 +4131,13 @@
   },
   {
     "group_id": "group_293b3c1451",
-    "fingerprint": "c9fcd4673b86d2d5deb3f86096cd48e7",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE4JTJGMzAxOTAwOV8zMDE5/MDA5X2lsaWUtYm9sb2phbi1pbnF1YW0t/Z2VvcmdlLWNhbGluLTEuanBnJmhhc2g9/Yjk0MjBjYzQ3MmFmMjhmMWY4N2NjY2YzYTkwMTYxOWI=.jpg",
+    "fingerprint": "4706c22e598832999739dfeb552fdd61",
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjA1JTJGMjcwOTAxMl8yNzA5/MDEyX0lOU1RBTlRfTU9USVVORV9DRU5a/VVJBXzNfMTFfSU5RVUFNX1Bob3Rvc19H/ZW9yZ2VfQ2FsaW4uanBnJmhhc2g9MjBh/ZjU4YjQ4N2RiYjU1N2FlOTc2OGRkOTM1ZDUzZDY=.jpg",
     "is_synthesized": true,
     "rejected": false,
     "sources_count": 5,
     "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ilie Bolojan: Cu omul raţional, chiar de la un partid cu probleme, am putut să mişc anumite lucruri. Cu golanii e greu să faci treabă",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-cu-omul-rational-chiar-de-la-un-partid-cu-probleme-am-putut-sa-misc-anumite-lucruri-cu-golanii-e-greu-sa-faci-treaba-4006605"
-      },
       {
         "source": "Digi24",
         "title": "„PSD şi-a găsit naşul”. Lider PNL: Ilie Bolojan e cel care va înjumătăţi numărul de parlamentari ai fostului partid comunist",
@@ -3553,18 +4154,23 @@
         "link": "https://stirileprotv.ro/stiri/politic/lider-pnl-psd-si-a-gasit-nasul-ilie-bolojan-va-injumata-i-numarul-de-parlamentari-ai-fostului-partid-comunist.html"
       },
       {
+        "source": "Digi24",
+        "title": "Ilie Bolojan: Cu omul raţional, chiar de la un partid cu probleme, am putut să mişc anumite lucruri. Cu golanii e greu să faci treabă",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-cu-omul-rational-chiar-de-la-un-partid-cu-probleme-am-putut-sa-misc-anumite-lucruri-cu-golanii-e-greu-sa-faci-treaba-4006605"
+      },
+      {
         "source": "ProTV Stiri",
         "title": "Ilie Bolojan: Cu omul raţional, chiar de la un partid cu probleme, am putut să mişc anumite lucruri. Cu golanii e greu să faci treabă",
         "link": "https://stirileprotv.ro/stiri/politic/ilie-bolojan-cu-omul-ra-ional-chiar-de-la-un-partid-cu-probleme-am-putut-sa-misc-anumite-lucruri-cu-golanii-e-greu-sa-faci-treaba.html"
       }
     ],
     "published_at": 1792846854,
-    "title_hu": "Bolojan: minden pártban vannak együttműködésre képes, racionális emberek",
-    "lead_hu": "Ilie Bolojan volt miniszterelnök a sinaiai Rethink România csúcstalálkozón arról beszélt, hogy minden pártban találni racionális embereket, akikkel lehet együtt dolgozni. Arra biztatta a „normális embereket”, hogy vegyenek részt a politikában, és a Digi24-nek azt mondta: a „gazemberek” említésével nem célzott konkrét személyre.",
-    "content_hu": "• **Ilie Bolojan** a sinaiai Rethink România csúcstalálkozó pénteki vitáján azt mondta, hogy minden jelenlegi pártban vannak racionális emberek, akikkel lehet együttműködni.\n\n• **A pártok közötti együttműködésről** szólva azt mondta, hogy címkézés nélkül mindegyik párttal volt alkalma együtt dolgozni. Problémás pártok racionális tagjaival is sikerült előrelépnie, ha tiszteletben tartották a megállapodásokat és felelősséget vállaltak.\n\n• **A „gazemberekről”** Bolojan a Digi24-nek tisztázta, hogy a kifejezéssel nem célzott konkrét személyre. Úgy fogalmazott: velük nehéz dolgozni.\n\n• **A politikai részvételről** Bolojan azt mondta, minél több „normális ember” lép be a politikába, annál erősebb lehet a normalitás jelenléte. Hozzátette, hogy az újonnan érkezőket a pártszervezetek kezdetben nem feltétlenül fogadják jól, és nem egy konkrét párt mellett kampányol.\n\n• **A közéleti szerepvállalásról** azt is mondta, hogy a helyes közpolitikák támogatása mellett a politikai részvételt is fontosnak tartja.",
-    "title_ro": "Bolojan: în fiecare partid există oameni raționali cu care se poate colabora",
-    "lead_ro": "Fostul premier Ilie Bolojan a afirmat, la summitul Rethink România de la Sinaia, că în fiecare partid există oameni raționali cu care se poate lucra. El i-a încurajat pe oamenii „normali” să intre în politică și a precizat pentru Digi24 că, atunci când a vorbit despre „golani”, nu s-a referit la o anumită persoană.",
-    "content_ro": "• **Ilie Bolojan** a declarat vineri, în cadrul dezbaterilor summitului Rethink România de la Sinaia, că în fiecare partid aflat în prezent pe scena politică există oameni raționali cu care se poate colabora.\n\n• **Colaborarea dintre partide**: Bolojan a spus că a avut ocazia să lucreze cu toate partidele, fără să le pună etichete. A reușit să facă progrese și alături de oameni raționali din partide cu probleme, atunci când aceștia au respectat înțelegerile și și-au asumat responsabilitatea.\n\n• **Referirea la „golani”**: Bolojan a precizat pentru Digi24 că nu s-a referit la o anumită persoană. El a spus că este greu să lucrezi cu „golanii”.\n\n• **Implicarea în politică**: Bolojan a afirmat că, pe măsură ce intră mai mulți oameni „normali” în politică, crește și ponderea normalității. A adăugat că noii veniți nu sunt întotdeauna primiți bine de organizațiile de partid și că nu face o pledoarie pentru un anumit partid.\n\n• **Participarea civică**: El a spus că, pe lângă susținerea unor politici publice corecte, consideră importantă și implicarea în politică, într-o formă sau alta."
+    "title_hu": "Bolojan szerint minden pártban vannak racionális emberek; a PNL alelnöke a PSD kihívójának nevezte",
+    "lead_hu": "Ilie Bolojan volt miniszterelnök a sinaiai Rethink România csúcstalálkozón arról beszélt, hogy minden pártban találni racionális embereket, akikkel lehet együtt dolgozni. A PNL alelnöke, Alexandru Muraru szerint Bolojan a PSD meghatározó ellenzéki kihívója lesz, és a párt parlamenti képviselőinek számát is megfelezheti.",
+    "content_hu": "• **Ilie Bolojan** a sinaiai Rethink România csúcstalálkozó pénteki vitáján azt mondta, hogy minden jelenlegi pártban vannak racionális emberek, akikkel lehet együttműködni.\n\n• **A pártok közötti együttműködésről** szólva azt mondta, hogy címkézés nélkül mindegyik párttal volt alkalma együtt dolgozni. Problémás pártok racionális tagjaival is sikerült előrelépnie, ha tiszteletben tartották a megállapodásokat és felelősséget vállaltak.\n\n• **A „gazemberekről”** Bolojan a Digi24-nek tisztázta, hogy a kifejezéssel nem célzott konkrét személyre. Úgy fogalmazott: velük nehéz dolgozni.\n\n• **A politikai részvételről** Bolojan azt mondta, minél több „normális ember” lép be a politikába, annál erősebb lehet a normalitás jelenléte. Hozzátette, hogy az újonnan érkezőket a pártszervezetek kezdetben nem feltétlenül fogadják jól, és nem egy konkrét párt mellett kampányol.\n\n• **A közéleti szerepvállalásról** azt is mondta, hogy a helyes közpolitikák támogatása mellett a politikai részvételt is fontosnak tartja.\n\n• **Alexandru Muraru**, a PNL alelnöke szombaton a Facebookon azt írta, hogy Bolojan a PSD „rémálma” lesz, és megfelezheti a párt parlamenti képviselőinek számát. Muraru szerint Bolojan az ellenzék vezetőjévé válhat, és a közelmúlt történetében elsőként kerülhet volt miniszterelnök ebbe a szerepbe.\n\n• **A PSD várható támadásairól** Muraru azt állította, hogy a párt Bolojan imázsának erodálására támadja majd a volt kormányfőt, a médiában keltett zajjal pedig a kormány szerintei hozzá nem értését próbálja elfedni. Úgy vélte, a PSD „kormányprogramja” a nehéz örökség emlegetése lesz.\n\n• **A Bolojan és a PSD közötti konfliktusról** Muraru azt mondta, hogy a volt miniszterelnök a frontvonalban marad, és szembeszáll azzal a rendszerrel, amely szerinte kormányváltásokkal, tisztségek alkudozásával és kiváltságok védelmével maradt fenn. Hozzátette: Bolojan tapasztalata szerint egyesek csak addig tartják be a megállapodásokat, amíg az érdekükben áll.",
+    "title_ro": "Bolojan: în fiecare partid există oameni raționali; vicepreședintele PNL îl vede drept adversarul PSD",
+    "lead_ro": "Fostul premier Ilie Bolojan a afirmat la summitul Rethink România de la Sinaia că în fiecare partid există oameni raționali cu care se poate lucra. Vicepreședintele PNL Alexandru Muraru susține că Bolojan va deveni un opozant important al PSD și ar putea înjumătăți numărul parlamentarilor partidului.",
+    "content_ro": "• **Ilie Bolojan** a declarat, în dezbaterea de vineri de la summitul Rethink România din Sinaia, că în fiecare partid actual există oameni raționali cu care se poate colabora.\n\n• **Despre colaborarea dintre partide**, Bolojan a spus că a avut ocazia să lucreze cu toate partidele, fără să le eticheteze. A reușit să facă pași înainte și cu membri raționali ai unor partide problematice, atunci când aceștia au respectat înțelegerile și și-au asumat responsabilitatea.\n\n• **Despre „golani”**, Bolojan a precizat pentru Digi24 că nu a vizat o persoană anume prin această formulare. El a spus că este greu să lucrezi cu astfel de oameni.\n\n• **Despre participarea politică**, Bolojan a afirmat că, pe măsură ce mai mulți „oameni normali” intră în politică, normalitatea poate deveni mai puternică. El a adăugat că organizațiile de partid nu îi primesc neapărat bine, la început, pe cei nou-veniți și că nu face campanie pentru un anumit partid.\n\n• **Despre implicarea civică**, Bolojan a spus că, pe lângă susținerea politicilor publice corecte, consideră importantă și participarea politică.\n\n• **Alexandru Muraru**, vicepreședinte al PNL, a scris sâmbătă pe Facebook că Bolojan va fi „coșmarul” PSD și va înjumătăți numărul parlamentarilor partidului. Muraru a susținut că Bolojan va ajunge liderul opoziției și că ar fi primul fost premier din istoria recentă care ocupă acest rol.\n\n• **Despre atacurile anticipate ale PSD**, Muraru a afirmat că partidul îl va ataca pe Bolojan pentru a-i eroda imaginea și că va folosi „zgomotul” mediatic pentru a acoperi, în opinia sa, incompetența guvernului. El a spus că „programul de guvernare” al PSD va consta în plângeri legate de greaua moștenire.\n\n• **Despre confruntarea dintre Bolojan și PSD**, Muraru a declarat că fostul premier rămâne în prima linie și își asumă lupta cu un sistem care, potrivit lui, a supraviețuit prin schimbarea guvernelor, negocierea funcțiilor și protejarea privilegiilor. El a adăugat că experiența lui Bolojan a arătat că unii respectă înțelegerile doar atât timp cât acestea le convin."
   },
   {
     "group_id": "group_a47f8b9687",
@@ -5008,59 +5614,6 @@
     "content_ro": "O pană de curent pe scară largă a afectat Crimeea ocupată în noaptea de 24 octombrie, în urma unui atac asupra unei substații electrice-cheie din sudul Rusiei, potrivit canalelor de monitorizare de pe Telegram."
   },
   {
-    "group_id": "group_1c9af45894",
-    "fingerprint": "abb1318d0534eef7caa2c22ec8e59e2f",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/satelit-starlink-scaled.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Zelenski: Restricțiile Starlink rămân în vigoare în ciuda decralațiilor lui Trump",
-        "link": "https://www.g4media.ro/zelenski-restrictiile-starlink-raman-in-vigoare-in-ciuda-decralatiilor-lui-trump.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Starlink revine la viteză maximă pentru Armata ucraineană. Ce s-a schimbat după criticile lui Zelenski și negocierile cu SUA",
-        "link": "https://www.digi24.ro/stiri/externe/starlink-revine-la-viteza-maxima-pentru-armata-ucraineana-ce-s-a-schimbat-dupa-criticile-lui-zelenski-si-negocierile-cu-sua-4006991"
-      },
-      {
-        "source": "G4Media",
-        "title": "Ucraina anunță că Starlink funcționează din nou fără restricții de viteză",
-        "link": "https://www.g4media.ro/ucraina-anunta-ca-starlink-functioneaza-din-nou-fara-restrictii-de-viteza.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ucraina are din nou „conexiune stabilă” la Starlink. Ce viteză suportă acum sistemul",
-        "link": "https://hotnews.ro/ucraina-are-din-nou-conexiune-stabila-la-starlink-ce-viteza-suporta-acum-sistemul-2385276"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ucraina are din nou „conexiune stabilă” la Starlink și Starshield, după o săptămână de limitări",
-        "link": "https://www.mediafax.ro/economic/ucraina-are-din-nou-conexiune-stabila-la-starlink-si-starshield-dupa-o-saptamana-de-limitari-23830993"
-      },
-      {
-        "source": "Ziarul Financiar",
-        "title": "Ucraina are din nou „conexiune stabilă” la Starlink şi Starshield, după o săptămână de limitări",
-        "link": "https://www.zf.ro/business-international/ucraina-are-din-nou-conexiune-stabila-la-starlink-si-starshield-dupa-o-saptamana-de-limitari-23267128"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Guvernul Ucrainei anunță că Starlink funcționează din nou fără restricții, „la o viteză de peste 161 km/h”",
-        "link": "https://stirileprotv.ro/stiri/international/guvernul-ucrainei-anunta-ca-starlink-functioneaza-din-nou-fara-restrictii.html"
-      }
-    ],
-    "published_at": 1792840562,
-    "title_hu": "Zelenszkij szerint továbbra is érvényben vannak a Starlink korlátozásai",
-    "lead_hu": "Volodimir Zelenszkij október 23-án azt mondta, hogy a Starlink és a katonai Starshield rendszer korlátozásai továbbra is érvényben vannak, noha Donald Trump előző nap a teljes működés helyreállításáról beszélt. Az ukrán tesztek szerint a terminálok nagy sebességű mozgás közben továbbra is elveszítik a kapcsolatot.",
-    "content_hu": "• **Október 23-án Volodimir Zelenszkij** közölte, hogy a Starlinkre és katonai változatára, a Starshieldre vonatkozó korlátozásokat nem oldották fel, annak ellenére, hogy Donald Trump október 22-én a teljes működés helyreállításáról beszélt.\n\n• **Az ukrán szakemberek tesztjei** szerint a kommunikáció megszakadt, amikor a terminálok óránként körülbelül 161 kilométeres sebességgel haladtak. Zelenszkij a Hudson Intézetben tartott interjúban azt mondta, hogy a rendszert civil környezetben és a front közelében is vizsgálták.\n\n• **A korlátozások október 14-én éjjel okoztak problémákat:** a nagy sebességgel mozgó Starshield-terminálok kezdték elveszíteni a kapcsolatot. Ez nehezítette a támadó és elfogó drónok használatát, valamint a felderítési és logisztikai feladatokat.\n\n• **Szerhij Beszkresztnov, az ukrán elnök védelmi technológiai tanácsadója** megerősítette, hogy a korlátozások továbbra is érvényben vannak. Szerinte az, hogy egyes terminálok esetenként nagyobb sebességnél is működnek, nem jelenti a korlátozás feloldását, és a SpaceX algoritmusainak sajátosságaival magyarázható.\n\n• **Zelenszkij azt mondta**, hogy Ukrajna érti, milyen technikai lépések szükségesek a korlátozás megszüntetéséhez, és azt reméli, hogy a SpaceX és az amerikai kormányzat megteszi ezeket. Trump október 23-án azt ígérte, hogy foglalkozik a fennmaradó problémákkal.",
-    "title_ro": "Zelenski: Restricțiile Starlink sunt încă în vigoare",
-    "lead_ro": "Volodimir Zelenski a declarat pe 23 octombrie că restricțiile privind Starlink și versiunea militară Starshield rămân în vigoare, deși cu o zi înainte Donald Trump afirmase că funcționarea completă a fost restabilită. Testele ucrainene arată că terminalele pierd în continuare conexiunea când se deplasează cu viteză mare.",
-    "content_ro": "• **Pe 23 octombrie, Volodimir Zelenski** a declarat că restricțiile privind Starlink și versiunea sa militară, Starshield, nu au fost ridicate, deși Donald Trump afirmase pe 22 octombrie că funcționarea completă a fost restabilită.\n\n• **Testele specialiștilor ucraineni** au arătat că se întrerupea comunicația când terminalele se deplasau cu aproximativ 161 de kilometri pe oră. Într-un interviu la Institutul Hudson, Zelenski a spus că sistemul a fost testat atât în sectorul civil, cât și în apropierea liniei frontului.\n\n• **Problemele cauzate de restricții au început în noaptea de 14 octombrie:** terminalele Starshield au început să piardă conexiunea când se deplasau cu viteză mare. Situația a îngreunat utilizarea dronelor de atac și a celor interceptoare, precum și misiunile de recunoaștere și logistică.\n\n• **Serhii Beskrestnov, consilierul președintelui ucrainean pentru tehnologia apărării,** a confirmat că restricțiile sunt încă în vigoare. Potrivit acestuia, faptul că unele terminale funcționează uneori la viteze mai mari nu înseamnă că limita a fost eliminată și poate fi explicat prin particularitățile algoritmilor SpaceX.\n\n• **Zelenski a declarat** că Ucraina înțelege ce este necesar din punct de vedere tehnic pentru ridicarea restricției și speră că SpaceX și administrația SUA vor face acest lucru. Pe 23 octombrie, Trump a promis că va aborda problemele rămase."
-  },
-  {
     "group_id": "group_dd87039f5b",
     "category": "Általános",
     "image": "",
@@ -5283,27 +5836,6 @@
     "title_ro": "Lovitură pentru Barcelona înainte de El Clasico: a lipsit de la antrenament și nu va putea juca!",
     "lead_ro": "Barcelona a primit o veste foarte proastă înaintea derby-ului de mâine cu Real Madrid. Fundașul dreapta Jules Koundé a lipsit și la antrenamentul de sâmbătă și este out din lotul blaugrana pentru part…",
     "content_ro": "Barcelona a primit o veste foarte proastă înaintea derby-ului de mâine cu Real Madrid. Fundașul dreapta Jules Koundé a lipsit și la antrenamentul de sâmbătă și este out din lotul blaugrana pentru partida de pe „Camp Nou”. Meciul Barcelona - Real Madrid, programat duminică pe Camp Nou (ora 22:00, livetext pe GSP.ro, în direct la Digi Sport și Prima Sport 1), reprezintă primul El Clásico al actualului sezon. ..."
-  },
-  {
-    "group_id": "group_3be0d5af54",
-    "category": "Sport",
-    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/2a7293ef-97aa-4bc1-82cd-ecbac6fe4afb.jpg?width=290&height=208",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Mourinho s-a enervat înainte El Clasico, apoi a trecut la șotii: „Arăt atât de rău?”",
-        "link": "https://www.gsp.ro/international/campionate/jose-mourinho-barcelona-real-madrid-conferinta-991679.html"
-      }
-    ],
-    "published_at": 1792839153,
-    "title_hu": "Mourinho s-a enervat înainte El Clasico, apoi a trecut la șotii: „Arăt atât de rău?”",
-    "lead_hu": "Jose Mourinho, antrenorul lui Real Madrid, a susținut o conferință de presă incandescentă înainte de duelul cu Barcelona, de pe Camp Nou. Barcelona - Real Madrid are loc duminică, de la 22:00, liveTEX…",
-    "content_hu": "Jose Mourinho, antrenorul lui Real Madrid, a susținut o conferință de presă incandescentă înainte de duelul cu Barcelona, de pe Camp Nou. Barcelona - Real Madrid are loc duminică, de la 22:00, liveTEXT pe GSP.ro și transmis pe Prima Sport 1 și Digi Sport 1 Mourinho, care va disputa primul El Clasico de la revenirea la Real Madrid, consideră că forma de moment și ultimele rezultate nu vor conta la partida de duminică. ...",
-    "title_ro": "Mourinho s-a enervat înainte El Clasico, apoi a trecut la șotii: „Arăt atât de rău?”",
-    "lead_ro": "Jose Mourinho, antrenorul lui Real Madrid, a susținut o conferință de presă incandescentă înainte de duelul cu Barcelona, de pe Camp Nou. Barcelona - Real Madrid are loc duminică, de la 22:00, liveTEX…",
-    "content_ro": "Jose Mourinho, antrenorul lui Real Madrid, a susținut o conferință de presă incandescentă înainte de duelul cu Barcelona, de pe Camp Nou. Barcelona - Real Madrid are loc duminică, de la 22:00, liveTEXT pe GSP.ro și transmis pe Prima Sport 1 și Digi Sport 1 Mourinho, care va disputa primul El Clasico de la revenirea la Real Madrid, consideră că forma de moment și ultimele rezultate nu vor conta la partida de duminică. ..."
   },
   {
     "group_id": "group_2f6f25e0ce",
@@ -5737,7 +6269,7 @@
         "link": "https://maszol.ro/belfold/Ho-boritja-a-Brasso-kornyeki-hegyeket-szankozni-es-hogolyozni-is-lehet-VIDEO"
       }
     ],
-    "published_at": 1792837440,
+    "published_at": 1792837514,
     "title_hu": "Hó borítja a Brassó környéki hegyeket: szánkózni és hógolyózni is lehet (VIDEÓ)",
     "lead_hu": "Több mint tíz centiméteres hó borítja a Brassó melletti Keresztényhavas (Masivul Postăvarul) felsőbb részeit,",
     "content_hu": "Több mint tíz centiméteres hó borítja a Brassó melletti Keresztényhavas (Masivul Postăvarul) felsőbb részeit,",
@@ -8208,12 +8740,12 @@
       }
     ],
     "published_at": 1792827871,
-    "title_hu": "Az Artemis II parancsnoka attól tartott, hogy nem térnek vissza a Földre",
-    "lead_hu": "Reid Wiseman az Artemis II tíznapos holdkerülő útja közben megijedt, amikor az Orion távolságjelzője a küldetésirányítás által előre jelzett legnagyobb érték fölé emelkedett. A Starmus VIII fesztiválon felidézte, hogy a növekvő számok miatt úgy gondolta, túl messzire kerültek a Földtől.",
-    "content_hu": "• **Reid Wiseman, az Artemis II parancsnoka** a Starmus VIII fesztiválon beszélt a tíznapos holdkerülő út egyik legijesztőbb pillanatáról.\n\n• **A küldetés hatodik napján** az Orion Integrity távolságjelzője elérte, majd meghaladta a küldetésirányítás által előre jelzett, 219 667 tengeri mérföldes (406 823 kilométeres) legnagyobb távolságot.\n\n• **A kijelzett érték 219 668-ra, majd 219 669 tengeri mérföldre nőtt**, és Wiseman ekkor attól tartott, hogy túl messzire kerültek, és nem jutnak haza. A beszámoló szerint a legnagyobb távolság elérése után már a visszaút következett volna.",
-    "title_ro": "Comandantul Artemis II s-a temut că echipajul nu se va mai întoarce pe Pământ",
-    "lead_ro": "Reid Wiseman s-a speriat în timpul călătoriei de zece zile în jurul Lunii, când indicatorul de distanță al navei Orion a depășit valoarea maximă anunțată de controlul misiunii. La festivalul Starmus VIII, el a povestit că numerele în creștere l-au făcut să creadă că echipajul se îndepărta prea mult de Pământ.",
-    "content_ro": "• **Reid Wiseman, comandantul misiunii Artemis II**, a relatat la festivalul Starmus VIII unul dintre cele mai înfricoșătoare momente ale călătoriei de zece zile în jurul Lunii.\n\n• **În a șasea zi a misiunii**, indicatorul navei Orion Integrity a ajuns și apoi a depășit distanța maximă anunțată de controlul misiunii: 219.667 de mile marine (406.823 de kilometri).\n\n• **Valoarea afișată a crescut la 219.668, apoi la 219.669 de mile marine**, iar Wiseman s-a temut că echipajul se îndepărtase prea mult și nu va mai ajunge acasă. Potrivit relatării, după atingerea distanței maxime urma călătoria de întoarcere."
+    "title_hu": "Reid Wiseman elmondta, mikor tartott attól, hogy az Artemis II legénysége nem tér haza",
+    "lead_hu": "Reid Wiseman, az Artemis II parancsnoka a Starmus VIII fesztiválon idézte fel a Hold körüli, tíznapos út legijesztőbb pillanatát. Akkor kezdett félni, amikor az Orion távolságjelzője a tervezett legtávolabbi pont elérése után is tovább növelte a Földtől mért távolságot.",
+    "content_hu": "• **Reid Wiseman, az Artemis II parancsnoka** a Starmus VIII fesztiválon arról beszélt, hogy a Hold körüli tíznapos küldetés során egy pillanatban attól tartott: ő és három társa soha nem jut vissza a Földre.\n\n• **A tervezett legtávolabbi pont** a Földtől 219 667 tengeri mérföld, azaz 406 823 kilométer lett volna; ezt a távolságot a küldetés hatodik napján érték volna el, mielőtt megkezdik a visszautat.\n\n• **Az Orion távolságjelzője** a tervezett érték elérése után nem csökkenni, hanem tovább növekedni kezdett. Wiseman először furcsának találta, majd amikor a kijelzett távolság újabb értékekre emelkedett, attól félt, hogy túl messzire kerültek, és nem térnek haza.",
+    "title_ro": "Reid Wiseman a povestit când s-a temut că echipajul Artemis II nu se va mai întoarce",
+    "lead_ro": "Reid Wiseman, comandantul misiunii Artemis II, a rememorat la festivalul Starmus VIII cel mai înfricoșător moment al călătoriei de zece zile în jurul Lunii. A început să se teamă când indicatorul navei Orion a continuat să mărească distanța față de Pământ după atingerea punctului maxim prevăzut.",
+    "content_ro": "• **Reid Wiseman, comandantul misiunii Artemis II**, a povestit la festivalul Starmus VIII că, în timpul călătoriei de zece zile în jurul Lunii, s-a temut pentru un moment că el și ceilalți trei astronauți nu se vor mai întoarce pe Pământ.\n\n• **Punctul maxim planificat față de Pământ** era la 219.667 de mile marine, adică 406.823 de kilometri. Echipajul urma să ajungă acolo în a șasea zi a misiunii, înainte de a începe călătoria de întoarcere.\n\n• **Indicatorul de distanță al navei Orion** a continuat să crească după atingerea valorii prevăzute, în loc să scadă. Wiseman a spus că inițial i s-a părut ciudat, iar când afișajul a indicat valori tot mai mari s-a temut că se îndepărtaseră prea mult și nu vor mai ajunge acasă."
   },
   {
     "group_id": "group_66b9c6fddc",
@@ -8320,12 +8852,12 @@
       }
     ],
     "published_at": 1792827507,
-    "title_hu": "A nyugati diplomaták fokozódó megfigyelésről és elszigeteltségről számolnak be Moszkvában",
-    "lead_hu": "A BBC-nek nyilatkozó öt diplomata szerint a nyugati nagykövetek állandó megfigyelés és növekvő nyomás alatt dolgoznak Oroszországban, miközben egyre inkább elszigetelődnek az országtól. Lynne Tracy, az Egyesült Államok 2023 és 2025 közötti moszkvai nagykövete pályafutása legnehezebb megbízatásának nevezte a munkát.",
-    "content_hu": "• **Öt, a teljes körű orosz invázió kezdete óta Oroszországban dolgozó diplomata** osztotta meg tapasztalatait a BBC-vel a nyugati képviseleteket érő nyomásról.\n\n• **A nyugati nagykövetek** a cikk szerint folyamatos megfigyelés alatt állnak, elszigetelődnek, és egyre kevésbé tudják megismerni azt az országot, ahová küldték őket.\n\n• **A diplomáciai kapcsolatok megfogyatkozása** is nehezíti a munkát: a 2022-es invázió után nyugati országok orosz diplomatákat utasítottak ki, Moszkva pedig több száz nyugati diplomatát nyilvánított nemkívánatos személynek, így számos nagykövetség létszámhiánnyal működik.\n\n• **Lynne Tracy**, aki 2023 és 2025 között képviselte az Egyesült Államokat Moszkvában, pályafutása valószínűleg legnehezebb megbízatásának nevezte a nagyköveti munkát. Szerinte a bizonytalanság tette különösen nehézzé a moszkvai helyzetet, annak ellenére, hogy korábbi, pesavári szolgálata során fizikai fenyegetésekkel is szembesült.",
-    "title_ro": "Diplomații occidentali reclamă supraveghere și izolare tot mai accentuate la Moscova",
-    "lead_ro": "Cinci diplomați intervievați de BBC spun că ambasadorii occidentali lucrează în Rusia sub supraveghere constantă și presiune crescândă, devenind tot mai izolați de țară. Lynne Tracy, ambasadoarea SUA la Moscova între 2023 și 2025, a descris misiunea drept cea mai dificilă din cariera sa.",
-    "content_ro": "• **Cinci diplomați care au lucrat în Rusia după începutul invaziei la scară largă** și-au povestit experiențele pentru BBC, descriind presiunile asupra reprezentanțelor occidentale.\n\n• **Ambasadorii occidentali**, potrivit articolului, sunt supravegheați constant, izolați și tot mai îndepărtați de țara pe care au fost trimiși să o înțeleagă.\n\n• **Reducerea personalului diplomatic** îngreunează activitatea: după invazia din 2022, țări occidentale au expulzat diplomați ruși, iar Moscova a declarat sute de diplomați occidentali persona non grata, lăsând numeroase ambasade cu personal insuficient.\n\n• **Lynne Tracy**, care a reprezentat Statele Unite la Moscova între 2023 și 2025, a numit misiunea de ambasador probabil cea mai dificilă din cariera sa. În opinia ei, incertitudinea a făcut situația din Moscova deosebit de dificilă, deși în misiunea anterioară din Peshawar se confruntase și cu amenințări fizice."
+    "title_hu": "Nyugati diplomaták szerint egyre nehezebb és bizonytalanabb Moszkvában dolgozni",
+    "lead_hu": "A BBC-nek öt, a teljes körű orosz invázió kezdete óta Oroszországban szolgáló diplomata beszélt a fokozódó megfigyelésről, elszigeteltségről és nyomásról. Lynne Tracy, az Egyesült Államok 2023 és 2025 közötti moszkvai nagykövete pályája legnehezebb megbízatásának nevezte a munkát.",
+    "content_hu": "• **Öt nyugati diplomata** osztotta meg a BBC-vel az oroszországi szolgálata során szerzett tapasztalatait, miközben a háború az ötödik évébe lép.\n\n• **A nyugati nagykövetek** a beszámolók szerint állandó megfigyelés alatt állnak, elszigetelődnek, és egyre kevésbé látják át azt az országot, amelynek megértésére küldték őket.\n\n• **A jelenlegi nyomás** a diplomaták szerint a hidegháború időszakát idézi: a nagykövetségeket fizikai megfigyelés, ajándékokba rejtett lehallgatóeszközök és tisztviselők követésére használt, csaknem láthatatlan „kémiai por” is érintette.\n\n• **A diplomáciai létszám** a 2022-es invázió után mindkét oldalon csökkent: nyugati országok több száz orosz diplomatát utasítottak ki, Moszkva pedig több száz nyugati diplomatát nyilvánított nemkívánatos személynek.\n\n• **Lynne Tracy**, az Egyesült Államok 2023 és 2025 között Moszkvában szolgáló nagykövete pályája legnehezebb megbízatásának nevezte az oroszországi munkát. Azt mondta, hogy a fizikai fenyegetettséget is jelentő pakisztáni szolgálata bizonyos szempontból könnyebb volt, mert ott több mindent tudott ellenőrzése alatt tartani.\n\n• **Tracy szerint** a moszkvai munka nehézségét különösen a nagyfokú bizonytalanság és az orosz kémelhárítás folyamatos nyomása okozta.",
+    "title_ro": "Diplomați occidentali spun că misiunea la Moscova a devenit tot mai dificilă și incertă",
+    "lead_ro": "Cinci diplomați care au lucrat în Rusia de la începutul invaziei la scară largă au vorbit pentru BBC despre supravegherea și presiunile tot mai mari, precum și despre izolare. Lynne Tracy, ambasadoarea SUA la Moscova între 2023 și 2025, a descris misiunea drept cea mai dificilă din cariera sa.",
+    "content_ro": "• **Cinci diplomați occidentali** au relatat BBC-ului experiențele lor de lucru în Rusia, în timp ce războiul intră în al cincilea an.\n\n• **Ambasadorii occidentali** sunt, potrivit mărturiilor, supravegheați constant, izolați și tot mai deconectați de țara pe care au fost trimiși să o înțeleagă.\n\n• **Presiunile actuale** le amintesc diplomaților de perioada Războiului Rece: ambasadele au fost monitorizate fizic, au fost descoperite dispozitive de ascultare ascunse în cadouri și s-ar fi folosit un „praf de spionaj” aproape invizibil pentru urmărirea oficialilor.\n\n• **Personalul diplomatic** s-a redus de ambele părți după invazia din 2022: țările occidentale au expulzat sute de diplomați ruși, iar Moscova a declarat persona non grata sute de diplomați occidentali.\n\n• **Lynne Tracy**, ambasadoarea SUA la Moscova în perioada 2023–2025, a numit misiunea din Rusia cea mai dificilă din cariera sa. Ea a spus că activitatea sa din Pakistan, deși marcată de amenințări fizice, a fost într-un anumit sens mai ușoară, pentru că putea controla mai multe aspecte.\n\n• **Potrivit lui Tracy**, incertitudinea ridicată și presiunea constantă exercitată de contrainformațiile ruse au făcut ca activitatea la Moscova să fie deosebit de dificilă."
   },
   {
     "group_id": "group_2f4de48c94",
@@ -8946,18 +9478,13 @@
   },
   {
     "group_id": "group_d90c44dae9",
-    "fingerprint": "1d57d1332030bb7ede78437851ecadc1",
+    "fingerprint": "0d8e9ebb1316bda00482d7dca02e24d8",
     "category": "Általános",
-    "image": "",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjA4JTJGMjMyNDMzNl8yMzI0/MzM2X0FsZXhhbmRydS1QZXRyZXNjdS1z/ZWZ1bC1BU0YtQVNGX1BJTE9OXzJfR1VW/RVJOXzAwNl9JTlFVQU1fUGhvdG9zX09j/dGF2X0dhbmVhLmpwZyZoYXNoPTk5YTU3/Njc5ODhmM2ViMjQ5ODgxZWIyMGJjNzQzZGQx.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 2,
     "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Románia kulcsszerepre törekszik Ukrajna újjáépítésében",
-        "link": "https://www.mediatica.ro/hirek/politika/romania-kulcsszerepre-torekszik-ukrajna-ujjaepiteseben"
-      },
       {
         "source": "Digi24",
         "title": "Șeful ASF, Alexandru Petrescu, explică de ce reconstrucţia Ucrainei poate fi o oportunitate pentru România",
@@ -8970,12 +9497,12 @@
       }
     ],
     "published_at": 1792825127,
-    "title_hu": "Románia meghatározó szerepre törekszik Ukrajna újjáépítésében",
-    "lead_hu": "Alexandru Nazare pénzügyminiszter szerint Románia földrajzi helyzete, közlekedési kapcsolatai, energetikai lehetőségei és üzleti tapasztalata révén fontos szerepet vállalhat Ukrajna újjáépítésében. A román vállalatok támogatására az Exim Banca Românească 2029-ig egymilliárd lejes szerződéssel finanszírozza az exportot és a nemzetközi tranzakciókat.",
-    "content_hu": "• **Alexandru Nazare pénzügyminiszter** szerint Románia földrajzi helyzete és európai tapasztalata segítheti az országot abban, hogy meghatározó szerepet töltsön be Ukrajna újjáépítésében és a két ország közötti kereskedelem bővítésében.\n\n• **A közlekedési kapcsolatok, az energetika és az üzleti tapasztalat** Románia három fő versenyelőnye. Nazare külön kiemelte a közúti, vasúti és vízi összeköttetéseket, a konstancai kikötőt és a Dunán zajló áruforgalmat.\n\n• **A Neptun Deep gázmező** a tervek szerint jövőre kezdi meg a termelést; Nazare ezt is Románia energetikai lehetőségei között említette.\n\n• **Az Exim Banca Românească 2029-ig egymilliárd lejes szerződéssel** támogatja az exportot, a nemzetközi tranzakciókat és a külföldi romániai beruházásokat. A pénzügyminiszter szerint a román vállalatok nemzetközi versenyképességéhez megfelelő finanszírozásra van szükség.\n\n• **A bukaresti újjáépítési fórumon** Nazare Románia lehetséges szerepéről és a vállalatok finanszírozásának fontosságáról beszélt.",
-    "title_ro": "România vizează un rol important în reconstrucția Ucrainei",
-    "lead_ro": "Potrivit ministrului de Finanțe Alexandru Nazare, poziția geografică, conexiunile de transport, oportunitățile energetice și experiența de afaceri îi pot permite României să joace un rol important în reconstrucția Ucrainei. Pentru sprijinirea companiilor românești, Exim Banca Românească va finanța exporturile și tranzacțiile internaționale printr-un contract de un miliard de lei, valabil până în 2029.",
-    "content_ro": "• **Ministrul de Finanțe Alexandru Nazare** afirmă că poziția geografică și experiența europeană a României pot contribui la asumarea unui rol important în reconstrucția Ucrainei și la extinderea comerțului dintre cele două țări.\n\n• **Conexiunile de transport, energia și experiența de afaceri** sunt cele trei principale avantaje competitive ale României. Nazare a menționat legăturile rutiere, feroviare și navale, portul Constanța și transportul de mărfuri pe Dunăre.\n\n• **Zăcământul de gaze Neptun Deep** ar urma să înceapă producția anul viitor, potrivit planurilor; Nazare l-a inclus printre oportunitățile energetice ale României.\n\n• **Exim Banca Românească va oferi sprijin printr-un contract de un miliard de lei, valabil până în 2029**, pentru exporturi, tranzacții internaționale și investiții românești în străinătate. Ministrul a spus că firmele românești au nevoie de finanțare adecvată pentru a fi competitive la nivel internațional.\n\n• **La forumul privind reconstrucția, organizat la București**, Nazare a vorbit despre rolul pe care l-ar putea avea România și despre importanța finanțării companiilor."
+    "title_hu": "Az ukrán újjáépítés lehetőséget jelenthet Románia számára",
+    "lead_hu": "Alexandru Petrescu, a román pénzügyi felügyelet (ASF) elnöke szerint Ukrajna újjáépítése hozzájárulhat a térség stabilitásához és jólétéhez, Romániának pedig gazdasági lehetőséget kínálhat. A beruházásokhoz szerinte magántőkére, hosszú távú finanszírozási eszközökre és hatékony kockázatkezelésre is szükség lesz.",
+    "content_hu": "• **Alexandru Petrescu, az ASF elnöke** a Rebuilding Ukraine: Security, Opportunities, Investments konferencián azt mondta, hogy Ukrajna újjáépítése erősítheti a térség stabilitását és jólétét, Románia részvétele pedig támogathatja a szomszédos ország helyreállítását és a tartós gazdasági partnerségek kialakítását.\n\n• **Románia adottságai** közé sorolta a földrajzi elhelyezkedést, a kikötői infrastruktúrát, a dunai összeköttetéseket, valamint a román vállalatok energiaipari, építőipari, közlekedési és ipari tapasztalatát. Ezek hasznosításához összehangolt gazdasági elképzelésre, beruházásokra és erős nemzetközi partnerségekre van szükség.\n\n• **A finanszírozásban a magántőke is kulcsszerepet kaphat**, mert az újjáépítés várható léptéke meghaladja a közpénzek önálló lehetőségeit. Petrescu szerint a tőkepiacok hosszú távú finanszírozási eszközökkel, szakosított befektetési alapokkal és a nagy infrastruktúra-fejlesztésekben való részvételt segítő mechanizmusokkal járulhatnak hozzá.\n\n• **A kockázatok kezelése szintén meghatározó** a háború sújtotta környezetben: a biztosítási, viszontbiztosítási és garanciarendszerek befolyásolhatják, hogy a befektetők hajlandók-e finanszírozni a projekteket. Petrescu a kiszámíthatóságot, a hiteles intézményeket és az egyértelmű szabályokat is fontosnak nevezte.",
+    "title_ro": "Reconstrucția Ucrainei poate fi o oportunitate pentru România",
+    "lead_ro": "Alexandru Petrescu, președintele Autorității de Supraveghere Financiară (ASF), a declarat că reconstrucția Ucrainei poate contribui la stabilitatea și prosperitatea regiunii și poate oferi oportunități economice României. Potrivit acestuia, efortul va necesita capital privat, instrumente de finanțare pe termen lung și o gestionare eficientă a riscurilor.",
+    "content_ro": "• **Alexandru Petrescu, președintele ASF**, a declarat la conferința Rebuilding Ukraine: Security, Opportunities, Investments că reconstrucția Ucrainei poate consolida stabilitatea și prosperitatea regiunii. Participarea României ar putea sprijini refacerea țării vecine și dezvoltarea unor parteneriate economice durabile.\n\n• **Printre avantajele României** se numără poziția geografică, infrastructura portuară, conexiunile dunărene și experiența companiilor din energie, construcții, transporturi și industrie. Valorificarea acestor atuuri presupune o viziune economică coerentă, investiții și parteneriate internaționale solide.\n\n• **Capitalul privat va avea un rol important în finanțare**, deoarece amploarea reconstrucției va depăși capacitatea resurselor publice. Petrescu a menționat că piețele de capital pot contribui prin instrumente de finanțare pe termen lung, fonduri de investiții specializate și mecanisme care să faciliteze participarea companiilor la proiecte majore de infrastructură.\n\n• **Gestionarea riscurilor este esențială** într-un mediu afectat de război. Mecanismele de asigurare, reasigurare și garantare pot influența disponibilitatea investitorilor de a finanța proiecte, iar capitalul are nevoie de predictibilitate, instituții credibile și reguli clare."
   },
   {
     "group_id": "group_22dac6b9ae",
@@ -9018,34 +9545,6 @@
     "title_ro": "Cum au apărut Lionel Messi și soția Antonella la întâlnirea cu Prințesa Leonor » Sunt imaginile momentului",
     "lead_ro": "Lionel Messi (39 de ani) a primit vineri, în orașul spaniol Oviedo, „Premiul Prințesa de Asturia” pentru sport pe anul 2026. Prin acest trofeu, superstarul argentinian a stabilit o nouă premieră, deve…",
     "content_ro": "Lionel Messi (39 de ani) a primit vineri, în orașul spaniol Oviedo, „Premiul Prințesa de Asturia” pentru sport pe anul 2026. Prin acest trofeu, superstarul argentinian a stabilit o nouă premieră, devenind primul fotbalist din istorie recompensat individual cu acest prestigios premiu. Superstarul argentinian care evoluează pentru Inter Miami a primit distincția din mâinile Prințesei Leonor (Prințesă de Asturia), în cadrul unei gale festive găzduite la Teatrul Campoamor. ..."
-  },
-  {
-    "group_id": "group_8ce5610416",
-    "fingerprint": "f2ec522e93087f451e625f59c6803403",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/istockphoto-653844644-612x612-1.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Șapte persoane au fost ucise într-un atac armat la o biserică din Iordania. 40 de răniți, în timpul unei înmormântări",
-        "link": "https://www.mediafax.ro/externe/sapte-persoane-au-fost-ucise-intr-un-atac-armat-la-o-biserica-din-iordania-40-de-raniti-in-timpul-unei-inmormantari-23830906"
-      },
-      {
-        "source": "G4Media",
-        "title": "Șapte persoane au fost ucise într-un atac armat la o biserică din Iordania / 40 de răniți",
-        "link": "https://www.g4media.ro/sapte-persoane-au-fost-ucise-intr-un-atac-armat-la-o-biserica-din-iordania-40-de-raniti.html"
-      }
-    ],
-    "published_at": 1792824636,
-    "title_hu": "Hét halálos áldozata és 40 sebesültje van egy jordániai templom elleni támadásnak",
-    "lead_hu": "Fegyveres támadás történt a jordániai Hamoud-templomban egy temetés idején: hét ember meghalt, 40-en megsebesültek. A hatóságok szélsőségesek terrorcselekményeként írták le az esetet, a támadók felkutatása még tartott.",
-    "content_hu": "• **A támadásban hét ember meghalt, 40 pedig megsebesült** a jordániai Hamoud-templomnál, ahol a lövöldözés idején temetést tartottak.\n\n• **A hatóságok szélsőségesek terrorcselekményének nevezték az esetet**, de közölték, hogy még korai megállapítani, volt-e a támadóknak kapcsolatuk ismert jordániai vagy külföldi szervezetekkel.\n\n• **A támadók felkutatása folyamatban volt**, és a beszámoló időpontjáig egyetlen csoport sem vállalta a felelősséget.\n\n• **II. Abdalláh király a támadás után Karakba látogatott**, és azt ígérte, hogy a felelősöket megbüntetik.",
-    "title_ro": "Șapte morți și 40 de răniți într-un atac asupra unei biserici din Iordania",
-    "lead_ro": "Un atac armat a avut loc la Biserica Hamoud din Iordania, în timpul unei înmormântări: șapte persoane au fost ucise și 40 au fost rănite. Autoritățile au descris incidentul drept un act terorist comis de extremiști, iar căutarea atacatorilor era în desfășurare.",
-    "content_ro": "• **Șapte persoane au fost ucise, iar 40 au fost rănite** în atacul armat de la Biserica Hamoud din Iordania, comis în timpul unei înmormântări.\n\n• **Autoritățile au descris atacul drept un act terorist comis de extremiști**, dar au precizat că este prea devreme pentru a stabili dacă atacatorii aveau legături cu organizații cunoscute din Iordania sau din străinătate.\n\n• **Căutarea atacatorilor era în desfășurare**, iar până la momentul relatării nicio grupare nu revendicase atacul.\n\n• **Regele Abdullah al Iordaniei a vizitat orașul Karak după atac** și a promis că responsabilii vor fi pedepsiți."
   },
   {
     "group_id": "group_62ee11e1d7",
@@ -10540,18 +11039,11 @@
   },
   {
     "group_id": "group_fb6b774bc9",
-    "fingerprint": "4fc863c053763057992aeb51cd4f2d22",
     "category": "Általános",
-    "image": "https://www.presasm.ro/uploads/2025/01/liceul-teoretic-carei-politie-politist.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://cdn.adh.reperio.news/image-c/c07617bd-006b-434a-9156-894a9320c40a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Agent de pază de la un liceu din Carei, condamnat după ce a agresat un elev de 13 ani. Copilul a ajuns să se teamă să mai meargă la școală",
-        "link": "https://www.presasm.ro/agent-de-paza-de-la-un-liceu-din-carei-condamnat-dupa-ce-a-agresat-un-elev-de-13-ani-copilul-a/53949"
-      },
       {
         "source": "Adevărul",
         "title": "Când școala devine un loc de teamă. Semnele bullyingului pe care părinții și profesorii le ignoră",
@@ -10559,12 +11051,12 @@
       }
     ],
     "published_at": 1792816885,
-    "title_hu": "Pénzbüntetést kapott a carei-i iskolaőr, aki bántalmazott egy 13 éves diákot",
-    "lead_hu": "A Carei-i bíróság 1800 lejes büntetőbírságra ítélte a 38 éves iskolaőrt, és 1500 lej nem vagyoni kártérítés megfizetésére kötelezte, miután bántalmazott egy 13 éves tanulót. A 2026. október 21-én kihirdetett ítélet nem jogerős; az eset 2023 februárjában történt.",
-    "content_hu": "• **2023. február 9-én** a Carei-i Elméleti Líceum egyik osztálytermében a 13 éves, hatodik osztályos fiú egy felmosónyéllel játszott az egyik osztálytársával. Az iskolaőr úgy értelmezte a helyzetet, hogy a fiú bántalmazza a lányt.\n\n• **Az iskolaőr** erősen megragadta a fiú karját, majd a tábla felé lökte; a gyermek egy padnak ütközött, karján véraláfutások keletkeztek és fájdalmat érzett. A beszámoló szerint a férfi később visszatért, és erőszakkal fenyegette meg a tanulót.\n\n• **A történteket** az iskola kamerái rögzítették, a tanúk vallomásai megerősítették az esetet, az iskolaőr pedig elismerte a tettét. A gyermek érzelmileg is megviselődött, egyes napokon hiányzott az iskolából, és félni kezdett attól, hogy oda járjon.\n\n• **2026. október 21-én** a Carei-i bíróság a 38 éves férfit hivatali visszaélés miatt 1800 lejes büntetőbírságra ítélte, továbbá 1500 lej nem vagyoni kártérítés megfizetésére kötelezte a gyermeknek. Az ítélet nem jogerős.",
-    "title_ro": "Agent de pază din Carei, amendat după ce a agresat un elev de 13 ani",
-    "lead_ro": "Judecătoria Carei l-a condamnat pe agentul de pază în vârstă de 38 de ani la o amendă penală de 1.800 de lei și l-a obligat să plătească 1.500 de lei daune morale unui elev pe care l-a agresat. Sentința, pronunțată la 21 octombrie 2026, nu este definitivă; incidentul a avut loc în februarie 2023.",
-    "content_ro": "• **La 9 februarie 2023**, într-o sală de clasă a Liceului Teoretic Carei, elevul de 13 ani, aflat în clasa a VI-a, se juca împreună cu o colegă folosind o coadă de mop. Agentul de pază a interpretat situația ca pe o agresiune asupra fetei.\n\n• **Agentul de pază** l-a prins puternic de braț pe băiat și l-a împins spre tablă, iar copilul s-a lovit de o bancă și a rămas cu vânătăi. Potrivit relatării, bărbatul s-a întors ulterior și l-a amenințat cu acte de violență.\n\n• **Incidentul** a fost surprins de camerele de supraveghere, declarațiile colegilor au confirmat agresiunea, iar agentul și-a recunoscut fapta. Copilul a fost afectat emoțional, a lipsit în unele zile de la cursuri și a început să se teamă să mai meargă la școală.\n\n• **La 21 octombrie 2026**, Judecătoria Carei l-a condamnat pe bărbatul de 38 de ani pentru purtare abuzivă la o amendă penală de 1.800 de lei și l-a obligat să îi plătească elevului 1.500 de lei daune morale. Sentința nu este definitivă."
+    "title_hu": "Când școala devine un loc de teamă. Semnele bullyingului pe care părinții și profesorii le ignoră",
+    "lead_hu": "Un elev de 15 ani din Pitești și-a atacat colegii cu o macetă, iar familia susține că adolescentul fusese victima bullyingului. Cazul readuce în atenție agresiunile repetate dintre elevi, de la porecl…",
+    "content_hu": "Un elev de 15 ani din Pitești și-a atacat colegii cu o macetă, iar familia susține că adolescentul fusese victima bullyingului. Cazul readuce în atenție agresiunile repetate dintre elevi, de la porecle și umilințe până la violență fizică și fotografii trucate cu inteligența artificială.",
+    "title_ro": "Când școala devine un loc de teamă. Semnele bullyingului pe care părinții și profesorii le ignoră",
+    "lead_ro": "Un elev de 15 ani din Pitești și-a atacat colegii cu o macetă, iar familia susține că adolescentul fusese victima bullyingului. Cazul readuce în atenție agresiunile repetate dintre elevi, de la porecl…",
+    "content_ro": "Un elev de 15 ani din Pitești și-a atacat colegii cu o macetă, iar familia susține că adolescentul fusese victima bullyingului. Cazul readuce în atenție agresiunile repetate dintre elevi, de la porecle și umilințe până la violență fizică și fotografii trucate cu inteligența artificială."
   },
   {
     "group_id": "group_1765b9c195",
@@ -10990,27 +11482,6 @@
     "title_ro": "INTERVIU O româncă ajunsă judecătoare în Bronx, New York, explică de ce magistrații din SUA spun: „Nu ne dorim să ne pensionăm cât mai repede”",
     "lead_ro": "Bunicul său a fost deținut politic în România. Tatăl său a fost refugiat politic, a fugit în Grecia și apoi în SUA. Mădălina Dănescu a crescut cu avertismentul familiei să se ferească mereu de autorit…",
     "content_ro": "Bunicul său a fost deținut politic în România. Tatăl său a fost refugiat politic, a fugit în Grecia și apoi în SUA. Mădălina Dănescu a crescut cu avertismentul familiei să se ferească mereu de autorități. Astăzi, reprezintă ea însăși autoritatea statului într-un domeniu esențial pentru cetățeni. Este judecătoare la New York și a acordat primul …"
-  },
-  {
-    "group_id": "group_be246cd72d",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "TAROM renunță de astăzi la o rută istorică, după 16 ani",
-        "link": "https://hotnews.ro/tarom-renunta-de-astazi-la-o-ruta-istorica-dupa-16-ani-2385122"
-      }
-    ],
-    "published_at": 1792814040,
-    "title_hu": "TAROM renunță de astăzi la o rută istorică, după 16 ani",
-    "lead_hu": "Compania națională de transport aerian TAROM întrerupe de astăzi zborurile către Belgrad, după 16 ani. Deși inițial compania aeriană plănuise să suspende serviciul doar pentru sezonul de iarnă, a retr…",
-    "content_hu": "Compania națională de transport aerian TAROM întrerupe de astăzi zborurile către Belgrad, după 16 ani. Deși inițial compania aeriană plănuise să suspende serviciul doar pentru sezonul de iarnă, a retras și zborurile de la vânzare pentru sezonul de vară 2027, semnalând sfârșitul rutei, lansate în 2010. Citește mai mult pe Profit.ro",
-    "title_ro": "TAROM renunță de astăzi la o rută istorică, după 16 ani",
-    "lead_ro": "Compania națională de transport aerian TAROM întrerupe de astăzi zborurile către Belgrad, după 16 ani. Deși inițial compania aeriană plănuise să suspende serviciul doar pentru sezonul de iarnă, a retr…",
-    "content_ro": "Compania națională de transport aerian TAROM întrerupe de astăzi zborurile către Belgrad, după 16 ani. Deși inițial compania aeriană plănuise să suspende serviciul doar pentru sezonul de iarnă, a retras și zborurile de la vânzare pentru sezonul de vară 2027, semnalând sfârșitul rutei, lansate în 2010. Citește mai mult pe Profit.ro"
   },
   {
     "group_id": "group_d3031b969b",
@@ -12488,6 +12959,27 @@
     "content_ro": "Mai mulți milionari celebri care au cumpărat proprietăți de lux într-o zonă exclusivistă din Italia au o problemă neașteptată. Strada pe care se află vilele lor este prea îngustă pentru SUV-uri. Primăria localității încearcă să rezolve problema."
   },
   {
+    "group_id": "group_37f9cf0c5f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Kórházba szállították Vincent Kompanyt, a Bayern München közleményt adott ki",
+        "link": "https://www.mediatica.ro/hirek/sport/korhazba-szallitottak-vincent-kompanyt-a-bayern-munchen-kozlemenyt-adott-ki"
+      }
+    ],
+    "published_at": 1792785555,
+    "title_hu": "Kórházba szállították Vincent Kompanyt, a Bayern München közleményt adott ki",
+    "lead_hu": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén..",
+    "content_hu": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén..",
+    "title_ro": "Kórházba szállították Vincent Kompanyt, a Bayern München közleményt adott ki",
+    "lead_ro": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén..",
+    "content_ro": "Pénteken rosszul lett, majd elájult a bajor klub második csapatának edzésén.."
+  },
+  {
     "group_id": "group_98e55595c7",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/FotoJet-2026-10-23T223740.550-1200x675.jpg",
@@ -13086,6 +13578,27 @@
     "content_ro": "Pentru majoritatea românilor, a căror putere de cumpărare este în cădere liberă, reducerile au devenit un motiv serios să scoată cardul din portofel. Comercianții au mirosit ocazia și anul acesta au dat startul mai devreme la Black Friday."
   },
   {
+    "group_id": "group_199919f172",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Schimbări importante pentru școlile românești din Ucraina. În ce condiții pot fi desființate. Explicațiile autorităților de la Cernăuți",
+        "link": "https://hotnews.ro/schimbari-importante-pentru-scolile-romanesti-din-ucraina-in-ce-conditii-pot-fi-desfiintate-explicatiile-autoritatilor-de-la-cernauti-2385040"
+      }
+    ],
+    "published_at": 1792782839,
+    "title_hu": "Schimbări importante pentru școlile românești din Ucraina. În ce condiții pot fi desființate. Explicațiile autorităților de la Cernăuți",
+    "lead_hu": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de …",
+    "content_hu": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de administrațiile locale. Modificarea a fost anunțată vineri de Oksana Sacriier, viceguvernatoare a administraţiei din Cernăuţi, regiunea unde trăiește cea mai mare comunitate de …",
+    "title_ro": "Schimbări importante pentru școlile românești din Ucraina. În ce condiții pot fi desființate. Explicațiile autorităților de la Cernăuți",
+    "lead_ro": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de …",
+    "content_ro": "Pentru închiderea unei instituţii de învăţământ în limba minorităţilor este nevoie de aprobare de la Kiev, potrivit unei legi recent promulgate în Ucraina. Până acum, o astfel de decizie era luată de administrațiile locale. Modificarea a fost anunțată vineri de Oksana Sacriier, viceguvernatoare a administraţiei din Cernăuţi, regiunea unde trăiește cea mai mare comunitate de …"
+  },
+  {
     "group_id": "group_887c9c4e02",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/28092026/f98ac7a6-69cb-4a0e-bcb5-67262b5a0b76.jpg?width=290&height=208",
@@ -13383,6 +13896,27 @@
     "title_ro": "45 ezer lejes kenőpénz elfogadásakor érték tetten a környezetvédelmi felügyelőt",
     "lead_ro": "Egy Maros megyei vállalat vezetőjétől azért, kérte az összeget hogy segítsen csökkenteni a cég környezetvédelmi befizetési kötelezettségeit.",
     "content_ro": "Egy Maros megyei vállalat vezetőjétől azért, kérte az összeget hogy segítsen csökkenteni a cég környezetvédelmi befizetési kötelezettségeit."
+  },
+  {
+    "group_id": "group_9777921b6c",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-f/f5658b07-c11d-484f-9bea-a3d878551fa7/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "O nouă candidată intră în cursa pentru șefia ONU. Organizația, tot mai aproape de prima sa femeie secretar general",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/o-noua-candidata-intra-in-cursa-pentru-sefia-onu-2566188.html"
+      }
+    ],
+    "published_at": 1792781171,
+    "title_hu": "O nouă candidată intră în cursa pentru șefia ONU. Organizația, tot mai aproape de prima sa femeie secretar general",
+    "lead_hu": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan.",
+    "content_hu": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan.",
+    "title_ro": "O nouă candidată intră în cursa pentru șefia ONU. Organizația, tot mai aproape de prima sa femeie secretar general",
+    "lead_ro": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan.",
+    "content_ro": "Lana Nusseibeh, diplomată în Emiratelor Arabe Unite, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan."
   },
   {
     "group_id": "group_8aa018863f",
@@ -14218,32 +14752,6 @@
     "content_ro": "La câteva zile după ce jucătoarea ucraineană Elina Svitolina (32 de ani) a anunțat public că mariajul cu Gael Monfils (40 de ani) a ajuns la final, iar cei doi s-au despărțit, a venit și rândul francezului să își exprime punctul de vedere. Acesta a publicat un mesaj amplu, în care a vorbit despre separare, despre relația pe care o păstrează cu fosta sa parteneră, alături de care are o fetiță, și despre valul de critici la care aceasta a fost supusă. ..."
   },
   {
-    "group_id": "group_37f9cf0c5f",
-    "category": "Sport",
-    "image": "https://stirileprotv.ro/img/2026/10/23/175049/imago1084666477h.jpg?fm=jpg&q=80&fit=crop&crop=3300%2C2200%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Antrenorul lui Bayern Munchen, dus de urgență la spital după ce s-a prăbușit în timpul unui antrenament",
-        "link": "https://stirileprotv.ro/stiri/sport/antrenorul-lui-bayern-munchen-dus-de-urgenta-la-spital-dupa-ce-s-a-prabusit-in-timpul-unui-antrenament.html"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Kórházba szállították Vincent Kompanyt, a Bayern München közleményt adott ki",
-        "link": "https://www.mediatica.ro/hirek/sport/korhazba-szallitottak-vincent-kompanyt-a-bayern-munchen-kozlemenyt-adott-ki"
-      }
-    ],
-    "published_at": 1792778068,
-    "title_hu": "Antrenorul lui Bayern Munchen, dus de urgență la spital după ce s-a prăbușit în timpul unui antrenament",
-    "lead_hu": "Tehnicianul echipei de fotbal Bayern Munchen, Vincent Kompany, a fost transportat de urgenţă la spital după ce i s-a făcut rău în timpul unui antrenament, a anunţat vineri campioana Germaniei, transmi...",
-    "content_hu": "Tehnicianul echipei de fotbal Bayern Munchen, Vincent Kompany, a fost transportat de urgenţă la spital după ce i s-a făcut rău în timpul unui antrenament, a anunţat vineri campioana Germaniei, transmite Reuters.",
-    "title_ro": "Antrenorul lui Bayern Munchen, dus de urgență la spital după ce s-a prăbușit în timpul unui antrenament",
-    "lead_ro": "Tehnicianul echipei de fotbal Bayern Munchen, Vincent Kompany, a fost transportat de urgenţă la spital după ce i s-a făcut rău în timpul unui antrenament, a anunţat vineri campioana Germaniei, transmi...",
-    "content_ro": "Tehnicianul echipei de fotbal Bayern Munchen, Vincent Kompany, a fost transportat de urgenţă la spital după ce i s-a făcut rău în timpul unui antrenament, a anunţat vineri campioana Germaniei, transmite Reuters."
-  },
-  {
     "group_id": "group_1297952455",
     "category": "Általános",
     "image": "",
@@ -14664,32 +15172,6 @@
     "content_ro": "Cătălina Bozianu, președintă interimară a PMP după demisia lui Eugen Tomac, este în cărți pentru a fi numită în funcția de prefect al județului Prahova, au declarat surse politice pentru G4Media. Funcția de prefect de Prahova este vacantă după demisia lui Daniel Nicodim, odată cu trecerea PNL în opoziție. Numirea ar avea loc pe fondul […] © G4Media.ro."
   },
   {
-    "group_id": "group_9777921b6c",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/1-onu-1024x576.webp",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cursa pentru șefia ONU intră în linie dreaptă, odată cu apariția unui nou candidat. Organizația, șanse mari să fie condusă de o femeie",
-        "link": "https://www.mediafax.ro/externe/cursa-pentru-sefia-onu-intra-in-linie-dreapta-odata-cu-aparitia-unui-nou-candidat-organizatia-sanse-mari-sa-fie-condusa-de-o-femeie-23830812"
-      },
-      {
-        "source": "Adevărul",
-        "title": "O nouă candidată intră în cursa pentru șefia ONU. Organizația, tot mai aproape de prima sa femeie secretar general",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/o-noua-candidata-intra-in-cursa-pentru-sefia-onu-2566188.html"
-      }
-    ],
-    "published_at": 1792776631,
-    "title_hu": "Cursa pentru șefia ONU intră în linie dreaptă, odată cu apariția unui nou candidat. Organizația, șanse mari să fie condusă de o femeie",
-    "lead_hu": "Diplomata și ministra de stat a Emiratelor Arabe Unite, Lana Nusseibeh, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan....",
-    "content_hu": "Diplomata și ministra de stat a Emiratelor Arabe Unite, Lana Nusseibeh, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan.",
-    "title_ro": "Cursa pentru șefia ONU intră în linie dreaptă, odată cu apariția unui nou candidat. Organizația, șanse mari să fie condusă de o femeie",
-    "lead_ro": "Diplomata și ministra de stat a Emiratelor Arabe Unite, Lana Nusseibeh, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan....",
-    "content_ro": "Diplomata și ministra de stat a Emiratelor Arabe Unite, Lana Nusseibeh, a intrat în cursa pentru șefia ONU, unde concurează împotriva favoritei, Rebeca Grynspan.",
-    "sources_count": 2
-  },
-  {
     "group_id": "group_63769a677f",
     "category": "Erdély",
     "image": "https://maszol.ro/resized/2026_oktober/23/cikk_medve_Tusnad_WWF_Facebook.jpg",
@@ -14730,27 +15212,6 @@
     "title_ro": "Két és fél millió euróból medvepark épül Szovátán",
     "lead_ro": "Élő állatok nem lesznek benne.",
     "content_ro": "Élő állatok nem lesznek benne."
-  },
-  {
-    "group_id": "group_fe7f0c1f50",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/04/15/124903/aplicatie-copil-telefon.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Grecia a interzis rețelele sociale pentru copiii sub 15 ani. Legea a fost adoptată de majoritatea de dreapta aflată la guvernare",
-        "link": "https://stirileprotv.ro/stiri/international/grecia-interzice-retelele-sociale-pentru-copiii-sub-15-ani-noile-reguli-vor-intra-in-vigoare-de-la-1-ianuarie-2027.html"
-      }
-    ],
-    "published_at": 1792776434,
-    "title_hu": "Grecia a interzis rețelele sociale pentru copiii sub 15 ani. Legea a fost adoptată de majoritatea de dreapta aflată la guvernare",
-    "lead_hu": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din …",
-    "content_hu": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din întreaga lume, transmite AFP.",
-    "title_ro": "Grecia a interzis rețelele sociale pentru copiii sub 15 ani. Legea a fost adoptată de majoritatea de dreapta aflată la guvernare",
-    "lead_ro": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din …",
-    "content_ro": "Parlamentul grec a adoptat vineri dimineață o lege care interzice accesul la rețelele de socializare pentru copiii sub 15 ani, începând cu 1 ianuarie 2027, o măsură implementată în mai multe țări din întreaga lume, transmite AFP."
   },
   {
     "group_id": "group_f5c8c5e94b",
@@ -14940,32 +15401,6 @@
     "title_ro": "Desfrâu cu profesoare și militari pensionari filmate în locuri publice!? Scandalul care a zguduit lumea uniformelor a ajuns pe masa judecătorilor",
     "lead_ro": "Foști angajați ai Armatei, presupuse orgii în locuri publice și filmări compromițătoare! Sunt ingredientele unui scandal desprins parcă din filme, care a ajuns pe masa judecătorilor după ce doi pensio…",
     "content_ro": "Foști angajați ai Armatei, presupuse orgii în locuri publice și filmări compromițătoare! Sunt ingredientele unui scandal desprins parcă din filme, care a ajuns pe masa judecătorilor după ce doi pensionari din sistemul militar au intrat într-un război cu pumni, amenințări și acuzații de răzbunare. În centrul poveștii mai apare o învățătoare, despre care unul dintre […]"
-  },
-  {
-    "group_id": "group_199919f172",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIzJTJGMzAyODE3NF8zMDI4/MTc0X3NjYW9hbGEtY2VybmF1dGkuanBl/ZyZoYXNoPWZmM2Y4NTc1NGNlZTI3ZmM4NTZlMjFhMTFlMzVjNzU3.jpeg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ce se schimbă pentru școlile românești din Ucraina după modificarea legii educației. Explicațiile autorităților de la Cernăuți",
-        "link": "https://www.digi24.ro/stiri/actualitate/educatie/ce-se-schimba-pentru-scolile-romanesti-din-ucraina-dupa-modificarea-legii-educatiei-explicatiile-autoritatilor-de-la-cernauti-4006599"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Schimbări importante pentru școlile românești din Ucraina. În ce condiții pot fi desființate. Explicațiile autorităților de la Cernăuți",
-        "link": "https://hotnews.ro/schimbari-importante-pentru-scolile-romanesti-din-ucraina-in-ce-conditii-pot-fi-desfiintate-explicatiile-autoritatilor-de-la-cernauti-2385040"
-      }
-    ],
-    "published_at": 1792775812,
-    "title_hu": "Ce se schimbă pentru școlile românești din Ucraina după modificarea legii educației. Explicațiile autorităților de la Cernăuți",
-    "lead_hu": "Școlile cu predare în limba română din Ucraina nu mai pot fi desființate fără aprobarea Ministerului Educației de la Kiev, potrivit noii legislații, a anunțat vineri Oksana Sacriier, viceguvernatoarea...",
-    "content_hu": "Școlile cu predare în limba română din Ucraina nu mai pot fi desființate fără aprobarea Ministerului Educației de la Kiev, potrivit noii legislații, a anunțat vineri Oksana Sacriier, viceguvernatoarea Administrației Militare Regionale Cernăuți. Ea a prezentat, într-o conferință de presă susținută la Ambasada Ucrainei, principalele schimbări aduse sistemului de învățământ, inclusiv reorganizarea liceelor și trecerea la 12 clase. Potrivit acesteia, aproximativ un sfert dintre cele 69 de licee academice planificate în regiunea Cernăuți vor avea predare în limba română.",
-    "title_ro": "Ce se schimbă pentru școlile românești din Ucraina după modificarea legii educației. Explicațiile autorităților de la Cernăuți",
-    "lead_ro": "Școlile cu predare în limba română din Ucraina nu mai pot fi desființate fără aprobarea Ministerului Educației de la Kiev, potrivit noii legislații, a anunțat vineri Oksana Sacriier, viceguvernatoarea...",
-    "content_ro": "Școlile cu predare în limba română din Ucraina nu mai pot fi desființate fără aprobarea Ministerului Educației de la Kiev, potrivit noii legislații, a anunțat vineri Oksana Sacriier, viceguvernatoarea Administrației Militare Regionale Cernăuți. Ea a prezentat, într-o conferință de presă susținută la Ambasada Ucrainei, principalele schimbări aduse sistemului de învățământ, inclusiv reorganizarea liceelor și trecerea la 12 clase. Potrivit acesteia, aproximativ un sfert dintre cele 69 de licee academice planificate în regiunea Cernăuți vor avea predare în limba română.",
-    "sources_count": 2
   },
   {
     "group_id": "group_6c5fbb3105",
