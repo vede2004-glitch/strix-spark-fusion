@@ -71,7 +71,7 @@ def fix_hungarian_names_and_places(text: str) -> str:
             fixed_count += 1
             
     if fixed_count > 0:
-        print(f"   ✍️ Biztonsági korrekció elvégezve ({fixed_count} automatikus javítás).")
+        print(f"    ✍️ Biztonsági korrekció elvégezve ({fixed_count} automatikus javítás).")
         
     return text
 
@@ -83,25 +83,25 @@ def calculate_similarity(text1: str, text2: str) -> float:
 
 def check_has_new_info_with_ai(existing_summary: str, new_article_text: str) -> bool:
     """
-    2. LÉPÉS: Villám-kérdés az AI-nak.
-    - Bemenet: Csak az első 1200 karakter (token-megtakarítás).
+    Költségkímélő villám-kérdés az AI-nak.
+    - Bemenet: Csak az első 1000 karakter vagy a 2 bekezdéses snippet (token-megtakarítás).
     - Kimenet: max_tokens=5 (azonnali leállás IGEN/NEM után).
     """
-    truncated_new_text = new_article_text[:1200] if new_article_text else ""
+    truncated_new_text = new_article_text[:1000] if new_article_text else ""
 
     prompt = f"""
-MEGLÉVŐ ÖSSZEFOGLALÓ:
+MEGLÉVŐ ÖSSZEFOGLALÓ / ALAPCIKK:
 {existing_summary}
 
-ÚJ CIKK TARTALMA (RÉSZLET):
+ÚJ CIKK RÉSZLETE (ELSŐ 2 BEKEZDÉS):
 {truncated_new_text}
 
 FELADAT:
-Tartalmaz az új cikk BÁRMILYEN ÉRDEMI ÚJ TÉNYT, adatot, fejleményt vagy új nyilatkozatot a meglévő összefoglalóhoz képest?
+Tartalmaz az új cikk részlete BÁRMILYEN ÉRDEMI ÚJ TÉNYT, adatot, fejleményt vagy új nyilatkozatot a meglévő tartalomhoz képest?
 Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
 """
     try:
-        print("   🤖 AI ellenőrző hívás indítása (max 5 token)...")
+        print("    🤖 AI ellenőrző hívás indítása (max 5 token)...")
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
@@ -109,7 +109,7 @@ Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
             temperature=0.0
         )
         answer = response.choices[0].message.content.strip().upper()
-        print(f"   🤖 AI válasza az ellenőrzésre: '{answer}'")
+        print(f"    🤖 AI válasza az ellenőrzésre: '{answer}'")
         return "IGEN" in answer
     except Exception as e:
         print(f"⚠️ Hiba az AI döntéshozatal során: {e}")
@@ -126,7 +126,12 @@ def calculate_fingerprint(articles_or_sources: list) -> str:
     combined = "|".join(sorted_links)
     return hashlib.md5(combined.encode("utf-8")).hexdigest()
 
-def fetch_full_article_text(url: str) -> str:
+def fetch_article_snippet_or_full(url: str, mode: str = "snippet") -> str:
+    """
+    MODE:
+    - 'snippet': Csak az első 2 érdemi bekezdést tölti le (~400-500 karakter) az AI döntéshozatalhoz.
+    - 'full': Letölti a teljes cikk törzsét (max 2000 karakter) a végleges hírblokk generálásához.
+    """
     if not url:
         return ""
     try:
@@ -136,25 +141,17 @@ def fetch_full_article_text(url: str) -> str:
         
         paragraphs = soup.find_all("p")
         text_blocks = [p.text.strip() for p in paragraphs if len(p.text.strip()) > 35]
-        full_text = "\n\n".join(text_blocks)
-        print(f"   📥 Cikk letöltve ({len(full_text)} karakter) -> {url}")
-        return full_text
+        
+        if mode == "snippet":
+            snippet_text = "\n\n".join(text_blocks[:2])
+            return snippet_text[:500]
+        else:
+            full_text = "\n\n".join(text_blocks)
+            print(f"    📥 Teljes cikk letöltve ({len(full_text[:2000])} karakter) -> {url}")
+            return full_text[:2000]
     except Exception as e:
         print(f"⚠️ Nem sikerült a cikk letöltése ({url}): {e}")
         return ""
-
-def process_single_article(art: dict) -> dict:
-    print(f"🔍 Forrás feldolgozása: {art.get('source', 'Ismeretlen')} | Cím: '{art.get('title', '')}'")
-    full_text = fetch_full_article_text(art.get("link", ""))
-    content_to_use = full_text if len(full_text) > 120 else art.get("summary", "")
-
-    return {
-        "source": art.get("source", ""),
-        "title": art.get("title", ""),
-        "link": art.get("link", ""),
-        "image": art.get("image", ""),
-        "content": content_to_use
-    }
 
 def load_existing_synthesized_articles() -> dict:
     if os.path.exists(OUTPUT_FILE):
@@ -169,31 +166,67 @@ def load_existing_synthesized_articles() -> dict:
         print(f"ℹ️ {OUTPUT_FILE} még nem létezik, új adatbázis épül.")
     return {}
 
-def prepare_prompt_content(articles: list, existing_synthesized_article: dict = None) -> tuple:
-    print(f"⚡ Párhuzamos cikk-letöltés indítása ({len(articles)} db forrás a csoporthoz)...")
-    with ThreadPoolExecutor(max_workers=min(len(articles), 5)) as executor:
-        scraped_results = list(executor.map(process_single_article, articles))
-
-    sources_used = []
+# ==============================================================================
+# 3. SZELEKTÍV CIKKFELDOLGOZÁS ÉS SZINTÉZIS
+# ==============================================================================
+def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, group_fingerprint: str):
+    is_update = bool(existing_synthesized and existing_synthesized.get("is_synthesized") and not existing_synthesized.get("rejected"))
+    tag = "🔄 [FORRÁSBŐVÍTÉS / ÚJRAÍRÁS]" if is_update else "🆕 [ÚJ TÉMA GENERÁLÁSA]"
+    
+    print(f"\n{tag} Csoport [{g_id}] feldolgozása indult ({len(articles)} db forrás)...")
+    
     cover_image = articles[0].get("image", "https://via.placeholder.com/600x400?text=Nincs+Kep")
+    category = articles[0].get("category", "Általános")
+    latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
-    for res in scraped_results:
-        sources_used.append({
-            "source": res["source"],
-            "title": res["title"],
-            "link": res["link"]
-        })
+    # 1. AZ ELSŐ CIKKET TELJES TERJEDELMÉBEN LETÖLTJÜK (Ez az alapunk)
+    first_art = articles[0]
+    print(f"📖 1. Alapcikk letöltése (teljes törzs): '{first_art.get('title', '')}'")
+    first_full_text = fetch_article_snippet_or_full(first_art.get("link", ""), mode="full") or first_art.get("summary", "")
 
-    # PROMPT: MÁR MEGLÉVŐ CIKK BŐVÍTÉSE
-    if existing_synthesized_article and existing_synthesized_article.get("is_synthesized") and not existing_synthesized_article.get("rejected"):
-        old_title_hu = existing_synthesized_article.get("title_hu", "")
-        old_lead_hu = existing_synthesized_article.get("lead_hu", "")
-        old_content_hu = existing_synthesized_article.get("content_hu", "")
+    selected_articles_for_ai = [{
+        "source": first_art.get("source", ""),
+        "title": first_art.get("title", ""),
+        "link": first_art.get("link", ""),
+        "content": first_full_text
+    }]
 
-        new_sources_text = ""
-        for idx, res in enumerate(scraped_results, 1):
-            new_sources_text += f"\n--- ÚJ FORRÁS ({res['source']}): {res['title']} ---\n"
-            new_sources_text += f"{res['content']}\n"
+    # 2. A TÖBBI CIKKNEK CSAK AZ ELSŐ 2 BEKEZDÉSÉT (LEAD) NÉZZÜK MEG
+    for idx, art in enumerate(articles[1:], start=2):
+        snippet = fetch_article_snippet_or_full(art.get("link", ""), mode="snippet") or art.get("summary", "")
+        
+        # Helyi Python hasonlósági szűrés (0$ költség)
+        if calculate_similarity(snippet, first_full_text[:500]) > 0.80:
+            print(f"✂️ {idx}. cikk kiszűrve helyben (>80% azonosság): '{art.get('title', '')}'")
+            continue
+
+        # Villám AI ellenőrzés csak a 2 bekezdéses snippet alapján
+        has_new = check_has_new_info_with_ai(first_full_text, snippet)
+        
+        if has_new:
+            print(f"✅ {idx}. cikk LEAD-JÉBEN ÚJ INFÓ VAN! -> Teljes cikk letöltése: '{art.get('title', '')}'")
+            full_text = fetch_article_snippet_or_full(art.get("link", ""), mode="full")
+            selected_articles_for_ai.append({
+                "source": art.get("source", ""),
+                "title": art.get("title", ""),
+                "link": art.get("link", ""),
+                "content": full_text if full_text else snippet
+            })
+        else:
+            print(f"🙈 {idx}. cikk kihagyva (nincs új tény az első 2 bekezdés alapján).")
+
+    # 3. PROMPT ÖSSZEÁLLÍTÁSA A TÉNYLEGESEN KIELENŐRZÖTT FORRÁSOKBÓL
+    sources_used = [{"source": res["source"], "title": res["title"], "link": res["link"]} for res in selected_articles_for_ai]
+
+    new_sources_text = ""
+    for idx, res in enumerate(selected_articles_for_ai, 1):
+        new_sources_text += f"\n--- {idx}. FORRÁS ({res['source']}): {res['title']} ---\n"
+        new_sources_text += f"{res['content']}\n"
+
+    if is_update:
+        old_title_hu = existing_synthesized.get("title_hu", "")
+        old_lead_hu = existing_synthesized.get("lead_hu", "")
+        old_content_hu = existing_synthesized.get("content_hu", "")
 
         prompt = f"""
 Te a Hírelemző szerkesztője vagy. Korábban már írtál egy pontokba szedett összefoglalót egy témában, de most ÚJ forrás(ok) érkeztek hozzá.
@@ -225,25 +258,17 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• **Kulcsszó vagy Szereplő** második magyar pont...",
   "title_ro": "Titlu actualizat în română",
   "lead_ro": "Lead de 2-3 propoziții în română",
-  "content_ro": "• **Data sau Afirmația Cheie** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct...",
-  "used_sources_indices": [1, 2]
+  "content_ro": "• **Data sau Afirmația Cheie** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct..."
 }}
 """
-        return prompt, cover_image, sources_used
-
-    # PROMPT: ÚJ CIKK GENERÁLÁSA
-    combined_sources = ""
-    for idx, res in enumerate(scraped_results, 1):
-        combined_sources += f"\n--- {idx}. FORRÁS: {res['source']} | Cím: {res['title']} ---\n"
-        combined_sources += f"{res['content']}\n"
-
-    prompt = f"""
+    else:
+        prompt = f"""
 Te a Hírelemző portál vezető szerkesztője vagy. Az alábbiakban megadok több hírforrásból származó cikket egy témacsoportból.
 
 FELADAT ÉS SZŰRÉS:
 1. Szigorúan vizsgáld meg a megadott források tartalmát!
 2. HA BÁRMELYIK FORRÁS NEM UGYANARRÓL AZ ESEMÉNYRŐL SZÓL, AZT TELJESEN HAGYD KI!
-3. Ha a szűrés után nem marad legalább 2 összetartozó forrás, állítsd a "skip" mezőt true-ra!
+3. Ha a szűrés után nem marad érvényes tartalom, állítsd a "skip" mezőt true-ra!
 4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
 
 SZIGORÚ KIEMELÉSI ÉS FORMÁTUMSZABÁLYOK (MIND KÉT NYELVEN):
@@ -258,24 +283,12 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "content_hu": "• **Szeptember 30-án** Oroszország tavasz óta a legnagyobb...\\n\\n• A **Tripilszka hőerőmű** is találatot kapott...",
   "title_ro": "Titlul în română focalizat pe fapte",
   "lead_ro": "Rezumat de 2-3 propoziții în română",
-  "content_ro": "• Pe **30 septembrie** Rusia a lansat cel mai mare...\\n\\n• Centrala termică **Trypilska** a fost de asemenea lovită...",
-  "used_sources_indices": [1, 2]
+  "content_ro": "• Pe **30 septembrie** Rusia a lansat cel mai mare...\\n\\n• Centrala termică **Trypilska** a fost de asemenea lovită..."
 }}
 
 FORRÁSOK:
-{combined_sources}
+{new_sources_text}
 """
-    return prompt, cover_image, sources_used
-
-def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, group_fingerprint: str):
-    is_update = bool(existing_synthesized and existing_synthesized.get("is_synthesized") and not existing_synthesized.get("rejected"))
-    tag = "🔄 [FORRÁSBŐVÍTÉS / ÚJRAÍRÁS]" if is_update else "🆕 [ÚJ TÉMA GENERÁLÁSA]"
-    
-    print(f"\n{tag} Csoport [{g_id}] feldolgozása indult ({len(articles)} db forrás)...")
-    prompt, cover_image, sources_used = prepare_prompt_content(articles, existing_synthesized)
-    category = articles[0].get("category", "Általános")
-
-    latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
     try:
         print(f"🚀 Teljes AI szintetizálás hívása ({MODEL_NAME}) -> [{g_id}]...")
@@ -289,27 +302,9 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         )
         content_str = response.choices[0].message.content
         parsed_article = json.loads(content_str)
-        print(f"✅ AI válasz sikeresen feldolgozva -> [{g_id}]")
 
         if parsed_article.get("skip") is True:
             print(f"⚠️ Kiszűrve [{g_id}]: Az AI szerint nincs benne új információ vagy témaegyezés.")
-            rejected_entry = {
-                "group_id": g_id,
-                "fingerprint": group_fingerprint,
-                "is_synthesized": False,
-                "rejected": True,
-                "published_at": latest_timestamp
-            }
-            return [rejected_entry], False, is_update
-
-        used_indices = parsed_article.get("used_sources_indices", [])
-        if used_indices:
-            filtered_sources = [sources_used[i - 1] for i in used_indices if 0 < i <= len(sources_used)]
-        else:
-            filtered_sources = sources_used
-
-        if len(filtered_sources) < 2:
-            print(f"⚠️ Kiszűrve [{g_id}]: Az AI csak {len(filtered_sources)} forrást talált érvényesnek (min. 2 kell).")
             rejected_entry = {
                 "group_id": g_id,
                 "fingerprint": group_fingerprint,
@@ -328,8 +323,8 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
             "image": cover_image,
             "is_synthesized": True,
             "rejected": False,
-            "sources_count": len(filtered_sources),
-            "sources": filtered_sources,
+            "sources_count": len(sources_used),
+            "sources": sources_used,
             "published_at": latest_timestamp,
             "title_hu": fix_hungarian_names_and_places(parsed_article.get("title_hu", "")),
             "lead_hu": fix_hungarian_names_and_places(parsed_article.get("lead_hu", "")),
@@ -345,11 +340,11 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         return [], False, is_update
 
 # ==============================================================================
-# 3. VALÓS IDEJŰ PÁRHUZAMOS FOLYAMAT (HIBRID SZŰRŐVEL)
+# 4. FŐ FOLYAMAT (HIBRID SZŰRŐVEL)
 # ==============================================================================
 def run_synthesis_direct():
     print("==================================================================")
-    print("🚀 HÍR SZINTETIZÁLÓ FOLYAMAT INDÍTÁSA")
+    print("🚀 INTELLIGENS, SZELEKTÍV HÍR SZINTETIZÁLÓ FOLYAMAT INDÍTÁSA")
     print("==================================================================")
 
     if not os.path.exists(MEMORY_FILE):
@@ -483,7 +478,7 @@ def run_synthesis_direct():
     synthesized_results = []
     if multi_groups:
         print(f"\n🚀 {len(multi_groups)} db friss (12h) többforrásos csoport párhuzamos feldolgozása indult az AI-val ({MODEL_NAME})...")
-        with ThreadPoolExecutor(max_workers=10) as executor:
+        with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(process_group_direct, g_id, articles, existing, fingerprint)
                 for g_id, articles, existing, fingerprint in multi_groups
