@@ -16,22 +16,6 @@
     ]
   },
   {
-    "group_id": "group_e64baf14c2",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "Am aflat ce fac Remi Dobre și ispita Daniela în apă. Se plânge că Bianca Iotu l-a înșelat, dar nici el nu este „fără de păcat”",
-        "link": "https://www.cancan.ro/am-aflat-ce-fac-remi-dobre-si-ispita-daniela-in-apa-se-plange-ca-bianca-iotu-l-a-inselat-dar-nici-el-nu-este-fara-de-pacat-21535462",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/Am-aflat-ce-fac-Remi-Dobre-si-ispita-Daniela-in-apa.-Se-plange-ca-Bianca-Iotu-l-a-inselat-dar-nici-el-nu-este-„fara-de-pacat-1200x675.jpeg",
-        "summary": "Remi Dobre și ispita Daniela au avut parte de momente intime la „Insula Iubirii”. Cei doi au intrat împreună în mare și în piscină de mai multe ori, iar totul părea să anunțe o nouă apropiere între cei doi. Lucrurile au luat însă o turnură neașteptată, după ce concurentul și ispita au ajuns să își […]",
-        "category": "Bulvár",
-        "published_at": 1792788738
-      }
-    ]
-  },
-  {
     "group_id": "group_e45e55fb14",
     "category": "Általános",
     "articles_count": 1,
@@ -76,31 +60,6 @@
         "summary": "Pe 24 octombrie 1946 s-a născut artista Anda Călugăreanu. Tot pe 24 octombrie s-a născut alte două actrițe, Draga Olteanu Matei și Magda Catone.",
         "category": "Általános",
         "published_at": 1792789285
-      }
-    ]
-  },
-  {
-    "group_id": "group_0f256cc0d7",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Rusia dezvoltă racheta „Filin”, fabricată prin imprimare 3D. Avertismentul experților: „Dronele Shahed vor părea o problemă mică”",
-        "link": "https://adevarul.ro/stiri-externe/rusia/rusia-dezvolta-racheta-filin-fabricata-prin-2566211.html",
-        "image": "https://cdn.adh.reperio.news/image-d/db6e7bd2-bab0-44b0-aa46-c41a34cdc6f7/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Noile rachete „Filin”, despre care GUR a prezentat un raport detaliat săptămâna aceasta, pot transporta focoase de 100 de kilograme și pot atinge viteze de aproape 800 km/h.",
-        "category": "Általános",
-        "published_at": 1792789034
-      },
-      {
-        "source": "Go4IT",
-        "title": "Rusia ar fi dezvoltat o rachetă de croazieră mai ieftină, cu rază de 1.200 km. Ce se știe despre Filin",
-        "link": "https://www.go4it.ro/tehnologie-militara/rusia-ar-fi-dezvoltat-o-racheta-de-croaziera-mai-ieftina-cu-raza-de-1-200-km-ce-se-stie-despre-filin-19288608/",
-        "image": "https://www.go4it.ro/wp-content/uploads/2026/10/Image-credit-Serhii-Sternenko-Telegram.webp",
-        "summary": "Rusia ar fi introdus în războiul din Ucraina o nouă rachetă de croazieră, numită Filin, construită parțial cu ajutorul imprimării 3D și echipată cu componente electronice provenite inclusiv din Statele Unite și alte țări străine. […] Articolul Rusia ar fi dezvoltat o rachetă de croazieră mai ieftină, cu rază de 1.200 km. Ce se știe despre Filin apare prima dată în Go4IT.",
-        "category": "Általános",
-        "published_at": 1792843243
       }
     ]
   },
@@ -6817,6 +6776,22 @@
     ]
   },
   {
+    "group_id": "group_0f256cc0d7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Go4IT",
+        "title": "Rusia ar fi dezvoltat o rachetă de croazieră mai ieftină, cu rază de 1.200 km. Ce se știe despre Filin",
+        "link": "https://www.go4it.ro/tehnologie-militara/rusia-ar-fi-dezvoltat-o-racheta-de-croaziera-mai-ieftina-cu-raza-de-1-200-km-ce-se-stie-despre-filin-19288608/",
+        "image": "https://www.go4it.ro/wp-content/uploads/2026/10/Image-credit-Serhii-Sternenko-Telegram.webp",
+        "summary": "Rusia ar fi introdus în războiul din Ucraina o nouă rachetă de croazieră, numită Filin, construită parțial cu ajutorul imprimării 3D și echipată cu componente electronice provenite inclusiv din Statele Unite și alte țări străine. […] Articolul Rusia ar fi dezvoltat o rachetă de croazieră mai ieftină, cu rază de 1.200 km. Ce se știe despre Filin apare prima dată în Go4IT.",
+        "category": "Általános",
+        "published_at": 1792843243
+      }
+    ]
+  },
+  {
     "group_id": "group_40cc1425f2",
     "category": "Általános",
     "articles_count": 1,
@@ -11704,6 +11679,54 @@
         "summary": "Cel puțin 40 de persoane au fost ucise vineri, în urma unui atac armat asupra satului Binnari, din statul Taraba, în nord-estul Nigeriei, potrivit organizației Amnesty International.",
         "category": "Általános",
         "published_at": 1792874788
+      }
+    ]
+  },
+  {
+    "group_id": "group_ca496cb0dd",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Daniel Pancu, dărâmat după eșecul din derby: „Am simțit, e groaznic” » Prima decizie luată: „Schimb toată echipa”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/daniel-pancu-daramat-dupa-esecul-din-fcsb-rapid-reactie-991904.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/56db1b28-9335-4c79-b573-facfbda98d4d.jpeg?width=290&height=208",
+        "summary": "FCSB - Rapid 4-1. Daniel Pancu (49 de ani), antrenorul Rapidului, a venit extrem de dezamăgit la interviu, după ce echipa lui a fost spulberată de FCSB, în etapa a 13-a din Superliga, deși a deschis scorul repede și a condus până la pauză. Rapid a suferit o înfrângere dureroasă în derby-ul cu FCSB, scor 1-4, și a ratat oportunitatea de a urca pe primul loc în Superliga. ...",
+        "category": "Sport",
+        "published_at": 1792875080
+      }
+    ]
+  },
+  {
+    "group_id": "group_5c90aa486c",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Risto Radunovic, criptic privind viitorul său la FCSB: „Vreau să mă bat la campionate”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/risto-radunovic-criptic-privind-viitorul-sau-la-fcsb-991908.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/f3a49af6-8e8d-4b33-8232-3d4f3a247a33.jpg?width=290&height=208",
+        "summary": "Risto Radunovic, reprofilat în mijlocaș la închidere, odată cu venirea lui Laurențiu Reghecampf la FCSB, a vorbit la finalul derby-ului câștigat în fața Rapidului despre prestația roș-albaștrilor, încrederea primită din partea antrenorului și adaptarea la noul său post. Muntenegreanul a abordat și subiectul viitorului său, în condițiile în care contractul cu FCSB îi expiră în această iarnă, și a reacționat la interesul manifestat de Dani Coman. ...",
+        "category": "Sport",
+        "published_at": 1792875074
+      }
+    ]
+  },
+  {
+    "group_id": "group_d8bb9251c0",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Cum l-ar fi jignit Bianca Iotu pe Narcis Bujor, înainte să-l ispitească. Remi Dobre tocmai le-a dat foc idilei din Thailanda",
+        "link": "https://www.cancan.ro/cum-l-ar-fi-jignit-bianca-iotu-pe-narcis-bujor-inainte-sa-l-ispiteasca-remi-dobre-tocmai-le-a-dat-foc-idilei-din-thailanda-21535942",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.49.16-PM-1200x675.jpeg",
+        "summary": "O idilă din Thailanda este pe punctul de a se prăbuși complet după ce Remi Dobre a dinamitat relația dintre Bianca Iotu și ispita Narcis Bujor, aducând în fața camerelor acuzații extrem de grave și jigniri care s-ar fi petrecut în spatele ușilor închise, înainte ca show-ul să înceapă. Confruntarea de la ultimul bonfire s-a […]",
+        "category": "Bulvár",
+        "published_at": 1792875214
       }
     ]
   }
