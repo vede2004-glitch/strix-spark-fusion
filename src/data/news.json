@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_79c597360d",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-c/cb061540-4c43-4fc7-a886-704788adbae4/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.104%252C1%252C0.595%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Meniul secret al împărăteselor. Ce mâncau cele mai faimoase femei din istoria Europei",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/meniul-secret-al-imparateselor-ce-mancau-cele-mai-2566297.html"
+      }
+    ],
+    "published_at": 1792877245,
+    "title_hu": "Meniul secret al împărăteselor. Ce mâncau cele mai faimoase femei din istoria Europei",
+    "lead_hu": "Există impresia, în rândul publicului larg, că reginele și împărătesele mâncau doar preparate extrem de luxoase, greu de pregătit, greu de găsit. În realitatea, printre cele mai faimoase femei din ist...",
+    "content_hu": "Există impresia, în rândul publicului larg, că reginele și împărătesele mâncau doar preparate extrem de luxoase, greu de pregătit, greu de găsit. În realitatea, printre cele mai faimoase femei din istorie, preferau alimentele tradiționale sau extrem de hrănitoare, ușor de făcut.",
+    "title_ro": "Meniul secret al împărăteselor. Ce mâncau cele mai faimoase femei din istoria Europei",
+    "lead_ro": "Există impresia, în rândul publicului larg, că reginele și împărătesele mâncau doar preparate extrem de luxoase, greu de pregătit, greu de găsit. În realitatea, printre cele mai faimoase femei din ist...",
+    "content_ro": "Există impresia, în rândul publicului larg, că reginele și împărătesele mâncau doar preparate extrem de luxoase, greu de pregătit, greu de găsit. În realitatea, printre cele mai faimoase femei din istorie, preferau alimentele tradiționale sau extrem de hrănitoare, ușor de făcut."
+  },
+  {
     "group_id": "group_dfebd92662",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/8138305e-5be3-4581-9ff8-be78b51a8a1c.jpeg?width=290&height=208",
@@ -2281,7 +2302,7 @@
     "image": "",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -2302,6 +2323,11 @@
         "source": "Adevărul",
         "title": "Preşedinte al Federaţiei Bulgare de Taekwondo, găsit împușcat în propria casă. Slavi Binev ar fi fost asasinat",
         "link": "https://adevarul.ro/sport/presedinte-al-federatiei-bulgare-de-taekwondo-2566313.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Un fost membru al Parlamentului European a fost asasinat la Sofia. Este al treilea om de afaceri ucis în Bulgaria în ultimele luni",
+        "link": "https://www.digi24.ro/stiri/externe/un-fost-membru-al-parlamentului-european-a-fost-asasinat-la-sofia-este-al-treilea-om-de-afaceri-ucis-in-bulgaria-in-ultimele-luni-4007645"
       }
     ],
     "published_at": 1792862647,
