@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_d1b2037ef0",
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-24-at-18-33-02-768x1024.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un bărbat de 48 de ani a căzut în râul Cuejdi, la Piatra-Neamț. Pompierii l-au scos din apă",
+        "link": "https://www.mediafax.ro/social/un-barbat-de-48-de-ani-a-cazut-in-raul-cuejdi-la-piatra-neamt-pompierii-l-au-scos-din-apa-23831089"
+      }
+    ],
+    "published_at": 1792857307,
+    "title_hu": "Un bărbat de 48 de ani a căzut în râul Cuejdi, la Piatra-Neamț. Pompierii l-au scos din apă",
+    "lead_hu": "Un bărbat de 48 de ani a căzut în albia râului Cuejdi, în Piatra-Neamț. Acesta a fost scos de pompieri, apoi transportat la spital pentru îngrijiri medicale....",
+    "content_hu": "Un bărbat de 48 de ani a căzut în albia râului Cuejdi, în Piatra-Neamț. Acesta a fost scos de pompieri, apoi transportat la spital pentru îngrijiri medicale.",
+    "title_ro": "Un bărbat de 48 de ani a căzut în râul Cuejdi, la Piatra-Neamț. Pompierii l-au scos din apă",
+    "lead_ro": "Un bărbat de 48 de ani a căzut în albia râului Cuejdi, în Piatra-Neamț. Acesta a fost scos de pompieri, apoi transportat la spital pentru îngrijiri medicale....",
+    "content_ro": "Un bărbat de 48 de ani a căzut în albia râului Cuejdi, în Piatra-Neamț. Acesta a fost scos de pompieri, apoi transportat la spital pentru îngrijiri medicale."
+  },
+  {
+    "group_id": "group_791c07c77d",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/56980856-737f-478d-ab98-9e116c7af97b.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Martina Navratilova, șocată de reacția la divorțul cuplului Monfils - Svitolina: „Oamenii pot fi incredibil de cruzi”",
+        "link": "https://www.gsp.ro/sporturi/tenis/martina-navratilova-socata-reactie-divort-svitolina-monfils-991782.html"
+      }
+    ],
+    "published_at": 1792856924,
+    "title_hu": "Martina Navratilova, șocată de reacția la divorțul cuplului Monfils - Svitolina: „Oamenii pot fi incredibil de cruzi”",
+    "lead_hu": "Martina Navratilova (70 de ani), una din cele mai bune jucătoare din istorie, le-a luat apărarea lui Gael Monfils și Elinei Svitolina, după ce sportiva din Ucraina a anunțat despărțirea de tenismenul ...",
+    "content_hu": "Martina Navratilova (70 de ani), una din cele mai bune jucătoare din istorie, le-a luat apărarea lui Gael Monfils și Elinei Svitolina, după ce sportiva din Ucraina a anunțat despărțirea de tenismenul francez, anunț care a stârnit o mulțime de critici. Știrea săptămânii în tenisul mondial a fost că Elina Svitolina și Gael Monfils, care formau un cuplu din 2019 și erau căsătoriți din 2021, s-au despărțit. ...",
+    "title_ro": "Martina Navratilova, șocată de reacția la divorțul cuplului Monfils - Svitolina: „Oamenii pot fi incredibil de cruzi”",
+    "lead_ro": "Martina Navratilova (70 de ani), una din cele mai bune jucătoare din istorie, le-a luat apărarea lui Gael Monfils și Elinei Svitolina, după ce sportiva din Ucraina a anunțat despărțirea de tenismenul ...",
+    "content_ro": "Martina Navratilova (70 de ani), una din cele mai bune jucătoare din istorie, le-a luat apărarea lui Gael Monfils și Elinei Svitolina, după ce sportiva din Ucraina a anunțat despărțirea de tenismenul francez, anunț care a stârnit o mulțime de critici. Știrea săptămânii în tenisul mondial a fost că Elina Svitolina și Gael Monfils, care formau un cuplu din 2019 și erau căsătoriți din 2021, s-au despărțit. ..."
+  },
+  {
     "group_id": "group_bc6d363d00",
     "category": "Általános",
     "image": "",
@@ -8545,6 +8587,11 @@
         "source": "Mediafax",
         "title": "Ministrul de Externe, discuție cu omologul francez despre securitatea europeană și sprijinul Franței în regiunea Mării Negre",
         "link": "https://www.mediafax.ro/politic/ministrul-de-externe-discutie-cu-omologul-francez-despre-securitatea-europeana-si-sprijinul-frantei-in-regiunea-marii-negre-23831082"
+      },
+      {
+        "source": "G4Media",
+        "title": "Dan Neculăescu, discuții cu omologul francez despre securitatea la Marea Neagră și parteneriatul strategic bilateral",
+        "link": "https://www.g4media.ro/dan-neculaescu-jean-noel-barrot-securitate-marea-neagra.html"
       }
     ],
     "published_at": 1792820801,
@@ -8554,7 +8601,7 @@
     "title_ro": "Șefa diplomației europene, discuție cu ministrul român de Externe despre incidentele din Marea Neagră: „O nouă escaladare”",
     "lead_ro": "Șefa diplomației europene, Kaja Kallas, a discutat cu ministrul român de Externe, Dan Neculaescu, despre atacurile cu drone asupra navelor din Marea Neagră și impactul acestora asupra aprovizionării g...",
     "content_ro": "Șefa diplomației europene, Kaja Kallas, a discutat cu ministrul român de Externe, Dan Neculaescu, despre atacurile cu drone asupra navelor din Marea Neagră și impactul acestora asupra aprovizionării globale cu alimente.",
-    "sources_count": 9
+    "sources_count": 10
   },
   {
     "group_id": "group_b57eddadba",
@@ -14484,105 +14531,6 @@
     "content_ro": "Fostul șef al serviciului de permise și înmatriculări Neamț este cercetat penal într-un dosar cu șapte infracțiuni de trafic de influență și luare de mită. În cazul lui, procurorii au dispus măsura controlului judiciar pe cauțiune."
   },
   {
-    "group_id": "group_cb2b07f349",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un nou vaccin reduce cu 42% riscul de deces sau de recidivă în cazul uneia dintre cele mai agresive forme de cancer, arată studiile",
-        "link": "https://hotnews.ro/un-nou-vaccin-reduce-cu-42-riscul-de-deces-sau-de-recidiva-in-cazul-uneia-dintre-cele-mai-agresive-forme-de-cancer-arata-studiile-2384908"
-      },
-      {
-        "source": "G4Media",
-        "title": "Merck și Moderna anunță că vaccinul lor împotriva cancerului reduce cu 42% riscul de deces sau de recidivă în cazul melanomului",
-        "link": "https://www.g4media.ro/merck-si-moderna-anunta-ca-vaccinul-lor-impotriva-cancerului-reduce-cu-42-riscul-de-deces-sau-de-recidiva-in-cazul-melanomului.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Vaccin personalizat împotriva cancerului cu rezultate spectaculoase: reduce riscul de recidivă sau deces cu 42%. Mărturia unui participant la studiu",
-        "link": "https://adevarul.ro/stiri-externe/sua/vaccin-personalizat-impotriva-cancerului-cu-2566179.html"
-      }
-    ],
-    "published_at": 1792770929,
-    "title_hu": "Un nou vaccin reduce cu 42% riscul de deces sau de recidivă în cazul uneia dintre cele mai agresive forme de cancer, arată studiile",
-    "lead_hu": "Companiie Moderna și Merck au anunțat joi că vaccinul lor împotriva cancerului pe bază de ARNm, combinat cu imunoterapia larg utilizată a companiei Merck, a redus cu 42% riscul de deces sau de recidiv...",
-    "content_hu": "Companiie Moderna și Merck au anunțat joi că vaccinul lor împotriva cancerului pe bază de ARNm, combinat cu imunoterapia larg utilizată a companiei Merck, a redus cu 42% riscul de deces sau de recidivă în cazul melanomului, în cadrul unui studiu clinic de amploare, deschizând potențial calea către o nouă eră a tratamentului personalizat, scrie …",
-    "title_ro": "Un nou vaccin reduce cu 42% riscul de deces sau de recidivă în cazul uneia dintre cele mai agresive forme de cancer, arată studiile",
-    "lead_ro": "Companiie Moderna și Merck au anunțat joi că vaccinul lor împotriva cancerului pe bază de ARNm, combinat cu imunoterapia larg utilizată a companiei Merck, a redus cu 42% riscul de deces sau de recidiv...",
-    "content_ro": "Companiie Moderna și Merck au anunțat joi că vaccinul lor împotriva cancerului pe bază de ARNm, combinat cu imunoterapia larg utilizată a companiei Merck, a redus cu 42% riscul de deces sau de recidivă în cazul melanomului, în cadrul unui studiu clinic de amploare, deschizând potențial calea către o nouă eră a tratamentului personalizat, scrie …",
-    "sources_count": 3
-  },
-  {
-    "group_id": "group_f59b842d8a",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cladire-prabusita.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "O clădire aflată în construcție s-a prăbușit în capitala Kenyei! Autoritățile caută supraviețuitori: bilanțul oficial al victimelor",
-        "link": "https://www.cancan.ro/o-cladire-aflata-in-renovare-s-a-prabusit-in-capitala-kenyei-autoritatile-cauta-supravietuitori-bilantul-oficial-al-victimelor-21535276"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un bloc turn aflat în construcție s-a prăbușit în Nairobi. Imagini șocante | VIDEO",
-        "link": "https://stirileprotv.ro/stiri/international/un-bloc-turn-aflat-in-constructie-s-a-prabusit-in-nairobi-imagini-socante-video.html"
-      }
-    ],
-    "published_at": 1792770800,
-    "title_hu": "O clădire aflată în construcție s-a prăbușit în capitala Kenyei! Autoritățile caută supraviețuitori: bilanțul oficial al victimelor",
-    "lead_hu": "O clădire cu 12 etaje aflată în construcție s-a prăbușit în Nairobi, capitala Kenyei, iar autoritățile se tem că mai multe persoane au rămas captive sub dărâmături. Echipele de intervenție au fost mob...",
-    "content_hu": "O clădire cu 12 etaje aflată în construcție s-a prăbușit în Nairobi, capitala Kenyei, iar autoritățile se tem că mai multe persoane au rămas captive sub dărâmături. Echipele de intervenție au fost mobilizate de urgență, în timp ce cauza incidentului nu este încă cunoscută. Dezastrul s-a produs vineri după-amiază în cartierul Eastleigh, una dintre cele […]",
-    "title_ro": "O clădire aflată în construcție s-a prăbușit în capitala Kenyei! Autoritățile caută supraviețuitori: bilanțul oficial al victimelor",
-    "lead_ro": "O clădire cu 12 etaje aflată în construcție s-a prăbușit în Nairobi, capitala Kenyei, iar autoritățile se tem că mai multe persoane au rămas captive sub dărâmături. Echipele de intervenție au fost mob...",
-    "content_ro": "O clădire cu 12 etaje aflată în construcție s-a prăbușit în Nairobi, capitala Kenyei, iar autoritățile se tem că mai multe persoane au rămas captive sub dărâmături. Echipele de intervenție au fost mobilizate de urgență, în timp ce cauza incidentului nu este încă cunoscută. Dezastrul s-a produs vineri după-amiază în cartierul Eastleigh, una dintre cele […]",
-    "sources_count": 2
-  },
-  {
-    "group_id": "group_cbabf6d5bc",
-    "category": "Kultúra",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "RomKat",
-        "title": "Ferencesek nyomában a temesvári egyházmegyében",
-        "link": "https://romkat.ro/2026/10/23/ferencesek-nyomaban-a-temesvari-egyhazmegyeben/"
-      }
-    ],
-    "published_at": 1792770780,
-    "title_hu": "Ferencesek nyomában a temesvári egyházmegyében",
-    "lead_hu": "Assisi Szent Ferenc halálának 800. évfordulóján, a Szent Ferenc év kapcsán az egész ferences család és a katolikus Egyház hálával emlékezik arra az emberre, aki életével új lendületet adott az evangél…",
-    "content_hu": "Assisi Szent Ferenc halálának 800. évfordulóján, a Szent Ferenc év kapcsán az egész ferences család és a katolikus Egyház hálával emlékezik arra az emberre, aki életével új lendületet adott az evangéliumi egyszerűség, a testvériség és a Krisztus-követés eszményének. Egyszerűségében is kimeríthetetlen gazdagságot hordozó lelki örökségét ma azok a szerzetesek és szerzetesnők viszik tovább, akik a […]",
-    "title_ro": "Ferencesek nyomában a temesvári egyházmegyében",
-    "lead_ro": "Assisi Szent Ferenc halálának 800. évfordulóján, a Szent Ferenc év kapcsán az egész ferences család és a katolikus Egyház hálával emlékezik arra az emberre, aki életével új lendületet adott az evangél…",
-    "content_ro": "Assisi Szent Ferenc halálának 800. évfordulóján, a Szent Ferenc év kapcsán az egész ferences család és a katolikus Egyház hálával emlékezik arra az emberre, aki életével új lendületet adott az evangéliumi egyszerűség, a testvériség és a Krisztus-követés eszményének. Egyszerűségében is kimeríthetetlen gazdagságot hordozó lelki örökségét ma azok a szerzetesek és szerzetesnők viszik tovább, akik a […]"
-  },
-  {
-    "group_id": "group_09467854ef",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/06/8024363-mediafax_group-alexandra_pandrea_gmn-1024x690.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Ministrul Apărării și șeful Statului Major, mesaj pentru militarii români aflați în misiuni internaționale de Ziua Armatei",
-        "link": "https://www.mediafax.ro/politic/ministrul-apararii-si-seful-statului-major-mesaj-pentru-militarii-romani-aflati-in-misiuni-internationale-de-ziua-armatei-23830765"
-      }
-    ],
-    "published_at": 1792770748,
-    "title_hu": "Ministrul Apărării și șeful Statului Major, mesaj pentru militarii români aflați în misiuni internaționale de Ziua Armatei",
-    "lead_hu": "Ministrul Apărării Naționale, Ștefan-Radu Oprea, și șeful Statului Major al Apărării, generalul Gheorghiță Vlad, le-au transmis felicitări militarilor români aflați în misiuni internaționale de Ziua A…",
-    "content_hu": "Ministrul Apărării Naționale, Ștefan-Radu Oprea, și șeful Statului Major al Apărării, generalul Gheorghiță Vlad, le-au transmis felicitări militarilor români aflați în misiuni internaționale de Ziua Armatei.",
-    "title_ro": "Ministrul Apărării și șeful Statului Major, mesaj pentru militarii români aflați în misiuni internaționale de Ziua Armatei",
-    "lead_ro": "Ministrul Apărării Naționale, Ștefan-Radu Oprea, și șeful Statului Major al Apărării, generalul Gheorghiță Vlad, le-au transmis felicitări militarilor români aflați în misiuni internaționale de Ziua A…",
-    "content_ro": "Ministrul Apărării Naționale, Ștefan-Radu Oprea, și șeful Statului Major al Apărării, generalul Gheorghiță Vlad, le-au transmis felicitări militarilor români aflați în misiuni internaționale de Ziua Armatei."
-  },
-  {
     "group_id": "group_3be0d5af54",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24102026/2a7293ef-97aa-4bc1-82cd-ecbac6fe4afb.jpg?width=290&height=208",
@@ -15082,6 +15030,48 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Scrimă: Emma Șonț a câștigat Cupa României la spadă",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_53e500f953",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rugby Europe Super Cup: Selecționata Romanian Wolves surclasată de Lusitanos cu 77-5",
+        "link": "https://agerpres.ro/sport-extern/2026/10/24/rugby-europe-super-cup-selectionata-romanian-wolves-surclasata-de-lusitanos-cu-77-5--1606508"
+      }
+    ],
+    "published_at": 1792800000,
+    "title_hu": "Rugby Europe Super Cup: Selecționata Romanian Wolves surclasată de Lusitanos cu 77-5",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Rugby Europe Super Cup: Selecționata Romanian Wolves surclasată de Lusitanos cu 77-5",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_5efce5682f",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Au fost stabiliți finaliștii turneului ATP de la Almatî",
+        "link": "https://agerpres.ro/sport-extern/2026/10/24/tenis-au-fost-stabiliti-finalistii-turneului-atp-de-la-almati--1606506"
+      }
+    ],
+    "published_at": 1792800000,
+    "title_hu": "Tenis: Au fost stabiliți finaliștii turneului ATP de la Almatî",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Au fost stabiliți finaliștii turneului ATP de la Almatî",
     "lead_ro": "",
     "content_ro": ""
   },
