@@ -178,6 +178,19 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
     category = articles[0].get("category", "Általános")
     latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
+    # 🎯 MINDEN KÖZREMŰKÖDŐ FORRÁS KIGYŰJTÉSE A KÁRTYÁRA (Ne csak azt tüntesse fel, aminél AI újraírás volt)
+    all_group_sources = []
+    seen_links = set()
+    for art in articles:
+        l = art.get("link", "")
+        if l and l not in seen_links:
+            seen_links.add(l)
+            all_group_sources.append({
+                "source": art.get("source", ""),
+                "title": art.get("title", ""),
+                "link": l
+            })
+
     # 1. AZ ELSŐ CIKKET TELJES TERJEDELMÉBEN LETÖLTJÜK (Ez az alapunk)
     first_art = articles[0]
     print(f"📖 1. Alapcikk letöltése (teljes törzs): '{first_art.get('title', '')}'")
@@ -190,7 +203,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         "content": first_full_text
     }]
 
-    # 2. A TÖBBI CIKKNEK CSAK AZ ELSŐ 2 BEKEZDÉSÉT (LEAD) NÉZZÜK MEG
+    # 2. A TÖBBI CIKKNEK CSAK AZ ELSŐ 2 BEKEZDÉSÉT (LEAD) NÉZZÜK MEG AZ AI PROMPT-HOZ
     for idx, art in enumerate(articles[1:], start=2):
         snippet = fetch_article_snippet_or_full(art.get("link", ""), mode="snippet") or art.get("summary", "")
         
@@ -212,10 +225,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
                 "content": full_text if full_text else snippet
             })
         else:
-            print(f"🙈 {idx}. cikk kihagyva (nincs új tény az első 2 bekezdés alapján).")
-
-    # 3. PROMPT ÖSSZEÁLLÍTÁSA A TÉNYLEGESEN KIELENŐRZÖTT FORRÁSOKBÓL
-    sources_used = [{"source": res["source"], "title": res["title"], "link": res["link"]} for res in selected_articles_for_ai]
+            print(f"🙈 {idx}. cikk kihagyva az AI promptból (nincs új tény az első 2 bekezdés alapján).")
 
     new_sources_text = ""
     for idx, res in enumerate(selected_articles_for_ai, 1):
@@ -315,6 +325,13 @@ FORRÁSOK:
 
         print(f"✨ Cikk sikeresen generálva [{g_id}]: '{parsed_article.get('title_hu', '')}'")
 
+        # 🎯 Egyesítjük a korábbi és az új forrásokat hiánytalanul
+        if is_update and existing_synthesized and "sources" in existing_synthesized:
+            for s in existing_synthesized["sources"]:
+                if s.get("link") and s.get("link") not in seen_links:
+                    seen_links.add(s["link"])
+                    all_group_sources.append(s)
+
         synthesized_entry = {
             "group_id": g_id,
             "fingerprint": group_fingerprint,
@@ -322,8 +339,8 @@ FORRÁSOK:
             "image": cover_image,
             "is_synthesized": True,
             "rejected": False,
-            "sources_count": len(sources_used),
-            "sources": sources_used,
+            "sources_count": len(all_group_sources), # 🎯 PONTOS FORRÁSSZÁM
+            "sources": all_group_sources,             # 🎯 AZ ÖSSZES FORRÁS CSATOLVA
             "published_at": latest_timestamp,
             "title_hu": fix_hungarian_names_and_places(parsed_article.get("title_hu", "")),
             "lead_hu": fix_hungarian_names_and_places(parsed_article.get("lead_hu", "")),
@@ -441,10 +458,14 @@ def run_synthesis_direct():
 
             if similarity > 0.85:
                 print(f"🛑 1. hibrid szűrő LEÁLLÍTOTTA [{g_id}]: >85% azonosság. Újraírás KIHAGYVA, forrás csatolva (0$)!")
+                existing_links = {s.get("link") for s in existing_synth.get("sources", [])}
                 for a in articles:
                     src_entry = {"source": a.get("source", ""), "title": a.get("title", ""), "link": a.get("link", "")}
-                    if src_entry not in existing_synth.get("sources", []):
+                    if src_entry["link"] and src_entry["link"] not in existing_links:
                         existing_synth.setdefault("sources", []).append(src_entry)
+                        existing_links.add(src_entry["link"])
+                
+                # 🎯 PONTOS FRISSÍTÉS
                 existing_synth["sources_count"] = len(existing_synth["sources"])
                 stats["skipped_hybrid_filter"] += 1
                 continue
@@ -456,10 +477,14 @@ def run_synthesis_direct():
                 
                 if not has_new_info:
                     print(f"🛑 2. hibrid szűrő LEÁLLÍTOTTA [{g_id}]: Az AI szerint sincs új tény. Újraírás KIHAGYVA, forrás csatolva!")
+                    existing_links = {s.get("link") for s in existing_synth.get("sources", [])}
                     for a in articles:
                         src_entry = {"source": a.get("source", ""), "title": a.get("title", ""), "link": a.get("link", "")}
-                        if src_entry not in existing_synth.get("sources", []):
+                        if src_entry["link"] and src_entry["link"] not in existing_links:
                             existing_synth.setdefault("sources", []).append(src_entry)
+                            existing_links.add(src_entry["link"])
+                    
+                    # 🎯 PONTOS FRISSÍTÉS
                     existing_synth["sources_count"] = len(existing_synth["sources"])
                     stats["skipped_hybrid_filter"] += 1
                     continue
@@ -503,7 +528,7 @@ def run_synthesis_direct():
     for item in synthesized_results:
         all_final_results[item["group_id"]] = item
 
-    # 3. MEGŐRZÉS: A KÍRÓDÓ NEWS.JSON-BA 24 ÓRÁNYI HÍR TARTALOM KERÜL!
+    # 3. MEGŐRZÉS ÉS FORRÁS_COUNT SZÁMÍTÁSI ELLENŐRZÉS A MENTÉS ELŐTT
     fresh_items = [
         item for item in all_final_results.values() 
         if item.get("published_at", 0) >= RETENTION_CUTOFF
@@ -513,6 +538,11 @@ def run_synthesis_direct():
         item for item in fresh_items 
         if not item.get("rejected")
     ]
+
+    # Biztonsági ellenőrzés: garantáljuk, hogy minden cikknél pontos a sources_count
+    for item in frontend_news:
+        if "sources" in item and isinstance(item["sources"], list):
+            item["sources_count"] = len(item["sources"])
 
     final_sorted_list = sorted(
         frontend_news, 
@@ -536,6 +566,8 @@ def run_synthesis_direct():
             print(f"⚠️ Nem sikerült beolvasni a {HISTORY_FILE} fájlt: {e}")
     for item in all_final_results.values():
         if not item.get("rejected"):
+            if "sources" in item and isinstance(item["sources"], list):
+                item["sources_count"] = len(item["sources"])
             history[item["group_id"]] = item
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(history.values(), key=lambda x: x.get("published_at", 0), reverse=True), f, ensure_ascii=False, indent=2)
