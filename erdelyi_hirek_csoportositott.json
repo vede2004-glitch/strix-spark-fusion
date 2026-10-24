@@ -1738,7 +1738,7 @@
   {
     "group_id": "group_388580b455",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Digi24",
@@ -1766,6 +1766,15 @@
         "summary": "Vom afla in curand, din primele acte normative emise de guvernul Romaniei.",
         "category": "Politika",
         "published_at": 1792744395
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Mă sperie costul centralei, peste 20.000 de lei”. Apropierea iernii aduce griji românilor de la țară. Ce soluții de încălzire găsesc",
+        "link": "https://adevarul.ro/stiri-interne/societate/ma-sperie-costul-centralei-peste-20000-de-lei-2565874.html",
+        "image": "https://cdn.adh.reperio.news/image-a/a3bbcf82-12d8-4ee3-924d-0c2f3912859b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Apropierea iernii aduce noi motive de îngrijorare pentru mulți români care locuiesc la țară, în special în satele de munte, unde sezonul rece începe mai devreme, iar locuințele trebuie încălzite pentru o perioadă mai îndelungată.",
+        "category": "Általános",
+        "published_at": 1792806505
       }
     ]
   },
@@ -1952,7 +1961,7 @@
   {
     "group_id": "group_10ef01c0d8",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 5,
     "articles": [
       {
         "source": "G4Media",
@@ -1962,15 +1971,6 @@
         "summary": "O femeie din Africa de Sud a publicat aproape 400 de cărți din februarie 2025 cu ajutorul inteligenței artificiale (IA), un proces pe care îl recunoaște deschis și este pregătită să-l apere în ciuda criticilor și amenințărilor, transmite MEDIAFAX. „Escroacă”, „ticăloasă”, „diabolică” : adjectivele abundă pe rețelele de socializare, inclusiv cele mai grave insulte, pentru […] © G4Media.ro.",
         "category": "Általános",
         "published_at": 1792727617
-      },
-      {
-        "source": "Mediafax",
-        "title": "O romancieră a scris 371 de cărți în 20 de luni cu ajutorul inteligenței artificiale",
-        "link": "https://www.mediafax.ro/cultura-media/o-romanciera-a-scris-371-de-carti-in-20-de-luni-cu-ajutorul-inteligentei-artificiale-23830293",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/06/china-algoritmii-de-inteligenta-artificiala-chip-tehnologie-ai-1024x597.jpg",
-        "summary": "O femeie din Africa de Sud a publicat aproape 400 de cărți din februarie 2025 cu ajutorul inteligenței artificiale (IA), un proces pe care îl recunoaște deschis și este pregătită să-l apere în ciuda criticilor și amenințărilor.",
-        "category": "Általános",
-        "published_at": 1792720583
       },
       {
         "source": "Go4IT",
@@ -2326,38 +2326,6 @@
         "summary": "Un conflict între părinții unui elev și un profesor, petrecut într-o școală din Timișoara, a stârnit reacții în mediul online și a readus în discuție relația tot mai tensionată dintre familie și profesori.",
         "category": "Erdély",
         "published_at": 1792722085
-      }
-    ]
-  },
-  {
-    "group_id": "group_9eef9761ca",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Copiii sunt obligați să-și sacrifice propria familie pentru părinții bătrâni? Dilema care a împărțit internetul",
-        "link": "https://adevarul.ro/stiri-interne/societate/copiii-sunt-obligati-sa-si-sacrifice-propria-2565273.html",
-        "image": "https://cdn.adh.reperio.news/image-e/ef61a968-3692-49a2-99cc-c5438b046313/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Cât de mult sunt datori copiii să se sacrifice pentru părinții ajunși la bătrânețe? Întrebarea a stârnit discuții pe Facebook, după ce un utilizator a prezentat cazul unei persoane vârstnice care nu mai poate locui singură, dar al cărei copil are deja propria familie.",
-        "category": "Általános",
-        "published_at": 1792720225
-      }
-    ]
-  },
-  {
-    "group_id": "group_e0fd7ea3af",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Efectul de bumerang al depopulării rurale: De ce ard satele și pădurile Europei",
-        "link": "https://adevarul.ro/stiri-externe/europa/efectul-de-bumerang-al-depopularii-rurale-de-ce-2565822.html",
-        "image": "https://cdn.adh.reperio.news/image-5/5ec831cf-45f2-4fa3-9ce6-ac58c0946570/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Europa se confruntă cu una dintre cele mai grave sezoane de incendii de vegetație din ultimii ani. Pe lângă temperaturile extreme și secetă, abandonarea terenurilor agricole și lipsa lucrărilor de întreținere a pădurilor contribuie la răspândirea focului.",
-        "category": "Általános",
-        "published_at": 1792717885
       }
     ]
   },
@@ -17357,6 +17325,86 @@
         "summary": "Copiii încep să descopere literele încă din primul an de școală, însă părinții pot observa că acestea nu sunt învățate întotdeauna în ordinea alfabetului. De ce se întâmplă asta, explică învățătoarea Cristina Ungureanu.",
         "category": "Általános",
         "published_at": 1792800625
+      }
+    ]
+  },
+  {
+    "group_id": "group_1efb27f1bc",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "EXCLUSIV | SAPE, societatea de stat înființată pentru a face investiții în energie, ține de zece ani peste 600 de milioane de lei blocați în depozite în bănci / Compania trăiește din dobânzi și a făcut investiții proaste / A cumpărat de la unul dintre pasagerii zborului Mykonos un parc eolian greu de administrat",
+        "link": "https://www.g4media.ro/exclusiv-sape-societatea-de-stat-infiintata-pentru-a-face-investitii-in-energie-tine-de-zece-ani-peste-600-de-milioane-de-lei-blocati-in-depozite-in-banci-compania-traieste-din-dobanzi-si-a-facu.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/curcubata-scaled.jpg",
+        "summary": "SAPE SA, societate din portofoliul statului mai puțin cunoscută în spațiul public, funcționează de ani de zile mai mult ca un fond de investiții privat decât ca investitor în energie, scopul pentru care a fost înființată. Din 2017, în depozitele la bănci ale companiei stau aproximativ 600 de milioane de lei care generează dobânzi fără […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1792807232
+      }
+    ]
+  },
+  {
+    "group_id": "group_8e475ac4e6",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Orfana care a făcut greva foamei pentru a-și urma visul. A ajuns un savant celebru, iar România câștiga milioane de dolari de pe urma ei",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/orfana-care-a-facut-greva-foamei-pentru-a-si-urma-2565302.html",
+        "image": "https://cdn.adh.reperio.news/image-5/5e978b0b-7aec-473e-89cf-55e2e6c354da/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Unul dintre cei mai mari savanți români și-a trăit viața la intensitate maximă și nu a renunțat niciodată la visurile și principiile sale. În plină perioadă comunistă, trata celebrități internaționale, se îmbrăca exclusiv din Italia și a reușit chiar să câștige un proces împotriva regimului.",
+        "category": "Általános",
+        "published_at": 1792804945
+      }
+    ]
+  },
+  {
+    "group_id": "group_4b996df915",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Pentagonul declară institutele Confucius din universitățile americane drept amenințări la securitatea națională",
+        "link": "https://www.mediafax.ro/externe/pentagonul-declara-institutele-confucius-din-universitatile-americane-drept-amenintari-la-securitatea-nationala-23830904",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/8063403-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg",
+        "summary": "Departamentul Apărării al Statelor Unite a inclus institutele Confucius, centre culturale finanțate de China și găzduite în campusurile universitare americane, pe lista instituțiilor considerate o amenințare la adresa securității naționale, a anunțat vineri secretarul american al Apărării, Pete Hegseth.",
+        "category": "Általános",
+        "published_at": 1792805383
+      }
+    ]
+  },
+  {
+    "group_id": "group_cbc2a784cf",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Reuters: Administrațiile Biden și Trump au cerut de mai multe ori activarea sau dezactivarea Starlink în diferite țări",
+        "link": "https://www.mediafax.ro/externe/reuters-administratiile-biden-si-trump-au-cerut-de-mai-multe-ori-activarea-sau-dezactivarea-starlink-in-diferite-tari-23830902",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/hepta_8337385-1024x680.jpg",
+        "summary": "Administrațiile foștilor președinți americani Joe Biden și Donald Trump i-au cerut de mai multe ori lui Elon Musk să activeze sau să dezactiveze serviciul de internet prin satelit Starlink în diferite țări, pentru a sprijini obiective de politică externă ale Statelor Unite, potrivit unor foști oficiali americani citați de Reuters.",
+        "category": "Általános",
+        "published_at": 1792801208
+      }
+    ]
+  },
+  {
+    "group_id": "group_8ce5610416",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Șapte persoane au fost ucise într-un atac armat la o biserică din Iordania. 40 de răniți, în timpul unei înmormântări",
+        "link": "https://www.mediafax.ro/externe/sapte-persoane-au-fost-ucise-intr-un-atac-armat-la-o-biserica-din-iordania-40-de-raniti-in-timpul-unei-inmormantari-23830906",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/istockphoto-653844644-612x612-1.jpg",
+        "summary": "Șapte persoane au fost ucise și alte 40 au fost rănite vineri, după ce mai mulți bărbați înarmați au deschis focul în timpul unei înmormântări la o biserică din guvernoratul Karak, în Iordania.",
+        "category": "Általános",
+        "published_at": 1792794631
       }
     ]
   }
