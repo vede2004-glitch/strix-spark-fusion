@@ -85,7 +85,7 @@ def check_has_new_info_with_ai(existing_summary: str, new_article_text: str) -> 
     """
     Költségkímélő villám-kérdés az AI-nak.
     - Bemenet: Csak az első 1000 karakter vagy a 2 bekezdéses snippet (token-megtakarítás).
-    - Kimenet: max_tokens=5 (azonnali leállás IGEN/NEM után).
+    - Kimenet: max_completion_tokens=5 (azonnali leállás IGEN/NEM után).
     """
     truncated_new_text = new_article_text[:1000] if new_article_text else ""
 
@@ -102,10 +102,11 @@ Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
 """
     try:
         print("    🤖 AI ellenőrző hívás indítása (max 5 token)...")
+        # 🎯 FIX: max_tokens lecserélve max_completion_tokens-re
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=5,
+            max_completion_tokens=5,
             temperature=0.0
         )
         answer = response.choices[0].message.content.strip().upper()
@@ -195,7 +196,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
     for idx, art in enumerate(articles[1:], start=2):
         snippet = fetch_article_snippet_or_full(art.get("link", ""), mode="snippet") or art.get("summary", "")
         
-        # Helyi Python hasonlósági szűrés (0$ költség)
+        # Helyi Python hasonlósági szűrés (0\$ költség)
         if calculate_similarity(snippet, first_full_text[:500]) > 0.80:
             print(f"✂️ {idx}. cikk kiszűrve helyben (>80% azonosság): '{art.get('title', '')}'")
             continue
@@ -426,9 +427,9 @@ def run_synthesis_direct():
             if not existing_fingerprint and "sources" in existing_synth:
                 existing_fingerprint = calculate_fingerprint(existing_synth["sources"])
 
-            # Meglévő ujjlenyomat pontos egyezése (0$ költség)
+            # Meglévő ujjlenyomat pontos egyezése (0\$ költség)
             if existing_fingerprint and current_fingerprint == existing_fingerprint:
-                print(f"🔒 Hash egyezés [{g_id}]: A források nem változtak. AI kihagyva (0$).")
+                print(f"🔒 Hash egyezés [{g_id}]: A források nem változtak. AI kihagyva (0\$).")
                 stats["skipped_fingerprint"] += 1
                 continue
 
@@ -441,7 +442,7 @@ def run_synthesis_direct():
             print(f"🔍 1. hibrid szűrő (Python difflib) [{g_id}]: {similarity*100:.1f}%-os hasonlóság a meglévő cikkel.")
 
             if similarity > 0.85:
-                print(f"🛑 1. hibrid szűrő LEÁLLÍTOTTA [{g_id}]: >85% azonosság. Újraírás KIHAGYVA, forrás csatolva (0$)!")
+                print(f"🛑 1. hibrid szűrő LEÁLLÍTOTTA [{g_id}]: >85% azonosság. Újraírás KIHAGYVA, forrás csatolva (0\$)!")
                 for a in articles:
                     src_entry = {"source": a.get("source", ""), "title": a.get("title", ""), "link": a.get("link", "")}
                     if src_entry not in existing_synth.get("sources", []):
@@ -490,65 +491,4 @@ def run_synthesis_direct():
 
     all_final_results = {}
     if os.path.exists(OUTPUT_FILE):
-        try:
-            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-                existing_data = json.load(f)
-                for item in existing_data:
-                    if "group_id" in item:
-                        all_final_results[item["group_id"]] = item
-        except Exception as e:
-            print(f"⚠️ Nem sikerült beolvasni a korábbi {OUTPUT_FILE} fájlt: {e}")
-
-    for item in single_results:
-        all_final_results[item["group_id"]] = item
-    for item in synthesized_results:
-        all_final_results[item["group_id"]] = item
-
-    # 3. MEGŐRZÉS: A KÍRÓDÓ NEWS.JSON-BA 24 ÓRÁNYI HÍR TARTALOM KERÜL!
-    fresh_items = [
-        item for item in all_final_results.values() 
-        if item.get("published_at", 0) >= RETENTION_CUTOFF
-    ]
-
-    frontend_news = [
-        item for item in fresh_items 
-        if not item.get("rejected")
-    ]
-
-    final_sorted_list = sorted(
-        frontend_news, 
-        key=lambda x: x.get("published_at", 0), 
-        reverse=True
-    )
-
-    print(f"\n💾 Mentés indítása a(z) {OUTPUT_FILE} fájlba...")
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
-
-    HISTORY_FILE = "src/data/news_archive.json"
-    history = {}
-    if os.path.exists(HISTORY_FILE):
-        try:
-            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-                for item in json.load(f):
-                    if "group_id" in item:
-                        history[item["group_id"]] = item
-        except Exception as e:
-            print(f"⚠️ Nem sikerült beolvasni a {HISTORY_FILE} fájlt: {e}")
-    for item in all_final_results.values():
-        if not item.get("rejected"):
-            history[item["group_id"]] = item
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(history.values(), key=lambda x: x.get("published_at", 0), reverse=True), f, ensure_ascii=False, indent=2)
-
-    print("\n==================================================================")
-    print("🎉 FOLYAMAT SIKERESEN BEFEJEZŐDÖTT!")
-    print(f"📊 Összes elemzett csoport: {stats['total_groups']}")
-    print(f"🔒 Hash alapon kihagyva: {stats['skipped_fingerprint']}")
-    print(f"🛑 Hibrid szűrő által megállítva (0$ megspórolva): {stats['skipped_hybrid_filter']}")
-    print(f"🚀 AI által feldolgozva/újraírva: {stats['processed_by_ai']}")
-    print(f"💾 Mentve a frontendnek ({OUTPUT_FILE}): {len(final_sorted_list)} friss cikk")
-    print("==================================================================")
-
-if __name__ == "__main__":
-    run_synthesis_direct()
+        try
