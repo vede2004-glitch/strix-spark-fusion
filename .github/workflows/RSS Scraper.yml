@@ -30,20 +30,22 @@ jobs:
       - name: Scraper futtatása
         run: python weboldalparolas.py
 
-      - name: Memória elmentése és Push
+      - - name: Memória elmentése és Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # 1. Az ÖSSZES módosított JSON fájl hozzáadása a staginghez
+          # 1. Először behúzzuk a legfrissebb távoli állapotot
+          git fetch origin main
+          
+          # 2. Hozzáadjuk a frissen generált JSON fájlokat
           git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json erdelyi_hirek_archivum.json src/data/news.json
           
-          # 2. Előre elkészítjük a helyi commitot (ha van változás)
+          # 3. Elkészítjük a commitot
           git diff --staged --quiet || git commit -m "update: RSS adatok frissítése [skip ci]"
           
-          # 3. Pull rebase futtatása a tiszta helyi commitra
-          git fetch origin main
-          git pull --rebase origin main
+          # 4. Konfliktusmentes rebase: Ha ütközés van a JSON-ben, a most kigenerált friss állapot nyer (-X ours)
+          git rebase origin/main -X ours || (git rebase --skip && git add . && git commit -m "update: RSS adatok frissítése [skip ci]")
           
-          # 4. Végül feltoljuk az eredményt a távoli repositoryba
+          # 5. Push a távoli tárolóba
           git push origin main
