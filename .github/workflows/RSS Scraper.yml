@@ -35,17 +35,24 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # 1. Először behúzzuk a legfrissebb távoli állapotot
-          git fetch origin main
-          
-          # 2. Hozzáadjuk a frissen generált JSON fájlokat
+          # 1. Hozzáadjuk a frissen generált JSON fájlokat a stagerhez
           git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json erdelyi_hirek_archivum.json src/data/news.json
           
-          # 3. Elkészítjük a commitot
-          git diff --staged --quiet || git commit -m "update: RSS adatok frissítése [skip ci]"
-          
-          # 4. Konfliktusmentes rebase: Ha ütközés van a JSON-ben, a most kigenerált friss állapot nyer (-X ours)
-          git rebase origin/main -X ours || (git rebase --skip && git add . && git commit -m "update: RSS adatok frissítése [skip ci]")
-          
-          # 5. Push a távoli tárolóba
-          git push origin main
+          # 2. Ellenőrizzük, hogy van-e érdemi eltérés
+          if git diff --staged --quiet; then
+            echo "ℹ️ Nincs új hír vagy változás a fájlokban, commit és push kihagyva."
+          else
+            echo "✨ Új hírek találhatók! Frissítés mentése..."
+            
+            # Behúzzuk a legfrissebb távoli állapotot
+            git fetch origin main
+            
+            # Commit elkészítése
+            git commit -m "update: RSS adatok frissítése [skip ci]"
+            
+            # Konfliktusmentes rebase
+            git rebase origin/main -X ours || (git rebase --skip && git add . && git commit -m "update: RSS adatok frissítése [skip ci]")
+            
+            # Push a távoli tárolóba
+            git push origin main
+          fi
