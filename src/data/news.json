@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_e4f905dbb5",
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI0JTJGMzAyODgxNl8zMDI4/ODE2X3JvZ29iZXRlLmpwZyZoYXNoPTNi/OWMxM2EyMjIyYzJkMWJhYWU4YjkyN2E4MWJlYzA5.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Alexandru Rogobete anunță când va fi gata Spitalul Regional din Iași, cu 850 de paturi și 20 de săli de operație",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/alexandru-rogobete-anunta-cand-va-fi-gata-spitalul-regional-din-iasi-cu-850-de-paturi-si-20-de-sali-de-operatie-4007363"
+      }
+    ],
+    "published_at": 1792857574,
+    "title_hu": "Alexandru Rogobete anunță când va fi gata Spitalul Regional din Iași, cu 850 de paturi și 20 de săli de operație",
+    "lead_hu": "Ministrul Sănătății Alexandru Rogobete a declarat sâmbătă că lucrările la Spitalul Regional de Urgență (SRU) Iași ar urma să ajungă la nivelul zero la începutul anului viitor, iar primii pacienți ar p...",
+    "content_hu": "Ministrul Sănătății Alexandru Rogobete a declarat sâmbătă că lucrările la Spitalul Regional de Urgență (SRU) Iași ar urma să ajungă la nivelul zero la începutul anului viitor, iar primii pacienți ar putea fi primiți în 2029.",
+    "title_ro": "Alexandru Rogobete anunță când va fi gata Spitalul Regional din Iași, cu 850 de paturi și 20 de săli de operație",
+    "lead_ro": "Ministrul Sănătății Alexandru Rogobete a declarat sâmbătă că lucrările la Spitalul Regional de Urgență (SRU) Iași ar urma să ajungă la nivelul zero la începutul anului viitor, iar primii pacienți ar p...",
+    "content_ro": "Ministrul Sănătății Alexandru Rogobete a declarat sâmbătă că lucrările la Spitalul Regional de Urgență (SRU) Iași ar urma să ajungă la nivelul zero la începutul anului viitor, iar primii pacienți ar putea fi primiți în 2029."
+  },
+  {
+    "group_id": "group_61cefa52ff",
+    "category": "Gazdaság",
+    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10670/23267226/2/kiseleff.jpg?width=700",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ziarul Financiar",
+        "title": "Cât mai costă casele de pe Kiseleff: O reşedinţă de colecţie moştenire arhitecturală Burcuş & Marcu are un preţ de pornire de 3,5 milioane EUR",
+        "link": "https://www.zf.ro/constructii-imobiliare/cat-mai-costa-casele-de-pe-kiseleff-o-resedinta-de-colectie-mostenire-arhitecturala-burcus-marcu-are-un-pret-de-pornire-de-3-5-milioane-eur-23267226"
+      }
+    ],
+    "published_at": 1792857553,
+    "title_hu": "Cât mai costă casele de pe Kiseleff: O reşedinţă de colecţie moştenire arhitecturală Burcuş & Marcu are un preţ de pornire de 3,5 milioane EUR",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Cât mai costă casele de pe Kiseleff: O reşedinţă de colecţie moştenire arhitecturală Burcuş & Marcu are un preţ de pornire de 3,5 milioane EUR",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
     "group_id": "group_d1b2037ef0",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-24-at-18-33-02-768x1024.jpeg",
@@ -1111,7 +1153,7 @@
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pexels-dirk-pothen-2149332904-36500404-1024x768.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Mediafax",
@@ -1127,6 +1169,11 @@
         "source": "Agerpres (HU)",
         "title": "ANSVSA: Vaccinarea ovinelor și caprinelor începe duminică în județele Constanța și Tulcea",
         "link": "https://agerpres.ro/economic/2026/10/24/ansvsa-vaccinarea-ovinelor-si-caprinelor-incepe-duminica-in-judetele-constanta-si-tulcea--1606483"
+      },
+      {
+        "source": "Maszol",
+        "title": "Vasárnap kezdődik a juhok és kecskék beoltása két megyében",
+        "link": "https://maszol.ro/belfold/Vasarnap-kezdodik-a-juhok-es-kecskek-beoltasa-ket-megyeben"
       }
     ],
     "published_at": 1792852196,
@@ -3005,7 +3052,7 @@
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/24/120753/shutterstock-2731164047.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C680%2C0%2C0&w=1280",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -3016,6 +3063,11 @@
         "source": "Digi24",
         "title": "O britanică a murit decedată în Bahamas în timp ce încerca să-şi salveze fiii de la înec. Cum s-a întâmplat totul",
         "link": "https://www.digi24.ro/stiri/o-britanica-a-murit-decedata-in-bahamas-in-timp-ce-incerca-sa-si-salveze-fiii-de-la-inec-cum-s-a-intamplat-totul-4007355"
+      },
+      {
+        "source": "Digi24",
+        "title": "O britanică a murit în Bahamas în timp ce încerca să-şi salveze fiii de la înec. Cum s-a întâmplat totul",
+        "link": "https://www.digi24.ro/stiri/o-britanica-a-murit-in-bahamas-in-timp-ce-incerca-sa-si-salveze-fiii-de-la-inec-cum-s-a-intamplat-totul-4007355"
       }
     ],
     "published_at": 1792843680,
@@ -12233,6 +12285,27 @@
     "content_ro": "Florina Grozavu a făcut dezvăluiri despre căsnicia cu Cătălin, chiar în pragul divorțului! Soția din acte a lui Grozavu a vorbit la Dan Capatos Show despre relația pe care a avut-o cu tatăl celor doi copii și a dezvăluit care au fost adevăratele nemulțumiri pe care le-a avut de-a lungul anilor. Vezi totul pe CANCAN.RO! […]"
   },
   {
+    "group_id": "group_f59b842d8a",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/10/23/180911/screenshot-2026-10-23-210654.png?fm=jpg&q=80&fit=crop&crop=1387%2C798%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un bloc turn aflat în construcție s-a prăbușit în Nairobi. Imagini șocante | VIDEO",
+        "link": "https://stirileprotv.ro/stiri/international/un-bloc-turn-aflat-in-constructie-s-a-prabusit-in-nairobi-imagini-socante-video.html"
+      }
+    ],
+    "published_at": 1792779128,
+    "title_hu": "Un bloc turn aflat în construcție s-a prăbușit în Nairobi. Imagini șocante | VIDEO",
+    "lead_hu": "Un imobil de mai multe etaje, aflat în construcţie, s-a surpat vineri în capitala kenyană Nairobi, anunţă Crucea Roşie, care se teme că persoane au fost prinse sub dărâmături, relatează AFP....",
+    "content_hu": "Un imobil de mai multe etaje, aflat în construcţie, s-a surpat vineri în capitala kenyană Nairobi, anunţă Crucea Roşie, care se teme că persoane au fost prinse sub dărâmături, relatează AFP.",
+    "title_ro": "Un bloc turn aflat în construcție s-a prăbușit în Nairobi. Imagini șocante | VIDEO",
+    "lead_ro": "Un imobil de mai multe etaje, aflat în construcţie, s-a surpat vineri în capitala kenyană Nairobi, anunţă Crucea Roşie, care se teme că persoane au fost prinse sub dărâmături, relatează AFP....",
+    "content_ro": "Un imobil de mai multe etaje, aflat în construcţie, s-a surpat vineri în capitala kenyană Nairobi, anunţă Crucea Roşie, care se teme că persoane au fost prinse sub dărâmături, relatează AFP."
+  },
+  {
     "group_id": "group_279832b033",
     "category": "Általános",
     "image": "https://maszol.ro/resized/2026_oktober/23/cikk_mento_Pexels1.jpg",
@@ -13612,6 +13685,32 @@
     "content_ro": "Primarul general al Capitalei, Ciprian Ciucu, a vorbit, vineri seara, despre șantierele din mai multe zone din oraș, afirmând că lucrările sunt necesare pentru a nu fi pierdute avize și pentru a nu rata banii europeni aferenți. „După ce se vor termina aceste șantiere, va fi mult mai bine. Și tot acest disconfort pe care cu toți îl simțim astăzi va fi meritat”, a spus Ciucu."
   },
   {
+    "group_id": "group_cb2b07f349",
+    "category": "Általános",
+    "image": "https://www.g4media.ro//wp-content/uploads/2022/01/FB1A9931.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Merck și Moderna anunță că vaccinul lor împotriva cancerului reduce cu 42% riscul de deces sau de recidivă în cazul melanomului",
+        "link": "https://www.g4media.ro/merck-si-moderna-anunta-ca-vaccinul-lor-impotriva-cancerului-reduce-cu-42-riscul-de-deces-sau-de-recidiva-in-cazul-melanomului.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Vaccin personalizat împotriva cancerului cu rezultate spectaculoase: reduce riscul de recidivă sau deces cu 42%. Mărturia unui participant la studiu",
+        "link": "https://adevarul.ro/stiri-externe/sua/vaccin-personalizat-impotriva-cancerului-cu-2566179.html"
+      }
+    ],
+    "published_at": 1792774082,
+    "title_hu": "Merck și Moderna anunță că vaccinul lor împotriva cancerului reduce cu 42% riscul de deces sau de recidivă în cazul melanomului",
+    "lead_hu": "Companiile Moderna şi Merck au anunţat joi că vaccinul lor împotriva cancerului pe bază de ARN mesager, atunci când este administrat în combinaţie cu imunoterapia utilizată pe scară largă a companiei ...",
+    "content_hu": "Companiile Moderna şi Merck au anunţat joi că vaccinul lor împotriva cancerului pe bază de ARN mesager, atunci când este administrat în combinaţie cu imunoterapia utilizată pe scară largă a companiei Merck, a redus cu 42% riscul de deces sau de recidivă în cazul melanomului în cadrul unui studiu clinic de amploare, deschizând potenţial calea […] © G4Media.ro.",
+    "title_ro": "Merck și Moderna anunță că vaccinul lor împotriva cancerului reduce cu 42% riscul de deces sau de recidivă în cazul melanomului",
+    "lead_ro": "Companiile Moderna şi Merck au anunţat joi că vaccinul lor împotriva cancerului pe bază de ARN mesager, atunci când este administrat în combinaţie cu imunoterapia utilizată pe scară largă a companiei ...",
+    "content_ro": "Companiile Moderna şi Merck au anunţat joi că vaccinul lor împotriva cancerului pe bază de ARN mesager, atunci când este administrat în combinaţie cu imunoterapia utilizată pe scară largă a companiei Merck, a redus cu 42% riscul de deces sau de recidivă în cazul melanomului în cadrul unui studiu clinic de amploare, deschizând potenţial calea […] © G4Media.ro."
+  },
+  {
     "group_id": "group_21d9e2dda9",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/21/151527/vlcsnap-2026-10-21-18h15m10s437.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
@@ -14403,132 +14502,6 @@
     "title_ro": "Trei adolescenți și un tânăr de 21 de ani au dezbrăcat și umilit un copil de 9-10 ani, apoi au postat imaginile online. Unul dintre agresori a sunat la 112",
     "lead_ro": "Trei adolescenți și un tânăr de 21 de ani au fost reținuți pentru 24 de ore, după ce au dezbrăcat cu forța un copil de aproximativ 9-10 ani și l-au umilit, filmând întreaga scenă şi punând imaginile p...",
     "content_ro": "Trei adolescenți și un tânăr de 21 de ani au fost reținuți pentru 24 de ore, după ce au dezbrăcat cu forța un copil de aproximativ 9-10 ani și l-au umilit, filmând întreaga scenă şi punând imaginile pe reţelele sociale."
-  },
-  {
-    "group_id": "group_a1464b35cf",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10368/23266783/1/hepta-8558506.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Giganţii AI intră în consultanţă? Anthropic şi fondul britanic Hg lansează o firmă de consultanţă în inteligenţa artificială pe continentul european. Compania poate ajunge la 10 miliarde de dolari în cinci ani",
-        "link": "https://www.zf.ro/business-international/gigantii-intra-consultanta-anthropic-fondul-britanic-hg-lanseaza-firma-consultanta-inteligenta-artificiala-continentul-european-compania-ajunge-10-miliarde-dolari-cinci-ani-23266783"
-      }
-    ],
-    "published_at": 1792771301,
-    "title_hu": "Giganţii AI intră în consultanţă? Anthropic şi fondul britanic Hg lansează o firmă de consultanţă în inteligenţa artificială pe continentul european. Compania poate ajunge la 10 miliarde de dolari în cinci ani",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Giganţii AI intră în consultanţă? Anthropic şi fondul britanic Hg lansează o firmă de consultanţă în inteligenţa artificială pe continentul european. Compania poate ajunge la 10 miliarde de dolari în cinci ani",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_ec293e305a",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan_emily-burgheela.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Emily Burghelea a furat startul sărbătorilor! A scos bradul de Crăciun încă din octombrie, după ce soțul ei a trecut prin clipe grele",
-        "link": "https://www.cancan.ro/emily-burghelea-a-furat-startul-sarbatorilor-a-scos-bradul-de-craciun-inca-din-octombrie-dupa-ce-sotul-ei-a-trecut-prin-clipe-grele-21535112"
-      }
-    ],
-    "published_at": 1792771295,
-    "title_hu": "Emily Burghelea a furat startul sărbătorilor! A scos bradul de Crăciun încă din octombrie, după ce soțul ei a trecut prin clipe grele",
-    "lead_hu": "„M-am gândit să aduc bradul de la depozit și să schimb energia din casă”, sunt declarațiile oferite în exclusivitate pentru CANCAN.RO de Emily Burghelea. Deși zăpada nu și-a făcut încă apariția, nicio…",
-    "content_hu": "„M-am gândit să aduc bradul de la depozit și să schimb energia din casă”, sunt declarațiile oferite în exclusivitate pentru CANCAN.RO de Emily Burghelea. Deși zăpada nu și-a făcut încă apariția, niciodată nu se știe cum ne poate lua iarna prin „surprindere”, mai ceva ca pe autorități. Au fost câteva zile grele pentru familia îndrăgitei […]",
-    "title_ro": "Emily Burghelea a furat startul sărbătorilor! A scos bradul de Crăciun încă din octombrie, după ce soțul ei a trecut prin clipe grele",
-    "lead_ro": "„M-am gândit să aduc bradul de la depozit și să schimb energia din casă”, sunt declarațiile oferite în exclusivitate pentru CANCAN.RO de Emily Burghelea. Deși zăpada nu și-a făcut încă apariția, nicio…",
-    "content_ro": "„M-am gândit să aduc bradul de la depozit și să schimb energia din casă”, sunt declarațiile oferite în exclusivitate pentru CANCAN.RO de Emily Burghelea. Deși zăpada nu și-a făcut încă apariția, niciodată nu se știe cum ne poate lua iarna prin „surprindere”, mai ceva ca pe autorități. Au fost câteva zile grele pentru familia îndrăgitei […]"
-  },
-  {
-    "group_id": "group_49a091d348",
-    "category": "Általános",
-    "image": "https://www.go4it.ro/wp-content/uploads/2026/10/cutit-main.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Go4IT",
-        "title": "Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut",
-        "link": "https://www.go4it.ro/content/accesorii/work-sharp-rmx-misfit-cutitul-pliabil-care-ignora-trendul-lamelor-mari-in-favoarea-controlului-absolut-19288541/"
-      }
-    ],
-    "published_at": 1792771223,
-    "title_hu": "Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut",
-    "lead_hu": "Work Sharp contestă preferința convențională pentru lamele mari odată cu lansarea celui mai nou cuțit pliabil al său, RMX MisFit Compact Reverse Tanto. Pe o piață în care dimensiunile mari domină ades…",
-    "content_hu": "Work Sharp contestă preferința convențională pentru lamele mari odată cu lansarea celui mai nou cuțit pliabil al său, RMX MisFit Compact Reverse Tanto. Pe o piață în care dimensiunile mari domină adesea așteptările consumatorilor, producătorul […] Articolul Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut apare prima dată în Go4IT.",
-    "title_ro": "Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut",
-    "lead_ro": "Work Sharp contestă preferința convențională pentru lamele mari odată cu lansarea celui mai nou cuțit pliabil al său, RMX MisFit Compact Reverse Tanto. Pe o piață în care dimensiunile mari domină ades…",
-    "content_ro": "Work Sharp contestă preferința convențională pentru lamele mari odată cu lansarea celui mai nou cuțit pliabil al său, RMX MisFit Compact Reverse Tanto. Pe o piață în care dimensiunile mari domină adesea așteptările consumatorilor, producătorul […] Articolul Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut apare prima dată în Go4IT."
-  },
-  {
-    "group_id": "group_949d70165f",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10369/23266690/1/66-fini-fini-nou-2.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Gen Z şi dorinţa de a face bani, de a se îmbogăţi, de a da o lovitură financiară cât mai repede, cât sunt tineri",
-        "link": "https://www.zf.ro/opinii/gen-z-si-dorinta-de-a-face-bani-de-a-se-imbogati-de-a-da-o-lovitura-financiara-cat-mai-repede-cat-sunt-tineri-23266690"
-      }
-    ],
-    "published_at": 1792771200,
-    "title_hu": "Gen Z şi dorinţa de a face bani, de a se îmbogăţi, de a da o lovitură financiară cât mai repede, cât sunt tineri",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Gen Z şi dorinţa de a face bani, de a se îmbogăţi, de a da o lovitură financiară cât mai repede, cât sunt tineri",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_a27682fb5c",
-    "category": "Gazdaság",
-    "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/21333/23266781/1/whatsapp-image-2026-10-23-at-18-35-36.jpg?width=700",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ziarul Financiar",
-        "title": "Oficiali americani din agricultură, în vizită în România: Marea miză este să transformaţi producţia în valoare adăugată. De la poarta fermei la farfurie este un drum lung",
-        "link": "https://www.zf.ro/eveniment/oficiali-americani-din-agricultura-in-vizita-in-romania-marea-miza-este-sa-transformati-productia-in-valoare-adaugata-de-la-poarta-fermei-la-farfurie-este-un-drum-lung-23266781"
-      }
-    ],
-    "published_at": 1792771132,
-    "title_hu": "Oficiali americani din agricultură, în vizită în România: Marea miză este să transformaţi producţia în valoare adăugată. De la poarta fermei la farfurie este un drum lung",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Oficiali americani din agricultură, în vizită în România: Marea miză este să transformaţi producţia în valoare adăugată. De la poarta fermei la farfurie este un drum lung",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_b6bd5c12c6",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/7840386-mediafax_foto-alexandru_dobre-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Fostul șef al serviciului de permise și înmatriculări Neamț, cercetat într-un dosar de trafic de influență și luare de mită",
-        "link": "https://www.mediafax.ro/justitie/fostul-sef-al-serviciului-de-permise-si-inmatriculari-neamt-cercetat-intr-un-dosar-de-trafic-de-influenta-si-luare-de-mita-23830773"
-      }
-    ],
-    "published_at": 1792771119,
-    "title_hu": "Fostul șef al serviciului de permise și înmatriculări Neamț, cercetat într-un dosar de trafic de influență și luare de mită",
-    "lead_hu": "Fostul șef al serviciului de permise și înmatriculări Neamț este cercetat penal într-un dosar cu șapte infracțiuni de trafic de influență și luare de mită. În cazul lui, procurorii au dispus măsura co…",
-    "content_hu": "Fostul șef al serviciului de permise și înmatriculări Neamț este cercetat penal într-un dosar cu șapte infracțiuni de trafic de influență și luare de mită. În cazul lui, procurorii au dispus măsura controlului judiciar pe cauțiune.",
-    "title_ro": "Fostul șef al serviciului de permise și înmatriculări Neamț, cercetat într-un dosar de trafic de influență și luare de mită",
-    "lead_ro": "Fostul șef al serviciului de permise și înmatriculări Neamț este cercetat penal într-un dosar cu șapte infracțiuni de trafic de influență și luare de mită. În cazul lui, procurorii au dispus măsura co…",
-    "content_ro": "Fostul șef al serviciului de permise și înmatriculări Neamț este cercetat penal într-un dosar cu șapte infracțiuni de trafic de influență și luare de mită. În cazul lui, procurorii au dispus măsura controlului judiciar pe cauțiune."
   },
   {
     "group_id": "group_3be0d5af54",
