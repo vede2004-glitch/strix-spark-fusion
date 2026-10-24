@@ -102,12 +102,11 @@ Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
 """
     try:
         print("    🤖 AI ellenőrző hívás indítása (max 5 token)...")
-        # 🎯 FIX: max_tokens lecserélve max_completion_tokens-re
+        # 🎯 FIX: temperature=0.0 eltávolítva a kompatibilitás miatt
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=5,
-            temperature=0.0
+            max_completion_tokens=5
         )
         answer = response.choices[0].message.content.strip().upper()
         print(f"    🤖 AI válasza az ellenőrzésre: '{answer}'")
