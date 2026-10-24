@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_0c5228973a",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Manna",
+        "title": "Orbán Viktor Párizsban tölti az ünnepet, vita lett belőle",
+        "link": "https://a24.hu/orban-viktor-parizsban-tolti-az-unnepet-vita-lett-belole/"
+      }
+    ],
+    "published_at": 1792858343,
+    "title_hu": "Orbán Viktor Párizsban tölti az ünnepet, vita lett belőle",
+    "lead_hu": "Orbán Viktor családjával, köztük az unokájával tölti az ünnepi hosszú hétvégét Párizsban, és a pihenése politikai vitát indított el. A volt miniszterelnököt a Telex riportere a szállodájánál kérdezte ...",
+    "content_hu": "Orbán Viktor családjával, köztük az unokájával tölti az ünnepi hosszú hétvégét Párizsban, és a pihenése politikai vitát indított el. A volt miniszterelnököt a Telex riportere a szállodájánál kérdezte meg, ő pedig azt mondta, most az unokájával nyaral, Budapesten viszont szívesen nyilatkozik. Deák Dániel Facebook-bejegyzésben állt ki Orbán Viktor mellett. A politikai elemző szerint a volt […]",
+    "title_ro": "Orbán Viktor Párizsban tölti az ünnepet, vita lett belőle",
+    "lead_ro": "Orbán Viktor családjával, köztük az unokájával tölti az ünnepi hosszú hétvégét Párizsban, és a pihenése politikai vitát indított el. A volt miniszterelnököt a Telex riportere a szállodájánál kérdezte ...",
+    "content_ro": "Orbán Viktor családjával, köztük az unokájával tölti az ünnepi hosszú hétvégét Párizsban, és a pihenése politikai vitát indított el. A volt miniszterelnököt a Telex riportere a szállodájánál kérdezte meg, ő pedig azt mondta, most az unokájával nyaral, Budapesten viszont szívesen nyilatkozik. Deák Dániel Facebook-bejegyzésben állt ki Orbán Viktor mellett. A politikai elemző szerint a volt […]"
+  },
+  {
+    "group_id": "group_199a11d368",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cancan-pokemon.jpg-1200x675.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Nebunia Pokemon a ajuns în București! CANCAN a fost în locul unde se adună sute de pasionați",
+        "link": "https://www.cancan.ro/nebunia-pokemon-a-ajuns-in-bucuresti-cancan-a-fost-in-locul-unde-se-aduna-sute-de-pasionati-21535687"
+      }
+    ],
+    "published_at": 1792858191,
+    "title_hu": "Nebunia Pokemon a ajuns în București! CANCAN a fost în locul unde se adună sute de pasionați",
+    "lead_hu": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul...",
+    "content_hu": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul următor! În București, colecționarii și jucătorii au acum un spațiu generos în care se întâlnesc, își etalează cărțile și participă la competiții […]",
+    "title_ro": "Nebunia Pokemon a ajuns în București! CANCAN a fost în locul unde se adună sute de pasionați",
+    "lead_ro": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul...",
+    "content_ro": "Vă mai amintiți de vremurile în care cartonașele Pokémon făceau furori în curtea școlii, iar schimburile dintre colegi erau o adevărată afacere? Ei bine, pasiunea nu a dispărut, ci a trecut la nivelul următor! În București, colecționarii și jucătorii au acum un spațiu generos în care se întâlnesc, își etalează cărțile și participă la competiții […]"
+  },
+  {
     "group_id": "group_c264d56ade",
     "category": "Sport",
     "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/21082026/097d307d-9597-41a6-84fd-28f6968e13ce.jpeg?width=290&height=208",
@@ -172,12 +214,17 @@
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI0JTJGMzAyODgxNl8zMDI4/ODE2X3JvZ29iZXRlLmpwZyZoYXNoPTNi/OWMxM2EyMjIyYzJkMWJhYWU4YjkyN2E4MWJlYzA5.jpg",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Alexandru Rogobete anunță când va fi gata Spitalul Regional din Iași, cu 850 de paturi și 20 de săli de operație",
         "link": "https://www.digi24.ro/stiri/actualitate/social/alexandru-rogobete-anunta-cand-va-fi-gata-spitalul-regional-din-iasi-cu-850-de-paturi-si-20-de-sali-de-operatie-4007363"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Când pot ajunge primii pacienți la Spitalul Regional din Iași. Ministrul Rogobete a vizitat șantierul",
+        "link": "https://hotnews.ro/cand-va-primi-primii-pacienti-spitalul-regional-din-iasi-ministrul-rogobete-a-vizitat-santierul-2385625"
       }
     ],
     "published_at": 1792857574,
@@ -1771,7 +1818,7 @@
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_6910324-1024x705.jpg",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -1782,6 +1829,11 @@
         "source": "Ziarul Financiar",
         "title": "Bulgaria îşi alege duminică preşedintele. Cine sunt favoriţii",
         "link": "https://www.zf.ro/business-international/bulgaria-isi-alege-duminica-presedintele-cine-sunt-favoritii-23267201"
+      },
+      {
+        "source": "G4Media",
+        "title": "Bulgaria își alege duminică președintele: Iliana Iotova conduce în sondaje, urmată de Andrei Gyurov / Războiul din Ucraina și securitatea la Marea Neagră, teme ale campaniei",
+        "link": "https://www.g4media.ro/alegeri-prezidentiale-bulgaria-2026-iotova-gyurov.html"
       }
     ],
     "published_at": 1792851671,
@@ -5723,12 +5775,17 @@
     "category": "Általános",
     "image": "",
     "is_synthesized": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "Trump spune că l-a sunat pe CEO-ul Google pentru a discuta redenumirea Oceanului Atlantic",
         "link": "https://hotnews.ro/trump-spune-ca-l-a-sunat-pe-ceo-ul-google-pentru-a-discuta-redenumirea-oceanului-atlantic-2385295"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Ce-i mai trece prin cap lui Trump: Vrea un „Ocean American” pe harta lumii, dar șeful Google i-a spus „pas” (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/ce-i-mai-trece-prin-cap-lui-trump-vrea-un-ocean-american-pe-harta-lumii-seful-google-i-ar-fi-spus-pas-206085.html"
       }
     ],
     "published_at": 1792833740,
@@ -14596,69 +14653,6 @@
     "title_ro": "Nava comercială scufundată de dronă în largul Constanței venea spre Sulina. Un marinar a murit, trei sunt dispăruți",
     "lead_ro": "O nouă tragedie a avut loc în Marea Neagră. O navă comercială lovită dimineață de o dronă s-a scufundat în apropiere de Constanța. Un marinar a murit, 3 sunt dispăruți, iar 9 au fost salvați.",
     "content_ro": "O nouă tragedie a avut loc în Marea Neagră. O navă comercială lovită dimineață de o dronă s-a scufundat în apropiere de Constanța. Un marinar a murit, 3 sunt dispăruți, iar 9 au fost salvați."
-  },
-  {
-    "group_id": "group_9e1b06fb29",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/23/151031/vlcsnap-2026-10-23-18h05m29s680.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Mai mulți paznici, control strict, instruire specială a cadrelor didactice. Măsuri speciale în cele 6.000 de școli din România",
-        "link": "https://stirileprotv.ro/educatie/mai-multi-paznici-control-strict-instruire-speciala-a-cadrelor-didactice-masuri-speciale-in-cele-6-000-de-scoli-din-romania.html"
-      }
-    ],
-    "published_at": 1792772125,
-    "title_hu": "Mai mulți paznici, control strict, instruire specială a cadrelor didactice. Măsuri speciale în cele 6.000 de școli din România",
-    "lead_hu": "După incidentele grave din școlile de la Beszterce și Pitești, Guvernul s-a reunit vineri într-o ședință de urgență.",
-    "content_hu": "După incidentele grave din școlile de la Beszterce și Pitești, Guvernul s-a reunit vineri într-o ședință de urgență.",
-    "title_ro": "Mai mulți paznici, control strict, instruire specială a cadrelor didactice. Măsuri speciale în cele 6.000 de școli din România",
-    "lead_ro": "După incidentele grave din școlile de la Beszterce și Pitești, Guvernul s-a reunit vineri într-o ședință de urgență.",
-    "content_ro": "După incidentele grave din școlile de la Beszterce și Pitești, Guvernul s-a reunit vineri într-o ședință de urgență."
-  },
-  {
-    "group_id": "group_a571dfefd7",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/04/dreamstime_m_85419468.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Marea Britanie a lansat campania națională „Be Ready”. Guvernul le recomandă cetățenilor să aibă provizii pentru trei zile, în caz de situații de urgență",
-        "link": "https://www.g4media.ro/marea-britanie-a-lansat-campania-nationala-be-ready-guvernul-le-recomanda-cetatenilor-sa-aiba-provizii-pentru-trei-zile-in-caz-de-situatii-de-urgenta.html"
-      }
-    ],
-    "published_at": 1792771898,
-    "title_hu": "Marea Britanie a lansat campania națională „Be Ready”. Guvernul le recomandă cetățenilor să aibă provizii pentru trei zile, în caz de situații de urgență",
-    "lead_hu": "Guvernul britanic le recomandă cetățenilor să aibă provizii de apă, alimente și alte produse esențiale pentru trei zile, în cazul unor situații de urgență, transmite MEDIAFAX. Marea Britanie a lansat …",
-    "content_hu": "Guvernul britanic le recomandă cetățenilor să aibă provizii de apă, alimente și alte produse esențiale pentru trei zile, în cazul unor situații de urgență, transmite MEDIAFAX. Marea Britanie a lansat campania națională „Be Ready” („Fii pregătit”), pentru a ajuta populația să facă față unor situații neprevăzute, precum fenomenele meteorologice extreme, atacurile cibernetice sau întreruperea serviciilor […] © G4Media.ro.",
-    "title_ro": "Marea Britanie a lansat campania națională „Be Ready”. Guvernul le recomandă cetățenilor să aibă provizii pentru trei zile, în caz de situații de urgență",
-    "lead_ro": "Guvernul britanic le recomandă cetățenilor să aibă provizii de apă, alimente și alte produse esențiale pentru trei zile, în cazul unor situații de urgență, transmite MEDIAFAX. Marea Britanie a lansat …",
-    "content_ro": "Guvernul britanic le recomandă cetățenilor să aibă provizii de apă, alimente și alte produse esențiale pentru trei zile, în cazul unor situații de urgență, transmite MEDIAFAX. Marea Britanie a lansat campania națională „Be Ready” („Fii pregătit”), pentru a ajuta populația să facă față unor situații neprevăzute, precum fenomenele meteorologice extreme, atacurile cibernetice sau întreruperea serviciilor […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_6ef523a516",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-c/c582f190-e3b0-4b74-8735-7bed94e8778d/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Asociația Jucătorilor Profesioniști de Tenis a blocat peste 230.000 de comentarii agresive pe rețelele sociale în 2026",
-        "link": "https://adevarul.ro/sport/asociatia-jucatorilor-profesionisti-de-tenis-a-2566166.html"
-      }
-    ],
-    "published_at": 1792771774,
-    "title_hu": "Asociația Jucătorilor Profesioniști de Tenis a blocat peste 230.000 de comentarii agresive pe rețelele sociale în 2026",
-    "lead_hu": "Asociația Jucătorilor Profesioniști de Tenis (ATP) a anunțat că a blocat peste 230.000 de comentarii abuzive pe rețelele de socializare în 2026. Acestea îi vizau pe jucători, dar și pe fani.",
-    "content_hu": "Asociația Jucătorilor Profesioniști de Tenis (ATP) a anunțat că a blocat peste 230.000 de comentarii abuzive pe rețelele de socializare în 2026. Acestea îi vizau pe jucători, dar și pe fani.",
-    "title_ro": "Asociația Jucătorilor Profesioniști de Tenis a blocat peste 230.000 de comentarii agresive pe rețelele sociale în 2026",
-    "lead_ro": "Asociația Jucătorilor Profesioniști de Tenis (ATP) a anunțat că a blocat peste 230.000 de comentarii abuzive pe rețelele de socializare în 2026. Acestea îi vizau pe jucători, dar și pe fani.",
-    "content_ro": "Asociația Jucătorilor Profesioniști de Tenis (ATP) a anunțat că a blocat peste 230.000 de comentarii abuzive pe rețelele de socializare în 2026. Acestea îi vizau pe jucători, dar și pe fani."
   },
   {
     "group_id": "group_3be0d5af54",
