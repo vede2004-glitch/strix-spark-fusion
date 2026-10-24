@@ -36,7 +36,7 @@ RSS_FEEDS = {
     "RomKat": "https://romkat.ro/feed/",
     "Hargita Népe": "https://hargitanepe.ro/rss",
 
-    # 🎯 FIX: Közvetlen Agerpres RSS URL külső proxy nélkül
+    # Közvetlen Agerpres RSS URL
     "Agerpres (HU)": "https://www.agerpres.ro/magyar/rss",
 
     "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
@@ -336,7 +336,6 @@ def run_pipeline():
         if item.get("fetched_at", 0) >= cutoff_24h:
             fresh_memory.append(item)
         else:
-            # Ha 24 óránál régebbi, biztosan elmentjük az archívumba
             if item["link"] not in existing_archive_links:
                 clean_arch_item = {k: v for k, v in item.items() if k != "embedding"}
                 archive.append(clean_arch_item)
@@ -379,7 +378,6 @@ def run_pipeline():
     os.makedirs("src/data", exist_ok=True)
     existing_news = load_json_file(OUTPUT_FILE)
     
-    # Kigyűjtjük a meglévő rekordokat a news.json-ból
     news_map = {item["group_id"]: item for item in existing_news if isinstance(item, dict) and "group_id" in item}
 
     for item in fresh_memory:
@@ -388,7 +386,6 @@ def run_pipeline():
 
         # A) HA MÁR BENT VAN A NEWS.JSON-BAN (pl. már AI szintetizált):
         if g_id in news_map:
-            # Nem bántjuk a címet/leírást és az is_synthesized állapotot, csak a forrást bővítjük!
             existing_sources = {s.get("link") for s in news_map[g_id].get("sources", [])}
             new_source_link = item.get("link")
             
@@ -398,15 +395,24 @@ def run_pipeline():
                     "title": item.get("title"),
                     "link": item.get("link")
                 })
+            
+            # 🎯 PONTOS FORRÁSSZÁM FRISSÍTÉSE
+            news_map[g_id]["sources_count"] = len(news_map[g_id]["sources"])
         
         # B) HA ÚJ HÍRCSOPORT, HOZZÁADJUK NYERSKÉNT:
         else:
+            sources_list = [{
+                "source": item.get("source"),
+                "title": item.get("title"),
+                "link": item.get("link")
+            }]
             news_map[g_id] = {
                 "group_id": g_id,
                 "category": item.get("category", "Általános"),
                 "image": item.get("image", ""),
                 "is_synthesized": False,
-                "sources": [{"source": item.get("source"), "title": item.get("title"), "link": item.get("link")}],
+                "sources_count": len(sources_list), # 🎯 PONTOS FORRÁSSZÁM ÚJ KÁRTYÁNÁL IS
+                "sources": sources_list,
                 "published_at": pub_time,
                 "title_hu": item.get("title", ""),
                 "lead_hu": item.get("summary", "")[:200] + "..." if item.get("summary") else "",
@@ -419,6 +425,12 @@ def run_pipeline():
     # 24 órán belüli érvényes cikkek megtartása és rendezése
     updated_list = list(news_map.values())
     valid_news_list = [item for item in updated_list if item.get("published_at", 0) >= cutoff_24h]
+
+    # Biztonsági ellenőrzés a mentés előtt: minden cikknél kényszerítjük a legfrissebb sources_count értéket
+    for item in valid_news_list:
+        if "sources" in item and isinstance(item["sources"], list):
+            item["sources_count"] = len(item["sources"])
+
     valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
 
     # Forrás szerinti kiegyensúlyozás (ha szükséges)
