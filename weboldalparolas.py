@@ -36,6 +36,7 @@ RSS_FEEDS = {
     "RomKat": "https://romkat.ro/feed/",
     "Hargita Népe": "https://hargitanepe.ro/rss",
 
+    # 🎯 FIX: Közvetlen Agerpres RSS URL külső proxy nélkül
     "Agerpres (HU)": "https://www.agerpres.ro/magyar/rss",
 
     "GSP - Gazeta Sporturilor": "https://www.gsp.ro/rss.xml",
@@ -244,7 +245,7 @@ def fetch_single_feed(item_and_cutoff):
     session = requests.Session()
     session.headers.update(HEADERS)
     try:
-        response = session.get(feed_url, timeout=20, allow_redirects=True)
+        response = session.get(feed_url, timeout=12, allow_redirects=True)
         response.raise_for_status()
         feed = feedparser.parse(response.content)
         for entry in feed.entries:
@@ -269,7 +270,7 @@ def run_pipeline():
     fetched_articles = []
     feed_items = [((src, url), cutoff_24h) for src, url in RSS_FEEDS.items()]
     
-    with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as executor:
+    with ThreadPoolExecutor(max_workers=min(len(RSS_FEEDS), 15)) as executor:
         results = executor.map(fetch_single_feed, feed_items)
 
     for article_list in results:
